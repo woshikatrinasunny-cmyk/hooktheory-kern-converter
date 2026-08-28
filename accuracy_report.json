@@ -1,0 +1,69 @@
+{
+  "input_path": "Hooktheory.json.gz",
+  "output_dir": "krn",
+  "source_records": 26175,
+  "output_files": 26175,
+  "missing_output_ids": [],
+  "extra_output_ids": [],
+  "duplicate_output_ids": [],
+  "case_insensitive_filename_collision_count": 2,
+  "parse_error_count": 0,
+  "parse_errors": [],
+  "metrics": {
+    "melody_exact_events": {
+      "expected": 1214348,
+      "actual": 1214348,
+      "matched": 1214348,
+      "precision_percent": 100.0,
+      "recall_percent": 100.0,
+      "f1_percent": 100.0
+    },
+    "chord_onset_symbols": {
+      "expected": 421297,
+      "actual": 421297,
+      "matched": 421297,
+      "precision_percent": 100.0,
+      "recall_percent": 100.0,
+      "f1_percent": 100.0
+    },
+    "meter_events": {
+      "expected": 27216,
+      "actual": 27216,
+      "matched": 27216,
+      "precision_percent": 100.0,
+      "recall_percent": 100.0,
+      "f1_percent": 100.0
+    },
+    "key_signature_events": {
+      "expected": 27279,
+      "actual": 27279,
+      "matched": 27279,
+      "precision_percent": 100.0,
+      "recall_percent": 100.0,
+      "f1_percent": 100.0
+    },
+    "key_designation_events": {
+      "expected": 27279,
+      "actual": 27279,
+      "matched": 27279,
+      "precision_percent": 100.0,
+      "recall_percent": 100.0,
+      "f1_percent": 100.0
+    }
+  },
+  "overall_event_fidelity": {
+    "expected": 1717419,
+    "actual": 1717419,
+    "matched": 1717419,
+    "precision_percent": 100.0,
+    "recall_percent": 100.0,
+    "f1_percent": 100.0
+  },
+  "mismatches": {},
+  "notes": [
+    "The Hooktheory JSON annotations are treated as the reference.",
+    "Melody exact events compare onset, offset, pitch class, and octave.",
+    "Chord accuracy compares chord onset and exported **mxhm symbol; **mxhm does not explicitly encode harmony offsets in these files.",
+    "This evaluates conversion fidelity, not whether the original Hooktheory annotations match the commercial recordings."
+  ]
+}

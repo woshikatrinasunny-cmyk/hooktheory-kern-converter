@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# The compressed source is kept in the repository; this expanded copy is
+# regenerated locally and exceeds GitHub's normal single-file limit.
+Hooktheory.json
