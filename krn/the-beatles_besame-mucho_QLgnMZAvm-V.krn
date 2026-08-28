@@ -16,125 +16,125 @@
 *g:	*
 *M4/4	*
 =1	=1
-8.g	Gm
-8.g	.
-8.g[	Gm
-8.g_	Gm/B-
-4g]	Gm/D
+8.gL	G minor
+8.gJ	.
+[8.g	G minor
+8.g_	G minor/B-
+4g]	G minor/D
 =2	=2
-4.r	Gm
-8r	Gm/B-
-8.g	Gm/D
-16a[	.
-8a]	Gm/B-
-8b-[	.
+4.r	G minor
+8r	G minor/B-
+8.gL	G minor/D
+[16ak	.
+8a]	G minor/B-
+[8b-J	.
 =3	=3
-16b-]	Cm/G
+16b-]	C minor/G
 4dd	.
-16cc[	.
-8cc_	Cm/G
-6...cc]	Am7b5/C
+[16ccLK	.
+8ccJ_	C minor/G
+6...cc]	A half-diminished/C
 16r	.
-8r	Am7b5/C
+8r	A half-diminished/C
 =4	=4
-4.r	Cm7/B-
-8r	Cm7/B-
-4.r	Am7b5/G
-16r	Am7b5/G
-16cc[	.
+4.r	C minor-seventh/B-
+8r	C minor-seventh/B-
+4.r	A half-diminished/G
+16r	A half-diminished/G
+[16cc	.
 =5	=5
-8cc]	Cm
+8ccL]	C minor
 8cc	.
 8cc	.
-8dd[	Cm
-16dd]	Ddim
+[8ddJ	C minor
+16ddLK]	D diminished
 8dd	.
 8dd	.
-16ee-[	.
-8ee-_	Ddim
+[16ee-k	.
+8ee-J_	D diminished
 =6	=6
-8ee-]	Cm
+8ee-]	C minor
 8r	.
-8cc[	.
-16cc]	Cm
-16dd[	.
-8dd]	D7
+[8ccL	.
+16ccL]	C minor
+[16ddJJ	.
+8ddL]	D dominant
 8.gg-	.
-16gg[	.
-8gg_	D7
+[16ggk	.
+8ggJ_	D dominant
 =7	=7
-16gg]	Gm
+16ggLK]	G minor
 8aa	.
-8.dd[	.
-8dd_	Gm
-8dd]	D7
+[8.dd	.
+8ddJ_	G minor
+8dd]	D dominant
 4r	.
-8r	D7
+8r	D dominant
 =8	=8
-2r	Gm
-4g	Gm/D
-8r	Gm/B-
-8gg-	Gm/D
+2r	G minor
+4g	G minor/D
+8r	G minor/B-
+8gg-	G minor/D
 =9	=9
-6...gg	G7
-16gg[	.
-8gg]	G7
-4gg[	G7/D
-8gg_	G7/B
-8gg]	G7/D
+6...gg	G dominant
+[16ggLK	.
+8ggJ]	G dominant
+[4gg	G dominant/D
+8ggL_	G dominant/B
+8ggJ]	G dominant/D
 =10	=10
-4.r	G7
-8ff[	G7/B
-16ff]	G7/D
+4.r	G dominant
+[8ff	G dominant/B
+16ffLK]	G dominant/D
 8.ee-	.
-8dd[	G7/B
-8dd]	G7/D
+[8dd	G dominant/B
+8ddJ]	G dominant/D
 =11	=11
-6...ff	Cm
-16ee-[	.
-8ee-_	Cm
-4ee-]	Cm/G
-4r	Cm/G
+6...ff	C minor
+[16ee-LK	.
+8ee-J_	C minor
+4ee-]	C minor/G
+4r	C minor/G
 =12	=12
-4.r	Cm7
-8r	Cm7
-8r	Dsus4/A
-8ff[	.
-8ff]	Cm
-8gg[	.
+4.r	C minor-seventh
+8r	C minor-seventh
+8r	D suspended-fourth/A
+[8ffL	.
+8ff]	C minor
+[8ggJ	.
 =13	=13
-16gg]	Gm
+16ggLK]	G minor
 8.dd	.
-8b-[	.
-16b-]	Gm/B-
-16dd[	.
-16dd]	Gm/D
+[8b-	.
+16b-L]	G minor/B-
+[16ddJJ	.
+16ddLK]	G minor/D
 8.dd	.
-8b-[	Gm/B-
-8b-]	Gm/D
+[8b-	G minor/B-
+8b-J]	G minor/D
 =14	=14
-4a	A
-8g[	.
-8g]	A
-8a	D7
+4a	A major
+[8gL	.
+8gJ]	A major
+8a	D dominant
 4b-	.
-8a[	.
+[8a	.
 =15	=15
-16a]	Gm
-6...g[	.
-8g]	Gm
-8.cc	Cm
-16b-[	.
-16b-]	Am7b5/C
+16a]	G minor
+[6...g	.
+8g]	G minor
+8.ccL	C minor
+[16b-L	.
+16b-J]	A half-diminished/C
 8a	.
-16g[	.
+[16gJk	.
 =16	=16
-8.g]	Gm
+8.gL]	G minor
 8dd	.
-8dd	.
+8ddJ	.
 4gg	.
 16r	.
-8r	Gm/D
-8r	Gm/B-
+8r	G minor/D
+8r	G minor/B-
 ==	==
 *-	*-

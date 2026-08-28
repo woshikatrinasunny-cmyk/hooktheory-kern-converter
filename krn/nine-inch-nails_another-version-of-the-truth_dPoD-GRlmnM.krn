@@ -15,80 +15,80 @@
 *a:	*
 *M4/4	*
 =1	=1
-1r	Aadd(2,6,7)
+1r	A other-2,6,7
 =2	=2
 1r	.
 =3	=3
-1r	G
+1r	G major
 =4	=4
-1r	Dm/F
+1r	D minor/F
 =5	=5
-2r	A
-2r	Aadd(2,6,7)
+2r	A major
+2r	A other-2,6,7
 =6	=6
 1r	.
 =7	=7
-1r	G
+1r	G major
 =8	=8
-1r	Dm/F
+1r	D minor/F
 =9	=9
-2r	A
-2r	Aadd(2,6,7)
+2r	A major
+2r	A other-2,6,7
 =10	=10
 1r	.
 =11	=11
-1r	G
+1r	G major
 =12	=12
-1r	Dm7/F
+1r	D minor-seventh/F
 =13	=13
-2r	A
-2r	Aadd(2,6,7)
+2r	A major
+2r	A other-2,6,7
 =14	=14
 1r	.
 =15	=15
-1r	G
+1r	G major
 =16	=16
-1r	Bm/D
+1r	B minor/D
 =17	=17
-2r	Am
-2r	Aadd(2,6,7)
+2r	A minor
+2r	A other-2,6,7
 =18	=18
 1r	.
 =19	=19
-1r	G
+1r	G major
 =20	=20
-1r	Dm/F
+1r	D minor/F
 =21	=21
-2r	A
-2r	Aadd(2,6,7)
+2r	A major
+2r	A other-2,6,7
 =22	=22
 1r	.
 =23	=23
-2r	G
-2r	Gsus4
+2r	G major
+2r	G suspended-fourth
 =24	=24
-2r	Dm/F
-4r	Dm
-4r	Esus4
+2r	D minor/F
+4r	D minor
+4r	E suspended-fourth
 =25	=25
-2r	A
-2r	Aadd(2,6,7)
+2r	A major
+2r	A other-2,6,7
 =26	=26
 1r	.
 =27	=27
-1r	G
+1r	G major
 =28	=28
-1r	Dm7/F
+1r	D minor-seventh/F
 =29	=29
-2r	A
-2r	Aadd(2,6,7)
+2r	A major
+2r	A other-2,6,7
 =30	=30
 1r	.
 =31	=31
-4r	Gsus4
-4r	G
-2r	G/B
+4r	G suspended-fourth
+4r	G major
+2r	G major/B
 =32	=32
-1r	D
+1r	D major
 ==	==
 *-	*-

@@ -15,81 +15,81 @@
 *C:	*
 *M4/4	*
 =1	=1
-8dd	C
-8ee	.
+8ddL	C major
+8eeJ	.
 8r	.
-8cc	C/G
+8cc	C major/G
 8r	.
-8g	C/E
+8g	C major/E
 8r	.
-8cc	C/G
+8cc	C major/G
 =2	=2
-8a	F
+8aL	F major
 8b	.
-8cc	.
-4b	G
-8cc	F/A
-4dd	G/B
+8ccJ	.
+4b	G major
+8cc	F major/A
+4dd	G major/B
 =3	=3
-8dd	C
-8ee	.
+8ddL	C major
+8eeJ	.
 8r	.
-8cc	C/G
+8cc	C major/G
 8r	.
-8g	C/E
-8cc	.
-8r	C/G
+8gL	C major/E
+8ccJ	.
+8r	C major/G
 =4	=4
-8a	F
+8aL	F major
 8b	.
-8cc	.
-4b[	G
-8b]	G/D
-4r	G
+8ccJ	.
+[4b	G major
+8b]	G major/D
+4r	G major
 =5	=5
-8dd	C
-8ee	.
+8ddL	C major
+8eeJ	.
 8r	.
-8cc	C/G
+8cc	C major/G
 8r	.
-8g	C/E
-8cc	.
-8r	C/G
+8gL	C major/E
+8ccJ	.
+8r	C major/G
 =6	=6
-8a	F
+8aL	F major
 8b	.
-8cc	.
-4b	G
-8cc	G/D
-8dd	G
-8dd#	G7/F
+8ccJ	.
+4b	G major
+8ccL	G major/D
+8dd	G major
+8dd#J	G dominant/F
 =7	=7
-8ee	C/E
+8eeL	C major/E
 8ff	.
-8gg	.
-4.cc	Adim/D#
+8ggJ	.
+4.cc	A diminished/D#
 4r	.
 =8	=8
-8dd	Dm7
+8ddL	D minor-seventh
 8ee	.
-8ff	.
-4b[	G
-8b]	G/D
-8r	G
-8r	G7/F
+8ffJ	.
+[4b	G major
+8b]	G major/D
+8r	G major
+8r	G dominant/F
 =9	=9
-8ee	C/E
+8eeL	C major/E
 8ff	.
-8gg	.
-4aa	Adim/D#
-8gg	.
+8ggJ	.
+4aa	A diminished/D#
+8ggL	.
 8ff	.
-8a	.
+8aJ	.
 =10	=10
-8ee	Dm7
+8eeL	D minor-seventh
 8cc	.
-8a	.
-4.g#	G
+8aJ	.
+4.g#	G major
 4r	.
 ==	==
 *-	*-

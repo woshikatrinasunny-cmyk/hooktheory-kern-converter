@@ -16,77 +16,77 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4ff	G-
+4ff	G- major
 4gg-	.
 4aa-	.
 8r	.
-8dd-[	.
+[8dd-	.
 =2	=2
 2dd-]	.
 4.bb-	.
-8aa-[	.
+[8aa-	.
 =3	=3
-1aa-]	Fm
+1aa-]	F minor
 =4	=4
 2r	.
 4ff	.
 4gg-	.
 =5	=5
-4aa-	E-m
+4aa-	E- minor
 8dd-	.
 4dd-	.
 4r	.
 8dd-	.
 =6	=6
-4ee-	A-
+4ee-	A- major
 4dd-	.
-4gg-	F
+4gg-	F major
 4ff	.
 =7	=7
-2ee-	B-m
-8r	D-aug/A
+2ee-	B- minor
+8r	D- augmented/A
 4ff	.
-8dd-[	.
+[8dd-	.
 =8	=8
-4dd-_	A-
-8dd-]	A-
-4r	A-/E-
-4r	D-
+4dd-_	A- major
+8dd-]	A- major
+4r	A- major/E-
+4r	D- major
 8r	.
 =9	=9
-4ff	G-
+4ff	G- major
 4gg-	.
 4aa-	.
 8r	.
-8dd-[	.
+[8dd-	.
 =10	=10
 2dd-]	.
 4.bb-	.
-8aa-[	.
+[8aa-	.
 =11	=11
-1aa-]	Fm
+1aa-]	F minor
 =12	=12
 2r	.
 4ff	.
 4gg-	.
 =13	=13
-4aa-	E-m
+4aa-	E- minor
 8dd-	.
 4dd-	.
 4.r	.
 =14	=14
-2r	Fm7
+2r	F minor-seventh
 4ff	.
 4gg-	.
 =15	=15
-8aa-[	G-
-8aa-]	G-
+[8aa-L	G- major
+8aa-]	G- major
 8dd-	.
-8dd-[	G-
-8dd-]	G-
-8bb-[	.
-8bb-]	G-
-8aa-[	G-
+[8dd-J	G- major
+8dd-L]	G- major
+[8bb-	.
+8bb-]	G- major
+[8aa-J	G- major
 =16	=16
 8aa-]	.
 8r	.
@@ -94,13 +94,13 @@
 4ff	.
 4gg-	.
 =17	=17
-8ff[	B-m
-8ff_	B-m
+[8ffL	B- minor
+8ff_	B- minor
 8ff_	.
-8ff_	B-m
-8ff_	B-m
+8ffJ_	B- minor
+8ffL_	B- minor
 8ff_	.
-8ff_	B-m
-8ff]	B-m
+8ff_	B- minor
+8ffJ]	B- minor
 ==	==
 *-	*-

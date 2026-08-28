@@ -16,119 +16,119 @@
 *E:	*
 *M4/4	*
 =1	=1
-8r	E
+8r	E major
+8BL	.
 8B	.
-8B	.
-8B	.
+8BJ	.
 8c#	.
 8r	.
 8c#	.
 8r	.
 =2	=2
-4c#	E7
-8c#	.
-8c#	.
+4c#	E dominant
+8c#L	.
+8c#J	.
 8r	.
 8d	.
 4r	.
 =3	=3
-4r	A#dim/E
-8B	.
-8B	.
+4r	A# diminished/E
+8BL	.
+8BJ	.
+8c#L	.
 8c#	.
-8c#	.
-8c#	.
+8c#J	.
 8r	.
 =4	=4
-8e	A7sus4/E
+8e	A dominant-seventh-suspended-fourth/E
 4e	.
 4c#	.
 4.r	.
 =5	=5
-8r	E
+8r	E major
+8BL	.
 8B	.
-8B	.
-8B	.
+8BJ	.
 8c#	.
 8r	.
 8c#	.
 8r	.
 =6	=6
-4c#	E7
-8c#	.
-8c#	.
+4c#	E dominant
+8c#L	.
+8c#J	.
 8r	.
 8d	.
 4r	.
 =7	=7
-4r	A#dim/E
-8gn	.
-8e	.
-8d	.
-8B	.
+4r	A# diminished/E
+8gnL	.
+8eJ	.
+8dL	.
+8BJ	.
 4B	.
 =8	=8
-4a	A7sus4/E
+4a	A dominant-seventh-suspended-fourth/E
 8a	.
 4gn	.
 4.r	.
 =9	=9
-8r	E
+8r	E major
+8BL	.
 8B	.
-8B	.
-8B	.
+8BJ	.
 8c#	.
 8r	.
 8c#	.
 8r	.
 =10	=10
-4.c#	E7
+4.c#	E dominant
 4c#	.
 8d	.
 4r	.
 =11	=11
-4r	A#dim
-8B	.
-8B	.
+4r	A# diminished
+8BL	.
+8BJ	.
 8c#	.
 8r	.
-8c#	.
-8c#	.
+8c#L	.
+8c#J	.
 =12	=12
-8e	A7sus4
+8e	A dominant-seventh-suspended-fourth
 4e	.
-8c#[	.
-8c#]	A7sus4/G
+[8c#	.
+8c#]	A dominant-seventh-suspended-fourth/G
 8r	.
-4r	A7sus4/D
+4r	A dominant-seventh-suspended-fourth/D
 =13	=13
-8r	E
+8r	E major
+8BL	.
 8B	.
-8B	.
-8B	.
+8BJ	.
 8c#	.
 8r	.
 8c#	.
 8r	.
 =14	=14
-4c#	E7
-8c#	.
-8c#	.
+4c#	E dominant
+8c#L	.
+8c#J	.
 8r	.
 8d	.
 4r	.
 =15	=15
-4r	A#dim
-8gn	.
-8e	.
+4r	A# diminished
+8gnL	.
+8eJ	.
 8d	.
 8r	.
 8B	.
 8r	.
 =16	=16
-4a	A7sus4
-8a	.
-8gn	.
+4a	A dominant-seventh-suspended-fourth
+8aL	.
+8gnJ	.
 2r	.
 ==	==
 *-	*-

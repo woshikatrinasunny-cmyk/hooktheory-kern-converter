@@ -16,26 +16,26 @@
 *B:	*
 *M4/4	*
 =1	=1
-2.r	B
-4r	E
+2.r	B major
+4r	E major
 =2	=2
 1r	.
 =3	=3
-2.r	G#m
-4r	E
+2.r	G# minor
+4r	E major
 =4	=4
 1r	.
 =5	=5
-2.r	B
-4r	E
+2.r	B major
+4r	E major
 =6	=6
 1r	.
 =7	=7
-1r	F#
+1r	F# major
 =8	=8
 1r	.
 =9	=9
-4dd#	B
+4dd#	B major
 4b	.
 4dd#	.
 4b	.
@@ -45,17 +45,17 @@
 4dd#	.
 4.b	.
 =11	=11
-4r	G#m
+4r	G# minor
 4dd#	.
 4dd#	.
 4dd#	.
 =12	=12
-8cc#	E
+8cc#	E major
 4b	.
 4.b	.
 4b	.
 =13	=13
-4dd#	B
+4dd#	B major
 4b	.
 4dd#	.
 4b	.
@@ -65,13 +65,13 @@
 4dd#	.
 4.b	.
 =15	=15
-4r	G#m
+4r	G# minor
 4dd#	.
-8dd#	.
-8dd#	.
+8dd#L	.
+8dd#J	.
 4dd#	.
 =16	=16
-8cc#	E
+8cc#	E major
 4b	.
 4.b	.
 4b	.

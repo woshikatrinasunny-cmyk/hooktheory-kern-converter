@@ -16,76 +16,76 @@
 *F:	*
 *M4/4	*
 =1	=1
-8F	F
+8FL	F major
 8f	.
-8A	F
-8a	.
-8B-	B-
+8A	F major
+8aJ	.
+8B-L	B- major
 8b-	.
 8c	.
-8cc	.
+8ccJ	.
 =2	=2
-8A	.
+8AL	.
 8a	.
-8d-	A
-8dd-	.
-8d	Dm
+8d-	A major
+8dd-J	.
+8dL	D minor
 8dd	.
 8e	.
-8ee	.
+8eeJ	.
 =3	=3
-8c	.
+8cL	.
 8cc	.
-8E	C
-8e	.
-8F	F
+8E	C major
+8eJ	.
+8FL	F major
 8f	.
 8G	.
-8g	.
+8gJ	.
 =4	=4
-8c	C7
+8cL	C dominant
 8cc	.
-8B-	B-
-8b-	.
-8A	Am
+8B-	B- major
+8b-J	.
+8AL	A minor
 8a	.
-8G	G
-8g	.
+8G	G major
+8gJ	.
 =5	=5
-8F	F
+8FL	F major
 8f	.
-8A	F
-8a	.
-8B-	B-
+8A	F major
+8aJ	.
+8B-L	B- major
 8b-	.
 8c	.
-8cc	.
+8ccJ	.
 =6	=6
-8A	.
+8AL	.
 8a	.
-8d-	A
-8dd-	.
-8d	Dm
+8d-	A major
+8dd-J	.
+8dL	D minor
 8dd	.
 8e	.
-8ee	.
+8eeJ	.
 =7	=7
-8c	.
+8cL	.
 8cc	.
-8E	C
-8e	.
-8F	F
+8E	C major
+8eJ	.
+8FL	F major
 8f	.
 8G	.
-8g	.
+8gJ	.
 =8	=8
-8c	C7
+8cL	C dominant
 8cc	.
-8B-	B-
-8b-	.
-8A	Am
+8B-	B- major
+8b-J	.
+8AL	A minor
 8a	.
-8G	G
-8g	.
+8G	G major
+8gJ	.
 ==	==
 *-	*-

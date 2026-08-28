@@ -15,179 +15,179 @@
 *a:	*
 *M4/4	*
 =1	=1
-8e	E
+8eL	E major
 8e	.
 8g	.
-8b[	.
-8b]	Am/C
+[8bJ	.
+8bL]	A minor/C
 8b	.
 8a	.
-8a	.
+8aJ	.
 =2	=2
-4r	F
-8a	.
-8a	.
-8r	E
-8b	.
+4r	F major
+8aL	.
+8aJ	.
+8r	E major
+8bL	.
 8g	.
-8e	.
+8eJ	.
 =3	=3
-8r	E
-8e	.
+8r	E major
+8eL	.
 8g	.
-8b	.
-8r	Am/C
-8g	.
+8bJ	.
+8r	A minor/C
+8gL	.
 8a	.
-8a	.
+8aJ	.
 =4	=4
-4r	F
-8a	.
-8a	.
-8r	E
-8b	.
+4r	F major
+8aL	.
+8aJ	.
+8r	E major
+8bL	.
 8g#	.
-8b	.
+8bJ	.
 =5	=5
-8e	E
+8eL	E major
 8e	.
 8g	.
-8b[	.
-8b]	Am/C
+[8bJ	.
+8bL]	A minor/C
 8b	.
 8a	.
-8a	.
+8aJ	.
 =6	=6
-4r	F
-8a	.
-8a	.
-8r	E
-8b	.
+4r	F major
+8aL	.
+8aJ	.
+8r	E major
+8bL	.
 8g	.
-8e	.
+8eJ	.
 =7	=7
-8r	E
-8e	.
+8r	E major
+8eL	.
 8g	.
-8b	.
-8r	Am/C
-8g	.
+8bJ	.
+8r	A minor/C
+8gL	.
 8a	.
-8a	.
+8aJ	.
 =8	=8
-4r	F
-8a	.
-8a	.
-8r	E
-8b	.
+4r	F major
+8aL	.
+8aJ	.
+8r	E major
+8bL	.
 8g#	.
-8b	.
+8bJ	.
 =9	=9
-8r	Em
+8r	E minor
+16bbLL	.
+16bb	.
+16bb	.
+16bbJ	.
+8eeJ	.
+16bbLL	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
-8ee	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-8r	Dm
+16bbJJ	.
+8r	D minor
 =10	=10
-8r	Em
+8r	E minor
+16bbLL	.
+16bb	.
+16bb	.
+16bbJ	.
+8eeJ	.
+16bbLL	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
-8ee	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-8r	Dm
+16bbJJ	.
+8r	D minor
 =11	=11
-8r	Em
+8r	E minor
+16bbLL	.
+16bb	.
+16bb	.
+16bbJ	.
+8eeJ	.
+16bbLL	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
-8ee	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-8r	Dm
+16bbJJ	.
+8r	D minor
 =12	=12
-8r	Em
+8r	E minor
+16bbLL	.
+16bb	.
+16bb	.
+16bbJ	.
+8eeJ	.
+16bbLL	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
-8ee	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-8r	Dm
+16bbJJ	.
+8r	D minor
 =13	=13
-8r	Em
+8r	E minor
+16bbLL	.
+16bb	.
+16bb	.
+16bbJ	.
+8eeJ	.
+16bbLL	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
-8ee	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-8r	Dm
+16bbJJ	.
+8r	D minor
 =14	=14
-8r	Em
+8r	E minor
+16bbLL	.
+16bb	.
+16bb	.
+16bbJ	.
+8eeJ	.
+16bbLL	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
-8ee	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	.
-8r	Dm
+16bbJJ	.
+8r	D minor
 =15	=15
-8r	Em
-16bb	Em
-16bb	Em
-4bb	Em
+8r	E minor
+16bbLL	E minor
+16bbJJ	E minor
+4bb	E minor
 8r	.
-16gg	Em
-16gg	Em
-4gg	Em
+16ggLL	E minor
+16ggJJ	E minor
+4gg	E minor
 =16	=16
 8r	.
-16aa	F
-16aa	F
-16aa	F
-16aa	F
-16aa	F
-16aa	F
+16aaLL	F major
+16aa	F major
+16aa	F major
+16aa	F major
+16aa	F major
+16aaJJ	F major
 8r	.
-16ee	Em
-16ee	Em
-16ee	Em
-16ee	Em
-8ff	F
+16eeLL	E minor
+16ee	E minor
+16ee	E minor
+16eeJ	E minor
+8ffJ	F major
 ==	==
 *-	*-

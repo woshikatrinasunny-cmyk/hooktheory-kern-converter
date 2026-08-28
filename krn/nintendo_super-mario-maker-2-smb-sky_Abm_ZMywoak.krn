@@ -16,57 +16,57 @@
 *C:	*
 *M4/4	*
 =1	=1
-8ee	C
+8ee	C major
 4cc	.
-8g[	.
-8g]	C/E
-8g	.
+[8g	.
+8gL]	C major/E
+8gJ	.
 4g#	.
 =2	=2
-8a	F
+8a	F major
 4ff	.
 8ff	.
 4.a	.
-8a	F#dim
+8a	F# diminished
 =3	=3
-8.b	Gadd(2,4,7)
+8.bL	G other-2,4,7
 8.aa	.
-8aa	.
-8.aa	G7/F
+8aaJ	.
+8.aaL	G dominant/F
 8.gg	.
-8ff	.
+8ffJ	.
 =4	=4
-8ee	C/E
+8ee	C major/E
 4cc	.
 8a	.
-4g[	Dm
-4g]	G
+[4g	D minor
+4g]	G major
 =5	=5
-8ee	C
+8ee	C major
 4cc	.
-8g[	.
-8g]	C/E
-8g	.
+[8g	.
+8gL]	C major/E
+8gJ	.
 4g#	.
 =6	=6
-8a	F
+8a	F major
 4ff	.
 8ff	.
 4.a	.
-8a	F#dim
+8a	F# diminished
 =7	=7
-8.b	G
-16ff[	.
-8ff]	F
-8ff	.
-8.ff	Em
-16ee[	.
-8ee]	Dm
-8dd	.
+8.bL	G major
+[16ffk	.
+8ff]	F major
+8ffJ	.
+8.ffL	E minor
+[16eek	.
+8ee]	D minor
+8ddJ	.
 =8	=8
-4cc[	C
-4cc]	Am7
-4r	C7/A#
-4r	Cmaj7/B
+[4cc	C major
+4cc]	A minor-seventh
+4r	C dominant/A#
+4r	C major-seventh/B
 ==	==
 *-	*-

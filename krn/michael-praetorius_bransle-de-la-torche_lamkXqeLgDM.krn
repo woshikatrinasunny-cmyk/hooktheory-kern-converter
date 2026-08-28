@@ -16,52 +16,52 @@
 *d:	*
 *M2/4	*
 =1	=1
-8.dd	Dm
-16ee	.
+8.ddL	D minor
+16eeJk	.
 16ff	.
 16r	.
 16ff	.
 16r	.
 =2	=2
-4ee	C
+4ee	C major
 16ee	.
 16r	.
 16ee	.
 16r	.
 =3	=3
-8.dd	Dm
-16dd	.
+8.ddL	D minor
+16ddJk	.
 16dd	.
 16r	.
 16dd	.
 16r	.
 =4	=4
-4cc#	A
+4cc#	A major
 4a	.
 =5	=5
-8.dd	Dm
-16ee	.
+8.ddL	D minor
+16eeJk	.
 16ff	.
 16r	.
 16ff	.
 16r	.
 =6	=6
-8.ee	C
-16ff	.
+8.eeL	C major
+16ffJk	.
 16gg	.
 16r	.
 16aa	.
 16r	.
 =7	=7
-8ff	Dm
-16ee	.
+8ffL	D minor
+16eeL	.
+16ddJJ	.
+16cc#LL	A major
 16dd	.
-16cc#	A
-16dd	.
-16ee	.
+16eeJJ	.
 16r	.
 =8	=8
-4dd	D
+4dd	D major
 16dd	.
 8.r	.
 ==	==

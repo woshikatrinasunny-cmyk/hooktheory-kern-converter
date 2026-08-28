@@ -15,59 +15,59 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.dd	Gm
+4.dd	G minor
 8cc	.
 4.dd	.
 8cc	.
 =2	=2
-8dd	C
+8ddL	C major
 8ee	.
 8ff	.
-8cc	.
+8ccJ	.
 4.a	.
 8cc	.
 =3	=3
-4.dd	F
+4.dd	F major
 8cc	.
 8dd	.
 4r	.
 8cc	.
 =4	=4
-8dd	Dm
+8ddL	D minor
 8ee	.
 8ff	.
-8gg	.
+8ggJ	.
 8aa	.
 8r	.
 8cc	.
 8r	.
 =5	=5
-4.dd	Gm
+4.dd	G minor
 8cc	.
 8dd	.
 4r	.
 8cc	.
 =6	=6
-8dd	C
+8ddL	C major
 8ee	.
 8ff	.
-8gg	.
-8ff	D-dim
+8ggJ	.
+8ff	D- diminished
 16r	.
 8ee	.
 16r	.
 8dd	.
 =7	=7
-8r	Dm
-8ee	.
+8r	D minor
+8eeL	.
 8ff	.
-8ff	.
+8ffJ	.
 8gg	.
 8r	.
 8cc	.
 8r	.
 =8	=8
-2r	Gm
-2r	C
+2r	G minor
+2r	C major
 ==	==
 *-	*-

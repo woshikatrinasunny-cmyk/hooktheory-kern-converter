@@ -16,175 +16,175 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4.dd-[	D-
-4dd-]	D-
-8cc	.
+[4.dd-	D- major
+4dd-]	D- major
+8ccL	.
 8ee-	.
-8dd-	.
+8dd-J	.
 =2	=2
-4.a-[	D-
-4a-]	D-
-8f	.
+[4.a-	D- major
+4a-]	D- major
+8fL	.
 8g-	.
-8a-	.
+8a-J	.
 =3	=3
-4a-	E-7/D-
+4a-	E- dominant/D-
 8r	.
-3...gn[	E-7/D-
+[3...gn	E- dominant/D-
 =4	=4
-4.gn_	E-7/D-
-4.gn]	E-7/D-
+4.gn_	E- dominant/D-
+4.gn]	E- dominant/D-
 4r	.
 =5	=5
-4.ee-[	E-m7b5/D-
-4ee-]	E-m7b5/D-
-8ddn	.
+[4.ee-	E- half-diminished/D-
+4ee-]	E- half-diminished/D-
+8ddnL	.
 8ff	.
-8ee-	.
+8ee-J	.
 =6	=6
-4dd-	E-m7b5/D-
+4dd-	E- half-diminished/D-
 8r	.
-4bn	E-m7b5/D-
+4bn	E- half-diminished/D-
 8.an	.
 16r	.
 8bn	.
 =7	=7
-16bn	E-m7b5/D-
+16bn	E- half-diminished/D-
 4an	.
 16r	.
-3...a-[	D-
+[3...a-	D- major
 =8	=8
-4.a-_	Fm7/C
-4.a-]	Fm7/C
+4.a-_	F minor-seventh/C
+4.a-]	F minor-seventh/C
 4r	.
 =9	=9
-4.aa-[	A-m/B
-4aa-]	A-m/B
-8ggn	.
+[4.aa-	A- minor/B
+4aa-]	A- minor/B
+8ggnL	.
 8bb-	.
-8aa-	.
+8aa-J	.
 =10	=10
-4gg-	B-7
+4gg-	B- dominant
 8r	.
-3...ff	B-7
+3...ff	B- dominant
 =11	=11
-4.gg-[	E-m
-4gg-]	E-m
-8ff	.
+[4.gg-	E- minor
+4gg-]	E- minor
+8ffL	.
 8aa-	.
-8gg-	.
+8gg-J	.
 =12	=12
-4ff	G-m
+4ff	G- minor
 8r	.
-3...ee-	G-m
+3...ee-	G- minor
 =13	=13
-4.ff[	D-/A-
-4ff]	D-/A-
-8ee-	.
+[4.ff	D- major/A-
+4ff]	D- major/A-
+8ee-L	.
 8gg-	.
-8ff	.
+8ffJ	.
 =14	=14
-16ff	A-m7
-8.ee-	.
+16ffLK	A- minor-seventh
+8.ee-J	.
 8r	.
-8an	G-m
+8an	G- minor
 8r	.
-8bn	A-m7
+8bn	A- minor-seventh
 8r	.
-8dd-[	D-
+[8dd-	D- major
 =15	=15
 4dd-_	.
-4dd-]	D-
-8f	.
+4dd-]	D- major
+8fL	.
 8g-	.
 8a-	.
-8an[	Dmaj7/D-
+[8anJ	D major-seventh/D-
 =16	=16
-8an]	.
+8anL]	.
 8a-	.
 8g-	.
-8a-	D-
+8a-J	D- major
 4r	.
-8.d-	.
-16d-	.
+8.d-L	.
+16d-Jk	.
 =17	=17
-4.g-[	Bm
-3...g-_	Bm
+[4.g-	B minor
+3...g-_	B minor
 =18	=18
-8.g-]	Bm
+8.g-L]	B minor
 8.dn	.
-8g-	Bm
-8.an	.
+8g-J	B minor
+8.anL	.
 8.g-	.
-8an	.
+8anJ	.
 =19	=19
-4.a-[	D-
-3...a-_	D-
+[4.a-	D- major
+3...a-_	D- major
 =20	=20
-4.a-_	D-
-8a-]	D-
+4.a-_	D- major
+8a-]	D- major
 4r	.
-8.d-	.
-16d-	.
+8.d-L	.
+16d-Jk	.
 =21	=21
-4.g-[	Bm
-3...g-_	Bm
+[4.g-	B minor
+3...g-_	B minor
 =22	=22
-8.g-]	Bm
+8.g-L]	B minor
 8.dn	.
-8g-	Bm
-8.an	.
+8g-J	B minor
+8.anL	.
 8.bn	.
-8an	.
+8anJ	.
 =23	=23
-16an	D-
-16bn	.
+16anLL	D- major
+16bnJJ	.
 4an	.
-3...a-[	D-
+[3...a-	D- major
 =24	=24
-4.a-_	D-
-4.a-]	D-
-8.a-	.
-16a-	.
+4.a-_	D- major
+4.a-]	D- major
+8.a-L	.
+16a-Jk	.
 =25	=25
-4.dd-[	A
-4.dd-]	A
-8bn	.
-8an	.
+[4.dd-	A major
+4.dd-]	A major
+8bnL	.
+8anJ	.
 =26	=26
-4.bn	E/A-
-4.en	E/A-
-8.en	.
-16en	.
+4.bn	E major/A-
+4.en	E major/A-
+8.enL	.
+16enJk	.
 =27	=27
-4.an[	G-m7
-4.an]	G-m7
-8a-	.
-8g-	.
+[4.an	G- minor-seventh
+4.an]	G- minor-seventh
+8a-L	.
+8g-J	.
 =28	=28
-4.a-	E/A-
-4.en	E/A-
-8.en	.
-16en	.
+4.a-	E major/A-
+4.en	E major/A-
+8.enL	.
+16enJk	.
 =29	=29
-4.g-[	E-m7
-3...g-_	E-m7
+[4.g-	E- minor-seventh
+3...g-_	E- minor-seventh
 =30	=30
-8.g-]	E-m7
+8.g-L]	E- minor-seventh
 8.d-	.
-8g-	E-m7
-8.b-	.
+8g-J	E- minor-seventh
+8.b-L	.
 8.g-	.
-8dd-	.
+8dd-J	.
 =31	=31
-4.een[	Amaj7
-4.een]	Amaj7
+[4.een	A major-seventh
+4.een]	A major-seventh
 4dd-	.
 =32	=32
-8.ee-	A-m7
-8.e-	.
-8.g-	B
+8.ee-L	A- minor-seventh
+8.e-J	.
+8.g-	B major
 8.bn	.
-4ee-	A-m7/B
+4ee-	A- minor-seventh/B
 ==	==
 *-	*-

@@ -16,102 +16,102 @@
 *g:	*
 *M4/4	*
 =1	=1
-8g	Gm
-8g	.
+8gL	G minor
+8gJ	.
 4g	.
-8g	.
+8gL	.
 8g	.
 8f	.
-8g[	.
+[8gJ	.
 =2	=2
-8g]	G-dim
+8gL]	G- diminished
 8d	.
 8d	.
+8dJ	.
+8cL	.
 8d	.
 8c	.
-8d	.
-8c	.
-8f	.
+8fJ	.
 =3	=3
-4g	Gm
+4g	G minor
 8r	.
 8g	.
 4g	.
-8f	.
-8g[	.
+8fL	.
+[8gJ	.
 =4	=4
-8g]	G-dim
+8g]	G- diminished
 4.f	.
 2r	.
 =5	=5
-4d	Gm
+4d	G minor
 4d	.
 8d	.
 4d	.
-8f[	.
+[8f	.
 =6	=6
-8f]	G-dim
+8f]	G- diminished
 4.c	.
 4r	.
-8B-	.
-8G	.
+8B-L	.
+8GJ	.
 =7	=7
-4B-	Gm
+4B-	G minor
 4B-	.
 4B-	.
-4B-[	.
+[4B-	.
 =8	=8
-4B-]	G-dim
+4B-]	G- diminished
 8G	.
 4.G	.
 4r	.
 =9	=9
-4.r	D
-8d	E-maj11#11
+4.r	D major
+8d	E- major-11th
 8g	.
-4a	D
-8dd[	.
+4a	D major
+[8dd	.
 =10	=10
-8dd]	B-
+8dd]	B- major
 4cc	.
-8g[	.
-8g]	A
+[8g	.
+8g]	A major
 4a	.
-8dd[	.
+[8dd	.
 =11	=11
-8dd]	D
+8dd]	D major
 4cc	.
-4a	E-maj11#11
-4a	D
+4a	E- major-11th
+4a	D major
 8g	.
 =12	=12
-8f	B-
+8f	B- major
 4d	.
 8r	.
-2r	A
+2r	A major
 =13	=13
-4.r	D
-8d	E-maj11#11
+4.r	D major
+8d	E- major-11th
 8g	.
-4a	D
-8dd[	.
+4a	D major
+[8dd	.
 =14	=14
-8dd]	B-
+8dd]	B- major
 4cc	.
-8een[	.
-8een]	A
+[8een	.
+8een]	A major
 4ff	.
-8dd[	.
+[8dd	.
 =15	=15
-8dd]	D
+8dd]	D major
 4cc	.
-4a	E-maj11#11
-4a	D
+4a	E- major-11th
+4a	D major
 8g	.
 =16	=16
-8f	B-
+8f	B- major
 4d	.
 8r	.
-2r	A
+2r	A major
 ==	==
 *-	*-

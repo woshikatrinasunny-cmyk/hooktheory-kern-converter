@@ -16,7 +16,7 @@
 *G:	*
 *M6/4	*
 =1	=1
-4b	G
+4b	G major
 8g	.
 4d	.
 8g	.
@@ -25,28 +25,28 @@
 4dd	.
 8b	.
 =2	=2
-8gg	G
-8ff#	.
-8gg	.
-8aa	.
-8gg	.
-8ff#	.
+8ggL	G major
+8ff#J	.
+8ggL	.
+8aaJ	.
+8ggL	.
+8ff#J	.
 4gg	.
 8dd	.
 4b	.
 8g	.
 =3	=3
-4f#	D
+4f#	D major
 8e	.
 4f#	.
 8g	.
 4a	.
-8b	.
-8cc	.
-8b	.
-8a	.
+8bL	.
+8ccJ	.
+8bL	.
+8aJ	.
 =4	=4
-4dd	D
+4dd	D major
 8cc#	.
 4dd	.
 8ee	.
@@ -55,7 +55,7 @@
 4cc	.
 8a	.
 =5	=5
-4b	G
+4b	G major
 8g	.
 4d	.
 8g	.
@@ -64,34 +64,34 @@
 4dd	.
 8b	.
 =6	=6
-8gg	G
-8ff#	.
-8gg	.
-8aa	.
-8gg	.
-8ff#	.
+8ggL	G major
+8ff#J	.
+8ggL	.
+8aaJ	.
+8ggL	.
+8ff#J	.
 4gg	.
 8dd	.
 4b	.
 8g	.
 =7	=7
-8b	G
-8cc	.
+8bL	G major
+8ccJ	.
 8dd	.
 4gg	.
 8dd	.
-4cc	D
+4cc	D major
 8a	.
 4f#	.
 8g	.
 =8	=8
-4a	G
+4a	G major
 8g	.
 4g	.
 8f#	.
 4.g	.
 8dd	.
-8cc#	.
-8cc	.
+8cc#L	.
+8ccJ	.
 ==	==
 *-	*-

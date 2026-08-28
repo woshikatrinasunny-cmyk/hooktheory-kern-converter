@@ -16,40 +16,40 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8r	B-
-8dd	.
+8r	B- major
+8ddL	.
 8b-	.
-8ee-	.
-8r	E-
-8dd	.
-8b-	B-
-8cc	.
+8ee-J	.
+8r	E- major
+8ddL	.
+8b-	B- major
+8ccJ	.
 =2	=2
-8r	Cm
-8dd	.
+8r	C minor
+8ddL	.
 8cc	.
-8ee-	.
-8r	F
-8dd	.
-8b-	E-
-8b-	.
+8ee-J	.
+8r	F major
+8ddL	.
+8b-	E- major
+8b-J	.
 =3	=3
-8r	B-
-8dd	.
+8r	B- major
+8ddL	.
 8b-	.
-8ee-	.
-8r	E-
-8dd	.
-8cc	B-
-8cc	.
+8ee-J	.
+8r	E- major
+8ddL	.
+8cc	B- major
+8ccJ	.
 =4	=4
-8r	Cm
-8dd	.
+8r	C minor
+8ddL	.
 8cc	.
-8ee-	.
-8r	F
-8dd	.
-8b-	E-
-8b-	.
+8ee-J	.
+8r	F major
+8ddL	.
+8b-	E- major
+8b-J	.
 ==	==
 *-	*-

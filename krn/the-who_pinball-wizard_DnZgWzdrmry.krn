@@ -15,64 +15,64 @@
 *B:	*
 *M4/4	*
 =1	=1
-2.r	E
-8cc#	.
-8b	.
+2.r	E major
+8cc#L	.
+8bJ	.
 =2	=2
-4b	E
-4cc#	F#
-8dd#	B
+4b	E major
+4cc#	F# major
+8dd#L	B major
 8dd#	.
 8dd#	.
-8b[	.
+[8bJ	.
 =3	=3
-8b]	E
+8bL]	E major
 8b	.
-8cc#	F#
-8b	.
-8dd#	B
+8cc#	F# major
+8bJ	.
+8dd#	B major
 4r	.
 8g#	.
 =4	=4
-4b	E
-4cc#	F#
-8dd#	B
-8dd#	.
+4b	E major
+4cc#	F# major
+8dd#L	B major
+8dd#J	.
 4b	.
 =5	=5
-4ddn	G
+4ddn	G major
 4ddn	.
 4ddn	.
 4ddn	.
 =6	=6
-8.ff#	D
-16ee	.
+8.ff#L	D major
+16eeJk	.
 4ddn	.
 8r	.
-8.r	Dsus4
-8.r	Dsus4
+8.r	D suspended-fourth
+8.r	D suspended-fourth
 =7	=7
-1r	D
+1r	D major
 =8	=8
-8cccn	D
+8cccnL	D major
 8bb	.
 8aan	.
-8ggn	C
+8ggnJ	C major
 8r	.
-8aan	G
+8aan	G major
 8r	.
 8ffn	.
 =9	=9
-8ee	D
+8ee	D major
 4.ddn	.
 2r	.
 =10	=10
-8ff#	D
+8ff#	D major
 4ggn	.
-4ff#	C
-4.ddn	G
+4ff#	C major
+4.ddn	G major
 =11	=11
-8b	D
+8b	D major
 2an	.
 4.r	.
 ==	==

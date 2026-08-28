@@ -16,107 +16,107 @@
 *C:	*
 *M4/4	*
 =1	=1
-8B	.
-16d	.
-16B	.
+8BL	.
+16dL	.
+16BJ	.
 8G#	.
-8d	.
-8B	.
+8dJ	.
+8BL	.
 8G#	.
 8F	.
-8G#	.
+8G#J	.
 =2	=2
-8B	Bdim
+8BL	B diminished
 8b	.
 8g#	.
-8d	.
-8f	G#dim
+8dJ	.
+8fL	G# diminished
 8d	.
 8B	.
-8d	.
+8dJ	.
 =3	=3
-8g#	Bdim
+8g#L	B diminished
 8f	.
 8d	.
+8fJ	.
+8g#L	D diminished
+16bL	.
+16g#J	.
 8f	.
-8g#	Ddim
-16b	.
-16g#	.
-8f	.
-8b	.
+8bJ	.
 =4	=4
-8B	G#dim
+8BL	G# diminished
 8b	.
 8g#	.
-8d	.
-8f	Bdim
+8dJ	.
+8fL	B diminished
 8d	.
 8B	.
-8d	.
+8dJ	.
 =5	=5
-8g#	Ddim
+8g#L	D diminished
 8f	.
 8d	.
-8f	.
-8b	Fdim
+8fJ	.
+8b	F diminished
 8r	.
 4r	.
 =6	=6
-8B	Ddim
-16d	.
-16B	.
+8BL	D diminished
+16dL	.
+16BJ	.
 8G#	.
-8d	.
-8f	Fdim
+8dJ	.
+8fL	F diminished
 8d	.
 8B	.
-8d	.
+8dJ	.
 =7	=7
-8g#	G#dim
+8g#L	G# diminished
 8f	.
 8d	.
+8fJ	.
+8g#L	B diminished
+16bL	.
+16g#J	.
 8f	.
-8g#	Bdim
-16b	.
-16g#	.
-8f	.
-8b	.
+8bJ	.
 =8	=8
-8B	Ddim
-16d	.
-16B	.
+8BL	D diminished
+16dL	.
+16BJ	.
 8G#	.
-8d	.
-8f	Fdim
+8dJ	.
+8fL	F diminished
 8d	.
 8B	.
-8d	.
+8dJ	.
 =9	=9
-8g#	G#dim
+8g#L	G# diminished
 8f	.
 8d	.
-8f	.
-4b	Bdim
-8dd#	.
-8cc	.
+8fJ	.
+4b	B diminished
+8dd#L	.
+8ccJ	.
 =10	=10
-8a	.
+8aL	.
 8cc	.
 8a	.
-8f#	.
-8d#	Adim
+8f#J	.
+8d#L	A diminished
 8c	.
-16A	.
-16c	.
-8A	.
+16AL	.
+16cJ	.
+8AJ	.
 =11	=11
-8F#	F#dim
+8F#L	F# diminished
 8C	.
 8c	.
-8A	.
-8F#	.
-8A	.
-4C[	Cdim
+8AJ	.
+8F#L	.
+8AJ	.
+[4C	C diminished
 =12	=12
 1C_	.
 =13	=13

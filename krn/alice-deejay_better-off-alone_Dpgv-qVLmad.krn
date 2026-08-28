@@ -16,42 +16,42 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4r	E
-8b	.
-8b	.
+4r	E major
+8bL	.
+8bJ	.
 8b	.
 4b	.
-8gg#[	.
+[8gg#	.
 =2	=2
-4gg#]	D#m
+4gg#]	D# minor
 8gg#	.
 4.ff#	.
-8ff#	.
-8ff#[	.
+8ff#L	.
+[8ff#J	.
 =3	=3
-8ff#]	G#m
+8ff#]	G# minor
 4.dd#	.
 2r	.
 =4	=4
-1r	D#add(3,5,7)/F#
+1r	D# other-3,5,7/F#
 =5	=5
-4r	Eadd(2,4,7)
-8b	.
-8b	.
+4r	E other-2,4,7
+8bL	.
+8bJ	.
 8b	.
 4b	.
-8ee[	.
+[8ee	.
 =6	=6
-4ee]	D#m
+4ee]	D# minor
 8ee	.
 4.dd#	.
-8dd#	.
-8dd#[	.
+8dd#L	.
+[8dd#J	.
 =7	=7
-8dd#]	G#m
+8dd#]	G# minor
 4.b	.
 2r	.
 =8	=8
-1r	D#add(3,5,7)/F#
+1r	D# other-3,5,7/F#
 ==	==
 *-	*-

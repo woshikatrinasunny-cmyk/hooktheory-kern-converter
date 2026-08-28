@@ -16,55 +16,55 @@
 *G:	*
 *M6/8	*
 =1	=1
-8e	C
+8eL	C major
 8g	.
-8cc	.
-4.fn	F/C
+8ccJ	.
+4.fn	F major/C
 =2	=2
-8e	C
+8eL	C major
 8g	.
-8cc	.
-4.d	Dm7/C
+8ccJ	.
+4.d	D minor-seventh/C
 =3	=3
-8e	C
+8eL	C major
 8g	.
-8cc	.
-8f#	F#dim/C
+8ccJ	.
+8f#L	F# diminished/C
 8a	.
-8cc	.
+8ccJ	.
 =4	=4
-8e	C
+8eL	C major
 8g	.
-8cc	.
-4.d#	D#add(3,9)
+8ccJ	.
+4.d#	D# other-3,9
 =5	=5
-8e	Em/B
+8eL	E minor/B
 8g	.
-8b	.
-8E	.
+8bJ	.
+8EL	.
 8G	.
-8B	.
+8BJ	.
 =6	=6
-8g	.
+8gL	.
 8b	.
-8ee	.
-8G	.
+8eeJ	.
+8GL	.
 8B	.
-8e	.
+8eJ	.
 =7	=7
-8a	Am
+8aL	A minor
 8cc	.
-8ee	.
-8A	.
+8eeJ	.
+8AL	.
 8c	.
-8e	.
+8eJ	.
 =8	=8
-8f#	F#dim
+8f#L	F# diminished
 8a	.
-8cc	.
-8AA	F#m7b5/A
+8ccJ	.
+8AAL	F# half-diminished/A
 8E	.
-8A	.
+8AJ	.
 =9	=9
 4.c	.
 4.f#	.

@@ -15,46 +15,46 @@
 *a:	*
 *M4/4	*
 =1	=1
-4dd	D
+4dd	D major
 4a	.
 4dd	.
 4r	.
 =2	=2
-8cc	C
+8cc	C major
 4cc	.
 4.cc	.
 4r	.
 =3	=3
-4b	Bm
+4b	B minor
 4b	.
+8bL	.
 8b	.
 8b	.
-8b	.
-8cc[	.
+[8ccJ	.
 =4	=4
-4cc]	Am
+4cc]	A minor
 8a	.
 3...a	.
 =5	=5
-4dd	D
+4dd	D major
 4a	.
 4dd	.
 4a	.
 =6	=6
-4cc	C
+4cc	C major
 8cc	.
 4.cc	.
 4r	.
 =7	=7
-8b	Bm
+8b	B minor
 4b	.
 4b	.
 4b	.
-8cc[	.
+[8cc	.
 =8	=8
-4cc]	F
+4cc]	F major
 4cc	.
-4cc	G
+4cc	G major
 4a	.
 ==	==
 *-	*-

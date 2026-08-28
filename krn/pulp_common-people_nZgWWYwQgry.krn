@@ -16,76 +16,76 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	C
-8r	C
-8e	C
-8e	C
-8e	C
-8e	C
-8e	C
-8e	C
+8r	C major
+8r	C major
+8eL	C major
+8eJ	C major
+8eL	C major
+8e	C major
+8e	C major
+8eJ	C major
 =2	=2
-8f[	C
-8f]	C
-8g	C
-8f[	C
-8f]	C
-8e	C
-8r	C
-8r	C
+[8fL	C major
+8f]	C major
+8g	C major
+[8fJ	C major
+8fL]	C major
+8eJ	C major
+8r	C major
+8r	C major
 =3	=3
-8r	C
-8r	C
-8e	C
-8e	C
-8e	C
-8e	C
-8e	C
-8e	C
+8r	C major
+8r	C major
+8eL	C major
+8eJ	C major
+8eL	C major
+8e	C major
+8e	C major
+8eJ	C major
 =4	=4
-8f	C
-8e[	C
-8e]	C
-8f[	C
-8f]	C
-8e	C
-8c	C
-8d	C
+8fL	C major
+[8e	C major
+8e]	C major
+[8fJ	C major
+8fL]	C major
+8e	C major
+8c	C major
+8dJ	C major
 =5	=5
-8r	G
-8r	G
-8r	G
-8r	G
-8r	G
-8r	G
-8r	G
-8r	G
+8r	G major
+8r	G major
+8r	G major
+8r	G major
+8r	G major
+8r	G major
+8r	G major
+8r	G major
 =6	=6
-8r	G
-8r	G
-8r	G
-8r	G
-8r	G
-8c	G
-8d[	G
-8d]	G
+8r	G major
+8r	G major
+8r	G major
+8r	G major
+8r	G major
+8cL	G major
+[8d	G major
+8dJ]	G major
 =7	=7
-8d	G
-8d[	G
-8d_	G
-8d]	G
-8e	G
-8f[	G
-8f_	G
-8f]	G
+8dL	G major
+[8d	G major
+8d_	G major
+8dJ]	G major
+8eL	G major
+[8f	G major
+8f_	G major
+8fJ]	G major
 =8	=8
-8e	G
-8d[	G
-8d]	G
-8e[	G
-8e]	G
-8f[	G
-8f]	G
-8r	G
+8eL	G major
+[8d	G major
+8d]	G major
+[8eJ	G major
+8eL]	G major
+[8f	G major
+8fJ]	G major
+8r	G major
 ==	==
 *-	*-

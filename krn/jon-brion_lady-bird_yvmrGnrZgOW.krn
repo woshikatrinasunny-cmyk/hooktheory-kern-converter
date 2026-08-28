@@ -16,56 +16,56 @@
 *d:	*
 *M3/4	*
 =1	=1
-2.a[	.
+[2.a	.
 =2	=2
 2.a]	.
 =3	=3
-2.a[	A/D-
+[2.a	A major/D-
 =4	=4
-2.a_	D-add(3,6,8,9)
+2.a_	D- other-3,6,8,9
 =5	=5
-2.a]	A/D-
+2.a]	A major/D-
 =6	=6
-2.g[	A7/E
+[2.g	A dominant/E
 =7	=7
-2.g]	A7/D-
+2.g]	A dominant/D-
 =8	=8
-2.f[	Dm
+[2.f	D minor
 =9	=9
-2.f]	Fmaj7/C
+2.f]	F major-seventh/C
 =10	=10
 2.a	.
 =11	=11
-2.dd[	B-
+[2.dd	B- major
 =12	=12
-2.dd]	B-add(4,6,7)
+2.dd]	B- other-4,6,7
 =13	=13
-2.cc[	Am7
+[2.cc	A minor-seventh
 =14	=14
-2.cc_	F/A
+2.cc_	F major/A
 =15	=15
-2.cc]	Gadd(3,5,7,10)
+2.cc]	G other-3,5,7,10
 =16	=16
-2.b-[	Edim/G
+[2.b-	E diminished/G
 =17	=17
-2.b-]	Aadd(1,4,7,10)/G
+2.b-]	A other-1,4,7,10/G
 =18	=18
-2.a	A
+2.a	A major
 =19	=19
-2.g	Gm/B-
+2.g	G minor/B-
 =20	=20
-2.a	B-maj7
+2.a	B- major-seventh
 =21	=21
-2.r	Gm
+2.r	G minor
 =22	=22
-2.f	B-/D
+2.f	B- major/D
 =23	=23
-2.g[	A7sus4/E
+[2.g	A dominant-seventh-suspended-fourth/E
 =24	=24
-2.g_	Em7b5
+2.g_	E half-diminished
 =25	=25
-2.g]	A7/D-
+2.g]	A dominant/D-
 =26	=26
-2.f	Faug/D-
+2.f	F augmented/D-
 ==	==
 *-	*-

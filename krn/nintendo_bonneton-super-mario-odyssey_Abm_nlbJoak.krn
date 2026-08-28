@@ -16,116 +16,116 @@
 *g:	*
 *M4/4	*
 =1	=1
-4g	Gm
-8b-	.
-8dd	.
+4g	G minor
+8b-L	.
+8ddJ	.
 4.gg	.
 8gg-	.
 =2	=2
-4ff	D-
+4ff	D- major
 4dd-	.
 4a-	.
 4dd-	.
 =3	=3
-4dd	Dm
-8a	.
-8dd	.
-8ff	.
+4dd	D minor
+8aL	.
+8ddJ	.
+8ffL	.
 8aa	.
 8gg	.
-8ff	.
+8ffJ	.
 =4	=4
-2ccc[	Fm
-4ccc_	Fadd(2,5,7)
-4ccc]	Fm
+[2ccc	F minor
+4ccc_	F other-2,5,7
+4ccc]	F minor
 =5	=5
 *k[f#c#]	*
 *D:	*
-4dd	D
-8ff#	.
-8aa	.
-2aa#	F#
+4dd	D major
+8ff#L	.
+8aaJ	.
+2aa#	F# major
 =6	=6
-4dd	D
-8ff#	.
-8ddd	.
-4ccc#	C#/F
-8gg#	.
-8ffn	.
+4dd	D major
+8ff#L	.
+8dddJ	.
+4ccc#	C# major/F
+8gg#L	.
+8ffnJ	.
 =7	=7
 *k[b-e-a-d-]	*
 *f:	*
-4aa-	Fm
-8ff	.
-8aa-	.
+4aa-	F minor
+8ffL	.
+8aa-J	.
 4ccc	.
 4aa-	.
 =8	=8
 *k[f#c#g#]	*
 *f#:	*
-4a	F#m
+4a	F# minor
 4ff#	.
-4.ffn	C#
-16aa	.
-16bb	.
+4.ffn	C# major
+16aaLL	.
+16bbJJ	.
 =9	=9
-16ccc#	F#m/C#
+16ccc#LL	F# minor/C#
 16ddd#	.
 16ccc#	.
-16ddd#	.
+16ddd#JJ	.
 4ccc#	.
-16cccn	F#add(3,6,7)/C#
+16cccnLL	F# other-3,6,7/C#
 16fff#	.
 16cccn	.
-16fff#	.
+16fff#JJ	.
 4cccn	.
 =10	=10
-16ccc#	F#m/C#
+16ccc#LL	F# minor/C#
 16ddd#	.
 16ccc#	.
-16ddd#	.
+16ddd#JJ	.
 4ccc#	.
-16cccn	F#add(3,6,7)/C#
+16cccnLL	F# other-3,6,7/C#
 16ggg#	.
 16cccn	.
-16ggg#	.
+16ggg#JJ	.
 4cccn	.
 =11	=11
 *k[f#]	*
 *e:	*
-16bb	Em/B
+16bbLL	E minor/B
 16eee	.
 16bb	.
-16eee	.
+16eeeJJ	.
 4bb	.
-16aa#	Eadd(3,6,7)/B
+16aa#LL	E other-3,6,7/B
 16eee	.
 16aa#	.
-16eee	.
+16eeeJJ	.
 4aa#	.
 =12	=12
-16bb	Em/B
+16bbLL	E minor/B
 16eee	.
 16bb	.
-16eee	.
+16eeeJJ	.
 4bb	.
-16aa#	Eadd(3,6,7)/B
+16aa#LL	E other-3,6,7/B
 16eee	.
 16aa#	.
-16eee	.
+16eeeJ	.
 8ggg	.
-8aaa	.
+8aaaJ	.
 =13	=13
-2bbb	B
+2bbb	B major
 8r	.
-8BB	.
+8BBL	.
 8D#	.
-8F#	.
+8F#J	.
 =14	=14
 3...B	.
-8ccc	.
+8cccL	.
 8.bb	.
-16gg	.
+16ggJk	.
 *k[f#c#g#]	*
 *f#:	*
 ==	==

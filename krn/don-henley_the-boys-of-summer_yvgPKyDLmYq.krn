@@ -15,76 +15,76 @@
 *F#:	*
 *M4/4	*
 =1	=1
-2r	F#
+2r	F# major
 4a#	.
 4a#	.
 =2	=2
-4.a#	F#
+4.a#	F# major
 8g#	.
 2f#	.
 =3	=3
-4.r	C#
+4.r	C# major
 8g#	.
 4g#	.
 4g#	.
 =4	=4
-8g#	C#
+8g#L	C# major
 8g#	.
 8g#	.
-8f#	.
+8f#J	.
 8g#	.
 4.a#	.
 =5	=5
-3...r	C#
+3...r	C# major
+8g#L	.
 8g#	.
-8g#	.
-8g#	.
+8g#J	.
 =6	=6
-4g#	C#
+4g#	C# major
 4c#	.
-8c#	.
-8c#	.
+8c#L	.
+8c#J	.
 4r	.
 =7	=7
-4r	Badd(2,4,7)
+4r	B other-2,4,7
 4f#	.
 4B	.
 4B	.
 =8	=8
-4.B	Badd(2,4,7)
+4.B	B other-2,4,7
 4.c#	.
 4d#	.
 =9	=9
-2r	F#
+2r	F# major
 4a#	.
 4a#	.
 =10	=10
-4.a#	F#
+4.a#	F# major
 4.g#	.
 4f#	.
 =11	=11
-4g#	C#
+4g#	C# major
 8g#	.
 4.g#	.
 4f#	.
 =12	=12
-4g#	C#
+4g#	C# major
 4g#	.
 4g#	.
 4r	.
 =13	=13
-4.g#	C#
+4.g#	C# major
 4.g#	.
 4g#	.
 =14	=14
-2a#	C#
+2a#	C# major
 2g#	.
 =15	=15
-4.f#	Badd(2,4,7)
+4.f#	B other-2,4,7
 4.B	.
 4B	.
 =16	=16
-4.B	Badd(2,4,7)
+4.B	B other-2,4,7
 4.c#	.
 4r	.
 ==	==

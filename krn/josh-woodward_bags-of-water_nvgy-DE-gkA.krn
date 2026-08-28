@@ -16,14 +16,14 @@
 *E-:	*
 *M4/4	*
 =1	=1
-8G	E-
+8GL	E- major
 8G	.
 8G	.
-8G	.
-8F	.
+8GJ	.
+8FL	.
 8E-	.
 8E-	.
-8C	.
+8CJ	.
 =2	=2
 8C	.
 4E-	.
@@ -31,57 +31,57 @@
 8r	.
 8C	.
 =3	=3
-8A-	A-
+8A-L	A- major
 8A-	.
 8A-	.
-8A-	.
-8G	.
+8A-J	.
+8GL	.
 8F	.
 8F	.
-8E-	.
+8E-J	.
 =4	=4
-8F	B-
+8F	B- major
 4F	.
 4.G	.
 8r	.
 8E-	.
 =5	=5
-8B-	E-/G
+8B-L	E- major/G
 8B-	.
 8B-	.
-8B-	.
+8B-J	.
 8B-	.
 4A-	.
 8F	.
 =6	=6
-4A-	A-
+4A-	A- major
 8G	.
 4.E-	.
 8r	.
 8C	.
 =7	=7
-8A-	Fm
-8A-	.
+8A-L	F minor
+8A-J	.
 4A-	.
-4.G	B-
+4.G	B- major
 8F	.
 =8	=8
-8F	E-
+8F	E- major
 4E-	.
 3...r	.
 =9	=9
-2.r	E-sus2
-8r	E-sus4
+2.r	E- suspended-second
+8r	E- suspended-fourth
 8BB-	.
 =10	=10
-8G	E-
+8GL	E- major
 8G	.
 8G	.
-8G	.
-8F	.
+8GJ	.
+8FL	.
 8E-	.
 8E-	.
-8C	.
+8CJ	.
 =11	=11
 8C	.
 4E-	.
@@ -89,46 +89,46 @@
 8r	.
 8C	.
 =12	=12
-8A-	A-
-8A-	.
+8A-L	A- major
+8A-J	.
 4A-	.
-8G	.
+8GL	.
 8F	.
 8F	.
-8E-	.
+8E-J	.
 =13	=13
-8F	B-
+8F	B- major
 4F	.
 4.G	.
 8r	.
 8E-	.
 =14	=14
-8B-	E-/G
-8B-	.
+8B-L	E- major/G
+8B-J	.
 4B-	.
 8B-	.
 4A-	.
 8F	.
 =15	=15
-4A-	A-
+4A-	A- major
 8.G	.
 6...E-	.
 8r	.
 8C	.
 =16	=16
-8A-	Fm
+8A-L	F minor
 8A-	.
 8A-	.
-8A-	.
-4.G	B-
+8A-J	.
+4.G	B- major
 8F	.
 =17	=17
-8F	E-
+8F	E- major
 4E-	.
 3...r	.
 =18	=18
-2.r	E-7
-8E-	.
-8E-	A-
+2.r	E- dominant
+8E-L	.
+8E-J	A- major
 ==	==
 *-	*-

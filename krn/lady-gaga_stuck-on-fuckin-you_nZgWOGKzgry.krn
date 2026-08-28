@@ -16,61 +16,61 @@
 *A:	*
 *M4/4	*
 =1	=1
-8r	A
-8cn	.
-8cn	.
+8r	A major
+8cnL	.
+8cnJ	.
 4.cn	.
-8r	G
-8r	G#dim
+8r	G major
+8r	G# diminished
 =2	=2
-8r	A
-8cn	.
-8cn	.
+8r	A major
+8cnL	.
+8cnJ	.
 4.cn	.
-16r	G
-8.r	G#dim
+16r	G major
+8.r	G# diminished
 =3	=3
-8r	A
+8r	A major
+8cnL	.
 8cn	.
-8cn	.
-8A	.
-8ccn	.
-8A	.
-8r	G
-8Gn	G#dim
+8AJ	.
+8ccnL	.
+8AJ	.
+8r	G major
+8Gn	G# diminished
 =4	=4
-8cn	A
+8cn	A major
 4cn	.
 4cn	.
-8cn	.
-16B[	G
-16B]	G#dim
-8cn	.
+8cnL	.
+[16BL	G major
+16BJ]	G# diminished
+8cnJ	.
 =5	=5
-8B	D
+8BL	D major
 8A	.
 8Gn	.
-8cn	.
-4A[	.
-8A_	C
-16A]	C#dim
+8cnJ	.
+[4A	.
+8AL_	C major
+16AJk]	C# diminished
 16r	.
 =6	=6
-8r	D
-8cn	.
+8r	D major
+8cnL	.
 8B	.
-8cn	.
+8cnJ	.
 8B	.
 4A	.
 8ccn	.
 =7	=7
-6...a	A
+6...a	A major
 4..r	.
-8r	G
-8r	G#dim
+8r	G major
+8r	G# diminished
 =8	=8
-2.r	A
-16r	G
-8.r	G#dim
+2.r	A major
+16r	G major
+8.r	G# diminished
 ==	==
 *-	*-

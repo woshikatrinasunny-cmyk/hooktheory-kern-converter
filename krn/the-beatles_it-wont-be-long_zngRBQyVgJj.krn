@@ -16,51 +16,51 @@
 *E:	*
 *M4/4	*
 =1	=1
-4b	E
+4b	E major
 4b	.
-4r	E/B
-4r	E
+4r	E major/B
+4r	E major
 =2	=2
-8b	D#aug
+8bL	D# augmented
 8cc#	.
-8cc#	.
+8cc#J	.
 4b	.
+8bL	.
 8b	.
-8b	.
-8g#	.
+8g#J	.
 =3	=3
-8b	Dadd(4,7,9)
-8b	.
+8bL	D other-4,7,9
+8bJ	.
 3...r	.
 8b	.
 =4	=4
-8cc#	C#7
+8cc#L	C# dominant
 8b	.
-8g#	.
+8g#J	.
 4fn	.
 4.r	.
 =5	=5
-4a	A
+4a	A major
 4a	.
 4a	.
-8a	.
-8f#	.
+8aL	.
+8f#J	.
 =6	=6
-8g#	B
+8g#	B major
 4g#	.
 4f#	.
+8eeL	.
 8ee	.
-8ee	.
-8cc#	.
+8cc#J	.
 =7	=7
-8ee	F#7
-8cc#	.
+8eeL	F# dominant
+8cc#J	.
 4r	.
-8.gg#	F#7sus2
+8.gg#L	F# dominant-seventh-suspended-second
 8.ff#	.
-8ee	.
+8eeJ	.
 =8	=8
-2ff#	B7
+2ff#	B dominant
 2r	.
 ==	==
 *-	*-

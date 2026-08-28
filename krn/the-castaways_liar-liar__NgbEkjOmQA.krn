@@ -16,72 +16,72 @@
 *c:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4cc	.
-4b-	Cm7
+4b-	C minor-seventh
 4r	.
 =2	=2
-8b-	Gm
+8b-	G minor
 4b-	.
-3...a	F
+3...a	F major
 =3	=3
-8r	C
+8r	C major
+8ccL	.
 8cc	.
-8cc	.
-8cc	.
-8b-	Cm7
+8ccJ	.
+8b-L	C minor-seventh
 8b-	.
 8b-	.
-8b-	.
+8b-J	.
 =4	=4
-8b-	Gm
+8b-L	G minor
 8b-	.
-8b-	.
-3...a	F
+8b-J	.
+3...a	F major
 =5	=5
-4c	C
+4c	C major
 4c	.
-8e-	Cm7
+8e-	C minor-seventh
 4.e-	.
 =6	=6
-8d	Gm
+8d	G minor
 4d	.
-4c	F
+4c	F major
 4.r	.
 =7	=7
-4c	C
+4c	C major
 4c	.
-8e-	Cm7
+8e-	C minor-seventh
 4.e-	.
 =8	=8
-8d	Gm
+8dL	G minor
 8d	.
-8d	.
-4c	F
+8dJ	.
+4c	F major
 4.r	.
 =9	=9
-4c	C
-8c	.
-8c	.
-8e-	Cm7
+4c	C major
+8cL	.
+8cJ	.
+8e-	C minor-seventh
 4.e-	.
 =10	=10
-8d	Gm
+8dL	G minor
 8d	.
-8d	.
-4c	F
+8dJ	.
+4c	F major
 4.r	.
 =11	=11
-4c	C
-8c	.
-8c	.
-8e-	Cm7
+4c	C major
+8cL	.
+8cJ	.
+8e-	C minor-seventh
 4.e-	.
 =12	=12
-8d	Gm
+8dL	G minor
 8d	.
-8d	.
-4c	F
+8dJ	.
+4c	F major
 4.r	.
 ==	==
 *-	*-

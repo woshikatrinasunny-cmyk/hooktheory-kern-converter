@@ -16,130 +16,130 @@
 *e:	*
 *M4/4	*
 =1	=1
-4ee	Em
+4ee	E minor
 4gg	.
-4dd	Bm7
+4dd	B minor-seventh
 4ee	.
 =2	=2
-4b	Am7
+4b	A minor-seventh
 4dd	.
-4g	Fmaj7
+4g	F major-seventh
 4a	.
 =3	=3
-3...b	F#7sus4
-8a	.
+3...b	F# dominant-seventh-suspended-fourth
+8aL	.
 8g	.
-8a	.
+8aJ	.
 =4	=4
-1b	B
+1b	B major
 =5	=5
-4e	Em
-16B	.
-16g	.
+4e	E minor
+16BLL	.
+16gJ	.
+8aJ	.
+8bL	.
+16ccL	.
+16bJ	.
 8a	.
-8b	.
-16cc	.
-16b	.
-8a	.
-8g	.
+8gJ	.
 =6	=6
-8a	Bm7
+8a	B minor-seventh
 8r	.
 4b	.
 4f#	.
 4d	.
 =7	=7
-4e	Am7
+4e	A minor-seventh
 4b	.
-4a	D
+4a	D major
 4dd	.
 =8	=8
-2b[	Bm7
-4b]	E
-8b	.
-8a	.
+[2b	B minor-seventh
+4b]	E major
+8bL	.
+8aJ	.
 =9	=9
-4g	Cmaj7
-8e	.
-8f#	.
+4g	C major-seventh
+8eL	.
+8f#J	.
 4g	.
 4a	.
 =10	=10
-4f#	D
+4f#	D major
 4d	.
-4e	C#m7
-8B	.
-8d	.
+4e	C# minor-seventh
+8BL	.
+8dJ	.
 =11	=11
-4e	Cmaj7
-16e	.
-16a	.
-8b	.
-8a	Bm
-16b	.
-16a	.
+4e	C major-seventh
+16eLL	.
+16aJ	.
+8bJ	.
+8aL	B minor
+16bL	.
+16aJJ	.
 4f#	.
 =12	=12
-2e[	A/C#
-2e]	B7/D#
+[2e	A major/C#
+2e]	B dominant/D#
 =13	=13
-4e	Em
-16B	.
-16g	.
+4e	E minor
+16BLL	.
+16gJ	.
+8aJ	.
+8bL	.
+16ccL	.
+16bJ	.
 8a	.
-8b	.
-16cc	.
-16b	.
-8a	.
-8g	.
+8gJ	.
 =14	=14
-8a	Bm7
+8a	B minor-seventh
 8r	.
 4b	.
 4f#	.
 4d	.
 =15	=15
-4e	Am7
+4e	A minor-seventh
 4b	.
-4a	D
-8dd	.
-16ee	.
-16dd	.
+4a	D major
+8ddL	.
+16eeL	.
+16ddJJ	.
 =16	=16
-2b[	E7sus2
-4b]	Bm7b5/F
-8b	.
-8dd	.
+[2b	E dominant-seventh-suspended-second
+4b]	B half-diminished/F
+8bL	.
+8ddJ	.
 =17	=17
-4ee	F#7sus4
+4ee	F# dominant-seventh-suspended-fourth
 4b	.
-8gg	Bm7
-16ff#	.
-16gg	.
+8ggL	B minor-seventh
+16ff#L	.
+16ggJ	.
 8ee	.
-8dd	.
+8ddJ	.
 =18	=18
-4b	Cmaj7
-8ff#	.
-16gg	.
-16ff#	.
-8ee	C#m7
+4b	C major-seventh
+8ff#L	.
+16ggL	.
+16ff#JJ	.
+8ee	C# minor-seventh
 8r	.
-8ee	.
-8gg	.
+8eeL	.
+8ggJ	.
 =19	=19
-4.aa	Am7
+4.aa	A minor-seventh
 8bb	.
-8ff#	Bm7
+8ff#L	B minor-seventh
 8gg	.
 8aa	.
-8dd	.
+8ddJ	.
 =20	=20
-4ee[	Em
-16ee_	D
-16ee_	D
-8ee_	D
-4ee]	Esus4
-4d	Bm
+[4ee	E minor
+16eeLL_	D major
+16eeJ_	D major
+8eeJ_	D major
+4ee]	E suspended-fourth
+4d	B minor
 ==	==
 *-	*-

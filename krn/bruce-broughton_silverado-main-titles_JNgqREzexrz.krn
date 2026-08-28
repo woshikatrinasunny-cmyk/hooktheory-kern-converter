@@ -16,59 +16,59 @@
 *C:	*
 *M4/4	*
 =1	=1
-4g	C
-8.c	.
-16g	.
+4g	C major
+8.cL	.
+16gJk	.
 8f	.
-4cc	Fadd(2,4,7)/C
-16cc	.
-16ee	.
+4cc	F other-2,4,7/C
+16ccLL	.
+16eeJJ	.
 =2	=2
-4dd	C
+4dd	C major
 4cc	.
-8f[	.
-8f]	Fadd(2,4,7)/C
+[8fL	.
+8fJ]	F other-2,4,7/C
 4r	.
 =3	=3
-4g	C
-8.c	.
-16g	.
-8f	Fadd(2,4,7)/A
+4g	C major
+8.cL	.
+16gJk	.
+8fL	F other-2,4,7/A
 8e	.
 8d	.
-8c	.
+8cJ	.
 =4	=4
-4f	A#add(2,4,7)
-4e	C
-2d	G
+4f	A# other-2,4,7
+4e	C major
+2d	G major
 =5	=5
-8r	C
-8c	.
+8r	C major
+8cL	.
 8.g	.
-16c	.
+16cJk	.
 8f	.
-4.cc	Fadd(2,4,7)/C
+4.cc	F other-2,4,7/C
 =6	=6
-8r	C/E
-8g	.
+8r	C major/E
+8gL	.
 8.cc	.
-16ee	.
-8dd[	.
-4.dd]	D
+16eeJk	.
+[8dd	.
+4.dd]	D major
 =7	=7
-8r	C/G
-8ggg	.
+8r	C major/G
+8gggL	.
 8fff	.
-8eee	.
-8fff	G11
-8eee	.
-4ccc[	.
+8eeeJ	.
+8fffL	G dominant-11th
+8eeeJ	.
+[4ccc	.
 =8	=8
 4ccc]	.
-8.gg	.
-16ccc	.
+8.ggL	.
+16cccJk	.
 6...ddd	.
-16ddd	.
-8ddd	.
+16dddLK	.
+8dddJ	.
 ==	==
 *-	*-

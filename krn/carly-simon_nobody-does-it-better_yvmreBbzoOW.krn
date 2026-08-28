@@ -16,55 +16,55 @@
 *F:	*
 *M4/4	*
 =1	=1
-4r	B-
-16e	.
+4r	B- major
+16eLL	.
 16d	.
 16e	.
-16f[	.
-4.f]	Gm7b5/B-
+[16fJJ	.
+4.f]	G half-diminished/B-
 8F	.
 =2	=2
-8A	Fadd(2,4,7)
-8c[	.
-2.c]	F7
+8AL	F other-2,4,7
+[8cJ	.
+2.c]	F dominant
 =3	=3
-4r	B-
-16e	.
+4r	B- major
+16eLL	.
 16d	.
 16e	.
-16f[	.
-6...f]	Gm7b5/B-
-8g	.
-16f	.
+[16fJJ	.
+6...f]	G half-diminished/B-
+8gL	.
+16fJk	.
 =4	=4
-4A[	Fadd(2,4,7)
-2.A]	F7
+[4A	F other-2,4,7
+2.A]	F dominant
 =5	=5
-4r	B-
-16e	.
+4r	B- major
+16eLL	.
 16d	.
 16e	.
-16f[	.
-8f]	Gm7b5/B-
-4.g[	.
+[16fJJ	.
+8f]	G half-diminished/B-
+[4.g	.
 =6	=6
-8g]	A7
+8g]	A dominant
 4b-	.
 8a	.
-16g	Dsus4
-8.a	.
-4f	Dm
+16gLK	D suspended-fourth
+8.aJ	.
+4f	D minor
 =7	=7
-4.r	Gm7
-8a[	.
-8a]	C7sus4
-16g	.
+4.r	G minor-seventh
+[8a	.
+8aL]	C dominant-seventh-suspended-fourth
+16gJk	.
 4f	.
 16g	.
 =8	=8
-4f[	F
-4f_	F7
-4f_	Fdim
-4f]	Edim
+[4f	F major
+4f_	F dominant
+4f_	F diminished
+4f]	E diminished
 ==	==
 *-	*-

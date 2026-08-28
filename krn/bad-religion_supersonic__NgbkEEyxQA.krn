@@ -15,77 +15,77 @@
 *e:	*
 *M4/4	*
 =1	=1
-8b	Em
+8bL	E minor
 8b	.
 8b	.
-8b	.
-8b	G
-8b	Em
-16b	.
-16b	.
-8b	.
+8bJ	.
+8bL	G major
+8b	E minor
+16bL	.
+16bJ	.
+8bJ	.
 =2	=2
-8cc	C
+8ccL	C major
 8cc	.
 8cc	.
-8cc	.
-8cc	B
+8ccJ	.
+8cc	B major
 4b	.
 8r	.
 =3	=3
-8r	Em
+8r	E minor
+8bL	.
 8b	.
+16bL	.
+16bJJ	.
+8bL	G major
+8b	E minor
 8b	.
-16b	.
-16b	.
-8b	G
-8b	Em
-8b	.
-8b	.
+8bJ	.
 =4	=4
-8cc	C
+8ccL	C major
 8cc	.
 8cc	.
-8cc	.
-8b	B
+8ccJ	.
+8bL	B major
 8b	.
 8b	.
-8g	.
+8gJ	.
 =5	=5
-8r	Em
-8b	.
-16b	.
-16b	.
-8b	.
-8cc[	G
-16cc]	Em
-8.b	.
+8r	E minor
+8bL	.
+16bL	.
+16bJ	.
+8bJ	.
+[8ccL	G major
+16cck]	E minor
+8.bJ	.
 8r	.
 =6	=6
-8r	C
+8r	C major
+8gL	.
 8g	.
-8g	.
-8a	.
-8g	B
+8aJ	.
+8g	B major
 4f#	.
 8r	.
 =7	=7
-8r	Em
+8r	E minor
+8bL	.
 8b	.
+8bJ	.
+8bL	G major
+8b	E minor
 8b	.
-8b	.
-8b	G
-8b	Em
-8b	.
-8b	.
+8bJ	.
 =8	=8
-8cc	C
-16b	.
-8cc	.
+8ccL	C major
+16bk	.
+8ccJ	.
 8.r	.
-8r	B
+8r	B major
+8eeL	.
 8ee	.
-8ee	.
-8ee	.
+8eeJ	.
 ==	==
 *-	*-

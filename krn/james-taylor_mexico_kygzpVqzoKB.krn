@@ -16,56 +16,56 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4r	F#
-4a#[	.
-4.a#]	D#m
+4r	F# major
+[4a#	.
+4.a#]	D# minor
 8g#	.
 =2	=2
-4g#	C#
-8f#	.
-8f#[	.
-8f#]	B
+4g#	C# major
+8f#L	.
+[8f#J	.
+8f#]	B major
 4.r	.
 =3	=3
-8.dd#	F#
+8.dd#L	F# major
 8.cc#	.
-8cc#	.
-4a#	D#m
-8a#	.
-8a#[	.
+8cc#J	.
+4a#	D# minor
+8a#L	.
+[8a#J	.
 =4	=4
-8a#]	C#
+8a#L]	C# major
 8g#	.
 8f#	.
-8f#[	.
-4f#]	B
+[8f#J	.
+4f#]	B major
 4r	.
 =5	=5
-8dd#	F#
+8dd#	F# major
 4cc#	.
 8dd#	.
-8r	D#m
+8r	D# minor
+8a#L	.
 8a#	.
-8a#	.
-8a#	.
+8a#J	.
 =6	=6
-8r	C#
+8r	C# major
+8g#L	.
 8g#	.
-8g#	.
-8f#	.
-4f#	B
+8f#J	.
+4f#	B major
 4r	.
 =7	=7
-8en	A
+8en	A major
 4d#	.
-8d#[	.
-8d#]	E/G#
+[8d#	.
+8d#L]	E major/G#
 8c#	.
 8c#	.
-8c#[	.
+[8c#J	.
 =8	=8
-8c#]	F#
-8d#	.
+8c#L]	F# major
+8d#J	.
 2.r	.
 ==	==
 *-	*-

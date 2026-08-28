@@ -16,26 +16,26 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8dd#	F#maj9
+8dd#	F# major-ninth
 2..cc#	.
 =2	=2
-16g#	Emaj7
+16g#LL	E major-seventh
 16a#	.
-16g#	.
-2.f#[	.
+16g#JJ	.
+[2.f#	.
 16f#]	.
 =3	=3
-4f#	B
+4f#	B major
 8r	.
 8f#	.
-8g#	C#
+8g#L	C# major
 8a#	.
 8cc#	.
-8a#[	D#m7
+[8a#J	D# minor-seventh
 =4	=4
 2a#]	.
 4r	.
-8r	Eadd(2,4,7)
-8r	E#dim
+8r	E other-2,4,7
+8r	E# diminished
 ==	==
 *-	*-

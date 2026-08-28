@@ -16,16 +16,16 @@
 *a:	*
 *M4/4	*
 =1	=1
-2r	F
+2r	F major
 4g	.
 4a	.
 =2	=2
-4cc	Am
+4cc	A minor
 4a	.
 4gg	.
-4ee[	.
+[4ee	.
 =3	=3
-4ee]	G
+4ee]	G major
 4r	.
 4g	.
 4a	.
@@ -33,19 +33,19 @@
 4cc	.
 4a	.
 4gg	.
-4ee[	.
+[4ee	.
 =5	=5
-4ee]	F
+4ee]	F major
 4r	.
 4g	.
 4a	.
 =6	=6
-4cc	Am
+4cc	A minor
 4a	.
 4gg	.
-4ee[	.
+[4ee	.
 =7	=7
-4ee]	G
+4ee]	G major
 4dd	.
 4cc	.
 4dd	.
@@ -56,16 +56,16 @@
 8dd	.
 4a	.
 =9	=9
-2r	F
+2r	F major
 4g	.
 4a	.
 =10	=10
-4cc	Am
+4cc	A minor
 4a	.
 4aa	.
-4ee[	.
+[4ee	.
 =11	=11
-4ee]	G
+4ee]	G major
 4r	.
 4g	.
 4a	.
@@ -73,24 +73,24 @@
 4cc	.
 4a	.
 4aa	.
-4ee[	.
+[4ee	.
 =13	=13
-4ee]	F
+4ee]	F major
 4r	.
 4g	.
 4a	.
 =14	=14
-4cc	Am
+4cc	A minor
 4a	.
 4gg	.
-4ee[	.
+[4ee	.
 =15	=15
-4ee]	Em
+4ee]	E minor
 4dd	.
 4cc	.
 4dd	.
 =16	=16
-4ee	Em/G
+4ee	E minor/G
 8dd	.
 4cc	.
 8dd	.

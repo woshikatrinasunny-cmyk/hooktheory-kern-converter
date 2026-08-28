@@ -16,84 +16,84 @@
 *c:	*
 *M4/4	*
 =1	=1
-8r	Cm
-8c	.
+8r	C minor
+8cL	.
 8e-	.
-8f	.
-8g	.
+8fJ	.
+8gL	.
 8b-	.
 8cc	.
-16f	.
-16g[	.
+16fL	.
+[16gJJ	.
 =2	=2
-8g]	E-add(2,4,7)/B-
+8gL]	E- other-2,4,7/B-
 8f	.
 8e-	.
-8c	.
-8e-	.
+8cJ	.
+8e-L	.
 8f	.
 8g	.
-8f[	.
+[8fJ	.
 =3	=3
-8f]	Adim
-8e-	.
+8fL]	A diminished
+8e-J	.
 2.c	.
 =4	=4
-3...r	F
-4r	B-
-8r	Cm
+3...r	F major
+4r	B- major
+8r	C minor
 =5	=5
 8r	.
-8c	.
+8cL	.
 8e-	.
-8f	.
-16g-	.
-16g	.
+8fJ	.
+16g-LL	.
+16gJ	.
 8b-	.
 8cc	.
-8ee-[	.
+[8ee-J	.
 =6	=6
-8ee-]	Gm7b5/B-
+8ee-L]	G half-diminished/B-
 8cc	.
 8b-	.
-8cc[	.
-8cc]	A7
+[8ccJ	.
+8ccL]	A dominant
 8ee-	.
-8gg	.
+8ggJ	.
 8r	.
 =7	=7
-1r	A-
+1r	A- major
 =8	=8
-1r	Cm7
+1r	C minor-seventh
 =9	=9
-3...r	A-
-4.r	E-add(2,4,7)/B-
+3...r	A- major
+4.r	E- other-2,4,7/B-
 =10	=10
-1r	Cm
+1r	C minor
 =11	=11
-4r	Fm
-4r	Gm
-4.r	A-
-8r	B-
+4r	F minor
+4r	G minor
+4.r	A- major
+8r	B- major
 =12	=12
 4r	.
-2.r	Cm7
+2.r	C minor-seventh
 =13	=13
-4r	Fm
-4r	Gm
-4.r	A-
-8r	B-
+4r	F minor
+4r	G minor
+4.r	A- major
+8r	B- major
 =14	=14
 8r	.
-4.r	Cm7
-2r	Gm7b5/B-
+4.r	C minor-seventh
+2r	G half-diminished/B-
 =15	=15
-2r	A-
-2r	Gm
+2r	A- major
+2r	G minor
 =16	=16
-4r	Fm
-4r	Gm
-4r	A-
-4r	B-
+4r	F minor
+4r	G minor
+4r	A- major
+4r	B- major
 ==	==
 *-	*-

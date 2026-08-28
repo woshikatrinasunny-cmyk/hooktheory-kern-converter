@@ -16,56 +16,56 @@
 *F:	*
 *M6/4	*
 =1	=1
-4.f	F
-4.r	F
-4r	F
+4.f	F major
+4.r	F major
+4r	F major
 8f	.
-4f	F
+4f	F major
 8f	.
 =2	=2
-4.b-	B-
-4.b-	B-
-4.a	F
-4f	F
+4.b-	B- major
+4.b-	B- major
+4.a	F major
+4f	F major
 8f	.
 =3	=3
-4.f	F
-4.r	F
-4r	F
+4.f	F major
+4.r	F major
+4r	F major
 8f	.
-4.f	F
+4.f	F major
 =4	=4
-4b-	B-
+4b-	B- major
 8b-	.
-4.b-	B-
-4.a	F
-4.f	F
+4.b-	B- major
+4.a	F major
+4.f	F major
 =5	=5
-4.f	F
-4.r	F
-4r	F
+4.f	F major
+4.r	F major
+4r	F major
 8f	.
-4f	F
+4f	F major
 8f	.
 =6	=6
-4.b-	B-
-4.b-	B-
-4.a	F
-4f	F
+4.b-	B- major
+4.b-	B- major
+4.a	F major
+4f	F major
 8f	.
 =7	=7
-4.g	C
-4g	C
-8g[	.
-4g]	C
-8f[	.
-4f]	C
-8g[	.
+4.g	C major
+4g	C major
+[8g	.
+4g]	C major
+[8f	.
+4f]	C major
+[8g	.
 =8	=8
-4.g_	C
-8g]	C
+4.g_	C major
+8g]	C major
 4r	.
-4.r	C
-4.r	C
+4.r	C major
+4.r	C major
 ==	==
 *-	*-

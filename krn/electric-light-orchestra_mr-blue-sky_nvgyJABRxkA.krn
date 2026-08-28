@@ -16,7 +16,7 @@
 *F:	*
 *M4/4	*
 =1	=1
-4f	F
+4f	F major
 8f	.
 4f	.
 8r	.
@@ -33,58 +33,58 @@
 4f	.
 4f	.
 =4	=4
-2e	Em7
-4.e	A
+2e	E minor-seventh
+4.e	A major
 8e	.
 =5	=5
-4d	Dm7
+4d	D minor-seventh
 4r	.
 4f	.
-8f	.
-8e[	.
+8fL	.
+[8eJ	.
 =6	=6
-8e]	G
+8e]	G major
 4d	.
 8r	.
 4d	.
-8d	.
-8e[	.
+8dL	.
+[8eJ	.
 =7	=7
-4e]	Em7
+4e]	E minor-seventh
 8e	.
 4e	.
 4e	.
-8d-[	.
+[8d-	.
 =8	=8
-8d-]	A
+8d-]	A major
 4d-	.
 8r	.
 4d-	.
-8d-	.
-8d[	.
+8d-L	.
+[8dJ	.
 =9	=9
-4d]	B-
+4d]	B- major
 4r	.
 4f	.
-8f	.
-8f[	.
+8fL	.
+[8fJ	.
 =10	=10
-4f]	C11
+4f]	C dominant-11th
 4e	.
 4d	.
 4e	.
 =11	=11
-2r	D-
+2r	D- major
 4f	.
-8f	.
-8f[	.
+8fL	.
+[8fJ	.
 =12	=12
-4f]	E-
+4f]	E- major
 4e-	.
 4d-	.
 4e-	.
 =13	=13
-4d	Dm
+4d	D minor
 2.r	.
 ==	==
 *-	*-

@@ -16,79 +16,79 @@
 *E-:	*
 *M4/4	*
 =1	=1
-8G	E-
+8GL	E- major
 8G	.
 8G	.
-8F	F
-8D	Gm
+8FJ	F major
+8DL	G minor
 8D	.
 8D	.
-8En	A
+8EnJ	A major
 =2	=2
-8F	B-
+8FL	B- major
 8F	.
 8F	.
-8F	.
-8En	C
+8FJ	.
+8EnL	C major
 8En	.
 8En	.
-8En	.
+8EnJ	.
 =3	=3
-8G	E-
+8GL	E- major
 8G	.
 8G	.
-8F	F
-8D	Gm
+8FJ	F major
+8DL	G minor
 8D	.
 8D	.
-8En	A
+8EnJ	A major
 =4	=4
-8F	B-
+8FL	B- major
 8F	.
 8F	.
-8F	.
-4En	C
+8FJ	.
+4En	C major
 4r	.
 =5	=5
-8EE-	E-
+8EE-L	E- major
 8EE-	.
 8EE-	.
-8FF	F
-8GG	Gm
+8FFJ	F major
+8GGL	G minor
 8FF	.
 8GG	.
-8AAn	A
+8AAnJ	A major
 =6	=6
-8BB-	B-
+8BB-L	B- major
 8AAn	.
 8BB-	.
-8BBn	.
-8C	C
+8BBnJ	.
+8CL	C major
 8C	.
 8C	.
-8C	.
+8CJ	.
 =7	=7
-8EE-	E-
+8EE-L	E- major
 8EE-	.
 8EE-	.
-8FF	F
-8GG	Gm
+8FFJ	F major
+8GGL	G minor
 8FF	.
 8GG	.
-8AAn	A
+8AAnJ	A major
 =8	=8
-8BB-	B-
+8BB-L	B- major
 8AAn	.
 8BB-	.
-8BBn	.
-8C	C
+8BBnJ	.
+8CL	C major
 8C	.
 8C	.
-8C	.
+8CJ	.
 =9	=9
-2.g	E-
+2.g	E- major
 4g	.
 =10	=10
-1c	Fadd(2,4,7)
+1c	F other-2,4,7
 ==	==
 *-	*-

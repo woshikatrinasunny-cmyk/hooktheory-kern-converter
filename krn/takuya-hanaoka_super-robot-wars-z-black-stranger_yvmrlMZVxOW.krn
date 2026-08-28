@@ -16,8 +16,8 @@
 *d:	*
 *M4/4	*
 =1	=1
-4r	Dm
-2.d[	.
+4r	D minor
+[2.d	.
 =2	=2
 4.d]	.
 8r	.
@@ -27,32 +27,32 @@
 16r	.
 8f	.
 =3	=3
-1b-[	B-
+[1b-	B- major
 =4	=4
 2b-]	.
 8r	.
-8a	.
+8aL	.
 8g	.
-8B-[	.
+[8B-J	.
 =5	=5
-1B-_	Gm
+1B-_	G minor
 =6	=6
 2B-]	.
 8r	.
-8d	.
+8dL	.
 8f	.
-8e[	.
+[8eJ	.
 =7	=7
-3...e]	Am
+3...e]	A minor
 8r	.
-8b-	.
-8a[	.
+8b-L	.
+[8aJ	.
 =8	=8
 3...a]	.
-4.r	Am
+4.r	A minor
 =9	=9
-4r	Dm
-2.d[	.
+4r	D minor
+[2.d	.
 =10	=10
 4.d]	.
 8r	.
@@ -62,40 +62,40 @@
 16r	.
 8f	.
 =11	=11
-1b-[	B-
+[1b-	B- major
 =12	=12
 2b-]	.
 8r	.
-8b-	.
+8b-L	.
 8a	.
-8g[	.
+[8gJ	.
 =13	=13
-3...g]	Gm
+3...g]	G minor
 8r	.
-8f	.
-8e[	Am
+8fL	.
+[8eJ	A minor
 =14	=14
 3...e]	.
 8r	.
-8e	.
-8g[	Dsus4
+8eL	.
+[8gJ	D suspended-fourth
 =15	=15
 4.g]	.
 8r	.
-8e	.
-8.d	.
+8eL	.
+8.dJ	.
 16r	.
-8d[	Dm
+[8d	D minor
 =16	=16
 2d_	.
-4d]	Dm
-4r	C
+4d]	D minor
+4r	C major
 =17	=17
-4..d	B-
+4..d	B- major
 16r	.
 6...f	.
 16r	.
-8e[	C
+[8e	C major
 =18	=18
 4e]	.
 8.d	.
@@ -104,7 +104,7 @@
 16r	.
 4g	.
 =19	=19
-8.d	Dm
+8.d	D minor
 16r	.
 8.e	.
 16r	.
@@ -112,21 +112,21 @@
 16r	.
 16g	.
 16r	.
-8a[	.
+[8a	.
 =20	=20
 3...a_	.
 16a]	.
 16r	.
-8.cc	C
+8.cc	C major
 16r	.
 =21	=21
-4cc	B-
+4cc	B- major
 16b-	.
 16r	.
 4.f	.
 4b-	.
 =22	=22
-16g	C
+16g	C major
 16r	.
 8.a	.
 16r	.
@@ -134,18 +134,18 @@
 8r	.
 4e	.
 =23	=23
-1a[	Dm
+[1a	D minor
 =24	=24
 2.a]	.
-4r	Edim
+4r	E diminished
 =25	=25
 *k[]	*
 *a:	*
-4..f	F
+4..f	F major
 16r	.
 6...a	.
 16r	.
-8b[	G
+[8b	G major
 =26	=26
 4b]	.
 8.a	.
@@ -154,7 +154,7 @@
 16r	.
 4b	.
 =27	=27
-8.a	Am
+8.a	A minor
 16r	.
 8.b	.
 16r	.
@@ -162,43 +162,43 @@
 16r	.
 16dd	.
 16r	.
-8ee[	.
+[8ee	.
 =28	=28
 3...ee_	.
 16ee]	.
 16r	.
-8cc	.
-8dd	.
+8ccL	.
+8ddJ	.
 =29	=29
 *k[b-]	*
 *d:	*
-2ff[	B-
+[2ff	B- major
 16ff]	.
 16r	.
 4cc	.
 8dd	.
 =30	=30
-6...ff	C
+6...ff	C major
 16r	.
 6...ee	.
 16r	.
 4cc	.
 =31	=31
-4a[	Am
+[4a	A minor
 8a_	.
-8.a]	Am
+8.a]	A minor
 16r	.
-8e	.
-8cc	Am
-8a	.
+8eL	.
+8cc	A minor
+8aJ	.
 =32	=32
 8r	.
-8.r	Am
+8.r	A minor
 16r	.
-8.r	Am
+8.r	A minor
 16r	.
-16r	Am
-16r	Am
-4r	Am
+16r	A minor
+16r	A minor
+4r	A minor
 ==	==
 *-	*-

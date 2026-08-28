@@ -16,12 +16,12 @@
 *G:	*
 *M4/4	*
 =1	=1
-8g	G
+8g	G major
 8r	.
 8f	.
 4r	.
 8f	.
-4r	Dm7
+4r	D minor-seventh
 =2	=2
 8g	.
 8r	.
@@ -30,26 +30,26 @@
 8f	.
 4r	.
 =3	=3
-8g	G
+8g	G major
 8r	.
 8f	.
 4r	.
 8f	.
-4r	Dm7
+4r	D minor-seventh
 =4	=4
+8gL	.
 8g	.
-8g	.
-8f	Dm7
+8fJ	D minor-seventh
 4r	.
 8f	.
 4r	.
 =5	=5
-8g	G
+8g	G major
 8r	.
 8f	.
 4r	.
 8f	.
-4r	Dm7
+4r	D minor-seventh
 =6	=6
 8g	.
 8r	.
@@ -62,16 +62,16 @@
 4r	.
 8f	.
 8r	.
-8r	G
+8r	G major
 8f	.
-8r	Dm7
+8r	D minor-seventh
 8g	.
 =8	=8
-8g	Dm7
+8gL	D minor-seventh
 8g	.
-8f	.
+8fJ	.
 8r	.
-8r	Dm7
+8r	D minor-seventh
 8cc	.
 4r	.
 ==	==

@@ -16,52 +16,52 @@
 *A:	*
 *M4/4	*
 =1	=1
-8AA	A
+8AA	A major
 8r	.
-4r	A
-8AA	A
+4r	A major
+8AA	A major
 8r	.
-16AA	A
-16GG#	.
-8GGn	.
+16AALL	A major
+16GG#J	.
+8GGnJ	.
 =2	=2
-8FFn	Fmaj7
+8FFn	F major-seventh
 8r	.
-4r	Fmaj7
-8FFn	Fmaj7
+4r	F major-seventh
+8FFn	F major-seventh
 8r	.
-8.r	Fmaj7
+8.r	F major-seventh
 16FFn	.
 =3	=3
-8GGn	G
+8GGn	G major
 8r	.
-4r	G
-4GGn[	G
-4GGn]	G
+4r	G major
+[4GGn	G major
+4GGn]	G major
 =4	=4
-4GG#[	G#dim
-4GG#]	G#dim
-4GG#[	G#dim
-4GG#]	G#dim
+[4GG#	G# diminished
+4GG#]	G# diminished
+[4GG#	G# diminished
+4GG#]	G# diminished
 =5	=5
-4r	A
-4r	A
-4r	A
-4r	A
+4r	A major
+4r	A major
+4r	A major
+4r	A major
 =6	=6
-4r	Fmaj7
-4r	Fmaj7
-4r	Fmaj7
-4r	Fmaj7
+4r	F major-seventh
+4r	F major-seventh
+4r	F major-seventh
+4r	F major-seventh
 =7	=7
-4r	G
-4r	G
-4r	G
-4r	G
+4r	G major
+4r	G major
+4r	G major
+4r	G major
 =8	=8
-4r	G#dim
-4r	G#dim
-4r	G#dim
-4r	G#dim
+4r	G# diminished
+4r	G# diminished
+4r	G# diminished
+4r	G# diminished
 ==	==
 *-	*-

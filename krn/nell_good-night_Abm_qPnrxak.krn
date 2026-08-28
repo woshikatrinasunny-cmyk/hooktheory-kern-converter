@@ -16,49 +16,49 @@
 *E:	*
 *M4/4	*
 =1	=1
-4e	E
+4e	E major
 4.r	.
 4B	.
-8B[	.
+[8B	.
 =2	=2
 8B]	.
 4r	.
-16B	.
-16B	.
-8e	.
+16BLL	.
+16BJJ	.
+8eL	.
 8f#	.
 8g#	.
-8f#[	.
+[8f#J	.
 =3	=3
-4f#]	F#m7b5/A
+4f#]	F# half-diminished/A
 4.r	.
 4e	.
-8f#[	.
+[8f#	.
 =4	=4
 8f#]	.
 8r	.
 8B	.
 4cn	.
-8f#	.
+8f#L	.
 8e	.
-8e[	.
+[8eJ	.
 =5	=5
-8e]	C#m7
+8e]	C# minor-seventh
 8r	.
 8f#	.
 4e	.
-8f#	.
+8f#L	.
 8e	.
-8d#[	.
+[8d#J	.
 =6	=6
-8d#]	G#m
+8d#]	G# minor
 4e	.
 4f#	.
-8e	.
+8eL	.
 8d#	.
-8e	.
+8eJ	.
 =7	=7
-8r	F#m7
+8r	F# minor-seventh
 4f#	.
 4g#	.
 4f#	.
@@ -66,19 +66,19 @@
 =8	=8
 4.r	.
 8c#	.
+8eL	.
+16c#k	.
 8e	.
-16c#	.
-8e	.
-8.e	.
+8.eJ	.
 =9	=9
-4e	Amaj7
+4e	A major-seventh
 2.r	.
 =10	=10
-1r	F#m7/A
+1r	F# minor-seventh/A
 =11	=11
-1r	E
+1r	E major
 =12	=12
-2.r	Eadd(2,4,7)
-4r	E
+2.r	E other-2,4,7
+4r	E major
 ==	==
 *-	*-

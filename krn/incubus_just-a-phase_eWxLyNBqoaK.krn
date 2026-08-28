@@ -16,63 +16,63 @@
 *D:	*
 *M4/4	*
 =1	=1
-8E	Aadd(4,5,7)
+8EL	A other-4,5,7
 8A	.
 8c#	.
-8d	.
+8dJ	.
+8gL	.
 8g	.
-8g	.
 8d	.
-8cc#	.
+8cc#J	.
 =2	=2
-8a	Aadd(4,5,7)
+8aL	A other-4,5,7
 8b	.
 8g	.
-8d	.
-8e	.
+8dJ	.
+8eL	.
 8g	.
 8d	.
-8A	.
+8AJ	.
 =3	=3
-8B	Badd(3,5,7)
+8BL	B other-3,5,7
 8f#	.
-8B	.
+8BJ	.
 4.f#	.
-8B	.
-8f#[	.
+8BL	.
+[8f#J	.
 =4	=4
-4f#]	Badd(3,5,7)
+4f#]	B other-3,5,7
 8B	.
 4f#	.
 8B	.
 4f#	.
 =5	=5
-8E	Aadd(4,5,7)
+8EL	A other-4,5,7
 8A	.
 8c#	.
-8d	.
+8dJ	.
+8gL	.
 8g	.
-8g	.
 8d	.
-8cc#	.
+8cc#J	.
 =6	=6
-8a	Aadd(4,5,7)
+8aL	A other-4,5,7
 8b	.
 8g	.
-8d	.
-8e	.
+8dJ	.
+8eL	.
 8g	.
 8d	.
-8A	.
+8AJ	.
 =7	=7
-8B	Badd(3,5,7)
+8BL	B other-3,5,7
 8f#	.
-8B	.
+8BJ	.
 4.f#	.
-8B	.
-8f#[	.
+8BL	.
+[8f#J	.
 =8	=8
-4f#]	Badd(3,5,7)
+4f#]	B other-3,5,7
 8B	.
 4f#	.
 8B	.

@@ -16,30 +16,30 @@
 *e:	*
 *M4/4	*
 =1	=1
-2r	Gadd(2,4,7)/B
-2r	Cmaj7
+2r	G other-2,4,7/B
+2r	C major-seventh
 =2	=2
-8.r	D
-8.r	Em
-3...r	Am7
+8.r	D major
+8.r	E minor
+3...r	A minor-seventh
 =3	=3
-2r	Gadd(2,4,7)/B
-2r	Cmaj7
+2r	G other-2,4,7/B
+2r	C major-seventh
 =4	=4
-8.r	D
-8.r	Em
-3...r	Fmaj7
+8.r	D major
+8.r	E minor
+3...r	F major-seventh
 =5	=5
-2r	Gadd(2,4,7)/B
-2r	Cmaj7
+2r	G other-2,4,7/B
+2r	C major-seventh
 =6	=6
-8.r	D
-8.r	Em
-4.r	Am7
-4r	Gadd(2,4,7)/B
+8.r	D major
+8.r	E minor
+4.r	A minor-seventh
+4r	G other-2,4,7/B
 =7	=7
-1r	Cm7
+1r	C minor-seventh
 =8	=8
-1r	D11
+1r	D dominant-11th
 ==	==
 *-	*-

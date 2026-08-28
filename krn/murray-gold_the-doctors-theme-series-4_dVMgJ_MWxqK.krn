@@ -16,66 +16,66 @@
 *d:	*
 *M4/4	*
 =1	=1
-4.aa	Dm
+4.aa	D minor
 8ff	.
 8ee	.
-4.dd[	.
+[4.dd	.
 =2	=2
 4.dd]	.
 8dd	.
-8ee	.
+8eeL	.
 8dd	.
 8b-	.
-8cc	.
+8ccJ	.
 =3	=3
 2a	.
-2aa[	.
+[2aa	.
 =4	=4
 4.aa]	.
 8dd	.
-8ccc	.
+8cccL	.
 8bb-	.
 8gg	.
-8bb-	.
+8bb-J	.
 =5	=5
 2.aa	.
 4b-	.
 =6	=6
-1a[	.
+[1a	.
 =7	=7
 2a]	.
 4cc	.
 4b-	.
 =8	=8
-1a[	Dm
+[1a	D minor
 =9	=9
 2a]	.
 4r	.
 4bb-	.
 =10	=10
-2aa	B-
+2aa	B- major
 4dd	.
 4gg	.
 =11	=11
-2ee[	Cadd(2,4,7)
-4ee]	C
+[2ee	C other-2,4,7
+4ee]	C major
 4bb-	.
 =12	=12
-2aa	B-
+2aa	B- major
 4dd	.
 4gg	.
 =13	=13
-2ee[	Cadd(2,4,7)
-4ee]	C
+[2ee	C other-2,4,7
+4ee]	C major
 4bb-	.
 =14	=14
-2aa	B-
+2aa	B- major
 4dd	.
 4gg	.
 =15	=15
-4.ee	C/G
-16ff	.
-16ee	.
+4.ee	C major/G
+16ffLL	.
+16eeJJ	.
 4dd	.
 4cc	.
 ==	==

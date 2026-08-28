@@ -16,86 +16,86 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8a#	F#/C#
-16a#	F#/C#
-8b	C#m7
-16b	C#m7
-8f#	C#7sus4
-16f#	C#7sus4
-8g#	C#m
-16g#	C#m
-8b	Eadd(2,4,7)
-16b	Eadd(2,4,7)
-16cc#[	C#m7/E
+8a#L	F# major/C#
+16a#k	F# major/C#
+8b	C# minor-seventh
+16bk	C# minor-seventh
+8f#J	C# dominant-seventh-suspended-fourth
+16f#LK	C# dominant-seventh-suspended-fourth
+8g#	C# minor
+16g#k	C# minor
+8b	E other-2,4,7
+16bL	E other-2,4,7
+[16cc#JJ	C# minor-seventh/E
 =2	=2
-16cc#]	.
-16cc#	C#m7/E
-4.g#	C#m7/E
-8g#	C#m7/E
-16g#	C#m7/E
-8.g#	C#m7/E
-16g#	C#m7/E
-16g#	C#m7/E
+16cc#LL]	.
+16cc#JJ	C# minor-seventh/E
+4.g#	C# minor-seventh/E
+8g#L	C# minor-seventh/E
+16g#k	C# minor-seventh/E
+8.g#	C# minor-seventh/E
+16g#L	C# minor-seventh/E
+16g#JJ	C# minor-seventh/E
 =3	=3
-8a#	F#
-16a#	F#
-8a#	F#
-16a#	F#
-8b	F#7sus2
-16b	F#7sus2
-8cc#	F#
-16cc#	F#
-4g#[	C#m
+8a#L	F# major
+16a#k	F# major
+8a#	F# major
+16a#k	F# major
+8bJ	F# dominant-seventh-suspended-second
+16bLK	F# dominant-seventh-suspended-second
+8cc#	F# major
+16cc#Jk	F# major
+[4g#	C# minor
 =4	=4
-8g#]	.
-8f#	D#m7/C#
-8g#	C#m
-16f#	D#m7/C#
-8g#	C#m
-16f#	D#m7/C#
-8g#	C#m
-8a#	D#m7/C#
-8b	C#m7
+8g#L]	.
+8f#	D# minor-seventh/C#
+8g#	C# minor
+16f#Jk	D# minor-seventh/C#
+8g#	C# minor
+16f#LK	D# minor-seventh/C#
+8g#	C# minor
+8a#	D# minor-seventh/C#
+8bJ	C# minor-seventh
 =5	=5
-8a#	F#/C#
-16a#	F#/C#
-8b	C#m7
-16b	C#m7
-8f#	C#7sus4
-16f#	C#7sus4
-8g#	C#m
-16g#	C#m
-8b	Eadd(2,4,7)
-16b	Eadd(2,4,7)
-16cc#[	C#m7/E
+8a#L	F# major/C#
+16a#k	F# major/C#
+8b	C# minor-seventh
+16bk	C# minor-seventh
+8f#J	C# dominant-seventh-suspended-fourth
+16f#LK	C# dominant-seventh-suspended-fourth
+8g#	C# minor
+16g#k	C# minor
+8b	E other-2,4,7
+16bL	E other-2,4,7
+[16cc#JJ	C# minor-seventh/E
 =6	=6
-16cc#]	.
-16cc#	C#m7/E
-4.g#	C#m7/E
-8g#	C#m7/E
-16g#	C#m7/E
-8.g#	C#m7/E
-16g#	C#m7/E
-16g#	C#m7/E
+16cc#LL]	.
+16cc#JJ	C# minor-seventh/E
+4.g#	C# minor-seventh/E
+8g#L	C# minor-seventh/E
+16g#k	C# minor-seventh/E
+8.g#	C# minor-seventh/E
+16g#L	C# minor-seventh/E
+16g#JJ	C# minor-seventh/E
 =7	=7
-8a#	F#
-16a#	F#
-8a#	F#
-16a#	F#
-8b	F#7sus2
-16b	F#7sus2
-8cc#	F#
-16cc#	F#
-4g#[	C#m
+8a#L	F# major
+16a#k	F# major
+8a#	F# major
+16a#k	F# major
+8bJ	F# dominant-seventh-suspended-second
+16bLK	F# dominant-seventh-suspended-second
+8cc#	F# major
+16cc#Jk	F# major
+[4g#	C# minor
 =8	=8
-8g#]	.
-8f#	D#m7/C#
-8g#	C#m
-16f#	D#m7/C#
-8g#	C#m
-16f#	D#m7/C#
-8g#	C#m
-8a#	D#m7/C#
-8b	C#m7
+8g#L]	.
+8f#	D# minor-seventh/C#
+8g#	C# minor
+16f#Jk	D# minor-seventh/C#
+8g#	C# minor
+16f#LK	D# minor-seventh/C#
+8g#	C# minor
+8a#	D# minor-seventh/C#
+8bJ	C# minor-seventh
 ==	==
 *-	*-

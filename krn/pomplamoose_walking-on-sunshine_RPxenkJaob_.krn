@@ -16,53 +16,53 @@
 *A:	*
 *M4/4	*
 =1	=1
-8c#	A
+8c#L	A major
 8e	.
-8e	.
-4e	Aadd(2,5,7)
-8e	.
+8eJ	.
+4e	A other-2,5,7
+8eL	.
 8c#	.
-8e[	.
+[8eJ	.
 =2	=2
-8e]	Am7/G
+8e]	A minor-seventh/G
 4f#	.
-8c#	Gadd(2,4,7,9)
-8B	.
+8c#	G other-2,4,7,9
+8BL	.
 8A	.
 8F#	.
-8B[	.
+[8BJ	.
 =3	=3
-8B]	Badd(2,5,7,10)
+8B]	B other-2,5,7,10
 4A	.
-3...r	Gadd(2,4,7,9)/B
+3...r	G other-2,4,7,9/B
 =4	=4
-4.r	D7sus2
-2r	Gadd(2,4,7,9)/D
+4.r	D dominant-seventh-suspended-second
+2r	G other-2,4,7,9/D
 8A	.
 =5	=5
-8c#	A
+8c#L	A major
 8e	.
-8e	.
-4e	Aadd(2,5,7)
-8e	.
+8eJ	.
+4e	A other-2,5,7
+8eL	.
 8c#	.
-8f#[	.
+[8f#J	.
 =6	=6
-8f#]	Am7/G
+8f#L]	A minor-seventh/G
 8B	.
-8cn	.
-4B	Gadd(2,4,7,9)
-8A	.
+8cnJ	.
+4B	G other-2,4,7,9
+8AL	.
 8F#	.
-8B[	.
+[8BJ	.
 =7	=7
-8B]	Badd(2,5,7,10)
-4.A[	.
-16A]	Gadd(2,4,7,9)/B
+8B]	B other-2,5,7,10
+[4.A	.
+16A]	G other-2,4,7,9/B
 4..r	.
 =8	=8
-4.r	D7sus2
-2r	Gadd(2,4,7,9)/D
+4.r	D dominant-seventh-suspended-second
+2r	G other-2,4,7,9/D
 8A	.
 ==	==
 *-	*-

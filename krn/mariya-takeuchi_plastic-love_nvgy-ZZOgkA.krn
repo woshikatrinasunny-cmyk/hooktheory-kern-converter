@@ -16,101 +16,101 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Gm7
+8r	G minor-seventh
+8dL	.
+8f	.
+8dJ	.
+8fL	.
 8d	.
 8f	.
-8d	.
-8f	.
-8d	.
-8f	.
-8f[	.
+[8fJ	.
 =2	=2
-8f]	Cadd(1,4,7,10)
+8f]	C other-1,4,7,10
 6...g	.
 2r	.
 16r	.
 =3	=3
-8r	Am7
-8A	.
+8r	A minor-seventh
+8AL	.
 8c	.
-8A	.
-8c	.
+8AJ	.
+8cL	.
 8A	.
 8g	.
-8f[	.
+[8fJ	.
 =4	=4
-8f]	Dm7
+8f]	D minor-seventh
 4d	.
 3...r	.
 =5	=5
-8r	Gm7
+8r	G minor-seventh
+8dL	.
+8f	.
+8dJ	.
+8fL	.
 8d	.
 8f	.
-8d	.
-8f	.
-8d	.
-8f	.
-8d	.
+8dJ	.
 =6	=6
-8.f	Cadd(1,4,7,10)
+8.f	C other-1,4,7,10
 6...g	.
 2r	.
 =7	=7
-8r	Am7
-8A	.
+8r	A minor-seventh
+8AL	.
 8c	.
-8A	.
-8c	.
+8AJ	.
+8cL	.
 8A	.
 8g	.
-8f[	.
+[8fJ	.
 =8	=8
-8f]	Dm7
+8f]	D minor-seventh
 4d	.
 8r	.
-8d	.
+8dL	.
 8e	.
 8f	.
-8g	.
+8gJ	.
 =9	=9
-4a	Gm9
-8d	.
-8f	.
+4a	G minor-ninth
+8dL	.
+8fJ	.
 2r	.
 =10	=10
-4cc	E-9
+4cc	E- dominant-ninth
 4b-	.
 4a	.
 4g	.
 =11	=11
-4a	Dm7
+4a	D minor-seventh
 4d	.
 8f	.
 4a	.
 8f	.
 =12	=12
-2r	G7
-8d	.
+2r	G dominant
+8dL	.
 8e	.
 8f	.
-8g	.
+8gJ	.
 =13	=13
-4a	Gm7
-8d	.
-8f	.
+4a	G minor-seventh
+8dL	.
+8fJ	.
 2r	.
 =14	=14
-4a	Cadd(1,4,7,10)
-8d-	.
-8e	.
+4a	C other-1,4,7,10
+8d-L	.
+8eJ	.
 4r	.
 4g	.
 =15	=15
-8g	Dm7
-8f	.
+8gL	D minor-seventh
+8fJ	.
 2.r	.
 =16	=16
-8.r	Dm9
+8.r	D minor-ninth
 2.r	.
 16r	.
 ==	==

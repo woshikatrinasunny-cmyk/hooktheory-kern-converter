@@ -16,30 +16,30 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4cc	.
-4a	G/B
+4a	G major/B
 4cc	.
 =2	=2
-8r	Am
-8cc	.
+8r	A minor
+8ccL	.
 8a	.
-8g	.
-4dd	G
-8a	.
-8g[	.
+8gJ	.
+4dd	G major
+8aL	.
+[8gJ	.
 =3	=3
-4g]	C
+4g]	C major
 4cc	.
-4a	G/B
+4a	G major/B
 4cc	.
 =4	=4
-8r	Am
-8cc	.
+8r	A minor
+8ccL	.
 8a	.
-8g	.
-4dd	G
-8a	.
-8g	.
+8gJ	.
+4dd	G major
+8aL	.
+8gJ	.
 ==	==
 *-	*-

@@ -16,86 +16,86 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8cc#	F#
-8f#	.
+8cc#L	F# major
+8f#J	.
 16r	.
-8ff#	.
-16dd#	.
-8cc#	.
-8f#	.
+8ff#L	.
+16dd#Jk	.
+8cc#L	.
+8f#J	.
 16r	.
-8cc#	.
-16b	.
+8cc#L	.
+16bJk	.
 =2	=2
-16a#	B
+16a#LL	B major
 16a#	.
 16b	.
-16cc#	.
+16cc#J	.
 8f#	.
-8g#	.
-4a#	C#
+8g#J	.
+4a#	C# major
 4r	.
 =3	=3
-8cc#	F#
-8f#	.
+8cc#L	F# major
+8f#J	.
 16r	.
-8ff#	.
-16dd#	.
-8cc#	.
-8f#	.
+8ff#L	.
+16dd#Jk	.
+8cc#L	.
+8f#J	.
 16r	.
-8cc#	.
-16b	.
+8cc#L	.
+16bJk	.
 =4	=4
-16a#	B
+16a#LL	B major
 16a#	.
 16b	.
-16cc#	.
-8f#	C#
-8g#	.
-8f#[	B
-8f#]	C#
-4r	F#
+16cc#J	.
+8f#	C# major
+8g#J	.
+[8f#L	B major
+8f#J]	C# major
+4r	F# major
 =5	=5
-8cc#	.
-8f#	.
+8cc#L	.
+8f#J	.
 16r	.
-8ff#	.
-16dd#	.
-8cc#	.
-8f#	.
+8ff#L	.
+16dd#Jk	.
+8cc#L	.
+8f#J	.
 16r	.
-8cc#	.
-16b	.
+8cc#L	.
+16bJk	.
 =6	=6
-16a#	B
+16a#LL	B major
 16a#	.
 16b	.
-16cc#	.
+16cc#J	.
 8f#	.
-8g#	.
-4a#	C#
+8g#J	.
+4a#	C# major
 4r	.
 =7	=7
-8cc#	F#
-8f#	.
+8cc#L	F# major
+8f#J	.
 16r	.
-8ff#	.
-16dd#	.
-8cc#	.
-8f#	.
+8ff#L	.
+16dd#Jk	.
+8cc#L	.
+8f#J	.
 16r	.
-8cc#	.
-16b	.
+8cc#L	.
+16bJk	.
 =8	=8
-16a#	B
+16a#LL	B major
 16a#	.
 16b	.
-16cc#	.
-8f#	C#
-8g#	.
-8f#[	B
-8f#]	C#
-4r	F#
+16cc#J	.
+8f#	C# major
+8g#J	.
+[8f#L	B major
+8f#J]	C# major
+4r	F# major
 ==	==
 *-	*-

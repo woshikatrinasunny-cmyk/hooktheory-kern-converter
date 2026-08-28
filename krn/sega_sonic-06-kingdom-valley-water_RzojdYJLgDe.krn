@@ -16,24 +16,24 @@
 *g:	*
 *M4/4	*
 =1	=1
-1cc	Csus2
+1cc	C suspended-second
 =2	=2
-1dd	Dm
+1dd	D minor
 =3	=3
-2cc[	E-
-2cc]	E-maj7
+[2cc	E- major
+2cc]	E- major-seventh
 =4	=4
-2b-	F
+2b-	F major
 2a	.
 =5	=5
-2a	Gm
-2g[	.
+2a	G minor
+[2g	.
 =6	=6
-2.g_	G7sus4
-4g_	Dm7
+2.g_	G dominant-seventh-suspended-fourth
+4g_	D minor-seventh
 =7	=7
-1g_	Gm7/D
+1g_	G minor-seventh/D
 =8	=8
-1g]	F
+1g]	F major
 ==	==
 *-	*-

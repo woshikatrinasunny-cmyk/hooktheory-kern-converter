@@ -15,10 +15,10 @@
 *E-:	*
 *M4/4	*
 =1	=1
-8r	D-maj7
+8r	D- major-seventh
+8a-L	.
 8a-	.
-8a-	.
-8a-	.
+8a-J	.
 8r	.
 8f	.
 8r	.
@@ -32,15 +32,15 @@
 8e-	.
 4f	.
 =3	=3
-2g	E-7
+2g	E- dominant
 2r	.
 =4	=4
 1r	.
 =5	=5
-8r	D-maj7
+8r	D- major-seventh
+8a-L	.
 8a-	.
-8a-	.
-8a-	.
+8a-J	.
 8r	.
 8f	.
 8r	.
@@ -54,14 +54,14 @@
 8e-	.
 4f	.
 =7	=7
-4.c	B-7sus2
-4.e-	D-7sus4
-4g-[	Eadd(6,7,11)
+4.c	B- dominant-seventh-suspended-second
+4.e-	D- dominant-seventh-suspended-fourth
+[4g-	E other-6,7,11
 =8	=8
 8g-]	.
-4.f	Fm7/E-
-4.e-	E-7/D-
-8b-[	B-7
+4.f	F minor-seventh/E-
+4.e-	E- dominant/D-
+[8b-	B- dominant
 =9	=9
 2..b-]	.
 8r	.

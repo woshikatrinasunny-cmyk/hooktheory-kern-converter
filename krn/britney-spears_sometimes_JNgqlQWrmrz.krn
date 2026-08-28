@@ -16,123 +16,123 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4.r	B-
-8ff	B-/D
-8ff	.
+4.r	B- major
+8ff	B- major/D
+8ffL	.
 8ee-	.
 8dd	.
-8b-	.
+8b-J	.
 =2	=2
-8cc	F/A
+8ccL	F major/A
 8cc	.
-8dd[	.
-8dd]	F
+[8dd	.
+8ddJ]	F major
 2r	.
 =3	=3
-4.r	Cm7
+4.r	C minor-seventh
 8ff	.
-8ff	.
+8ffL	.
 8ee-	.
 8dd	.
-8b-	.
+8b-J	.
 =4	=4
-8cc	F7sus2
+8ccL	F dominant-seventh-suspended-second
 8cc	.
 8cc	.
-8dd	.
-8cc	.
+8ddJ	.
+8ccL	.
 8g	.
 8cc	.
-8b-	.
+8b-J	.
 =5	=5
-4.r	B-
-8ff	B-/D
-8ff	.
+4.r	B- major
+8ff	B- major/D
+8ffL	.
 8ee-	.
 8dd	.
-8b-	.
+8b-J	.
 =6	=6
-8cc	F/A
+8ccL	F major/A
 8cc	.
-8dd[	.
-4dd]	F
+[8ddJ	.
+4dd]	F major
 4.r	.
 =7	=7
-4.r	Cm7
+4.r	C minor-seventh
 8ff	.
-8ff	.
+8ffL	.
 8ee-	.
 8dd	.
-8b-	.
+8b-J	.
 =8	=8
-8cc	F7sus2
+8ccL	F dominant-seventh-suspended-second
 8cc	.
 8cc	.
-8dd	.
-8cc	.
+8ddJ	.
+8ccL	.
 8a	.
 8cc	.
-8b-	.
+8b-J	.
 =9	=9
-4.r	Cm7
+4.r	C minor-seventh
+8ff	.
+8ffL	.
 8ff	.
 8ff	.
-8ff	.
-8ff	.
-8bb-	.
+8bb-J	.
 =10	=10
-8aa	F7sus2
+8aaL	F dominant-seventh-suspended-second
 8aa	.
 8aa	.
-8gg	.
-8ff	.
+8ggJ	.
+8ffL	.
 8ff	.
 8dd	.
-8ff[	.
+[8ffJ	.
 =11	=11
-8ff]	B-
-8gg	.
+8ffL]	B- major
+8ggJ	.
 4r	.
-8r	F/A
-16ff	.
-16dd	.
+8r	F major/A
+16ffLL	.
+16ddJJ	.
 4ff	.
 =12	=12
-4gg	Gm
+4gg	G minor
 8dd	.
 8.dd	.
-16cc	.
-8b-	.
+16ccLK	.
+8b-J	.
 8r	.
 8dd	.
 =13	=13
-8ee-	Cm
+8ee-L	C minor
 8dd	.
 8ee-	.
-8dd	.
-8ee-	.
-8dd	.
+8ddJ	.
+8ee-L	.
+8ddJ	.
 4ee-	.
 =14	=14
-8r	B-
-8dd	.
+8r	B- major
+8ddL	.
 8cc	.
-8cc	.
+8ccJ	.
 4b-	.
 8r	.
 8dd	.
 =15	=15
-8ee-	Cm7
-16dd	.
+8ee-L	C minor-seventh
+16ddk	.
 8ee-	.
 8ee-	.
-16dd	.
-8ee-	.
+16ddJk	.
+8ee-L	.
 8ee-	.
 8gg	.
-8gg	.
+8ggJ	.
 =16	=16
-4ff	F7sus2
+4ff	F dominant-seventh-suspended-second
 2.r	.
 ==	==
 *-	*-

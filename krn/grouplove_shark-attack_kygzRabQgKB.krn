@@ -16,37 +16,37 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4d-	D-
+4d-	D- major
 4A-	.
-8d-	D-
+8d-L	D- major
 8d-	.
 8A-	.
-8A-	.
+8A-J	.
 =2	=2
-8d-	D-
+8d-	D- major
 4A-	.
-8d-[	.
-8d-]	D-
+[8d-	.
+8d-]	D- major
 4A-	.
 8A-	.
 =3	=3
-4d-	D-
+4d-	D- major
 4A-	.
-8d-	D-
+8d-	D- major
 4A-	.
-8d-[	.
+[8d-	.
 =4	=4
-8d-]	D-
+8d-]	D- major
 4.A-	.
-4r	Ddim
+4r	D diminished
 4A-	.
 =5	=5
-4d-	D-
+4d-	D- major
 4A-	.
-8d-	.
+8d-L	.
 8d-	.
 8A-	.
-8A-	.
+8A-J	.
 =6	=6
 8d-	.
 4A-	.
@@ -56,44 +56,44 @@
 =7	=7
 4f	.
 4d-	.
-8f	.
+8fL	.
 8f	.
 8d-	.
-8f[	.
+[8fJ	.
 =8	=8
 8f]	.
-4.d-[	.
-4d-]	Ddim
+[4.d-	.
+4d-]	D diminished
 4r	.
 =9	=9
-4f	D-
+4f	D- major
 4d-	.
-8f	.
+8fL	.
 8f	.
 8d-	.
-8f[	.
+[8fJ	.
 =10	=10
 8f]	.
-4.d-[	.
-4d-]	Ddim
+[4.d-	.
+4d-]	D diminished
 4r	.
 =11	=11
-8f[	B-m
-8f]	B-m
-8d-[	B-m
-8d-]	B-m
-8f	Cdim
-8f	Cdim
-8d-	Cdim
-8f[	Cdim
+[8fL	B- minor
+8f]	B- minor
+[8d-	B- minor
+8d-J]	B- minor
+8fL	C diminished
+8f	C diminished
+8d-	C diminished
+[8fJ	C diminished
 =12	=12
-8f]	B-m/D-
-8d-[	B-m/D-
-8d-_	B-m/D-
-8d-_	B-m/D-
-8d-_	B-m/F
-8d-_	B-m/F
-8d-_	B-m/F
-8d-]	B-m/F
+8fL]	B- minor/D-
+[8d-	B- minor/D-
+8d-_	B- minor/D-
+8d-J_	B- minor/D-
+8d-L_	B- minor/F
+8d-_	B- minor/F
+8d-_	B- minor/F
+8d-J]	B- minor/F
 ==	==
 *-	*-

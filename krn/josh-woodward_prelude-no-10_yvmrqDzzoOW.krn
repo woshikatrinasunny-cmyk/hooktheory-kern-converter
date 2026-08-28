@@ -16,41 +16,41 @@
 *C:	*
 *M3/4	*
 =1	=1
-2.e	C
+2.e	C major
 =2	=2
-2.bb	Em
+2.bb	E minor
 =3	=3
-2.ccc[	Am
+[2.ccc	A minor
 =4	=4
 2.ccc]	.
 =5	=5
-2.cc	F
+2.cc	F major
 =6	=6
-2.gg	Em
+2.gg	E minor
 =7	=7
-2.dd[	G
+[2.dd	G major
 =8	=8
 2.dd]	.
 =9	=9
-2.ee	C
+2.ee	C major
 =10	=10
-4.gg#	E
-4aa	Am/E
-8bb	E
+4.gg#	E major
+4aa	A minor/E
+8bb	E major
 =11	=11
-2.ccc	Am
+2.ccc	A minor
 =12	=12
 2.eee	.
 =13	=13
-3...fff	F
+3...fff	F major
 8eee	.
 =14	=14
-4ddd	G
+4ddd	G major
 8bb	.
 4ccc	.
 8ddd	.
 =15	=15
-2.ccc[	C
+[2.ccc	C major
 =16	=16
 2.ccc]	.
 ==	==

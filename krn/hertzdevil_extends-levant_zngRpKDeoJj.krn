@@ -16,62 +16,62 @@
 *f#:	*
 *M4/4	*
 =1	=1
-16F#	F#sus2
-16c#	.
+16F#LL	F# suspended-second
+16c#JJ	.
 2..g#	.
 =2	=2
-16F#	Dadd(2,4,7)
+16F#LL	D other-2,4,7
 16A	.
-16B	.
-2.e[	.
+16BJJ	.
+[2.e	.
 16e]	.
 =3	=3
-4E	E
-8b	.
-8cc#	.
-8b	.
-8g#	.
+4E	E major
+8bL	.
+8cc#J	.
+8bL	.
+8g#J	.
 4e	.
 =4	=4
-16g#	F#m
+16g#	F# minor
 4..a	.
-8b	E
+8bL	E major
 8a	.
 8g#	.
-8f#[	.
+[8f#J	.
 =5	=5
-2f#]	D
+2f#]	D major
 2c#	.
 =6	=6
-4e	E
+4e	E major
 8f#	.
 4g#	.
 4e	.
-16a	.
-16b[	.
+16aLL	.
+[16bJJ	.
 =7	=7
-8b]	F#m
+8bL]	F# minor
 8a	.
-8g#	.
+8g#J	.
 4c#	.
-8F#	.
+8F#L	.
 8cc#	.
-8b[	.
+[8bJ	.
 =8	=8
-8b]	E/G#
+8bL]	E major/G#
 8E	.
-8b	.
+8bJ	.
 4a	.
-8E	.
+8EL	.
 8g#	.
-8a[	.
+[8aJ	.
 =9	=9
-2a]	D
-8.a	.
+2a]	D major
+8.aL	.
 8.g#	.
-8f#	.
+8f#J	.
 =10	=10
-4f#	Eadd(2,4,7)
+4f#	E other-2,4,7
 2e	.
 4f#	.
 ==	==

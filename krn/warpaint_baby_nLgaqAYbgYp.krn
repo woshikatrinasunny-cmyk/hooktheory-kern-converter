@@ -16,96 +16,96 @@
 *C:	*
 *M3/4	*
 =1	=1
-4.c	Am
+4.c	A minor
 4.d	.
 =2	=2
-4B	G
-8d	.
-8d	.
-8d	.
-8d	.
+4B	G major
+8dL	.
+8dJ	.
+8dL	.
+8dJ	.
 =3	=3
-4.f	Dm
+4.f	D minor
 4.f	.
 =4	=4
-3...e	Am
+3...e	A minor
 8e	.
 =5	=5
-4.e	C
+4.e	C major
 4.g	.
 =6	=6
-4.d	G
+4.d	G major
 4.e	.
 =7	=7
-2.f	Dm
+2.f	D minor
 =8	=8
-2.e	Am
+2.e	A minor
 =9	=9
-8c	C
-8c	.
+8cL	C major
+8cJ	.
 2c	.
 =10	=10
-8B	G
+8B	G major
 4.A	.
-8G	.
-8B[	.
+8GL	.
+[8BJ	.
 =11	=11
-8B]	Dm
-3...A[	.
+8B]	D minor
+[3...A	.
 =12	=12
-3...A]	Am
+3...A]	A minor
 8e	.
 =13	=13
-4e	C
+4e	C major
 4g	.
-8e	.
-8b	.
+8eL	.
+8bJ	.
 =14	=14
-2a	G
-8g	.
-8e	.
+2a	G major
+8gL	.
+8eJ	.
 =15	=15
-2.f	Dm
+2.f	D minor
 =16	=16
-2.e	Am
+2.e	A minor
 =17	=17
-2.a[	Dm
+[2.a	D minor
 =18	=18
-2.a]	Am
+2.a]	A minor
 =19	=19
-2.a	C
+2.a	C major
 =20	=20
-2b	G
-8a	.
-8g	.
+2b	G major
+8aL	.
+8gJ	.
 =21	=21
-2.a[	Dm
+[2.a	D minor
 =22	=22
-2.a]	Am
+2.a]	A minor
 =23	=23
-2.a	C
+2.a	C major
 =24	=24
-2b	G
-8a	.
-8g	.
+2b	G major
+8aL	.
+8gJ	.
 =25	=25
-2.e[	Dm
+[2.e	D minor
 =26	=26
-2.e]	Am
+2.e]	A minor
 =27	=27
-2.e	C
+2.e	C major
 =28	=28
-2e	G
-8d	.
-8c	.
+2e	G major
+8dL	.
+8cJ	.
 =29	=29
-2.d[	Dm
+[2.d	D minor
 =30	=30
-4.d]	Am
+4.d]	A minor
 4.e	.
 =31	=31
-2.d[	G
+[2.d	G major
 =32	=32
-2.d]	G
+2.d]	G major
 ==	==
 *-	*-

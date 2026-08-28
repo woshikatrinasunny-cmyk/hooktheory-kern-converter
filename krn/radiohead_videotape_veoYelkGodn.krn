@@ -16,47 +16,47 @@
 *A:	*
 *M4/4	*
 =1	=1
-16r	A/C#
-16c#	.
-8e[	.
-4.e]	C#m
+16r	A major/C#
+16c#LK	.
+[8eJ	.
+4.e]	C# minor
 8e	.
-8.r	F#m/C#
-16c#[	.
+8.r	F# minor/C#
+[16c#	.
 =2	=2
-16c#]	Esus4
-8.f#	.
-4c#	E
-16c#	.
-8.B[	.
-16B]	Esus2
+16c#LK]	E suspended-fourth
+8.f#J	.
+4c#	E major
+16c#LK	.
+[8.B	.
+16BJk]	E suspended-second
 8.r	.
 =3	=3
-16r	Esus4
-16A	.
-8B	.
-4B	E
+16r	E suspended-fourth
+16ALK	.
+8BJ	.
+4B	E major
 4B	.
-8.r	Esus2
-16G#[	.
+8.r	E suspended-second
+[16G#	.
 =4	=4
-16G#]	A/C#
-16A	.
-8A	.
-4G#	C#m
+16G#LL]	A major/C#
+16AJ	.
+8AJ	.
+4G#	C# minor
 4G#	.
-8.r	F#m/C#
-16F#[	.
+8.r	F# minor/C#
+[16F#	.
 =5	=5
-16F#]	Esus4
-16A	.
-8A	.
-4G#	E
+16F#LL]	E suspended-fourth
+16AJ	.
+8AJ	.
+4G#	E major
 4G#	.
-4r	Esus2
+4r	E suspended-second
 =6	=6
-4r	A
-2r	Amaj7
-4r	F#m7/A
+4r	A major
+2r	A major-seventh
+4r	F# minor-seventh/A
 ==	==
 *-	*-

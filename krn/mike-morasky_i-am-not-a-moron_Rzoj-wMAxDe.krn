@@ -16,27 +16,27 @@
 *d:	*
 *M3/4	*
 =1	=1
-2.fff[	C
+[2.fff	C major
 =2	=2
 2.fff]	.
 =3	=3
-2.ddd[	.
+[2.ddd	.
 =4	=4
 2.ddd_	.
 =5	=5
-4ddd]	Dm/F
-2ccc[	.
+4ddd]	D minor/F
+[2ccc	.
 =6	=6
 2.ccc_	.
 =7	=7
 4ccc_	.
-2ccc_	Am
+2ccc_	A minor
 =8	=8
 4ccc]	.
 4dd	.
 4ee	.
 =9	=9
-4ff	B-
+4ff	B- major
 4ee	.
 4dd	.
 =10	=10
@@ -44,7 +44,7 @@
 4dd	.
 4ee	.
 =11	=11
-4ff	C
+4ff	C major
 4ee	.
 4dd	.
 =12	=12
@@ -52,29 +52,29 @@
 4dd	.
 4ee	.
 =13	=13
-4ff	Dm
+4ff	D minor
 4ee	.
 4dd	.
 =14	=14
-4ff	D-dim
+4ff	D- diminished
 4dd	.
 4ee	.
 =15	=15
-4ff	Bdim
+4ff	B diminished
 4ee	.
 4dd	.
 =16	=16
-4ff	B-
+4ff	B- major
 4dd	.
-4ee	C
+4ee	C major
 =17	=17
-2.r	Dm
+2.r	D minor
 =18	=18
-2.r	D-dim
+2.r	D- diminished
 =19	=19
-2.r	F
+2.r	F major
 =20	=20
-2r	Edim
-4r	C
+2r	E diminished
+4r	C major
 ==	==
 *-	*-

@@ -15,43 +15,43 @@
 *C:	*
 *M4/4	*
 =1	=1
-16fff	F
+16fffLL	F major
 16ggg	.
 16ggg#	.
-16aaa	.
+16aaaJ	.
 8bbb	.
-8cccc	.
-8aaa	C
-16ggg	.
-16eee	.
+8ccccJ	.
+8aaaL	C major
+16gggL	.
+16eeeJ	.
 8ddd#	.
-8eee	.
+8eeeJ	.
 =2	=2
-8fff	F
+8fffL	F major
 8ccc	.
 8bb	.
-8aa	.
-2gg	G
+8aaJ	.
+2gg	G major
 =3	=3
-16fff	F
+16fffLL	F major
 16ggg	.
 16ggg#	.
-16aaa	.
+16aaaJ	.
 8cccc	.
-8aaa	.
-8ggg	C
+8aaaJ	.
+8gggL	C major
 8fff	.
 8eee	.
-8ddd	.
+8dddJ	.
 =4	=4
-8ddd	D
+8dddL	D major
 8aa	.
 8ff#	.
-8ddd	.
-8bb	G
+8dddJ	.
+8bbL	G major
 8gg	.
-16ddd	.
-16ddd#	.
-8eee	.
+16dddL	.
+16ddd#J	.
+8eeeJ	.
 ==	==
 *-	*-

@@ -16,53 +16,53 @@
 *c:	*
 *M4/4	*
 =1	=1
-2.ee-	Cm
-8dd	.
-8b-	.
+2.ee-	C minor
+8ddL	.
+8b-J	.
 =2	=2
-4.g[	G
-4.g]	Gadd(2,4,7)
-8f	.
-8B-	.
+[4.g	G major
+4.g]	G other-2,4,7
+8fL	.
+8B-J	.
 =3	=3
-4.dd[	Gm7/B-
-4.dd]	B-
-8cc	.
-8b-	.
+[4.dd	G minor-seventh/B-
+4.dd]	B- major
+8ccL	.
+8b-J	.
 =4	=4
-4.g[	Gm
-4.g]	Gadd(2,3,7)
-8f	.
-8B-	.
+[4.g	G minor
+4.g]	G other-2,3,7
+8fL	.
+8B-J	.
 =5	=5
-2.bb-	Cm
-8dd	.
-8b-	.
+2.bb-	C minor
+8ddL	.
+8b-J	.
 =6	=6
-4.ddd[	G
-4.ddd]	Gadd(2,4,7)
-8f	.
-8B-	.
+[4.ddd	G major
+4.ddd]	G other-2,4,7
+8fL	.
+8B-J	.
 =7	=7
-8dd	Gm7/B-
+8ddL	G minor-seventh/B-
 8f	.
-8b-	.
-4cc	B-
-8dd	.
+8b-J	.
+4cc	B- major
+8ddL	.
 8cc	.
-8b-	.
+8b-J	.
 =8	=8
-4.g[	Gm
-4.g]	Gadd(2,3,7)
+[4.g	G minor
+4.g]	G other-2,3,7
 4d	.
 =9	=9
-1c	Cm
+1c	C minor
 =10	=10
 1r	.
 =11	=11
 1r	.
 =12	=12
-4.b-[	Gm7/B-
-3...b-]	B-
+[4.b-	G minor-seventh/B-
+3...b-]	B- major
 ==	==
 *-	*-

@@ -16,7 +16,7 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	Dadd(2,4,7,9)/A
+8r	D other-2,4,7,9/A
 2.f#	.
 8e	.
 =2	=2
@@ -25,11 +25,11 @@
 4d	.
 4e	.
 =3	=3
-4e	F#m7b5/A
+4e	F# half-diminished/A
 4r	.
-8.c	.
+8.cL	.
 8.B	.
-8A[	.
+[8AJ	.
 =4	=4
 *M2/4	*
 2A]	.
@@ -37,38 +37,38 @@
 *k[]	*
 *C:	*
 *M4/4	*
-4r	Dm9
+4r	D minor-ninth
 4e	.
 4d	.
-8c	.
-8e[	.
+8cL	.
+[8eJ	.
 =6	=6
-8e]	FmMaj7
+8eL]	F major-minor
 8e	.
 8e	.
-8e	.
+8eJ	.
 4d	.
-8c	.
-8d[	.
+8cL	.
+[8dJ	.
 =7	=7
-8d]	Am7
+8d]	A minor-seventh
 4.e	.
 8r	.
-8e	.
+8eL	.
 8d	.
-8c	.
+8cJ	.
 =8	=8
-8.d	C7sus2/G
-8.e	.
+8.dL	C dominant-seventh-suspended-second/G
+8.eJ	.
 4c	.
 4.d	.
 =9	=9
-4r	F
+4r	F major
 4c	.
 4c	.
 4c	.
 =10	=10
-8r	Fm/G#
+8r	F minor/G#
 2c	.
 8G#	.
 4G	.
@@ -76,7 +76,7 @@
 2F	.
 2r	.
 =12	=12
-1c	C
+1c	C major
 =13	=13
 2r	.
 4c	.

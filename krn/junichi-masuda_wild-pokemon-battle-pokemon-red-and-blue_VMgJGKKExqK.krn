@@ -16,39 +16,39 @@
 *C:	*
 *M4/4	*
 =1	=1
-2f	A#add(2,4,7)
+2f	A# other-2,4,7
 2a#	.
 =2	=2
-2dd	A#add(2,4,7)
+2dd	A# other-2,4,7
 2ff	.
 =3	=3
-1ee[	C
+[1ee	C major
 =4	=4
-1ee]	C
+1ee]	C major
 =5	=5
-2f	A#add(2,4,7)
+2f	A# other-2,4,7
 2a#	.
 =6	=6
-2dd	A#add(2,4,7)
+2dd	A# other-2,4,7
 2ff	.
 =7	=7
-1gg	C
+1gg	C major
 =8	=8
-1ccc	C
+1ccc	C major
 =9	=9
-2.ee	C
+2.ee	C major
 8ee	.
 8r	.
 =10	=10
-8ff	C
-8ee	.
+8ffL	C major
+8eeJ	.
 2.r	.
 =11	=11
-2.ff	C#
+2.ff	C# major
 8ff	.
 8r	.
 =12	=12
-8gg#	C#
+8gg#	C# major
 4gg	.
 8r	.
 2ff	.

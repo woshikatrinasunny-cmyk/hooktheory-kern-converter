@@ -16,49 +16,49 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.b	Em7
-8.b	.
-8.e	Dadd(2,4,7)
-8.g	.
-8.b	Cmaj7
-16g[	.
+8.bL	E minor-seventh
+8.bJ	.
+8.e	D other-2,4,7
+8.gL	.
+8.b	C major-seventh
+[16gJk	.
 =2	=2
-8g]	.
+8gL]	.
 8.e	.
+8.gJ	.
+8.bL	.
 8.g	.
-8.b	.
-8.g	.
-8e[	.
+[8eJ	.
 =3	=3
-16e]	.
+16eLK]	.
 8.g	.
-8.b	.
+8.bJ	.
 8.g	.
-8.e	.
-8.g	.
+8.eL	.
+8.gJ	.
 =4	=4
-8.b	.
-8.g	C
-8.e	Cmaj7
-8.g	C
-8e[	Cmaj7
-8e]	C
+8.bL	.
+8.gJ	C major
+8.e	C major-seventh
+8.gL	C major
+[8e	C major-seventh
+8eJ]	C major
 =5	=5
-4.b[	Em7
-4.b]	Dadd(2,4,7)
-4b[	Cmaj7
+[4.b	E minor-seventh
+4.b]	D other-2,4,7
+[4b	C major-seventh
 =6	=6
 2b]	.
-2b[	.
+[2b	.
 =7	=7
 4b]	.
 2.b	.
 =8	=8
-8.b[	.
-8.b_	C
-8.b_	Cmaj7
-8.b_	C
-8b_	Cmaj7
-8b]	C
+[8.bL	.
+8.bJ_	C major
+8.b_	C major-seventh
+8.bL_	C major
+8b_	C major-seventh
+8bJ]	C major
 ==	==
 *-	*-

@@ -16,79 +16,79 @@
 *E:	*
 *M4/4	*
 =1	=1
-8r	B
+8r	B major
+8d#L	.
 8d#	.
-8d#	.
-8d#	.
-8d#	.
+8d#J	.
+8d#L	.
 8c#	.
 8c#	.
-8B	.
+8BJ	.
 =2	=2
-4B	E
+4B	E major
 2.r	.
 =3	=3
-8r	B
+8r	B major
+8d#L	.
 8d#	.
-8d#	.
-8d#	.
-8d#	.
+8d#J	.
+8d#L	.
 8e	.
 8f#	.
-8e	.
+8eJ	.
 =4	=4
-4e	E
+4e	E major
 2.r	.
 =5	=5
-8r	B
+8r	B major
+8f#L	.
 8f#	.
-8f#	.
-8f#	.
-8f#	.
+8f#J	.
+8f#L	.
 8g#	.
 8a	.
-8a	.
+8aJ	.
 =6	=6
-4g#	G#/C
+4g#	G# major/C
 4a	.
 4g#	.
-8f#	.
-8e[	.
+8f#L	.
+[8eJ	.
 =7	=7
-8e]	C#m
+8e]	C# minor
 2..r	.
 =8	=8
-8r	E7
+8r	E dominant
+8eL	.
 8e	.
-8e	.
-8e	.
-8e	.
-8f#	.
+8eJ	.
+8eL	.
+8f#J	.
 4e	.
 =9	=9
-4b	Amaj7
+4b	A major-seventh
 4g#	.
 2r	.
 =10	=10
 8r	.
+8eL	.
 8e	.
-8e	.
-8e	.
-8e	.
-8f#	.
+8eJ	.
+8eL	.
+8f#J	.
 4e	.
 =11	=11
-4b	Am7
+4b	A minor-seventh
 4gn	.
 4f#	.
-8gn	.
-8f#[	.
+8gnL	.
+[8f#J	.
 =12	=12
 8f#]	.
 4e	.
 8e	.
-8e	.
-8f#	.
+8eL	.
+8f#J	.
 4e	.
 ==	==
 *-	*-

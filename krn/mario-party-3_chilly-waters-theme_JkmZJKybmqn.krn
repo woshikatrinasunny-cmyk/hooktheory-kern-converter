@@ -15,72 +15,72 @@
 *G:	*
 *M3/4	*
 =1	=1
-4dd	G
+4dd	G major
 4b	.
-4g	G/D
+4g	G major/D
 =2	=2
-4.f#[	C
-8f#]	C/E
+[4.f#	C major
+8f#]	C major/E
 4e	.
 =3	=3
-4d	D
-8A	G
-8B	.
-8c	D/A
-8A	.
+4d	D major
+8AL	G major
+8BJ	.
+8cL	D major/A
+8AJ	.
 =4	=4
-4.B[	G
-8B]	D/F#
-8ee	.
-8ff#	.
+[4.B	G major
+8B]	D major/F#
+8eeL	.
+8ff#J	.
 =5	=5
-4gg	Em
-8ee[	.
-8ee]	Em/G
+4gg	E minor
+[8eeL	.
+8eeJ]	E minor/G
 4b	.
 =6	=6
-4.dd[	Bm/F#
-8dd]	Em/G
+[4.dd	B minor/F#
+8dd]	E minor/G
 4g	.
 =7	=7
-4.b	A
-8a	A/E
+4.b	A major
+8a	A major/E
 4g	.
 =8	=8
-4a	D
-8dd	.
-8b	.
-8cc	.
-8cc#	.
+4a	D major
+8ddL	.
+8bJ	.
+8ccL	.
+8cc#J	.
 =9	=9
-4dd	G
-8b[	.
-8b]	G/D
+4dd	G major
+[8bL	.
+8bJ]	G major/D
 4g	.
 =10	=10
-4.f#[	C
-8f#]	C/E
+[4.f#	C major
+8f#]	C major/E
 4e	.
 =11	=11
-2d	D
-4cc	D/F#
+2d	D major
+4cc	D major/F#
 =12	=12
-4b[	Em
-4b_	Em/B
-4b]	Em
+[4b	E minor
+4b_	E minor/B
+4b]	E minor
 =13	=13
-4.g[	Am
-4.g]	Am/E
+[4.g	A minor
+4.g]	A minor/E
 =14	=14
-4f#	D
-8g[	.
-8g]	D/F#
+4f#	D major
+[8gL	.
+8gJ]	D major/F#
 4a	.
 =15	=15
-4g	G
+4g	G major
 4dd	.
-4b	G/D
+4b	G major/D
 =16	=16
-2.g	G
+2.g	G major
 ==	==
 *-	*-

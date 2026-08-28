@@ -16,84 +16,84 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.a	Am
+4.a	A minor
 8b	.
-4.cc	C
+4.cc	C major
 8ee	.
 =2	=2
-4dd	G
-8cc	.
-16b	.
-16b[	.
-8b]	Am
+4dd	G major
+8ccL	.
+16bL	.
+[16bJJ	.
+8b]	A minor
 4.a	.
 =3	=3
-4.a	Am
+4.a	A minor
 8b	.
-4.cc	C
+4.cc	C major
 8dd	.
 =4	=4
-2ee	Esus4
-2r	E
+2ee	E suspended-fourth
+2r	E major
 =5	=5
-4.a	Am
+4.a	A minor
 8b	.
-4.cc	C
+4.cc	C major
 8ee	.
 =6	=6
-4dd	G
-8cc	.
-16b	.
-16b[	.
-8b]	Am
+4dd	G major
+8ccL	.
+16bL	.
+[16bJJ	.
+8b]	A minor
 4.a	.
 =7	=7
-4.a	Am
+4.a	A minor
 8cc	.
-4.b	G
+4.b	G major
 8g	.
 =8	=8
-1a	Am
+1a	A minor
 =9	=9
-4.aa	Am
+4.aa	A minor
 8aa	.
-4.gg	C
+4.gg	C major
 8ee	.
 =10	=10
-4gg	G
-8gg	.
-8aa	.
-8dd	Am
+4gg	G major
+8ggL	.
+8aaJ	.
+8dd	A minor
 4.cc	.
 =11	=11
-4.aa	Am
+4.aa	A minor
 8aa	.
-4.gg	C
+4.gg	C major
 8ee	.
 =12	=12
-2ee	Esus4
-2r	E
+2ee	E suspended-fourth
+2r	E major
 =13	=13
-4.aa	Am
+4.aa	A minor
 8aa	.
-4.gg	C
+4.gg	C major
 8ee	.
 =14	=14
-4gg	G
-16gg	.
+4gg	G major
+16ggLK	.
 8aa	.
-16dd[	.
-8dd]	Am
+[16ddJk	.
+8dd]	A minor
 4.cc	.
 =15	=15
-4r	Am
-8a	.
-8ee	.
-4dd	G
-8b	.
-8g	.
+4r	A minor
+8aL	.
+8eeJ	.
+4dd	G major
+8bL	.
+8gJ	.
 =16	=16
-2a	Am
+2a	A minor
 2r	.
 ==	==
 *-	*-

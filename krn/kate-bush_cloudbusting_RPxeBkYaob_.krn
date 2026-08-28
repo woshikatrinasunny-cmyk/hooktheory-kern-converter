@@ -16,62 +16,62 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4r	C#m7
+4r	C# minor-seventh
 4g#	.
-2b	Badd(2,4,7)
+2b	B other-2,4,7
 =2	=2
-4e[	Aadd(2,4,7,9)
-2e]	Aadd(2,4,7)
+[4e	A other-2,4,7,9
+2e]	A other-2,4,7
 8r	.
 8c#	.
 =3	=3
-4.f#	Badd(2,4,7)
+4.f#	B other-2,4,7
 8f#	.
-4.c#[	C#m
-8c#_	C#sus4
+[4.c#	C# minor
+8c#_	C# suspended-fourth
 =4	=4
-4.c#_	B
-8c#]	Bsus4
-4r	Aadd(2,4,7,9)
-8r	Aadd(2,4,7)
+4.c#_	B major
+8c#]	B suspended-fourth
+4r	A other-2,4,7,9
+8r	A other-2,4,7
 8c#	.
 =5	=5
 4e	.
 4e	.
-8e	Badd(2,4,5,7)
-8d#	.
-4B[	Badd(2,4,7)
+8eL	B other-2,4,5,7
+8d#J	.
+[4B	B other-2,4,7
 =6	=6
 4B]	.
 8r	.
 8B	.
-2g#	C#m7
+2g#	C# minor-seventh
 =7	=7
-2b	Badd(2,4,7)
-2e[	Aadd(2,4,7,9)
+2b	B other-2,4,7
+[2e	A other-2,4,7,9
 =8	=8
 4e]	.
-8c#	.
-8B	.
-4f#	Badd(2,4,7)
+8c#L	.
+8BJ	.
+4f#	B other-2,4,7
 4f#	.
 =9	=9
-4.c#[	C#m7
-8c#_	C#7sus4
-4.c#]	Badd(2,4,7)
-8r	Badd(2,5,7)
+[4.c#	C# minor-seventh
+8c#_	C# dominant-seventh-suspended-fourth
+4.c#]	B other-2,4,7
+8r	B other-2,5,7
 =10	=10
-8r	Aadd(2,4,7,9)
-8c#	.
-8e	Aadd(2,4,7)
-8c#	.
+8r	A other-2,4,7,9
+8c#L	.
+8e	A other-2,4,7
+8c#J	.
 4e	.
-8c#	.
-8c#	.
+8c#L	.
+8c#J	.
 =11	=11
-8e	Badd(2,4,5,7)
-8d#	.
-2B	Badd(2,4,7)
+8eL	B other-2,4,5,7
+8d#J	.
+2B	B other-2,4,7
 4r	.
 ==	==
 *-	*-

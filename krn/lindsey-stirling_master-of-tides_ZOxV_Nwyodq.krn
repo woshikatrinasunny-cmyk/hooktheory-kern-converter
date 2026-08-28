@@ -15,75 +15,75 @@
 *e:	*
 *M6/4	*
 =1	=1
-1.e	Am
+1.e	A minor
 =2	=2
-2.f#	Bm
+2.f#	B minor
 2.d	.
 =3	=3
-1.e	Em
+1.e	E minor
 =4	=4
-4.b	Em
+4.b	E minor
 4.dd	.
 4.a	.
 4.b	.
 =5	=5
-1.e	Am
+1.e	A minor
 =6	=6
-4.f#	Bm
+4.f#	B minor
 4.a	.
 4.g	.
 4.f#	.
 =7	=7
-2.g	Em
+2.g	E minor
 2.a	.
 =8	=8
-4.b	Em
+4.b	E minor
 4.dd	.
-4.gg	D
+4.gg	D major
 4.ff#	.
 =9	=9
-4.ee[	Am
-4.ee_	Am
-4.ee_	Am
-4.ee]	Am
+[4.ee	A minor
+4.ee_	A minor
+4.ee_	A minor
+4.ee]	A minor
 =10	=10
-4.ff#[	D
-4.ff#]	D
-4.dd[	D
-4.dd]	D
+[4.ff#	D major
+4.ff#]	D major
+[4.dd	D major
+4.dd]	D major
 =11	=11
-4.ee[	Em
-4.ee_	Em
-4.ee]	Em
-4.gg	Em
+[4.ee	E minor
+4.ee_	E minor
+4.ee]	E minor
+4.gg	E minor
 =12	=12
-4.bb	Em
-4.ddd	Em
-4.aa	D
-4.bb	D
+4.bb	E minor
+4.ddd	E minor
+4.aa	D major
+4.bb	D major
 =13	=13
-4.ee[	Am
-4.ee_	Am
-4.ee_	Am
-4.ee]	Am
+[4.ee	A minor
+4.ee_	A minor
+4.ee_	A minor
+4.ee]	A minor
 =14	=14
-4.ff#	Bm
-4.aa	Bm
-4.gg	Bm
-4.ff#	Bm
+4.ff#	B minor
+4.aa	B minor
+4.gg	B minor
+4.ff#	B minor
 =15	=15
-4.ee[	Em
-4.ee_	Em
-4.ee_	Em
-4.ee]	Em
+[4.ee	E minor
+4.ee_	E minor
+4.ee_	E minor
+4.ee]	E minor
 =16	=16
-4.ee[	Em
-4.ee]	Em
-8gg	Em
-8ff#	.
-8ee	.
-8dd	Em
-8b	.
-8a	.
+[4.ee	E minor
+4.ee]	E minor
+8ggL	E minor
+8ff#J	.
+8eeL	.
+8ddJ	E minor
+8bL	.
+8aJ	.
 ==	==
 *-	*-

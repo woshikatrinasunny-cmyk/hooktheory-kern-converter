@@ -15,94 +15,94 @@
 *C:	*
 *M6/4	*
 =1	=1
-8gg	C
-8ff#	.
+8ggL	C major
+8ff#J	.
 16gg	.
 8.r	.
-8gg	.
-8ff#	.
-8gg	C/G
-8aa	.
+8ggL	.
+8ff#J	.
+8ggL	C major/G
+8aaJ	.
 16gg	.
 8.r	.
-8ff#	.
-8ff#	.
+8ff#L	.
+8ff#J	.
 =2	=2
-4gg	C
+4gg	C major
 8ee	.
 8r	.
 8ee	.
 8r	.
-3...ee[	C/G
-16ee]	.
-16dd#	.
+[3...ee	C major/G
+16eeLL]	.
+16dd#JJ	.
 =3	=3
-8gg	C
-8ff#	.
+8ggL	C major
+8ff#J	.
 16gg	.
 8.r	.
-8gg	.
-8ff#	.
-8gg	C/G
-8aa	.
+8ggL	.
+8ff#J	.
+8ggL	C major/G
+8aaJ	.
 16gg	.
 8.r	.
-8ff	.
-8ee	.
+8ffL	.
+8eeJ	.
 =4	=4
-4gg	Gsus4
-8dd	G
+4gg	G suspended-fourth
+8dd	G major
 8r	.
 8dd	.
 8r	.
-2.dd	G/D
+2.dd	G major/D
 =5	=5
-8dd	G
-8cc#	.
+8ddL	G major
+8cc#J	.
 16dd	.
 8.r	.
-8b	.
-8cc	.
-8dd	G/D
+8bL	.
+8ccJ	.
+8dd	G major/D
 8r	.
 8b	.
 8r	.
 8b	.
 8r	.
 =6	=6
-8ee	C
-8dd	.
+8eeL	C major
+8ddJ	.
 8ee	.
 8r	.
-8ee	.
-8ff	.
-8gg	C/G
+8eeL	.
+8ffJ	.
+8gg	C major/G
 8r	.
 8ee	.
 8r	.
 8ee	.
 8r	.
 =7	=7
-8a	D
-8g	.
+8aL	D major
+8gJ	.
 8a	.
 8r	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 4a	.
 8b	.
 8r	.
 8cc	.
 8r	.
 =8	=8
-8b	G
+8b	G major
 8r	.
 8b	.
 8r	.
-8cc	Gadd(2,5,7)
+8cc	G other-2,5,7
 8r	.
-8dd	G/D
+8dd	G major/D
 4.r	.
-4r	G
+4r	G major
 ==	==
 *-	*-

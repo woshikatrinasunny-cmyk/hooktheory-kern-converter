@@ -16,7 +16,7 @@
 *G:	*
 *M4/4	*
 =1	=1
-4b	G
+4b	G major
 4r	.
 4b	.
 4r	.
@@ -27,7 +27,7 @@
 8b	.
 4dd	.
 =3	=3
-4dd	C/G
+4dd	C major/G
 4r	.
 4b	.
 4r	.
@@ -38,7 +38,7 @@
 8b	.
 4dd	.
 =5	=5
-4dd	D/F#
+4dd	D major/F#
 4r	.
 4b	.
 4r	.
@@ -49,18 +49,18 @@
 8b	.
 4dd	.
 =7	=7
-4dd	G
+4dd	G major
 4r	.
 4b	.
 4r	.
 =8	=8
-4a	D/F#
+4a	D major/F#
 8a	.
 4b	.
 8b	.
 4dd	.
 =9	=9
-4dd	C/E
+4dd	C major/E
 4r	.
 4b	.
 4r	.
@@ -71,7 +71,7 @@
 8b	.
 4dd	.
 =11	=11
-4dd	C
+4dd	C major
 4r	.
 4b	.
 4r	.
@@ -82,7 +82,7 @@
 8b	.
 4dd	.
 =13	=13
-4dd	D
+4dd	D major
 4r	.
 4b	.
 4r	.
@@ -93,12 +93,12 @@
 8b	.
 4dd	.
 =15	=15
-4dd	Em
+4dd	E minor
 4r	.
 4b	.
 4r	.
 =16	=16
-4a	D/F#
+4a	D major/F#
 8a	.
 4b	.
 8b	.

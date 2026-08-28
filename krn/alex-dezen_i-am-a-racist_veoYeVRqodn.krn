@@ -16,12 +16,12 @@
 *D:	*
 *M6/4	*
 =1	=1
-2.r	Gadd(3,7,9)
+2.r	G other-3,7,9
 4d	.
 4e	.
 4d	.
 =2	=2
-4fn	D
+4fn	D major
 2e	.
 2.e	.
 =3	=3
@@ -31,7 +31,7 @@
 4e	.
 4d	.
 =4	=4
-4fn	F#7
+4fn	F# dominant
 2e	.
 2.e	.
 =5	=5
@@ -41,7 +41,7 @@
 4e	.
 4d	.
 =6	=6
-8fn	Bm
+8fn	B minor
 4e	.
 4..e	.
 3...r	.
@@ -50,9 +50,9 @@
 4f#	.
 4e	.
 2e	.
-2d[	.
+[2d	.
 =8	=8
-1d]	Gmaj7
+1d]	G major-seventh
 2r	.
 =9	=9
 2.r	.

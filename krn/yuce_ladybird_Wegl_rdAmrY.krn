@@ -16,85 +16,85 @@
 *c:	*
 *M4/4	*
 =1	=1
-2r	Cm7
+2r	C minor-seventh
 4b-	.
 4r	.
 =2	=2
 4g	.
-4g-	A-mMaj7/B
+4g-	A- major-minor/B
 4f	.
 4c	.
 =3	=3
-4e-	Cm7/B-
+4e-	C minor-seventh/B-
 4f	.
 4g-	.
 4g	.
 =4	=4
 4r	.
-4b-	Fadd(2,4,7)/A
+4b-	F other-2,4,7/A
 4r	.
 4e-	.
 =5	=5
-4r	A-
+4r	A- major
 4g	.
 4g-	.
 4e-	.
 =6	=6
-4r	F/A
+4r	F major/A
 4g	.
-8d	.
-8f	.
-4g	F7/A
+8dL	.
+8fJ	.
+4g	F dominant/A
 =7	=7
-4f	B-add(2,4,7)
+4f	B- other-2,4,7
 4e-	.
-8f	B-11
-8e-	.
+8fL	B- dominant-11th
+8e-J	.
 8r	.
 8c	.
 =8	=8
-8e-	Gadd(4,7,8,10)
+8e-L	G other-4,7,8,10
 8f	.
 8g	.
-8a-	.
-4b-	G7
+8a-J	.
+4b-	G dominant
 4g	.
 =9	=9
-2r	Cm7
+2r	C minor-seventh
 4b-	.
 4r	.
 =10	=10
 4g	.
-4g-	A-mMaj7/B
+4g-	A- major-minor/B
 4f	.
 4c	.
 =11	=11
-4e-	Cm7/B-
+4e-	C minor-seventh/B-
 4f	.
 4g-	.
 4g	.
 =12	=12
 4r	.
-4.b-	Fadd(2,4,7)/A
+4.b-	F other-2,4,7/A
 8r	.
 4e-	.
 =13	=13
-4r	A-
+4r	A- major
 4b-	.
-8g	.
-8g-	.
+8gL	.
+8g-J	.
 4e-	.
 =14	=14
-4r	F/A
+4r	F major/A
 4g	.
-8g-	.
-8f	.
-4e-	F7/A
+8g-L	.
+8fJ	.
+4e-	F dominant/A
 =15	=15
-1a-	B-11
+1a-	B- dominant-11th
 =16	=16
-2g	Gadd(4,7,8,10)
-4f	G7
+2g	G other-4,7,8,10
+4f	G dominant
 4e-	.
 ==	==
 *-	*-

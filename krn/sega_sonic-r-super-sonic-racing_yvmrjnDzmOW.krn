@@ -16,36 +16,36 @@
 *C:	*
 *M4/4	*
 =1	=1
-4g	G#maj7
+4g	G# major-seventh
 4g	.
-4f	Gm7
-8f	.
-8e[	Fmaj7
+4f	G minor-seventh
+8fL	.
+[8eJ	F major-seventh
 =2	=2
 8e]	.
 4c	.
 8r	.
-8c	.
+8cL	.
 8d	.
 8d#	.
-8f	.
+8fJ	.
 =3	=3
-4g	G#maj7
+4g	G# major-seventh
 4g	.
-4f	Gm7
-8f	.
-8g[	C7
+4f	G minor-seventh
+8fL	.
+[8gJ	C dominant
 =4	=4
 2g]	.
 8r	.
 8c	.
 4d#	.
 =5	=5
-4g	G#maj7
+4g	G# major-seventh
 4g	.
-4f	Gm7
-8f	.
-8e[	Fmaj7
+4f	G minor-seventh
+8fL	.
+[8eJ	F major-seventh
 =6	=6
 8e]	.
 4c	.
@@ -53,11 +53,11 @@
 8c	.
 4d#	.
 =7	=7
-4.g	G#maj7
+4.g	G# major-seventh
 8g	.
-8f	Gm7
+8f	G minor-seventh
 4f	.
-8g[	C7
+[8g	C dominant
 =8	=8
 2g]	.
 8r	.

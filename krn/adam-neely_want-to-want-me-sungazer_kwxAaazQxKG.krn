@@ -17,88 +17,88 @@
 *M4/4	*
 =1	=1
 3...r	.
-16r	Cm7
-16e-	Cm7/E-
-16f	Fsus4
-16f	Cm7/G
-16f	Cm7/E-
-16f[	Cm7
+16r	C minor-seventh
+16e-LL	C minor-seventh/E-
+16f	F suspended-fourth
+16f	C minor-seventh/G
+16f	C minor-seventh/E-
+[16fJJ	C minor-seventh
 =2	=2
-16f]	.
-16e-[	.
-16e-]	Fm/A-
+16fLL]	.
+[16e-	.
+16e-JJ]	F minor/A-
 16r	.
-8.r	Fm/A-
-8r	B-add(2,5,7)
-8.r	B-add(2,5,7)
-8g	Fsus4
-8b-	Fsus4
+8.r	F minor/A-
+8r	B- other-2,5,7
+8.r	B- other-2,5,7
+8gL	F suspended-fourth
+8b-J	F suspended-fourth
 =3	=3
-4cc	Fsus4
-8b-	F7sus4
-8cc	F7sus4
+4cc	F suspended-fourth
+8b-L	F dominant-seventh-suspended-fourth
+8ccJ	F dominant-seventh-suspended-fourth
 8g	.
-8r	Fsus4
-16f	Fsus4
-16f	Fsus4
+8r	F suspended-fourth
+16fLL	F suspended-fourth
+16f	F suspended-fourth
 16f	.
-16f[	Fsus4
+[16fJJ	F suspended-fourth
 =4	=4
-16f]	.
-16e-[	.
-16e-]	Fm/A-
+16fLL]	.
+[16e-	.
+16e-JJ]	F minor/A-
 16r	.
-8.r	Fm/A-
-8r	B-add(2,5,7)
-8.r	B-add(2,5,7)
-8g	D-maj7
-8b-	D-maj7
+8.r	F minor/A-
+8r	B- other-2,5,7
+8.r	B- other-2,5,7
+8gL	D- major-seventh
+8b-J	D- major-seventh
 =5	=5
-4cc	D-maj7
-8b-	D-maj9
-8cc	D-maj9
+4cc	D- major-seventh
+8b-L	D- major-ninth
+8ccJ	D- major-ninth
 8g	.
-8r	Fsus4
-16f	Cm/E-
-16f	Fsus4
-16f	Cm7/G
-16f	Fsus4
+8r	F suspended-fourth
+16fLL	C minor/E-
+16f	F suspended-fourth
+16f	C minor-seventh/G
+16fJJ	F suspended-fourth
 =6	=6
-16g	.
+16gLL	.
 16f	.
-16e-	Fm
-16r	Fm7/E-
-8.r	D-maj7
-8r	Bdim
-8r	Bdim
-16r	Bdim
-8g	Gm7
-8b-	Gm7
+16e-JJ	F minor
+16r	F minor-seventh/E-
+8.r	D- major-seventh
+8r	B diminished
+8r	B diminished
+16r	B diminished
+8gL	G minor-seventh
+8b-J	G minor-seventh
 =7	=7
-8cc	Gm7
+8ccL	G minor-seventh
 8cc	.
-8b-	E-add(2,4,7)/G
-8r	E-add(2,4,7)/G
-16b-[	.
-16b-]	.
-8b-	E-add(2,4,7)/G
-8ee-[	E-add(2,4,7)/G
-8ee-]	E-add(2,4,7)/G
+8b-J	E- other-2,4,7/G
+8r	E- other-2,4,7/G
+[16b-LL	.
+16b-J]	.
+8b-	E- other-2,4,7/G
+[8ee-	E- other-2,4,7/G
+8ee-J]	E- other-2,4,7/G
 =8	=8
-8cc[	A-add(2,4,7)
-16cc]	A-add(2,4,7)
-16b-	.
-8.r	A-add(2,4,7)
-8r	Fm7/A-
-8.r	Fm7/A-
-16ee-[	Cm/E-
-16ee-_	Fsus4
-16ee-_	Cm7/G
-16ee-]	Fsus4
+[8ccL	A- other-2,4,7
+16ccL]	A- other-2,4,7
+16b-JJ	.
+8.r	A- other-2,4,7
+8r	F minor-seventh/A-
+8.r	F minor-seventh/A-
+[16ee-LL	C minor/E-
+16ee-_	F suspended-fourth
+16ee-_	C minor-seventh/G
+16ee-JJ]	F suspended-fourth
 =9	=9
-8.cc	.
-16b-	.
-16g	.
+8.ccL	.
+16b-L	.
+16gJJ	.
 3...r	.
 16r	.
 ==	==

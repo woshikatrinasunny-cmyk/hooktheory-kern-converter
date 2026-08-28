@@ -16,17 +16,17 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.r	Dsus4
+4.r	D suspended-fourth
 8g	.
 4g	.
 4a	.
 =2	=2
 4r	.
-4dd	Cmaj9
+4dd	C major-ninth
 8r	.
-8cc	.
+8ccL	.
 8b	.
-8a	.
+8aJ	.
 =3	=3
 8r	.
 4g	.
@@ -34,71 +34,71 @@
 4b	.
 8r	.
 =4	=4
-4.d	Gmaj7/B
+4.d	G major-seventh/B
 8dd	.
-2dd[	.
+[2dd	.
 =5	=5
 4dd]	.
 4.r	.
-8g	.
+8gL	.
 8a	.
-8b[	.
+[8bJ	.
 =6	=6
-8b]	Am9
+8bL]	A minor-ninth
 8cc	.
 8b	.
-8a	.
+8aJ	.
 8r	.
 8g	.
 8r	.
-8cc[	D7sus4
+[8cc	D dominant-seventh-suspended-fourth
 =7	=7
 8cc]	.
 4b	.
-4a	D#dim
+4a	D# diminished
 8g	.
 4r	.
 =8	=8
-4.cc	Em7
+4.cc	E minor-seventh
 8b	.
-2b[	.
+[2b	.
 =9	=9
 4b]	.
 4r	.
 4g	.
 4a	.
 =10	=10
-4b	C#m7b5
+4b	C# half-diminished
 8b	.
 4b	.
-8a	.
+8aL	.
 8g	.
-8a[	.
+[8aJ	.
 =11	=11
-8a]	Am7b5/C
-8b	.
+8aL]	A half-diminished/C
+8bJ	.
 4r	.
-8a	.
+8aL	.
 8g	.
 8f#	.
-8g	.
+8gJ	.
 =12	=12
-4a	Bm7
+4a	B minor-seventh
 8dd	.
 4dd	.
 4a	.
-8g[	.
+[8g	.
 =13	=13
-4.g]	Em7
+4.g]	E minor-seventh
 8b	.
 4b	.
 4r	.
 =14	=14
-4e	Am9
+4e	A minor-ninth
 8g	.
 4cc	.
 4b	.
-8b[	.
+[8b	.
 =15	=15
 8b]	.
 4a	.
@@ -107,15 +107,15 @@
 6...r	.
 8g	.
 =16	=16
-4dd	D#maj7
+4dd	D# major-seventh
 8cc	.
 4g	.
 4dd	.
-8cc[	D7sus4
+[8cc	D dominant-seventh-suspended-fourth
 =17	=17
 4.cc]	.
 4.r	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 ==	==
 *-	*-

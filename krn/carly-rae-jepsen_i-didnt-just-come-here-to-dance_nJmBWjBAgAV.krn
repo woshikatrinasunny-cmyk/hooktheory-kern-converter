@@ -16,82 +16,82 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4cc#	Badd(2,4,7)
-8.a#	Badd(2,4,7)
-16a#	.
-16cc#	A#m7/C#
+4cc#	B other-2,4,7
+8.a#L	B other-2,4,7
+16a#Jk	.
+16cc#LL	A# minor-seventh/C#
 16cc#	.
-16cc#	.
-8.cc#	A#m7/C#
-8a#	A#m7/C#
+16cc#J	.
+8.cc#	A# minor-seventh/C#
+8a#J	A# minor-seventh/C#
 =2	=2
-8r	D#m
-8cc#	.
-8a#	D#m
-8f#	.
-16g#	D#m7
+8r	D# minor
+8cc#L	.
+8a#	D# minor
+8f#J	.
+16g#LL	D# minor-seventh
 16g#	.
-16f#	.
-8.g#	D#m7
-8a#	D#m
+16f#J	.
+8.g#	D# minor-seventh
+8a#J	D# minor
 =3	=3
 8r	.
-16cc#	G#m7
+16cc#	G# minor-seventh
 16r	.
-16a#[	.
-16a#]	G#m7
-8f#	.
-8g#	A#m7
-16a#[	.
-16a#]	A#m7
+[16a#LL	.
+16a#J]	G# minor-seventh
+8f#J	.
+8g#L	A# minor-seventh
+[16a#L	.
+16a#J]	A# minor-seventh
 8g#	.
-8a#	A#m7
+8a#J	A# minor-seventh
 =4	=4
-8g#	Badd(2,4,7)
+8g#	B other-2,4,7
 8r	.
-4r	Badd(2,4,7)
-8.r	Badd(2,4,7)
-8.r	Badd(2,4,7)
-8f#	Badd(2,4,7)
+4r	B other-2,4,7
+8.r	B other-2,4,7
+8.r	B other-2,4,7
+8f#	B other-2,4,7
 =5	=5
-8cc#	Badd(2,4,7)
+8cc#	B other-2,4,7
 8r	.
-8a#	Badd(2,4,7)
+8a#	B other-2,4,7
 16r	.
 16f#	.
-16cc#	A#m7/C#
+16cc#LL	A# minor-seventh/C#
 16cc#	.
-16cc#	.
-8.cc#	A#m7/C#
-8a#	A#m7/C#
+16cc#J	.
+8.cc#	A# minor-seventh/C#
+8a#J	A# minor-seventh/C#
 =6	=6
-8r	D#m
-8cc#	.
-8a#	D#m
-8f#	.
-16g#	D#m7
+8r	D# minor
+8cc#L	.
+8a#	D# minor
+8f#J	.
+16g#LL	D# minor-seventh
 16g#	.
-16f#	.
-8.g#	D#m7
-8a#	D#m
+16f#J	.
+8.g#	D# minor-seventh
+8a#J	D# minor
 =7	=7
 8r	.
-16cc#	G#m7
+16cc#	G# minor-seventh
 16r	.
-16a#[	.
-16a#]	G#m7
-8f#	.
-8g#	A#m7
-16a#[	.
-16a#]	A#m7
+[16a#LL	.
+16a#J]	G# minor-seventh
+8f#J	.
+8g#L	A# minor-seventh
+[16a#L	.
+16a#J]	A# minor-seventh
 8g#	.
-8a#	A#m7
+8a#J	A# minor-seventh
 =8	=8
-8g#	Badd(2,4,7)
+8g#	B other-2,4,7
 8r	.
-4r	Badd(2,4,7)
-8.r	Badd(2,4,7)
-8.r	Badd(2,4,7)
-8r	Badd(2,4,7)
+4r	B other-2,4,7
+8.r	B other-2,4,7
+8.r	B other-2,4,7
+8r	B other-2,4,7
 ==	==
 *-	*-

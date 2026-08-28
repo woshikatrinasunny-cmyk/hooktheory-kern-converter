@@ -16,127 +16,127 @@
 *e:	*
 *M4/4	*
 =1	=1
-16bbb	Em
+16bbbLL	E minor
 16cccc#	.
 16bbb	.
-16cccc#	.
+16cccc#J	.
 8.bbb	.
-16aaa#	.
-16bbb	Edim
+16aaa#Jk	.
+16bbbLL	E diminished
 16dddd#	.
 16bbb	.
-16dddd#	.
+16dddd#JJ	.
 4bbb	.
 =2	=2
-16bbb	Em
+16bbbLL	E minor
 16eeee	.
 16bbb	.
-16eeee	.
+16eeeeJ	.
 8.bbb	.
-16aaa	.
-16ggg	.
-16fff#	.
-8eee	C
-4eee	Em/B
+16aaaJk	.
+16gggLL	.
+16fff#J	.
+8eeeJ	C major
+4eee	E minor/B
 =3	=3
-16ddd#	B
+16ddd#LL	B major
 16fff#	.
 16ddd#	.
-16fff#	.
+16fff#JJ	.
 4ddd#	.
-16eee	Badd(5,7,8,11)
+16eeeLL	B other-5,7,8,11
 16ggg	.
 16eee	.
-16ggg	.
+16gggJ	.
 8eee	.
-16ddd#	.
-16eee	.
+16ddd#L	.
+16eeeJJ	.
 =4	=4
-16fff#	B7
+16fff#LL	B dominant
 16ggg	.
 16fff#	.
-16ggg	.
+16gggJ	.
 8fff#	.
-8cccc	.
+8ccccJ	.
 4bbb	.
 4r	.
 =5	=5
-16bb	Em
+16bbLL	E minor
 16ccc	.
-16bb	.
+16bbJJ	.
 16r	.
 16gg	.
 16r	.
 16eee	.
 16r	.
-16ddd#	B
+16ddd#	B major
 16r	.
-16ddd#	.
+16ddd#LL	.
 16eee	.
-16fff#	.
+16fff#JJ	.
 16r	.
 16bb	.
 16r	.
 =6	=6
-4r	Em
-16ee	.
+4r	E minor
+16eeLL	.
 16ff#	.
 16gg	.
-16aa	.
-16bb	Em/B
+16aaJJ	.
+16bb	E minor/B
 16r	.
-16aa	.
-16gg	.
-4ff#	B
+16aaLL	.
+16ggJJ	.
+4ff#	B major
 =7	=7
-4ee	C
-4dd#	B
-4gg	C7/A#
-4ff#	B
+4ee	C major
+4dd#	B major
+4gg	C dominant/A#
+4ff#	B major
 =8	=8
-4ccc[	C7/A#
-4ccc]	F#add(4,6,10)
-2bb	B
+[4ccc	C dominant/A#
+4ccc]	F# other-4,6,10
+2bb	B major
 =9	=9
-16bbb	Em
+16bbbLL	E minor
 16cccc#	.
 16bbb	.
-16cccc#	.
+16cccc#J	.
 8.bbb	.
-16aaa#	.
-16bbb	Eadd(3,6,7,11)
+16aaa#Jk	.
+16bbbLL	E other-3,6,7,11
 16dddd#	.
 16bbb	.
-16dddd#	.
+16dddd#JJ	.
 4bbb	.
 =10	=10
-16bbb	Em/G
+16bbbLL	E minor/G
 16eeee	.
 16bbb	.
-16eeee	.
+16eeeeJ	.
 8.bbb	.
-16aaa	.
-16ggg	Am7
-16fff#	.
+16aaaJk	.
+16gggLL	A minor-seventh
+16fff#J	.
 8eee	.
-16ggg	Am7/C
+16gggL	A minor-seventh/C
 16aaa	.
 16bbb	.
-16cccc	.
+16ccccJJ	.
 =11	=11
-8bbb	B
+8bbb	B major
 2r	.
 16r	.
-16ff#	.
+16ff#LL	.
 16bb	.
 16bb	.
 16ccc#	.
-16ddd#	.
+16ddd#JJ	.
 =12	=12
-2eee	Em
+2eee	E minor
 4r	.
 8r	.
-16E	.
-16F#	.
+16ELL	.
+16F#JJ	.
 ==	==
 *-	*-

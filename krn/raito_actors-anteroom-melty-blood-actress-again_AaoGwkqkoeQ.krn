@@ -16,61 +16,61 @@
 *g:	*
 *M4/4	*
 =1	=1
-8ff	E-maj7
+8ff	E- major-seventh
 8r	.
 8ff	.
 8r	.
-8ff	.
-8b-	.
+8ffL	.
+8b-J	.
 8r	.
 8a	.
 =2	=2
-8r	Dadd(3,4,7,10)
+8r	D other-3,4,7,10
 8b-	.
 8r	.
 4cc	.
-8b-	.
+8b-L	.
 8cc	.
-8dd	.
+8ddJ	.
 =3	=3
-2..r	Gm11
-16ff	.
-16gg	.
+2..r	G minor-11th
+16ffLL	.
+16ggJJ	.
 =4	=4
-8ff	Gm7
+8ffL	G minor-seventh
 8dd	.
 8cc	.
-8b-	.
-8cc	B-add(1,5,7,10)
+8b-J	.
+8ccL	B- other-1,5,7,10
 8b-	.
 8g	.
-8f	.
+8fJ	.
 =5	=5
-8ff	E-maj7
+8ff	E- major-seventh
 8r	.
 8ff	.
 8r	.
-8ff	.
-8b-	.
+8ffL	.
+8b-J	.
 8r	.
 8a	.
 =6	=6
-8r	Dadd(3,4,7,10)
+8r	D other-3,4,7,10
 8b-	.
 8r	.
 4cc	.
-8bb-	Dadd(3,4,7,10)/G-
+8bb-L	D other-3,4,7,10/G-
 8aa	.
-8ff	.
+8ffJ	.
 =7	=7
-2..r	Gm11
-16ff	.
-16gg	.
+2..r	G minor-11th
+16ffLL	.
+16ggJJ	.
 =8	=8
-8ff	Fm7
+8ffL	F minor-seventh
 8dd	.
 8cc	.
-8b-[	.
-2b-]	B-7
+[8b-J	.
+2b-]	B- dominant
 ==	==
 *-	*-

@@ -16,117 +16,117 @@
 *d#:	*
 *M3/4	*
 =1	=1
-8dd#	D#m
+8dd#	D# minor
 8r	.
-8dd#	.
-8gg#	.
+8dd#L	.
+8gg#J	.
 8aa#	.
 8r	.
 =2	=2
-8gg#	C#
-8aa#	.
-8gg#	.
-8ff#	.
+8gg#L	C# major
+8aa#J	.
+8gg#L	.
+8ff#J	.
 16ee#	.
 16r	.
 8cc#	.
 =3	=3
-8dd#	B
+8dd#	B major
 8r	.
-8dd#	.
-16gg#	.
-16aan	.
+8dd#L	.
+16gg#L	.
+16aanJJ	.
 8aa#	.
 8r	.
 =4	=4
-4ccc#	A#m
+4ccc#	A# minor
 4gg#	.
-8ff#	.
-8ee#	.
+8ff#L	.
+8ee#J	.
 =5	=5
-8dd#	G#
+8dd#	G# major
 8r	.
-8dd#	.
-8ee#	.
+8dd#L	.
+8ee#J	.
 16ggn	.
 16r	.
 8aa#	.
 =6	=6
 *k[b-e-]	*
 *g:	*
-4aa	F
+4aa	F major
 4.gg	.
 8ff	.
 =7	=7
-4gg	Gm
-8dd	.
-16dd	.
+4gg	G minor
+8ddL	.
+16ddJk	.
 16r	.
 4cc	.
 =8	=8
-2.gg	Gm
+2.gg	G minor
 =9	=9
 *k[b-e-a-]	*
 *c:	*
-8gg	A-
+8gg	A- major
 8r	.
-8gg	.
-8ddd	.
+8ggL	.
+8dddJ	.
 8eee-	.
 8r	.
 =10	=10
-16ddd-	B-
-8.ddd	.
+16ddd-LK	B- major
+8.dddJ	.
 4.bb-	.
 8ff	.
 =11	=11
-8gg	Cm
+8gg	C minor
 8r	.
-8gg	.
-8ddd	.
+8ggL	.
+8dddJ	.
 8eee-	.
 16r	.
 16eeen	.
 =12	=12
-4fff	B-
+4fff	B- major
 4.ddd	.
 8bb-	.
 =13	=13
 *k[f#c#g#d#a#e#]	*
 *d#:	*
-8bb	B
-16ccc#	.
+8bbL	B major
+16ccc#Jk	.
 16r	.
-8ddd#	.
-8fff#	.
-8eee#	.
-8ccc#	.
+8ddd#L	.
+8fff#J	.
+8eee#L	.
+8ccc#J	.
 =14	=14
-8gg#	C#
-16ff#	.
+8gg#L	C# major
+16ff#Jk	.
 16r	.
 16ee#	.
 16r	.
-16gg#	.
+16gg#LL	.
+16aa#JJ	.
+16ccc#LL	.
 16aa#	.
-16ccc#	.
-16aa#	.
 16gg#	.
-16ff#	.
+16ff#JJ	.
 =15	=15
-8ee#	D#m
-8ff#	.
+8ee#L	D# minor
+8ff#J	.
 16ccc#	.
 16r	.
 8dd#	.
-8ee#	.
-8ff#	.
+8ee#L	.
+8ff#J	.
 =16	=16
-8gg#	D#m
-8aa#	.
-8ccc#	.
-8ee#	.
-8ff#	.
-8ccc#	.
+8gg#L	D# minor
+8aa#J	.
+8ccc#L	.
+8ee#J	.
+8ff#L	.
+8ccc#J	.
 ==	==
 *-	*-

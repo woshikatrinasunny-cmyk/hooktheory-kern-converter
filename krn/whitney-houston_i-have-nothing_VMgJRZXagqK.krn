@@ -16,81 +16,81 @@
 *B-:	*
 *M6/4	*
 =1	=1
-1ddd	E-add(2,4,7)
-4ccc	Dm7
-8bb-	.
-8bb-[	.
+1ddd	E- other-2,4,7
+4ccc	D minor-seventh
+8bb-L	.
+[8bb-J	.
 =2	=2
-2.bb-]	Cadd(2,3,7)
+2.bb-]	C other-2,3,7
 4r	.
-8ccc	.
-8bb-	.
-8bb-	.
-8ccc	.
+8cccL	.
+8bb-J	.
+8bb-L	.
+8cccJ	.
 =3	=3
-1aa	Dm7
+1aa	D minor-seventh
 4gg	.
 4ff	.
 =4	=4
-8ff	Gm7
-8gg	.
+8ffL	G minor-seventh
+8ggJ	.
 2r	.
-4bb-	Dm/F
+4bb-	D minor/F
 4ccc	.
 4fff	.
 =5	=5
-1ddd	E-add(2,4,7)
-4ccc	Dm7
-8bb-	.
-8bb-[	.
+1ddd	E- other-2,4,7
+4ccc	D minor-seventh
+8bb-L	.
+[8bb-J	.
 =6	=6
-2bb-]	Cadd(2,3,7)
+2bb-]	C other-2,3,7
 8r	.
 8gg	.
 4bb-	.
 4.bb-	.
 8ccc	.
 =7	=7
-1aa	Dm7
+1aa	D minor-seventh
 4gg	.
 4ff	.
 =8	=8
-8ff	Gm7
-8gg	.
+8ffL	G minor-seventh
+8ggJ	.
 4dd	.
 4r	.
-4dd	Dm/F
+4dd	D minor/F
 4ff	.
 8r	.
 8ff	.
 =9	=9
-4gg	Cadd(2,3,7)
+4gg	C other-2,3,7
 4bb-	.
 1bb-	.
 =10	=10
-2.ff	Gm7
-4r	Dm/F
+2.ff	G minor-seventh
+4r	D minor/F
 4gg	.
 4bb-	.
 =11	=11
-4bb-	E-add(2,4,7)
+4bb-	E- other-2,4,7
 4gg	.
 4r	.
-4bb-	B-add(2,4,7)/D
+4bb-	B- other-2,4,7/D
 4gg	.
 4r	.
 =12	=12
-4ddd	Cm7
+4ddd	C minor-seventh
 4bb-	.
 2r	.
 4bb-	.
 4aa	.
 =13	=13
-2.gg	F/C
-2.aa	F7
+2.gg	F major/C
+2.aa	F dominant
 =14	=14
-4ccc	B-
-1bb-[	.
+4ccc	B- major
+[1bb-	.
 4bb-]	.
 ==	==
 *-	*-

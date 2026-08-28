@@ -17,112 +17,112 @@
 *M4/4	*
 =1	=1
 8r	.
-16r	D#m
-16r	D#m
+16r	D# minor
+16r	D# minor
 8r	.
-16r	D#m
-16r	D#m
+16r	D# minor
+16r	D# minor
 8r	.
-16r	D#m
-16r	D#m
+16r	D# minor
+16r	D# minor
 16r	.
-16r	D#m
-8r	D#m
+16r	D# minor
+8r	D# minor
 =2	=2
 8r	.
-16r	B/D#
-16r	B/D#
+16r	B major/D#
+16r	B major/D#
 8r	.
-16r	B/D#
-16r	B/D#
+16r	B major/D#
+16r	B major/D#
 8r	.
-16r	B/D#
-16r	B/D#
+16r	B major/D#
+16r	B major/D#
 16r	.
-16r	B/D#
-8r	B/D#
+16r	B major/D#
+8r	B major/D#
 =3	=3
 8r	.
-16r	F#/C#
-16r	F#/C#
+16r	F# major/C#
+16r	F# major/C#
 8r	.
-16r	F#/C#
-16r	F#/C#
+16r	F# major/C#
+16r	F# major/C#
 8r	.
-16r	F#/C#
-16r	F#/C#
+16r	F# major/C#
+16r	F# major/C#
 16r	.
-16r	F#/C#
-8r	F#/C#
+16r	F# major/C#
+8r	F# major/C#
 =4	=4
 8r	.
-16r	C#
-16r	C#
+16r	C# major
+16r	C# major
 8r	.
-16r	C#
-16r	C#
+16r	C# major
+16r	C# major
 8r	.
-16r	C#
-16r	C#
+16r	C# major
+16r	C# major
 16r	.
-16r	C#
-8r	C#
+16r	C# major
+8r	C# major
 =5	=5
-8D#[	.
-16D#]	D#m
-16r	D#m
+[8D#L	.
+16D#Jk]	D# minor
+16r	D# minor
 8F#	.
-16r	D#m
-16F#[	D#m
-16F#]	.
+16r	D# minor
+[16F#	D# minor
+16F#LL]	.
 16G#	.
-16F#[	D#m
-16F#]	D#m
-16D#[	.
-16D#_	D#m
-16D#]	D#m
-16C#	.
+[16F#	D# minor
+16F#]	D# minor
+[16D#	.
+16D#_	D# minor
+16D#]	D# minor
+16C#JJ	.
 =6	=6
-8BB[	.
-16BB]	B/D#
-16r	B/D#
+[8BBL	.
+16BBJk]	B major/D#
+16r	B major/D#
 8F#	.
-16r	B/D#
-16F#[	B/D#
-16F#]	.
+16r	B major/D#
+[16F#	B major/D#
+16F#LL]	.
 16G#	.
-16F#[	B/D#
-16F#]	B/D#
-16D#[	.
-16D#]	B/D#
-8BB	B/D#
+[16F#	B major/D#
+16F#]	B major/D#
+[16D#	.
+16D#J]	B major/D#
+8BBJ	B major/D#
 =7	=7
-8F#[	.
-16F#]	F#/C#
-16r	F#/C#
+[8F#L	.
+16F#Jk]	F# major/C#
+16r	F# major/C#
 8A#	.
-16r	F#/C#
-16c#[	F#/C#
-16c#]	.
+16r	F# major/C#
+[16c#	F# major/C#
+16c#LL]	.
 16d#	.
-16c#[	F#/C#
-16c#]	F#/C#
-16A#[	.
-16A#]	F#/C#
-8F#	F#/C#
+[16c#	F# major/C#
+16c#]	F# major/C#
+[16A#	.
+16A#J]	F# major/C#
+8F#J	F# major/C#
 =8	=8
-8C#[	.
-16C#]	C#
-16r	C#
+[8C#L	.
+16C#Jk]	C# major
+16r	C# major
 8E#	.
-16r	C#
-16F#[	C#
-16F#]	.
+16r	C# major
+[16F#	C# major
+16F#LL]	.
 16G#	.
-16F#[	C#
-16F#]	C#
-16C#[	.
-16C#]	C#
-8E#	C#
+[16F#	C# major
+16F#]	C# major
+[16C#	.
+16C#J]	C# major
+8E#J	C# major
 ==	==
 *-	*-

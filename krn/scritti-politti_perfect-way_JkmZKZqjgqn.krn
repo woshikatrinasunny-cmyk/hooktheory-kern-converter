@@ -16,42 +16,42 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4.dd	B-
+4.dd	B- major
 4.ff	.
-4dd-	B-/D
+4dd-	B- major/D
 =2	=2
-4cc	E-
+4cc	E- major
 4b-	.
 4r	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 =3	=3
-4b-	Fsus4
-8b-[	.
-8b-]	C7/E
+4b-	F suspended-fourth
+[8b-L	.
+8b-J]	C dominant/E
 4g	.
 4g	.
 =4	=4
-4.r	A-
-8b-	E-/G
-8b-	.
-8b-	.
+4.r	A- major
+8b-	E- major/G
+8b-L	.
+8b-J	.
 4cc	.
 =5	=5
-4.dd	B-
+4.dd	B- major
 4.ff	.
-4dd-	B-/D
+4dd-	B- major/D
 =6	=6
-4cc	E-
+4cc	E- major
 4b-	.
 4gg	.
 4ff	.
 =7	=7
-2.r	A-
+2.r	A- major
 4gg	.
 =8	=8
-8dd-	E-/G
-8cc	.
+8dd-L	E- major/G
+8ccJ	.
 2.r	.
 ==	==
 *-	*-

@@ -16,74 +16,74 @@
 *E:	*
 *M4/4	*
 =1	=1
-8e	E
+8eL	E major
 8b	.
 8ee	.
-8bb	.
-4aa	F#m7/E
+8bbJ	.
+4aa	F# minor-seventh/E
 4r	.
 =2	=2
-8r	G#m
-8b	.
+8r	G# minor
+8bL	.
 8ee	.
-8bb	.
-8aa	A
+8bbJ	.
+8aaL	A major
 8gg#	.
-8ee	B
-8b	.
+8ee	B major
+8bJ	.
 =3	=3
-8r	C#m
-8b	.
+8r	C# minor
+8bL	.
 8ee	.
-8bb	.
-4aa	B
+8bbJ	.
+4aa	B major
 4r	.
 =4	=4
-8r	A
-8b	.
+8r	A major
+8bL	.
 8ee	.
-8bb	.
-8aa	B
+8bbJ	.
+8aaL	B major
 8gg#	.
 8ee	.
-8b	.
+8bJ	.
 =5	=5
-2f#	Esus2
-2g#	E
+2f#	E suspended-second
+2g#	E major
 =6	=6
-2a	Esus4
-2g#	E
+2a	E suspended-fourth
+2g#	E major
 =7	=7
-2e	C
+2e	C major
 4f#	.
 4e	.
 =8	=8
-2dn	Em
-2ee	E
+2dn	E minor
+2ee	E major
 =9	=9
-2e	C
+2e	C major
 4f#	.
-8gn	.
-8a	.
+8gnL	.
+8aJ	.
 =10	=10
-2b	E
+2b	E major
 2gg#	.
 =11	=11
-4.ee	C
-16dd#	.
-16ee	.
+4.ee	C major
+16dd#LL	.
+16eeJJ	.
 4ff#	.
 4ee	.
 =12	=12
-2ddn	Em
+2ddn	E minor
 4.ee	.
-16ddn	.
-16ee	.
+16ddnLL	.
+16eeJJ	.
 =13	=13
-1ffn	D#maj9
+1ffn	D# major-ninth
 =14	=14
 2r	.
-4ddn	D
-4ee	E
+4ddn	D major
+4ee	E major
 ==	==
 *-	*-

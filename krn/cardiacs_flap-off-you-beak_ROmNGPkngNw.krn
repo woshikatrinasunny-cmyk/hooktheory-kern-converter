@@ -15,72 +15,72 @@
 *A:	*
 *M4/4	*
 =1	=1
-2cc#	A
-8dd	D
+2cc#	A major
+8dd	D major
 4dd	.
-8ccn[	.
+[8ccn	.
 =2	=2
-8ccn]	F
+8ccn]	F major
 4ccn	.
-8ggn[	.
-8ggn]	G
+[8ggn	.
+8ggn]	G major
 4ggn	.
-8cc#[	.
+[8cc#	.
 =3	=3
-8cc#]	A
+8cc#]	A major
 4r	.
-8dd[	.
-8dd]	D
+[8dd	.
+8dd]	D major
 4dd	.
-8ccn[	.
+[8ccn	.
 =4	=4
-8ccn]	F
+8ccn]	F major
 4ccn	.
-8ggn[	.
-8ggn]	G
+[8ggn	.
+8ggn]	G major
 4ggn	.
-8ggn[	.
+[8ggn	.
 =5	=5
-8ggn]	D#
+8ggn]	D# major
 4r	.
-8cccn[	.
-8cccn]	G#
+[8cccn	.
+8cccn]	G# major
 4dd#	.
-8ffn[	.
+[8ffn	.
 =6	=6
-8ffn]	C#
+8ffn]	C# major
 4r	.
-8aa#[	.
-8aa#]	F#
+[8aa#	.
+8aa#]	F# major
 4cc#	.
-8dd#[	.
+[8dd#	.
 =7	=7
-8dd#]	B
+8dd#]	B major
 4dd#	.
-8gg#[	.
-8gg#]	E
+[8gg#	.
+8gg#]	E major
 4b	.
 8cc#	.
 =8	=8
-4.cc#	A
-16dd#	.
-16cc#	.
-2b	E
+4.cc#	A major
+16dd#LL	.
+16cc#JJ	.
+2b	E major
 =9	=9
-2r	A
-8r	E
+2r	A major
+8r	E major
+8dd#L	.
 8dd#	.
-8dd#	.
-8dd#	.
+8dd#J	.
 =10	=10
-4.dd#	B
+4.dd#	B major
 8ee	.
-2cc#	F#
+2cc#	F# major
 =11	=11
-2r	A
-2r	E
+2r	A major
+2r	E major
 =12	=12
-2r	A
-2r	E
+2r	A major
+2r	E major
 ==	==
 *-	*-

@@ -15,65 +15,65 @@
 *e:	*
 *M4/4	*
 =1	=1
-8b	Em
+8b	E minor
 8r	.
 8b	.
 8r	.
-8a	Dadd(2,4,7)
+8a	D other-2,4,7
 8r	.
 8a	.
 8r	.
 =2	=2
-8g	C
+8g	C major
 16r	.
 8.g	.
-4.f#	Em11
+4.f#	E minor-11th
 4r	.
 =3	=3
-8b	Em
+8b	E minor
 8r	.
 8b	.
 8r	.
-8a	Dadd(2,4,7)
+8a	D other-2,4,7
 8r	.
 8a	.
 8r	.
 =4	=4
-8g	C
+8g	C major
 16r	.
 8.b	.
-2a	Dadd(2,4,7)
+2a	D other-2,4,7
 8r	.
 =5	=5
-8b	Em
+8b	E minor
 8r	.
 8b	.
 8r	.
-8a	Dadd(2,4,7)
+8a	D other-2,4,7
 8r	.
 8a	.
 8r	.
 =6	=6
-8g	C
+8g	C major
 16r	.
 8.g	.
-2f#	Em11
+2f#	E minor-11th
 8r	.
 =7	=7
-8b	Em
+8b	E minor
 8r	.
 8b	.
 8r	.
-8a	Dadd(2,4,7)
+8a	D other-2,4,7
 8r	.
 8a	.
 8r	.
 =8	=8
-8.bb	Aadd(4,5,7)/E
-8.aa	Eadd(3,5,7,9,10)/D
-8.gg	Badd(2,5,7,8,10)
-8.ee	Aadd(4,5,7,10)
-8dd[	A7/G
-8dd]	Fadd(2,4,8,11)
+8.bbL	A other-4,5,7/E
+8.aaJ	E other-3,5,7,9,10/D
+8.gg	B other-2,5,7,8,10
+8.eeL	A other-4,5,7,10
+[8dd	A dominant/G
+8ddJ]	F other-2,4,8,11
 ==	==
 *-	*-

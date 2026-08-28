@@ -16,75 +16,75 @@
 *C:	*
 *M4/4	*
 =1	=1
-4aa	F
+4aa	F major
 4bb	.
 4ccc	.
 4eee	.
 =2	=2
-1ddd	G
+1ddd	G major
 =3	=3
-4gg	Em
+4gg	E minor
 4aa	.
 4bb	.
 4ddd	.
 =4	=4
-3...ccc	Am
-8ccc	.
+3...ccc	A minor
+8cccL	.
 8bb	.
-8ccc	.
+8cccJ	.
 =5	=5
-3...aa	F
-8aa	.
+3...aa	F major
+8aaL	.
 8bb	.
-8ccc	.
+8cccJ	.
 =6	=6
-4.ccc	G
+4.ccc	G major
 4bb	.
 4aa	.
 8bb	.
 =7	=7
-2gg	Em
-2eee[	.
+2gg	E minor
+[2eee	.
 =8	=8
-2eee]	Am
-16aaa	.
+2eee]	A minor
+16aaaLL	.
 16eee	.
 16ccc	.
 16aa	.
 16eee	.
 16ccc	.
 16aa	.
-16ee	.
+16eeJJ	.
 =9	=9
-4aa	F
+4aa	F major
 4bb	.
 4ccc	.
 4eee	.
 =10	=10
-2ddd[	G7
-2ddd]	G
+[2ddd	G dominant
+2ddd]	G major
 =11	=11
-4gg	Em
+4gg	E minor
 4aa	.
 4bb	.
 4ddd	.
 =12	=12
-3...ccc	Am
-8ccc	.
+3...ccc	A minor
+8cccL	.
 8bb	.
-8ccc	.
+8cccJ	.
 =13	=13
-3...aa	F
-8aa	.
+3...aa	F major
+8aaL	.
 8bb	.
-8ccc	.
+8cccJ	.
 =14	=14
-4.ccc	D/F#
+4.ccc	D major/F#
 4bb	.
 4.ccc	.
 =15	=15
-1ddd	Gsus4
+1ddd	G suspended-fourth
 =16	=16
-1r	G
+1r	G major
 ==	==
 *-	*-

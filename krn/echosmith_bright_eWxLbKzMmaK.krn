@@ -16,56 +16,56 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8r	F#
+8r	F# major
+8ff#L	.
 8ff#	.
-8ff#	.
-16ff#	.
+16ff#Jk	.
 8.ff#	.
-16cc#	.
+16cc#LK	.
 8.cc#	.
-8a#	.
+8a#J	.
 =2	=2
-4a#	F#
+4a#	F# major
 8r	.
 8cc#	.
 4a#	.
-4r	C#/E#
+4r	C# major/E#
 =3	=3
-4r	D#m7
+4r	D# minor-seventh
+16ff#LL	.
 16ff#	.
-16ff#	.
-16ff#	.
+16ff#JJ	.
 8.ff#	.
+8cc#L	.
 8cc#	.
-8cc#	.
-16a#	.
-16a#[	.
+16a#L	.
+[16a#JJ	.
 =4	=4
-4a#]	D#m7
+4a#]	D# minor-seventh
 8r	.
 16cc#	.
 6...a#	.
 4r	.
 =5	=5
-4r	Bsus2
+4r	B suspended-second
 8.aa#	.
 8ff#	.
 4ff#	.
 8.r	.
 =6	=6
-8r	C#sus4
-8dd#	.
+8r	C# suspended-fourth
+8dd#L	.
 8.aa#	.
-16ff#	.
+16ff#Jk	.
 8ff#	.
 4ee#	.
-8ee#[	.
+[8ee#	.
 =7	=7
-8ee#]	F#
+8ee#]	F# major
 4cc#	.
 4.r	.
-4r	Bsus2
+4r	B suspended-second
 =8	=8
-1r	F#
+1r	F# major
 ==	==
 *-	*-

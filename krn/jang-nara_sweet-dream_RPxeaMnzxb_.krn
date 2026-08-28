@@ -17,58 +17,58 @@
 *M4/4	*
 =1	=1
 8r	.
-8dd	.
+8ddL	.
 8gg	.
-8aa	.
-8bb	.
+8aaJ	.
+8bbL	.
 8aa	.
 8gg	.
-8ff#	.
+8ff#J	.
 =2	=2
-4ee	Am
+4ee	A minor
 4cc	.
 8a	.
 4bb	.
-8aa[	.
+[8aa	.
 =3	=3
-8aa]	D
+8aaL]	D major
 8ff#	.
 8ff#	.
+8ggJ	.
+8aaL	.
 8gg	.
-8aa	.
-8gg	.
 8ff#	.
-8ee	.
+8eeJ	.
 =4	=4
-4dd	Bm
+4dd	B minor
 4b	.
 8b	.
 4aa	.
-8gg[	.
+[8gg	.
 =5	=5
-8gg]	Em
+8ggL]	E minor
 8ee	.
 8ee	.
+8ff#J	.
+8ggL	.
 8ff#	.
-8gg	.
-8ff#	.
 8ee	.
-8dd	.
+8ddJ	.
 =6	=6
-4cc	Am
+4cc	A minor
 4a	.
 4a	.
-8gg	.
-8ff#[	.
+8ggL	.
+[8ff#J	.
 =7	=7
-4ff#]	D
-8ff#	.
-8gg	.
+4ff#]	D major
+8ff#L	.
+8ggJ	.
 4ff#	.
-8ee	.
-8ee[	.
+8eeL	.
+[8eeJ	.
 =8	=8
-8ee]	G
+8ee]	G major
 2..dd	.
 ==	==
 *-	*-

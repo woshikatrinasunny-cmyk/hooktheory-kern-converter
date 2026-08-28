@@ -16,43 +16,43 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4r	D#m
-4A#	D#m/A#
-8.B[	G#m
-16B]	G#m7/D#
+4r	D# minor
+4A#	D# minor/A#
+[8.BL	G# minor
+16Bk]	G# minor-seventh/D#
 8F#	.
-8E#[	Bm/D
+[8E#J	B minor/D
 =2	=2
-4E#_	C#
-4E#]	C#/G#
-8.r	A#
-8.r	E#m/C
-8r	A#/D
+4E#_	C# major
+4E#]	C# major/G#
+8.r	A# major
+8.r	E# minor/C
+8r	A# major/D
 =3	=3
-4r	D#m
-4A#	D#m/A#
-8.B[	G#m
-16B]	G#m7/D#
-8B[	.
-8B]	Bm/D
+4r	D# minor
+4A#	D# minor/A#
+[8.BL	G# minor
+16Bk]	G# minor-seventh/D#
+[8B	.
+8BJ]	B minor/D
 =4	=4
-4c#[	C#
-4c#]	C#/G#
-8.dn[	A#
-8.dn]	E#m/C
-8d#[	A#/D
+[4c#	C# major
+4c#]	C# major/G#
+[8.dnL	A# major
+8.dn]	E# minor/C
+[8d#J	A# major/D
 =5	=5
-4d#_	D#m
-4d#_	D#m/A#
-8.d#_	G#m
-8.d#_	G#m7/D#
-8d#]	Bm/D
+4d#_	D# minor
+4d#_	D# minor/A#
+8.d#L_	G# minor
+8.d#_	G# minor-seventh/D#
+8d#J]	B minor/D
 =6	=6
-2r	C#
+2r	C# major
 4.e#	.
-8c#[	.
+[8c#	.
 =7	=7
-1c#]	F#
+1c#]	F# major
 =8	=8
 1r	.
 ==	==

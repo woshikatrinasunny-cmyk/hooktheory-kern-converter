@@ -16,100 +16,100 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8g#	F#/C#
+8g#L	F# major/C#
 8f#	.
 8f#	.
-16e	.
+16eJk	.
 8.e	.
-8c#	.
+8c#L	.
 8e	.
-8f#	.
+8f#J	.
 =2	=2
-8r	A7
-8e	.
-8c#	.
-8r	F#7
-8gn	.
-8e	.
-8r	B11
+8r	A dominant
+8eL	.
+8c#J	.
+8r	F# dominant
+8gnL	.
+8eJ	.
+8r	B dominant-11th
 8b	.
 =3	=3
-2.cc#[	C#m7
-4cc#]	F#7
+[2.cc#	C# minor-seventh
+4cc#]	F# dominant
 =4	=4
-8.cc#	.
+8.cc#L	.
 8.b	.
-8a#	.
-8.g#	.
+8a#J	.
+8.g#L	.
 8.f#	.
-8e	.
+8eJ	.
 =5	=5
-8.d#	.
+8.d#L	.
 8.c#	.
-8d#	.
-8.f#	F#
-8.e	C#m7/E
-8e	A
+8d#J	.
+8.f#L	F# major
+8.e	C# minor-seventh/E
+8eJ	A major
 =6	=6
 4..d#	.
 8e	.
-4..c#[	.
+[4..c#	.
 =7	=7
 4c#]	.
 4..r	.
-8.r	B
-16cc#	C#m7
-16b[	.
+8.r	B major
+16cc#LL	C# minor-seventh
+[16bJJ	.
 =8	=8
-8.b]	.
+8.bL]	.
 8b	.
-8.a#	.
+8.a#J	.
 6g#	.
 6e	.
 6e	.
 =9	=9
-16e	C#m7/B
+16eLK	C# minor-seventh/B
 8c#	.
 8.c#	.
-8d#	.
-8e	.
-8f#	.
+8d#J	.
+8eL	.
+8f#J	.
 4g#	.
 =10	=10
-8f#	A#m7b5
-16e	.
+8f#L	A# half-diminished
+16eJk	.
 6...c#	.
 2r	.
 =11	=11
-6e	Amaj7
+6e	A major-seventh
 6f#	.
 6g#	.
 4b	.
-8an	.
-8g#	.
+8anL	.
+8g#J	.
 =12	=12
-4.g#	G#7sus4
+4.g#	G# dominant-seventh-suspended-fourth
 8f#	.
-8.dd#	.
-16ff#	.
+8.dd#L	.
+16ff#Jk	.
 8r	.
-8gg#[	.
+[8gg#	.
 =13	=13
-2gg#]	G#7
+2gg#]	G# dominant
 8r	.
 16eee	.
 16r	.
-16ccc#	.
-16bb	.
+16ccc#LL	.
+16bbJJ	.
 16r	.
 16ccc#	.
 =14	=14
-2r	F#/C#
+2r	F# major/C#
 16r	.
-16B	.
+16BLK	.
 8B	.
 8d#	.
-16e	.
-16e	.
+16eL	.
+16eJJ	.
 ==	==
 *-	*-

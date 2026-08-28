@@ -16,53 +16,53 @@
 *C:	*
 *M3/4	*
 =1	=1
-8gg	Cadd(2,4,7)
+8ggL	C other-2,4,7
+8ggJ	.
 8gg	.
-8gg	.
-4aa	Cadd(2,4,7)
+4aa	C other-2,4,7
 8gg	.
 =2	=2
-8ee	Cadd(2,4,7)
-8gg	.
+8eeL	C other-2,4,7
+8ggJ	.
 8ccc	.
-4.gg	Cadd(2,4,7)
+4.gg	C other-2,4,7
 =3	=3
-8ccc	F
-8ccc	.
-8ccc	.
-8ddd	G#dim
-8ccc	.
-8ddd	.
+8cccL	F major
+8cccJ	.
+8cccL	.
+8dddJ	G# diminished
+8cccL	.
+8dddJ	.
 =4	=4
-8eee	Gsus4
+8eee	G suspended-fourth
 8.gg	.
 16aa	.
-4.gg	Gsus4
+4.gg	G suspended-fourth
 =5	=5
-8gg	Cadd(2,4,7)
-8gg	.
-8gg	.
-8aa	Cadd(2,4,7)
-8ccc	.
-8gg	.
+8ggL	C other-2,4,7
+8ggJ	.
+8ggL	.
+8aaJ	C other-2,4,7
+8cccL	.
+8ggJ	.
 =6	=6
-8ee	Cadd(2,4,7)
-8gg	.
-8ccc	.
-8gg	Cadd(2,4,7)
-8aa	.
-8ccc	.
+8eeL	C other-2,4,7
+8ggJ	.
+8cccL	.
+8ggJ	C other-2,4,7
+8aaL	.
+8cccJ	.
 =7	=7
-8ddd	F
-8ccc	.
-8ddd	.
-8ccc	E7
-8gg#	.
-8aa#	.
+8dddL	F major
+8cccJ	.
+8dddL	.
+8cccJ	E dominant
+8gg#L	.
+8aa#J	.
 =8	=8
-4.gg[	Cadd(2,4,7)
-8gg]	Cadd(2,4,7)
-8ee	.
-8ff	.
+[4.gg	C other-2,4,7
+8gg]	C other-2,4,7
+8eeL	.
+8ffJ	.
 ==	==
 *-	*-

@@ -16,100 +16,100 @@
 *a:	*
 *M3/4	*
 =1	=1
-4r	Am
+4r	A minor
 4A	.
 4B	.
 =2	=2
-4r	C
+4r	C major
 4A	.
 4B	.
 =3	=3
-4r	Dm
+4r	D minor
 4B	.
 4c	.
 =4	=4
-4B	F
+4B	F major
 4A	.
 4G	.
 =5	=5
-4r	Am
+4r	A minor
 4A	.
 4B	.
 =6	=6
-4r	C
+4r	C major
 4A	.
 4B	.
 =7	=7
-4r	Dm
+4r	D minor
 4B	.
 4c	.
 =8	=8
-4B	F
+4B	F major
 4A	.
 4G	.
 =9	=9
-4r	Am
-4c	Am
-4d	Asus2
+4r	A minor
+4c	A minor
+4d	A suspended-second
 =10	=10
-4r	C
-4e	Am7/C
-4g	Cmaj7
+4r	C major
+4e	A minor-seventh/C
+4g	C major-seventh
 =11	=11
-4r	Dm
-4g	Bdim7/D
-4a	Dm7
+4r	D minor
+4g	B diminished-seventh/D
+4a	D minor-seventh
 =12	=12
-4g	Fadd(6,7)
-4f	F
-4e	Fsus2
+4g	F other-6,7
+4f	F major
+4e	F suspended-second
 =13	=13
-4r	Am
-4c	Am
-4d	Asus2
+4r	A minor
+4c	A minor
+4d	A suspended-second
 =14	=14
-4r	C
-4e	Am7/C
-4g	Cmaj7
+4r	C major
+4e	A minor-seventh/C
+4g	C major-seventh
 =15	=15
-4r	Dm
-4g	Bdim7/D
-4a	Dm7
+4r	D minor
+4g	B diminished-seventh/D
+4a	D minor-seventh
 =16	=16
-4g	Fadd(6,7)
-4f	F
-4e	Fsus2
+4g	F other-6,7
+4f	F major
+4e	F suspended-second
 =17	=17
-4r	Am
-4a	Am
-4b	Asus4
+4r	A minor
+4a	A minor
+4b	A suspended-fourth
 =18	=18
-4r	C
-4a	C
-4b	Cmaj7
+4r	C major
+4a	C major
+4b	C major-seventh
 =19	=19
-4r	Dm
-4b	Dsus4
-4cc	Dm
+4r	D minor
+4b	D suspended-fourth
+4cc	D minor
 =20	=20
-4b	Fadd(2,4,7)
-4a	F
-4g	Fmaj7
+4b	F other-2,4,7
+4a	F major
+4g	F major-seventh
 =21	=21
-4r	Am
-4a	Am
-4b	Asus4
+4r	A minor
+4a	A minor
+4b	A suspended-fourth
 =22	=22
-4r	C
-4a	C
-4b	Cmaj7
+4r	C major
+4a	C major
+4b	C major-seventh
 =23	=23
-4r	Dm
-4b	Dsus4
-4cc	Dm
+4r	D minor
+4b	D suspended-fourth
+4cc	D minor
 =24	=24
-4b	Fadd(2,4,7)
-4a	F
-4g	Fmaj7
+4b	F other-2,4,7
+4a	F major
+4g	F major-seventh
 ==	==
 *-	*-

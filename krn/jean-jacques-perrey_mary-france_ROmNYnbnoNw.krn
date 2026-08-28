@@ -16,67 +16,67 @@
 *C:	*
 *M4/4	*
 =1	=1
-1e[	C
+[1e	C major
 =2	=2
 4.e]	.
 8e	.
-8f	.
+8fL	.
 8e	.
 8d	.
-8c	.
+8cJ	.
 =3	=3
-4.d	G/B
+4.d	G major/B
 8g	.
-2g[	.
+[2g	.
 =4	=4
 2g]	.
 2r	.
 =5	=5
-1d[	A#
+[1d	A# major
 =6	=6
 4.d]	.
 8e	.
-8f	.
+8fL	.
 8e	.
 8d	.
-8c	.
+8cJ	.
 =7	=7
-4.f	F/A
+4.f	F major/A
 8c	.
-2c[	.
+[2c	.
 =8	=8
 2c]	.
 2r	.
 =9	=9
-1c[	Fm/G#
+[1c	F minor/G#
 =10	=10
 4.c]	.
 8c	.
-8.d	.
+8.dL	.
 8.c	.
-8d	.
+8dJ	.
 =11	=11
-4.f	C/G
+4.f	C major/G
 8e	.
 2e	.
 =12	=12
-4r	Am
+4r	A minor
 4e	.
 4f	.
 4g	.
 =13	=13
-4.g	F
+4.g	F major
 8f	.
 4.f	.
 8e	.
 =14	=14
-4e	F#dim
+4e	F# diminished
 4d	.
 4d	.
 4c	.
 =15	=15
-1d	Gsus4
+1d	G suspended-fourth
 =16	=16
-1r	G
+1r	G major
 ==	==
 *-	*-

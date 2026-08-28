@@ -16,7 +16,7 @@
 *c:	*
 *M4/4	*
 =1	=1
-4g	A-
+4g	A- major
 8f	.
 8r	.
 4e-	.
@@ -25,31 +25,31 @@
 =2	=2
 1r	.
 =3	=3
-1r	Dm7b5/F
+1r	D half-diminished/F
 =4	=4
 3...r	.
-4.r	E-sus2
+4.r	E- suspended-second
 =5	=5
-1r	Cm
+1r	C minor
 =6	=6
 1r	.
 =7	=7
-8r	Cm
+8r	C minor
+8e-L	.
+8f	.
+8e-J	.
+8fL	.
 8e-	.
 8f	.
-8e-	.
-8f	.
-8e-	.
-8f	.
-8e-	.
+8e-J	.
 =8	=8
-4f	E-maj7
+4f	E- major-seventh
 4f	.
-8f	.
-8e-	.
+8fL	.
+8e-J	.
 4f	.
 =9	=9
-4g	A-
+4g	A- major
 8f	.
 8r	.
 4e-	.
@@ -58,32 +58,32 @@
 =10	=10
 1r	.
 =11	=11
-1r	Dm7b5/F
+1r	D half-diminished/F
 =12	=12
 2r	.
-8F	.
-8E-	E-sus2
+8FL	.
+8E-J	E- suspended-second
 4E-	.
 =13	=13
-8.C	Cm
+8.C	C minor
 2.r	.
 16r	.
 =14	=14
 1r	.
 =15	=15
-8r	Cm
+8r	C minor
+8e-L	.
+8f	.
+8e-J	.
+8fL	.
 8e-	.
 8f	.
-8e-	.
-8f	.
-8e-	.
-8f	.
-8e-	.
+8e-J	.
 =16	=16
 4f	.
 4f	.
-8f	.
-8e-	.
+8fL	.
+8e-J	.
 4f	.
 ==	==
 *-	*-

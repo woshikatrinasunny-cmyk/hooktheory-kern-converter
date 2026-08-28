@@ -16,43 +16,43 @@
 *b-:	*
 *M4/4	*
 =1	=1
-1r	B-m
+1r	B- minor
 =2	=2
 1r	.
 =3	=3
-2r	Aadd(3,6,8,9)
-2r	Aadd(3,6,8,9)/C
+2r	A other-3,6,8,9
+2r	A other-3,6,8,9/C
 =4	=4
-2r	Aadd(3,6,8,9)/E-
-2r	Aadd(3,6,8,9)/G-
+2r	A other-3,6,8,9/E-
+2r	A other-3,6,8,9/G-
 =5	=5
-2r	Ddim7/F
-2r	Ddim7/A-
+2r	D diminished-seventh/F
+2r	D diminished-seventh/A-
 =6	=6
-2r	Ddim7/B
-2r	Ddim
+2r	D diminished-seventh/B
+2r	D diminished
 =7	=7
-1r	E-add(2,3,7)
+1r	E- other-2,3,7
 =8	=8
 1r	.
 =9	=9
-1r	Fadd(1,4,7,10)
+1r	F other-1,4,7,10
 =10	=10
 1r	.
 =11	=11
-1r	B-m
+1r	B- minor
 =12	=12
-1r	B-7/A-
+1r	B- dominant/A-
 =13	=13
-1r	E-m9
+1r	E- minor-ninth
 =14	=14
-1r	D-
+1r	D- major
 =15	=15
-1r	G-maj7
+1r	G- major-seventh
 =16	=16
-1r	D-
+1r	D- major
 =17	=17
-1r	F7
+1r	F dominant
 =18	=18
 1r	.
 =19	=19

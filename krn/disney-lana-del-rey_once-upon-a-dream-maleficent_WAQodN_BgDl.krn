@@ -16,90 +16,90 @@
 *F:	*
 *M3/4	*
 =1	=1
-4.f	F
-4.e	Fmaj7
+4.f	F major
+4.e	F major-seventh
 =2	=2
-4f	F
-8d	.
-8e	Fmaj7
-8f	.
-8d	.
+4f	F major
+8dL	.
+8eJ	F major-seventh
+8fL	.
+8dJ	.
 =3	=3
-4e	C7
+4e	C dominant
 8g	.
-4a	B
+4a	B major
 8g-	.
 =4	=4
-2g	C7
+2g	C dominant
 4r	.
 =5	=5
-4.cc	F/C
-4.bn	Bdim
+4.cc	F major/C
+4.bn	B diminished
 =6	=6
-4b-	B-
-8g	.
-8b-	.
-8a	.
-8g	.
+4b-	B- major
+8gL	.
+8b-J	.
+8aL	.
+8gJ	.
 =7	=7
-4dd	F
+4dd	F major
 8cc	.
 4b-	.
 8a	.
 =8	=8
-8a	C7
-8g	.
-8g-	.
-8g	.
-8d	.
-8e	.
+8aL	C dominant
+8gJ	.
+8g-L	.
+8gJ	.
+8dL	.
+8eJ	.
 =9	=9
-4.f	F
-4.e	Am
+4.f	F major
+4.e	A minor
 =10	=10
-4f	F
-8d	.
-8e	Am
-8f	.
-8d	.
+4f	F major
+8dL	.
+8eJ	A minor
+8fL	.
+8dJ	.
 =11	=11
-4e	C7
+4e	C dominant
 8g	.
-4a	B
+4a	B major
 8g-	.
 =12	=12
-4.g	C7
+4.g	C dominant
 8r	.
-8bn	.
-8dd	.
+8bnL	.
+8ddJ	.
 =13	=13
-4cc	F
+4cc	F major
 8f	.
-4dd	D/G-
+4dd	D major/G-
 8cc	.
 =14	=14
-8dd	Gm
-8b-	.
+8ddL	G minor
+8b-J	.
 8g	.
-4ee	E/A-
+4ee	E major/A-
 8dd	.
 =15	=15
-8ff	F
-8ee	.
+8ffL	F major
+8eeJ	.
 8dd	.
-4cc	Am
+4cc	A minor
 8cc	.
 =16	=16
-8ee-	E-
-8dd	.
+8ee-L	E- major
+8ddJ	.
 8cc	.
-4b-	B-
+4b-	B- major
 8dd	.
 =17	=17
-4.f	F
-4.e	Fmaj7
+4.f	F major
+4.e	F major-seventh
 =18	=18
-4.f	F
+4.f	F major
 4.r	.
 ==	==
 *-	*-

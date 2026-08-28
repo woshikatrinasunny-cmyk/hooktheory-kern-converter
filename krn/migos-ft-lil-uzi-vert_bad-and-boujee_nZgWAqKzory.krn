@@ -16,7 +16,7 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4aa#	D#add(2,3,7)
+4aa#	D# other-2,3,7
 4r	.
 4ee#	.
 4ff#	.
@@ -32,11 +32,11 @@
 4ff#	.
 =4	=4
 4aa#	.
-4cc#	Emaj7
+4cc#	E major-seventh
 4gg#	.
 4aa#	.
 =5	=5
-4aa#	D#add(2,3,7)
+4aa#	D# other-2,3,7
 4r	.
 4ee#	.
 4ff#	.
@@ -51,8 +51,8 @@
 4ee#	.
 4ff#	.
 =8	=8
-4aa#[	.
-4aa#]	Emaj7
+[4aa#	.
+4aa#]	E major-seventh
 2gg#	.
 ==	==
 *-	*-

@@ -16,143 +16,143 @@
 *C:	*
 *M4/4	*
 =1	=1
-4G	C
-4c[	.
-8c]	Csus4
+4G	C major
+[4c	.
+8cL]	C suspended-fourth
 8G	.
-16A	.
+16AL	.
 16G	.
 16A	.
-16B	.
+16BJJ	.
 =2	=2
-4.c	C/G
-16B	.
-16A	.
-4G	Gadd(2,5,7)
-4F	G7/B
+4.c	C major/G
+16BLL	.
+16AJJ	.
+4G	G other-2,5,7
+4F	G dominant/B
 =3	=3
-8E	Am7
-16E	.
-16G	.
-4c[	.
-8c]	D/F#
+8EL	A minor-seventh
+16EL	.
+16GJJ	.
+[4c	.
+8cL]	D major/F#
 8B	.
 8c	.
-8G	.
+8GJ	.
 =4	=4
-4G	Gsus4
+4G	G suspended-fourth
 4c	.
-8B	G
-16c	.
-16B	.
-8A	F
-8B	.
+8BL	G major
+16cL	.
+16BJ	.
+8A	F major
+8BJ	.
 =5	=5
-8c	Cmaj7/E
-8G	.
-4g[	.
-8g]	F
-8a	.
-4c[	.
+8cL	C major-seventh/E
+8GJ	.
+[4g	.
+8gL]	F major
+8aJ	.
+[4c	.
 =6	=6
-8c]	C/G
+8cL]	C major/G
 8f	.
-8e	E/G#
-8d	.
-8c	Am
-16B	.
-16A	.
-8G	C/G
-8c	.
+8e	E major/G#
+8dJ	.
+8cL	A minor
+16BL	.
+16AJ	.
+8G	C major/G
+8cJ	.
 =7	=7
-8.c	Fsus2
+8.cL	F suspended-second
 8.G	.
-8c	.
-8.f	C/E
+8cJ	.
+8.fL	C major/E
 8.e	.
-8c	.
+8cJ	.
 =8	=8
-4.a	F
-16b	.
-16a	.
-4g[	Gsus4
-8g]	G
-24g	.
+4.a	F major
+16bLL	.
+16aJJ	.
+[4g	G suspended-fourth
+8gL]	G major
+24gL	.
 24a	.
-24b	.
+24bJJ	.
 =9	=9
-4cc	F
+4cc	F major
 4c	.
-8.a	.
+8.aL	.
 8.g	.
-8f	.
+8fJ	.
 =10	=10
-8e	C7
-16f	.
+8eL	C dominant
+16fk	.
 8g	.
-16a	.
+16aJk	.
 4c	.
-8G	.
-16A	.
-16G	.
+8GL	.
+16AL	.
+16GJJ	.
 8r	.
 =11	=11
-8.cc	F7
+8.cc	F dominant
 6...c	.
-8.a	.
+8.aL	.
 8ee	.
-16dd#	.
-8dd	.
+16dd#k	.
+8ddJ	.
 =12	=12
-8cc	C7
-16g	.
+8ccL	C dominant
+16gk	.
 8a	.
-16g	.
-8cc	.
-16g	.
+16gk	.
+8ccJ	.
+16gLK	.
 8a	.
-16g	.
+16gL	.
 16a	.
-16g#	.
-8g	.
+16g#J	.
+8gJ	.
 =13	=13
-8a	F
+8aL	F major
 8g#	.
-16a	.
+16ak	.
 8cc	.
-16a	.
-8cc	D7/F#
-16a	.
+16aJk	.
+8ccL	D dominant/F#
+16ak	.
 8cc	.
-16a	.
+16aL	.
 16cc	.
-16a	.
+16aJJ	.
 =14	=14
-8cc	Am7/G
-16a	.
+8ccL	A minor-seventh/G
+16ak	.
 8cc	.
-16a	.
+16aL	.
 24cc	.
 24dd	.
-24dd#	.
-8.ee	Am7
-16a#[	.
-8a#]	Aadd(1,4,7,10)
-8ee	.
+24dd#JJ	.
+8.eeL	A minor-seventh
+[16a#k	.
+8a#]	A other-1,4,7,10
+8eeJ	.
 =15	=15
-8ee	Dm
-16a	.
-8ee	.
+8eeL	D minor
+16ak	.
+8eeJ	.
 16r	.
 8g#	.
-16dd#	Gadd(1,4,8,10)
-8g#	.
+16dd#LK	G other-1,4,8,10
+8g#J	.
 16r	.
-16dd	G7
-8dd	.
+16ddLK	G dominant
+8ddJ	.
 16r	.
 =16	=16
-2.cc	C
+2.cc	C major
 4r	.
 ==	==
 *-	*-

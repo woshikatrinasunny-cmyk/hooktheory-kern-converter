@@ -17,45 +17,45 @@
 *M4/4	*
 =1	=1
 2.r	.
-16e-	.
+16e-LL	.
 16d	.
 16c	.
-16B-	.
+16B-JJ	.
 =2	=2
-8.c	A-add(2,4,7)
+8.cL	A- other-2,4,7
 8d	.
-16d	.
+16dk	.
+8e-J	.
+8.dL	B- major
 8e-	.
-8.d	B-
-8e-	.
-16e-	.
-8f	.
+16e-k	.
+8fJ	.
 =3	=3
-8.e-	Cm
+8.e-L	C minor
 8.f	.
-8g	.
-8.f	B-/D
-16b-	.
-16a-	E-
+8gJ	.
+8.fL	B- major/D
+16b-L	.
+16a-	E- major
 16g	.
 16f	.
-16e-	.
+16e-JJ	.
 =4	=4
-8.c	A-add(2,4,7)
+8.cL	A- other-2,4,7
 8.d	.
-8e-	.
-8.d	B-
+8e-J	.
+8.dL	B- major
 8.e-	.
-16f	.
-16f	.
+16fL	.
+16fJJ	.
 =5	=5
-2e-	A-add(2,4,7)
+2e-	A- other-2,4,7
 8r	.
-16B-	.
+16B-LL	.
 16c	.
 16e-	.
 16c	.
 16e-	.
-16f	.
+16fJJ	.
 ==	==
 *-	*-

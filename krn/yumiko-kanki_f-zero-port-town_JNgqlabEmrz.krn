@@ -16,164 +16,164 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4.cc#	Emaj7
-16b	.
-16a#	.
+4.cc#	E major-seventh
+16bLL	.
+16a#JJ	.
 8g#	.
-4.cc#[	.
+[4.cc#	.
 =2	=2
 2.cc#]	.
-8b	.
-8a#	.
+8bL	.
+8a#J	.
 =3	=3
-8r	D#m7
+8r	D# minor-seventh
 8g#	.
 8r	.
 8f#	.
 8r	.
 8d#	.
-4g#[	.
+[4g#	.
 =4	=4
 2.g#]	.
 4r	.
 =5	=5
-4.cc#	Emaj7
-16b	.
-16a#	.
+4.cc#	E major-seventh
+16bLL	.
+16a#JJ	.
 8g#	.
-4.cc#[	.
+[4.cc#	.
 =6	=6
 2.cc#]	.
-8b	.
-8a#	.
+8bL	.
+8a#J	.
 =7	=7
-8r	D#m7
+8r	D# minor-seventh
 8g#	.
 8r	.
 8f#	.
 8r	.
 8d#	.
-4g#[	.
+[4g#	.
 =8	=8
 2.g#]	.
 4r	.
 =9	=9
 *k[f#c#g#d#]	*
 *c#:	*
-4.g#	Amaj7
-16f#	.
-16g#	.
+4.g#	A major-seventh
+16f#LL	.
+16g#JJ	.
 4.f#	.
-16e	.
-16f#	.
+16eLL	.
+16f#JJ	.
 =10	=10
-4.g#	Badd(4,7,9)
-16f#	.
-16g#	.
+4.g#	B other-4,7,9
+16f#LL	.
+16g#JJ	.
 4.f#	.
-16e	.
-16f#	.
+16eLL	.
+16f#JJ	.
 =11	=11
-4.g#	C#m
-16f#	.
-16g#	.
+4.g#	C# minor
+16f#LL	.
+16g#JJ	.
 4.f#	.
-16e	.
-16f#	.
+16eLL	.
+16f#JJ	.
 =12	=12
-2.d#	C#add(2,5,7)
+2.d#	C# other-2,5,7
 4r	.
 =13	=13
-4.gg#	Amaj7
-16ff#	.
-16gg#	.
+4.gg#	A major-seventh
+16ff#LL	.
+16gg#JJ	.
 4.ff#	.
-16ee	.
-16ff#	.
+16eeLL	.
+16ff#JJ	.
 =14	=14
-4.gg#	D
-16ff#	.
-16gg#	.
+4.gg#	D major
+16ff#LL	.
+16gg#JJ	.
 4.ff#	.
-16ee	.
-16ff#	.
+16eeLL	.
+16ff#JJ	.
 =15	=15
-4.gg#	D#m7
-16ff#	.
-16cc#	.
+4.gg#	D# minor-seventh
+16ff#LL	.
+16cc#JJ	.
 4.a#	.
-16ccn	.
-16cc#	.
+16ccnLL	.
+16cc#JJ	.
 =16	=16
-2dd#[	G#7
-4dd#]	G#7/F#
-8r	G#7/D#
-16f#	.
-16g#	.
+[2dd#	G# dominant
+4dd#]	G# dominant/F#
+8r	G# dominant/D#
+16f#LL	.
+16g#JJ	.
 =17	=17
-4cc#	C#m/E
+4cc#	C# minor/E
 8r	.
 3...cc#	.
 =18	=18
-4cc#	F#sus2
+4cc#	F# suspended-second
 8r	.
 3...cc#	.
 =19	=19
-4.cc#	C#add(3,5,7,10)
-16b	.
-16cc#	.
+4.cc#	C# other-3,5,7,10
+16bLL	.
+16cc#JJ	.
 8dd#	.
-4.b[	.
+[4.b	.
 =20	=20
 2.b]	.
 4r	.
 =21	=21
-4cc#	Dmaj7
+4cc#	D major-seventh
 8r	.
 3...cc#	.
 =22	=22
-4cc#	Badd(3,7,9)
+4cc#	B other-3,7,9
 8r	.
 3...cc#	.
 =23	=23
-4.cc#	Amaj7/C#
-16b	.
-16cc#	.
-8dd#	C#m7
-4.b[	.
+4.cc#	A major-seventh/C#
+16bLL	.
+16cc#JJ	.
+8dd#	C# minor-seventh
+[4.b	.
 =24	=24
 2.b]	.
 4r	.
 =25	=25
-4.ff#	Aadd(4,7,9)
-16ee	.
-16dd#	.
+4.ff#	A other-4,7,9
+16eeLL	.
+16dd#JJ	.
 8cc#	.
 4.ff#	.
 =26	=26
-4.ff#	B
-16ee	.
-16dd#	.
+4.ff#	B major
+16eeLL	.
+16dd#JJ	.
 8cc#	.
 4.ff#	.
 =27	=27
-1cc#[	C#m
+[1cc#	C# minor
 =28	=28
 1cc#]	.
 =29	=29
-4.ff#	Eadd(2,4,7)
-16ee	.
-16dd#	.
+4.ff#	E other-2,4,7
+16eeLL	.
+16dd#JJ	.
 8cc#	.
 4.ff#	.
 =30	=30
-4.ff#	Dadd(4,7,9,11)
-16ee	.
-16dd#	.
+4.ff#	D other-4,7,9,11
+16eeLL	.
+16dd#JJ	.
 8cc#	.
 4.ff#	.
 =31	=31
-1cc#[	C#m
+[1cc#	C# minor
 =32	=32
 1cc#]	.
 ==	==

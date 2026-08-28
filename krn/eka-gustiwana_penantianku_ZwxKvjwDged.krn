@@ -16,60 +16,60 @@
 *B:	*
 *M4/4	*
 =1	=1
-1d#	B
+1d#	B major
 =2	=2
-4r	F#/A#
-8c#	.
-8d#	.
+4r	F# major/A#
+8c#L	.
+8d#J	.
 4.f#	.
 8c#	.
 =3	=3
-1d#	G#m7
+1d#	G# minor-seventh
 =4	=4
-4r	B/F#
-8c#	.
-8d#	.
+4r	B major/F#
+8c#L	.
+8d#J	.
 4.f#	.
 8c#	.
 =5	=5
-2d#	Emaj7sus2
+2d#	E major-seventh-suspended-second
 2c#	.
 =6	=6
 2.B	.
-8B	.
-8c#	.
+8BL	.
+8c#J	.
 =7	=7
-2.d#	B/F#
+2.d#	B major/F#
 4e	.
 =8	=8
-2.c#	F#
+2.c#	F# major
 4r	.
 =9	=9
-1dd#	B
+1dd#	B major
 =10	=10
-4r	D#m7/A#
-8cc#	.
-8dd#	.
+4r	D# minor-seventh/A#
+8cc#L	.
+8dd#J	.
 4.ff#	.
 8cc#	.
 =11	=11
-1dd#	G#m7
+1dd#	G# minor-seventh
 =12	=12
-4r	B9/F#
-8cc#	.
-8dd#	.
+4r	B dominant-ninth/F#
+8cc#L	.
+8dd#J	.
 4.ff#	.
 8cc#	.
 =13	=13
-2dd#	Emaj9
+2dd#	E major-ninth
 2cc#	.
 =14	=14
 2b	.
 4r	.
-8b	.
-8cc#	.
+8bL	.
+8cc#J	.
 =15	=15
-2.dd#	C#add(2,4,7)/F
+2.dd#	C# other-2,4,7/F
 4cc#	.
 =16	=16
 2.cc#	.

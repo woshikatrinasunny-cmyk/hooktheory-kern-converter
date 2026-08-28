@@ -16,23 +16,23 @@
 *G:	*
 *M4/4	*
 =1	=1
-8.g	G
-8.dd	.
+8.gL	G major
+8.ddJ	.
 4.b	.
 4r	.
 =2	=2
-8.g	C
-8.dd	.
-4.b	G
+8.gL	C major
+8.ddJ	.
+4.b	G major
 4r	.
 =3	=3
-8.g	C
-8.dd	.
-4.b	Em
+8.gL	C major
+8.ddJ	.
+4.b	E minor
 4r	.
 =4	=4
-4.a	Cadd(2,4,7)
-4.g	G
+4.a	C other-2,4,7
+4.g	G major
 4r	.
 ==	==
 *-	*-

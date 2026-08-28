@@ -16,65 +16,65 @@
 *M4/4	*
 =1	=1
 2.r	.
-8.f	.
-16f	.
+8.fL	.
+16fJk	.
 =2	=2
-8.f	B-
-16f	.
+8.fL	B- major
+16fk	.
 8.f	.
-16e-	.
-8.d	.
-16f	.
+16e-Jk	.
+8.dL	.
+16fk	.
 8.b-	.
-16cc	.
+16ccJk	.
 =3	=3
-8.dd	B-
-16dd	.
+8.ddL	B- major
+16ddk	.
 8.dd	.
-16cc	.
+16ccJk	.
 4b-	.
-8.b-	.
-16a	.
+8.b-L	.
+16aJk	.
 =4	=4
-8.g	E-
-16g	.
+8.gL	E- major
+16gk	.
 8.g	.
-16a	.
+16aJk	.
+8.b-L	.
+16ak	.
 8.b-	.
-16a	.
-8.b-	.
-16g	.
+16gJk	.
 =5	=5
-8.f	B-
-16g	.
+8.fL	B- major
+16gk	.
 8.f	.
-16d	.
+16dJk	.
 4f	.
-8.f	.
-16f	.
+8.fL	.
+16fJk	.
 =6	=6
-8.f	B-
-16f	.
+8.fL	B- major
+16fk	.
 8.f	.
-16e-	.
-8.d	.
-16f	.
+16e-Jk	.
+8.dL	.
+16fk	.
 8.b-	.
-16cc	.
+16ccJk	.
 =7	=7
-8.dd	B-
-16dd	.
+8.ddL	B- major
+16ddk	.
 8.dd	.
-16cc	.
+16ccJk	.
 4b-	.
 4b-	.
 =8	=8
-4cc	Cm/E-
-4cc	Cm
-4b-	B-/F
-4a	F
+4cc	C minor/E-
+4cc	C minor
+4b-	B- major/F
+4a	F major
 =9	=9
-2b-	B-
+2b-	B- major
 2r	.
 ==	==
 *-	*-

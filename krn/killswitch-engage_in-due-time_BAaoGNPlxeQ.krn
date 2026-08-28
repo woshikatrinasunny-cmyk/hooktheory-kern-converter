@@ -16,92 +16,92 @@
 *c:	*
 *M4/4	*
 =1	=1
-4r	A-
-4r	A-maj7
-4.g[	A-maj7
-8g]	B-
+4r	A- major
+4r	A- major-seventh
+[4.g	A- major-seventh
+8g]	B- major
 =2	=2
-4f[	.
-4f]	B-
-4.b-	B-/F
-8g[	Cm
+[4f	.
+4f]	B- major
+4.b-	B- major/F
+[8g	C minor
 =3	=3
 4g]	.
-4r	Cm
-4r	Cm
-4r	Csus4
+4r	C minor
+4r	C minor
+4r	C suspended-fourth
 =4	=4
-8g	Cm
-8f[	.
-8f]	Csus4
-8g[	.
-8g_	Cm
-8g]	B-
-8f	B-sus4
-8g[	A-maj7
+8gL	C minor
+[8f	.
+8f]	C suspended-fourth
+[8gJ	.
+8gL_	C minor
+8g]	B- major
+8f	B- suspended-fourth
+[8gJ	A- major-seventh
 =5	=5
 4g_	.
-4g_	A-maj7
-4.g]	A-maj7
-8f[	B-
+4g_	A- major-seventh
+4.g]	A- major-seventh
+[8f	B- major
 =6	=6
 4f_	.
-4f_	B-
-4.f]	B-sus4/F
-8e-[	Cm
+4f_	B- major
+4.f]	B- suspended-fourth/F
+[8e-	C minor
 =7	=7
 4e-]	.
-4r	Cm
-4r	Cm
-4r	Csus4
+4r	C minor
+4r	C minor
+4r	C suspended-fourth
 =8	=8
-4r	Cm
-4r	Csus4
-8r	Cm
-8r	B-
-8r	B-sus4
-8r	A-
+4r	C minor
+4r	C suspended-fourth
+8r	C minor
+8r	B- major
+8r	B- suspended-fourth
+8r	A- major
 =9	=9
-4r	A-
-4r	A-maj7
-4.g[	A-maj7
-8g]	B-
+4r	A- major
+4r	A- major-seventh
+[4.g	A- major-seventh
+8g]	B- major
 =10	=10
-4f[	.
-4f]	B-
-4.b-	B-/F
-8g[	Cm
+[4f	.
+4f]	B- major
+4.b-	B- major/F
+[8g	C minor
 =11	=11
 4g]	.
-4r	Cm
-4r	Cm
-4r	Csus4
+4r	C minor
+4r	C minor
+4r	C suspended-fourth
 =12	=12
-8g	Cm
-8f[	.
-8f]	Csus4
-8g[	.
-8g_	Cm
-16g]	B-
-16f[	.
-8f]	B-sus4
-8g[	A-maj7
+8gL	C minor
+[8f	.
+8f]	C suspended-fourth
+[8gJ	.
+8gL_	C minor
+16gL]	B- major
+[16fJ	.
+8f]	B- suspended-fourth
+[8gJ	A- major-seventh
 =13	=13
 4g_	.
-4g_	A-maj7
-4.g]	A-maj7
-8f[	B-
+4g_	A- major-seventh
+4.g]	A- major-seventh
+[8f	B- major
 =14	=14
 4f_	.
-4f_	B-
-4.f]	B-sus4/F
-8e-	Cm
+4f_	B- major
+4.f]	B- suspended-fourth/F
+8e-	C minor
 =15	=15
 4c	.
-4r	Cm
-4r	Cm
-4r	Csus4
+4r	C minor
+4r	C minor
+4r	C suspended-fourth
 =16	=16
-4r	Cm
+4r	C minor
 ==	==
 *-	*-

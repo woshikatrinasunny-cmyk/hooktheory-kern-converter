@@ -16,76 +16,76 @@
 *B-:	*
 *M4/4	*
 =1	=1
-1ddd[	E-maj9
+[1ddd	E- major-ninth
 =2	=2
 2ddd]	.
 4ccc	.
 4bb-	.
 =3	=3
-4.aa	Gm
-3...bb-[	.
+4.aa	G minor
+[3...bb-	.
 =4	=4
 2bb-]	.
-2gg	Dm7b5/F
+2gg	D half-diminished/F
 =5	=5
-4.ddd[	E-maj9
-4.ddd_	Cadd(2,3,5,7)/E-
-4ddd_	E-maj7
+[4.ddd	E- major-ninth
+4.ddd_	C other-2,3,5,7/E-
+4ddd_	E- major-seventh
 =6	=6
 8ddd_	.
-4.ddd]	Aadd(3,5,6,10)/E-
-4ccc	Cadd(3,5,7)/E-
-4bb-	Cadd(3,5,7,10)/E-
+4.ddd]	A other-3,5,6,10/E-
+4ccc	C other-3,5,7/E-
+4bb-	C other-3,5,7,10/E-
 =7	=7
-4.aa	Gm11
-3...bb-[	Gm7
+4.aa	G minor-11th
+[3...bb-	G minor-seventh
 =8	=8
 2bb-]	.
-2gg	Dm7b5/F
+2gg	D half-diminished/F
 =9	=9
-4.ddd[	E-maj9
-4.ddd_	Cadd(2,3,5,7)/E-
-4ddd_	E-maj9
+[4.ddd	E- major-ninth
+4.ddd_	C other-2,3,5,7/E-
+4ddd_	E- major-ninth
 =10	=10
 8ddd_	.
-4.ddd]	Aadd(3,5,6,8,10)/E-
-4ccc	Cadd(2,3,5,7)/E-
-4bb-	E-maj9
+4.ddd]	A other-3,5,6,8,10/E-
+4ccc	C other-2,3,5,7/E-
+4bb-	E- major-ninth
 =11	=11
-4.aa	Gm9
-3...bb-[	.
+4.aa	G minor-ninth
+[3...bb-	.
 =12	=12
 2bb-]	.
-2gg	B-add(4,7,9,10)/F
+2gg	B- other-4,7,9,10/F
 =13	=13
-1ddd[	Cm11
+[1ddd	C minor-11th
 =14	=14
 2ddd]	.
 4fff	.
-4ddd	Gm7/D
+4ddd	G minor-seventh/D
 =15	=15
-4.ccc	E-add(2,4,7,9,11)
-3...fff[	.
+4.ccc	E- other-2,4,7,9,11
+[3...fff	.
 =16	=16
 2fff]	.
 2ddd	.
 =17	=17
-8dd	E-maj9
+8ddL	E- major-ninth
 8g	.
 8f	.
-8dd	.
-8g	.
+8ddJ	.
+8gL	.
 8f	.
 8dd	.
-8g	.
+8gJ	.
 =18	=18
-8f	.
+8fL	.
 8dd	.
 8g	.
-8f	.
-8dd	.
+8fJ	.
+8ddL	.
 8g	.
 8dd	.
-8ff	.
+8ffJ	.
 ==	==
 *-	*-

@@ -16,36 +16,36 @@
 *f:	*
 *M4/4	*
 =1	=1
-2c	Fm
+2c	F minor
 2g	.
 =2	=2
-3...a-	D-/F
-8g	.
+3...a-	D- major/F
+8gL	.
 8a-	.
-8b-	.
+8b-J	.
 =3	=3
-1f[	Ddim/F
+[1f	D diminished/F
 =4	=4
-1f]	D-/F
+1f]	D- major/F
 =5	=5
-2c	Fm
+2c	F minor
 2g	.
 =6	=6
-2a-[	D-/F
-16a-]	.
+[2a-	D- major/F
+16a-LL]	.
 16g	.
 16a-	.
 16b-	.
 16cc	.
 16dd-	.
 16cc	.
-16a-	.
+16a-JJ	.
 =7	=7
-1b-[	Bmaj7
+[1b-	B major-seventh
 =8	=8
 1b-]	.
 =9	=9
-3...ff	G-maj7
+3...ff	G- major-seventh
 4ee-	.
 8aa-	.
 =10	=10
@@ -53,19 +53,19 @@
 4ee-	.
 8dd-	.
 =11	=11
-1cc[	A-maj7
+[1cc	A- major-seventh
 =12	=12
 2cc]	.
 16r	.
-16a-	.
+16a-LL	.
 16b-	.
 16cc	.
 16dd-	.
 16cc	.
 16dd-	.
-16ee-	.
+16ee-JJ	.
 =13	=13
-3...ff	G-maj7
+3...ff	G- major-seventh
 4ee-	.
 8aa-	.
 =14	=14
@@ -73,14 +73,14 @@
 4ee-	.
 8dd-	.
 =15	=15
-2.cc	Csus4
-16cc	.
+2.cc	C suspended-fourth
+16ccLL	.
 16ee-	.
 16gg	.
-16bb-	.
+16bb-JJ	.
 =16	=16
-8ccc	C
+8ccc	C major
 8r	.
-4ccc	C
+4ccc	C major
 ==	==
 *-	*-

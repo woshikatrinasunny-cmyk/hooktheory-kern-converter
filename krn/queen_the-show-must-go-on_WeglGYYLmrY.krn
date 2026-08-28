@@ -16,68 +16,68 @@
 *a:	*
 *M4/4	*
 =1	=1
-8r	F
-8A	.
+8r	F major
+8AL	.
 8.c	.
-16A	.
-8.d	G7/F
-16c	.
+16AJk	.
+8.dL	G dominant/F
+16cL	.
 16d	.
-16c	.
-8e[	.
+16cJ	.
+[8eJ	.
 =2	=2
-8e]	Em
+8eL]	E minor
 8.f	.
-16e	.
+16eL	.
 16d	.
-16c	.
-4A	Am
+16cJJ	.
+4A	A minor
 4r	.
 =3	=3
-16c	F
-16A	.
+16cLL	F major
+16AJ	.
 8.c	.
-16A	.
+16AL	.
 16d	.
-16c	.
-16d	G7/F
-16e	.
-8.g	.
+16cJJ	.
+16dLL	G dominant/F
+16eJ	.
+8.gJ	.
 8r	.
 16e	.
 =4	=4
-8.g	Em
-16e	.
+8.gL	E minor
+16eL	.
+16g	.
+16eJ	.
+[8aJ	.
+16aLL]	A minor
 16g	.
 16e	.
-8a[	.
-16a]	Am
-16g	.
-16e	.
-16c	.
+16cJJ	.
 8.r	.
-16e[	.
+[16e	.
 =5	=5
-16e]	C#m7b5
-16g	.
+16eLL]	C# half-diminished
+16gJJ	.
 2b	.
-16dd	.
+16ddLK	.
 8.b	.
-8a[	.
+[8aJ	.
 =6	=6
-16a]	Dsus4
-16a[	Dsus4
-16a_	Dsus4
-16a_	Dsus4
-16a_	Dsus4
-16a_	Dsus4
-16a_	Dsus4
-16a]	D
+16aLL]	D suspended-fourth
+[16a	D suspended-fourth
+16a_	D suspended-fourth
+16a_	D suspended-fourth
+16a_	D suspended-fourth
+16a_	D suspended-fourth
+16a_	D suspended-fourth
+16aJJ]	D major
 16r	.
 16r	.
+8bL	.
 8b	.
-8b	.
-8b	.
+8bJ	.
 =7	=7
 1r	.
 =8	=8

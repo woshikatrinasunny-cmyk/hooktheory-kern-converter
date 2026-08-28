@@ -16,77 +16,77 @@
 *c:	*
 *M4/4	*
 =1	=1
-8r	Cm
-16f[	.
-16f]	Cm
-8e-[	.
-8.e-_	Cm
-8.e-]	Cm
-4g[	Cm
+8r	C minor
+[16fLL	.
+16fJ]	C minor
+[8e-J	.
+8.e-_	C minor
+8.e-]	C minor
+[4g	C minor
 =2	=2
-8g]	A-
-16f[	.
-16f]	A-
-8e-[	.
-8.e-_	A-
-16e-]	A-add(6,7)
-8B-[	.
-8B-]	A-add(6,7)
-8g[	.
+8gL]	A- major
+[16fL	.
+16fJ]	A- major
+[8e-J	.
+8.e-_	A- major
+16e-LK]	A- other-6,7
+[8B-	.
+8B-]	A- other-6,7
+[8gJ	.
 =3	=3
-8g]	E-
-16f	.
-16e-	E-
-8g[	.
-8g]	E-
-16f[	.
-16f]	E-
+8gL]	E- major
+16fL	.
+16e-J	E- major
+[8g	.
+8gJ]	E- major
+[16fLL	.
+16fJ]	E- major
 8e-	.
-8f	E-
-8f[	.
+8f	E- major
+[8fJ	.
 =4	=4
-8.f_	B-sus4
-8.f_	B-sus4
-8.f]	B-
-8g	B-
-16g[	.
-16g]	B-
+8.fL_	B- suspended-fourth
+8.fJ_	B- suspended-fourth
+8.f]	B- major
+8gL	B- major
+[16gL	.
+16gJ]	B- major
 8g	.
-16f	.
+16fJk	.
 =5	=5
-8.e-[	Cm
-8.e-]	Cm
-8.g[	Cm
-16g]	Cm
-8g[	.
-8g]	Cm
-8f	.
+[8.e-L	C minor
+8.e-J]	C minor
+[8.g	C minor
+16gLK]	C minor
+[8g	.
+8g]	C minor
+8fJ	.
 =6	=6
-8.e-[	A-
-8.e-_	A-
-8e-]	A-
-16B-[	.
-8B-]	A-add(6,7)
-16g[	.
-8g]	A-add(6,7)
-8f[	.
+[8.e-L	A- major
+8.e-_	A- major
+8e-J]	A- major
+[16B-LK	.
+8B-]	A- other-6,7
+[16gk	.
+8g]	A- other-6,7
+[8fJ	.
 =7	=7
-16f]	E-
-8e-[	.
-8e-]	E-
-16B-[	.
-16B-]	E-
+16fLK]	E- major
+[8e-	.
+8e-]	E- major
+[16B-L	.
+16B-JJ]	E- major
 8B-	.
-8.a-[	E-
-16a-]	E-
+[8.a-L	E- major
+16a-k]	E- major
 8g	.
-16f[	.
+[16fJk	.
 =8	=8
-16f]	B-sus4
+16fLK]	B- suspended-fourth
 8e-	.
-8.g[	B-sus4
-8.g_	B-
-8.g_	B-
-4g]	B-
+[8.gJ	B- suspended-fourth
+8.g_	B- major
+8.g_	B- major
+4g]	B- major
 ==	==
 *-	*-

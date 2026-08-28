@@ -16,52 +16,52 @@
 *c:	*
 *M4/4	*
 =1	=1
-4gg	G
-4gg[	G
+4gg	G major
+[4gg	G major
 4.gg_	.
-8gg_	G
+8gg_	G major
 =2	=2
 8gg_	.
-4gg]	G
-4bbn	G/B
-8bbn	G/B
+4gg]	G major
+4bbn	G major/B
+8bbnL	G major/B
 8bbn	.
-8gg	G/B
+8ggJ	G major/B
 =3	=3
-4ccc	Cm
-4ccc[	Cm
+4ccc	C minor
+[4ccc	C minor
 4.ccc_	.
-8ccc_	Cm
+8ccc_	C minor
 =4	=4
 8ccc_	.
-4ccc]	Cm
-8gg	Cm
-8ddd	Dadd(1,3,5,6,10)
-8eee-	Cm/E-
-4ddd	Dadd(1,3,5,6,10)
+4ccc]	C minor
+8gg	C minor
+8dddL	D other-1,3,5,6,10
+8eee-J	C minor/E-
+4ddd	D other-1,3,5,6,10
 =5	=5
-4gg	G
-4gg[	G
+4gg	G major
+[4gg	G major
 4.gg_	.
-8gg_	G
+8gg_	G major
 =6	=6
 8gg_	.
-4gg]	G
-4bbn	G/B
-8bbn	G/B
+4gg]	G major
+4bbn	G major/B
+8bbnL	G major/B
 8bbn	.
-8gg	G/B
+8ggJ	G major/B
 =7	=7
-4ccc	Cm
-4ccc[	Cm
+4ccc	C minor
+[4ccc	C minor
 4.ccc_	.
-8ccc_	Cm
+8ccc_	C minor
 =8	=8
 8ccc_	.
-4ccc]	Cm
-8gg	Cm
-8ddd	Dadd(1,3,5,6,10)
-8eee-	Cm/E-
-4ddd	Dadd(1,3,5,6,10)
+4ccc]	C minor
+8gg	C minor
+8dddL	D other-1,3,5,6,10
+8eee-J	C minor/E-
+4ddd	D other-1,3,5,6,10
 ==	==
 *-	*-

@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-4c	C
+4c	C major
 4r	.
 4c	.
 4r	.
@@ -37,10 +37,10 @@
 8r	.
 8c	.
 4r	.
-4A#	A#
-4A	F
+4A#	A# major
+4A	F major
 =5	=5
-4c	C
+4c	C major
 4r	.
 4c	.
 4r	.
@@ -61,10 +61,10 @@
 8r	.
 8c	.
 4r	.
-4A#	A#
-4A	F
+4A#	A# major
+4A	F major
 =9	=9
-4c	C
+4c	C major
 4r	.
 4c	.
 4r	.
@@ -85,10 +85,10 @@
 8r	.
 8c	.
 4r	.
-4A#	A#
-4A	F
+4A#	A# major
+4A	F major
 =13	=13
-4c	C
+4c	C major
 4r	.
 4c	.
 4r	.
@@ -107,12 +107,12 @@
 4r	.
 =16	=16
 8r	.
-8G	G
+8GL	G major
+8G	.
+8GJ	.
+8GL	.
 8G	.
 8G	.
-8G	.
-8G	.
-8G	.
-8G	.
+8GJ	.
 ==	==
 *-	*-

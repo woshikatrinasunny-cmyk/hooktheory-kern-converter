@@ -15,137 +15,137 @@
 *C:	*
 *M4/4	*
 =1	=1
-2r	C
-2r	B-
+2r	C major
+2r	B- major
 =2	=2
-2r	C
-2r	B-
+2r	C major
+2r	B- major
 =3	=3
-2r	C
-2r	B-
+2r	C major
+2r	B- major
 =4	=4
-2r	C
-2r	B-
+2r	C major
+2r	B- major
 =5	=5
-8r	C
-8g-	.
-16g	.
+8r	C major
+8g-L	.
+16gJk	.
 16r	.
 16g-	.
 16r	.
-16g	B-
+16g	B- major
 16r	.
-16g-	.
-16g	.
+16g-LL	.
+16gJJ	.
 16r	.
-16g-	.
-16g	.
+16g-LL	.
+16gJJ	.
 16r	.
 =6	=6
-16e	C
+16e	C major
 16r	.
 16c	.
 16r	.
-4B-[	.
-2B-]	B-
+[4B-	.
+2B-]	B- major
 =7	=7
-16e	C
+16e	C major
 16r	.
 16c	.
 16r	.
-4B-[	.
-4.B-]	B-
+[4B-	.
+4.B-]	B- major
 16c	.
 16r	.
 =8	=8
-1G	C
+1G	C major
 =9	=9
 *k[b-e-]	*
 *F:	*
-8r	F
-8a-	.
-16a	.
+8r	F major
+8a-L	.
+16aJk	.
 16r	.
 16a-	.
 16r	.
-16a	E-
+16a	E- major
 16r	.
-16a-	.
-16a	.
+16a-LL	.
+16aJJ	.
 16r	.
-16a-	.
-16a	.
+16a-LL	.
+16aJJ	.
 16r	.
 =10	=10
-16a-	F
+16a-	F major
 16r	.
 16f	.
 16r	.
-4e-[	.
-2e-]	E-
+[4e-	.
+2e-]	E- major
 =11	=11
-16a	F
+16a	F major
 16r	.
 16f	.
 16r	.
-4e-[	.
-4.e-]	E-
+[4e-	.
+4.e-]	E- major
 16g	.
 16r	.
 =12	=12
-1c	F
+1c	F major
 =13	=13
 *k[]	*
 *C:	*
-8r	G
-8c#	.
-16d	.
+8r	G major
+8c#L	.
+16dJk	.
 16r	.
 16c#	.
 16r	.
 16d	.
 16r	.
-16c#	.
-16d	.
+16c#LL	.
+16dJJ	.
 16r	.
-16c#	.
-16d	.
+16c#LL	.
+16dJJ	.
 16r	.
 =14	=14
-8r	G
-8a#	.
-16b	.
+8r	G major
+8a#L	.
+16bJk	.
 16r	.
 16a#	.
 16r	.
 16b	.
 16r	.
-16a#	.
-16b	.
+16a#LL	.
+16bJJ	.
 16r	.
-16a#	.
-16b	.
+16a#LL	.
+16bJJ	.
 16r	.
 =15	=15
-8r	G
-8cc#	.
-16dd	.
+8r	G major
+8cc#L	.
+16ddJk	.
 8.r	.
-16cc#	G
+16cc#	G major
 16r	.
 16dd	.
 8.r	.
 8cc#	.
 =16	=16
-8dd	G
-16cc#	.
-16dd[	.
-16dd]	Fadd(2,4,7)/A
-16cc#	.
-8dd	.
-8dd	Edim/A#
+8ddL	G major
+16cc#L	.
+[16dd	.
+16dd]	F other-2,4,7/A
+16cc#J	.
+8ddJ	.
+8ddL	E diminished/A#
 8ff	.
-8ee	G/B
-8dd	.
+8ee	G major/B
+8ddJ	.
 ==	==
 *-	*-

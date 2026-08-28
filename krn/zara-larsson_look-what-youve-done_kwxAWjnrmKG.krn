@@ -16,41 +16,41 @@
 *d:	*
 *M4/4	*
 =1	=1
-16ff	D
+16ffLL	D
 16ee	.
-16ff[	.
-8.ff]	Dm
-16ee	Dm
-16dd	.
-4ee	Dsus2
-16dd	Dm
-16cc	.
-8dd[	.
+[16ffJ	.
+8.ff]	D minor
+16eeL	D minor
+16ddJJ	.
+4ee	D suspended-second
+16ddLL	D minor
+16ccJ	.
+[8ddJ	.
 =2	=2
-8.dd_	G
-8.dd_	G
-8dd_	G
-4dd]	Gsus2
-8cc	G
-8dd	.
+8.ddL_	G
+8.dd_	G major
+8ddJ_	G major
+4dd]	G suspended-second
+8ccL	G major
+8ddJ	.
 =3	=3
 16ee	C
 16r	.
-16ee[	.
-8.ee]	C
-16dd	C
-16cc	.
-4dd	Csus2
-16cc	C
+[16eeLK	.
+8.ee]	C major
+16ddL	C major
+16ccJJ	.
+4dd	C suspended-second
+16ccLL	C major
 16b	.
-16a	.
+16aJJ	.
 16r	.
 =4	=4
-8.a[	F
-8.a_	F
-8a_	F
-4a_	Fsus2
-4a]	F
+[8.aL	F
+8.a_	F major
+8aJ_	F major
+4a_	F suspended-second
+4a]	F major
 =5	=5
 1r	.
 =6	=6

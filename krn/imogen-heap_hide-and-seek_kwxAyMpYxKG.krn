@@ -16,69 +16,69 @@
 *A:	*
 *M4/4	*
 =1	=1
-2..A	A
+2..A	A major
 8E	.
 =2	=2
-4G#	E
+4G#	E major
 2.r	.
 =3	=3
-3...G#	F#m7
+3...G#	F# minor-seventh
 4.F#	.
 =4	=4
-4.A	Dadd(2,4,7,9)
+4.A	D other-2,4,7,9
 4r	.
-4B	Dadd(2,4,7,9)
-8A[	.
+4B	D other-2,4,7,9
+[8A	.
 =5	=5
-3...A]	A
+3...A]	A major
 4.E	.
 =6	=6
-4G#	E
+4G#	E major
 2r	.
-8E	.
-8G#[	F#m7
+8EL	.
+[8G#J	F# minor-seventh
 =7	=7
 3...G#]	.
-8A	.
+8AL	.
 8G#	.
-8F#[	.
+[8F#J	.
 =8	=8
-2F#]	Dadd(2,4,7,9)
+2F#]	D other-2,4,7,9
 4e	.
-8e[	.
-8e_	A
+[8eL	.
+8eJ_	A major
 =9	=9
 4.e]	.
 4.r	.
-8b	A
-8g#[	.
+8bL	A major
+[8g#J	.
 =10	=10
-2.g#]	E
-8e	.
-8c#[	.
+2.g#]	E major
+8eL	.
+[8c#J	.
 =11	=11
-4c#]	F#m
+4c#]	F# minor
 2r	.
-4a	F#m
+4a	F# minor
 =12	=12
-4f#	D
+4f#	D major
 8e	.
 4.d	.
-8c#	.
-8d[	.
+8c#L	.
+[8dJ	.
 =13	=13
-4d]	A
+4d]	A major
 2A	.
 4r	.
 =14	=14
-4B	E
+4B	E major
 2e	.
 4r	.
 =15	=15
-4F#	F#m
-2.c#[	.
+4F#	F# minor
+[2.c#	.
 =16	=16
-4c#]	Dmaj7
+4c#]	D major-seventh
 2.r	.
 ==	==
 *-	*-

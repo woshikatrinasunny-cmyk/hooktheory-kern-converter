@@ -16,60 +16,60 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.cc	Am
-8.dd	G/B
-8.ee	C
-8.gg	Em
-8.ee	C
-16dd[	Cadd(2,4,7)
+8.ccL	A minor
+8.ddJ	G major/B
+8.ee	C major
+8.ggL	E minor
+8.ee	C major
+[16ddJk	C other-2,4,7
 =2	=2
-8dd]	.
-8.cc	C
-8.gg	Dsus4
-8.ee	Dadd(2,5,7)
-8.dd	Dsus4
-8b	Em
+8ddL]	.
+8.cc	C major
+8.ggJ	D suspended-fourth
+8.eeL	D other-2,5,7
+8.dd	D suspended-fourth
+8bJ	E minor
 =3	=3
-8.cc	Am
-8.dd	G/B
-8.ee	C
-8.gg	Em
-8.ee	C
-16dd[	Cadd(2,4,7)
+8.ccL	A minor
+8.ddJ	G major/B
+8.ee	C major
+8.ggL	E minor
+8.ee	C major
+[16ddJk	C other-2,4,7
 =4	=4
-8dd]	.
-8.cc	C
-8.gg	Dsus4
-8.aa	Dsus4
-8.ee	Dadd(2,5,7)
-8dd	Em7
+8ddL]	.
+8.cc	C major
+8.ggJ	D suspended-fourth
+8.aaL	D suspended-fourth
+8.ee	D other-2,5,7
+8ddJ	E minor-seventh
 =5	=5
-8.cc	Am
-8.dd	G/B
-8.ee	C
-8.gg	Em
-8.ee	C
-16dd[	Cadd(2,4,7)
+8.ccL	A minor
+8.ddJ	G major/B
+8.ee	C major
+8.ggL	E minor
+8.ee	C major
+[16ddJk	C other-2,4,7
 =6	=6
-8dd]	.
-8.cc	C
-8.gg	Dsus4
-8.ee	Dadd(2,5,7)
-8.dd	Dsus4
-8b	Em
+8ddL]	.
+8.cc	C major
+8.ggJ	D suspended-fourth
+8.eeL	D other-2,5,7
+8.dd	D suspended-fourth
+8bJ	E minor
 =7	=7
-8.cc	Am
-8.dd	G/B
-8.ee	C
-8.gg	Em
-8.ee	C
-16dd[	Cadd(2,4,7)
+8.ccL	A minor
+8.ddJ	G major/B
+8.ee	C major
+8.ggL	E minor
+8.ee	C major
+[16ddJk	C other-2,4,7
 =8	=8
-8dd]	.
-8.cc	C
-8.gg	Dsus4
-8.aa	Dsus4
-8.ee	Dadd(2,5,7)
-8dd	Em7
+8ddL]	.
+8.cc	C major
+8.ggJ	D suspended-fourth
+8.aaL	D suspended-fourth
+8.ee	D other-2,5,7
+8ddJ	E minor-seventh
 ==	==
 *-	*-

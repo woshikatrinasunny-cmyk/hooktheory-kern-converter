@@ -16,81 +16,81 @@
 *B:	*
 *M4/4	*
 =1	=1
-1b	B
+1b	B major
 =2	=2
-1b	E
+1b	E major
 =3	=3
-1cc#	C#m
+1cc#	C# minor
 =4	=4
-2..a#	F#
-16g#	.
-16a#	.
+2..a#	F# major
+16g#LL	.
+16a#JJ	.
 =5	=5
-2...b	B
+2...b	B major
 16cc#	.
 =6	=6
-2...b	E
+2...b	E major
 16b	.
 =7	=7
-2..cc#	C#m
-16cc#	.
-16b	.
+2..cc#	C# minor
+16cc#LL	.
+16bJJ	.
 =8	=8
-4..a#	F#
+4..a#	F# major
 16g#	.
 2f#	.
 =9	=9
-8.r	B
-16b	.
-16b	.
-16g#	.
+8.r	B major
+16bLL	.
 16b	.
 16g#	.
-8b	.
 16b	.
+16g#JJ	.
+8bL	.
+16bk	.
 8b	.
 8b	.
-16cc#	.
+16cc#Jk	.
 =10	=10
-3...dd#	E
-8.b	.
-16b	.
+3...dd#	E major
+8.bL	.
+16bL	.
 16cc#	.
-16dd#	.
+16dd#JJ	.
 =11	=11
-2b[	C#m
+[2b	C# minor
 16b]	.
 4b	.
-16cc#	.
-8dd#	.
+16cc#LK	.
+8dd#J	.
 =12	=12
-1cc#[	F#
+[1cc#	F# major
 =13	=13
-8.cc#]	B
-16b	.
-16b	.
-16g#	.
+8.cc#L]	B major
+16bL	.
 16b	.
 16g#	.
-8b	.
 16b	.
+16g#JJ	.
+8bL	.
+16bk	.
 8b	.
 8b	.
-16cc#	.
+16cc#Jk	.
 =14	=14
-3...dd#	E
-8.b	.
-16b	.
+3...dd#	E major
+8.bL	.
+16bL	.
 16cc#	.
-16dd#	.
+16dd#JJ	.
 =15	=15
-2b[	C#m
+[2b	C# minor
 16b]	.
 4b	.
-16cc#	.
-8dd#	.
+16cc#LK	.
+8dd#J	.
 =16	=16
-6...a#	F#
+6...a#	F# major
 16g#	.
 3...f#	.
 ==	==

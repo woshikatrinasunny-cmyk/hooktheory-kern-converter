@@ -16,82 +16,82 @@
 *g:	*
 *M4/4	*
 =1	=1
-8bb-	Cm7
+8bb-L	C minor-seventh
 8ee-	.
 8bb-	.
+8ee-J	.
+8bb-L	.
 8ee-	.
 8bb-	.
-8ee-	.
-8bb-	.
-8ee-	.
+8ee-J	.
 =2	=2
-8bb-	F7sus4
+8bb-L	F dominant-seventh-suspended-fourth
 8ee-	.
 8bb-	.
-8ee-	F7
-8aa	.
+8ee-J	F dominant
+8aaL	.
 8ee-	.
-16aa	.
+16aaL	.
 16gg	.
 16ff	.
-16gg	.
+16ggJJ	.
 =3	=3
-8aa	B-maj7
+8aaL	B- major-seventh
 8dd	.
 8aa	.
+8ddJ	.
+8aaL	.
 8dd	.
-8aa	.
-8dd	.
-8aa	D7/G-
-8dd	.
+8aa	D dominant/G-
+8ddJ	.
 =4	=4
-8aa	E-add(6,7,11)
+8aaL	E- other-6,7,11
 8dd	.
 8aa	.
-8dd	E-maj7
-8gg	.
+8ddJ	E- major-seventh
+8ggL	.
 8dd	.
-16gg	.
+16ggL	.
 16ff	.
 16ee-	.
-16ff	.
+16ffJJ	.
 =5	=5
-8gg	Am7b5
+8ggL	A half-diminished
 8cc	.
 8gg	.
+8ccJ	.
+8ggL	.
 8cc	.
 8gg	.
-8cc	.
-8gg	.
-8cc	.
+8ccJ	.
 =6	=6
-8gg	D7sus4
+8ggL	D dominant-seventh-suspended-fourth
 8cc	.
 8gg	.
-8cc	D7
-8gg-	.
+8ccJ	D dominant
+8gg-L	.
 8dd	.
 8gg-	.
-8dd	.
+8ddJ	.
 =7	=7
-8aa	Gadd(2,3,7)
+8aaL	G other-2,3,7
 8dd	.
 8aa	.
+8ddJ	.
+8aaL	.
 8dd	.
 8aa	.
-8dd	.
-8aa	.
-16gg	.
-16aa	.
+16ggL	.
+16aaJJ	.
 =8	=8
-8bbn	Gadd(2,4,7)/B
+8bbnL	G other-2,4,7/B
 8dd	.
 8ccc	.
-8dd	.
-8ddd	.
+8ddJ	.
+8dddL	.
 8dd	.
 8gg	.
-16aa	.
+16aaJk	.
 16r	.
 ==	==
 *-	*-

@@ -18,71 +18,71 @@
 =1	=1
 4.r	.
 8c#	.
-8B	.
+8BL	.
 8c#	.
 8B	.
-8c#	.
+8c#J	.
 =2	=2
-8A	A
+8AL	A major
 8A	.
 8A	.
-8A	Am/C
-8E[	A/C#
-8E]	A/E
+8AJ	A minor/C
+[8EL	A major/C#
+8E]	A major/E
 8A	.
-8A	A/C#
+8AJ	A major/C#
 =3	=3
-4E	A
+4E	A major
 4c#	.
 8A	.
 4F#	.
 8A	.
 =4	=4
-8B	Bm
+8BL	B minor
 8B	.
 8B	.
-8B	Badd(2,3,7)
-8F#[	Bm/D
-8F#]	Bm/F#
+8BJ	B other-2,3,7
+[8F#L	B minor/D
+8F#]	B minor/F#
 8B	.
-8B	Bm/D
+8BJ	B minor/D
 =5	=5
-4F#	Bm
-8B	.
-8c#	.
-8A	.
-8F#	.
+4F#	B minor
+8BL	.
+8c#J	.
+8AL	.
+8F#J	.
 8r	.
 8A	.
 =6	=6
-8A	E
+8AL	E major
 8B	.
 8B	.
-8B	Em/G
-8F#[	E/G#
-8F#]	E/B
+8BJ	E minor/G
+[8F#L	E major/G#
+8F#]	E major/B
 8B	.
-8B	E/G#
+8BJ	E major/G#
 =7	=7
-4F#	E
+4F#	E major
 4c#	.
 8A	.
 4F#	.
 8F#	.
 =8	=8
-8A	A
+8AL	A major
 8A	.
 8A	.
-8A	Am/C
-8E[	A/C#
-8E]	A/E
+8AJ	A minor/C
+[8EL	A major/C#
+8E]	A major/E
 8A	.
-8A	A/C#
+8AJ	A major/C#
 =9	=9
-4E	A
+4E	A major
 4.r	.
-8e	.
+8eL	.
 8f#	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

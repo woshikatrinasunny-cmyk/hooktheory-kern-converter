@@ -15,25 +15,25 @@
 *F:	*
 *M4/4	*
 =1	=1
-8r	F
+8r	F major
 4aa	.
 16aa-	.
 16r	.
 4aa	.
 4ccc	.
 =2	=2
-8r	C
+8r	C major
 4gg	.
 8ee-	.
 16ee	.
 16r	.
 16gg	.
 16r	.
-8aa	.
-16gg	.
+8aaL	.
+16ggJk	.
 16r	.
 =3	=3
-8r	F
+8r	F major
 4aa	.
 8aa-	.
 16aa	.
@@ -41,36 +41,36 @@
 8ddd	.
 8r	.
 =4	=4
-2ccc	C
+2ccc	C major
 2gg	.
 =5	=5
-8r	F
+8r	F major
 4aa	.
 8aa-	.
 16aa	.
 8.r	.
 4ccc	.
 =6	=6
-8r	C
+8r	C major
 4ccc	.
 8ccc	.
-4bb-	B-
+4bb-	B- major
 4ff	.
 =7	=7
-8r	Dm
+8r	D minor
 8r	.
 4ff	.
-8r	A
+8r	A major
 8r	.
 4ee	.
 =8	=8
-8r	Dm
-16ddd	.
-16ddd	.
+8r	D minor
+16dddLL	.
+16dddJ	.
 8ddd	.
-8ddd	.
+8dddJ	.
 4ddd	.
-8r	C
+8r	C major
 8ddd-	.
 ==	==
 *-	*-

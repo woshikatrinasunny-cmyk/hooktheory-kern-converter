@@ -15,23 +15,23 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.r	Em
-16dd	.
+8.r	E minor
+16ddLL	.
 16ee	.
-16dd	.
+16ddJJ	.
 16r	.
 16ee	.
 16r	.
 16dd	.
 16r	.
-16b	.
-16a	.
+16bLL	.
+16aJJ	.
 8.r	.
 =2	=2
-8.r	B
-16a	.
+8.r	B major
+16aLL	.
 16b	.
-16a	.
+16aJJ	.
 16r	.
 16b	.
 16r	.
@@ -40,10 +40,10 @@
 16g	.
 4d	.
 =3	=3
-8.r	Em
-16dd	.
+8.r	E minor
+16ddLL	.
 16ee	.
-16dd	.
+16ddJJ	.
 16r	.
 16ee	.
 4r	.
@@ -52,7 +52,7 @@
 16b	.
 16r	.
 =4	=4
-2a[	B7
+[2a	B dominant
 16a]	.
 4..r	.
 ==	==

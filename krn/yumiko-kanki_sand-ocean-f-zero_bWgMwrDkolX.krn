@@ -16,44 +16,44 @@
 *e:	*
 *M6/4	*
 =1	=1
-2.r	Cmaj7
-2.r	Dm7
+2.r	C major-seventh
+2.r	D minor-seventh
 =2	=2
-2.r	Em7
-2.r	Dmaj7
+2.r	E minor-seventh
+2.r	D major-seventh
 =3	=3
-2gg	Cmaj7
-4aa[	.
-4aa]	Dm7
+2gg	C major-seventh
+[4aa	.
+4aa]	D minor-seventh
 2bb	.
 =4	=4
-2bb	Em7
-4ff#[	.
-4ff#]	Dmaj7
+2bb	E minor-seventh
+[4ff#	.
+4ff#]	D major-seventh
 2ee	.
 =5	=5
-2dd	Cmaj7
-4cc[	.
-4cc]	Dm7
+2dd	C major-seventh
+[4cc	.
+4cc]	D minor-seventh
 2dd	.
 =6	=6
-2b	Em7
+2b	E minor-seventh
 2a	.
 2g	.
 =7	=7
-4.e	Cmaj7
+4.e	C major-seventh
 4.f#	.
-4.g	Bm
+4.g	B minor
 4.b	.
 =8	=8
-4.ee	C#m7b5
+4.ee	C# half-diminished
 4.ff#	.
 4.gg	.
 4.aa	.
 =9	=9
-2.bb	Cmaj7
-2.gg	Fmaj7
+2.bb	C major-seventh
+2.gg	F major-seventh
 =10	=10
-1.aa	F#m7
+1.aa	F# minor-seventh
 ==	==
 *-	*-

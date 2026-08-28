@@ -15,44 +15,44 @@
 *C:	*
 *M4/4	*
 =1	=1
-8.c	Am
-8.B	.
+8.cL	A minor
+8.BJ	.
 4.c	.
 8r	.
 8G	.
 =2	=2
-8.c	Gsus4
-8.B	.
+8.cL	G suspended-fourth
+8.BJ	.
 4.c	.
 4r	.
 =3	=3
-8.c	F
+8.cL	F major
 8.B	.
-8G	.
-8.c	.
+8GJ	.
+8.cL	.
 8.B	.
-8G	.
+8GJ	.
 =4	=4
-2.A	F
-4r	Gsus4
+2.A	F major
+4r	G suspended-fourth
 =5	=5
-8.c	Am
-8.B	.
+8.cL	A minor
+8.BJ	.
 4.c	.
 8r	.
 8G	.
 =6	=6
-8.c	Gsus4
-8.B	.
+8.cL	G suspended-fourth
+8.BJ	.
 4.d	.
 8r	.
 8c	.
 =7	=7
-2..e	F
-16d	.
-16c[	.
+2..e	F major
+16dLL	.
+[16cJJ	.
 =8	=8
-2.c]	F
-4r	Gsus4
+2.c]	F major
+4r	G suspended-fourth
 ==	==
 *-	*-

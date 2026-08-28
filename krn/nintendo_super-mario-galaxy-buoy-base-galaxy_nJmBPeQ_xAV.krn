@@ -16,104 +16,104 @@
 *A:	*
 *M6/4	*
 =1	=1
-4.ccc#[	A
-4.ccc#]	A
-4.aa[	A
-8.aa_	A
-8.aa_	Bm11
+[4.ccc#	A major
+4.ccc#]	A major
+[4.aa	A major
+8.aa_	A major
+8.aa_	B minor-11th
 =2	=2
-4.aa_	A
-4.aa]	A
-4ee	A
-8aa[	.
-8aa]	A7/G
+4.aa_	A major
+4.aa]	A major
+4ee	A major
+[8aaL	.
+8aaJ]	A dominant/G
 4bb	.
 =3	=3
-4.cccn[	Fmaj7
-8cccn]	Fmaj7
+[4.cccn	F major-seventh
+8cccn]	F major-seventh
 4bb	.
-4.aa[	Fmaj7
-4aa_	Fmaj7
-8aa_	Fmaj7/C
+[4.aa	F major-seventh
+4aa_	F major-seventh
+8aa_	F major-seventh/C
 =4	=4
-4.aa_	Fmaj7
-4.aa]	Fmaj7
-4ee	Fmaj7
-4aa	Fmaj7/C
-4eee	Fmaj7
+4.aa_	F major-seventh
+4.aa]	F major-seventh
+4ee	F major-seventh
+4aa	F major-seventh/C
+4eee	F major-seventh
 =5	=5
-4.ddd[	G
-4.ddd]	G
-4.bb[	G
-8.bb_	G
-8.bb_	G/D
+[4.ddd	G major
+4.ddd]	G major
+[4.bb	G major
+8.bb_	G major
+8.bb_	G major/D
 =6	=6
-4.bb_	G
-4.bb]	G
-4dd	G
-8ggn[	.
-8ggn]	G/B
+4.bb_	G major
+4.bb]	G major
+4dd	G major
+[8ggnL	.
+8ggnJ]	G major/B
 4ddd	.
 =7	=7
-4.ccc#[	A
-8ccc#]	A
+[4.ccc#	A major
+8ccc#]	A major
 4bb	.
-4.aa[	A
-4aa_	A
-8aa_	Bm11
+[4.aa	A major
+4aa_	A major
+8aa_	B minor-11th
 =8	=8
-4.aa_	A
-4.aa]	A
-4e	A
-4a	A/E
-4ee	A/E
+4.aa_	A major
+4.aa]	A major
+4e	A major
+4a	A major/E
+4ee	A major/E
 =9	=9
-4.ff#[	D
-4.ff#]	D
-4.a[	D
-4.a_	D
+[4.ff#	D major
+4.ff#]	D major
+[4.a	D major
+4.a_	D major
 =10	=10
-4.a_	E7sus4/D
-4.a]	E7sus4/D
-4g#	E7/D
-8b[	.
-8b]	E7/D
+4.a_	E dominant-seventh-suspended-fourth/D
+4.a]	E dominant-seventh-suspended-fourth/D
+4g#	E dominant/D
+[8bL	.
+8bJ]	E dominant/D
 4gg#	.
 =11	=11
-4.aa[	A/C#
-4.aa]	A/C#
-4.ee[	A/C#
-4.ee_	A/C#
+[4.aa	A major/C#
+4.aa]	A major/C#
+[4.ee	A major/C#
+4.ee_	A major/C#
 =12	=12
-4.ee_	F#m7
-8ee]	F#m7
+4.ee_	F# minor-seventh
+8ee]	F# minor-seventh
 4r	.
-4ee	F#m7
-8dd[	.
-8dd]	F#m7
+4ee	F# minor-seventh
+[8ddL	.
+8ddJ]	F# minor-seventh
 4cc#	.
 =13	=13
-4.dd[	G
-4.dd]	G
-4.b[	G
-4b_	G
-8b_	G/D
+[4.dd	G major
+4.dd]	G major
+[4.b	G major
+4b_	G major
+8b_	G major/D
 =14	=14
-4.b_	G
-4.b]	G
-4b	G
-8a[	.
-8a]	G
+4.b_	G major
+4.b]	G major
+4b	G major
+[8aL	.
+8aJ]	G major
 4b	.
 =15	=15
-4.dd[	A7sus4
-4.dd_	A7sus4
-4.dd_	A7sus4
-4.dd]	A7sus4
+[4.dd	A dominant-seventh-suspended-fourth
+4.dd_	A dominant-seventh-suspended-fourth
+4.dd_	A dominant-seventh-suspended-fourth
+4.dd]	A dominant-seventh-suspended-fourth
 =16	=16
-4.ee[	A7
-4.ee_	A7
-4.ee_	A7
-4.ee]	A7
+[4.ee	A dominant
+4.ee_	A dominant
+4.ee_	A dominant
+4.ee]	A dominant
 ==	==
 *-	*-

@@ -16,37 +16,37 @@
 *F:	*
 *M3/4	*
 =1	=1
-8ee	Fmaj9
-8cc	.
+8eeL	F major-ninth
+8ccJ	.
 4.cc	.
 8a	.
 =2	=2
-2.a	E-add(2,4,6,7,10)
+2.a	E- other-2,4,6,7,10
 =3	=3
-8ee	Fmaj9
-8cc	.
+8eeL	F major-ninth
+8ccJ	.
 4.cc	.
 8a	.
 =4	=4
-2.a	E-add(2,4,6,7,10)
+2.a	E- other-2,4,6,7,10
 =5	=5
-8a	Bm7b5
-8f	.
-4f[	.
-8f]	B-m7
-8e	.
+8aL	B half-diminished
+8fJ	.
+[4f	.
+8fL]	B- minor-seventh
+8eJ	.
 =6	=6
-8g	Am7
-8e	.
-4e[	.
-8e]	A-m7
-8e-	.
+8gL	A minor-seventh
+8eJ	.
+[4e	.
+8eL]	A- minor-seventh
+8e-J	.
 =7	=7
-8d	Gm7
-8f	.
+8dL	G minor-seventh
+8fJ	.
 4d	.
-4f	C13
+4f	C dominant-13th
 =8	=8
-2.g	Fmaj9
+2.g	F major-ninth
 ==	==
 *-	*-

@@ -16,59 +16,59 @@
 *E:	*
 *M4/4	*
 =1	=1
-8r	A
-8a	.
+8r	A major
+8aL	.
 8cc#	.
-8dd	.
-8ee	E
-16ee	.
+8ddJ	.
+8eeL	E major
+16eek	.
 8.ee	.
-8ee	.
+8eeJ	.
 =2	=2
-8.ff#	D
+8.ff#	D major
 6...ff#	.
 2r	.
 =3	=3
-4r	A
-8cc#	.
-8dd	.
-4ee	E
-8ee	.
-8b	.
+4r	A major
+8cc#L	.
+8ddJ	.
+4ee	E major
+8eeL	.
+8bJ	.
 =4	=4
-4a	D
+4a	D major
 2.r	.
 =5	=5
-8r	A
-8a	.
-16cc#	.
+8r	A major
+8aL	.
+16cc#k	.
 8dd	.
-16ee[	.
-8ee]	E
+[16eeJk	.
+8eeL]	E major
 8ee	.
 8ee	.
-8ee	.
+8eeJ	.
 =6	=6
-8.ff#	D
+8.ff#	D major
 6...ff#	.
 4.r	.
 8a	.
 =7	=7
-8cc#	A
+8cc#L	A major
 8dd	.
 8ee	.
-8ee[	.
-4ee]	E
-8ee	.
-8ff#[	.
+[8eeJ	.
+4ee]	E major
+8eeL	.
+[8ff#J	.
 =8	=8
-16ff#]	D
-16ee	.
+16ff#LL]	D major
+16eeJJ	.
 4.dd	.
 4.r	.
 8dd	.
 =9	=9
-8.ee	E
+8.ee	E major
 6...ee	.
 2r	.
 =10	=10
@@ -82,14 +82,14 @@
 2..r	.
 8g#	.
 =13	=13
-8.a	A
+8.a	A major
 6...ee	.
 2r	.
 =14	=14
 2..r	.
 8a	.
 =15	=15
-8.b	E
+8.b	E major
 6...ee	.
 2r	.
 =16	=16

@@ -16,33 +16,33 @@
 *C:	*
 *M3/4	*
 =1	=1
-4cc	C
-4b	G7/D
-4cc	C
+4cc	C major
+4b	G dominant/D
+4cc	C major
 =2	=2
-2dd	G/B
+2dd	G major/B
 4r	.
 =3	=3
-4dd	G7/B
-4cc	Fadd(2,4,7)/A
-4dd	G7
+4dd	G dominant/B
+4cc	F other-2,4,7/A
+4dd	G dominant
 =4	=4
-2ee	C
+2ee	C major
 4r	.
 =5	=5
-4ee	C
-4ff	F/C
-4ee	C
+4ee	C major
+4ff	F major/C
+4ee	C major
 =6	=6
-4dd#	Cdim
-4dd	Cadd(2,5,7,11)
+4dd#	C diminished
+4dd	C other-2,5,7,11
 4gg	.
 =7	=7
-4cc	C
-4dd	Dm/F
-4b	G7
+4cc	C major
+4dd	D minor/F
+4b	G dominant
 =8	=8
-2cc	C
+2cc	C major
 4r	.
 ==	==
 *-	*-

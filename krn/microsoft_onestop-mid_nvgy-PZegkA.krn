@@ -16,70 +16,70 @@
 *e:	*
 *M4/4	*
 =1	=1
-8r	Em
-8ee	.
-8gg	.
+8r	E minor
+8eeL	.
+8ggJ	.
 8r	.
-8aa	Gaug
+8aaL	G augmented
 8aa	.
-8gg	Gaug/B
+8ggJ	G augmented/B
 8r	.
 =2	=2
-8aa	Em7
+8aa	E minor-seventh
 8r	.
 8gg	.
 8r	.
-8ee	Aadd(2,4,7)
-8gg	.
+8eeL	A other-2,4,7
+8ggJ	.
 16r	.
-16r	C#m7/G#
-8r	C#m7b5/G
+16r	C# minor-seventh/G#
+8r	C# half-diminished/G
 =3	=3
-4r	F#dim
+4r	F# diminished
 8ccc	.
 8r	.
-8bb	F#dim/A
-16ccc	.
-16bb	.
-8aa	F#dim/C
-8bb[	.
+8bbL	F# diminished/A
+16cccL	.
+16bbJ	.
+8aa	F# diminished/C
+[8bbJ	.
 =4	=4
-2bb_	B
-8bb]	Badd(1,4,7,10)/F#
+2bb_	B major
+8bb]	B other-1,4,7,10/F#
 8r	.
 8bb	.
 8r	.
 =5	=5
-8eee	Em
+8eee	E minor
 8r	.
 16bb	.
 16r	.
 8aa#	.
-8aa	Gaug
+8aaL	G augmented
 8gg	.
-8ee	Gaug/B
-8gg[	.
+8ee	G augmented/B
+[8ggJ	.
 =6	=6
-8.gg]	Em7
+8.gg]	E minor-seventh
 16r	.
-8aa	.
-8ee	A9
-8gg	.
-16aa	.
+8aaL	.
+8eeJ	A dominant-ninth
+8ggL	.
+16aaJk	.
 6...r	.
 =7	=7
-8r	C7sus2
-8aa#	.
+8r	C dominant-seventh-suspended-second
+8aa#L	.
 8aa	.
-8aa#	.
-8aa	B7sus2
+8aa#J	.
+8aaL	B dominant-seventh-suspended-second
 8gg	.
-16ee	F#m
-16dd	.
-8ee[	F#add(1,3,5,6,10)
+16eeL	F# minor
+16ddJ	.
+[8eeJ	F# other-1,3,5,6,10
 =8	=8
-2ee_	Em
-4ee_	Em/G
-4ee]	Em/B
+2ee_	E minor
+4ee_	E minor/G
+4ee]	E minor/B
 ==	==
 *-	*-

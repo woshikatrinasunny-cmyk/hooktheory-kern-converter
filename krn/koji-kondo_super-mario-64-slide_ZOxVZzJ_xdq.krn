@@ -15,106 +15,106 @@
 *D:	*
 *M4/4	*
 =1	=1
-2bb	G
-2aa#	Gadd(3,4,6,7)
+2bb	G major
+2aa#	G other-3,4,6,7
 =2	=2
-2aa	Dmaj9/F#
-4bb	Bm7b5/F
+2aa	D major-ninth/F#
+4bb	B half-diminished/F
 4ff#	.
 =3	=3
-2gg	Em7
-2aa	D#add(3,4,7,10)
+2gg	E minor-seventh
+2aa	D# other-3,4,7,10
 =4	=4
-3...ff#	Dmaj9
-8aa	.
+3...ff#	D major-ninth
+8aaL	.
 8bb	.
-8ccc#	.
+8ccc#J	.
 =5	=5
-2ddd[	G
-8ddd]	Gadd(3,4,6,7)
+[2ddd	G major
+8dddL]	G other-3,4,6,7
 8ccc#	.
 8ddd	.
-8eee	.
+8eeeJ	.
 =6	=6
-2fff#	Dmaj9/F#
-4aa	Bm7b5/F
+2fff#	D major-ninth/F#
+4aa	B half-diminished/F
 4fff#	.
 =7	=7
-2eee	Em7
-4ddd	D#add(3,4,7,10)
+2eee	E minor-seventh
+4ddd	D# other-3,4,7,10
 4ccc#	.
 =8	=8
-1ddd	Dmaj9
+1ddd	D major-ninth
 =9	=9
-16d	D7
+16dLL	D dominant
 16d	.
 16c#	.
 16d	.
 16e	.
 16d	.
 16c#	.
-16d	.
-16c#	.
+16dJJ	.
+16c#LL	.
 16d	.
 16c#	.
 16d	.
 16e	.
 16d	.
 16c#	.
-16d	.
+16dJJ	.
 =10	=10
-16d	.
-16d	.
-16c#	.
-16d	.
-16g	.
-16d	.
-16c#	.
-16d	.
-16a	.
+16dLL	.
 16d	.
 16c#	.
 16d	.
 16g	.
 16d	.
 16c#	.
+16dJJ	.
+16aLL	.
 16d	.
+16c#	.
+16d	.
+16g	.
+16d	.
+16c#	.
+16dJJ	.
 =11	=11
-16d	G7
+16dLL	G dominant
 16d	.
 16c#	.
 16d	.
 16e	.
 16d	.
 16c#	.
-16d	.
-16c#	.
+16dJJ	.
+16c#LL	.
 16d	.
 16c#	.
 16d	.
 16e	.
 16d	.
 16c#	.
-16d	.
+16dJJ	.
 =12	=12
-16c#	.
+16c#LL	.
 16d	.
 16c#	.
 16d	.
 16g	.
 16d	.
 16c#	.
-16d	.
-16a	.
+16dJJ	.
+16aLL	.
 16d	.
 16c#	.
 16d	.
 16g	.
 16d	.
 16c#	.
-16d	.
+16dJJ	.
 =13	=13
-2aa	D7
+2aa	D dominant
 2aa	.
 =14	=14
 4aa	.
@@ -122,7 +122,7 @@
 4ee	.
 4dd#	.
 =15	=15
-2dd	G7
+2dd	G dominant
 2dd	.
 =16	=16
 4..dd	.
@@ -130,48 +130,48 @@
 4dd	.
 4ee	.
 =17	=17
-4.dd	D7
+4.dd	D dominant
 8dd	.
 4ff#	.
 4aa	.
 =18	=18
 4gg#	.
 4aa	.
-16gg#	.
+16gg#LL	.
 16aa	.
 16ff#	.
-16dd	.
+16ddJ	.
 8cc#	.
-8a	.
+8aJ	.
 =19	=19
-8.b	G
-16cc#	.
+8.bL	G major
+16cc#k	.
 8.dd	.
-16ee	.
-16ff#	.
+16eeJk	.
+16ff#LL	.
 16ffn	.
 16ff#	.
 16gg	.
 16aa	.
 16gg#	.
 16gg	.
-16ee	.
+16eeJJ	.
 =20	=20
-16dd	A9
+16ddLL	A dominant-ninth
 16cc#	.
 16dd	.
 16aa	.
 16cc#	.
 16ccn	.
 16cc#	.
-16aa	.
-16cc#	.
+16aaJJ	.
+16cc#LL	.
 16ccn	.
 16b	.
 16a#	.
 16a	.
 16g#	.
 16g	.
-16e	.
+16eJJ	.
 ==	==
 *-	*-

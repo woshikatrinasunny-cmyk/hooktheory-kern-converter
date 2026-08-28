@@ -16,60 +16,60 @@
 *b-:	*
 *M4/4	*
 =1	=1
-8.f	D-
-8.f	D-
-8.g-	E-m7
-8.g-	E-m7
-8.a-	G-add(2,4,7)
-16a-[	G-add(2,4,7)
+8.fL	D- major
+8.fJ	D- major
+8.g-	E- minor-seventh
+8.g-L	E- minor-seventh
+8.a-	G- other-2,4,7
+[16a-Jk	G- other-2,4,7
 =2	=2
-8a-]	.
-8.f	G-maj7
-8.f	G-maj7
-8.g-	G-
-8.g-	G-
-8a-	D-/F
+8a-L]	.
+8.f	G- major-seventh
+8.fJ	G- major-seventh
+8.g-L	G- major
+8.g-	G- major
+8a-J	D- major/F
 =3	=3
-8.dd-	B-m
-8.dd-	B-m
-8.cc	A-
-8.cc	A-
-8.a-	D-/F
-16a-[	D-/F
+8.dd-L	B- minor
+8.dd-J	B- minor
+8.cc	A- major
+8.ccL	A- major
+8.a-	D- major/F
+[16a-Jk	D- major/F
 =4	=4
-8a-]	.
-8.b-	G-
-8.b-	G-
-8.b-	G-
-8.a-	G-add(2,4,7)
-8b-	G-
+8a-L]	.
+8.b-	G- major
+8.b-J	G- major
+8.b-L	G- major
+8.a-	G- other-2,4,7
+8b-J	G- major
 =5	=5
-8.f	D-
-8.f	D-
-8.g-	E-m7
-8.g-	E-m7
-8.a-	G-add(2,4,7)
-16a-[	G-add(2,4,7)
+8.fL	D- major
+8.fJ	D- major
+8.g-	E- minor-seventh
+8.g-L	E- minor-seventh
+8.a-	G- other-2,4,7
+[16a-Jk	G- other-2,4,7
 =6	=6
-8a-]	.
-8.f	G-maj7
-8.f	G-maj7
-8.g-	G-
-8.g-	G-
-8a-	D-/F
+8a-L]	.
+8.f	G- major-seventh
+8.fJ	G- major-seventh
+8.g-L	G- major
+8.g-	G- major
+8a-J	D- major/F
 =7	=7
-8.dd-	B-m
-8.dd-	B-m
-8.cc	A-
-8.cc	A-
-8.a-	D-/F
-16a-[	D-/F
+8.dd-L	B- minor
+8.dd-J	B- minor
+8.cc	A- major
+8.ccL	A- major
+8.a-	D- major/F
+[16a-Jk	D- major/F
 =8	=8
-8a-]	.
-8.b-	G-
-8.b-	G-
-8.b-	G-
-8.a-	G-add(2,4,7)
-8b-	G-
+8a-L]	.
+8.b-	G- major
+8.b-J	G- major
+8.b-L	G- major
+8.a-	G- other-2,4,7
+8b-J	G- major
 ==	==
 *-	*-

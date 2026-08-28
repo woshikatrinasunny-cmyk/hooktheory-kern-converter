@@ -16,72 +16,72 @@
 *c#:	*
 *M4/4	*
 =1	=1
-16b	C#sus4
+16b	C# suspended-fourth
 16r	.
 16b	.
-16r	C#m
-16a	.
+16r	C# minor
+16aLL	.
 16b	.
-16g#	C#m7
+16g#	C# minor-seventh
+16bJJ	.
+16g#LL	E major
 16b	.
-16g#	E
+16cc#JJ	.
+16r	E other-2,4,7
+16a#LL	.
 16b	.
-16cc#	.
-16r	Eadd(2,4,7)
-16a#	.
-16b	.
-16b	C#m/E
-16g#	.
+16b	C# minor/E
+16g#JJ	.
 =2	=2
-16b	F#m/A
+16b	F# minor/A
 16r	.
 16b	.
-16r	Amaj7
-16a	.
+16r	A major-seventh
+16aLL	.
 16b	.
-16g#	Aadd(2,4,7)
-16b	.
-16g#	.
-16b	E
-16f#	.
+16g#	A other-2,4,7
+16bJJ	.
+16g#LL	.
+16b	E major
+16f#JJ	.
 16r	.
-16d#	B
+16d#LL	B major
 16e	.
 16ee	.
-16cc#	.
+16cc#JJ	.
 =3	=3
-16b	C#sus4
+16b	C# suspended-fourth
 16r	.
 16b	.
-16r	C#m
-16a	.
+16r	C# minor
+16aLL	.
 16b	.
-16g#	C#m7
+16g#	C# minor-seventh
+16bJJ	.
+16g#LL	E major
 16b	.
-16g#	E
+16cc#JJ	.
+16r	E other-2,4,7
+16a#LL	.
 16b	.
-16cc#	.
-16r	Eadd(2,4,7)
-16a#	.
-16b	.
-16b	C#m/E
-16g#	.
+16b	C# minor/E
+16g#JJ	.
 =4	=4
-16b	F#m/A
+16b	F# minor/A
 16r	.
 16b	.
-16r	Amaj7
-16a	.
+16r	A major-seventh
+16aLL	.
 16b	.
-16g#	Aadd(2,4,7)
+16g#	A other-2,4,7
+16bJJ	.
+16g#LL	.
 16b	.
-16g#	.
-16b	.
-16f#	.
+16f#JJ	.
 16r	.
-16d#	.
+16d#LL	.
 16e	.
 16e	.
-16f#	.
+16f#JJ	.
 ==	==
 *-	*-

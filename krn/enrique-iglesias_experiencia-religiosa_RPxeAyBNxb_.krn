@@ -16,99 +16,99 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	Cadd(2,4,7)
-8G	.
-8G	.
-8c	.
+4r	C other-2,4,7
+8GL	.
+8GJ	.
+8cL	.
 8A	.
 8G	.
-8c[	.
+[8cJ	.
 =2	=2
 4c]	.
 8r	.
 8c	.
-8c	.
+8cL	.
 8G	.
 8E	.
-8F[	.
+[8FJ	.
 =3	=3
-8F]	F/C
-8c	.
+8FL]	F major/C
+8cJ	.
 2.c	.
 =4	=4
 2r	.
-2r	C/E
+2r	C major/E
 =5	=5
-4r	Dm7
-8A	.
-8A	.
-8B	.
+4r	D minor-seventh
+8AL	.
+8AJ	.
+8BL	.
 8A	.
 8G	.
-8B	.
+8BJ	.
 =6	=6
-8A	G11
+8A	G dominant-11th
 4G	.
 4r	.
-8A	.
+8AL	.
 8D#	.
-8E[	.
+[8EJ	.
 =7	=7
-8E]	Cadd(2,4,7)
+8E]	C other-2,4,7
 2.G	.
 8r	.
 =8	=8
 4r	.
-2.r	F/C
+2.r	F major/C
 =9	=9
-2r	Cadd(2,4,7)
-8c	.
+2r	C other-2,4,7
+8cL	.
 8A	.
 8G	.
-8e[	.
+[8eJ	.
 =10	=10
-8e]	.
-8d	.
+8eL]	.
+8dJ	.
 4c	.
-8c	C/E
+8cL	C major/E
 8d	.
 8e	.
-8e[	.
+[8eJ	.
 =11	=11
-8e]	F
-8.A	.
-3...A[	.
+8eL]	F major
+8.AJ	.
+[3...A	.
 16A]	.
 =12	=12
 2r	.
-2r	C/E
+2r	C major/E
 =13	=13
-8r	Dm7
-8A	.
+8r	D minor-seventh
+8AL	.
 8B	.
-8A	.
-16B	.
-16A	.
+8AJ	.
+16BLL	.
+16AJ	.
 8A	.
 8G	.
-16B	.
-16B[	.
+16BL	.
+[16BJJ	.
 =14	=14
-16B]	G11
+16B]	G dominant-11th
 6...A	.
 16r	.
 16C	.
-8G	.
+8GL	.
 8B	.
 8D	.
-8E[	.
+[8EJ	.
 =15	=15
-16E]	C
-2.G[	.
+16E]	C major
+[2.G	.
 16G]	.
 8r	.
 =16	=16
 2r	.
-2r	Em7/B
+2r	E minor-seventh/B
 ==	==
 *-	*-

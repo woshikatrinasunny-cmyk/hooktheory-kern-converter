@@ -16,142 +16,142 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8ccc	A-
+8ccc	A- major
 16r	.
-8aa-	.
-16ee-	.
+8aa-L	.
+16ee-L	.
 16aa-	.
-16ccc	.
-8ddd	A-/C
-8eee-	.
+16cccJJ	.
+8dddL	A- major/C
+8eee-J	.
 8.r	.
-16eee-[	.
+[16eee-	.
 =2	=2
-16eee-]	D-
+16eee-LL]	D- major
 16eee-	.
 16ddd-	.
 16ccc	.
 16ddd-	.
 16ccc	.
 16bb-	.
-16ccc[	.
-16ccc]	E-
+[16cccJJ	.
+16cccLK]	E- major
 8aa-	.
 8bb-	.
-16bb-	.
+16bb-L	.
 16ccc	.
-16ddd-	.
+16ddd-JJ	.
 =3	=3
-8eee-	A-
+8eee-	A- major
 16r	.
-8ccc	.
-16aa-	.
+8cccL	.
+16aa-L	.
 16ccc	.
-16eee-	.
-8ggg	A-/C
-8aaa-	.
+16eee-JJ	.
+8gggL	A- major/C
+8aaa-J	.
 8.r	.
-16aaa-[	.
+[16aaa-	.
 =4	=4
-16aaa-]	D-
+16aaa-LL]	D- major
 16aaa-	.
 16ggg-	.
 16fff	.
 16fff	.
 16eee-	.
 16ddd-	.
-16eee-	.
-16bb-	E-
+16eee-JJ	.
+16bb-LL	E- major
 16aa-	.
-16bb-	.
+16bb-JJ	.
 8r	.
-16bb-	.
+16bb-LL	.
 16ddd-	.
-16ddd	.
+16dddJJ	.
 =5	=5
-16ee-	A-
-16dd	.
+16ee-LL	A- major
+16ddJ	.
 8ee-	.
 8cc	.
-16ee-	.
-16dd	.
-8ee-	.
+16ee-L	.
+16ddJJ	.
+8ee-L	.
 8cc	.
-8dd	.
+8ddJ	.
 8r	.
 =6	=6
-16ee-	A-
-16dd	.
+16ee-LL	A- major
+16ddJ	.
 8ee-	.
 8cc	.
-8dd	B-
-8een	C
-8gg-	D
-8aa-	E
-8r	G-
+8ddJ	B- major
+8eenL	C major
+8gg-	D major
+8aa-J	E major
+8r	G- major
 =7	=7
-16ee-	A-
-16dd	.
+16ee-LL	A- major
+16ddJ	.
 8ee-	.
 8cc	.
-16ee-	.
-16dd	.
-8ee-	.
+16ee-L	.
+16ddJJ	.
+8ee-L	.
 8cc	.
-8dd	.
+8ddJ	.
 8r	.
 =8	=8
-8ee-	A-
+8ee-	A- major
 8r	.
-8ff	B-/D
+8ff	B- major/D
 8r	.
-8gg	E-
+8gg	E- major
 8r	.
-8aan	A/D-
+8aan	A major/D-
 8r	.
 =9	=9
-16bb-	E-
-16aan	.
+16bb-LL	E- major
+16aanJ	.
 8bb-	.
 8gg	.
-16bb-	.
-16aan	.
-8bb-	.
+16bb-L	.
+16aanJJ	.
+8bb-L	.
 8gg	.
-8aan	.
+8aanJ	.
 8r	.
 =10	=10
-16bb-	E-
-16aan	.
+16bb-LL	E- major
+16aanJ	.
 8bb-	.
 8gg	.
-8aan	F
-8bbn	G
-8ddd-	A
-8eee-	A
-8r	D-
+8aanJ	F major
+8bbnL	G major
+8ddd-	A major
+8eee-J	A major
+8r	D- major
 =11	=11
-16bb-	E-
-16aan	.
+16bb-LL	E- major
+16aanJ	.
 8bb-	.
 8gg	.
-16bb-	.
-16aan	.
-8bb-	.
+16bb-L	.
+16aanJJ	.
+8bb-L	.
 8gg	.
-8aan	.
+8aanJ	.
 8r	.
 =12	=12
-8bb-	E-
+8bb-L	E- major
 8ccc	.
 8ddd	.
-8eeen	.
-8ggg-	.
+8eeenJ	.
+8ggg-L	.
 8aaa-	.
 8bbb-	.
-8cccc	.
+8ccccJ	.
 =13	=13
-8dddd	D
+8dddd	D major
 2..r	.
 ==	==
 *-	*-

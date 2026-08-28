@@ -16,51 +16,51 @@
 *g:	*
 *M4/4	*
 =1	=1
-4g	Gm
-4g-	D
-4g	Gm/B-
-4a	F/C
+4g	G minor
+4g-	D major
+4g	G minor/B-
+4a	F major/C
 =2	=2
-4b-	B-
-4a	F/C
-4b-	B-
-4cc	Cm
+4b-	B- major
+4a	F major/C
+4b-	B- major
+4cc	C minor
 =3	=3
-8dd	D
-8dd	D
-8dd	D
-8dd	D
+8ddL	D major
+8dd	D major
+8dd	D major
+8ddJ	D major
 8r	.
-4ee-	Cm
-8ff	Adim/C
+4ee-	C minor
+8ff	A diminished/C
 =4	=4
-8dd	D
+8dd	D major
 8r	.
-4a	D
-4dd	Dsus4
-4gg-	D7
+4a	D major
+4dd	D suspended-fourth
+4gg-	D dominant
 =5	=5
-8ee-	Cm/E-
-8ee-	Cm/E-
-8ee-	Cm/E-
-8ee-	Cm/E-
+8ee-L	C minor/E-
+8ee-	C minor/E-
+8ee-	C minor/E-
+8ee-J	C minor/E-
 8r	.
-4ff	F/C
-8gg	E-
+4ff	F major/C
+8gg	E- major
 =6	=6
-8dd	D
+8dd	D major
 8r	.
-16dd	D
+16ddLL	D major
 16cc	.
 16b-	.
-16a	.
-16cc	Edim
+16aJJ	.
+16ccLL	E diminished
 16b-	.
 16a	.
 16g	.
-16b-	G-dim
+16b-	G- diminished
 16a	.
 16g	.
-16g-	.
+16g-JJ	.
 ==	==
 *-	*-

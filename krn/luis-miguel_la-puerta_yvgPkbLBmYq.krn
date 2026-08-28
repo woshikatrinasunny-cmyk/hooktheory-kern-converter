@@ -16,80 +16,80 @@
 *D-:	*
 *M4/4	*
 =1	=1
-8.ff	E-m9
-16ff	.
+8.ffL	E- minor-ninth
+16ffL	.
 16ff	.
 16ee-	.
-16ee-	.
+16ee-JJ	.
 4ff	.
 8.r	.
 8ee-	.
 =2	=2
-16ff	A-9
+16ffLK	A- dominant-ninth
 8ff	.
-16ff	.
+16ffk	.
 8ff	.
-16ee-	.
-16ff	.
+16ee-L	.
+16ffJJ	.
 8.ff	.
 4r	.
 16cc	.
 =3	=3
-8ee-	D-maj9
+8ee-L	D- major-ninth
 8ee-	.
 8ee-	.
-16dd-	.
+16dd-Jk	.
 4ee-	.
 4r	.
 16dd-	.
 =4	=4
 *k[f#c#g#d#a#]	*
 *B:	*
-16dd#	C#m7
+16dd#LL	C# minor-seventh
 16dd#	.
-16dd#	.
+16dd#J	.
 8ff#	.
-16ee	.
-8dd#[	.
-4.dd#]	F#add(4,7,9,10)
+16eek	.
+[8dd#J	.
+4.dd#]	F# other-4,7,9,10
 8a#	.
 =5	=5
-16cc#	Bmaj7
-16cc#	.
+16cc#LL	B major-seventh
+16cc#J	.
 8cc#	.
 8cc#	.
-16b	.
+16bJk	.
 4cc#	.
 8.r	.
 8b	.
 =6	=6
 *k[f#c#g#]	*
 *A:	*
-16cc#	Bm7
+16cc#LL	B minor-seventh
 16cc#	.
-16cc#	.
+16cc#J	.
 8.cc#	.
-16b	.
-16cc#[	.
-8.cc#]	E
+16bL	.
+[16cc#JJ	.
+8.cc#]	E major
 16r	.
-16b	.
+16bLK	.
 8a#	.
-16b	.
+16bJk	.
 =7	=7
 *k[b-e-a-d-]	*
 *A-:	*
-2...ee-	B-m7
+2...ee-	B- minor-seventh
 16r	.
 =8	=8
-4r	E-11
-8e-	.
-8f[	.
-8f]	F7
+4r	E- dominant-11th
+8e-L	.
+[8fJ	.
+8fL]	F dominant
 8.g	.
-16a-	.
+16a-L	.
 16b-	.
-16cc	.
+16ccJJ	.
 *k[b-e-a-d-]	*
 *A-:	*
 ==	==

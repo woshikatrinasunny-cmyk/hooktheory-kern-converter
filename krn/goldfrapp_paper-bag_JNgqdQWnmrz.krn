@@ -16,7 +16,7 @@
 *f#:	*
 *M3/4	*
 =1	=1
-4b	F#m
+4b	F# minor
 4b	.
 4b	.
 =2	=2
@@ -26,10 +26,10 @@
 =4	=4
 2.r	.
 =5	=5
-4b	Bm/F#
+4b	B minor/F#
 4b	.
-8.ccn	.
-16cc#[	.
+8.ccnL	.
+[16cc#Jk	.
 =6	=6
 2.cc#]	.
 =7	=7
@@ -37,10 +37,10 @@
 =8	=8
 4ee	.
 4ee	.
-8.cc#	.
-16ee	.
+8.cc#L	.
+16eeJk	.
 =9	=9
-2.ee[	Bm/D
+[2.ee	B minor/D
 =10	=10
 4ee]	.
 8dd	.
@@ -49,10 +49,10 @@
 2.dd	.
 =12	=12
 2dd	.
-8.g#	.
-16g#[	.
+8.g#L	.
+[16g#Jk	.
 =13	=13
-2.g#]	C#sus4
+2.g#]	C# suspended-fourth
 =14	=14
 2.r	.
 =15	=15
@@ -60,11 +60,11 @@
 =16	=16
 2.r	.
 =17	=17
-2.cc#	F#m
+2.cc#	F# minor
 =18	=18
 2dd	.
-8.b	.
-16cc#[	.
+8.bL	.
+[16cc#Jk	.
 =19	=19
 2.cc#]	.
 =20	=20
@@ -75,26 +75,26 @@
 2ee	.
 4dd	.
 =23	=23
-2.cc#	F#m7/E
+2.cc#	F# minor-seventh/E
 =24	=24
 4r	.
 4cc#	.
-8dd	.
-8cc#	.
+8ddL	.
+8cc#J	.
 =25	=25
-4cc#	B
-2b[	.
+4cc#	B major
+[2b	.
 =26	=26
 2b]	.
 4cc#	.
 =27	=27
-4cc#	Bm
-2b[	.
+4cc#	B minor
+[2b	.
 =28	=28
 4b]	.
-2cc#[	.
+[2cc#	.
 =29	=29
-4cc#]	C#sus4
+4cc#]	C# suspended-fourth
 8g#	.
 4.g#	.
 =30	=30

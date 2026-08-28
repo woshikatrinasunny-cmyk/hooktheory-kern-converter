@@ -16,41 +16,41 @@
 *D:	*
 *M4/4	*
 =1	=1
-4r	D
-2.r	D
+4r	D major
+2.r	D major
 =2	=2
 8r	.
-8a	.
+8aL	.
 8dd	.
-8ff#	.
-2gg	D
+8ff#J	.
+2gg	D major
 =3	=3
-4ff#[	D
-2.ff#]	D
+[4ff#	D major
+2.ff#]	D major
 =4	=4
 8r	.
-8a	.
+8aL	.
 8dd	.
+8ff#J	.
+8ggL	D major
 8ff#	.
-8gg	D
-8ff#	.
-8aa	D
-8gg	.
+8aa	D major
+8ggJ	.
 =5	=5
-4ff#[	D
-2.ff#]	D
+[4ff#	D major
+2.ff#]	D major
 =6	=6
 8r	.
-8a	.
+8aL	.
 8dd	.
-8ff#	.
-2gg	D
+8ff#J	.
+2gg	D major
 =7	=7
-4ff#[	D
-2.ff#_	D
+[4ff#	D major
+2.ff#_	D major
 =8	=8
 2ff#]	.
-4dd[	D
-4dd]	D
+[4dd	D major
+4dd]	D major
 ==	==
 *-	*-

@@ -16,60 +16,60 @@
 *a:	*
 *M4/4	*
 =1	=1
-8r	Am
-8.a	.
-8.a	.
-8.a	.
+8r	A minor
+8.aL	.
+8.aJ	.
+8.aL	.
 8.b	.
-8cc[	.
+[8ccJ	.
 =2	=2
-8cc]	F
+8ccL]	F major
 8.cc	.
-8.cc	.
-8.cc	.
+8.ccJ	.
+8.ccL	.
 8.dd	.
-8cc[	.
+[8ccJ	.
 =3	=3
-8cc]	C
+8ccL]	C major
 8.g	.
+8.gJ	.
+8.gL	.
 8.g	.
-8.g	.
-8.g	.
-8g[	.
+[8gJ	.
 =4	=4
-8g]	G
+8gL]	G major
 8.g	.
-8.g	.
-8.g	.
+8.gJ	.
+8.gL	.
 8.b	.
-8cc[	.
+[8ccJ	.
 =5	=5
-8cc]	Am
+8ccL]	A minor
 8.a	.
-8.a	.
-8.a	.
+8.aJ	.
+8.aL	.
 8.b	.
-8cc[	.
+[8ccJ	.
 =6	=6
-8cc]	F
+8ccL]	F major
 8.cc	.
-8.cc	.
-8.cc	.
+8.ccJ	.
+8.ccL	.
 8.dd	.
-8ee[	.
+[8eeJ	.
 =7	=7
-8ee]	C
+8eeL]	C major
 8.ee	.
-8.ee	.
-8.ee	.
+8.eeJ	.
+8.eeL	.
 8.cc	.
-8dd[	.
+[8ddJ	.
 =8	=8
-8dd]	G
+8ddL]	G major
 8.gg	.
-8.gg	.
-8.gg	.
+8.ggJ	.
+8.ggL	.
 8.b	.
-8cc	.
+8ccJ	.
 ==	==
 *-	*-

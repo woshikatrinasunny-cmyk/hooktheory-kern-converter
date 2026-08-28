@@ -16,176 +16,176 @@
 *b:	*
 *M4/4	*
 =1	=1
-8dd	G
+8dd	G major
 4dd	.
 8dd	.
-8a	D/F#
+8a	D major/F#
 4a	.
 8a	.
 =2	=2
-8b	G
+8b	G major
 4b	.
 8b	.
-8cc#	A
+8cc#	A major
 4cc#	.
 8cc#	.
 =3	=3
-8b	G
+8b	G major
 4b	.
 8b	.
-8cc#	A
+8cc#	A major
 4cc#	.
 8cc#	.
 =4	=4
-8a	F#m
+8a	F# minor
 4a	.
 8a	.
-8dd	Bm
+8dd	B minor
 4dd	.
 8r	.
 =5	=5
-8dd	Bm
+8dd	B minor
 4dd	.
 8dd	.
-8a	Dmaj7/C#
-8a[	.
-8a]	D
-8a	.
+8aL	D major-seventh/C#
+[8a	.
+8a]	D major
+8aJ	.
 =6	=6
-8b	G
+8b	G major
 4b	.
 8b	.
-8cc#	A
+8cc#	A major
 4cc#	.
 8cc#	.
 =7	=7
-8b	G
+8b	G major
 4b	.
 8b	.
-8cc#	A
+8cc#	A major
 4cc#	.
 8cc#	.
 =8	=8
-8a	D
-8a[	.
-8a]	Dmaj7/C#
-8a	.
-8dd	Bm
+8aL	D major
+[8a	.
+8a]	D major-seventh/C#
+8aJ	.
+8dd	B minor
 4dd	.
 8r	.
 =9	=9
-2dd[	Bm
-4dd]	Dmaj7/C#
-8cc#	D
-8dd[	.
+[2dd	B minor
+4dd]	D major-seventh/C#
+8cc#L	D major
+[8ddJ	.
 =10	=10
-4dd]	G
-8ee	.
-8dd[	.
-4dd]	A
-8cc#	.
-8b[	.
+4dd]	G major
+8eeL	.
+[8ddJ	.
+4dd]	A major
+8cc#L	.
+[8bJ	.
 =11	=11
-2b]	G
-2cc#	A
+2b]	G major
+2cc#	A major
 =12	=12
-4ff#	D
-8ee	Dmaj7/C#
-8dd[	.
-4dd]	Bm
+4ff#	D major
+8eeL	D major-seventh/C#
+[8ddJ	.
+4dd]	B minor
 4cc#	.
 =13	=13
-2dd	Bm
-4r	Dmaj7/C#
-8cc#	D
-8dd[	.
+2dd	B minor
+4r	D major-seventh/C#
+8cc#L	D major
+[8ddJ	.
 =14	=14
-4dd]	G
-8ee	.
-8dd[	.
-4dd]	A
-8cc#	.
-8b[	.
+4dd]	G major
+8eeL	.
+[8ddJ	.
+4dd]	A major
+8cc#L	.
+[8bJ	.
 =15	=15
-2b]	G
-2cc#	A
+2b]	G major
+2cc#	A major
 =16	=16
-4ff#	D
-8ee	Dmaj7/C#
-8dd[	.
-4dd]	Bm
+4ff#	D major
+8eeL	D major-seventh/C#
+[8ddJ	.
+4dd]	B minor
 4cc#	.
 =17	=17
-8dd	Bm
+8ddL	B minor
 8a	.
 8b	.
-8dd	.
-8cc#	Dmaj7/C#
+8ddJ	.
+8cc#L	D major-seventh/C#
 8a	.
-8cc#	D
-8dd	.
+8cc#	D major
+8ddJ	.
 =18	=18
-8b	G
+8bL	G major
 8g	.
 8b	.
-8dd	.
-8cc#	A
+8ddJ	.
+8cc#L	A major
 8a	.
 8ee	.
-8cc#	.
+8cc#J	.
 =19	=19
-8b	G
+8bL	G major
 8g	.
 8b	.
-8dd	.
-8cc#	A
+8ddJ	.
+8cc#L	A major
 8a	.
 8ee	.
-8cc#	.
+8cc#J	.
 =20	=20
-8f#	D
+8f#L	D major
 8g	.
-8f#	Dmaj7/C#
-8cc#	.
-8dd	Bm
+8f#	D major-seventh/C#
+8cc#J	.
+8ddL	B minor
 8dd	.
 8a	.
-8b	.
+8bJ	.
 =21	=21
-8dd	Bm
+8ddL	B minor
 8a	.
 8b	.
-8dd	.
-8cc#	Dmaj7/C#
+8ddJ	.
+8cc#L	D major-seventh/C#
 8a	.
-8cc#	D
-8dd	.
+8cc#	D major
+8ddJ	.
 =22	=22
-8b	G
+8bL	G major
 8g	.
 8b	.
-8dd	.
-8cc#	A
+8ddJ	.
+8cc#L	A major
 8a	.
 8ee	.
-8cc#	.
+8cc#J	.
 =23	=23
-8b	G
+8bL	G major
 8g	.
 8b	.
-8dd	.
-8cc#	A
+8ddJ	.
+8cc#L	A major
 8a	.
 8ee	.
-8cc#	.
+8cc#J	.
 =24	=24
-8f#	D
+8f#L	D major
 8g	.
-8f#	Dmaj7/C#
-8cc#	.
-8dd	Bm
+8f#	D major-seventh/C#
+8cc#J	.
+8ddL	B minor
 8dd	.
 8a	.
-8b	.
+8bJ	.
 ==	==
 *-	*-

@@ -16,84 +16,84 @@
 *c:	*
 *M4/4	*
 =1	=1
-16g	Csus2
+16gLL	C suspended-second
 16d	.
 16An	.
 16f	.
 16c	.
 16G	.
 16e-	.
-16B-	.
-16F	.
+16B-JJ	.
+16FLL	.
 16G-	.
-16A-	B-sus4
+16A-	B- suspended-fourth
 16d-	.
 16g-	.
 16bn	.
-16g	Csus2
-16d	.
+16g	C suspended-second
+16dJJ	.
 =2	=2
-16An	.
+16AnLL	.
 16f	.
 16c	.
 16G	.
 16e-	.
 16B-	.
 16F	.
-16G-	.
-16A-	B-sus4
+16G-JJ	.
+16A-LL	B- suspended-fourth
 16d-	.
 16g-	.
 16bn	.
 16g-	.
 16d-	.
-16g	Csus2
-16d	.
+16g	C suspended-second
+16dJJ	.
 =3	=3
-16An	.
+16AnLL	.
 16f	.
 16c	.
 16G	.
 16e-	.
 16B-	.
 16F	.
-16G-	.
-16A-	B-sus4
+16G-JJ	.
+16A-LL	B- suspended-fourth
 16d-	.
 16g-	.
 16bn	.
-16g	Csus2
+16g	C suspended-second
 16d	.
 16An	.
-16f	.
+16fJJ	.
 =4	=4
-16c	.
+16cLL	.
 16G	.
 16e-	.
 16B-	.
 16F	.
 16G-	.
-16A-	B-sus4
-16d-	.
-16g-	.
+16A-	B- suspended-fourth
+16d-JJ	.
+16g-LL	.
 16bn	.
 16g-	.
 16d-	.
-16a-	A-m
+16a-JJ	A- minor
 16r	.
-16b-	E-/G
+16b-	E- major/G
 16r	.
 =5	=5
-16bn	B/G-
+16bn	B major/G-
 16r	.
-16dd-	D-/F
+16dd-	D- major/F
 16r	.
-16ee-	A-m/E-
+16ee-	A- minor/E-
 16r	.
-16bn	A-dim/D
+16bn	A- diminished/D
 16r	.
-8een	D-m
-16ee-	.
-16dd-	.
+8eenL	D- minor
+16ee-L	.
+16dd-JJ	.
 ==	==
 *-	*-

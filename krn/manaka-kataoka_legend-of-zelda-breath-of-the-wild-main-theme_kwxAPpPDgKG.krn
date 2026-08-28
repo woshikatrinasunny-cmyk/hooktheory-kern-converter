@@ -16,36 +16,36 @@
 *c:	*
 *M3/4	*
 =1	=1
-8dd	A-
-8b-	.
+8ddL	A- major
+8b-J	.
 2cc	.
 =2	=2
-8dd	B-
-8an	.
+8ddL	B- major
+8anJ	.
 4cc	.
-8ff	.
-8dd	.
+8ffL	.
+8ddJ	.
 =3	=3
-8cc	Cm
-8gg	.
+8ccL	C minor
+8ggJ	.
 8gg	.
 4gg	.
 8ee-	.
 =4	=4
-8ff	F
+8ff	F major
 4.ccc	.
-8cc	.
-8dd	.
+8ccL	.
+8ddJ	.
 =5	=5
-4.ee-	A-
+4.ee-	A- major
 8ff	.
 4gg	.
 =6	=6
-4ff	B-
+4ff	B- major
 2ddd	.
 =7	=7
 2.r	.
 =8	=8
-2.ccc	Cm
+2.ccc	C minor
 ==	==
 *-	*-

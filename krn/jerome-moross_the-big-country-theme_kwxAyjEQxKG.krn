@@ -16,72 +16,72 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	C
+1r	C major
 =2	=2
 2..r	.
-16f	.
-16a	.
+16fLL	.
+16aJJ	.
 =3	=3
-2.cc[	F
-16cc]	.
+[2.cc	F major
+16ccLL]	.
 16ee	.
 16dd	.
-16cc	.
+16ccJJ	.
 =4	=4
-2a#	D#
-2b	G7
+2a#	D# major
+2b	G dominant
 =5	=5
-16aa#	D#
-3...gg[	.
-16gg]	.
-16gg	.
+16aa#	D# major
+[3...gg	.
+16ggLL]	.
+16ggJJ	.
 16r	.
 16gg	.
 16r	.
 =6	=6
 *k[f#c#]	*
 *D:	*
-16aa	A7
-3...gg[	.
-16gg]	.
-16gg	.
+16aa	A dominant
+[3...gg	.
+16ggLL]	.
+16ggJJ	.
 16r	.
 16gg	.
 16r	.
 =7	=7
-2.aa	D
+2.aa	D major
 16aa	.
 16r	.
 16aa	.
 16r	.
 =8	=8
-2gg	G
-2ee	A7
+2gg	G major
+2ee	A dominant
 =9	=9
-2.aa	D
+2.aa	D major
 16aa	.
 16r	.
 16aa	.
 16r	.
 =10	=10
-2gg	G
-2cc#	A7
+2gg	G major
+2cc#	A dominant
 =11	=11
-2.aa	D
+2.aa	D major
 16aa	.
 16r	.
 16aa	.
 16r	.
 =12	=12
-2cccn	F
-2bb	A7
+2cccn	F major
+2bb	A dominant
 =13	=13
-4..aa[	D
-2aa_	G
+[4..aa	D major
+2aa_	G major
 16aa_	.
 =14	=14
-4..aa_	D
-2aa_	G
+4..aa_	D major
+2aa_	G major
 16aa]	.
 ==	==
 *-	*-

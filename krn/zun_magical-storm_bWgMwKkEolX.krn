@@ -16,11 +16,11 @@
 *f:	*
 *M4/4	*
 =1	=1
-1ff	D-add(2,4,7)
+1ff	D- other-2,4,7
 =2	=2
-1ff	E-9
+1ff	E- dominant-ninth
 =3	=3
-4.ff	Fm
+4.ff	F minor
 8r	.
 2aa-	.
 =4	=4
@@ -30,30 +30,30 @@
 =5	=5
 *k[f#c#g#d#]	*
 *c#:	*
-1ee	A
+1ee	A major
 =6	=6
-2ff#	B
+2ff#	B major
 4ee	.
 4ff#	.
 =7	=7
-2..gg#	C#m
+2..gg#	C# minor
 16r	.
 16cccn	.
 =8	=8
-8.ccc#	.
+8.ccc#L	.
 8.bb	.
-16gg#	.
+16gg#Jk	.
 16r	.
 4.ccc#	.
 8r	.
 =9	=9
 *k[b-e-a-d-]	*
 *f:	*
-1ff	D-add(2,4,7)
+1ff	D- other-2,4,7
 =10	=10
-1ff	E-9
+1ff	E- dominant-ninth
 =11	=11
-4.ff	Fm
+4.ff	F minor
 8r	.
 2aa-	.
 =12	=12
@@ -63,18 +63,18 @@
 =13	=13
 *k[f#c#g#d#]	*
 *c#:	*
-1ee	A
+1ee	A major
 =14	=14
-2ff#	B
+2ff#	B major
 4ee	.
 4ff#	.
 =15	=15
-4.gg#	C#m
+4.gg#	C# minor
 8r	.
 4.cc#	.
 8r	.
 =16	=16
-4.ddn	Dm
+4.ddn	D minor
 8r	.
 4.a	.
 8r	.

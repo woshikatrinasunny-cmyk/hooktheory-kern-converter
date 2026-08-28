@@ -15,54 +15,54 @@
 *b:	*
 *M4/4	*
 =1	=1
-8.a	Em7
-16a	.
+8.aL	E minor-seventh
+16aJk	.
 8r	.
 4.a	.
-8.f#	F#7sus4
-16f#	.
+8.f#L	F# dominant-seventh-suspended-fourth
+16f#Jk	.
 =2	=2
 8r	.
 2f#	.
 4r	.
 8f#	.
 =3	=3
-8.g	Gmaj7
+8.gL	G major-seventh
 8.a	.
-8b	.
-8.cc#	.
+8bJ	.
+8.cc#L	.
 8.dd	.
-8ee	.
+8eeJ	.
 =4	=4
-8.dd	F#7
-3...cc#[	.
-16cc#]	.
-8f#	.
+8.dd	F# dominant
+[3...cc#	.
+16cc#LK]	.
+8f#J	.
 =5	=5
-8.g	Em7
+8.gL	E minor-seventh
 8.a	.
-8b	.
-8.cc#	A7
+8bJ	.
+8.cc#L	A dominant
 8.dd	.
-8ee	.
+8eeJ	.
 =6	=6
-8dd	Dmaj7
-16ee	.
+8ddL	D major-seventh
+16eeJk	.
 6...ff#	.
 6...r	.
 16ee	.
 16r	.
 16dd	.
 =7	=7
-8.cc#	C#m7b5
+8.cc#L	C# half-diminished
 8.dd	.
-8ee	.
-4dd	F#7
+8eeJ	.
+4dd	F# dominant
 4cc#	.
 =8	=8
-8.cc#	B7sus4
-8.b[	.
-8b]	Badd(2,4,7)
+8.cc#L	B dominant-seventh-suspended-fourth
+[8.b	.
+8bJ]	B other-2,4,7
 2r	.
 ==	==
 *-	*-

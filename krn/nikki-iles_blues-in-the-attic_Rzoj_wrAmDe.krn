@@ -16,64 +16,64 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Dm
+8r	D minor
 8r	.
-16dd	.
-16cc	.
-8a	.
-8g	.
+16ddLL	.
+16ccJ	.
+8aJ	.
+8gL	.
 8f	.
 8g	.
-8f	.
+8fJ	.
 =2	=2
-8g	Dadd(5,6,10)/A-
+8g	D other-5,6,10/A-
 4g	.
-16a	Gadd(2,5,7)
+16a	G other-2,5,7
 8.r	.
-8d	.
+8dL	.
 8f	.
-8g	.
+8gJ	.
 =3	=3
-4a-	A-add(4,10)
+4a-	A- other-4,10
 4a-	.
-8g	Em/B
-8f	Dm/A
+8gL	E minor/B
+8fJ	D minor/A
 8r	.
-8d[	Dadd(6,10)/C
+[8d	D other-6,10/C
 =4	=4
 4.d_	.
-8d]	Gsus4
+8d]	G suspended-fourth
 8r	.
-8d	.
+8dL	.
 8f	.
-8g	.
+8gJ	.
 =5	=5
-4a-	B-add(2,10)
+4a-	B- other-2,10
 4a-	.
-8g	C
-8f	Faug/D-
+8gL	C major
+8fJ	F augmented/D-
 8r	.
-8d[	Dm7
+[8d	D minor-seventh
 =6	=6
-8d_	.
-8d_	Dadd(3,10)/F
-8d_	Dadd(4,10)/G-
-8d]	Gsus4
+8dL_	.
+8d_	D other-3,10/F
+8d_	D other-4,10/G-
+8dJ]	G suspended-fourth
 8r	.
-8d	.
+8dL	.
 8f	.
-8g	.
+8gJ	.
 =7	=7
-4a-	A-add(4,10)
+4a-	A- other-4,10
 4a-	.
 8r	.
-8a	.
-16cc	.
+8aL	.
+16ccJk	.
 8.r	.
 =8	=8
-8dd[	.
-8dd_	A-add(1,4,6)
-8dd_	Dadd(7,10)/C
-3...dd]	Dadd(7,10)
+[8ddL	.
+8dd_	A- other-1,4,6
+8ddJ_	D other-7,10/C
+3...dd]	D other-7,10
 ==	==
 *-	*-

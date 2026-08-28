@@ -16,95 +16,95 @@
 *D:	*
 *M4/4	*
 =1	=1
-16f#	Gadd(2,4,7)
+16f#LL	G other-2,4,7
 16g	.
-16a	.
+16aJ	.
 8.dd	.
-8b	.
+8bJ	.
 4.cc#	.
 8f#	.
 =2	=2
-16a	Gadd(2,4,7)
+16a	G other-2,4,7
 6...b	.
 8a	.
-8.f#	.
+8.f#L	.
 8.g	.
-8d	.
+8dJ	.
 =3	=3
-16f#	Gadd(2,4,7)
+16f#LL	G other-2,4,7
 16g	.
-16a	.
+16aJ	.
 8.dd	.
-8b	.
+8bJ	.
 4.cc#	.
 8f#	.
 =4	=4
-16a	G
+16a	G major
 6...b	.
 8a	.
-8.f#	A7
+8.f#L	A dominant
 8.g	.
-16cc#	.
-16dd	.
+16cc#L	.
+16ddJJ	.
 =5	=5
-4.dd	D
-16cc#	.
-16dd	.
-4.dd	G
-16cc#	.
-16dd	.
+4.dd	D major
+16cc#LL	.
+16ddJJ	.
+4.dd	G major
+16cc#LL	.
+16ddJJ	.
 =6	=6
-4dd	A
-8ee	.
+4dd	A major
+8eeL	.
+16cc#L	.
+[16ddJJ	.
+6...dd_	D major
+16ddLL]	E minor
 16cc#	.
-16dd[	.
-6...dd_	D
-16dd]	Em
-16cc#	.
-16dd	.
+16ddJJ	.
 =7	=7
-4.dd	D
-16cc#	.
-16dd	.
-4.dd	G
-16cc#	.
-16dd	.
+4.dd	D major
+16cc#LL	.
+16ddJJ	.
+4.dd	G major
+16cc#LL	.
+16ddJJ	.
 =8	=8
-4dd	A
-8ee	.
-16cc#	G
-16dd[	.
-6...dd]	D
+4dd	A major
+8eeL	.
+16cc#L	G major
+[16ddJJ	.
+6...dd]	D major
 8.a	.
 =9	=9
-8.ff#	D
-16ff#	.
+8.ff#L	D major
+16ff#L	.
 16ee	.
-16ff#	.
-8ee	.
-4.a	Gadd(2,4,7)
-16a	.
-16b	.
+16ff#J	.
+8eeJ	.
+4.a	G other-2,4,7
+16aLL	.
+16bJJ	.
 =10	=10
-4cc#	A7
-8ee	.
-16cc#	.
-16dd[	.
-4.dd]	D
+4cc#	A dominant
+8eeL	.
+16cc#L	.
+[16ddJJ	.
+4.dd]	D major
 8a	.
 =11	=11
-8.ff#	D
+8.ff#L	D major
 8.ff#	.
-8gg	.
-4.aa	Gadd(2,4,7)
-16ff#	.
-16gg	.
+8ggJ	.
+4.aa	G other-2,4,7
+16ff#LL	.
+16ggJJ	.
 =12	=12
-4aa	A7
-16aa	.
-16bb	.
-8ccc#	.
-4ddd[	D
-4ddd]	A7
+4aa	A dominant
+16aaLL	.
+16bbJ	.
+8ccc#J	.
+[4ddd	D major
+4ddd]	A dominant
 ==	==
 *-	*-

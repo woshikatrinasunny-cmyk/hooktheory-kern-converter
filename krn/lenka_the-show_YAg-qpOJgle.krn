@@ -16,66 +16,66 @@
 *C:	*
 *M6/4	*
 =1	=1
-4.e	C
-4e	C
+4.e	C major
+4e	C major
 8d	.
-4e	C
+4e	C major
 8d	.
-4.e	C
+4.e	C major
 =2	=2
-4.e	C
-4e	C
+4.e	C major
+4e	C major
 8d	.
-4e	C
-8g[	.
-4g]	C/E
-8d[	.
+4e	C major
+[8g	.
+4g]	C major/E
+[8d	.
 =3	=3
-4.d]	G
-4d	G
+4.d]	G major
+4d	G major
 8c	.
-4.d	G
-4r	G
+4.d	G major
+4r	G major
 8d	.
 =4	=4
-4.d	G
-4d	G
+4.d	G major
+4d	G major
 8d	.
-4e	G
-8f[	.
-4f]	E/G#
-8e[	.
+4e	G major
+[8f	.
+4f]	E major/G#
+[8e	.
 =5	=5
-4.e]	Am
-4.e	Am
-4e	Am
+4.e]	A minor
+4.e	A minor
+4e	A minor
 8d	.
-4c	Am
-8e[	.
+4c	A minor
+[8e	.
 =6	=6
-4.e]	Am
-4.e	Am
-4e	Am
+4.e]	A minor
+4.e	A minor
+4e	A minor
 8d	.
-4e	G
-8f[	.
+4e	G major
+[8f	.
 =7	=7
-4f]	F
-8e[	.
-4e]	F
-8A[	.
-4A]	F
+4f]	F major
+[8e	.
+4e]	F major
+[8A	.
+4A]	F major
 8r	.
-4r	F
+4r	F major
 8f	.
 =8	=8
-4f	F
-8e[	.
-4e]	F
-8d[	.
-4d]	F
+4f	F major
+[8e	.
+4e]	F major
+[8d	.
+4d]	F major
 8c	.
-4d	F
+4d	F major
 8e	.
 ==	==
 *-	*-

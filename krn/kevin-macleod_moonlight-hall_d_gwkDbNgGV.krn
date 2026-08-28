@@ -15,53 +15,53 @@
 *g:	*
 *M6/4	*
 =1	=1
-2.g	Gm
-2.b-	GmMaj7/B-
+2.g	G minor
+2.b-	G major-minor/B-
 =2	=2
-2.dd	Gm
-2.bn	Gmaj7/B
+2.dd	G minor
+2.bn	G major-seventh/B
 =3	=3
-2.dd	Gm
-2.een	Gmaj7/B
+2.dd	G minor
+2.een	G major-seventh/B
 =4	=4
-2.ff	G
-2.dd	Gmaj7/B
+2.ff	G major
+2.dd	G major-seventh/B
 =5	=5
 *k[b-]	*
 *d:	*
-2.cc	Dm
-2.ee-	Fm
+2.cc	D minor
+2.ee-	F minor
 =6	=6
-2.ff	Dm
-2.dd	Fm
+2.ff	D minor
+2.dd	F minor
 =7	=7
 *k[f#c#g#d#a#e#]	*
 *d#:	*
-2.a#	D#m
-2.cc#	F#m
+2.a#	D# minor
+2.cc#	F# minor
 =8	=8
-2.dd#	D#m
-2.cc#	F#m
+2.dd#	D# minor
+2.cc#	F# minor
 =9	=9
 *k[f#]	*
 *e:	*
-2.ee	Em
-2.gg	Gm
+2.ee	E minor
+2.gg	G minor
 =10	=10
-2.ee	Em
-2.gg	Gm
+2.ee	E minor
+2.gg	G minor
 =11	=11
 *k[b-e-]	*
 *g:	*
-2.dd	Gm
-2.dd-	Gdim
+2.dd	G minor
+2.dd-	G diminished
 =12	=12
-1.dd	Gm
+1.dd	G minor
 =13	=13
-2.ff	G
-2.gg	Gadd(3,4,7)
+2.ff	G major
+2.gg	G other-3,4,7
 =14	=14
-1.ff	G
+1.ff	G major
 *k[f#c#]	*
 *G:	*
 ==	==

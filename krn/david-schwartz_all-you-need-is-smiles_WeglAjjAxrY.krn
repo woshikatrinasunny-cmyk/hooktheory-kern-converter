@@ -16,63 +16,63 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	C
+1r	C major
 =2	=2
-2r	G
-8G	.
+2r	G major
+8GL	.
 8A	.
 8c	.
-8d	.
+8dJ	.
 =3	=3
-2c	C
-2r	Dm7
+2c	C major
+2r	D minor-seventh
 =4	=4
-4r	Em7
+4r	E minor-seventh
 4c	.
-8a	F
+8aL	F major
 8g	.
 8e	.
-8d	.
+8dJ	.
 =5	=5
-8e	C
+8e	C major
 4g	.
-8f[	.
-2f]	Dm7
+[8f	.
+2f]	D minor-seventh
 =6	=6
 *M2/4	*
-4r	Em7
-8r	E7
+4r	E minor-seventh
+8r	E dominant
 8G	.
 =7	=7
 *M4/4	*
-8a	Am
+8a	A minor
 4a	.
-8g#[	.
-4g#]	Caug/G#
+[8g#	.
+4g#]	C augmented/G#
 4e	.
 =8	=8
-8g	C/G
+8g	C major/G
 4a	.
-8f#[	.
-8f#]	D7/F#
-8e	.
+[8f#	.
+8f#L]	D dominant/F#
+8eJ	.
 4d	.
 =9	=9
-2g[	G
-2g]	Am7
+[2g	G major
+2g]	A minor-seventh
 =10	=10
 *M2/4	*
-2r	Gdim/A#
+2r	G diminished/A#
 =11	=11
 *M4/4	*
-4G	C
+4G	C major
 4A	.
-4c	Dm7
+4c	D minor-seventh
 4d	.
 =12	=12
-2g[	Em7
-2g]	Fmaj7
+[2g	E minor-seventh
+2g]	F major-seventh
 =13	=13
-1r	Cmaj7
+1r	C major-seventh
 ==	==
 *-	*-

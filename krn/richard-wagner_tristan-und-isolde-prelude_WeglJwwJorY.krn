@@ -20,15 +20,15 @@
 4r	.
 4A	.
 =2	=2
-1f[	.
+[1f	.
 4f]	.
 4e	.
 =3	=3
-1g#[	Fm7b5
+[1g#	F half-diminished
 4g#]	.
-4a	F7
+4a	F dominant
 =4	=4
-4a#	E7
+4a#	E dominant
 2.b	.
 2r	.
 =5	=5
@@ -36,39 +36,39 @@
 4r	.
 4B	.
 =6	=6
-1g#[	.
+[1g#	.
 4g#]	.
 4g	.
 =7	=7
-1b[	G#m7b5
+[1b	G# half-diminished
 4b]	.
 4cc	.
 =8	=8
-4cc#	G7
+4cc#	G dominant
 2.dd	.
 2r	.
 =9	=9
 2.r	.
 4d	.
-2b[	.
+[2b	.
 =10	=10
 4b]	.
 2.a#	.
 2a	.
 =11	=11
-1dd	Dm7b5/C
+1dd	D half-diminished/C
 4dd#	.
 4ee	.
 =12	=12
-4ff	B7
+4ff	B dominant
 2.ff#	.
 2r	.
 =13	=13
-1ddd	Dm7b5/C
+1ddd	D half-diminished/C
 4ddd#	.
 4eee	.
 =14	=14
-4fff	B7
+4fff	B dominant
 2.fff#	.
 2r	.
 =15	=15
@@ -80,141 +80,141 @@
 2.fff#	.
 2r	.
 =17	=17
-4ff	E7
+4ff	E dominant
 2.ff#	.
 4gg	.
 4gg#	.
 =18	=18
-2bb	F
+2bb	F major
 4aa	.
 4A	.
 4.B	.
 8c	.
 =19	=19
-4c	D7/F#
+4c	D dominant/F#
 2D	.
-4c	C/G
+4c	C major/G
 4.d	.
 8e	.
 =20	=20
-4e	D7/A
+4e	D dominant/A
 2d	.
-4d	G7
-4e[	.
-8e]	G7/F
-8f	.
+4d	G dominant
+[4e	.
+8eL]	G dominant/F
+8fJ	.
 =21	=21
-4g	C/E
+4g	C major/E
 4c	.
-4a#[	Gm/D
-4a#]	C#dim
+[4a#	G minor/D
+4a#]	C# diminished
 4.a	.
 8g	.
 =22	=22
-4g	Dm
+4g	D minor
 4.f	.
 8e	.
-4d#	D#/G
-4d[	.
-8d]	Gm
-8e	.
+4d#	D# major/G
+[4d	.
+8dL]	G minor
+8eJ	.
 =23	=23
-4d	Asus4
-4.c#	A
+4d	A suspended-fourth
+4.c#	A major
 8g	.
-4g	D#/A#
-4f#	D#m/A#
-8e	C7/A#
-8f#	.
+4g	D# major/A#
+4f#	D# minor/A#
+8eL	C dominant/A#
+8f#J	.
 =24	=24
-4e	Bsus4
-2d#	B
-4d#	D7/A
-8e	.
-8f	.
-8f#	.
-8g	.
+4e	B suspended-fourth
+2d#	B major
+4d#	D dominant/A
+8eL	.
+8fJ	.
+8f#L	.
+8gJ	.
 =25	=25
-8g	C#m/G#
-8g#	.
-8a	.
-8a#	.
-8.b	E7
-16cc	.
-4cc	A
+8gL	C# minor/G#
+8g#J	.
+8aL	.
+8a#J	.
+8.bL	E dominant
+16ccJk	.
+4cc	A major
 2cc#	.
 =26	=26
-4cc#	D#dim7/A
+4cc#	D# diminished-seventh/A
 2d#	.
 4f#	.
 4.g#	.
 8a	.
 =27	=27
-4a#	E/G#
-2b[	.
-4b]	C#m7
+4a#	E major/G#
+[2b	.
+4b]	C# minor-seventh
 2b	.
 =28	=28
-4b	F#7sus4
+4b	F# dominant-seventh-suspended-fourth
 2c#	.
 4e	.
-4f#[	.
-8f#]	F#7
-8g#	.
+[4f#	.
+8f#L]	F# dominant
+8g#J	.
 =29	=29
-4g#	B7
-2a[	.
-4a]	F#dim/C
-2a[	.
+4g#	B dominant
+[2a	.
+4a]	F# diminished/C
+[2a	.
 =30	=30
-4a]	D#dim
+4a]	D# diminished
 4.cc	.
 8b	.
 4b	.
 4f#	.
 4g#	.
 =31	=31
-4g#	F#dim/C
-2a[	.
-4a]	A/C#
-2a[	.
+4g#	F# diminished/C
+[2a	.
+4a]	A major/C#
+[2a	.
 =32	=32
-4a]	A7/E
+4a]	A dominant/E
 4.cc#	.
 8b	.
 4b	.
 4f#	.
 4g	.
 =33	=33
-4g#	C#/F
-4a[	.
-4a]	Dm/F
-4a	B7/F#
+4g#	C# major/F
+[4a	.
+4a]	D minor/F
+4a	B dominant/F#
 4.b	.
 8cc	.
 =34	=34
-2cc	C/G
+2cc	C major/G
 4e	.
-4cc	Fm/G#
+4cc	F minor/G#
 4.dd	.
 8ee	.
 =35	=35
-4ee	D7/A
-4dd[	.
-4dd]	Dm7b5/G#
-4dd	G7
-4ee[	Em/G
-8ee]	G7/F
-8ff	.
+4ee	D dominant/A
+[4dd	.
+4dd]	D half-diminished/G#
+4dd	G dominant
+[4ee	E minor/G
+8eeL]	G dominant/F
+8ffJ	.
 =36	=36
-4gg	C7/E
+4gg	C dominant/E
 4cc	.
-4aa#[	Gm/D
-4aa#]	C#dim
+[4aa#	G minor/D
+4aa#]	C# diminished
 4.aa	.
 8gg	.
 =37	=37
-2gg	Dsus4
-4ff	Dm
+2gg	D suspended-fourth
+4ff	D minor
 ==	==
 *-	*-

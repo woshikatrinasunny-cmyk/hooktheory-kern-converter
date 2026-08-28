@@ -16,156 +16,156 @@
 *d#:	*
 *M4/4	*
 =1	=1
-2..gg#	B
-16ff#	.
-16ee#	.
+2..gg#	B major
+16ff#LL	.
+16ee#JJ	.
 =2	=2
-2cc#	C#
+2cc#	C# major
 4a#	.
 4ee#	.
 =3	=3
-8.ff#	D#m
-8.ee#	.
+8.ff#L	D# minor
+8.ee#J	.
 2gg#	.
-16ff#	.
-16ee#	.
+16ff#LL	.
+16ee#JJ	.
 =4	=4
-1dd#	G#/C
+1dd#	G# major/C
 =5	=5
-2dd#	B
-8.dd#	.
+2dd#	B major
+8.dd#L	.
 8.ee#	.
-8ff#	.
+8ff#J	.
 =6	=6
-4ee#	C#
+4ee#	C# major
 4gg#	.
 4bb	.
 4ccc#	.
 =7	=7
-2..aa#	D#m
-16gg#	.
-16aa#	.
+2..aa#	D# minor
+16gg#LL	.
+16aa#JJ	.
 =8	=8
-2bb	E
+2bb	E major
 4.ccc#	.
-16bb	.
-16aa#	.
+16bbLL	.
+16aa#JJ	.
 =9	=9
-2dd#	B
-8.a#	.
+2dd#	B major
+8.a#L	.
 8.cc#	.
-8dd#	.
+8dd#J	.
 =10	=10
-8.ee#	C#
+8.ee#L	C# major
 8.ff#	.
-8gg#	.
+8gg#J	.
 4.ee#	.
-16cc#	.
-16dd#	.
+16cc#LL	.
+16dd#JJ	.
 =11	=11
-4.ee#	D#m
+4.ee#	D# minor
 8ff#	.
-8.gg#	.
+8.gg#L	.
 8.ddd#	.
-8aa#	.
+8aa#J	.
 =12	=12
-2.gg#	G#/C
-16cc#	.
+2.gg#	G# major/C
+16cc#LL	.
 16dd#	.
 16ee#	.
-16ff#	.
+16ff#JJ	.
 =13	=13
-2..gg#	B
-16ff#	.
-16ee#	.
+2..gg#	B major
+16ff#LL	.
+16ee#JJ	.
 =14	=14
-2cc#	C#
+2cc#	C# major
 4a#	.
 4ff#	.
 =15	=15
-1ee#[	D#m
+[1ee#	D# minor
 =16	=16
-4ee#_	D#m
-4ee#]	A#/D
-4r	C#
-16dd#	G#/C
+4ee#_	D# minor
+4ee#]	A# major/D
+4r	C# major
+16dd#LL	G# major/C
 16ee#	.
 16ff#	.
-16gg#	.
+16gg#JJ	.
 =17	=17
 *k[b-e-a-d-]	*
 *f:	*
-2..bb-	D-
-16aa-	.
-16gg	.
+2..bb-	D- major
+16aa-LL	.
+16ggJJ	.
 =18	=18
-2ee-	E-
+2ee-	E- major
 4cc	.
 4gg	.
 =19	=19
-8.aa-	Fm
-8.gg	.
+8.aa-L	F minor
+8.ggJ	.
 2bb-	.
-16aa-	.
-16gg	.
+16aa-LL	.
+16ggJJ	.
 =20	=20
-1ff	B-/D
+1ff	B- major/D
 =21	=21
-2ff	D-
-8.ff	.
+2ff	D- major
+8.ffL	.
 8.gg	.
-8aa-	.
+8aa-J	.
 =22	=22
-4gg	E-
+4gg	E- major
 4bb-	.
 4ddd-	.
 4eee-	.
 =23	=23
-2..ccc	Fm
-16bb-	.
-16ccc	.
+2..ccc	F minor
+16bb-LL	.
+16cccJJ	.
 =24	=24
-2ddd-	G-
+2ddd-	G- major
 4.eee-	.
-16ddd-	.
-16ccc	.
+16ddd-LL	.
+16cccJJ	.
 =25	=25
-2ff	D-
-8.cc	.
+2ff	D- major
+8.ccL	.
 8.ee-	.
-8ff	.
+8ffJ	.
 =26	=26
-8.gg	E-
+8.ggL	E- major
 8.aa-	.
-8bb-	.
+8bb-J	.
 4.gg	.
-16ee-	.
-16ff	.
+16ee-LL	.
+16ffJJ	.
 =27	=27
-4.gg	Fm
+4.gg	F minor
 8aa-	.
-8.bb-	.
+8.bb-L	.
 8.fff	.
-8ccc	.
+8cccJ	.
 =28	=28
-2.bb-	B-/D
-16ee-	.
+2.bb-	B- major/D
+16ee-LL	.
 16ff	.
 16gg	.
-16aa-	.
+16aa-JJ	.
 =29	=29
-2..bb-	D-
-16aa-	.
-16gg	.
+2..bb-	D- major
+16aa-LL	.
+16ggJJ	.
 =30	=30
-2ee-	E-
+2ee-	E- major
 4cc	.
 4aa-	.
 =31	=31
-2..gg	Fsus4
-16gg	.
-16aa-	.
+2..gg	F suspended-fourth
+16ggLL	.
+16aa-JJ	.
 =32	=32
-1aan	F
+1aan	F major
 ==	==
 *-	*-

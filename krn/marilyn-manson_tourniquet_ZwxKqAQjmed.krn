@@ -16,61 +16,61 @@
 *g:	*
 *M4/4	*
 =1	=1
-8.r	E-
-8g	.
-16f[	.
-16f]	E-/B-
+8.r	E- major
+8gL	.
+[16fL	.
+16fJJ]	E- major/B-
 8g	.
 6...g	.
-8g[	.
+[8g	.
 =2	=2
-8g]	Gadd(6,7)
+8g]	G other-6,7
 4g	.
-16d-[	.
-8.d-]	Gadd(6,7,11)
-4.d	Gadd(6,7)
+[16d-	.
+8.d-]	G other-6,7,11
+4.d	G other-6,7
 =3	=3
-8.r	E-maj7
+8.r	E- major-seventh
+8gL	.
+[16fL	.
+16fJJ]	E- major-seventh/B-
 8g	.
-16f[	.
-16f]	E-maj7/B-
+8fL	.
 8g	.
-8f	.
-8g	.
-8.d-[	.
+[8.d-J	.
 =4	=4
-4.d-]	Gm
-16c[	.
-8.c_	Gm7/F
-8c]	Gm
+4.d-]	G minor
+[16c	.
+8.c_	G minor-seventh/F
+8c]	G minor
 4r	.
 =5	=5
-4g	E-
-8g	.
-8f	E-/B-
-8g	.
+4g	E- major
+8gL	.
+8fJ	E- major/B-
+8gL	.
 8f	.
-16g	.
-8.d-[	.
+16gk	.
+[8.d-J	.
 =6	=6
-16d-]	Gadd(6,7)
+16d-]	G other-6,7
 4d-	.
-8d-[	.
-8d-]	Gadd(6,7,11)
-16d[	.
-4.d]	Gadd(6,7)
+[8d-	.
+8d-]	G other-6,7,11
+[16d	.
+4.d]	G other-6,7
 =7	=7
-8r	E-maj7
+8r	E- major-seventh
+8gL	.
 8g	.
-8g	.
-8f	E-maj7/B-
+8fJ	E- major-seventh/B-
 8g	.
 4g	.
-8d-[	.
+[8d-	.
 =8	=8
-6...d-]	Gm
-8B-[	.
-8.B-_	Gm7/F
-4.B-]	Gm
+6...d-]	G minor
+[8B-	.
+8.B-_	G minor-seventh/F
+4.B-]	G minor
 ==	==
 *-	*-

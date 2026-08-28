@@ -16,43 +16,43 @@
 *C:	*
 *M4/4	*
 =1	=1
-4dd	F
-8dd	.
-8cc	.
+4dd	F major
+8ddL	.
+8ccJ	.
 4dd	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 =2	=2
-4dd	Dm
-8dd	.
-8cc	.
+4dd	D minor
+8ddL	.
+8ccJ	.
 4dd	.
-8ee	.
-8cc[	.
+8eeL	.
+[8ccJ	.
 =3	=3
-4cc]	Am
+4cc]	A minor
 2.r	.
 =4	=4
 2r	.
 4a	.
 4cc	.
 =5	=5
-4dd	F
-8dd	.
-8cc	.
+4dd	F major
+8ddL	.
+8ccJ	.
 4dd	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 =6	=6
-4dd	Dm
-8dd	.
-8cc	.
+4dd	D minor
+8ddL	.
+8ccJ	.
 4dd	.
-8ee	.
-16ee	.
-16ff	.
+8eeL	.
+16eeL	.
+16ffJJ	.
 =7	=7
-4ee	G
+4ee	G major
 2.r	.
 =8	=8
 1r	.

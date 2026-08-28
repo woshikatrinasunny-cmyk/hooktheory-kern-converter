@@ -15,97 +15,97 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.r	Dm
-3...r	G
+4.r	D minor
+3...r	G major
 =2	=2
-4.r	C/E
-2r	F
-8r	Am/E
+4.r	C major/E
+2r	F major
+8r	A minor/E
 =3	=3
-4.r	Dm
-3...r	G
+4.r	D minor
+3...r	G major
 =4	=4
-4.r	C/G
-2r	Am
+4.r	C major/G
+2r	A minor
 16g	.
 16r	.
 =5	=5
-4.a	Dm
-16ee	G
+4.a	D minor
+16ee	G major
 16r	.
 4dd	.
-8cc	.
-8dd	.
+8ccL	.
+8ddJ	.
 =6	=6
-4.ee	C/E
-8gg	F
-4.aa[	.
-8aa]	Am/E
+4.ee	C major/E
+8gg	F major
+[4.aa	.
+8aa]	A minor/E
 =7	=7
-4.a	Dm
-16ee	G
+4.a	D minor
+16ee	G major
 16r	.
 4dd	.
-8cc	.
-8b	.
+8ccL	.
+8bJ	.
 =8	=8
-4.cc[	C/G
-2cc]	Am
+[4.cc	C major/G
+2cc]	A minor
 8r	.
 =9	=9
-4r	Dm
-8ee[	.
-16ee]	G
+4r	D minor
+[8eeL	.
+16eeJk]	G major
 8.dd	.
 4ee	.
 8a	.
 =10	=10
-8.ee	C/E
-8.ee	.
-4dd	F
-4cc[	.
-8cc]	Am/E
+8.eeL	C major/E
+8.eeJ	.
+4dd	F major
+[4cc	.
+8cc]	A minor/E
 =11	=11
-8r	Dm
-8ee	.
+8r	D minor
+8eeL	.
 8dd	.
-16cc	G
+16ccJk	G major
 8.dd	.
 4.ee	.
 =12	=12
-16r	C/G
-16a	.
+16r	C major/G
+16aLK	.
 8ee	.
 8dd	.
-16cc	Am
-2a[	.
+16ccJk	A minor
+[2a	.
 16a]	.
 =13	=13
-8r	Dm
-8ee	.
-8dd[	.
-16dd]	G
+8r	D minor
+8eeL	.
+[8dd	.
+16ddJk]	G major
 8.dd	.
 4ee	.
 8a	.
 =14	=14
-4gg	C/E
+4gg	C major/E
 8ee	.
-4dd	F
-4cc[	.
-8cc]	Am/E
+4dd	F major
+[4cc	.
+8cc]	A minor/E
 =15	=15
-4r	Dm
-16ee	.
-16dd[	.
-8dd]	G
+4r	D minor
+16eeLL	.
+[16ddJ	.
+8ddJ]	G major
 4.dd	.
 8cc	.
 =16	=16
-4ee	C/G
-16dd	.
-16cc[	.
-16cc]	Am
+4ee	C major/G
+16ddLL	.
+[16cc	.
+16ccJJ]	A minor
 6...a	.
 4r	.
 ==	==

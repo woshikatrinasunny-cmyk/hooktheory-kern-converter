@@ -16,80 +16,80 @@
 *F#:	*
 *M6/4	*
 =1	=1
-8c#	C#
+8c#	C# major
 8r	.
 8c#	.
 8r	.
-8c#	.
-8c#	.
-8d#	C#7sus2
+8c#L	.
+8c#J	.
+8d#	C# dominant-seventh-suspended-second
 8r	.
 8d#	.
 8r	.
-8d#	.
-8d#	.
+8d#L	.
+8d#J	.
 =2	=2
-8f#	F#/C#
+8f#	F# major/C#
 8r	.
 8f#	.
 8r	.
-8f#	.
-8f#	.
+8f#L	.
+8f#J	.
 8b	.
 8r	.
 8b	.
 8r	.
-8b	.
-8b	.
+8bL	.
+8bJ	.
 =3	=3
-8een	A/C#
+8een	A major/C#
 8r	.
 8een	.
 8r	.
-8een	.
-8een	.
+8eenL	.
+8eenJ	.
 8aan	.
 8r	.
 8aan	.
 8r	.
-8aan	.
-8aan	.
+8aanL	.
+8aanJ	.
 =4	=4
-8bb	C#7sus4
+8bb	C# dominant-seventh-suspended-fourth
 8r	.
 8bb	.
 8r	.
-8bb	.
-8bb	.
-8fff#	C#add(2,5,7)
+8bbL	.
+8bbJ	.
+8fff#	C# other-2,5,7
 8r	.
 8fff#	.
 8r	.
-8fff#	.
-8fff#	.
+8fff#L	.
+8fff#J	.
 =5	=5
-8ggg#	C#7sus4
-8ggg#	.
-8ggg#	.
-8G#	.
-8c#	.
-8f#	.
-8b	.
-8dd#	.
+8ggg#L	C# dominant-seventh-suspended-fourth
+8ggg#J	.
+8ggg#L	.
+8G#J	.
+8c#L	.
+8f#J	.
+8bL	.
+8dd#J	.
 8gg#	.
 4.ccc#	.
 =6	=6
-4c#	F#
+4c#	F# major
 8r	.
 4.cc#	.
-8.b	D#m/F#
+8.b	D# minor/F#
 16r	.
 8.cc#	.
 16r	.
 8.dd#	.
 16r	.
 =7	=7
-6...cc#	F#
+6...cc#	F# major
 16r	.
 4.a#	.
 8.f#	.
@@ -99,38 +99,38 @@
 8.a#	.
 16r	.
 =8	=8
-4b	E
+4b	E major
 8.a#	.
 16r	.
 8.g#	.
 16r	.
-6...f#	D#m
+6...f#	D# minor
 16r	.
 4.g#	.
 =9	=9
-4an	D
+4an	D major
 8f#	.
 8r	.
-8dn	.
-8en	.
-8f#	.
-8ddn	.
-8aan	.
-8g#	E
-8een	.
-8bb	.
+8dnL	.
+8enJ	.
+8f#L	.
+8ddnJ	.
+8aanL	.
+8g#J	E major
+8eenL	.
+8bbJ	.
 =10	=10
-4c#	F#
+4c#	F# major
 8r	.
 4.cc#	.
-8.b	D#m/F#
+8.b	D# minor/F#
 16r	.
 8.cc#	.
 16r	.
 8.dd#	.
 16r	.
 =11	=11
-6...ff#	F#
+6...ff#	F# major
 16r	.
 4.cc#	.
 8.a#	.
@@ -140,24 +140,24 @@
 8.cc#	.
 16r	.
 =12	=12
-8.ddn	D/F#
+8.ddn	D major/F#
 16r	.
 8.een	.
 16r	.
 8.ddn	.
 16r	.
-8cc#	.
-16ddn	.
+8cc#L	.
+16ddnJk	.
 16r	.
 8.b	.
 16r	.
 8.an	.
 16r	.
 =13	=13
-2b	Gmaj7
+2b	G major-seventh
 8r	.
-16ggn	.
-16aan	.
+16ggnLL	.
+16aanJJ	.
 8.bb	.
 16r	.
 8.ccc#	.
@@ -165,10 +165,10 @@
 8.dddn	.
 16r	.
 =14	=14
-2.ccc#	G#sus4
+2.ccc#	G# suspended-fourth
 2.r	.
 =15	=15
-4cccn	G#7
+4cccn	G# dominant
 8.ccc#	.
 16r	.
 8.ddd#	.
@@ -180,10 +180,10 @@
 8.gg#	.
 16r	.
 =16	=16
-2.ccc#	G#sus4
+2.ccc#	G# suspended-fourth
 2.r	.
 =17	=17
-4cccn	G#7
+4cccn	G# dominant
 8.ccc#	.
 16r	.
 8.ddd#	.
@@ -192,10 +192,10 @@
 4aa#	.
 4cccn	.
 =18	=18
-2.ccc#	Em/G
+2.ccc#	E minor/G
 2.r	.
 =19	=19
-4ccc#	Gmaj7
+4ccc#	G major-seventh
 8.dddn	.
 16r	.
 8.eeen	.
@@ -207,6 +207,6 @@
 8.eeen	.
 16r	.
 =20	=20
-1.fff#	F#m
+1.fff#	F# minor
 ==	==
 *-	*-

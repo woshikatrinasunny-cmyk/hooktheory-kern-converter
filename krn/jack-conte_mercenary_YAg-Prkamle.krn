@@ -16,70 +16,70 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.r	E7
+4.r	E dominant
 8B	.
 8dn	.
 4dn	.
-8dn[	.
+[8dn	.
 =2	=2
-8dn]	A/E
+8dn]	A major/E
 3...c#	.
 4r	.
 =3	=3
-4.r	Emaj7sus4
+4.r	E major-seventh-suspended-fourth
 8E	.
 8A	.
 4A	.
-8A[	.
+[8A	.
 =4	=4
-8A]	E
+8A]	E major
 2G#	.
 4.r	.
 =5	=5
-4.r	E7
+4.r	E dominant
 8B	.
-8dn	.
-8dn	.
+8dnL	.
+8dnJ	.
 8r	.
-8dn[	.
+[8dn	.
 =6	=6
-8dn]	A/E
+8dn]	A major/E
 2c#	.
 4.r	.
 =7	=7
-4.r	Emaj7sus4
+4.r	E major-seventh-suspended-fourth
 8E	.
-8A	.
-8A	.
+8AL	.
+8AJ	.
 8r	.
-8A[	.
+[8A	.
 =8	=8
-8A]	E
+8A]	E major
 2G#	.
 4.r	.
 =9	=9
-2r	B
+2r	B major
+8d#L	.
 8d#	.
 8d#	.
-8d#	.
-8e[	Badd(4,5,7)
+[8eJ	B other-4,5,7
 =10	=10
 8e]	.
-4d#	B
-8c#	Badd(2,4,7)
+4d#	B major
+8c#	B other-2,4,7
 8B	.
-4.B	B
+4.B	B major
 =11	=11
-4.r	A
+4.r	A major
 8e	.
 8a	.
 4gn	.
-8e[	C
+[8e	C major
 =12	=12
-8e]	.
+8eL]	.
 8dn	.
-8cn	.
-4dn	D
+8cnJ	.
+4dn	D major
 4e	.
 8r	.
 ==	==

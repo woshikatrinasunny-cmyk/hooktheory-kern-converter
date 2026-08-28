@@ -15,18 +15,18 @@
 *e:	*
 *M4/4	*
 =1	=1
-4B	Em
+4B	E minor
 8B	.
 4B	.
 4B	.
 8B	.
 =2	=2
-4c	F
+4c	F major
 8c	.
 2c	.
 8B	.
 =3	=3
-4B	G
+4B	G major
 8B	.
 2B	.
 8A	.
@@ -35,18 +35,18 @@
 8B	.
 3...B	.
 =5	=5
-4B	Em
+4B	E minor
 8B	.
 4B	.
 4B	.
 8B	.
 =6	=6
-4c	F
+4c	F major
 8c	.
 2c	.
 8B	.
 =7	=7
-4B	G
+4B	G major
 8B	.
 2B	.
 8A	.
@@ -55,55 +55,55 @@
 8B	.
 3...B	.
 =9	=9
-8B	Em
+8B	E minor
 4E	.
 8E	.
 8E	.
 4.E	.
 =10	=10
-4B	G
+4B	G major
 8B	.
 3...B	.
 =11	=11
-8B	Em
+8B	E minor
 4E	.
 8E	.
 8E	.
 4E	.
 8A	.
 =12	=12
-8.B	G
+8.BL	G major
 8.B	.
-8B	.
+8BJ	.
 2B	.
 =13	=13
-8B	Em
+8B	E minor
 4E	.
 8E	.
 8E	.
 4.E	.
 =14	=14
-8.B	G
+8.BL	G major
 8.B	.
-8B	.
+8BJ	.
 4.G	.
 8A	.
 =15	=15
-8.B	Em
+8.BL	E minor
 8.B	.
-8B	.
+8BJ	.
+8.BL	.
 8.B	.
-8.B	.
-8A[	.
+[8AJ	.
 =16	=16
-2..A]	D
+2..A]	D major
 8d	.
 =17	=17
-8.d	D
+8.dL	D major
 8.d	.
-8B	.
-8.e	.
+8BJ	.
+8.eL	.
 8.d	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

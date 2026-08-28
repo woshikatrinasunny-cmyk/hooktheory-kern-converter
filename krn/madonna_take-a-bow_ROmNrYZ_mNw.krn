@@ -16,53 +16,53 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8r	A-add(2,4,7)
-8E-	.
-8c	.
+8r	A- other-2,4,7
+8E-L	.
+8cJ	.
 2c	.
 8A-	.
 =2	=2
-8r	A-7/G-
-8e-	.
-8d-	.
+8r	A- dominant/G-
+8e-L	.
+8d-J	.
 4c	.
 4A-	.
 8B-	.
 =3	=3
-8r	D-/F
-8e-	.
-8d-	.
+8r	D- major/F
+8e-L	.
+8d-J	.
 4c	.
-8A-[	.
-4A-]	Fm
+[8A-	.
+4A-]	F minor
 =4	=4
-8r	D-add(2,3,7)/E
-8e-	.
-8d-	.
-4c	D-m/E
-8A-[	.
-8A-]	Eaug
+8r	D- other-2,3,7/E
+8e-L	.
+8d-J	.
+4c	D- minor/E
+[8A-L	.
+8A-J]	E augmented
 8r	.
 =5	=5
-8r	A-/E-
-8E-	.
-8c	.
+8r	A- major/E-
+8E-L	.
+8cJ	.
 2c	.
 8c	.
 =6	=6
-8r	B-/D
-8f	.
-8.c	.
+8r	B- major/D
+8fL	.
+8.cJ	.
 4..B-	.
 8r	.
 =7	=7
-4.bn	D-m7
+4.bn	D- minor-seventh
 8b-	.
 4a-	.
-8e-	.
-8e-[	.
+8e-L	.
+[8e-J	.
 =8	=8
-2e-]	A-7sus4/G-
+2e-]	A- dominant-seventh-suspended-fourth/G-
 2r	.
 ==	==
 *-	*-

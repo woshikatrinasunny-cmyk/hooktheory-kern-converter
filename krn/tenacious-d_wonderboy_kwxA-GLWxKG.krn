@@ -16,63 +16,63 @@
 *D:	*
 *M4/4	*
 =1	=1
-8f#	D
+8f#L	D major
 8f#	.
 8f#	.
+8eJ	.
+8f#L	.
 8e	.
-8f#	.
-8e	.
-8d	.
+8dJ	.
 8r	.
 =2	=2
-8e	A#/D
+8eL	A# major/D
 8f#	.
 8f#	.
-8g	.
+8gJ	.
 2f#	.
 =3	=3
-4r	D
-8f#	.
-8f#	.
-8f#	.
-8e	.
+4r	D major
+8f#L	.
+8f#J	.
+8f#L	.
+8eJ	.
 4d	.
 =4	=4
-8fn	A#/D
+8fnL	A# major/D
 8f#	.
 8f#	.
-8g	.
+8gJ	.
 4f#	.
 4d	.
 =5	=5
-4r	D
+4r	D major
 4f#	.
 4f#	.
-8f#	.
-8a[	.
+8f#L	.
+[8aJ	.
 =6	=6
-8a]	Dmaj7/C#
+8a]	D major-seventh/C#
 8r	.
+8f#L	.
+8f#J	.
+8f#L	.
 8f#	.
 8f#	.
-8f#	.
-8f#	.
-8f#	.
-8g	.
+8gJ	.
 =7	=7
-8f#	Bm7
+8f#L	B minor-seventh
 8d	.
-8d	.
+8dJ	.
 2r	.
-16e	.
-16fn	.
+16eLL	.
+16fnJJ	.
 =8	=8
-8e	Dadd(2,4,7)/A
-16fn	.
-16e	.
+8eL	D other-2,4,7/A
+16fnL	.
+16eJJ	.
 4d	.
-8r	G
-8A[	.
-4A]	A
+8r	G major
+[8A	.
+4A]	A major
 ==	==
 *-	*-

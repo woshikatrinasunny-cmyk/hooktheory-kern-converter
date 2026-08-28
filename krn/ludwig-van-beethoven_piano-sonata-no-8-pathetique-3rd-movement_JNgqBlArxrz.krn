@@ -16,7 +16,7 @@
 *c:	*
 *M6/4	*
 =1	=1
-8.cc	Cm
+8.cc	C minor
 8.bn	.
 8.cc	.
 8.dd	.
@@ -25,7 +25,7 @@
 8.ff	.
 8.gg	.
 =2	=2
-8.aa-	Ddim/F
+8.aa-	D diminished/F
 8.gg	.
 8.bb-	.
 8.aa-	.
@@ -34,133 +34,133 @@
 8.ee-	.
 8.dd	.
 =3	=3
-8.gg	E-
+8.gg	E- major
 8.gg-	.
 8.aa-	.
 8.gg	.
-8.ff	A-7
+8.ff	A- dominant
 8.ee-	.
 8.dd	.
 8.cc	.
 =4	=4
-8.ee-	Cm/G
+8.ee-	C minor/G
 8.dd	.
 8.ff	.
 8.ee-	.
-8.dd	G
+8.dd	G major
 8.dd-	.
 8.ee-	.
 8.dd	.
 =5	=5
-2..cc	Cm
+2..cc	C minor
 8ccc	.
-8ddd	.
-8eeen	.
-8ddd	.
-8ccc	.
+8dddL	.
+8eeenJ	.
+8dddL	.
+8cccJ	.
 =6	=6
-2.fff[	Fm
-8fff]	C7/G
-8ccc	.
-8ddd	.
-8eeen	.
-8ddd	.
-8ccc	.
+[2.fff	F minor
+8fffL]	C dominant/G
+8cccJ	.
+8dddL	.
+8eeenJ	.
+8dddL	.
+8cccJ	.
 =7	=7
-2.fff[	Fm
-8fff]	C7/G
-8ccc	.
-8ddd	.
-8eeen	.
-8ddd	.
-8ccc	.
+[2.fff	F minor
+8fffL]	C dominant/G
+8cccJ	.
+8dddL	.
+8eeenJ	.
+8dddL	.
+8cccJ	.
 =8	=8
-8.fff	Fm/A-
+8.fff	F minor/A-
 16r	.
 8r	.
-8.ccc	A-7
+8.ccc	A- dominant
 16r	.
 8r	.
-8.ccc	Cm/G
+8.ccc	C minor/G
 16r	.
 8r	.
-8.bbn	G
+8.bbn	G major
 16r	.
 8r	.
 =9	=9
-2..ccc	Cm
+2..ccc	C minor
 8cc	.
-8dd	.
-8een	.
-8dd	.
-8cc	.
+8ddL	.
+8eenJ	.
+8ddL	.
+8ccJ	.
 =10	=10
-2.ff[	Fm
-8ff]	C7/G
-8cc	.
-8dd	.
-8een	.
-8dd	.
-8cc	.
+[2.ff	F minor
+8ffL]	C dominant/G
+8ccJ	.
+8ddL	.
+8eenJ	.
+8ddL	.
+8ccJ	.
 =11	=11
-2.ff[	Fm
-8ff]	C7/G
-8c	.
-8d	.
-8en	.
-8d	.
-8c	.
+[2.ff	F minor
+8ffL]	C dominant/G
+8cJ	.
+8dL	.
+8enJ	.
+8dL	.
+8cJ	.
 =12	=12
-8f	A-
-8c	.
-8d	.
-8e-	A-
-8d	.
-8c	.
-8g-	.
-8c	.
-8d	.
-8e-	A-
-8d	.
-8c	.
+8fL	A- major
+8cJ	.
+8dL	.
+8e-J	A- major
+8dL	.
+8cJ	.
+8g-L	.
+8cJ	.
+8dL	.
+8e-J	A- major
+8dL	.
+8cJ	.
 =13	=13
-8g	.
-8c	.
-8d	.
-8e-	Cm/G
-8d	.
-8c	.
-8an	.
-8c	.
-8d	.
-8e-	Cdim/G-
-8d	.
-8c	.
+8gL	.
+8cJ	.
+8dL	.
+8e-J	C minor/G
+8dL	.
+8cJ	.
+8anL	.
+8cJ	.
+8dL	.
+8e-J	C diminished/G-
+8dL	.
+8cJ	.
 =14	=14
-8bn	.
-8Bn	.
-8c	.
-8d	Bdim/F
-8c	.
-8Bn	.
-8cc	.
-8c	.
-8d	.
-8e-	Cm/E-
-8d	.
-8c	.
+8bnL	.
+8BnJ	.
+8cL	.
+8dJ	B diminished/F
+8cL	.
+8BnJ	.
+8ccL	.
+8cJ	.
+8dL	.
+8e-J	C minor/E-
+8dL	.
+8cJ	.
 =15	=15
-8dd	.
-8d	.
-8e-	.
-8f	Ddim/F
-8e-	.
-8d	.
-8bn	.
-8Bn	.
-8c	.
-8d	G
-8c	.
-8Bn	.
+8ddL	.
+8dJ	.
+8e-L	.
+8fJ	D diminished/F
+8e-L	.
+8dJ	.
+8bnL	.
+8BnJ	.
+8cL	.
+8dJ	G major
+8cL	.
+8BnJ	.
 ==	==
 *-	*-

@@ -16,60 +16,60 @@
 *C:	*
 *M4/4	*
 =1	=1
-4cc	F
-8a	.
-8cc[	.
-8cc]	F#dim
+4cc	F major
+8aL	.
+[8ccJ	.
+8cc]	F# diminished
 4dd	.
-8ee[	.
+[8ee	.
 =2	=2
-8ee]	Em/G
-8cc[	.
-8cc]	G#dim7
-8g[	.
-8g]	Am7
+8eeL]	E minor/G
+[8cc	.
+8cc]	G# diminished-seventh
+[8gJ	.
+8g]	A minor-seventh
 8r	.
-4r	D#m
+4r	D# minor
 =3	=3
-4cc	Dm7
-8a	F
-8cc[	.
-8cc]	Dm/F
-8dd[	.
-8dd]	F#dim
-8ee[	.
+4cc	D minor-seventh
+8aL	F major
+[8ccJ	.
+8ccL]	D minor/F
+[8dd	.
+8dd]	F# diminished
+[8eeJ	.
 =4	=4
-4ee_	G
-4ee]	F
-4r	C/E
-4r	D#m
+4ee_	G major
+4ee]	F major
+4r	C major/E
+4r	D# minor
 =5	=5
-4cc	Dm7
-8a	F
-8cc[	.
-8cc]	F#dim
+4cc	D minor-seventh
+8aL	F major
+[8ccJ	.
+8cc]	F# diminished
 4dd	.
-8ee[	.
+[8ee	.
 =6	=6
-8ee]	G
-8cc[	.
-8cc]	G#dim7
-8g[	.
-8g]	Am
+8eeL]	G major
+[8cc	.
+8cc]	G# diminished-seventh
+[8gJ	.
+8g]	A minor
 8r	.
-4r	G#/D#
+4r	G# major/D#
 =7	=7
-8ee	Dadd(2,4,7)
-8ee[	.
-8ee]	F#dim7/D#
-8ee[	.
-8ee]	F
-8cc	.
-4ee	F#dim
+8eeL	D other-2,4,7
+[8ee	.
+8ee]	F# diminished-seventh/D#
+[8eeJ	.
+8eeL]	F major
+8ccJ	.
+4ee	F# diminished
 =8	=8
-4gg[	G
-4gg]	G7/F
-4g[	Eadd(1,3,7,10)
-4g]	G7/D
+[4gg	G major
+4gg]	G dominant/F
+[4g	E other-1,3,7,10
+4g]	G dominant/D
 ==	==
 *-	*-

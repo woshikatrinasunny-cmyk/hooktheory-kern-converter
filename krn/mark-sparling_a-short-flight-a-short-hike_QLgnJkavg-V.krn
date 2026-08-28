@@ -16,92 +16,92 @@
 *C:	*
 *M6/4	*
 =1	=1
-2.ee	C
-4ff	F/C
+2.ee	C major
+4ff	F major/C
 4.ee	.
 8dd	.
 =2	=2
-2ee	C
+2ee	C major
 4cc	.
 4g	.
 4r	.
 4g	.
 =3	=3
-2.gg	C
-4aa	F/C
+2.gg	C major
+4aa	F major/C
 4.gg	.
 8ff	.
 =4	=4
-1gg	C
+1gg	C major
 4r	.
 4cc	.
 =5	=5
-2.aa	F
+2.aa	F major
 4.bb	.
 8aa	.
-8gg	.
-8ff	.
+8ggL	.
+8ffJ	.
 =6	=6
-2gg	C/E
+2gg	C major/E
 4ee	.
 2cc	.
 4dd	.
 =7	=7
-2ee	Dadd(2,4,7)
+2ee	D other-2,4,7
 4r	.
 4ee	.
 4.aa	.
 8ee	.
 =8	=8
-2.dd[	Gsus4
-4dd]	G
+[2.dd	G suspended-fourth
+4dd]	G major
 4r	.
 4g	.
 =9	=9
-2.ee	C
-4ff	F/C
+2.ee	C major
+4ff	F major/C
 4.ee	.
 8dd	.
 =10	=10
-3...ee	C
+3...ee	C major
 8cc	.
 4g	.
 4r	.
 4g	.
 =11	=11
-2.gg	C
-4aa	F/C
-8gg	.
-8ff	.
-8ee	.
-8ff	.
+2.gg	C major
+4aa	F major/C
+8ggL	.
+8ffJ	.
+8eeL	.
+8ffJ	.
 =12	=12
-1gg	C
+1gg	C major
 4r	.
 4cc	.
 =13	=13
-2.aa	F
+2.aa	F major
 4.bb	.
 8aa	.
-8gg	.
-8ff	.
+8ggL	.
+8ffJ	.
 =14	=14
-2gg	C/E
+2gg	C major/E
 4b	.
-4a#	D#
+4a#	D# major
 4.gg	.
 8a	.
 =15	=15
-4gg	Dadd(2,3,7)
+4gg	D other-2,3,7
 4.ff	.
 8g#	.
-4ff	Gadd(4,7,9,10)
+4ff	G other-4,7,9,10
 4.ee	.
 8dd	.
 =16	=16
-2cc[	C
-4cc]	C/G
-4r	C
+[2cc	C major
+4cc]	C major/G
+4r	C major
 4b	.
 4cc	.
 ==	==

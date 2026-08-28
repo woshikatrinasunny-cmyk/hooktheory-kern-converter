@@ -16,37 +16,37 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.b	Am7
-16ffff#	.
-16cccc	.
+4.b	A minor-seventh
+16ffff#LL	.
+16ccccJJ	.
 16ggg	.
 6...r	.
-16fff#	.
-16ccc	.
+16fff#LL	.
+16cccJJ	.
 =2	=2
 16gg	.
 6...r	.
-16ff#	.
-16cc	.
+16ff#LL	.
+16ccJJ	.
 16g	.
 4..r	.
 =3	=3
-8ff#	D7/C
+8ff#L	D dominant/C
 8GG	.
 8C	.
-8F#	.
-8B	.
+8F#J	.
+8BL	.
 8e	.
 8a	.
-8dd	.
+8ddJ	.
 =4	=4
-8ff#	.
+8ff#L	.
 8aa	.
 8ddd	.
-8fff#	.
-8aaa	Cmaj7sus2
+8fff#J	.
+8aaa	C major-seventh-suspended-second
 8r	.
-8r	D7
+8r	D dominant
 8r	.
 ==	==
 *-	*-

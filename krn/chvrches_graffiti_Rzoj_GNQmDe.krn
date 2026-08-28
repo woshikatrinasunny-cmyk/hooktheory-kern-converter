@@ -16,24 +16,24 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.b	E
+4.b	E major
 8cc#	.
 4.g#	.
 8a	.
 =2	=2
 4.b	.
 8cc#	.
-4g#[	Emaj7/D#
-8g#]	E/B
-8b	.
+[4g#	E major-seventh/D#
+8g#L]	E major/B
+8bJ	.
 =3	=3
-2.b	E
+2.b	E major
 4g#	.
 =4	=4
 2..r	.
 8f#	.
 =5	=5
-4.b	F#m7/A
+4.b	F# minor-seventh/A
 8cc#	.
 4.g#	.
 8a	.
@@ -48,7 +48,7 @@
 =8	=8
 1r	.
 =9	=9
-2f#	C#m7
+2f#	C# minor-seventh
 2B	.
 =10	=10
 4.g#	.
@@ -56,28 +56,28 @@
 8B	.
 4f#	.
 =11	=11
-2f#	Bsus4
+2f#	B suspended-fourth
 2B	.
 =12	=12
 4.g#	.
 4.B	.
-4e[	.
+[4e	.
 =13	=13
-4e]	A
+4e]	A major
 2.r	.
 =14	=14
 1r	.
 =15	=15
 3...r	.
+8eL	.
 8e	.
-8e	.
-8f#	.
+8f#J	.
 =16	=16
-8g#	.
-8f#	.
+8g#L	.
+8f#J	.
 4f#	.
-8g#	.
-8f#	.
+8g#L	.
+8f#J	.
 4f#	.
 ==	==
 *-	*-

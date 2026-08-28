@@ -16,29 +16,29 @@
 *g:	*
 *M4/4	*
 =1	=1
-1dd	Cm9
+1dd	C minor-ninth
 =2	=2
 4g	.
 3...b-	.
 8g	.
 =3	=3
-1b-	B-maj7/D
+1b-	B- major-seventh/D
 =4	=4
 4f	.
 3...cc	.
 8g	.
 =5	=5
-1b-	E-maj9
+1b-	E- major-ninth
 =6	=6
-4.b-	E-maj13#11
+4.b-	E- major-13th
 4.dd	.
 4ff	.
 =7	=7
-1a	Gm9
+1a	G minor-ninth
 =8	=8
 1b-	.
 =9	=9
-4dd	Cm9
+4dd	C minor-ninth
 4ff	.
 4.cc	.
 8dd	.
@@ -47,7 +47,7 @@
 3...b-	.
 8cc	.
 =11	=11
-4dd	Dm7
+4dd	D minor-seventh
 4gg	.
 4.cc	.
 8dd	.
@@ -56,20 +56,20 @@
 3...b-	.
 8cc	.
 =13	=13
-2..dd	E-maj9
+2..dd	E- major-ninth
 8cc	.
 =14	=14
-4.dd	E-maj13#11
-8gg[	.
-4gg]	F11
+4.dd	E- major-13th
+[8gg	.
+4gg]	F dominant-11th
 4bb-	.
 =15	=15
-1aa	Dm7
+1aa	D minor-seventh
 =16	=16
-2gg	Dm7/F
+2gg	D minor-seventh/F
 2ff	.
 =17	=17
-1dd	Gm
+1dd	G minor
 =18	=18
 4g	.
 3...b-	.

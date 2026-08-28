@@ -16,130 +16,130 @@
 *B:	*
 *M4/4	*
 =1	=1
-4r	B
-8B	.
-16c#	.
-16d#[	.
-16d#]	Bmaj7sus2
-8.c#	.
+4r	B major
+8BL	.
+16c#L	.
+[16d#JJ	.
+16d#LK]	B major-seventh-suspended-second
+8.c#J	.
 4r	.
 =2	=2
-4r	B
-8B	.
-8c#	.
-16d#	Bmaj7/A#
+4r	B major
+8BL	.
+8c#J	.
+16d#LK	B major-seventh/A#
 8c#	.
 8.B	.
-16c#	.
-16d#[	.
+16c#L	.
+[16d#JJ	.
 =3	=3
-8.d#]	G#m
-16B	.
+8.d#L]	G# minor
+16Bk	.
 8B	.
-16c#	.
+16c#Jk	.
 8.d#	.
-8B[	.
-4B]	G#sus2
+[8B	.
+4B]	G# suspended-second
 =4	=4
-4r	G#m
-16B	.
-8.c#	.
-16d#	G#m7/F#
+4r	G# minor
+16BLK	.
+8.c#J	.
+16d#LK	G# minor-seventh/F#
 8c#	.
 8.B	.
-16A#	.
-16G#[	.
+16A#L	.
+[16G#JJ	.
 =5	=5
-8G#]	E
+8G#]	E major
 16r	.
-16G#	.
-16g#	.
+16G#LL	.
+16g#J	.
 8g#	.
-16g#[	.
-8g#]	Emaj7/D#
+[16g#Jk	.
+8g#L]	E major-seventh/D#
 8f#	.
-8f#	.
+8f#J	.
 16r	.
 16e	.
 =6	=6
-16e	C#m7
+16eLK	C# minor-seventh
 8d#	.
 8.d#	.
-16c#	.
-16c#[	.
-8c#]	B
+16c#L	.
+[16c#JJ	.
+8c#L]	B major
 8B	.
-16B	Bsus4
-8.B	.
+16Bk	B suspended-fourth
+8.BJ	.
 =7	=7
-4F#	F#/A#
+4F#	F# major/A#
 2.r	.
 =8	=8
-1r	F#
+1r	F# major
 =9	=9
-8.r	B
-16B	.
-16B	.
-8.c#	.
-16d#	Bmaj7sus2
-8.c#	.
+8.r	B major
+16BLL	.
+16BJ	.
+8.c#J	.
+16d#LK	B major-seventh-suspended-second
+8.c#J	.
 4r	.
 =10	=10
-8.r	Bmaj7
-16B	.
+8.r	B major-seventh
+16BLK	.
 8B	.
-8c#	.
-16d#	Bmaj7/A#
+8c#J	.
+16d#LK	B major-seventh/A#
 8c#	.
 8.B	.
-16c#	.
-16d#[	.
+16c#L	.
+[16d#JJ	.
 =11	=11
-8.d#]	G#m
-16B	.
+8.d#L]	G# minor
+16Bk	.
 8B	.
-16c#	.
+16c#Jk	.
 8d#	.
-8.B[	.
-4B]	G#sus2
+[8.B	.
+4B]	G# suspended-second
 =12	=12
-8.r	G#m
-16B	.
-16f#	.
+8.r	G# minor
+16BLL	.
+16f#J	.
 8f#	.
-16f#[	.
-8f#]	G#m7/F#
+[16f#Jk	.
+8f#L]	G# minor-seventh/F#
 8e	.
-16d#	.
+16d#k	.
 8c#	.
-16B[	.
+[16BJk	.
 =13	=13
-8B]	E
+8B]	E major
 16r	.
-16B	.
-16f#	.
+16BLL	.
+16f#J	.
 8f#	.
-16f#[	.
-8f#]	Emaj7/D#
-16e	.
+[16f#Jk	.
+8f#L]	E major-seventh/D#
+16eJk	.
 4d#	.
 16B	.
 =14	=14
-16c#	C#m7
+16c#LK	C# minor-seventh
 8c#	.
 8.c#	.
-16B	.
-16d#[	.
-8d#]	B
-16c#	.
-16c#[	.
-8c#]	Bsus4
-16B	.
-16A#[	.
+16BL	.
+[16d#JJ	.
+8d#L]	B major
+16c#L	.
+[16c#J	.
+8c#]	B suspended-fourth
+16BL	.
+[16A#JJ	.
 =15	=15
-4A#]	A#m
+4A#]	A# minor
 2.r	.
 =16	=16
-1r	A#7
+1r	A# dominant
 ==	==
 *-	*-

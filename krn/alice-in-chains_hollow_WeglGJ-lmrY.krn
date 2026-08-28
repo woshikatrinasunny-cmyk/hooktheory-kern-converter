@@ -16,87 +16,87 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4..g#	C#m
+4..g#	C# minor
 4.g#	.
-8.a[	.
+[8.a	.
 =2	=2
-16a]	A
-3...g#[	.
+16a]	A major
+[3...g#	.
 16g#_	.
-4g#]	E
+4g#]	E major
 =3	=3
-2r	C#m
+2r	C# minor
 6...d#	.
-8.e[	.
+[8.e	.
 =4	=4
-16e]	A
-3...c#[	.
+16e]	A major
+[3...c#	.
 16c#_	.
-4c#]	E
+4c#]	E major
 =5	=5
-2r	C#m
+2r	C# minor
 6...g#	.
-8.a[	.
+[8.a	.
 =6	=6
-16a]	A
+16a]	A major
 4.g#	.
 8f#	.
-8.g#[	.
-16g#]	E
+[8.g#L	.
+16g#k]	E major
 8g#	.
-16f#[	.
+[16f#Jk	.
 =7	=7
-16f#]	C#m
+16f#LK]	C# minor
 8.e	.
 8d#	.
-8c#	.
+8c#J	.
 4c#	.
-4e[	.
+[4e	.
 =8	=8
-2.e_	A
-4e]	E
+2.e_	A major
+4e]	E major
 =9	=9
-4..r	C#
-16g#[	.
-6...g#]	C#sus2
-8.a[	.
+4..r	C# major
+[16g#	.
+6...g#]	C# suspended-second
+[8.a	.
 =10	=10
-16a]	A
+16a]	A major
 2...g#	.
 =11	=11
-2r	C#
-6...d#	C#sus2
-8.e[	.
+2r	C# major
+6...d#	C# suspended-second
+[8.e	.
 =12	=12
-16e]	A
+16e]	A major
 2...c#	.
 =13	=13
-2r	C#m
+2r	C# minor
 6...g#	.
-8.a[	.
+[8.a	.
 =14	=14
-16a]	A
+16a]	A major
 4.g#	.
 8f#	.
-8.g#[	.
-16g#]	E
+[8.g#L	.
+16g#k]	E major
 8g#	.
-16f#[	.
+[16f#Jk	.
 =15	=15
-16f#]	C#add(2,4,7)
+16f#LK]	C# other-2,4,7
 8.e	.
 8d#	.
-8c#	.
+8c#J	.
 4c#	.
-4e[	.
+[4e	.
 =16	=16
-2.e_	A
-4e]	E
+2.e_	A major
+4e]	E major
 =17	=17
-1b	B
+1b	B major
 =18	=18
-8a#	F#
-8b	.
+8a#L	F# major
+8bJ	.
 2.a#	.
 ==	==
 *-	*-

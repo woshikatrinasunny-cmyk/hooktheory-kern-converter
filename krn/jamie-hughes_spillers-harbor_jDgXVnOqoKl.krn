@@ -15,68 +15,68 @@
 *c:	*
 *M6/4	*
 =1	=1
-4.cc	Cm
-4.g	Cm/G
-4.e-	Cm
-4.c	Cm/G
+4.cc	C minor
+4.g	C minor/G
+4.e-	C minor
+4.c	C minor/G
 =2	=2
-4g	Cm
+4g	C minor
 8f	.
-4e-	Cm/G
+4e-	C minor/G
 8f	.
-4.g[	Cm
-4g]	Cm/G
+[4.g	C minor
+4g]	C minor/G
 8g	.
 =3	=3
-4f	B-
+4f	B- major
 8e-	.
-4d	B-/F
+4d	B- major/F
 8e-	.
-4f	B-
+4f	B- major
 8g	.
-4a-	B-/D
+4a-	B- major/D
 8b-	.
 =4	=4
-4.g[	E-
-4.g_	E-/B-
-4.g_	E-/G
-4g]	E-
+[4.g	E- major
+4.g_	E- major/B-
+4.g_	E- major/G
+4g]	E- major
 8g	.
 =5	=5
-4f	Fm
+4f	F minor
 8en	.
-4f	Fm/A-
+4f	F minor/A-
 8g	.
-4a-	Fm/C
+4a-	F minor/C
 8g	.
-4a-	Fm/A-
+4a-	F minor/A-
 8b-	.
 =6	=6
-4cc	Cm
+4cc	C minor
 8cc	.
-4cc	Cm/G
+4cc	C minor/G
 8g	.
-4.e-	Cm
-4c	Cm/G
+4.e-	C minor
+4c	C minor/G
 8c	.
 =7	=7
-4d-	D-
+4d-	D- major
 8c	.
-4d-	D-/A-
+4d-	D- major/A-
 8e-	.
-4f	D-
+4f	D- major
 8g	.
-4a-	D-/A-
+4a-	D- major/A-
 8f	.
 =8	=8
-4g	G
+4g	G major
 8g-	.
-4g	G/B
+4g	G major/B
 8an	.
-4bn	G/D
-8an	.
-8g	G
-8an	.
-8bn	.
+4bn	G major/D
+8anL	.
+8gJ	G major
+8anL	.
+8bnJ	.
 ==	==
 *-	*-

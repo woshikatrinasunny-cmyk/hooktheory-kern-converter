@@ -17,139 +17,139 @@
 *M4/4	*
 =1	=1
 16r	.
-16b	.
+16bLL	.
 16dd#	.
-16ee	.
+16eeJ	.
 8ggn	.
-8gg#	.
-8.aa#[	Em
-16aa#_	Em
+8gg#J	.
+[8.aa#L	E minor
+16aa#Jk_	E minor
 4aa#_	.
 =2	=2
-8.aa#_	.
-16aa#_	Em
+8.aa#L_	.
+16aa#L_	E minor
 16aa#_	.
-16aa#_	Em
-16aa#]	.
+16aa#_	E minor
+16aa#JJ]	.
 4.r	.
-16r	D#
+16r	D# major
 16r	.
-16r	D#
+16r	D# major
 =3	=3
 6...r	.
-8.r	D#
-16r	D#
+8.r	D# major
+16r	D# major
 4..r	.
 =4	=4
-8.gg#[	C#dim
-16gg#_	C#dim
+[8.gg#L	C# diminished
+16gg#Jk_	C# diminished
 4..gg#_	.
-16gg#_	C#dim
+16gg#LL_	C# diminished
 16gg#_	.
-16gg#_	C#dim
-8gg#_	.
+16gg#J_	C# diminished
+8gg#J_	.
 =5	=5
 6...gg#]	.
-16ee[	Em/B
+[16eeLL	E minor/B
 16ee_	.
-16ee_	Em/B
+16eeJJ_	E minor/B
 2ee]	.
 =6	=6
-8.dd#[	D#/G
-16dd#_	D#/G
+[8.dd#L	D# major/G
+16dd#Jk_	D# major/G
 4dd#]	.
 8.r	.
-8.G#	G#m
-16e	.
-16d#	.
+8.G#L	G# minor
+16eL	.
+16d#JJ	.
 =7	=7
-16B	.
+16BLL	.
 16Gn	.
-16a#	Em
+16a#	E minor
 16b	.
 16a#	.
-16g#	Em
+16g#	E minor
 16gn	.
-16g#	.
-16a#	.
+16g#JJ	.
+16a#LL	.
 16g#	.
 16gn	.
 16e	.
 16d#	.
-16c#	Em
+16c#	E minor
 16B	.
-16A#	Em
+16A#JJ	E minor
 =8	=8
-16G#	.
+16G#LL	.
 16Gn	.
 16E	.
 16D#	.
 16Gn	.
 16B	.
 16d#	.
-16e	D#
-16gn	.
-16e	D#
+16eJJ	D# major
+16gnLL	.
+16e	D# major
 16d#	.
 16g#	.
 16gn	.
 16e	.
 16d#	.
-16gn	D#
+16gnJJ	D# major
 =9	=9
-16e	.
+16eLL	.
 16d#	.
-16g#	D#
+16g#	D# major
 16a#	.
 16g#	.
 16gn	.
 16e	.
-16d#	.
-16B	.
+16d#JJ	.
+16BLL	.
 16Gn	.
-16E	C#dim
+16E	C# diminished
 16D#	.
 16E	.
-16Gn	C#dim
+16Gn	C# diminished
 16G#	.
-16A#	.
+16A#JJ	.
 =10	=10
-16G#	.
+16G#LL	.
 16A#	.
 16B	.
 16A#	.
 16G#	.
-16A#	C#dim
+16A#	C# diminished
 16B	.
-16A#	C#dim
-16G#	.
+16A#JJ	C# diminished
+16G#LL	.
 16Gn	.
 16G#	.
 16A#	.
 16B	.
 16A#	.
 16G#	.
-16e[	Em/B
+[16eJJ	E minor/B
 =11	=11
-16e_	.
-16e_	Em/B
+16eLL_	.
+16eJJ_	E minor/B
 2e]	.
-8.d#[	D#/G
-16d#_	D#/G
-8d#_	.
+[8.d#L	D# major/G
+16d#k_	D# major/G
+8d#J_	.
 =12	=12
 8d#]	.
 8.r	.
-16A#	G#m
+16A#LL	G# minor
 16B	.
-16c#	.
-16d#	.
+16c#JJ	.
+16d#LL	.
 16e	.
 16gn	.
 16g#	.
-16a#	Em
+16a#	E minor
 16b	.
-16a#[	.
-16a#]	Em
+[16a#	.
+16a#JJ]	E minor
 ==	==
 *-	*-

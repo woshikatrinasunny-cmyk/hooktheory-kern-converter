@@ -16,76 +16,76 @@
 *e:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 8dd	.
 16r	.
-8r	Bm
-8f#	.
+8r	B minor
+8f#L	.
 8.dd	.
-8f#	.
+8f#J	.
 =2	=2
-4r	D
+4r	D major
 8ee	.
 16r	.
-8r	Esus2
-8B	.
+8r	E suspended-second
+8BL	.
 8.f#	.
-8e	.
+8eJ	.
 =3	=3
-8c	Fsus2
+8cL	F suspended-second
 8fn	.
 8g	.
-16cc	.
-8d	Gadd(2,4,7)
-8a	.
+16ccJk	.
+8d	G other-2,4,7
+8aL	.
 8b	.
 8dd	.
-16aa	.
+16aaJk	.
 =4	=4
-8d	Dsus2
+8dL	D suspended-second
 8e	.
 8a	.
-16dd	.
-8e	B7/A
-8f#	.
+16ddJk	.
+8e	B dominant/A
+8f#L	.
 8b	.
 8dd#	.
-16ee	.
+16eeJk	.
 =5	=5
-4r	C
+4r	C major
 8dd	.
 16r	.
-8r	Bm
-8f#	.
+8r	B minor
+8f#L	.
 8.dd	.
-8f#	.
+8f#J	.
 =6	=6
-4r	D
+4r	D major
 8ee	.
 16r	.
-8r	Esus2
-8B	.
+8r	E suspended-second
+8BL	.
 8.f#	.
-8e	.
+8eJ	.
 =7	=7
-8g	Fsus2
+8gL	F suspended-second
 8cc	.
 8ffn	.
-16gg	.
-8A	Gadd(2,4,7)
-8d	.
+16ggJk	.
+8A	G other-2,4,7
+8dL	.
 8a	.
 8b	.
-16dd	.
+16ddJk	.
 =8	=8
-8a	Dsus2
+8aL	D suspended-second
 8dd	.
 8ee	.
-16aa	.
-8b	B7/A
-8dd#	.
+16aaJk	.
+8b	B dominant/A
+8dd#L	.
 8ee	.
 8ff#	.
-16bb	.
+16bbJk	.
 ==	==
 *-	*-

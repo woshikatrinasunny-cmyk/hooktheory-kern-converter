@@ -112,6 +112,16 @@ class HarmonyEvent:
     inversion: int
 
 
+@dataclass(frozen=True)
+class DataRow:
+    start: Fraction
+    end: Fraction
+    kern: str
+    mxhm: str
+    meter: Meter
+    measure_start: Fraction
+
+
 def quantize_beat(value: Any) -> Fraction:
     """Convert a JSON beat value to a stable rational grid."""
 
@@ -411,41 +421,41 @@ def chord_pitch_name(pitch_class: int, context: KeyContext) -> str:
     return names[pitch_class]
 
 
-CHORD_QUALITY_BY_INTERVALS = {
+MXHM_QUALITY_BY_INTERVALS = {
     (): "",
-    (4,): "",
-    (3,): "m",
-    (5,): "sus4",
-    (7,): "5",
-    (4, 7): "",
-    (3, 7): "m",
-    (3, 6): "dim",
-    (4, 8): "aug",
-    (5, 7): "sus4",
-    (2, 7): "sus2",
-    (4, 7, 10): "7",
-    (4, 7, 11): "maj7",
-    (3, 7, 10): "m7",
-    (3, 7, 11): "mMaj7",
-    (3, 6, 9): "dim7",
-    (3, 6, 10): "m7b5",
-    (4, 8, 10): "aug7",
-    (4, 8, 11): "augMaj7",
-    (5, 7, 10): "7sus4",
-    (5, 7, 11): "maj7sus4",
-    (2, 7, 10): "7sus2",
-    (2, 7, 11): "maj7sus2",
-    (4, 7, 10, 14): "9",
-    (4, 7, 11, 14): "maj9",
-    (3, 7, 10, 14): "m9",
-    (3, 6, 10, 14): "m9b5",
-    (5, 7, 10, 14): "9sus4",
-    (4, 7, 10, 14, 17): "11",
-    (3, 7, 10, 14, 17): "m11",
-    (4, 7, 11, 14, 18): "maj11#11",
-    (4, 7, 10, 14, 17, 21): "13",
-    (3, 7, 10, 14, 17, 21): "m13",
-    (4, 7, 11, 14, 18, 21): "maj13#11",
+    (4,): "major",
+    (3,): "minor",
+    (5,): "suspended-fourth",
+    (7,): "power",
+    (4, 7): "major",
+    (3, 7): "minor",
+    (3, 6): "diminished",
+    (4, 8): "augmented",
+    (5, 7): "suspended-fourth",
+    (2, 7): "suspended-second",
+    (4, 7, 10): "dominant",
+    (4, 7, 11): "major-seventh",
+    (3, 7, 10): "minor-seventh",
+    (3, 7, 11): "major-minor",
+    (3, 6, 9): "diminished-seventh",
+    (3, 6, 10): "half-diminished",
+    (4, 8, 10): "augmented-seventh",
+    (4, 8, 11): "augmented-major-seventh",
+    (5, 7, 10): "dominant-seventh-suspended-fourth",
+    (5, 7, 11): "major-seventh-suspended-fourth",
+    (2, 7, 10): "dominant-seventh-suspended-second",
+    (2, 7, 11): "major-seventh-suspended-second",
+    (4, 7, 10, 14): "dominant-ninth",
+    (4, 7, 11, 14): "major-ninth",
+    (3, 7, 10, 14): "minor-ninth",
+    (3, 6, 10, 14): "half-diminished-ninth",
+    (5, 7, 10, 14): "dominant-ninth-suspended-fourth",
+    (4, 7, 10, 14, 17): "dominant-11th",
+    (3, 7, 10, 14, 17): "minor-11th",
+    (4, 7, 11, 14, 18): "major-11th",
+    (4, 7, 10, 14, 17, 21): "dominant-13th",
+    (3, 7, 10, 14, 17, 21): "minor-13th",
+    (4, 7, 11, 14, 18, 21): "major-13th",
 }
 
 
@@ -461,12 +471,12 @@ def cumulative_intervals(interval_steps: tuple[int, ...]) -> tuple[int, ...]:
 def chord_quality(interval_steps: tuple[int, ...]) -> str:
     intervals = cumulative_intervals(interval_steps)
     normalized = tuple(interval % 24 for interval in intervals)
-    mapped = CHORD_QUALITY_BY_INTERVALS.get(normalized)
+    mapped = MXHM_QUALITY_BY_INTERVALS.get(normalized)
     if mapped is not None:
         return mapped
 
     pitch_classes = sorted({interval % 12 for interval in intervals})
-    mapped = CHORD_QUALITY_BY_INTERVALS.get(tuple(pitch_classes))
+    mapped = MXHM_QUALITY_BY_INTERVALS.get(tuple(pitch_classes))
     if mapped is not None:
         return mapped
 
@@ -474,13 +484,13 @@ def chord_quality(interval_steps: tuple[int, ...]) -> str:
         return ""
 
     interval_text = ",".join(str(interval) for interval in pitch_classes)
-    return f"add({interval_text})"
+    return f"other-{interval_text}"
 
 
 def chord_symbol(harmony: HarmonyEvent, context: KeyContext) -> str:
     root = chord_pitch_name(harmony.root_pitch_class, context)
-    suffix = chord_quality(harmony.root_position_intervals)
-    symbol = root + suffix
+    quality = chord_quality(harmony.root_position_intervals)
+    symbol = root if not quality else f"{root} {quality}"
 
     chord_tones = [0]
     chord_tones.extend(cumulative_intervals(harmony.root_position_intervals))
@@ -609,15 +619,183 @@ def format_kern_data_token(
         return duration + "r"
 
     pitch = kern_pitch(melody.pitch_class, melody.octave, context)
-    tie = ""
+    prefix = ""
+    suffix = ""
     if melody.onset < segment_start and segment_end < melody.offset:
-        tie = "_"
+        suffix = "_"
     elif melody.onset == segment_start and segment_end < melody.offset:
-        tie = "["
+        prefix = "["
     elif melody.onset < segment_start and segment_end == melody.offset:
-        tie = "]"
+        suffix = "]"
 
-    return duration + pitch + tie
+    return prefix + duration + pitch + suffix
+
+
+def beam_count_from_duration(duration: str) -> int:
+    match = re.match(r"^(\d+)", duration)
+    if not match:
+        return 0
+
+    reciprocal = int(match.group(1))
+    if reciprocal < 8:
+        return 0
+
+    beam_count = 0
+    value = reciprocal
+    while value >= 8:
+        beam_count += 1
+        value //= 2
+    return beam_count
+
+
+def kern_token_duration(token: str) -> str | None:
+    match = re.match(r"^\[?(\d+\.*)", token)
+    if not match:
+        return None
+    return match.group(1)
+
+
+def is_beamable_token(token: str) -> bool:
+    if "r" in token:
+        return False
+
+    duration = kern_token_duration(token)
+    return bool(duration and beam_count_from_duration(duration) > 0)
+
+
+def beam_group_length(meter: Meter) -> Fraction:
+    if meter.beat_unit == 8 and meter.beats_per_bar in {6, 9, 12}:
+        return Fraction(3)
+    if meter.beat_unit == 4 and meter.beats_per_bar == 4:
+        return Fraction(2)
+    return Fraction(1)
+
+
+def beam_group_key(row: DataRow) -> tuple[Fraction, Fraction] | None:
+    group_length = beam_group_length(row.meter)
+    if group_length <= 0:
+        return None
+
+    group_index = (row.start - row.measure_start) // group_length
+    group_start = row.measure_start + (group_index * group_length)
+    group_end = group_start + group_length
+    if row.start < group_start or row.end > group_end:
+        return None
+    return group_start, group_end
+
+
+def add_beam_marks(
+    token: str,
+    starts: int = 0,
+    ends: int = 0,
+    left_partials: int = 0,
+    right_partials: int = 0,
+) -> str:
+    marks = ("L" * starts) + ("J" * ends) + ("k" * left_partials) + ("K" * right_partials)
+    if not marks:
+        return token
+
+    suffix = ""
+    while token and token[-1] in "_]":
+        suffix = token[-1] + suffix
+        token = token[:-1]
+    return token + marks + suffix
+
+
+def render_rows(rows: list[str | DataRow]) -> list[str]:
+    beam_marks: dict[int, dict[str, int]] = {}
+    pending: list[int] = []
+    pending_key: tuple[Fraction, Fraction] | None = None
+    pending_end: Fraction | None = None
+
+    def row_beam_count(index: int) -> int:
+        row = rows[index]
+        if not isinstance(row, DataRow):
+            return 0
+        return beam_count_from_duration(kern_token_duration(row.kern) or "0")
+
+    def add_mark(index: int, name: str, count: int = 1) -> None:
+        if count <= 0:
+            return
+        marks = beam_marks.setdefault(
+            index,
+            {"starts": 0, "ends": 0, "left_partials": 0, "right_partials": 0},
+        )
+        marks[name] += count
+
+    def flush_pending() -> None:
+        nonlocal pending, pending_key, pending_end
+        if len(pending) >= 2:
+            max_level = max(row_beam_count(index) for index in pending)
+            for level in range(1, max_level + 1):
+                run: list[int] = []
+                for position, index in enumerate(pending):
+                    if row_beam_count(index) >= level:
+                        run.append(index)
+                        continue
+
+                    if run:
+                        mark_beam_run(run, level, position)
+                        run = []
+
+                if run:
+                    mark_beam_run(run, level, len(pending))
+        pending = []
+        pending_key = None
+        pending_end = None
+
+    def mark_beam_run(run: list[int], level: int, next_position: int) -> None:
+        if len(run) >= 2:
+            add_mark(run[0], "starts")
+            add_mark(run[-1], "ends")
+            return
+
+        if level == 1:
+            return
+
+        single = run[0]
+        position = next_position - 1
+        has_previous_note = position > 0
+        if has_previous_note:
+            add_mark(single, "left_partials")
+        else:
+            add_mark(single, "right_partials")
+
+    for index, row in enumerate(rows):
+        if not isinstance(row, DataRow):
+            flush_pending()
+            continue
+
+        key = beam_group_key(row)
+        if is_beamable_token(row.kern) and key is not None:
+            is_continuation = pending and key == pending_key and row.start == pending_end
+            if not pending or is_continuation:
+                pending.append(index)
+                pending_key = key
+                pending_end = row.end
+            else:
+                flush_pending()
+                pending.append(index)
+                pending_key = key
+                pending_end = row.end
+        else:
+            flush_pending()
+
+    flush_pending()
+
+    rendered: list[str] = []
+    for index, row in enumerate(rows):
+        if isinstance(row, DataRow):
+            marks = beam_marks.get(
+                index,
+                {"starts": 0, "ends": 0, "left_partials": 0, "right_partials": 0},
+            )
+            kern = add_beam_marks(row.kern, **marks)
+            rendered.append(f"{kern}\t{row.mxhm}")
+        else:
+            rendered.append(row)
+
+    return rendered
 
 
 def convert_record(song_id: str, record: dict[str, Any]) -> str:
@@ -644,7 +822,7 @@ def convert_record(song_id: str, record: dict[str, Any]) -> str:
     if not sorted_timepoints or sorted_timepoints[0] != 0:
         sorted_timepoints.insert(0, Fraction(0))
 
-    rows = metadata_records(song_id, record)
+    rows: list[str | DataRow] = metadata_records(song_id, record)
     rows.extend(["**kern\t**mxhm", "*clefG2\t*"])
 
     first_key = select_context_at_beat(keys, Fraction(0))
@@ -661,6 +839,7 @@ def convert_record(song_id: str, record: dict[str, Any]) -> str:
     key_changes = {context.beat: context for context in keys}
 
     measure_number = 1
+    measure_start = Fraction(0)
     melody_index = 0
 
     for index, start in enumerate(sorted_timepoints[:-1]):
@@ -671,6 +850,7 @@ def convert_record(song_id: str, record: dict[str, Any]) -> str:
         if start in barlines:
             rows.append(f"={measure_number}\t={measure_number}")
             measure_number += 1
+            measure_start = start
 
         if start != 0 and start in key_changes:
             context = key_changes[start]
@@ -701,7 +881,7 @@ def convert_record(song_id: str, record: dict[str, Any]) -> str:
             if piece_index == 0 and start in harmony_by_onset:
                 chord = chord_symbol(harmony_by_onset[start][0], context)
             kern = format_kern_data_token(duration, melody, piece_start, piece_end, context)
-            rows.append(f"{kern}\t{chord}")
+            rows.append(DataRow(piece_start, piece_end, kern, chord, meter, measure_start))
             piece_start = piece_end
 
     if total_beats != 0:
@@ -716,7 +896,7 @@ def convert_record(song_id: str, record: dict[str, Any]) -> str:
 
     rows.append("==\t==")
     rows.append("*-\t*-")
-    return "\n".join(rows) + "\n"
+    return "\n".join(render_rows(rows)) + "\n"
 
 
 def output_filename(song_id: str, record: dict[str, Any]) -> str:

@@ -15,82 +15,82 @@
 *g#:	*
 *M4/4	*
 =1	=1
-8.r	C#m
-8.r	C#m
-8r	C#m
-8g#	C#m
-16a[	.
-16a]	C#m
-8a[	.
-8a_	C#m
+8.r	C# minor
+8.r	C# minor
+8r	C# minor
+8g#L	C# minor
+[16aL	.
+16aJ]	C# minor
+[8a	.
+8aJ_	C# minor
 =2	=2
-16a]	D
+16a]	D major
 8r	.
-8.r	D
-8e	D
-8g#	D
-16a[	.
-16a]	D
-8a[	.
-8a_	D
+8.r	D major
+8e	D major
+8g#L	D major
+[16aL	.
+16aJ]	D major
+[8a	.
+8aJ_	D major
 =3	=3
-16a]	E
+16a]	E major
 8r	.
-8.r	E
-8e	E
-8g#	E
-16a[	.
-16a]	E
-8a[	.
-8a]	E
+8.r	E major
+8e	E major
+8g#L	E major
+[16aL	.
+16aJ]	E major
+[8a	.
+8aJ]	E major
 =4	=4
-8.g#[	G#dim
-8g#]	G#dim
+[8.g#L	G# diminished
+8g#J]	G# diminished
 16r	.
-8e	G#dim
-8g#	G#dim
-16a[	.
-16a]	G#dim
-8a[	.
-8a_	G#dim
+8e	G# diminished
+8g#L	G# diminished
+[16aL	.
+16aJ]	G# diminished
+[8a	.
+8aJ_	G# diminished
 =5	=5
-16a]	C#m
+16a]	C# minor
 8r	.
-16r	C#m
-8e	.
-8e	C#m
-8g#	C#m
-16a[	.
-16a]	C#m
-8a[	.
-8a]	C#m
+16r	C# minor
+8eL	.
+8eJ	C# minor
+8g#L	C# minor
+[16aL	.
+16aJ]	C# minor
+[8a	.
+8aJ]	C# minor
 =6	=6
-8.g#[	D
-8g#]	D
+[8.g#L	D major
+8g#J]	D major
 16r	.
-8e	D
-8g#	D
-16a[	.
-16a]	D
-8a[	.
-8a]	D
+8e	D major
+8g#L	D major
+[16aL	.
+16aJ]	D major
+[8a	.
+8aJ]	D major
 =7	=7
-8.dd[	G#dim
-16dd]	G#dim
-8cc#[	.
-8cc#]	G#dim
-8.b[	G#dim
-16b]	G#dim
+[8.ddL	G# diminished
+16ddk]	G# diminished
+[8cc#	.
+8cc#J]	G# diminished
+[8.bL	G# diminished
+16bk]	G# diminished
 8a	.
-8cc#	G#dim
+8cc#J	G# diminished
 =8	=8
-8.b[	E
-8.b]	E
-8a	E
-8g#	E
-16a[	.
-16a]	E
-8a[	.
-8a]	Eadd(2,4,7)
+[8.bL	E major
+8.b]	E major
+8aJ	E major
+8g#L	E major
+[16aL	.
+16aJ]	E major
+[8a	.
+8aJ]	E other-2,4,7
 ==	==
 *-	*-

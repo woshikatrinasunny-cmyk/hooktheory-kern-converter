@@ -15,7 +15,7 @@
 *c#:	*
 *M6/4	*
 =1	=1
-4cc#	A
+4cc#	A major
 8d#	.
 4e	.
 8cc#	.
@@ -24,7 +24,7 @@
 4e	.
 8b	.
 =2	=2
-4cc#	B
+4cc#	B major
 8d#	.
 4e	.
 8cc#	.
@@ -33,7 +33,7 @@
 4e	.
 8b	.
 =3	=3
-4b	G#m
+4b	G# minor
 8d#	.
 4e	.
 8b	.
@@ -41,17 +41,17 @@
 4f#	.
 4B	.
 =4	=4
-4b	C#m7
+4b	C# minor-seventh
 8d#	.
 4e	.
 8b	.
 4ee	.
-8dd#	.
-8ee	.
-8dd#	.
-8b	.
+8dd#L	.
+8eeJ	.
+8dd#L	.
+8bJ	.
 =5	=5
-4cc#	A
+4cc#	A major
 8d#	.
 4e	.
 8cc#	.
@@ -60,7 +60,7 @@
 4e	.
 8b	.
 =6	=6
-4cc#	B
+4cc#	B major
 8d#	.
 4e	.
 8cc#	.
@@ -69,7 +69,7 @@
 4e	.
 8b	.
 =7	=7
-4cc#	C#m
+4cc#	C# minor
 8d#	.
 4e	.
 8cc#	.
@@ -78,7 +78,7 @@
 4e	.
 8b	.
 =8	=8
-2.bb	C#m
+2.bb	C# minor
 2.ff#	.
 ==	==
 *-	*-

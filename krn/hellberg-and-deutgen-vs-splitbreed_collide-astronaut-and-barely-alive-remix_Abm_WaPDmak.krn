@@ -16,133 +16,133 @@
 *a:	*
 *M4/4	*
 =1	=1
-4a	Am
-4a	Am
-4a	Am
-16g	Am
-16a	.
-8cc	.
+4a	A minor
+4a	A minor
+4a	A minor
+16gLL	A minor
+16aJ	.
+8ccJ	.
 =2	=2
-8b	G
+8bL	G major
 8b	.
-8b	G
-16g	.
-16a	.
-8cc	G
+8b	G major
+16gL	.
+16aJJ	.
+8ccL	G major
 8b	.
-8a	G
-8g	.
+8a	G major
+8gJ	.
 =3	=3
-4a	F
-4a	F
-4a	F
-16g	F
-16a	.
-8ee	.
+4a	F major
+4a	F major
+4a	F major
+16gLL	F major
+16aJ	.
+8eeJ	.
 =4	=4
-8dd	Dm
+8ddL	D minor
 8dd	.
-8dd	Dm
-16cc	.
-16dd	.
-8ee	Dm
+8dd	D minor
+16ccL	.
+16ddJJ	.
+8eeL	D minor
 8dd	.
-8cc	Dm
-8dd	.
+8cc	D minor
+8ddJ	.
 =5	=5
-4cc	Am
-4cc	Am
-4cc	Am
-16cc	Am
-16dd	.
-8gg	.
+4cc	A minor
+4cc	A minor
+4cc	A minor
+16ccLL	A minor
+16ddJ	.
+8ggJ	.
 =6	=6
-8ee	G
+8eeL	G major
 8ee	.
-8.ee	G
-16ee	.
-8ff	G
+8.ee	G major
+16eeJk	.
+8ffL	G major
 8ee	.
-8dd	G
-8cc	.
+8dd	G major
+8ccJ	.
 =7	=7
-4a	F
-4a	F
-4a	F
-4b	F
+4a	F major
+4a	F major
+4a	F major
+4b	F major
 =8	=8
-8cc	C
+8ccL	C major
 8cc	.
-8cc	C
-8cc	.
-8ee	C
+8cc	C major
+8ccJ	.
+8eeL	C major
 8dd	.
-8cc	C
-8dd	.
+8cc	C major
+8ddJ	.
 =9	=9
-4a	Am
-4a	Am
-4a	Am
-16g	Am
-16a	.
-8cc	.
+4a	A minor
+4a	A minor
+4a	A minor
+16gLL	A minor
+16aJ	.
+8ccJ	.
 =10	=10
-8b	G
+8bL	G major
 8b	.
-8b	G
+8b	G major
+8bJ	.
+8ccL	G major
 8b	.
-8cc	G
-8b	.
-8a	G
-8g	.
+8a	G major
+8gJ	.
 =11	=11
-4a	F
-4a	F
-4a	F
-16g	F
-16a	.
-8ee	.
+4a	F major
+4a	F major
+4a	F major
+16gLL	F major
+16aJ	.
+8eeJ	.
 =12	=12
-8dd	Dm
+8ddL	D minor
 8dd	.
-8dd	Dm
-16cc	.
-16dd	.
-8ee	Dm
+8dd	D minor
+16ccL	.
+16ddJJ	.
+8eeL	D minor
 8dd	.
-8cc	Dm
-8dd	.
+8cc	D minor
+8ddJ	.
 =13	=13
-4cc	Am
-4cc	Am
-4cc	Am
-16cc	Am
-16dd	.
-8gg	.
+4cc	A minor
+4cc	A minor
+4cc	A minor
+16ccLL	A minor
+16ddJ	.
+8ggJ	.
 =14	=14
-8ee	G
+8eeL	G major
 8ee	.
-8ee	G
+8ee	G major
+8eeJ	.
+8ffL	G major
 8ee	.
-8ff	G
-8ee	.
-8dd	G
-8cc	.
+8dd	G major
+8ccJ	.
 =15	=15
-4a	F
-4a	F
-4a	F
-16g	F
-16a	.
-8b	.
+4a	F major
+4a	F major
+4a	F major
+16gLL	F major
+16aJ	.
+8bJ	.
 =16	=16
-8cc	C
+8ccL	C major
 8cc	.
-8cc	C
-8cc	.
-8ee	C
+8cc	C major
+8ccJ	.
+8eeL	C major
 8dd	.
-8cc	C
-8dd	.
+8cc	C major
+8ddJ	.
 ==	==
 *-	*-

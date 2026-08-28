@@ -16,80 +16,80 @@
 *D:	*
 *M4/4	*
 =1	=1
-4A	Dadd(2,4,7)
+4A	D other-2,4,7
 2.r	.
 =2	=2
-2.r	Dadd(2,4,7)
+2.r	D other-2,4,7
 4A	.
 =3	=3
-4B	Dadd(4,7,9)
+4B	D other-4,7,9
 2.r	.
 =4	=4
-1r	Dadd(4,7,9)
+1r	D other-4,7,9
 =5	=5
-4.r	DmMaj7
+4.r	D major-minor
 8c#	.
 4c#	.
-8e	.
-8c#[	.
+8eL	.
+[8c#J	.
 =6	=6
-4c#]	DmMaj7
+4c#]	D major-minor
 8r	.
 8c#	.
 4c#	.
 4A	.
 =7	=7
-8B	G/D
-16c#	.
+8BL	G major/D
+16c#k	.
 8B	.
-16c#	.
-8B	.
+16c#k	.
+8BJ	.
 2r	.
 =8	=8
-1r	G/D
+1r	G major/D
 =9	=9
-1r	D
+1r	D major
 =10	=10
-2r	Dsus4
-2r	D
+2r	D suspended-fourth
+2r	D major
 =11	=11
-4A	Dadd(2,4,7)
+4A	D other-2,4,7
 2.r	.
 =12	=12
-2.r	Dadd(2,4,7)
+2.r	D other-2,4,7
 4A	.
 =13	=13
-4B	Dadd(4,7,9)
+4B	D other-4,7,9
 2.r	.
 =14	=14
-1r	Dadd(4,7,9)
+1r	D other-4,7,9
 =15	=15
-4.r	DmMaj7
+4.r	D major-minor
 8c#	.
 4c#	.
-8e	.
-8c#[	.
+8eL	.
+[8c#J	.
 =16	=16
-4c#]	DmMaj7
+4c#]	D major-minor
 8r	.
 8c#	.
 4c#	.
 4A	.
 =17	=17
-8B	G/D
-16c#	.
+8BL	G major/D
+16c#Jk	.
 6...B	.
 4.r	.
-16c#	.
-16B[	.
+16c#LL	.
+[16BJJ	.
 =18	=18
-4B]	G/D
+4B]	G major/D
 2.r	.
 =19	=19
-1r	D
+1r	D major
 =20	=20
-2r	D
-4r	D
-4r	A/C#
+2r	D major
+4r	D major
+4r	A major/C#
 ==	==
 *-	*-

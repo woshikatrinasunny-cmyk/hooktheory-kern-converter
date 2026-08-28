@@ -16,50 +16,50 @@
 *F:	*
 *M4/4	*
 =1	=1
-2r	F
-2r	Faug
+2r	F major
+2r	F augmented
 =2	=2
-2r	Dm7/F
-2r	Dadd(1,4,7,10)
+2r	D minor-seventh/F
+2r	D other-1,4,7,10
 =3	=3
-2r	Gm
-2r	Daug
+2r	G minor
+2r	D augmented
 =4	=4
-2r	Gm7
-2r	Daug
+2r	G minor-seventh
+2r	D augmented
 =5	=5
-2r	Gm
-2r	GmMaj7
+2r	G minor
+2r	G major-minor
 =6	=6
-2r	Gm7
-2r	C7
+2r	G minor-seventh
+2r	C dominant
 =7	=7
-2r	F
-2r	Caug7
+2r	F major
+2r	C augmented-seventh
 =8	=8
-1r	F
+1r	F major
 =9	=9
-1r	F
+1r	F major
 =10	=10
-1r	Faug
+1r	F augmented
 =11	=11
-1r	B-maj7
+1r	B- major-seventh
 =12	=12
-1r	Gm7/B-
+1r	G minor-seventh/B-
 =13	=13
-2r	Am
-2r	Am7
+2r	A minor
+2r	A minor-seventh
 =14	=14
-1r	Dm7
+1r	D minor-seventh
 =15	=15
-2r	Gm7
-2r	Am7
+2r	G minor-seventh
+2r	A minor-seventh
 =16	=16
-4r	B-maj7
-8r	Em7
-8r	E-9
-8.r	Dadd(3,4,7,10)
-8.r	Gm11
-8r	Cadd(1,4,5,7,9,10)
+4r	B- major-seventh
+8r	E minor-seventh
+8r	E- dominant-ninth
+8.r	D other-3,4,7,10
+8.r	G minor-11th
+8r	C other-1,4,5,7,9,10
 ==	==
 *-	*-

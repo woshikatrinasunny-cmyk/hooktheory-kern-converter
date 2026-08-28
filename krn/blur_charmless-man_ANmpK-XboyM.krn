@@ -16,140 +16,140 @@
 *A:	*
 *M4/4	*
 =1	=1
-16b[	A
+[16bLL	A major
 16b]	.
-16cc#[	A
+[16cc#	A major
 16cc#]	.
-16b[	A
+[16b	A major
 16b]	.
-16a[	A
-16a]	.
-16b[	C#m/E
+[16a	A major
+16aJJ]	.
+[16bLL	C# minor/E
 16b_	.
-16b_	C#m/E
+16b_	C# minor/E
 16b]	.
-16a[	C#m/E
+[16a	C# minor/E
 16a]	.
-16a[	C#m/E
-16a]	.
+[16a	C# minor/E
+16aJJ]	.
 =2	=2
-16f#[	F#
+[16f#LL	F# major
 16f#_	.
-16f#_	F#
-16f#]	.
-16r	F#
+16f#_	F# major
+16f#JJ]	.
+16r	F# major
 16r	.
-16r	F#
+16r	F# major
 16r	.
-16r	F#
+16r	F# major
 16r	.
-16a[	F#
+[16aLL	F# major
 16a]	.
-16a[	F#
+[16a	F# major
 16a]	.
-16b[	F#
-16b]	.
+[16b	F# major
+16bJJ]	.
 =3	=3
-16b[	A
+[16bLL	A major
 16b]	.
-16cc#[	A
+[16cc#	A major
 16cc#]	.
-16b[	A
+[16b	A major
 16b]	.
-16a[	A
-16a]	.
-16b[	C#m/E
+[16a	A major
+16aJJ]	.
+[16bLL	C# minor/E
 16b_	.
-16b_	C#m/E
+16b_	C# minor/E
 16b]	.
-16a[	C#m/E
+[16a	C# minor/E
 16a]	.
-16a[	C#m/E
-16a]	.
+[16a	C# minor/E
+16aJJ]	.
 =4	=4
-16f#[	F#
+[16f#LL	F# major
 16f#_	.
-16f#_	F#
-16f#]	.
-16r	F#
+16f#_	F# major
+16f#JJ]	.
+16r	F# major
 16r	.
-16r	F#
+16r	F# major
 16r	.
-16r	F#
+16r	F# major
 16r	.
-16r	F#
+16r	F# major
 16r	.
-16r	F#
+16r	F# major
 16r	.
-16c#[	F#
-16c#]	.
+[16c#LL	F# major
+16c#JJ]	.
 =5	=5
-16d[	Bm
+[16dLL	B minor
 16d]	.
-16d[	Bm
+[16d	B minor
 16d]	.
-16d[	Bm
+[16d	B minor
 16d]	.
-16d[	Bm
-16d]	.
-16cc#[	C#
+[16d	B minor
+16dJJ]	.
+[16cc#LL	C# major
 16cc#_	.
-16cc#_	C#
+16cc#_	C# major
 16cc#]	.
-16g#[	C#
+[16g#	C# major
 16g#]	.
-16g#[	C#
-16g#]	.
+[16g#	C# major
+16g#JJ]	.
 =6	=6
-16a[	D
+[16aLL	D major
 16a_	.
-16a_	D
-16a]	.
-16r	D
+16a_	D major
+16aJJ]	.
+16r	D major
 16r	.
-16r	D
+16r	D major
 16r	.
-16r	D
+16r	D major
 16r	.
-16r	D
+16r	D major
 16r	.
-16r	D
+16r	D major
 16r	.
-16a[	D
-16a]	.
+[16aLL	D major
+16aJJ]	.
 =7	=7
-16b[	A
+[16bLL	A major
 16b]	.
-16cc#[	A
+[16cc#	A major
 16cc#]	.
-16b[	A
+[16b	A major
 16b]	.
-16a[	A
-16a]	.
-16b[	D
+[16a	A major
+16aJJ]	.
+[16bLL	D major
 16b_	.
-16b_	D
+16b_	D major
 16b]	.
-16a[	D
+[16a	D major
 16a]	.
-16a[	D
-16a_	.
+[16a	D major
+16aJJ_	.
 =8	=8
-16a_	A
+16aLL_	A major
 16a_	.
-16a_	A
-16a]	.
-16r	A
+16a_	A major
+16aJJ]	.
+16r	A major
 16r	.
-16r	A
+16r	A major
 16r	.
-16r	A
+16r	A major
 16r	.
-16r	A
+16r	A major
 16r	.
-16r	A
+16r	A major
 16r	.
-16r	A
+16r	A major
 16r	.
 ==	==
 *-	*-

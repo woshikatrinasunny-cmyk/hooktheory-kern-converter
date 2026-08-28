@@ -16,34 +16,34 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4.gg#	F#add(2,3,7)
+4.gg#	F# other-2,3,7
 4.ee	.
-4ff#[	F#7sus2
+[4ff#	F# dominant-seventh-suspended-second
 =2	=2
 8ff#]	.
 4.cc#	.
-4ee	F#m9
+4ee	F# minor-ninth
 4b	.
 =3	=3
-8gg#	F#7sus2
+8gg#L	F# dominant-seventh-suspended-second
 8aa	.
-8gg#	.
+8gg#J	.
 4ee	.
-8b	.
-8g#	F#9sus4
-8e	.
+8bL	.
+8g#	F# dominant-ninth-suspended-fourth
+8eJ	.
 =4	=4
 4f#	.
-8e	.
-8f#	.
-16g#	F#add(2,10)
+8eL	.
+8f#J	.
+16g#LL	F# other-2,10
 16a	.
 16b	.
 16cc#	.
 16ee	.
 16ff#	.
 16gg#	.
-16aa	.
+16aaJJ	.
 =5	=5
 8.ccc#	.
 2.r	.

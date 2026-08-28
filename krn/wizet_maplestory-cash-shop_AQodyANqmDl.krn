@@ -16,285 +16,285 @@
 *C:	*
 *M4/4	*
 =1	=1
-8c	C
+8cL	C major
 8G	.
 8B	.
-8c	.
-8d	.
+8cJ	.
+8dL	.
 8e	.
 8d	.
-8c	.
+8cJ	.
 =2	=2
-8F	F
+8FL	F major
 8A	.
 8c	.
-8e	.
-8f	.
+8eJ	.
+8fL	.
 8e	.
 8d	.
-8c	.
+8cJ	.
 =3	=3
-8G	G
+8GL	G major
 8B	.
 8d	.
-8e	.
-8f	.
+8eJ	.
+8fL	.
 8e	.
 8d	.
-8B	G/B
+8BJ	G major/B
 =4	=4
-8F	F/C
+8FL	F major/C
 8A	.
 8c	.
-8e	.
-8f	G/D
+8eJ	.
+8fL	G major/D
 8g	.
 8B	.
-8c	.
+8cJ	.
 =5	=5
-8c	C
+8cL	C major
 8G	.
 8B	.
-8c	.
-8d	.
+8cJ	.
+8dL	.
 8e	.
 8d	.
-8c	.
+8cJ	.
 =6	=6
-8F	F
+8FL	F major
 8A	.
 8c	.
-8e	.
-8f	.
+8eJ	.
+8fL	.
 8e	.
 8d	.
-8c	.
+8cJ	.
 =7	=7
-8G	Em7
+8GL	E minor-seventh
 8B	.
 8d	.
-8e	.
-8f	.
+8eJ	.
+8fL	.
 8e	.
 8d	.
-8B	.
+8BJ	.
 =8	=8
-8F	F
+8FL	F major
 8A	.
 8c	.
-8e	.
-8f	G/D
+8eJ	.
+8fL	G major/D
 8g	.
 8B	.
-8c	.
+8cJ	.
 =9	=9
-2c	C
-8c	.
+2c	C major
+8cL	.
 8d	.
 8e	.
-8f[	.
+[8fJ	.
 =10	=10
-8f]	F
+8f]	F major
 4e	.
 4d	.
 4.c	.
 =11	=11
-2B	G
-8A	.
+2B	G major
+8AL	.
 8B	.
 8c	.
-8d[	G/B
+[8dJ	G major/B
 =12	=12
-8d]	F/C
+8d]	F major/C
 4c	.
-8B[	.
-8B]	G/D
+[8B	.
+8B]	G major/D
 4.c	.
 =13	=13
-2c	C
-8c	.
+2c	C major
+8cL	.
 8d	.
 8e	.
-8f[	.
+[8fJ	.
 =14	=14
-8f]	F
+8f]	F major
 4e	.
 4d	.
 4.e	.
 =15	=15
-2B	G
-8B	.
+2B	G major
+8BL	.
 8c	.
 8d	.
-8e[	G/B
+[8eJ	G major/B
 =16	=16
-8e]	F/C
+8e]	F major/C
 4f	.
-8g[	.
-8g]	G/D
+[8g	.
+8g]	G major/D
 4.a	.
 =17	=17
-2g	C
+2g	C major
 8f	.
 4g	.
-8e[	.
+[8e	.
 =18	=18
-4e]	F
+4e]	F major
 8f	.
 4g	.
 4a	.
-8d[	.
+[8d	.
 =19	=19
-4.d]	Em7
+4.d]	E minor-seventh
 4f	.
 4e	.
-8c[	.
+[8c	.
 =20	=20
-4.c]	F
+4.c]	F major
 4d	.
 4.e	.
 =21	=21
-2g	C/G
-8g	.
+2g	C major/G
+8gL	.
 8f	.
 8e	.
-8f[	.
+[8fJ	.
 =22	=22
-4f]	F/A
+4f]	F major/A
 8g	.
 4a	.
 4g	.
-8d[	.
+[8d	.
 =23	=23
-4.d]	Bdim
+4.d]	B diminished
 4f	.
 4e	.
-8c[	.
+[8c	.
 =24	=24
-4.c]	F
+4.c]	F major
 4d	.
 4e	.
 8r	.
 =25	=25
-2e	C
-8e	.
+2e	C major
+8eL	.
 8f	.
 8g	.
-8a[	.
+[8aJ	.
 =26	=26
-8a]	F
+8a]	F major
 4g	.
 4f	.
 4.e	.
 =27	=27
-2d	G
-8d	.
+2d	G major
+8dL	.
 8e	.
 8f	.
-8g[	G/B
+[8gJ	G major/B
 =28	=28
-8g]	F/C
+8g]	F major/C
 4f	.
-8d[	.
-8d]	G/D
+[8d	.
+8d]	G major/D
 4.e	.
 =29	=29
-2e	C
-8e	.
+2e	C major
+8eL	.
 8f	.
 8g	.
-8a[	.
+[8aJ	.
 =30	=30
-8a]	F
+8a]	F major
 4g	.
 4f	.
 4.e	.
 =31	=31
-2d	Em7
-8d	.
+2d	E minor-seventh
+8dL	.
 8e	.
 8f	.
-8g[	.
+[8gJ	.
 =32	=32
-8g]	F
+8g]	F major
 4a	.
-8b[	.
-8b]	G/D
+[8b	.
+8b]	G major/D
 4.cc	.
 =33	=33
-2.g	G
+2.g	G major
 4f	.
 =34	=34
-1e	C
+1e	C major
 =35	=35
-2.d	G
+2.d	G major
 4e	.
 =36	=36
-4.d	C
+4.d	C major
 3...c	.
 =37	=37
-2.g	G
+2.g	G major
 4f	.
 =38	=38
-1e	C
+1e	C major
 =39	=39
-2.d	G
+2.d	G major
 4e	.
 =40	=40
-2d	C
+2d	C major
 2c	.
 =41	=41
-8f	G7/D
+8fL	G dominant/D
 8g	.
-8a	.
+8aJ	.
 4b	.
 4a	.
 8g	.
 =42	=42
-8e	C
+8eL	C major
 8f	.
-8g	.
+8gJ	.
 4a	.
 4g	.
 8f	.
 =43	=43
-8d	G7/B
+8dL	G dominant/B
 8e	.
-8f	.
+8fJ	.
 4g	.
 4f	.
 8d	.
 =44	=44
-8e	C
+8eL	C major
 8f	.
 8g	.
-8a	.
-8b	.
+8aJ	.
+8bL	.
 8a	.
 8g	.
-8e	.
+8eJ	.
 =45	=45
-8f	G7/D
+8fL	G dominant/D
 8g	.
-8a	.
+8aJ	.
 4b	.
 4a	.
 8g	.
 =46	=46
-8e	C
+8eL	C major
 8f	.
-8g	.
+8gJ	.
 4a	.
 4g	.
 8f	.
 =47	=47
-8d	G7/B
+8dL	G dominant/B
 8e	.
-8f	.
+8fJ	.
 4g	.
 4f	.
 8B	.
 =48	=48
-1c	C
+1c	C major
 ==	==
 *-	*-

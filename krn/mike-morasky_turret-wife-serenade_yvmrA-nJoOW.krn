@@ -16,7 +16,7 @@
 *b-:	*
 *M4/4	*
 =1	=1
-8r	B-m
+8r	B- minor
 16b-	.
 16r	.
 16dd-	.
@@ -43,10 +43,10 @@
 16r	.
 16b-	.
 16r	.
-8ee-	.
-8cc	.
+8ee-L	.
+8ccJ	.
 =3	=3
-8r	Adim
+8r	A diminished
 16an	.
 16r	.
 16cc	.
@@ -55,9 +55,9 @@
 16r	.
 16ee-	.
 16r	.
-8an	.
+8anL	.
 8cc	.
-8dd-	.
+8dd-J	.
 =4	=4
 8r	.
 16an	.
@@ -65,12 +65,12 @@
 16cc	.
 16r	.
 8an	.
-8ee-	.
+8ee-L	.
 8dd-	.
 8cc	.
-8dd-	.
+8dd-J	.
 =5	=5
-8r	B-m
+8r	B- minor
 16b-	.
 16r	.
 16dd-	.
@@ -81,8 +81,8 @@
 16r	.
 16b-	.
 16r	.
-8dd-	.
-16ee-	.
+8dd-L	.
+16ee-Jk	.
 16r	.
 =6	=6
 8r	.
@@ -92,12 +92,12 @@
 16r	.
 16b-	.
 16r	.
-8ff	.
+8ffL	.
 8b-	.
 8cc	.
-8dd-	.
+8dd-J	.
 =7	=7
-8r	Adim
+8r	A diminished
 16ff	.
 16r	.
 16ee-	.
@@ -106,8 +106,8 @@
 16r	.
 16ee-	.
 16r	.
-8dd-	.
-16cc	.
+8dd-L	.
+16ccJk	.
 16r	.
 16dd-	.
 16r	.
@@ -118,9 +118,9 @@
 16dd-	.
 16r	.
 8cc	.
-8dd-	.
+8dd-L	.
 8cc	.
 8b-	.
-8an	.
+8anJ	.
 ==	==
 *-	*-

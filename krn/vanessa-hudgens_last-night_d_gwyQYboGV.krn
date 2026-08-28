@@ -16,126 +16,126 @@
 *d#:	*
 *M4/4	*
 =1	=1
-2cc#	D#m7
+2cc#	D# minor-seventh
 4r	.
-4g#	C#sus4
+4g#	C# suspended-fourth
 =2	=2
-8.an	.
-16g#	.
-4an	Bsus2
-8.f#	.
-16d#	.
+8.anL	.
+16g#Jk	.
+4an	B suspended-second
+8.f#L	.
+16d#Jk	.
 4f#	.
 =3	=3
-4f#	C#sus4
-8.d#	Dadd(1,6)
-16c#	.
-2cc#	D#m7
+4f#	C# suspended-fourth
+8.d#L	D other-1,6
+16c#Jk	.
+2cc#	D# minor-seventh
 =4	=4
 4r	.
-4g#	C#sus4
-8.an	.
-16f#	.
-4an	Bsus2
+4g#	C# suspended-fourth
+8.anL	.
+16f#Jk	.
+4an	B suspended-second
 =5	=5
+8.f#L	.
+16d#k	.
 8.f#	.
-16d#	.
-8.f#	.
-16d#	.
-4g#	C#sus4
-4d#	Dadd(1,6)
+16d#Jk	.
+4g#	C# suspended-fourth
+4d#	D other-1,6
 =6	=6
-4dd#	D#m7
+4dd#	D# minor-seventh
 4cc#	.
 4r	.
-4g#	C#sus4
+4g#	C# suspended-fourth
 =7	=7
-8.an	.
-16g#	.
-4an	Bsus2
-8.f#	.
-16d#	.
+8.anL	.
+16g#Jk	.
+4an	B suspended-second
+8.f#L	.
+16d#Jk	.
 4f#	.
 =8	=8
-4f#	B
-8.d#	.
-16c#	.
-8an	E#m7
-4.g#[	.
+4f#	B major
+8.d#L	.
+16c#Jk	.
+8an	E# minor-seventh
+[4.g#	.
 =9	=9
 4g#]	.
-4g#	E#m7
+4g#	E# minor-seventh
 4g#	.
-4a#[	A#7
+[4a#	A# dominant
 =10	=10
 2a#]	.
-8g#	A#7
-8f#[	.
-8f#]	A#m/C#
+8g#L	A# dominant
+[8f#	.
+8f#J]	A# minor/C#
 8r	.
 =11	=11
-4r	A#/D
-2cc#	D#m7
+4r	A# major/D
+2cc#	D# minor-seventh
 4r	.
 =12	=12
-4g#	C#sus4
-8.g#	.
-16f#	.
-4an	Bsus2
-8.f#	.
-16d#	.
+4g#	C# suspended-fourth
+8.g#L	.
+16f#Jk	.
+4an	B suspended-second
+8.f#L	.
+16d#Jk	.
 =13	=13
-8.f#	.
-16d#	.
-4g#	C#sus2
-4d#	Dadd(1,6)
-4cc#[	D#m7
+8.f#L	.
+16d#Jk	.
+4g#	C# suspended-second
+4d#	D other-1,6
+[4cc#	D# minor-seventh
 =14	=14
 4cc#]	.
 4r	.
-4g#	C#sus4
-8.g#	.
-16g#	.
+4g#	C# suspended-fourth
+8.g#L	.
+16g#Jk	.
 =15	=15
-8.an	Bsus2
-16g#	.
+8.anL	B suspended-second
+16g#k	.
 8.f#	.
-16d#	.
-8.f#	.
-16d#	.
-4g#	C#sus2
+16d#Jk	.
+8.f#L	.
+16d#Jk	.
+4g#	C# suspended-second
 =16	=16
-8.d#	D#m7/F#
-16c#	.
-4dd#	D#m7
+8.d#L	D# minor-seventh/F#
+16c#Jk	.
+4dd#	D# minor-seventh
 4cc#	.
 4r	.
 =17	=17
-4g#	F#
-8.g#	.
-16g#	.
-8an	G#
-8.g#	.
+4g#	F# major
+8.g#L	.
+16g#Jk	.
+8anL	G# major
+8.g#J	.
 8r	.
 16d#	.
 =18	=18
-8.f#	.
-16d#	.
-4f#	G#
-8d#	.
-8c#	.
-4an	A
+8.f#L	.
+16d#Jk	.
+4f#	G# major
+8d#L	.
+8c#J	.
+4an	A major
 =19	=19
 2g#	.
-4an	A
+4an	A major
 4an	.
 =20	=20
 4an	.
-2.an	G7
+2.an	G dominant
 =21	=21
-4an	G7
+4an	G dominant
 4g#	.
 4f#	.
-4f#	F#
+4f#	F# major
 ==	==
 *-	*-

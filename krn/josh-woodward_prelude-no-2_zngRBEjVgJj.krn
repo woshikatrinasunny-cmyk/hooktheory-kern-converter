@@ -16,41 +16,41 @@
 *B:	*
 *M5/4	*
 =1	=1
-1b[	B
+[1b	B major
 4b]	.
 =2	=2
-1cc#[	Badd(2,5,7)
+[1cc#	B other-2,5,7
 4cc#]	.
 =3	=3
-1dd#[	B
+[1dd#	B major
 4dd#]	.
 =4	=4
-1ff#[	Bmaj7
+[1ff#	B major-seventh
 4ff#]	.
 =5	=5
 *M4/4	*
-1ee	E
+1ee	E major
 =6	=6
-1a#	A#dim/E
+1a#	A# diminished/E
 =7	=7
 *M5/4	*
-1dd#[	Emaj7
+[1dd#	E major-seventh
 4dd#]	.
 =8	=8
-1g#[	E
+[1g#	E major
 4g#]	.
 =9	=9
 *M4/4	*
-1a#	F#
+1a#	F# major
 =10	=10
-1b	B/F#
+1b	B major/F#
 =11	=11
-1cc#	F#7
+1cc#	F# dominant
 =12	=12
-1ff#[	B/F#
+[1ff#	B major/F#
 =13	=13
 1ff#]	.
 =14	=14
-1b	B
+1b	B major
 ==	==
 *-	*-

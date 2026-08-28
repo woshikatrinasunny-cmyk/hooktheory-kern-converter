@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-32aaa	Dm
+32aaaLLL	D minor
 32ggg	.
 32aaa	.
 32ggg	.
@@ -27,81 +27,81 @@
 32aaa	.
 32ggg	.
 32aaa	.
-32ggg	.
+32gggJ	.
 16gg	.
-16aa	.
-8gg	G
-16ff	.
+16aaJJ	.
+8ggL	G major
+16ffJk	.
 16r	.
 16ee	.
 16r	.
 16ff	.
 16r	.
 =2	=2
-4.gg	Cmaj7
-16ff	.
-16ee	.
-8dd	.
-16a	.
+4.gg	C major-seventh
+16ffLL	.
+16eeJJ	.
+8ddL	.
+16aJk	.
 16r	.
 16b	.
 16r	.
 16g	.
 16r	.
 =3	=3
-32b	Dm
+32bLLK	D minor
 16.cc	.
-16a	.
+16aJJ	.
 16r	.
 16f	.
 16r	.
-16g	.
-16a	.
-8b	G7
-16cc	.
+16gLL	.
+16aJJ	.
+8bL	G dominant
+16ccJk	.
 16r	.
 16ee	.
 16r	.
 16aa	.
 16r	.
 =4	=4
-8gg	C
-16gg	.
+8ggL	C major
+16ggL	.
 16aa	.
+16ggJJ	.
+16r	.
+16ggLL	.
+16aaJJ	.
 16gg	.
 16r	.
-16gg	.
-16aa	.
-16gg	.
-16r	.
+16eeLL	.
 16ee	.
-16ee	.
-16gg	.
+16ggJJ	.
 16r	.
 16ccc	.
 16r	.
 =5	=5
-4.a	F
-16b	.
-16cc	.
-4dd	Bdim7/F
+4.a	F major
+16bLL	.
+16ccJJ	.
+4dd	B diminished-seventh/F
 16cc#	.
 16r	.
 16dd	.
 16r	.
 =6	=6
-8ee	Em/G
-16dd#	.
+8eeL	E minor/G
+16dd#Jk	.
 16r	.
 16ee	.
 16r	.
-8aa	F#m7b5
+8aa	F# half-diminished
 4..r	.
-32dd	.
-32dd#	.
+32ddLLL	.
+32dd#JJJ	.
 =7	=7
-8ee	.
-16aa	.
+8eeL	.
+16aaJk	.
 16r	.
 16ee	.
 16r	.

@@ -16,37 +16,37 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4B-	B-
-8f	.
-8f	.
-4F	B-/F
-8f	.
-8f	.
+4B-	B- major
+8fL	.
+8fJ	.
+4F	B- major/F
+8fL	.
+8fJ	.
 =2	=2
-4B-	B-
-8f	.
-8F[	.
-8F]	B-/F
-8F	.
+4B-	B- major
+8fL	.
+[8FJ	.
+8FL]	B- major/F
+8FJ	.
 4f	.
 =3	=3
-4B-	B-
-8f	.
-8f	.
-4F	B-/F
-8f	.
-8f	.
+4B-	B- major
+8fL	.
+8fJ	.
+4F	B- major/F
+8fL	.
+8fJ	.
 =4	=4
-4B-	B-
+4B-	B- major
 4b-	.
 4cc	.
 4dd	.
 =5	=5
-16ee-	E-7
+16ee-	E- dominant
 2r	.
 16r	.
-8ee-	.
-16ff	.
+8ee-L	.
+16ffJk	.
 16r	.
 16ee-	.
 16r	.
@@ -55,22 +55,22 @@
 16r	.
 4ff	.
 4ee-	.
-8dd-	.
-16cc	.
+8dd-L	.
+16ccJk	.
 16r	.
 16b-	.
 16r	.
 =7	=7
-4a-	A-7
+4a-	A- dominant
 4a-	.
 16b-	.
 16r	.
 4bn	.
-8cc[	.
+[8cc	.
 =8	=8
-8cc]	.
+8ccL]	.
 8A-	.
-16B-	.
+16B-Jk	.
 16r	.
 16c	.
 16r	.
@@ -79,11 +79,11 @@
 8a-	.
 4g-	.
 =9	=9
-4f	D-7
+4f	D- dominant
 8dd-	.
 4dd-	.
-8dd-	.
-16ee-	.
+8dd-L	.
+16ee-Jk	.
 16r	.
 16dd-	.
 16r	.
@@ -92,27 +92,27 @@
 16r	.
 4ee-	.
 4dd-	.
-8bn	.
-16b-	.
+8bnL	.
+16b-Jk	.
 16r	.
 16a-	.
 16r	.
 =11	=11
-4g-	G-
+4g-	G- major
 4g-	.
 16a-	.
 16r	.
 4.b-	.
 =12	=12
-16a	F7
+16a	F dominant
 16r	.
 4b-	.
-3...cc[	.
+[3...cc	.
 =13	=13
 2cc]	.
 8r	.
-8d	.
-16e-	.
+8dL	.
+16e-Jk	.
 16r	.
 16en	.
 16r	.

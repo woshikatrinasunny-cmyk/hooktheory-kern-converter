@@ -16,28 +16,28 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.r	E/B
-4.r	E/B
-4r	B
+4.r	E major/B
+4.r	E major/B
+4r	B major
 =2	=2
 1r	.
 =3	=3
-4.r	Badd(2,5,7)
-4.r	Badd(2,5,7)
-4r	B
+4.r	B other-2,5,7
+4.r	B other-2,5,7
+4r	B major
 =4	=4
 1r	.
 =5	=5
-4.r	E/B
-4.r	E/B
-4r	B
+4.r	E major/B
+4.r	E major/B
+4r	B major
 =6	=6
 1r	.
 =7	=7
-4.r	Badd(2,5,7)
-8r	B
+4.r	B other-2,5,7
+8r	B major
 4r	.
-4r	B11
+4r	B dominant-11th
 =8	=8
 1r	.
 ==	==

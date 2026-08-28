@@ -16,16 +16,16 @@
 *b-:	*
 *M4/4	*
 =1	=1
-2..f	F
+2..f	F major
 8F	.
 =2	=2
 4f	.
 8f	.
 4.B-	.
-8A-	.
-8B-[	.
+8A-L	.
+[8B-J	.
 =3	=3
-4.B-]	A-maj7sus2
+4.B-]	A- major-seventh-suspended-second
 2r	.
 8F	.
 =4	=4
@@ -35,15 +35,15 @@
 4A-	.
 8B-	.
 =5	=5
-4.A-	D-maj7
+4.A-	D- major-seventh
 3...F	.
 =6	=6
 2r	.
 4A-	.
-8A-	.
-8B-[	.
+8A-L	.
+[8B-J	.
 =7	=7
-3...B-]	E-7sus2
+3...B-]	E- dominant-seventh-suspended-second
 4.r	.
 =8	=8
 4B-	.
@@ -52,18 +52,18 @@
 4c	.
 8An	.
 =9	=9
-2An	F
+2An	F major
 4.r	.
 8F	.
 =10	=10
 4f	.
 8f	.
 4a-	.
-8f	.
+8fL	.
 8e-	.
-8f[	.
+[8fJ	.
 =11	=11
-4.f]	A-maj7sus2
+4.f]	A- major-seventh-suspended-second
 2r	.
 8F	.
 =12	=12
@@ -73,15 +73,15 @@
 4A-	.
 8B-	.
 =13	=13
-4.A-	D-maj7
+4.A-	D- major-seventh
 3...F	.
 =14	=14
 4.r	.
 4B-	.
 4A-	.
-8B-[	.
+[8B-	.
 =15	=15
-4.B-]	E-7sus2
+4.B-]	E- dominant-seventh-suspended-second
 3...F	.
 =16	=16
 2..r	.

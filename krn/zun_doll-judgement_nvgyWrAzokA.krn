@@ -16,79 +16,79 @@
 *d#:	*
 *M4/4	*
 =1	=1
-2..r	A#
-16d#	.
-16e#	.
+2..r	A# major
+16d#LL	.
+16e#JJ	.
 =2	=2
-2.f#	D#m
+2.f#	D# minor
 8r	.
-16e#	.
-16f#	.
+16e#LL	.
+16f#JJ	.
 =3	=3
-2g#	A#m/C#
+2g#	A# minor/C#
 2cc#	.
 =4	=4
-1a#[	G#add(2,4,7)/C
+[1a#	G# other-2,4,7/C
 =5	=5
 2a#]	.
 4a#	.
 4cc#	.
 =6	=6
-2dd#	B
+2dd#	B major
 4dd#	.
 4ff#	.
 =7	=7
-4.ee#	C#
+4.ee#	C# major
 4.cc#	.
 4g#	.
 =8	=8
-4.f#	B
+4.f#	B major
 4.g#	.
 4a#	.
 =9	=9
-2e#	Ddim
-8.e#	.
+2e#	D diminished
+8.e#L	.
 8.f#	.
-8g#	.
+8g#J	.
 =10	=10
-2.f#	D#m
+2.f#	D# minor
 8r	.
-16e#	.
-16f#	.
+16e#LL	.
+16f#JJ	.
 =11	=11
-2g#	A#m/C#
+2g#	A# minor/C#
 2cc#	.
 =12	=12
-1dd#	G#/C
+1dd#	G# major/C
 =13	=13
 8r	.
 8ff#	.
 4ee#	.
-8.dd#	.
+8.dd#L	.
 8.a#	.
-8cc#[	.
+[8cc#J	.
 =14	=14
-4.cc#]	G#m
+4.cc#]	G# minor
 4.b	.
 4g#	.
 =15	=15
-4.ddn	A#
+4.ddn	A# major
 4.dd#	.
 4ee#	.
 =16	=16
-4.ee#	B
+4.ee#	B major
 3...dd#	.
 =17	=17
-4.r	C#
-16fff#	.
-16eee#	.
-16ccc#	.
+4.r	C# major
+16fff#LL	.
+16eee#JJ	.
+16ccc#LL	.
 16gg#	.
 16ff#	.
 16ee#	.
 16cc#	.
 16g#	.
 16f#	.
-16e#	.
+16e#JJ	.
 ==	==
 *-	*-

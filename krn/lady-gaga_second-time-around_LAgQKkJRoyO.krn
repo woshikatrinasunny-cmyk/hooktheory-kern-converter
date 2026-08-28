@@ -15,60 +15,60 @@
 *F:	*
 *M4/4	*
 =1	=1
-16dd	Dm
+16ddLL	D minor
 16ff	.
-16aa	.
+16aaJ	.
 8fff	.
 8eee	.
-16ddd	.
-16cc	C
+16dddJk	.
+16ccLL	C major
 16ee	.
-16gg	.
+16ggJ	.
 8eee	.
 8ddd	.
-16ccc	.
+16cccJk	.
 =2	=2
-16b-	B-
+16b-LL	B- major
 16dd	.
-16ff	.
+16ffJ	.
 8ddd	.
 8ccc	.
-16ff	.
-16bb-	C/G
+16ffJk	.
+16bb-LL	C major/G
 16ff	.
 16cc	.
-16gg	Dm/F
+16gg	D minor/F
 16ee	.
 16cc	.
-16ee	C/E
-16a	.
+16ee	C major/E
+16aJJ	.
 =3	=3
-16dd	Dm
+16ddLL	D minor
 16ff	.
-16aa	.
+16aaJ	.
 8fff	.
 8eee	.
-16ddd	.
-16cc	C
+16dddJk	.
+16ccLL	C major
 16ee	.
-16gg	.
+16ggJ	.
 8eee	.
 8ddd	.
-16ccc	.
+16cccJk	.
 =4	=4
-16b-	B-
+16b-LL	B- major
 16dd	.
-16ff	.
+16ffJ	.
 8ddd	.
 8ccc	.
-16ff	.
-16bb-	C/G
+16ffJk	.
+16bb-LL	C major/G
 16ff	.
 16cc	.
-16gg	Dm/F
+16gg	D minor/F
 16ee	.
 16cc	.
-16ee	C/E
-16a	.
+16ee	C major/E
+16aJJ	.
 ==	==
 *-	*-

@@ -16,61 +16,61 @@
 *G:	*
 *M3/4	*
 =1	=1
-4.b	Gadd(2,4,7)
+4.b	G other-2,4,7
 8cc	.
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 =2	=2
-8dd	Gadd(2,4,7)
+8dd	G other-2,4,7
 8r	.
 2gg	.
 =3	=3
-2ff#	Cadd(2,4,7)
+2ff#	C other-2,4,7
 4ee	.
 =4	=4
-2.ee	Cadd(2,4,7)
+2.ee	C other-2,4,7
 =5	=5
-4r	Dadd(2,4,7)
-8a	.
-8b	.
-8a	.
-8b	.
+4r	D other-2,4,7
+8aL	.
+8bJ	.
+8aL	.
+8bJ	.
 =6	=6
-8cc	D
+8cc	D major
 8r	.
 4.ff#	.
 8ee	.
 =7	=7
-2.dd	Gadd(2,4,7)
+2.dd	G other-2,4,7
 =8	=8
-4f#	D
+4f#	D major
 4e	.
 4d	.
 =9	=9
-4.b	Gadd(2,4,7)
+4.b	G other-2,4,7
 8cc	.
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 =10	=10
-8dd	Gadd(2,4,7)
+8dd	G other-2,4,7
 8r	.
 2gg	.
 =11	=11
-2ff#	Cadd(2,4,7)
+2ff#	C other-2,4,7
 4ee	.
 =12	=12
-2.ee	Cadd(2,4,7)
+2.ee	C other-2,4,7
 =13	=13
-4gg	D#
+4gg	D# major
 4ffn	.
 4dd#	.
 =14	=14
-4gg	F
+4gg	F major
 4.ffn	.
 8gg	.
 =15	=15
-2.dd[	Gadd(2,4,7)
+[2.dd	G other-2,4,7
 =16	=16
-2.dd]	Gadd(2,4,7)
+2.dd]	G other-2,4,7
 ==	==
 *-	*-

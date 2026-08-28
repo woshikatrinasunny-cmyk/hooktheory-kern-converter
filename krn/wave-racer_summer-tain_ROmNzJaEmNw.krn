@@ -16,113 +16,113 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	D
-8dd	.
-8b	.
-8a	Em7
+4r	D major
+8ddL	.
+8bJ	.
+8aL	E minor-seventh
+16gL	.
 16g	.
 16g	.
 16g	.
 16g	.
-16g	.
-16a	.
+16aJJ	.
 =2	=2
-4b	Cmaj9
+4b	C major-ninth
+16gLL	.
 16g	.
 16g	.
+16bJJ	.
+8aL	C major-ninth
+16gL	D major
 16g	.
-16b	.
-8a	Cmaj9
-16g	D
+16g	E minor
 16g	.
-16g	Em
-16g	.
-16g	Bm
-16b	.
+16g	B minor
+16bJJ	.
 =3	=3
-4a	D
+4a	D major
+16gLL	.
+16g	.
+16g	.
+16bJJ	.
+8aL	B minor
+16gL	.
 16g	.
 16g	.
 16g	.
-16b	.
-8a	Bm
 16g	.
-16g	.
-16g	.
-16g	.
-16g	.
-16b	.
+16bJJ	.
 =4	=4
-8a	Cmaj9
+8a	C major-ninth
 16r	.
+16gLL	.
+16g	.
+16g	.
+16g	.
+16bJJ	.
+8aL	.
+16gL	.
 16g	.
 16g	.
 16g	.
 16g	.
-16b	.
-8a	.
-16g	.
-16g	.
-16g	.
-16g	.
-16g	.
-16b	.
+16bJJ	.
 =5	=5
-8a[	.
-16a]	D
+[8aL	.
+16aL]	D major
 16g	.
 16dd	.
 16dd	.
 16b	.
-16b	.
+16bJJ	.
+16aLL	.
 16a	.
-16a	.
-16g	Em7
+16g	E minor-seventh
 16g	.
 16g	.
 16g	.
 16g	.
-16a	.
+16aJJ	.
 =6	=6
-8b	Cmaj9
+8b	C major-ninth
 16r	.
+16gLL	.
 16g	.
 16g	.
 16g	.
-16g	.
-16b	.
-16a	Cmaj9
+16bJJ	.
+16aLL	C major-ninth
 16a	.
-16g	D
+16g	D major
 16g	.
-16g	Em7
+16g	E minor-seventh
 16g	.
-16g	Bm
-16b	.
+16g	B minor
+16bJJ	.
 =7	=7
 8a	.
-16r	D
+16r	D major
+16gLL	.
+16g	.
+16g	.
+16g	.
+16bJJ	.
+16aLL	.
+16g	.
+16g	B minor
 16g	.
 16g	.
 16g	.
 16g	.
-16b	.
-16a	.
-16g	.
-16g	Bm
-16g	.
-16g	.
-16g	.
-16g	.
-16b	.
+16bJJ	.
 =8	=8
-8a	Cmaj9
-16g	.
-16g	.
-8dd	Cmaj9
-8cc	.
-8b	Cmaj9
-8g	.
-4r	Cmaj9
+8aL	C major-ninth
+16gL	.
+16gJ	.
+8dd	C major-ninth
+8ccJ	.
+8bL	C major-ninth
+8gJ	.
+4r	C major-ninth
 ==	==
 *-	*-

@@ -16,54 +16,54 @@
 *G:	*
 *M4/4	*
 =1	=1
-4b	A7/C#
+4b	A dominant/C#
 4g	.
-4g	Am7/C
+4g	A minor-seventh/C
 4e	.
 =2	=2
-4d#	F#add(3,5,7,9,10)/E
-4B[	.
-8.B]	Eadd(3,5,7,10)/D
+4d#	F# other-3,5,7,9,10/E
+[4B	.
+8.B]	E other-3,5,7,10/D
 8r	.
+16BLL	.
 16B	.
-16B	.
-16b[	.
+[16bJJ	.
 =3	=3
-4b]	Fmaj13#11
+4b]	F major-13th
 4g	.
-4g	Eadd(3,5,7)
-8.e	.
-16d#[	.
+4g	E other-3,5,7
+8.eL	.
+[16d#Jk	.
 =4	=4
-4..d#]	B7/F#
-16d[	.
-4d]	Em7/G
+4..d#]	B dominant/F#
+[16d	.
+4d]	E minor-seventh/G
 16r	.
+16dLL	.
 16d	.
-16d	.
-16b[	.
+[16bJJ	.
 =5	=5
-4b]	A7
-4g	A7/G
-4g	Am7/G
-8.e	Am7/C
-16d#[	.
+4b]	A dominant
+4g	A dominant/G
+4g	A minor-seventh/G
+8.eL	A minor-seventh/C
+[16d#Jk	.
 =6	=6
-16d#]	Badd(4,7,8,10)
-8.B	.
-8.r	Badd(4,7,8,10)/A
+16d#LK]	B other-4,7,8,10
+8.BJ	.
+8.r	B other-4,7,8,10/A
 16B	.
-8B	Eadd(3,5,7,10)/G
-16B	.
+8BL	E other-3,5,7,10/G
+16Bk	.
 8A	.
-16A	.
-8G[	.
+16Ak	.
+[8GJ	.
 =7	=7
-4G]	Fmaj13#11
+4G]	F major-13th
 4r	.
-2r	Eadd(3,5,7)
+2r	E other-3,5,7
 =8	=8
 *M2/4	*
-2r	D#add(4,6,8,11)
+2r	D# other-4,6,8,11
 ==	==
 *-	*-

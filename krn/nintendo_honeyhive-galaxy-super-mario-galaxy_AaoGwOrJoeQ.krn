@@ -16,100 +16,100 @@
 *C:	*
 *M4/4	*
 =1	=1
-8.e	C
-8.cc[	C7/G
-8cc_	Aadd(1,3,7,10)
-8.cc_	C7/A#
-16cc]	C7/G
+8.eL	C major
+[8.cc	C dominant/G
+8ccJ_	A other-1,3,7,10
+8.ccL_	C dominant/A#
+16cck]	C dominant/G
 8a#	.
-8a	.
+8aJ	.
 =2	=2
-8.g	C
-8.e[	C7/G
-8e_	Aadd(1,3,7,10)
-8e_	C7/A#
-8.e_	C7/A#
-8.e]	C7
+8.gL	C major
+[8.e	C dominant/G
+8eJ_	A other-1,3,7,10
+8eL_	C dominant/A#
+8.e_	C dominant/A#
+8.eJ]	C dominant
 =3	=3
-8.e	C
-8.cc[	C7/G
-8cc_	Aadd(1,3,7,10)
-8.cc_	C7/A#
-16cc]	C7/G
+8.eL	C major
+[8.cc	C dominant/G
+8ccJ_	A other-1,3,7,10
+8.ccL_	C dominant/A#
+16cck]	C dominant/G
 8a#	.
-8a	.
+8aJ	.
 =4	=4
-8.g	C
-8.e[	C7/G
-8e_	Aadd(1,3,7,10)
-8e_	C7/A#
-8.e_	C7/A#
-8.e]	C7
+8.gL	C major
+[8.e	C dominant/G
+8eJ_	A other-1,3,7,10
+8eL_	C dominant/A#
+8.e_	C dominant/A#
+8.eJ]	C dominant
 =5	=5
-8.d#	F7
-8.cc[	F7/C
-8cc_	Dadd(1,3,7,10)
-8.cc_	F7/D#
-16cc]	F7/C
+8.d#L	F dominant
+[8.cc	F dominant/C
+8ccJ_	D other-1,3,7,10
+8.ccL_	F dominant/D#
+16cck]	F dominant/C
 8cc	.
-8dd	.
+8ddJ	.
 =6	=6
-8.dd#	F9
-8.cc[	F7/C
-8cc_	Dadd(1,3,7,10)
-8cc_	F7/D#
-8.cc_	F7/D#
-8.cc]	F7
+8.dd#L	F dominant-ninth
+[8.cc	F dominant/C
+8ccJ_	D other-1,3,7,10
+8ccL_	F dominant/D#
+8.cc_	F dominant/D#
+8.ccJ]	F dominant
 =7	=7
-8.e	C
-8.cc[	C7/G
-8cc_	Aadd(1,3,7,10)
-8.cc_	C7/A#
-16cc]	C7/G
+8.eL	C major
+[8.cc	C dominant/G
+8ccJ_	A other-1,3,7,10
+8.ccL_	C dominant/A#
+16cck]	C dominant/G
 8a#	.
-8a	.
+8aJ	.
 =8	=8
-8.g	C
-8.e[	C7/G
-8e_	Aadd(1,3,7,10)
-8e_	C7/A#
-8.e_	C7/A#
-8.e]	C7
+8.gL	C major
+[8.e	C dominant/G
+8eJ_	A other-1,3,7,10
+8eL_	C dominant/A#
+8.e_	C dominant/A#
+8.eJ]	C dominant
 =9	=9
-16f#	G
+16f#LK	G major
 8g	.
-16f#	.
+16f#k	.
 8g	.
-16f#	.
+16f#Jk	.
 8g	.
-16f#	.
+16f#LL	.
 16g	.
-16cc#	.
+16cc#J	.
 8dd	.
-8b	.
+8bJ	.
 =10	=10
-16e	F
+16eLK	F major
 8f	.
-16e	.
+16ek	.
 8f	.
-16e	.
+16eJk	.
 8f	.
-16b	.
+16bLK	.
 8cc	.
-8a	F7
-8f	.
+8a	F dominant
+8fJ	.
 =11	=11
-8.g[	C
-8.g_	C7/G
-8g_	Aadd(1,3,7,10)
-8.g_	C7/A#
-6...g]	C7/G
+[8.gL	C major
+8.g_	C dominant/G
+8gJ_	A other-1,3,7,10
+8.g_	C dominant/A#
+6...g]	C dominant/G
 =12	=12
-8.r	C
-8.r	C7/G
-8r	Aadd(1,3,7,10)
-8r	C7/A#
-8.r	C7/A#
-8.r	C7
+8.r	C major
+8.r	C dominant/G
+8r	A other-1,3,7,10
+8r	C dominant/A#
+8.r	C dominant/A#
+8.r	C dominant
 ==	==
 *-	*-

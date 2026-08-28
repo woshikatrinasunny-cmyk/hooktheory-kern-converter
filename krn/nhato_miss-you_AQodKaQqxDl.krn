@@ -15,41 +15,41 @@
 *b:	*
 *M4/4	*
 =1	=1
-4.r	G
+4.r	G major
 3...r	.
 =2	=2
 8r	.
-8r	G
+8r	G major
 8r	.
-4.r	Aadd(2,4,7)
+4.r	A other-2,4,7
 4r	.
 =3	=3
-8r	Bm
-8r	Bm
-8r	D/A
-4.r	Bm
+8r	B minor
+8r	B minor
+8r	D major/A
+4.r	B minor
 4r	.
 =4	=4
-8.f#	Bm/D
-8.ff#	Bm/D
-4ee	Bm/F#
-4ff#	Bm/F#
-8bb[	G
+8.f#L	B minor/D
+8.ff#J	B minor/D
+4ee	B minor/F#
+4ff#	B minor/F#
+[8bb	G major
 =5	=5
 2.bb_	.
 4bb_	.
 =6	=6
 4bb]	.
-16bb	D/A
-16ddd	.
+16bbLL	D major/A
+16dddJJ	.
 4.ccc#	.
-8ccc#	.
-8ddd	.
+8ccc#L	.
+8dddJ	.
 =7	=7
-2.bb[	Bsus4
-8bb_	Bsus4
-8bb_	Badd(2,5,7)
+[2.bb	B suspended-fourth
+8bbL_	B suspended-fourth
+8bbJ_	B other-2,5,7
 =8	=8
-1bb]	B
+1bb]	B major
 ==	==
 *-	*-

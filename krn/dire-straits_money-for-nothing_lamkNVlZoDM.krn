@@ -15,57 +15,57 @@
 *g:	*
 *M4/4	*
 =1	=1
-8r	Gm7
+8r	G minor-seventh
 8r	.
-4.dd	Gm7
-8cc	.
+4.dd	G minor-seventh
+8ccL	.
 8dd	.
-8ff[	.
+[8ffJ	.
 =2	=2
 4ff]	.
-8b-	.
-8g	.
-8cc	C
+8b-L	.
+8gJ	.
+8cc	C major
 4b-	.
-8g	Gm7
+8g	G minor-seventh
 =3	=3
 4r	.
-4.g	Gm7
-8b-	.
-8g	.
+4.g	G minor-seventh
+8b-L	.
+8gJ	.
 8r	.
 =4	=4
-4b-	B-
+4b-	B- major
 8cc	.
 8r	.
-4cc	C
-8b-	.
-8g	Gm7
+4cc	C major
+8b-L	.
+8gJ	G minor-seventh
 =5	=5
 4r	.
-4.dd	Gm7
-8cc	.
+4.dd	G minor-seventh
+8ccL	.
 8dd	.
-8dd[	.
+[8ddJ	.
 =6	=6
-8dd]	.
+8ddL]	.
 8b-	.
 8cc	.
-8dd	.
-8cc	.
-8b-	.
+8ddJ	.
+8ccL	.
+8b-J	.
 8r	.
 8g	.
 =7	=7
 4r	.
-4.g	Gm7
-8b-	.
+4.g	G minor-seventh
+8b-L	.
 8g	.
-8f	.
+8fJ	.
 =8	=8
-4f	F
+4f	F major
 8g	.
 8r	.
-2g	Gm7
+2g	G minor-seventh
 ==	==
 *-	*-

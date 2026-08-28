@@ -16,52 +16,52 @@
 *g:	*
 *M3/4	*
 =1	=1
-2d	G
+2d	G major
 4e	.
 =2	=2
-4f	F
+4f	F major
 4d	.
-8d	.
-8e[	.
+8dL	.
+[8eJ	.
 =3	=3
-8e]	C
-8c	.
+8eL]	C major
+8cJ	.
 4c	.
-8c	.
-8d[	.
+8cL	.
+[8dJ	.
 =4	=4
-8d]	G
+8d]	G major
 4Bn	.
 8G	.
-8g	.
-8g-	.
+8gL	.
+8g-J	.
 =5	=5
-4.Bn	G
+4.Bn	G major
 8G	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 =6	=6
-2B-	Gm
+2B-	G minor
 4G	.
 =7	=7
-4.B-	E-
+4.B-	E- major
 8c	.
 4B-	.
 =8	=8
-4A	Fadd(2,4,7)
+4A	F other-2,4,7
 8G	.
 4r	.
 8F	.
 =9	=9
-4.B-	E-
+4.B-	E- major
 8c	.
 4B-	.
 =10	=10
-4A	Fadd(2,4,7)
+4A	F other-2,4,7
 4G	.
 4F	.
 =11	=11
-2Bn	G
+2Bn	G major
 4r	.
 ==	==
 *-	*-

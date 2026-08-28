@@ -16,109 +16,109 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.g#	Amaj7
-4.e[	Amaj7
-8e]	Amaj7
-16d#	.
-16e	.
+4.g#	A major-seventh
+[4.e	A major-seventh
+8eL]	A major-seventh
+16d#L	.
+16eJJ	.
 =2	=2
-4.f#	B7/A
-4.dd#[	B7/A
-8dd#]	Badd(4,7,9,10)/A
-16ddn	.
-16cc#	.
+4.f#	B dominant/A
+[4.dd#	B dominant/A
+8dd#L]	B other-4,7,9,10/A
+16ddnL	.
+16cc#JJ	.
 =3	=3
-4.b	G#m7
-4.ff#	G#m7
-8dd#	G#m7
-8b	.
+4.b	G# minor-seventh
+4.ff#	G# minor-seventh
+8dd#L	G# minor-seventh
+8bJ	.
 =4	=4
-4.ee	C#m
-4cc#	C#sus4
+4.ee	C# minor
+4cc#	C# suspended-fourth
 8r	.
-8r	C#m
+8r	C# minor
 8dd#	.
 =5	=5
-4ee	F#m7
+4ee	F# minor-seventh
 8cc#	.
-4ee	D#m7b5/F#
-8cc#	.
-8ee	Dmaj7/F#
-8cc#	.
+4ee	D# half-diminished/F#
+8cc#L	.
+8ee	D major-seventh/F#
+8cc#J	.
 =6	=6
-4.ff#	B/F#
-8dd#	B/F#
+4.ff#	B major/F#
+8dd#	B major/F#
 8r	.
 8cc#	.
-8r	B7/F#
-16dd#	.
-16cc#	.
+8r	B dominant/F#
+16dd#LL	.
+16cc#JJ	.
 =7	=7
-4.b[	Emaj7
-4.b]	Baug/D#
-8g#	G#dim7/B
-8a	.
+[4.b	E major-seventh
+4.b]	B augmented/D#
+8g#L	G# diminished-seventh/B
+8aJ	.
 =8	=8
-4.ddn	G#dim7/D
-4cc#	G#dim7/D
-8g#[	.
-8g#]	G#dim7/D
-8a	.
+4.ddn	G# diminished-seventh/D
+4cc#	G# diminished-seventh/D
+[8g#L	.
+8g#]	G# diminished-seventh/D
+8aJ	.
 =9	=9
-4.b[	A
-8b]	A
+[4.b	A major
+8b]	A major
 4r	.
-8r	A
-16d#	.
-16e	.
+8r	A major
+16d#LL	.
+16eJJ	.
 =10	=10
-4f#	B7/A
+4f#	B dominant/A
 8r	.
-4.dd#[	B7/A
-8dd#]	B7/A
-16ddn	.
-16cc#	.
+[4.dd#	B dominant/A
+8dd#L]	B dominant/A
+16ddnL	.
+16cc#JJ	.
 =11	=11
-4b	G#m7
+4b	G# minor-seventh
 8r	.
-4.ff#	G#m7
-4aa	G#add(1,3,7,10)
+4.ff#	G# minor-seventh
+4aa	G# other-1,3,7,10
 =12	=12
-8gg#	C#7
+8gg#L	C# dominant
 8aa	.
 8bb	.
-8ffn	C#7
-8ff#	.
+8ffnJ	C# dominant
+8ff#L	.
 8gg#	.
-8ddn	C#7
-8cc#	.
+8ddn	C# dominant
+8cc#J	.
 =13	=13
-8ee	F#m7
+8ee	F# minor-seventh
 8r	.
-8cc#	.
-8ee	F#m7/E
+8cc#L	.
+8eeJ	F# minor-seventh/E
 8r	.
-8cc#	.
-8ee	F#m7/C#
-16ee	.
-16ff#	.
+8cc#L	.
+8ee	F# minor-seventh/C#
+16eeL	.
+16ff#JJ	.
 =14	=14
-4.gg#[	Am/C
-4gg#]	Am/C
-8aa[	.
-8aa]	Am/C
-8ff#	.
+[4.gg#	A minor/C
+4gg#]	A minor/C
+[8aaL	.
+8aa]	A minor/C
+8ff#J	.
 =15	=15
-4.ee[	Am/E
-4ee_	Am/E
-4ee]	F#m7b5/E
-16ee	.
-16ff#	.
+[4.ee	A minor/E
+4ee_	A minor/E
+4ee]	F# half-diminished/E
+16eeLL	.
+16ff#JJ	.
 =16	=16
-8ggn	Baug7
-8ggn	Baug7
-8ggn	Baug7
-8ggn	Baug7
+8ggnL	B augmented-seventh
+8ggn	B augmented-seventh
+8ggn	B augmented-seventh
+8ggnJ	B augmented-seventh
 2r	.
 ==	==
 *-	*-

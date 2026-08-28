@@ -16,44 +16,44 @@
 *D:	*
 *M4/4	*
 =1	=1
-4d	G
-4c#	Gadd(2,6,7)
-4d	G
-4c#	Gadd(2,6,7)
+4d	G major
+4c#	G other-2,6,7
+4d	G major
+4c#	G other-2,6,7
 =2	=2
-4d	Aadd(2,5,7)
-4c#	A
-4d	Aadd(2,5,7)
-4e	A
+4d	A other-2,5,7
+4c#	A major
+4d	A other-2,5,7
+4e	A major
 =3	=3
-4d	G
-4c#	Gadd(2,6,7)
-4d	G
-4c#	Gadd(2,6,7)
+4d	G major
+4c#	G other-2,6,7
+4d	G major
+4c#	G other-2,6,7
 =4	=4
-4d	Aadd(2,5,7)
-4c#	A
-4d	Aadd(2,5,7)
-4e	A
+4d	A other-2,5,7
+4c#	A major
+4d	A other-2,5,7
+4e	A major
 =5	=5
-4d	G
-4c#	Gadd(2,6,7)
-4d	G
-4c#	Gadd(2,6,7)
+4d	G major
+4c#	G other-2,6,7
+4d	G major
+4c#	G other-2,6,7
 =6	=6
-4d	Aadd(2,5,7)
-4c#	A
-4d	Aadd(2,5,7)
-4e	A
+4d	A other-2,5,7
+4c#	A major
+4d	A other-2,5,7
+4e	A major
 =7	=7
-4fn	A#
-4e	A#add(2,6,7)
-4fn	A#
-4e	A#add(2,6,7)
+4fn	A# major
+4e	A# other-2,6,7
+4fn	A# major
+4e	A# other-2,6,7
 =8	=8
-4fn	Cadd(2,5,7)
-4e	C
-4fn	Cadd(2,5,7)
-4g	C
+4fn	C other-2,5,7
+4e	C major
+4fn	C other-2,5,7
+4g	C major
 ==	==
 *-	*-

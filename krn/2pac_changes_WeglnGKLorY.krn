@@ -15,45 +15,45 @@
 *G:	*
 *M4/4	*
 =1	=1
-2ccc	Am7
-2bb	Em7
+2ccc	A minor-seventh
+2bb	E minor-seventh
 =2	=2
-8.aa	D
-8.gg	.
-4.gg	Cadd(2,4,7)
+8.aaL	D major
+8.ggJ	.
+4.gg	C other-2,4,7
 4dd	.
 =3	=3
-8.gg	Gadd(2,4,7)
+8.ggL	G other-2,4,7
 8.a	.
-8b	.
-16gg	D
+8bJ	.
+16ggLK	D major
 8ff#	.
 8.ee	.
-8dd	.
+8ddJ	.
 =4	=4
-2.cc	Cmaj7
+2.cc	C major-seventh
 8r	.
-16aa	.
-16bb	.
+16aaLL	.
+16bbJJ	.
 =5	=5
-2ccc	Am7
-2bb	Em7
+2ccc	A minor-seventh
+2bb	E minor-seventh
 =6	=6
-8.aa	D
-8.gg	.
-4.gg	Cadd(2,4,7)
-8cc	.
-8dd	.
+8.aaL	D major
+8.ggJ	.
+4.gg	C other-2,4,7
+8ccL	.
+8ddJ	.
 =7	=7
-8.gg	Gadd(2,4,7)
+8.ggL	G other-2,4,7
 8.a	.
-8b	.
-16gg	D
+8bJ	.
+16ggLK	D major
 8ff#	.
 8.ee	.
-8dd	.
+8ddJ	.
 =8	=8
-2.ee	Cmaj7
+2.ee	C major-seventh
 4r	.
 ==	==
 *-	*-

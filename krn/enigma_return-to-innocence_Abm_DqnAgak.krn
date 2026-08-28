@@ -16,60 +16,60 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8.dd	B-
-16cc	.
+8.ddL	B- major
+16cck	.
 8.b-	.
-16f	.
+16fJk	.
 4.ff	.
 8gg	.
 =2	=2
-4ff	F/A
-8.gg	.
-16dd	.
+4ff	F major/A
+8.ggL	.
+16ddJk	.
 4.cc	.
 8dd	.
 =3	=3
-8b-	E-/G
+8b-L	E- major/G
 8g	.
 8f	.
-8ff	.
-8dd	.
-16ee-	.
-16dd	.
+8ffJ	.
+8ddL	.
+16ee-L	.
+16ddJ	.
 8cc	.
-8b-	.
+8b-J	.
 =4	=4
-8dd	F/A
-8cc	.
+8ddL	F major/A
+8ccJ	.
 4.ff	.
 8.ff	.
 16r	.
 8dd	.
 =5	=5
-8ff	B-
+8ffL	B- major
 8cc	.
-8dd	.
+8ddJ	.
 4ff	.
-16dd	.
-16cc	.
+16ddLL	.
+16ccJJ	.
 4b-	.
 =6	=6
-8dd	F/A
+8ddL	F major/A
 8ff	.
 8.dd	.
-16cc	.
-8.b-	.
-16g	.
+16ccJk	.
+8.b-L	.
+16gJk	.
 4f	.
 =7	=7
-8r	E-/G
+8r	E- major/G
 4ff	.
 8.bb-	.
 16ddd	.
 4.bb-	.
 =8	=8
-16bb-	F/A
-16gg	.
+16bb-LL	F major/A
+16ggJJ	.
 2ff	.
 4.r	.
 ==	==

@@ -16,40 +16,40 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8ff#	B
+8ff#L	B major
 8dd#	.
 8ff#	.
-8dd#	.
-8ff#	D#m/A#
+8dd#J	.
+8ff#L	D# minor/A#
 8dd#	.
 8ff#	.
-8dd#	.
+8dd#J	.
 =2	=2
-8ff#	G#m7
+8ff#L	G# minor-seventh
 8dd#	.
 8ff#	.
-8dd#	.
-8ff#	D#m/F#
+8dd#J	.
+8ff#L	D# minor/F#
 8dd#	.
 8ff#	.
-8dd#	.
+8dd#J	.
 =3	=3
-8bb	B
+8bbL	B major
 8aa#	.
 8bb	.
-8dd#	.
-8aa#	D#m/A#
+8dd#J	.
+8aa#L	D# minor/A#
 8bb	.
 8aa#	.
-8dd#	.
+8dd#J	.
 =4	=4
-8gg#	G#m7
+8gg#L	G# minor-seventh
 8bb	.
 8gg#	.
-8dd#	.
-8ff#	D#m/F#
+8dd#J	.
+8ff#L	D# minor/F#
 8bb	.
 8ff#	.
-8dd#	.
+8dd#J	.
 ==	==
 *-	*-

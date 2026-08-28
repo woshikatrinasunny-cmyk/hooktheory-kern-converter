@@ -16,55 +16,55 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2..f#[	F#m9
-8f#_	E
+[2..f#	F# minor-ninth
+8f#_	E major
 =2	=2
-2..f#_	F#m9
-8f#]	E
+2..f#_	F# minor-ninth
+8f#]	E major
 =3	=3
-2..cc#[	F#m9
-8cc#]	E
+[2..cc#	F# minor-ninth
+8cc#]	E major
 =4	=4
-2b	F#m9
+2b	F# minor-ninth
 4.ee	.
-16dd#	E
-16dd	.
+16dd#LL	E major
+16ddJJ	.
 =5	=5
-2..cc#[	F#m9
-8cc#_	E
+[2..cc#	F# minor-ninth
+8cc#_	E major
 =6	=6
-2..cc#_	F#m9
-8cc#]	E
+2..cc#_	F# minor-ninth
+8cc#]	E major
 =7	=7
-2..a[	F#m9
-8a]	E
+[2..a	F# minor-ninth
+8a]	E major
 =8	=8
-2..b	F#m9
-16a	E
-16g#	.
+2..b	F# minor-ninth
+16aLL	E major
+16g#JJ	.
 =9	=9
-1f#[	F#m9
+[1f#	F# minor-ninth
 =10	=10
 2..f#]	.
-16a	.
-16g#	.
+16aLL	.
+16g#JJ	.
 =11	=11
-1f#	Bm9
+1f#	B minor-ninth
 =12	=12
-2..ee	E
-16a	.
-16g#	.
+2..ee	E major
+16aLL	.
+16g#JJ	.
 =13	=13
-1f#[	F#m9
+[1f#	F# minor-ninth
 =14	=14
 2..f#]	.
-16a	.
-16g#	.
+16aLL	.
+16g#JJ	.
 =15	=15
-1a	A
+1a	A major
 =16	=16
-2..b	B
-16a	.
-16g#	.
+2..b	B major
+16aLL	.
+16g#JJ	.
 ==	==
 *-	*-

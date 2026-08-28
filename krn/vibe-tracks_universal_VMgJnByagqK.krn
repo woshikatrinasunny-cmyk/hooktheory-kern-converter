@@ -16,60 +16,60 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.g	Csus2
-8.g	.
+8.gL	C suspended-second
+8.gJ	.
 8.cc	.
-8.b	.
-8.a	D
-16a[	.
+8.bL	.
+8.a	D major
+[16aJk	.
 =2	=2
-8a]	.
+8aL]	.
 8.a	.
-8.a	.
-8.a	.
+8.aJ	.
+8.aL	.
 8.dd	.
-8cc	.
+8ccJ	.
 =3	=3
-8.b	Em
+8.bL	E minor
+8.bJ	.
 8.b	.
-8.b	.
-8.b	.
-8.ff#	G/D
-16ff#[	.
+8.bL	.
+8.ff#	G major/D
+[16ff#Jk	.
 =4	=4
-8ff#]	.
+8ff#L]	.
 8.dd	.
-8.dd	.
+8.ddJ	.
+8.aL	.
 8.a	.
-8.a	.
-8b	.
+8bJ	.
 =5	=5
-8.g	C
-8.g	.
+8.gL	C major
+8.gJ	.
 8.cc	.
-8.b	.
-8.a	D
-16a[	.
+8.bL	.
+8.a	D major
+[16aJk	.
 =6	=6
-8a]	.
+8aL]	.
 8.a	.
-8.a	.
-8.a	.
+8.aJ	.
+8.aL	.
 8.dd	.
-8cc	.
+8ccJ	.
 =7	=7
-8.b	A/C#
+8.bL	A major/C#
+8.bJ	.
 8.b	.
-8.b	.
-8.b	.
-8.gg	C
-16gg[	.
+8.bL	.
+8.gg	C major
+[16ggJk	.
 =8	=8
-8gg]	.
+8ggL]	.
 8.ff#	.
-8.ff#	.
-8.dd	.
-16dd	.
+8.ff#J	.
+8.ddL	.
+16ddJk	.
 4r	.
 ==	==
 *-	*-

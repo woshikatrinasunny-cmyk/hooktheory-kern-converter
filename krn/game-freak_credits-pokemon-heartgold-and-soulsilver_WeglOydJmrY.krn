@@ -16,76 +16,76 @@
 *D:	*
 *M4/4	*
 =1	=1
-4r	D
+4r	D major
 4f#	.
 4g	.
 4g#	.
 =2	=2
-4a	F#m
+4a	F# minor
 4cc#	.
 4aa	.
 4gg	.
 =3	=3
-4gg	G
+4gg	G major
 4ff#	.
 4ff#	.
 4ee	.
 =4	=4
-4ee	Gm
+4ee	G minor
 4dd	.
-4cc#	A
+4cc#	A major
 4ee	.
 =5	=5
-4r	D
+4r	D major
 4f#	.
 4g	.
 4g#	.
 =6	=6
-4a	F#m
+4a	F# minor
 4cc#	.
 4aa	.
 4gg	.
 =7	=7
-4gg	G
+4gg	G major
 4ff#	.
 4ee	.
 4gg	.
 =8	=8
-4aa	A
+4aa	A major
 4bb	.
 4ccc#	.
 4eee	.
 =9	=9
-4.d	D
+4.d	D major
 8f#	.
-2a[	.
+[2a	.
 =10	=10
 8a]	.
-4.e	D
+4.e	D major
 8g	.
-4.ccn[	.
+[4.ccn	.
 =11	=11
-8ccn]	.
-16b	.
-16a#	.
-2.a[	D
+8ccnL]	.
+16bL	.
+16a#JJ	.
+[2.a	D major
 =12	=12
 4a]	.
 8r	.
-4ccn	C
+4ccn	C major
 8r	.
-4ccn	C
+4ccn	C major
 =13	=13
-8ccn	C
-8ccn	C
-8ccn	C
-8ccn	C
-8cc#	C#dim
-8dd	D
+8ccnL	C major
+8ccn	C major
+8ccn	C major
+8ccnJ	C major
+8cc#L	C# diminished
+8ddJ	D major
 4r	.
 =14	=14
 4r	.
-2.D[	.
+[2.D	.
 =15	=15
 1D_	.
 =16	=16

@@ -20,66 +20,66 @@
 4c#	.
 4e	.
 =2	=2
-4f#	F#add(3,5,7,10)
-8f#	.
-8a	.
-4cc#	Dmaj9
-8b	.
-8cc#	.
+4f#	F# other-3,5,7,10
+8f#L	.
+8aJ	.
+4cc#	D major-ninth
+8bL	.
+8cc#J	.
 =3	=3
-8b	Bm11
+8bL	B minor-11th
 8cc#	.
 8b	.
-8a	.
-4f#	Aadd(2,4,7)
-8e	.
-8c#	.
+8aJ	.
+4f#	A other-2,4,7
+8eL	.
+8c#J	.
 =4	=4
-4B	Bm11
-8B	.
+4B	B minor-11th
+8BL	.
+8c#J	.
+8eL	C# minor-seventh
+16f#L	.
+16eJ	.
 8c#	.
-8e	C#m7
-16f#	.
-16e	.
-8c#	.
-8e	.
+8eJ	.
 =5	=5
-4f#	Dmaj7
-8fn	.
-8f#	.
-4g#	C#7
-8c#	.
-8e	.
+4f#	D major-seventh
+8fnL	.
+8f#J	.
+4g#	C# dominant
+8c#L	.
+8eJ	.
 =6	=6
-4f#	F#add(3,5,7,10)
-8f#	.
-8a	.
-4cc#	Dmaj9
-8b	.
-8cc#	.
+4f#	F# other-3,5,7,10
+8f#L	.
+8aJ	.
+4cc#	D major-ninth
+8bL	.
+8cc#J	.
 =7	=7
-8b	Eadd(4,5,7,10)
+8bL	E other-4,5,7,10
 8cc#	.
-8ee	C#add(1,3,7,10)
-8ff#	Eadd(4,5,7,10)/B
-4cc#	Aadd(2,4,7,9)
-8b	.
-8a	.
+8ee	C# other-1,3,7,10
+8ff#J	E other-4,5,7,10/B
+4cc#	A other-2,4,7,9
+8bL	.
+8aJ	.
 =8	=8
-4f#	Bm11
-8f#	.
-8g#	.
-4e	C#m7
-8c#	.
-8e	.
+4f#	B minor-11th
+8f#L	.
+8g#J	.
+4e	C# minor-seventh
+8c#L	.
+8eJ	.
 =9	=9
-1f#	Dmaj9
+1f#	D major-ninth
 =10	=10
-2.f#	E
-8c#	.
-8e	.
+2.f#	E major
+8c#L	.
+8eJ	.
 =11	=11
-8f#	F#m
+8f#	F# minor
 2..r	.
 ==	==
 *-	*-

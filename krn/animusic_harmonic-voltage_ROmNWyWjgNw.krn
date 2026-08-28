@@ -16,77 +16,77 @@
 *C:	*
 *M4/4	*
 =1	=1
-2.ee	C
-8dd	.
-8ff[	.
+2.ee	C major
+8ddL	.
+[8ffJ	.
 =2	=2
-2.ff]	Fm/C
-8ee	.
-8gg[	.
+2.ff]	F minor/C
+8eeL	.
+[8ggJ	.
 =3	=3
-2.gg]	C
-8ff	.
-8gg#[	.
+2.gg]	C major
+8ffL	.
+[8gg#J	.
 =4	=4
-4gg#]	Fm/C
+4gg#]	F minor/C
 4gg	.
 4aa#	.
-8gg#	.
-8gg[	.
+8gg#L	.
+[8ggJ	.
 =5	=5
-2.gg]	C
-8gg#	.
-8ff[	.
+2.gg]	C major
+8gg#L	.
+[8ffJ	.
 =6	=6
-2.ff]	Fm/C
-8gg	.
-8ee[	.
+2.ff]	F minor/C
+8ggL	.
+[8eeJ	.
 =7	=7
-2..ee]	C
-8ee[	.
+2..ee]	C major
+[8ee	.
 =8	=8
-8ee]	F
+8eeL]	F major
 8dd	.
-16cc	.
-16dd	.
+16ccL	.
+16ddJJ	.
 4.cc	.
 4r	.
 =9	=9
-2.ee	C
-8dd	.
-8ff[	.
+2.ee	C major
+8ddL	.
+[8ffJ	.
 =10	=10
-2.ff]	Fm/C
-8ee	.
-8gg[	.
+2.ff]	F minor/C
+8eeL	.
+[8ggJ	.
 =11	=11
-2.gg]	C
-8ff	.
-8gg#[	.
+2.gg]	C major
+8ffL	.
+[8gg#J	.
 =12	=12
-4gg#]	Fm/C
+4gg#]	F minor/C
 4gg	.
-8.ccc	.
+8.cccL	.
 8.aa#	.
-8gg#	.
+8gg#J	.
 =13	=13
-2.gg	C
-8gg#	.
-8ff[	.
+2.gg	C major
+8gg#L	.
+[8ffJ	.
 =14	=14
-2.ff]	Fm/C
-8gg	.
-8ee[	.
+2.ff]	F minor/C
+8ggL	.
+[8eeJ	.
 =15	=15
-3...ee]	C
+3...ee]	C major
+8eeL	.
 8ee	.
-8ee	.
-8ee[	.
+[8eeJ	.
 =16	=16
-8ee]	F
+8eeL]	F major
 8dd	.
-16cc	.
-16dd	.
+16ccL	.
+16ddJJ	.
 4.cc	.
 4r	.
 ==	==

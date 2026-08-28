@@ -16,51 +16,51 @@
 *B:	*
 *M4/4	*
 =1	=1
-8d#	B/F#
+8d#	B major/F#
 4f#	.
 8b	.
-8dd#	Baug/G
+8dd#	B augmented/G
 4b	.
 8f#	.
 =2	=2
-8d#	G#m
+8d#	G# minor
 4f#	.
 8b	.
-8dd#	B7/A
+8dd#L	B dominant/A
 8b	.
 8b	.
-8cc#	.
+8cc#J	.
 =3	=3
-8dd#	E
+8dd#	E major
 4cc#	.
 8g#	.
-8dd#	Emaj7
+8dd#	E major-seventh
 4cc#	.
 8g#	.
 =4	=4
-8dd#	C#m7b5
+8dd#	C# half-diminished
 4cc#	.
 8g#	.
-8dd#	F#7
+8dd#L	F# dominant
 8cc#	.
 8cc#	.
-8dd#	.
+8dd#J	.
 =5	=5
-8ff#	C#m7
-16ff#	.
+8ff#L	C# minor-seventh
+16ff#k	.
 8.ff#	.
-8ff#	.
-8ff#	F#
-8ee	.
+8ff#J	.
+8ff#L	F# major
+8eeJ	.
 4dd#	.
 =6	=6
-8cc#	D#m7
-16cc#	.
+8cc#L	D# minor-seventh
+16cc#k	.
 8.cc#	.
-8dd#	.
-8cc#	F#
+8dd#J	.
+8cc#L	F# major
 8f#	.
 8f#	.
-8f#	.
+8f#J	.
 ==	==
 *-	*-

@@ -16,25 +16,25 @@
 *B:	*
 *M4/4	*
 =1	=1
-1r	F#
+1r	F# major
 =2	=2
 2r	.
 4B	.
-4dn[	.
+[4dn	.
 =3	=3
-2dn]	G
+2dn]	G major
 4dn	.
-8c#	.
-8B[	D
+8c#L	.
+[8BJ	D major
 =4	=4
 8B]	.
 4.r	.
 4B	.
-4e[	.
+[4e	.
 =5	=5
-2.e]	E
-8dn	.
-8c#	B
+2.e]	E major
+8dnL	.
+8c#J	B major
 =6	=6
 2B	.
 2r	.
@@ -43,31 +43,31 @@
 =8	=8
 4r	.
 4c#	.
-8c#	.
-8B	.
+8c#L	.
+8BJ	.
 4c#	.
 =9	=9
-1r	F#
+1r	F# major
 =10	=10
 2r	.
 4B	.
-4dn[	.
+[4dn	.
 =11	=11
-4dn]	G
+4dn]	G major
 2dn	.
-8c#	.
-8B[	D
+8c#L	.
+[8BJ	D major
 =12	=12
 8B]	.
 4.r	.
-8B	.
-8B	.
-4e[	.
+8BL	.
+8BJ	.
+[4e	.
 =13	=13
-4e]	E
+4e]	E major
 2e	.
-8d#[	.
-8d#]	B
+[8d#L	.
+8d#J]	B major
 =14	=14
 1r	.
 =15	=15

@@ -16,59 +16,59 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4r	F#
-8cc#	.
-8cc#	.
-8cc#	.
+4r	F# major
+8cc#L	.
+8cc#J	.
+8cc#L	.
 8.cc#	.
 8cc#	.
-16cc#	.
+16cc#Jk	.
 =2	=2
-4.dd#	C#/E#
+4.dd#	C# major/E#
 16cc#	.
 6...cc#	.
 4r	.
 =3	=3
-4r	E
-16ff#	.
-8dd#	.
+4r	E major
+16ff#LK	.
+8dd#J	.
 8.dd#	.
-16cc#	.
+16cc#LK	.
 8cc#	.
-8.dd#[	.
+[8.dd#J	.
 =4	=4
-8dd#]	G#m7/D#
+8dd#L]	G# minor-seventh/D#
 8b	.
 8b	.
-16cc#	.
+16cc#Jk	.
 8.b	.
 4r	.
 8cc#	.
 =5	=5
-16ddn	Bm7/D
+16ddnLK	B minor-seventh/D
 8f#	.
 8.f#	.
-16f#	.
+16f#Jk	.
 8g#	.
 6...f#	.
 8cc#	.
 =6	=6
-4cc#	F#/C#
+4cc#	F# major/C#
 8dd#	.
 4.f#	.
 16r	.
-8een	.
-16dd#[	.
+8eenL	.
+[16dd#Jk	.
 =7	=7
-16dd#]	G#dim/D
-8.dd#	.
-2cc#[	.
-16cc#]	.
+16dd#LK]	G# diminished/D
+8.dd#J	.
+[2cc#	.
+16cc#LK]	.
 8een	.
-16dd#[	.
+[16dd#Jk	.
 =8	=8
-16dd#]	C#
-8.dd#	.
+16dd#LK]	C# major
+8.dd#J	.
 4..cc#	.
 6...r	.
 ==	==

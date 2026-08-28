@@ -17,75 +17,75 @@
 *M4/4	*
 =1	=1
 2.r	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 =2	=2
-3...b	Aadd(2,5,7,10)
+3...b	A other-2,5,7,10
 8r	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 =3	=3
-6...dd	Em7
+6...dd	E minor-seventh
 16r	.
-64b	.
-32.cc	.
+64bLLLK	.
+32.ccJJJ	.
 6...b	.
 16r	.
-16a	.
+16aLL	.
 16b	.
-16a	.
+16aJJ	.
 =4	=4
-4cc	Dm9
+4cc	D minor-ninth
 8r	.
 16e	.
 8.f	.
-8a	.
+8aL	.
 8dd	.
 12cc	.
-48dd	.
-48cc	.
+48ddLL	.
+48ccJJJ	.
 =5	=5
-4b	Bm7b5
+4b	B half-diminished
 8r	.
-64g#	.
-32.a	.
-16g#[	.
-4g#]	Eadd(3,4,7,10)
+64g#LLLK	.
+32.aJ	.
+[16g#JJ	.
+4g#]	E other-3,4,7,10
 8r	.
 8e	.
 =6	=6
-3...b	Aadd(2,5,7,10)
+3...b	A other-2,5,7,10
 8r	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 =7	=7
-6...dd	Em7
+6...dd	E minor-seventh
 16r	.
 16ee	.
 6...b	.
 16r	.
-16a	.
+16aLL	.
 16b	.
-16cc	.
+16ccJJ	.
 =8	=8
-4gg	Fadd(4,6,7,11)
+4gg	F other-4,6,7,11
 8r	.
-16ff	.
-16ff[	.
-8ff]	Dm7
+16ffLL	.
+[16ffJJ	.
+8ffL]	D minor-seventh
 8ee	.
 8dd	.
-8cc	.
+8ccJ	.
 =9	=9
-4b	Bm7b5
+4b	B half-diminished
 16r	.
-16b	.
+16bLL	.
 16cc	.
-16dd	.
-4ee	Eadd(3,4,7,10)
+16ddJJ	.
+4ee	E other-3,4,7,10
 16r	.
-16a	.
+16aLL	.
 16b	.
-16cc	.
+16ccJJ	.
 ==	==
 *-	*-

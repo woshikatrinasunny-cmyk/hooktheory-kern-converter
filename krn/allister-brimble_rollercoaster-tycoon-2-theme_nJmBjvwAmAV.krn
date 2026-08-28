@@ -16,59 +16,59 @@
 *c#:	*
 *M3/4	*
 =1	=1
-2e	C#m
+2e	C# minor
 4c#	.
 =2	=2
 4e	.
 4f#	.
 4g#	.
 =3	=3
-2f#	Cdim7
+2f#	C diminished-seventh
 4r	.
 =4	=4
-4f#	G#7/C
+4f#	G# dominant/C
 4e	.
 4d#	.
 =5	=5
-2e	Em7b5/A#
-4r	Gdim7/A#
+2e	E half-diminished/A#
+4r	G diminished-seventh/A#
 =6	=6
-4e	Gdim7
+4e	G diminished-seventh
 8r	.
 8d#	.
 4c#	.
 =7	=7
-2cn	G#add(1,4,7,10)
-4c#	G#add(1,3,5,7,10)
+2cn	G# other-1,4,7,10
+4c#	G# other-1,3,5,7,10
 =8	=8
 4.d#	.
 8c#	.
-4cn	G#7
+4cn	G# dominant
 =9	=9
-3...f#	F#m/A
+3...f#	F# minor/A
 8r	.
 =10	=10
-4f#	D#m7b5/F#
+4f#	D# half-diminished/F#
 4g#	.
 4a	.
 =11	=11
-2g#	C#m/G#
+2g#	C# minor/G#
 4c#	.
 =12	=12
-4cc#	C#m
-4dd#	C#m7/B
-4ee	F#m7/A
+4cc#	C# minor
+4dd#	C# minor-seventh/B
+4ee	F# minor-seventh/A
 =13	=13
-3...dd#[	G#add(1,4,7,10)
+[3...dd#	G# other-1,4,7,10
 16dd#]	.
 16r	.
 =14	=14
-4dd#	G#7
-4cc#	G#add(2,4,5,7,8,11)
-4ccn	G#add(1,4,7,10)
+4dd#	G# dominant
+4cc#	G# other-2,4,5,7,8,11
+4ccn	G# other-1,4,7,10
 =15	=15
-2.dd#	G#add(1,7,10)
+2.dd#	G# other-1,7,10
 =16	=16
-2.g#	G#
+2.g#	G# major
 ==	==
 *-	*-

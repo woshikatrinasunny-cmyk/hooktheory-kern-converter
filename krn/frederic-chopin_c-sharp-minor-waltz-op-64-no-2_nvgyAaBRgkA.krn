@@ -19,126 +19,126 @@
 2r	.
 4f	.
 =2	=2
-2.ff	D-
+2.ff	D- major
 =3	=3
 2ff	.
 4ee-	.
 =4	=4
-2ee-	B-m/D-
+2ee-	B- minor/D-
 4dd-	.
 =5	=5
 4cc	.
-4b-	B-m/D-
-4f	B-/D
+4b-	B- minor/D-
+4f	B- major/D
 =6	=6
-4g-	E-m
+4g-	E- minor
 2r	.
 =7	=7
 2gg-	.
-4ff	B/E-
+4ff	B major/E-
 =8	=8
-4ff	Cdim/E-
+4ff	C diminished/E-
 4.ee-	.
 8dd-	.
 =9	=9
-8cc	Cdim/E-
-8dd-	.
-8ff	.
-8ee-	.
-8cc	C7/E
-8b-	.
+8ccL	C diminished/E-
+8dd-J	.
+8ffL	.
+8ee-J	.
+8ccL	C dominant/E
+8b-J	.
 =10	=10
-4a-	Fm
+4a-	F minor
 4r	.
-4aa-[	.
+[4aa-	.
 =11	=11
-4aa-]	B-7/F
+4aa-]	B- dominant/F
 4gg-	.
 4ff	.
 =12	=12
-4ff	E-m/G-
+4ff	E- minor/G-
 4ee-	.
 4ddd-	.
 =13	=13
 2ddd-	.
 4ddd-	.
 =14	=14
-4ddd-	Gdim
+4ddd-	G diminished
 4.ccc	.
 8bb-	.
 =15	=15
-4ccc	D-/A-
+4ccc	D- major/A-
 4bb-	.
 4aan	.
 =16	=16
-4aa-	A-7
+4aa-	A- dominant
 4ggn	.
 4gg-	.
 =17	=17
-8ff	D-
-8cc	.
-8dd-	.
-8cc	.
-8dd-	D-dim
-8b-	.
+8ffL	D- major
+8ccJ	.
+8dd-L	.
+8ccJ	.
+8dd-L	D- diminished
+8b-J	.
 =18	=18
-4a-	D-
+4a-	D- major
 4r	.
-4ff[	.
+[4ff	.
 =19	=19
-2ff]	D-
-4ee-[	.
+2ff]	D- major
+[4ee-	.
 =20	=20
-4ee-]	B-m/D-
+4ee-]	B- minor/D-
 4dd-	.
 4an	.
 =21	=21
-16cc	.
+16ccLK	.
 8b-	.
-16en	.
-8f	B-m/D-
-16g-	.
-16f[	.
-16f]	B-/D
-16b-	.
-8an	.
+16enJk	.
+8fL	B- minor/D-
+16g-L	.
+[16fJJ	.
+16fLL]	B- major/D
+16b-J	.
+8anJ	.
 =22	=22
-16a-	E-m
+16a-LK	E- minor
 8gn	.
-16g-	.
+16g-Jk	.
 8gg-	.
 4.r	.
 =23	=23
-2r	B/E-
-4ff[	.
+2r	B major/E-
+[4ff	.
 =24	=24
-4ff]	Cdim/E-
+4ff]	C diminished/E-
 4ee-	.
 4dd-	.
 =25	=25
-4dd-	Cdim/E-
-8cc	Cdim/E-
-8ee-	.
-8b-	C7/E
-8cc	.
+4dd-	C diminished/E-
+8ccL	C diminished/E-
+8ee-J	.
+8b-L	C dominant/E
+8ccJ	.
 =26	=26
-4a-	Fm
+4a-	F minor
 4r	.
-4aa-[	.
+[4aa-	.
 =27	=27
-4aa-]	B-7/F
+4aa-]	B- dominant/F
 4.gg-	.
 8ff	.
 =28	=28
-4ff	E-m/G-
+4ff	E- minor/G-
 4ee-	.
 4ddd-	.
 =29	=29
-2ddd-	Gdim
-4ddd-	Gdim/B-
+2ddd-	G diminished
+4ddd-	G diminished/B-
 =30	=30
 4ddd-	.
-4ccc	Gdim/D-
+4ccc	G diminished/D-
 4bb-	.
 =31	=31
 4aa-	.
@@ -149,11 +149,11 @@
 4ee-	.
 4dd-	.
 =33	=33
-8cc	.
-8dd-	.
-8ee-	.
-8dd-	.
-8een	.
-8gn	.
+8ccL	.
+8dd-J	.
+8ee-L	.
+8dd-J	.
+8eenL	.
+8gnJ	.
 ==	==
 *-	*-

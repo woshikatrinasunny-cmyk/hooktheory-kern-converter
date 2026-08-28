@@ -16,71 +16,71 @@
 *f:	*
 *M4/4	*
 =1	=1
-16f	Fm
+16fLK	F minor
 8.f	.
 8cc	.
-8cc	.
+8ccJ	.
 4cc	.
-8cc	.
-8cc	.
+8ccL	.
+8ccJ	.
 =2	=2
-8cc	D-maj7/F
+8ccL	D- major-seventh/F
 8cc	.
 8dd-	.
-16cc	.
-16b-[	.
-4b-_	C7sus4
-4b-]	E-add(2,4,7)
+16ccL	.
+[16b-JJ	.
+4b-_	C dominant-seventh-suspended-fourth
+4b-]	E- other-2,4,7
 =3	=3
-16f	Fm
+16fLL	F minor
 16f	.
 16cc	.
 16b-	.
-16cc	.
+16ccJ	.
 8b-	.
-16cc	.
-16b-	.
+16ccJk	.
+16b-LK	.
 8.cc	.
-16f	.
+16fL	.
 16cc	.
 16cc	.
-16cc	.
+16ccJJ	.
 =4	=4
-4cc	D-maj7/F
-8ee-	.
-8dd-	.
-8cc	Fm/C
+4cc	D- major-seventh/F
+8ee-L	.
+8dd-J	.
+8ccL	F minor/C
 8b-	.
-8cc	Fm7/C
+8ccJ	F minor-seventh/C
 8r	.
 =5	=5
-16cc	Fm
+16ccLK	F minor
 8cc	.
 8cc	.
+16ccL	.
 16cc	.
+16ccJJ	.
+16ccLL	.
 16cc	.
-16cc	.
-16cc	.
-16cc	.
-16cc	.
+16ccJ	.
 8.cc	.
-16cc	.
-16cc	.
+16ccL	.
+16ccJJ	.
 =6	=6
-4cc	D-maj7/F
-8dd-	.
-8cc	.
-4b-	C7sus4
-4g	E-add(2,4,7)
+4cc	D- major-seventh/F
+8dd-L	.
+8ccJ	.
+4b-	C dominant-seventh-suspended-fourth
+4g	E- other-2,4,7
 =7	=7
-4.a-	E
+4.a-	E major
 8a-	.
-8b-	G-
+8b-L	G- major
 8b-	.
 8g-	.
-8g-	.
+8g-J	.
 =8	=8
-2a-	A-
+2a-	A- major
 2r	.
 ==	==
 *-	*-

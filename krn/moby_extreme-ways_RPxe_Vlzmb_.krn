@@ -16,50 +16,50 @@
 *b:	*
 *M4/4	*
 =1	=1
-4dd	Bm
-8b	.
-8a	.
+4dd	B minor
+8bL	.
+8aJ	.
 2r	.
 =2	=2
-4dd	Bm
-8b	.
-8a	.
-4r	Badd(2,3,7)
-8cc#	.
-8dd	.
+4dd	B minor
+8bL	.
+8aJ	.
+4r	B other-2,3,7
+8cc#L	.
+8ddJ	.
 =3	=3
-8cc#	A
-16a	.
+8cc#L	A major
+16aJk	.
 6...a	.
 2r	.
 =4	=4
-8cc#	A
-16a	.
+8cc#L	A major
+16aJk	.
 6...a	.
-2r	A7
+2r	A dominant
 =5	=5
-4dd	Em7
-8b	.
-8a	.
+4dd	E minor-seventh
+8bL	.
+8aJ	.
 2r	.
 =6	=6
-4dd	Em7
-8b	.
-8a	.
+4dd	E minor-seventh
+8bL	.
+8aJ	.
 4r	.
-8cc#	.
-8dd	.
+8cc#L	.
+8ddJ	.
 =7	=7
-8cc#	Bm7
-16f#	.
+8cc#L	B minor-seventh
+16f#k	.
 8.a	.
-8b[	.
-8b]	Bm
+[8bJ	.
+8b]	B minor
 4r	.
 8b	.
 =8	=8
-8dd	Bm
-16a	.
+8ddL	B minor
+16aJk	.
 6...b	.
 2r	.
 ==	==

@@ -16,58 +16,58 @@
 *C:	*
 *M6/4	*
 =1	=1
-8c	Fm
-8c#	.
-8d#	.
-8f	.
-8f#	.
-8g#	.
-8a#	F#
-8g#	.
-8f#	.
-8f	.
-8d#	.
-8c#	.
+8cL	F minor
+8c#J	.
+8d#L	.
+8fJ	.
+8f#L	.
+8g#J	.
+8a#L	F# major
+8g#J	.
+8f#L	.
+8fJ	.
+8d#L	.
+8c#J	.
 =2	=2
-8c	Fm
-8c#	.
-8d#	.
-8f	.
-8f#	.
-8g#	.
-8a#	F#
-8g#	.
-8f#	.
-8f	.
-8d#	.
-8c#	.
+8cL	F minor
+8c#J	.
+8d#L	.
+8fJ	.
+8f#L	.
+8g#J	.
+8a#L	F# major
+8g#J	.
+8f#L	.
+8fJ	.
+8d#L	.
+8c#J	.
 =3	=3
-8c	Fm
-8c#	.
-8d#	.
-8f	.
-8f#	.
-8g#	.
-8a#	F#
-8g#	.
-8f#	.
-8f	.
-8d#	.
-8c#	.
+8cL	F minor
+8c#J	.
+8d#L	.
+8fJ	.
+8f#L	.
+8g#J	.
+8a#L	F# major
+8g#J	.
+8f#L	.
+8fJ	.
+8d#L	.
+8c#J	.
 =4	=4
-8cc	Fm
-8cc#	.
-8dd#	.
-8ff	.
-8ff#	.
-8gg#	.
-8aa#	F#
-8ccc#	.
+8ccL	F minor
+8cc#J	.
+8dd#L	.
+8ffJ	.
+8ff#L	.
+8gg#J	.
+8aa#L	F# major
+8ccc#J	.
 8ddd	.
 8.ggg#	.
 8.fff#	.
 =5	=5
-4.r	G7
+4.r	G dominant
 4.gg	.
 4.ff	.
 4.b	.
@@ -79,7 +79,7 @@
 8.f	.
 8.a	.
 =7	=7
-8.b	G7
+8.b	G dominant
 8.e	.
 8.a	.
 8.b	.
@@ -96,7 +96,7 @@
 8.d#	.
 8.r	.
 =9	=9
-4.r	G7
+4.r	G dominant
 4.gg	.
 4.ff	.
 4.b	.
@@ -106,9 +106,9 @@
 4.bb	.
 4.ff	.
 =11	=11
-2eee[	G7
-16eee]	.
-8.ddd	.
+[2eee	G dominant
+16eeeLK]	.
+8.dddJ	.
 4ccc	.
 4bb	.
 4aa	.
@@ -121,7 +121,7 @@
 8.bbb	.
 8.aaa	.
 =13	=13
-4.ggg#	G#sus4
+4.ggg#	G# suspended-fourth
 4.dd#	.
 4.cc#	.
 4.g#	.
@@ -131,65 +131,65 @@
 4.cc#	.
 4.g#	.
 =15	=15
-8gg#	Ddim
-8gg#	.
-8gg#	.
-8gg#	Ddim/F
-8gg#	.
-8gg#	.
-8.gg#	Ddim/G#
+8gg#L	D diminished
+8gg#J	.
+8gg#L	.
+8gg#J	D diminished/F
+8gg#L	.
+8gg#J	.
+8.gg#	D diminished/G#
 8.ggg	.
 8.fff	.
 8.ccc	.
 =16	=16
-8.gg#	C#/G#
+8.gg#	C# major/G#
 8.gg	.
 8.ff	.
 8.cc	.
-8.g#	Gm7b5
+8.g#	G half-diminished
 8.g	.
 8.f	.
 8.c	.
 =17	=17
-8gg#	C#m7b5/G
-8gg#	.
-8gg#	.
-8gg#	C#m7b5/G
-8gg#	.
-8gg#	.
+8gg#L	C# half-diminished/G
+8gg#J	.
+8gg#L	.
+8gg#J	C# half-diminished/G
+8gg#L	.
+8gg#J	.
 2.bb	.
 =18	=18
 2.cc	.
 2.aa#	.
 =19	=19
-8gg#	C#m7b5/G
-8gg#	.
-8gg#	.
-8gg#	C#m7b5/G
-8gg#	.
-8gg#	.
+8gg#L	C# half-diminished/G
+8gg#J	.
+8gg#L	.
+8gg#J	C# half-diminished/G
+8gg#L	.
+8gg#J	.
 2.aa	.
 =20	=20
 2.a#	.
 2.gg#	.
 =21	=21
-8gg#	C#m7b5/G
-8gg#	.
-8gg#	.
-8gg#	C#m7b5/G
-8gg#	.
-8gg#	.
+8gg#L	C# half-diminished/G
+8gg#J	.
+8gg#L	.
+8gg#J	C# half-diminished/G
+8gg#L	.
+8gg#J	.
 2.bb	.
 =22	=22
 2.cc	.
 2.aa#	.
 =23	=23
-8gg#	C#m7b5/G
-8gg#	.
-8gg#	.
-8gg#	C#m7b5/G
-8gg#	.
-8gg#	.
+8gg#L	C# half-diminished/G
+8gg#J	.
+8gg#L	.
+8gg#J	C# half-diminished/G
+8gg#L	.
+8gg#J	.
 2.aa	.
 =24	=24
 2.a#	.

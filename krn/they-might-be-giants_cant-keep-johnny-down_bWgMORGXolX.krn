@@ -16,73 +16,73 @@
 *G:	*
 *M4/4	*
 =1	=1
-2dd[	G
-4.dd]	D
-8cc[	.
+[2dd	G major
+4.dd]	D major
+[8cc	.
 =2	=2
-8cc]	C
+8cc]	C major
 4cc	.
 8cc	.
-8ee	.
-8ee	.
+8eeL	.
+8eeJ	.
 4dd	.
 =3	=3
-2b	G
-4.r	D
-8a[	.
+2b	G major
+4.r	D major
+[8a	.
 =4	=4
-8a]	C
+8a]	C major
 4a	.
 8a	.
 4cc	.
 4b	.
 =5	=5
-2g	G
-2a	D
+2g	G major
+2a	D major
 =6	=6
-2e	C
+2e	C major
 4g	.
 4a	.
 =7	=7
-2b	G
-2dd	D
+2b	G major
+2dd	D major
 =8	=8
-2.g	C
+2.g	C major
 4r	.
 =9	=9
-2dd[	G
-4.dd]	D
-8cc[	.
+[2dd	G major
+4.dd]	D major
+[8cc	.
 =10	=10
-8cc]	C
+8ccL]	C major
 8cc	.
 8cc	.
-8cc	.
-8cc	.
-8cc	.
+8ccJ	.
+8ccL	.
+8ccJ	.
 4dd	.
 =11	=11
-2b	G
-2r	D
+2b	G major
+2r	D major
 =12	=12
-8a	C
-8a	.
+8aL	C major
+8aJ	.
 4a	.
 4cc	.
 4b	.
 =13	=13
-2g	G
-2a	D
+2g	G major
+2a	D major
 =14	=14
-2e	C
+2e	C major
 4g	.
 4a	.
 =15	=15
-2b	G
-4.g	D
-8g[	.
+2b	G major
+4.g	D major
+[8g	.
 =16	=16
-2.g]	C
+2.g]	C major
 4r	.
 ==	==
 *-	*-

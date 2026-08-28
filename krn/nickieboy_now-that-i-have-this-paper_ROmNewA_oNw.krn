@@ -15,45 +15,45 @@
 *D:	*
 *M4/4	*
 =1	=1
-4e	Em
+4e	E minor
 4d	.
 8c#	.
 4d	.
-8A[	D/F#
+[8A	D major/F#
 =2	=2
 4.A_	.
-4A]	F#m
-8D	.
+4A]	F# minor
+8DL	.
 8F#	.
-8A	.
+8AJ	.
 =3	=3
-4e	G
+4e	G major
 4d	.
 8c#	.
 4d	.
-8B[	F#add(3,5,7)/A
+[8B	F# other-3,5,7/A
 =4	=4
 4.B]	.
-4c#	A
-8F#	A7/G
+4c#	A major
+8F#L	A dominant/G
 8A	.
-8d	.
+8dJ	.
 =5	=5
-2..f#	Gmaj9
-8e	Gadd(2,4,7,9)
+2..f#	G major-ninth
+8e	G other-2,4,7,9
 =6	=6
 1r	.
 =7	=7
-8e	F#m7
+8e	F# minor-seventh
 2.r	.
-8d[	Bm
+[8d	B minor
 =8	=8
 4.d]	.
 4c#	.
 4.d	.
 =9	=9
-2..B[	Em
-8B]	A
+[2..B	E minor
+8B]	A major
 =10	=10
 8d	.
 4c#	.
@@ -61,13 +61,13 @@
 8d	.
 4B	.
 =11	=11
-2..B	Bm7/D
-8A[	D
+2..B	B minor-seventh/D
+[8A	D major
 =12	=12
 2A]	.
-8F#	.
+8F#L	.
 8G	.
 8A	.
-8B	.
+8BJ	.
 ==	==
 *-	*-

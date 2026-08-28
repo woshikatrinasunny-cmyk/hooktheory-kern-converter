@@ -16,86 +16,86 @@
 *A:	*
 *M4/4	*
 =1	=1
-4e	Dadd(2,4,7)
+4e	D other-2,4,7
 8f#	.
 4.e	.
-8f#	.
-8e[	.
+8f#L	.
+[8eJ	.
 =2	=2
-4e]	Eadd(2,4,7)
+4e]	E other-2,4,7
 4c#	.
 4B	.
 4A	.
 =3	=3
-4B	F#m11
+4B	F# minor-11th
 8c#	.
-3...c#[	F#m7
+[3...c#	F# minor-seventh
 =4	=4
 4c#]	.
 4r	.
-8e	E
+8eL	E major
 8d	.
 8c#	.
-8c#[	.
+[8c#J	.
 =5	=5
-4c#]	Bm7
+4c#]	B minor-seventh
 8d	.
 8.A	.
 16r	.
 4d	.
-8c#[	.
+[8c#	.
 =6	=6
-4c#]	C#
-8A	.
-8G#[	D#dim
+4c#]	C# major
+8AL	.
+[8G#J	D# diminished
 16G#]	.
 16r	.
-4A	Fdim
-8B[	.
+4A	F diminished
+[8B	.
 =7	=7
-1B]	F#m11
+1B]	F# minor-11th
 =8	=8
-8r	Em7
-8r	Em7
+8r	E minor-seventh
+8r	E minor-seventh
 4r	.
-8r	A7
-8r	A7
+8r	A dominant
+8r	A dominant
 4r	.
 =9	=9
-4e	Dmaj7
+4e	D major-seventh
 8f#	.
 4.e	.
-8f#	.
-8e[	.
+8f#L	.
+[8eJ	.
 =10	=10
-4e]	E
+4e]	E major
 4c#	.
 4B	.
 4A	.
 =11	=11
-4B	C#m7
+4B	C# minor-seventh
 4e	.
 4f#	.
-4A[	F#m
+[4A	F# minor
 =12	=12
 4.A_	.
-8A]	F#m11
+8A]	F# minor-11th
 2r	.
 =13	=13
-4A	Bm7
+4A	B minor-seventh
 8A	.
 4A	.
 4d	.
-8e[	.
+[8e	.
 =14	=14
-4e]	E11
+4e]	E dominant-11th
 8A	.
 4B	.
 4A	.
-8A[	.
+[8A	.
 =15	=15
-1A]	Asus4
+1A]	A suspended-fourth
 =16	=16
-1r	A
+1r	A major
 ==	==
 *-	*-

@@ -15,37 +15,37 @@
 *b:	*
 *M4/4	*
 =1	=1
-2f#	Bm
+2f#	B minor
 4.b	.
-8ff#[	D/A
+[8ff#	D major/A
 =2	=2
 4ff#_	.
-2.ff#]	D/A
+2.ff#]	D major/A
 =3	=3
-2b	G#dim
+2b	G# diminished
 4.ff#	.
-8bb[	D/A
+[8bb	D major/A
 =4	=4
 8bb_	.
-4bb]	Dadd(2,4,7)/A
-3...ccc#	A
+4bb]	D other-2,4,7/A
+3...ccc#	A major
 =5	=5
-2f#	Bm
+2f#	B minor
 4.b	.
-8ff#[	D/A
+[8ff#	D major/A
 =6	=6
 4ff#_	.
-2.ff#]	D/A
+2.ff#]	D major/A
 =7	=7
-2b	G#dim
+2b	G# diminished
 4.ff#	.
-8bb[	D/A
+[8bb	D major/A
 =8	=8
 8bb_	.
-4bb]	Dadd(2,4,7)/A
-3...ccc#	A
+4bb]	D other-2,4,7/A
+3...ccc#	A major
 =9	=9
-8r	Bm
+8r	B minor
 16b	.
 16r	.
 16ff#	.
@@ -56,7 +56,7 @@
 16r	.
 8bb	.
 8r	.
-8aa	E
+8aa	E major
 =10	=10
 8r	.
 8gg#	.
@@ -67,15 +67,15 @@
 8r	.
 8ff#	.
 =11	=11
-2..r	D
-8b[	E
+2..r	D major
+[8b	E major
 =12	=12
 8b]	.
 4f#	.
 4a	.
 4.e	.
 =13	=13
-8r	Bm
+8r	B minor
 16b	.
 16r	.
 16ff#	.
@@ -86,7 +86,7 @@
 16r	.
 8bb	.
 8r	.
-8aa	E
+8aa	E major
 =14	=14
 8r	.
 8gg#	.
@@ -97,8 +97,8 @@
 8r	.
 8ff#	.
 =15	=15
-2..r	D
-8ee[	E
+2..r	D major
+[8ee	E major
 =16	=16
 8ee]	.
 4cc#	.

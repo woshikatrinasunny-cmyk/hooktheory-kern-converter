@@ -16,71 +16,71 @@
 *F#:	*
 *M4/4	*
 =1	=1
-6...r	F#
+6...r	F# major
+16a#LL	.
 16a#	.
-16a#	.
-16a#	.
-8a#	.
-16f#	.
-16f#[	.
-16f#]	D#m
-8.g#[	.
+16a#JJ	.
+8a#L	.
+16f#L	.
+[16f#	.
+16f#J]	D# minor
+[8.g#J	.
 =2	=2
-4.g#]	C#
+4.g#]	C# major
 4r	.
-8cc#	.
+8cc#L	.
 8g#	.
-8a#	.
+8a#J	.
 =3	=3
-4..r	G#m
+4..r	G# minor
 16d#	.
-8b	.
+8bL	.
 8a#	.
-8a#	D#m
-8a#	.
+8a#	D# minor
+8a#J	.
 =4	=4
-8g#	C#
+8g#	C# major
 4.g#	.
-8e#	.
+8e#L	.
 8cc#	.
 8g#	.
-8a#	.
+8a#J	.
 =5	=5
-6...r	F#
+6...r	F# major
+16a#LL	.
 16a#	.
-16a#	.
-16a#	.
-8a#	.
-16f#	.
-16f#[	.
-16f#]	D#m
-8.g#[	.
+16a#JJ	.
+8a#L	.
+16f#L	.
+[16f#	.
+16f#J]	D# minor
+[8.g#J	.
 =6	=6
-4g#]	C#
+4g#]	C# major
 4.r	.
-8cc#	.
+8cc#L	.
 8g#	.
-8a#	.
+8a#J	.
 =7	=7
-4..r	G#m
+4..r	G# minor
 16d#	.
-8b	.
+8bL	.
 8a#	.
-8a#	D#m
-8a#	.
+8a#	D# minor
+8a#J	.
 =8	=8
-8g#	C#
-3...g#[	.
-8g#_	C#
-16g#]	A#m7/C#
+8g#	C# major
+[3...g#	.
+8g#L_	C# major
+16g#Jk]	A# minor-seventh/C#
 16r	.
 =9	=9
-3...r	C#7
-16a#	.
+3...r	C# dominant
+16a#LL	.
 16g#	.
 16g#	.
 16f#	.
 16d#	.
-16c#	.
+16c#JJ	.
 ==	==
 *-	*-

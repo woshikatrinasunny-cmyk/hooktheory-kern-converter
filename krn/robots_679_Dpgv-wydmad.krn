@@ -16,77 +16,77 @@
 *b:	*
 *M4/4	*
 =1	=1
-4ee	G
+4ee	G major
 4ff#	.
 4dd	.
-4r	F#dim
+4r	F# diminished
 =2	=2
 4dd	.
 4dd	.
 4dd	.
-4ee[	.
+[4ee	.
 =3	=3
-4ee]	Bm
+4ee]	B minor
 4ff#	.
 4dd	.
-8dd	D
-8b	.
+8ddL	D major
+8bJ	.
 =4	=4
 4dd	.
 4dd	.
 4dd	.
-4ee[	.
+[4ee	.
 =5	=5
-4ee]	G
+4ee]	G major
 4ff#	.
 4dd	.
-4b	F#dim
+4b	F# diminished
 =6	=6
 4dd	.
 4dd	.
 4dd	.
-4ee[	.
+[4ee	.
 =7	=7
-4ee]	Bm
+4ee]	B minor
 4ff#	.
 4dd	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 =8	=8
 4ff#	.
 4dd	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 4ee	.
 =9	=9
-4ff#	G
+4ff#	G major
 4ee	.
 4gg	.
-4dd	F#dim
+4dd	F# diminished
 =10	=10
 4dd	.
 4dd	.
 4dd	.
-4ff#	Bm
+4ff#	B minor
 =11	=11
 4ff#	.
 4cc	.
-4aa	D
+4aa	D major
 4cc	.
 =12	=12
 4dd	.
 4ee	.
-4gg	G
+4gg	G major
 4b	.
 =13	=13
 4cc	.
 4dd	.
-4cc	F#dim
+4cc	F# diminished
 4ee	.
 =14	=14
 4ee	.
 4ee	.
-4ff#	Bm
+4ff#	B minor
 4gg	.
 =15	=15
 4gg	.
@@ -99,74 +99,74 @@
 4ff#	.
 4ee	.
 =17	=17
-4ee	G
-4a[	.
-2a]	F#dim
+4ee	G major
+[4a	.
+2a]	F# diminished
 =18	=18
-2f#[	.
-4f#]	Bm
-4cc[	.
+[2f#	.
+4f#]	B minor
+[4cc	.
 =19	=19
 2cc]	.
-4g[	.
-4g_	D
+[4g	.
+4g_	D major
 =20	=20
 4g]	.
 2.cc	.
 =21	=21
-2.gg	G
-4ee[	.
+2.gg	G major
+[4ee	.
 =22	=22
-2ee]	F#dim
-2ee[	.
+2ee]	F# diminished
+[2ee	.
 =23	=23
-4ee]	Bm
-2cc[	.
+4ee]	B minor
+[2cc	.
 4cc]	.
 =24	=24
 1r	.
 =25	=25
-4dd	G
+4dd	G major
 2r	.
-8dd	F#dim
-8ee	.
+8ddL	F# diminished
+8eeJ	.
 =26	=26
 4ff#	.
 4dd	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 4ee	.
 =27	=27
-4dd	Bm
+4dd	B minor
 4r	.
 4ee	.
-4ff#	D
+4ff#	D major
 =28	=28
-8ee	.
-8dd	.
+8eeL	.
+8ddJ	.
 4b	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 4ee	.
 =29	=29
-4dd	G
+4dd	G major
 4r	.
 4ee	.
-4ff#	F#dim
+4ff#	F# diminished
 =30	=30
 4ee	.
 4dd	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 4ee	.
 =31	=31
-4dd	Bm
+4dd	B minor
 2r	.
-4dd	D
+4dd	D major
 =32	=32
 4r	.
 2ee	.
-8dd	.
-8b	.
+8ddL	.
+8bJ	.
 ==	==
 *-	*-

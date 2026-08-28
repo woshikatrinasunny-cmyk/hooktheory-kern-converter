@@ -16,120 +16,120 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4aa-	D-
+4aa-	D- major
 4ff	.
 4aa-	.
-4ff	Fm/C
+4ff	F minor/C
 =2	=2
-4aa-	D-
+4aa-	D- major
+8bb-L	.
+[8cccJ	.
+8cccL]	B- suspended-second
 8bb-	.
-8ccc[	.
-8ccc]	B-sus2
-8bb-	.
-8aa-	Fdim/B
-8ff	.
+8aa-	F diminished/B
+8ffJ	.
 =3	=3
-8ee-	A-/C
+8ee-	A- major/C
 4ff	.
-4.cc[	.
-4cc_	A-/E-
+[4.cc	.
+4cc_	A- major/E-
 =4	=4
-8cc]	A-
+8ccL]	A- major
 8ee-	.
 8ff	.
-8cc	.
-8ee-	.
-8ff[	.
-8ff]	F/A
-8cc	.
+8ccJ	.
+8ee-L	.
+[8ff	.
+8ff]	F major/A
+8ccJ	.
 =5	=5
-4ee-	E-7/B-
-8ff	.
-8b-[	.
-4b-_	E-7
-4b-]	F/A
+4ee-	E- dominant/B-
+8ffL	.
+[8b-J	.
+4b-_	E- dominant
+4b-]	F major/A
 =6	=6
-8r	E-7/B-
-8dd-	.
+8r	E- dominant/B-
+8dd-L	.
 8ff	.
-8b-	.
-8dd-	E-7
-8ff[	.
-8ff]	E-7/G
-8cc[	.
+8b-J	.
+8dd-L	E- dominant
+[8ff	.
+8ff]	E- dominant/G
+[8ccJ	.
 =7	=7
-8cc]	A-
+8ccL]	A- major
 8ee-	.
 8ff	.
-8cc	.
-8ee-	A-/E-
+8ccJ	.
+8ee-	A- major/E-
 4ff	.
-8cc[	.
+[8cc	.
 =8	=8
-8cc]	A-
+8ccL]	A- major
 8ee-	.
 8ff	.
-8cc	.
-8ee-	B-7sus4
-8ff[	.
-8ff]	A-/C
-8ee-	.
+8ccJ	.
+8ee-L	B- dominant-seventh-suspended-fourth
+[8ff	.
+8ff]	A- major/C
+8ee-J	.
 =9	=9
-4aa-	D-
+4aa-	D- major
 4ff	.
 4aa-	.
-4ff	Fm/C
+4ff	F minor/C
 =10	=10
-4aa-	D-
+4aa-	D- major
+8bb-L	.
+[8cccJ	.
+8cccL]	B- suspended-second
 8bb-	.
-8ccc[	.
-8ccc]	B-sus2
-8bb-	.
-8aa-	Fdim/B
-8ff	.
+8aa-	F diminished/B
+8ffJ	.
 =11	=11
-4aa-	A-/C
+4aa-	A- major/C
 4ff	.
-8ee-	.
-8aa-[	.
-8aa-]	A-/E-
-8cc[	.
+8ee-L	.
+[8aa-	.
+8aa-]	A- major/E-
+[8ccJ	.
 =12	=12
-8cc]	A-
+8ccL]	A- major
 8ee-	.
 8ff	.
-8cc	.
+8ccJ	.
 8ee-	.
 4ff	.
-8a-[	.
+[8a-	.
 =13	=13
-8a-]	D-
-8b-	.
+8a-L]	D- major
+8b-J	.
 4a-	.
-4a-	B-m7b5
-8b-	B-add(4,6)/D
-8a-[	.
+4a-	B- half-diminished
+8b-L	B- other-4,6/D
+[8a-J	.
 =14	=14
-8a-]	A-/E-
+8a-L]	A- major/E-
 8b-	.
 8cc	.
-8a-	.
-8b-	.
-8cc[	.
-8cc]	EaugMaj7
-8a-[	.
+8a-J	.
+8b-L	.
+[8cc	.
+8cc]	E augmented-major-seventh
+[8a-J	.
 =15	=15
-8a-]	Ddim/F
+8a-L]	D diminished/F
 8b-	.
 8cc	.
-8a-	.
-8r	E-7/G
+8a-J	.
+8r	E- dominant/G
 4b-	.
 8e-	.
 =16	=16
-4a-	A-
+4a-	A- major
 4ee-	.
-4ee-	B-sus4
-4ee-	A-/C
+4ee-	B- suspended-fourth
+4ee-	A- major/C
 ==	==
 *-	*-

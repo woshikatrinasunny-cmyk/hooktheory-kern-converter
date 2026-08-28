@@ -16,45 +16,45 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4ee#	D#7sus2
-8dd#	.
-8cc#	.
+4ee#	D# dominant-seventh-suspended-second
+8dd#L	.
+8cc#J	.
 8r	.
 8ccn	.
 8r	.
-16ccn	.
-16cc#	Dm7
+16ccnLL	.
+16cc#JJ	D minor-seventh
 =2	=2
-8ccn	.
-8a#	.
+8ccnL	.
+8a#J	.
 8r	.
 8an	.
 8r	.
 4.e#	.
 =3	=3
-8g#	F#7sus2
+8g#	F# dominant-seventh-suspended-second
 4.r	.
 2en	.
 =4	=4
-4r	E#7sus2
-8dn	.
-8en	.
+4r	E# dominant-seventh-suspended-second
+8dnL	.
+8enJ	.
 8r	.
 4gn	.
 8en	.
 =5	=5
-8e#	D#7sus2
+8e#	D# dominant-seventh-suspended-second
 4.r	.
-2ee#[	.
+[2ee#	.
 =6	=6
-2ee#]	Dm7
+2ee#]	D minor-seventh
 8ccn	.
 8r	.
 8ee#	.
 8r	.
 =7	=7
-8gg#	F#7sus2
-8ff#	.
+8gg#L	F# dominant-seventh-suspended-second
+8ff#J	.
 8r	.
 8ee#	.
 8r	.
@@ -62,60 +62,60 @@
 8r	.
 8een	.
 =8	=8
-8r	E#maj7
+8r	E# major-seventh
 8ccn	.
 8r	.
 8ddn	.
-8ccn	.
+8ccnL	.
 8an	.
-8e#	.
+8e#J	.
 8r	.
 =9	=9
-4ee#	D#7sus2
-8dd#	.
-8cc#	.
+4ee#	D# dominant-seventh-suspended-second
+8dd#L	.
+8cc#J	.
 8r	.
 8ccn	.
 8r	.
-16ccn	.
-16cc#	.
+16ccnLL	.
+16cc#JJ	.
 =10	=10
-8ccn	Dm7
-8a#	.
+8ccnL	D minor-seventh
+8a#J	.
 8r	.
 8an	.
 8r	.
 4.e#	.
 =11	=11
-8g#	F#7sus2
+8g#	F# dominant-seventh-suspended-second
 4.r	.
 2en	.
 =12	=12
-4r	E#7sus2
-8dn	.
-8en	.
+4r	E# dominant-seventh-suspended-second
+8dnL	.
+8enJ	.
 8r	.
 4gn	.
 8en	.
 =13	=13
-8e#	D#7sus2
+8e#	D# dominant-seventh-suspended-second
 4.r	.
-2ee#[	.
+[2ee#	.
 =14	=14
-2ee#]	Dm7
+2ee#]	D minor-seventh
 8ccn	.
 8r	.
 8ee#	.
 8r	.
 =15	=15
-8ff#	F#7sus2
+8ff#	F# dominant-seventh-suspended-second
 4.r	.
-16ff#	.
-16gg#	.
+16ff#LL	.
+16gg#JJ	.
 4r	.
-8ee#[	.
+[8ee#	.
 =16	=16
-2.ee#]	E#maj7
+2.ee#]	E# major-seventh
 4r	.
 ==	==
 *-	*-

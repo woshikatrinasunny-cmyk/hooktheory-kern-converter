@@ -16,68 +16,68 @@
 *B-:	*
 *M4/4	*
 =1	=1
-1r	Gm
+1r	G minor
 =2	=2
-1r	E-
+1r	E- major
 =3	=3
-1r	B-
+1r	B- major
 =4	=4
-1r	Fadd(2,4,7)
+1r	F other-2,4,7
 =5	=5
-1r	Gadd(2,3,7)
+1r	G other-2,3,7
 =6	=6
-1r	E-
+1r	E- major
 =7	=7
-1r	B-
+1r	B- major
 =8	=8
-1r	F
+1r	F major
 =9	=9
-2r	Gadd(2,3,7)
-2r	E-
+2r	G other-2,3,7
+2r	E- major
 =10	=10
-2r	B-
-2r	F
+2r	B- major
+2r	F major
 =11	=11
-2r	Gadd(2,3,7)
-2r	E-
+2r	G other-2,3,7
+2r	E- major
 =12	=12
-2r	B-add(2,4,7)
-2r	F
+2r	B- other-2,4,7
+2r	F major
 =13	=13
-2r	Gadd(2,3,7)
-2r	E-
+2r	G other-2,3,7
+2r	E- major
 =14	=14
-2r	B-add(2,4,7)
-2r	F
+2r	B- other-2,4,7
+2r	F major
 =15	=15
-2r	Gadd(2,3,7)
-2r	E-
+2r	G other-2,3,7
+2r	E- major
 =16	=16
-2r	B-
-2r	F
+2r	B- major
+2r	F major
 =17	=17
-2r	Gadd(2,3,7)
-2r	E-maj7
+2r	G other-2,3,7
+2r	E- major-seventh
 =18	=18
-2r	B-
-2r	Fadd(2,4,7)
+2r	B- major
+2r	F other-2,4,7
 =19	=19
-2r	Gadd(2,3,7)
-2r	E-maj7
+2r	G other-2,3,7
+2r	E- major-seventh
 =20	=20
-2r	B-
-2r	Fadd(2,4,7)
+2r	B- major
+2r	F other-2,4,7
 =21	=21
-2r	Gadd(2,3,7)
-2r	E-maj7
+2r	G other-2,3,7
+2r	E- major-seventh
 =22	=22
-2r	B-
-2r	Fadd(2,4,7)
+2r	B- major
+2r	F other-2,4,7
 =23	=23
-2r	Gadd(2,3,7)
-2r	E-maj7
+2r	G other-2,3,7
+2r	E- major-seventh
 =24	=24
-2r	B-
-2r	Fadd(2,4,7)
+2r	B- major
+2r	F other-2,4,7
 ==	==
 *-	*-

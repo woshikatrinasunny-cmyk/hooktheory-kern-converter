@@ -16,69 +16,69 @@
 *C:	*
 *M4/4	*
 =1	=1
-2cc[	F
-4cc_	Fadd(2,4,7)
-4cc_	Fm9
+[2cc	F major
+4cc_	F other-2,4,7
+4cc_	F minor-ninth
 =2	=2
 4cc_	.
-2cc]	A-augMaj7
+2cc]	A- augmented-major-seventh
 4r	.
 =3	=3
-4cc[	C
-4cc]	C7/B-
-8cc	Aadd(3,7,8,10)/G
+[4cc	C major
+4cc]	C dominant/B-
+8cc	A other-3,7,8,10/G
 8r	.
-4b-	F9sus4
+4b-	F dominant-ninth-suspended-fourth
 =4	=4
 4r	.
 4b-	.
-4r	E-add(2,4,7,9,11)
-4cc[	.
+4r	E- other-2,4,7,9,11
+[4cc	.
 =5	=5
-2.cc_	F/C
-4cc_	A-maj7
+2.cc_	F major/C
+4cc_	A- major-seventh
 =6	=6
 2cc]	.
-4r	B-add(2,5,7,9,10)
-4r	C
+4r	B- other-2,5,7,9,10
+4r	C major
 =7	=7
 2cc	.
 8cc	.
 8r	.
-4b-	B-add(2,4,7)
+4b-	B- other-2,4,7
 =8	=8
 4r	.
 4b-	.
 4r	.
-4cc[	.
+[4cc	.
 =9	=9
-2cc_	F
-4cc_	Fadd(2,4,7)
-4cc_	Fm9
+2cc_	F major
+4cc_	F other-2,4,7
+4cc_	F minor-ninth
 =10	=10
 4cc_	.
-4.cc]	A-maj7
+4.cc]	A- major-seventh
 4.r	.
 =11	=11
-4cc[	C
-4cc]	C7/B-
-8cc	Aadd(3,7,8,10)/G
+[4cc	C major
+4cc]	C dominant/B-
+8cc	A other-3,7,8,10/G
 8r	.
-4b-	F9sus4
+4b-	F dominant-ninth-suspended-fourth
 =12	=12
 4r	.
 4b-	.
-4r	E-add(2,4,7,9,11)
-4cc[	.
+4r	E- other-2,4,7,9,11
+[4cc	.
 =13	=13
-2.cc_	F/C
-4cc_	Gm11
+2.cc_	F major/C
+4cc_	G minor-11th
 =14	=14
 2.cc_	.
-4cc_	A-maj7
+4cc_	A- major-seventh
 =15	=15
 2.cc_	.
-4cc_	B-add(2,4,7)
+4cc_	B- other-2,4,7
 =16	=16
 2.cc]	.
 4r	.

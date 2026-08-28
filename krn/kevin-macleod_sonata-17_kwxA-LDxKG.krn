@@ -15,8 +15,8 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2bb-	B-
-32ddd	F
+2bb-	B- major
+32dddLLL	F major
 32ccc	.
 32ddd	.
 32ccc	.
@@ -27,24 +27,24 @@
 32ddd	.
 32ccc	.
 32ddd	.
-32ccc	.
+32cccJ	.
 16bb-	.
-16ccc	.
+16cccJJ	.
 =2	=2
-4ddd	B-
+4ddd	B- major
 2.r	.
 =3	=3
-2eee-	E-
-4.ddd	Edim7
-16ccc	.
-16ddd	.
+2eee-	E- major
+4.ddd	E diminished-seventh
+16cccLL	.
+16dddJJ	.
 =4	=4
-2ddd	B-add(4,6,7)/F
-4ccc	F
+2ddd	B- other-4,6,7/F
+4ccc	F major
 4r	.
 =5	=5
-2ccc	Cm
-32eee-	G
+2ccc	C minor
+32eee-LLL	G major
 32ddd	.
 32eee-	.
 32ddd	.
@@ -55,21 +55,21 @@
 32eee-	.
 32ddd	.
 32eee-	.
-32ddd	.
+32dddJ	.
 16ccc	.
-16ddd	.
+16dddJJ	.
 =6	=6
-4eee-	Cm
-4fff	F
+4eee-	C minor
+4fff	F major
 4.r	.
 8ccc	.
 =7	=7
-4bb-	B-
-4aa	F
+4bb-	B- major
+4aa	F major
 2r	.
 =8	=8
-4gg	Gm
-4gg-	D
+4gg	G minor
+4gg-	D major
 2r	.
 ==	==
 *-	*-

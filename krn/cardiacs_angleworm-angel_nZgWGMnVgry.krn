@@ -16,143 +16,143 @@
 *G:	*
 *M4/4	*
 =1	=1
-8b	G
+8bL	G major
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
-8b	.
+8bL	.
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
 =2	=2
-8b	.
+8bL	.
 8cc#	.
 8dd	.
-8ee	.
-8dd	Bm
+8eeJ	.
+8ddL	B minor
 8cc#	.
-8b	.
+8bJ	.
 8r	.
 =3	=3
-8b	G
+8bL	G major
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
-8b	.
+8bL	.
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
 =4	=4
-4gg#	E
+4gg#	E major
 4ee	.
-8gg	C
-8ff#	.
+8ggL	C major
+8ff#J	.
 4ee	.
 =5	=5
-8b	G
+8bL	G major
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
-8b	.
+8bL	.
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
 =6	=6
-8b	.
+8bL	.
 8cc#	.
 8dd	.
-8ee	.
-8dd	Bm
+8eeJ	.
+8ddL	B minor
 8cc#	.
-8b	.
+8bJ	.
 8r	.
 =7	=7
-8b	G
+8bL	G major
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
-8b	.
+8bL	.
 8cc#	.
 8dd	.
-8dd	.
+8ddJ	.
 =8	=8
-8b	.
+8bL	.
 8cc#	.
 8dd	.
-8ee	.
-4dd	A#
-4ccn	F
+8eeJ	.
+4dd	A# major
+4ccn	F major
 =9	=9
-4ffn	C#
-4cc#	C#/G#
-8b	G
+4ffn	C# major
+4cc#	C# major/G#
+8bL	G major
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
 =10	=10
-8b	.
+8bL	.
 8cc#	.
 8dd	.
-8dd	.
-8b	.
+8ddJ	.
+8bL	.
 8cc#	.
 8dd	.
-8ee	.
+8eeJ	.
 =11	=11
-8dd	Bm
+8ddL	B minor
 8cc#	.
-8b	.
+8bJ	.
 8r	.
-8b	G
+8bL	G major
 8cc#	.
 8dd	.
-8dd	.
+8ddJ	.
 =12	=12
-8b	.
+8bL	.
 8cc#	.
 8dd	.
-8dd	.
-4gg#	E
+8ddJ	.
+4gg#	E major
 4ee	.
 =13	=13
-8gg	C
-8ff#	.
+8ggL	C major
+8ff#J	.
 4ee	.
-8b	G
+8bL	G major
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
 =14	=14
-8b	.
+8bL	.
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
-8b	.
+8bL	.
 8cc#	.
 8dd	.
-8ee	.
+8eeJ	.
 =15	=15
-8dd	Bm
+8ddL	B minor
 8cc#	.
-8b	.
+8bJ	.
 8r	.
-8b	G
+8bL	G major
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
 =16	=16
-8b	.
+8bL	.
 8cc#	.
-8dd	.
+8ddJ	.
 8r	.
-8b	.
+8bL	.
 8cc#	.
 8dd	.
-8dd	.
+8ddJ	.
 =17	=17
-4dd	A#
-4ccn	F
-4ffn	C#
-4cc#	C#/G#
+4dd	A# major
+4ccn	F major
+4ffn	C# major
+4cc#	C# major/G#
 ==	==
 *-	*-

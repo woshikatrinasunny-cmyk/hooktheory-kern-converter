@@ -16,7 +16,7 @@
 *B-:	*
 *M4/4	*
 =1	=1
-1r	B-
+1r	B- major
 =2	=2
 1r	.
 =3	=3
@@ -26,7 +26,7 @@
 =5	=5
 4.BB-	.
 4.BB-	.
-4BB-[	.
+[4BB-	.
 =6	=6
 8BB-]	.
 4.BB-	.
@@ -35,7 +35,7 @@
 =7	=7
 4.BB-	.
 4.BB-	.
-4BB-[	.
+[4BB-	.
 =8	=8
 8BB-]	.
 4.BB-	.
@@ -43,64 +43,64 @@
 4BB-	.
 =9	=9
 2.ddd	.
-4ccc[	.
+[4ccc	.
 =10	=10
 8ccc]	.
 2..fff	.
 =11	=11
-2.bb-	E-maj7
-4gg[	.
+2.bb-	E- major-seventh
+[4gg	.
 =12	=12
-8gg]	Gm7
+8gg]	G minor-seventh
 4.ddd	.
-2ccc	F
+2ccc	F major
 =13	=13
-2.ddd	B-
-4ggg[	.
+2.ddd	B- major
+[4ggg	.
 =14	=14
 8ggg]	.
 2..fff	.
 =15	=15
-2.bb-	E-maj7
+2.bb-	E- major-seventh
 4eee-	.
 =16	=16
-2ddd	Gm7
-2ccc	F
+2ddd	G minor-seventh
+2ccc	F major
 =17	=17
-1bb-[	Gm
+[1bb-	G minor
 =18	=18
 2bb-]	.
-2aa[	D/G-
+[2aa	D major/G-
 =19	=19
 2..aa]	.
-8bb-[	B-maj7/F
+[8bb-	B- major-seventh/F
 =20	=20
 3...bb-]	.
-4.gg[	Gm
+[4.gg	G minor
 =21	=21
 2gg]	.
-2ddd[	E-add(4,7,9,11)
+[2ddd	E- other-4,7,9,11
 =22	=22
 1ddd]	.
 =23	=23
-1gg[	Cadd(3,5,7)/E-
+[1gg	C other-3,5,7/E-
 =24	=24
 2.gg]	.
 4r	.
 =25	=25
 4.r	.
-2bb-	E-
-8ddd[	.
+2bb-	E- major
+[8ddd	.
 =26	=26
 2ddd]	.
-2bb-[	E-
+[2bb-	E- major
 =27	=27
 8bb-]	.
 2gg	.
-4.ff[	F
+[4.ff	F major
 =28	=28
 2..ff]	.
-8cc[	F/A
+[8cc	F major/A
 =29	=29
 1cc]	.
 ==	==

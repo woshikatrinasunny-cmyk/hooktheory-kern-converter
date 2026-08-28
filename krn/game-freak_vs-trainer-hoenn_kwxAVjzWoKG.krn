@@ -16,15 +16,15 @@
 *c:	*
 *M4/4	*
 =1	=1
-8c	Cm
+8c	C minor
 4r	.
 8e-	.
 4r	.
 8d-	.
 8r	.
 =2	=2
-8c	.
-8d-	.
+8cL	.
+8d-J	.
 8r	.
 8e-	.
 4r	.
@@ -37,22 +37,22 @@
 8d-	.
 8r	.
 =4	=4
-8c	.
-8d-	.
+8cL	.
+8d-J	.
 8r	.
 8e-	.
 4r	.
-4d-	D-
+4d-	D- major
 =5	=5
-8cc	Cm
+8cc	C minor
 4r	.
 8ee-	.
 4r	.
 8dd-	.
 8r	.
 =6	=6
-8cc	.
-8dd-	.
+8ccL	.
+8dd-J	.
 8r	.
 8ee-	.
 4r	.
@@ -65,11 +65,11 @@
 8dd-	.
 8r	.
 =8	=8
-8cc	.
-8dd-	.
+8ccL	.
+8dd-J	.
 8r	.
 8ee-	.
 4r	.
-4gg	Gdim
+4gg	G diminished
 ==	==
 *-	*-

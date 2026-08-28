@@ -16,40 +16,40 @@
 *b:	*
 *M4/4	*
 =1	=1
-8B	Bm
-16B	.
-16B	.
+8BL	B minor
+16BL	.
+16BJ	.
 8d	.
-8B	.
-16B	.
-16B	.
+8BJ	.
+16BLL	.
+16BJ	.
 8d	.
-8B	G
-16B	D
-16B	.
+8B	G major
+16BL	D major
+16BJJ	.
 =2	=2
-8d	.
-8B	Em
-16B	.
-16B	.
-8d	.
-8B	.
-16B	.
-16B	.
-8d	F#m
-8d	D
+8dL	.
+8B	E minor
+16BL	.
+16BJ	.
+8dJ	.
+8BL	.
+16BL	.
+16BJ	.
+8d	F# minor
+8dJ	D major
 =3	=3
 8B	.
-3...r	Bm
-8d	G
-16d	D
-16d	.
+3...r	B minor
+8dL	G major
+16dL	D major
+16dJJ	.
 =4	=4
 8r	.
-8.B	Em
+8.B	E minor
 4..r	.
-8B	F#m
-16B	D
-16B	.
+8BL	F# minor
+16BL	D major
+16BJJ	.
 ==	==
 *-	*-

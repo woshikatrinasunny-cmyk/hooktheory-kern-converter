@@ -16,36 +16,36 @@
 *C:	*
 *M4/4	*
 =1	=1
-8.r	Am/C
-4r	A/C#
-4r	Dm
-8r	A/C#
-8.r	Am/C
+8.r	A minor/C
+4r	A major/C#
+4r	D minor
+8r	A major/C#
+8.r	A minor/C
 =2	=2
-8.r	G#/D#
-16r	Fm
-16g	.
+8.r	G# major/D#
+16r	F minor
+16gLL	.
 16a	.
-16cc	.
-8.ee	G#add(4,11)
-16g	.
-8.cc	Fm
-8a	.
+16ccJJ	.
+8.ee	G# other-4,11
+16gLK	.
+8.cc	F minor
+8aJ	.
 =3	=3
-8.r	Dsus2/A
-4r	E7/G#
-4r	Gsus4
-16r	D7/F#
-16e	.
+8.r	D suspended-second/A
+4r	E dominant/G#
+4r	G suspended-fourth
+16r	D dominant/F#
+16eLL	.
 16g	.
 16e	.
-16d[	.
+[16dJJ	.
 =4	=4
-16d_	.
-8d_	Gadd(2,5,7,10)
-8d]	G7sus2
-8r	Em/G
-6...r	Gadd(2,5,7,10)
-4r	Gadd(1,4,5,7,9,10)
+16dLK_	.
+8d_	G other-2,5,7,10
+8dJ]	G dominant-seventh-suspended-second
+8r	E minor/G
+6...r	G other-2,5,7,10
+4r	G other-1,4,5,7,9,10
 ==	==
 *-	*-

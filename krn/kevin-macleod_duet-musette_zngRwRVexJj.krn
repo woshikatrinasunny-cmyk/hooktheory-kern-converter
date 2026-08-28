@@ -15,29 +15,29 @@
 *c:	*
 *M6/8	*
 =1	=1
-4.ee-	Cm
+4.ee-	C minor
 4.cc	.
 =2	=2
-4.dd	G
+4.dd	G major
 4.bn	.
 =3	=3
-4.cc	Cm
+4.cc	C minor
 4.g	.
 =4	=4
-2bn	G
-8cc	.
-8dd	.
+2bn	G major
+8ccL	.
+8ddJ	.
 =5	=5
-4.ee-	Cm
-4.cc	Cadd(2,3,7)
+4.ee-	C minor
+4.cc	C other-2,3,7
 =6	=6
-4.ee-	E-augMaj7/G
-4.dd	G7
+4.ee-	E- augmented-major-seventh/G
+4.dd	G dominant
 =7	=7
-4.cc	Cm
-4.dd	Dm7b5/C
+4.cc	C minor
+4.dd	D half-diminished/C
 =8	=8
-2bn	G
+2bn	G major
 4r	.
 ==	==
 *-	*-

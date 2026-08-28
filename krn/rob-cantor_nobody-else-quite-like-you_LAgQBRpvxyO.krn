@@ -16,67 +16,67 @@
 *C:	*
 *M6/4	*
 =1	=1
-8g	C
+8g	C major
 4g	.
-4e	C
+4e	C major
 8f	.
-8g	C/G
-8g	.
-8e[	.
-8e]	C/G
-8e	.
-8f	.
+8gL	C major/G
+8gJ	.
+[8eL	.
+8eJ]	C major/G
+8eL	.
+8fJ	.
 =2	=2
-4.g	Cmaj7
-4a	Cmaj7
-8e[	.
-4e]	Cmaj7/G
+4.g	C major-seventh
+4a	C major-seventh
+[8e	.
+4e]	C major-seventh/G
 8c	.
-4e	Cmaj7/G
+4e	C major-seventh/G
 8f	.
 =3	=3
-4.g	C11
-4.g	C11
-4g	Gm7
-8g	C7
-4f	Dm7
-8e	C7/E
+4.g	C dominant-11th
+4.g	C dominant-11th
+4g	G minor-seventh
+8g	C dominant
+4f	D minor-seventh
+8e	C dominant/E
 =4	=4
-4.c	F
-4.r	F
-4r	F/C
+4.c	F major
+4.r	F major
+4r	F major/C
 8c	.
-4d	Fadd(2,4,7)/C
+4d	F other-2,4,7/C
 8d#	.
 =5	=5
-4g	G#
+4g	G# major
 8d#	.
-4d#	G#
+4d#	G# major
 8f	.
-4cc	G#/D#
+4cc	G# major/D#
 8f	.
-4d#	G#add(2,4,7)/D#
+4d#	G# other-2,4,7/D#
 8f	.
 =6	=6
-4g	C
+4g	C major
 8f	.
-4g	Cmaj7/B
-8a[	.
-4a]	Am
-8cc[	.
-4cc]	Am/E
+4g	C major-seventh/B
+[8a	.
+4a]	A minor
+[8cc	.
+4cc]	A minor/E
 8a	.
 =7	=7
-8cc	Dm
+8ccL	D minor
+8ccJ	.
 8cc	.
-8cc	.
-4.a	Dm
-4.g	G
-4.e	G
+4.a	D minor
+4.g	G major
+4.e	G major
 =8	=8
-4.c	C
-4.r	C
-4.r	C
+4.c	C major
+4.r	C major
+4.r	C major
 4r	.
 8g	.
 ==	==

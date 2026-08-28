@@ -16,104 +16,104 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4.c#	C#m
+4.c#	C# minor
 8r	.
 4.g#	.
 8r	.
 =2	=2
-4.gn	Em/G
+4.gn	E minor/G
 16r	.
 16a#	.
 4.b	.
 8r	.
 =3	=3
-8.c#	C#m/G#
+8.c#	C# minor/G#
 16r	.
 8.g#	.
 16r	.
-8.gn	Em/G
+8.gn	E minor/G
 16r	.
 4b	.
 =4	=4
-8.ccn	A#add(1,3,6,10)
+8.ccn	A# other-1,3,6,10
 16r	.
 8.g#	.
 16r	.
-8f#	Cdim
+8f#L	C diminished
 8e	.
-8d#	.
+8d#J	.
 8r	.
 =5	=5
-4.c#	C#m
+4.c#	C# minor
 8r	.
 4.g#	.
 8r	.
 =6	=6
-4.gn	Em/G
+4.gn	E minor/G
 16r	.
 16a#	.
 2b	.
 =7	=7
-8.cc#	Amaj7
+8.cc#	A major-seventh
 16r	.
 8.g#	.
 16r	.
-8f#	B
+8f#L	B major
 8e	.
 8d#	.
-8e	.
+8eJ	.
 =8	=8
-4..d#	G#/C
+4..d#	G# major/C
 16gn	.
-4.g#	G#
+4.g#	G# major
 8r	.
 =9	=9
-4.c#	C#m
+4.c#	C# minor
 8r	.
 4.g#	.
 8r	.
 =10	=10
-4.gn	Cmaj7/G
+4.gn	C major-seventh/G
 16r	.
 16a#	.
-4.b	C#m7b5/G
+4.b	C# half-diminished/G
 8r	.
 =11	=11
-8.c#	C#m
+8.c#	C# minor
 16r	.
 8.g#	.
 16r	.
-8.gn	Cadd(6,7,11)/B
+8.gn	C other-6,7,11/B
 16r	.
 4b	.
 =12	=12
-8.ccn	A#add(1,3,6,10)
+8.ccn	A# other-1,3,6,10
 16r	.
 8.g#	.
 16r	.
-8f#	G#7/C
+8f#L	G# dominant/C
 8e	.
-8d#	.
+8d#J	.
 8r	.
 =13	=13
-4.c#	C#m
+4.c#	C# minor
 8r	.
 4.g#	.
 8r	.
 =14	=14
-4.gn	Cmaj7/G
+4.gn	C major-seventh/G
 16r	.
 16a#	.
-2b	C#m7b5/G
+2b	C# half-diminished/G
 =15	=15
-4cc#	Amaj7
+4cc#	A major-seventh
 4g#	.
-8f#	B
+8f#L	B major
 8g#	.
 8f#	.
-8g#	.
+8g#J	.
 =16	=16
-2..c#	C#m
+2..c#	C# minor
 8r	.
 ==	==
 *-	*-

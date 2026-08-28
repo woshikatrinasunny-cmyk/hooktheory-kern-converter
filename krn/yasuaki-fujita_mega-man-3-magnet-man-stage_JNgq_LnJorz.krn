@@ -16,108 +16,108 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8cc#	F#sus4
+8cc#	F# suspended-fourth
 8r	.
-8cc#	F#sus4
+8cc#	F# suspended-fourth
 8r	.
-8een	Asus2
+8een	A suspended-second
 8r	.
-8een	Asus2
-8ff#	Bsus2
+8eenL	A suspended-second
+8ff#J	B suspended-second
 =2	=2
 8r	.
-16b	F#7
+16bLL	F# dominant
 16a#	.
 16b	.
-16cc#	.
+16cc#JJ	.
 8r	.
-16b	.
+16bLL	.
 16a#	.
 16b	.
-16cc#	.
+16cc#JJ	.
 4r	.
 =3	=3
 8r	.
-16b	.
+16bLL	.
 16a#	.
 16b	.
-16cc#	.
+16cc#JJ	.
 8r	.
-16b	.
+16bLL	.
 16a#	.
 16b	.
-16cc#	.
+16cc#JJ	.
 4r	.
 =4	=4
 8r	.
-8ff#	.
+8ff#L	.
 8bb	.
-8ff#	.
-8.een	.
-8ff#	.
+8ff#J	.
+8.eenL	.
+8ff#J	.
 16r	.
 8ff#	.
 =5	=5
-8aan	.
-16ff#	.
+8aanL	.
+16ff#Jk	.
 16r	.
-16een	.
-16ff#	.
+16eenLL	.
+16ff#JJ	.
 16r	.
-2ff#[	.
+[2ff#	.
 16ff#]	.
 =6	=6
-4a#	F#
+4a#	F# major
 8.ee#	.
 4..ff#	.
 16a#	.
 16r	.
 =7	=7
-8ddn	Bm
-16cc#	.
+8ddnL	B minor
+16cc#Jk	.
 16r	.
-16cc#	.
-16b	.
+16cc#LL	.
+16bJJ	.
 16r	.
-2b[	.
+[2b	.
 16b]	.
 =8	=8
-4gg#	C#sus4
+4gg#	C# suspended-fourth
 8.ff#	.
 4..ee#	.
-16cc#	.
-16b	.
+16cc#LL	.
+16bJJ	.
 =9	=9
-16a#	F#
+16a#	F# major
 16r	.
 16a#	.
 16r	.
-16a#	.
-16b	.
+16a#LL	.
+16bJJ	.
 16r	.
-2cc#[	.
+[2cc#	.
 16cc#]	.
 =10	=10
-4.ddn	Bm
-16ddn	.
-16een	.
-8.ff#	G#m7b5/B
+4.ddn	B minor
+16ddnLL	.
+16eenJJ	.
+8.ff#L	G# half-diminished/B
 8.een	.
-8ddn	.
+8ddnJ	.
 =11	=11
-8.cc#	F#/A#
-8.a#	.
+8.cc#L	F# major/A#
+8.a#J	.
 3...f#	.
 =12	=12
-8.b	G#m
-8.cc#	.
+8.bL	G# minor
+8.cc#J	.
 4dd#	.
-8ff#	.
+8ff#L	.
 8ee#	.
-8dd#	.
+8dd#J	.
 =13	=13
-8.ee#	C#
-8.ff#	.
+8.ee#L	C# major
+8.ff#J	.
 3...gg#	.
 ==	==
 *-	*-

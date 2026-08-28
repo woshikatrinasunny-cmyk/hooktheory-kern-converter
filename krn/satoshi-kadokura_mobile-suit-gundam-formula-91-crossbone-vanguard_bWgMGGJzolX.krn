@@ -16,116 +16,116 @@
 *c:	*
 *M4/4	*
 =1	=1
-2.c	Cm
-8c	.
-16G	.
-16c	.
+2.c	C minor
+8cL	.
+16GL	.
+16cJJ	.
 =2	=2
 2.g	.
-8g	.
-16c	.
-16g	.
+8gL	.
+16cL	.
+16gJJ	.
 =3	=3
-1e-	A-
+1e-	A- major
 =4	=4
 4c	.
 2.r	.
 =5	=5
-2.c	Cm
-8c	.
-16G	.
-16c	.
+2.c	C minor
+8cL	.
+16GL	.
+16cJJ	.
 =6	=6
 2.g	.
-8g	.
-16e-	.
-16cc	.
+8gL	.
+16e-L	.
+16ccJJ	.
 =7	=7
-1bn	A-m
+1bn	A- minor
 =8	=8
-4cc	Cm
+4cc	C minor
 2r	.
-8cc	.
-16g	.
-16cc	.
+8ccL	.
+16gL	.
+16ccJJ	.
 =9	=9
-1bn	A-m
+1bn	A- minor
 =10	=10
-4cc	C
+4cc	C major
 2.r	.
 =11	=11
 1r	.
 =12	=12
-1r	Gm/B-
+1r	G minor/B-
 =13	=13
-1an	Amaj7/A-
+1an	A major-seventh/A-
 =14	=14
-4dd	G-
+4dd	G- major
 2.r	.
 =15	=15
-1dd-	F
+1dd-	F major
 =16	=16
-4gg	Emaj7
+4gg	E major-seventh
 2.r	.
 =17	=17
-8.bb-	E-m
-16aan	.
-2.gg-[	.
+8.bb-L	E- minor
+16aanJk	.
+[2.gg-	.
 =18	=18
 2gg-]	.
-2gg	E-
+2gg	E- major
 =19	=19
-8.bb-	E-m
-16aan	.
-2.gg-[	.
+8.bb-L	E- minor
+16aanJk	.
+[2.gg-	.
 =20	=20
 2gg-]	.
-2gg	E-
+2gg	E- major
 =21	=21
-8.ee-	A-
-16dd	.
-4ee-[	.
-4ee-]	Cm/G
-8dd	.
-16g	.
-16dd	.
+8.ee-L	A- major
+16ddJk	.
+[4ee-	.
+4ee-]	C minor/G
+8ddL	.
+16gL	.
+16ddJJ	.
 =22	=22
-8.ee-	Cdim/G-
-16dd	.
-4ee-[	.
-4ee-]	Cm/G
-8dd	.
-16g	.
-16dd	.
+8.ee-L	C diminished/G-
+16ddJk	.
+[4ee-	.
+4ee-]	C minor/G
+8ddL	.
+16gL	.
+16ddJJ	.
 =23	=23
-8.an	G-maj7
-16a-	.
-4an[	.
-4an]	F
-8a-	.
-16c	.
-16a-	.
+8.anL	G- major-seventh
+16a-Jk	.
+[4an	.
+4an]	F major
+8a-L	.
+16cL	.
+16a-JJ	.
 =24	=24
-8.an	Eadd(1,5,7)
-16a-	.
-4an[	.
-4an]	F
-8a-	.
-16c	.
-16a-	.
+8.anL	E other-1,5,7
+16a-Jk	.
+[4an	.
+4an]	F major
+8a-L	.
+16cL	.
+16a-JJ	.
 =25	=25
-1an	Amaj7/A-
+1an	A major-seventh/A-
 =26	=26
-4dd	G-
+4dd	G- major
 2.r	.
 =27	=27
-1dd-	F
+1dd-	F major
 =28	=28
-4gg	Emaj7
+4gg	E major-seventh
 4r	.
 2gg	.
 =29	=29
-1c	C
+1c	C major
 =30	=30
 1r	.
 ==	==

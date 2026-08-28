@@ -16,72 +16,72 @@
 *G:	*
 *M4/4	*
 =1	=1
-1r	G
+1r	G major
 =2	=2
 1r	.
 =3	=3
-1r	C
+1r	C major
 =4	=4
-1r	D
+1r	D major
 =5	=5
-4d	G
+4d	G major
 4d	.
 8d	.
 8r	.
-16G	.
-16B	.
-8B	.
+16GLL	.
+16BJ	.
+8BJ	.
 =6	=6
 4B	.
-8B	.
-16B	.
+8BL	.
+16BJk	.
 8.B	.
 8A	.
 8r	.
 8G	.
 =7	=7
-4d	C
+4d	C major
 4d	.
 8d	.
 8r	.
-16G	.
+16GLK	.
 8A	.
-16B[	.
+[16BJk	.
 =8	=8
-8B]	D
+8BL]	D major
 8B	.
 8B	.
-16B	.
+16BJk	.
 8B	.
 8.A	.
 8r	.
 8G	.
 =9	=9
-4d	G
+4d	G major
 4d	.
-8.d	.
-16B	.
-16c	.
-8B	.
+8.dL	.
+16BL	.
+16cJ	.
+8BJ	.
 16r	.
 =10	=10
 4B	.
-8.B	.
-16B	.
-8.B	.
+8.BL	.
+16BJk	.
+8.BL	.
 8.G	.
-8G	.
+8GJ	.
 =11	=11
-4c	C
+4c	C major
+8.BL	.
+16BJk	.
+8.BL	.
 8.B	.
-16B	.
-8.B	.
-8.B	.
-8B	.
+8BJ	.
 =12	=12
-16B	D
-16A	.
-8G	.
+16BLL	D major
+16AJ	.
+8GJ	.
 4G	.
 2r	.
 ==	==

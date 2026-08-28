@@ -16,68 +16,68 @@
 *A:	*
 *M3/4	*
 =1	=1
-2a	A
+2a	A major
 4a	.
 =2	=2
-4a	Badd(3,5,7,10)
+4a	B other-3,5,7,10
 4.g#	.
 8f#	.
 =3	=3
-4e	C#m
+4e	C# minor
 4.ee	.
 8dd	.
 =4	=4
-4cc#	A/E
-4b	E
-8r	Fdim
+4cc#	A major/E
+4b	E major
+8r	F diminished
 8a	.
 =5	=5
-4.aa	F#m
+4.aa	F# minor
 8gg#	.
 4ff#	.
 =6	=6
-2ee	C#m
+2ee	C# minor
 4dd	.
 =7	=7
-4.cc#	Bm9
+4.cc#	B minor-ninth
 8b	.
 4a	.
 =8	=8
-4cc#	A/E
-4b	E7
+4cc#	A major/E
+4b	E dominant
 8r	.
-16e	.
-16e	.
+16eLL	.
+16eJJ	.
 =9	=9
-2a	A
+2a	A major
 4a	.
 =10	=10
-4a	Badd(3,5,7,10)
+4a	B other-3,5,7,10
 4.g#	.
 8f#	.
 =11	=11
-4e	C#m
+4e	C# minor
 4.ee	.
 8dd	.
 =12	=12
-4cc#	Eadd(2,7,9,10)
-4b	Fdim7
+4cc#	E other-2,7,9,10
+4b	F diminished-seventh
 8r	.
 8a	.
 =13	=13
-4.aa	F#m
+4.aa	F# minor
 8gg#	.
 4ff#	.
 =14	=14
-2ee	C#m
-8dd	.
-8cc#	.
+2ee	C# minor
+8ddL	.
+8cc#J	.
 =15	=15
-8a	E11
+8a	E dominant-11th
 4.cc#	.
-4b	E7
+4b	E dominant
 =16	=16
-2a	A
+2a	A major
 4r	.
 ==	==
 *-	*-

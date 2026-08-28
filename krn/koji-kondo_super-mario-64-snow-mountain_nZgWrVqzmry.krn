@@ -15,71 +15,71 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.ee	C
+4.ee	C major
 4ee	.
-8gg	.
+8ggL	.
 8aa	.
-8gg	.
+8ggJ	.
 =2	=2
-2.cc[	C
-8cc_	Dm
-8cc]	Em
+[2.cc	C major
+8ccL_	D minor
+8ccJ]	E minor
 =3	=3
-4.a	F
+4.a	F major
 4a	.
-8cc	.
+8ccL	.
 8dd	.
-8cc	.
+8ccJ	.
 =4	=4
-2..a	F#dim
+2..a	F# diminished
 8g#	.
 =5	=5
-4.g	Em7
+4.g	E minor-seventh
 4.g	.
 4gg	.
 =6	=6
-8r	D#7
+8r	D# dominant
 4.g	.
 4g	.
 4gg	.
 =7	=7
-8r	Dm7
+8r	D minor-seventh
 4.g	.
 4g	.
 4gg	.
 =8	=8
-2..dd	G
+2..dd	G major
 8dd#	.
 =9	=9
-4.ee	C
+4.ee	C major
 4ee	.
-8gg	.
+8ggL	.
 8aa	.
-8gg	.
+8ggJ	.
 =10	=10
-1aa#	C#dim
+1aa#	C# diminished
 =11	=11
-4.aa	Dm7
+4.aa	D minor-seventh
 4aa	.
-8ccc	.
+8cccL	.
 8ddd	.
-8ccc	.
+8cccJ	.
 =12	=12
-2..aa	D#dim
+2..aa	D# diminished
 8gg#	.
 =13	=13
-4.gg	Em7
-8gg[	.
-4gg]	D#7
+4.gg	E minor-seventh
+[8gg	.
+4gg]	D# dominant
 4g	.
 =14	=14
-8r	Dm7
+8r	D minor-seventh
 4.gg	.
-4g	G
+4g	G major
 4ee	.
 =15	=15
-1cc	C
+1cc	C major
 =16	=16
-1r	C
+1r	C major
 ==	==
 *-	*-

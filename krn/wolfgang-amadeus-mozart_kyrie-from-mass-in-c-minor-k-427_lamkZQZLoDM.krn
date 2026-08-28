@@ -15,119 +15,119 @@
 *c:	*
 *M4/4	*
 =1	=1
-4..c	Cm
+4..c	C minor
 16c	.
 4e-	.
 4g	.
 =2	=2
-4cc	Cm
+4cc	C minor
 4ee-	.
 4gg	.
 4ee-	.
 =3	=3
-4cc	Cm
+4cc	C minor
 4g	.
 4e-	.
 4g	.
 =4	=4
-4cc	Cm
+4cc	C minor
 4r	.
-4cc[	.
-4cc_	Cm/E-
+[4cc	.
+4cc_	C minor/E-
 =5	=5
-4cc]	Gsus4
-4bn	G7
-4g	Csus4
-4b-	C7/E
+4cc]	G suspended-fourth
+4bn	G dominant
+4g	C suspended-fourth
+4b-	C dominant/E
 =6	=6
-4b-	F7sus4
-4an	F7
-4f	B-sus4
-4a-	B-7/D
+4b-	F dominant-seventh-suspended-fourth
+4an	F dominant
+4f	B- suspended-fourth
+4a-	B- dominant/D
 =7	=7
-4g	E-
-4cc[	A-
-4cc]	G7sus4
-4bn	G
+4g	E- major
+[4cc	A- major
+4cc]	G dominant-seventh-suspended-fourth
+4bn	G major
 =8	=8
-8cc	Cm/E-
-8gg[	.
-8gg]	Cm
-8gg	.
-8gg	Gm/B-
+8ccL	C minor/E-
+[8gg	.
+8gg]	C minor
+8ggJ	.
+8ggL	G minor/B-
 8dd	.
 8dd	.
-8b-	.
+8b-J	.
 =9	=9
-16an	Dsus4
+16anLL	D suspended-fourth
 16bn	.
 16cc	.
-16bn	.
-8cc	D7
-8cc	.
-8cc	Gsus4
+16bnJ	.
+8cc	D dominant
+8ccJ	.
+8ccL	G suspended-fourth
 8bn	.
-8g	G7/B
-8g	.
+8g	G dominant/B
+8gJ	.
 =10	=10
-16g	Csus4
+16gLL	C suspended-fourth
 16an	.
 16b-	.
-16an	.
-8b-	C7
-8b-	.
-8b-	Fsus4
-8an	.
-4f	F7/A
+16anJ	.
+8b-	C dominant
+8b-J	.
+8b-L	F suspended-fourth
+8anJ	.
+4f	F dominant/A
 =11	=11
-8r	B-
-8dd	.
-8b-	E-
-8ee-	.
-8r	D7sus4
-8cc	.
-8an	D
-8dd	.
+8r	B- major
+8ddL	.
+8b-	E- major
+8ee-J	.
+8r	D dominant-seventh-suspended-fourth
+8ccL	.
+8an	D major
+8ddJ	.
 =12	=12
-8bn	G7
+8bnL	G dominant
 8g	.
-16cc	Cm/G
+16ccL	C minor/G
 16dd	.
 16ee-	.
-16cc	.
-4ff[	G11
-4ff]	G7
+16ccJJ	.
+[4ff	G dominant-11th
+4ff]	G dominant
 =13	=13
-4ee-	Cm
-4r	Cm/G
-4r	Cm/G
-4g	Cm/E-
+4ee-	C minor
+4r	C minor/G
+4r	C minor/G
+4g	C minor/E-
 =14	=14
-4ff	Dm7
-4dd	G7/F
-4gg	G7/F
-4g	C7
+4ff	D minor-seventh
+4dd	G dominant/F
+4gg	G dominant/F
+4g	C dominant
 =15	=15
-4ee-	Cm7
-4cc	F7/E-
-4ff	F7/E-
-4f	B-7
+4ee-	C minor-seventh
+4cc	F dominant/E-
+4ff	F dominant/E-
+4f	B- dominant
 =16	=16
-4e-[	Cm
-4e-]	Cm/E-
-4d[	G7/F
-4d]	G/D
+[4e-	C minor
+4e-]	C minor/E-
+[4d	G dominant/F
+4d]	G major/D
 =17	=17
-4d	Csus2
-8c	Cm/E-
-8g	.
-2f	Dm/F
+4d	C suspended-second
+8cL	C minor/E-
+8gJ	.
+2f	D minor/F
 =18	=18
-4f	Gm7
-8e-	Cm7/G
-8b-	.
-4an[	D7sus4
-8an]	D7/A
-8cc	.
+4f	G minor-seventh
+8e-L	C minor-seventh/G
+8b-J	.
+[4an	D dominant-seventh-suspended-fourth
+8anL]	D dominant/A
+8ccJ	.
 ==	==
 *-	*-

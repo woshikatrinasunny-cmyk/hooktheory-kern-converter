@@ -17,141 +17,141 @@
 *M4/4	*
 =1	=1
 8r	.
-8f	.
-8d	.
+8fL	.
+8dJ	.
 4f	.
 4.f	.
 =2	=2
-2f	Fadd(2,4,7)
+2f	F other-2,4,7
 8r	.
-8f	.
+8fL	.
 8d	.
-8f[	.
+[8fJ	.
 =3	=3
 2f]	.
-8r	Am7
+8r	A minor-seventh
 8f	.
 4d	.
 =4	=4
-4f	Gm7
+4f	G minor-seventh
 4d	.
 4f	.
-8d	C9
-8f[	.
+8dL	C dominant-ninth
+[8fJ	.
 =5	=5
 4.f]	.
-4f	C9
+4f	C dominant-ninth
 4f	.
 8c	.
 =6	=6
-4.r	Fadd(2,4,7)
-4f	Fadd(2,4,7)
+4.r	F other-2,4,7
+4f	F other-2,4,7
 4f	.
 8c	.
 =7	=7
 4.r	.
-4f	Am7
+4f	A minor-seventh
 4f	.
-8c[	Gm7
+[8c	G minor-seventh
 =8	=8
 8c]	.
 4f	.
-4f	C9
+4f	C dominant-ninth
 4f	.
 8c	.
 =9	=9
-4.r	C9
+4.r	C dominant-ninth
 4f	.
 4f	.
-8a[	Fadd(2,4,7)
+[8a	F other-2,4,7
 =10	=10
 8a]	.
 4f	.
 4f	.
 4f	.
-8a[	.
+[8a	.
 =11	=11
 8a]	.
 4f	.
-4f	Am7
+4f	A minor-seventh
 4f	.
-8a[	.
+[8a	.
 =12	=12
-8a]	Gm7
+8a]	G minor-seventh
 4f	.
 4f	.
 4f	.
-8a[	C9
+[8a	C dominant-ninth
 =13	=13
 8a]	.
 4.f	.
-8f	C9
+8f	C dominant-ninth
 4g	.
-8a[	Fadd(2,4,7)
+[8a	F other-2,4,7
 =14	=14
 8a]	.
 4g	.
 4.g	.
-8f	.
-8g[	.
+8fL	.
+[8gJ	.
 =15	=15
 4g]	.
 4r	.
-8f	Am7
+8f	A minor-seventh
 4g	.
-8a[	Gm7
+[8a	G minor-seventh
 =16	=16
 8a]	.
 4b-	.
 4cc	.
 4.a	.
 =17	=17
-2f	C9
+2f	C dominant-ninth
 2r	.
 =18	=18
-4r	Dm7
+4r	D minor-seventh
 8dd	.
 4.cc	.
-8b-	.
-8a[	.
+8b-L	.
+[8aJ	.
 =19	=19
-4a]	Dm7
+4a]	D minor-seventh
 8a-	.
 4.a	.
 8r	.
 8f	.
 =20	=20
-4g	B-m/D-
+4g	B- minor/D-
 8g	.
 4.g	.
-8a	.
-8g[	.
+8aL	.
+[8gJ	.
 =21	=21
-4g]	B-m/D-
-8d-	.
-8d-	.
+4g]	B- minor/D-
+8d-L	.
+8d-J	.
 4.r	.
 8d-	.
 =22	=22
-4c	F/C
+4c	F major/C
 8f	.
 4f	.
 4g	.
-8a[	.
+[8a	.
 =23	=23
-8a]	F/C
+8a]	F major/C
 4cc	.
 4dd	.
 8cc	.
 4r	.
 =24	=24
-8dd	G/B
+8dd	G major/B
 4cc	.
-4a	G/B
+4a	G major/B
 4g	.
-8g[	.
+[8g	.
 =25	=25
-8g]	G/B
+8g]	G major/B
 4a	.
 4d	.
 4.d	.

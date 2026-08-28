@@ -16,104 +16,104 @@
 *C:	*
 *M3/4	*
 =1	=1
-2.r	C
+2.r	C major
 =2	=2
 4r	.
-4r	Cmaj9
-4r	C/G
+4r	C major-ninth
+4r	C major/G
 =3	=3
-2.r	F
+2.r	F major
 =4	=4
-2r	F/C
+2r	F major/C
 16r	.
-16G	.
-8G	.
+16GLK	.
+8GJ	.
 =5	=5
-2G	C
+2G	C major
 4A	.
 =6	=6
-16G	C/G
-16E	.
+16GLL	C major/G
+16EJJ	.
 4..r	.
-16C	.
-8C	.
+16CLK	.
+8CJ	.
 =7	=7
-2C	C
-16D	.
-8.E	.
+2C	C major
+16DLK	.
+8.EJ	.
 =8	=8
-4E	C/G
+4E	C major/G
 2r	.
 =9	=9
-16G	C
-16G	.
+16GLL	C major
+16GJJ	.
 4.G	.
-8A	.
-8G[	.
+8AL	.
+[8GJ	.
 =10	=10
-16G]	.
+16GLL]	.
 16E	.
-16D	.
+16DJJ	.
 6...r	.
-8C	.
-8C	.
+8CL	.
+8CJ	.
 =11	=11
-8C	D/A
+8C	D major/A
 4.D	.
-16E	.
-8.D	.
+16ELK	.
+8.DJ	.
 =12	=12
-16C	G7
+16C	G dominant
 4..D	.
 4r	.
 =13	=13
 4r	.
-4r	Am
-16r	Bdim
-16G	.
-8G	.
+4r	A minor
+16r	B diminished
+16GLK	.
+8GJ	.
 =14	=14
-2G	C
+2G	C major
 4A	.
 =15	=15
-16G	C/G
-16E	.
+16GLL	C major/G
+16EJJ	.
 4..r	.
-16C	.
-8C	.
+16CLK	.
+8CJ	.
 =16	=16
-8C	C
+8C	C major
 4.E	.
-4G	C/G
+4G	C major/G
 =17	=17
-8G	F
+8G	F major
 3...A	.
 =18	=18
-16G	.
-16F	.
+16GLL	.
+16FJJ	.
 4..r	.
-16G	.
-8G	.
+16GLK	.
+8GJ	.
 =19	=19
-4.G	C
+4.G	C major
 8A	.
 4G	.
 =20	=20
 8G	.
 4.E	.
-8D	.
-8D[	.
+8DL	.
+[8DJ	.
 =21	=21
-4D]	G
+4D]	G major
 4E	.
 4BB	.
 =22	=22
-4C	C
+4C	C major
 2r	.
 =23	=23
 4r	.
-4r	Cmaj7/B
-8G	Am7
-8G	.
+4r	C major-seventh/B
+8GL	A minor-seventh
+8GJ	.
 ==	==
 *-	*-

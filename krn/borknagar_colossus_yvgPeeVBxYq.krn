@@ -16,57 +16,57 @@
 *a:	*
 *M6/4	*
 =1	=1
-2dd	Am
+2dd	A minor
 4dd	.
-8.cc	.
-16dd	.
+8.ccL	.
+16ddJk	.
 2ee	.
 =2	=2
-4.b	Bm
+4.b	B minor
 4.b	.
 4b	.
 4a	.
 4b	.
 =3	=3
-8.dd	C
-2dd[	.
+8.dd	C major
+[2dd	.
 16dd]	.
 2cc	.
 4cc	.
 =4	=4
-4.b	Bm
+4.b	B minor
 8a	.
 4a	.
-4b	Am/C
+4b	A minor/C
 4a	.
-4dd	Bm
+4dd	B minor
 =5	=5
-2dd	Am
+2dd	A minor
 4dd	.
 8.cc	.
-2cc[	.
+[2cc	.
 16cc]	.
 =6	=6
-4b	Bm
+4b	B minor
 4cc	.
 4b	.
 4b	.
 4b	.
 4b	.
 =7	=7
-4.dd	C
+4.dd	C major
 8dd	.
 4dd	.
 4.cc	.
 8dd	.
 4ee	.
 =8	=8
-8b	Bm
+8b	B minor
 4.a	.
 4a	.
-8b	Am/C
+8b	A minor/C
 4a	.
-8a[	.
-4a]	Bm
+[8a	.
+4a]	B minor
 ==	==
 *-	*-

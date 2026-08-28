@@ -16,36 +16,36 @@
 *D-:	*
 *M3/4	*
 =1	=1
-2.dd-[	G-
+[2.dd-	G- major
 =2	=2
-4.dd-]	G-add(6,7)
+4.dd-]	G- other-6,7
 8ee-	.
-8dd-	.
-8ee-	.
+8dd-L	.
+8ee-J	.
 =3	=3
-2.dd-[	D-
+[2.dd-	D- major
 =4	=4
-4dd-_	D-
-8dd-]	E-m7/D-
-8ee-	.
-8dd-	D-
-8ee-	.
+4dd-_	D- major
+8dd-L]	E- minor-seventh/D-
+8ee-J	.
+8dd-L	D- major
+8ee-J	.
 =5	=5
-4dd-	G-m
+4dd-	G- minor
 4cc	.
 4dd-	.
 =6	=6
-4ee-	E-m/G-
-4ff	Fm/A-
-4gg-	G-m/A
+4ee-	E- minor/G-
+4ff	F minor/A-
+4gg-	G- minor/A
 =7	=7
-2.ff	Fm
+2.ff	F minor
 =8	=8
-8dd-	G-/D-
-8cc	.
-8dd-	.
-8a-	.
-8dd-	.
-8ee-	.
+8dd-L	G- major/D-
+8ccJ	.
+8dd-L	.
+8a-J	.
+8dd-L	.
+8ee-J	.
 ==	==
 *-	*-

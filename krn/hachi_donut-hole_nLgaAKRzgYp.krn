@@ -16,130 +16,130 @@
 *b:	*
 *M4/4	*
 =1	=1
-4r	F#
+4r	F# major
 8r	.
-4r	F#
-4r	F#
-8r	F#
+4r	F# major
+4r	F# major
+8r	F# major
 =2	=2
-4r	F#
-4r	Bm/F#
-4r	Bsus4/F#
+4r	F# major
+4r	B minor/F#
+4r	B suspended-fourth/F#
 4b	.
 =3	=3
-4ff#	Gmaj7
+4ff#	G major-seventh
 4dd	.
 4b	.
 4ff#	.
 =4	=4
-4ee	A
+4ee	A major
 4cc#	.
 4r	.
 4a	.
 =5	=5
-4b	F#
+4b	F# major
 4dd	.
 4ee	.
 4ff#	.
 =6	=6
-4r	Bm
+4r	B minor
 4ff#	.
 4ee	.
 4dd	.
 =7	=7
-4dd	Gmaj7
+4dd	G major-seventh
 4b	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 8r	.
-8cc#[	A
+[8cc#	A major
 =8	=8
 4cc#]	.
 4a	.
-8f#	F#
-8a	.
+8f#L	F# major
+8aJ	.
 8r	.
-8b[	.
+[8b	.
 =9	=9
-4b]	Bm
-8a	.
-8g	.
-8f#	.
-8d[	.
+4b]	B minor
+8aL	.
+8gJ	.
+8f#L	.
+[8d	.
 8d]	.
-8e[	D
+[8eJ	D major
 =10	=10
 8e]	.
 8r	.
 4f#	.
 2r	.
 =11	=11
-4ff#	Gmaj7
+4ff#	G major-seventh
 4dd	.
 4b	.
 4ff#	.
 =12	=12
-4ee	F#m7/A
+4ee	F# minor-seventh/A
 4ff#	.
 4r	.
 4ff#	.
 =13	=13
-4gg	F#/A#
+4gg	F# major/A#
 4ee	.
 4cc#	.
 4dd	.
 =14	=14
-4r	Bm
+4r	B minor
 4dd	.
 4cc#	.
 4a	.
 =15	=15
-4b	Gmaj7
+4b	G major-seventh
 4cc#	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 8r	.
-8cc#[	.
+[8cc#	.
 =16	=16
-4cc#]	F#m7/A
+4cc#]	F# minor-seventh/A
 4a	.
 4f#	.
-8f#	.
-8dd[	.
+8f#L	.
+[8ddJ	.
 =17	=17
-4dd]	F#
+4dd]	F# major
 4cc#	.
 8a	.
 4f#	.
-8a[	.
+[8a	.
 =18	=18
-4a]	Bm
+4a]	B minor
 4b	.
 4r	.
 4f#	.
 =19	=19
-4b	Gmaj7
+4b	G major-seventh
 4cc#	.
 8dd	.
 4ee	.
-8cc#[	.
+[8cc#	.
 =20	=20
-4cc#]	F#m7/A
+4cc#]	F# minor-seventh/A
 4a	.
 4f#	.
-8f#	.
-8dd[	.
+8f#L	.
+[8ddJ	.
 =21	=21
-4dd]	F#
+4dd]	F# major
 4cc#	.
 8a	.
 4f#	.
-8a[	.
+[8a	.
 =22	=22
-4a]	Bm
+4a]	B minor
 4b	.
 8r	.
-4r	Bm
+4r	B minor
 8r	.
 ==	==
 *-	*-

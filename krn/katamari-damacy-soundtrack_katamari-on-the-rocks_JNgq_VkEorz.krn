@@ -16,54 +16,54 @@
 *B:	*
 *M4/4	*
 =1	=1
-3...b	B
-8cc#	.
+3...b	B major
+8cc#L	.
 8dd#	.
-8ee	.
+8eeJ	.
 =2	=2
-8dd#	F#m7
+8dd#	F# minor-seventh
 4b	.
 4f#	.
 8b	.
 8r	.
 8f#	.
 =3	=3
-4an	A
+4an	A major
 4b	.
 8an	.
 4g#	.
-8f#[	.
+[8f#	.
 =4	=4
-2f#]	F#7
+2f#]	F# dominant
 4.r	.
 8f#	.
 =5	=5
-3...b	B
-8cc#	.
+3...b	B major
+8cc#L	.
 8dd#	.
-8ee	.
+8eeJ	.
 =6	=6
-8dd#	F#m7
+8dd#	F# minor-seventh
 4b	.
 4f#	.
 8b	.
 8r	.
 8f#	.
 =7	=7
-4an	A
+4an	A major
 4b	.
 8an	.
 4g#	.
-8f#[	.
+[8f#	.
 =8	=8
-2f#]	F#
+2f#]	F# major
 4.r	.
 8b	.
 =9	=9
-3...ee	E
-8ff#	.
+3...ee	E major
+8ff#L	.
 8gg#	.
-8aan	.
+8aanJ	.
 =10	=10
 8gg#	.
 4ee	.
@@ -72,41 +72,41 @@
 8r	.
 8b	.
 =11	=11
-4ddn	D
+4ddn	D major
 4ee	.
 8ddn	.
 4cc#	.
-8b[	.
+[8b	.
 =12	=12
-2b]	G
+2b]	G major
 4.r	.
 8f#	.
 =13	=13
-3...b	B
-8cc#	.
+3...b	B major
+8cc#L	.
 8dd#	.
-8ee	.
+8eeJ	.
 =14	=14
-8dd#	F#m7
+8dd#	F# minor-seventh
 4b	.
 4f#	.
 8b	.
 8r	.
 8f#	.
 =15	=15
-4an	A
+4an	A major
 4b	.
 8an	.
 4g#	.
-8f#[	.
+[8f#	.
 =16	=16
-8f#]	F#
+8f#]	F# major
 4e	.
 4d#	.
 4e	.
 8f#	.
 =17	=17
-1f#	Emaj7
+1f#	E major-seventh
 =18	=18
 1r	.
 ==	==

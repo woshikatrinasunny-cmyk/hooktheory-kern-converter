@@ -16,166 +16,166 @@
 *f:	*
 *M4/4	*
 =1	=1
-8f	Fm
-8f	.
+8fL	F minor
+8fJ	.
 4r	.
-8cc	B-m
-8b-	.
+8ccL	B- minor
+8b-J	.
 8r	.
 8a-	.
 =2	=2
-8cc	C
-8a-	.
+8ccL	C major
+8a-J	.
 8r	.
 8a-	.
-8cc	Fm
-8b-	.
+8ccL	F minor
+8b-J	.
 8r	.
 8b-	.
 =3	=3
-8a-	Fm7
-8a-	.
+8a-L	F minor-seventh
+8a-J	.
 8r	.
 8cc	.
-16b-	B-m7
-16b-	.
-8b-	.
+16b-LL	B- minor-seventh
+16b-J	.
+8b-J	.
 8r	.
 8ee-	.
 =4	=4
-8ee-	C
-8cc	.
+8ee-L	C major
+8ccJ	.
 4ee-	.
-8ff	Fm
-8cc	.
+8ffL	F minor
+8ccJ	.
 8r	.
-16b-	.
-16b-	.
+16b-LL	.
+16b-JJ	.
 =5	=5
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 8r	.
 8cc	.
-8b-	B-m
-8b-	.
+8b-L	B- minor
+8b-J	.
 4r	.
 =6	=6
-8ee-	C
+8ee-L	C major
 8cc	.
 8ee-	.
-8cc	.
-8ee-	Fm
+8ccJ	.
+8ee-	F minor
 4.cc	.
 =7	=7
-8f	Fm7
-8f	.
+8fL	F minor-seventh
+8fJ	.
 8r	.
 8cc	.
-16b-	B-m7
-16b-	.
-8b-	.
+16b-LL	B- minor-seventh
+16b-J	.
+8b-J	.
 8r	.
 8ee-	.
 =8	=8
-16ee-	.
+16ee-LL	.
 16cc	.
 16cc	.
 16cc	.
 16cc	.
 16b-	.
 16b-	.
-16b-	.
-16b-	.
+16b-JJ	.
+16b-LL	.
 16a-	.
 16a-	.
 16a-	.
 16b-	.
 16a-	.
 16a-	.
-16cc[	.
+[16ccJJ	.
 =9	=9
-4cc]	Fm
-8b-	.
-8a-	.
-8b-	B-m
-8b-	.
+4cc]	F minor
+8b-L	.
+8a-J	.
+8b-L	B- minor
+8b-J	.
 8r	.
 8a-	.
 =10	=10
-8g	C
-8g	.
+8gL	C major
+8gJ	.
 8r	.
 8ee-	.
-8ee-	Fm
+8ee-L	F minor
 8ff	.
 8cc	.
-8b-	.
+8b-J	.
 =11	=11
-4f	Fm7
+4f	F minor-seventh
 8r	.
 8cc	.
-8b-	B-m7
-8b-	.
+8b-L	B- minor-seventh
+8b-J	.
 8r	.
 8ee-	.
 =12	=12
-16ee-	C
+16ee-LL	C major
 16cc	.
 16cc	.
 16cc	.
 16cc	.
 16b-	.
 16b-	.
-16b-	.
-16b-	Fm
+16b-JJ	.
+16b-LL	F minor
 16a-	.
 16a-	.
 16a-	.
 16b-	.
 16a-	.
 16a-	.
-16cc[	.
+[16ccJJ	.
 =13	=13
 4cc]	.
-8b-	.
-8a-	.
-8b-	B-m
-8b-	.
+8b-L	.
+8a-J	.
+8b-L	B- minor
+8b-J	.
 8r	.
 8a-	.
 =14	=14
-8g	C
-8g	.
+8gL	C major
+8gJ	.
 8r	.
 8ee-	.
-8ee-	Fm
+8ee-L	F minor
 8ff	.
 8cc	.
-16ee-	.
-16ee-	.
+16ee-L	.
+16ee-JJ	.
 =15	=15
-8ff	Fm7
+8ffL	F minor-seventh
 8ff	.
+16ffL	.
+16ffJ	.
+8ffJ	.
+16ffLL	B- minor-seventh
 16ff	.
 16ff	.
-8ff	.
-16ff	B-m7
-16ff	.
-16ff	.
-16ff	.
+16ffJJ	.
 4ff	.
 =16	=16
-16ff	C
+16ffLL	C major
 16ff	.
 16ff	.
 16ff	.
 16ff	.
+16ffJ	.
+8ffJ	.
+16ffLL	F minor
 16ff	.
-8ff	.
-16ff	Fm
 16ff	.
-16ff	.
-16ff	.
+16ffJJ	.
 4ff	.
 ==	==
 *-	*-

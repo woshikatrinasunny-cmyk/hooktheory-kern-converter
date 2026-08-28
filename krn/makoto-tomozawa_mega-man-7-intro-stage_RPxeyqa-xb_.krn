@@ -16,43 +16,43 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.ee	Em
+4.ee	E minor
 3...b	.
 =2	=2
-4.ff#	B/D#
+4.ff#	B major/D#
 3...b	.
 =3	=3
-3...gg	G/D
-8ff#	.
+3...gg	G major/D
+8ff#L	.
 8ee	.
-8ff#[	.
+[8ff#J	.
 =4	=4
-8ff#]	B/D#
+8ff#]	B major/D#
 4.b	.
 8dd	.
 8r	.
 8dd#	.
 8r	.
 =5	=5
-4.ee	Em
+4.ee	E minor
 3...b	.
 =6	=6
-4.ff#	B/D#
+4.ff#	B major/D#
 3...b	.
 =7	=7
-3...bb	G/D
-8aa	.
+3...bb	G major/D
+8aaL	.
 8gg	.
-8aa[	.
+[8aaJ	.
 =8	=8
-8aa]	B/D#
+8aa]	B major/D#
 4.ccc	.
 8bb	.
 8r	.
 8aa	.
 8r	.
 =9	=9
-4.gg	C#dim
+4.gg	C# diminished
 4.ee	.
 4gg	.
 =10	=10
@@ -60,7 +60,7 @@
 4.aa	.
 4gg	.
 =11	=11
-4.ff#	D7/C
+4.ff#	D dominant/C
 4.dd	.
 4ff#	.
 =12	=12
@@ -68,7 +68,7 @@
 4.gg	.
 4ff#	.
 =13	=13
-4.ee	Am
+4.ee	A minor
 4.cc	.
 4ee	.
 =14	=14
@@ -76,14 +76,14 @@
 4.ff#	.
 4ee	.
 =15	=15
-8bb	B
+8bb	B major
 8r	.
 8bb	.
 8r	.
 8bb	.
 8r	.
-8bb	.
-8bb	.
+8bbL	.
+8bbJ	.
 =16	=16
 1r	.
 ==	==

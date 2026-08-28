@@ -16,34 +16,34 @@
 *E:	*
 *M4/4	*
 =1	=1
-8r	E
-16g#	.
+8r	E major
+16g#LL	.
 16e	.
 16g#	.
 16b	.
-16ee	.
+16eeJJ	.
 8dd#	.
 4..r	.
 =2	=2
-1r	G#7
+1r	G# dominant
 =3	=3
-4r	C#add(2,3,7)
-4r	C#m
-4r	C#m7
-4r	C#add(3,7,9)
+4r	C# other-2,3,7
+4r	C# minor
+4r	C# minor-seventh
+4r	C# other-3,7,9
 =4	=4
-2r	A
-4r	Am7
-4r	Cadd(4,6)
+2r	A major
+4r	A minor-seventh
+4r	C other-4,6
 =5	=5
 *k[f#c#g#]	*
 *E:	*
-1r	E
+1r	E major
 =6	=6
-1r	G#7
+1r	G# dominant
 =7	=7
-1r	Dadd(2,4,7,9)
+1r	D other-2,4,7,9
 =8	=8
-1r	A/C#
+1r	A major/C#
 ==	==
 *-	*-

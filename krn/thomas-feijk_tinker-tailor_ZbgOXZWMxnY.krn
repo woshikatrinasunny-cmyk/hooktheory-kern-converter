@@ -15,52 +15,52 @@
 *b:	*
 *M4/4	*
 =1	=1
-4dd	Gmaj7
+4dd	G major-seventh
 8a	.
 4.b	.
-8ff#	.
-8b[	.
+8ff#L	.
+[8bJ	.
 =2	=2
 4b]	.
 8a	.
 4.b	.
-8ff#	.
-8b[	Gmaj7sus2
+8ff#L	.
+[8bJ	G major-seventh-suspended-second
 =3	=3
-4b]	F#m7/A
+4b]	F# minor-seventh/A
 8a	.
-4.b	D/A
-8ff#	Aadd(2,5,7)
-8b[	.
+4.b	D major/A
+8ff#L	A other-2,5,7
+[8bJ	.
 =4	=4
-4b]	Bm
+4b]	B minor
 8a	.
 4b	.
-4ff#[	.
-8ff#]	Badd(2,3,7)
+[4ff#	.
+8ff#]	B other-2,3,7
 =5	=5
-4b	E7sus2
+4b	E dominant-seventh-suspended-second
 8cc#	.
 4.dd	.
-8aa	.
-8dd[	.
+8aaL	.
+[8ddJ	.
 =6	=6
 4dd]	.
 8cc#	.
 4.dd	.
-8aa	.
-8dd[	E7sus4
+8aaL	.
+[8ddJ	E dominant-seventh-suspended-fourth
 =7	=7
-4dd]	Gmaj7
+4dd]	G major-seventh
 8cc#	.
-4.dd	Gmaj7sus2
-8aa	Gmaj7
-8dd[	.
+4.dd	G major-seventh-suspended-second
+8aaL	G major-seventh
+[8ddJ	.
 =8	=8
-4dd]	Aadd(2,5,7)
+4dd]	A other-2,5,7
 8cc#	.
 4dd	.
 4ee	.
-8aa	Aadd(2,4,7)
+8aa	A other-2,4,7
 ==	==
 *-	*-

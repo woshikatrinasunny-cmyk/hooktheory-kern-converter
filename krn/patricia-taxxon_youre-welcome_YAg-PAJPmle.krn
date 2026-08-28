@@ -16,113 +16,113 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4r	F#
+4r	F# major
 4a#	.
-4cc#	F#add(2,4,7)
-8a#	.
-8g#[	.
+4cc#	F# other-2,4,7
+8a#L	.
+[8g#J	.
 =2	=2
-8g#]	A#dim/C#
+8g#]	A# diminished/C#
 4g#	.
 8a#	.
-8g#	A#m7b5/C#
-8f#	.
+8g#L	A# half-diminished/C#
+8f#J	.
 4f#	.
 =3	=3
-4d#	G#add(2,3,7)
+4d#	G# other-2,3,7
 8r	.
 8a#	.
 4dd#	.
-8a#	.
-8g#[	.
+8a#L	.
+[8g#J	.
 =4	=4
-8g#]	BmMaj7
+8g#]	B major-minor
 4g#	.
 8a#	.
-8g#	G#m9b5/B
-8f#	.
+8g#L	G# half-diminished-ninth/B
+8f#J	.
 4f#	.
 =5	=5
-4c#	F#
+4c#	F# major
 8r	.
 8a#	.
-4cc#	F#add(2,4,7)
-8a#	.
-8g#[	.
+4cc#	F# other-2,4,7
+8a#L	.
+[8g#J	.
 =6	=6
-8g#]	A#dim/E
+8g#]	A# diminished/E
 4g#	.
 8a#	.
-8g#	A#m7b5/E
+8g#	A# half-diminished/E
 4f#	.
-8f#[	.
+[8f#	.
 =7	=7
-8f#]	G#add(2,3,7)
+8f#]	G# other-2,3,7
 8r	.
 4f#	.
 8g#	.
 4f#	.
-8f#[	.
+[8f#	.
 =8	=8
-4.f#]	BmMaj7/D
-4r	C#add(1,5,6,9,10)
-8f#	BmMaj7/D
-8g#	G#add(2,3,6)/B
-8f#	C#add(1,5,6,9,10)
+4.f#]	B major-minor/D
+4r	C# other-1,5,6,9,10
+8f#L	B major-minor/D
+8g#	G# other-2,3,6/B
+8f#J	C# other-1,5,6,9,10
 =9	=9
-4r	F#
+4r	F# major
 4a#	.
-4cc#	F#add(2,4,7)
-8a#	.
-8g#[	.
+4cc#	F# other-2,4,7
+8a#L	.
+[8g#J	.
 =10	=10
-8g#]	A#dim/C#
+8g#]	A# diminished/C#
 4g#	.
 8a#	.
-8g#	A#m7b5/C#
-8f#	.
+8g#L	A# half-diminished/C#
+8f#J	.
 4f#	.
 =11	=11
-4d#	G#add(2,3,7)
+4d#	G# other-2,3,7
 8r	.
 8a#	.
 4dd#	.
-8a#	.
-8g#[	.
+8a#L	.
+[8g#J	.
 =12	=12
-8g#]	BmMaj7
+8g#]	B major-minor
 4g#	.
 8a#	.
-8g#	G#m9b5/B
-8f#	.
+8g#L	G# half-diminished-ninth/B
+8f#J	.
 4f#	.
 =13	=13
-4c#	F#
+4c#	F# major
 8r	.
 8a#	.
-4cc#	F#add(2,4,7)
-8a#	.
-8g#[	.
+4cc#	F# other-2,4,7
+8a#L	.
+[8g#J	.
 =14	=14
-8g#]	A#dim/C#
+8g#]	A# diminished/C#
 4g#	.
 8a#	.
-8g#	A#m7b5/C#
+8g#	A# half-diminished/C#
 4f#	.
-8f#[	.
+[8f#	.
 =15	=15
-8f#]	G#add(2,3,7)
+8f#]	G# other-2,3,7
 8r	.
 4f#	.
 4g#	.
-8f#	.
-8f#[	.
+8f#L	.
+[8f#J	.
 =16	=16
-8f#_	BmMaj7
-4f#]	BmMaj7/D
-4r	C#add(1,5,6,9,10)
-8f#	BmMaj7/D
-8g#	G#add(2,3,6)/B
-8f#	C#add(1,5,6,9,10)
+8f#_	B major-minor
+4f#]	B major-minor/D
+4r	C# other-1,5,6,9,10
+8f#L	B major-minor/D
+8g#	G# other-2,3,6/B
+8f#J	C# other-1,5,6,9,10
 ==	==
 *-	*-

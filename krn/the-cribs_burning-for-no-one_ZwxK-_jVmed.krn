@@ -16,62 +16,62 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8r	F#m
-8r	F#m
-4.r	F#m
-4r	E
-8ee[	D
+8r	F# minor
+8r	F# minor
+4.r	F# minor
+4r	E major
+[8ee	D major
 =2	=2
-8ee]	D
-8dd[	D
-8dd]	D
+8eeL]	D major
+[8dd	D major
+8ddJ]	D major
 4a	.
-4b	E
-8cc#[	E
+4b	E major
+[8cc#	E major
 =3	=3
-8cc#_	F#m/A
-8cc#_	F#m/A
-4.cc#_	F#m/A
-4cc#]	E
-8cc#[	D
+8cc#L_	F# minor/A
+8cc#J_	F# minor/A
+4.cc#_	F# minor/A
+4cc#]	E major
+[8cc#	D major
 =4	=4
-8cc#]	D
-8b[	D
-8b]	D
+8cc#L]	D major
+[8b	D major
+8bJ]	D major
 4ee	.
-4ff#	E
-8cc#[	E
+4ff#	E major
+[8cc#	E major
 =5	=5
-8cc#_	F#m/A
-8cc#_	F#m/A
-4.cc#_	F#m/A
-8cc#]	E
-8b[	.
-8b]	D
+8cc#L_	F# minor/A
+8cc#J_	F# minor/A
+4.cc#_	F# minor/A
+8cc#L]	E major
+[8b	.
+8bJ]	D major
 =6	=6
-8b	D
-8a	D
-8a	D
+8bL	D major
+8a	D major
+8aJ	D major
 4ee	.
-4ff#	E
-8cc#	E
+4ff#	E major
+8cc#	E major
 =7	=7
-8cc#[	A
-8cc#_	A
-8cc#]	A
-8a[	A
-8a_	A
-8a_	A
-8a_	A
-8a]	A
+[8cc#L	A major
+8cc#_	A major
+8cc#]	A major
+[8aJ	A major
+8aL_	A major
+8a_	A major
+8a_	A major
+8aJ]	A major
 =8	=8
-8b[	E
-8b_	E
-8b]	E
-8g#[	E
-8g#_	E
-8g#_	E
-8g#_	E
-8g#]	E
+[8bL	E major
+8b_	E major
+8b]	E major
+[8g#J	E major
+8g#L_	E major
+8g#_	E major
+8g#_	E major
+8g#J]	E major
 ==	==
 *-	*-

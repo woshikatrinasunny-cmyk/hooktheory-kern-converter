@@ -15,25 +15,25 @@
 *C:	*
 *M6/8	*
 =1	=1
-4.aaa	F
-8cccc	Fmaj7/E
+4.aaa	F major
+8ccccL	F major-seventh/E
 8bbb	.
-8aaa	Dm7
+8aaaJ	D minor-seventh
 =2	=2
-2ggg	C
+2ggg	C major
 4r	.
 =3	=3
-16ddd	G
+16ddd	G major
 16r	.
 16ddd	.
 16r	.
 16ddd	.
 16r	.
-8ddd	.
+8dddL	.
 8eee	.
-8fff	.
+8fffJ	.
 =4	=4
-16eee	C
+16eee	C major
 16r	.
 16eee	.
 16r	.
@@ -42,46 +42,46 @@
 4ccc	.
 8r	.
 =5	=5
-4.aaa	F
-8cccc	Fmaj7/E
+4.aaa	F major
+8ccccL	F major-seventh/E
 8bbb	.
-8aaa	.
+8aaaJ	.
 =6	=6
-2ggg	C
+2ggg	C major
 4r	.
 =7	=7
-16ddd	G
+16ddd	G major
 16r	.
 16ddd	.
 16r	.
 16ddd	.
 16r	.
-8ddd	.
+8dddL	.
 8ccc	.
-8bb	.
+8bbJ	.
 =8	=8
-4.ccc	C
-4.gg	C/G
+4.ccc	C major
+4.gg	C major/G
 =9	=9
-4.aaa	F
-8cccc	.
+4.aaa	F major
+8ccccL	.
 8bbb	.
-8aaa	.
+8aaaJ	.
 =10	=10
-2ggg	C
+2ggg	C major
 4r	.
 =11	=11
-16ddd	G
+16ddd	G major
 16r	.
 16ddd	.
 16r	.
 16ddd	.
 16r	.
-8ddd	.
+8dddL	.
 8eee	.
-8fff	.
+8fffJ	.
 =12	=12
-16eee	C
+16eee	C major
 16r	.
 16eee	.
 16r	.
@@ -90,15 +90,15 @@
 4ccc	.
 8r	.
 =13	=13
-4.aaa	F
-8cccc	Fmaj7/E
+4.aaa	F major
+8ccccL	F major-seventh/E
 8bbb	.
-8aaa	Dm7
+8aaaJ	D minor-seventh
 =14	=14
-3...ggg	C
+3...ggg	C major
 8r	.
 =15	=15
-16ddd	G7
+16ddd	G dominant
 16r	.
 16ddd	.
 16r	.
@@ -111,7 +111,7 @@
 16aaa	.
 16r	.
 =16	=16
-4.cccc	C
+4.cccc	C major
 4CC	.
 8r	.
 ==	==

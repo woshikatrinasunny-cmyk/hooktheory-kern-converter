@@ -17,42 +17,42 @@
 *M4/4	*
 =1	=1
 3...r	.
-8dd	.
+8ddL	.
 8ff	.
-8gg[	.
+[8ggJ	.
 =2	=2
-4gg]	Gadd(2,3,7)
-8.r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
+4gg]	G other-2,3,7
+8.r	G other-2,3,7
+16r	G other-2,3,7
+8ddL	.
+8ee-	G other-2,3,7
 8dd	.
-8ee-	Gadd(2,3,7)
-8dd	.
-8ff[	F
+[8ffJ	F major
 =3	=3
-8ff]	B-maj7
-8dd[	.
-8dd]	B-maj7
+8ffL]	B- major-seventh
+[8dd	.
+8ddJ]	B- major-seventh
 16r	.
-8.r	B-maj7
-8r	B-maj7sus2/C
-8dd	.
-8ff[	Dm
+8.r	B- major-seventh
+8r	B- major-seventh-suspended-second/C
+8ddL	.
+[8ffJ	D minor
 =4	=4
-8ff]	Dm
-8dd[	.
-8dd]	Dm
+8ffL]	D minor
+[8dd	.
+8ddJ]	D minor
 16r	.
-8.r	Dm
-8r	Dm
-8dd	.
-8cc[	Dm
+8.r	D minor
+8r	D minor
+8ddL	.
+[8ccJ	D minor
 =5	=5
-4cc_	F
-8.cc_	F
-16cc]	F
+4cc_	F major
+8.ccL_	F major
+16ccJk]	F major
 8r	.
-8dd	F
+8ddL	F major
 8ff	.
-8gg	F
+8ggJ	F major
 ==	==
 *-	*-

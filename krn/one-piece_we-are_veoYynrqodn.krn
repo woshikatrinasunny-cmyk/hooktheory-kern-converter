@@ -15,53 +15,53 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8eee-	E-
+8eee-	E- major
 8r	.
-8ee-	E-
+8ee-	E- major
 8r	.
-2dd-	D-add(2,4,7)
+2dd-	D- other-2,4,7
 =2	=2
-4.bn	B/E-
-4dd-	D-add(2,4,7)
-8bn	B/E-
-8dd-	B-m7
-8ee-	E-/B-
+4.bn	B major/E-
+4dd-	D- other-2,4,7
+8bnL	B major/E-
+8dd-	B- minor-seventh
+8ee-J	E- major/B-
 =3	=3
 4r	.
-8ee-	E-
+8ee-	E- major
 8r	.
-2dd-	D-
+2dd-	D- major
 =4	=4
-4.bn	B/E-
-4dd-	B-m7
-8gg-	B
-8ff	E-
-8ee-	.
+4.bn	B major/E-
+4dd-	B- minor-seventh
+8gg-L	B major
+8ff	E- major
+8ee-J	.
 =5	=5
 8e-	.
 8r	.
-8ee-	E-
+8ee-	E- major
 8r	.
-2dd-	D-add(2,4,7)
+2dd-	D- other-2,4,7
 =6	=6
-4.bn	B/E-
-4dd-	D-add(2,4,7)
-8bn	B/E-
-8dd-	B-m7
-8ee-	E-/B-
+4.bn	B major/E-
+4dd-	D- other-2,4,7
+8bnL	B major/E-
+8dd-	B- minor-seventh
+8ee-J	E- major/B-
 =7	=7
 4r	.
-4b-	E-7/D-
-8b-	A-add(2,4,7)
-8dd-[	.
-4dd-]	E-/B-
+4b-	E- dominant/D-
+8b-L	A- other-2,4,7
+[8dd-J	.
+4dd-]	E- major/B-
 =8	=8
-8.bn	A
-16dd-[	B/E-
-8dd-]	.
-4.ee-	E-sus2
-16b-	.
+8.bnL	A major
+[16dd-k	B major/E-
+8dd-J]	.
+4.ee-	E- suspended-second
+16b-LK	.
 8b-	.
-16b-	.
+16b-Jk	.
 ==	==
 *-	*-

@@ -16,61 +16,61 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.r	C
+4.r	C major
 8.e	.
-8d	.
-16c	.
-4c[	.
+8dL	.
+16cJk	.
+[4c	.
 =2	=2
-4.c]	Am
+4.c]	A minor
 8.e	.
-8d	.
-16c	.
+8dL	.
+16ck	.
 8.d	.
-16c[	.
+[16cJk	.
 =3	=3
-16c]	C/G
-2...c[	.
+16c]	C major/G
+[2...c	.
 =4	=4
-6...c]	F
-16c	.
-8c[	.
-4c]	Fm
-8.G#	.
-16G	.
+6...c]	F major
+16cLK	.
+[8cJ	.
+4c]	F minor
+8.G#L	.
+16GJk	.
 =5	=5
-16G	C
-16G	.
-2..e[	.
+16GLL	C major
+16GJJ	.
+[2..e	.
 =6	=6
-6...e]	Dm
+6...e]	D minor
 16d	.
 8.e	.
-8d	.
-16c	.
-4d[	.
+8dL	.
+16cJk	.
+[4d	.
 =7	=7
-8d]	Dm/A
-8c	.
-4c[	.
-2c_	Am
+8dL]	D minor/A
+8cJ	.
+[4c	.
+2c_	A minor
 =8	=8
-3...c]	C/G
+3...c]	C major/G
 16c	.
 4c	.
 16cc	.
 =9	=9
-2..cc	F
-8dd[	.
+2..cc	F major
+[8dd	.
 =10	=10
-8dd]	Fm
+8dd]	F minor
 4cc	.
 4cc	.
 4g#	.
-8g[	.
+[8g	.
 =11	=11
-1g]	C/G
+1g]	C major/G
 =12	=12
-1r	C
+1r	C major
 ==	==
 *-	*-

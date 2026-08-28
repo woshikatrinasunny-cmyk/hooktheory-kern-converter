@@ -16,36 +16,36 @@
 *G:	*
 *M4/4	*
 =1	=1
-16B	G
+16BLL	G major
 16B	.
-16A	Gsus4
-3...G	G
+16AJJ	G suspended-fourth
+3...G	G major
+16GLL	.
 16G	.
-16G	.
-16G	.
+16GJJ	.
 =2	=2
-8G	C
-16A	Cadd(6,7)
-2E[	C
+8GL	C major
+16AJk	C other-6,7
+[2E	C major
 16E]	.
 8r	.
-16G	.
-16G#	.
+16GLL	.
+16G#JJ	.
 =3	=3
-16A	A
-16B[	.
-16B]	Asus4
-6...A	A
+16ALL	A major
+[16B	.
+16BJJ]	A suspended-fourth
+6...A	A major
 4.r	.
-16A	.
-16A	.
+16ALL	.
+16AJJ	.
 =4	=4
-16A	D
-8.B	.
+16ALK	D major
+8.BJ	.
 4A	.
-8c	F
-8A	D
-8G	G
-8E	E
+8cL	F major
+8A	D major
+8G	G major
+8EJ	E major
 ==	==
 *-	*-

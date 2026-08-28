@@ -16,13 +16,13 @@
 *e:	*
 *M4/4	*
 =1	=1
-4d	Em7
-8d	A7sus4
-8d[	.
-8d]	Em7/D
-8d[	.
-8d]	Em7
-8d[	.
+4d	E minor-seventh
+8dL	A dominant-seventh-suspended-fourth
+[8dJ	.
+8dL]	E minor-seventh/D
+[8d	.
+8d]	E minor-seventh
+[8dJ	.
 =2	=2
 8d]	.
 2..d	.
@@ -32,11 +32,11 @@
 2..r	.
 8A	.
 =5	=5
-8d	F#m7
+8d	F# minor-seventh
 4d	.
 8d	.
 4d	.
-4d[	.
+[4d	.
 =6	=6
 1d]	.
 =7	=7
@@ -44,24 +44,24 @@
 =8	=8
 2r	.
 4d	.
-4c#[	.
+[4c#	.
 =9	=9
-1c#]	A
+1c#]	A major
 =10	=10
 2.r	.
-4r	A7
+4r	A dominant
 =11	=11
 2..r	.
-8r	F#m/A
+8r	F# minor/A
 =12	=12
 2r	.
 4B	.
-4d[	.
+[4d	.
 =13	=13
-4d_	Gmaj7
-8d]	Gmaj7/F#
-8d[	.
-2d_	Em9
+4d_	G major-seventh
+8dL]	G major-seventh/F#
+[8dJ	.
+2d_	E minor-ninth
 =14	=14
 2d]	.
 2r	.

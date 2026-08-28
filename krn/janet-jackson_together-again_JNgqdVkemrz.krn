@@ -15,61 +15,61 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
-8e	.
-8c	.
-8.d	G/B
+4r	C major
+8eL	.
+8cJ	.
+8.dL	G major/B
 8.g	.
-8c	.
+8cJ	.
 =2	=2
-4r	Am7
-8c	.
-8A	.
-8.B	G
+4r	A minor-seventh
+8cL	.
+8AJ	.
+8.BL	G major
 8.c	.
-8A	.
+8AJ	.
 =3	=3
-4r	Fmaj7
-8c	.
-8A	.
-8.B	C/E
+4r	F major-seventh
+8cL	.
+8AJ	.
+8.BL	C major/E
 8.c	.
-8A	.
+8AJ	.
 =4	=4
-4r	Dm7
-8c	.
-8c	.
-8.c	Fmaj7
+4r	D minor-seventh
+8cL	.
+8cJ	.
+8.cL	F major-seventh
 8.e	.
-8e	.
+8eJ	.
 =5	=5
-4r	C
-8e	.
-8c	.
-8.d	G/B
+4r	C major
+8eL	.
+8cJ	.
+8.dL	G major/B
 8.g	.
-8c	.
+8cJ	.
 =6	=6
-4r	Am7
-8c	.
-8c	.
-8.c	G
+4r	A minor-seventh
+8cL	.
+8cJ	.
+8.cL	G major
 8.e	.
-8e	.
+8eJ	.
 =7	=7
-8r	Fmaj7
-8A	.
+8r	F major-seventh
+8AL	.
 8c	.
-8c	.
-8.c	C/E
+8cJ	.
+8.cL	C major/E
 8.e	.
-8e	.
+8eJ	.
 =8	=8
-4r	Dadd(2,3,7)
-8e	.
-8f	.
-8.e	Fmaj7
+4r	D other-2,3,7
+8eL	.
+8fJ	.
+8.eL	F major-seventh
 8.d	.
-8d	.
+8dJ	.
 ==	==
 *-	*-

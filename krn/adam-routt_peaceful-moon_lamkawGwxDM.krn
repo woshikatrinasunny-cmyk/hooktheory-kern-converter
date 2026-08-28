@@ -16,74 +16,74 @@
 *E:	*
 *M3/4	*
 =1	=1
-2b	Eadd(2,4,7)
-8a	.
-8g#	.
+2b	E other-2,4,7
+8aL	.
+8g#J	.
 =2	=2
-2b	Eadd(2,5,7)/F#
-8a	.
-8g#	.
+2b	E other-2,5,7/F#
+8aL	.
+8g#J	.
 =3	=3
-4f#	Eadd(2,4,7)/G#
+4f#	E other-2,4,7/G#
 4e	.
-8c#	.
-8e	.
+8c#L	.
+8eJ	.
 =4	=4
-4b	Cadd(4,6,11)
+4b	C other-4,6,11
 4a	.
-8e	.
-8b[	.
+8eL	.
+[8bJ	.
 =5	=5
-2b]	Eadd(2,4,7)
-8a	.
-8g#	.
+2b]	E other-2,4,7
+8aL	.
+8g#J	.
 =6	=6
-4b	F#add(3,5)
+4b	F# other-3,5
 8a	.
 4.e	.
 =7	=7
-2.a	C#add(3,10)
+2.a	C# other-3,10
 =8	=8
-2r	Cadd(4,6,11)
+2r	C other-4,6,11
 4B	.
 =9	=9
-2b	Eadd(2,4,7)
-8a	.
-8g#	.
+2b	E other-2,4,7
+8aL	.
+8g#J	.
 =10	=10
-2b	Badd(3,5,7,9)/D
-8a	.
-8g#	.
+2b	B other-3,5,7,9/D
+8aL	.
+8g#J	.
 =11	=11
-4f#	C#m7
+4f#	C# minor-seventh
 4e	.
-8c#	.
-8e	.
+8c#L	.
+8eJ	.
 =12	=12
-4b	Cadd(4,6,9,11)
+4b	C other-4,6,9,11
 4a	.
 8r	.
 8e	.
 =13	=13
-8g#	Eadd(4,7,9)
-8a	.
-8g#	.
-8f#	.
+8g#L	E other-4,7,9
+8aJ	.
+8g#L	.
+8f#J	.
 8e	.
 8r	.
 =14	=14
-4r	A#m7b5
+4r	A# half-diminished
 4c#	.
-8e	.
-8e[	.
+8eL	.
+[8eJ	.
 =15	=15
-2.e]	Amaj7
+2.e]	A major-seventh
 =16	=16
-2.r	Cadd(4,6,9,11)
+2.r	C other-4,6,9,11
 =17	=17
 2.r	.
 =18	=18
-2.r	Emaj9
+2.r	E major-ninth
 =19	=19
 2.r	.
 ==	==

@@ -15,66 +15,66 @@
 *d:	*
 *M4/4	*
 =1	=1
-8fff	Dadd(2,3,7)
+8fffL	D other-2,3,7
 8eee	.
 8ccc	.
-8aa	.
-8ddd	B-add(2,4,7)
+8aaJ	.
+8ddd	B- other-2,4,7
 4r	.
 8ddd	.
 =2	=2
-8ccc	Am
+8cccL	A minor
 8aa	.
-8ff	C
-8gg	.
-8aa	F
+8ff	C major
+8ggJ	.
+8aa	F major
 8r	.
-8gg	Cadd(2,4,7)/E
+8gg	C other-2,4,7/E
 8r	.
 =3	=3
-8ee	Dadd(2,3,7)
+8eeL	D other-2,3,7
 8ff	.
 8aa	.
-8ccc	.
-8eee	C/G
+8cccJ	.
+8eee	C major/G
 8r	.
 8fff	.
 8r	.
 =4	=4
-8ccc	Cadd(2,5,7)
+8ccc	C other-2,5,7
 4.r	.
-4r	C
+4r	C major
 8eee	.
 8r	.
 =5	=5
-8fff	Dadd(2,3,7)
+8fffL	D other-2,3,7
 8eee	.
 8ccc	.
-8aa	.
-8ddd	B-add(2,4,7)
+8aaJ	.
+8ddd	B- other-2,4,7
 4r	.
 8ddd	.
 =6	=6
-8ccc	Am
+8cccL	A minor
 8aa	.
-8ff	C
-8gg	.
-8aa	F
+8ff	C major
+8ggJ	.
+8aa	F major
 8r	.
-8gg	Cadd(2,4,7)/E
+8gg	C other-2,4,7/E
 8r	.
 =7	=7
-8ee	Dadd(2,3,7)
+8eeL	D other-2,3,7
 8ff	.
 8aa	.
-8ccc	.
-8eee	C/G
+8cccJ	.
+8eeeL	C major/G
 8ddd	.
-8ccc	Am
-8ddd	.
+8ccc	A minor
+8dddJ	.
 =8	=8
-8ddd	Dadd(2,5,7)
+8ddd	D other-2,5,7
 4.r	.
-2r	D
+2r	D major
 ==	==
 *-	*-

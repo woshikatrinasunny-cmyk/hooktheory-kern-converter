@@ -16,14 +16,14 @@
 *G:	*
 *M4/4	*
 =1	=1
-1r	Gadd(2,4,7)
+1r	G other-2,4,7
 =2	=2
 8d	.
 4e	.
 4g	.
 4.dd	.
 =3	=3
-2b	Bm7
+2b	B minor-seventh
 2r	.
 =4	=4
 8d	.
@@ -31,7 +31,7 @@
 4g	.
 4.dd	.
 =5	=5
-2b	G7/D
+2b	G dominant/D
 2r	.
 =6	=6
 8d	.
@@ -39,11 +39,11 @@
 4g	.
 4.dd	.
 =7	=7
-4.b	Cadd(2,4,7,9)
+4.b	C other-2,4,7,9
 4.a	.
-4g[	.
+[4g	.
 =8	=8
-8g]	Am7b5/D#
+8g]	A half-diminished/D#
 4.d#	.
 4d	.
 4c	.

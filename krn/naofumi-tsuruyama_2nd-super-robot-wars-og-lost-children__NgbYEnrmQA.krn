@@ -16,7 +16,7 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8f#	F#m
+8f#	F# minor
 16r	.
 8f#	.
 16r	.
@@ -24,11 +24,11 @@
 16r	.
 16g#	.
 16r	.
-4.e[	.
+[4.e	.
 =2	=2
 1e]	.
 =3	=3
-8f#	F#m
+8f#	F# minor
 16r	.
 8f#	.
 16r	.
@@ -36,24 +36,24 @@
 16r	.
 16g#	.
 16r	.
-4.b[	.
+[4.b	.
 =4	=4
 2.b]	.
-16aa	.
+16aaLL	.
 16gg#	.
 16ff#	.
-16ee	.
+16eeJJ	.
 =5	=5
-2.ff#	Dmaj7
-16aa	.
+2.ff#	D major-seventh
+16aaLL	.
 16gg#	.
 16ff#	.
-16ee	.
+16eeJJ	.
 =6	=6
-2ff#	E
+2ff#	E major
 2ee	.
 =7	=7
-2cc#	A
+2cc#	A major
 8cc#	.
 16r	.
 8b	.
@@ -61,11 +61,11 @@
 16cc#	.
 16r	.
 =8	=8
-2dd#	B
+2dd#	B major
 4ff#	.
 4gg#	.
 =9	=9
-4aa	Dmaj7
+4aa	D major-seventh
 4gg#	.
 8aa	.
 16r	.
@@ -74,15 +74,15 @@
 16ccc#	.
 16r	.
 =10	=10
-2bb	E
+2bb	E major
 2gg#	.
 =11	=11
-1ff#[	B7sus4/F#
+[1ff#	B dominant-seventh-suspended-fourth/F#
 =12	=12
-1ff#_	F#sus4
+1ff#_	F# suspended-fourth
 =13	=13
-1ff#]	Gmaj7sus4/F#
+1ff#]	G major-seventh-suspended-fourth/F#
 =14	=14
-2r	Dadd(2,4,7)/F#
+2r	D other-2,4,7/F#
 ==	==
 *-	*-

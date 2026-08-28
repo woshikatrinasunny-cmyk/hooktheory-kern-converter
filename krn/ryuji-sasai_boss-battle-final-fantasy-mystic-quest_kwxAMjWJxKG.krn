@@ -16,53 +16,53 @@
 *b:	*
 *M4/4	*
 =1	=1
-2dd	Bm
-2ff#	D
+2dd	B minor
+2ff#	D major
 =2	=2
-4ee	C#dim
-4cc#	A#dim
-4dd	Bm
-4ee	C#dim
+4ee	C# diminished
+4cc#	A# diminished
+4dd	B minor
+4ee	C# diminished
 =3	=3
-4.gg	G
-16aa	.
-16gg	.
-2ff#	F#m
+4.gg	G major
+16aaLL	.
+16ggJJ	.
+2ff#	F# minor
 =4	=4
-4ee	Em
-4dd	D
-8cc#	C#5
-8dd	B5
-4cc#	A#dim
+4ee	E minor
+4dd	D major
+8cc#L	C# power
+8ddJ	B power
+4cc#	A# diminished
 =5	=5
-2dd	Bm
-2ff#	D
+2dd	B minor
+2ff#	D major
 =6	=6
-4ee	C#dim
-4ff#	A#dim
-4gg	Bm
-4aa	D
+4ee	C# diminished
+4ff#	A# diminished
+4gg	B minor
+4aa	D major
 =7	=7
-4.bb	G
-16ccc#	.
-16bb	.
-4aa#	F#
+4.bb	G major
+16ccc#LL	.
+16bbJJ	.
+4aa#	F# major
 4fff#	.
 =8	=8
-16eee	F#7/A#
+16eeeLL	F# dominant/A#
 16aa#	.
 16bb	.
 16ccc#	.
 16ff#	.
 16aa#	.
 16bb	.
-16ccc#	.
-16ddd	.
+16ccc#JJ	.
+16dddLL	.
 16ff#	.
 16ccc#	.
 16ff#	.
 16bb	.
-16ff#	.
-8aa#	.
+16ff#J	.
+8aa#J	.
 ==	==
 *-	*-

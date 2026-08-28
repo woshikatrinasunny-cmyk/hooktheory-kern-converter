@@ -16,81 +16,81 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4r	G#m
+4r	G# minor
 4dd#	.
 4cc#	.
 4b	.
 =2	=2
-4a#	D#m/F#
+4a#	D# minor/F#
 4dd#	.
 4cc#	.
 4b	.
 =3	=3
-4.a#	Fdim7
-16g#	.
-16a#	.
-2b[	.
+4.a#	F diminished-seventh
+16g#LL	.
+16a#JJ	.
+[2b	.
 =4	=4
-2b]	Emaj7
-4a#	F#
+2b]	E major-seventh
+4a#	F# major
 4b	.
 =5	=5
-8.cc#	C#/F
+8.cc#L	C# major/F
 8.g#	.
-8c#	.
-2c#[	.
+8c#J	.
+[2c#	.
 =6	=6
 2c#]	.
 4g#	.
 4a#	.
 =7	=7
-4.b	F#
-16a#	.
-16g#	.
-2a#[	.
+4.b	F# major
+16a#LL	.
+16g#JJ	.
+[2a#	.
 =8	=8
-2a#]	D#/G
-4cc#	D#
+2a#]	D# major/G
+4cc#	D# major
 4dd#	.
 =9	=9
-4r	G#m
+4r	G# minor
 4dd#	.
 4cc#	.
 4b	.
 =10	=10
-4a#	D#m/F#
+4a#	D# minor/F#
 4dd#	.
 4ee	.
 4b	.
 =11	=11
-4.a#	Fdim7
-16g#	.
-16a#	.
-2b[	.
+4.a#	F diminished-seventh
+16g#LL	.
+16a#JJ	.
+[2b	.
 =12	=12
-2b]	Emaj7
-8.a#	F#
+2b]	E major-seventh
+8.a#L	F# major
 8.b	.
-8cc#	.
+8cc#J	.
 =13	=13
-8.cc#	C#/F
+8.cc#L	C# major/F
 8.g#	.
-8c#	.
-2c#[	.
+8c#J	.
+[2c#	.
 =14	=14
 2c#]	.
 4g#	.
 4a#	.
 =15	=15
-4.b	F#
-16a#	.
-16g#	.
+4.b	F# major
+16a#LL	.
+16g#JJ	.
 2a#	.
 =16	=16
-4.dd#	D#/G
-16cc#	.
-16b	.
-4cc#	D#
+4.dd#	D# major/G
+16cc#LL	.
+16bJJ	.
+4cc#	D# major
 4dd#	.
 ==	==
 *-	*-

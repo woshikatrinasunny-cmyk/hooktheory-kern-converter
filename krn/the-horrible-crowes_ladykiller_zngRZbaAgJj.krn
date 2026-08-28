@@ -16,90 +16,90 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.r	C
+4.r	C major
+16gLL	.
+16gJJ	.
+16gLL	.
 16g	.
 16g	.
-16g	.
-16g	.
-16g	.
-16e	.
-4g	C/G
+16eJJ	.
+4g	C major/G
 =2	=2
-4.r	Fmaj7
-16c	.
-16d	.
-8e	.
-16d	.
-16c	.
-8c	Gadd(2,5,7)
+4.r	F major-seventh
+16cLL	.
+16dJJ	.
+8eL	.
+16dL	.
+16cJ	.
+8cJ	G other-2,5,7
 8r	.
 =3	=3
-8.r	C
-16e	.
+8.r	C major
+16eLL	.
 16g	.
 16g	.
 16g	.
-16g	.
-16a	.
-16g	.
+16gJJ	.
+16aLL	.
+16gJ	.
 8g	.
-8e	C/G
-8c	.
+8e	C major/G
+8cJ	.
 =4	=4
-4.r	Fmaj7
-16c	.
-16d	.
-8e	.
-16d	.
-16c	.
-8c	Gadd(2,5,7)
+4.r	F major-seventh
+16cLL	.
+16dJJ	.
+8eL	.
+16dL	.
+16cJ	.
+8cJ	G other-2,5,7
 8r	.
 =5	=5
-6...r	C
-16c	.
+6...r	C major
+16cLL	.
+16g	.
+16gJJ	.
+16aLL	.
 16g	.
 16g	.
-16a	.
-16g	.
-16g	.
-16e[	.
-16e]	C/G
+[16e	.
+16e]	C major/G
 16e	.
 16d	.
-16c[	.
+[16cJJ	.
 =6	=6
-8.c]	Fmaj7
+8.c]	F major-seventh
 8r	.
+16cLL	.
 16c	.
-16c	.
-16d	.
-8e	.
+16dJJ	.
+8eL	.
+16eL	.
 16e	.
-16e	.
-16d	Gadd(2,5,7)
-8.c	.
+16dJ	G other-2,5,7
+8.cJ	.
 =7	=7
-4r	C
+4r	C major
+16gLL	.
 16g	.
 16g	.
-16g	.
-16g	.
-8a	.
+16gJJ	.
+8aL	.
 8g	.
-8e	C/G
-16e	.
-16d	.
+8e	C major/G
+16eL	.
+16dJJ	.
 =8	=8
-4c	Fmaj7
+4c	F major-seventh
 8r	.
-16c	.
-16d	.
+16cLL	.
+16dJJ	.
+16eLL	.
 16e	.
 16e	.
 16e	.
-16e	.
-16e	Gadd(2,5,7)
-16d	.
-8c	.
+16e	G other-2,5,7
+16dJ	.
+8cJ	.
 ==	==
 *-	*-

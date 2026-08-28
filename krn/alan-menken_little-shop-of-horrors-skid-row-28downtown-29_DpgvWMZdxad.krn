@@ -17,123 +17,123 @@
 *M4/4	*
 =1	=1
 4dd	.
-8dd	E-maj7
-8dd	E-maj7
-8cc	.
+8ddL	E- major-seventh
+8ddJ	E- major-seventh
+8ccL	.
 8dd	.
-8cc	Cm7/B-
-8b-	.
+8cc	C minor-seventh/B-
+8b-J	.
 =2	=2
-8cc	.
-8dd[	.
-8dd]	E-maj7
-8dd[	E-maj7
+8ccL	.
+[8dd	.
+8dd]	E- major-seventh
+[8ddJ	E- major-seventh
 4dd]	.
-4r	E-maj7/B-
+4r	E- major-seventh/B-
 =3	=3
 4dd	.
-8dd	Gm
-8dd	Gm
-8cc	.
+8ddL	G minor
+8ddJ	G minor
+8ccL	.
 8dd	.
-8cc	D7sus4
-8b-	.
+8cc	D dominant-seventh-suspended-fourth
+8b-J	.
 =4	=4
-8cc	.
-8dd[	.
-8dd]	Gm
-8dd[	Gm
+8ccL	.
+[8dd	.
+8dd]	G minor
+[8ddJ	G minor
 4dd]	.
-4r	Gm/D
+4r	G minor/D
 =5	=5
+8ee-L	.
 8ee-	.
+8ee-	C minor-seventh
+8ee-J	C minor-seventh
+8ddL	.
 8ee-	.
-8ee-	Cm7
-8ee-	Cm7
-8dd	.
-8ee-	.
-8dd	Gm7
-8cc	.
+8dd	G minor-seventh
+8ccJ	.
 =6	=6
-8dd	.
-8ee-[	.
-8ee-]	Cm7
-8ee-[	Cm7
+8ddL	.
+[8ee-	.
+8ee-]	C minor-seventh
+[8ee-J	C minor-seventh
 4ee-]	.
-8r	Cm7/G
+8r	C minor-seventh/G
 8f	.
 =7	=7
+8ee-L	.
 8ee-	.
+8ee-	F major
+8ee-J	F major
+8ddL	.
 8ee-	.
-8ee-	F
-8ee-	F
-8dd	.
-8ee-	.
-8dd	F/C
-8cc	.
+8dd	F major/C
+8ccJ	.
 =8	=8
-8dd	.
-8ee-[	.
-8ee-]	F
-8ee-[	F
+8ddL	.
+[8ee-	.
+8ee-]	F major
+[8ee-J	F major
 4ee-]	.
-4r	F/C
+4r	F major/C
 =9	=9
 4dd	.
-8dd	E-maj7
-8dd	E-maj7
-8cc	.
+8ddL	E- major-seventh
+8ddJ	E- major-seventh
+8ccL	.
 8dd	.
-8cc	Cm7/B-
-8b-	.
+8cc	C minor-seventh/B-
+8b-J	.
 =10	=10
-8cc	.
-8dd[	.
-8dd]	E-maj7
-8dd[	E-maj7
+8ccL	.
+[8dd	.
+8dd]	E- major-seventh
+[8ddJ	E- major-seventh
 4dd]	.
-4r	E-maj7/B-
+4r	E- major-seventh/B-
 =11	=11
 4dd	.
-8dd	Gm
-8dd	Gm
-8cc	.
+8ddL	G minor
+8ddJ	G minor
+8ccL	.
 8dd	.
-8cc	D7sus4
-8b-	.
+8cc	D dominant-seventh-suspended-fourth
+8b-J	.
 =12	=12
-8cc	.
-8dd[	.
-8dd]	Gm
-8dd[	Gm
+8ccL	.
+[8dd	.
+8dd]	G minor
+[8ddJ	G minor
 4dd]	.
-8r	Gm/D
+8r	G minor/D
 8dd	.
 =13	=13
+8ee-L	.
 8ee-	.
+8ee-	C minor-seventh
+8ee-J	C minor-seventh
+8ddL	.
 8ee-	.
-8ee-	Cm7
-8ee-	Cm7
-8dd	.
-8ee-	.
-8dd	Gm7
-8cc	.
+8dd	G minor-seventh
+8ccJ	.
 =14	=14
-8dd	.
-8ee-[	.
-8ee-]	Cm7
-8ee-[	Cm7
+8ddL	.
+[8ee-	.
+8ee-]	C minor-seventh
+[8ee-J	C minor-seventh
 4ee-]	.
-8r	Cm7/G
+8r	C minor-seventh/G
 8f	.
 =15	=15
-8cc	Cm
-8cc	Cm
-8dd	B-maj7
-8dd	B-maj7
-8ee-	Aadd(1,3,6,10)
-4een	C7/G
-8ff[	F
+8ccL	C minor
+8cc	C minor
+8dd	B- major-seventh
+8ddJ	B- major-seventh
+8ee-	A other-1,3,6,10
+4een	C dominant/G
+[8ff	F major
 =16	=16
 8ff]	.
 4ff	.

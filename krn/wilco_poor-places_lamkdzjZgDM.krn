@@ -16,53 +16,53 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4d	B-
+4d	B- major
 4B-	.
-8F	F
+8F	F major
 4F	.
 8F	.
 =2	=2
-8d	Gm
+8dL	G minor
 8B-	.
 8D	.
-8E-[	.
-8E-]	E-
+[8E-J	.
+8E-]	E- major
 8r	.
-8B-	.
-8G	.
+8B-L	.
+8GJ	.
 =3	=3
-8bb-	Edim
+8bb-L	E diminished
 8ccc	.
 8aa	.
-8ccc	.
-8gg	.
+8cccJ	.
+8ggL	.
 8ccc	.
 8ff	.
-8ccc	.
+8cccJ	.
 =4	=4
-4ee-	E-
+4ee-	E- major
 4dd	.
 4cc	.
-8b-	.
-8D	.
+8b-L	.
+8DJ	.
 =5	=5
-8d	B-
-8B-	.
+8dL	B- major
+8B-J	.
 4B-	.
-4F	F
-8F	.
-8F	.
+4F	F major
+8FL	.
+8FJ	.
 =6	=6
-8d	Gm
+8dL	G minor
 8B-	.
 8B-	.
-8D	.
-8E-	.
+8DJ	.
+8E-L	.
 8B-	.
-8F	E-
-8G[	.
+8F	E- major
+[8GJ	.
 =7	=7
-8G]	Edim
+8G]	E diminished
 8r	.
 8.dd	.
 8.cc	.
@@ -70,8 +70,8 @@
 8g	.
 =8	=8
 4b-	.
-8dd[	.
-16dd]	E-
+[8ddL	.
+16ddJk]	E- major
 8.cc	.
 4b-	.
 8r	.

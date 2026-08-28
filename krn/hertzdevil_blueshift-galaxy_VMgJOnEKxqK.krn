@@ -16,130 +16,130 @@
 *b-:	*
 *M4/4	*
 =1	=1
-1r	B-m
+1r	B- minor
 =2	=2
-1r	A
+1r	A major
 =3	=3
 *k[b-]	*
 *d:	*
-1r	Dm
+1r	D minor
 =4	=4
-1r	B-
+1r	B- major
 =5	=5
 *k[f#c#g#d#]	*
 *c#:	*
-1r	C#m
+1r	C# minor
 =6	=6
-1r	Bm
+1r	B minor
 =7	=7
 *k[f#c#g#d#a#]	*
 *g#:	*
-1r	E
+1r	E major
 =8	=8
-1r	F#m
+1r	F# minor
 =9	=9
-1r	G#m
+1r	G# minor
 =10	=10
-1r	G#m
+1r	G# minor
 =11	=11
-8G#	G#m
+8G#L	G# minor
 8A#	.
 8B	.
-8G#	.
-8A#	.
+8G#J	.
+8A#L	.
 8B	.
 8c#	.
-8A#	.
+8A#J	.
 =12	=12
-8B	G#m
+8BL	G# minor
 8c#	.
 8d#	.
-8B	.
-8c#	.
+8BJ	.
+8c#L	.
 8d#	.
 8e	.
-8c#	.
+8c#J	.
 =13	=13
-8G#	G#m
+8G#L	G# minor
 8A#	.
 8B	.
-8G#	.
-8A#	.
+8G#J	.
+8A#L	.
 8B	.
 8c#	.
-8A#	.
+8A#J	.
 =14	=14
-8B	E
+8BL	E major
 8c#	.
 8d#	.
-8B	.
-8c#	.
+8BJ	.
+8c#L	.
 8d#	.
 8e	.
-8c#	.
+8c#J	.
 =15	=15
-8d#	F#
+8d#L	F# major
 8e	.
 8f#	.
-8d#	.
-8fn	.
+8d#J	.
+8fnL	.
 8f#	.
 8g#	.
-8fn	.
+8fnJ	.
 =16	=16
-8f#	D#m
+8f#L	D# minor
 8g#	.
 8a#	.
-8f#	.
-8g#	.
+8f#J	.
+8g#L	.
 8a#	.
 8b	.
-8g#	.
+8g#J	.
 =17	=17
 *k[b-e-a-d-g-]	*
 *b-:	*
-8b-	B-m
+8b-L	B- minor
 8cc	.
 8dd-	.
-8b-	.
-8cc	.
+8b-J	.
+8ccL	.
 8dd-	.
 8ee-	.
-8cc	.
+8ccJ	.
 =18	=18
-8dd-	G-
+8dd-L	G- major
 8ee-	.
 8ff	.
-8dd-	.
-8ee-	.
+8dd-J	.
+8ee-L	.
 8ff	.
 8gg-	.
-8ee-	.
+8ee-J	.
 =19	=19
-12ff	A-
+12ffL	A- major
 12ee-	.
 12dd-	.
 12ee-	.
 12dd-	.
-12cc	.
-12dd-	.
-12cc	.
-12b-	.
+12ccJ	.
+12dd-L	.
 12cc	.
 12b-	.
-12a-	.
+12cc	.
+12b-	.
+12a-J	.
 =20	=20
-12an	Dm
+12anL	D minor
 12gn	.
 12f	.
 12gn	.
 12f	.
-12en	.
-12f	.
-12en	.
-12dn	.
+12enJ	.
+12fL	.
 12en	.
 12dn	.
-12c	.
+12en	.
+12dn	.
+12cJ	.
 ==	==
 *-	*-

@@ -16,81 +16,81 @@
 *d:	*
 *M4/4	*
 =1	=1
-8.A	Dm7
-8.A	.
+8.AL	D minor-seventh
+8.AJ	.
 8.c	.
-16c[	.
-8c]	B-add(2,4,7)
+[16cLK	.
+8cJ]	B- other-2,4,7
 8r	.
-16A	.
-16A	.
+16ALL	.
+16AJJ	.
 =2	=2
-8.d	Dm7
+8.dL	D minor-seventh
 8.c	.
-8B-	.
-8A	.
-16G	B-add(2,4,7)
-8.F	.
+8B-J	.
+8AL	.
+16Gk	B- other-2,4,7
+8.FJ	.
 16r	.
 16G	.
 =3	=3
-16A	Dm7
-16A	.
+16ALL	D minor-seventh
+16AJ	.
 8.A	.
-16d[	.
-16d]	.
+[16dL	.
+16dJJ]	.
 8.c	.
-8.A	B-add(2,4,7)
+8.AL	B- other-2,4,7
+16FL	.
 16F	.
-16F	.
-16F	.
+16FJJ	.
 =4	=4
-8A	F
+8A	F major
 4A	.
 8F	.
-8F[	.
-8F]	C
-8r	Csus4
-16F	C
-16F	.
+[8FL	.
+8FJ]	C major
+8r	C suspended-fourth
+16FLL	C major
+16FJJ	.
 =5	=5
-8.A	Dm7
+8.AL	D minor-seventh
 8.G	.
-8F	.
-8F[	.
-16F]	B-add(2,4,7)
+8FJ	.
+[8FL	.
+16FJk]	B- other-2,4,7
 8.r	.
-16F	.
-16F	.
+16FLL	.
+16FJJ	.
 =6	=6
-8.A	Dm7
+8.AL	D minor-seventh
 8.A	.
-8A	.
-16G	.
-16G	.
-4F	B-add(2,4,7)
-16G	.
-16G	.
+8AJ	.
+16GLL	.
+16GJJ	.
+4F	B- other-2,4,7
+16GLL	.
+16GJJ	.
 =7	=7
-8.A	Dm7
+8.AL	D minor-seventh
+16AL	.
 16A	.
-16A	.
-16A[	.
-8A]	.
-8F[	.
-16F]	B-add(2,4,7)
+[16AJ	.
+8AJ]	.
+[8FL	.
+16Fk]	B- other-2,4,7
 8.G	.
-8A[	.
+[8AJ	.
 =8	=8
-8.A]	F
-16G	.
-8F[	.
+8.AL]	F major
+16Gk	.
+[8FJ	.
 8.F]	.
-16G	.
-16A	C
-16G	.
-8G[	Csus4
-16G]	C
-16F	.
+16GLL	.
+16A	C major
+16GJ	.
+[8G	C suspended-fourth
+16GL]	C major
+16FJJ	.
 ==	==
 *-	*-

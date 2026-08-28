@@ -16,47 +16,47 @@
 *e:	*
 *M4/4	*
 =1	=1
-2..r	Eadd(3,4,7,10)
-16e	.
-16e	.
+2..r	E other-3,4,7,10
+16eLL	.
+16eJJ	.
 =2	=2
-8g	A7
-16g	.
-8e	.
+8gL	A dominant
+16gk	.
+8eJ	.
 8.r	.
-6...r	D9
+6...r	D dominant-ninth
+16eLL	.
 16e	.
-16e	.
-16e	.
+16eJJ	.
 =3	=3
-8g	G13
-16g	.
+8gL	G dominant-13th
+16gk	.
 8e	.
-8.g	.
-4.r	C7
-16e	.
-16e	.
+8.gJ	.
+4.r	C dominant
+16eLL	.
+16eJJ	.
 =4	=4
-8g	A7
-16a	.
+8gL	A dominant
+16ak	.
 8a#	.
-8.a	.
-6...r	D9
+8.aJ	.
+6...r	D dominant-ninth
+16eLL	.
 16e	.
-16e	.
-16e	.
+16eJJ	.
 =5	=5
-8g	G13
-16g	.
+8gL	G dominant-13th
+16gk	.
 8e	.
-16g	.
+16gL	.
 16a	.
-16g	.
-8dd	C7
-16b	.
+16gJJ	.
+8ddL	C dominant
+16bk	.
 8dd	.
-16a#	.
+16a#L	.
 16a	.
-16e	.
+16eJJ	.
 ==	==
 *-	*-

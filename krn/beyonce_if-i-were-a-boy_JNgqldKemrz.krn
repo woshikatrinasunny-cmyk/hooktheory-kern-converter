@@ -16,125 +16,125 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4cc#	D#m
+4cc#	D# minor
 8r	.
-8r	D#m/A#
-2r	B
+8r	D# minor/A#
+2r	B major
 =2	=2
-8r	F#
+8r	F# major
+8cc#L	.
 8cc#	.
-8cc#	.
-8cc#	F#
-8dd#	C#
+8cc#J	F# major
+8dd#L	C# major
 8cc#	.
 8b	.
-8a#[	A#m7
+[8a#J	A# minor-seventh
 =3	=3
-4a#]	D#m
+4a#]	D# minor
 8r	.
-8r	D#m/F#
-2r	B
+8r	D# minor/F#
+2r	B major
 =4	=4
-8r	F#
-4r	F#
-4r	F#/C#
-8r	C#/E#
-8f#	C#
-8g#	C#
+8r	F# major
+4r	F# major
+4r	F# major/C#
+8r	C# major/E#
+8f#L	C# major
+8g#J	C# major
 =5	=5
-8a#	D#m
+8a#L	D# minor
 8a#	.
 8a#	.
-8b	D#m/A#
-8a#	B
+8bJ	D# minor/A#
+8a#	B major
 4f#	.
 8f#	.
 =6	=6
-8a#	F#
+8a#L	F# major
 8a#	.
 8a#	.
-8b	F#
-8a#	C#
+8bJ	F# major
+8a#L	C# major
 8g#	.
 8g#	.
-8f#[	C#
+[8f#J	C# major
 =7	=7
-4f#]	D#m
-8A#[	.
-8A#]	D#m/A#
-4B[	B
-4B]	B
+4f#]	D# minor
+[8A#L	.
+8A#J]	D# minor/A#
+[4B	B major
+4B]	B major
 =8	=8
-8A#[	F#
-8A#_	F#
-8A#]	F#
-8f#	F#
-8f#	C#/E#
-8g#	C#/E#
-8a#	C#/E#
-8cc#	C#/E#
+[8A#L	F# major
+8A#_	F# major
+8A#]	F# major
+8f#J	F# major
+8f#L	C# major/E#
+8g#	C# major/E#
+8a#	C# major/E#
+8cc#J	C# major/E#
 =9	=9
-4cc#	D#m
+4cc#	D# minor
 8r	.
-8r	D#m/A#
-2r	B
+8r	D# minor/A#
+2r	B major
 =10	=10
-8r	F#
-8cc#	F#
+8r	F# major
+8cc#L	F# major
 8cc#	.
-8cc#	F#/C#
-8dd#	.
-8cc#	C#
+8cc#J	F# major/C#
+8dd#L	.
+8cc#	C# major
 8b	.
-8a#[	A#m7
+[8a#J	A# minor-seventh
 =11	=11
-4a#]	D#m
+4a#]	D# minor
 8r	.
-8r	D#m/A#
-4.r	B
-16r	B
-16r	C#11
+8r	D# minor/A#
+4.r	B major
+16r	B major
+16r	C# dominant-11th
 =12	=12
-8r	F#
-4r	F#
-8r	F#maj7/E#
-8r	C#
-8r	C#
-8f#	C#
-8g#	C#
+8r	F# major
+4r	F# major
+8r	F# major-seventh/E#
+8r	C# major
+8r	C# major
+8f#L	C# major
+8g#J	C# major
 =13	=13
-8a#	D#m
+8a#L	D# minor
 8a#	.
 8a#	.
-8b	D#m/A#
-8a#	B
+8bJ	D# minor/A#
+8a#L	B major
 8g#	.
-8f#	B
-8g#	.
+8f#	B major
+8g#J	.
 =14	=14
-8a#	F#
-16a#	.
+8a#L	F# major
+16a#k	.
 8.a#	.
-8b	C#/E#
-8a#	.
-8g#	.
-8r	C#/E#
+8bJ	C# major/E#
+8a#L	.
+8g#J	.
+8r	C# major/E#
 8g#	.
 =15	=15
-8a#	Badd(2,4,7)
+8a#L	B other-2,4,7
 8a#	.
 8a#	.
-8b	.
-8a#	.
+8bJ	.
+8a#L	.
 8g#	.
 8f#	.
-8f#[	.
+[8f#J	.
 =16	=16
 4f#]	.
 4r	.
-8F#	.
+8F#L	.
 8F#	.
 8G#	.
-8A#	.
+8A#J	.
 ==	==
 *-	*-

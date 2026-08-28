@@ -16,42 +16,42 @@
 *G:	*
 *M3/4	*
 =1	=1
-4gg	G
+4gg	G major
 4dd	.
 4ee	.
 =2	=2
-4ff	F
+4ff	F major
 4ee	.
 4dd	.
 =3	=3
-4gg	G
+4gg	G major
 4dd	.
 4ee	.
 =4	=4
-4a	Dm7
+4a	D minor-seventh
 4b	.
 4cc	.
 =5	=5
-4gg	G
+4gg	G major
 4dd	.
 4ee	.
 =6	=6
-8ff	F
-8gg	.
+8ffL	F major
+8ggJ	.
 4aa	.
-12gg	.
+12ggL	.
 12aa	.
-12gg	.
+12ggJ	.
 =7	=7
-4ff	G
-12ee	.
+4ff	G major
+12eeL	.
 12ff	.
-12ee	.
+12eeJ	.
 4dd	.
 =8	=8
-12a	Dm7
+12aL	D minor-seventh
 12g	.
-12a	.
+12aJ	.
 4b	.
 4cc	.
 ==	==

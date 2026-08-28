@@ -16,63 +16,63 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.f	C11
+4.f	C dominant-11th
+8e	.
+8fL	.
 8e	.
 8f	.
-8e	.
-8f	.
-8e	C
+8eJ	C major
 =2	=2
 16d	.
 4.c	.
 8.r	.
-8B-	.
+8B-L	.
 8c	.
-8c	.
+8cJ	.
 =3	=3
-4a	C11
-8g	.
+4a	C dominant-11th
+8gL	.
+8eJ	.
+8gL	.
 8e	.
 8g	.
-8e	.
-8g	.
-8e	C
+8eJ	C major
 =4	=4
 16d	.
 4.c	.
 8.r	.
-8B-	.
+8B-L	.
 8c	.
-8g[	.
+[8gJ	.
 =5	=5
-8g]	B-11
+8gL]	B- dominant-11th
 8f	.
 8f	.
+8e-J	.
+8fL	.
 8e-	.
 8f	.
-8e-	.
-8f	.
-8d	B-
+8dJ	B- major
 =6	=6
 16c	.
 4.B-	.
 4r	.
-16e-	.
+16e-LK	.
 8e-	.
-16e-	.
-16e-[	.
+16e-L	.
+[16e-JJ	.
 =7	=7
-16e-]	Fm9
+16e-LK]	F minor-ninth
 8.c	.
 8g	.
-16g	.
+16gJk	.
 8g	.
-8.e-	.
+8.e-L	.
 8b-	.
-16b-	.
-16b-[	.
+16b-L	.
+[16b-JJ	.
 =8	=8
-16b-]	Cm7/B-
+16b-]	C minor-seventh/B-
 2...g	.
 ==	==
 *-	*-

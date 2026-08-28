@@ -16,70 +16,70 @@
 *C:	*
 *M3/4	*
 =1	=1
-16c	C
+16c	C major
 16r	.
 16c	.
-8.g[	Cmaj7/B
-8g]	Am7
+[8.g	C major-seventh/B
+8g]	A minor-seventh
+16gLL	.
+16a	C major/G
 16g	.
-16a	C/G
-16g	.
-16f	.
+16fJJ	.
 =2	=2
-8.g[	C
-8.g]	Cmaj7/B
-8.r	Am7
-16G	C/G
+[8.g	C major
+8.g]	C major-seventh/B
+8.r	A minor-seventh
+16GLL	C major/G
 16G	.
-16G	.
+16GJJ	.
 =3	=3
-16c	C
+16c	C major
 16r	.
 16c	.
-8.g[	Cmaj7/B
-8g]	Am7
+[8.g	C major-seventh/B
+8g]	A minor-seventh
+16gLL	.
+16a	C major/G
 16g	.
-16a	C/G
-16g	.
-16f	.
+16fJJ	.
 =4	=4
-16a	C
-8g[	.
-8.g]	Cmaj7/B
-8r	Am7
+16aLK	C major
+[8gJ	.
+8.g]	C major-seventh/B
+8r	A minor-seventh
+16cLL	.
+16c	C major/G
 16c	.
-16c	C/G
-16c	.
-16c	.
+16cJJ	.
 =5	=5
-8.b[	G7/F
-8.b]	G7/F
-8g	C
+[8.b	G dominant/F
+8.b]	G dominant/F
+8g	C major
 16r	.
+16cLL	.
 16c	.
-16c	.
-16c	.
+16cJJ	.
 =6	=6
-8.b[	G7/F
-8.b]	G7/F
-8g	C
+[8.b	G dominant/F
+8.b]	G dominant/F
+8g	C major
 16r	.
+16cLL	.
 16c	.
-16c	.
-16c	.
+16cJJ	.
 =7	=7
-16b	G7/F
+16bLL	G dominant/F
 16a	.
-16b	.
-8.cc[	F/C
-16cc]	F/C
-16c	.
-16c	.
-8c	Gsus4
-16g	G
+16bJJ	.
+[8.cc	F major/C
+16ccLL]	F major/C
+16cJJ	.
+16cLK	.
+8c	G suspended-fourth
+16gJk	G major
 =8	=8
-8.cc[	C
-8.cc]	Cmaj7/B
-8.r	Am7
+[8.cc	C major
+8.cc]	C major-seventh/B
+8.r	A minor-seventh
 ==	==
 *-	*-

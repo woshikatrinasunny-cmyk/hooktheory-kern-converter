@@ -16,7 +16,7 @@
 *f:	*
 *M6/4	*
 =1	=1
-1.cc[	Fadd(2,3,7)
+[1.cc	F other-2,3,7
 =2	=2
 4cc]	.
 4cc	.
@@ -29,11 +29,11 @@
 4ee-	.
 4ddn	.
 8b-	.
-2.cc[	.
+[2.cc	.
 =4	=4
 1.cc]	.
 =5	=5
-1.cc[	B-add(2,3,7)
+[1.cc	B- other-2,3,7
 =6	=6
 4cc]	.
 4cc	.
@@ -42,60 +42,60 @@
 4ff	.
 4ee-	.
 =7	=7
-8ddn	Fadd(2,3,7)
+8ddn	F other-2,3,7
 4ee-	.
 4ddn	.
 8b-	.
-2.cc[	.
+[2.cc	.
 =8	=8
 1.cc]	.
 =9	=9
-1cc[	Amaj7
+[1cc	A major-seventh
 8cc]	.
 4.b-	.
 =10	=10
-4.cc	D7
+4.cc	D dominant
 4.ff	.
 4.aa-	.
 4.ccc	.
 =11	=11
-1ccc[	D-add(2,4,7)
+[1ccc	D- other-2,4,7
 8ccc]	.
 4.b-	.
 =12	=12
-4.dd-	G7
+4.dd-	G dominant
 4.ff	.
 4.bb-	.
 4.ddd-	.
 =13	=13
-1ccc[	C7sus4
+[1ccc	C dominant-seventh-suspended-fourth
 8ccc]	.
 4.b-	.
 =14	=14
-4.cc	Cadd(2,4,7)/E
+4.cc	C other-2,4,7/E
 4.dd-	.
 4.een	.
 4.gg	.
 =15	=15
-1.bb-	Fm7
+1.bb-	F minor-seventh
 =16	=16
-2.gg[	B-m/F
-2.gg]	B-add(2,4,7)/F
+[2.gg	B- minor/F
+2.gg]	B- other-2,4,7/F
 =17	=17
-2.ee-[	F7
-2.ee-]	Fadd(2,4,7)
+[2.ee-	F dominant
+2.ee-]	F other-2,4,7
 =18	=18
-2.cc[	B-add(2,4,7)/F
-2.cc]	B-add(6,7)/F
+[2.cc	B- other-2,4,7/F
+2.cc]	B- other-6,7/F
 =19	=19
-2.bb-[	Fm7
-2.bb-]	Fadd(2,3,7)
+[2.bb-	F minor-seventh
+2.bb-]	F other-2,3,7
 =20	=20
-2.gg[	B-m/F
-2.gg]	B-add(2,4,7)/F
+[2.gg	B- minor/F
+2.gg]	B- other-2,4,7/F
 =21	=21
-1.ee-	Fadd(2,3,7)
+1.ee-	F other-2,3,7
 =22	=22
-1.cc	B-add(2,4,7)/F
+1.cc	B- other-2,4,7/F
 ==	==
 *-	*-

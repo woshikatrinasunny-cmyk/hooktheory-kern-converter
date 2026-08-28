@@ -16,22 +16,22 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4.ff#	Dadd(2,4,7)
+4.ff#	D other-2,4,7
 8ccc#	.
 2eee	.
 =2	=2
-4.ff#	Eadd(2,5,7)
+4.ff#	E other-2,5,7
 8ccc#	.
 2eee	.
 =3	=3
-2ff#	C#7sus4
+2ff#	C# dominant-seventh-suspended-fourth
 4eee	.
 4fff#	.
 =4	=4
-2ccc#	F#m7
-8ccc#	.
+2ccc#	F# minor-seventh
+8ccc#L	.
 8bb	.
 8aa	.
-8gg#	.
+8gg#J	.
 ==	==
 *-	*-

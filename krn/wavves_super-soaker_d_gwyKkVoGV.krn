@@ -16,11 +16,11 @@
 *A:	*
 *M4/4	*
 =1	=1
-1r	G
+1r	G major
 =2	=2
-1r	Am
+1r	A minor
 =3	=3
-2dd#	B
+2dd#	B major
 4cc#	.
 4b	.
 =4	=4
@@ -28,31 +28,31 @@
 4ee	.
 4ff#	.
 =5	=5
-1dd#[	G
+[1dd#	G major
 =6	=6
-2dd#]	A
+2dd#]	A major
 4r	.
 4dd#	.
 =7	=7
-2dd#	B
+2dd#	B major
 4cc#	.
 4b	.
 =8	=8
 2f#	.
-2b[	.
+[2b	.
 =9	=9
-1b_	G
+1b_	G major
 =10	=10
-2b]	Am
-2r	Em/B
+2b]	A minor
+2r	E minor/B
 =11	=11
-2dd#	B
+2dd#	B major
 4cc#	.
 4b	.
 =12	=12
 4ee	.
 4ff#	.
-2dd#[	.
+[2dd#	.
 =13	=13
 1dd#_	.
 =14	=14
@@ -60,16 +60,16 @@
 4r	.
 4dd#	.
 =15	=15
-2dd#	B
+2dd#	B major
 4cc#	.
 4b	.
 =16	=16
 2f#	.
-2b[	.
+[2b	.
 =17	=17
 1b_	.
 =18	=18
 2b]	.
-2f#	E
+2f#	E major
 ==	==
 *-	*-

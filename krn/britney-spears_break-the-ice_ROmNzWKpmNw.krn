@@ -16,77 +16,77 @@
 *f:	*
 *M4/4	*
 =1	=1
-8f	Fm
+8f	F minor
 8.r	.
-16cc	.
-8cc	Fm/C
-8cc	.
-8a-	Fm/A-
-8g	Gadd(1,3,5,6,10)
-8a-	Fm/A-
+16ccLK	.
+8ccJ	F minor/C
+8ccL	.
+8a-	F minor/A-
+8g	G other-1,3,5,6,10
+8a-J	F minor/A-
 =2	=2
-8f	Fm
-4r	Fm
-16cc	Fm/C
-16cc	.
-8cc	.
-8b-	Fm/A-
-8a-	Gadd(1,3,5,6,10)
-8b-	Fm/A-
+8f	F minor
+4r	F minor
+16ccLL	F minor/C
+16ccJJ	.
+8ccL	.
+8b-	F minor/A-
+8a-	G other-1,3,5,6,10
+8b-J	F minor/A-
 =3	=3
-8f	Fm
+8fL	F minor
 8f	.
 8g	.
-8g	Fm/C
-8a-	.
-8a-	Fm/A-
-8b-[	Gadd(1,3,5,6,10)
-8b-]	Fm/A-
+8gJ	F minor/C
+8a-L	.
+8a-	F minor/A-
+[8b-	G other-1,3,5,6,10
+8b-J]	F minor/A-
 =4	=4
-8f	Fm
-8r	Fm
+8f	F minor
+8r	F minor
 8f	.
-8r	Fm/C
-8f	.
-16a-	Fm/A-
-16a-	.
-8g	Gadd(1,3,5,6,10)
-8a-	Fm/A-
+8r	F minor/C
+8fL	.
+16a-L	F minor/A-
+16a-J	.
+8g	G other-1,3,5,6,10
+8a-J	F minor/A-
 =5	=5
-8f	Fm
+8f	F minor
 8.r	.
-16cc	.
-8cc	Fm/C
-8cc	.
-8a-	Fm/A-
-8g	Gadd(1,3,5,6,10)
-8a-	Fm/A-
+16ccLK	.
+8ccJ	F minor/C
+8ccL	.
+8a-	F minor/A-
+8g	G other-1,3,5,6,10
+8a-J	F minor/A-
 =6	=6
-8f	Fm
-4r	Fm
-16cc	Fm/C
-16cc	.
-8cc	.
-8b-	Fm/A-
-8a-	Gadd(1,3,5,6,10)
-8b-	Fm/A-
+8f	F minor
+4r	F minor
+16ccLL	F minor/C
+16ccJJ	.
+8ccL	.
+8b-	F minor/A-
+8a-	G other-1,3,5,6,10
+8b-J	F minor/A-
 =7	=7
-8f	Fm
+8fL	F minor
 8f	.
 8g	.
-8g	Fm/C
-8a-	.
-8a-	Fm/A-
-8b-[	Gadd(1,3,5,6,10)
-8b-]	Fm/A-
+8gJ	F minor/C
+8a-L	.
+8a-	F minor/A-
+[8b-	G other-1,3,5,6,10
+8b-J]	F minor/A-
 =8	=8
-8f	Fm
-8r	Fm
+8f	F minor
+8r	F minor
 8f	.
-8r	Fm/C
+8r	F minor/C
 8f	.
-8r	Fm/A-
-8f	Gadd(1,3,5,6,10)
-8r	Fm/A-
+8r	F minor/A-
+8f	G other-1,3,5,6,10
+8r	F minor/A-
 ==	==
 *-	*-

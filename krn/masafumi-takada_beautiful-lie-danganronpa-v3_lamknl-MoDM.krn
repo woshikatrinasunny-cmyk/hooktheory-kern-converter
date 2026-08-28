@@ -16,36 +16,36 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.ff#	Bm
-4.ee	C#add(3,6,8,10)
-4b[	Fadd(4,6,7,11)
+4.ff#	B minor
+4.ee	C# other-3,6,8,10
+[4b	F other-4,6,7,11
 =2	=2
 8b]	.
-4.b	Cadd(4,6,7,11)
+4.b	C other-4,6,7,11
 4a	.
-4f#[	Gmaj7
+[4f#	G major-seventh
 =3	=3
 8f#]	.
-4.e	F#add(3,5,6,10)
-2B[	E
+4.e	F# other-3,5,6,10
+[2B	E major
 =4	=4
 2B]	.
-4.e	Cadd(4,7,9,11)
-8g[	Gadd(2,4,7)/B
+4.e	C other-4,7,9,11
+[8g	G other-2,4,7/B
 =5	=5
 4g]	.
-4.f#	F#add(2,4,7)/A#
-4.c#[	Amaj7
+4.f#	F# other-2,4,7/A#
+[4.c#	A major-seventh
 =6	=6
 4c#]	.
-4.g	Am7
-4.a	Bm7
+4.g	A minor-seventh
+4.a	B minor-seventh
 =7	=7
-3...f#	D#m7
+3...f#	D# minor-seventh
 4ff#	.
-8ccc#[	.
+[8ccc#	.
 =8	=8
-4ccc#]	D#m7/C#
+4ccc#]	D# minor-seventh/C#
 2.r	.
 ==	==
 *-	*-

@@ -16,25 +16,25 @@
 *G:	*
 *M4/4	*
 =1	=1
-2dd	D7/C
-2ffn	F7
+2dd	D dominant/C
+2ffn	F dominant
 =2	=2
-2ee	E7
-2dd#	D#7
+2ee	E dominant
+2dd#	D# dominant
 =3	=3
-2dd	D7/C
-4cc	C7
-4cc#	C#7
+2dd	D dominant/C
+4cc	C dominant
+4cc#	C# dominant
 =4	=4
-8dd	D7/C
-16cc	.
+8ddL	D dominant/C
+16ccL	.
 16b	.
 16a	.
 16g	.
 16f#	.
-16e	.
+16eJJ	.
 8d	.
-4B	Em7/D
-8d	Em7
+4B	E minor-seventh/D
+8d	E minor-seventh
 ==	==
 *-	*-

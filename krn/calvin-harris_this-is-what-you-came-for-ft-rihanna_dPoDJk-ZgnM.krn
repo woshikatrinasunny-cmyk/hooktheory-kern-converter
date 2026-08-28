@@ -16,86 +16,86 @@
 *a:	*
 *M4/4	*
 =1	=1
-8.g	Fmaj7
-16a	Fmaj7
+8.gL	F major-seventh
+16aJk	F major-seventh
 8r	.
-8.cc	Fmaj7
-16a	Fmaj7
+8.cc	F major-seventh
+16a	F major-seventh
 16r	.
-16cc	Fmaj7sus2
-8dd	Fmaj7
-8a	.
+16ccLK	F major-seventh-suspended-second
+8dd	F major-seventh
+8aJ	.
 =2	=2
-8.g	Fmaj7
-16a	Fmaj7
+8.gL	F major-seventh
+16aJk	F major-seventh
 8r	.
-8.cc	Fmaj7
-16a	Fmaj7
+8.cc	F major-seventh
+16a	F major-seventh
 16r	.
-16r	Fmaj7sus2
-16cc	Fmaj7
+16r	F major-seventh-suspended-second
+16ccLL	F major-seventh
 16dd	.
-16ee[	.
-16ee]	G7/F
+[16ee	.
+16eeJJ]	G dominant/F
 =3	=3
-8.g	G
-16a	G
+8.gL	G major
+16aJk	G major
 8r	.
-8.cc	G
-16a	G
+8.cc	G major
+16a	G major
 16r	.
-16cc	.
-8dd	G
-8a	.
+16ccLK	.
+8dd	G major
+8aJ	.
 =4	=4
-8.g	Am7
-16a	Am7
+8.gL	A minor-seventh
+16aJk	A minor-seventh
 8r	.
-8.cc	Am7
-16a	Am7
+8.cc	A minor-seventh
+16a	A minor-seventh
 8r	.
-16cc	Am7
-16dd	.
-8ee	Am7/C
+16ccLL	A minor-seventh
+16ddJ	.
+8eeJ	A minor-seventh/C
 =5	=5
-8.g	Fmaj7
-16a	Fmaj7
+8.gL	F major-seventh
+16aJk	F major-seventh
 8r	.
-8.cc	Fmaj7
-16a	Fmaj7
+8.cc	F major-seventh
+16a	F major-seventh
 16r	.
-16cc	Fmaj7sus2
-8dd	Fmaj7
-8a	.
+16ccLK	F major-seventh-suspended-second
+8dd	F major-seventh
+8aJ	.
 =6	=6
-8.g	Fmaj7
-16a	Fmaj7
+8.gL	F major-seventh
+16aJk	F major-seventh
 8r	.
-8.cc	Fmaj7
-16a	Fmaj7
+8.cc	F major-seventh
+16a	F major-seventh
 16r	.
-16r	Fmaj7sus2
-16cc	Fmaj7
+16r	F major-seventh-suspended-second
+16ccLL	F major-seventh
 16dd	.
 16ee	.
-16dd[	G7/F
+[16ddJJ	G dominant/F
 =7	=7
-8.dd_	G
-8.dd_	G
-8.dd_	G
-16dd]	G
+8.ddL_	G major
+8.ddJ_	G major
+8.dd_	G major
+16dd]	G major
 8r	.
-16cc	G
+16ccLL	G major
 16dd	.
 16ee	.
-16dd[	.
+[16ddJJ	.
 =8	=8
-8.dd_	Am7
-8.dd_	Am7
-8.dd_	Am7
-16dd]	Am7
+8.ddL_	A minor-seventh
+8.ddJ_	A minor-seventh
+8.dd_	A minor-seventh
+16dd]	A minor-seventh
 8r	.
-8r	Am7
-8r	Am7/C
+8r	A minor-seventh
+8r	A minor-seventh/C
 ==	==
 *-	*-

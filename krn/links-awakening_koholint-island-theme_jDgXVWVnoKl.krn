@@ -16,44 +16,44 @@
 *G:	*
 *M3/4	*
 =1	=1
-4.g	G
-8g	G
-8d	G
-8g	G
+4.g	G major
+8g	G major
+8dL	G major
+8gJ	G major
 =2	=2
-4.f	F
-8f	F
-8g	F
-8a	F
+4.f	F major
+8f	F major
+8gL	F major
+8aJ	F major
 =3	=3
-4.a#	D#
-8a#	D#
-8g	D#
-8a#	D#
+4.a#	D# major
+8a#	D# major
+8gL	D# major
+8a#J	D# major
 =4	=4
-4.a	F
-8a	F
-8a#	D#
-8cc	F
+4.a	F major
+8a	F major
+8a#L	D# major
+8ccJ	F major
 =5	=5
-4.dd[	G
-8dd_	G
-8dd_	G
-8dd_	G
+[4.dd	G major
+8dd_	G major
+8ddL_	G major
+8ddJ_	G major
 =6	=6
-4.dd]	G
-8cc	Dm7
-8cc	Dm7
-8cc	Dm7
+4.dd]	G major
+8cc	D minor-seventh
+8ccL	D minor-seventh
+8ccJ	D minor-seventh
 =7	=7
-4.dd[	G
-8dd_	G
-8dd_	G
-8dd_	G
+[4.dd	G major
+8dd_	G major
+8ddL_	G major
+8ddJ_	G major
 =8	=8
-4.dd]	G
-8cc	D7
-8b	D7
-8a	D7
+4.dd]	G major
+8cc	D dominant
+8bL	D dominant
+8aJ	D dominant
 ==	==
 *-	*-

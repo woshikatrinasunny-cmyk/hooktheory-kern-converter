@@ -16,82 +16,82 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8.gg#	C#add(2,3,7)
+8.gg#	C# other-2,3,7
 16r	.
-16ff#	.
-16ee	.
+16ff#LL	.
+16eeJJ	.
 16r	.
 4gg#	.
 6...r	.
 =2	=2
-8r	Badd(2,3,7)
+8r	B other-2,3,7
 16cc#	.
 16r	.
 16ee	.
 16r	.
 16ff#	.
 16r	.
-16gg#	Eadd(2,4,7)
+16gg#LL	E other-2,4,7
 16ff#	.
 16ee	.
-16ff#	.
+16ff#JJ	.
 16r	.
-16ee	.
+16eeLL	.
 16cc#	.
-16ee[	.
+[16eeJJ	.
 =3	=3
-4ee]	Amaj7
+4ee]	A major-seventh
 4r	.
-16cc#	.
+16cc#LL	.
 16b	.
 16g#	.
 16f#	.
 16b	.
 16g#	.
 16f#	.
-16g#[	.
+[16g#JJ	.
 =4	=4
-2g#_	D#m7
-4g#]	G#
+2g#_	D# minor-seventh
+4g#]	G# major
 4r	.
 =5	=5
-8.gg#	C#add(2,3,7)
+8.gg#	C# other-2,3,7
 16r	.
-16ff#	.
-16ee	.
+16ff#LL	.
+16eeJJ	.
 16r	.
 4gg#	.
 6...r	.
 =6	=6
-8r	Badd(2,3,7)
+8r	B other-2,3,7
 16cc#	.
 16r	.
 16ee	.
 16r	.
 16ff#	.
 16r	.
-16gg#	Eadd(2,4,7)
+16gg#LL	E other-2,4,7
 16ff#	.
 16ee	.
-16ff#	.
+16ff#JJ	.
 16r	.
-16ee	.
+16eeLL	.
 16cc#	.
-16ee[	.
+[16eeJJ	.
 =7	=7
-4ee]	Amaj7
+4ee]	A major-seventh
 4r	.
-16cc#	.
+16cc#LL	.
 16b	.
 16g#	.
 16f#	.
 16b	.
 16g#	.
 16f#	.
-16g#[	.
+[16g#JJ	.
 =8	=8
-2g#_	D#m7
-4.g#]	G#
+2g#_	D# minor-seventh
+4.g#]	G# major
 8r	.
 ==	==
 *-	*-

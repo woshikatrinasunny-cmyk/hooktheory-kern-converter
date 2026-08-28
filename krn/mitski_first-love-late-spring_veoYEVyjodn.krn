@@ -16,96 +16,96 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.c	C
+4.c	C major
 4d	.
 4e	.
-8c[	.
+[8c	.
 =2	=2
-8c]	E
+8c]	E major
 4B	.
 4d	.
 4e	.
 8B	.
 =3	=3
-4.A	F
+4.A	F major
 4d	.
 4e	.
-8A[	.
+[8A	.
 =4	=4
-8A]	G
+8A]	G major
 4G	.
 4c	.
 4.B	.
 =5	=5
-4.r	C
+4.r	C major
 4d	.
 4e	.
-8c[	.
+[8c	.
 =6	=6
-8c]	E
+8c]	E major
 4B	.
 4d	.
 4e	.
-8B[	.
+[8B	.
 =7	=7
-8B]	F
+8B]	F major
 4A	.
 4.G	.
 4r	.
 =8	=8
-1r	G
+1r	G major
 =9	=9
-4.c	C
+4.c	C major
 4d	.
 4e	.
-8g[	.
+[8g	.
 =10	=10
-8g]	E
+8g]	E major
 4f	.
 4e	.
 4d	.
-8f[	.
+[8f	.
 =11	=11
-8f]	F
+8f]	F major
 4e	.
 4d	.
 4c	.
-8e[	.
+[8e	.
 =12	=12
-8e]	G
+8e]	G major
 4d	.
 4f	.
 4e	.
-16d	.
-16c[	.
+16dLL	.
+[16cJJ	.
 =13	=13
-4c]	C
+4c]	C major
 8r	.
 4d#	.
 4e	.
-8c[	.
+[8c	.
 =14	=14
-8c]	E
+8c]	E major
 4B	.
 4d	.
 4e	.
-8B[	.
+[8B	.
 =15	=15
-8B]	F
+8B]	F major
 4A	.
 4.G	.
 4r	.
 =16	=16
-1r	G
+1r	G major
 =17	=17
-4r	C
+4r	C major
 4r	.
-4r	Am
+4r	A minor
 4r	.
 =18	=18
-4r	Em
+4r	E minor
 4r	.
-4r	F
+4r	F major
 4r	.
 ==	==
 *-	*-

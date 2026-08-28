@@ -16,59 +16,59 @@
 *f:	*
 *M4/4	*
 =1	=1
-4r	Fm
-4r	Fm
+4r	F minor
+4r	F minor
 8r	.
-8f	.
-8aa-	Fm
-8f	.
+8fL	.
+8aa-	F minor
+8fJ	.
 =2	=2
-8aa-	E-
-8gg[	.
-16gg]	.
+8aa-L	E- major
+[8gg	.
+16ggJk]	.
 16r	.
-8r	E-
-8ee-	.
-8ff	E-
-8b-	E-
-8cc[	Fm
+8r	E- major
+8ee-L	.
+8ff	E- major
+8b-	E- major
+[8ccJ	F minor
 =3	=3
 4cc]	.
-8f	Fm
+8fL	F minor
+8fJ	.
+8ffL	.
 8f	.
-8ff	.
-8f	.
-8ee-	Fm
-8f	.
+8ee-	F minor
+8fJ	.
 =4	=4
-8b-	E-
+8b-L	E- major
 8cc	.
 8ff	.
-8f	E-
-8g	.
+8fJ	E- major
+8gL	.
 8a-	.
-8g	Fm
-8e-	.
+8g	F minor
+8e-J	.
 =5	=5
-8f	B-m7
+8fL	B- minor-seventh
 8ff	.
-8f	B-m7
-8cc[	.
+8f	B- minor-seventh
+[8ccJ	.
 4cc]	.
-4a-	B-m7
+4a-	B- minor-seventh
 =6	=6
-4g[	Cm7
-8g]	.
-8e-	Cm7
-8gg	.
+[4g	C minor-seventh
+8gL]	.
+8e-J	C minor-seventh
+8ggL	.
 8ee-	.
-8b-	Cm7
-8a-[	D-
+8b-	C minor-seventh
+[8a-J	D- major
 =7	=7
 4a-_	.
-4a-_	D-
+4a-_	D- major
 4a-_	.
-4a-]	D-
+4a-]	D- major
 =8	=8
 16cc	.
 16r	.
@@ -76,70 +76,70 @@
 16r	.
 16cc	.
 16r	.
-16cc	D-
+16cc	D- major
 16r	.
 16ee-	.
 16r	.
 16ee-	.
 16r	.
-16ff	Cm
+16ff	C minor
 16r	.
 16ff	.
 16r	.
 =9	=9
-4r	D-
-4r	D-
+4r	D- major
+4r	D- major
 8r	.
-8f	.
-8aa-	D-maj7
-8f	.
+8fL	.
+8aa-	D- major-seventh
+8fJ	.
 =10	=10
-8aa-	E-
-8gg[	.
-16gg]	.
+8aa-L	E- major
+[8gg	.
+16ggJk]	.
 16r	.
-8r	E-
-8ee-	.
-8ff	E-
-8g	E-
-8a-[	Fm
+8r	E- major
+8ee-L	.
+8ff	E- major
+8g	E- major
+[8a-J	F minor
 =11	=11
 4a-]	.
-8f	Fm
+8fL	F minor
+8fJ	.
+8ee-L	.
 8f	.
-8ee-	.
-8f	.
-8cc	Fm
-8f	.
+8cc	F minor
+8fJ	.
 =12	=12
-8b-	E-
+8b-L	E- major
 8cc	.
 8ff	.
-8f	E-
-8g	.
+8fJ	E- major
+8gL	.
 8a-	.
-8g	Fm
-8e-	.
+8g	F minor
+8e-J	.
 =13	=13
-8f	D-
+8fL	D- major
 8ff	.
-8f	D-
-8cc[	.
+8f	D- major
+[8ccJ	.
 4cc]	.
-4a-	D-
+4a-	D- major
 =14	=14
-4g[	E-
-8g]	.
-8e-	E-
-8gg	.
+[4g	E- major
+8gL]	.
+8e-J	E- major
+8ggL	.
 8ee-	.
-8b-	E-
-8f[	Fm
+8b-	E- major
+[8fJ	F minor
 =15	=15
 4f_	.
-4f_	Fm
+4f_	F minor
 4f_	.
-4f]	Fm
+4f]	F minor
 =16	=16
 16a-	.
 16r	.
@@ -147,13 +147,13 @@
 16r	.
 16a-	.
 16r	.
-16a-	Fm
+16a-	F minor
 16r	.
 16cc	.
 16r	.
 16cc	.
 16r	.
-16ee-	Cm
+16ee-	C minor
 16r	.
 16ee-	.
 16r	.

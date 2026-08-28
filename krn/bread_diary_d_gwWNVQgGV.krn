@@ -16,99 +16,99 @@
 *G:	*
 *M4/4	*
 =1	=1
-8r	Gmaj7
+8r	G major-seventh
+8ddL	.
 8dd	.
-8dd	.
-16b	.
+16bJk	.
 8.cc	.
-8b	.
+8bL	.
 8a	.
-16g	.
-16a[	.
+16gL	.
+[16aJJ	.
 =2	=2
-8a]	Gm11
-16b	.
-2.a[	.
+8aL]	G minor-11th
+16bJk	.
+[2.a	.
 16a]	.
 =3	=3
-8r	Am7/G
+8r	A minor-seventh/G
+8aL	.
 8a	.
-8a	.
-8b	.
+8bJ	.
 4cc	.
-8cc	.
-16b	.
-16dd[	.
+8ccL	.
+16bL	.
+[16ddJJ	.
 =4	=4
-4dd]	G
+4dd]	G major
 4dd	.
 2r	.
 =5	=5
-8r	Gmaj7
-16dd	.
+8r	G major-seventh
+16ddLK	.
 8.dd	.
-8b	.
-16cc	.
+8bJ	.
+16ccLK	.
 8.b	.
 8a	.
-16g	.
-16a[	.
+16gL	.
+[16aJJ	.
 =6	=6
-8a]	Gm11
-16b	.
-2.a[	.
+8aL]	G minor-11th
+16bJk	.
+[2.a	.
 16a]	.
 =7	=7
-8r	Am7/G
+8r	A minor-seventh/G
+8aL	.
 8a	.
-8a	.
-16b	.
+16bJk	.
 8.cc	.
+8ccL	.
 8cc	.
-8cc	.
-16b	.
-16dd[	.
+16bL	.
+[16ddJJ	.
 =8	=8
-2.dd]	G
+2.dd]	G major
 4r	.
 =9	=9
-4r	Edim
+4r	E diminished
 4a#	.
 4g	.
 4e	.
 =10	=10
-8d	G/D
+8d	G major/D
 4b	.
 2b	.
 8b	.
 =11	=11
-4cc	D7
+4cc	D dominant
 4cc	.
-8b	B7/D#
+8b	B dominant/D#
 4a	.
-8g[	.
+[8g	.
 =12	=12
-2g]	Em
-2r	G7/D
+2g]	E minor
+2r	G dominant/D
 =13	=13
-2r	C
-16cc	.
-16b	.
+2r	C major
+16ccLL	.
+16bJJ	.
 4a	.
-8b[	.
+[8b	.
 =14	=14
-8b]	G
-16cc	.
-16b	.
+8bL]	G major
+16ccL	.
+16bJJ	.
 2.g	.
 =15	=15
-2r	C
-8cc	.
+2r	C major
+8ccL	.
 8b	.
 8a	.
-8b[	.
+[8bJ	.
 =16	=16
-8b]	G
+8b]	G major
 4.g	.
 2r	.
 ==	==

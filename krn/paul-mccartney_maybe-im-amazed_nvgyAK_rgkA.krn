@@ -15,89 +15,89 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	A#
-16d	.
+4r	A# major
+16dLL	.
 16f	.
 16f	.
-16d	.
-8f	F/A
+16dJJ	.
+8f	F major/A
 16r	.
-16d	.
+16dLK	.
 8g	.
-8g	.
+8gJ	.
 =2	=2
-8g	C
-16g	.
+8gL	C major
+16gk	.
 8e	.
-16e	.
-8d[	.
-4d]	Cmaj9
+16ek	.
+[8dJ	.
+4d]	C major-ninth
 4r	.
 =3	=3
-4r	A#
-16d	.
+4r	A# major
+16dLL	.
 16f	.
 16f	.
-16d	.
-8f	F/A
+16dJJ	.
+8f	F major/A
 16r	.
-16f	.
-16f	.
+16fLL	.
+16fJ	.
 8d#	.
-16d[	.
+[16dJk	.
 =4	=4
-16d]	C
+16d]	C major
 6...c	.
-16C	.
-16C#	.
-16D	.
+16CLL	.
+16C#JJ	.
+16DLL	.
 16D#	.
 16E	.
 16F	.
 16F#	.
 16G	.
 16G#	.
-16A	.
+16AJJ	.
 =5	=5
-4r	A#
-16d	.
+4r	A# major
+16dLL	.
 16f	.
 16f	.
-16d	.
-8f	F/A
-16f	.
-16f	.
+16dJJ	.
+8fL	F major/A
+16fL	.
+16fJ	.
 8g	.
-8a	.
+8aJ	.
 =6	=6
-8a	C
-16g	.
+8aL	C major
+16gk	.
 8g	.
-16e	.
-8g[	.
-2g]	G/B
+16ek	.
+[8gJ	.
+2g]	G major/B
 =7	=7
-8a	A#
-16g	.
+8aL	A# major
+16gk	.
 8g	.
-16g	.
-8g[	.
-2g]	F/A
+16gk	.
+[8gJ	.
+2g]	F major/A
 =8	=8
-16f	G#
+16fLL	G# major
 16f	.
 16f	.
-16f	.
+16fJ	.
 8f	.
-16f	.
-16f	.
-16d#	D#/G
+16fL	.
+16fJJ	.
+16d#LK	D# major/G
 8d	.
 8.d	.
-16d#	.
-16d	.
+16d#L	.
+16dJJ	.
 =9	=9
-16d	C
+16d	C major
 2...c	.
 ==	==
 *-	*-

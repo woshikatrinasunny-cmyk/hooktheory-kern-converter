@@ -16,144 +16,144 @@
 *g:	*
 *M4/4	*
 =1	=1
-8dd-	E-
+8dd-L	E- major
 8dd	.
 8dd-	.
-8dd	.
+8ddJ	.
 8b-	.
 4g	.
 8d	.
 =2	=2
-8f	E-
+8fL	E- major
 8g	.
 8f	.
-8g	.
-8b-	E-add(6,7)
+8gJ	.
+8b-L	E- other-6,7
 8g	.
 8f	.
-8g	.
+8gJ	.
 =3	=3
-8dd-	C
+8dd-L	C major
 8dd	.
 8dd-	.
-8dd	.
+8ddJ	.
 8b-	.
 4g	.
 8d	.
 =4	=4
-8g-	C
+8g-L	C major
 8g	.
 8g-	.
-8g	.
-8b-	C7
+8gJ	.
+8b-L	C dominant
 8g	.
 8b-	.
-8cc	.
+8ccJ	.
 =5	=5
-8ff	B-/D
+8ffL	B- major/D
 8gg	.
 8ff	.
-8dd	.
-8cc	.
+8ddJ	.
+8ccL	.
 8b-	.
 8g	.
-8b-	.
+8b-J	.
 =6	=6
-8ff	E-
+8ffL	E- major
 8gg	.
 8ff	.
-8dd	.
-8cc	.
+8ddJ	.
+8ccL	.
 8b-	.
 8g	.
-8b-	.
+8b-J	.
 =7	=7
-8ccc	Adim
+8cccL	A diminished
 8ddd	.
 8bb-	.
-8ccc	.
-8gg	Aadd(1,6)
+8cccJ	.
+8ggL	A other-1,6
 8bb-	.
 8gg-	.
-8gg	.
+8ggJ	.
 =8	=8
-8aa	D
+8aaL	D major
 8bb-	.
 8aa	.
-8gg	.
-8gg-	.
+8ggJ	.
+8gg-L	.
 8dd	.
 8cc	.
-8dd	.
+8ddJ	.
 =9	=9
-8dd-	E-
+8dd-L	E- major
 8dd	.
 8dd-	.
-8dd	.
+8ddJ	.
 8b-	.
 4g	.
 8d	.
 =10	=10
-8f	E-
+8fL	E- major
 8g	.
 8f	.
-8g	.
-8b-	E-add(6,7)
+8gJ	.
+8b-L	E- other-6,7
 8g	.
 8f	.
-8g	.
+8gJ	.
 =11	=11
-8dd-	C
+8dd-L	C major
 8dd	.
 8dd-	.
-8dd	.
+8ddJ	.
 8b-	.
 4g	.
 8d	.
 =12	=12
-8g-	C
+8g-L	C major
 8g	.
 8g-	.
-8g	.
-8b-	C7
+8gJ	.
+8b-L	C dominant
 8g	.
 8b-	.
-8cc	.
+8ccJ	.
 =13	=13
-8ff	B-/D
+8ffL	B- major/D
 8gg	.
 8ff	.
-8dd	.
-8cc	.
+8ddJ	.
+8ccL	.
 8b-	.
 8g	.
-8b-	.
+8b-J	.
 =14	=14
-8ff	E-
+8ffL	E- major
 8gg	.
 8ff	.
-8dd	.
-8cc	.
+8ddJ	.
+8ccL	.
 8b-	.
 8g	.
-8b-	.
+8b-J	.
 =15	=15
-8ccc	Adim
+8cccL	A diminished
 8ddd	.
 8bb-	.
-8ccc	.
-8gg	Aadd(1,6)
+8cccJ	.
+8ggL	A other-1,6
 8bb-	.
 8gg-	.
-8gg	.
+8ggJ	.
 =16	=16
-8aa	D
+8aaL	D major
 8bb-	.
 8aa	.
-8gg	.
-8gg-	.
+8ggJ	.
+8gg-L	.
 8dd	.
 8cc	.
-8dd	.
+8ddJ	.
 ==	==
 *-	*-

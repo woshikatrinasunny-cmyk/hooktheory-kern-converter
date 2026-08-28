@@ -15,97 +15,97 @@
 *g:	*
 *M4/4	*
 =1	=1
-16G	Gm9
+16GLL	G minor-ninth
 16B-	.
 16d	.
 16f	.
 16a	.
 16f	.
 16d	.
-16B-	.
-16G	.
+16B-JJ	.
+16GLL	.
 16B-	.
 16d	.
 16f	.
 16a	.
 16f	.
 16d	.
-16B-	.
+16B-JJ	.
 =2	=2
-16F	Fm9
+16FLL	F minor-ninth
 16A-	.
 16c	.
 16e-	.
 16g	.
 16e-	.
 16c	.
-16A-	.
-16F	.
+16A-JJ	.
+16FLL	.
 16A-	.
 16c	.
 16e-	.
 16g	.
 16e-	.
 16c	.
-16A-	.
+16A-JJ	.
 =3	=3
-16G	Gm9
+16GLL	G minor-ninth
 16B-	.
 16d	.
 16f	.
 16a	.
 16f	.
 16d	.
-16B-	.
-16G	.
+16B-JJ	.
+16GLL	.
 16B-	.
 16d	.
 16f	.
 16a	.
 16f	.
 16d	.
-16B-	.
+16B-JJ	.
 =4	=4
-16F	Fm9
+16FLL	F minor-ninth
 16A-	.
 16c	.
 16e-	.
 16g	.
 16e-	.
 16c	.
-16A-	.
-16F	.
+16A-JJ	.
+16FLL	.
 16A-	.
 16c	.
 16e-	.
 16g	.
 16e-	.
 16c	.
-16A-	.
+16A-JJ	.
 =5	=5
-2ddd[	Gm/D
-2ddd_	Gm7/D
+[2ddd	G minor/D
+2ddd_	G minor-seventh/D
 =6	=6
-2ddd_	Cm7
-2ddd]	Dm7
+2ddd_	C minor-seventh
+2ddd]	D minor-seventh
 =7	=7
-8ff	Gm7
-16gg	.
+8ffL	G minor-seventh
+16ggk	.
 8ff	.
-16gg	.
+16ggL	.
 16ff	.
-16gg	.
+16ggJJ	.
 4bb-	.
-8r	Gm7/D
-8r	Gm7b5/D-
+8r	G minor-seventh/D
+8r	G half-diminished/D-
 =8	=8
-8ff	Cm7
-16gg	.
+8ffL	C minor-seventh
+16ggk	.
 8ff	.
-16gg	.
+16ggL	.
 16ff	.
-16gg	.
-8.ccc	Dm7
-6...bb-	D7/C
+16ggJJ	.
+8.ccc	D minor-seventh
+6...bb-	D dominant/C
 ==	==
 *-	*-

@@ -16,80 +16,80 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8.b	F#m
+8.bL	F# minor
 8.cc#	.
-8b[	.
-16b]	Bm
+[8bJ	.
+16bLK]	B minor
 8.cc#	.
 8b	.
-16a	.
-16g#	.
+16aL	.
+16g#JJ	.
 =2	=2
-8.g#	E
+8.g#L	E major
 8.cc#	.
-8g#[	.
-16g#]	A
+[8g#J	.
+16g#LK]	A major
 8.cc#	.
 8b	.
-8a	.
+8aJ	.
 =3	=3
-8a	F#m
+8aL	F# minor
 8a	.
-16a	.
+16ak	.
 8cc#	.
-16dd[	.
-16dd]	D
+[16ddJk	.
+16ddLK]	D major
 8cc#	.
 8b	.
-8.a	.
+8.aJ	.
 =4	=4
-8g#	G#dim
-16g#	.
+8g#L	G# diminished
+16g#k	.
 8g#	.
-16f#	.
+16f#L	.
 16fn	.
-16fn[	.
-16fn]	C#7
+[16fnJJ	.
+16fnLK]	C# dominant
 8f#	.
 8g#	.
-8.b[	.
+[8.bJ	.
 =5	=5
-8b]	F#m
+8bL]	F# minor
 8cc#	.
 8cc#	.
-8cc#	.
-8cc#	Bm
-16dd	.
+8cc#J	.
+8cc#L	B minor
+16ddJk	.
 4b	.
-16ee[	.
+[16ee	.
 =6	=6
-8ee]	E
+8eeL]	E major
 8dd	.
 8cc#	.
-8b	.
-8.b	A
-6...cc#[	.
+8bJ	.
+8.b	A major
+[6...cc#	.
 =7	=7
-8cc#]	F#m
+8cc#L]	F# minor
 8a	.
 8.a	.
-16a[	.
-16a]	Bm
+[16aJk	.
+16aLL]	B minor
 16a	.
 16a	.
 16a	.
-16a	.
+16aJ	.
 8cc#	.
-16cc#[	.
+[16cc#Jk	.
 =8	=8
-16cc#]	G#dim
+16cc#LL]	G# diminished
 16cc#	.
 16cc#	.
 16cc#	.
-16cc#	.
+16cc#J	.
 8b	.
-16a[	.
-16a]	C#7
+[16aJk	.
+16a]	C# dominant
 4..g#	.
 ==	==
 *-	*-

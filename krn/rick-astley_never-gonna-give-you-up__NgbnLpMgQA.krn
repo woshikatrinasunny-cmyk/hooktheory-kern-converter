@@ -16,53 +16,53 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4.ddd-	E-m9
-4.eee-	A-add(2,4,7)
+4.ddd-	E- minor-ninth
+4.eee-	A- other-2,4,7
 4aa-	.
 =2	=2
-4.eee-	Fm7
-4.fff	B-m7
-16aaa-	.
+4.eee-	F minor-seventh
+4.fff	B- minor-seventh
+16aaa-LL	.
 16ggg-	.
 16fff	.
-16ddd-[	.
+[16ddd-JJ	.
 =3	=3
-4.ddd-]	E-m9
-4.eee-	A-add(2,4,7)
-4aa-[	.
+4.ddd-]	E- minor-ninth
+4.eee-	A- other-2,4,7
+[4aa-	.
 =4	=4
-4.aa-_	Fm7
-8aa-]	B-m7
+4.aa-_	F minor-seventh
+8aa-]	B- minor-seventh
 8r	.
-16a-	.
+16a-LL	.
 16a-	.
 16b-	.
 16dd-	.
 16b-	.
-16ddd-[	.
+[16ddd-JJ	.
 =5	=5
-4.ddd-]	E-m9
-4.eee-	A-add(2,4,7)
+4.ddd-]	E- minor-ninth
+4.eee-	A- other-2,4,7
 4aa-	.
 =6	=6
-4.eee-	Fm7
-4.fff	B-m7
-16aaa-	.
+4.eee-	F minor-seventh
+4.fff	B- minor-seventh
+16aaa-LL	.
 16ggg-	.
 16fff	.
-16ddd-[	.
+[16ddd-JJ	.
 =7	=7
-4.ddd-]	E-m9
-4.eee-	A-add(2,4,7)
-4aa-[	.
+4.ddd-]	E- minor-ninth
+4.eee-	A- other-2,4,7
+[4aa-	.
 =8	=8
-4.aa-_	B-m7/F
-8aa-]	B-m7
-16dd-	.
-16dd-	.
+4.aa-_	B- minor-seventh/F
+8aa-]	B- minor-seventh
+16dd-LL	.
+16dd-JJ	.
 8r	.
-16dd-	.
-16dd-	.
+16dd-LL	.
+16dd-JJ	.
 16r	.
 16dd-	.
 ==	==

@@ -15,25 +15,25 @@
 *g:	*
 *M4/4	*
 =1	=1
-2..r	E-maj7
-8r	D7sus4
+2..r	E- major-seventh
+8r	D dominant-seventh-suspended-fourth
 =2	=2
 1r	.
 =3	=3
-1r	Gadd(2,3,7)
+1r	G other-2,3,7
 =4	=4
-2r	B-7
-2r	A-add(2,4,7)
+2r	B- dominant
+2r	A- other-2,4,7
 =5	=5
-2..r	E-maj7
-8r	D7sus4
+2..r	E- major-seventh
+8r	D dominant-seventh-suspended-fourth
 =6	=6
 1r	.
 =7	=7
-1r	Gadd(2,3,7)
+1r	G other-2,3,7
 =8	=8
-4.r	B-
-4r	B-7
-4.r	E-add(2,4,7)/B-
+4.r	B- major
+4r	B- dominant
+4.r	E- other-2,4,7/B-
 ==	==
 *-	*-

@@ -16,118 +16,118 @@
 *g:	*
 *M3/4	*
 =1	=1
-2e-	E-
+2e-	E- major
 4B-	.
 =2	=2
-2f	F
+2f	F major
 4a	.
 =3	=3
-2g	Cm
+2g	C minor
 4e-	.
 =4	=4
-2d	B-
+2d	B- major
 8r	.
-16d	.
-16c	.
+16dLL	.
+16cJJ	.
 =5	=5
-2B-	E-
+2B-	E- major
 4e-	.
 =6	=6
-2c	F
+2c	F major
 4f	.
 =7	=7
-2en	Am
+2en	A minor
 4c	.
 =8	=8
-2A	D
-16d	.
+2A	D major
+16dLL	.
 16a	.
 16cc	.
-16dd	.
+16ddJJ	.
 =9	=9
-2ee-	E-
+2ee-	E- major
 4b-	.
 =10	=10
-2ff	F
+2ff	F major
 4aa	.
 =11	=11
-2gg	Cm7
+2gg	C minor-seventh
 4ee-	.
 =12	=12
-2dd	B-
+2dd	B- major
 8r	.
-16dd	.
-16cc	.
+16ddLL	.
+16ccJJ	.
 =13	=13
-4b-	E-
+4b-	E- major
 4g	.
 4b-	.
 =14	=14
-4..cc	F
+4..cc	F major
 16r	.
-8cc	.
-8dd	.
+8ccL	.
+8ddJ	.
 =15	=15
-2een	Am
+2een	A minor
 4cc	.
 =16	=16
-3...dd	D7
+3...dd	D dominant
 8r	.
 =17	=17
-4d	Gm
-4d	Gm
-16dd	.
+4d	G minor
+4d	G minor
+16ddLL	.
 16ff	.
 16gg	.
-16bb-	.
+16bb-JJ	.
 =18	=18
-4d-	Gdim
-4d-	Gdim
-16bb-	.
+4d-	G diminished
+4d-	G diminished
+16bb-LL	.
 16gg	.
 16een	.
-16dd-	.
+16dd-JJ	.
 =19	=19
-4f	Dm7
-4f	Dm7
-16cc	.
+4f	D minor-seventh
+4f	D minor-seventh
+16ccLL	.
 16dd	.
 16ff	.
-16aa	.
+16aaJJ	.
 =20	=20
-4en	Dadd(2,5,7)
-4en	Dadd(2,5,7)
-16aa	.
+4en	D other-2,5,7
+4en	D other-2,5,7
+16aaLL	.
 16gg	.
 16een	.
-16dd	.
+16ddJJ	.
 =21	=21
-4d	Gm
+4d	G minor
 4d	.
-16dd	.
+16ddLL	.
 16ff	.
 16gg	.
-16bb-	.
+16bb-JJ	.
 =22	=22
-4d-	Gdim
+4d-	G diminished
 4d-	.
-16bb-	.
+16bb-LL	.
 16gg	.
 16een	.
-16dd-	.
+16dd-JJ	.
 =23	=23
-4en	A7
+4en	A dominant
 4en	.
-16dd-	.
+16dd-LL	.
 16een	.
 16gg	.
-16bb-	.
+16bb-JJ	.
 =24	=24
-4g-	D7
+4g-	D dominant
 4g-	.
-16aa	.
+16aaLL	.
 16gg-	.
 16dd	.
-16cc	.
+16ccJJ	.
 ==	==
 *-	*-

@@ -16,62 +16,62 @@
 *A:	*
 *M4/4	*
 =1	=1
-16f#	A
+16f#LL	A major
 16a	.
-16b	.
+16bJJ	.
 4..a	.
 8r	.
 4e	.
 =2	=2
-4f#	F#m
-8ee	.
-8cc#	.
-16ee	.
+4f#	F# minor
+8eeL	.
+8cc#J	.
+16eeLK	.
 8cc#	.
 8.ee	.
-8ff#[	.
+[8ff#J	.
 =3	=3
-8ff#]	A
+8ff#]	A major
 4a	.
 4.r	.
-16e	.
+16eLL	.
 16f#	.
 16a	.
-16f#[	.
+[16f#JJ	.
 =4	=4
-4f#]	F#m
-16cc#	.
+4f#]	F# minor
+16cc#LK	.
+8eeJ	.
 8ee	.
-8ee	.
-8cc#	.
+8cc#L	.
 8.b	.
-16a	.
-16b[	.
+16aL	.
+[16bJJ	.
 =5	=5
-16b]	A
-8b	.
+16bLK]	A major
+8bJ	.
 8.r	.
-16b	.
-16a	.
+16bLL	.
+16aJJ	.
 4r	.
 8a	.
 16r	.
 16e	.
 =6	=6
-16f#	F#m
+16f#LL	F# minor
 16a	.
-16f#	.
+16f#J	.
 8ee	.
+8eeJ	.
 8ee	.
-8ee	.
-8cc#	.
+8cc#L	.
 8b	.
 8a	.
-16b[	.
+[16bJk	.
 =7	=7
-16b]	E
-2...b[	.
+16b]	E major
+[2...b	.
 =8	=8
-1b]	E
+1b]	E major
 ==	==
 *-	*-

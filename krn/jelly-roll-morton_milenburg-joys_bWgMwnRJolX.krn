@@ -16,74 +16,74 @@
 *G:	*
 *M4/4	*
 =1	=1
-4g	G
+4g	G major
 4g	.
 4g	.
 4g	.
 =2	=2
-4ff#	F#7/A#
+4ff#	F# dominant/A#
 4ff#	.
-4ff#	A#dim
-4dd	D7
+4ff#	A# diminished
+4dd	D dominant
 =3	=3
-1r	G
+1r	G major
 =4	=4
 2r	.
-2r	D7
+2r	D dominant
 =5	=5
 1r	.
 =6	=6
 2r	.
-2r	G
+2r	G major
 =7	=7
 1r	.
 =8	=8
-2r	G7
-2r	C
+2r	G dominant
+2r	C major
 =9	=9
-4r	C
-4r	C#dim
-4r	G/D
-4r	E7
+4r	C major
+4r	C# diminished
+4r	G major/D
+4r	E dominant
 =10	=10
-2r	A7
-2r	D7
+2r	A dominant
+2r	D dominant
 =11	=11
-1r	G
+1r	G major
 =12	=12
 1r	.
 =13	=13
-1r	D7
+1r	D dominant
 =14	=14
-1r	G
+1r	G major
 =15	=15
 1r	.
 =16	=16
-2r	G7
-2r	C
+2r	G dominant
+2r	C major
 =17	=17
-4r	C
-4r	C#dim
-4r	G/D
-4r	E7
+4r	C major
+4r	C# diminished
+4r	G major/D
+4r	E dominant
 =18	=18
-4r	A7
-4r	D7
-8r	G
-8r	D7
-4r	G
+4r	A dominant
+4r	D dominant
+8r	G major
+8r	D dominant
+4r	G major
 =19	=19
-1r	G7
+1r	G dominant
 =20	=20
 1r	.
 =21	=21
-1r	C
+1r	C major
 =22	=22
 1r	.
 =23	=23
 1r	.
 =24	=24
-1r	G7
+1r	G dominant
 =25	=25
 1r	.
 =26	=26
@@ -91,25 +91,25 @@
 =27	=27
 1r	.
 =28	=28
-1r	C
+1r	C major
 =29	=29
 1r	.
 =30	=30
 1r	.
 =31	=31
-1r	C7
+1r	C dominant
 =32	=32
-1r	F
+1r	F major
 =33	=33
 1r	.
 =34	=34
-2r	C
-2r	A#dim
+2r	C major
+2r	A# diminished
 =35	=35
-2r	D7
-2r	G7
+2r	D dominant
+2r	G dominant
 =36	=36
-1r	C
+1r	C major
 =37	=37
 1r	.
 =38	=38
@@ -117,7 +117,7 @@
 =39	=39
 1r	.
 =40	=40
-1r	G7
+1r	G dominant
 =41	=41
 1r	.
 =42	=42
@@ -125,28 +125,28 @@
 =43	=43
 1r	.
 =44	=44
-1r	C
+1r	C major
 =45	=45
 1r	.
 =46	=46
 1r	.
 =47	=47
-1r	C7
+1r	C dominant
 =48	=48
-1r	F
+1r	F major
 =49	=49
 1r	.
 =50	=50
-2r	C
-2r	A#dim
+2r	C major
+2r	A# diminished
 =51	=51
-2r	D7
-2r	G7
+2r	D dominant
+2r	G dominant
 =52	=52
-1r	C
+1r	C major
 =53	=53
 2r	.
-4r	G7
-4r	C
+4r	G dominant
+4r	C major
 ==	==
 *-	*-

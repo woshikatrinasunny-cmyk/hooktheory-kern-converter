@@ -16,67 +16,67 @@
 *G:	*
 *M4/4	*
 =1	=1
-8r	Am
-16cc	.
-16cc	.
+8r	A minor
+16ccLL	.
+16ccJ	.
 8cc	.
-16cc	.
-16b[	.
-16b]	G/B
+16ccL	.
+[16bJJ	.
+16bLK]	G major/B
 8a	.
 8g	.
-16e	.
-8g[	.
+16ek	.
+[8gJ	.
 =2	=2
-4g]	Cadd(2,4,7)
-8b	.
-8g[	.
-8g]	G/B
+4g]	C other-2,4,7
+8bL	.
+[8gJ	.
+8g]	G major/B
 4.r	.
 =3	=3
-8r	Am
-8.cc	.
-16cc	.
-8b	.
-8r	G/B
-16a	.
+8r	A minor
+8.ccL	.
+16cck	.
+8bJ	.
+8r	G major/B
+16aLK	.
 8g	.
-8.a	.
+8.aJ	.
 =4	=4
-4g	C
+4g	C major
 4r	.
-2r	C
+2r	C major
 =5	=5
-8.r	Am
-16cc	.
+8.r	A minor
+16ccLK	.
 8cc	.
-16cc	.
-16b[	.
-8b]	G/B
+16ccL	.
+[16bJJ	.
+8bL]	G major/B
 8a	.
 8g	.
-16e	.
-16g[	.
+16eL	.
+[16gJJ	.
 =6	=6
-4g]	C
-8b	.
-8g[	.
-16g]	G/B
-16g	.
+4g]	C major
+8bL	.
+[8gJ	.
+16gLL]	G major/B
+16gJJ	.
 4dd	.
 8r	.
 =7	=7
-4.r	Am
-16g	.
-16g	.
-8cc	.
+4.r	A minor
+16gLL	.
+16gJJ	.
+8ccL	.
 8b	.
-16g	.
-16g	.
-8a[	.
+16gL	.
+16gJ	.
+[8aJ	.
 =8	=8
-4a]	Dsus4
+4a]	D suspended-fourth
 4r	.
-2r	D
+2r	D major
 ==	==
 *-	*-

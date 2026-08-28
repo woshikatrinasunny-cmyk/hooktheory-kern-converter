@@ -16,32 +16,32 @@
 *e:	*
 *M4/4	*
 =1	=1
-16ee	Em/G
+16eeLK	E minor/G
 8e	.
-16ee	.
+16eek	.
 8ee	.
+8eJ	.
+16eeLK	.
 8e	.
-16ee	.
-8e	.
-16ee	.
+16eek	.
 8ee	.
-8e	.
+8eJ	.
 =2	=2
-16ee	Bm/F#
+16eeLK	B minor/F#
 8e	.
-16ee	.
+16eek	.
 8ee	.
+8eJ	.
+16eeLK	D minor/F
 8e	.
-16ee	Dm/F
-8e	.
-16ee	.
+16eek	.
 8ee	.
-8e	.
+8eJ	.
 =3	=3
-8EEE	Em
-16EE	.
-16EE	.
-8EEE	.
+8EEEL	E minor
+16EEL	.
+16EEJ	.
+8EEEJ	.
 8r	.
 4EE	.
 8EEE	.
@@ -52,15 +52,15 @@
 8EEE	.
 2EE	.
 =5	=5
-1d	Em7/D
+1d	E minor-seventh/D
 =6	=6
-2c#	F#m/C#
-2c	Dm7/C
+2c#	F# minor/C#
+2c	D minor-seventh/C
 =7	=7
-8EEE	Em
-16EE	.
-16EE	.
-8EEE	.
+8EEEL	E minor
+16EEL	.
+16EEJ	.
+8EEEJ	.
 8r	.
 4EE	.
 8EEE	.
@@ -71,59 +71,59 @@
 8EEE	.
 2EE	.
 =9	=9
-4.e	Em/G
+4.e	E minor/G
 2d	.
-8B[	.
+[8B	.
 =10	=10
-4.B]	Bm/F#
-8A[	.
-4A]	Dm/F
-8G	.
-8B[	.
+4.B]	B minor/F#
+[8A	.
+4A]	D minor/F
+8GL	.
+[8BJ	.
 =11	=11
-1B_	Em
+1B_	E minor
 =12	=12
 2..B]	.
-8e[	.
+[8e	.
 =13	=13
-4.e]	Em/G
+4.e]	E minor/G
 2d	.
-8B[	.
+[8B	.
 =14	=14
-4.B]	Bm/F#
-8A[	.
-4A]	Dm/F
-8d	.
-8B[	.
+4.B]	B minor/F#
+[8A	.
+4A]	D minor/F
+8dL	.
+[8BJ	.
 =15	=15
-1B_	Em
+1B_	E minor
 =16	=16
 2..B]	.
 8r	.
 =17	=17
-4.e	Em/G
+4.e	E minor/G
 2d	.
-8B[	.
+[8B	.
 =18	=18
-4.B]	Bm/F#
-8A[	.
-4A]	Dm/F
-8c	.
-8B[	.
+4.B]	B minor/F#
+[8A	.
+4A]	D minor/F
+8cL	.
+[8BJ	.
 =19	=19
-1B_	Em
+1B_	E minor
 =20	=20
 2B]	.
-2g#	E
+2g#	E major
 =21	=21
-1a	A7/G
+1a	A dominant/G
 =22	=22
-2a	Bm/F#
-2a	Dm/F
+2a	B minor/F#
+2a	D minor/F
 =23	=23
-1b[	Em
+[1b	E minor
 =24	=24
 2b]	.
-2r	F
+2r	F major
 ==	==
 *-	*-

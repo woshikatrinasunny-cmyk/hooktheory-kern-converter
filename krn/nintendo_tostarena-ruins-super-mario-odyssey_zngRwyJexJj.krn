@@ -16,69 +16,69 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4.ff#	F#m
-32ee	Em
-32ff#	.
+4.ff#	F# minor
+32eeLLL	E minor
+32ff#JJJ	.
 8.ee	.
-32cc#	.
-32dd#	.
-16cc#	.
-4b	G
+32cc#LLL	.
+32dd#J	.
+16cc#JJ	.
+4b	G major
 =2	=2
-8cc#[	.
-4.cc#_	F#m
-8cc#]	Em
+[8cc#	.
+4.cc#_	F# minor
+8cc#]	E minor
 8r	.
-8b	G
-8cc#	.
+8bL	G major
+8cc#J	.
 =3	=3
-32ff#	F#m
-3ee[	.
-96ee]	.
-16dd#	Em
-16ee	.
-8dd#	.
+32ff#	F# minor
+[3ee	.
+96eeLLKK]	.
+16dd#	E minor
+16eeJJ	.
+8dd#L	.
 8cc#	.
-32cc#	G
-8..b	.
+32cc#kk	G major
+8..bJ	.
 =4	=4
-8a[	.
-4.a_	F#m
-8a]	Em
+[8a	.
+4.a_	F# minor
+8a]	E minor
 8r	.
-8cc#	G
-16.ee	.
-32gg#	.
+8cc#L	G major
+16.eeL	.
+32gg#JJk	.
 =5	=5
-4.ff#	F#m
-32ff#	Em
+4.ff#	F# minor
+32ff#	E minor
 8..ee	.
-32cc#	.
-32dd#	.
-16cc#	.
-4b	G
+32cc#LLL	.
+32dd#J	.
+16cc#JJ	.
+4b	G major
 =6	=6
-32dd	.
-16.cc#[	.
-4.cc#_	F#m
-16cc#]	Em
+32ddLLK	.
+[16.cc#JJ	.
+4.cc#_	F# minor
+16cc#]	E minor
 16r	.
-8b[	.
-8b]	G
-8cc#	.
+[8bL	.
+8b]	G major
+8cc#J	.
 =7	=7
-4.a#[	F#
-8a#]	Em
+[4.a#	F# major
+8a#]	E minor
 8r	.
-8b	.
-8a#	Gadd(6,7)
-8f#	.
+8bL	.
+8a#	G other-6,7
+8f#J	.
 =8	=8
 8e	.
-4.f#[	F#
-8f#]	Em
+[4.f#	F# major
+8f#]	E minor
 8r	.
-8cc#	Gadd(2,4,7)
-8ee	.
+8cc#L	G other-2,4,7
+8eeJ	.
 ==	==
 *-	*-

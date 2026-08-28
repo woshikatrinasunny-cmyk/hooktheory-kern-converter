@@ -16,36 +16,36 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8c#	C#m11
+8c#L	C# minor-11th
 8d#	.
-16e	.
-16f#[	.
-16f#]	E
+16eL	.
+[16f#	.
+16f#JJ]	E major
 8g#	.
-8f#	.
-8.e	.
-8r	A
+8f#L	.
+8.eJ	.
+8r	A major
 =2	=2
-8c#	.
+8c#L	.
 8d#	.
-16e	.
-8f#	.
+16ek	.
+8f#J	.
 8g#	.
-8f#	.
+8f#L	.
 8.e	.
-8c#	.
+8c#J	.
 =3	=3
-4f#	C#m11
-8e[	.
-8e]	E
+4f#	C# minor-11th
+[8eL	.
+8eJ]	E major
 4g#	.
-8f#	.
-8e[	A
+8f#L	.
+[8eJ	A major
 =4	=4
 8e]	.
 8r	.
-16e	.
-16f#	.
+16eLL	.
+16f#JJ	.
 16r	.
 16g#	.
 16r	.
@@ -55,31 +55,31 @@
 16r	.
 8c#	.
 =5	=5
-8f#	C#m11
+8f#L	C# minor-11th
 8e	.
 8f#	.
-8e	E
+8eJ	E major
 4g#	.
-8f#[	.
-8f#]	A
+[8f#L	.
+8f#J]	A major
 =6	=6
 8e	.
 8r	.
-16e	.
+16eLL	.
 16f#	.
-16g#	.
+16g#JJ	.
 8a	.
-8g#	.
+8g#L	.
 8e	.
-16c#	.
-8f#	.
+16c#k	.
+8f#J	.
 =7	=7
-4f#	C#m11
-8e[	.
-8e]	E
+4f#	C# minor-11th
+[8eL	.
+8eJ]	E major
 4g#	.
-8f#	.
-8e[	A
+8f#L	.
+[8eJ	A major
 =8	=8
 8.e]	.
 16r	.

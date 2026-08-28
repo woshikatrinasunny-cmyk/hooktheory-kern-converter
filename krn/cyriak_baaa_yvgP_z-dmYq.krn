@@ -16,37 +16,37 @@
 *F#:	*
 *M3/4	*
 =1	=1
-8f#	B
-8g#	.
-8f#	.
-8e#	Badd(4,6,7)/F#
-8g#	.
-8b	.
+8f#L	B major
+8g#J	.
+8f#L	.
+8e#J	B other-4,6,7/F#
+8g#L	.
+8bJ	.
 =2	=2
-4.a#	B
-4.f#	F#add(4,6,10)
+4.a#	B major
+4.f#	F# other-4,6,10
 =3	=3
-4.g#	Cmaj7/B
-4.b	F#add(4,6,10)
+4.g#	C major-seventh/B
+4.b	F# other-4,6,10
 =4	=4
-4.a#	A#
-4.e#	Ddim/E#
+4.a#	A# major
+4.e#	D diminished/E#
 =5	=5
-8en	A#
-8gn	.
+8enL	A# major
+8gnJ	.
 8a#	.
-4.an	Ddim/E#
+4.an	D diminished/E#
 =6	=6
-8gn	A#
-8en	.
+8gnL	A# major
+8enJ	.
 8a#	.
-4.e#	Ddim/E#
+4.e#	D diminished/E#
 =7	=7
-8gn	F#mMaj7
-8an	.
-8gn	.
-8en	C#add(3,6,11)/C
-8g#	.
-8b	.
+8gnL	F# major-minor
+8anJ	.
+8gnL	.
+8enJ	C# other-3,6,11/C
+8g#L	.
+8bJ	.
 ==	==
 *-	*-

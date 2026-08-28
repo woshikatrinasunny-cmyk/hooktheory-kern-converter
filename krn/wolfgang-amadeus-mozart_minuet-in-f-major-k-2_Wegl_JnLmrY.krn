@@ -16,43 +16,43 @@
 *F:	*
 *M3/4	*
 =1	=1
-8ff	F
-8aa	.
+8ffL	F major
+8aaJ	.
 4cc	.
-4cc	F/A
+4cc	F major/A
 =2	=2
-8dd	B-
-8ff	.
+8ddL	B- major
+8ffJ	.
 4b-	.
 4b-	.
 =3	=3
-8a	F/C
-8cc	.
+8aL	F major/C
+8ccJ	.
 4f	.
-4e	C
+4e	C major
 =4	=4
-4e[	Fmaj7sus2
-4e]	C
-4f	F
+[4e	F major-seventh-suspended-second
+4e]	C major
+4f	F major
 =5	=5
-8c	C
-8e	.
+8cL	C major
+8eJ	.
 4g	.
 4g	.
 =6	=6
-8c	F/C
-8f	.
+8cL	F major/C
+8fJ	.
 4a	.
 4a	.
 =7	=7
-12c	C
+12cL	C major
 12e	.
-12g	.
-4b-	C7/E
-4a	F
+12gJ	.
+4b-	C dominant/E
+4a	F major
 =8	=8
-4a[	F/C
-4a]	Gm11
-4g	C
+[4a	F major/C
+4a]	G minor-11th
+4g	C major
 ==	==
 *-	*-

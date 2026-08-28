@@ -15,17 +15,17 @@
 *e:	*
 *M4/4	*
 =1	=1
-2..b	Gadd(2,4,7)/B
+2..b	G other-2,4,7/B
 8dd	.
 =2	=2
-2..a#	Eadd(5,6,10)/A#
+2..a#	E other-5,6,10/A#
 8cc	.
 =3	=3
-2..a	Aadd(2,3,7)
+2..a	A other-2,3,7
 8b	.
 =4	=4
-3...f#	B7sus4/F#
-4d#	Cmaj7/G
-8e	Am
+3...f#	B dominant-seventh-suspended-fourth/F#
+4d#	C major-seventh/G
+8e	A minor
 ==	==
 *-	*-

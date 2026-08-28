@@ -16,51 +16,51 @@
 *g:	*
 *M4/4	*
 =1	=1
-8gg	Gm
+8gg	G minor
 4gg	.
 8r	.
-8aa	D/G-
+8aa	D major/G-
 4aa	.
 8r	.
 =2	=2
-8bb-	Gm7/F
+8bb-	G minor-seventh/F
 4bb-	.
 8r	.
-8ccc	C/E
+8cccL	C major/E
 8ccc	.
-16gg	.
+16ggL	.
 16aa	.
 16bb-	.
-16ccc	.
+16cccJJ	.
 =3	=3
-4ddd	E-maj7
+4ddd	E- major-seventh
 4ccc	.
 4bb-	.
 4ddd	.
 =4	=4
-4ccc	F
+4ccc	F major
 4bb-	.
 4aa	.
 4ccc	.
 =5	=5
-8gg	Gm
+8gg	G minor
 4gg	.
 8r	.
-8aa	Dm/F
+8aa	D minor/F
 4aa	.
 8r	.
 =6	=6
-8bb-	D-dim7/E
+8bb-	D- diminished-seventh/E
 4bb-	.
 8r	.
-8ccc	G-dim7/E-
+8cccL	G- diminished-seventh/E-
 8ccc	.
-16gg	.
+16ggL	.
 16aa	.
 16bb-	.
-16ccc	.
+16cccJJ	.
 =7	=7
-4ddd	D
+4ddd	D major
 8eee-	.
 4ddd	.
 8eee-	.
@@ -72,38 +72,38 @@
 4ddd	.
 4ddd	.
 =9	=9
-2gg	Gm
+2gg	G minor
 2dd	.
 =10	=10
-2ff	Gm11
-2ee-	Gadd(2,5,7,8,10)
+2ff	G minor-11th
+2ee-	G other-2,5,7,8,10
 =11	=11
-2dd	Gm
+2dd	G minor
 2b-	.
 =12	=12
-2cc	Gm11
-2a	Gadd(2,5,7,8,10)
+2cc	G minor-11th
+2a	G other-2,5,7,8,10
 =13	=13
-4gg	E-
-4aa	F7/E-
-4bb-	E-
-4ccc[	F7/E-
+4gg	E- major
+4aa	F dominant/E-
+4bb-	E- major
+[4ccc	F dominant/E-
 =14	=14
 4ccc]	.
-4bb-	E-
-4aa	F7/E-
-4gg	E-
+4bb-	E- major
+4aa	F dominant/E-
+4gg	E- major
 =15	=15
-2gg-	D
-2gg	Dadd(2,4,5,7,8,11)
+2gg-	D major
+2gg	D other-2,4,5,7,8,11
 =16	=16
-2aa	D
+2aa	D major
 2ddd	.
 =17	=17
-2gg	Gm
+2gg	G minor
 2dd	.
 =18	=18
-2ff	Gm11
+2ff	G minor-11th
 2aa	.
 =19	=19
 4ccc	.
@@ -111,26 +111,26 @@
 4aa	.
 4bb-	.
 =20	=20
-2gg	Gm
+2gg	G minor
 2dd	.
 =21	=21
 *k[b-e-a-d-g-]	*
 *D-:	*
-4ff	G-maj7
+4ff	G- major-seventh
 8ee-	.
 4dd-	.
 8ee-	.
-4ff[	Fm/A-
+[4ff	F minor/A-
 =22	=22
 2ff]	.
 2aa-	.
 =23	=23
-4aan	A
+4aan	A major
 4aa-	.
 4aan	.
 4ddd-	.
 =24	=24
-2bbn	B
+2bbn	B major
 2gg-	.
 ==	==
 *-	*-

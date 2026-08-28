@@ -16,74 +16,74 @@
 *D:	*
 *M4/4	*
 =1	=1
-1r	D
+1r	D major
 =2	=2
-2r	Dsus2
-2r	Dmaj7/C#
+2r	D suspended-second
+2r	D major-seventh/C#
 =3	=3
-1r	Bm
+1r	B minor
 =4	=4
-1r	A
+1r	A major
 =5	=5
-1r	D
+1r	D major
 =6	=6
-2r	Dsus2
-2r	Dmaj7/C#
+2r	D suspended-second
+2r	D major-seventh/C#
 =7	=7
-1r	Bm
+1r	B minor
 =8	=8
-1r	A
+1r	A major
 =9	=9
-2A	D
+2A	D major
 4D	.
-8D	.
-8D	.
+8DL	.
+8DJ	.
 =10	=10
-4A	Dsus2
-8G	.
-8F#	.
-8F#	Dmaj7/C#
-8E	.
+4A	D suspended-second
+8GL	.
+8F#J	.
+8F#L	D major-seventh/C#
+8EJ	.
 4E	.
 =11	=11
-4r	Bm
+4r	B minor
 4A	.
 4D	.
 4D	.
 =12	=12
-8.D	A
-8.D	.
+8.DL	A major
+8.DJ	.
 4E	.
+8DL	.
 8D	.
-8D	.
-8D	.
+8DJ	.
 =13	=13
-2A	D
+2A	D major
 4D	.
 8r	.
 8D	.
 =14	=14
-8A	Dsus2
+8A	D suspended-second
 4G	.
-8F#[	.
-8F#]	Dmaj7/C#
+[8F#	.
+8F#L]	D major-seventh/C#
 8E	.
 8E	.
-8E	.
+8EJ	.
 =15	=15
-4E	Bm
-8E	.
-8F#	.
+4E	B minor
+8EL	.
+8F#J	.
 4E	.
-8E	.
-8D	.
+8EL	.
+8DJ	.
 =16	=16
-8.E	A
+8.EL	A major
 8.E	.
-8F#	.
-16F#	.
+8F#J	.
+16F#LK	.
 8.E	.
 8D	.
-8D	.
+8DJ	.
 ==	==
 *-	*-

@@ -21,56 +21,56 @@
 4dd	.
 8dd	.
 =2	=2
-4.r	Dm
-4.r	Dm
-4r	Dm
+4.r	D minor
+4.r	D minor
+4r	D minor
 8dd	.
-4dd	Dm
-8cc[	.
+4dd	D minor
+[8cc	.
 =3	=3
-4.cc_	F
-4.cc]	F
-4.a	F
-4.cc	F
+4.cc_	F major
+4.cc]	F major
+4.a	F major
+4.cc	F major
 =4	=4
-4.g	G
-4.f	G
-4g	G
-8f[	.
-4.f]	G
+4.g	G major
+4.f	G major
+4g	G major
+[8f	.
+4.f]	G major
 =5	=5
-4g	B-
-8f[	.
-4f]	B-
-8d[	.
-4.d]	B-
-4dd	B-
-8dd[	.
+4g	B- major
+[8f	.
+4f]	B- major
+[8d	.
+4.d]	B- major
+4dd	B- major
+[8dd	.
 =6	=6
-4.dd_	Dm
-8dd]	Dm
+4.dd_	D minor
+8dd]	D minor
 4r	.
-4r	Dm
+4r	D minor
 8dd	.
-4dd	Dm
-8cc[	.
+4dd	D minor
+[8cc	.
 =7	=7
-4.cc_	F
-4.cc]	F
-4.a	F
-4.cc	F
+4.cc_	F major
+4.cc]	F major
+4.a	F major
+4.cc	F major
 =8	=8
-4.g	G
-4.f	G
-4g	G
-8f[	.
-4.f]	G
+4.g	G major
+4.f	G major
+4g	G major
+[8f	.
+4.f]	G major
 =9	=9
-4g	B-
-8f[	.
-4f]	B-
-8d[	.
-4.d]	B-
-4.d	B-
+4g	B- major
+[8f	.
+4f]	B- major
+[8d	.
+4.d]	B- major
+4.d	B- major
 ==	==
 *-	*-

@@ -16,80 +16,80 @@
 *f:	*
 *M3/4	*
 =1	=1
-8f	Fm
-8g	.
-8a-	.
-8B-	.
-8c	.
-8a-	.
+8fL	F minor
+8gJ	.
+8a-L	.
+8B-J	.
+8cL	.
+8a-J	.
 =2	=2
-8g	Cm/E-
-8gg	.
-8cc	.
-8G	.
-8c	.
-8e-	.
+8gL	C minor/E-
+8ggJ	.
+8ccL	.
+8GJ	.
+8cL	.
+8e-J	.
 =3	=3
-8f	D-maj7
-8A-	.
-16B-	Gdim/D-
+8fL	D- major-seventh
+8A-J	.
+16B-LL	G diminished/D-
 16f	.
 16g	.
-16a-	.
-16a-	.
-48g	.
+16a-JJ	.
+16a-LL	.
+48gL	.
 48a-	.
 48g	.
-48a-	.
+48a-J	.
 24g	.
-16f	.
+16fJJ	.
 =4	=4
-8en	C
-8c	.
-8G	.
-8cc	.
+8enL	C major
+8cJ	.
+8GL	.
+8ccJ	.
 4en	.
 =5	=5
-8f	Fm
-8g	.
-8a-	.
-8d-	.
-8c	.
-8a-	.
+8fL	F minor
+8gJ	.
+8a-L	.
+8d-J	.
+8cL	.
+8a-J	.
 =6	=6
-8g	Cm/E-
-8gg	.
-8cc	.
-8G	.
-8c	.
-8cc	.
+8gL	C minor/E-
+8ggJ	.
+8ccL	.
+8GJ	.
+8cL	.
+8ccJ	.
 =7	=7
-8ff	D-maj7
-8A-	.
-16B-	Gdim/D-
+8ffL	D- major-seventh
+8A-J	.
+16B-LL	G diminished/D-
 16f	.
 16g	.
-16a-	.
-16a-	.
-48g	.
+16a-JJ	.
+16a-LL	.
+48gL	.
 48a-	.
 48g	.
-48a-	.
+48a-J	.
 24g	.
-16f	.
+16fJJ	.
 =8	=8
-8cc	Fm/C
-8f[	.
-16f]	C
+8ccL	F minor/C
+[8fJ	.
+16fLL]	C major
 16en	.
 16f	.
-16g	.
-16g	C7
-48f	.
+16gJJ	.
+16gLL	C dominant
+48fL	.
 48g	.
 48f	.
-48g	.
+48gJ	.
 24f	.
-16en	.
+16enJJ	.
 ==	==
 *-	*-

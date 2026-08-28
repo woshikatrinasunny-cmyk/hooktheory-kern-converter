@@ -16,131 +16,131 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8cc#	C#m
+8cc#L	C# minor
 8ee	.
-8gg#	.
-4dd#	G#m/B
-8ff#	.
+8gg#J	.
+4dd#	G# minor/B
+8ff#L	.
 8bb	.
-8gg#[	F#add(2,4,7)/A#
+[8gg#J	F# other-2,4,7/A#
 =2	=2
-8gg#]	.
+8gg#L]	.
 8ff#	.
-8ee	.
-4dd#	Amaj7
-8ee	.
-8dd#	B
-8b	.
+8eeJ	.
+4dd#	A major-seventh
+8eeL	.
+8dd#	B major
+8bJ	.
 =3	=3
-8g#	F#sus2
+8g#L	F# suspended-second
 8cc#	.
-8ee	.
-4ccn	G#
-8dd#	.
+8eeJ	.
+4ccn	G# major
+8dd#L	.
 8gg#	.
-8ee[	.
+[8eeJ	.
 =4	=4
-8ee]	Amaj7
+8eeL]	A major-seventh
 8cc#	.
 8g#	.
-8ee	.
-16dd#	B
-16ee	.
+8eeJ	.
+16dd#LL	B major
+16eeJ	.
 8dd#	.
 8cc#	.
-8dd#	.
+8dd#J	.
 =5	=5
-8ee	C#m
+8eeL	C# minor
 8ff#	.
-8gg#	.
-4ff#	G#m/B
-8bb	.
+8gg#J	.
+4ff#	G# minor/B
+8bbL	.
 8ccc#	.
-8gg#[	F#add(2,4,7)/A#
+[8gg#J	F# other-2,4,7/A#
 =6	=6
-8gg#]	.
+8gg#L]	.
 8bb	.
 8ff#	.
-8gg#	Amaj7
-8ee	.
+8gg#J	A major-seventh
+8eeL	.
 8g#	.
-8dd#	B
-8f#	.
+8dd#	B major
+8f#J	.
 =7	=7
-8g#	F#m7
+8g#L	F# minor-seventh
 8cc#	.
-8ee	.
-4dd#	G#
-8ccn	.
+8eeJ	.
+4dd#	G# major
+8ccnL	.
 8f#	.
-8g#[	.
+[8g#J	.
 =8	=8
-4.g#_	Amaj7
-4g#]	B
-8g#	.
+4.g#_	A major-seventh
+4g#]	B major
+8g#L	.
 8b	.
-8dd#	.
+8dd#J	.
 =9	=9
-8cc#	C#m
+8cc#L	C# minor
 8ee	.
-8gg#	.
-4dd#	G#m/B
-8ff#	.
+8gg#J	.
+4dd#	G# minor/B
+8ff#L	.
 8bb	.
-8gg#[	F#add(2,4,7)/A#
+[8gg#J	F# other-2,4,7/A#
 =10	=10
-8gg#]	.
+8gg#L]	.
 8ff#	.
-8ee	.
-4dd#	Amaj7
-8ee	.
-8dd#	B
-8b	.
+8eeJ	.
+4dd#	A major-seventh
+8eeL	.
+8dd#	B major
+8bJ	.
 =11	=11
-8g#	F#sus2
+8g#L	F# suspended-second
 8cc#	.
-8ee	.
-4ccn	G#
-8dd#	.
+8eeJ	.
+4ccn	G# major
+8dd#L	.
 8gg#	.
-8ee[	.
+[8eeJ	.
 =12	=12
-8ee]	Amaj7
+8eeL]	A major-seventh
 8cc#	.
 8g#	.
-8ee	.
-16dd#	B
-16ee	.
+8eeJ	.
+16dd#LL	B major
+16eeJ	.
 8dd#	.
 8cc#	.
-8dd#	.
+8dd#J	.
 =13	=13
-8ee	C#m
+8eeL	C# minor
 8ff#	.
-8gg#	.
-4ff#	G#m/B
-8bb	.
+8gg#J	.
+4ff#	G# minor/B
+8bbL	.
 8ccc#	.
-8gg#[	F#add(2,4,7)/A#
+[8gg#J	F# other-2,4,7/A#
 =14	=14
-8gg#]	.
+8gg#L]	.
 8bb	.
 8ff#	.
-8gg#	Amaj7
-8ee	.
+8gg#J	A major-seventh
+8eeL	.
 8g#	.
-8dd#	B
-8f#	.
+8dd#	B major
+8f#J	.
 =15	=15
-8g#	F#m7
+8g#L	F# minor-seventh
 8cc#	.
-8ee	.
-4dd#	G#
-8ccn	.
+8eeJ	.
+4dd#	G# major
+8ccnL	.
 8f#	.
-8g#[	.
+[8g#J	.
 =16	=16
-4.g#_	Amaj7
-3...g#]	B
+4.g#_	A major-seventh
+3...g#]	B major
 ==	==
 *-	*-

@@ -16,19 +16,19 @@
 *e:	*
 *M4/4	*
 =1	=1
-4e	Em
+4e	E minor
 16e	.
 16r	.
 16e	.
 16r	.
-8.d#	D#dim
+8.d#	D# diminished
 16r	.
 16d#	.
 16r	.
 16d#	.
 16r	.
 =2	=2
-8.d	D
+8.d	D major
 16r	.
 8d	.
 4EE	.
@@ -44,21 +44,21 @@
 16r	.
 16d	.
 16r	.
-8.d#	D#dim
+8.d#	D# diminished
 16r	.
 16d#	.
 16r	.
 16e	.
 16r	.
 =4	=4
-8.e	Em
+8.e	E minor
 16r	.
-8.e	.
-16D	.
+8.eL	.
+16DJk	.
 4E	.
 4E	.
 =5	=5
-8.c#	C#dim
+8.c#	C# diminished
 16r	.
 16c#	.
 16r	.
@@ -71,16 +71,16 @@
 16c#	.
 16r	.
 =6	=6
-4d	D
+4d	D major
 8d#	.
 4EE	.
-8EE	.
-16d	.
+8EEL	.
+16dJk	.
 16r	.
 16d#	.
 16r	.
 =7	=7
-16e	Em
+16e	E minor
 16r	.
 16e	.
 16r	.
@@ -88,14 +88,14 @@
 16r	.
 16d#	.
 16r	.
-8.d#	D#dim
+8.d#	D# diminished
 16r	.
 16d#	.
 16r	.
 16d#	.
 16r	.
 =8	=8
-4d	D
+4d	D major
 4DD#	.
 4ee	.
 4d#	.

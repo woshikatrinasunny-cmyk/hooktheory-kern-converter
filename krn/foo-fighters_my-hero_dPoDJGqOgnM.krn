@@ -16,10 +16,10 @@
 *E:	*
 *M4/4	*
 =1	=1
-4r	E
+4r	E major
 4b	.
 4b	.
-4cc#[	C#m
+[4cc#	C# minor
 =2	=2
 8cc#]	.
 4b	.
@@ -27,17 +27,17 @@
 8r	.
 8b	.
 =3	=3
-4g#	E
+4g#	E major
 8b	.
 4.g#	.
-4r	C#m
+4r	C# minor
 =4	=4
 1r	.
 =5	=5
-4r	E
+4r	E major
 4b	.
 4b	.
-4cc#[	C#m
+[4cc#	C# minor
 =6	=6
 8cc#]	.
 4b	.
@@ -45,27 +45,27 @@
 8r	.
 8b	.
 =7	=7
-4g#	E
+4g#	E major
 8b	.
 4.g#	.
-4r	C#m
+4r	C# minor
 =8	=8
 1r	.
 =9	=9
-4r	E
+4r	E major
 4ee	.
 4ee	.
-4ee	C#m
+4ee	C# minor
 =10	=10
 8b	.
 3...b	.
 4r	.
 =11	=11
-4ee	E
+4ee	E major
 8b	.
 4b	.
-8cc#[	.
-4cc#]	C#m
+[8cc#	.
+4cc#]	C# minor
 =12	=12
 1r	.
 ==	==

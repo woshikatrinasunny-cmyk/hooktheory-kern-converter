@@ -16,78 +16,78 @@
 *d#:	*
 *M4/4	*
 =1	=1
-2.r	D#m
-4r	D#m7/C#
+2.r	D# minor
+4r	D# minor-seventh/C#
 =2	=2
-2r	B
-8r	C#sus4
-4.r	C#
+2r	B major
+8r	C# suspended-fourth
+4.r	C# major
 =3	=3
-2.r	D#m
-4r	D#m7/C#
+2.r	D# minor
+4r	D# minor-seventh/C#
 =4	=4
-2r	A#m
-2r	C#
+2r	A# minor
+2r	C# major
 =5	=5
-2.r	D#m
-4r	D#m7/C#
+2.r	D# minor
+4r	D# minor-seventh/C#
 =6	=6
-2r	B
-8r	C#sus4
-4.r	C#
+2r	B major
+8r	C# suspended-fourth
+4.r	C# major
 =7	=7
-2.r	D#m
-4r	D#m7/C#
+2.r	D# minor
+4r	D# minor-seventh/C#
 =8	=8
-2r	A#m
-2r	C#
+2r	A# minor
+2r	C# major
 =9	=9
-8r	D#m7/C#
-4.r	D#m
-8c#	Badd(2,4,7)
-8c#	.
-4c#	A#m
+8r	D# minor-seventh/C#
+4.r	D# minor
+8c#L	B other-2,4,7
+8c#J	.
+4c#	A# minor
 =10	=10
-4c#	D#m
+4c#	D# minor
 4B	.
-8A#[	C#sus4
-8A#]	C#
+[8A#L	C# suspended-fourth
+8A#J]	C# major
 4B	.
 =11	=11
-8A#[	D#m7/C#
-4.A#]	D#m
-4A#	Badd(2,4,7)
-4B	A#m
+[8A#	D# minor-seventh/C#
+4.A#]	D# minor
+4A#	B other-2,4,7
+4B	A# minor
 =12	=12
-2A#[	D#m
-8A#_	C#sus4
-8A#]	C#
+[2A#	D# minor
+8A#L_	C# suspended-fourth
+8A#J]	C# major
 4r	.
 =13	=13
-8r	D#m7/C#
-4r	D#m
+8r	D# minor-seventh/C#
+4r	D# minor
 8A#	.
-4A#	Badd(2,4,7)
-4A#	A#m
+4A#	B other-2,4,7
+4A#	A# minor
 =14	=14
-4A#	D#m
-8G#	.
-8G#[	.
-8G#_	C#sus4
-8G#]	C#
+4A#	D# minor
+8G#L	.
+[8G#J	.
+8G#L_	C# suspended-fourth
+8G#J]	C# major
 4G#	.
 =15	=15
-8A#[	D#m7/C#
-8A#]	D#m
+[8A#L	D# minor-seventh/C#
+8A#J]	D# minor
 4A#	.
-8A#	Badd(2,4,7)
-8G#[	.
-8G#]	A#m
-8G#[	.
+8A#L	B other-2,4,7
+[8G#	.
+8G#]	A# minor
+[8G#J	.
 =16	=16
-4G#]	D#m
+4G#]	D# minor
 4r	.
-8r	C#sus4
-4.r	C#
+8r	C# suspended-fourth
+4.r	C# major
 ==	==
 *-	*-

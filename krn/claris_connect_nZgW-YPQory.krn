@@ -17,37 +17,37 @@
 *M4/4	*
 =1	=1
 2.r	.
-16dd#	.
+16dd#LL	.
 16ee#	.
 16ff#	.
-16gg#	.
+16gg#JJ	.
 =2	=2
-2..aa#	Bmaj7
-8gg#[	C#
+2..aa#	B major-seventh
+[8gg#	C# major
 =3	=3
 2gg#]	.
-2ddd#	C#add(2,4,7)
+2ddd#	C# other-2,4,7
 =4	=4
-3...ccc#	A#m7
+3...ccc#	A# minor-seventh
 4ee#	.
-8ff#[	D#m7
+[8ff#	D# minor-seventh
 =5	=5
 2ff#_	.
-4ff#]	D#m7/C#
-16dd#	.
+4ff#]	D# minor-seventh/C#
+16dd#LL	.
 16ee#	.
 16ff#	.
-16gg#	.
+16gg#JJ	.
 =6	=6
-2..aa#	Cm7b5
-8gg#[	G#add(3,5,7,10)/B
+2..aa#	C half-diminished
+[8gg#	G# other-3,5,7,10/B
 =7	=7
 2gg#]	.
 2ddd#	.
 =8	=8
-1ccc#	C#sus4
+1ccc#	C# suspended-fourth
 =9	=9
-2r	D#7sus4
-2r	D#
+2r	D# dominant-seventh-suspended-fourth
+2r	D# major
 ==	==
 *-	*-

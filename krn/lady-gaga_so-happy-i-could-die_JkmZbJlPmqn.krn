@@ -16,124 +16,124 @@
 *a:	*
 *M4/4	*
 =1	=1
-8r	Fmaj7
+8r	F major-seventh
+8aL	.
 8a	.
-8a	.
-8b	Fmaj7
-8cc	.
+8bJ	F major-seventh
+8ccL	.
 8dd	.
-8ee	Fmaj7
-8a[	.
+8ee	F major-seventh
+[8aJ	.
 =2	=2
-4.a_	G
-8a]	G
+4.a_	G major
+8a]	G major
 8r	.
-8a	.
-8cc	G
-8dd	.
+8aL	.
+8cc	G major
+8ddJ	.
 =3	=3
-8.a	Em7
-16cc	.
+8.aL	E minor-seventh
+16cck	.
 8cc	.
-8dd	Em7
+8ddJ	E minor-seventh
 4a	.
-8r	Em7
+8r	E minor-seventh
 8a	.
 =4	=4
-8cc	Aadd(2,5,7)
+8ccL	A other-2,5,7
 8dd	.
 8a	.
-8a	Aadd(2,5,7)
-8cc	.
-8dd	.
-4a	A
+8aJ	A other-2,5,7
+8ccL	.
+8ddJ	.
+4a	A major
 =5	=5
-8r	Fmaj7
+8r	F major-seventh
 16a	.
 16r	.
-8a	.
-8b	Fmaj7
-8cc	.
+8aL	.
+8bJ	F major-seventh
+8ccL	.
 8dd	.
-8ee	Fmaj7
-8cc	.
+8ee	F major-seventh
+8ccJ	.
 =6	=6
-4.a[	G
-8a]	G
+[4.a	G major
+8a]	G major
 8r	.
-8a	.
-8cc	G
-8dd	.
+8aL	.
+8cc	G major
+8ddJ	.
 =7	=7
-8.a	Em7
-16a	.
+8.aL	E minor-seventh
+16ak	.
 8cc	.
-8dd	Em7
-4a[	.
-8a]	Em7
-8a	.
+8ddJ	E minor-seventh
+[4a	.
+8aL]	E minor-seventh
+8aJ	.
 =8	=8
-8cc	Am
+8ccL	A minor
 8dd	.
 8a	.
-8a	Am
-8cc	.
-8dd	.
-4a	Am
+8aJ	A minor
+8ccL	.
+8ddJ	.
+4a	A minor
 =9	=9
-4.ee[	Fmaj7
-4.ee]	Fmaj7
-4gg	Fmaj7
+[4.ee	F major-seventh
+4.ee]	F major-seventh
+4gg	F major-seventh
 =10	=10
-4.cc[	G
-8cc]	G
+[4.cc	G major
+8cc]	G major
 4r	.
-4r	G
+4r	G major
 =11	=11
-8r	Em7
+8r	E minor-seventh
+8ddL	.
 8dd	.
-8dd	.
-8ee	Em7
-8ff	.
+8eeJ	E minor-seventh
+8ffL	.
 8ee	.
-8.cc	Em7
+8.ccJ	E minor-seventh
 16r	.
 =12	=12
-16cc	Am
+16ccLL	A minor
 16dd	.
 16dd	.
-16dd	.
+16ddJ	.
 8dd	.
-16ee	Am
-16ee	.
-8ff	.
-8ee	.
-4cc	Am
+16eeL	A minor
+16eeJJ	.
+8ffL	.
+8eeJ	.
+4cc	A minor
 =13	=13
-4.ee[	Fmaj7
-4.ee]	Fmaj7
-4gg	Fmaj7
+[4.ee	F major-seventh
+4.ee]	F major-seventh
+4gg	F major-seventh
 =14	=14
-4.cc[	G
-8cc]	G
+[4.cc	G major
+8cc]	G major
 4r	.
-4r	G
+4r	G major
 =15	=15
-8r	Em7
+8r	E minor-seventh
+8ffL	.
 8ff	.
-8ff	.
-8ff	Em7
-8ff	.
+8ffJ	E minor-seventh
+8ffL	.
 8ee	.
-8cc	Em7
-16cc	.
-16cc	.
+8cc	E minor-seventh
+16ccL	.
+16ccJJ	.
 =16	=16
-8dd	Am
-16cc	.
+8ddL	A minor
+16cck	.
 8dd	.
-16cc	.
-4dd[	Am
+16ccJk	.
+[4dd	A minor
 8dd]	.
 4aa	.
 ==	==

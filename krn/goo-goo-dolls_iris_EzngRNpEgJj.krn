@@ -15,66 +15,66 @@
 *D:	*
 *M6/4	*
 =1	=1
-8a	D
-8a	.
+8aL	D major
+8aJ	.
 4r	.
-8a	.
-8a[	.
-8a]	Em
+8aL	.
+[8aJ	.
+8a]	E minor
 4g	.
 4f#	.
-8d[	.
+[8d	.
 =2	=2
-8d]	G
+8d]	G major
 4e	.
 3...r	.
-8d	.
-8d	.
+8dL	.
+8dJ	.
 8r	.
-8a[	.
+[8a	.
 =3	=3
-8a]	Bm
+8a]	B minor
 4g	.
 4f#	.
-8g[	.
-8g]	A
-8f#	.
+[8g	.
+8gL]	A major
+8f#J	.
 8e	.
 4d	.
-8d[	.
+[8d	.
 =4	=4
-4d]	G
+4d]	G major
 3...r	.
 4d	.
 8d	.
-4a[	.
+[4a	.
 =5	=5
-8a]	D
-8a	.
+8aL]	D major
+8aJ	.
 4r	.
-8a	.
-8a	.
-2g	Em
-8f#	.
-8a[	.
+8aL	.
+8aJ	.
+2g	E minor
+8f#L	.
+[8aJ	.
 =6	=6
-4a]	G
+4a]	G major
 4g	.
 8f#	.
 4.f#	.
 8.e	.
 8.d	.
-8e[	.
+[8e	.
 =7	=7
-4e]	Bm
+4e]	B minor
 4f#	.
-8d	.
-8e[	.
-4e]	A
+8dL	.
+[8eJ	.
+4e]	A major
 4f#	.
 4d	.
 =8	=8
-4.d	G
+4.d	G major
 1r	.
 8r	.
 ==	==

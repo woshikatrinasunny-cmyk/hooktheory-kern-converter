@@ -16,115 +16,115 @@
 *d:	*
 *M4/4	*
 =1	=1
-2a	Dm
-2g	Dadd(2,3,5,7)
+2a	D minor
+2g	D other-2,3,5,7
 =2	=2
-2a	Dm
-2b-	Gm7/D
+2a	D minor
+2b-	G minor-seventh/D
 =3	=3
-2a	Dm
-2g	Dadd(2,3,5,7)
+2a	D minor
+2g	D other-2,3,5,7
 =4	=4
-1f	Dm
+1f	D minor
 =5	=5
-2r	B-
-2r	C
+2r	B- major
+2r	C major
 =6	=6
-1r	Dm
+1r	D minor
 =7	=7
-2r	B-
-2r	C
+2r	B- major
+2r	C major
 =8	=8
-1r	Dm
+1r	D minor
 =9	=9
-2a	Dm
+2a	D minor
 2dd	.
 =10	=10
-2ee	C
-8.ee	.
+2ee	C major
+8.eeL	.
 8.ff	.
-8gg	.
+8ggJ	.
 =11	=11
-1dd[	B-
+[1dd	B- major
 =12	=12
 2dd_	.
-2dd]	Cadd(2,5,7)
+2dd]	C other-2,5,7
 =13	=13
-2a	Dm
+2a	D minor
 2dd	.
 =14	=14
-2ee	C
-8.ee	.
+2ee	C major
+8.eeL	.
 8.ff	.
-8gg	.
+8ggJ	.
 =15	=15
-1aa[	Bm7b5
+[1aa	B half-diminished
 =16	=16
 1aa]	.
 =17	=17
-2bb-	B-
-8.bb-	.
+2bb-	B- major
+8.bb-L	.
 8.ccc	.
-8ddd	.
+8dddJ	.
 =18	=18
-4ccc	C
+4ccc	C major
 4fff	.
 4eee	.
 4ccc	.
 =19	=19
-1aa[	Dm
+[1aa	D minor
 =20	=20
 2aa]	.
-8aa	.
+8aaL	.
 8gg	.
-8ff	C
-8ee	.
+8ff	C major
+8eeJ	.
 =21	=21
-2dd	B-maj7
-8.dd	.
+2dd	B- major-seventh
+8.ddL	.
 8.ee	.
-8ff	.
+8ffJ	.
 =22	=22
-4ee	C
+4ee	C major
 4aa	.
 4gg	.
-8ff	.
-8ee	.
+8ffL	.
+8eeJ	.
 =23	=23
-1ee[	Dm9
+[1ee	D minor-ninth
 =24	=24
 2ee]	.
-8.ee	.
-16ff[	.
-8ff]	C
-8gg	.
+8.eeL	.
+[16ffk	.
+8ff]	C major
+8ggJ	.
 =25	=25
-1dd	B-maj7
+1dd	B- major-seventh
 =26	=26
-2eee	A
+2eee	A major
 2ddd-	.
 =27	=27
-2ddd	B-maj7
+2ddd	B- major-seventh
 2eee	.
 =28	=28
-2fff	Faug/A
+2fff	F augmented/A
 2ddd-	.
 =29	=29
-2ddd	B-maj7
+2ddd	B- major-seventh
 2eee	.
 =30	=30
-2fff	Faug/A
+2fff	F augmented/A
 2ggg	.
 =31	=31
-1aaa	DmMaj7
+1aaa	D major-minor
 =32	=32
 *k[b-e-a-d-]	*
 *f:	*
-8.eeen	C
+8.eeenL	C major
 8.eeen	.
-8eeen	.
-8g	.
-8a-	.
+8eeenJ	.
+8gL	.
+8a-J	.
 4b-	.
 ==	==
 *-	*-

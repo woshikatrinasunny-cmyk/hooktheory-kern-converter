@@ -15,58 +15,58 @@
 *B-:	*
 *M6/4	*
 =1	=1
-4.b-	B-
-8b-	B-
-8f	.
-8b-	.
-4.dd	B-
-8dd	B-
-8b-	.
-8dd	.
+4.b-	B- major
+8b-	B- major
+8fL	.
+8b-J	.
+4.dd	B- major
+8dd	B- major
+8b-L	.
+8ddJ	.
 =2	=2
-4.ff[	B-
-4.ff_	B-
-4.ff]	B-
-8ff	B-
+[4.ff	B- major
+4.ff_	B- major
+4.ff]	B- major
+8ff	B- major
 8r	.
 8ff	.
 =3	=3
-4.ee-[	A-
-4.ee-_	A-
-4.ee-_	A-
-4.ee-]	A-
+[4.ee-	A- major
+4.ee-_	A- major
+4.ee-_	A- major
+4.ee-]	A- major
 =4	=4
-4.r	A-
-4.r	A-
-4.r	A-
-4.r	A-
+4.r	A- major
+4.r	A- major
+4.r	A- major
+4.r	A- major
 =5	=5
-4.ee-	E-/G
-8ee-	E-/G
-8b-	.
-8ee-	.
-4.gg	E-/G
-8gg	E-/G
-8ee-	.
-8gg	.
+4.ee-	E- major/G
+8ee-	E- major/G
+8b-L	.
+8ee-J	.
+4.gg	E- major/G
+8gg	E- major/G
+8ee-L	.
+8ggJ	.
 =6	=6
-4.bb-[	E-/G
-4.bb-_	E-/G
-4.bb-]	E-/G
-8bb-	E-/G
+[4.bb-	E- major/G
+4.bb-_	E- major/G
+4.bb-]	E- major/G
+8bb-	E- major/G
 8r	.
 8bb-	.
 =7	=7
-4.bb-[	Fsus4
-4.bb-_	Fsus4
-4.bb-]	Fsus4
-8bb-	Fsus4
-8aa	.
-8gg	.
+[4.bb-	F suspended-fourth
+4.bb-_	F suspended-fourth
+4.bb-]	F suspended-fourth
+8bb-	F suspended-fourth
+8aaL	.
+8ggJ	.
 =8	=8
-4.aa[	F
-4.aa_	F
-4.aa_	F
-4.aa]	F
+[4.aa	F major
+4.aa_	F major
+4.aa_	F major
+4.aa]	F major
 ==	==
 *-	*-

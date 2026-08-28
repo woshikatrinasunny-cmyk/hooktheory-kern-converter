@@ -15,34 +15,34 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2f#	F#m
+2f#	F# minor
 2cc#	.
 =2	=2
-2g#	C#/F
+2g#	C# major/F
 4dd	.
 4cc#	.
 =3	=3
-2cc#	A/E
+2cc#	A major/E
 4b	.
 4cc#	.
 =4	=4
-2b	B/D#
+2b	B major/D#
 4f#	.
 4g#	.
 =5	=5
-2a	D/F#
+2a	D major/F#
 4b	.
 4a	.
 =6	=6
-2a	A
+2a	A major
 2e	.
 =7	=7
-2.g#	G#7/C
-8a	.
-16g#	.
-16a	.
+2.g#	G# dominant/C
+8aL	.
+16g#L	.
+16aJJ	.
 =8	=8
-2g#[	C#sus4
-2g#]	C#
+[2g#	C# suspended-fourth
+2g#]	C# major
 ==	==
 *-	*-

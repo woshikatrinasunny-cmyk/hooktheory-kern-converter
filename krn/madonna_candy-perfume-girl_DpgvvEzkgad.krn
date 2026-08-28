@@ -16,89 +16,89 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4.r	F#
-2r	A
-8r	A/E
+4.r	F# major
+2r	A major
+8r	A major/E
 =2	=2
-4.r	F#
-2r	A
-8r	A/E
+4.r	F# major
+2r	A major
+8r	A major/E
 =3	=3
-4.r	F#
-2r	A
-8r	A/E
+4.r	F# major
+2r	A major
+8r	A major/E
 =4	=4
-4.r	F#
-2r	A
-8r	A/E
+4.r	F# major
+2r	A major
+8r	A major/E
 =5	=5
-4.cc#	F#
-4cc#	A
+4.cc#	F# major
+4cc#	A major
 4a#	.
-8ee[	A/E
+[8ee	A major/E
 =6	=6
-8ee]	F#
+8eeL]	F# major
 8b	.
-8a#	.
-4cc#	A
+8a#J	.
+4cc#	A major
 4r	.
-8f#	A/E
+8f#	A major/E
 =7	=7
-4a#	F#
+4a#	F# major
 8a#	.
-4b	A
+4b	A major
 4f#	.
-8f#[	A/E
+[8f#	A major/E
 =8	=8
-8f#]	F#
+8f#]	F# major
 4f#	.
-4a#	A
+4a#	A major
 4r	.
-8r	A/E
+8r	A major/E
 =9	=9
-4.cc#	F#
-2cc#	A
-8ee[	A/E
+4.cc#	F# major
+2cc#	A major
+[8ee	A major/E
 =10	=10
-8ee]	F#
+8eeL]	F# major
 8b	.
-8a#	.
-4cc#	A
+8a#J	.
+4cc#	A major
 4r	.
-8r	A/E
+8r	A major/E
 =11	=11
-4a#	F#
+4a#	F# major
 8a#	.
-4b	A
+4b	A major
 4f#	.
-8f#[	A/E
+[8f#	A major/E
 =12	=12
-8f#]	F#
+8f#]	F# major
 4f#	.
-4.r	A
-8f#	.
-8f#	A/E
+4.r	A major
+8f#L	.
+8f#J	A major/E
 =13	=13
-4a#	F#
+4a#	F# major
 8a#	.
-4b	A
+4b	A major
 4f#	.
-8f#[	A/E
+[8f#	A major/E
 =14	=14
-4f#]	F#
+4f#]	F# major
 8r	.
-2r	A
-8f#	A/E
+2r	A major
+8f#	A major/E
 =15	=15
-4a#	F#
+4a#	F# major
 8a#	.
-4b	A
+4b	A major
 4f#	.
-8f#[	A/E
+[8f#	A major/E
 =16	=16
-4f#]	F#
+4f#]	F# major
 8r	.
-2r	A
-8r	A/E
+2r	A major
+8r	A major/E
 ==	==
 *-	*-

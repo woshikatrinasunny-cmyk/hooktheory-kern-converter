@@ -16,32 +16,32 @@
 *g:	*
 *M4/4	*
 =1	=1
-8.dd	E-add(2,4,7)
+8.ddL	E- other-2,4,7
 8.g	.
-8g	.
-8.b-	B-add(2,4,7)/D
+8gJ	.
+8.b-L	B- other-2,4,7/D
 8.g	.
-8g	.
+8gJ	.
 =2	=2
-8.dd	Gm7
+8.ddL	G minor-seventh
 8.g	.
-8g	.
-8b-	Cm7
-8cc	.
+8gJ	.
+8b-L	C minor-seventh
+8ccJ	.
 4b-	.
 =3	=3
-8.dd	E-add(2,4,7)
+8.ddL	E- other-2,4,7
 8.g	.
-8g	.
-8.b-	B-add(2,4,7)/D
+8gJ	.
+8.b-L	B- other-2,4,7/D
 8.g	.
-8g	.
+8gJ	.
 =4	=4
-8.dd	Gm7
+8.ddL	G minor-seventh
 8.g	.
-8g	.
-8b-	Gm7/B-
-8cc	.
+8gJ	.
+8b-L	G minor-seventh/B-
+8ccJ	.
 4b-	.
 ==	==
 *-	*-

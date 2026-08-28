@@ -15,9 +15,9 @@
 *E:	*
 *M4/4	*
 =1	=1
-8.CC#	.
-16CC#	.
-16CC#	.
+8.CC#L	.
+16CC#L	.
+16CC#JJ	.
 8.r	.
 4D#	.
 4C#	.
@@ -25,13 +25,13 @@
 8CC#	.
 8r	.
 4D#	.
-8D#	.
-8C#	.
+8D#L	.
+8C#J	.
 4BB	.
 =3	=3
-8.EE	.
-16EE	.
-16EE	.
+8.EEL	.
+16EEL	.
+16EEJJ	.
 8.r	.
 4F#	.
 4E	.
@@ -39,38 +39,38 @@
 8EE	.
 8r	.
 4D#	.
-8D#	.
+8D#L	.
 8C#	.
 8BB	.
-8GG#	.
+8GG#J	.
 =5	=5
-8.CC#	C#sus4
-16CC#	.
-16CC#	C#sus2
+8.CC#L	C# suspended-fourth
+16CC#L	.
+16CC#JJ	C# suspended-second
 8.r	.
-4D#	C#sus4
-4C#	C#sus2
+4D#	C# suspended-fourth
+4C#	C# suspended-second
 =6	=6
-8CC#	C#sus4
+8CC#	C# suspended-fourth
 8r	.
-4D#	C#sus2
-8D#	C#add(2,5,7)
-8C#	.
-4BB	C#sus2
+4D#	C# suspended-second
+8D#L	C# other-2,5,7
+8C#J	.
+4BB	C# suspended-second
 =7	=7
-8.EE	Emaj7sus2
-16EE	.
-16EE	E
+8.EEL	E major-seventh-suspended-second
+16EEL	.
+16EEJJ	E major
 8.r	.
-4F#	Esus2
-4E	E
+4F#	E suspended-second
+4E	E major
 =8	=8
-8EE	Esus2
+8EE	E suspended-second
 8r	.
-4D#	E
-8D#	Emaj7sus2
+4D#	E major
+8D#L	E major-seventh-suspended-second
 8C#	.
-8BB	E
-8GG#	.
+8BB	E major
+8GG#J	.
 ==	==
 *-	*-

@@ -16,197 +16,197 @@
 *a:	*
 *M4/4	*
 =1	=1
-2a	Am
+2a	A minor
 2ee	.
 =2	=2
 4.dd	.
 4.gg	.
 4ee	.
 =3	=3
-2a	F
+2a	F major
 2ee	.
 =4	=4
 4.dd	.
 4.gg	.
 4ee	.
 =5	=5
-2a	Dm
+2a	D minor
 2f	.
 =6	=6
 4.dd	.
 4.a	.
 4dd	.
 =7	=7
-1b	G
+1b	G major
 =8	=8
-3...r	E
+3...r	E major
+8g#L	.
 8g#	.
-8g#	.
-8g#	.
+8g#J	.
 =9	=9
-8a	A5
+8aL	A power
 8a	.
 8a	.
-8g#	G#5
+8g#J	G# power
+8g#L	.
 8g#	.
-8g#	.
-8g	G5
-8g	.
+8g	G power
+8gJ	.
 =10	=10
-8f#	F#5
+8f#L	F# power
 8f#	.
 8f#	.
-8f	F5
+8fJ	F power
+8fL	.
 8f	.
-8f	.
-8e	E5
-8e	.
+8e	E power
+8eJ	.
 =11	=11
-8a	A5
+8aL	A power
 8a	.
 8a	.
-8g#	G#5
+8g#J	G# power
+8g#L	.
 8g#	.
-8g#	.
-8g	G5
-8g	.
+8g	G power
+8gJ	.
 =12	=12
-8f#	F#5
+8f#L	F# power
 8f#	.
 8f#	.
-8f	F5
+8fJ	F power
+8fL	.
 8f	.
-8f	.
-8e	E5
-8e	.
+8e	E power
+8eJ	.
 =13	=13
-8a	Am
-8r	Am
-8a	.
-8a	.
-8g	.
-8a	.
+8a	A minor
+8r	A minor
+8aL	.
+8aJ	.
+8gL	.
+8aJ	.
 8r	.
-8a[	Fmaj7
+[8a	F major-seventh
 =14	=14
 4a]	.
-8a	.
-8a	.
-8g[	.
-8g]	Fmaj7
-8a	.
+8aL	.
+8aJ	.
+[8gL	.
+8g]	F major-seventh
+8aJ	.
 8r	.
 =15	=15
-8a	Dm
-8a	Dm
+8aL	D minor
+8a	D minor
 8a	.
-8a	.
-8g	.
-8a	.
+8aJ	.
+8gL	.
+8aJ	.
 8r	.
-8cc[	Am/E
+[8cc	A minor/E
 =16	=16
-8cc]	.
-8b[	E
+8ccL]	.
+[8b	E major
 8b]	.
-8a[	Am/E
+[8aJ	A minor/E
 8a]	.
-4b	E
+4b	E major
 8r	.
 =17	=17
-16a	Am
+16a	A minor
 16r	.
-16a	Am
+16a	A minor
 16r	.
-8a	.
-8a	.
-8g	.
-8.a	.
+8aL	.
+8aJ	.
+8gL	.
+8.aJ	.
 16r	.
-8a[	Fmaj7
+[8a	F major-seventh
 =18	=18
-8a]	.
+8aL]	.
 8a	.
 8a	.
-8a	.
-8g[	.
-16g]	Fmaj7
+8aJ	.
+[8gL	.
+16gJk]	F major-seventh
 16r	.
 4a	.
 =19	=19
-8a	Dm
-8a	Dm
+8aL	D minor
+8a	D minor
 8a	.
-8a	.
-8g	.
-8a	.
+8aJ	.
+8gL	.
+8aJ	.
 8r	.
-8cc[	Am/E
+[8cc	A minor/E
 =20	=20
 8cc]	.
 4b	.
 4a	.
-4.b	E
+4.b	E major
 =21	=21
-8cc	Am
+8cc	A minor
 8r	.
 8cc	.
 8r	.
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 8r	.
-8dd[	G
+[8dd	G major
 =22	=22
-8dd]	.
+8ddL]	.
 8dd	.
-8dd	.
+8ddJ	.
 8r	.
 8cc	.
 8r	.
 4dd	.
 =23	=23
-8ee	Fmaj7
+8ee	F major-seventh
 8r	.
 8ee	.
 8r	.
-8ee	.
-8ff	.
+8eeL	.
+8ffJ	.
 8r	.
-8ee[	E
+[8ee	E major
 =24	=24
-8ee]	.
+8eeL]	.
 8ee	.
-8dd	.
+8ddJ	.
 8r	.
 8ff	.
 8r	.
 4ee	.
 =25	=25
-8cc	Am
+8cc	A minor
 8r	.
 8cc	.
 8r	.
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 8r	.
-8dd[	Em7
+[8dd	E minor-seventh
 =26	=26
-8dd]	.
+8ddL]	.
 8dd	.
-8dd	.
+8ddJ	.
 8r	.
 8cc	.
 8r	.
 8b	.
 8r	.
 =27	=27
-2..cc	F
+2..cc	F major
 8r	.
 =28	=28
-6...ee	E
+6...ee	E major
 16r	.
-6...ee	E
+6...ee	E major
 16r	.
-4ee	E
+4ee	E major
 ==	==
 *-	*-

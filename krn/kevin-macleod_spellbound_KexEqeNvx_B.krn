@@ -15,67 +15,67 @@
 *c:	*
 *M4/4	*
 =1	=1
-8CC[	Cm
-8CC_	Cm
-8CC_	Cm
-8CC_	Cm
-4CC]	Cm
-4GG[	Cm/G
+[8CCL	C minor
+8CC_	C minor
+8CC_	C minor
+8CCJ_	C minor
+4CC]	C minor
+[4GG	C minor/G
 =2	=2
 2.GG]	.
 4AA-	.
 =3	=3
-8EE-[	Cm/E-
-8EE-_	Cm/E-
-8EE-_	Cm/E-
-8EE-_	Cm/E-
-4EE-]	Cm/E-
-4DD[	G/D
+[8EE-L	C minor/E-
+8EE-_	C minor/E-
+8EE-_	C minor/E-
+8EE-J_	C minor/E-
+4EE-]	C minor/E-
+[4DD	G major/D
 =4	=4
 2.DD]	.
-8FF	.
-8EE-	.
+8FFL	.
+8EE-J	.
 =5	=5
-8CC[	Cm
-8CC_	Cm
-8CC_	Cm
-8CC_	Cm
-4CC]	Cm
-4GG[	G7sus4
+[8CCL	C minor
+8CC_	C minor
+8CC_	C minor
+8CCJ_	C minor
+4CC]	C minor
+[4GG	G dominant-seventh-suspended-fourth
 =6	=6
 2.GG]	.
 4AA-	.
 =7	=7
-8BB-[	B-7sus2
-8BB-_	B-7sus2
-8BB-_	B-7sus2
-8BB-_	B-7sus2
-4BB-]	B-7sus2
-4FF[	Ddim/F
+[8BB-L	B- dominant-seventh-suspended-second
+8BB-_	B- dominant-seventh-suspended-second
+8BB-_	B- dominant-seventh-suspended-second
+8BB-J_	B- dominant-seventh-suspended-second
+4BB-]	B- dominant-seventh-suspended-second
+[4FF	D diminished/F
 =8	=8
 1FF]	.
 =9	=9
-2.CC	C
-4GG[	C/G
+2.CC	C major
+[4GG	C major/G
 =10	=10
 2.GG]	.
 4AA-	.
 =11	=11
-2.EE-	Cm/E-
-4DD[	Dadd(1,3,5,6,10)
+2.EE-	C minor/E-
+[4DD	D other-1,3,5,6,10
 =12	=12
 2.DD]	.
-8FF	.
-8EE-	.
+8FFL	.
+8EE-J	.
 =13	=13
-2.CC	C
-4GG[	C/G
+2.CC	C major
+[4GG	C major/G
 =14	=14
 2.GG]	.
 4AA-	.
 =15	=15
-2.BB-	Cm7/B-
-4FF[	Fadd(7,10)
+2.BB-	C minor-seventh/B-
+[4FF	F other-7,10
 =16	=16
 1FF]	.
 ==	==

@@ -27,10 +27,10 @@
 =2	=2
 4B	.
 8A	.
-4.F#[	.
-4F#]	F
+[4.F#	.
+4F#]	F major
 =3	=3
-4F#	F#m
+4F#	F# minor
 16c	.
 16r	.
 16c	.
@@ -42,15 +42,15 @@
 16B	.
 16r	.
 =4	=4
-8E	.
+8EL	.
 8F#	.
 8A	.
-8F#	.
-8fn	F
-8f#	.
+8F#J	.
+8fnL	F major
+8f#J	.
 4a	.
 =5	=5
-4F#	F#m
+4F#	F# minor
 16c	.
 16r	.
 16c	.
@@ -63,19 +63,19 @@
 8A	.
 3...F#	.
 =7	=7
-8r	F#dim/A
+8r	F# diminished/A
 4.A	.
 4A	.
-8A	.
-8B[	.
+8AL	.
+[8BJ	.
 =8	=8
-8B]	B
-8F#	.
+8BL]	B major
+8F#J	.
 4B	.
-4r	F#dim/A
-4r	Em7b5/G
+4r	F# diminished/A
+4r	E half-diminished/G
 =9	=9
-4F#	F#m
+4F#	F# minor
 16c	.
 16r	.
 16c	.
@@ -86,10 +86,10 @@
 =10	=10
 4B	.
 8A	.
-4.F#[	.
-4F#]	F
+[4.F#	.
+4F#]	F major
 =11	=11
-4F#	F#m
+4F#	F# minor
 16c	.
 16r	.
 16c	.
@@ -101,15 +101,15 @@
 16B	.
 16r	.
 =12	=12
-8E	.
+8EL	.
 8F#	.
 8A	.
-8F#	.
-8fn	F
-8f#	.
+8F#J	.
+8fnL	F major
+8f#J	.
 4a	.
 =13	=13
-4F#	F#m
+4F#	F# minor
 16c	.
 16r	.
 16c	.
@@ -122,44 +122,44 @@
 8A	.
 3...F#	.
 =15	=15
-8r	F#dim/A
+8r	F# diminished/A
 4.A	.
 4A	.
-8A	.
-8B[	.
+8AL	.
+[8BJ	.
 =16	=16
-8B]	B
-8F#	.
+8BL]	B major
+8F#J	.
 4B	.
-4A	F#dim/A
-4Fn	Em7b5/G
+4A	F# diminished/A
+4Fn	E half-diminished/G
 =17	=17
-1F#	F#m
+1F#	F# minor
 =18	=18
 2.Fn	.
-4cc#	F
+4cc#	F major
 =19	=19
-1f#[	F#m
+[1f#	F# minor
 =20	=20
 2f#_	.
-4f#]	F
+4f#]	F major
 4Fn	.
 =21	=21
-1F#	F#m
+1F#	F# minor
 =22	=22
 1Fn	.
 =23	=23
-4a	F#dim/A
+4a	F# diminished/A
 4a	.
 4a	.
 4a	.
 =24	=24
-4b	B
+4b	B major
 4b	.
-4a	F#dim/A
-4g	Em7b5/G
+4a	F# diminished/A
+4g	E half-diminished/G
 =25	=25
-2FF#[	F#m
+[2FF#	F# minor
 2FF#]	.
 ==	==
 *-	*-

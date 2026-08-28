@@ -16,86 +16,86 @@
 *F#:	*
 *M4/4	*
 =1	=1
-2ccc#	F#
-2ff#[	.
+2ccc#	F# major
+[2ff#	.
 =2	=2
-2ff#]	F#
+2ff#]	F# major
 8r	.
-8cc#	.
+8cc#L	.
 8ff#	.
-8ccc#	.
+8ccc#J	.
 =3	=3
-4.ccc#	B
+4.ccc#	B major
 8bb	.
 4.bb	.
 8aa#	.
 =4	=4
-4.aa#	C#
+4.aa#	C# major
 8gg#	.
-4gg#	C#7
-8ff#	.
-8gg#	.
+4gg#	C# dominant
+8ff#L	.
+8gg#J	.
 =5	=5
-2aa#	D#m
-2dd#[	.
+2aa#	D# minor
+[2dd#	.
 =6	=6
-2dd#]	D#m7/C#
+2dd#]	D# minor-seventh/C#
 8r	.
-8dd#	.
+8dd#L	.
 8ff#	.
-8aa#	.
+8aa#J	.
 =7	=7
-4.aa#	G#/C
+4.aa#	G# major/C
 8gg#	.
 4.gg#	.
 8ff#	.
 =8	=8
-4.ff#	C#7/B
+4.ff#	C# dominant/B
 8ee#	.
 4ee#	.
-8dd#	.
-8cc#	.
+8dd#L	.
+8cc#J	.
 =9	=9
-2ccc#	F#/A#
-2ff#[	.
+2ccc#	F# major/A#
+[2ff#	.
 =10	=10
-2ff#]	F#/A#
+2ff#]	F# major/A#
 8r	.
-8cc#	.
+8cc#L	.
 8ff#	.
-8ccc#	.
+8ccc#J	.
 =11	=11
 *k[f#c#g#]	*
 *f#:	*
-2ccc#	F#m/A
-2ff#[	.
+2ccc#	F# minor/A
+[2ff#	.
 =12	=12
-2ff#]	F#m/A
+2ff#]	F# minor/A
 8r	.
-8cc#	.
+8cc#L	.
 8ff#	.
-8ccc#	.
+8ccc#J	.
 =13	=13
-4.eee	D
+4.eee	D major
 8ddd	.
 4.ddd	.
 8ccc#	.
 =14	=14
-4.ccc#	Dadd(2,4,7)
+4.ccc#	D other-2,4,7
 8bb	.
-4.bb	Dmaj7/C#
+4.bb	D major-seventh/C#
 8aa	.
 =15	=15
-4.aa	Bm7
+4.aa	B minor-seventh
 8gg#	.
 4.gg#	.
 8ff#	.
 =16	=16
-4.ff#	F#m/C#
+4.ff#	F# minor/C#
 8ffn	.
-4ffn	C#7
-8dd#	.
-8ffn	.
+4ffn	C# dominant
+8dd#L	.
+8ffnJ	.
 *k[f#c#g#d#a#e#]	*
 *F#:	*
 ==	==

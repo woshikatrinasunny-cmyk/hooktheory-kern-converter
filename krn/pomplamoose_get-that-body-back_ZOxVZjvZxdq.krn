@@ -16,80 +16,80 @@
 *E:	*
 *M4/4	*
 =1	=1
-4r	E
-8e	.
-8e	.
-16gn	.
+4r	E major
+8eL	.
+8eJ	.
+16gnLK	.
 8gn	.
-8e	.
+8eJ	.
 16r	.
-16e	.
-16e	.
+16eLL	.
+16eJJ	.
 =2	=2
-8e	Eadd(3,7,9)/G
+8eL	E other-3,7,9/G
 8e	.
 8e	.
-8e	.
-16gn	.
+8eJ	.
+16gnLK	.
 8gn	.
-8e	.
+8eJ	.
 8.r	.
 =3	=3
-4r	A7sus4
-8e	.
-8e	.
-16gn	.
+4r	A dominant-seventh-suspended-fourth
+8eL	.
+8eJ	.
+16gnLK	.
 8gn	.
-8e	.
+8eJ	.
 16r	.
-16d	Eadd(3,5,7,10)/B
-16d	.
+16dLL	E other-3,5,7,10/B
+16dJJ	.
 =4	=4
-8d	.
-8d	A7sus4/D
-16d	.
-16d[	.
-16d]	A7sus4/E
+8dL	.
+8d	A dominant-seventh-suspended-fourth/D
+16dL	.
+[16d	.
+16dJJ]	A dominant-seventh-suspended-fourth/E
 8e	.
 16r	.
-4.r	A7sus4/G
+4.r	A dominant-seventh-suspended-fourth/G
 =5	=5
-4r	E
-8e	.
-8e	.
-16gn	.
+4r	E major
+8eL	.
+8eJ	.
+16gnLK	.
 8gn	.
-8e	.
+8eJ	.
 16r	.
-16e	.
-16e	.
+16eLL	.
+16eJJ	.
 =6	=6
-8e	Eadd(3,7,9)/G
+8eL	E other-3,7,9/G
 8e	.
 8e	.
-8e	.
-16gn	.
+8eJ	.
+16gnLK	.
 8gn	.
-8e	.
+8eJ	.
 8.r	.
 =7	=7
-4r	A7sus4
-8e	.
-8e	.
-16gn	.
+4r	A dominant-seventh-suspended-fourth
+8eL	.
+8eJ	.
+16gnLK	.
 8gn	.
-8e	.
+8eJ	.
 16r	.
-16d	Eadd(3,5,7,10)/B
-16d	.
+16dLL	E other-3,5,7,10/B
+16dJJ	.
 =8	=8
-8d	.
-8d	A7sus4/D
-16d	.
-16d[	.
-16d]	A7sus4/E
+8dL	.
+8d	A dominant-seventh-suspended-fourth/D
+16dL	.
+[16d	.
+16dJJ]	A dominant-seventh-suspended-fourth/E
 8e	.
 16r	.
-4.r	A7sus4/G
+4.r	A dominant-seventh-suspended-fourth/G
 ==	==
 *-	*-

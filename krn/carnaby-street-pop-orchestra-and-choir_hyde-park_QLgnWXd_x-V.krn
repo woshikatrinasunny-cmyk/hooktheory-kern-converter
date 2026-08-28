@@ -15,7 +15,7 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	D#
+4r	D# major
 16d#	.
 16r	.
 16fn	.
@@ -24,9 +24,9 @@
 16r	.
 8.a#	.
 16r	.
-8a[	.
+[8a	.
 =2	=2
-6...a]	F7/D#
+6...a]	F dominant/D#
 16r	.
 16a#	.
 16r	.
@@ -34,9 +34,9 @@
 16r	.
 8.a	.
 16r	.
-8ffn[	.
+[8ffn	.
 =3	=3
-6...ffn]	A#/D
+6...ffn]	A# major/D
 16r	.
 16dd	.
 16r	.
@@ -44,9 +44,9 @@
 16r	.
 8.a#	.
 16r	.
-8fn[	.
+[8fn	.
 =4	=4
-6...fn]	A#
+6...fn]	A# major
 16r	.
 16dd	.
 16r	.
@@ -54,9 +54,9 @@
 16r	.
 8.a#	.
 16r	.
-8g[	.
+[8g	.
 =5	=5
-8.g]	G
+8.g]	G major
 16r	.
 16g	.
 16r	.
@@ -66,9 +66,9 @@
 16r	.
 8.dd	.
 16r	.
-8cc#[	.
+[8cc#	.
 =6	=6
-6...cc#]	A7/G
+6...cc#]	A dominant/G
 16r	.
 16dd	.
 16r	.
@@ -77,16 +77,16 @@
 6...a	.
 16r	.
 =7	=7
-2aa[	F#m7
-16aa]	Bm7
+[2aa	F# minor-seventh
+16aa]	B minor-seventh
 16r	.
 16gg	.
 16r	.
 16ff#	.
 16r	.
-8dd[	.
+[8dd	.
 =8	=8
-2.dd]	D7
+2.dd]	D dominant
 4r	.
 ==	==
 *-	*-

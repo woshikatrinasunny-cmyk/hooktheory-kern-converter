@@ -16,73 +16,73 @@
 *A:	*
 *M4/4	*
 =1	=1
-3...A	A
+3...A	A major
 4E	.
-8B[	.
+[8B	.
 =2	=2
-3...B]	E
+3...B]	E major
 4A	.
 8G#	.
 =3	=3
-4.A	F#m9
+4.A	F# minor-ninth
 4r	.
-4A	F#m7
-8F#[	.
+4A	F# minor-seventh
+[8F#	.
 =4	=4
-3...F#]	Dadd(2,4,7)
-4A	Dmaj9
-8A[	.
+3...F#]	D other-2,4,7
+4A	D major-ninth
+[8A	.
 =5	=5
-3...A]	Aadd(2,4,7)
+3...A]	A other-2,4,7
 4E	.
-8B[	.
+[8B	.
 =6	=6
-4B]	E
+4B]	E major
 4.r	.
-4A	E
-8G#[	.
+4A	E major
+[8G#	.
 =7	=7
-3...G#]	F#m7
+3...G#]	F# minor-seventh
 4B	.
 8A	.
 =8	=8
-2B	Dadd(4,7,9)
+2B	D other-4,7,9
 4e	.
-8e[	.
-8e_	A
+[8eL	.
+8eJ_	A major
 =9	=9
 3...e]	.
 4.b	.
 =10	=10
-4.g#	E
+4.g#	E major
 4r	.
 4e	.
-8c#[	.
+[8c#	.
 =11	=11
-2c#]	F#m
+2c#]	F# minor
 4.a	.
-8f#[	D
+[8f#	D major
 =12	=12
-16f#]	.
+16f#LK]	.
 8.e	.
-8d	.
+8dJ	.
 4d	.
-8c#	.
-8A[	.
-8A_	A
+8c#L	.
+[8A	.
+8AJ_	A major
 =13	=13
 4.A]	.
 2r	.
-8B[	E
+[8B	E major
 =14	=14
 8B]	.
-4.f#[	.
-4.f#]	Esus4
-8F#	F#m
+[4.f#	.
+4.f#]	E suspended-fourth
+8F#	F# minor
 =15	=15
-1c#[	.
+[1c#	.
 =16	=16
-4.c#]	Dmaj9
+4.c#]	D major-ninth
 3...r	.
 ==	==
 *-	*-

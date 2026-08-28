@@ -16,69 +16,69 @@
 *D:	*
 *M4/4	*
 =1	=1
-2r	D
-4r	A
-4r	A#dim
+2r	D major
+4r	A major
+4r	A# diminished
 =2	=2
-2r	Bm
-2r	F#7
+2r	B minor
+2r	F# dominant
 =3	=3
-2r	G
-4r	Badd(4,7,8,10)
-4r	B7
+2r	G major
+4r	B other-4,7,8,10
+4r	B dominant
 =4	=4
-4r	Em
-4r	Em7
-4r	Eadd(3,7,9)
-4r	Em
+4r	E minor
+4r	E minor-seventh
+4r	E other-3,7,9
+4r	E minor
 =5	=5
-2r	A7/G
-4r	D/F#
-4r	A7/E
+2r	A dominant/G
+4r	D major/F#
+4r	A dominant/E
 =6	=6
-4r	Dsus2
-4r	D
-4r	A/C#
-4r	D
+4r	D suspended-second
+4r	D major
+4r	A major/C#
+4r	D major
 =7	=7
-2r	A/E
-2r	E7
+2r	A major/E
+2r	E dominant
 =8	=8
-4r	A
-4r	A7
-4r	F#m/A
-4r	A
+4r	A major
+4r	A dominant
+4r	F# minor/A
+4r	A major
 =9	=9
-2r	D
-4r	A
-4r	A#dim
+2r	D major
+4r	A major
+4r	A# diminished
 =10	=10
-2r	Bm
-2r	F#7
+2r	B minor
+2r	F# dominant
 =11	=11
-2r	G
-2r	B7
+2r	G major
+2r	B dominant
 =12	=12
-4r	Em
-4r	Em7
-4r	Eadd(3,7,9)
-4r	Em
+4r	E minor
+4r	E minor-seventh
+4r	E other-3,7,9
+4r	E minor
 =13	=13
-2r	A7/G
-4r	D/F#
-4r	A7/E
+2r	A dominant/G
+4r	D major/F#
+4r	A dominant/E
 =14	=14
-4r	D
-4r	D/F#
-4r	G
-4r	Em
+4r	D major
+4r	D major/F#
+4r	G major
+4r	E minor
 =15	=15
-2r	Asus4
-2r	A
+2r	A suspended-fourth
+2r	A major
 =16	=16
-2r	D
-4r	G/B
-8r	A/C#
-8r	A
+2r	D major
+4r	G major/B
+8r	A major/C#
+8r	A major
 ==	==
 *-	*-

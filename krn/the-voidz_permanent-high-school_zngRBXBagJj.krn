@@ -16,30 +16,30 @@
 *b:	*
 *M4/4	*
 =1	=1
-1r	Badd(3,6,7)
+1r	B other-3,6,7
 =2	=2
-1r	G
+1r	G major
 =3	=3
-1r	Em
+1r	E minor
 =4	=4
-1r	C
+1r	C major
 =5	=5
-1r	Badd(3,6,7)
+1r	B other-3,6,7
 =6	=6
-3...r	G
-8e	.
+3...r	G major
+8eL	.
 8g	.
-8b[	.
+[8bJ	.
 =7	=7
-8b]	Em
+8bL]	E minor
 8a	.
-8g	.
+8gJ	.
 4e	.
-8d	.
+8dL	.
 8c	.
-8d	.
+8dJ	.
 =8	=8
-8e	C
+8e	C major
 4.c	.
 2r	.
 ==	==

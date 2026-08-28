@@ -16,52 +16,52 @@
 *b:	*
 *M4/4	*
 =1	=1
-8.b	Gmaj7
+8.b	G major-seventh
 6...ff#	.
-8.ee	A
+8.ee	A major
 6...aa	.
 =2	=2
-8.ff#	F#m7
+8.ff#L	F# minor-seventh
 8.cc#	.
-8cc#	.
-8dd	Bm
-8cc#	.
-4dd	F#m/A
+8cc#J	.
+8ddL	B minor
+8cc#J	.
+4dd	F# minor/A
 =3	=3
-8.b	Gmaj7
+8.b	G major-seventh
 6...ff#	.
-8.ee	A
+8.ee	A major
 6...aa	.
 =4	=4
-8.ff#	Bm
+8.ff#L	B minor
 8.ccc#	.
-8bb[	.
-2bb]	A
+[8bbJ	.
+2bb]	A major
 =5	=5
-8.b	Gmaj7
+8.b	G major-seventh
 6...ff#	.
-8.ee	A
+8.ee	A major
 6...aa	.
 =6	=6
-8.ff#	F#m7
+8.ff#L	F# minor-seventh
 8.cc#	.
+8cc#J	.
+8ddL	B minor
 8cc#	.
-8dd	Bm
-8cc#	.
-8dd	F#m/A
-16b	.
-16cc#	.
+8dd	F# minor/A
+16bL	.
+16cc#JJ	.
 =7	=7
-8.dd	Gmaj7
+8.ddL	G major-seventh
 8.dd	.
-16ff#	.
-16ee[	.
-2ee]	Asus4
+16ff#L	.
+[16eeJJ	.
+2ee]	A suspended-fourth
 =8	=8
 2.r	.
-8dd	.
-16cc#	.
-16dd	.
+8ddL	.
+16cc#L	.
+16ddJJ	.
 =9	=9
 1r	.
 =10	=10

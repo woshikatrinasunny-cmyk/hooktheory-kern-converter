@@ -15,69 +15,69 @@
 *a:	*
 *M4/4	*
 =1	=1
-4r	F
+4r	F major
 4a	.
 4a	.
 4a	.
 =2	=2
-4g	G
+4g	G major
 8d	.
 4g	.
 4f	.
-8e[	.
+[8e	.
 =3	=3
-4e]	Em
+4e]	E minor
 4f	.
 8e	.
 4d	.
-8d[	.
+[8d	.
 =4	=4
-8d]	Am
+8d]	A minor
 4c	.
 8e	.
 8a	.
 4b	.
-8cc[	.
+[8cc	.
 =5	=5
-4.cc]	F
+4.cc]	F major
 8a	.
-8a	.
+8aL	.
 8b	.
 8cc	.
-8b[	.
+[8bJ	.
 =6	=6
-8b]	G
+8bL]	G major
 8b	.
-8cc	.
+8ccJ	.
 4b	.
 4g	.
-8a[	.
+[8a	.
 =7	=7
-8a]	Em
+8aL]	E minor
 8g	.
 8a	.
+8gJ	.
+8aL	.
 8g	.
 8a	.
-8g	.
-8a	.
-8g[	.
+[8gJ	.
 =8	=8
-8g]	Am7
+8g]	A minor-seventh
 4.r	.
 8cc	.
 4.a	.
 =9	=9
-1cc	F/A
+1cc	F major/A
 =10	=10
-1a[	Am7
+[1a	A minor-seventh
 =11	=11
-1a]	Am7
+1a]	A minor-seventh
 =12	=12
-4.r	E/G#
-4.r	G
-4r	D/F#
+4.r	E major/G#
+4.r	G major
+4r	D major/F#
 =13	=13
 8r	.
-4.r	F
+4.r	F major
 ==	==
 *-	*-

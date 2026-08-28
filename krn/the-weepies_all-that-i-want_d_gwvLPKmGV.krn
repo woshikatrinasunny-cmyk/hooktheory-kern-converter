@@ -16,56 +16,56 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	A
-8aa	.
-8ee[	.
-4ee]	Dsus2
-8dd	.
-8cc#[	.
+4r	A major
+8aaL	.
+[8eeJ	.
+4ee]	D suspended-second
+8ddL	.
+[8cc#J	.
 =2	=2
-4.cc#]	Dadd(2,4,7)
-8ee[	.
-2ee]	E
+4.cc#]	D other-2,4,7
+[8ee	.
+2ee]	E major
 =3	=3
-4r	A
-8aa	.
-8ee[	.
-8ee]	Dsus2
+4r	A major
+8aaL	.
+[8eeJ	.
+8ee]	D suspended-second
 4cc#	.
-8cc#[	.
+[8cc#	.
 =4	=4
-8cc#]	Bm7
+8cc#]	B minor-seventh
 4b	.
-8b[	.
-8b]	E
+[8b	.
+8b]	E major
 4cc#	.
 8a	.
 =5	=5
-4r	A
-8aa	.
-8ee[	.
-8ee]	Dsus2
+4r	A major
+8aaL	.
+[8eeJ	.
+8ee]	D suspended-second
 4dd	.
-8cc#[	.
+[8cc#	.
 =6	=6
-4.cc#]	Dadd(2,4,7)
-8ee[	.
-4ee]	E
+4.cc#]	D other-2,4,7
+[8ee	.
+4ee]	E major
 8r	.
-8aa[	.
+[8aa	.
 =7	=7
-8aa]	A
+8aa]	A major
 4gg#	.
-8ff#[	.
-8ff#]	Dsus2
+[8ff#	.
+8ff#]	D suspended-second
 4ee	.
-8cc#[	.
+[8cc#	.
 =8	=8
-8cc#]	Bm7
-8b	.
+8cc#L]	B minor-seventh
+8bJ	.
 8r	.
-8cc#[	.
-8cc#]	E
+[8cc#	.
+8cc#]	E major
 4b	.
 8a	.
 ==	==

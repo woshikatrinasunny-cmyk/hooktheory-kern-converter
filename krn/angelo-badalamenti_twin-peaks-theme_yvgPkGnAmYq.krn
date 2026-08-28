@@ -16,54 +16,54 @@
 *F:	*
 *M4/4	*
 =1	=1
-4FF[	.
-4FF]	Fadd(2,4,7)
+[4FF	.
+4FF]	F other-2,4,7
 4r	.
-8r	F
+8r	F major
 8CC	.
 =2	=2
-4DD[	.
-4DD]	Dadd(2,3,7)
+[4DD	.
+4DD]	D other-2,3,7
 4r	.
-8r	Dm
+8r	D minor
 8CC	.
 =3	=3
-4FF[	.
-4FF]	Fadd(2,4,7)
+[4FF	.
+4FF]	F other-2,4,7
 4r	.
-8r	F
+8r	F major
 8CC	.
 =4	=4
-4DD[	.
-4DD]	Dadd(2,3,7)
+[4DD	.
+4DD]	D other-2,3,7
 4r	.
-8r	Dm
+8r	D minor
 8CC	.
 =5	=5
-8FF	.
+8FFL	.
 8C	.
-8F	Fadd(2,4,7)
+8F	F other-2,4,7
+8GJ	.
+8AL	.
 8G	.
-8A	.
-8G	.
-8F	F
-8C	.
+8F	F major
+8CJ	.
 =6	=6
-4D[	.
-4D]	Dadd(2,3,7)
+[4D	.
+4D]	D other-2,3,7
 4r	.
-8r	Dm
+8r	D minor
 8CC	.
 =7	=7
-4FF[	.
-4FF]	Fadd(2,4,7)
+[4FF	.
+4FF]	F other-2,4,7
 4r	.
-8r	F
+8r	F major
 8CC	.
 =8	=8
-4DD[	.
-4DD]	Dadd(2,3,7)
+[4DD	.
+4DD]	D other-2,3,7
 4r	.
-4r	Dm
+4r	D minor
 ==	==
 *-	*-

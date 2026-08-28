@@ -16,106 +16,106 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4r	F7/C
+4r	F dominant/C
 4ff	.
-4gg	F7
+4gg	F dominant
 4ff	.
 =2	=2
-4r	F7/C
+4r	F dominant/C
 4ccc	.
-4ddd	F7
+4ddd	F dominant
 4ccc	.
 =3	=3
-4r	B-
+4r	B- major
 4bb-	.
-4aa	B-/F
+4aa	B- major/F
 4gg	.
 =4	=4
-8gg	B-
+8ggL	B- major
 8ff	.
 8een	.
-8ff[	.
-8ff]	B-/F
-8gg	.
+[8ffJ	.
+8ffL]	B- major/F
+8ggJ	.
 4ff	.
 =5	=5
-4r	F7/C
+4r	F dominant/C
 4eee-	.
-4eee-	F7
+4eee-	F dominant
 4ddd	.
 =6	=6
-8ddd	F7/C
+8dddL	F dominant/C
 8ccc	.
 8bbn	.
-8ccc[	.
-8ccc]	F7
-8fff	.
+[8cccJ	.
+8cccL]	F dominant
+8fffJ	.
 4ff	.
 =7	=7
-4r	B-
+4r	B- major
 4ddd	.
-4ddd	B-/F
+4ddd	B- major/F
 4ccc	.
 =8	=8
-8ccc	B-
+8cccL	B- major
 8bb-	.
 8aa	.
-8bb-[	.
-8bb-]	B-/F
-8fff	.
+[8bb-J	.
+8bb-L]	B- major/F
+8fffJ	.
 4ff	.
 =9	=9
-4r	F7/C
+4r	F dominant/C
 4ff	.
-4gg	F7
+4gg	F dominant
 4ff	.
 =10	=10
-4r	F7/C
+4r	F dominant/C
 4ccc	.
-4ddd	F7
+4ddd	F dominant
 4ccc	.
 =11	=11
-4r	B-
+4r	B- major
 4bb-	.
-4aa	B-/F
+4aa	B- major/F
 4gg	.
 =12	=12
-8gg	B-
+8ggL	B- major
 8ff	.
 8een	.
-8ff[	.
-8ff]	B-/D
+[8ffJ	.
+8ffL]	B- major/D
 8dd	.
 8ee-	.
-8ff	.
+8ffJ	.
 =13	=13
-8gg	E-
+8ggL	E- major
 8ee-	.
 8gg	.
-8aa[	.
-8aa]	F
-8gg[	.
-8gg]	E-
-8ee-	.
+[8aaJ	.
+8aaL]	F major
+[8gg	.
+8gg]	E- major
+8ee-J	.
 =14	=14
-8ff	B-/D
+8ffL	B- major/D
 8dd	.
 8ff	.
-8gg[	.
-8gg]	E-
-8ff[	.
-8ff]	B-/D
-8b-	.
+[8ggJ	.
+8ggL]	E- major
+[8ff	.
+8ff]	B- major/D
+8b-J	.
 =15	=15
-8dd	C9
+8dd	C dominant-ninth
 4dd	.
 8dd	.
-8cc	F7
-8b-	.
+8ccL	F dominant
+8b-J	.
 4cc	.
 =16	=16
-4b-[	B-
-4b-]	B-/F
-2b-	B-7
+[4b-	B- major
+4b-]	B- major/F
+2b-	B- dominant
 ==	==
 *-	*-

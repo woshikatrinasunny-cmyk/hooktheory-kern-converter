@@ -21,137 +21,137 @@
 4c#	.
 8d#	.
 =2	=2
-4e	E
+4e	E major
 8g#	.
-4g#	E
+4g#	E major
 8e	.
-4b	B
-8g#[	.
-4g#]	B
-8dd#[	C#/F
+4b	B major
+[8g#	.
+4g#]	B major
+[8dd#	C# major/F
 =3	=3
 4dd#]	.
-4.cc#[	C#7
-8cc#_	C#7
-4cc#]	C#7
-8g#[	.
-4g#]	C#7
+[4.cc#	C# dominant
+8cc#_	C# dominant
+4cc#]	C# dominant
+[8g#	.
+4g#]	C# dominant
 8gn	.
 =4	=4
-4g#	F#7
+4g#	F# dominant
 8gn	.
-4g#	F#7
+4g#	F# dominant
 8gn	.
-4b	B7
+4b	B dominant
 8gn	.
-4g#	B7
-8g#	E
+4g#	B dominant
+8g#	E major
 =5	=5
 4e	.
-8b	E
-4.a#	D#
-4b	E/G#
+8b	E major
+4.a#	D# major
+4b	E major/G#
 8B	.
-4c#	B7
+4c#	B dominant
 8d#	.
 =6	=6
-4e	E
+4e	E major
 8g#	.
-4g#	E
+4g#	E major
 8e	.
-4b	B
-8g#[	.
-4g#]	B
-8dd#[	C#/F
+4b	B major
+[8g#	.
+4g#]	B major
+[8dd#	C# major/F
 =7	=7
 4dd#]	.
-4.cc#[	C#7
-8cc#_	C#7
-4cc#]	C#7
-8g#[	.
-4g#]	C#7
+[4.cc#	C# dominant
+8cc#_	C# dominant
+4cc#]	C# dominant
+[8g#	.
+4g#]	C# dominant
 8gn	.
 =8	=8
-4g#	F#7
+4g#	F# dominant
 8f#	.
-4g#	F#7
+4g#	F# dominant
 8f#	.
-4g#	F#7
+4g#	F# dominant
 8f#	.
-4g#	F#7
+4g#	F# dominant
 8g#	.
 =9	=9
-4.f#	B7
-4.r	B7
-4r	B7
+4.f#	B dominant
+4.r	B dominant
+4r	B dominant
 8B	.
-4b	B7
+4b	B dominant
 8ccn	.
 =10	=10
-4cc#	A
+4cc#	A major
 8cc#	.
-4ccn	A
-8cc#[	.
-4cc#]	A
-8ee[	.
-4ee]	A
+4ccn	A major
+[8cc#	.
+4cc#]	A major
+[8ee	.
+4ee]	A major
 8cc#	.
 =11	=11
-4ccn	Am
+4ccn	A minor
 8ccn	.
-4b	Am
-8ccn[	.
-4ccn]	Am
+4b	A minor
+[8ccn	.
+4ccn]	A minor
 8e	.
-4f#	Am
+4f#	A minor
 8gn	.
 =12	=12
-4g#	E/G#
+4g#	E major/G#
 8e	.
-4f#	E/G#
+4f#	E major/G#
 8e	.
-4g#	E/G#
-8b	E/G#
-4cc#	C#m7/B
-8dd#[	C#add(2,4,7)
+4g#	E major/G#
+8b	E major/G#
+4cc#	C# minor-seventh/B
+[8dd#	C# other-2,4,7
 =13	=13
 4.dd#_	.
-4dd#]	C#add(2,4,7)
-4.cc#	C#
+4dd#]	C# other-2,4,7
+4.cc#	C# major
 8cc#	.
-4cc#	C#
+4cc#	C# major
 8dd#	.
 =14	=14
-4ee	A
-8ee	A
-4ee	A
+4ee	A major
+8ee	A major
+4ee	A major
 8ee	.
-4dd#	B
-8dd#[	B
-8dd#]	B
+4dd#	B major
+[8dd#L	B major
+8dd#J]	B major
 4r	.
 =15	=15
-4ee	E
-4dd#	D#
-4ddn	D
-4cc#	C#
-8g#[	.
-4g#]	C#/G#
+4ee	E major
+4dd#	D# major
+4ddn	D major
+4cc#	C# major
+[8g#	.
+4g#]	C# major/G#
 8gn	.
 =16	=16
-4g#	F#m7
+4g#	F# minor-seventh
 8f#	.
-4g#	F#m7
+4g#	F# minor-seventh
 8f#	.
-4b	B7
+4b	B dominant
 8gn	.
-4g#	B7
-8g#	E
+4g#	B dominant
+8g#	E major
 =17	=17
 4e	.
-8b	E
-4.a#	D#
-4.b	E/G#
-4.b	B7
+8b	E major
+4.a#	D# major
+4.b	E major/G#
+4.b	B dominant
 ==	==
 *-	*-

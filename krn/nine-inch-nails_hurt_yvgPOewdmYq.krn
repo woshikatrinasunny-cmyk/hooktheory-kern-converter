@@ -16,103 +16,103 @@
 *b:	*
 *M4/4	*
 =1	=1
-4r	Badd(6,7)
+4r	B other-6,7
 4.F#	.
 4.r	.
 =2	=2
-4A	Dsus2
+4A	D suspended-second
 4F#	.
-4E	E7sus2
-8BB	.
-8D[	.
+4E	E dominant-seventh-suspended-second
+8BBL	.
+[8DJ	.
 =3	=3
-4D]	Badd(6,7)
+4D]	B other-6,7
 4.r	.
-4r	Bm
+4r	B minor
 8BB	.
 =4	=4
-4D	Dsus2
-8BB	.
-8D[	.
-8D]	E7sus2
+4D	D suspended-second
+8BBL	.
+[8DJ	.
+8D]	E dominant-seventh-suspended-second
 4E	.
-8F#[	.
+[8F#	.
 =5	=5
-8F#]	Badd(6,7)
+8F#]	B other-6,7
 8r	.
 4.F#	.
-4.r	Bm
+4.r	B minor
 =6	=6
-4A	Dsus2
-8F#	.
-8E[	.
-4E]	E7sus2
-8BB	.
-8D[	.
+4A	D suspended-second
+8F#L	.
+[8EJ	.
+4E]	E dominant-seventh-suspended-second
+8BBL	.
+[8DJ	.
 =7	=7
-4D]	Badd(6,7)
+4D]	B other-6,7
 3...r	.
 8BB	.
 =8	=8
-4D	Dsus2
-8BB	.
-8D[	.
-8D]	E7sus2
+4D	D suspended-second
+8BBL	.
+[8DJ	.
+8D]	E dominant-seventh-suspended-second
 4D	.
-16BB	.
-16AA	.
+16BBLL	.
+16AAJJ	.
 =9	=9
-4AA	Badd(6,7)
+4AA	B other-6,7
 4.r	.
-4r	Bm
+4r	B minor
 8F#	.
 =10	=10
-4A	Dsus2
+4A	D suspended-second
 4F#	.
-4E	E7sus2
-8BB	.
-8D[	.
+4E	E dominant-seventh-suspended-second
+8BBL	.
+[8DJ	.
 =11	=11
-4D]	Badd(6,7)
+4D]	B other-6,7
 4.r	.
-4r	Bm
+4r	B minor
 8BB	.
 =12	=12
-4D	Dsus2
-8BB	.
-8D[	.
-8D]	E7sus2
+4D	D suspended-second
+8BBL	.
+[8DJ	.
+8D]	E dominant-seventh-suspended-second
 4E	.
-8F#[	.
+[8F#	.
 =13	=13
-4F#]	Badd(6,7)
+4F#]	B other-6,7
 4r	.
-8F#[	.
-8F#]	Bm
+[8F#L	.
+8F#]	B minor
 8G	.
-8A[	.
+[8AJ	.
 =14	=14
-4A]	Dsus2
-8F#	.
-8E[	.
-4E]	E7sus2
-8BB	.
-8D[	.
+4A]	D suspended-second
+8F#L	.
+[8EJ	.
+4E]	E dominant-seventh-suspended-second
+8BBL	.
+[8DJ	.
 =15	=15
-4D]	Badd(6,7)
+4D]	B other-6,7
 8r	.
 8BB	.
-8D[	.
-8D]	Bm
+[8DL	.
+8D]	B minor
 8BB	.
-8D[	.
+[8DJ	.
 =16	=16
-8D]	Dsus2
-8BB	.
+8DL]	D suspended-second
+8BBJ	.
 4r	.
-8F#	E7sus2
+8F#L	E dominant-seventh-suspended-second
 8BB	.
 8BB	.
-8BB	.
+8BBJ	.
 ==	==
 *-	*-

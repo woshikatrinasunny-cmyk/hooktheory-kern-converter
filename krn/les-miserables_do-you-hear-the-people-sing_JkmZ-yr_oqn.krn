@@ -16,39 +16,39 @@
 *F:	*
 *M6/4	*
 =1	=1
-1r	F
+1r	F major
 8r	.
 4a	.
 8g	.
 =2	=2
-4f	F
+4f	F major
 8g	.
 4a	.
 8b-	.
 4.cc	.
 8a	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 =3	=3
-4e	B-/F
+4e	B- major/F
 8d	.
 4e	.
 8f	.
-4.c	F
+4.c	F major
 8d	.
-8c	.
-8B-	.
+8cL	.
+8B-J	.
 =4	=4
-4A	Dm
+4A	D minor
 8c	.
 4f	.
 8a	.
-4g	G
+4g	G major
 8g-	.
 4g	.
 8d	.
 =5	=5
-4f	C
+4f	C major
 8e	.
 4e	.
 8f	.
@@ -57,35 +57,35 @@
 4a	.
 8g	.
 =6	=6
-4f	F
+4f	F major
 8g	.
 4a	.
 8b-	.
 4.cc	.
 8a	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 =7	=7
-4e	B-/F
+4e	B- major/F
 8d	.
 4e	.
 8f	.
-4.c	F
+4.c	F major
 8d	.
-8c	.
-8B-	.
+8cL	.
+8B-J	.
 =8	=8
-4A	Dm
+4A	D minor
 8c	.
 4f	.
 8a	.
-8g	Gm
-8g-	.
+8gL	G minor
+8g-J	.
 8g	.
-4b-	C7
+4b-	C dominant
 8e	.
 =9	=9
-4.f	F
+4.f	F major
 1r	.
 8r	.
 ==	==

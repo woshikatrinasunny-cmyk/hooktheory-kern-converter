@@ -16,55 +16,55 @@
 *C:	*
 *M4/4	*
 =1	=1
-4gg	C
+4gg	C major
 4ee	.
-4cc	F
-8.dd	.
-16cc	.
+4cc	F major
+8.ddL	.
+16ccJk	.
 =2	=2
-4ee	Am7
-8ff	.
-8gg	.
-2ee	Fmaj9
+4ee	A minor-seventh
+8ffL	.
+8ggJ	.
+2ee	F major-ninth
 =3	=3
-4...dd	Dadd(3,5,7,10)/F
-64cc	.
-64dd	.
-2ee	Am7
+4...dd	D other-3,5,7,10/F
+64ccLLLL	.
+64ddJJJJ	.
+2ee	A minor-seventh
 =4	=4
-4gg	C
+4gg	C major
 4ee	.
-4dd	Gsus4
-4ee	C/E
+4dd	G suspended-fourth
+4ee	C major/E
 =5	=5
-4.eee	C
-16ddd	.
-32ccc	.
-32gg	.
+4.eee	C major
+16dddLL	.
+32cccL	.
+32ggJJJ	.
 4..gg	.
-32ddd	.
-32ccc	.
+32dddLLL	.
+32cccJJJ	.
 =6	=6
-4.ccc	Dadd(3,5,7,10)/F
+4.ccc	D other-3,5,7,10/F
 8aa	.
-4.eee	C
+4.eee	C major
 8ddd	.
 =7	=7
-2ccc	Am7
-2ccc	Dadd(3,5,6,10)/G#
+2ccc	A minor-seventh
+2ccc	D other-3,5,6,10/G#
 =8	=8
-4ccc	G7sus4
+4ccc	G dominant-seventh-suspended-fourth
 4aa	.
-2ccc	Fmaj9
+2ccc	F major-ninth
 =9	=9
-4aa	Dm7
+4aa	D minor-seventh
 4ccc	.
-2eee	Dm7b5/G#
+2eee	D half-diminished/G#
 =10	=10
 2ggg	.
-2eee	C
+2eee	C major
 =11	=11
 4r	.
-2.g	C
+2.g	C major
 ==	==
 *-	*-

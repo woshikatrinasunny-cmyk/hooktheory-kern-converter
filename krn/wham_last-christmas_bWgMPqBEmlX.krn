@@ -16,114 +16,114 @@
 *D:	*
 *M4/4	*
 =1	=1
-4r	Dadd(2,4,7)
+4r	D other-2,4,7
 4e	.
-8e	D
+8e	D major
 4d	.
 8d	.
 =2	=2
-4.a	Dadd(2,4,7)
-8.f#	D
+4.a	D other-2,4,7
+8.f#	D major
 16e	.
 4.d	.
 =3	=3
-8r	Badd(3,5,7)
+8r	B other-3,5,7
+8eL	.
 8e	.
-8e	.
-8e	.
-8e	Bm
+8eJ	.
+8e	B minor
 4d	.
 8d	.
 =4	=4
-8b	Badd(3,5,7)
+8b	B other-3,5,7
 4b	.
-4f#	Bm
+4f#	B minor
 4e	.
-8d[	.
+[8d	.
 =5	=5
-4d]	Eadd(3,5,7)
-8f#	.
-16B	.
-16d[	.
-8d]	Em
+4d]	E other-3,5,7
+8f#L	.
+16BL	.
+[16dJJ	.
+8d]	E minor
 4e	.
 8r	.
 =6	=6
-8f#	Eadd(3,5,7)
+8f#L	E other-3,5,7
 8f#	.
 8f#	.
-16B	Em
+16BJk	E minor
 8.d	.
-4.e[	.
+[4.e	.
 =7	=7
-8e]	Aadd(4,7,9)
+8e]	A other-4,7,9
 4d	.
 8d	.
-16d	A
-16d	.
+16dLL	A major
+16dJJ	.
 4d	.
 8c#	.
 =8	=8
-8d	Aadd(4,7,9)
+8dL	A other-4,7,9
 8d	.
-8d	.
-4c#	A
+8dJ	.
+4c#	A major
 4.A	.
 =9	=9
-2r	Dadd(2,4,7)
-4.r	D
+2r	D other-2,4,7
+4.r	D major
 8d	.
 =10	=10
-8c#	Dadd(2,4,7)
+8c#L	D other-2,4,7
 8d	.
 8c#	.
-8d	D
+8dJ	D major
 8c#	.
 4.d	.
 =11	=11
-4e	Badd(3,5,7)
-8d	.
-8c#[	.
-8c#]	Bm
+4e	B other-3,5,7
+8dL	.
+[8c#J	.
+8c#L]	B minor
 8d	.
 8e	.
-8c#[	.
+[8c#J	.
 =12	=12
-8c#]	Badd(3,5,7)
+8c#L]	B other-3,5,7
 8d	.
 8d	.
-8c#	Bm
+8c#J	B minor
 4c#	.
 4d	.
 =13	=13
-4f#	Eadd(3,5,7)
-8d	.
-8e[	.
-8e]	Em
+4f#	E other-3,5,7
+8dL	.
+[8eJ	.
+8eL]	E minor
 8e	.
 8d	.
-8f#[	.
+[8f#J	.
 =14	=14
-8f#]	Eadd(3,5,7)
+8f#L]	E other-3,5,7
 8e	.
-8d	.
-4e	Em
-8d	.
+8dJ	.
+4e	E minor
+8dL	.
 8c#	.
-8d	.
+8dJ	.
 =15	=15
-4d	Aadd(4,7,9)
-8c#	.
-8d[	.
-8d]	A
+4d	A other-4,7,9
+8c#L	.
+[8dJ	.
+8dL]	A major
 8c#	.
 8d	.
-8c#	.
+8c#J	.
 =16	=16
-8d	Aadd(4,7,9)
+8dL	A other-4,7,9
 8c#	.
-8c#	.
-2A	A
+8c#J	.
+2A	A major
 8r	.
 ==	==
 *-	*-

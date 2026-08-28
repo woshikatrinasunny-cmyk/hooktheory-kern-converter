@@ -16,96 +16,96 @@
 *B:	*
 *M4/4	*
 =1	=1
-8.b	B
-16B	.
+8.bL	B major
+16BL	.
 16f#	.
-16b	.
-6...cc#	C#
-16c#	.
+16bJJ	.
+6...cc#	C# major
+16c#LL	.
 16g#	.
-16cc#	.
-8ddn[	D
+16cc#J	.
+[8ddnJ	D major
 =2	=2
-8.ddn]	.
-16dn	.
+8.ddnL]	.
+16dnL	.
 16an	.
-16ddn	.
-4.ee	E
-16b	.
+16ddnJJ	.
+4.ee	E major
+16bLL	.
 16g#	.
 16e	.
-16B	.
+16BJJ	.
 =3	=3
-8.b	B
-16B	.
+8.bL	B major
+16BL	.
 16f#	.
-16b	.
-6...cc#	C#
-16c#	.
+16bJJ	.
+6...cc#	C# major
+16c#LL	.
 16g#	.
-16cc#	.
-8ddn[	D
+16cc#J	.
+[8ddnJ	D major
 =4	=4
-8.ddn]	.
-16dn	.
+8.ddnL]	.
+16dnL	.
 16an	.
 16ddn	.
-16ee	A/E
-16ddn	.
-16cc#	.
+16ee	A major/E
+16ddnJJ	.
+16cc#LL	.
 16b	.
 16an	.
 16g#	.
 16f#	.
 16e	.
 16dn	.
-16c#	.
+16c#JJ	.
 =5	=5
-8.b	B
-16B	.
+8.bL	B major
+16BL	.
 16f#	.
-16b	.
-6...cc#	C#
-16c#	.
+16bJJ	.
+6...cc#	C# major
+16c#LL	.
 16g#	.
-16cc#	.
-8ddn[	D
+16cc#J	.
+[8ddnJ	D major
 =6	=6
-8.ddn]	.
-16dn	.
+8.ddnL]	.
+16dnL	.
 16an	.
-16ddn	.
-4.ee	E
-16b	.
+16ddnJJ	.
+4.ee	E major
+16bLL	.
 16g#	.
 16e	.
-16B	.
+16BJJ	.
 =7	=7
-8.b	Gadd(2,4,7,9)
-16an	.
+8.bL	G other-2,4,7,9
+16ank	.
 8.b	.
-16an	.
-8.b	.
-16an	.
+16anJk	.
+8.bL	.
+16anL	.
 16ddn	.
 16b	.
 16an	.
-16gn	.
+16gnJJ	.
 =8	=8
-8.b	Aadd(2,4,7)
-16an	.
+8.bL	A other-2,4,7
+16ank	.
 8.b	.
-16an	.
-16ee	.
+16anJk	.
+16eeLL	.
 16ddn	.
 16b	.
 16an	.
 16b	.
 16an	.
 16gn	.
-16e	.
+16eJJ	.
 =9	=9
-4r	G#m
+4r	G# minor
 4B	.
 4d#	.
 4a#	.

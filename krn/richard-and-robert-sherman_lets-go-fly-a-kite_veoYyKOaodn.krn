@@ -16,14 +16,14 @@
 *B-:	*
 *M6/4	*
 =1	=1
-2.b-	E-
+2.b-	E- major
 2.b-	.
 =2	=2
 2b-	.
 4a	.
 2.g	.
 =3	=3
-2.b-	B-
+2.b-	B- major
 2b-	.
 4cc	.
 =4	=4
@@ -31,7 +31,7 @@
 4g	.
 2.f	.
 =5	=5
-2.a	F
+2.a	F major
 2.a	.
 =6	=6
 2a	.
@@ -39,13 +39,13 @@
 2f	.
 4e-	.
 =7	=7
-2.d	B-
-2.e-	Cm7/B-
+2.d	B- major
+2.e-	C minor-seventh/B-
 =8	=8
-2.en	B-dim
-2.f	B-7
+2.en	B- diminished
+2.f	B- dominant
 =9	=9
-2.b-	E-
+2.b-	E- major
 2b-	.
 4cc	.
 =10	=10
@@ -53,7 +53,7 @@
 4a	.
 2.g	.
 =11	=11
-2.b-	B-
+2.b-	B- major
 2b-	.
 4b-	.
 =12	=12
@@ -61,7 +61,7 @@
 4cc	.
 2.b-	.
 =13	=13
-2.a	F
+2.a	F major
 2.a	.
 =14	=14
 2.a	.
@@ -69,10 +69,10 @@
 4b-	.
 4cc	.
 =15	=15
-2.b-	B-
-2.r	Cm7/B-
+2.b-	B- major
+2.r	C minor-seventh/B-
 =16	=16
-2.r	B-dim
-2.r	B-7
+2.r	B- diminished
+2.r	B- dominant
 ==	==
 *-	*-

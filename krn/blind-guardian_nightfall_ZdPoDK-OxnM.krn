@@ -15,48 +15,48 @@
 *d#:	*
 *M3/4	*
 =1	=1
-8a#	A#m
-16a#	.
-16a#	.
-8a#	.
-8a#	.
-8ccn	G#
-8dd#	.
+8a#L	A# minor
+16a#L	.
+16a#JJ	.
+8a#L	.
+8a#J	.
+8ccnL	G# major
+8dd#J	.
 =2	=2
-4.ee#	A#m
-8cc#[	.
-8cc#]	G#
-8cc#	.
+4.ee#	A# minor
+[8cc#	.
+8cc#L]	G# major
+8cc#J	.
 =3	=3
-2gg#	C#
-8ff#	.
-8ee#	.
+2gg#	C# major
+8ff#L	.
+8ee#J	.
 =4	=4
-4.dd#	G#
+4.dd#	G# major
 8r	.
-8r	F#
+8r	F# major
 8d#	.
 =5	=5
-4.a#	A#m
-8cc#[	.
-8cc#]	G#
-8dd#	.
+4.a#	A# minor
+[8cc#	.
+8cc#L]	G# major
+8dd#J	.
 =6	=6
-4.ee#	A#m
-8cc#[	.
-4cc#]	G#
+4.ee#	A# minor
+[8cc#	.
+4cc#]	G# major
 =7	=7
-8r	C#
+8r	C# major
 8cc#	.
-8cc#	.
-8cc#	.
-8dd#	.
-8ee#	.
+8cc#L	.
+8cc#J	.
+8dd#L	.
+8ee#J	.
 =8	=8
-4dd#	G#
-8cc#	.
-8dd#[	.
-16dd#]	F#
+4dd#	G# major
+8cc#L	.
+[8dd#J	.
+16dd#]	F# major
 8.r	.
 ==	==
 *-	*-

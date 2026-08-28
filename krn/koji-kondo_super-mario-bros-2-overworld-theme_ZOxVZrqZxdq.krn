@@ -16,83 +16,83 @@
 *C:	*
 *M6/4	*
 =1	=1
-8gg	C
+8gg	C major
 8r	.
-8cc	.
-8ee	.
+8ccL	.
+8eeJ	.
 8r	.
 4.gg	.
-8cc	.
-8ee	.
+8ccL	.
+8eeJ	.
 8r	.
 8gg	.
 =2	=2
-8b	Gaug/B
-8dd#	.
-8gg	.
-8bb	.
+8bL	G augmented/B
+8dd#J	.
+8ggL	.
+8bbJ	.
 8r	.
 2.aa	.
 8r	.
 =3	=3
-8gg	Gm/A#
+8gg	G minor/A#
 8r	.
-8a#	.
-8dd	.
+8a#L	.
+8ddJ	.
 8r	.
 4.gg	.
-8a#	.
-8dd	.
+8a#L	.
+8ddJ	.
 8r	.
 8gg	.
 =4	=4
-8cc#	A7
-8ee	.
-8gg	.
-8bb	.
+8cc#L	A dominant
+8eeJ	.
+8ggL	.
+8bbJ	.
 8r	.
 2.aa	.
 8bb	.
 =5	=5
-8ccc	F
+8ccc	F major
 8r	.
-8bb	.
-8ccc	.
+8bbL	.
+8cccJ	.
 8r	.
-8aa[	.
-4aa]	F#dim
-8ccc	.
-8bb	.
+[8aa	.
+4aa]	F# diminished
+8cccL	.
+8bbJ	.
 8r	.
 8aa	.
 =6	=6
-8gg	C/G
+8gg	C major/G
 8r	.
-8ff#	.
-8gg	.
+8ff#L	.
+8ggJ	.
 8r	.
-8ee[	.
-4ee]	A
-8cc#	.
-8dd	.
+[8ee	.
+4ee]	A major
+8cc#L	.
+8ddJ	.
 8r	.
 8ee	.
 =7	=7
-8ff	Dm
+8ff	D minor
 8r	.
-8ee	.
-8ff	.
+8eeL	.
+8ffJ	.
 8r	.
-8b[	.
-4b]	G
-8ee	.
-8dd	.
+[8b	.
+4b]	G major
+8eeL	.
+8ddJ	.
 8r	.
-8cc[	.
+[8cc	.
 =8	=8
-4.cc_	C
-4cc]	C/G
+4.cc_	C major
+4cc]	C major/G
 8r	.
-2.r	C
+2.r	C major
 ==	==
 *-	*-

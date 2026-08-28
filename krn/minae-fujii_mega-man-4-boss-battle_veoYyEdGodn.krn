@@ -16,69 +16,69 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8dd#	F#dim
+8dd#L	F# diminished
 8cc	.
 8dd#	.
+8ccJ	.
+8dd#L	.
 8cc	.
 8dd#	.
-8cc	.
-8dd#	.
-8cc	.
+8ccJ	.
 =2	=2
-8ff#	D#m7b5
+8ff#L	D# half-diminished
 8dd#	.
 8ff#	.
+8dd#J	.
+8ff#L	.
 8dd#	.
 8ff#	.
-8dd#	.
-8ff#	.
-8dd#	.
+8dd#J	.
 =3	=3
-8dd#	F#dim
+8dd#L	F# diminished
 8cc	.
 8dd#	.
+8ccJ	.
+8dd#L	.
 8cc	.
 8dd#	.
-8cc	.
-8dd#	.
-8cc	.
+8ccJ	.
 =4	=4
-8ff#	Adim
+8ff#L	A diminished
 8dd#	.
 8ff#	.
+8dd#J	.
+8ff#L	.
 8dd#	.
 8ff#	.
-8dd#	.
-8ff#	.
-8dd#	.
+8dd#J	.
 =5	=5
-4.f#	F#dim
-16a	.
-16dd#	.
+4.f#	F# diminished
+16aLL	.
+16dd#JJ	.
 2cc	.
 =6	=6
-2cc#	D#m7b5
+2cc#	D# half-diminished
 2dd#	.
 =7	=7
-2ff#	F#dim
+2ff#	F# diminished
 2f#	.
 =8	=8
-16ff#	A7
+16ff#	A dominant
 4..gg	.
 2g	.
 =9	=9
-4.f#	F#dim
-16a	.
-16dd#	.
+4.f#	F# diminished
+16aLL	.
+16dd#JJ	.
 2cc	.
 =10	=10
-2cc#	D#m7b5
+2cc#	D# half-diminished
 2dd#	.
 =11	=11
-2ff#	F#dim
-2gg	Gdim
+2ff#	F# diminished
+2gg	G diminished
 =12	=12
-2gg#	A#m7b5/G#
-2aa	A7
+2gg#	A# half-diminished/G#
+2aa	A dominant
 ==	==
 *-	*-

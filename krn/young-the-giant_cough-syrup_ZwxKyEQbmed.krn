@@ -16,68 +16,68 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	D
+8r	D major
+8f#L	.
+8dd	D major
+8f#J	.
+8cc#L	D major
 8f#	.
-8dd	D
-8f#	.
-8cc#	D
-8f#	.
-8cc#	D
-8f#	.
+8cc#	D major
+8f#J	.
 =2	=2
-8b	D
+8bL	D major
 8f#	.
-8b	D
-8a[	.
-8a]	D
+8b	D major
+[8aJ	.
+8aL]	D major
 8a	.
-8b	D
-8cc#	.
+8b	D major
+8cc#J	.
 =3	=3
-8r	A7
+8r	A dominant
+8gL	.
+8cc#	A dominant
+8gJ	.
+8bL	A dominant
 8g	.
-8cc#	A7
-8g	.
-8b	A7
-8g	.
-8b	A7
-8g	.
+8b	A dominant
+8gJ	.
 =4	=4
-4a	A7
-8a	A7
-8g[	.
-8g]	A7
-8f#[	.
-8f#]	A7
-8g[	.
+4a	A dominant
+8aL	A dominant
+[8gJ	.
+8gL]	A dominant
+[8f#	.
+8f#]	A dominant
+[8gJ	.
 =5	=5
-8g]	G
+8gL]	G major
 8g	.
-8b	G
+8b	G major
+8gJ	.
+8cc#L	G major
 8g	.
-8cc#	G
-8g	.
-8cc#	G
-8g	.
+8cc#	G major
+8gJ	.
 =6	=6
-8dd	G
+8ddL	G major
 8g	.
-8dd	G
+8dd	G major
+8gJ	.
+8eeL	G major
 8g	.
-8ee	G
-8g	.
-8ee	G
-8g	.
+8ee	G major
+8gJ	.
 =7	=7
-8r	A7
+8r	A dominant
+8gL	.
+8cc#	A dominant
+8gJ	.
+8ddL	A dominant
 8g	.
-8cc#	A7
-8g	.
-8dd	A7
-8g	.
-8dd	A7
-8g	.
+8dd	A dominant
+8gJ	.
 =8	=8
-1ee	A7
+1ee	A dominant
 ==	==
 *-	*-

@@ -16,95 +16,95 @@
 *f#:	*
 *M4/4	*
 =1	=1
-12c#	F#m
+12c#L	F# minor
 12dn	.
-9...d#[	.
-4.d#]	F#m/A
-4r	F#m
+[9...d#J	.
+4.d#]	F# minor/A
+4r	F# minor
 =2	=2
-12d#	.
+12d#L	.
 12e	.
-9...fn[	.
-4.fn]	F#m/A
-4r	F#m
+[9...fnJ	.
+4.fn]	F# minor/A
+4r	F# minor
 =3	=3
-12c#	.
+12c#L	.
 12dn	.
-9...d#[	.
-4.d#]	F#m/A
-4r	F#m
+[9...d#J	.
+4.d#]	F# minor/A
+4r	F# minor
 =4	=4
 4.r	.
-4.r	F#m/A
-4r	F#add(2,3,7)
+4.r	F# minor/A
+4r	F# other-2,3,7
 =5	=5
-12c#	B
+12c#L	B major
 12dn	.
-9...d#[	.
-4.d#]	B/D#
-4r	B/F#
+[9...d#J	.
+4.d#]	B major/D#
+4r	B major/F#
 =6	=6
-12d#	B
+12d#L	B major
 12e	.
-9...fn[	.
-4.fn]	B/D#
-4r	B/F#
+[9...fnJ	.
+4.fn]	B major/D#
+4r	B major/F#
 =7	=7
-12c#	F#m
+12c#L	F# minor
 12dn	.
-9...d#[	.
-4.d#]	F#m/A
-4r	F#m
+[9...d#J	.
+4.d#]	F# minor/A
+4r	F# minor
 =8	=8
 4.r	.
-4.r	F#m/A
-4r	F#m
+4.r	F# minor/A
+4r	F# minor
 =9	=9
-2.f#	Cadd(4,6,7)
+2.f#	C other-4,6,7
 4e	.
 =10	=10
-2..c#	D7/C
+2..c#	D dominant/C
 8c#	.
 =11	=11
-2.f#	Cadd(4,6,7)
+2.f#	C other-4,6,7
 4e	.
 =12	=12
-2.c#	D7/C
+2.c#	D dominant/C
 4c#	.
 =13	=13
-8cn	F#m
+8cnL	F# minor
 8B	.
 8A#	.
-8A	F#m/A
-8G#	.
+8AJ	F# minor/A
+8G#L	.
 8Gn	.
-8F#	F#m
-8Fn	.
+8F#	F# minor
+8FnJ	.
 =14	=14
-8E	.
+8EL	.
 8D#	.
 8Dn	.
-8C#	F#m/A
-8Cn	.
+8C#J	F# minor/A
+8CnL	.
 8BB	.
-8AA#	F#m
-8AA	.
+8AA#	F# minor
+8AAJ	.
 =15	=15
-12c#	.
+12c#L	.
 12dn	.
 12d#	.
 12e	.
-24d#[	.
-24d#]	F#m/A
-12dn	.
-16f#	.
+[24d#L	.
+24d#J]	F# minor/A
+12dnJ	.
+16f#LL	.
 16a	.
 16b	.
 16cc#	.
-16dd#	F#m
+16dd#	F# minor
 16cc#	.
 16b	.
-16a	.
+16aJJ	.
 =16	=16
 16f#	.
 6...r	.

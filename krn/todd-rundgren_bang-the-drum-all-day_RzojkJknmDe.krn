@@ -16,35 +16,35 @@
 *G:	*
 *M4/4	*
 =1	=1
-8ff#[	.
-4ff#_	D
-8ff#]	D
-8ff#	D
-8ee	C
+[8ff#	.
+4ff#_	D major
+8ff#]	D major
+8ff#L	D major
+8ee	C major
 8dd	.
-8dd[	G
+[8ddJ	G major
 =2	=2
 8dd]	.
-4r	G
-8r	G
-8dd[	G
-8dd]	C
+4r	G major
+8r	G major
+[8ddL	G major
+8dd]	C major
 8ee	.
-8dd	D
+8ddJ	D major
 =3	=3
-8ff#[	.
-8ff#]	D
+[8ff#L	.
+8ff#]	D major
 8ee	.
-8dd	D
-8dd	D
-4ee	C
-8dd[	G
+8ddJ	D major
+8dd	D major
+4ee	C major
+[8dd	G major
 =4	=4
 8dd]	.
-4r	G
-8r	G
-8r	G
-4r	C
-8r	D
+4r	G major
+8r	G major
+8r	G major
+4r	C major
+8r	D major
 ==	==
 *-	*-

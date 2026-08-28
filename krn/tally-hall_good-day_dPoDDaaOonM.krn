@@ -16,35 +16,35 @@
 *C:	*
 *M4/4	*
 =1	=1
-8e	C
+8eL	C major
 8f	.
 8g	.
-8dd[	.
-8dd]	F/C
-8cc[	.
-8cc]	C
+[8ddJ	.
+8ddL]	F major/C
+[8cc	.
+8ccJ]	C major
 8r	.
 =2	=2
-8a	Dm
+8aL	D minor
 8a	.
 8a	.
-8ee[	.
-8ee]	G/D
-8dd[	.
-8dd]	F
+[8eeJ	.
+8eeL]	G major/D
+[8dd	.
+8ddJ]	F major
 8r	.
 =3	=3
-8e	C
+8eL	C major
 8f	.
 8g	.
-8dd[	.
-8dd]	F/C
+[8ddJ	.
+8ddL]	F major/C
 8cc	.
-8b	C
-8a[	.
+8b	C major
+[8aJ	.
 =4	=4
-8a]	Dm
+8a]	D minor
 4.r	.
-2r	G
+2r	G major
 ==	==
 *-	*-

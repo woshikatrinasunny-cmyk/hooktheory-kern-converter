@@ -16,64 +16,64 @@
 *A:	*
 *M4/4	*
 =1	=1
-8r	D
-16b	D
+8r	D major
+16b	D major
 16r	.
-16a	D
-16b	.
+16aLL	D major
+16bJJ	.
 16r	.
-16cc#	D
+16cc#	D major
 16r	.
-16b	D
+16b	D major
 16r	.
-16a	D
-16cc#	.
+16aLL	D major
+16cc#JJ	.
 16r	.
-8cc#	D
+8cc#	D major
 =2	=2
-8r	A
-16b	A
+8r	A major
+16b	A major
 16r	.
-16a	A
-16b	.
+16aLL	A major
+16bJJ	.
 16r	.
-16cc#	A
+16cc#	A major
 16r	.
-16b	A
+16b	A major
 16r	.
-16a	A
-16ee	.
+16aLL	A major
+16eeJJ	.
 16r	.
-8cc#	A
+8cc#	A major
 =3	=3
-8r	F#m
-16b	F#m
+8r	F# minor
+16b	F# minor
 16r	.
-16a	F#m
-16b	.
+16aLL	F# minor
+16bJJ	.
 16r	.
-16cc#	F#m
+16cc#	F# minor
 16r	.
-16b	F#m
+16b	F# minor
 16r	.
-16a	F#m
-16b	.
+16aLL	F# minor
+16bJJ	.
 16r	.
-8a	F#m
+8a	F# minor
 =4	=4
-8r	E
-16b	E
+8r	E major
+16b	E major
 16r	.
-16a	E
-16b	.
+16aLL	E major
+16bJJ	.
 16r	.
-16cc#	E
+16cc#	E major
 16r	.
-16b	E
+16b	E major
 16r	.
-16a	E
-16b	.
+16aLL	E major
+16bJJ	.
 16r	.
-8a	E
+8a	E major
 ==	==
 *-	*-

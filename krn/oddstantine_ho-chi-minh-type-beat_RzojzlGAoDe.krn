@@ -16,75 +16,75 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8D	D
+8DL	D major
 8f#	.
 8D	.
+8f#J	.
+8DL	.
 8f#	.
 8D	.
-8f#	.
-8D	.
-8f#	.
+8f#J	.
 =2	=2
-8D	Dadd(2,4,7)
+8DL	D other-2,4,7
 8e	.
 8D	.
-8e	.
-8D	Dmaj7
+8eJ	.
+8DL	D major-seventh
 8c#	.
 8D	.
-8c#	.
+8c#J	.
 =3	=3
-8F#	F#m
+8F#L	F# minor
 8c#	.
 8F#	.
+8c#J	.
+8F#L	.
 8c#	.
 8F#	.
-8c#	.
-8F#	.
-8c#	.
+8c#J	.
 =4	=4
-8E	Eadd(4,7,9)
+8EL	E other-4,7,9
 8c#	.
 8E	.
-8c#	.
-4d	E7
-8c#	Eadd(4,7,9)
-8E	.
+8c#J	.
+4d	E dominant
+8c#L	E other-4,7,9
+8EJ	.
 =5	=5
-8D	D
+8DL	D major
 8f#	.
 8D	.
+8f#J	.
+8DL	.
 8f#	.
 8D	.
-8f#	.
-8D	.
-8f#	.
+8f#J	.
 =6	=6
-8D	Dadd(2,4,7)
+8DL	D other-2,4,7
 8e	.
 8D	.
-8e	.
-8D	Dmaj7
+8eJ	.
+8DL	D major-seventh
 8c#	.
 8D	.
-8c#	.
+8c#J	.
 =7	=7
-8F#	F#m
+8F#L	F# minor
 8c#	.
 8F#	.
+8c#J	.
+8F#L	.
 8c#	.
 8F#	.
-8c#	.
-8F#	.
-8c#	.
+8c#J	.
 =8	=8
-8E	Eadd(4,7,9)
+8EL	E other-4,7,9
 8c#	.
 8E	.
-8c#	.
-4d	E7
-8c#	Eadd(4,7,9)
-8E	.
+8c#J	.
+4d	E dominant
+8c#L	E other-4,7,9
+8EJ	.
 =9	=9
 1r	.
 =10	=10

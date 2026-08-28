@@ -16,73 +16,73 @@
 *g:	*
 *M4/4	*
 =1	=1
-8r	Gm
+8r	G minor
+8ddL	.
 8dd	.
-8dd	.
-8cc	.
+8ccJ	.
 8cc	.
 4b-	.
-8r	E-
+8r	E- major
 =2	=2
 8r	.
-8g	.
+8gL	.
 8b-	.
-8cc	.
+8ccJ	.
 4dd	.
 8r	.
-8r	Gm7
+8r	G minor-seventh
 =3	=3
 8r	.
-8g	.
+8gL	.
 8b-	.
-8cc	.
+8ccJ	.
 4dd	.
 8r	.
-8g[	Edim7/G
+[8g	E diminished-seventh/G
 =4	=4
 4g]	.
-8b-	.
-8g	.
-8cc	.
-16b-	.
-16g	.
-8g[	.
-16g]	Gm
+8b-L	.
+8gJ	.
+8ccL	.
+16b-L	.
+16gJ	.
+[8g	.
+16gJk]	G minor
 16r	.
 =5	=5
 8r	.
-8ff	.
+8ffL	.
 8dd	.
-8cc	.
+8ccJ	.
 8cc	.
 4b-	.
-8r	E-
+8r	E- major
 =6	=6
 8r	.
-8dd	.
+8ddL	.
 8cc	.
-8b-	.
+8b-J	.
 4dd	.
 8r	.
-8r	Gm7
+8r	G minor-seventh
 =7	=7
 8r	.
-16g	.
-16g	.
+16gLL	.
+16gJ	.
 8b-	.
-8cc	.
+8ccJ	.
 4dd	.
 8r	.
-8r	Edim7/G
+8r	E diminished-seventh/G
 =8	=8
 8r	.
-8dd	.
+8ddL	.
 8cc	.
-8b-	.
-8cc	.
-16b-	.
-16g	.
-8g[	.
-8g]	Gm
+8b-J	.
+8ccL	.
+16b-L	.
+16gJ	.
+[8g	.
+8gJ]	G minor
 ==	==
 *-	*-

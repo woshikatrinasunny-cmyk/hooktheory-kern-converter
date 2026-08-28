@@ -16,71 +16,71 @@
 *F:	*
 *M4/4	*
 =1	=1
-4a	F
+4a	F major
 4cc	.
-8.c	.
-16d	.
+8.cL	.
+16dk	.
 8.f	.
-16a	.
+16aJk	.
 =2	=2
-2cc	F
-2bn	Fdim
+2cc	F major
+2bn	F diminished
 =3	=3
-8b-	Gm
-2..dd[	.
+8b-	G minor
+[2..dd	.
 =4	=4
-4dd]	Gm
+4dd]	G minor
 4r	.
-2b-	Gdim
+2b-	G diminished
 =5	=5
-8.a	C
+8.aL	C major
 8.cc	.
-8a	.
-2cc[	.
+8aJ	.
+[2cc	.
 =6	=6
-4cc]	C
+4cc]	C major
 4a	.
-8.cc	Cadd(2,4,7)
-16dd-	.
+8.ccL	C other-2,4,7
+16dd-Jk	.
 4dd	.
 =7	=7
-2a[	F
-2a]	D
+[2a	F major
+2a]	D major
 =8	=8
-2r	Gm
-2r	C
+2r	G minor
+2r	C major
 =9	=9
-4a	F
+4a	F major
 4cc	.
-8.c	.
-16d	.
+8.cL	.
+16dk	.
 8.f	.
-16a	.
+16aJk	.
 =10	=10
-2cc	F
-2bn	Fdim
+2cc	F major
+2bn	F diminished
 =11	=11
-8b-	Gm
-2..dd[	.
+8b-	G minor
+[2..dd	.
 =12	=12
-4dd]	Gm
+4dd]	G minor
 4r	.
-2b-	Gdim
+2b-	G diminished
 =13	=13
-8.a	C
+8.aL	C major
 8.cc	.
-8a	.
-2cc[	.
+8aJ	.
+[2cc	.
 =14	=14
-4cc]	C
+4cc]	C major
 4a	.
-8.cc	Cadd(2,4,7)
+8.ccL	C other-2,4,7
 8.dd-	.
-8dd	.
+8ddJ	.
 =15	=15
-2f[	F
-2f]	B-m
+[2f	F major
+2f]	B- minor
 =16	=16
-1r	F
+1r	F major
 ==	==
 *-	*-

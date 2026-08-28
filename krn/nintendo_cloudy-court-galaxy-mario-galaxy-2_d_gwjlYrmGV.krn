@@ -16,24 +16,24 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.cc	F
+4.cc	F major
 4.f	.
 8.cc	.
 16r	.
 =2	=2
-4b-	B-/F
+4b-	B- major/F
 16a	.
 16r	.
 8.g	.
 16r	.
 4.f	.
 =3	=3
-4.g	Em7b5
+4.g	E half-diminished
 4.d	.
 8.b-	.
 16r	.
 =4	=4
-4a	A7
+4a	A dominant
 16g	.
 16r	.
 8.f	.
@@ -41,88 +41,88 @@
 6...e	.
 16r	.
 =5	=5
-4.f[	Dm
-4.f]	D-
-8e	.
-16f	.
+[4.f	D minor
+4.f]	D- major
+8eL	.
+16fJk	.
 16r	.
 =6	=6
-4.g[	F/C
-4.g]	G7/B
-8f	.
-16g	.
+[4.g	F major/C
+4.g]	G dominant/B
+8fL	.
+16gJk	.
 16r	.
 =7	=7
-6...a	B-maj7
+6...a	B- major-seventh
 16r	.
-6...dd	B-maj9
+6...dd	B- major-ninth
 16r	.
 8.a	.
 16r	.
 =8	=8
-6...a	C11
+6...a	C dominant-11th
 16r	.
 4.g	.
-16f	.
+16fLL	.
 16g	.
 16a	.
-16b-	.
+16b-JJ	.
 =9	=9
-4.cc	F
+4.cc	F major
 4.f	.
 8.cc	.
 16r	.
 =10	=10
-4b-	B-/F
+4b-	B- major/F
 16a	.
 16r	.
 8.g	.
 16r	.
 4.f	.
 =11	=11
-6...g	C7/E
+6...g	C dominant/E
 16r	.
 6...c	.
 16r	.
 8.b-	.
 16r	.
 =12	=12
-8a	Adim/E-
+8a	A diminished/E-
 16r	.
 8b-	.
 16r	.
-8.cc	D7
+8.cc	D dominant
 16r	.
 4g	.
 16a	.
 16r	.
 =13	=13
-4.b-[	Gm7
-8.b-]	Gm7
+[4.b-	G minor-seventh
+8.b-]	G minor-seventh
 16r	.
 4.B-	.
 =14	=14
-4.c[	Am7
-8.c]	Am7
+[4.c	A minor-seventh
+8.c]	A minor-seventh
 16r	.
 4.cc	.
 =15	=15
-4.dd-[	B-m7
-8.dd-]	B-m7
+[4.dd-	B- minor-seventh
+8.dd-]	B- minor-seventh
 16r	.
 4.d-	.
 =16	=16
-6...e-	E-sus4
+6...e-	E- suspended-fourth
 16r	.
-3...ee-	E-sus4
+3...ee-	E- suspended-fourth
 =17	=17
-1ff[	F
+[1ff	F major
 =18	=18
-1ff_	F
+1ff_	F major
 =19	=19
-1ff_	Gm7/F
+1ff_	G minor-seventh/F
 =20	=20
-2.ff]	Gm7/F
+2.ff]	G minor-seventh/F
 4c	.
 ==	==
 *-	*-

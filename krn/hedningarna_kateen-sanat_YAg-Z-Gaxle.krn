@@ -15,13 +15,13 @@
 *B:	*
 *M4/4	*
 =1	=1
-4dd#	B
-8dd#	.
-8ee	.
-8ff#	.
+4dd#	B major
+8dd#L	.
+8eeJ	.
+8ff#L	.
 8gg	.
 8ff#	.
-8ee	.
+8eeJ	.
 =2	=2
 4dd#	.
 4dd#	.
@@ -29,38 +29,38 @@
 4ff#	.
 =3	=3
 4dd#	.
-8dd#	.
-8ee	.
-8ff#	.
+8dd#L	.
+8eeJ	.
+8ff#L	.
 8gg	.
 8ff#	.
-8ee	.
+8eeJ	.
 =4	=4
 4dd#	.
 4dd#	.
 4ff#	.
 4ff#	.
 =5	=5
-8ff#	Cmaj7/B
-8gg	.
+8ff#L	C major-seventh/B
+8ggJ	.
 4gg	.
 4gg	.
-8ff#	.
-8ee	.
+8ff#L	.
+8eeJ	.
 =6	=6
-2dd#	B
+2dd#	B major
 2ff#	.
 =7	=7
-8gg	Cmaj7/B
+8ggL	C major-seventh/B
 8gg	.
 8gg	.
-8ff#	.
-8gg	.
+8ff#J	.
+8ggL	.
 8ff#	.
 8ee	.
-8dd#	.
+8dd#J	.
 =8	=8
-4.ff#	B
+4.ff#	B major
 8dd#	.
 2dd#	.
 ==	==

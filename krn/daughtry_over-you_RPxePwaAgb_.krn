@@ -16,7 +16,7 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4r	E-
+4r	E- major
 4B-	.
 4B-	.
 4B-	.
@@ -26,42 +26,42 @@
 4G	.
 4F	.
 =3	=3
-4r	B-sus4
+4r	B- suspended-fourth
 4B-	.
 4B-	.
-8B-	.
-8f[	.
+8B-L	.
+[8fJ	.
 =4	=4
 4f]	.
 4e-	.
 4d	.
-8e-	.
-8c	.
+8e-L	.
+8cJ	.
 =5	=5
-4.r	Cm
+4.r	C minor
 8G	.
 4d	.
-8e-	.
-8e-	.
+8e-L	.
+8e-J	.
 =6	=6
-4B-	B-sus4
+4B-	B- suspended-fourth
 4B-	.
 4d	.
-8e-	.
-8c[	.
+8e-L	.
+[8cJ	.
 =7	=7
-2c]	A-
+2c]	A- major
 4r	.
-8A-	.
-8B-	.
+8A-L	.
+8B-J	.
 =8	=8
 4B-	.
-8A-	.
-8A-	.
-8G	B-
+8A-L	.
+8A-J	.
+8G	B- major
 4.B-	.
 =9	=9
-2r	E-
+2r	E- major
 4B-	.
 4B-	.
 =10	=10
@@ -70,32 +70,32 @@
 4G	.
 4F	.
 =11	=11
-4r	B-sus4
+4r	B- suspended-fourth
 4B-	.
 4B-	.
-8B-	.
-8f[	.
+8B-L	.
+[8fJ	.
 =12	=12
 4f]	.
 4e-	.
 4d	.
-8e-	.
-8c	.
+8e-L	.
+8cJ	.
 =13	=13
-4.r	Cm
+4.r	C minor
 8G	.
 4d	.
-8e-	.
-8e-	.
+8e-L	.
+8e-J	.
 =14	=14
-8B-	B-sus4
-8B-	.
+8B-L	B- suspended-fourth
+8B-J	.
 4B-	.
 4d	.
-8e-	.
-8c	.
+8e-L	.
+8cJ	.
 =15	=15
-4An	F
+4An	F major
 4r	.
 4An	.
 4An	.
@@ -103,16 +103,16 @@
 4An	.
 4B-	.
 4c	.
-8e-	.
-8f	.
+8e-L	.
+8fJ	.
 =17	=17
-4f	A-
+4f	A- major
 8g	.
 3...e-	.
 =18	=18
-2f	B-
+2f	B- major
 4r	.
-8e-	.
-8e-	.
+8e-L	.
+8e-J	.
 ==	==
 *-	*-

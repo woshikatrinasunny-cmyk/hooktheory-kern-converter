@@ -16,32 +16,32 @@
 *F:	*
 *M4/4	*
 =1	=1
-4ee-	E-
-8cc	Cm
-4ee-	E-
-8cc	Cm
-8b-	B-
-8cc	Cm
+4ee-	E- major
+8cc	C minor
+4ee-	E- major
+8ccL	C minor
+8b-	B- major
+8ccJ	C minor
 =2	=2
-4ee-	E-
-8cc	Cm
-4ee-	E-
-8cc	Cm
-8b-	B-
-8cc	Cm
+4ee-	E- major
+8cc	C minor
+4ee-	E- major
+8ccL	C minor
+8b-	B- major
+8ccJ	C minor
 =3	=3
-4ee-	E-
-8cc	Cm
-4ee-	E-
-8cc	Cm
-8b-	B-
-8cc	Cm
+4ee-	E- major
+8cc	C minor
+4ee-	E- major
+8ccL	C minor
+8b-	B- major
+8ccJ	C minor
 =4	=4
-16f	B-/F
-16g	E-/G
-2..b-	B-
+16fLL	B- major/F
+16gJJ	E- major/G
+2..b-	B- major
 =5	=5
-4r	C7
+4r	C dominant
 16En	.
 16r	.
 8E-	.
@@ -51,7 +51,7 @@
 16r	.
 16AA	.
 16r	.
-8C[	.
+[8C	.
 =6	=6
 4C]	.
 16En	.
@@ -63,7 +63,7 @@
 16r	.
 16AA	.
 16r	.
-8C[	.
+[8C	.
 =7	=7
 4C]	.
 16En	.
@@ -75,7 +75,7 @@
 16r	.
 16AA	.
 16r	.
-8C[	.
+[8C	.
 =8	=8
 4C]	.
 16En	.

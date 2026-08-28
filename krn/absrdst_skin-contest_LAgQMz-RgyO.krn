@@ -15,73 +15,73 @@
 *a:	*
 *M4/4	*
 =1	=1
-4cc	D7sus2
+4cc	D dominant-seventh-suspended-second
 16r	.
-16aa	.
+16aaLL	.
 16ee	.
-16cc	.
-8cc	C/E
-8b	E
+16ccJJ	.
+8ccL	C major/E
+8bJ	E major
 8r	.
-8b	Am11
+8b	A minor-11th
 =2	=2
-4cc	Am
+4cc	A minor
 16r	.
-16ee	.
+16eeLL	.
 16aa	.
-16ccc	.
-8a#	Gm
-8cc	Am/C
+16cccJJ	.
+8a#L	G minor
+8ccJ	A minor/C
 8r	.
-8cc	Fmaj9
+8cc	F major-ninth
 =3	=3
-4cc	Fmaj7
+4cc	F major-seventh
 16r	.
-16aa	.
+16aaLL	.
 16ee	.
-16cc	.
-8b	E7/G#
-8b	E7/B
+16ccJJ	.
+8bL	E dominant/G#
+8bJ	E dominant/B
 8r	.
-8cc	Am7
+8cc	A minor-seventh
 =4	=4
-4cc	Am
+4cc	A minor
 4r	.
-8a#	Gm
-8cc	Am/C
+8a#L	G minor
+8ccJ	A minor/C
 8r	.
-8cc	D7sus4
+8cc	D dominant-seventh-suspended-fourth
 =5	=5
-4cc	D7sus2
+4cc	D dominant-seventh-suspended-second
 16r	.
-16aa	.
+16aaLL	.
 16ee	.
-16cc	.
-8dd	E7
-8dd	E7
+16ccJJ	.
+8ddL	E dominant
+8ddJ	E dominant
 8r	.
-8cc	Am
+8cc	A minor
 =6	=6
-4cc	Am7
-4b	Eadd(2,4,7)/G#
-8a#	Gm7
-8cc	Am7/C
-8cc	Am7/C
-8a#	Gm7/F
+4cc	A minor-seventh
+4b	E other-2,4,7/G#
+8a#L	G minor-seventh
+8cc	A minor-seventh/C
+8cc	A minor-seventh/C
+8a#J	G minor-seventh/F
 =7	=7
-4a	Fmaj7
+4a	F major-seventh
 16r	.
-16aa	.
+16aaLL	.
 16ee	.
-16cc	.
-8g#	E7/G#
-8b	E7/B
+16ccJJ	.
+8g#L	E dominant/G#
+8bJ	E dominant/B
 8r	.
-8cc	A7sus4
+8cc	A dominant-seventh-suspended-fourth
 =8	=8
-4cc	Am7
+4cc	A minor-seventh
 4r	.
-8a#	Gm
+8a#	G minor
 4.r	.
 ==	==
 *-	*-

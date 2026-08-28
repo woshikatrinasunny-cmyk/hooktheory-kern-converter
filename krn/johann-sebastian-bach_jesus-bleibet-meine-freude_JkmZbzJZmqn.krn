@@ -16,86 +16,86 @@
 *a:	*
 *M9/4	*
 =1	=1
-2.a[	D
-2.a]	D7/C
-2.b	G#dim/B
+[2.a	D major
+2.a]	D dominant/C
+2.b	G# diminished/B
 =2	=2
-2.cc[	Am
-4.cc_	Am
-4.cc]	Am7/G
-4.cc[	F
-4.cc]	Fmaj7/E
+[2.cc	A minor
+4.cc_	A minor
+4.cc]	A minor-seventh/G
+[4.cc	F major
+4.cc]	F major-seventh/E
 =3	=3
-2.b[	Bm7b5/D
-4.b]	Bm7b5
+[2.b	B half-diminished/D
+4.b]	B half-diminished
 8.cc	.
 8.dd	.
-2.b	E
+2.b	E major
 =4	=4
-2.a	Am
-2.a	Fmaj7
-4dd	Dm
+2.a	A minor
+2.a	F major-seventh
+4dd	D minor
 4ff	.
 4ee	.
 =5	=5
-4ee	Am/C
+4ee	A minor/C
 4aa	.
 4gg#	.
-4aa	F
+4aa	F major
 4ee	.
 4cc	.
-4a	Fmaj7/E
+4a	F major-seventh/E
 4b	.
 4cc	.
 =6	=6
-4ff	Dm
+4ff	D minor
 4ee	.
 4dd	.
-4cc	D#dim
+4cc	D# diminished
 4b	.
 4a	.
-4e	E
+4e	E major
 4a	.
 4g#	.
 =7	=7
-2.cc[	Am
-2.cc]	Am
-2.dd	G/B
+[2.cc	A minor
+2.cc]	A minor
+2.dd	G major/B
 =8	=8
-2.ee[	C
-2.ee]	Am
-2.ee	C/E
+[2.ee	C major
+2.ee]	A minor
+2.ee	C major/E
 =9	=9
-2.dd[	Dm7/F
-4.dd]	Dm
+[2.dd	D minor-seventh/F
+4.dd]	D minor
 8.ee	.
 8.ff	.
-2.dd	G
+2.dd	G major
 =10	=10
-2.cc	C
-2.cc	C/E
-4g	C7
+2.cc	C major
+2.cc	C major/E
+4g	C dominant
 4a	.
 4a#	.
 =11	=11
-4a	F
+4a	F major
 4cc	.
 4b	.
-4cc	Dm7
+4cc	D minor-seventh
 4a	.
 4f	.
-4d	G7
+4d	G dominant
 4e	.
 4f	.
 =12	=12
-4e	C
+4e	C major
 4c	.
 4d	.
 4e	.
 4g	.
 4f#	.
-4g	G/B
+4g	G major/B
 4b	.
-4a	D
+4a	D major
 ==	==
 *-	*-

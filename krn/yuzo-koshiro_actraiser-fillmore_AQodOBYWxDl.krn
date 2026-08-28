@@ -16,144 +16,144 @@
 *c:	*
 *M4/4	*
 =1	=1
-4.ee-	Cm
-16cc	.
+4.ee-	C minor
+16ccLL	.
+16ddJJ	.
+8ee-L	.
+16ccL	.
 16dd	.
-8ee-	.
-16cc	.
-16dd	.
-16ee-	.
+16ee-JJ	.
 16r	.
 16gg	.
 16r	.
 =2	=2
-4.ff	F/A
-8cc[	.
-4.cc]	Fm/A-
-16cc	.
-16dd	.
+4.ff	F major/A
+[8cc	.
+4.cc]	F minor/A-
+16ccLL	.
+16ddJJ	.
 =3	=3
-4.ee-	Cm
-16cc	.
+4.ee-	C minor
+16ccLL	.
+16ddJJ	.
+8ee-L	.
+16ccL	.
 16dd	.
-8ee-	.
-16cc	.
-16dd	.
-16ee-	.
+16ee-JJ	.
 16r	.
 16gg	.
 16r	.
 =4	=4
-4.ff	F/A
-8cc[	.
-4..cc]	Fm/A-
+4.ff	F major/A
+[8cc	.
+4..cc]	F minor/A-
 16r	.
 =5	=5
-4.dd	G
-16bn	.
-16cc	.
-8dd	Bdim7
-16bn	.
+4.dd	G major
+16bnLL	.
+16ccJJ	.
+8ddL	B diminished-seventh
+16bnL	.
 16cc	.
 16dd	.
 16ff	.
 16ee-	.
-16dd	.
+16ddJJ	.
 =6	=6
-4.ee-	Cm
-16cc	.
-16dd	.
-8ee-	Adim
-16cc	.
+4.ee-	C minor
+16ccLL	.
+16ddJJ	.
+8ee-L	A diminished
+16ccL	.
 16dd	.
 16ee-	.
 16gg	.
 16ff	.
-16ee-	.
+16ee-JJ	.
 =7	=7
-4ff	B-/D
+4ff	B- major/D
 16r	.
-16f	.
+16fLL	.
 16b-	.
-16dd	.
-16ff	B-
+16ddJJ	.
+16ffLL	B- major
 16b-	.
 16dd	.
 16ff	.
 16ff	.
 16aa-	.
 16gg	.
-16ff	.
+16ffJJ	.
 =8	=8
-8.gg	E-
+8.ggL	E- major
 8.ff	.
-8ee-	.
-8.bb-	Gm/D
+8ee-J	.
+8.bb-L	G minor/D
 8.aa-	.
-8gg	.
+8ggJ	.
 =9	=9
-4.dd	G7
-16bn	.
-16cc	.
-8dd	Bdim7
-16bn	.
+4.dd	G dominant
+16bnLL	.
+16ccJJ	.
+8ddL	B diminished-seventh
+16bnL	.
 16cc	.
 16dd	.
 16ff	.
 16ee-	.
-16dd	.
+16ddJJ	.
 =10	=10
-4.ee-	Cm
-16cc	.
-16dd	.
-8ee-	Adim
-16cc	.
+4.ee-	C minor
+16ccLL	.
+16ddJJ	.
+8ee-L	A diminished
+16ccL	.
 16dd	.
 16ee-	.
 16gg	.
 16ff	.
-16ee-	.
+16ee-JJ	.
 =11	=11
-4ff	B-/D
+4ff	B- major/D
 16r	.
-16f	.
+16fLL	.
 16b-	.
-16dd	.
-16ff	B-
+16ddJJ	.
+16ffLL	B- major
 16b-	.
 16dd	.
 16ff	.
 16ff	.
 16aa-	.
 16gg	.
-16ff	.
+16ffJJ	.
 =12	=12
-8.gg	E-
+8.ggL	E- major
 8.ff	.
-8gg	.
-8.bbn	G
+8ggJ	.
+8.bbnL	G major
 8.ccc	.
-8ddd	.
+8dddJ	.
 =13	=13
-8.eee-	A-
-8.ddd	.
+8.eee-L	A- major
+8.dddJ	.
 8.ccc	.
-8.ddd	.
+8.dddL	.
 8eee-	.
-8ccc	.
+8cccJ	.
 =14	=14
-8.aan	G-dim7
+8.aanL	G- diminished-seventh
 8.gg-	.
-8ee-	.
-8.cc	.
+8ee-J	.
+8.ccL	.
 8.bn	.
-8an	.
+8anJ	.
 =15	=15
-2cc[	Gsus4
-4..cc]	G7sus4
+[2cc	G suspended-fourth
+4..cc]	G dominant-seventh-suspended-fourth
 16gg	.
 =16	=16
-2.gg	G
+2.gg	G major
 4r	.
 ==	==
 *-	*-

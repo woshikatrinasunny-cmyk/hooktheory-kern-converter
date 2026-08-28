@@ -16,113 +16,113 @@
 *E:	*
 *M4/4	*
 =1	=1
-4ee	E
-16ee	.
+4ee	E major
+16eeLL	.
 16b	.
-16ff#	E/B
+16ff#JJ	E major/B
 4..gg#	.
-16gg#	.
-16aa	.
+16gg#LL	.
+16aaJJ	.
 =2	=2
-8bb[	.
-8.bb]	D
-16ccc#[	.
-16ccc#]	A
-16bb	.
-8aa	.
+[8bbL	.
+8.bb]	D major
+[16ccc#L	.
+16ccc#]	A major
+16bbJJ	.
+8aaL	.
 8gg#	.
 8ff#	.
-16ee	.
-16ff#	.
+16eeL	.
+16ff#JJ	.
 =3	=3
-8gg#	E
-16gg#	.
-16aa	.
-2.bb[	.
+8gg#L	E major
+16gg#L	.
+16aaJJ	.
+[2.bb	.
 =4	=4
-8bb]	.
-16ee	Dadd(2,4,7)
+8bbL]	.
+16eeL	D other-2,4,7
 16ff#	.
 16gg#	.
-16aa	.
-3...gg#	Amaj7
+16aaJJ	.
+3...gg#	A major-seventh
 =5	=5
-4ee	E
-16ee	.
+4ee	E major
+16eeLL	.
 16b	.
-16ee	Bm7
+16eeJJ	B minor-seventh
 4..bb	.
-16bb	.
-16ccc#	.
+16bbLL	.
+16ccc#JJ	.
 =6	=6
-8ddd[	.
-8.ddd]	Bm/D
-16eee[	.
-16eee]	A
-16ddd	.
-8ccc#	.
+[8dddL	.
+8.ddd]	B minor/D
+[16eeeL	.
+16eee]	A major
+16dddJJ	.
+8ccc#L	.
 8bb	.
 8aa	.
-16ff#	.
-16ee	.
+16ff#L	.
+16eeJJ	.
 =7	=7
-8gg#	E
-16gg#	.
-16aa	.
-8bb[	.
-3...bb_	Bm7
+8gg#L	E major
+16gg#L	.
+16aaJ	.
+[8bbJ	.
+3...bb_	B minor-seventh
 =8	=8
-8bb]	.
-16eee	Bm/D
-16fff#	.
-8ggg#[	.
-3...ggg#]	Amaj7
+8bbL]	.
+16eeeL	B minor/D
+16fff#J	.
+[8ggg#J	.
+3...ggg#]	A major-seventh
 =9	=9
-4.aaa[	Am/C
-2aaa]	Am7/G
-16gggn	.
-16fff#	.
+[4.aaa	A minor/C
+2aaa]	A minor-seventh/G
+16gggnLL	.
+16fff#JJ	.
 =10	=10
-8eee[	.
-4eee_	Em/G
-4.eee]	C
-16ddd	Bm
+[8eee	.
+4eee_	E minor/G
+4.eee]	C major
+16dddLL	B minor
 16eee	.
 16fff#	.
-16ddd	.
+16dddJJ	.
 =11	=11
-8eee	Am/E
-4bb[	.
-3...bb_	Em
+8eee	A minor/E
+[4bb	.
+3...bb_	E minor
 =12	=12
-8bb]	.
-16ff#	D
-16ggn	.
-8aa	.
-3...ggn	Em
+8bbL]	.
+16ff#L	D major
+16ggnJ	.
+8aaJ	.
+3...ggn	E minor
 =13	=13
-2..bb	Cmaj7
-16cccn	.
-16ddd	.
+2..bb	C major-seventh
+16cccnLL	.
+16dddJJ	.
 =14	=14
-8eee[	.
-4eee_	Em/G
-4.eee]	C
-16fff#	Bm7
+[8eee	.
+4eee_	E minor/G
+4.eee]	C major
+16fff#LL	B minor-seventh
 16gggn	.
 16aaa	.
-16fff#	.
+16fff#JJ	.
 =15	=15
-8gggn	Am7/E
-4eee[	.
-4.eee]	Em
-16aa	.
+8gggn	A minor-seventh/E
+[4eee	.
+4.eee]	E minor
+16aaLL	.
 16bb	.
 16ddd	.
-16bb	.
+16bbJJ	.
 =16	=16
 8eee	.
-4bb[	Bm7/D
-3...bb]	Em
+[4bb	B minor-seventh/D
+3...bb]	E minor
 ==	==
 *-	*-

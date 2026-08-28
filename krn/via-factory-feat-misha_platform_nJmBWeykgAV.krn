@@ -17,29 +17,29 @@
 *M4/4	*
 =1	=1
 8r	.
-8r	D
+8r	D major
 8r	.
 8d	.
-8f#	.
+8f#L	.
 8a	.
 8a	.
-8f#	.
+8f#J	.
 =2	=2
-4a	Gadd(2,4,7)
+4a	G other-2,4,7
 8b	.
 4d	.
 8d	.
 4e	.
 =3	=3
-4d	A
+4d	A major
 8r	.
 8A	.
-8f#	.
+8f#L	.
 8a	.
 8a	.
-8f#	.
+8f#J	.
 =4	=4
-4a	Bm7
+4a	B minor-seventh
 8b	.
 4e	.
 8d	.
@@ -51,33 +51,33 @@
 4f#	.
 4f#	.
 =6	=6
-4f#	Gadd(2,4,7)
+4f#	G other-2,4,7
 8d	.
 4.d	.
-8B	.
-8e[	.
+8BL	.
+[8eJ	.
 =7	=7
-4e]	A
+4e]	A major
 4d	.
-4f#	A/E
+4f#	A major/E
 4a	.
 =8	=8
-4b	Am7
+4b	A minor-seventh
 4a	.
 4f#	.
-8e	.
-8g[	.
+8eL	.
+[8gJ	.
 =9	=9
-8g]	D7
-8f#	.
+8gL]	D dominant
+8f#J	.
 8r	.
 8d	.
-8f#	.
+8f#L	.
 8a	.
 8a	.
-8f#	.
+8f#J	.
 =10	=10
-4a	Gadd(2,4,7)
+4a	G other-2,4,7
 8b	.
 4d	.
 8d	.
@@ -86,26 +86,26 @@
 4d	.
 8r	.
 8A	.
-8f#	.
+8f#L	.
 8a	.
 8a	.
-8f#	.
+8f#J	.
 =12	=12
-4a	A#dim
+4a	A# diminished
 8b	.
 4a	.
 8r	.
 4dd	.
 =13	=13
-4cc#	Bm7
+4cc#	B minor-seventh
 4f#	.
-4b	Bm7/F#
+4b	B minor-seventh/F#
 4a	.
 =14	=14
-2r	Em7
+2r	E minor-seventh
 4a	.
-8b	.
-8a[	.
+8bL	.
+[8aJ	.
 =15	=15
 8a]	.
 4d	.
@@ -113,11 +113,11 @@
 4e	.
 4d	.
 =16	=16
-4.r	F#m7
+4.r	F# minor-seventh
 8d	.
 4a	.
-8b	.
-8a[	.
+8bL	.
+[8aJ	.
 =17	=17
 8a]	.
 4d	.
@@ -125,31 +125,31 @@
 4e	.
 4f#	.
 =18	=18
-4f#	G#m7b5
+4f#	G# half-diminished
 8g	.
 4a	.
 4dd	.
-8cc#[	.
+[8cc#	.
 =19	=19
 4cc#]	.
 4a	.
 4f#	.
-8d	.
-8d	.
+8dL	.
+8dJ	.
 =20	=20
-4e	Em7
+4e	E minor-seventh
 8e	.
 4.d	.
 8r	.
 8d	.
 =21	=21
-4g	A
+4g	A major
 8a	.
 4e	.
 8A	.
 4e	.
 =22	=22
-2d	Gmaj7
+2d	G major-seventh
 2r	.
 ==	==
 *-	*-

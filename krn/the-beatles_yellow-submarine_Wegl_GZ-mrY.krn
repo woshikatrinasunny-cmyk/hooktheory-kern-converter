@@ -16,63 +16,63 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4c#	F#
-4c#	F#/A#
-4c#	F#/C#
-8c#	F#/A#
-8d#	.
+4c#	F# major
+4c#	F# major/A#
+4c#	F# major/C#
+8c#L	F# major/A#
+8d#J	.
 =2	=2
-8G#	C#7
+8G#L	C# dominant
 8G#	.
-8G#	C#7/G#
-8G#	.
-4G#	C#7
-4r	C#7/G#
+8G#	C# dominant/G#
+8G#J	.
+4G#	C# dominant
+4r	C# dominant/G#
 =3	=3
-8G#	C#7
+8G#L	C# dominant
 8G#	.
-8G#	C#7/G#
-8G#	.
-4G#	C#7
-4r	C#7/G#
+8G#	C# dominant/G#
+8G#J	.
+4G#	C# dominant
+4r	C# dominant/G#
 =4	=4
-8F#	F#
+8F#L	F# major
 8F#	.
-8F#	F#/C#
-8F#	.
-8F#[	F#
-8F#]	D#m7
-8r	F#/C#
-8r	F#/A#
+8F#	F# major/C#
+8F#J	.
+[8F#L	F# major
+8F#J]	D# minor-seventh
+8r	F# major/C#
+8r	F# major/A#
 =5	=5
-4c#	F#
-4c#	F#/A#
-4c#	F#/C#
-8c#	F#/A#
-8d#	.
+4c#	F# major
+4c#	F# major/A#
+4c#	F# major/C#
+8c#L	F# major/A#
+8d#J	.
 =6	=6
-8G#	C#7
+8G#L	C# dominant
 8G#	.
-8G#	C#7/G#
-8G#	.
-4G#	C#7
-4r	C#7/G#
+8G#	C# dominant/G#
+8G#J	.
+4G#	C# dominant
+4r	C# dominant/G#
 =7	=7
-8G#	C#7
+8G#L	C# dominant
 8G#	.
-8G#	C#7/G#
-8G#	.
-8G#[	C#7
-8G#]	C#7/B
-8r	A#add(1,3,7,10)
-8r	C#7/G#
+8G#	C# dominant/G#
+8G#J	.
+[8G#L	C# dominant
+8G#J]	C# dominant/B
+8r	A# other-1,3,7,10
+8r	C# dominant/G#
 =8	=8
-8F#	F#
+8F#L	F# major
 8F#	.
-8F#	F#/C#
-8F#	.
-4F#	F#
-16A#	F#/C#
-8.B	.
+8F#	F# major/C#
+8F#J	.
+4F#	F# major
+16A#LK	F# major/C#
+8.BJ	.
 ==	==
 *-	*-

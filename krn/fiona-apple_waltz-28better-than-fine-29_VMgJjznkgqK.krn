@@ -16,38 +16,38 @@
 *C:	*
 *M3/4	*
 =1	=1
-2.r	C
+2.r	C major
 =2	=2
-2.r	B
+2.r	B major
 =3	=3
-2.r	C
+2.r	C major
 =4	=4
-2.r	Am
+2.r	A minor
 =5	=5
-2.r	C
+2.r	C major
 =6	=6
-2.r	B
+2.r	B major
 =7	=7
-2.r	C
+2.r	C major
 =8	=8
-2.r	Edim
+2.r	E diminished
 =9	=9
-2.r	Dm
+2.r	D minor
 =10	=10
-2.r	F/C
+2.r	F major/C
 =11	=11
-2.r	Bdim/D
+2.r	B diminished/D
 =12	=12
-2.r	Cadd(2,4,5,7,11)
+2.r	C other-2,4,5,7,11
 =13	=13
-2.r	Ddim
+2.r	D diminished
 =14	=14
-2.r	Dadd(2,6,10)/C
+2.r	D other-2,6,10/C
 =15	=15
-2.r	A#7
+2.r	A# dominant
 =16	=16
-4r	G#
-4r	G
-4r	GaugMaj7
+4r	G# major
+4r	G major
+4r	G augmented-major-seventh
 ==	==
 *-	*-

@@ -15,13 +15,13 @@
 *c:	*
 *M4/4	*
 =1	=1
-4c	A-
-4c	A-
-8.d	B-
-8.d	B-
-8d	B-
+4c	A- major
+4c	A- major
+8.dL	B- major
+8.d	B- major
+8dJ	B- major
 =2	=2
-4e-	Cm
+4e-	C minor
 16e-	.
 16r	.
 16c	.
@@ -32,16 +32,16 @@
 16r	.
 16e-	.
 16r	.
-16e-	.
-16f	.
+16e-LL	.
+16fJJ	.
 =3	=3
-4g	E-
-4g	E-
-8.b-	E-
-8.b-	E-
-8d	E-/B-
+4g	E- major
+4g	E- major
+8.b-L	E- major
+8.b-	E- major
+8dJ	E- major/B-
 =4	=4
-4c	A-
+4c	A- major
 16c	.
 16r	.
 16A-	.
@@ -52,16 +52,16 @@
 16r	.
 16c	.
 16r	.
-16c	.
-16d	.
+16cLL	.
+16dJJ	.
 =5	=5
-4c	A-
-4c	A-
-8.d	B-
-8.d	B-
-8d	B-
+4c	A- major
+4c	A- major
+8.dL	B- major
+8.d	B- major
+8dJ	B- major
 =6	=6
-4e-	Cm
+4e-	C minor
 16e-	.
 16r	.
 16c	.
@@ -72,87 +72,87 @@
 16r	.
 16e-	.
 16r	.
-16e-	.
-16f	.
+16e-LL	.
+16fJJ	.
 =7	=7
-8d[	B-
-8d]	B-
-8d[	B-
-8d]	B-
-8d[	B-
-16d]	B-
-8d[	B-
-16d]	B-
-8d	B-
+[8dL	B- major
+8d]	B- major
+[8d	B- major
+8dJ]	B- major
+[8dL	B- major
+16dk]	B- major
+[8d	B- major
+16dk]	B- major
+8dJ	B- major
 =8	=8
-8e-[	A-
-8e-]	A-
-16e-[	A-
-16e-_	A-
-16e-_	A-
-16e-]	A-
-8b-[	A-
-16b-]	A-
-8b-[	A-
-16b-]	A-
-8g	A-
+[8e-L	A- major
+8e-]	A- major
+[16e-L	A- major
+16e-_	A- major
+16e-_	A- major
+16e-JJ]	A- major
+[8b-L	A- major
+16b-k]	A- major
+[8b-	A- major
+16b-k]	A- major
+8gJ	A- major
 =9	=9
-4c	A-
+4c	A- major
 4c	.
-8.d	B-
-8.d	B-
-8d	B-
+8.dL	B- major
+8.d	B- major
+8dJ	B- major
 =10	=10
-4e-	Cm
-4e-	Cm
-8.e-	Cm
-8.e-	Cm
-8f	Cm
+4e-	C minor
+4e-	C minor
+8.e-L	C minor
+8.e-	C minor
+8fJ	C minor
 =11	=11
-4g	E-
+4g	E- major
 4g	.
-8.b-	E-
-8.b-	E-
-8d	E-/B-
+8.b-L	E- major
+8.b-	E- major
+8dJ	E- major/B-
 =12	=12
-4c	A-
+4c	A- major
 4c	.
-8.c	A-
-8.c	A-
-8B-	A-
+8.cL	A- major
+8.c	A- major
+8B-J	A- major
 =13	=13
-4c	A-
+4c	A- major
 4c	.
-8.d	B-
-8.d	B-
-8d	B-
+8.dL	B- major
+8.d	B- major
+8dJ	B- major
 =14	=14
-4e-	Cm
+4e-	C minor
 4e-	.
+8.e-L	.
 8.e-	.
-8.e-	.
-8e-	.
+8e-J	.
 =15	=15
-8d[	B-
-8d]	B-
-8d[	B-
-8d]	B-
-8d[	B-
-16d]	B-
-8d[	B-
-16d]	B-
-8d	B-
+[8dL	B- major
+8d]	B- major
+[8d	B- major
+8dJ]	B- major
+[8dL	B- major
+16dk]	B- major
+[8d	B- major
+16dk]	B- major
+8dJ	B- major
 =16	=16
-8e-[	B-sus4
-8e-]	B-sus4
-16e-[	B-sus4
-16e-_	B-sus4
-16e-_	B-sus4
-16e-]	B-sus4
-8e-[	B-sus4
-16e-]	B-sus4
-8e-[	B-sus4
-16e-]	B-sus4
-8e-	B-sus4
+[8e-L	B- suspended-fourth
+8e-]	B- suspended-fourth
+[16e-L	B- suspended-fourth
+16e-_	B- suspended-fourth
+16e-_	B- suspended-fourth
+16e-JJ]	B- suspended-fourth
+[8e-L	B- suspended-fourth
+16e-k]	B- suspended-fourth
+[8e-	B- suspended-fourth
+16e-k]	B- suspended-fourth
+8e-J	B- suspended-fourth
 ==	==
 *-	*-

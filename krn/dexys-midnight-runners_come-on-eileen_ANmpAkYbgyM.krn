@@ -15,32 +15,32 @@
 *D:	*
 *M4/4	*
 =1	=1
-8d	D
+8dL	D major
 8A	.
-8B	.
+8BJ	.
 4d	.
 8d	.
 16r	.
 8.d	.
 =2	=2
-8c#	A
+8c#L	A major
 8A	.
-8B	.
+8BJ	.
 4c#	.
-8A	.
+8AL	.
 8B	.
-8e[	.
+[8eJ	.
 =3	=3
-8e]	Em
+8e]	E minor
 4f#	.
 4r	.
+8AL	.
 8A	.
-8A	.
-8f#	.
+8f#J	.
 =4	=4
-4g	G
-8f#	.
-8e[	.
-2e]	A
+4g	G major
+8f#L	.
+[8eJ	.
+2e]	A major
 ==	==
 *-	*-

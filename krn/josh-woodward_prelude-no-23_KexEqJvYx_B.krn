@@ -16,17 +16,17 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4c#	C#m
+4c#	C# minor
 4e	.
 4g#	.
 4c#	.
 =2	=2
 4e	.
-4B	E/B
+4B	E major/B
 4e	.
 4g#	.
 =3	=3
-4A	Amaj7
+4A	A major-seventh
 4e	.
 4g#	.
 4A	.
@@ -36,17 +36,17 @@
 4A	.
 4e	.
 =5	=5
-4c#	C#m
+4c#	C# minor
 4e	.
 4g#	.
 4c#	.
 =6	=6
 4e	.
-4B	E/B
+4B	E major/B
 4e	.
 4g#	.
 =7	=7
-4A	Amaj7
+4A	A major-seventh
 4e	.
 4g#	.
 4A	.
@@ -56,17 +56,17 @@
 4e	.
 4A	.
 =9	=9
-4c#	C#m
+4c#	C# minor
 4e	.
 4g#	.
 4c#	.
 =10	=10
 4e	.
-4d#	B/D#
+4d#	B major/D#
 4f#	.
 4b	.
 =11	=11
-4e	E
+4e	E major
 4g#	.
 4b	.
 4g#	.
@@ -76,7 +76,7 @@
 4e	.
 4g#	.
 =13	=13
-4cc#	A
+4cc#	A major
 4b	.
 4b	.
 4a	.
@@ -84,16 +84,16 @@
 4a	.
 4g#	.
 4g#	.
-4e[	.
+[4e	.
 =15	=15
 2e]	.
 2e	.
 =16	=16
-2e	Bsus4
-2f#[	.
+2e	B suspended-fourth
+[2f#	.
 =17	=17
 1f#]	.
 =18	=18
-1g#	C#m
+1g#	C# minor
 ==	==
 *-	*-

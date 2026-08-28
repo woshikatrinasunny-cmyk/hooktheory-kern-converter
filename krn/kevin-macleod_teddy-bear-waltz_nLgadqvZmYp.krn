@@ -15,74 +15,74 @@
 *G:	*
 *M6/8	*
 =1	=1
-16gg	G
+16gg	G major
 8r	.
-16ff#	.
-16gg	.
+16ff#LL	.
+16ggJJ	.
 16r	.
-8aa	Em
-16gg	.
+8aaL	E minor
+16ggJk	.
 16r	.
 16aa	.
 16r	.
 =2	=2
-8bb	F
+8bb	F major
 16r	.
-16aa	.
-16gg	.
+16aaLL	.
+16ggJJ	.
 16r	.
-8dd[	D
-8dd]	D/F#
+[8ddL	D major
+8ddJ]	D major/F#
 8r	.
 =3	=3
-16gg	G
+16gg	G major
 8r	.
-16ff#	.
-16gg	.
+16ff#LL	.
+16ggJJ	.
 16r	.
-8aa	Em
-16gg	.
+8aaL	E minor
+16ggJk	.
 16r	.
 16aa	.
 16r	.
 =4	=4
-4.bb[	F
-8bb]	D
+[4.bb	F major
+8bb]	D major
 4r	.
 =5	=5
-16gg	G
+16gg	G major
 8r	.
-16ff#	.
-16gg	.
+16ff#LL	.
+16ggJJ	.
 16r	.
-8aa	Em
-16gg	.
+8aaL	E minor
+16ggJk	.
 16r	.
 16aa	.
 16r	.
 =6	=6
-8bb	F
+8bb	F major
 16r	.
-16aa	.
-16gg	.
+16aaLL	.
+16ggJJ	.
 16r	.
-16dd	D
+16dd	D major
 8.r	.
-8dd#	Daug
+8dd#	D augmented
 =7	=7
-16dd	D
+16dd	D major
 8.r	.
-8dd#	Daug
-16dd	D
+8dd#	D augmented
+16dd	D major
 8.r	.
-8dd#	Daug
+8dd#	D augmented
 =8	=8
-16dd	D
+16dd	D major
 8r	.
-16dd#	.
-16ee	Daug
+16dd#LL	.
+16eeJJ	D augmented
 16r	.
-8ffn	D
+8ffn	D major
 4r	.
 ==	==
 *-	*-

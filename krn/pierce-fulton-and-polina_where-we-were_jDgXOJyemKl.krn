@@ -16,38 +16,38 @@
 *c#:	*
 *M4/4	*
 =1	=1
-3...g#	F#add(2,3,7)
+3...g#	F# other-2,3,7
 8c#	.
 8r	.
-8b[	Aadd(2,4,7)
+[8b	A other-2,4,7
 =2	=2
 2.b]	.
 4r	.
 =3	=3
-3...ee	C#m
+3...ee	C# minor
 8g#	.
 8r	.
-8dd#[	B
+[8dd#	B major
 =4	=4
 1dd#]	.
 =5	=5
-8g#	F#add(2,3,7)
+8g#	F# other-2,3,7
 8r	.
-4.g#	F#add(2,3,7)
+4.g#	F# other-2,3,7
 8c#	.
 8r	.
-8b[	Aadd(2,4,7)
+[8b	A other-2,4,7
 =6	=6
 2.b]	.
 4r	.
 =7	=7
-3...ee	C#m
-8g#	.
-8ff#	B/D#
-8dd#[	B
+3...ee	C# minor
+8g#L	.
+8ff#	B major/D#
+[8dd#J	B major
 =8	=8
 2.dd#]	.
-8ee	C#m
-8dd#	B
+8eeL	C# minor
+8dd#J	B major
 ==	==
 *-	*-

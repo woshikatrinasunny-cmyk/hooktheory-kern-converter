@@ -16,67 +16,67 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8.f#	F#
-16g#	.
+8.f#L	F# major
+16g#k	.
 8.f#	.
-16g#	.
-8.a#	.
-16cc#	.
+16g#Jk	.
+8.a#L	.
+16cc#k	.
 8.dd#	.
-32cc#	.
-32dd#	.
+32cc#LL	.
+32dd#JJJ	.
 =2	=2
-8.ff#	B
-16ee#	.
+8.ff#L	B major
+16ee#k	.
 8.gg#	.
-16ff#	.
-8.ee#	.
-16gg#	.
+16ff#Jk	.
+8.ee#L	.
+16gg#k	.
 8.ff#	.
-32dd#	.
-32a#	.
+32dd#LL	.
+32a#JJJ	.
 =3	=3
-8.cc#	F#
-16cc#	.
+8.cc#L	F# major
+16cc#k	.
 8.dd#	.
-16cc#	.
-8.ff#	.
-16dd#	.
+16cc#Jk	.
+8.ff#L	.
+16dd#k	.
 8.cc#	.
-16a#	.
+16a#Jk	.
 =4	=4
-4g#	C#
-4d#	C#add(2,5,7)
-4c#	C#
-4B	C#7
+4g#	C# major
+4d#	C# other-2,5,7
+4c#	C# major
+4B	C# dominant
 =5	=5
-8.f#	F#
-16g#	.
+8.f#L	F# major
+16g#k	.
 8.f#	.
-16g#	.
-8.a#	.
-16cc#	.
+16g#Jk	.
+8.a#L	.
+16cc#k	.
 8.dd#	.
-16cc#	.
+16cc#Jk	.
 =6	=6
-8.dd#	B
-16ee#	.
+8.dd#L	B major
+16ee#k	.
 8.gg#	.
-16ff#	.
-8.ee#	.
-16gg#	.
+16ff#Jk	.
+8.ee#L	.
+16gg#k	.
 8.ff#	.
-16dd#	.
+16dd#Jk	.
 =7	=7
-8.cc#	F#/A#
-16cc#	.
-8ff#[	D#m
-16ff#]	Daug
-16f#	.
-4g#	C#7sus4
-4cc#	C#7
+8.cc#L	F# major/A#
+16cc#k	.
+[8ff#	D# minor
+16ff#L]	D augmented
+16f#JJ	.
+4g#	C# dominant-seventh-suspended-fourth
+4cc#	C# dominant
 =8	=8
-2.f#	F#
+2.f#	F# major
 4r	.
 ==	==
 *-	*-

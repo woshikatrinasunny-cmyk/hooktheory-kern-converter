@@ -16,7 +16,7 @@
 *d:	*
 *M3/4	*
 =1	=1
-2.r	Gm7
+2.r	G minor-seventh
 =2	=2
 4dd	.
 4cc	.
@@ -28,10 +28,10 @@
 =4	=4
 4g	.
 4a	.
-8dd	.
-8a	.
+8ddL	.
+8aJ	.
 =5	=5
-4cc	Dm7
+4cc	D minor-seventh
 4dd	.
 8r	.
 8f	.
@@ -41,51 +41,51 @@
 4a	.
 =7	=7
 4g	.
-8cc	.
-8a	.
+8ccL	.
+8aJ	.
 4a	.
 =8	=8
-4g	Dm7
-8cc	Dm7/F
-8a	.
-4a	D7/G-
+4g	D minor-seventh
+8ccL	D minor-seventh/F
+8aJ	.
+4a	D dominant/G-
 =9	=9
-4g	Gm7
+4g	G minor-seventh
 4f	.
 4a	.
 =10	=10
 4..r	.
 16f	.
-16f	.
-16g	.
-8a	.
+16fLL	.
+16gJ	.
+8aJ	.
 =11	=11
 8.a	.
 6...cc	.
-4dd	Gm7
+4dd	G minor-seventh
 =12	=12
 2r	.
 4ff	.
 =13	=13
-4dd	Dm7
+4dd	D minor-seventh
 4.r	.
 8dd	.
 =14	=14
-8ff	.
-8ee	.
-8dd	.
-8ee	.
-8dd	.
-8cc	.
+8ffL	.
+8eeJ	.
+8ddL	.
+8eeJ	.
+8ddL	.
+8ccJ	.
 =15	=15
 4a	.
-8.dd	.
-16dd	.
-8cc	.
-8dd	.
+8.ddL	.
+16ddJk	.
+8ccL	.
+8ddJ	.
 =16	=16
-4cc	Dm7
-4r	Dm7/F
-4r	D7/G-
+4cc	D minor-seventh
+4r	D minor-seventh/F
+4r	D dominant/G-
 ==	==
 *-	*-

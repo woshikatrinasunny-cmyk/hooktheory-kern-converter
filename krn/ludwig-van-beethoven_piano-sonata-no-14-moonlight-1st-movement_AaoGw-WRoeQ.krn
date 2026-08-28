@@ -16,7 +16,7 @@
 *c#:	*
 *M6/4	*
 =1	=1
-4G#	C#m
+4G#	C# minor
 4c#	.
 4e	.
 4G#	.
@@ -30,7 +30,7 @@
 4c#	.
 4e	.
 =3	=3
-4G#	C#m7/B
+4G#	C# minor-seventh/B
 4c#	.
 4e	.
 4G#	.
@@ -44,35 +44,35 @@
 4c#	.
 4e	.
 =5	=5
-4A	A
+4A	A major
 4c#	.
 4e	.
 4A	.
 4c#	.
 4e	.
 =6	=6
-4A	D/F#
+4A	D major/F#
 4dn	.
 4f#	.
 4A	.
 4dn	.
 4f#	.
 =7	=7
-4G#	G#7
+4G#	G# dominant
 4cn	.
 4f#	.
-4G#	C#m/G#
+4G#	C# minor/G#
 4c#	.
 4e	.
 =8	=8
-4G#	G#sus4
+4G#	G# suspended-fourth
 4c#	.
 4d#	.
-4F#	G#7
+4F#	G# dominant
 4cn	.
 4d#	.
 =9	=9
-4E	C#m
+4E	C# minor
 4G#	.
 4c#	.
 4G#	.
@@ -84,10 +84,10 @@
 4e	.
 4g#	.
 4c#	.
-8e	.
-8g#	.
+8eL	.
+8g#J	.
 =11	=11
-4g#	G#7/C
+4g#	G# dominant/C
 4d#	.
 4f#	.
 4G#	.
@@ -99,38 +99,38 @@
 4f#	.
 4g#	.
 4d#	.
-8f#	.
-8g#	.
+8f#L	.
+8g#J	.
 =13	=13
-4g#	C#m
+4g#	C# minor
 4c#	.
 4e	.
 4G#	.
 4c#	.
 4e	.
 =14	=14
-4a	F#m
+4a	F# minor
 4c#	.
 4f#	.
 4A	.
 4c#	.
 4f#	.
 =15	=15
-4g#	E/B
+4g#	E major/B
 4B	.
 4e	.
 4G#	.
 4B	.
 4e	.
 =16	=16
-4f#	B7
+4f#	B dominant
 4B	.
 4d#	.
 4b	.
 4B	.
 4d#	.
 =17	=17
-4e	E
+4e	E major
 4B	.
 4e	.
 4G#	.

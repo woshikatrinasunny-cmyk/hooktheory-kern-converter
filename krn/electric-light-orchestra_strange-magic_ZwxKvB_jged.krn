@@ -16,46 +16,46 @@
 *G:	*
 *M4/4	*
 =1	=1
-4b	G
+4b	G major
 2r	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 =2	=2
-4b	CmMaj7
-8a	.
-8g	.
+4b	C major-minor
+8aL	.
+8gJ	.
 4g	.
-8a	.
-8b[	.
+8aL	.
+[8bJ	.
 =3	=3
-8b]	G
+8b]	G major
 3...r	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 =4	=4
-4b	CmMaj7
-8a	.
-8g	.
-8g	.
-16a	.
+4b	C major-minor
+8aL	.
+8gJ	.
+8gL	.
+16ak	.
 8.b	.
-8b[	.
+[8bJ	.
 =5	=5
-8b]	G
+8b]	G major
 3...r	.
-8b	.
-8a[	.
+8bL	.
+[8aJ	.
 =6	=6
-8a]	Gaug
+8a]	G augmented
 3...r	.
-8b	.
-16a	.
-16g	.
+8bL	.
+16aL	.
+16gJJ	.
 =7	=7
-4e	Em/G
+4e	E minor/G
 4.r	.
-8e	.
+8eL	.
 8g	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

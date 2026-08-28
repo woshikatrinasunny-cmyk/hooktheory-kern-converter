@@ -16,119 +16,119 @@
 *C:	*
 *M4/4	*
 =1	=1
-2.r	C
-4r	C
+2.r	C major
+4r	C major
 =2	=2
-16g	.
+16gLK	.
 8.a	.
 8.c	.
-16c	.
+16cJk	.
+8.cL	.
+16ck	.
 8.c	.
-16c	.
-8.c	.
-16c	.
+16cJk	.
 =3	=3
-4.B-	F
+4.B-	F major
 4.r	.
-8.r	B-sus2
+8.r	B- suspended-second
 16B-	.
 =4	=4
+8.b-L	.
+16b-k	.
 8.b-	.
-16b-	.
-8.b-	.
-16b-	.
-8.b-	.
+16b-Jk	.
+8.b-L	.
 8a	.
-16g	.
-8f	.
+16gk	.
+8fJ	.
 =5	=5
-4e	C
+4e	C major
 8.r	.
 16G	.
-8.c	.
-16e	.
-8.cc	C
-16a[	.
+8.cL	.
+16ek	.
+8.cc	C major
+[16aJk	.
 =6	=6
-8.a]	.
-16a	.
-8.e	.
+8.aL]	.
+16ak	.
+8.eJ	.
 4g	.
 8.r	.
-16a	.
-16cc	.
+16aLL	.
+16ccJJ	.
 =7	=7
-8.ff	F
-16cc	.
+8.ffL	F major
+16ccJk	.
 4a	.
 4r	.
-8r	B-sus2
-16B-	.
-16B-	.
+8r	B- suspended-second
+16B-LL	.
+16B-JJ	.
 =8	=8
+8.b-L	.
+16b-k	.
 8.b-	.
-16b-	.
-8.b-	.
-16b-	.
-8b-	.
+16b-Jk	.
+8b-L	.
 8.a	.
-16g	.
-8f	.
+16gk	.
+8fJ	.
 =9	=9
-6...e	C
+6...e	C major
 8.r	.
-8.c	.
-16c	.
-8.cc	C
-16a[	.
+8.cL	.
+16ck	.
+8.cc	C major
+[16aJk	.
 =10	=10
 4.a]	.
 4.g	.
-8e	.
-8g[	.
+8eL	.
+[8gJ	.
 =11	=11
-4.g]	F/C
+4.g]	F major/C
 8r	.
-8.b-	.
-16b-	.
-8.b-	B-sus2/C
-16b-	.
+8.b-L	.
+16b-k	.
+8.b-	B- suspended-second/C
+16b-Jk	.
 =12	=12
-8.b-	.
+8.b-L	.
 8f	.
 8b-	.
-16f	.
+16fJk	.
 8r	.
-16g	.
-16b-	.
-8f	.
+16gLL	.
+16b-J	.
+8fJ	.
 8r	.
 =13	=13
-4.r	C
+4.r	C major
 8B-	.
-8.c	.
-16c	.
-8cc	C
-8a[	.
+8.cL	.
+16ck	.
+8cc	C major
+[8aJ	.
 =14	=14
 8.a]	.
 16r	.
 8e	.
 4.g	.
-8e	.
-8g[	.
+8eL	.
+[8gJ	.
 =15	=15
-4.g]	F/C
+4.g]	F major/C
 4.r	.
-8.c	.
-16c	.
+8.cL	.
+16cJk	.
 =16	=16
-8.b-	B-
-16a	.
+8.b-L	B- major
+16ak	.
 8.b-	.
-16a	.
-16b-	C
-8.a	.
+16aJk	.
+16b-LK	C major
+8.aJ	.
 4g	.
 ==	==
 *-	*-

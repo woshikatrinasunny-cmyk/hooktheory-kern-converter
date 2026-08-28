@@ -16,49 +16,49 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8f	B-add(2,4,7)
-8en	.
-4f	B-
-4g	Gm
-4d	Gadd(2,3,7)
+8fL	B- other-2,4,7
+8enJ	.
+4f	B- major
+4g	G minor
+4d	G other-2,3,7
 =2	=2
-8e-	Cm7
-8d	.
+8e-L	C minor-seventh
+8dJ	.
 4e-	.
-4f	F
+4f	F major
 4e-	.
 =3	=3
-4d	B-add(2,4,7)
-4f	B-
-4b-	Gm
-4dd	Gadd(2,3,7)
+4d	B- other-2,4,7
+4f	B- major
+4b-	G minor
+4dd	G other-2,3,7
 =4	=4
-8cc	Cm7
+8ccL	C minor-seventh
 8b-	.
 8a	.
-8g	.
-2f	F
+8gJ	.
+2f	F major
 =5	=5
-8f	B-add(2,4,7)
-8en	.
-4f	B-
-4g	Gm
-4d	Gadd(2,3,7)
+8fL	B- other-2,4,7
+8enJ	.
+4f	B- major
+4g	G minor
+4d	G other-2,3,7
 =6	=6
-8e-	Cm7
-8d	.
+8e-L	C minor-seventh
+8dJ	.
 4e-	.
-4f	F
+4f	F major
 4e-	.
 =7	=7
-4d	B-add(2,4,7)
-4B-	B-
-4c	Cm9
-4G	Cm
+4d	B- other-2,4,7
+4B-	B- major
+4c	C minor-ninth
+4G	C minor
 =8	=8
-8A	Fsus4
-8G	.
-4A	F
-2B-	B-
+8AL	F suspended-fourth
+8GJ	.
+4A	F major
+2B-	B- major
 ==	==
 *-	*-

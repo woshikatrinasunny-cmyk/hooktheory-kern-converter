@@ -16,33 +16,33 @@
 *b:	*
 *M4/4	*
 =1	=1
-4.b	Bm
-4.ee	F#m7
-4ff#[	Eadd(2,3,7)
+4.b	B minor
+4.ee	F# minor-seventh
+[4ff#	E other-2,3,7
 =2	=2
 2.ff#]	.
-4a	D
+4a	D major
 =3	=3
-1b[	Em
+[1b	E minor
 =4	=4
 2b]	.
-8.eee	A/E
-6...ddd[	.
+8.eee	A major/E
+[6...ddd	.
 =5	=5
-4.ddd_	Bm
-4.ddd]	F#m7
-8.aa	Eadd(2,3,7)
-16ee[	.
+4.ddd_	B minor
+4.ddd]	F# minor-seventh
+8.aaL	E other-2,3,7
+[16eeJk	.
 =6	=6
 2.ee_	.
-4ee]	D
+4ee]	D major
 =7	=7
-8.dd	Em
-8.ee	.
-3...ff#[	.
+8.ddL	E minor
+8.eeJ	.
+[3...ff#	.
 =8	=8
 2ff#_	.
-4ff#_	D
-4ff#]	A
+4ff#_	D major
+4ff#]	A major
 ==	==
 *-	*-

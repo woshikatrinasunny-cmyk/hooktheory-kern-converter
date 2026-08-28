@@ -16,81 +16,81 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4f#	F#m
+4f#	F# minor
 8f#	.
 4g#	.
 4a	.
-8a[	.
+[8a	.
 =2	=2
-8a]	D
+8a]	D major
 4e	.
 4d	.
 4.c#	.
 =3	=3
-4c#	C#m
+4c#	C# minor
 8B	.
 4B	.
 4.A	.
 =4	=4
-1c#[	E
+[1c#	E major
 =5	=5
-4c#]	F#m
+4c#]	F# minor
 8f#	.
 4g#	.
 4a	.
-8a[	.
+[8a	.
 =6	=6
-8a]	F#/A#
+8a]	F# major/A#
 4e	.
 4d	.
 4.c#	.
 =7	=7
-4c#	Bm
+4c#	B minor
 8B	.
 4B	.
 4.A	.
 =8	=8
-1B	E
+1B	E major
 =9	=9
-4B	D
+4B	D major
 8f#	.
 4g#	.
 4a	.
-8a[	.
+[8a	.
 =10	=10
-8a]	A
+8a]	A major
 4e	.
 4d	.
 4.c#	.
 =11	=11
-4c#	B/D#
+4c#	B major/D#
 8B	.
 4B	.
 4.A	.
 =12	=12
-16B	Bm/D
+16B	B minor/D
 6...c#	.
-16B	.
-16A	.
-2B[	.
+16BLL	.
+16AJJ	.
+[2B	.
 =13	=13
-4B]	Bm
+4B]	B minor
 8f#	.
 4g#	.
 4a	.
-16f#	.
-16g#	.
+16f#LL	.
+16g#JJ	.
 =14	=14
-1a[	Dm
+[1a	D minor
 =15	=15
-16a]	Fdim
-16g#	.
+16aLL]	F diminished
+16g#J	.
 8f#	.
-8f#	.
+8f#J	.
 4g#	.
 4.a	.
 =16	=16
-6...cc#	Dm
+6...cc#	D minor
 6...a	.
 4.fn	.
 ==	==

@@ -16,78 +16,78 @@
 *E:	*
 *M4/4	*
 =1	=1
-4r	Aadd(2,4,7,9)
+4r	A other-2,4,7,9
 4b	.
 4a	.
 4g#	.
 =2	=2
-8.f#	Badd(2,5,7)
+8.f#L	B other-2,5,7
 8.f#	.
-8g#	.
+8g#J	.
 4f#	.
 4r	.
 =3	=3
-4r	Aadd(2,4,7,9)
-8b	.
-8a	.
+4r	A other-2,4,7,9
+8bL	.
+8aJ	.
 8a	.
 8r	.
-8g#	.
-8e	.
+8g#L	.
+8eJ	.
 =4	=4
-8.f#	Badd(2,4,7)
+8.f#L	B other-2,4,7
 8.f#	.
-8g#	.
+8g#J	.
 4f#	.
 8r	.
 8B	.
 =5	=5
-8g#	E
+8g#L	E major
 8a	.
-8g#	.
+8g#J	.
 4f#	.
 8e	.
 8r	.
 8B	.
 =6	=6
-8g#	B
+8g#L	B major
 8a	.
-8g#	.
+8g#J	.
 8.f#	.
 8.r	.
 4e	.
 =7	=7
-4r	C#add(3,5,7)
-8c#	.
-8c#	.
-8e	.
+4r	C# other-3,5,7
+8c#L	.
+8c#J	.
+8eL	.
 8e	.
 8f#	.
-8f#	.
+8f#J	.
 =8	=8
-4g#	Aadd(2,4,7)
+4g#	A other-2,4,7
 4e	.
 4c#	.
 4B	.
 =9	=9
-4r	F#m7
-8e	.
-8c#	.
-8.e	.
+4r	F# minor-seventh
+8eL	.
+8c#J	.
+8.eL	.
 8.f#	.
-8f#[	.
+[8f#J	.
 =10	=10
-8f#]	Badd(2,4,7)
+8f#]	B other-2,4,7
 2..r	.
 =11	=11
-4r	F#m7
-8e	.
-8c#	.
-8.e	.
+4r	F# minor-seventh
+8eL	.
+8c#J	.
+8.eL	.
 8.f#	.
-8f#[	.
+[8f#J	.
 =12	=12
-8f#]	Badd(2,4,7)
+8f#]	B other-2,4,7
 2..r	.
 ==	==
 *-	*-

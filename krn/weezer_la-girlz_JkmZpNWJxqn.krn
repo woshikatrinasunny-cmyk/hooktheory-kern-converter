@@ -16,61 +16,61 @@
 *A-:	*
 *M3/4	*
 =1	=1
-8A-[	A-
-8A-_	A-
-8A-]	A-
-8B-[	A-
-8B-_	A-
-8B-]	A-
+[8A-L	A- major
+8A-J_	A- major
+8A-L]	A- major
+[8B-J	A- major
+8B-L_	A- major
+8B-J]	A- major
 =2	=2
-8c[	A-
-8c_	A-
-8c_	A-
-8c_	A-
-8c]	A-
-8a-	A-
+[8cL	A- major
+8cJ_	A- major
+8cL_	A- major
+8cJ_	A- major
+8cL]	A- major
+8a-J	A- major
 =3	=3
-8g[	D-
-8g_	D-
-8g_	D-
-8g_	D-
-8g]	D-
-8e-	D-
+[8gL	D- major
+8gJ_	D- major
+8gL_	D- major
+8gJ_	D- major
+8gL]	D- major
+8e-J	D- major
 =4	=4
-8e-	Cm
-8c[	Cm
-8c_	Cm
-8c_	Cm
-8c]	Cm
-8e-	Cm
+8e-L	C minor
+[8cJ	C minor
+8cL_	C minor
+8cJ_	C minor
+8cL]	C minor
+8e-J	C minor
 =5	=5
-8e-[	D-
-8e-]	D-
-8d-	D-
-8d-[	D-
-8d-]	D-
-8c	D-
+[8e-L	D- major
+8e-J]	D- major
+8d-L	D- major
+[8d-J	D- major
+8d-L]	D- major
+8cJ	D- major
 =6	=6
-8c[	Cm
-8c]	Cm
-8B-	Cm
-8B-	Cm
-8e-	Cm
-8e-	Cm
+[8cL	C minor
+8cJ]	C minor
+8B-L	C minor
+8B-J	C minor
+8e-L	C minor
+8e-J	C minor
 =7	=7
-8e-[	D-
-8e-]	D-
-8d-	D-
-8d-[	D-
-8d-]	D-
-8c	D-
+[8e-L	D- major
+8e-J]	D- major
+8d-L	D- major
+[8d-J	D- major
+8d-L]	D- major
+8cJ	D- major
 =8	=8
-8c[	Cm
-8c]	Cm
-8B-	Cm
-8B-[	B-m
-8B-]	B-m
-16c	B-m
-16B-	.
+[8cL	C minor
+8cJ]	C minor
+8B-L	C minor
+[8B-J	B- minor
+8B-L]	B- minor
+16cL	B- minor
+16B-JJ	.
 ==	==
 *-	*-

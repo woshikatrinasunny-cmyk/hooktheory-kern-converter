@@ -15,7 +15,7 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	G
+4r	G major
 16dd	.
 16r	.
 16dd	.
@@ -24,16 +24,16 @@
 16r	.
 8.b	.
 16r	.
-8b[	.
+[8b	.
 =2	=2
-16b]	D/F#
+16b]	D major/F#
 16r	.
 16a	.
 16r	.
 2a	.
 4r	.
 =3	=3
-4r	Em
+4r	E minor
 16b	.
 16r	.
 16b	.
@@ -42,9 +42,9 @@
 16r	.
 8.g	.
 16r	.
-8dd[	.
+[8dd	.
 =4	=4
-16dd]	Cm/D#
+16dd]	C minor/D#
 16r	.
 16cc	.
 16r	.
@@ -54,9 +54,9 @@
 16r	.
 8.a	.
 16r	.
-8b[	.
+[8b	.
 =5	=5
-4b]	G/D
+4b]	G major/D
 8r	.
 16b	.
 16r	.
@@ -64,11 +64,11 @@
 16r	.
 8.g	.
 16r	.
-8ee[	.
+[8ee	.
 =6	=6
-1ee]	A/C#
+1ee]	A major/C#
 =7	=7
-4r	C
+4r	C major
 16b	.
 16r	.
 16b	.
@@ -77,14 +77,14 @@
 16r	.
 8.g	.
 16r	.
-8ee[	.
+[8ee	.
 =8	=8
-16ee]	Dsus4
+16ee]	D suspended-fourth
 16r	.
 16dd	.
 16r	.
-4dd[	D
-4dd_	Dsus2
-4dd]	D/F#
+[4dd	D major
+4dd_	D suspended-second
+4dd]	D major/F#
 ==	==
 *-	*-

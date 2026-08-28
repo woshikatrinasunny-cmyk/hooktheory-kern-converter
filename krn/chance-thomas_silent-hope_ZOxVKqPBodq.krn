@@ -15,37 +15,37 @@
 *d#:	*
 *M4/4	*
 =1	=1
-8cc#	Bsus2
+8cc#L	B suspended-second
 8b	.
 8f#	.
-8B	.
-8cc#	.
-8b	.
-4f#	Badd(6,7)
+8BJ	.
+8cc#L	.
+8bJ	.
+4f#	B other-6,7
 =2	=2
-8ddn	Gm
+8ddnL	G minor
 8a#	.
 8gn	.
-8dn	.
-8ddn	.
+8dnJ	.
+8ddnL	.
 8a#	.
 8gn	.
-8d#	.
+8d#J	.
 =3	=3
-8cc#	Badd(6,7)
+8cc#L	B other-6,7
 8b	.
-8f#	B
-8B	.
-8cc#	.
-8b	.
-4fn	Badd(6,7)
+8f#	B major
+8BJ	.
+8cc#L	.
+8bJ	.
+4fn	B other-6,7
 =4	=4
-8cc#	C#
+8cc#L	C# major
 8g#	.
 8fn	.
-8c#	.
-8.cc#	.
+8c#J	.
+8.cc#L	.
 8g#	.
-8.fn	.
+8.fnJ	.
 ==	==
 *-	*-

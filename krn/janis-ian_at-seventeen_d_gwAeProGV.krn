@@ -16,51 +16,51 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.d	Cadd(2,4,7)
+4.d	C other-2,4,7
 8c	.
-4c	C
-8c	.
-8B[	Cmaj7
+4c	C major
+8cL	.
+[8BJ	C major-seventh
 =2	=2
 4B]	.
 8c	.
-4.c	Am7/C
-8r	C
+4.c	A minor-seventh/C
+8r	C major
 8G	.
 =3	=3
-4.e	Dm11
-8d	Dm7
+4.e	D minor-11th
+8d	D minor-seventh
 4d	.
-8d	.
-8c#[	Dmaj7sus2
+8dL	.
+[8c#J	D major-seventh-suspended-second
 =4	=4
 4c#]	.
 8d	.
-4.d	Dm7
+4.d	D minor-seventh
 8r	.
 8G	.
 =5	=5
-4e	G7
+4e	G dominant
 8d	.
 4.d	.
-8c	.
-8c[	.
+8cL	.
+[8cJ	.
 =6	=6
-8c]	G7
+8c]	G dominant
 4B	.
 4.B	.
 8r	.
 8G	.
 =7	=7
-4.d	Cadd(2,4,7)
+4.d	C other-2,4,7
 8c	.
-4c	C
-8c	.
-8B[	Cmaj7
+4c	C major
+8cL	.
+[8BJ	C major-seventh
 =8	=8
 4B]	.
 8A	.
-4.A	Am7/C
-4r	C
+4.A	A minor-seventh/C
+4r	C major
 ==	==
 *-	*-

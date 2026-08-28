@@ -16,59 +16,59 @@
 *E:	*
 *M4/4	*
 =1	=1
-1r	E
+1r	E major
 =2	=2
 1r	.
 =3	=3
-4.r	Em
-3...r	Eadd(2,5,7)
+4.r	E minor
+3...r	E other-2,5,7
 =4	=4
 1r	.
 =5	=5
-4.r	Eadd(2,5,7)
-3...r	C/E
+4.r	E other-2,5,7
+3...r	C major/E
 =6	=6
 1r	.
 =7	=7
-4.r	C/E
-4.r	E7sus2
-4r	A/E
+4.r	C major/E
+4.r	E dominant-seventh-suspended-second
+4r	A major/E
 =8	=8
 3...r	.
-8g#	.
+8g#L	.
 8b	.
-8ee	.
+8eeJ	.
 =9	=9
-1ee[	E/G#
+[1ee	E major/G#
 =10	=10
-3...ee]	E
-8g#	.
+3...ee]	E major
+8g#L	.
 8b	.
-8ee[	.
+[8eeJ	.
 =11	=11
-4.ee_	Em/G
-4.ee_	D/F#
-4ee_	D
+4.ee_	E minor/G
+4.ee_	D major/F#
+4ee_	D major
 =12	=12
 3...ee]	.
-8ggn	.
+8ggnL	.
 8ff#	.
-8ee[	.
+[8eeJ	.
 =13	=13
-4.ee_	F#m
-3...ee_	C
+4.ee_	F# minor
+3...ee_	C major
 =14	=14
 1ee]	.
 =15	=15
-4ee	C/G
-8ee	C/G
-4dd	Bm/F#
-8dd	Bm/F#
-4cc#[	A
+4ee	C major/G
+8ee	C major/G
+4dd	B minor/F#
+8dd	B minor/F#
+[4cc#	A major
 =16	=16
 3...cc#]	.
-8g#	.
+8g#L	.
 8b	.
-8ee	.
+8eeJ	.
 ==	==
 *-	*-

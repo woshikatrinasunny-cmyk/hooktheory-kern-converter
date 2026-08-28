@@ -16,56 +16,56 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	C
+8r	C major
 4e	.
-4d	Cadd(2,4,7)
-4g	G/D
-8a[	Esus4
+4d	C other-2,4,7
+4g	G major/D
+[8a	E suspended-fourth
 =2	=2
 8a]	.
-4b	G
-4a	D7/A
-4g	G
-8b[	G/D
+4b	G major
+4a	D dominant/A
+4g	G major
+[8b	G major/D
 =3	=3
 8b]	.
-4a	Bm7
-4g	C
-4a	D
-8g[	C
+4a	B minor-seventh
+4g	C major
+4a	D major
+[8g	C major
 =4	=4
 1g_	.
 =5	=5
 8g]	.
-4e	C
-4d	Cadd(2,4,7)
-4g	G/D
-8a[	Esus4
+4e	C major
+4d	C other-2,4,7
+4g	G major/D
+[8a	E suspended-fourth
 =6	=6
 8a]	.
-4b	G
-4a	D7/A
-4g	G
-8b[	G/D
+4b	G major
+4a	D dominant/A
+4g	G major
+[8b	G major/D
 =7	=7
 8b]	.
-4a	Bm7
-4g	C
-4a	D
-8g	C
+4a	B minor-seventh
+4g	C major
+4a	D major
+8g	C major
 =8	=8
 16ee	.
 16r	.
-16dd	.
+16ddLL	.
 16ee	.
-16b	.
+16bJJ	.
 8r	.
 16dd	.
-16a	.
+16aLL	.
 16b	.
-16g	.
+16gJJ	.
 8.r	.
-16a	.
-16b	.
+16aLL	.
+16bJJ	.
 ==	==
 *-	*-

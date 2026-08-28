@@ -16,293 +16,293 @@
 *g:	*
 *M2/4	*
 =1	=1
-16bb-	Gm
+16bb-LL	G minor
 16ddd	.
 16gg	.
-16bb-	.
-16dd	.
+16bb-JJ	.
+16ddLL	.
 16gg	.
-16b-	Gm
-16dd	.
+16b-	G minor
+16ddJJ	.
 =2	=2
-16ee-	Cm
+16ee-LL	C minor
 16gg	.
 16cc	.
-16ee-	.
-16g	.
+16ee-JJ	.
+16gLL	.
 16cc	.
-16e-	Cm
-16g	.
+16e-	C minor
+16gJJ	.
 =3	=3
-16aa	F
+16aaLL	F major
 16ccc	.
 16ff	.
-16aa	.
-16cc	.
+16aaJJ	.
+16ccLL	.
 16ff	.
-16a	F
-16cc	.
+16a	F major
+16ccJJ	.
 =4	=4
-16dd	B-
+16ddLL	B- major
 16ff	.
 16b-	.
-16dd	.
-16f	.
+16ddJJ	.
+16fLL	.
 16b-	.
-16d	B-
-16f	.
+16d	B- major
+16fJJ	.
 =5	=5
-16fff	B-/D
+16fffLL	B- major/D
 16ddd	.
 16bb-	.
-16ddd	.
-16ff	.
+16dddJJ	.
+16ffLL	.
 16bb-	.
-16dd	B-/D
-16ff	.
+16dd	B- major/D
+16ffJJ	.
 =6	=6
-16cc	Cm/E-
+16ccLL	C minor/E-
 16ee-	.
 16g	.
-16cc	.
-16e-	.
+16ccJJ	.
+16e-LL	.
 16g	.
-16c	Cm/E-
-16e-	.
+16c	C minor/E-
+16e-JJ	.
 =7	=7
-16d	B-/F
+16dLL	B- major/F
 16f	.
 16B-	.
-16d	.
-16c	F7
+16dJJ	.
+16cLL	F dominant
 16e-	.
 16A	.
-16c	.
+16cJJ	.
 =8	=8
-16B-	B-
+16B-LL	B- major
 16BB-	.
 16D	.
-16C	.
-16BB-	.
+16CJJ	.
+16BB-LL	.
 16C	.
 16dd	.
-16AA	.
+16AAJJ	.
 =9	=9
-16bb-	Gm
+16bb-LL	G minor
 16ddd	.
 16gg	.
-16bb-	.
-16dd	.
+16bb-JJ	.
+16ddLL	.
 16gg	.
-16b-	Gm
-16dd	.
+16b-	G minor
+16ddJJ	.
 =10	=10
-16ee-	Cm
+16ee-LL	C minor
 16gg	.
 16cc	.
-16ee-	.
-16g	.
+16ee-JJ	.
+16gLL	.
 16cc	.
-16e-	Cm
-16g	.
+16e-	C minor
+16gJJ	.
 =11	=11
-16aa	F
+16aaLL	F major
 16ccc	.
 16ff	.
-16aa	.
-16cc	.
+16aaJJ	.
+16ccLL	.
 16ff	.
-16a	F
-16cc	.
+16a	F major
+16ccJJ	.
 =12	=12
-16dd	B-
+16ddLL	B- major
 16ff	.
 16b-	.
-16dd	.
-16f	.
+16ddJJ	.
+16fLL	.
 16b-	.
-16d	B-
-16f	.
+16d	B- major
+16fJJ	.
 =13	=13
-16fff	B-/D
+16fffLL	B- major/D
 16ddd	.
 16bb-	.
-16ddd	.
-16ff	.
+16dddJJ	.
+16ffLL	.
 16bb-	.
-16dd	B-/D
-16ff	.
+16dd	B- major/D
+16ffJJ	.
 =14	=14
-16cc	Cm/E-
+16ccLL	C minor/E-
 16ee-	.
 16g	.
-16cc	.
-16e-	.
+16ccJJ	.
+16e-LL	.
 16g	.
-16c	Cm/E-
-16e-	.
+16c	C minor/E-
+16e-JJ	.
 =15	=15
-16d	B-/F
+16dLL	B- major/F
 16f	.
 16B-	.
-16d	.
-16c	F7
+16dJJ	.
+16cLL	F dominant
 16e-	.
 16A	.
-16c	.
+16cJJ	.
 =16	=16
-16B-	B-
+16B-LL	B- major
 16BB-	.
 16D	.
-16F	.
+16FJJ	.
 16B-	.
 16r	.
 8ff	.
 =17	=17
-16fff	B-
+16fffLL	B- major
 16ddd	.
 16bb-	.
-16ddd	.
-16ff	.
+16dddJJ	.
+16ffLL	.
 16bb-	.
-16dd	B-7/A-
-16ff	.
+16dd	B- dominant/A-
+16ffJJ	.
 =18	=18
-16bn	G7
+16bnLL	G dominant
 16dd	.
 16f	.
-16bn	.
-16d	.
+16bnJJ	.
+16dLL	.
 16f	.
-16Bn	G7
-16d	.
+16Bn	G dominant
+16dJJ	.
 =19	=19
-16eee-	Cm
+16eee-LL	C minor
 16ccc	.
 16gg	.
-16ccc	.
-16ee-	.
+16cccJJ	.
+16ee-LL	.
 16gg	.
-16dd	Gm/B-
-16gg	.
+16dd	G minor/B-
+16ggJJ	.
 =20	=20
-16dd-	A7
+16dd-LL	A dominant
 16een	.
 16g	.
-16dd-	.
-16en	.
+16dd-JJ	.
+16enLL	.
 16g	.
-16d-	A7
-16en	.
+16d-	A dominant
+16enJJ	.
 =21	=21
-16d	D
+16dLL	D major
 16g-	.
 16a	.
-16g-	.
-16dd	.
+16g-JJ	.
+16ddLL	.
 16a	.
-16gg-	D7/C
-16dd	.
+16gg-	D dominant/C
+16ddJJ	.
 =22	=22
-16gg	Gm/B-
+16ggLL	G minor/B-
 16dd	.
 16b-	.
-16dd	.
-16g	.
+16ddJJ	.
+16gLL	.
 16b-	.
-16d	Gm/B-
-16g	.
+16d	G minor/B-
+16gJJ	.
 =23	=23
-16e-	Cm
+16e-LL	C minor
 16g	.
 16c	.
-16e-	.
-16A	D7
+16e-JJ	.
+16ALL	D dominant
 16c	.
 16G-	.
-16A	.
+16AJJ	.
 =24	=24
-16G	Gm
+16GLL	G minor
 16GG	.
 16BB-	.
-16D	.
+16DJJ	.
 16G	.
 16r	.
 8ff	.
 =25	=25
-16fff	B-
+16fffLL	B- major
 16ddd	.
 16bb-	.
-16ddd	.
-16ff	.
+16dddJJ	.
+16ffLL	.
 16bb-	.
-16dd	B-7/A-
-16ff	.
+16dd	B- dominant/A-
+16ffJJ	.
 =26	=26
-16bn	G7
+16bnLL	G dominant
 16dd	.
 16f	.
-16bn	.
-16d	.
+16bnJJ	.
+16dLL	.
 16f	.
-16Bn	G7
-16d	.
+16Bn	G dominant
+16dJJ	.
 =27	=27
-16eee-	Cm
+16eee-LL	C minor
 16ccc	.
 16gg	.
-16ccc	.
-16ee-	.
+16cccJJ	.
+16ee-LL	.
 16gg	.
-16dd	Gm/B-
-16gg	.
+16dd	G minor/B-
+16ggJJ	.
 =28	=28
-16dd-	A7
+16dd-LL	A dominant
 16een	.
 16g	.
-16dd-	.
-16en	.
+16dd-JJ	.
+16enLL	.
 16g	.
-16d-	A7
-16en	.
+16d-	A dominant
+16enJJ	.
 =29	=29
-16d	D
+16dLL	D major
 16g-	.
 16a	.
-16g-	.
-16dd	.
+16g-JJ	.
+16ddLL	.
 16a	.
-16gg-	D7/C
-16dd	.
+16gg-	D dominant/C
+16ddJJ	.
 =30	=30
-16gg	Gm/B-
+16ggLL	G minor/B-
 16dd	.
 16b-	.
-16dd	.
-16g	.
+16ddJJ	.
+16gLL	.
 16b-	.
-16d	Gm/B-
-16g	.
+16d	G minor/B-
+16gJJ	.
 =31	=31
-16e-	Cm
+16e-LL	C minor
 16g	.
 16c	.
-16e-	.
-16A	D7
+16e-JJ	.
+16ALL	D dominant
 16c	.
 16G-	.
-16A	.
+16AJJ	.
 =32	=32
-16G	Gm
+16GLL	G minor
 16d	.
 16B-	.
-16d	.
-16G	.
+16dJJ	.
+16GLL	.
 16BB-	.
 16C	.
-16D	.
+16DJJ	.
 =33	=33
-4EE-	E-
+4EE-	E- major
 16GG	.
 16r	.
 16GG	.
@@ -314,36 +314,36 @@
 16r	.
 4E-	.
 =35	=35
-16E-	B-7
+16E-LL	B- dominant
 16D	.
 16E-	.
-16D	.
+16DJJ	.
 4BB-	.
 =36	=36
-16E-	.
+16E-LL	.
 16D	.
 16E-	.
-16D	.
+16DJJ	.
 4BB-	.
 =37	=37
-4e-	E-
-8g	.
-8g	.
+4e-	E- major
+8gL	.
+8gJ	.
 =38	=38
-8b-	.
-8b-	.
+8b-L	.
+8b-J	.
 4ee-	.
 =39	=39
-16dd	Edim
+16ddLL	E diminished
 16dd-	.
 16dd	.
-16dd-	.
+16dd-JJ	.
 4gg	.
 =40	=40
-16dd	D/G-
+16ddLL	D major/G-
 16cc	.
 16dd	.
-16cc	.
+16ccJJ	.
 4aa	.
 ==	==
 *-	*-

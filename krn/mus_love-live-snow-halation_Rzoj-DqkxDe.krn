@@ -16,43 +16,43 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	Aadd(2,4,7)
+4r	A other-2,4,7
 4ee	.
 4bb	.
-8gg#	.
-8aa[	.
+8gg#L	.
+[8aaJ	.
 =2	=2
-2aa]	Aadd(2,4,7)/C#
+2aa]	A other-2,4,7/C#
 8r	.
-8aa	.
+8aaL	.
 8gg#	.
-8aa	.
+8aaJ	.
 =3	=3
-4gg#	Dmaj7sus2
+4gg#	D major-seventh-suspended-second
 8ff#	.
 3...ee	.
 =4	=4
-2gg#	E
-2bb	C#7/F
+2gg#	E major
+2bb	C# dominant/F
 =5	=5
-3...aa	F#m7
-8aa	.
+3...aa	F# minor-seventh
+8aaL	.
 8gg#	.
-8aa	.
+8aaJ	.
 =6	=6
-4bb	E
+4bb	E major
 8aa	.
 4gg#	.
 4.ee	.
 =7	=7
-4.ff#	D#m7b5
+4.ff#	D# half-diminished
 8ccc#	.
-8ccc#	.
+8ccc#L	.
 8aa	.
 8ff#	.
-8cc#	.
+8cc#J	.
 =8	=8
-1a	E11
+1a	E dominant-11th
 =9	=9
 1eee	.
 ==	==

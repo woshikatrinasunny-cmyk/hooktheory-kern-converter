@@ -16,71 +16,71 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8cc	A-
+8ccL	A- major
 8b-	.
 8a-	.
-16cc	.
+16ccJk	.
 16r	.
-8dd-	B-m
+8dd-L	B- minor
 8cc	.
 8b-	.
-16dd-	.
+16dd-Jk	.
 16r	.
 =2	=2
-8ee-	A-/C
+8ee-L	A- major/C
 8dd-	.
 8cc	.
-16ee-	.
+16ee-Jk	.
 16r	.
-8ff	D-
+8ffL	D- major
 8ee-	.
 8dd-	.
-16ff	.
+16ffJk	.
 16r	.
 =3	=3
-8e-	A-/E-
+8e-L	A- major/E-
 8d-	.
 8c	.
-16d-	.
+16d-Jk	.
 16r	.
-8en	C7/E
+8enL	C dominant/E
 8f	.
 8g	.
-16en	.
+16enJk	.
 16r	.
 =4	=4
-8a-	Fm
+8a-L	F minor
 8g	.
 8f	.
-16a-	.
+16a-Jk	.
 16r	.
-8g	Gdim7/E
+8gL	G diminished-seventh/E
 8a-	.
 8b-	.
-16g	.
+16gJk	.
 16r	.
 =5	=5
-8a-	A-/E-
+8a-L	A- major/E-
 8b-	.
 8cc	.
-16a-	.
+16a-Jk	.
 16r	.
-8b-	E-
+8b-L	E- major
 8a-	.
 8g	.
-8b-	.
+8b-J	.
 =6	=6
-8a-	A-
+8a-	A- major
 16r	.
-48ccc	.
+48cccLLL	.
 48ddd-	.
-48dddn	.
-8eee-	.
+48dddnJJ	.
+8eee-J	.
 6...r	.
-48b-	.
+48b-LLL	.
 48cc	.
-48dd-	.
-8ddn	.
+48dd-JJ	.
+8ddnJ	.
 8r	.
 ==	==
 *-	*-

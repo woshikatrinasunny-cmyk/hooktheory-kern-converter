@@ -16,64 +16,64 @@
 *A:	*
 *M4/4	*
 =1	=1
-8r	A
-16e	.
-16e	.
+8r	A major
+16eLL	.
+16eJ	.
 8e	.
-8e	.
+8eJ	.
 4e	.
-8e	.
-8fn	.
+8eL	.
+8fnJ	.
 =2	=2
-8d	Dm
-8d	.
-4r	Fadd(4,9,11)/D
-4r	Dm/F
-4r	G7sus2
+8dL	D minor
+8dJ	.
+4r	F other-4,9,11/D
+4r	D minor/F
+4r	G dominant-seventh-suspended-second
 =3	=3
-8r	A
-16e	.
-16e	.
-8e	A/E
-8e	.
-4e	A/C#
-8e	A
-8fn[	.
+8r	A major
+16eLL	.
+16eJ	.
+8e	A major/E
+8eJ	.
+4e	A major/C#
+8eL	A major
+[8fnJ	.
 =4	=4
 *k[]	*
 *C:	*
-8f]	Dm
+8f]	D minor
 8r	.
-4r	Dm7/C
-4r	Bm7b5
-4r	Dm/A
+4r	D minor-seventh/C
+4r	B half-diminished
+4r	D minor/A
 =5	=5
-8f	G7
+8fL	G dominant
 8f	.
-8f	G7/B
-8f	.
-4f	G7/D
-8e	G7
-8e[	.
+8f	G dominant/B
+8fJ	.
+4f	G dominant/D
+8eL	G dominant
+[8eJ	.
 =6	=6
-8e]	C
-8c	.
+8eL]	C major
+8cJ	.
 8r	.
-4.r	Cmaj7/B
-4r	Am7
+4.r	C major-seventh/B
+4r	A minor-seventh
 =7	=7
-8f	G7
+8fL	G dominant
 8f	.
-8f	G7/D
-8e	.
-4g	G7
-8f	.
-8f	.
+8f	G dominant/D
+8eJ	.
+4g	G dominant
+8fL	.
+8fJ	.
 =8	=8
 *M2/4	*
-8e	C
-8r	C/E
-8r	C/G
-8r	A
+8e	C major
+8r	C major/E
+8r	C major/G
+8r	A major
 ==	==
 *-	*-

@@ -15,66 +15,66 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4r	F#
-16a#	.
+4r	F# major
+16a#LL	.
 16b	.
 16cc#	.
-16cc#[	.
-8cc#]	C#/E#
+[16cc#JJ	.
+8cc#L]	C# major/E#
 8ff#	.
 8ee#	.
-8ff#	.
+8ff#J	.
 =2	=2
-8gg#	D#m
-16aa#	.
-6...ff#[	.
-4.ff#]	F#/C#
-16ee#	.
-16ff#	.
+8gg#L	D# minor
+16aa#Jk	.
+[6...ff#	.
+4.ff#]	F# major/C#
+16ee#LL	.
+16ff#JJ	.
 =3	=3
-8.ccc#	B
-16ff#	.
-4ff#[	.
-4.ff#]	Cdim
-16ff#	.
-16ff#	.
+8.ccc#L	B major
+16ff#Jk	.
+[4ff#	.
+4.ff#]	C diminished
+16ff#LL	.
+16ff#JJ	.
 =4	=4
-6...ff#	C#sus4
-16gg#	.
+6...ff#	C# suspended-fourth
+16gg#LL	.
 16ff#	.
-16ee#[	.
-2ee#]	C#
+[16ee#JJ	.
+2ee#]	C# major
 =5	=5
-6...a#	F#
-16g#	.
+6...a#	F# major
+16g#LL	.
 16f#	.
-16cc#[	.
-4cc#]	C#m/E
-8ff#	.
-8gg#	.
+[16cc#JJ	.
+4cc#]	C# minor/E
+8ff#L	.
+8gg#J	.
 =6	=6
-8.bb	B/D#
-16aa#	.
-4aa#[	.
-4aa#]	Bm/D
-8ccc#	.
-8bb	.
+8.bbL	B major/D#
+16aa#Jk	.
+[4aa#	.
+4aa#]	B minor/D
+8ccc#L	.
+8bbJ	.
 =7	=7
-16aa#	F#/C#
+16aa#LL	F# major/C#
 16bb	.
-16aa#	.
+16aa#J	.
 8ff#	.
-8.cc#[	.
-16cc#]	Cdim
+[8.cc#J	.
+16cc#LL]	C diminished
 16gg#	.
 16ff#	.
 16ee#	.
-16dd#	C#
-8.ee#	.
+16dd#J	C# major
+8.ee#J	.
 =8	=8
-8.ff#	D
-8.ff#	E
-8ff#	F#
+8.ff#L	D major
+8.ff#	E major
+8ff#J	F# major
 2r	.
 ==	==
 *-	*-

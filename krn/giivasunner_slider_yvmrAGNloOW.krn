@@ -16,102 +16,102 @@
 *D:	*
 *M4/4	*
 =1	=1
-4a	D
+4a	D major
 8d	.
 4r	.
 4dd	.
 8b	.
 =2	=2
-4a	D7
+4a	D dominant
 8d	.
 4r	.
 4a	.
 8g	.
 =3	=3
-16f#	G
+16f#	G major
 16r	.
-8f#	.
+8f#L	.
 8g	.
-8a	.
+8aJ	.
 4d	.
 4e	.
 =4	=4
-1f#	G#dim7
+1f#	G# diminished-seventh
 =5	=5
-4a	Dmaj7/F#
+4a	D major-seventh/F#
 8d	.
 4r	.
 4dd	.
 8b	.
 =6	=6
-4a	F13
+4a	F dominant-13th
 8d	.
 4r	.
 4a	.
 8g	.
 =7	=7
-16f#	Em7
+16f#	E minor-seventh
 16r	.
-8f#	.
+8f#L	.
 8g	.
-8a	.
+8aJ	.
 4d	.
 4e	.
 =8	=8
-2.d	A7
+2.d	A dominant
 4r	.
 =9	=9
-4cc#	D
+4cc#	D major
 8f#	.
 4r	.
 4dd	.
 8cc#	.
 =10	=10
-16cc#	D#dim7
+16cc#	D# diminished-seventh
 16r	.
+8bL	.
 8b	.
-8b	.
-8cc#	.
+8cc#J	.
 4.b	.
 8r	.
 =11	=11
-4b	Em7
+4b	E minor-seventh
 8e	.
 4r	.
 4cc#	.
 8b	.
 =12	=12
-16b	Fdim7
+16b	F diminished-seventh
 16r	.
+8aL	.
 8a	.
-8a	.
-8b	.
+8bJ	.
 4.a	.
 8r	.
 =13	=13
-4a	Dmaj7/F#
+4a	D major-seventh/F#
 8d	.
 8r	.
-8r	F7
+8r	F dominant
 4dd	.
 8b	.
 =14	=14
-4a	Em7
+4a	E minor-seventh
 8d	.
 8r	.
-8r	D#7
+8r	D# dominant
 4a	.
 8g	.
 =15	=15
-16f#	Dmaj7
+16f#	D major-seventh
 16r	.
-8f#	.
+8f#L	.
 8g	.
-8a	.
-4d	Badd(2,3,7)
+8aJ	.
+4d	B other-2,3,7
 4e	.
 =16	=16
-2d	A#maj9
-2r	D#maj7sus2
+2d	A# major-ninth
+2r	D# major-seventh-suspended-second
 ==	==
 *-	*-

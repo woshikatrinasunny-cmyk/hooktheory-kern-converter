@@ -15,50 +15,50 @@
 *A:	*
 *M4/4	*
 =1	=1
-2r	A
-2r	C#m
+2r	A major
+2r	C# minor
 =2	=2
-2r	G
-2r	Bm
+2r	G major
+2r	B minor
 =3	=3
-4r	A
+4r	A major
+16ALL	.
 16A	.
 16A	.
-16A	.
-16e[	.
-4e]	C#m
+[16eJJ	.
+4e]	C# minor
 4r	.
 =4	=4
-4r	G
-16d	.
-16c#	.
-8B	.
-16A	Bm
-16A	.
+4r	G major
+16dLL	.
+16c#J	.
+8BJ	.
+16ALL	B minor
+16AJJ	.
 4A	.
-8A[	.
+[8A	.
 =5	=5
-4A]	A
+4A]	A major
 4r	.
-2r	C#m
+2r	C# minor
 =6	=6
-2r	G
-2r	Bm
+2r	G major
+2r	B minor
 =7	=7
-4r	A
+4r	A major
+16ALL	.
 16A	.
 16A	.
-16A	.
-16e[	.
-4e]	C#m
+[16eJJ	.
+4e]	C# minor
 4r	.
 =8	=8
-4r	G
-16d	.
-16c#	.
-8B	.
-16A	Bm
-16A	.
+4r	G major
+16dLL	.
+16c#J	.
+8BJ	.
+16ALL	B minor
+16AJJ	.
 4A	.
 8A	.
 ==	==

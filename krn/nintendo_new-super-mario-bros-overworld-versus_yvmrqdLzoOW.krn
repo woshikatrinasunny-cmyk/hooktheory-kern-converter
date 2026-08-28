@@ -16,77 +16,77 @@
 *C:	*
 *M4/4	*
 =1	=1
-1d	Dm9
+1d	D minor-ninth
 =2	=2
-2ee	Fmaj7
+2ee	F major-seventh
 8r	.
-16ee	.
+16eeLL	.
 16ff	.
 16ff#	.
 16gg	.
 16ee	.
-16cc	.
+16ccJJ	.
 =3	=3
-8.b	Em
-16a	.
+8.bL	E minor
+16ak	.
 8.b	.
-16a	.
-8.b	.
-16a	.
+16aJk	.
+8.bL	.
+16aL	.
 16b	.
-16cc	.
-8dd	.
+16ccJ	.
+8ddJ	.
 =4	=4
-16b	A7
+16b	A dominant
 16r	.
 16b	.
 6...a	.
 6...r	.
-16a	.
+16aLL	.
 16b	.
-16a	.
+16aJJ	.
 =5	=5
-8f	Fmaj7
-16f	.
+8fL	F major-seventh
+16fL	.
 16e	.
 16f	.
 16a	.
-16cc	.
-8.dd#	Fm7
-8dd	.
+16ccJJ	.
+8.dd#	F minor-seventh
+8ddL	.
 8cc	.
-8dd	.
+8ddJ	.
 =6	=6
-8ee	Em7
-16ee	.
+8eeL	E minor-seventh
+16eeL	.
 16dd	.
 16ee	.
 16ff	.
-16gg	.
-8bb	A7
-16bb	.
-8aa#	.
+16ggJJ	.
+8bb	A dominant
+16bbLK	.
+8aa#J	.
 4aa	.
 =7	=7
-8r	F#m7b5
-16bb	.
-8ccc	B
+8r	F# half-diminished
+16bbLK	.
+8ccc	B major
 8bb	.
-16ddd	Em7
+16dddJk	E minor-seventh
 16r	.
-16ccc	.
+16cccLL	.
 16bb	.
-16ccc	.
-8gg	A7
-16dd	.
-16dd#	.
+16cccJ	.
+8gg	A dominant
+16ddL	.
+16dd#JJ	.
 =8	=8
-16ee	D7
+16eeLK	D dominant
 8ee	.
 8ee	.
-16cc	.
-8ee	.
-8gg	Gaug
+16cck	.
+8eeJ	.
+8gg	G augmented
 4.r	.
 ==	==
 *-	*-

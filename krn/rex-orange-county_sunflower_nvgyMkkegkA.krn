@@ -16,56 +16,56 @@
 *F#:	*
 *M6/4	*
 =1	=1
-2.A#	G#m9
+2.A#	G# minor-ninth
 2.A#	.
 =2	=2
-3...E#	C#add(1,4,5,7,9,10)
+3...E#	C# other-1,4,5,7,9,10
 8r	.
 4A#	.
 4B	.
 4c#	.
 =3	=3
-2.A#	F#maj7
+2.A#	F# major-seventh
 4A#	.
 4B	.
 4c#	.
 =4	=4
-2A#	F#7
+2A#	F# dominant
 8r	.
 8F#	.
 4A#	.
 4G#	.
 4F#	.
 =5	=5
-2D#	Bmaj7
+2D#	B major-seventh
 8r	.
 8D#	.
 4A#	.
 4G#	.
 4F#	.
 =6	=6
-2G#	C#
+2G#	C# major
 8r	.
 8F#	.
-4dn	A#7
+4dn	A# dominant
 8A#	.
 8.G#	.
 8.An	.
 =7	=7
-2A#	Bmaj7
+2A#	B major-seventh
 16r	.
-16G#	.
-8F#	.
-8A#	Cm7b5
-8G#	.
+16G#LK	.
+8F#J	.
+8A#L	C half-diminished
+8G#J	.
 8r	.
 8F#	.
-8F#	.
-8G#[	.
+8F#L	.
+[8G#J	.
 =8	=8
-8G#]	Bmaj7
-16A#	.
-16G#	.
+8G#L]	B major-seventh
+16A#L	.
+16G#JJ	.
 2G#	.
 4D#	.
 2r	.

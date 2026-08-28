@@ -16,52 +16,52 @@
 *a:	*
 *M4/4	*
 =1	=1
-2a[	F
-4a]	G
-8b	.
-8cc	.
+[2a	F major
+4a]	G major
+8bL	.
+8ccJ	.
 =2	=2
-2b[	E/G#
-4b]	Am/C
-8cc	.
-8dd	.
+[2b	E major/G#
+4b]	A minor/C
+8ccL	.
+8ddJ	.
 =3	=3
-4.cc	F
-8dd[	.
-8dd]	G/B
+4.cc	F major
+[8dd	.
+8ddL]	G major/B
 8ee	.
 8aa	.
-8ccc[	.
+[8cccJ	.
 =4	=4
-8ccc]	Aadd(2,3,7)
+8cccL]	A other-2,3,7
 8ee	.
 8bb	.
-8ee	.
-8gg	Cmaj9
-8cc	.
+8eeJ	.
+8ggL	C major-ninth
+8ccJ	.
 4dd	.
 =5	=5
-2ee[	F
-4ee]	G
-8dd	.
-8ee	.
+[2ee	F major
+4ee]	G major
+8ddL	.
+8eeJ	.
 =6	=6
-2a	E/G#
-4.aa	Am/C
-16dd	.
-16ee	.
+2a	E major/G#
+4.aa	A minor/C
+16ddLL	.
+16eeJJ	.
 =7	=7
-8gg	F
+8ggL	F major
 8ee	.
 8gg	.
-8aa	.
-8ddd	G/B
+8aaJ	.
+8dddL	G major/B
 8ccc	.
 8bb	.
-8gg[	.
+[8ggJ	.
 =8	=8
-8gg]	A
-8aa	.
+8ggL]	A major
+8aaJ	.
 2.aa	.
 ==	==
 *-	*-

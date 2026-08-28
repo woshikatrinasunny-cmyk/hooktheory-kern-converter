@@ -16,52 +16,52 @@
 *C:	*
 *M6/4	*
 =1	=1
-4.dd	Dm
+4.dd	D minor
 8ee	.
 4dd	.
-4.cc	C
+4.cc	C major
 8dd	.
 4cc	.
 =2	=2
-4cc	G
-1b[	.
+4cc	G major
+[1b	.
 4b]	.
 =3	=3
-4.dd	Dm
+4.dd	D minor
 8ee	.
 4dd	.
-4.cc	Dm7/C
+4.cc	D minor-seventh/C
 8dd	.
 4cc	.
 =4	=4
-4gg	G
-1dd[	.
+4gg	G major
+[1dd	.
 4dd]	.
 =5	=5
-4.dd	Dm
+4.dd	D minor
 8ee	.
 4dd	.
-4.cc	C
+4.cc	C major
 8dd	.
 4cc	.
 =6	=6
-4cc	G
+4cc	G major
 2b	.
 4b	.
 4a	.
 4g	.
 =7	=7
-4.dd	Dm
+4.dd	D minor
 8ee	.
 4dd	.
-4.ee	Dm7/C
+4.ee	D minor-seventh/C
 8ff	.
 4ee	.
 =8	=8
-4.gg	G7/D
+4.gg	G dominant/D
 8aa	.
 4gg	.
-4.aa	G
+4.aa	G major
 8aa	.
 4bb	.
 ==	==

@@ -16,74 +16,74 @@
 *C:	*
 *M6/4	*
 =1	=1
-1c[	Am
-8c]	.
-8G	.
-8c	.
-8d#	.
+[1c	A minor
+8cL]	.
+8GJ	.
+8cL	.
+8d#J	.
 =2	=2
-1.d	Aadd(2,4,5,7,11)
+1.d	A other-2,4,5,7,11
 =3	=3
-1c[	Am
-8c]	.
-8G	.
-8c	.
-8d#	.
+[1c	A minor
+8cL]	.
+8GJ	.
+8cL	.
+8d#J	.
 =4	=4
-1.d	Aadd(2,4,5,7,11)
+1.d	A other-2,4,5,7,11
 =5	=5
-1c[	C/G
-8c]	.
-8G	.
-8c	.
-8e	.
+[1c	C major/G
+8cL]	.
+8GJ	.
+8cL	.
+8eJ	.
 =6	=6
-1.d	Ddim/F
+1.d	D diminished/F
 =7	=7
-1c[	C/E
-8c]	.
-8G	.
-8c	.
-8e	.
+[1c	C major/E
+8cL]	.
+8GJ	.
+8cL	.
+8eJ	.
 =8	=8
-4.d[	Dm
-4.d_	Em
-4.d_	F
-4.d]	G
+[4.d	D minor
+4.d_	E minor
+4.d_	F major
+4.d]	G major
 =9	=9
-1cc[	C
-8cc]	.
-8b	.
+[1cc	C major
+8ccL]	.
+8bJ	.
 8r	.
 8cc	.
 =10	=10
-1dd[	D7/C
+[1dd	D dominant/C
 8dd]	.
 4.cc	.
 =11	=11
-1b[	G7/F
-8b]	.
-8a	.
+[1b	G dominant/F
+8bL]	.
+8aJ	.
 8r	.
 8b	.
 =12	=12
-4.cc[	C/E
-4.cc]	Dm7
-4.g[	C
-4.g]	G/B
+[4.cc	C major/E
+4.cc]	D minor-seventh
+[4.g	C major
+4.g]	G major/B
 =13	=13
-1f[	A#sus2
-8f]	.
-8g	.
+[1f	A# suspended-second
+8fL]	.
+8gJ	.
 8r	.
 8f	.
 =14	=14
-2.e	Am7
+2.e	A minor-seventh
 2.c	.
 =15	=15
-1.d#	Fm7/G#
+1.d#	F minor-seventh/G#
 =16	=16
-2.c	Csus4/G
-2.B	G7
+2.c	C suspended-fourth/G
+2.B	G dominant
 ==	==
 *-	*-

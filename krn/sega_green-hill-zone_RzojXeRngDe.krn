@@ -15,24 +15,24 @@
 *C:	*
 *M4/4	*
 =1	=1
-16a	.
+16aLL	.
 16f	.
 16a	.
 16f	.
 16b	.
 16g	.
 16b	.
-16g	.
-16cc	.
+16gJJ	.
+16ccLL	.
 16a	.
 16cc	.
 16a	.
 16dd	.
 16b	.
 16dd	.
-16b	.
+16bJJ	.
 =2	=2
-4b	Cmaj7
+4b	C major-seventh
 8r	.
 4a	.
 8r	.
@@ -50,14 +50,14 @@
 8r	.
 4b	.
 8r	.
-4a[	.
+[4a	.
 =5	=5
 4a_	.
 4a_	A
 4a_	A#
 4a]	B
 =6	=6
-4a	Cmaj7
+4a	C major-seventh
 8r	.
 4b	.
 8r	.
@@ -73,7 +73,7 @@
 =8	=8
 4cc	.
 8r	.
-3...b[	.
+[3...b	.
 =9	=9
 1b]	.
 =10	=10

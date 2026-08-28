@@ -16,66 +16,66 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8dd	B-
+8dd	B- major
 4dd	.
-16dd	.
-16ee-	.
+16ddLL	.
+16ee-JJ	.
 8ff	.
 4.bb-	.
 =2	=2
-16ccc	A-
-16bbn	.
+16cccLL	A- major
+16bbnJJ	.
 4.ccc	.
 8ccc	.
 4aa-	.
 8eee-	.
 =3	=3
-16ddd	Gm
-16eee-	.
+16dddLL	G minor
+16eee-JJ	.
 4ddd	.
 8ccc	.
 4bb-	.
 4gg	.
 =4	=4
-8gg-	E-m
+8gg-L	E- minor
 8ee-	.
 8.gg-	.
-16bb-[	.
-16bb-]	F
-16bb-	.
+[16bb-Jk	.
+16bb-LL]	F major
+16bb-J	.
 8aa	.
 8gg	.
-8aa	.
+8aaJ	.
 =5	=5
-8bb-	B-
+8bb-	B- major
 4dd	.
-16dd	.
-16ee-	.
+16ddLL	.
+16ee-JJ	.
 8ff	.
 4.bb-	.
 =6	=6
-16ccc	A-
-16bbn	.
+16cccLL	A- major
+16bbnJJ	.
 4.ccc	.
 8ccc	.
 4aa-	.
 8eee-	.
 =7	=7
-16ddd	B-
-16eee-	.
+16dddLL	B- major
+16eee-JJ	.
 4ddd	.
 8ccc	.
 4bb-	.
 4ff	.
 =8	=8
-8gg	E-
+8ggL	E- major
 8ee-	.
 8.gg	.
-16bb-[	.
-16bb-]	F
-16bb-	.
+[16bb-Jk	.
+16bb-LL]	F major
+16bb-J	.
 8aa	.
 8gg	.
-8aa	.
+8aaJ	.
 ==	==
 *-	*-

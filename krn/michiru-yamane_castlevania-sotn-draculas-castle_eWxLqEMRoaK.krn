@@ -16,29 +16,29 @@
 *b:	*
 *M4/4	*
 =1	=1
-1cc#[	Badd(2,3,7)
+[1cc#	B other-2,3,7
 =2	=2
 1cc#]	.
 =3	=3
-1a	Gadd(2,3,7)
+1a	G other-2,3,7
 =4	=4
-2g	Gm
-2a	Gadd(2,3,7)
+2g	G minor
+2a	G other-2,3,7
 =5	=5
-1cc#[	Badd(2,3,7)
+[1cc#	B other-2,3,7
 =6	=6
 2cc#]	.
 4b	.
 4cc#	.
 =7	=7
-2dd	Cadd(2,3,7)
+2dd	C other-2,3,7
 4ccn	.
 4dd	.
 =8	=8
 2ffn	.
 2dd#	.
 =9	=9
-1dd[	D
+[1dd	D major
 =10	=10
 1dd]	.
 ==	==

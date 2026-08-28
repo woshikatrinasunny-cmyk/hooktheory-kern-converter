@@ -16,77 +16,77 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.c	C
-8c[	.
-4c]	Cmaj7/B
-4c[	.
+4.c	C major
+[8c	.
+4c]	C major-seventh/B
+[4c	.
 =2	=2
-2c]	Am
-2r	Am7/C
+2c]	A minor
+2r	A minor-seventh/C
 =3	=3
-4r	Dm
-4c[	.
-4c]	Dm/A
+4r	D minor
+[4c	.
+4c]	D minor/A
 4B	.
 =4	=4
-4A	G
+4A	G major
 4B	.
-4c	G/B
+4c	G major/B
 4d	.
 =5	=5
-4.e	C
-8e[	.
-4e]	Cmaj7/B
-4e[	.
+4.e	C major
+[8e	.
+4e]	C major-seventh/B
+[4e	.
 =6	=6
-2e]	Am
-2r	Am7/C
+2e]	A minor
+2r	A minor-seventh/C
 =7	=7
-4r	Dm
+4r	D minor
 4e	.
-4d	Dm/A
+4d	D minor/A
 4c	.
 =8	=8
-4.d	G
-8e[	.
-8.e]	G/B
+4.d	G major
+[8e	.
+8.e]	G major/B
 6...f	.
 =9	=9
-4g	C
-4c[	.
-2c_	Cmaj7/B
+4g	C major
+[4c	.
+2c_	C major-seventh/B
 =10	=10
-4c]	Am
+4c]	A minor
 4r	.
-2r	Am7/C
+2r	A minor-seventh/C
 =11	=11
-4r	Dm
-4a[	.
-8a]	Dm/A
+4r	D minor
+[4a	.
+8a]	D minor/A
 6...g	.
-16f[	.
+[16f	.
 =12	=12
-6...f]	G
-8.e[	.
-8.e]	G/B
+6...f]	G major
+[8.e	.
+8.e]	G major/B
 6...d	.
 =13	=13
-2c	C
-2r	Cmaj7/B
+2c	C major
+2r	C major-seventh/B
 =14	=14
-4r	Am
-4d[	.
-8d]	Am7/C
-8e	.
-4f[	.
+4r	A minor
+[4d	.
+8dL]	A minor-seventh/C
+8eJ	.
+[4f	.
 =15	=15
-8f]	Dm
+8f]	D minor
 4.g	.
-4.f	Dm/A
+4.f	D minor/A
 8e	.
 =16	=16
-4d	G
+4d	G major
 4r	.
-2r	G/B
+2r	G major/B
 ==	==
 *-	*-

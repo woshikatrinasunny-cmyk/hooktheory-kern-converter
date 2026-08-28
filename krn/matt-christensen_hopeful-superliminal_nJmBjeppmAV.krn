@@ -16,106 +16,106 @@
 *F:	*
 *M3/4	*
 =1	=1
-4cc	F
+4cc	F major
 4a	.
 4cc	.
 =2	=2
-4dd-	A13
-4a	Aadd(4,7,8,10)
+4dd-	A dominant-13th
+4a	A other-4,7,8,10
 4r	.
 =3	=3
-4f	Dm9
+4f	D minor-ninth
 4a	.
-8e	Fadd(4,6,7,11)
-8e-	Fadd(4,6,7,10)
+8eL	F other-4,6,7,11
+8e-J	F other-4,6,7,10
 =4	=4
-8d	Gm
-8g	.
-4c	C7
+8dL	G minor
+8gJ	.
+4c	C dominant
 4r	.
 =5	=5
-4r	Gm11
-8cc	.
-8dd	.
-8.dd	.
-16b-	.
+4r	G minor-11th
+8ccL	.
+8ddJ	.
+8.ddL	.
+16b-Jk	.
 =6	=6
-4cc	C9
+4cc	C dominant-ninth
 4r	.
-4ff	C11
+4ff	C dominant-11th
 =7	=7
-8ee	Fadd(3,6,7,11)
-24Bn	.
+8eeL	F other-3,6,7,11
+24BnL	.
 24e	.
-24a-	.
-16ee	.
+24a-JJ	.
+16eeLL	.
 16ee	.
 16aa-	.
-16eee	.
-16eee	.
+16eeeJJ	.
+16eeeLL	.
 16aa-	.
 16ee	.
-16eee	.
+16eeeJJ	.
 =8	=8
-4ddd	Dm7/F
-4aa	F
-4g	C9
+4ddd	D minor-seventh/F
+4aa	F major
+4g	C dominant-ninth
 =9	=9
-4cc	Dadd(3,5,7,10)/F
-4a	Fmaj7
+4cc	D other-3,5,7,10/F
+4a	F major-seventh
 4cc	.
 =10	=10
-4dd-	A13
-4a	Aadd(4,7,8,10)
+4dd-	A dominant-13th
+4a	A other-4,7,8,10
 4r	.
 =11	=11
-4f	Dm9
+4f	D minor-ninth
 4a	.
-8Bn	G7/F
-8e	.
+8BnL	G dominant/F
+8eJ	.
 =12	=12
-8d	Gm7/F
-8g	.
-4c	Fsus4
-4r	Cadd(1,4,7,10)
+8dL	G minor-seventh/F
+8gJ	.
+4c	F suspended-fourth
+4r	C other-1,4,7,10
 =13	=13
-16r	Gm11
-16D	.
+16r	G minor-11th
+16DLL	.
 16F	.
-16d	.
-16d-	.
+16dJJ	.
+16d-LL	.
 16d	.
 16f	.
-16a	.
-8cc	.
-8dd	.
+16aJJ	.
+8ccL	.
+8ddJ	.
 =14	=14
-8dd	C11
-32cc	.
-32bn	.
-16b-	.
-8cc	C9
-8d	.
-8.g	C7
-16dd	.
+8ddL	C dominant-11th
+32ccLL	.
+32bnJ	.
+16b-JJ	.
+8ccL	C dominant-ninth
+8dJ	.
+8.gL	C dominant
+16ddJk	.
 =15	=15
-8ee	Fadd(3,6,7,11)
-24Bn	.
+8eeL	F other-3,6,7,11
+24BnL	.
 24e	.
-24a-	.
-16ee	.
+24a-JJ	.
+16eeLL	.
 16ee	.
 16aa-	.
-16eee	.
-16eee	.
+16eeeJJ	.
+16eeeLL	.
 16aa-	.
 16eee-	.
-16ee	.
+16eeJJ	.
 =16	=16
-8ddd	Dm7/F
-8ccc	.
-4ccc	F
-8g	Cm9
-8a	B7
+8dddL	D minor-seventh/F
+8cccJ	.
+4ccc	F major
+8gL	C minor-ninth
+8aJ	B dominant
 ==	==
 *-	*-

@@ -15,7 +15,7 @@
 *b-:	*
 *M4/4	*
 =1	=1
-8.b-	B-m
+8.b-	B- minor
 16r	.
 8.cc	.
 16r	.
@@ -24,7 +24,7 @@
 8.b-	.
 16r	.
 =2	=2
-8.b-	B-m
+8.b-	B- minor
 16r	.
 8.cc	.
 16r	.
@@ -33,7 +33,7 @@
 8.b-	.
 16r	.
 =3	=3
-8.b-	B-m
+8.b-	B- minor
 16r	.
 8.cc	.
 16r	.
@@ -42,7 +42,7 @@
 8.b-	.
 16r	.
 =4	=4
-8.b-	B-m
+8.b-	B- minor
 16r	.
 8.cc	.
 16r	.
@@ -51,7 +51,7 @@
 8.b-	.
 16r	.
 =5	=5
-8.b-	G-
+8.b-	G- major
 16r	.
 8.ff	.
 16r	.
@@ -60,7 +60,7 @@
 8.ee-	.
 16r	.
 =6	=6
-8.b-	G-
+8.b-	G- major
 16r	.
 8.ff	.
 16r	.
@@ -69,7 +69,7 @@
 8.ee-	.
 16r	.
 =7	=7
-8.ee-	A-sus2
+8.ee-	A- suspended-second
 16r	.
 8.ff	.
 16r	.
@@ -78,9 +78,9 @@
 8.ccc	.
 16r	.
 =8	=8
-8ddd-	Fm/A-
+8ddd-L	F minor/A-
 8ccc	.
-8aa-	.
+8aa-J	.
 8r	.
 8.bb-	.
 16r	.

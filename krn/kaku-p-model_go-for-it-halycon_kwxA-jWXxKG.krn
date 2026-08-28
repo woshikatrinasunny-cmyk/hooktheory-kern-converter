@@ -16,84 +16,84 @@
 *C:	*
 *M4/4	*
 =1	=1
-8aaa#[	Caug
-8aaa#]	Cadd(6,8)/F#
-8c	Caug
-8gg#	Cadd(6,8)/F#
-8f#[	Caug
-8f#]	Cadd(6,8)/F#
-8C	Caug
-8d	Cadd(6,8)/F#
+[8aaa#L	C augmented
+8aaa#]	C other-6,8/F#
+8c	C augmented
+8gg#J	C other-6,8/F#
+[8f#L	C augmented
+8f#]	C other-6,8/F#
+8C	C augmented
+8dJ	C other-6,8/F#
 =2	=2
-8aa#[	Caug
-8aa#]	Cadd(6,8)/F#
-8f#	Caug
-8cc	Cadd(6,8)/F#
-8eee	Dadd(4,6,10)
-8dd	Dadd(4,6,10)/G#
-8aaaa#	Dadd(4,6,10)
-8ff#	Dadd(4,6,10)/G#
+[8aa#L	C augmented
+8aa#]	C other-6,8/F#
+8f#	C augmented
+8ccJ	C other-6,8/F#
+8eeeL	D other-4,6,10
+8dd	D other-4,6,10/G#
+8aaaa#	D other-4,6,10
+8ff#J	D other-4,6,10/G#
 =3	=3
-8aaa#[	Caug
-8aaa#]	Cadd(6,8)/F#
-8c	Caug
-8gg#	Cadd(6,8)/F#
-8f#[	Caug
-8f#]	Cadd(6,8)/F#
-8C	Caug
-8d	Cadd(6,8)/F#
+[8aaa#L	C augmented
+8aaa#]	C other-6,8/F#
+8c	C augmented
+8gg#J	C other-6,8/F#
+[8f#L	C augmented
+8f#]	C other-6,8/F#
+8C	C augmented
+8dJ	C other-6,8/F#
 =4	=4
-16aaaa#	Caug
+16aaaa#LL	C augmented
 16a#	.
-16aaaa#	Cadd(6,8)/F#
-16g#	.
-8aa#[	Caug
-8aa#]	Cadd(6,8)/F#
-16aaaa#	Dadd(4,6,10)
+16aaaa#	C other-6,8/F#
+16g#J	.
+[8aa#	C augmented
+8aa#J]	C other-6,8/F#
+16aaaa#LL	D other-4,6,10
 16a#	.
-16aaaa#	Dadd(4,6,10)/G#
-16g#	.
-8c[	Dadd(4,6,10)
-8c]	Dadd(4,6,10)/G#
+16aaaa#	D other-4,6,10/G#
+16g#J	.
+[8c	D other-4,6,10
+8cJ]	D other-4,6,10/G#
 =5	=5
-8aaa#[	Caug
-8aaa#]	Cadd(6,8)/F#
-8c	Caug
-8gg#	Cadd(6,8)/F#
-8f#[	Caug
-8f#]	Cadd(6,8)/F#
-8C	Caug
-8d	Cadd(6,8)/F#
+[8aaa#L	C augmented
+8aaa#]	C other-6,8/F#
+8c	C augmented
+8gg#J	C other-6,8/F#
+[8f#L	C augmented
+8f#]	C other-6,8/F#
+8C	C augmented
+8dJ	C other-6,8/F#
 =6	=6
-8aa#[	Caug
-8aa#]	Cadd(6,8)/F#
-8f#	Caug
-8cc	Cadd(6,8)/F#
-8eee	Dadd(4,6,10)
-8dd	Dadd(4,6,10)/G#
-8aaaa#	Dadd(4,6,10)
-8ff#	Dadd(4,6,10)/G#
+[8aa#L	C augmented
+8aa#]	C other-6,8/F#
+8f#	C augmented
+8ccJ	C other-6,8/F#
+8eeeL	D other-4,6,10
+8dd	D other-4,6,10/G#
+8aaaa#	D other-4,6,10
+8ff#J	D other-4,6,10/G#
 =7	=7
-8aaa#[	Caug
-8aaa#]	Cadd(6,8)/F#
-8c	Caug
-8gg#	Cadd(6,8)/F#
-8f#[	Caug
-8f#]	Cadd(6,8)/F#
-8C	Caug
-8d	Cadd(6,8)/F#
+[8aaa#L	C augmented
+8aaa#]	C other-6,8/F#
+8c	C augmented
+8gg#J	C other-6,8/F#
+[8f#L	C augmented
+8f#]	C other-6,8/F#
+8C	C augmented
+8dJ	C other-6,8/F#
 =8	=8
-16aaaa#	Caug
+16aaaa#LL	C augmented
 16a#	.
-16aaaa#	Cadd(6,8)/F#
-16g#	.
-8aa#[	Caug
-8aa#]	Cadd(6,8)/F#
-16aaaa#	Dadd(4,6,10)
+16aaaa#	C other-6,8/F#
+16g#J	.
+[8aa#	C augmented
+8aa#J]	C other-6,8/F#
+16aaaa#LL	D other-4,6,10
 16a#	.
-16aaaa#	Dadd(4,6,10)/G#
-16g#	.
-8c[	Dadd(4,6,10)
-8c]	Dadd(4,6,10)/G#
+16aaaa#	D other-4,6,10/G#
+16g#J	.
+[8c	D other-4,6,10
+8cJ]	D other-4,6,10/G#
 ==	==
 *-	*-

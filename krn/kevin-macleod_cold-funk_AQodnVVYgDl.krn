@@ -15,60 +15,60 @@
 *c:	*
 *M4/4	*
 =1	=1
-2r	Cm
-2r	Fm
+2r	C minor
+2r	F minor
 =2	=2
-2r	Cm
-2r	Fm
+2r	C minor
+2r	F minor
 =3	=3
-2r	Cm
-2r	A-
+2r	C minor
+2r	A- major
 =4	=4
-1r	G
+1r	G major
 =5	=5
-8C	Cm
+8CL	C minor
 8C	.
-8C	.
+8CJ	.
 8r	.
-8r	Fm/A-
-8A-	.
-16G	.
+8r	F minor/A-
+8A-L	.
+16GJk	.
 16r	.
 16F	.
 16r	.
 =6	=6
-8C	Cm
-16C	.
-16C	.
+8CL	C minor
+16CL	.
+16CJJ	.
 4r	.
-8r	Fm/A-
-8A-	.
-16G	.
+8r	F minor/A-
+8A-L	.
+16GJk	.
 16r	.
 16F	.
 16r	.
 =7	=7
-8C	Cm
-16C	.
-16C	.
+8CL	C minor
+16CL	.
+16CJJ	.
 4r	.
-8r	Fm/A-
-8A-	.
-16G	.
+8r	F minor/A-
+8A-L	.
+16GJk	.
 16r	.
 16F	.
 16r	.
 =8	=8
-8GG	G
-16GG	.
-16GG	.
+8GGL	G major
+16GGL	.
+16GGJJ	.
 8r	.
+16GGLL	.
+[16GGJJ	.
+16GGLL]	G dominant
 16GG	.
-16GG[	.
-16GG]	G7
 16GG	.
-16GG	.
-16GG	.
+16GGJJ	.
 4BBn	.
 ==	==
 *-	*-

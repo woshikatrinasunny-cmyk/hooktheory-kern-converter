@@ -15,42 +15,42 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4r	G#m
+4r	G# minor
 4g#	.
 4.dd#	.
 8g#	.
 =2	=2
-8cc#	C#
+8cc#	C# major
 16r	.
 16dd#	.
 2.ee#	.
 =3	=3
-4r	G#m
-8G#	.
-8A#	.
+4r	G# minor
+8G#L	.
+8A#J	.
 4.B	.
-16A#	.
-16G#	.
+16A#LL	.
+16G#JJ	.
 =4	=4
-4c#	A
-8.An	.
-16c#	.
+4c#	A major
+8.AnL	.
+16c#Jk	.
 4.d#	.
-16c#	.
-16d#	.
+16c#LL	.
+16d#JJ	.
 =5	=5
 4.en	.
-16d#	.
-16en	.
+16d#LL	.
+16enJJ	.
 2f#	.
 =6	=6
-1r	C#m
+1r	C# minor
 =7	=7
 1r	.
 =8	=8
-1r	A
+1r	A major
 =9	=9
-2r	D#sus4
-2r	D#
+2r	D# suspended-fourth
+2r	D# major
 ==	==
 *-	*-

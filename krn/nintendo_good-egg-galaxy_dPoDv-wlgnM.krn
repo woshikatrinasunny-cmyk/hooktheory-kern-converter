@@ -16,64 +16,64 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.c	C
+4.c	C major
 4.G	.
 4g	.
 =2	=2
-4.g	C/E
+4.g	C major/E
 4.c	.
 4g	.
 =3	=3
-4.g	Fadd(2,4,7)
+4.g	F other-2,4,7
 4.f	.
 4A	.
 =4	=4
-2.f	A#
+2.f	A# major
 4g	.
 =5	=5
-2e	Am7
+2e	A minor-seventh
 4G	.
 4c	.
 =6	=6
-3...c	Fm7/G#
-8d#	.
+3...c	F minor-seventh/G#
+8d#L	.
 8d	.
-8c	.
+8cJ	.
 =7	=7
-1c	Gadd(2,5,7)
+1c	G other-2,5,7
 =8	=8
-3...B	G
-8g	.
+3...B	G major
+8gL	.
 8cc	.
-8b	.
+8bJ	.
 =9	=9
-4.cc	C
+4.cc	C major
 4.g	.
 4gg	.
 =10	=10
-4.gg	C/E
+4.gg	C major/E
 4.cc	.
 4gg	.
 =11	=11
-4.gg	Fadd(2,4,7)
+4.gg	F other-2,4,7
 4.ff	.
 4a	.
 =12	=12
-2.ff	A#7
+2.ff	A# dominant
 4gg	.
 =13	=13
-2ee	Am7
+2ee	A minor-seventh
 4g	.
 4cc	.
 =14	=14
-3...cc	Fm7/G#
-8dd#	.
+3...cc	F minor-seventh/G#
+8dd#L	.
 8dd	.
-8cc	.
+8ccJ	.
 =15	=15
-2.cc	G7sus4
-4b	G7
+2.cc	G dominant-seventh-suspended-fourth
+4b	G dominant
 =16	=16
-1cc	C
+1cc	C major
 ==	==
 *-	*-

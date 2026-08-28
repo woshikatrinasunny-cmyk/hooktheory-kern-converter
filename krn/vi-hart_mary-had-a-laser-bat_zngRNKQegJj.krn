@@ -16,26 +16,26 @@
 *C:	*
 *M4/4	*
 =1	=1
-4e	C
+4e	C major
 4e	.
 4c	.
 4d	.
 =2	=2
-4d#	Cm
+4d#	C minor
 4d#	.
 2d#	.
 =3	=3
-4d	G/B
+4d	G major/B
 4d	.
 2d	.
 =4	=4
-4d#	G#/C
+4d#	G# major/C
 4g#	.
-2g#	C#
+2g#	C# major
 =5	=5
-4f	C#/F
+4f	C# major/F
 4c#	.
-4B	G/B
+4B	G major/B
 4g	.
 =6	=6
 4f#	.
@@ -43,35 +43,35 @@
 4g	.
 4g	.
 =7	=7
-4g	Cm/G
+4g	C minor/G
 4A#	.
 4A#	.
 4A#	.
 =8	=8
-4A#	Am/C
+4A#	A minor/C
 2A	.
 4A	.
 =9	=9
-4e	Am/E
+4e	A minor/E
 4e	.
 4c	.
 4d	.
 =10	=10
-4d#	Cm/D#
+4d#	C minor/D#
 4d#	.
 2d#	.
 =11	=11
-4d	G/D
+4d	G major/D
 4d	.
 2d	.
 =12	=12
-4d#	G#/C
+4d#	G# major/C
 4g#	.
-2g#	C#/F
+2g#	C# major/F
 =13	=13
 4f	.
 4c#	.
-4B	G/D
+4B	G major/D
 4g	.
 =14	=14
 4f#	.
@@ -79,12 +79,12 @@
 4g	.
 4g	.
 =15	=15
-4g	D#
+4g	D# major
 4A#	.
 4A#	.
 4A#	.
 =16	=16
-4A#	Am/E
+4A#	A minor/E
 2.A	.
 ==	==
 *-	*-

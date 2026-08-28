@@ -17,40 +17,40 @@
 *M4/4	*
 =1	=1
 2..r	.
-8a#[	D#m
+[8a#	D# minor
 =2	=2
 4.a#]	.
-2f#	D#m7
-8d#[	D#m
+2f#	D# minor-seventh
+[8d#	D# minor
 =3	=3
 2..d#]	.
-8a#[	D#m
+[8a#	D# minor
 =4	=4
 4.a#]	.
-2f#	D#m7
-8d#[	D#m
+2f#	D# minor-seventh
+[8d#	D# minor
 =5	=5
 2..d#]	.
-8a#[	D#m
+[8a#	D# minor
 =6	=6
 4.a#]	.
-2cc#	D#m7
-8ccn[	E#m7/D#
+2cc#	D# minor-seventh
+[8ccn	E# minor-seventh/D#
 =7	=7
 2..ccn]	.
-8a#[	D#m
+[8a#	D# minor
 =8	=8
 4.a#]	.
-2f#	D#m7
-8d#[	D#m
+2f#	D# minor-seventh
+[8d#	D# minor
 =9	=9
 2..d#]	.
-8e#[	C#
+[8e#	C# major
 =10	=10
 3...e#]	.
-8f#	.
+8f#L	.
 8g#	.
-8f#	D#m
+8f#J	D# minor
 =11	=11
 8r	.
 8e#	.
@@ -58,11 +58,11 @@
 8d#	.
 8r	.
 4A#	.
-8c#[	C#
+[8c#	C# major
 =12	=12
 3...c#]	.
 4B	.
-8A#	D#m
+8A#	D# minor
 =13	=13
 8r	.
 8d#	.
@@ -70,13 +70,13 @@
 8e#	.
 8r	.
 4f#	.
-8g#[	C#
+[8g#	C# major
 =14	=14
 4g#]	.
 4f#	.
 8g#	.
 4f#	.
-8a#	D#m
+8a#	D# minor
 =15	=15
 8r	.
 8d#	.
@@ -84,15 +84,15 @@
 8e#	.
 8r	.
 4f#	.
-8g#[	C#
+[8g#	C# major
 =16	=16
 2g#]	.
 4.cc#	.
-8dd#	D#m
+8dd#	D# minor
 =17	=17
 8r	.
-8ee#	.
-8ee#	.
+8ee#L	.
+8ee#J	.
 4r	.
 8ee#	.
 8r	.

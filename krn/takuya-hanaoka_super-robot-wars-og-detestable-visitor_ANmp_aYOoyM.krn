@@ -16,83 +16,83 @@
 *a:	*
 *M6/4	*
 =1	=1
-4aa	Am
+4aa	A minor
 8r	.
 8aa	.
-8gg#	.
-8aa	.
-8ee	.
-8dd#	.
-8ee	.
-8cc	.
-8b	.
-8cc	.
+8gg#L	.
+8aaJ	.
+8eeL	.
+8dd#J	.
+8eeL	.
+8ccJ	.
+8bL	.
+8ccJ	.
 =2	=2
-4g	G/B
+4g	G major/B
 8r	.
 8b	.
-8a	.
-8b	.
-8g	C
-8f#	.
-8g	.
-8e	.
-8d	.
-8e	.
+8aL	.
+8bJ	.
+8gL	C major
+8f#J	.
+8gL	.
+8eJ	.
+8dL	.
+8eJ	.
 =3	=3
-4B	Em
+4B	E minor
 8r	.
 8e	.
-8e	.
-8e	.
-8d	.
-8d	.
-8d	.
-8E	.
-8E	.
-8E	.
+8eL	.
+8eJ	.
+8dL	.
+8dJ	.
+8dL	.
+8EJ	.
+8EL	.
+8EJ	.
 =4	=4
-4.E	C/E
+4.E	C major/E
 4.g	.
 4.cc	.
 4.ee	.
 =5	=5
-2.ff[	D#sus2
-2.ff_	A#/D
+[2.ff	D# suspended-second
+2.ff_	A# major/D
 =6	=6
-4.ff]	C#
+4.ff]	C# major
 4.ff	.
 4.gg	.
-4.gg#	C#/G#
+4.gg#	C# major/G#
 =7	=7
-8gg	Cm
+8gg	C minor
 16r	.
 8.cc	.
-4.gg[	.
-2.gg]	D#/A#
+[4.gg	.
+2.gg]	D# major/A#
 =8	=8
-2.gg#	G#m/B
-2.gg	Cm
+2.gg#	G# minor/B
+2.gg	C minor
 =9	=9
-2.ff#	F#m/C#
-2.ff	C#
+2.ff#	F# minor/C#
+2.ff	C# major
 =10	=10
-2.ee	C#dim
-2.dd#	D#7/C#
+2.ee	C# diminished
+2.dd#	D# dominant/C#
 =11	=11
-4.c	Cm
-4.c	Cm
-4.c	Cm
-8.c	Cm
-8.c[	Cm
+4.c	C minor
+4.c	C minor
+4.c	C minor
+8.c	C minor
+[8.c	C minor
 =12	=12
 8.c]	.
-8.c	Cm
-4.c	Cm
-2.c#	C#/F
+8.c	C minor
+4.c	C minor
+2.c#	C# major/F
 =13	=13
 2.f	.
-2.g#	C#7/F
+2.g#	C# dominant/F
 =14	=14
 2.cc#	.
 ==	==

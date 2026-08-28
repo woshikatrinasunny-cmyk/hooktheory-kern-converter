@@ -16,36 +16,36 @@
 *E-:	*
 *M4/4	*
 =1	=1
-8.dd	Cadd(2,4,7)
+8.ddL	C other-2,4,7
 8bn	.
-8bn	.
+8bnJ	.
 4an	.
 8.r	.
 8g	.
 =2	=2
-8.an	G/B
+8.anL	G major/B
 8bn	.
-16an	.
+16anJk	.
 6...bn	.
 4r	.
 16g	.
 =3	=3
-8.dd	Cm7
+8.ddL	C minor-seventh
 8b-	.
 8b-	.
-16an[	.
-8.an]	F7
+[16anJk	.
+8.an]	F dominant
 8.r	.
 8b-	.
 =4	=4
-8.cc	B-9
+8.ccL	B- dominant-ninth
 8dd	.
-8cc	.
+8ccJ	.
 4dd	.
-16b-	.
+16b-LL	.
 16cc	.
 16dd	.
 16ee-	.
-16ff	.
+16ffJJ	.
 ==	==
 *-	*-

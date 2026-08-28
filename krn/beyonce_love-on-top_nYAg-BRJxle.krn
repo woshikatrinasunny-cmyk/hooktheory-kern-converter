@@ -16,54 +16,54 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	Cmaj7
-8A	.
+8r	C major-seventh
+8AL	.
 8c	.
-16A	.
-16e	.
+16AL	.
+16eJJ	.
 8r	.
-8A	.
+8AL	.
 8c	.
-16A	.
-16c	.
+16AL	.
+16cJJ	.
 =2	=2
-8r	F#m7b5
-8A	.
+8r	F# half-diminished
+8AL	.
 8c	.
-16A	.
-16c	.
+16AL	.
+16cJJ	.
 8r	.
-8A	.
+8AL	.
 8d	.
-16A	.
-16A	.
+16AL	.
+16AJJ	.
 =3	=3
-8r	Fmaj7
-8A	.
+8r	F major-seventh
+8AL	.
 8c	.
-16A	.
-16c	.
+16AL	.
+16cJJ	.
 8r	.
-8A	.
+8AL	.
 8c	.
-8A	.
+8AJ	.
 =4	=4
-8r	Am7/G
-8A	.
+8r	A minor-seventh/G
+8AL	.
 8c	.
-8A	.
-4r	G#maj7
-4r	Gm7
+8AJ	.
+4r	G# major-seventh
+4r	G minor-seventh
 =5	=5
-1r	Cmaj7
+1r	C major-seventh
 =6	=6
-1r	F#m7b5
+1r	F# half-diminished
 =7	=7
-1r	Fmaj7
+1r	F major-seventh
 =8	=8
-2r	Am7/G
-4r	G#maj7
-8a	Gm7
-8e	.
+2r	A minor-seventh/G
+4r	G# major-seventh
+8aL	G minor-seventh
+8eJ	.
 ==	==
 *-	*-

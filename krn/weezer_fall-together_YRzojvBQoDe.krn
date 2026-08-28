@@ -16,23 +16,23 @@
 *A:	*
 *M4/4	*
 =1	=1
-2dd	D
+2dd	D major
 4a	.
 4cc#	.
 =2	=2
-2cc#	A/C#
+2cc#	A major/C#
 4a	.
 4cc#	.
 =3	=3
-2ffn	C#
+2ffn	C# major
 4cc#	.
 4b	.
 =4	=4
-8b	F#m/C#
-8a	.
+8bL	F# minor/C#
+8aJ	.
 8r	.
-8g#	C#m
-4a	C#m
+8g#	C# minor
+4a	C# minor
 4r	.
 ==	==
 *-	*-

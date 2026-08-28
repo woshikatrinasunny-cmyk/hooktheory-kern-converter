@@ -15,78 +15,78 @@
 *g:	*
 *M4/4	*
 =1	=1
-2g	Gm
+2g	G minor
 4d	.
 4g	.
 =2	=2
-2.a	F
+2.a	F major
 4dd	.
 =3	=3
-4cc	E-add(2,4,7)
+4cc	E- other-2,4,7
 4b-	.
 4a	.
 4g	.
 =4	=4
-4f	B-
+4f	B- major
 2d	.
 4d	.
 =5	=5
-4d	Cm
+4d	C minor
 4c	.
-4g[	.
-4g_	Cm/G
+[4g	.
+4g_	C minor/G
 =6	=6
-1g]	Cm
+1g]	C minor
 =7	=7
-4c	Gm
+4c	G minor
 4B-	.
-4g[	.
-4g_	Gm/D
+[4g	.
+4g_	G minor/D
 =8	=8
-4g]	Gm
+4g]	G minor
 4g	.
 4a	.
 4b-	.
 =9	=9
-2a	A
+2a	A major
 2en	.
 =10	=10
-4r	A7/D-
+4r	A dominant/D-
 4en	.
 4g	.
 4g-	.
 =11	=11
-2.a[	D
-4a_	D/A
+[2.a	D major
+4a_	D major/A
 =12	=12
-2a_	D
-2a]	D/G-
+2a_	D major
+2a]	D major/G-
 =13	=13
-2g	Gm
+2g	G minor
 4d	.
 4g	.
 =14	=14
-2.a	Fadd(2,4,7)
+2.a	F other-2,4,7
 4dd	.
 =15	=15
-4cc	E-add(2,4,7)
+4cc	E- other-2,4,7
 4b-	.
 4a	.
 4g	.
 =16	=16
-4f	B-
+4f	B- major
 2.d	.
 =17	=17
-4d	A-add(2,4,7)
+4d	A- other-2,4,7
 4c	.
 4g	.
 4b-	.
 =18	=18
-2a	D7
-2g-	D7/A
+2a	D dominant
+2g-	D dominant/A
 =19	=19
-1g[	Gsus4
+[1g	G suspended-fourth
 =20	=20
-1g]	G
+1g]	G major
 ==	==
 *-	*-

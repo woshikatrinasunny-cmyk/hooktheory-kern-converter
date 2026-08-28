@@ -16,94 +16,94 @@
 *a:	*
 *M4/4	*
 =1	=1
-8.cc	C/E
-8.a	E7sus4
-3...g	Fadd(2,4,7)
+8.ccL	C major/E
+8.aJ	E dominant-seventh-suspended-fourth
+3...g	F other-2,4,7
 =2	=2
-8a	Am
-16cc[	.
-16cc]	Dm/A
-8dd	.
-3...ee	Gsus4
+8aL	A minor
+[16ccL	.
+16ccJ]	D minor/A
+8ddJ	.
+3...ee	G suspended-fourth
 =3	=3
-8cc[	C
-16cc]	C
-8a[	C
-16a]	C/E
-16g[	.
-16g_	C/E
-2g]	D7sus4
+[8ccL	C major
+16cck]	C major
+[8a	C major
+16aL]	C major/E
+[16g	.
+16gJJ_	C major/E
+2g]	D dominant-seventh-suspended-fourth
 =4	=4
-8e	Am
-16f[	.
-16f]	Aadd(2,3,7)
-8g	.
-3...d	G
+8eL	A minor
+[16fL	.
+16fJ]	A other-2,3,7
+8gJ	.
+3...d	G major
 =5	=5
-8.cc	C/E
-8.a	E7sus4
-3...g	Fadd(2,4,7)
+8.ccL	C major/E
+8.aJ	E dominant-seventh-suspended-fourth
+3...g	F other-2,4,7
 =6	=6
-8a	Am
-16cc[	.
-16cc]	Dm/A
-8dd	.
-3...ee	Gsus4
+8aL	A minor
+[16ccL	.
+16ccJ]	D minor/A
+8ddJ	.
+3...ee	G suspended-fourth
 =7	=7
-8.cc	Dadd(2,3,7)
-8.a	Dm
-3...g	C/E
+8.ccL	D other-2,3,7
+8.aJ	D minor
+3...g	C major/E
 =8	=8
-8e	Fmaj7
-16f[	.
-16f]	Dm/F
-8g	.
-3...d	G
+8eL	F major-seventh
+[16fL	.
+16fJ]	D minor/F
+8gJ	.
+3...d	G major
 =9	=9
-8.cc	C/E
-8.a	E7sus4
-3...g	Fadd(2,4,7)
+8.ccL	C major/E
+8.aJ	E dominant-seventh-suspended-fourth
+3...g	F other-2,4,7
 =10	=10
-8a	Am
-16cc[	.
-16cc]	Dm/A
-8dd	.
-3...ee	Gsus4
+8aL	A minor
+[16ccL	.
+16ccJ]	D minor/A
+8ddJ	.
+3...ee	G suspended-fourth
 =11	=11
-8cc[	C
-16cc]	C
-8a[	C
-16a]	C/E
-16g[	.
-16g_	C/E
-2g]	Dm7
+[8ccL	C major
+16cck]	C major
+[8a	C major
+16aL]	C major/E
+[16g	.
+16gJJ_	C major/E
+2g]	D minor-seventh
 =12	=12
-8e	Am
-16f[	.
-16f]	Aadd(2,3,7)
-8g	.
-3...d	G
+8eL	A minor
+[16fL	.
+16fJ]	A other-2,3,7
+8gJ	.
+3...d	G major
 =13	=13
-8.cc	C/E
-8.a	E7sus4
-3...g	Fadd(2,4,7)
+8.ccL	C major/E
+8.aJ	E dominant-seventh-suspended-fourth
+3...g	F other-2,4,7
 =14	=14
-8a	Am
-16cc[	.
-16cc]	Dm/A
-8dd	.
-3...ee	Gsus4
+8aL	A minor
+[16ccL	.
+16ccJ]	D minor/A
+8ddJ	.
+3...ee	G suspended-fourth
 =15	=15
-8.ee	Dadd(2,3,7)
-8.cc	Dm7
-4.gg	C/E
-8ee	.
-8cc	.
+8.eeL	D other-2,3,7
+8.ccJ	D minor-seventh
+4.gg	C major/E
+8eeL	.
+8ccJ	.
 =16	=16
-8a	Fmaj7
-16cc[	.
-16cc]	Dm/F
-8dd	.
-3...g	G
+8aL	F major-seventh
+[16ccL	.
+16ccJ]	D minor/F
+8ddJ	.
+3...g	G major
 ==	==
 *-	*-

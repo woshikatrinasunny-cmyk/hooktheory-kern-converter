@@ -15,44 +15,44 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4dd	B-
+4dd	B- major
 8ee-	.
-3...ff	E-add(2,4,7)
+3...ff	E- other-2,4,7
 =2	=2
-8r	Cm7
+8r	C minor-seventh
 4ff	.
-8ff	F
-8ff	.
+8ff	F major
+8ffL	.
 8ee-	.
 8dd	.
-8cc	.
+8ccJ	.
 =3	=3
-4dd	B-
+4dd	B- major
 8ff	.
-4.b-	Gm
+4.b-	G minor
 4r	.
 =4	=4
-8r	Cm7
+8r	C minor-seventh
 4ff	.
-8ff	F
-8ff	.
+8ff	F major
+8ffL	.
 8ee-	.
 8dd	.
-8cc	.
+8ccJ	.
 =5	=5
-4dd	B-
+4dd	B- major
 8ff	.
-4.b-	E-
+4.b-	E- major
 4r	.
 =6	=6
-8ff	Cm7
+8ffL	C minor-seventh
 8ee-	.
-8dd	.
-4cc	Fsus4
+8ddJ	.
+4cc	F suspended-fourth
 4dd	.
-8b-[	.
+[8b-	.
 =7	=7
-2b-_	B-
+2b-_	B- major
 8b-]	.
 ==	==
 *-	*-

@@ -16,39 +16,39 @@
 *G:	*
 *M4/4	*
 =1	=1
-8gg	G
+8gg	G major
 8r	.
 4.gg	.
-8bb	.
-16aa	.
+8bbL	.
+16aaJk	.
 16r	.
 16gg	.
 16r	.
 =2	=2
-16gg	Gadd(2,4,5,7,11)
+16ggLL	G other-2,4,5,7,11
 16aa	.
 16gg	.
-16ff#	.
+16ff#JJ	.
 4.ff#	.
-8aa	.
-16ccc	.
+8aaL	.
+16cccJk	.
 16r	.
 16ff#	.
 16r	.
 =3	=3
-8aa	G
-8gg	.
+8aaL	G major
+8ggJ	.
 4.gg	.
-8bb	.
-16aa	.
+8bbL	.
+16aaJk	.
 16r	.
 16gg	.
 16r	.
 =4	=4
-16gg	Gadd(2,4,5,7,11)
+16ggLL	G other-2,4,5,7,11
 16aa	.
 16gg	.
-16ff#	.
+16ff#JJ	.
 4.ff#	.
 16aa	.
 16r	.
@@ -57,177 +57,177 @@
 16ff#	.
 16r	.
 =5	=5
-16gg	G
+16gg	G major
 16r	.
 16gg	.
 16r	.
-16gg	D7/A
+16ggLL	D dominant/A
 16ff#	.
 16ee	.
-16ff#	.
-16gg	G/B
+16ff#JJ	.
+16gg	G major/B
 16r	.
 16gg	.
 16r	.
-16bb	D7/F#
+16bbLL	D dominant/F#
 16aa	.
 16gg	.
-16aa	.
+16aaJJ	.
 =6	=6
-16bb	G
+16bb	G major
 16r	.
 16bb	.
 16r	.
-16ddd	D/A
+16dddLL	D major/A
 16ccc	.
 16bb	.
-16ccc	.
-4ddd	G/B
+16cccJJ	.
+4ddd	G major/B
 4r	.
 =7	=7
 2dd	.
 4..ee	.
 16dd	.
 =8	=8
-8cc	D7
+8cc	D dominant
 8r	.
 8cc	.
 8r	.
-16cc	Em
-8b	.
+16ccLK	E minor
+8bJ	.
 16r	.
 8b	.
 8r	.
 =9	=9
-16b	Am/C
-8a	.
+16bLK	A minor/C
+8aJ	.
 16r	.
 8a	.
 8r	.
-8g	D7
+8gL	D dominant
 8f#	.
 8e	.
-8f#	.
+8f#J	.
 =10	=10
-8g	G/B
+8g	G major/B
 8r	.
-8a	D
+8a	D major
 8r	.
-4b	G
+4b	G major
 4r	.
 =11	=11
 2dd	.
 2ee	.
 =12	=12
-8dd	D7
+8ddL	D dominant
 8cc	.
 8cc	.
-8cc	.
-8cc	Em
+8ccJ	.
+8ccL	E minor
 8b	.
 8b	.
-8b	.
+8bJ	.
 =13	=13
-8b	Am/C
+8bL	A minor/C
 8a	.
 8a	.
-8a	.
-8g	D7
+8aJ	.
+8gL	D dominant
 8f#	.
 8e	.
-8f#	.
+8f#J	.
 =14	=14
-3...g	G
-16a	.
-16f#	.
+3...g	G major
+16aLL	.
+16f#J	.
 8a	.
-8f#	.
+8f#J	.
 =15	=15
 3...b	.
-16cc	.
-16a	.
+16ccLL	.
+16aJ	.
 8cc	.
-8a	.
+8aJ	.
 =16	=16
+16ddLL	.
 16dd	.
 16dd	.
 16dd	.
 16dd	.
 16dd	.
 16dd	.
-16dd	.
-16dd	.
-16ee	C/G
+16ddJJ	.
+16eeLL	C major/G
 16ee	.
 16ee	.
 16ee	.
-16ff#	Gadd(2,4,5,7,11)
+16ff#	G other-2,4,5,7,11
 16ff#	.
 16ff#	.
-16ff#	.
+16ff#JJ	.
 =17	=17
-16gg	G
+16ggLL	G major
 16gg	.
 16gg	.
 16gg	.
-16aa	D/F#
+16aa	D major/F#
 16aa	.
 16aa	.
-16aa	.
-16bb	G
+16aaJJ	.
+16bbLL	G major
 16bb	.
 16bb	.
 16bb	.
-16ccc#	C#dim/E
+16ccc#	C# diminished/E
 16ccc#	.
 16ccc#	.
-16ccc#	.
+16ccc#JJ	.
 =18	=18
-4.ddd	D
+4.ddd	D major
 8aa	.
-8.ccc#	Eadd(3,5,7,9,10)/D
-16aa	.
+8.ccc#L	E other-3,5,7,9,10/D
+16aak	.
 8ccc#	.
-8aa	.
+8aaJ	.
 =19	=19
-4.ddd	D
+4.ddd	D major
 8aa	.
-8.ccc#	Eadd(3,5,7,9,10)/D
-16aa	.
+8.ccc#L	E other-3,5,7,9,10/D
+16aak	.
 8ccc#	.
-8aa	.
+8aaJ	.
 =20	=20
-8D	D
+8DL	D major
 8E	.
 8F#	.
-8E	.
-8D	.
+8EJ	.
+8DL	.
 8E	.
 8F#	.
-8D	.
+8DJ	.
 =21	=21
-8G	Eadd(2,3,7)/G
+8GL	E other-2,3,7/G
 8A	.
 8B	.
+8AJ	.
+8GL	.
 8A	.
-8G	.
-8A	.
-8B	Eadd(2,4,7)/G#
-8G#	.
+8B	E other-2,4,7/G#
+8G#J	.
 =22	=22
-8ccc#	A
+8ccc#L	A major
 8aa	.
-8ddd	D/A
+8ddd	D major/A
+8aaJ	.
+8ccc#L	A major
 8aa	.
-8ccc#	A
-8aa	.
-8ddd	D/A
-8aa	.
+8ddd	D major/A
+8aaJ	.
 =23	=23
-8ccc#	A
+8ccc#L	A major
 8a	.
 8a	.
-8a	.
+8aJ	.
 2a	.
 ==	==
 *-	*-

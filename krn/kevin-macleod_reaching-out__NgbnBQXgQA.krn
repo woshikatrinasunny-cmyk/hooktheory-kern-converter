@@ -15,7 +15,7 @@
 *a:	*
 *M6/4	*
 =1	=1
-4cc	Am
+4cc	A minor
 8b	.
 4cc	.
 8a	.
@@ -24,16 +24,16 @@
 4cc	.
 8a	.
 =2	=2
-8b	E/G#
-8cc	.
+8bL	E major/G#
+8ccJ	.
 8dd	.
 4.ee	.
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 8dd	.
 4.ee	.
 =3	=3
-4cc	Am7/G
+4cc	A minor-seventh/G
 8b	.
 4cc	.
 8a	.
@@ -42,12 +42,12 @@
 4cc	.
 8a	.
 =4	=4
-4cc	F#m7b5
+4cc	F# half-diminished
 4b	.
 4dd	.
 2.a	.
 =5	=5
-4cc	Fmaj7
+4cc	F major-seventh
 8b	.
 4cc	.
 8a	.
@@ -56,10 +56,10 @@
 4cc	.
 8a	.
 =6	=6
-2.cc	Am/E
+2.cc	A minor/E
 2.b	.
 =7	=7
-4cc	Fmaj7
+4cc	F major-seventh
 8a	.
 4cc	.
 8b	.
@@ -68,7 +68,7 @@
 4cc	.
 8b	.
 =8	=8
-2.cc	C/G
-2.b	Em/G
+2.cc	C major/G
+2.b	E minor/G
 ==	==
 *-	*-

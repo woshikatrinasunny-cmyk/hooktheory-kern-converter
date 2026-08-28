@@ -16,49 +16,49 @@
 *c#:	*
 *M6/4	*
 =1	=1
-2.fn	C#
-4.r	C#/F
+2.fn	C# major
+4.r	C# major/F
 8c#	.
-8c#	.
-8f#[	.
+8c#L	.
+[8f#J	.
 =2	=2
-8f#]	F#m
+8f#]	F# minor
 2e	.
-8c#[	.
-8c#]	E/G#
+[8c#	.
+8c#]	E major/G#
 2B	.
-8F#[	.
+[8F#	.
 =3	=3
-4F#]	A
+4F#]	A major
 2E	.
 4.r	.
 4.c#	.
 =4	=4
-2.g#	C#m
-2.f#	B
+2.g#	C# minor
+2.f#	B major
 =5	=5
-2.fn[	C#
-2fn]	C#/F
-8c#	.
-8f#[	.
+[2.fn	C# major
+2fn]	C# major/F
+8c#L	.
+[8f#J	.
 =6	=6
-8f#]	F#m
+8f#]	F# minor
 2e	.
-8c#[	.
-8c#]	E/G#
+[8c#	.
+8c#]	E major/G#
 2B	.
-8F#[	.
+[8F#	.
 =7	=7
-8F#]	Amaj7
+8F#]	A major-seventh
 3...E	.
 4.r	.
 8B	.
 4c#	.
 =8	=8
-2.g#	C#m
-2.f#	B
+2.g#	C# minor
+2.f#	B major
 =9	=9
-1fn	C#
+1fn	C# major
 2r	.
 ==	==
 *-	*-

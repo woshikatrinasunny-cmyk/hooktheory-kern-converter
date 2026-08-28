@@ -16,50 +16,50 @@
 *A:	*
 *M4/4	*
 =1	=1
-16ee	F#7
-16ee	.
+16eeLL	F# dominant
+16eeJ	.
 8dd#	.
-16cc#	F#7/A#
-16cc#	.
-8b	.
-16dd#	B7
-16b	.
+16cc#L	F# dominant/A#
+16cc#J	.
+8bJ	.
+16dd#LL	B dominant
+16bJ	.
 8cc#	.
-8b	B7/D#
+8bJ	B dominant/D#
 8r	.
 =2	=2
-16dd	E7
-16dd	.
+16ddLL	E dominant
+16ddJ	.
 8cc#	.
-8b	E7/G#
-8a	.
-16cc#	A
-16a	.
+8b	E dominant/G#
+8aJ	.
+16cc#LL	A major
+16aJ	.
 8b	.
-8a	A/C#
-8r	A/E
+8aJ	A major/C#
+8r	A major/E
 =3	=3
-16ee	F#7
-16ee	.
+16eeLL	F# dominant
+16eeJ	.
 8dd#	.
-16cc#	F#7/A#
+16cc#L	F# dominant/A#
 16cc#	.
 16b	.
-16dd#[	.
-16dd#]	B7
-16b	.
+[16dd#JJ	.
+16dd#LL]	B dominant
+16bJ	.
 8cc#	.
-8b	B7/D#
+8bJ	B dominant/D#
 8r	.
 =4	=4
-16dd	E7
+16ddLL	E dominant
 16dd	.
 16cc#	.
 16cc#	.
-16b	A7
+16bJ	A dominant
 8a	.
-16d[	.
-4d]	D
+[16dJk	.
+4d]	D major
 4r	.
 ==	==
 *-	*-

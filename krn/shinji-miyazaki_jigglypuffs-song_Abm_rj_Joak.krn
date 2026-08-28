@@ -16,55 +16,55 @@
 *D:	*
 *M4/4	*
 =1	=1
-2dd	Dadd(2,4,7)
+2dd	D other-2,4,7
 8aa	.
 4.ff#	.
 =2	=2
-2ee	D11
+2ee	D dominant-11th
 8ff#	.
 4.gg	.
 =3	=3
-2ff#	Dadd(2,4,7)
+2ff#	D other-2,4,7
 4ee	.
 4ff#	.
 =4	=4
-1dd	G/D
+1dd	G major/D
 =5	=5
-2dd	Dadd(2,4,7)
+2dd	D other-2,4,7
 8aa	.
 4.ff#	.
 =6	=6
-2ee	D11
+2ee	D dominant-11th
 8ff#	.
 4.gg	.
 =7	=7
-1ff#[	Dadd(2,4,7)
+[1ff#	D other-2,4,7
 =8	=8
-1ff#]	Gmaj7/D
+1ff#]	G major-seventh/D
 =9	=9
-2dd	Dadd(2,4,7)
+2dd	D other-2,4,7
 8aa	.
 4.ff#	.
 =10	=10
-2ee	D11
+2ee	D dominant-11th
 8ff#	.
 4.gg	.
 =11	=11
-2ff#	Dadd(2,4,7)
+2ff#	D other-2,4,7
 4ee	.
 4ff#	.
 =12	=12
-1dd	Cadd(2,4,7)
+1dd	C other-2,4,7
 =13	=13
-2dd	A#add(2,4,7)
+2dd	A# other-2,4,7
 4aa	.
 4gg	.
 =14	=14
-2ee	Aadd(2,4,7)
+2ee	A other-2,4,7
 4ff#	.
 4gg	.
 =15	=15
-1ff#[	Badd(2,4,7)
+[1ff#	B other-2,4,7
 =16	=16
 1ff#]	.
 ==	==

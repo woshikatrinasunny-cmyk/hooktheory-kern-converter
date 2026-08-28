@@ -16,114 +16,114 @@
 *a:	*
 *M4/4	*
 =1	=1
-4r	F
-4d	F
-4d	F
-4d	F
+4r	F major
+4d	F major
+4d	F major
+4d	F major
 =2	=2
-8d	Dm
-8c[	.
-8.c]	Dm
-16e	.
-16d	Dm
-8.c[	.
-4c]	Dm
+8dL	D minor
+[8c	.
+8.c]	D minor
+16eJk	.
+16dLK	D minor
+[8.cJ	.
+4c]	D minor
 =3	=3
-8.r	Am
-16d	.
-8.d	Am
-16e	.
-4A	Am
-4cc	Am
+8.r	A minor
+16dLK	.
+8.d	A minor
+16eJk	.
+4A	A minor
+4cc	A minor
 =4	=4
-8.r	C
-16d	.
-8.d	C
-16e	.
-4A	C
-4cc	C
+8.r	C major
+16dLK	.
+8.d	C major
+16eJk	.
+4A	C major
+4cc	C major
 =5	=5
-4r	F
-4d	F
-4d	F
-4d	F
+4r	F major
+4d	F major
+4d	F major
+4d	F major
 =6	=6
-8d	Dm
-8c[	.
-8.c]	Dm
-16e	.
-16d	Dm
-8.c[	.
-4c]	Dm
+8dL	D minor
+[8c	.
+8.c]	D minor
+16eJk	.
+16dLK	D minor
+[8.cJ	.
+4c]	D minor
 =7	=7
-8.r	Am
-16d	.
-8.d	Am
-16e	.
-4A	Am
-4cc	Am
+8.r	A minor
+16dLK	.
+8.d	A minor
+16eJk	.
+4A	A minor
+4cc	A minor
 =8	=8
-8.r	C
-16d	.
-8.d	C
-16e	.
-4A	C
-4cc	C
+8.r	C major
+16dLK	.
+8.d	C major
+16eJk	.
+4A	C major
+4cc	C major
 =9	=9
-4r	F
-4d	F
-4d	Fadd(2,4,7)
-4d	Fadd(2,4,7)
+4r	F major
+4d	F major
+4d	F other-2,4,7
+4d	F other-2,4,7
 =10	=10
-8d	Dm
-8c[	.
-8.c]	Dm
-16e	.
-16d	Dm
-8.c[	.
-4c]	Dm
+8dL	D minor
+[8c	.
+8.c]	D minor
+16eJk	.
+16dLK	D minor
+[8.cJ	.
+4c]	D minor
 =11	=11
-8.r	Am
-16d	.
-8.d	Am
-16e	.
-4A	Am
-4cc	Am
+8.r	A minor
+16dLK	.
+8.d	A minor
+16eJk	.
+4A	A minor
+4cc	A minor
 =12	=12
-8.r	C
-16d	.
-8.d	C
-16e	.
-4A	C
-4cc	C
+8.r	C major
+16dLK	.
+8.d	C major
+16eJk	.
+4A	C major
+4cc	C major
 =13	=13
-4r	F
-4d	F
-4d	Fadd(2,4,7)
-4d	Fadd(2,4,7)
+4r	F major
+4d	F major
+4d	F other-2,4,7
+4d	F other-2,4,7
 =14	=14
-8d	Dm
-8c[	.
-8.c]	Dm
-16e	.
-16d	Dm
-8.c[	.
-4c]	Dm
+8dL	D minor
+[8c	.
+8.c]	D minor
+16eJk	.
+16dLK	D minor
+[8.cJ	.
+4c]	D minor
 =15	=15
-8.r	Am
-16d	.
-8.d	Am
-16e	.
-4A	Am
-4cc	Am
+8.r	A minor
+16dLK	.
+8.d	A minor
+16eJk	.
+4A	A minor
+4cc	A minor
 =16	=16
-8.r	C
-16d	.
-8.d	C
-16e[	.
-16e]	C
+8.r	C major
+16dLK	.
+8.d	C major
+[16eJk	.
+16e]	C major
 8r	.
 16A	.
-4cc	C
+4cc	C major
 ==	==
 *-	*-

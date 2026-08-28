@@ -15,7 +15,7 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8cc#	F#
+8cc#	F# major
 8r	.
 8ff#	.
 4ff#	.
@@ -23,55 +23,55 @@
 8r	.
 8ff#	.
 =2	=2
-8r	Bsus2
+8r	B suspended-second
 4gg#	.
 4aa#	.
 4bb	.
 8ccc#	.
 =3	=3
-8r	C#
+8r	C# major
 4gg#	.
 4aa#	.
 4bb	.
-8aa#[	.
+[8aa#	.
 =4	=4
-4.aa#]	A#7/D
+4.aa#]	A# dominant/D
 8aa#	.
-8bb	.
+8bbL	.
 8aa#	.
 8gg#	.
-8ff#	.
+8ff#J	.
 =5	=5
-8gg#[	D#m
+[8gg#L	D# minor
 8gg#]	.
-8ff#	D#m
+8ff#J	D# minor
 4.ff#	.
 8r	.
-8r	C#
+8r	C# major
 =6	=6
 4.r	.
 8dd#	.
-8dd#	.
+8dd#L	.
 8ee#	.
 8ff#	.
-8gg#	.
+8gg#J	.
 =7	=7
-8ccc#[	B
+[8ccc#L	B major
 8ccc#]	.
 8aa#	.
-8aa#[	B
-8aa#]	.
-8gg#[	.
-8gg#]	B
-8ff#[	.
+[8aa#J	B major
+8aa#L]	.
+[8gg#	.
+8gg#]	B major
+[8ff#J	.
 =8	=8
-8ff#]	.
-8gg#[	B
+8ff#L]	.
+[8gg#	B major
 8gg#]	.
-8bb	.
-8aa#[	F#/C#
-8aa#]	.
-8r	F#/C#
+8bbJ	.
+[8aa#L	F# major/C#
+8aa#J]	.
+8r	F# major/C#
 8r	.
 ==	==
 *-	*-

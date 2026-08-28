@@ -16,60 +16,60 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4dd-	G-
+4dd-	G- major
 4cc	.
-4a-	D-
-8.f	.
-16f	.
+4a-	D- major
+8.fL	.
+16fJk	.
 =2	=2
-4e-	A-
+4e-	A- major
 8.r	.
 16e-	.
-16a-	.
+16a-LK	.
 8a-	.
 8b-	.
 8d-	.
-16d-[	.
+[16d-Jk	.
 =3	=3
-4d-]	G-
+4d-]	G- major
 4f	.
-4d-	D-
-8.f	.
-16e-[	.
+4d-	D- major
+8.fL	.
+[16e-Jk	.
 =4	=4
-4e-]	A-
+4e-]	A- major
 8.r	.
 16e-	.
-16a-	.
+16a-LK	.
 8a-	.
 8b-	.
 8d-	.
-16d-[	.
+[16d-Jk	.
 =5	=5
-4d-]	G-
+4d-]	G- major
 4f	.
-4d-	D-
-8f	.
-16g-	.
-16e-[	.
+4d-	D- major
+8fL	.
+16g-L	.
+[16e-JJ	.
 =6	=6
-2e-]	A-
+2e-]	A- major
 8r	.
-16d-	.
+16d-LK	.
 8f	.
 8d-	.
-16d-[	.
+[16d-Jk	.
 =7	=7
-2d-_	G-
-8d-]	D-
-16B-	.
+2d-_	G- major
+8d-L]	D- major
+16B-k	.
 8d-	.
-8.e-[	.
+[8.e-J	.
 =8	=8
-16e-]	A-
-16d-	.
+16e-LL]	A- major
+16d-JJ	.
 4.c	.
-8r	A-
+8r	A- major
 4.r	.
 ==	==
 *-	*-

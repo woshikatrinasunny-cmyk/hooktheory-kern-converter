@@ -16,72 +16,72 @@
 *f:	*
 *M4/4	*
 =1	=1
-8b-	F
+8b-L	F major
 8an	.
-8b-	F
-4cc[	Fm11
-8cc_	Fm11
-8cc_	Fm11
-16cc_	Fm11
-16cc]	Fm11
+8b-J	F major
+[4cc	F minor-11th
+8ccL_	F minor-11th
+8cc_	F minor-11th
+16ccL_	F minor-11th
+16ccJJ]	F minor-11th
 =2	=2
-4cc[	A-
-8cc]	A-
-4b-[	A-add(2,4,7)
-8b-]	A-add(2,4,7)
-8cc[	A-add(2,4,7)
-16cc_	A-add(2,4,7)
-16cc]	A-add(2,4,7)
+[4cc	A- major
+8cc]	A- major
+[4b-	A- other-2,4,7
+8b-L]	A- other-2,4,7
+[8cc	A- other-2,4,7
+16ccL_	A- other-2,4,7
+16ccJJ]	A- other-2,4,7
 =3	=3
-8an	F
+8anL	F major
 8g	.
-8f[	F
-4f]	Fm11
-8g[	Fm11
-8g_	Fm11
-16g_	Fm11
-16g]	Fm11
+[8fJ	F major
+4f]	F minor-11th
+[8gL	F minor-11th
+8g_	F minor-11th
+16gL_	F minor-11th
+16gJJ]	F minor-11th
 =4	=4
-4f[	A-
-8f_	A-
-4f_	A-add(2,4,7)
-8f_	A-add(2,4,7)
-8f_	A-add(2,4,7)
-16f_	A-add(2,4,7)
-16f]	A-add(2,4,7)
+[4f	A- major
+8f_	A- major
+4f_	A- other-2,4,7
+8fL_	A- other-2,4,7
+8f_	A- other-2,4,7
+16fL_	A- other-2,4,7
+16fJJ]	A- other-2,4,7
 =5	=5
-8dd	F
+8ddL	F major
 8cc	.
-8dd	F
-4ee-[	Fm11
-8ee-_	Fm11
-8ee-_	Fm11
-16ee-_	Fm11
-16ee-]	Fm11
+8ddJ	F major
+[4ee-	F minor-11th
+8ee-L_	F minor-11th
+8ee-_	F minor-11th
+16ee-L_	F minor-11th
+16ee-JJ]	F minor-11th
 =6	=6
-4ee-[	A-
-8ee-]	A-
-4dd[	A-add(2,4,7)
-8dd]	A-add(2,4,7)
-8ee-[	A-add(2,4,7)
-16ee-_	A-add(2,4,7)
-16ee-]	A-add(2,4,7)
+[4ee-	A- major
+8ee-]	A- major
+[4dd	A- other-2,4,7
+8ddL]	A- other-2,4,7
+[8ee-	A- other-2,4,7
+16ee-L_	A- other-2,4,7
+16ee-JJ]	A- other-2,4,7
 =7	=7
-8dd	F
+8ddL	F major
 8dd-	.
-8cc[	F
-4cc]	Fm11
-8dd[	Fm11
-8dd_	Fm11
-16dd_	Fm11
-16dd]	Fm11
+[8ccJ	F major
+4cc]	F minor-11th
+[8ddL	F minor-11th
+8dd_	F minor-11th
+16ddL_	F minor-11th
+16ddJJ]	F minor-11th
 =8	=8
-4cc[	A-
-8cc_	A-
-4cc_	A-add(2,4,7)
-8cc_	A-add(2,4,7)
-8cc_	A-add(2,4,7)
-16cc_	A-add(2,4,7)
-16cc]	A-add(2,4,7)
+[4cc	A- major
+8cc_	A- major
+4cc_	A- other-2,4,7
+8ccL_	A- other-2,4,7
+8cc_	A- other-2,4,7
+16ccL_	A- other-2,4,7
+16ccJJ]	A- other-2,4,7
 ==	==
 *-	*-

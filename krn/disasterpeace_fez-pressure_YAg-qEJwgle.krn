@@ -16,64 +16,64 @@
 *e:	*
 *M6/4	*
 =1	=1
-1.e	Em
+1.e	E minor
 =2	=2
-2.f	Eadd(1,7)
-2.d[	Em7
+2.f	E other-1,7
+[2.d	E minor-seventh
 =3	=3
 2d]	.
-4.e	Em
-16f	.
-16e	.
+4.e	E minor
+16fLL	.
+16eJJ	.
 16d	.
-4..e[	.
+[4..e	.
 =4	=4
 1.e_	.
 =5	=5
 2.e]	.
-2.f	Eadd(1,7)
+2.f	E other-1,7
 =6	=6
-16f	E
-1g#[	.
+16f	E major
+[1g#	.
 4..g#_	.
 =7	=7
 8.g#]	.
-8.g	Em
-8g#	E
-16a#	.
+8.g	E minor
+8g#	E major
+16a#LL	.
 16b	.
-16a#	.
+16a#JJ	.
 8g#	.
-3...g[	Em
+[3...g	E minor
 16g_	.
 =8	=8
 3...g_	.
 16g]	.
-2.g#[	E
+[2.g#	E major
 16g#]	.
 =9	=9
-4.g#	E
-16a#	Em
+4.g#	E major
+16a#	E minor
 2b	.
 16cc	.
-16b	.
-16a	.
-4.b[	.
+16bLL	.
+16aJJ	.
+[4.b	.
 =10	=10
 1b_	.
 8.b]	.
 8e	.
-16f	.
+16fLL	.
 16e	.
-16d	.
+16dJJ	.
 =11	=11
-1e[	.
+[1e	.
 8e]	.
-4.e[	.
+[4.e	.
 =12	=12
 1e_	.
 8e]	.
-4.f[	.
+[4.f	.
 =13	=13
 1f_	.
 6...f]	.
@@ -81,16 +81,16 @@
 =14	=14
 8.g#	.
 8a#	.
-16b	.
+16bLL	.
 16gg#	.
-16aa#	.
-16bb	.
+16aa#JJ	.
+16bbLL	.
 16aa#	.
 16gg#	.
-16b	.
-16a#	.
-8g#	.
-2g[	.
+16bJJ	.
+16a#LK	.
+8g#J	.
+[2g	.
 16g_	.
 =15	=15
 1.g]	.

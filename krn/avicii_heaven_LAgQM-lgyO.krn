@@ -15,140 +15,140 @@
 *A:	*
 *M4/4	*
 =1	=1
-16e	A/C#
+16eLL	A major/C#
 16f#	.
-16a	.
-16r	Dadd(2,4,7)/A
+16aJJ	.
+16r	D other-2,4,7/A
 16a	.
 16r	.
-16e	B7sus4
-16f#	.
+16eLL	B dominant-seventh-suspended-fourth
+16f#JJ	.
 16a	.
-16r	B7sus4
+16r	B dominant-seventh-suspended-fourth
 16a	.
 16r	.
-16e	A
+16eLL	A major
 16f#	.
-16a	.
+16aJJ	.
 16r	.
 =2	=2
 16a	.
 16r	.
-16e	A
+16eLL	A major
 16f#	.
-16cc#	.
-16r	A
+16cc#JJ	.
+16r	A major
 16a	.
 16r	.
-16b	A
+16b	A major
 16r	.
 16a	.
-16r	E/G#
-16e	.
+16r	E major/G#
+16eLL	.
 16f#	.
-16a	F#m7
+16aJJ	F# minor-seventh
 16r	.
 =3	=3
-16e	A/C#
+16eLL	A major/C#
 16f#	.
-16a	.
-16r	Dadd(2,4,7)/A
+16aJJ	.
+16r	D other-2,4,7/A
 16a	.
 16r	.
-16e	Bm7
-16f#	.
+16eLL	B minor-seventh
+16f#JJ	.
 16a	.
-16r	Bm7
+16r	B minor-seventh
 16a	.
 16r	.
-16e	A
+16eLL	A major
 16f#	.
-16a	.
+16aJJ	.
 16r	.
 =4	=4
 16a	.
 16r	.
-16e	A
+16eLL	A major
 16f#	.
-16cc#	.
-16r	A
+16cc#JJ	.
+16r	A major
 16a	.
 16r	.
-16b	A
+16b	A major
 16r	.
 16a	.
-16r	Bm7
-16e	.
+16r	B minor-seventh
+16eLL	.
 16f#	.
-16a	A/C#
+16aJJ	A major/C#
 16r	.
 =5	=5
-16e	A/C#
+16eLL	A major/C#
 16f#	.
-16a	.
-16r	Dadd(2,4,7)/A
+16aJJ	.
+16r	D other-2,4,7/A
 16a	.
 16r	.
-16e	B7sus4
-16f#	.
+16eLL	B dominant-seventh-suspended-fourth
+16f#JJ	.
 16a	.
-16r	B7sus4
+16r	B dominant-seventh-suspended-fourth
 16a	.
 16r	.
-16e	A
+16eLL	A major
 16f#	.
-16a	.
+16aJJ	.
 16r	.
 =6	=6
 16a	.
 16r	.
-16e	A
+16eLL	A major
 16f#	.
-16cc#	.
-16r	A
+16cc#JJ	.
+16r	A major
 16a	.
 16r	.
-16b	A
+16b	A major
 16r	.
 16a	.
-16r	E/G#
-16e	.
+16r	E major/G#
+16eLL	.
 16f#	.
-16a	F#m7
+16aJJ	F# minor-seventh
 16r	.
 =7	=7
-16e	Bm
+16eLL	B minor
 16f#	.
-16a	.
-16r	Dmaj7
+16aJJ	.
+16r	D major-seventh
 16a	.
 16r	.
-16e	.
-16f#	.
-16a	Dmaj7
+16eLL	.
+16f#JJ	.
+16a	D major-seventh
 16r	.
 16a	.
-16r	Esus4
-16e	.
+16r	E suspended-fourth
+16eLL	.
 16f#	.
-16a	.
+16aJJ	.
 16r	.
 =8	=8
 16a	.
 16r	.
-16e	.
+16eLL	.
 16f#	.
-16cc#	.
+16cc#JJ	.
 16r	.
 16a	.
 16r	.
-16b	E
+16b	E major
 16r	.
 16a	.
 16r	.
-16e	.
+16eLL	.
 16f#	.
-16a	.
+16aJJ	.
 16r	.
 ==	==
 *-	*-

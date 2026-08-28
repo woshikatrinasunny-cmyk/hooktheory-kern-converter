@@ -16,65 +16,65 @@
 *d:	*
 *M4/4	*
 =1	=1
-4dd	Dm7
+4dd	D minor-seventh
 4dd	.
 4dd	.
 4dd	.
 =2	=2
 4dd	.
 4dd	.
-8dd	.
-8dd-	D-m7
-8cc	Cm7
-8bn[	Bm7b5
+8ddL	.
+8dd-	D- minor-seventh
+8cc	C minor-seventh
+[8bnJ	B half-diminished
 =3	=3
 1bn]	.
 =4	=4
 2r	.
-8c	.
-8c	.
+8cL	.
+8cJ	.
 4cc	.
 =5	=5
-4a	B-maj7
-8a	.
-8a	.
+4a	B- major-seventh
+8aL	.
+8aJ	.
 4g	.
-8a	.
-8f[	.
+8aL	.
+[8fJ	.
 =6	=6
-8f]	.
-8d	.
+8fL]	.
+8dJ	.
 8r	.
 8d	.
-8a	.
+8aL	.
 8g	.
 8a	.
-8g	.
+8gJ	.
 =7	=7
-4a	Gm7/B-
-8a	.
-8a	.
-8a	.
-8g	.
+4a	G minor-seventh/B-
+8aL	.
+8aJ	.
+8aL	.
+8gJ	.
 4f	.
 =8	=8
-4cc	C
+4cc	C major
 4cc	.
-4dd	D-dim
-8a	.
-8a	.
+4dd	D- diminished
+8aL	.
+8aJ	.
 =9	=9
-4dd	Dm7
+4dd	D minor-seventh
 4dd	.
 4dd	.
 4dd	.
 =10	=10
 4dd	.
 4dd	.
-8dd	.
-8dd-	D-m7
-8cc	Cm7
-8bn[	Bm7b5
+8ddL	.
+8dd-	D- minor-seventh
+8cc	C minor-seventh
+[8bnJ	B half-diminished
 =11	=11
 1bn]	.
 =12	=12
@@ -83,7 +83,7 @@
 4c	.
 4cc	.
 =13	=13
-8a	B-maj7
+8a	B- major-seventh
 4a	.
 8a	.
 4g	.
@@ -91,21 +91,21 @@
 =14	=14
 4f	.
 4r	.
+8.aL	.
 8.a	.
-8.a	.
-8a	.
+8aJ	.
 =15	=15
-8.a	C7
+8.aL	C dominant
 8.a	.
-8a	.
-8a	.
-8g	.
+8aJ	.
+8aL	.
+8gJ	.
 4f	.
 =16	=16
 4g	.
 4r	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 4a	.
 ==	==
 *-	*-

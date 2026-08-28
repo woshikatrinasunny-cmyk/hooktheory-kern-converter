@@ -15,63 +15,63 @@
 *f:	*
 *M3/4	*
 =1	=1
-4.cc	Fm
+4.cc	F minor
 8cc	.
 4cc	.
 =2	=2
 2cc	.
-8cc	.
-8cc	.
+8ccL	.
+8ccJ	.
 =3	=3
-4.dd-	D-/F
+4.dd-	D- major/F
 8cc	.
 4cc	.
 =4	=4
-2.f[	Fm
+[2.f	F minor
 =5	=5
 2.f]	.
 =6	=6
 4f	.
-2ff	Fm
+2ff	F minor
 =7	=7
 4ff	.
-4ff	Fadd(2,3,7)
+4ff	F other-2,3,7
 4gg	.
 =8	=8
 4ff	.
-2een	C
+2een	C major
 =9	=9
-2.een[	C
+[2.een	C major
 =10	=10
 4een]	.
 4cc	.
-4gg[	Cm
+[4gg	C minor
 =11	=11
 4gg]	.
 4gg-	.
-4gg[	A-maj7
+[4gg	A- major-seventh
 =12	=12
 4gg]	.
 4aa-	.
-4gg[	C
+[4gg	C major
 =13	=13
 4gg]	.
 4een	.
-4cc[	Fm
+[4cc	F minor
 =14	=14
 8cc]	.
-3...cc[	.
+[3...cc	.
 =15	=15
 2.cc]	.
 =16	=16
-4gg	A-maj7
+4gg	A- major-seventh
 4aa-	.
 4gg	.
 =17	=17
-2cc	C7
+2cc	C dominant
 4een	.
 =18	=18
-2.ff[	Fm
+[2.ff	F minor
 =19	=19
 2.ff]	.
 ==	==

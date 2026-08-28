@@ -16,67 +16,67 @@
 *E:	*
 *M4/4	*
 =1	=1
-4ff#	A
+4ff#	A major
 8ee	.
 4cc#	.
 4.r	.
 =2	=2
-16ff#	F#m
+16ff#LK	F# minor
 8ee	.
 8.ff#	.
-16ee	.
+16eeJk	.
 8ff#	.
-8.gg#	.
+8.gg#L	.
 8ff#	.
-8ee	.
+8eeJ	.
 =3	=3
-4ff#	E
+4ff#	E major
 8ee	.
 4b	.
 4.r	.
 =4	=4
-16ff#	Emaj7
-16ee	.
+16ff#LL	E major-seventh
+16eeJ	.
 8.ff#	.
-8ee	.
+8eeJ	.
 8.ff#	.
-8gg#	.
+8gg#L	.
 8ff#	.
-8ee	.
+8eeJ	.
 =5	=5
-8r	A
-8.ff#	.
-8.ee	.
+8r	A major
+8.ff#L	.
+8.eeJ	.
 4cc#	.
 4r	.
 =6	=6
-16ff#	F#m
+16ff#LK	F# minor
 8ee	.
 8ff#	.
-8ee	.
+8eeJ	.
 8ff#	.
-16gg#	.
+16gg#LK	.
 8ff#	.
 8ee	.
-8ee	.
+8eeJ	.
 =7	=7
-8ff#	F#7/C#
+8ff#	F# dominant/C#
 4r	.
 8ee	.
 8ff#	.
 4r	.
 8ee	.
 =8	=8
-8ff#	B
-16ee	.
-16ff#[	.
-16ff#]	Cdim
+8ff#L	B major
+16eeL	.
+[16ff#	.
+16ff#]	C diminished
 16ee	.
 16ff#	.
-16gg#	.
-16ff#	Badd(2,4,7)
-8.ee[	.
-8ee]	B7
+16gg#JJ	.
+16ff#LK	B other-2,4,7
+[8.ee	.
+8eeJ]	B dominant
 8r	.
 ==	==
 *-	*-

@@ -16,79 +16,79 @@
 *D:	*
 *M4/4	*
 =1	=1
-2f#	F#m
-4c#	F#m11
-4d[	.
+2f#	F# minor
+4c#	F# minor-11th
+[4d	.
 =2	=2
-4d]	F#m
-4B[	.
-4B]	F#m11
-4c#[	.
+4d]	F# minor
+[4B	.
+4B]	F# minor-11th
+[4c#	.
 =3	=3
-2c#_	F#m
-4c#]	F#m11
+2c#_	F# minor
+4c#]	F# minor-11th
 4r	.
 =4	=4
-4.c#	F#m
-4.c#	G
-4A[	F
+4.c#	F# minor
+4.c#	G major
+[4A	F major
 =5	=5
 2A]	.
-2r	F#m11
+2r	F# minor-11th
 =6	=6
-4.B	F
-8B[	.
-4B]	F#m11
-4c#[	.
+4.B	F major
+[8B	.
+4B]	F# minor-11th
+[4c#	.
 =7	=7
-2c#_	F
-4c#]	F#m11
+2c#_	F major
+4c#]	F# minor-11th
 4r	.
 =8	=8
-2r	F
-2r	F#m11
+2r	F major
+2r	F# minor-11th
 =9	=9
-2f#	F#m
-4c#	F#m11
-4d[	.
+2f#	F# minor
+4c#	F# minor-11th
+[4d	.
 =10	=10
-4d]	F#m
-4B[	.
-4B]	F#m11
-4c#[	.
+4d]	F# minor
+[4B	.
+4B]	F# minor-11th
+[4c#	.
 =11	=11
-2c#]	F#m
-4r	F#m11
+2c#]	F# minor
+4r	F# minor-11th
 4c#	.
 =12	=12
-4.c#	F#m
-4.A[	G
-4A]	F
+4.c#	F# minor
+[4.A	G major
+4A]	F major
 =13	=13
 2r	.
-2r	F#m11
+2r	F# minor-11th
 =14	=14
-4r	F
-16ee	.
-16gg	.
-8ee	.
-8dd	.
-8b	.
-4a[	.
+4r	F major
+16eeLL	.
+16ggJ	.
+8eeJ	.
+8ddL	.
+8bJ	.
+[4a	.
 =15	=15
 4a]	.
-16a	.
-16b	.
-8a	.
+16aLL	.
+16bJ	.
+8aJ	.
 2e	.
 =16	=16
-8d#	D#
-8d	D
-8c#	C#m
-8cn	C
-8B	Bm
-8A#	A#
-8A	A
-8G#	G#
+8d#L	D# major
+8d	D major
+8c#	C# minor
+8cnJ	C major
+8BL	B minor
+8A#	A# major
+8A	A major
+8G#J	G# major
 ==	==
 *-	*-

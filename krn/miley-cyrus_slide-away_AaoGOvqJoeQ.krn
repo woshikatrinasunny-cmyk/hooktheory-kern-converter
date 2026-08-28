@@ -16,103 +16,103 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4cc	.
 4b-	.
-4a	Gm
+4a	G minor
 =2	=2
 4g	.
 4f	.
 4g	.
 4g	.
 =3	=3
-4r	Fadd(2,5,7)
+4r	F other-2,5,7
 4cc	.
 4b-	.
-4a	Fadd(2,4,7)
+4a	F other-2,4,7
 =4	=4
 4g	.
 4f	.
 4g	.
 4g	.
 =5	=5
-4r	C
+4r	C major
 4cc	.
 4b-	.
-4a	Gm
+4a	G minor
 =6	=6
 4g	.
 4f	.
 4g	.
 4g	.
 =7	=7
-8r	Fadd(2,5,7)
+8r	F other-2,5,7
 8f	.
 4cc	.
 4b-	.
-4a	Fadd(2,4,7)
+4a	F other-2,4,7
 =8	=8
-8g	.
-8f	.
+8gL	.
+8fJ	.
 4f	.
 8r	.
+8ccL	.
 8cc	.
-8cc	.
-8cc	.
+8ccJ	.
 =9	=9
-8ee	C
+8eeL	C major
 8cc	.
 8cc	.
-8b-	.
+8b-J	.
 4r	.
-4f[	Gm
+[4f	G minor
 =10	=10
-8f]	.
-8e	.
+8fL]	.
+8eJ	.
 4d	.
-8d	.
+8dL	.
 8e	.
 8c	.
-8A	.
+8AJ	.
 =11	=11
-4.A	Fadd(2,5,7)
+4.A	F other-2,5,7
 4.B-	.
-4f[	Fadd(2,4,7)
+[4f	F other-2,4,7
 =12	=12
-8f]	.
-8e	.
+8fL]	.
+8eJ	.
 4d	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 4c	.
 =13	=13
-8ee	C
+8eeL	C major
 8cc	.
 8cc	.
-8b-	.
+8b-J	.
 4r	.
-4f[	Gm
+[4f	G minor
 =14	=14
-8f]	.
-8e	.
+8fL]	.
+8eJ	.
 4d	.
-8d	.
+8dL	.
 8e	.
 8c	.
-8A	.
+8AJ	.
 =15	=15
-4r	Fadd(2,5,7)
-8a	.
-8a	.
+4r	F other-2,5,7
+8aL	.
+8aJ	.
 4a	.
-4g	Fadd(2,4,7)
+4g	F other-2,4,7
 =16	=16
-8g	.
-8a	.
+8gL	.
+8aJ	.
 4f	.
 8r	.
+8ccL	.
 8cc	.
-8cc	.
-8cc	.
+8ccJ	.
 ==	==
 *-	*-

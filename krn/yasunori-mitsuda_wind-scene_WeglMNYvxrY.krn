@@ -16,38 +16,38 @@
 *F:	*
 *M4/4	*
 =1	=1
-2r	F
-4r	Eadd(3,5)
-4r	Dm
+2r	F major
+4r	E other-3,5
+4r	D minor
 =2	=2
-2r	C
-4r	Dm
-4r	Eadd(3,5)
+2r	C major
+4r	D minor
+4r	E other-3,5
 =3	=3
-2.r	C
-4r	Am
+2.r	C major
+4r	A minor
 =4	=4
-2.r	F
-4r	Am
+2.r	F major
+4r	A minor
 =5	=5
-2r	Gm
-4r	Am
-4r	B-
+2r	G minor
+4r	A minor
+4r	B- major
 =6	=6
-2r	C
-4r	Dm
-4r	Eadd(3,5)
+2r	C major
+4r	D minor
+4r	E other-3,5
 =7	=7
-4r	C
-4r	Am
-4r	C/G
-4r	Am
+4r	C major
+4r	A minor
+4r	C major/G
+4r	A minor
 =8	=8
-4r	Cm/E-
-4r	F
-8r	Gm
-8r	Am
-8r	B-
-8r	C
+4r	C minor/E-
+4r	F major
+8r	G minor
+8r	A minor
+8r	B- major
+8r	C major
 ==	==
 *-	*-

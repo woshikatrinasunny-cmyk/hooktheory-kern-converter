@@ -15,116 +15,116 @@
 *a:	*
 *M4/4	*
 =1	=1
-8AA	Am
+8AAL	A minor
 8AA	.
 8E	.
-8AA	.
-8AA	.
+8AAJ	.
+8AAL	.
 8E	.
 8AA	.
-8AA	.
+8AAJ	.
 =2	=2
-8BB-	B-
+8BB-L	B- major
 8BB-	.
 8E	.
-8BB-	.
-8BB-	.
+8BB-J	.
+8BB-L	.
 8E	.
 8BB-	.
-8BB-	.
+8BB-J	.
 =3	=3
-8AA	Am
+8AAL	A minor
 8AA	.
 8E	.
-8AA	.
-8AA	.
+8AAJ	.
+8AAL	.
 8E	.
 8AA	.
-8AA	.
+8AAJ	.
 =4	=4
-8BB-	B-
+8BB-L	B- major
 8BB-	.
 8E	.
-8BB-	.
-8BB-	.
+8BB-J	.
+8BB-L	.
 8E	.
 8BB-	.
-8BB-	.
+8BB-J	.
 =5	=5
-2r	Eadd(1,3,6,10)
+2r	E other-1,3,6,10
 4r	.
 4e	.
 =6	=6
 *k[]	*
 *a:	*
-1ee[	Am7
+[1ee	A minor-seventh
 =7	=7
-4.ee]	Em7/G
+4.ee]	E minor-seventh/G
 8r	.
-8.ee	.
+8.eeL	.
 8.dd	.
-8cc	.
+8ccJ	.
 =8	=8
-4.b	Fadd(4,6,7,11)
-16cc	.
-16b	.
-2a[	.
+4.b	F other-4,6,7,11
+16ccLL	.
+16bJJ	.
+[2a	.
 =9	=9
-2.a]	Fadd(4,6,7,11)
+2.a]	F other-4,6,7,11
 8r	.
-16a	.
-16b	.
+16aLL	.
+16bJJ	.
 =10	=10
-2..cc	Dm7
-16b	.
-16cc	.
+2..cc	D minor-seventh
+16bLL	.
+16ccJJ	.
 =11	=11
-2.dd	G7
+2.dd	G dominant
 8.g	.
 16r	.
 =12	=12
-4.dd	Cmaj7
-3...ee[	.
+4.dd	C major-seventh
+[3...ee	.
 =13	=13
-3...ee]	Eadd(1,4,7,10)
+3...ee]	E other-1,4,7,10
 8r	.
 4e	.
 =14	=14
-1ee[	Am7
+[1ee	A minor-seventh
 =15	=15
-4.ee]	Em7/G
+4.ee]	E minor-seventh/G
 8r	.
-8.ee	.
+8.eeL	.
 8.dd	.
-8cc	.
+8ccJ	.
 =16	=16
-4.b	Fadd(4,6,7,11)
-16cc	.
-16b	.
-2a[	.
+4.b	F other-4,6,7,11
+16ccLL	.
+16bJJ	.
+[2a	.
 =17	=17
-2.a]	Fadd(4,6,7,11)
+2.a]	F other-4,6,7,11
 8r	.
-16a	.
-16b	.
+16aLL	.
+16bJJ	.
 =18	=18
-2..cc	Dm7
-16b	.
-16cc	.
+2..cc	D minor-seventh
+16bLL	.
+16ccJJ	.
 =19	=19
-2dd	Em7
-8.cc	.
+2dd	E minor-seventh
+8.ccL	.
 8.b	.
-8g	.
+8gJ	.
 =20	=20
-4.b	Fadd(4,6,7,11)
-3...a[	.
+4.b	F other-4,6,7,11
+[3...a	.
 =21	=21
-4.a]	G7
+4.a]	G dominant
 8r	.
-8.g	.
+8.gL	.
 8.e	.
-8d	.
+8dJ	.
 *k[f#c#g#]	*
 *f#:	*
 ==	==

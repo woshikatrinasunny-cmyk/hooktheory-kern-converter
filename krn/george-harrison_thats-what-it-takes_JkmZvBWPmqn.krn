@@ -16,103 +16,103 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.r	G
+4.r	G major
 8d	.
-8d	.
+8dL	.
 8d	.
 8e	.
-8d[	.
+[8dJ	.
 =2	=2
-8d]	A
+8d]	A major
 4c#	.
-16c#	.
-16B	.
+16c#LL	.
+16BJJ	.
 4c#	.
 4r	.
 =3	=3
-4.r	Am
+4.r	A minor
 8c	.
-8c	.
+8cL	.
 8c	.
 8d	.
-8c[	.
+[8cJ	.
 =4	=4
-8c]	Cm
+8c]	C minor
 4B	.
-16B	.
-16A	.
-4B	Bm
+16BLL	.
+16AJJ	.
+4B	B minor
 4r	.
 =5	=5
-2r	Em
-8G	Em7/D
+2r	E minor
+8GL	E minor-seventh/D
 8G	.
 8G	.
-8B	.
+8BJ	.
 =6	=6
-2r	C#m7b5
-8r	C
-8E	.
+2r	C# half-diminished
+8r	C major
+8EL	.
 8G	.
-8A[	.
+[8AJ	.
 =7	=7
-8A]	F
+8A]	F major
 4A	.
 8A	.
-16A	A/E
-16G	.
-8A	.
+16ALL	A major/E
+16GJ	.
+8AJ	.
 4r	.
 =8	=8
-1r	D
+1r	D major
 =9	=9
-4.r	G
+4.r	G major
 8d	.
-8d	.
+8dL	.
 8d	.
 8e	.
-8d[	.
+[8dJ	.
 =10	=10
-8d]	A
+8d]	A major
 4c#	.
-16c#	.
-16B	.
+16c#LL	.
+16BJJ	.
 4c#	.
 4r	.
 =11	=11
-4.r	Am
+4.r	A minor
 8c	.
-8c	.
+8cL	.
 8c	.
 8d	.
-8c[	.
+[8cJ	.
 =12	=12
-8c]	Cm
+8c]	C minor
 4B	.
-16B	.
-16A	.
-4B	Bm
+16BLL	.
+16AJJ	.
+4B	B minor
 4r	.
 =13	=13
-2r	Em
-8G	Em7/D
+2r	E minor
+8GL	E minor-seventh/D
 8G	.
 8G	.
-8B	.
+8BJ	.
 =14	=14
-2r	C#m7b5
-8r	C
-8E	.
+2r	C# half-diminished
+8r	C major
+8EL	.
 8G	.
-8A[	.
+[8AJ	.
 =15	=15
-2A_	F
-8A]	D
+2A_	F major
+8AL]	D major
 8B	.
-16B	.
-16A	.
-8G	.
+16BL	.
+16AJ	.
+8GJ	.
 =16	=16
-1r	G
+1r	G major
 ==	==
 *-	*-

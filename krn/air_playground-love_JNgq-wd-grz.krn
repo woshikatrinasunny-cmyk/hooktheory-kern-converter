@@ -15,27 +15,27 @@
 *c:	*
 *M4/4	*
 =1	=1
-4r	E-
-8f	.
-8e-	.
-4f	G7
-8g	.
-8e-	.
+4r	E- major
+8fL	.
+8e-J	.
+4f	G dominant
+8gL	.
+8e-J	.
 =2	=2
-2c[	Cm
-2c]	Cm7
+[2c	C minor
+2c]	C minor-seventh
 =3	=3
-8r	Bdim7/A-
+8r	B diminished-seventh/A-
+8fL	.
 8f	.
-8f	.
-8e-	.
-4f	G7
-8g	.
-8e-	.
+8e-J	.
+4f	G dominant
+8gL	.
+8e-J	.
 =4	=4
-8c	A-add(2,4,7)
-4.e-[	.
-2e-]	Fadd(2,4,7)
+8c	A- other-2,4,7
+[4.e-	.
+2e-]	F other-2,4,7
 =5	=5
 1r	.
 ==	==

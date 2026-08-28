@@ -16,179 +16,179 @@
 *b:	*
 *M4/4	*
 =1	=1
-8dd	Bm
+8ddL	B minor
 8cc#	.
 8b	.
+8aJ	.
+8r	D major
+8aL	.
 8a	.
-8r	D
-8a	.
-8a	.
-8a	.
+8aJ	.
 =2	=2
-8cc#	A
+8cc#L	A major
 8cc#	.
 8cc#	.
-8dd[	.
-8dd]	G
+[8ddJ	.
+8ddL]	G major
 8b	.
 8b	.
-16b	.
-16b	.
+16bL	.
+16bJJ	.
 =3	=3
-8dd	Bm
+8ddL	B minor
 8cc#	.
 8b	.
+8aJ	.
+8r	D major
+8aL	.
 8a	.
-8r	D
-8a	.
-8a	.
-8a	.
+8aJ	.
 =4	=4
-8cc#	A
+8cc#L	A major
 8cc#	.
 8cc#	.
-8dd[	.
-8dd]	Em
+[8ddJ	.
+8ddL]	E minor
 8b	.
 8b	.
-8b	.
+8bJ	.
 =5	=5
-8dd	Bm
+8ddL	B minor
 8cc#	.
 8b	.
+8aJ	.
+8r	D major
+8aL	.
 8a	.
-8r	D
-8a	.
-8a	.
-8a	.
+8aJ	.
 =6	=6
-8cc#	A
+8cc#L	A major
 8cc#	.
 8cc#	.
-8dd[	.
-8dd]	G
-8b	.
+[8ddJ	.
+8ddL]	G major
+8bJ	.
 8r	.
 8a	.
 =7	=7
-8a	Bm
+8aL	B minor
 8a	.
 8a	.
-8g[	.
-8g]	D
+[8gJ	.
+8gL]	D major
 8f#	.
 8b	.
-8b	.
+8bJ	.
 =8	=8
-4.a	A
+4.a	A major
 8A	.
-4A	Em
-8A	.
-8A	.
+4A	E minor
+8AL	.
+8AJ	.
 =9	=9
-8f#	Bm
-16f#	.
+8f#L	B minor
+16f#Jk	.
 6...f#	.
-8r	D
+8r	D major
+8AL	.
 8A	.
-8A	.
-8A	.
+8AJ	.
 =10	=10
-4e	A
-8f#	.
-8e	.
-8d	G
+4e	A major
+8f#L	.
+8eJ	.
+8dL	G major
 8d	.
 8B	.
-8B	.
+8BJ	.
 =11	=11
-8f#	Bm
-16f#	.
+8f#L	B minor
+16f#Jk	.
 6...f#	.
-4r	D
-8A	.
-8A	.
+4r	D major
+8AL	.
+8AJ	.
 =12	=12
-4e	A
-8f#	.
-8e	.
-8d	Em
+4e	A major
+8f#L	.
+8eJ	.
+8dL	E minor
 8d	.
 8B	.
-8B	.
+8BJ	.
 =13	=13
-8f#	Bm
-16f#	.
+8f#L	B minor
+16f#Jk	.
 6...f#	.
-4r	D
+4r	D major
 4A	.
 =14	=14
-4e	A
-8f#	.
-8e	.
-8d	G
-8d	.
+4e	A major
+8f#L	.
+8eJ	.
+8dL	G major
+8dJ	.
 4B	.
 =15	=15
-8f#	Bm
-16f#	.
+8f#L	B minor
+16f#Jk	.
 6...f#	.
-4.r	D
+4.r	D major
 8A	.
 =16	=16
-8e	A
-16e	.
+8eL	A major
+16ek	.
 8.e	.
-8d	.
-4B	Em
+8dJ	.
+4B	E minor
 4F#	.
 =17	=17
-4b	Bm
+4b	B minor
 4b	.
-8dd	D
+8dd	D major
 4a	.
-8g[	.
+[8g	.
 =18	=18
-8g]	A
+8g]	A major
 4g	.
 8f#	.
-4g	G
+4g	G major
 4f#	.
 =19	=19
-4b	Bm
+4b	B minor
 4b	.
-8dd	D
+8dd	D major
 4a	.
-8g[	.
+[8g	.
 =20	=20
-8g]	A
+8g]	A major
 4g	.
 8f#	.
-4g	Em
+4g	E minor
 4f#	.
 =21	=21
-4b	Bm
+4b	B minor
 4b	.
-8dd	D
+8dd	D major
 4a	.
-8g[	.
+[8g	.
 =22	=22
-8g]	A
+8g]	A major
 4g	.
 8f#	.
-4g	G
+4g	G major
 4f#	.
 =23	=23
-4b	Bm
+4b	B minor
 4b	.
-8dd	D
+8dd	D major
 4a	.
-8g[	.
+[8g	.
 =24	=24
-8g]	A
+8g]	A major
 4g	.
 8f#	.
-4g	Em
+4g	E minor
 4f#	.
 ==	==
 *-	*-

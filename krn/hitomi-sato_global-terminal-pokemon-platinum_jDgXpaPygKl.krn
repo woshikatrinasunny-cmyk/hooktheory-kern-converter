@@ -16,81 +16,81 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8.cc#	F#
-8.a#	.
+8.cc#L	F# major
+8.a#J	.
 4ff#	.
-8cc#	.
+8cc#L	.
 8a#	.
-8ff#[	.
+[8ff#J	.
 =2	=2
-8ff#]	F#
-8bb	.
+8ff#L]	F# major
+8bbJ	.
 4aa#	.
-4r	F#maj7
-8gg#	.
-8ff#[	.
+4r	F# major-seventh
+8gg#L	.
+[8ff#J	.
 =3	=3
-8ff#]	Bmaj7sus2
-8dd#	.
+8ff#L]	B major-seventh-suspended-second
+8dd#J	.
 4cc#	.
 4r	.
-8aa#	.
-8bb[	.
+8aa#L	.
+[8bbJ	.
 =4	=4
-8bb]	Bmaj7sus2
+8bb]	B major-seventh-suspended-second
 4aa#	.
 4ff#	.
 4gg#	.
-16ff#	.
-16gg#	.
+16ff#LL	.
+16gg#JJ	.
 =5	=5
 *k[f#c#g#]	*
 *A:	*
-4aa	A
+4aa	A major
 3...r	.
-16ccc#	.
-16ddd	.
+16ccc#LL	.
+16dddJJ	.
 =6	=6
-4ccc#	A
+4ccc#	A major
 8bb	.
 4aa	.
 4bb	.
-8aa[	.
+[8aa	.
 =7	=7
-4aa]	Dmaj7sus2
+4aa]	D major-seventh-suspended-second
 3...r	.
-16cc#	.
-16dd	.
+16cc#LL	.
+16ddJJ	.
 =8	=8
-8.ee	Dmaj7sus2
+8.ee	D major-seventh-suspended-second
 16r	.
 8ff#	.
 4aa	.
 4gg#	.
 8aa	.
 =9	=9
-2..r	Aadd(2,4,7)
-16cc#	.
-16dd	.
+2..r	A other-2,4,7
+16cc#LL	.
+16ddJJ	.
 =10	=10
-8.ee	Aadd(2,4,7)
+8.ee	A other-2,4,7
 16r	.
 8ff#	.
 4a	.
-8dd	.
-16cc#	.
-16dd	.
-8ee	.
+8ddL	.
+16cc#L	.
+16ddJ	.
+8eeJ	.
 =11	=11
-8.aa	Dmaj7sus2
+8.aa	D major-seventh-suspended-second
 8.r	.
 8.aa	.
 8.r	.
-8ddd	.
-8ccc#[	.
+8dddL	.
+[8ccc#J	.
 =12	=12
-8ccc#]	Dmaj7sus2
-8bb	.
+8ccc#L]	D major-seventh-suspended-second
+8bbJ	.
 4aa	.
 2r	.
 ==	==

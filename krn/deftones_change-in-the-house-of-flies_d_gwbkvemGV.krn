@@ -16,75 +16,75 @@
 *c:	*
 *M4/4	*
 =1	=1
-1r	Cm
+1r	C minor
 =2	=2
-4f	Cm
+4f	C minor
 4f	.
 4e-	.
-4f[	.
+[4f	.
 =3	=3
-4.f_	A-
-4.f_	A-sus2
-4f]	A-
+4.f_	A- major
+4.f_	A- suspended-second
+4f]	A- major
 =4	=4
 8r	.
-4.r	A-sus2
-8d[	.
-8d]	A-
-4d[	.
+4.r	A- suspended-second
+[8dL	.
+8dJ]	A- major
+[4d	.
 =5	=5
-2d]	Cm
+2d]	C minor
 2r	.
 =6	=6
-4r	Cm
+4r	C minor
 4f	.
 4e-	.
-8f	.
-8g-	.
+8fL	.
+8g-J	.
 =7	=7
-4.f[	A-
-4.f_	A-sus2
-4f]	A-
+[4.f	A- major
+4.f_	A- suspended-second
+4f]	A- major
 =8	=8
-8g-[	.
-8g-]	A-sus2
-4.g[	.
-8.g]	A-
-8.d	.
+[8g-L	.
+8g-J]	A- suspended-second
+[4.g	.
+8.gL]	A- major
+8.dJ	.
 =9	=9
-1d	Cm
+1d	C minor
 =10	=10
-4r	Cm
+4r	C minor
 4f	.
 4g	.
-4a-[	.
+[4a-	.
 =11	=11
-4.a-_	A-7
-4.a-_	A-7sus2
-4a-]	A-7
+4.a-_	A- dominant
+4.a-_	A- dominant-seventh-suspended-second
+4a-]	A- dominant
 =12	=12
 8r	.
-8r	A-7sus2
+8r	A- dominant-seventh-suspended-second
 4a-	.
-8a-[	.
-8a-]	A-7
-4dd[	.
+[8a-L	.
+8a-J]	A- dominant
+[4dd	.
 =13	=13
-2dd]	Cm
+2dd]	C minor
 2r	.
 =14	=14
-4.f	Cm
+4.f	C minor
 8f	.
 4e-	.
-4f[	.
+[4f	.
 =15	=15
-4.f_	A-
-4.f_	A-sus2
-4f_	A-
+4.f_	A- major
+4.f_	A- suspended-second
+4f_	A- major
 =16	=16
 8f_	.
-4.f]	A-sus2
+4.f]	A- suspended-second
 8r	.
-4.r	A-
+4.r	A- major
 ==	==
 *-	*-

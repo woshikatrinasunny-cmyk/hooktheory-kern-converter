@@ -16,80 +16,80 @@
 *F:	*
 *M4/4	*
 =1	=1
-2r	F
-8g	.
+2r	F major
+8gL	.
 8f	.
 8g	.
-8f	.
+8fJ	.
 =2	=2
-4g	Am
+4g	A minor
 2.a	.
 =3	=3
-4.r	Dm
-16g	.
-16f	.
-16g	.
-16f	.
+4.r	D minor
+16gLL	.
+16fJJ	.
+16gLL	.
+16fJJ	.
 4g	.
 8f	.
 =4	=4
-8.g	Dm
-16f	.
+8.gL	D minor
+16fJk	.
 4.d	.
 4f	.
 8f	.
 =5	=5
-4f	B-
+4f	B- major
 3...f	.
 8f	.
 =6	=6
-4f	B-m
+4f	B- minor
 8f	.
 4f	.
 4g	.
-8f[	.
+[8f	.
 =7	=7
-1f]	F
+1f]	F major
 =8	=8
-4r	Fadd(2,4,7)
-2.r	F
+4r	F other-2,4,7
+2.r	F major
 =9	=9
-4.r	F
+4.r	F major
+8f	.
+8gL	.
 8f	.
 8g	.
-8f	.
-8g	.
-8f	.
+8fJ	.
 =10	=10
-4g	Am
+4g	A minor
 2.a	.
 =11	=11
-4.r	Dm
-16g	.
-16f	.
-8g	.
-16f	.
+4.r	D minor
+16gLL	.
+16fJJ	.
+8gL	.
+16fk	.
 8.g	.
-8f	.
+8fJ	.
 =12	=12
-8.g	Dm
-16f	.
+8.gL	D minor
+16fJk	.
 4.d	.
 4f	.
 8f	.
 =13	=13
-4f	B-
+4f	B- major
 3...f	.
 8f	.
 =14	=14
-4f	B-m
+4f	B- minor
 8f	.
 4f	.
 4g	.
-8f[	.
+[8f	.
 =15	=15
-1f]	F
+1f]	F major
 =16	=16
-1r	F7
+1r	F dominant
 ==	==
 *-	*-

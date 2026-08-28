@@ -16,50 +16,50 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4c#	F#m7
+4c#	F# minor-seventh
 4e	.
-4e	E7/D
+4e	E dominant/D
 4e	.
 =2	=2
-4e	C#m7
+4e	C# minor-seventh
 4e	.
-4f#	D
+4f#	D major
 4r	.
 =3	=3
-4c#	A
+4c#	A major
 4e	.
-4e	E7/D
+4e	E dominant/D
 4f#	.
 =4	=4
-4b	F#7sus4
-4a	F#m7
-4f#	D
+4b	F# dominant-seventh-suspended-fourth
+4a	F# minor-seventh
+4f#	D major
 4r	.
 =5	=5
-4r	A
+4r	A major
 4a	.
-4g#	E7/D
-8f#	.
-8e	.
+4g#	E dominant/D
+8f#L	.
+8eJ	.
 =6	=6
-4e	C#m7
-8e	.
-8c#	.
-4f#	D
+4e	C# minor-seventh
+8eL	.
+8c#J	.
+4f#	D major
 8r	.
 8e	.
 =7	=7
-8a	D
+8aL	D major
 8a	.
 8a	.
-8f#	.
-4a	A/C#
-8f#	.
-8e	.
+8f#J	.
+4a	A major/C#
+8f#L	.
+8eJ	.
 =8	=8
-4a	D
+4a	D major
 4a	.
-4a	Esus4
+4a	E suspended-fourth
 4r	.
 ==	==
 *-	*-

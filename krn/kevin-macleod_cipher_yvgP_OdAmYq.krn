@@ -15,38 +15,38 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8f#	F#
-8f#	.
+8f#L	F# major
+8f#J	.
 4f#	.
-8f#	.
-8g#	.
+8f#L	.
+8g#J	.
 8r	.
 8a#	.
 =2	=2
 8r	.
-8c#	.
-8b	F#/C#
-8a#	.
+8c#L	.
+8b	F# major/C#
+8a#J	.
 8r	.
-8g#	F#
+8g#	F# major
 8r	.
 8f#	.
 =3	=3
-8r	B
-8c#	.
+8r	B major
+8c#L	.
 8b	.
-8a#	.
+8a#J	.
 8r	.
 8g#	.
 8r	.
-8f#[	.
+[8f#	.
 =4	=4
-8f#]	.
+8f#L]	.
 8c#	.
-8b	F#sus4
-8a#	.
+8b	F# suspended-fourth
+8a#J	.
 8r	.
-8g#	B/F#
+8g#	B major/F#
 8r	.
 8c#	.
 ==	==

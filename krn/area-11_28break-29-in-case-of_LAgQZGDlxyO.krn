@@ -16,35 +16,35 @@
 *D:	*
 *M4/4	*
 =1	=1
-8dd	D
+8ddL	D major
 8d	.
 8d	.
-8d	.
+8dJ	.
 4d	.
-8dd	.
-8d	.
+8ddL	.
+8dJ	.
 =2	=2
-8d	.
-8d	.
+8dL	.
+8dJ	.
 4d	.
-8ee	Em
+8eeL	E minor
 8d	.
-8ff#	F#m
-8d	.
+8ff#	F# minor
+8dJ	.
 =3	=3
-8dd	D
+8ddL	D major
 8d	.
 8d	.
-8d	.
+8dJ	.
 4d	.
-8dd	.
-8d	.
+8ddL	.
+8dJ	.
 =4	=4
-8d	.
-8d	.
+8dL	.
+8dJ	.
 4d	.
-8fn	F
-8d	.
+8fnL	F major
+8dJ	.
 4fn	.
 ==	==
 *-	*-

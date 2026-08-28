@@ -15,50 +15,50 @@
 *D:	*
 *M4/4	*
 =1	=1
-8d	D7
-8a	A7
+8dL	D dominant
+8aJ	A dominant
 8r	.
-8d	D
-4a	A7
-4d	D
+8d	D major
+4a	A dominant
+4d	D major
 =2	=2
-8d#	D#
-8a#	A#7
+8d#L	D# major
+8a#J	A# dominant
 8r	.
-8d#	D#
-2a#	A#7
+8d#	D# major
+2a#	A# dominant
 =3	=3
-8d	D
-8a	A7
+8dL	D major
+8aJ	A dominant
 8r	.
-8d	D
-4a	A7
-8d	D
-8e[	F#add(1,4,7,10)
+8d	D major
+4a	A dominant
+8dL	D major
+[8eJ	F# other-1,4,7,10
 =4	=4
 1e]	.
 =5	=5
-8d	D
-8a	A7
+8dL	D major
+8aJ	A dominant
 8r	.
-8d	D
-4a	A7
-4d	D
+8d	D major
+4a	A dominant
+4d	D major
 =6	=6
-8d#	D#
-8a#	A#7
+8d#L	D# major
+8a#J	A# dominant
 8r	.
-8d#	D#
-4a#	A#7
-4d#	D#
+8d#	D# major
+4a#	A# dominant
+4d#	D# major
 =7	=7
-8d	D
-8.a	A7
-8.d	D
-8d	.
-8.a	A7
-8.d	D
+8dL	D major
+8.a	A dominant
+8.dJ	D major
+8dL	.
+8.a	A dominant
+8.dJ	D major
 =8	=8
-1fn	Eadd(1,5,7,8,11)
+1fn	E other-1,5,7,8,11
 ==	==
 *-	*-

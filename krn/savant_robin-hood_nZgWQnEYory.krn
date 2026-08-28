@@ -16,7 +16,7 @@
 *d:	*
 *M4/4	*
 =1	=1
-2.ddd	Dm
+2.ddd	D minor
 4ee	.
 =2	=2
 4dd-	.
@@ -29,67 +29,67 @@
 4e	.
 4d-	.
 =4	=4
-8d	.
-8e	.
+8dL	.
+8eJ	.
 4f	.
-8e	.
+8eL	.
 8g	.
 8f	.
-8e	.
+8eJ	.
 =5	=5
 4b-	.
 4a	.
 4f	.
 4g	.
 =6	=6
-2e	Dadd(2,3,7)
+2e	D other-2,3,7
 4d	.
 4f	.
 =7	=7
-4e	Dadd(2,4,5,7,11)
+4e	D other-2,4,5,7,11
 4d	.
 4d-	.
 4A	.
 =8	=8
-2B-	D-dim
+2B-	D- diminished
 2r	.
 =9	=9
-4r	Dm
+4r	D minor
 4dd	.
-4.cc	D7sus4
-8bbn[	G/D
+4.cc	D dominant-seventh-suspended-fourth
+[8bbn	G major/D
 =10	=10
 4bbn]	.
-2.aa	Dsus4
+2.aa	D suspended-fourth
 =11	=11
-4.ff	D7sus4
-4.gg	G/D
-4ff[	B-/D
+4.ff	D dominant-seventh-suspended-fourth
+4.gg	G major/D
+[4ff	B- major/D
 =12	=12
 8ff]	.
-4.aa	Dm7
-4gg	Dm11
-4ccc	Dm11
+4.aa	D minor-seventh
+4gg	D minor-11th
+4ccc	D minor-11th
 =13	=13
-8ddd	Dm
+8dddL	D minor
 8ccc	.
-8ddd	.
+8dddJ	.
 4r	.
-8ccc	D7sus4
+8ccc	D dominant-seventh-suspended-fourth
 8r	.
-8bbn	G/D
+8bbn	G major/D
 =14	=14
 8r	.
-4.aa	D
+4.aa	D major
 2r	.
 =15	=15
-4.gg	G/D
-4.gg	G/D
-4ff[	B-/D
+4.gg	G major/D
+4.gg	G major/D
+[4ff	B- major/D
 =16	=16
 8ff]	.
-4.aa	Dm7
-4gg	Dm11
-4ccc	Dm11
+4.aa	D minor-seventh
+4gg	D minor-11th
+4ccc	D minor-11th
 ==	==
 *-	*-

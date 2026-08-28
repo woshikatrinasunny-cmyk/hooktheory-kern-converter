@@ -16,63 +16,63 @@
 *C:	*
 *M4/4	*
 =1	=1
-1G	C
+1G	C major
 =2	=2
-2B	Cmaj7
+2B	C major-seventh
 4r	.
 4c	.
 =3	=3
-1G	Gm7
+1G	G minor-seventh
 =4	=4
-4.A	A7
+4.A	A dominant
 8r	.
-8r	A7/E
-8r	A7
-8r	A7/C#
-8r	A7/E
+8r	A dominant/E
+8r	A dominant
+8r	A dominant/C#
+8r	A dominant/E
 =5	=5
-1G	C
+1G	C major
 =6	=6
-3...B	Cmaj7
+3...B	C major-seventh
 8r	.
-4c	C/E
+4c	C major/E
 =7	=7
-1G	Gm7
+1G	G minor-seventh
 =8	=8
-4.A	A7
+4.A	A dominant
 3...r	.
 =9	=9
-4r	F
-8d	.
-8c	.
+4r	F major
+8dL	.
+8cJ	.
 8B	.
 4A	.
 8c	.
 =10	=10
-4A	D
+4A	D major
 2.r	.
 =11	=11
-4r	F
-8d	.
-8c	.
+4r	F major
+8dL	.
+8cJ	.
 8B	.
 4A	.
 8c	.
 =12	=12
-4A	D
+4A	D major
 2.r	.
 =13	=13
-2.G[	C
-4G]	Dm11
+[2.G	C major
+4G]	D minor-11th
 =14	=14
-2B	Em7
+2B	E minor-seventh
 4r	.
-8c[	G7/F
-8c]	Em/G
+[8cL	G dominant/F
+8cJ]	E minor/G
 =15	=15
-1G	C7
+1G	C dominant
 =16	=16
-4A	F
+4A	F major
 2.r	.
 ==	==
 *-	*-

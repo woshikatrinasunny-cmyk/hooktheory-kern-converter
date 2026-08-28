@@ -16,71 +16,71 @@
 *G:	*
 *M4/4	*
 =1	=1
-4dd	G
+4dd	G major
 4dd	.
 4dd	.
 4dd	.
 =2	=2
-4cc	Gsus4
+4cc	G suspended-fourth
 4cc	.
-4b	G
+4b	G major
 4b	.
 =3	=3
-4cc	C
+4cc	C major
 4cc	.
 4cc	.
 4cc	.
 =4	=4
-4cc	C
+4cc	C major
 4cc	.
-4cc	D7
+4cc	D dominant
 4cc	.
 =5	=5
-4b	Em
+4b	E minor
 4b	.
 4b	.
 4b	.
 =6	=6
-4b	Em
+4b	E minor
 4b	.
-4b	G/D
+4b	G major/D
 4b	.
 =7	=7
-4cc	C
+4cc	C major
 4cc	.
 4cc	.
 4cc	.
 =8	=8
-4cc	C
+4cc	C major
 4cc	.
 4cc	.
 4cc	.
 =9	=9
-2..aa	G
-8gg[	.
+2..aa	G major
+[8gg	.
 =10	=10
-2gg_	Gsus4
-2gg]	G
+2gg_	G suspended-fourth
+2gg]	G major
 =11	=11
-2..aa	C
-8gg[	.
+2..aa	C major
+[8gg	.
 =12	=12
-2gg]	C
-2ccc	D7
+2gg]	C major
+2ccc	D dominant
 =13	=13
-2..aa	Em
-8gg[	.
+2..aa	E minor
+[8gg	.
 =14	=14
-2gg_	Em
-2gg]	G/D
+2gg_	E minor
+2gg]	G major/D
 =15	=15
-2..aa	C
-8gg[	.
+2..aa	C major
+[8gg	.
 =16	=16
-2gg]	C
-8g	.
+2gg]	C major
+8gL	.
 8a	.
 8g	.
-8cc	.
+8ccJ	.
 ==	==
 *-	*-

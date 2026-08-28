@@ -16,104 +16,104 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4.ee-	D-
-4.dd-	D-
+4.ee-	D- major
+4.dd-	D- major
 4a-	.
 =2	=2
-4.ee-	D-/F
-4.dd-	D-/F
+4.ee-	D- major/F
+4.dd-	D- major/F
 4a-	.
 =3	=3
-4.ff	G-
-3...ee-[	G-
+4.ff	G- major
+[3...ee-	G- major
 =4	=4
-8ee-]	A-7/G-
+8ee-]	A- dominant/G-
 8r	.
-8ee-[	.
-8ee-]	A-7/G-
+[8ee-L	.
+8ee-J]	A- dominant/G-
 4ff	.
 4gg-	.
 =5	=5
-4.aa-[	Fm7
-4aa-]	Fm7
-8aa-	.
+[4.aa-	F minor-seventh
+4aa-]	F minor-seventh
+8aa-L	.
 8bb-	.
-8ff[	.
+[8ffJ	.
 =6	=6
-4.ff_	B-7
-4ff]	B-7
-8ee-	.
+4.ff_	B- dominant
+4ff]	B- dominant
+8ee-L	.
 8ff	.
-8gg-[	.
+[8gg-J	.
 =7	=7
-4.gg-_	B
-4gg-]	B
-8aa-	.
+4.gg-_	B major
+4gg-]	B major
+8aa-L	.
 8gg-	.
-8ff[	.
+[8ffJ	.
 =8	=8
-8ff]	A-add(2,5,7)
+8ffL]	A- other-2,5,7
 8dd-	.
-8ff	.
-4.ee-	A-
+8ffJ	.
+4.ee-	A- major
 4a-	.
 =9	=9
-4.ee-	D-
-4.dd-	D-
-4a-	D-maj7sus2/C
+4.ee-	D- major
+4.dd-	D- major
+4a-	D- major-seventh-suspended-second/C
 =10	=10
-4.ee-	B-sus4
-4.dd-	B-m
-4a-	D-/A-
+4.ee-	B- suspended-fourth
+4.dd-	B- minor
+4a-	D- major/A-
 =11	=11
-4.ff	G-
-3...ee-[	G-
+4.ff	G- major
+[3...ee-	G- major
 =12	=12
-8ee-]	A-7sus4
+8ee-]	A- dominant-seventh-suspended-fourth
 8r	.
-8ee-[	.
-8ee-]	A-7/G-
+[8ee-L	.
+8ee-J]	A- dominant/G-
 4ccc	.
 4bb-	.
 =13	=13
-4.aa-[	Fm7
-4aa-]	Fm7
-8aa-	.
+[4.aa-	F minor-seventh
+4aa-]	F minor-seventh
+8aa-L	.
 8bb-	.
-8bbn[	.
+[8bbnJ	.
 =14	=14
-4bbn]	B-7
-8bb-	.
-8aa-	B-7
+4bbn]	B- dominant
+8bb-L	.
+8aa-J	B- dominant
 8r	.
 8ff	.
 8r	.
-8gg-[	.
+[8gg-	.
 =15	=15
-4.gg-_	B
-4gg-]	B
-8gg-	.
+4.gg-_	B major
+4gg-]	B major
+8gg-L	.
 8aa-	.
-8aan[	.
+[8aanJ	.
 =16	=16
-4aan]	A-m7
-8aa-	.
-8aan	A-m7
+4aan]	A- minor-seventh
+8aa-L	.
+8aanJ	A- minor-seventh
 8r	.
-8bbn	A-m7
+8bbn	A- minor-seventh
 8r	.
-8ddd-[	.
+[8ddd-	.
 =17	=17
-4.ddd-_	D-
-3...ddd-_	D-
+4.ddd-_	D- major
+3...ddd-_	D- major
 =18	=18
-4.ddd-_	Dmaj7/D-
-3...ddd-]	Dmaj7/D-
+4.ddd-_	D major-seventh/D-
+3...ddd-]	D major-seventh/D-
 =19	=19
-4.aa-[	D-m7
-3...aa-]	D-m7
+[4.aa-	D- minor-seventh
+3...aa-]	D- minor-seventh
 =20	=20
-4.gg-[	Dmaj7/D-
-3...gg-]	Dmaj7/D-
+[4.gg-	D major-seventh/D-
+3...gg-]	D major-seventh/D-
 ==	==
 *-	*-

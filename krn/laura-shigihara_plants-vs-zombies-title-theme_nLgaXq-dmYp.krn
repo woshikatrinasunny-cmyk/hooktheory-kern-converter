@@ -16,10 +16,10 @@
 *g:	*
 *M4/4	*
 =1	=1
-8dd	Gm
+8ddL	G minor
 8dd-	.
 8dd	.
-8b-	.
+8b-J	.
 4.g	.
 8b-	.
 =2	=2
@@ -28,10 +28,10 @@
 4.g	.
 8dd-	.
 =3	=3
-8dd	.
+8ddL	.
 8dd-	.
 8dd	.
-8b-	.
+8b-J	.
 4.g	.
 8b-	.
 =4	=4
@@ -40,35 +40,35 @@
 4.g	.
 8dd-	.
 =5	=5
-8dd	.
+8ddL	.
 8dd-	.
 8dd	.
-8b-	.
-8g	.
+8b-J	.
+8gL	.
 8bb-	.
 8gg	.
-8b-	.
+8b-J	.
 =6	=6
-4.g	Gdim
+4.g	G diminished
 8dd	.
-4.g	Gm
-8a	E-7
+4.g	G minor
+8a	E- dominant
 =7	=7
-8b-	.
-8a	.
+8b-L	.
+8aJ	.
 4b-	.
-8dd	.
+8ddL	.
 8bb-	.
 8gg	.
-8dd-	.
+8dd-J	.
 =8	=8
-8dd	Gm
+8ddL	G minor
 8g	.
 8b-	.
-8dd-	.
-8dd	.
+8dd-J	.
+8ddL	.
 8gg	.
 8bb-	.
-8dd-	.
+8dd-J	.
 ==	==
 *-	*-

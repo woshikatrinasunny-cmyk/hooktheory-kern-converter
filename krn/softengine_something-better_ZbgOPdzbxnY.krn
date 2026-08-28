@@ -16,57 +16,57 @@
 *C:	*
 *M4/4	*
 =1	=1
-2bb	C
+2bb	C major
 4gg	.
 4dd	.
 =2	=2
-4.ff#	D
-4gg	Em
+4.ff#	D major
+4gg	E minor
 4dd	.
-8bb[	.
+[8bb	.
 =3	=3
-2bb]	C
+2bb]	C major
 4gg	.
 4dd	.
 =4	=4
-4.ff#	D
-4gg	Em
+4.ff#	D major
+4gg	E minor
 4dd	.
-8bb[	.
+[8bb	.
 =5	=5
-4.bb]	C
+4.bb]	C major
 8gg	.
 4gg	.
 4dd	.
 =6	=6
-4.aa	D
-4gg	Em
+4.aa	D major
+4gg	E minor
 4dd	.
-8bb[	.
+[8bb	.
 =7	=7
-2bb]	C
+2bb]	C major
 4gg	.
 4dd	.
 =8	=8
-4.ff#	D
-3...gg	Em
+4.ff#	D major
+3...gg	E minor
 =9	=9
-8dd	.
-8dd	.
-8gg	.
-8dd	.
+8ddL	.
 8dd	.
 8gg	.
-8dd	.
+8ddJ	.
+8ddL	.
 8gg	.
+8dd	.
+8ggJ	.
 =10	=10
-8dd	.
-8dd	.
-8gg	.
-8dd	.
+8ddL	.
 8dd	.
 8gg	.
+8ddJ	.
+8ddL	.
+8gg	.
 8g	.
-8g	.
+8gJ	.
 ==	==
 *-	*-

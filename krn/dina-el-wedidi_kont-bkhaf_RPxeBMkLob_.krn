@@ -16,50 +16,50 @@
 *E:	*
 *M4/4	*
 =1	=1
-8.c#	Eadd(5,7,9,10)/B
+8.c#	E other-5,7,9,10/B
 16r	.
 16G#	.
 16r	.
 16A	.
 16r	.
-8G#	.
+8G#L	.
 8A	.
-16G#	.
+16G#Jk	.
 16r	.
-16E	.
-16E	.
+16ELL	.
+16EJJ	.
 =2	=2
-8.c#	Amaj7
+8.c#	A major-seventh
 16r	.
 16G#	.
 16r	.
 16A	.
 16r	.
-8G#	.
-8A	.
+8G#L	.
+8AJ	.
 8r	.
-16G#	.
-16F#	.
+16G#LL	.
+16F#JJ	.
 =3	=3
-8.G#	Aadd(3,9)
+8.G#	A other-3,9
 16r	.
 16F#	.
 16r	.
 16F#	.
 16r	.
+16ELL	.
 16E	.
-16E	.
-16F#	.
+16F#JJ	.
 16r	.
 16F#	.
 8r	.
 16G#	.
 =4	=4
-8.A	F#m7
+8.A	F# minor-seventh
 16r	.
-8A	.
-8G#	.
-4F#	Bsus4
-4r	B
+8AL	.
+8G#J	.
+4F#	B suspended-fourth
+4r	B major
 ==	==
 *-	*-

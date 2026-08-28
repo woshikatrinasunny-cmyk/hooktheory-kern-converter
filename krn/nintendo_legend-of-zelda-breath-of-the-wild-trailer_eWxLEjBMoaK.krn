@@ -17,38 +17,38 @@
 *M3/4	*
 =1	=1
 2r	.
-8g#	.
-8dd#	.
+8g#L	.
+8dd#J	.
 =2	=2
-8dd#	E
-8f#	.
+8dd#L	E major
+8f#J	.
 2g#	.
 =3	=3
-8dd#	F#add(2,5,7)
-8a#	.
+8dd#L	F# other-2,5,7
+8a#J	.
 4b	.
 4cc#	.
 =4	=4
-8dd#	D#m7
-8g#	.
+8dd#L	D# minor-seventh
+8g#J	.
 4.gg#	.
 8ff#	.
 =5	=5
-2dd#	G#m
-8g#	.
-8ffn	.
+2dd#	G# minor
+8g#L	.
+8ffnJ	.
 =6	=6
-2dd#	E
-8g#	.
-8ffn	.
+2dd#	E major
+8g#L	.
+8ffnJ	.
 =7	=7
-2dd#	F#
-8g#	.
-8ffn[	.
+2dd#	F# major
+8g#L	.
+[8ffnJ	.
 =8	=8
-8ffn]	C#add(2,4,7)
-3...dd#[	.
+8ffn]	C# other-2,4,7
+[3...dd#	.
 =9	=9
-2.dd#]	C#add(2,4,7)
+2.dd#]	C# other-2,4,7
 ==	==
 *-	*-

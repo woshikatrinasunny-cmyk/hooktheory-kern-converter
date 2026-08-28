@@ -16,69 +16,69 @@
 *d:	*
 *M4/4	*
 =1	=1
-4.a	Gadd(2,3,7)
+4.a	G other-2,3,7
 8g	.
-8f	Gm
+8fL	G minor
 8f	.
-8g	.
+8gJ	.
 8r	.
 =2	=2
-8r	B-
+8r	B- major
+8gL	.
 8g	.
-8g	.
-16f	.
+16fJk	.
 8.a	.
-8g	.
+8gL	.
 8f	.
-8e	.
+8eJ	.
 =3	=3
-4.g	Dsus4
+4.g	D suspended-fourth
 8f	.
-8e	Dm
+8eL	D minor
 8e	.
-8f	.
+8fJ	.
 8r	.
 =4	=4
-4r	C
-8f	.
-16e	.
-16g[	.
-8g]	Dm7/C
+4r	C major
+8fL	.
+16eL	.
+[16gJJ	.
+8gL]	D minor-seventh/C
 8f	.
 8e	.
-8d	.
+8dJ	.
 =5	=5
-4.f	B-
+4.f	B- major
 8r	.
-8.f	.
-8.e	B-add(6,7)
-8d	B-
+8.fL	.
+8.e	B- other-6,7
+8dJ	B- major
 =6	=6
-4.g	Gm
+4.g	G minor
 8r	.
-8.g	.
-8.f	Gm7
-8e	Em7b5/G
+8.gL	.
+8.f	G minor-seventh
+8eJ	E half-diminished/G
 =7	=7
-4.a	F
+4.a	F major
 8r	.
-8c	.
-8d	Dm7/F
-8f	F
-8g	Fadd(2,4,7)
+8cL	.
+8d	D minor-seventh/F
+8f	F major
+8gJ	F other-2,4,7
 =8	=8
-4.a	Gadd(2,3,7)
+4.a	G other-2,3,7
 8g	.
-8f	Gm7
-8f	.
-4g	Gm
+8fL	G minor-seventh
+8fJ	.
+4g	G minor
 =9	=9
-4.r	B-
+4.r	B- major
 8d	.
 4f	.
 4d	.
 =10	=10
-4.e	A
+4.e	A major
 3...r	.
 ==	==
 *-	*-

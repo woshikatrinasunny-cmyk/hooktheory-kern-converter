@@ -16,72 +16,72 @@
 *a:	*
 *M4/4	*
 =1	=1
-16r	Am
+16r	A minor
+8.eL	.
+8.dJ	.
+8c	E minor
+8cL	.
 8.e	.
-8.d	.
-8c	Em
-8c	.
-8.e	.
-8c	.
+8cJ	.
 =2	=2
-16r	F
-8.e	.
+16r	F major
+8.eL	.
 8d	.
-16d	.
-8c	C
-8c	.
-8e	.
+16dJk	.
+8c	C major
+8cL	.
+8eJ	.
 8.r	.
 =3	=3
-16r	Gmaj7
-8.b	.
+16r	G major-seventh
+8.bL	.
 8g	.
-16g	.
-8f#	Dmaj7
-8f#	.
+16gJk	.
+8f#	D major-seventh
+8f#L	.
 8.a	.
-8f#	.
+8f#J	.
 =4	=4
-16r	F
-8.a	.
-8.f	.
-8e	C
-8e	.
+16r	F major
+8.aL	.
+8.fJ	.
+8e	C major
+8eL	.
 8.g	.
-8e	.
+8eJ	.
 =5	=5
-16r	Am
+16r	A minor
+8.eL	.
+8.dJ	.
+8c	E minor
+8cL	.
 8.e	.
-8.d	.
-8c	Em
-8c	.
-8.e	.
-8c	.
+8cJ	.
 =6	=6
-16r	F
-8.e	.
-8.d	.
-8c	C
-8c	.
-8e	.
+16r	F major
+8.eL	.
+8.dJ	.
+8c	C major
+8cL	.
+8eJ	.
 8.r	.
 =7	=7
-16r	Gmaj7
-8.b	.
+16r	G major-seventh
+8.bL	.
 8g	.
-16g	.
-8f#	Dmaj7
-8f#	.
+16gJk	.
+8f#	D major-seventh
+8f#L	.
 8.a	.
-8f#	.
+8f#J	.
 =8	=8
-16r	F
-8.a	.
+16r	F major
+8.aL	.
 8f	.
-16f	.
-8e	C
-8e	.
+16fJk	.
+8e	C major
+8eL	.
 8.g	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

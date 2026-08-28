@@ -15,116 +15,116 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	C
-8e	.
+8r	C major
+8eL	.
 8.e	.
-16f	.
-8g	.
-16f	.
+16fJk	.
+8gL	.
+16fJk	.
 6...e	.
 =2	=2
-8r	E
-8e	.
+8r	E major
+8eL	.
 8.e	.
-16f#	.
-8g#	.
-16f#	.
+16f#Jk	.
+8g#L	.
+16f#Jk	.
 6...e	.
 =3	=3
-8r	F
-8f	.
+8r	F major
+8fL	.
 8.f	.
-16g	.
-8a	.
-16g	.
-6...f[	.
+16gJk	.
+8aL	.
+16gJk	.
+[6...f	.
 =4	=4
-8f]	G
+8fL]	G major
 8g	.
 8.g	.
-16f	.
-8g	.
-16f	.
+16fJk	.
+8gL	.
+16fk	.
 8e	.
-8.d	.
+8.dJ	.
 =5	=5
-8r	C
-8e	.
+8r	C major
+8eL	.
 8.e	.
-16f	.
-8g	.
-16f	.
+16fJk	.
+8gL	.
+16fJk	.
 6...e	.
 =6	=6
-8r	E
+8r	E major
+8eL	.
 8e	.
-8e	.
-8f#	.
-8g#	.
-16b	.
+8f#J	.
+8g#L	.
+16bJk	.
 6...g#	.
 =7	=7
-8r	F
-8f	.
+8r	F major
+8fL	.
 8.f	.
-16g	.
-8a	.
-16g	.
+16gJk	.
+8aL	.
+16gJk	.
 6...f	.
 =8	=8
-4g	G
+4g	G major
 8.a	.
 16r	.
-8b	.
-16a	.
+8bL	.
+16ak	.
 8g	.
-16f	.
-8e	.
+16fk	.
+8eJ	.
 =9	=9
-8ccc	C
+8cccL	C major
 8ddd	.
-8eee	.
+8eeeJ	.
 4ggg	.
 4eee	.
 8ccc	.
 =10	=10
-8eee	E
+8eeeL	E major
 8fff#	.
-8ggg#	.
+8ggg#J	.
 3...bbb	.
 =11	=11
-8fff	F
+8fffL	F major
 8ggg	.
-8aaa	.
+8aaaJ	.
 4cccc	.
 4aaa	.
 8fff	.
 =12	=12
-8ggg	G
+8gggL	G major
 8fff	.
-8eee	.
+8eeeJ	.
 3...ddd	.
 =13	=13
-8ccc	C
+8cccL	C major
 8ddd	.
-8eee	.
+8eeeJ	.
 4ggg	.
 4eee	.
 8ccc	.
 =14	=14
-8eee	E
+8eeeL	E major
 8fff#	.
-8ggg#	.
+8ggg#J	.
 3...bbb	.
 =15	=15
-8fff	F
+8fffL	F major
 8ggg	.
-8aaa	.
+8aaaJ	.
 4cccc	.
 4aaa	.
 8aaa	.
 =16	=16
-4bbb	G
+4bbb	G major
 4aaa	.
 4ggg	.
 4fff	.

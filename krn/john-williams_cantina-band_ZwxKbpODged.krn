@@ -16,68 +16,68 @@
 *F:	*
 *M4/4	*
 =1	=1
-16r	C7
-8.ee	.
-16dd	G7
-8.bn	.
-8.cc[	C
-16cc]	C7/B-
-8bb-[	.
-8bb-]	C7/G
+16r	C dominant
+8.eeL	.
+16ddk	G dominant
+8.bnJ	.
+[8.ccL	C major
+16cck]	C dominant/B-
+[8bb-	.
+8bb-J]	C dominant/G
 =2	=2
-4aa	F
-4gg	C7
-4ff[	F
-8ff]	Fmaj7/E
-8ff	Dm7
+4aa	F major
+4gg	C dominant
+[4ff	F major
+8ffL]	F major-seventh/E
+8ffJ	D minor-seventh
 =3	=3
-4ee	C7
-4dd	G7
-8.cc	C
-8.bb-[	C7/B-
-8bb-]	C7/G
+4ee	C dominant
+4dd	G dominant
+8.ccL	C major
+[8.bb-	C dominant/B-
+8bb-J]	C dominant/G
 =4	=4
-4aa	F
-8gg[	C7
-16gg]	D-dim7
-16gg-[	.
-2gg-]	D7
+4aa	F major
+[8ggL	C dominant
+16ggL]	D- diminished-seventh
+[16gg-JJ	.
+2gg-]	D dominant
 =5	=5
-16dd	B-
+16ddLL	B- major
 16ff	.
-16bb-	.
+16bb-JJ	.
 6...bb-	.
-16dd	Bdim
+16ddLL	B diminished
 16ff	.
-16bbn	.
+16bbnJJ	.
 6...bbn	.
 =6	=6
-16ff	F/C
+16ffLL	F major/C
 16a	.
 16cc	.
-16dd-[	.
-4dd-]	Fadd(2,4,8)
-2ddd	D
+[16dd-JJ	.
+4dd-]	F other-2,4,8
+2ddd	D major
 =7	=7
-16fff	Gm7
+16fffLL	G minor-seventh
 16aaa	.
 16ddd	.
 16fff	.
 16bb-	.
 16ddd	.
 16gg	.
-16ddd	.
-16eee	C7
+16dddJJ	.
+16eeeLL	C dominant
 16ggg	.
 16ccc	.
 16eee	.
 16bb-	.
 16ccc	.
 16gg	.
-16ccc	.
+16cccJJ	.
 =8	=8
-4ff	F
-4ddd-	D-7
-2fff	Dm7/F
+4ff	F major
+4ddd-	D- dominant
+2fff	D minor-seventh/F
 ==	==
 *-	*-

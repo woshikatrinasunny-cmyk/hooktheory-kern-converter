@@ -17,113 +17,113 @@
 *M4/4	*
 =1	=1
 2..r	.
-16eee	.
-16ddd	.
+16eeeLL	.
+16dddJJ	.
 =2	=2
-8ccc	Dm7/F
+8cccL	D minor-seventh/F
 8aa	.
-8ff	Dm7/C
-8dd	.
-8cc	Dm7/F
-8ff	.
-4dd	Dm7/C
+8ff	D minor-seventh/C
+8ddJ	.
+8ccL	D minor-seventh/F
+8ffJ	.
+4dd	D minor-seventh/C
 =3	=3
-8cc	Dm7/F
-8aa-	.
-4dd	Bm7b5
-16b-	Dm7/F
+8ccL	D minor-seventh/F
+8aa-J	.
+4dd	B half-diminished
+16b-LL	D minor-seventh/F
 16bn	.
 16cc	.
-16a	.
-8cc	Dm7/F
-16aa	.
-16gg	.
+16aJ	.
+8cc	D minor-seventh/F
+16aaL	.
+16ggJJ	.
 =4	=4
-16ff	Gm7/B-
+16ff	G minor-seventh/B-
 16r	.
 16dd	.
 16r	.
 16ff	.
 16r	.
-16bb-	B-maj7/A
+16bb-	B- major-seventh/A
 16r	.
-16ff	Gm7
+16ff	G minor-seventh
 16r	.
 16ddd	.
 16r	.
 16ff	.
 16r	.
-16ggg-	Gm7b5
+16ggg-	G half-diminished
 16r	.
 =5	=5
-16aaa-	C7
-16ggg	Gdim/D-
-16ggg-	Bm/D
-16fff	E-7
-16eee	G-dim7/E-
-16eee-	Fdim
-16ddd	G-7
-16ddd-	A7/G
-16ccc	Dm7b5/A-
-16bbn	A7
-16bb-	Cm7b5/B-
-16aa	G7/B
-16aa-	C7
+16aaa-LL	C dominant
+16ggg	G diminished/D-
+16ggg-	B minor/D
+16fff	E- dominant
+16eee	G- diminished-seventh/E-
+16eee-	F diminished
+16ddd	G- dominant
+16ddd-JJ	A dominant/G
+16cccLL	D half-diminished/A-
+16bbn	A dominant
+16bb-	C half-diminished/B-
+16aa	G dominant/B
+16aa-JJ	C dominant
 16r	.
-16eee	.
-16ddd	.
+16eeeLL	.
+16dddJJ	.
 =6	=6
-8ccc	Dm7/F
+8cccL	D minor-seventh/F
 8aa	.
-8ff	Dm7/C
-8dd	.
-8cc	Dm7/F
-8ff	.
-4dd	Dm7/C
+8ff	D minor-seventh/C
+8ddJ	.
+8ccL	D minor-seventh/F
+8ffJ	.
+4dd	D minor-seventh/C
 =7	=7
-16cc	F7
+16ccLL	F dominant
 16ee-	.
 16gg	.
 16ccc	.
-16ddd	F7
+16ddd	F dominant
 16eee-	.
 16eee	.
-16aaa	.
-8ggg	B-
+16aaaJJ	.
+8gggL	B- major
 8fff	.
-8fff[	.
-8fff]	B-maj7/A
+[8fff	.
+8fffJ]	B- major-seventh/A
 =8	=8
-16bb-	Gm7b5
+16bb-LL	G half-diminished
 16ddd-	.
 16fff	.
 16ddd-	.
 16bb-	.
 16aa	.
 16bb-	.
-16gg	.
-16ff	F/C
+16ggJJ	.
+16ffLL	F major/C
 16aa	.
 16ccc	.
 16aa	.
 16ff	.
 16ee	.
 16ff	.
-16dd	.
+16ddJJ	.
 =9	=9
-16cc	C7
+16ccLL	C dominant
 16bn	.
 16cc	.
 16dd	.
-16ee	C7
+16ee	C dominant
 16cc	.
 16ee	.
-16aa	.
-8gg	F
+16aaJJ	.
+8ggL	F major
 8ff	.
-16ff	.
+16ffL	.
 16ee	.
 16ee-	.
-16dd	.
+16ddJJ	.
 ==	==
 *-	*-

@@ -16,60 +16,60 @@
 *D:	*
 *M4/4	*
 =1	=1
-8.a[	Dsus2
-8.a]	Dsus2
-8.ee[	Badd(2,3,7)/D
-8.ee]	Badd(2,3,7)/D
-8.ff#[	Bm
-16ff#_	Bm
+[8.aL	D suspended-second
+8.aJ]	D suspended-second
+[8.ee	B other-2,3,7/D
+8.eeL]	B other-2,3,7/D
+[8.ff#	B minor
+16ff#Jk_	B minor
 =2	=2
-8ff#]	.
-8.dd	Bm
-8.dd	Bm
-8.dd	Bm
-8.dd	Bm
-8dd[	Bm
+8ff#L]	.
+8.dd	B minor
+8.ddJ	B minor
+8.ddL	B minor
+8.dd	B minor
+[8ddJ	B minor
 =3	=3
-16dd]	.
-8.dd	Bm7/A
-8.dd	Bm7/A
-8.dd	Bm7/A
-8.dd	Bm7/A
-8.cc#	Dmaj7/A
+16ddLK]	.
+8.dd	B minor-seventh/A
+8.ddJ	B minor-seventh/A
+8.dd	B minor-seventh/A
+8.ddL	B minor-seventh/A
+8.cc#J	D major-seventh/A
 =4	=4
-8.cc#	Dmaj7
-8.cc#	Dmaj7
-8.cc#	Dmaj7
-8.cc#	Dmaj7
-8.cc#	Dmaj7
-16cc#	Dmaj7
+8.cc#L	D major-seventh
+8.cc#J	D major-seventh
+8.cc#	D major-seventh
+8.cc#L	D major-seventh
+8.cc#	D major-seventh
+16cc#Jk	D major-seventh
 =5	=5
-8.a[	Dsus2
-8.a]	Dsus2
-8.ee[	Badd(2,3,7)/D
-8.ee]	Badd(2,3,7)/D
-8.ff#[	Bm
-16ff#_	Bm
+[8.aL	D suspended-second
+8.aJ]	D suspended-second
+[8.ee	B other-2,3,7/D
+8.eeL]	B other-2,3,7/D
+[8.ff#	B minor
+16ff#Jk_	B minor
 =6	=6
-8ff#]	.
-8.dd	Bm
-8.dd	Bm
-8.dd	Bm
-8.dd	Bm
-8dd[	Bm
+8ff#L]	.
+8.dd	B minor
+8.ddJ	B minor
+8.ddL	B minor
+8.dd	B minor
+[8ddJ	B minor
 =7	=7
-16dd]	.
-8.dd	Bm7/A
-8.dd	Bm7/A
-8.dd	Bm7/A
-8.dd	Bm7/A
-8.cc#	Dmaj7/A
+16ddLK]	.
+8.dd	B minor-seventh/A
+8.ddJ	B minor-seventh/A
+8.dd	B minor-seventh/A
+8.ddL	B minor-seventh/A
+8.cc#J	D major-seventh/A
 =8	=8
-8.cc#	Dmaj7
-8.cc#	Dmaj7
-8.cc#	Dmaj7
-8.cc#	Dmaj7
-8.cc#	Dmaj7
-16cc#	Dmaj7
+8.cc#L	D major-seventh
+8.cc#J	D major-seventh
+8.cc#	D major-seventh
+8.cc#L	D major-seventh
+8.cc#	D major-seventh
+16cc#Jk	D major-seventh
 ==	==
 *-	*-

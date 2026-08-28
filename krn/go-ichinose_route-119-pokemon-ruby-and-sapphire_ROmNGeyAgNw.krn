@@ -16,103 +16,103 @@
 *A:	*
 *M6/4	*
 =1	=1
-2cc#	A
-8e	.
-8e	.
+2cc#	A major
+8eL	.
+8eJ	.
 8e	.
 8r	.
-8cc#[	.
-4.cc#]	A
+[8cc#	.
+4.cc#]	A major
 =2	=2
-4.ee	A7/G
+4.ee	A dominant/G
 4.dd	.
 4.cc#	.
-4.ee	A7/G
+4.ee	A dominant/G
 =3	=3
-3...dd	D/F#
+3...dd	D major/F#
 8a	.
 2.a	.
 =4	=4
-8fn	F
+8fn	F major
 8r	.
 8gn	.
 4.a	.
-8gn	G
+8gn	G major
 8r	.
 8a	.
 4.b	.
 =5	=5
-8cc#	A
-8e	.
-8e	.
-8e	.
+8cc#L	A major
+8eJ	.
+8eL	.
+8eJ	.
 8r	.
 8e	.
-8e	.
-8e	.
-8cc#[	.
-4.cc#]	A
+8eL	.
+8eJ	.
+[8cc#	.
+4.cc#]	A major
 =6	=6
-4.ee	A7/G
+4.ee	A dominant/G
 4.dd	.
 8cc#	.
 8r	.
-8ee[	.
-4.ee]	A7/G
+[8ee	.
+4.ee]	A dominant/G
 =7	=7
-4.dd	D/F#
+4.dd	D major/F#
 4r	.
 8a	.
 2.a	.
 =8	=8
-8fn	F
-8fn	.
+8fnL	F major
+8fnJ	.
 8gn	.
 4.a	.
-8gn	G
-8gn	.
+8gnL	G major
+8gnJ	.
 8a	.
 4ggn	.
 16ff#	.
 16r	.
 =9	=9
-1ee	G/D
-8dd	.
-8cc#	.
+1ee	G major/D
+8ddL	.
+8cc#J	.
 8r	.
 8ee	.
 =10	=10
-2.dd	D
+2.dd	D major
 4.a	.
 8dd	.
-8cc#	.
-8b	.
+8cc#L	.
+8bJ	.
 =11	=11
-1dd	Bm7
-8cc#	.
-8b	.
-8a	.
-8b	.
+1dd	B minor-seventh
+8cc#L	.
+8bJ	.
+8aL	.
+8bJ	.
 =12	=12
-2.cc#	Amaj7
+2.cc#	A major-seventh
 4ee	.
 8r	.
 8a	.
-8b	.
-8ccn	.
+8bL	.
+8ccnJ	.
 =13	=13
-1cc#	F#m7
-8b	.
-8a	.
+1cc#	F# minor-seventh
+8bL	.
+8aJ	.
 8r	.
 8cc#	.
 =14	=14
-2.b	Bm7
+2.b	B minor-seventh
 4.f#	.
 4.g#	.
 =15	=15
-8g#	D
-8a	.
+8g#L	D major
+8aJ	.
 8r	.
 8a	.
 8r	.
@@ -123,57 +123,57 @@
 4g#	.
 8a	.
 =16	=16
-1ee[	E
-8ee]	.
-8ee	.
-8dd	.
-8cc#	.
+[1ee	E major
+8eeL]	.
+8eeJ	.
+8ddL	.
+8cc#J	.
 =17	=17
-8ee	G/D
+8ee	G major/D
 2..r	.
-8dd	.
-8cc#	.
+8ddL	.
+8cc#J	.
 8r	.
 8ee	.
 =18	=18
-2.dd	D
+2.dd	D major
 4.a	.
 8e	.
-8a	.
-8cc#	.
+8aL	.
+8cc#J	.
 =19	=19
-8dd	Bm7
+8dd	B minor-seventh
 2..r	.
-8cc#	.
-8b	.
+8cc#L	.
+8bJ	.
 8r	.
 8dd	.
 =20	=20
-2.cc#	Amaj7
-8ee	.
-8e	.
+2.cc#	A major-seventh
+8eeL	.
+8eJ	.
 8a	.
 4b	.
 8r	.
 =21	=21
-4a	F#m7
+4a	F# minor-seventh
 4b	.
 4cc#	.
-8dd	.
-8ee	.
-8ff#	.
-8gg#	.
-8aa	.
-8aa#	.
+8ddL	.
+8eeJ	.
+8ff#L	.
+8gg#J	.
+8aaL	.
+8aa#J	.
 =22	=22
-3...bb	E
-16aa	.
-16gg#	.
+3...bb	E major
+16aaLL	.
+16gg#JJ	.
 4.ff#	.
 4.gg#	.
 =23	=23
-8aa	D
-8aa	.
+8aaL	D major
+8aaJ	.
 8r	.
 8aa	.
 8r	.
@@ -184,22 +184,22 @@
 4gg#	.
 8aa	.
 =24	=24
-2.bb	E
-2.cccn	F
+2.bb	E major
+2.cccn	F major
 =25	=25
-8ccc#	F#
-8ccc#	.
+8ccc#L	F# major
+8ccc#J	.
 8r	.
 8ccc#	.
 8r	.
 8ccc#	.
-8ddd	G
-8ddd	.
+8dddL	G major
+8dddJ	.
 8r	.
 8ddd	.
 8r	.
 8ddd	.
 =26	=26
-1.ee	E
+1.ee	E major
 ==	==
 *-	*-

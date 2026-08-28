@@ -15,40 +15,40 @@
 *b-:	*
 *M4/4	*
 =1	=1
-8b-	B-m
+8b-L	B- minor
 8f	.
 8b-	.
-8cc	.
-8dd-	.
+8ccJ	.
+8dd-L	.
 8ee-	.
 8dd-	.
-8cc	.
+8ccJ	.
 =2	=2
-8cc	Fadd(4,5,7,8,10)
+8ccL	F other-4,5,7,8,10
 8f	.
 8cc	.
-8dd-	.
-8ee-	.
+8dd-J	.
+8ee-L	.
 8gg-	.
-8ff	B-mMaj7/D-
-8ee-	.
+8ff	B- major-minor/D-
+8ee-J	.
 =3	=3
-8dd-	B-add(2,3,5,7)
+8dd-L	B- other-2,3,5,7
 8f	.
 8b-	.
-8cc	.
-8dd-	.
+8ccJ	.
+8dd-L	.
 8ee-	.
 8dd-	.
-8cc	.
+8ccJ	.
 =4	=4
-8cc	Fadd(4,5,7,8,10)
+8ccL	F other-4,5,7,8,10
 8f	.
 8cc	.
-8dd-	.
-8ee-	.
+8dd-J	.
+8ee-L	.
 8gg-	.
-8ff	B-mMaj7/D-
-8ee-	.
+8ff	B- major-minor/D-
+8ee-J	.
 ==	==
 *-	*-

@@ -16,64 +16,64 @@
 *D:	*
 *M4/4	*
 =1	=1
-4d	D
+4d	D major
 4d	.
 2d	.
 =2	=2
-8r	Em
-8B	.
+8r	E minor
+8BL	.
 8c#	.
-8d	.
-8.e	A
+8dJ	.
+8.eL	A major
 8.c#	.
-8B	.
+8BJ	.
 =3	=3
-2A	F
+2A	F major
 2r	.
 =4	=4
 8r	.
-8A	.
+8AL	.
 8B	.
-8cn	.
+8cnJ	.
 4B	.
 4A	.
 =5	=5
-4B	Em
+4B	E minor
 8G	.
 2G	.
 8r	.
 =6	=6
-8r	F#m
-8c#	.
+8r	F# minor
+8c#L	.
 8d#	.
-8e	.
-4f#	B
+8eJ	.
+4f#	B major
 4d#	.
 =7	=7
-2B	G
+2B	G major
 2r	.
 =8	=8
-8r	Cm
-8cn	.
+8r	C minor
+8cnL	.
 8d	.
-8d#	.
+8d#J	.
 4d	.
 4cn	.
 =9	=9
-2B	G
+2B	G major
 2d	.
 =10	=10
-2d	Bm
-8.d	.
+2d	B minor
+8.dL	.
 8.c#	.
-8d	.
+8dJ	.
 =11	=11
-8e	C
-8e	.
+8eL	C major
+8eJ	.
 2e	.
 4r	.
 =12	=12
-1r	A#sus2
+1r	A# suspended-second
 =13	=13
 1r	.
 ==	==

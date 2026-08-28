@@ -16,90 +16,90 @@
 *B:	*
 *M4/4	*
 =1	=1
-2.d#	B
+2.d#	B major
 4r	.
 =2	=2
-8f#	D#m7/A#
+8f#L	D# minor-seventh/A#
 8f#	.
 8f#	.
-8f#	.
+8f#J	.
 4g#	.
 4a#	.
 =3	=3
-2.b	G#m7
+2.b	G# minor-seventh
 4r	.
 =4	=4
-8an	B7sus4/F#
+8anL	B dominant-seventh-suspended-fourth/F#
 8an	.
 8an	.
-8g#	.
+8g#J	.
 4an	.
-4b	B7/F#
+4b	B dominant/F#
 =5	=5
-8g#	Emaj9
+8g#L	E major-ninth
 8f#	.
 8g#	.
-8a#	.
+8a#J	.
 4.b	.
 8r	.
 =6	=6
-8f#	B/D#
+8f#L	B major/D#
 8fn	.
 8f#	.
-8a#	.
+8a#J	.
 4.b	.
 8r	.
 =7	=7
-4e	C#m9
+4e	C# minor-ninth
 4d#	.
 4c#	.
 4B	.
 =8	=8
-2c#	F#7
+2c#	F# dominant
 4.ff#	.
 8ee	.
 =9	=9
-2.dd#	B
+2.dd#	B major
 4r	.
 =10	=10
-8ff#	D#m7/A#
+8ff#L	D# minor-seventh/A#
 8ff#	.
 8ff#	.
-8ff#	.
+8ff#J	.
 4gg#	.
 4aa#	.
 =11	=11
-2.bb	G#m7
+2.bb	G# minor-seventh
 4r	.
 =12	=12
-8aan	F#m7
+8aanL	F# minor-seventh
 8aan	.
 8aan	.
-8gg#	.
-4aan	B9
+8gg#J	.
+4aan	B dominant-ninth
 4bb	.
 =13	=13
-4.gg#	Emaj9
+4.gg#	E major-ninth
 8r	.
-4ggn	Eadd(2,3,7)
-4gg#	Eadd(2,4,7)
+4ggn	E other-2,3,7
+4gg#	E other-2,4,7
 =14	=14
-4ccc#	B/D#
+4ccc#	B major/D#
 4bb	.
-4ff#	G#m7
+4ff#	G# minor-seventh
 4dd#	.
 =15	=15
-2ffn	C#9
+2ffn	C# dominant-ninth
 2r	.
 =16	=16
-4bb	B/F#
-4aa#	F#
-4gg#	G#m7/F#
-4aa#	F#
+4bb	B major/F#
+4aa#	F# major
+4gg#	G# minor-seventh/F#
+4aa#	F# major
 =17	=17
-2bb	B
-2r	Eadd(2,4,7)
+2bb	B major
+2r	E other-2,4,7
 =18	=18
-1r	B
+1r	B major
 ==	==
 *-	*-

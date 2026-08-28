@@ -16,58 +16,58 @@
 *D-:	*
 *M4/4	*
 =1	=1
-8r	G-
-8dd-	G-
+8r	G- major
+8dd-	G- major
 16r	.
 8dd-	.
 16r	.
-8dd-	A-
-16r	A-
-16dd-[	.
+8dd-	A- major
+16r	A- major
+[16dd-LL	.
 16dd-]	.
 16dd-	.
 16dd-	.
-16dd-	.
+16dd-JJ	.
 =2	=2
 8r	.
-8dd-	G-
-16r	B-m
-16dd-[	.
-16dd-]	B-m
+8dd-	G- major
+16r	B- minor
+[16dd-LL	.
+16dd-JJ]	B- minor
 16r	.
-8dd-	A-
-16r	A-
-16dd-[	.
+8dd-	A- major
+16r	A- major
+[16dd-LL	.
 16dd-]	.
 16dd-	.
 16dd-	.
-16dd-	.
+16dd-JJ	.
 =3	=3
-8r	G-
-8dd-	G-
+8r	G- major
+8dd-	G- major
 16r	.
 8dd-	.
 16r	.
-8dd-	A-
-16r	A-
-16dd-[	.
+8dd-	A- major
+16r	A- major
+[16dd-LL	.
 16dd-]	.
 16dd-	.
 16dd-	.
-16dd-	.
+16dd-JJ	.
 =4	=4
 8r	.
-8dd-	G-
-16r	D-
-16dd-[	.
-16dd-]	D-
+8dd-	G- major
+16r	D- major
+[16dd-LL	.
+16dd-JJ]	D- major
 16r	.
-8dd-	A-/C
-16r	A-/C
-16dd-[	.
+8dd-	A- major/C
+16r	A- major/C
+[16dd-LL	.
 16dd-]	.
 16dd-	.
 16dd-	.
-16dd-	.
+16dd-JJ	.
 ==	==
 *-	*-

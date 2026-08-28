@@ -16,138 +16,138 @@
 *g:	*
 *M3/4	*
 =1	=1
-2.r	Gm
+2.r	G minor
 =2	=2
-2.r	Gm/D
+2.r	G minor/D
 =3	=3
-2.r	Gm
+2.r	G minor
 =4	=4
-4d	Gm/D
-4g	D7sus4
-4b-	Dadd(1,4,7,8,10)
+4d	G minor/D
+4g	D dominant-seventh-suspended-fourth
+4b-	D other-1,4,7,8,10
 =5	=5
-2dd	Cm9
+2dd	C minor-ninth
 4dd	.
 =6	=6
-4cc	Dadd(1,4,7,8,10)
+4cc	D other-1,4,7,8,10
 4b-	.
 4a	.
 =7	=7
-2.b-	Gm7
+2.b-	G minor-seventh
 =8	=8
 4g	.
 4b-	.
 4dd	.
 =9	=9
-2gg	Cm9
+2gg	C minor-ninth
 4gg	.
 =10	=10
-4gg	F7
+4gg	F dominant
 4ff	.
 4ee-	.
 =11	=11
-2.ff	B-maj9
+2.ff	B- major-ninth
 =12	=12
-4a	Dm/F
+4a	D minor/F
 4dd	.
 4ff	.
 =13	=13
-2aa	Em7b5
+2aa	E half-diminished
 4gg	.
 =14	=14
-4ff	Aadd(1,4,7,8,10)
+4ff	A other-1,4,7,8,10
 4een	.
 4ff	.
 =15	=15
-2gg	D7sus4
-4ff	Dm7
+2gg	D dominant-seventh-suspended-fourth
+4ff	D minor-seventh
 =16	=16
-2een	Fmaj7/C
+2een	F major-seventh/C
 4dd	.
 =17	=17
-4cc	B-maj9
+4cc	B- major-ninth
 4b-	.
 4cc	.
 =18	=18
-4dd	Am7
+4dd	A minor-seventh
 4cc	.
 4g	.
 =19	=19
-2.a	D7sus4
+2.a	D dominant-seventh-suspended-fourth
 =20	=20
 4d	.
 4g	.
-4b-	Dadd(1,4,7,8,10)
+4b-	D other-1,4,7,8,10
 =21	=21
-2dd	Cm9
+2dd	C minor-ninth
 4dd	.
 =22	=22
-4cc	Dadd(1,4,7,8,10)
+4cc	D other-1,4,7,8,10
 4b-	.
 4a	.
 =23	=23
-2.b-	Gm7
+2.b-	G minor-seventh
 =24	=24
-4g	Fm9
-8b-[	.
-8b-]	B-9
+4g	F minor-ninth
+[8b-L	.
+8b-J]	B- dominant-ninth
 4dd	.
 =25	=25
-2gg	E-maj7
+2gg	E- major-seventh
 4gg	.
 =26	=26
-4gg	F7/E-
+4gg	F dominant/E-
 4aa	.
-8ff	.
-8ee-	.
+8ffL	.
+8ee-J	.
 =27	=27
-2.ff	Dm7
+2.ff	D minor-seventh
 =28	=28
-4a	Gm7
+4a	G minor-seventh
 4dd	.
 4ff	.
 =29	=29
-2aa	Em7b5
+2aa	E half-diminished
 4gg	.
 =30	=30
-4r	Aadd(1,4,7,10)
-8ff	.
-8een	.
-8ee-	.
-8een	.
+4r	A other-1,4,7,10
+8ffL	.
+8eenJ	.
+8ee-L	.
+8eenJ	.
 =31	=31
-2gg	D7sus4
-4ff	Dm7
+2gg	D dominant-seventh-suspended-fourth
+4ff	D minor-seventh
 =32	=32
-4r	F/C
-8een	.
-8dd	.
-8dd-	.
-8dd	.
+4r	F major/C
+8eenL	.
+8ddJ	.
+8dd-L	.
+8ddJ	.
 =33	=33
-4dd	B-maj7
-8cc	.
-8dd	.
-8cc	.
-8b-	.
+4dd	B- major-seventh
+8ccL	.
+8ddJ	.
+8ccL	.
+8b-J	.
 =34	=34
-4.a	A7
+4.a	A dominant
 8bn	.
 4dd-	.
 =35	=35
-4dd	D
+4dd	D major
 4g-	.
 4g	.
 =36	=36
-4a	D/A
+4a	D major/A
 4g-	.
 4d	.
 =37	=37
-4r	D
+4r	D major
 4d	.
 4en	.
 =38	=38
-4g-	D/A
+4g-	D major/A
 4d	.
 4dd	.
 ==	==

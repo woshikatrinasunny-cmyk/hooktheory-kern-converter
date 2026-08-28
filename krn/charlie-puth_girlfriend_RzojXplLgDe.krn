@@ -16,83 +16,83 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8r	A-add(2,4,7)
+8r	A- other-2,4,7
+8G-L	.
 8G-	.
+8A-J	G- other-2,4,7
+8.B-L	.
+16A-k	.
 8G-	.
-8A-	G-add(2,4,7)
-8.B-	.
-16A-	.
-8G-	.
-8E-	.
+8E-J	.
 =2	=2
-8r	A-add(2,4,7)
-8G-	.
-16G-	.
-16G-	.
-8A-	G-add(2,4,7)
-8.B-	.
-16G-	.
+8r	A- other-2,4,7
+8G-L	.
+16G-L	.
+16G-J	.
+8A-J	G- other-2,4,7
+8.B-L	.
+16G-k	.
 8A-	.
-8B-	.
+8B-J	.
 =3	=3
-8.c	A-add(2,4,7)
+8.cL	A- other-2,4,7
+16cL	.
 16c	.
-16c	.
+16B-JJ	.
+8r	G- other-2,4,7
+8.B-L	.
+16B-L	.
 16B-	.
-8r	G-add(2,4,7)
-8.B-	.
-16B-	.
-16B-	.
-16A-	.
+16A-JJ	.
 8r	.
 =4	=4
-8A-	A-add(2,4,7)
-16G-	.
-16F	.
+8A-L	A- other-2,4,7
+16G-L	.
+16FJ	.
 8G-	.
-16F	G-add(2,4,7)
-16E-	.
-8F	.
-8E-	.
-4r	D-add(2,4,7)/F
+16FL	G- other-2,4,7
+16E-JJ	.
+8FL	.
+8E-J	.
+4r	D- other-2,4,7/F
 =5	=5
-8r	A-add(2,4,7)
+8r	A- other-2,4,7
+8G-L	.
 8G-	.
+8A-J	G- other-2,4,7
+8.B-L	.
+16A-k	.
 8G-	.
-8A-	G-add(2,4,7)
-8.B-	.
-16A-	.
-8G-	.
-8E-	.
+8E-J	.
 =6	=6
-8r	A-add(2,4,7)
+8r	A- other-2,4,7
+8G-L	.
 8G-	.
-8G-	.
-8A-	G-add(2,4,7)
-8.B-	.
-16G-	.
+8A-J	G- other-2,4,7
+8.B-L	.
+16G-k	.
 8A-	.
-8B-	.
+8B-J	.
 =7	=7
-8.c	A-add(2,4,7)
+8.cL	A- other-2,4,7
+16cL	.
 16c	.
-16c	.
+16B-JJ	.
+8r	G- other-2,4,7
+8.B-L	.
+16B-L	.
 16B-	.
-8r	G-add(2,4,7)
-8.B-	.
-16B-	.
-16B-	.
-16A-	.
+16A-JJ	.
 8r	.
 =8	=8
-8A-	A-add(2,4,7)
-16G-	.
-16F	.
+8A-L	A- other-2,4,7
+16G-L	.
+16FJ	.
 8G-	.
-16F	G-add(2,4,7)
-16E-	.
-8F	.
-8E-	.
-4r	D-add(2,4,7)/F
+16FL	G- other-2,4,7
+16E-JJ	.
+8FL	.
+8E-J	.
+4r	D- other-2,4,7/F
 ==	==
 *-	*-

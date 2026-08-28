@@ -16,54 +16,54 @@
 *B:	*
 *M6/4	*
 =1	=1
-16b	B
+16bLL	B major
 16bb	.
 16ff#	.
-16dd#	.
-16bb	.
+16dd#JJ	.
+16bbLL	.
 16ff#	.
-16a#	F#/A#
-16aa#	.
-16ff#	.
+16a#	F# major/A#
+16aa#JJ	.
+16ff#LL	.
 16cc#	.
 16ddd#	.
-16aa#	.
-16g#	G#m
+16aa#JJ	.
+16g#LL	G# minor
 16bb	.
 16gg#	.
-16dd#	.
-16bb	.
+16dd#JJ	.
+16bbLL	.
 16gg#	.
-16a#	F#/A#
-16aa#	.
-16ff#	.
+16a#	F# major/A#
+16aa#JJ	.
+16ff#LL	.
 16cc#	.
 16ddd#	.
-16aa#	.
+16aa#JJ	.
 =2	=2
-16b	B
+16bLL	B major
 16bb	.
 16ff#	.
-16dd#	.
-16bb	.
+16dd#JJ	.
+16bbLL	.
 16ff#	.
-16a#	F#/A#
-16aa#	.
-16ff#	.
+16a#	F# major/A#
+16aa#JJ	.
+16ff#LL	.
 16cc#	.
 16ddd#	.
-16aa#	.
-16g#	G#m
+16aa#JJ	.
+16g#LL	G# minor
 16bb	.
 16gg#	.
-16dd#	.
-16bb	.
+16dd#JJ	.
+16bbLL	.
 16gg#	.
-16a#	F#/A#
-16aa#	.
-16ff#	.
+16a#	F# major/A#
+16aa#JJ	.
+16ff#LL	.
 16cc#	.
 16ddd#	.
-16aa#	.
+16aa#JJ	.
 ==	==
 *-	*-

@@ -16,17 +16,17 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	A
+4r	A major
 4a	.
 4a	.
 4a	.
 =2	=2
-8g#	E
+8g#L	E major
 8g#	.
-8g#	.
+8g#J	.
 4f#	.
 4f#	.
-8f#[	Asus2
+[8f#	A suspended-second
 =3	=3
 8f#]	.
 4e	.
@@ -34,43 +34,43 @@
 4a	.
 4a	.
 =4	=4
-8g#	E
+8g#L	E major
 8g#	.
-8g#	.
+8g#J	.
 4f#	.
 4g#	.
-8e[	A
+[8e	A major
 =5	=5
 8e]	.
 4r	.
 8c#	.
 4d	.
-8c#	.
-8c#[	.
+8c#L	.
+[8c#J	.
 =6	=6
-8c#]	Eadd(2,4,7)
+8c#L]	E other-2,4,7
 8d	.
-8c#	.
+8c#J	.
 4g#	.
 4g#	.
-8g#[	F#m
+[8g#	F# minor
 =7	=7
 8g#]	.
 4a	.
-2a	D
+2a	D major
 8r	.
 =8	=8
-8r	D
+8r	D major
 4a	.
 4a	.
 4b	.
-8a[	E
+[8a	E major
 =9	=9
 8a]	.
 4g#	.
 4f#	.
-4g#	Eadd(2,4,7)
-8a[	Asus2
+4g#	E other-2,4,7
+[8a	A suspended-second
 =10	=10
 2a]	.
 ==	==

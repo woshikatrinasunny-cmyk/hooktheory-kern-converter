@@ -16,86 +16,86 @@
 *B:	*
 *M4/4	*
 =1	=1
-4.r	B
+4.r	B major
 4.r	.
-4f#	G#m
+4f#	G# minor
 =2	=2
-4f#	F#
-8d#[	.
-8d#]	.
+4f#	F# major
+[8d#L	.
+8d#J]	.
 4d#	.
-4f#	A#dim
+4f#	A# diminished
 =3	=3
-4.d#[	G#m
+[4.d#	G# minor
 8d#]	.
 4d#	.
-4f#	G#m/D#
+4f#	G# minor/D#
 =4	=4
-4g#	E
-8f#[	.
-8f#]	.
+4g#	E major
+[8f#L	.
+8f#J]	.
 4e	.
-4d#	F#7
+4d#	F# dominant
 =5	=5
-4.r	B
+4.r	B major
 8r	.
 4B	.
-4f#	G#m
+4f#	G# minor
 =6	=6
-4f#	F#
-8d#[	.
-8d#]	.
+4f#	F# major
+[8d#L	.
+8d#J]	.
 4d#	.
-4f#	A#dim
+4f#	A# diminished
 =7	=7
-4.d#[	G#m
+[4.d#	G# minor
 8d#]	.
 4r	.
-4d#	G#m/D#
+4d#	G# minor/D#
 =8	=8
-4c#	E
+4c#	E major
 4B	.
 4A#	.
 4B	.
 =9	=9
-4.r	B
+4.r	B major
 4.r	.
-4f#	G#m
+4f#	G# minor
 =10	=10
-4f#	F#
-8d#[	.
-8d#]	.
+4f#	F# major
+[8d#L	.
+8d#J]	.
 4d#	.
-4f#	A#dim
+4f#	A# diminished
 =11	=11
-4.d#[	G#m
+[4.d#	G# minor
 8d#]	.
 4r	.
-4d#	G#m/D#
+4d#	G# minor/D#
 =12	=12
-4e	E
-8d#[	.
-8d#]	.
+4e	E major
+[8d#L	.
+8d#J]	.
 4c#	.
-4B	F#7
+4B	F# dominant
 =13	=13
-4.r	B
+4.r	B major
 8r	.
 4B	.
-4b	G#m
+4b	G# minor
 =14	=14
-4a#	F#
-8a#[	.
-8a#]	.
+4a#	F# major
+[8a#L	.
+8a#J]	.
 4b	.
-4b[	A#dim
+[4b	A# diminished
 =15	=15
-4.b_	G#m
+4.b_	G# minor
 8b]	.
 4r	.
-4ff#	G#m/D#
+4ff#	G# minor/D#
 =16	=16
-4gg#	E
+4gg#	E major
 4ff#	.
 4ee	.
 4dd#	.

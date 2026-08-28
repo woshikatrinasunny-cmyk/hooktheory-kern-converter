@@ -16,103 +16,103 @@
 *c:	*
 *M4/4	*
 =1	=1
-16c	Cm
-16c	.
+16cLL	C minor
+16cJ	.
 8.c	.
-8.c	.
-8Bn	Gaug
+8.cJ	.
+8BnL	G augmented
 8Bn	.
-8G	.
+8GJ	.
 8r	.
 =2	=2
-8B-	B-
+8B-L	B- major
 8B-	.
-16B-	.
-16B-	.
-8An[	.
-8An]	Dm
+16B-L	.
+16B-J	.
+[8AnJ	.
+8AnL]	D minor
 8An	.
 8F	.
-8F	.
+8FJ	.
 =3	=3
-8G	G
-8G	.
+8GL	G major
+8GJ	.
 4G	.
 2r	.
 =4	=4
-2..r	Gaug
+2..r	G augmented
 8G	.
 =5	=5
-8c	Cm
+8cL	C minor
 8c	.
 8c	.
-8c	.
-8Bn	E-aug
-8Bn	.
+8cJ	.
+8BnL	E- augmented
+8BnJ	.
 4G	.
 =6	=6
-16B-	B-
-16B-	.
+16B-LL	B- major
+16B-J	.
 8.B-	.
-8.B-	.
-8An	Dm
-8An	.
+8.B-J	.
+8AnL	D minor
+8AnJ	.
 4F	.
 =7	=7
 *k[b-]	*
 *d:	*
-16A	A
-16A	.
+16ALL	A major
+16AJJ	.
 4.A	.
 6...r	.
-16A	.
-8A	.
+16ALK	.
+8AJ	.
 =8	=8
-8D	Dm
+8DL	D minor
 8D	.
 8A	.
-8A	.
-8d	F
+8AJ	.
+8dL	F major
 8d	.
 8A	.
-8A	.
+8AJ	.
 =9	=9
-8B-	B-
+8B-L	B- major
 8B-	.
-16F	.
-16F	.
-8A[	.
-16A]	A/E
+16FL	.
+16FJ	.
+[8AJ	.
+16A]	A major/E
 6...A	.
 8A	.
 =10	=10
-8A	Dm
-8D[	.
-8D]	Dm7/C
+8AL	D minor
+[8D	.
+8DJ]	D minor-seventh/C
 8r	.
-4r	B-maj7
-16r	Dm/A
-16A	.
-8A	.
+4r	B- major-seventh
+16r	D minor/A
+16ALK	.
+8AJ	.
 =11	=11
-4B-	Gm/B-
-8B-	.
-8B-	.
-8A	A/E
+4B-	G minor/B-
+8B-L	.
+8B-J	.
+8AL	A major/E
 8A	.
-16A	.
-16A	.
-8A	.
+16AL	.
+16AJ	.
+8AJ	.
 =12	=12
-4d[	Dm
-4d]	Dm7/C
-4r	B-maj7
-4r	Dm/A
+[4d	D minor
+4d]	D minor-seventh/C
+4r	B- major-seventh
+4r	D minor/A
 =13	=13
-2r	Gm/B-
-2r	A
+2r	G minor/B-
+2r	A major
 =14	=14
-2r	Dm
-2r	G
+2r	D minor
+2r	G major
 ==	==
 *-	*-

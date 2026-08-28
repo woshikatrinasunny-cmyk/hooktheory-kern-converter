@@ -16,86 +16,86 @@
 *d#:	*
 *M4/4	*
 =1	=1
-8f#	Bmaj7
-8d#	.
+8f#L	B major-seventh
+8d#J	.
 4r	.
-8e#	Dadd(3,6,8,9)
-8dn	.
+8e#L	D other-3,6,8,9
+8dnJ	.
 4r	.
 =2	=2
-8c#	D#m7
-16c#	.
-16d#[	.
-16d#]	F#maj7
+8c#L	D# minor-seventh
+16c#L	.
+[16d#	.
+16d#J]	F# major-seventh
 8e#	.
-16f#[	.
-16f#]	G#m7
+[16f#Jk	.
+16f#LK]	G# minor-seventh
 8d#	.
-16d#[	.
-16d#]	A#m7
+[16d#L	.
+16d#JJ]	A# minor-seventh
 16r	.
 8d#	.
 =3	=3
-8g#	Bmaj7
-8f#	.
+8g#L	B major-seventh
+8f#J	.
 4r	.
-8e#	Dadd(3,6,8,9)
-8dn	.
+8e#L	D other-3,6,8,9
+8dnJ	.
 8.r	.
 16G#	.
 =4	=4
-16f#	D#m7
+16f#LK	D# minor-seventh
 8e#	.
-16d#[	.
-16d#]	F#maj7
+[16d#L	.
+16d#J]	F# major-seventh
 8e#	.
-16f#[	.
-16f#]	G#m7
-16e#	.
+[16f#Jk	.
+16f#LL]	G# minor-seventh
+16e#J	.
 8d#	.
-8e#	A#m7
-8d#	.
+8e#	A# minor-seventh
+8d#J	.
 =5	=5
-8f#	Bmaj7
-8d#	.
+8f#L	B major-seventh
+8d#J	.
 4r	.
-8e#	Dadd(3,6,8,9)
-8dn	.
+8e#L	D other-3,6,8,9
+8dnJ	.
 4r	.
 =6	=6
-8c#	D#m7
-16c#	.
-16d#[	.
-16d#]	F#maj7
+8c#L	D# minor-seventh
+16c#L	.
+[16d#	.
+16d#J]	F# major-seventh
 8e#	.
-16f#[	.
-16f#]	G#m7
+[16f#Jk	.
+16f#LK]	G# minor-seventh
 8d#	.
-16d#[	.
-16d#]	A#m7
+[16d#L	.
+16d#JJ]	A# minor-seventh
 16r	.
 8d#	.
 =7	=7
-8d#	Bmaj7
+8d#L	B major-seventh
 8A#	.
-16G#	.
+16G#k	.
 8A#	.
-16c#[	.
-16c#]	Dadd(3,6,8,9)
-8A#	.
+[16c#Jk	.
+16c#LK]	D other-3,6,8,9
+8A#J	.
 16r	.
-8G#	.
-16F#	.
-16G#[	.
+8G#L	.
+16F#L	.
+[16G#JJ	.
 =8	=8
-16G#]	D#m7
+16G#LK]	D# minor-seventh
 8A#	.
-16c#[	.
-16c#]	F#maj7
+[16c#L	.
+16c#J]	F# major-seventh
 8d#	.
-16f#[	.
-8.f#]	G#m7
+[16f#Jk	.
+8.f#]	G# minor-seventh
 16r	.
-4r	A#m7
+4r	A# minor-seventh
 ==	==
 *-	*-

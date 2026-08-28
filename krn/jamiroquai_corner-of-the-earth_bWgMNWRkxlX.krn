@@ -16,46 +16,46 @@
 *d:	*
 *M4/4	*
 =1	=1
-4r	Dm
-8c	.
-8c	.
+4r	D minor
+8cL	.
+8cJ	.
 8d	.
 4f	.
-8a[	.
+[8a	.
 =2	=2
-8a]	.
+8aL]	.
 8a	.
 8a	.
-8a	.
-8g	.
-8f	.
+8aJ	.
+8gL	.
+8fJ	.
 4a	.
 =3	=3
-1g[	E-add(2,4,7)
+[1g	E- other-2,4,7
 =4	=4
 4.g]	.
 4g	.
 4.b-	.
 =5	=5
-1g[	B-maj7
+[1g	B- major-seventh
 =6	=6
 4.g]	.
 4g	.
-8g	.
+8gL	.
 8f	.
-8a[	.
+[8aJ	.
 =7	=7
-1a_	A7
+1a_	A dominant
 =8	=8
 1a]	.
 =9	=9
-4r	Dm
-8c	.
-8c	.
-8d	.
+4r	D minor
+8cL	.
+8cJ	.
+8dL	.
 8d	.
 8f	.
-8f	.
+8fJ	.
 =10	=10
 8a	.
 4a	.
@@ -63,23 +63,23 @@
 4f	.
 8a	.
 =11	=11
-3...g	E-add(2,4,7)
+3...g	E- other-2,4,7
 8f	.
-4d[	.
+[4d	.
 =12	=12
 4.d]	.
 4g	.
 4.a	.
 =13	=13
-1f[	B-maj7
+[1f	B- major-seventh
 =14	=14
 4.f]	.
 4g	.
 4a	.
-8cc[	.
+[8cc	.
 =15	=15
-8cc]	A7
-2..a[	.
+8cc]	A dominant
+[2..a	.
 =16	=16
 1a]	.
 ==	==

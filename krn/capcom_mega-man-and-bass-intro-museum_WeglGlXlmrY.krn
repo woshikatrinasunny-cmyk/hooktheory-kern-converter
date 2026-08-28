@@ -16,176 +16,176 @@
 *c:	*
 *M4/4	*
 =1	=1
-2..c	F11
-8g	F9
+2..c	F dominant-11th
+8g	F dominant-ninth
 =2	=2
 4f	.
 8g	.
-2d[	.
-8d_	F11
+[2d	.
+8d_	F dominant-11th
 =3	=3
 4d]	.
 8r	.
 8d	.
-8B-	.
-8G	.
+8B-L	.
+8GJ	.
 8r	.
-8c[	F9
+[8c	F dominant-ninth
 =4	=4
 4.c_	.
-4c]	F9
-8d	.
+4c]	F dominant-ninth
+8dL	.
 8e-	.
-8f[	.
+[8fJ	.
 =5	=5
-4.f]	F11
+4.f]	F dominant-11th
 4.e-	.
-8d[	.
-8d]	F9
+[8dL	.
+8dJ]	F dominant-ninth
 =6	=6
 4.c	.
 4B-	.
-8c	.
+8cL	.
 8d	.
-8c[	F11
+[8cJ	F dominant-11th
 =7	=7
-8c]	.
-8F	.
+8cL]	.
+8FJ	.
 8r	.
-2F[	.
-8F]	F9
+[2F	.
+8F]	F dominant-ninth
 =8	=8
 8r	.
-8F	.
+8FL	.
 8B-	.
-8c	F9
-8f	.
+8cJ	F dominant-ninth
+8fL	.
 8c	.
 8f	.
-8b-	.
+8b-J	.
 =9	=9
-2.cc	G11
+2.cc	G dominant-11th
 16dd	.
 16r	.
-8bn[	G9
+[8bn	G dominant-ninth
 =10	=10
 4bn]	.
 8r	.
 4.g	.
-8d[	.
-8d]	G11
+[8dL	.
+8dJ]	G dominant-11th
 =11	=11
 2f	.
 8f	.
 8r	.
-8g	.
-8d[	G9
+8gL	.
+[8dJ	G dominant-ninth
 =12	=12
 4.d_	.
-4.d]	G9
+4.d]	G dominant-ninth
 8r	.
 8g	.
 =13	=13
-3...cc	G11
+3...cc	G dominant-11th
 8dd	.
 8r	.
-8bn[	G9
+[8bn	G dominant-ninth
 =14	=14
 3...bn]	.
-8cc	.
+8ccL	.
 8dd	.
-8een[	G11
+[8eenJ	G dominant-11th
 =15	=15
 2een]	.
-8cc	.
-8g	.
+8ccL	.
+8gJ	.
 8r	.
-8ff[	G9
+[8ff	G dominant-ninth
 =16	=16
 4.ff]	.
-4dd	G9
+4dd	G dominant-ninth
 8g	.
 8r	.
-8gg[	.
+[8gg	.
 =17	=17
-3...gg]	E-maj9
-8ff	.
+3...gg]	E- major-ninth
+8ffL	.
 8ee-	.
-8dd[	E-maj7
+[8ddJ	E- major-seventh
 =18	=18
 2dd_	.
 16dd]	.
 16r	.
-8ee-	.
+8ee-L	.
 8ff	.
-8ff[	E-maj9
+[8ffJ	E- major-ninth
 =19	=19
 4.ff]	.
 4.ee-	.
-8dd[	.
-8dd]	E-maj7
+[8ddL	.
+8ddJ]	E- major-seventh
 =20	=20
 4.cc	.
-4.g	E-maj7
-8cc	.
-8dd	.
+4.g	E- major-seventh
+8ccL	.
+8ddJ	.
 =21	=21
-2.gg	Cm11
-8ff	.
-8ee-	Cm9
+2.gg	C minor-11th
+8ffL	.
+8ee-J	C minor-ninth
 =22	=22
 4.dd	.
 2cc	.
-8dd	Cm11
+8dd	C minor-11th
 =23	=23
 4.ee-	.
 4.ff	.
-8dd[	.
-8dd]	Cm9
+[8ddL	.
+8ddJ]	C minor-ninth
 =24	=24
 4.cc	.
-4.g	Cm9
-8cc	.
-8dd	.
+4.g	C minor-ninth
+8ccL	.
+8ddJ	.
 =25	=25
-2.gg	Aadd(3,6,8,10)
-8ff	.
-8ee-	Aadd(3,6,8,10)
+2.gg	A other-3,6,8,10
+8ffL	.
+8ee-J	A other-3,6,8,10
 =26	=26
 6...dd	.
 16r	.
 6...ee-	.
 16r	.
-8ff[	.
-16ff]	Aadd(3,6,8,10)
+[8ffL	.
+16ffJk]	A other-3,6,8,10
 16r	.
 =27	=27
 4.ff	.
 4.ee-	.
-8dd[	.
-8dd]	Aadd(3,6,8,10)
+[8ddL	.
+8ddJ]	A other-3,6,8,10
 =28	=28
 4.cc	.
-4.g	Aadd(3,6,8,10)
+4.g	A other-3,6,8,10
 4cc	.
 =29	=29
-4.bb-	Fm7
+4.bb-	F minor-seventh
 4.aa-	.
-8gg[	.
-8gg]	Fm7
+[8ggL	.
+8ggJ]	F minor-seventh
 =30	=30
 4.ff	.
 4.cc	.
-8ff[	.
-8ff]	G11
+[8ffL	.
+8ffJ]	G dominant-11th
 =31	=31
-4.gg[	.
-4.gg_	G11
-8gg_	G11
-8gg_	G11
+[4.gg	.
+4.gg_	G dominant-11th
+8ggL_	G dominant-11th
+8ggJ_	G dominant-11th
 =32	=32
 4gg]	.
 8r	.
-3...r	Gm
+3...r	G minor
 ==	==
 *-	*-

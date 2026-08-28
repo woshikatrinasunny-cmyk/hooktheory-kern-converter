@@ -16,17 +16,17 @@
 *G:	*
 *M4/4	*
 =1	=1
-4gg	G
+4gg	G major
 8r	.
 8dd	.
 4gg	.
 8r	.
 8dd	.
 =2	=2
-8gg	.
+8ggL	.
 8dd	.
 8gg	.
-8bb	.
+8bbJ	.
 4ddd	.
 4r	.
 =3	=3
@@ -37,10 +37,10 @@
 8r	.
 8aa	.
 =4	=4
-8ccc	.
+8cccL	.
 8aa	.
 8ff#	.
-8aa	.
+8aaJ	.
 4dd	.
 4r	.
 ==	==

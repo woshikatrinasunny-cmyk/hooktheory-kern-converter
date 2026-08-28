@@ -16,100 +16,100 @@
 *G:	*
 *M4/4	*
 =1	=1
-8b	G
+8bL	G major
 8a	.
 8g	.
-8a	.
-4.b	G
-8b[	.
+8aJ	.
+4.b	G major
+[8b	.
 =2	=2
-8b]	G/B
-8a	G/B
+8bL]	G major/B
+8a	G major/B
 8g	.
-8a	G/B
-4b	G/B
+8aJ	G major/B
+4b	G major/B
 4d	.
 =3	=3
-4e	C
+4e	C major
 4e	.
-4e	C
-8b	.
-8a[	.
+4e	C major
+8bL	.
+[8aJ	.
 =4	=4
-8a_	D
-4a_	D
-8a]	D
-4g	D
-4f#	D7/C
+8a_	D major
+4a_	D major
+8a]	D major
+4g	D major
+4f#	D dominant/C
 =5	=5
-4d	Bm
+4d	B minor
 4d	.
-4d	Bm
-8a	.
-8g[	.
+4d	B minor
+8aL	.
+[8gJ	.
 =6	=6
-8g_	Em
-4g_	Em
-8g]	Em
-4g	Em
+8g_	E minor
+4g_	E minor
+8g]	E minor
+4g	E minor
 4a	.
 =7	=7
-4b	A
+4b	A major
 4e	.
-8b	A
-8e[	A
-8e]	A
-8a[	D
+8bL	A major
+[8e	A major
+8e]	A major
+[8aJ	D major
 =8	=8
-8a]	.
+8aL]	.
 8A	.
 8B	.
-8c	.
+8cJ	.
 8d	.
 4.r	.
 =9	=9
-2fn	F
-2g	G
+2fn	F major
+2g	G major
 =10	=10
-2e	Em
-2a	Am
+2e	E minor
+2a	A minor
 =11	=11
-2fn	F
-2g	G
+2fn	F major
+2g	G major
 =12	=12
-2e	Em
-2a	Am
+2e	E minor
+2a	A minor
 =13	=13
-2fn	F
-2g	G
+2fn	F major
+2g	G major
 =14	=14
-2e	Em
-2a	Am
+2e	E minor
+2a	A minor
 =15	=15
-8g	Am
+8gL	A minor
 8fn	.
 8e	.
-8d	.
-4r	Am
-4r	Am
+8dJ	.
+4r	A minor
+4r	A minor
 =16	=16
-4r	Am
-4r	Am
-4r	Am
-4r	Am
+4r	A minor
+4r	A minor
+4r	A minor
+4r	A minor
 =17	=17
-4r	Am
-4r	Am
-4r	D
-4r	D
+4r	A minor
+4r	A minor
+4r	D major
+4r	D major
 =18	=18
-4r	D
-4r	D
+4r	D major
+4r	D major
 4r	.
-8r	D
-8r	D
+8r	D major
+8r	D major
 =19	=19
-8r	D
-4.r	D
+8r	D major
+4.r	D major
 ==	==
 *-	*-

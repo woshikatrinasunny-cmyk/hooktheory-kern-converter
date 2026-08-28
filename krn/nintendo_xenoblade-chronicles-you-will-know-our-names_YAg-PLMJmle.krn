@@ -17,59 +17,59 @@
 *M4/4	*
 =1	=1
 3...r	.
-8b-	.
+8b-L	.
 8cc	.
-8dd-	.
+8dd-J	.
 =2	=2
-2.ff	E-7sus2
-8ee-	.
-8dd-	.
+2.ff	E- dominant-seventh-suspended-second
+8ee-L	.
+8dd-J	.
 =3	=3
-4.cc	Fm7
+4.cc	F minor-seventh
 4.a-	.
 4r	.
 =4	=4
-2.b-	G-maj7
-8cc	.
-8dd-	.
+2.b-	G- major-seventh
+8ccL	.
+8dd-J	.
 =5	=5
-4ff	Gadd(3,6,8,9)
+4ff	G other-3,6,8,9
 4ee-	.
 4b-	.
 4cc	.
 =6	=6
-1dd-[	A-sus4
+[1dd-	A- suspended-fourth
 =7	=7
 3...dd-]	.
 8r	.
-16b-	.
+16b-LL	.
 16cc	.
 16dd-	.
-16ee-	.
+16ee-JJ	.
 =8	=8
-8ff	Fsus4
-8ff	Fsus4
+8ffL	F suspended-fourth
+8ffJ	F suspended-fourth
 8r	.
-8ff	Fsus4
-8ff	Fsus4
+8ff	F suspended-fourth
+8ff	F suspended-fourth
 8r	.
-8ff	Fsus4
-8ff	F
+8ffL	F suspended-fourth
+8ffJ	F major
 =9	=9
 4r	.
 8b-	.
 8r	.
-8dd-	.
-8ee-	.
+8dd-L	.
+8ee-J	.
 8r	.
-16ee-	G-maj7
-16ff[	.
+16ee-LL	G- major-seventh
+[16ffJJ	.
 =10	=10
 2ff_	.
 16ff]	.
 16r	.
 4ff	.
-8ee-[	A-
+[8ee-	A- major
 =11	=11
 8.ee-]	.
 16r	.
@@ -77,57 +77,57 @@
 4aa-	.
 4ee-	.
 =12	=12
-16dd-	Fm7
-2ee-[	.
-16ee-]	.
+16dd-	F minor-seventh
+[2ee-	.
+16ee-LK]	.
 8dd-	.
 8cc	.
-8dd-[	B-m
+[8dd-J	B- minor
 =13	=13
 3...dd-]	.
 8r	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =14	=14
-8dd-	E-m7
+8dd-L	E- minor-seventh
 8b-	.
-8g-	.
+8g-J	.
 4d-	.
-8g-	.
+8g-L	.
 8b-	.
-8dd-	.
+8dd-J	.
 =15	=15
-8cc	F7
+8ccL	F dominant
 8an	.
-8f	.
+8fJ	.
 4c	.
-8f	.
+8fL	.
 8cc	.
-8b-[	B-m
+[8b-J	B- minor
 =16	=16
-8b-]	.
+8b-L]	.
 8an	.
-8b-	.
-4cc	F/A
-8b-	.
+8b-J	.
+4cc	F major/A
+8b-L	.
 8cc	.
-8dd-[	D-7/A-
+[8dd-J	D- dominant/A-
 =17	=17
 8dd-]	.
 8r	.
-8b-	.
-8ee-	.
-8dd-	D-7/A-
-8ee-	E-/G
+8b-L	.
+8ee-J	.
+8dd-L	D- dominant/A-
+8ee-J	E- major/G
 8r	.
-16ee-	G-maj7
-16ff[	.
+16ee-LL	G- major-seventh
+[16ffJJ	.
 =18	=18
 2ff_	.
 16ff]	.
 16r	.
 4ff	.
-8ee-[	A-
+[8ee-	A- major
 =19	=19
 8.ee-]	.
 16r	.
@@ -135,55 +135,55 @@
 4aa-	.
 4bb-	.
 =20	=20
-16bb-	Fm7
-2ccc[	.
-16ccc]	.
+16bb-	F minor-seventh
+[2ccc	.
+16cccLK]	.
 8ddd-	.
 8ccc	.
-8bb-[	B-m
+[8bb-J	B- minor
 =21	=21
 3...bb-]	.
 8r	.
-8dd-	.
-8cc	.
+8dd-L	.
+8ccJ	.
 =22	=22
-2b-	E-7sus2
+2b-	E- dominant-seventh-suspended-second
 16ee-	.
 4..ff	.
 =23	=23
-2ee-	Fadd(3,4,7,10)
+2ee-	F other-3,4,7,10
 2aa-	.
 =24	=24
-8bb-[	B-sus4
-8bb-_	B-sus4
+[8bb-L	B- suspended-fourth
+8bb-_	B- suspended-fourth
 8bb-_	.
-8bb-_	B-sus4
-8bb-_	B-sus4
+8bb-J_	B- suspended-fourth
+8bb-L_	B- suspended-fourth
 8bb-_	.
-8bb-_	B-sus4
-8bb-_	B-sus4
+8bb-_	B- suspended-fourth
+8bb-J_	B- suspended-fourth
 =25	=25
-8bb-_	.
-8bb-_	B-sus4
-8bb-_	B-sus4
-8bb-_	.
-8bb-_	B-
+8bb-L_	.
+8bb-_	B- suspended-fourth
+8bb-_	B- suspended-fourth
+8bb-J_	.
+8bb-_	B- major
 4.bb-_	.
 =26	=26
-8bb-_	B-sus4
-8bb-_	B-sus4
+8bb-L_	B- suspended-fourth
+8bb-_	B- suspended-fourth
 8bb-_	.
-8bb-_	B-sus4
-8bb-_	B-sus4
+8bb-J_	B- suspended-fourth
+8bb-L_	B- suspended-fourth
 8bb-_	.
-8bb-_	B-sus4
-8bb-_	B-sus4
+8bb-_	B- suspended-fourth
+8bb-J_	B- suspended-fourth
 =27	=27
-8bb-_	.
-8bb-_	B-sus4
-8bb-_	B-sus4
-8bb-_	.
-8bb-]	B-
+8bb-L_	.
+8bb-_	B- suspended-fourth
+8bb-_	B- suspended-fourth
+8bb-J_	.
+8bb-]	B- major
 4.r	.
 ==	==
 *-	*-

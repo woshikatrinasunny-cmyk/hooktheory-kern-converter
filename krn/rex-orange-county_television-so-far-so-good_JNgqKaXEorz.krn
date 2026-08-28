@@ -16,31 +16,31 @@
 *F:	*
 *M4/4	*
 =1	=1
-4e	Fmaj7
+4e	F major-seventh
 4r	.
 4a	.
-8e	.
-8c	.
+8eL	.
+8cJ	.
 =2	=2
 4.f	.
 8r	.
 4c	.
 4c	.
 =3	=3
-4g	Am7
+4g	A minor-seventh
 4g	.
 4g	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 =4	=4
 2.a	.
 4a	.
 =5	=5
-4b-	B-maj7
+4b-	B- major-seventh
 4a	.
 4f	.
-8c	.
-8d[	.
+8cL	.
+[8dJ	.
 =6	=6
 8d]	.
 4f	.
@@ -48,22 +48,22 @@
 4r	.
 8c	.
 =7	=7
-8g	.
+8gL	.
 8a	.
 8a	.
-8a	.
-8a	.
-8g	.
+8aJ	.
+8aL	.
+8gJ	.
 4f	.
 =8	=8
-2g	Dm7/C
+2g	D minor-seventh/C
 4.r	.
 8c	.
 =9	=9
-4cc	Fmaj7
+4cc	F major-seventh
 4b-	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 4g	.
 =10	=10
 4f	.
@@ -72,20 +72,20 @@
 4c	.
 8r	.
 =11	=11
-8cc	Am7
-8cc	.
+8ccL	A minor-seventh
+8ccJ	.
 4cc	.
 4dd	.
-8a	.
-8g[	.
+8aL	.
+[8gJ	.
 =12	=12
 2g]	.
 8r	.
-8g	.
+8gL	.
 8a	.
-8g	.
+8gJ	.
 =13	=13
-4b-	B-maj7
+4b-	B- major-seventh
 4a	.
 4f	.
 4c	.
@@ -95,7 +95,7 @@
 4f	.
 8c	.
 8r	.
-8a[	.
+[8a	.
 =15	=15
 4a]	.
 8a	.
@@ -103,8 +103,8 @@
 8g	.
 4f	.
 =16	=16
-2g[	Cadd(2,4,7)
-4g]	D-dim
+[2g	C other-2,4,7
+4g]	D- diminished
 4r	.
 ==	==
 *-	*-

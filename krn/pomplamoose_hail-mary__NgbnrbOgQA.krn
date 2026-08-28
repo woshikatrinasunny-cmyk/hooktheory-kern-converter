@@ -16,46 +16,46 @@
 *A:	*
 *M6/4	*
 =1	=1
-4g#	Dadd(4,5,7)/F#
+4g#	D other-4,5,7/F#
 4a	.
 4c#	.
-4g#	Eadd(3,5,10)
+4g#	E other-3,5,10
 4a	.
 4c#	.
 =2	=2
-2.f#	Aadd(4,5,7)
-2.e	Eadd(5,7,9,10)/D
+2.f#	A other-4,5,7
+2.e	E other-5,7,9,10/D
 =3	=3
-2.g#	E
-2.c#	Badd(5,7,9)/F#
+2.g#	E major
+2.c#	B other-5,7,9/F#
 =4	=4
-2.a[	Am
-4a]	Am/C
+[2.a	A minor
+4a]	A minor/C
 2r	.
 =5	=5
-4g#	Dadd(4,5,7)/F#
+4g#	D other-4,5,7/F#
 4a	.
 4c#	.
-6...g#	Eadd(3,5,10)
+6...g#	E other-3,5,10
 8.a	.
 4c#	.
 =6	=6
-2.f#	Aadd(4,5,7)
-2.e	Eadd(5,7,9,10)/D
+2.f#	A other-4,5,7
+2.e	E other-5,7,9,10/D
 =7	=7
-4.cc#	Aadd(5,7,9)
+4.cc#	A other-5,7,9
 4.r	.
-4.b	Cadd(4,6,11)
+4.b	C other-4,6,11
 4.r	.
 =8	=8
-3...g#	C#add(3,5,7)
+3...g#	C# other-3,5,7
 8r	.
-2.f#[	F#add(3,7,8,10)/C#
+[2.f#	F# other-3,7,8,10/C#
 =9	=9
 *k[b-e-a-d-g-]	*
 *D-:	*
 8g-]	.
 3...r	.
-2.r	E
+2.r	E major
 ==	==
 *-	*-

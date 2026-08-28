@@ -16,15 +16,15 @@
 *a:	*
 *M4/4	*
 =1	=1
-2ccc	Fmaj7sus2
+2ccc	F major-seventh-suspended-second
 4r	.
 16gg	.
 16r	.
 16ddd	.
 16r	.
 =2	=2
-8ccc[	.
-4.ccc]	Eadd(3,4,7,8,10)
+[8ccc	.
+4.ccc]	E other-3,4,7,8,10
 16gg	.
 16r	.
 16cc	.
@@ -32,7 +32,7 @@
 16dd	.
 8.r	.
 =3	=3
-16gg	Am7
+16gg	A minor-seventh
 16r	.
 16ccc	.
 16r	.
@@ -48,7 +48,7 @@
 16r	.
 =4	=4
 8r	.
-16cc	C7
+16cc	C dominant
 16r	.
 16dd	.
 16r	.
@@ -63,7 +63,7 @@
 16cc	.
 16r	.
 =5	=5
-8r	Dm7
+8r	D minor-seventh
 16cc	.
 16r	.
 16dd	.
@@ -74,10 +74,10 @@
 16r	.
 16ddd	.
 16r	.
-8ccc[	.
+[8ccc	.
 =6	=6
 8ccc_	.
-4.ccc]	Eadd(3,4,7,8,10)
+4.ccc]	E other-3,4,7,8,10
 8r	.
 16gg	.
 16r	.
@@ -86,16 +86,16 @@
 16ddd	.
 16r	.
 =7	=7
-4eee	Am7
-8ddd	.
-16ccc	.
+4eee	A minor-seventh
+8dddL	.
+16cccJk	.
 8.r	.
 16aaa	.
 16r	.
-4ggg[	.
+[4ggg	.
 =8	=8
 8ggg_	.
-4.ggg]	C7
+4.ggg]	C dominant
 2r	.
 ==	==
 *-	*-

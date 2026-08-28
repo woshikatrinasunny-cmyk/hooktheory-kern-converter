@@ -16,65 +16,65 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	C
-8g	.
+8r	C major
+8gL	.
 8a	.
-8g	.
+8gJ	.
+8ccL	.
 8cc	.
-8cc	.
-16dd	.
-16ee	.
+16ddL	.
+16eeJJ	.
 8r	.
 =2	=2
-8r	D
+8r	D major
 4dd	.
 8a	.
-16cc	.
+16ccLK	.
 8cc	.
-16dd	.
+16ddJk	.
 4r	.
 =3	=3
-6...r	A#
-16a#	.
+6...r	A# major
+16a#LL	.
 16cc	.
-16a#	.
-8dd	.
+16a#JJ	.
+8ddL	.
 8cc	.
-16a#	.
+16a#k	.
 8cc	.
-16a[	.
+[16aJk	.
 =4	=4
-2.a]	Am
+2.a]	A minor
 4r	.
 =5	=5
-8r	C
-8g	.
+8r	C major
+8gL	.
 8a	.
-8g	.
+8gJ	.
+8ccL	.
 8cc	.
-8cc	.
-16dd	.
-16ee	.
+16ddL	.
+16eeJJ	.
 8r	.
 =6	=6
-8r	D
+8r	D major
 4dd	.
 8a	.
-8.cc	.
-16dd	.
+8.ccL	.
+16ddJk	.
 4r	.
 =7	=7
-6...r	A#
-16a#	.
+6...r	A# major
+16a#LL	.
 16cc	.
-16a#	.
-8dd	.
+16a#JJ	.
+8ddL	.
 8cc	.
-16a#	.
+16a#k	.
 8cc	.
-16a[	.
+[16aJk	.
 =8	=8
-2.a]	Am
+2.a]	A minor
 4r	.
 ==	==
 *-	*-

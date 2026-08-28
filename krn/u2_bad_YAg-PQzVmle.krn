@@ -16,56 +16,56 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.r	Asus4
-4r	A
-8.ee	.
-8.ee[	.
+4.r	A suspended-fourth
+4r	A major
+8.eeL	.
+[8.eeJ	.
 =2	=2
-4.ee_	Asus4
-8ee]	A
+4.ee_	A suspended-fourth
+8ee]	A major
 8r	.
-8.ee	.
-8.ee[	.
+8.eeL	.
+[8.eeJ	.
 =3	=3
-6...ee]	Dsus2
+6...ee]	D suspended-second
 16r	.
-4r	D5
-8.a	.
-8.a[	.
+4r	D power
+8.aL	.
+[8.aJ	.
 =4	=4
-6...a]	Dsus2
+6...a]	D suspended-second
 16r	.
-8r	D5
+8r	D power
+8.aL	.
+16ak	.
 8.a	.
-16a	.
-8.a	.
-16a[	.
+[16aJk	.
 =5	=5
-8.a]	Asus4
+8.a]	A suspended-fourth
 8.r	.
-4r	A
-8.ee	.
-8.ee[	.
+4r	A major
+8.eeL	.
+[8.eeJ	.
 =6	=6
-4.ee_	Asus4
-8ee]	A
+4.ee_	A suspended-fourth
+8ee]	A major
 8r	.
-8.ee	.
-8.ee[	.
+8.eeL	.
+[8.eeJ	.
 =7	=7
-6...ee]	Dsus2
+6...ee]	D suspended-second
 16r	.
-4r	D5
-8.a	.
-8.a[	.
+4r	D power
+8.aL	.
+[8.aJ	.
 =8	=8
-6...a]	Dsus2
+6...a]	D suspended-second
 16r	.
-8r	D5
-8.a	.
-16a	.
+8r	D power
+8.aL	.
+16ak	.
 8a	.
-16d	.
-16a	.
+16dL	.
+16aJJ	.
 ==	==
 *-	*-

@@ -16,32 +16,32 @@
 *C:	*
 *M4/4	*
 =1	=1
-4C	Cadd(2,4,7)
+4C	C other-2,4,7
 4G	.
 4d	.
-4e[	.
+[4e	.
 =2	=2
 1e]	.
 =3	=3
-4C	Fmaj7
+4C	F major-seventh
 4A	.
 4e	.
-4f[	.
+[4f	.
 =4	=4
 1f]	.
 =5	=5
-4C	Cadd(2,4,7)
+4C	C other-2,4,7
 4G	.
 4d	.
-4e[	.
+[4e	.
 =6	=6
 1e]	.
 =7	=7
-2g	G
-2f#	F#dim
+2g	G major
+2f#	F# diminished
 =8	=8
-2f	G7
-4B	G/B
+2f	G dominant
+4B	G major/B
 4G	.
 ==	==
 *-	*-

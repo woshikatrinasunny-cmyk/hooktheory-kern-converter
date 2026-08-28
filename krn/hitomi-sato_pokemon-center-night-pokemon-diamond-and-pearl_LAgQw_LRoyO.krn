@@ -16,17 +16,17 @@
 *C:	*
 *M6/4	*
 =1	=1
-4r	Cadd(2,4,7)
+4r	C other-2,4,7
 4.dd	.
-8dd[	.
-4.dd]	Cmaj9
+[8dd	.
+4.dd]	C major-ninth
 4.r	.
 =2	=2
-4r	Cadd(2,4,7)
-8cc	.
-8dd	.
+4r	C other-2,4,7
+8ccL	.
+8ddJ	.
 8ee	.
-2b	Cmaj7
+2b	C major-seventh
 4.g	.
 ==	==
 *-	*-

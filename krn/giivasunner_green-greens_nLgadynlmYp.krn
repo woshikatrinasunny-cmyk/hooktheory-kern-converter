@@ -21,7 +21,7 @@
 16r	.
 16gg	.
 =2	=2
-4ggg	C
+4ggg	C major
 4ccc	.
 8r	.
 4cccc	.
@@ -35,17 +35,17 @@
 16fff	.
 16r	.
 =4	=4
-8eee	Dm9
-16eee	.
+8eeeL	D minor-ninth
+16eeeJk	.
 16r	.
 16fff	.
 16r	.
 16ggg	.
 16r	.
-4ccc	G
+4ccc	G major
 4ddd	.
 =5	=5
-2.eee	C
+2.eee	C major
 4r	.
 =6	=6
 4ggg	.
@@ -61,27 +61,27 @@
 4ggg	.
 8fff	.
 =8	=8
-8eee	Dm9
+8eeeL	D minor-ninth
 8eee	.
 8fff	.
-8ggg	.
-4ccc	E
+8gggJ	.
+4ccc	E major
 4ddd	.
 =9	=9
-2ccc[	Am
-4ccc]	C/G
+[2ccc	A minor
+4ccc]	C major/G
 4r	.
 =10	=10
-8.ccc	F/A
-16ccc	.
+8.cccL	F major/A
+16ccck	.
 8ddd	.
-8eee[	.
-8eee]	G/B
+[8eeeJ	.
+8eeeL]	G major/B
 8ccc	.
 8ddd	.
-8ccc	.
+8cccJ	.
 =11	=11
-1r	C
+1r	C major
 =12	=12
 1r	.
 ==	==

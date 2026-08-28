@@ -16,54 +16,54 @@
 *B-:	*
 *M3/4	*
 =1	=1
-2.ff	B-
+2.ff	B- major
 =2	=2
 2gg	.
 4ff	.
 =3	=3
-2.ff	F/A
+2.ff	F major/A
 =4	=4
 2.cc	.
 =5	=5
-4ee-	A-
+4ee-	A- major
 4ee-	.
 4ee-	.
 =6	=6
-4ee-	A-m
-8dd	.
-8ee-	.
-8.ff	.
-16ee-	.
+4ee-	A- minor
+8ddL	.
+8ee-J	.
+8.ffL	.
+16ee-Jk	.
 =7	=7
-2.ee-	E-
+2.ee-	E- major
 =8	=8
 2.b-	.
 =9	=9
-2.bb-	Edim7
+2.bb-	E diminished-seventh
 =10	=10
-2aa	C7/E
+2aa	C dominant/E
 4gg	.
 =11	=11
-2.ff	F7
+2.ff	F dominant
 =12	=12
-2dd	Gm
+2dd	G minor
 4b-	.
 =13	=13
-2.ee-	Cm
+2.ee-	C minor
 =14	=14
-4dd	F7
+4dd	F dominant
 4cc	.
 4dd	.
 =15	=15
-4b-	B-
-4bn	B7/A
-4bn	E/A-
+4b-	B- major
+4bn	B dominant/A
+4bn	E major/A-
 =16	=16
-4cc	C7/G
-4cc	F7
-16dd	B-7
+4cc	C dominant/G
+4cc	F dominant
+16ddLL	B- dominant
 16g	.
 16b-	.
-16ee-	.
+16ee-JJ	.
 ==	==
 *-	*-

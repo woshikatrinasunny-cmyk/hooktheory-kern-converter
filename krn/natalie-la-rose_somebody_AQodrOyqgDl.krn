@@ -16,98 +16,98 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	F
+8r	F major
 8.r	.
-16e	.
-16e	F
-16e	.
-8e	G
-16c[	.
-16c]	G
-16c[	.
-16c]	.
-8c[	Am
+16eLL	.
+16e	F major
+16eJJ	.
+8eL	G major
+[16cL	.
+16c]	G major
+[16c	.
+16cJ]	.
+[8cJ	A minor
 =2	=2
-8c]	.
-8d	.
+8cL]	.
+8dJ	.
 8r	.
-8r	Am
-8r	C
+8r	A minor
+8r	C major
 16r	.
-8r	C
+8r	C major
 16r	.
-8r	C
+8r	C major
 =3	=3
-8r	F
+8r	F major
 16r	.
+16eLL	.
 16e	.
-16e	.
-16e	.
-8e	F
-8g	G
-16c[	.
-16c]	G
-16c[	.
-16c]	.
-8c[	Am
+16eJ	.
+8eJ	F major
+8gL	G major
+[16cL	.
+16c]	G major
+[16c	.
+16cJ]	.
+[8cJ	A minor
 =4	=4
-8c]	.
-8d	.
+8cL]	.
+8dJ	.
 8r	.
-8r	Am
-8r	C
+8r	A minor
+8r	C major
 16r	.
-8r	C
+8r	C major
 16r	.
-8r	C
+8r	C major
 =5	=5
-8r	F
+8r	F major
 8.r	.
-16e	.
-16e	F
-16e	.
-16e	G
+16eLL	.
+16e	F major
+16eJJ	.
+16eLL	G major
 16d	.
-16d[	.
-16d]	G
-16c[	.
-16c]	.
-8c[	Am
+[16d	.
+16d]	G major
+[16c	.
+16cJ]	.
+[8cJ	A minor
 =6	=6
-8c]	.
-8d	.
+8cL]	.
+8dJ	.
 8r	.
-8r	Am
-8r	C
+8r	A minor
+8r	C major
 16r	.
-8r	C
+8r	C major
 16r	.
-8r	C
+8r	C major
 =7	=7
-8r	F
-8A	.
-16c	.
+8r	F major
+8AL	.
+16cL	.
 16d	.
-16e	F
-16f	.
-8e	G
-16d	.
-16r	G
-16d	.
-16d	.
-8r	Am
+16e	F major
+16fJJ	.
+8eL	G major
+16dJk	.
+16r	G major
+16dLL	.
+16dJJ	.
+8r	A minor
 =8	=8
-16c	.
+16cLL	.
 16c	.
 16A	.
-16A	.
+16AJ	.
 8c	.
-8c	Am
-16A	C
-16G[	.
-16G]	.
-8r	C
+8cJ	A minor
+16ALL	C major
+[16G	.
+16GJJ]	.
+8r	C major
 16r	.
-8r	C
+8r	C major
 ==	==
 *-	*-

@@ -16,88 +16,88 @@
 *a:	*
 *M4/4	*
 =1	=1
-16a	Am
+16aLL	A minor
 16b	.
 16a	.
-16b	Am
+16b	A minor
 16a	.
 16b	.
-16a	Am/E
-16b	.
-16f	Dm
+16a	A minor/E
+16bJJ	.
+16fLL	D minor
 16g	.
 16f	.
-16g	Dm
+16gJ	D minor
 8f	.
-16g	Dm/A
-16a	.
+16gL	D minor/A
+16aJJ	.
 =2	=2
-16b	Em/G
+16bLL	E minor/G
 16cc	.
 16b	.
-16cc	Em/G
+16cc	E minor/G
 16b	.
-16a	.
-8g	Em/B
-16g	Am
-8a[	.
-8.a]	Am
-8r	Am/E
+16aJ	.
+8gJ	E minor/B
+16gLK	A minor
+[8a	.
+8.aJ]	A minor
+8r	A minor/E
 =3	=3
-16a	Am
+16aLL	A minor
 16b	.
 16a	.
-16b	Am
+16b	A minor
 16a	.
 16b	.
-16a	Am/E
-16b	.
-16f	Dm
+16a	A minor/E
+16bJJ	.
+16fLL	D minor
 16g	.
 16f	.
-16g	Dm
+16gJ	D minor
 8f	.
-16g	Dm/A
-16a	.
+16gL	D minor/A
+16aJJ	.
 =4	=4
-8b	Em/G
+8bL	E minor/G
+16bL	.
+16cc	E minor/G
 16b	.
-16cc	Em/G
-16b	.
-16a	.
-8g	Em/B
-16g	Am
-8a[	.
-8.a]	Am
-8r	Am/E
+16aJ	.
+8gJ	E minor/B
+16gLK	A minor
+[8a	.
+8.aJ]	A minor
+8r	A minor/E
 =5	=5
-16a	Am
+16aLL	A minor
 16b	.
 16a	.
-16b	Am
+16b	A minor
 16a	.
 16b	.
-16a	Am/E
-16b	.
-16f	Dm
+16a	A minor/E
+16bJJ	.
+16fLL	D minor
 16g	.
 16f	.
-16g	Dm
+16g	D minor
 16f	.
 16g	.
-16a	Dm/A
-16cc	.
+16a	D minor/A
+16ccJJ	.
 =6	=6
-16b	Em/G
+16bLL	E minor/G
 16cc	.
 16b	.
-16cc	Em/G
+16ccJ	E minor/G
 8b	.
-16a	Em/B
-16g	.
-16g	Am
-8a[	.
-8.a_	Am
-8a]	Am/E
+16aL	E minor/B
+16gJJ	.
+16gLK	A minor
+[8a	.
+8.a_	A minor
+8aJ]	A minor/E
 ==	==
 *-	*-

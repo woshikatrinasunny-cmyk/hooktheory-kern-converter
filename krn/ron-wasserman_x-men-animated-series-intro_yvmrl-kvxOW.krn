@@ -16,170 +16,170 @@
 *c:	*
 *M4/4	*
 =1	=1
-8c	Cm
+8cL	C minor
 8c	.
 8c	.
-8c	.
+8cJ	.
 4e-	.
 4c	.
 =2	=2
-8e-	A-/E-
+8e-L	A- major/E-
 8e-	.
 8e-	.
-8e-	.
+8e-J	.
 4f	.
 4e-	.
 =3	=3
-8c	Cm
+8cL	C minor
 8c	.
 8c	.
-8c	.
+8cJ	.
 4e-	.
 4c	.
 =4	=4
-8e-	A-/E-
+8e-L	A- major/E-
 8e-	.
 8e-	.
-8e-	.
+8e-J	.
 4f	.
 4e-	.
 =5	=5
-2cc	Cm
+2cc	C minor
 2cc	.
 =6	=6
-2cc	A-/E-
+2cc	A- major/E-
 2cc	.
 =7	=7
-2cc	Cm
+2cc	C minor
 2cc	.
 =8	=8
-2cc	A-/E-
-8c	.
+2cc	A- major/E-
+8cL	.
 8g	.
 8cc	.
-8ee-	.
+8ee-J	.
 =9	=9
-2dd	Cm
+2dd	C minor
 4cc	.
-4g[	.
+[4g	.
 =10	=10
-2g]	A-/E-
-8c	.
+2g]	A- major/E-
+8cL	.
 8g	.
 8cc	.
-8ee-	.
+8ee-J	.
 =11	=11
-2dd	Cm
+2dd	C minor
 4cc	.
-4a-[	.
+[4a-	.
 =12	=12
-2a-]	A-/E-
-8c	.
+2a-]	A- major/E-
+8cL	.
 8g	.
 8cc	.
-8ee-	.
+8ee-J	.
 =13	=13
-2dd	Cm
+2dd	C minor
 4cc	.
-4ee-[	.
+[4ee-	.
 =14	=14
-2ee-]	A-/E-
+2ee-]	A- major/E-
 2r	.
 =15	=15
-4dd	Cm
+4dd	C minor
 4cc	.
 6...g	.
-16an	.
+16anLL	.
 16b-	.
-16bn	.
+16bnJJ	.
 =16	=16
-4cc	A-/E-
+4cc	A- major/E-
 4r	.
-8f	.
+8fL	.
 8cc	.
 8ff	.
-8aa-	.
+8aa-J	.
 =17	=17
-2gg	Fm
+2gg	F minor
 4ff	.
-4cc[	.
+[4cc	.
 =18	=18
-2cc]	D-/A-
-8f	.
+2cc]	D- major/A-
+8fL	.
 8cc	.
 8ff	.
-8aa-	.
+8aa-J	.
 =19	=19
-2gg	Fm
+2gg	F minor
 4ff	.
-4dd-[	.
+[4dd-	.
 =20	=20
-2dd-]	D-/A-
-8c	.
+2dd-]	D- major/A-
+8cL	.
 8g	.
 8cc	.
-8ee-	.
+8ee-J	.
 =21	=21
-2dd	Cm
+2dd	C minor
 4cc	.
-4ee-[	.
+[4ee-	.
 =22	=22
-2ee-]	A-/E-
+2ee-]	A- major/E-
 2r	.
 =23	=23
-4dd	Cm
+4dd	C minor
 4cc	.
 6...g	.
-16an	.
+16anLL	.
 16b-	.
-16bn	.
+16bnJJ	.
 =24	=24
-4cc	A-/E-
+4cc	A- major/E-
 2.r	.
 =25	=25
-8.a-	Gm
+8.a-L	G minor
 8.g	.
-8f	.
-8.a-	.
+8fJ	.
+8.a-L	.
 8.g	.
-8f	.
+8fJ	.
 =26	=26
-8.a-	.
+8.a-L	.
 8.g	.
-8f	.
-8.a-	.
+8fJ	.
+8.a-L	.
 8.g	.
-8f	.
+8fJ	.
 =27	=27
-8.b-	A-
+8.b-L	A- major
 8.a-	.
-8g	.
-8.b-	.
+8gJ	.
+8.b-L	.
 8.a-	.
-8g	.
+8gJ	.
 =28	=28
-8.b-	.
+8.b-L	.
 8.a-	.
-8g	.
-8.b-	.
+8gJ	.
+8.b-L	.
 8.a-	.
-8g	.
+8gJ	.
 =29	=29
-8.cc	Fm
+8.ccL	F minor
 8.b-	.
-8a-	.
-8.cc	.
+8a-J	.
+8.ccL	.
 8.b-	.
-8a-	.
+8a-J	.
 =30	=30
-8.cc	.
+8.ccL	.
 8.b-	.
-8a-	.
-8.b-	.
+8a-J	.
+8.b-L	.
 8.cc	.
-8aa-	.
+8aa-J	.
 =31	=31
-1gg	G
+1gg	G major
 =32	=32
 1r	.
 ==	==

@@ -16,93 +16,93 @@
 *b:	*
 *M4/4	*
 =1	=1
-4.r	Gmaj7
-2r	A7/G
-8r	Badd(2,4,7)
+4.r	G major-seventh
+2r	A dominant/G
+8r	B other-2,4,7
 =2	=2
 4.r	.
-4.r	Badd(2,4,7)
-4r	Badd(2,4,7)
+4.r	B other-2,4,7
+4r	B other-2,4,7
 =3	=3
-8b	Gmaj7
+8bL	G major-seventh
 8a	.
-8g	.
-4.cc#	A7/G
-8ee	.
-8ff#	Badd(2,4,7)
+8gJ	.
+4.cc#	A dominant/G
+8eeL	.
+8ff#J	B other-2,4,7
 =4	=4
 4ee	.
 8dd	.
-4.cc#	Badd(2,4,7)
-8dd	Badd(2,4,7)
-8dd[	.
+4.cc#	B other-2,4,7
+8ddL	B other-2,4,7
+[8ddJ	.
 =5	=5
-4.dd_	Gmaj7
-4dd]	A7/G
+4.dd_	G major-seventh
+4dd]	A dominant/G
 4r	.
-8r	Badd(2,4,7)
+8r	B other-2,4,7
 =6	=6
 4.r	.
-4.r	Badd(2,4,7)
-4r	Badd(2,4,7)
+4.r	B other-2,4,7
+4r	B other-2,4,7
 =7	=7
-4.dd	Gmaj7
-4.cc#	A7/G
-8dd	.
-8ff#[	Badd(2,4,7)
+4.dd	G major-seventh
+4.cc#	A dominant/G
+8ddL	.
+[8ff#J	B other-2,4,7
 =8	=8
 4.ff#_	.
-4.ff#_	Badd(2,4,7)
-8ff#]	Badd(2,4,7)
+4.ff#_	B other-2,4,7
+8ff#]	B other-2,4,7
 8r	.
 =9	=9
-4.dd	Gmaj7
-4.cc#	A7/G
-8dd	.
-8dd[	Badd(2,4,7)
+4.dd	G major-seventh
+4.cc#	A dominant/G
+8ddL	.
+[8ddJ	B other-2,4,7
 =10	=10
-8dd]	.
+8ddL]	.
 8cc#	.
-8a	.
-4.b	Badd(2,4,7)
-4r	Badd(2,4,7)
+8aJ	.
+4.b	B other-2,4,7
+4r	B other-2,4,7
 =11	=11
-8.dd	Gmaj7
-16cc#	.
+8.ddL	G major-seventh
+16cc#L	.
 16b	.
-16a	.
-4.cc#	A7/G
-8dd	.
-8dd[	Badd(2,4,7)
+16aJJ	.
+4.cc#	A dominant/G
+8ddL	.
+[8ddJ	B other-2,4,7
 =12	=12
 4.dd_	.
-4.dd_	Badd(2,4,7)
-8dd]	Badd(2,4,7)
+4.dd_	B other-2,4,7
+8dd]	B other-2,4,7
 8r	.
 =13	=13
-8.dd	Gmaj7
-16cc#	.
+8.ddL	G major-seventh
+16cc#L	.
 16b	.
-16a	.
-4.cc#	A7/G
-8dd	.
-8dd[	Badd(2,4,7)
+16aJJ	.
+4.cc#	A dominant/G
+8ddL	.
+[8ddJ	B other-2,4,7
 =14	=14
 4dd]	.
 8ee	.
-4.dd[	Badd(2,4,7)
-4dd]	Badd(2,4,7)
+[4.dd	B other-2,4,7
+4dd]	B other-2,4,7
 =15	=15
-8.dd	Gmaj7
-16cc#	.
+8.ddL	G major-seventh
+16cc#L	.
 16b	.
-16a	.
-4.cc#	A7/G
+16aJJ	.
+4.cc#	A dominant/G
 8r	.
-16f#	F#
-16e	.
+16f#LL	F# major
+16eJJ	.
 =16	=16
 2f#	.
-2d#	Cdim7/D#
+2d#	C diminished-seventh/D#
 ==	==
 *-	*-

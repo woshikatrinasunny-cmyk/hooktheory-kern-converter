@@ -16,7 +16,7 @@
 *G:	*
 *M6/4	*
 =1	=1
-2.B	G
+2.B	G major
 2.F#	.
 =2	=2
 2.r	.
@@ -24,7 +24,7 @@
 4c	.
 4d	.
 =3	=3
-2.d	Bm7
+2.d	B minor-seventh
 2.B	.
 =4	=4
 2.r	.
@@ -32,20 +32,20 @@
 4e	.
 4f#	.
 =5	=5
-2.g	Am7
+2.g	A minor-seventh
 2e	.
-8B	.
-8B	.
+8BL	.
+8BJ	.
 =6	=6
-4d	Daug7
+4d	D augmented-seventh
 4d	.
 4d	.
 4d	.
 4e	.
-8B	.
-8d[	.
+8BL	.
+[8dJ	.
 =7	=7
-2d]	G
+2d]	G major
 1r	.
 =8	=8
 1r	.

@@ -17,270 +17,270 @@
 *M4/4	*
 =1	=1
 8r	.
-16c	.
-16c	.
+16cLL	.
+16cJ	.
 8c	.
-8c	.
-8c	.
+8cJ	.
+8cL	.
 8G	.
 8F	.
-8E	.
+8EJ	.
 =2	=2
-8r	C
+8r	C major
+8eL	.
 8e	.
-8e	.
-8e	.
-16e	C
-16d	.
+8eJ	.
+16eLL	C major
+16dJ	.
 8A	.
 8c	.
-8A	.
+8AJ	.
 =3	=3
-8c	C
-16c	.
-16c	.
+8cL	C major
+16cL	.
+16cJ	.
 8c	.
-8c	.
-8c	C
+8cJ	.
+8cL	C major
 8e	.
 8f	.
-8e	.
+8eJ	.
 =4	=4
-8f	C
-8e	.
+8fL	C major
+8eJ	.
 4r	.
-2r	C
+2r	C major
 =5	=5
-2r	C
-8r	C
-8e	.
+2r	C major
+8r	C major
+8eL	.
 8f	.
-8e	.
+8eJ	.
 =6	=6
-8f	F7
-8d#	.
+8fL	F dominant
+8d#J	.
 4r	.
-2r	F7
+2r	F dominant
 =7	=7
-2r	F7
-8r	F7
-8e	.
+2r	F dominant
+8r	F dominant
+8eL	.
 8f	.
-8e	.
+8eJ	.
 =8	=8
-8f	C
-8e	.
+8fL	C major
+8eJ	.
 4r	.
-2r	C
+2r	C major
 =9	=9
-8c	C
-16c	.
-16c	.
+8cL	C major
+16cL	.
+16cJ	.
 8c	.
-8c	.
-8c	C
+8cJ	.
+8c	C major
 4.c	.
 =10	=10
-8r	G7
-8a	.
+8r	G dominant
+8aL	.
 8g	.
-8a	.
-8a#	G7
-8a	.
+8aJ	.
+8a#L	G dominant
+8aJ	.
 4r	.
 =11	=11
-8d#	G7
+8d#L	G dominant
 8d#	.
 8d#	.
-8d#	.
-8d#	G7
+8d#J	.
+8d#	G dominant
 4.r	.
 =12	=12
-8r	C
-8a	.
+8r	C major
+8aL	.
 8g	.
-8a	.
-16e	C
-16d	.
+8aJ	.
+16eLL	C major
+16dJ	.
 8A	.
 8c	.
-8A	.
+8AJ	.
 =13	=13
-2r	C
-2r	C
+2r	C major
+2r	C major
 =14	=14
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =15	=15
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =16	=16
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =17	=17
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =18	=18
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =19	=19
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =20	=20
-2r	F7
-2r	F
+2r	F dominant
+2r	F major
 =21	=21
-2r	Fm7
-2r	Fm
+2r	F minor-seventh
+2r	F minor
 =22	=22
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =23	=23
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =24	=24
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =25	=25
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =26	=26
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =27	=27
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =28	=28
-2r	F7
-2r	F
+2r	F dominant
+2r	F major
 =29	=29
-2r	Fm7
-2r	Fm
+2r	F minor-seventh
+2r	F minor
 =30	=30
-2r	E7
-2r	E
+2r	E dominant
+2r	E major
 =31	=31
-2r	G7
-2r	G
+2r	G dominant
+2r	G major
 =32	=32
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =33	=33
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =34	=34
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =35	=35
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =36	=36
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =37	=37
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =38	=38
-2r	F7
-2r	F
+2r	F dominant
+2r	F major
 =39	=39
-2r	Fm7
-2r	Fm
+2r	F minor-seventh
+2r	F minor
 =40	=40
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =41	=41
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =42	=42
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =43	=43
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =44	=44
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =45	=45
-2r	C
-2r	Am/C
+2r	C major
+2r	A minor/C
 =46	=46
-2r	F7
-2r	F
+2r	F dominant
+2r	F major
 =47	=47
-2r	Fm7
-2r	Fm
+2r	F minor-seventh
+2r	F minor
 =48	=48
-2r	E7
-2r	E
+2r	E dominant
+2r	E major
 =49	=49
-2r	G7
-2r	G
+2r	G dominant
+2r	G major
 =50	=50
-1r	F7
+1r	F dominant
 =51	=51
-1r	F7
+1r	F dominant
 =52	=52
-1r	F7
+1r	F dominant
 =53	=53
-1r	F7
+1r	F dominant
 =54	=54
-1r	A7
+1r	A dominant
 =55	=55
-1r	A7
+1r	A dominant
 =56	=56
-1r	A7
+1r	A dominant
 =57	=57
-1r	A7
+1r	A dominant
 =58	=58
-2r	C
-2r	C
+2r	C major
+2r	C major
 =59	=59
-2r	D
-2r	D
+2r	D major
+2r	D major
 =60	=60
-2r	C
-2r	C
+2r	C major
+2r	C major
 =61	=61
-8g	C
-16f#	.
+8gL	C major
+16f#k	.
 8g	.
-16f#	.
+16f#Jk	.
 4d	.
 4e	.
 8c	.
 =62	=62
-2r	C
-2r	C
+2r	C major
+2r	C major
 =63	=63
-2r	D
-2r	D
+2r	D major
+2r	D major
 =64	=64
-2r	C
-2r	C
+2r	C major
+2r	C major
 =65	=65
-1r	C
+1r	C major
 =66	=66
-2r	C
-2r	C
+2r	C major
+2r	C major
 =67	=67
-2r	D
-2r	D
+2r	D major
+2r	D major
 =68	=68
-2r	C
-2r	C
+2r	C major
+2r	C major
 =69	=69
-1r	C
+1r	C major
 =70	=70
-2r	C
-2r	C
+2r	C major
+2r	C major
 =71	=71
-2r	D
-2r	D
+2r	D major
+2r	D major
 =72	=72
-2r	C
-2r	C
+2r	C major
+2r	C major
 =73	=73
-1r	C
+1r	C major
 ==	==
 *-	*-

@@ -16,65 +16,65 @@
 *F:	*
 *M4/4	*
 =1	=1
-4ff[	F
-4ff_	F/C
-4ff]	F
-4ee[	F/C
+[4ff	F major
+4ff_	F major/C
+4ff]	F major
+[4ee	F major/C
 =2	=2
-8ee]	C
-8cc[	.
-4cc]	C/G
-8r	C
-8a	.
-8b-	C/G
-8a	.
+8eeL]	C major
+[8ccJ	.
+4cc]	C major/G
+8r	C major
+8aL	.
+8b-	C major/G
+8aJ	.
 =3	=3
-4dd	Dm
-4cc	Dm/A
-4b-	Dm
-4a[	Dm/A
+4dd	D minor
+4cc	D minor/A
+4b-	D minor
+[4a	D minor/A
 =4	=4
-8a]	B-
-8f[	.
-4f_	B-/F
-8f]	B-
+8aL]	B- major
+[8fJ	.
+4f_	B- major/F
+8f]	B- major
 8r	.
-8f	B-maj7/A
-8g	.
+8fL	B- major-seventh/A
+8gJ	.
 =5	=5
-4b-	Gm7
-4a	Gm7/D
-4g	Gm7
-4f	Gm7/D
+4b-	G minor-seventh
+4a	G minor-seventh/D
+4g	G minor-seventh
+4f	G minor-seventh/D
 =6	=6
-4e	C
-4e	C/G
-4f	C
-4g[	C/G
+4e	C major
+4e	C major/G
+4f	C major
+[4g	C major/G
 =7	=7
-8g]	Dm
-8a[	.
-4a_	Dm/A
-4a]	Dsus4
-8r	Dsus4/A
-8r	D7sus4/C
+8gL]	D minor
+[8aJ	.
+4a_	D minor/A
+4a]	D suspended-fourth
+8r	D suspended-fourth/A
+8r	D dominant-seventh-suspended-fourth/C
 =8	=8
-4r	Dm
-4r	Dm/A
-8r	Dm
-8d	.
-8g	Dm/A
-8a	.
+4r	D minor
+4r	D minor/A
+8r	D minor
+8dL	.
+8g	D minor/A
+8aJ	.
 =9	=9
-4b-	Gm
+4b-	G minor
 4a	.
-4g	C
+4g	C major
 4f	.
 =10	=10
-4f	F
+4f	F major
 2.r	.
 =11	=11
 2r	.
-2r	Fsus4
+2r	F suspended-fourth
 ==	==
 *-	*-

@@ -16,65 +16,65 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4.ff#	F#m
-8ff#	F#m
-8ff#[	.
-4ff#]	D
-8ff#[	C#m
+4.ff#	F# minor
+8ff#	F# minor
+[8ff#	.
+4ff#]	D major
+[8ff#	C# minor
 =2	=2
-8ff#]	F#m
+8ff#]	F# minor
 4ff#	.
-8ff#	F#m
-8ff#[	.
-4ff#]	D
-8ee	C#m
+8ff#	F# minor
+[8ff#	.
+4ff#]	D major
+8ee	C# minor
 =3	=3
-8.ff#	F#m
-16ff#	.
-8aa	.
-4gg#	F#m
-8aa	D
+8.ff#L	F# minor
+16ff#k	.
+8aaJ	.
+4gg#	F# minor
+8aaL	D major
 8ff#	.
-8ee	C#m
+8eeJ	C# minor
 =4	=4
-8.ff#	F#m
-16ff#	.
-8aa	.
-4ccc#	C#m/E
-8ff#	D
+8.ff#L	F# minor
+16ff#k	.
+8aaJ	.
+4ccc#	C# minor/E
+8ff#L	D major
 8ff#	.
-8ee	C#m
+8eeJ	C# minor
 =5	=5
-4.ff#	F#m
-8ff#	F#m
-8ff#[	.
-4ff#]	D
-8ff#[	C#m
+4.ff#	F# minor
+8ff#	F# minor
+[8ff#	.
+4ff#]	D major
+[8ff#	C# minor
 =6	=6
-8ff#]	F#m
+8ff#]	F# minor
 4ff#	.
-8ff#	F#m
-8ff#[	.
-4ff#]	D
-8ee	C#m
+8ff#	F# minor
+[8ff#	.
+4ff#]	D major
+8ee	C# minor
 =7	=7
-8.ff#	F#m
-16ff#	.
-8aa	.
-4gg#	F#m
-8aa	D
+8.ff#L	F# minor
+16ff#k	.
+8aaJ	.
+4gg#	F# minor
+8aaL	D major
 8ff#	.
-8ee	C#m
+8eeJ	C# minor
 =8	=8
-8ff#	F#m
+8ff#L	F# minor
 8ff#	.
-16aa	.
-16bb[	.
-16bb]	F#m
+16aaL	.
+[16bb	.
+16bbJJ]	F# minor
 8ccc#	.
-16eee[	.
-16eee]	D
+[16eeeLL	.
+16eeeJ]	D major
 8.fff#	.
-8ggg#	C#m
+8ggg#J	C# minor
 ==	==
 *-	*-

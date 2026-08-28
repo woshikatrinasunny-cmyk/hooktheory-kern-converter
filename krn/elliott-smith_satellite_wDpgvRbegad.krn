@@ -16,21 +16,21 @@
 *D:	*
 *M3/4	*
 =1	=1
-2.fn	F
+2.fn	F major
 =2	=2
-2e	C
+2e	C major
 4d	.
 =3	=3
-2d[	D
-4d]	Dm/F
+[2d	D major
+4d]	D minor/F
 =4	=4
-2.d	G
+2.d	G major
 =5	=5
-2.fn	F
+2.fn	F major
 =6	=6
-2.e	C
+2.e	C major
 =7	=7
-2.d	D
+2.d	D major
 =8	=8
 2.r	.
 ==	==

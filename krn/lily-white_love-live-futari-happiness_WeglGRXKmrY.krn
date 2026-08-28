@@ -16,135 +16,135 @@
 *C:	*
 *M12/8	*
 =1	=1
-4c	C
+4c	C major
 8c	.
 4e	.
 8a	.
-4g	G/B
+4g	G major/B
 8r	.
-8f	.
+8fL	.
 8e	.
-8d	.
+8dJ	.
 =2	=2
-8d	Am
-8c	.
-2c[	.
-4c_	C/G
-8c]	G
+8dL	A minor
+8cJ	.
+[2c	.
+4c_	C major/G
+8c]	G major
 4.r	.
 =3	=3
-4f	F
+4f	F major
 8f	.
 4a	.
 8a	.
-4g	C/E
+4g	C major/E
 8r	.
-8f	.
+8fL	.
 8e	.
-8d	.
+8dJ	.
 =4	=4
-8d	A#/D
-8c	.
-2d[	.
-4.d]	G
+8dL	A# major/D
+8cJ	.
+[2d	.
+4.d]	G major
 4.r	.
 =5	=5
-4c	C
+4c	C major
 8c	.
 4e	.
 8a	.
-4g	G/B
+4g	G major/B
 8g	.
 4a	.
-8e[	.
+[8e	.
 =6	=6
-2.e_	Am
-8e]	Am7/G
+2.e_	A minor
+8e]	A minor-seventh/G
 4r	.
-4.r	Em/G
+4.r	E minor/G
 =7	=7
-4c	F
+4c	F major
 8c	.
 4f	.
 8f	.
-4e	G
+4e	G major
 8d#	.
 4d	.
 8c#	.
 =8	=8
-2..c	C
+2..c	C major
 4r	.
-4.r	G/B
+4.r	G major/B
 =9	=9
-8c	Am
+8cL	A minor
 8c	.
-8d	.
+8dJ	.
 4e	.
 8a	.
-4g	Em
+4g	E minor
 4.r	.
 8B	.
 =10	=10
-8c	Am
+8cL	A minor
 8c	.
-8d	.
+8dJ	.
 4e	.
 8b	.
-4g	Em
+4g	E minor
 2r	.
 =11	=11
-4d	Dm
+4d	D minor
 8c	.
 4d	.
 8e	.
-4f	G
+4f	G major
 8e	.
 4f	.
 8a	.
 =12	=12
-2.g	C
+2.g	C major
 2.r	.
 =13	=13
-8c	Am
+8cL	A minor
 8c	.
-8d	.
+8dJ	.
 4e	.
 8f	.
-4.e	G#aug
+4.e	G# augmented
 4r	.
 8e	.
 =14	=14
 *M6/8	*
-4b	C/G
+4b	C major/G
 4cc	.
-8b	.
-8g	.
+8bL	.
+8gJ	.
 =15	=15
 *M12/8	*
-1a[	F#dim7
+[1a	F# diminished-seventh
 8a]	.
 8r	.
-8c	.
-8d	.
+8cL	.
+8dJ	.
 =16	=16
-8e	G
+8eL	G major
 8d	.
-8d	.
+8dJ	.
 8r	.
-8c	.
+8cL	.
+8dJ	.
+8eL	.
 8d	.
-8e	.
-8d	.
-8d	.
+8dJ	.
 8r	.
-8c	.
-8d	.
+8cL	.
+8dJ	.
 =17	=17
-4.e	Aadd(2,5,7)
-4.b	Aadd(2,5,7)
-4.a	A
-8r	A
-8r	C#m/G#
-8r	C#dim/G
+4.e	A other-2,5,7
+4.b	A other-2,5,7
+4.a	A major
+8r	A major
+8r	C# minor/G#
+8r	C# diminished/G
 ==	==
 *-	*-

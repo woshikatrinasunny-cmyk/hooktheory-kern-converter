@@ -16,15 +16,15 @@
 *f:	*
 *M4/4	*
 =1	=1
-8ff	Fm
-8ff	.
+8ffL	F minor
+8ffJ	.
 8r	.
 8ccc	.
 4.r	.
 8ff	.
 =2	=2
-8een	C/E
-8een	.
+8eenL	C major/E
+8eenJ	.
 8r	.
 8een	.
 8ddd-	.
@@ -32,15 +32,15 @@
 8ccc	.
 8r	.
 =3	=3
-8ee-	A-/E-
-8ee-	.
+8ee-L	A- major/E-
+8ee-J	.
 8r	.
 8ccc	.
 4.r	.
 8ee-	.
 =4	=4
-8ddn	Ddim
-8ddn	.
+8ddnL	D diminished
+8ddnJ	.
 8r	.
 8ddn	.
 8ddd-	.
@@ -48,36 +48,36 @@
 8ccc	.
 8r	.
 =5	=5
-8dd-	D-
-8dd-	.
+8dd-L	D- major
+8dd-J	.
 8r	.
 8ccc	.
 4.r	.
 8dd-	.
 =6	=6
-8cc	Fm/C
-8cc	.
+8ccL	F minor/C
+8ccJ	.
 8r	.
 8cc	.
 8ddd-	.
 8r	.
-8ccc	.
-8cc	.
+8cccL	.
+8ccJ	.
 =7	=7
-8dd-	D-
-8dd-	.
+8dd-L	D- major
+8dd-J	.
 8r	.
 8ccc	.
 4.r	.
 8dd-	.
 =8	=8
-8ee-	E-
-8ee-	.
+8ee-L	E- major
+8ee-J	.
 8r	.
 8ee-	.
-8een	C/E
+8eenL	C major/E
 8een	.
 8ddd-	.
-8ccc	.
+8cccJ	.
 ==	==
 *-	*-

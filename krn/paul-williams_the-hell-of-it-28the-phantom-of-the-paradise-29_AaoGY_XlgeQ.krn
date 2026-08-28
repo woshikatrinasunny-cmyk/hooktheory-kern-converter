@@ -16,48 +16,48 @@
 *e:	*
 *M4/4	*
 =1	=1
-8r	E
-16b	.
+8r	E major
+16bLK	.
 8.g#	.
-16a	.
-16b[	.
-16b]	Emaj7/D#
+16aL	.
+[16bJJ	.
+16bLK]	E major-seventh/D#
 8cc#	.
 8b	.
 8g#	.
-16a	.
+16aJk	.
 =2	=2
-8b	E7/D
-16a	.
+8bL	E dominant/D
+16ak	.
 8g#	.
 8f#	.
-16g#[	.
-8g#]	C#m7
+[16g#Jk	.
+8g#]	C# minor-seventh
 4.r	.
 =3	=3
-16r	C
-8e	.
-16f#	.
+16r	C major
+8eL	.
+16f#L	.
 16g	.
 16f#	.
 16e	.
-16f#[	.
-8f#]	B
+[16f#JJ	.
+8f#L]	B major
 8f#	.
 8g	.
-8f#	.
+8f#J	.
 =4	=4
-4e	Em
+4e	E minor
 4r	.
-4f#	F#
-4g	G
+4f#	F# major
+4g	G major
 =5	=5
-1cc	C
+1cc	C major
 =6	=6
-2e	Em
-4f#	F#
-4g	G
+2e	E minor
+4f#	F# major
+4g	G major
 =7	=7
-1b	B
+1b	B major
 ==	==
 *-	*-

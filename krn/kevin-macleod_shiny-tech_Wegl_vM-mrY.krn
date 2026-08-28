@@ -15,94 +15,94 @@
 *c:	*
 *M4/4	*
 =1	=1
-8.ee-	Cm7
-8.dd	.
+8.ee-L	C minor-seventh
+8.ddJ	.
 8.ee-	.
-8.dd	.
+8.ddL	.
 8ee-	.
-8dd	.
+8ddJ	.
 =2	=2
-8.ee-	A-add(2,4,7)
-8.dd	.
+8.ee-L	A- other-2,4,7
+8.ddJ	.
 8.ee-	.
-8.dd	.
+8.ddL	.
 8ee-	.
-8ee-	.
+8ee-J	.
 =3	=3
-8.dd	B-
-8.cc	.
+8.ddL	B- major
+8.ccJ	.
 8.dd	.
-8.cc	.
+8.ccL	.
 8dd	.
-8dd	.
+8ddJ	.
 =4	=4
-8ff	Fm/A-
+8ffL	F minor/A-
 8ff	.
 8ff	.
-8ff	.
-8dd	B-
+8ffJ	.
+8ddL	B- major
 8dd	.
 8dd	.
-8dd	.
+8ddJ	.
 =5	=5
-8.ee-	Cm7
-8.dd	.
+8.ee-L	C minor-seventh
+8.ddJ	.
 8.ee-	.
-8.dd	.
+8.ddL	.
 8ee-	.
-8dd	.
+8ddJ	.
 =6	=6
-8.ee-	A-add(2,4,7)
-8.dd	.
+8.ee-L	A- other-2,4,7
+8.ddJ	.
 8.ee-	.
-8.dd	.
+8.ddL	.
 8ee-	.
-8ee-	.
+8ee-J	.
 =7	=7
-8.dd	B-
-8.cc	.
+8.ddL	B- major
+8.ccJ	.
 8.dd	.
-8.cc	.
+8.ccL	.
 8dd	.
-8dd	.
+8ddJ	.
 =8	=8
-8ff	Fm/A-
+8ffL	F minor/A-
 8ff	.
 8ff	.
-8ff	.
-8dd	B-
+8ffJ	.
+8ddL	B- major
 8dd	.
 8dd	.
-8dd	.
+8ddJ	.
 =9	=9
-2..eee-	Cm7
-8ddd[	.
+2..eee-	C minor-seventh
+[8ddd	.
 =10	=10
-8ddd]	A-add(2,4,7)
+8ddd]	A- other-2,4,7
 4eee-	.
 3...ccc	.
 =11	=11
-1r	B-
+1r	B- major
 =12	=12
-2r	Fm/A-
-2r	B-
+2r	F minor/A-
+2r	B- major
 =13	=13
-2..eee-	Cm7
-8ddd[	.
+2..eee-	C minor-seventh
+[8ddd	.
 =14	=14
-8ddd]	A-add(2,4,7)
+8ddd]	A- other-2,4,7
 4eee-	.
 4ccc	.
 4.bb-	.
 =15	=15
-1r	B-
+1r	B- major
 =16	=16
-2r	Fm/A-
-16r	B-
-16r	B-
+2r	F minor/A-
+16r	B- major
+16r	B- major
 8r	.
-16r	B-
-16r	B-
+16r	B- major
+16r	B- major
 8r	.
 ==	==
 *-	*-

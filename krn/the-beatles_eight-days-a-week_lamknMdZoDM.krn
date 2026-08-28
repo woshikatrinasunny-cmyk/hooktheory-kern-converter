@@ -16,28 +16,28 @@
 *D:	*
 *M4/4	*
 =1	=1
-4a	Dadd(2,4,7)
+4a	D other-2,4,7
 8r	.
 8a	.
-16a	.
-8.b	.
+16aLK	.
+8.bJ	.
 4a	.
 =2	=2
-4b	E7/D
+4b	E dominant/D
 8r	.
 8b	.
-16b	.
-8.cc#	.
+16bLK	.
+8.cc#J	.
 4b	.
 =3	=3
-4dd	Gadd(4,7,9)/D
+4dd	G other-4,7,9/D
 8r	.
 8dd	.
-16dd	.
-8.ee	.
+16ddLK	.
+8.eeJ	.
 4dd	.
 =4	=4
-4a	Dadd(2,4,7)
+4a	D other-2,4,7
 8r	.
 8a	.
 4b	.

@@ -15,43 +15,43 @@
 *C#:	*
 *M4/4	*
 =1	=1
-16r	C#
-16c#	.
-16e#	.
+16r	C# major
+16c#LL	.
+16e#J	.
 8f#	.
-16e#	.
-16c#	.
+16e#L	.
+16c#JJ	.
 8.e#	.
 4.r	.
 =2	=2
+16c#LL	.
 16c#	.
-16c#	.
-16e#	.
+16e#J	.
 8f#	.
-16e#	.
-16c#	.
+16e#L	.
+16c#JJ	.
 8.e#	.
 4.r	.
 =3	=3
-16r	F#
-16f#	.
-16a#	.
+16r	F# major
+16f#LL	.
+16a#J	.
 8b	.
-16a#	.
-8f#[	.
-16f#]	C#
+16a#k	.
+[8f#J	.
+16f#LL]	C# major
 16c#	.
-16e#	.
+16e#J	.
 8f#	.
-16e#	.
-8c#[	.
+16e#k	.
+[8c#J	.
 =4	=4
 16c#]	.
 4..r	.
-16B	B
-16B	B
-16cn	C
-8.c#	C#
+16BLL	B major
+16B	B major
+16cnJ	C major
+8.c#J	C# major
 8r	.
 ==	==
 *-	*-

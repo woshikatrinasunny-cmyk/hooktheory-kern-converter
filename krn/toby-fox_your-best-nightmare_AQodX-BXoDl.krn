@@ -16,17 +16,17 @@
 *F:	*
 *M4/4	*
 =1	=1
-1r	Fadd(6,7)/C
+1r	F other-6,7/C
 =2	=2
 1r	.
 =3	=3
-1r	G#add(6,7)/D#
+1r	G# other-6,7/D#
 =4	=4
 1r	.
 =5	=5
-4aa	Fadd(6,7)/C
-8aa	.
-8aa#	.
+4aa	F other-6,7/C
+8aaL	.
+8aa#J	.
 4ccc	.
 4aa	.
 =6	=6
@@ -35,18 +35,18 @@
 4dd#	.
 4gg	.
 =7	=7
-4ccc	G#add(6,7)/D#
-8ccc	.
-8ddd	.
+4ccc	G# other-6,7/D#
+8cccL	.
+8dddJ	.
 4ddd#	.
 4ggg#	.
 =8	=8
 2fff	.
 2ddd#	.
 =9	=9
-4aa	Fadd(6,7)/C
-8aa	.
-8aa#	.
+4aa	F other-6,7/C
+8aaL	.
+8aa#J	.
 4ccc	.
 4aa	.
 =10	=10
@@ -55,9 +55,9 @@
 4dd#	.
 4gg	.
 =11	=11
-4ccc	G#add(6,7)/D#
-8ccc	.
-8ccc#	.
+4ccc	G# other-6,7/D#
+8cccL	.
+8ccc#J	.
 4aa#	.
 4ff#	.
 =12	=12

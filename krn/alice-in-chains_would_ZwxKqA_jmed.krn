@@ -16,129 +16,129 @@
 *D-:	*
 *M4/4	*
 =1	=1
-8r	Fsus4
-4r	Csus4
-16f	Fsus4
-16g-[	.
-8g-]	Csus4
-16a-[	.
-16a-]	Fsus4
-16b-[	.
-8.b-]	G-
+8r	F suspended-fourth
+4r	C suspended-fourth
+16fLL	F suspended-fourth
+[16g-JJ	.
+8g-L]	C suspended-fourth
+[16a-L	.
+16a-]	F suspended-fourth
+[16b-J	.
+8.b-J]	G- major
 =2	=2
 4.b-	.
 4a-	.
-8g-	.
+8g-L	.
 8f	.
-8b-	.
+8b-J	.
 =3	=3
-8cc[	Fsus4
-8cc]	Csus4
+[8ccL	F suspended-fourth
+8cc]	C suspended-fourth
 8cc	.
-8cc[	Fsus4
-16cc]	Csus4
-8b-[	.
-8b-_	Fsus4
-8.b-_	G-
+[8ccJ	F suspended-fourth
+16ccLK]	C suspended-fourth
+[8b-	.
+8b-_	F suspended-fourth
+8.b-J_	G- major
 =4	=4
 4b-]	.
 4.r	.
-4.r	E-m7/G-
+4.r	E- minor-seventh/G-
 =5	=5
-8r	Fsus4
-4r	Csus4
-16f	Fsus4
-16g-[	.
-8g-]	Csus4
-16a-[	.
-16a-]	Fsus4
-16b-[	.
-8.b-]	G-
+8r	F suspended-fourth
+4r	C suspended-fourth
+16fLL	F suspended-fourth
+[16g-JJ	.
+8g-L]	C suspended-fourth
+[16a-L	.
+16a-]	F suspended-fourth
+[16b-J	.
+8.b-J]	G- major
 =6	=6
 4.b-	.
 4a-	.
-8g-	.
+8g-L	.
 8f	.
-8b-	.
+8b-J	.
 =7	=7
-8cc[	Fsus4
-8cc]	Csus4
+[8ccL	F suspended-fourth
+8cc]	C suspended-fourth
 8cc	.
-8cc[	Fsus4
-16cc]	Csus4
-8b-[	.
-8b-_	Fsus4
-8.b-_	G-
+[8ccJ	F suspended-fourth
+16ccLK]	C suspended-fourth
+[8b-	.
+8b-_	F suspended-fourth
+8.b-J_	G- major
 =8	=8
 4b-]	.
 2.r	.
 =9	=9
-16e-	Fm
-16f[	.
-8f]	Fsus4
+16e-LL	F minor
+[16fJ	.
+8f]	F suspended-fourth
 8f	.
-8f	.
-8f	.
+8fJ	.
+8fL	.
 8e-	.
-8d-	G-
-16c	.
-16B-	.
+8d-	G- major
+16cL	.
+16B-JJ	.
 =10	=10
 2B-	.
-8e-	.
+8e-L	.
 8d-	.
 8e-	.
-16d-	.
-16e-[	.
+16d-L	.
+[16e-JJ	.
 =11	=11
-16e-]	Fsus4
+16e-]	F suspended-fourth
 16r	.
-16g-	Fsus4
+16g-	F suspended-fourth
 2a-	.
-16e-	.
-16f	G-
-8.e-	.
+16e-LL	.
+16fJ	G- major
+8.e-J	.
 =12	=12
-16f	.
-16e-	.
+16fLL	.
+16e-JJ	.
 4.d-	.
 2r	.
 =13	=13
-8f	Fsus4
-8f	Fsus4
+8fL	F suspended-fourth
+8f	F suspended-fourth
 8f	.
-8f	.
-8f	.
+8fJ	.
+8fL	.
 8e-	.
-8d-	G-
-8c	.
+8d-	G- major
+8cJ	.
 =14	=14
 2B-	.
-8e-	.
+8e-L	.
 8d-	.
 8e-	.
-16d-	.
-16e-[	.
+16d-L	.
+[16e-JJ	.
 =15	=15
-16e-]	Fsus4
+16e-]	F suspended-fourth
 16r	.
-16g-	Fsus4
+16g-LK	F suspended-fourth
 8a-	.
-16a-	.
-8b-	.
-8a-	.
-8d-[	.
-8d-]	G-
-8e-	.
+16a-k	.
+8b-J	.
+8a-L	.
+[8d-	.
+8d-]	G- major
+8e-J	.
 =16	=16
 2d-	.
-16d-	.
+16d-LL	.
 16e-	.
-16d-	E-m7/G-
+16d-	E- minor-seventh/G-
 16e-	.
 16d-	.
 16e-	.
 16c	.
-16d-	.
+16d-JJ	.
 ==	==
 *-	*-

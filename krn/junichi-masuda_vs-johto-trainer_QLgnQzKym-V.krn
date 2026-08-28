@@ -15,59 +15,59 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.a	Am/E
+4.a	A minor/E
 4.ee	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 =2	=2
-4gg	Am/E
+4gg	A minor/E
 4gg-	.
 4ee	.
 4dd	.
 =3	=3
-1ff	B-/F
+1ff	B- major/F
 =4	=4
-1bb-	B-/F
+1bb-	B- major/F
 =5	=5
-4.a	Am/E
+4.a	A minor/E
 4.ee	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 =6	=6
-4gg	Am/E
+4gg	A minor/E
 4gg-	.
 4ee	.
 4dd	.
 =7	=7
-4ff	B-/F
-8e	.
-8f	.
+4ff	B- major/F
+8eL	.
+8fJ	.
 4cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =8	=8
-4dd	B-/F
-8b-	.
-8dd	.
-8ff	.
+4dd	B- major/F
+8b-L	.
+8ddJ	.
+8ffL	.
 8ee	.
 8dd	.
-8ff	.
+8ffJ	.
 =9	=9
-8ee	Am/E
+8eeL	A minor/E
 8dd	.
 8ee	.
-8ff	.
-8bb-	.
+8ffJ	.
+8bb-L	.
 8aa	.
 8bb-	.
-8ddd	.
+8dddJ	.
 =10	=10
-2.ddd-	A/E
+2.ddd-	A major/E
 4bb-	.
 =11	=11
-1aa[	A/E
+[1aa	A major/E
 =12	=12
-1aa]	A/E
+1aa]	A major/E
 ==	==
 *-	*-

@@ -15,10 +15,10 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4.cc#	F#/A#
+4.cc#	F# major/A#
 4cc#	.
 8dd#	.
-4cc#[	Badd(2,4,7)
+[4cc#	B other-2,4,7
 =2	=2
 8cc#]	.
 8r	.
@@ -26,52 +26,52 @@
 4dd#	.
 4ff#	.
 =3	=3
-4gg#	C#
+4gg#	C# major
 8gg#	.
 4gg#	.
-8ff#	.
-8gg#	D#m
-8aa#[	.
+8ff#L	.
+8gg#	D# minor
+[8aa#J	.
 =4	=4
 4.aa#]	.
 8aa#	.
 4bb	.
 4aa#	.
 =5	=5
-8gg#	F#/A#
+8gg#L	F# major/A#
 8ff#	.
-8ff#	.
+8ff#J	.
 4ff#	.
 8cc#	.
-4cc#[	Badd(2,4,7)
+[4cc#	B other-2,4,7
 =6	=6
 4cc#]	.
 8r	.
 8cc#	.
-8dd#	.
+8dd#L	.
 8ff#	.
 8gg#	.
-8aa#	.
+8aa#J	.
 =7	=7
-4gg#	C#
+4gg#	C# major
 8gg#	.
 4aa#	.
 8ff#	.
-4ff#[	D#m
+[4ff#	D# minor
 =8	=8
 4ff#]	.
 8r	.
 8cc#	.
+8cc#L	.
 8cc#	.
 8cc#	.
-8cc#	.
-8dd#	.
+8dd#J	.
 =9	=9
-4cc#	F#/A#
+4cc#	F# major/A#
 8cc#	.
 4cc#	.
 8dd#	.
-4cc#[	Badd(2,4,7)
+[4cc#	B other-2,4,7
 =10	=10
 8cc#]	.
 8r	.
@@ -79,42 +79,42 @@
 4dd#	.
 4ff#	.
 =11	=11
-4gg#	C#
-8gg#	.
-8aa#	A#7/D
+4gg#	C# major
+8gg#L	.
+8aa#J	A# dominant/D
 8r	.
-8ff#	A#7
+8ff#	A# dominant
 8r	.
-8ff#[	D#m
+[8ff#	D# minor
 =12	=12
 4.ff#]	.
 8ff#	.
 4bb	.
 4aa#	.
 =13	=13
-4gg#	F#/A#
+4gg#	F# major/A#
 8ff#	.
 4ff#	.
-8ff#	.
-8gg#	Badd(2,4,7)
-8aa#[	.
+8ff#L	.
+8gg#	B other-2,4,7
+[8aa#J	.
 =14	=14
-8aa#]	.
-8ccc#	.
+8aa#L]	.
+8ccc#J	.
 4ccc#	.
 8r	.
-8ccc#	.
+8ccc#L	.
 8bb	.
-8aa#	.
+8aa#J	.
 =15	=15
-4gg#	C#
+4gg#	C# major
 8gg#	.
-4aa#	A#7/D
-4bb	A#7
-8aa#[	D#m
+4aa#	A# dominant/D
+4bb	A# dominant
+[8aa#	D# minor
 =16	=16
-8aa#]	.
-8gg#	.
+8aa#L]	.
+8gg#J	.
 2ff#	.
 4ff#	.
 ==	==

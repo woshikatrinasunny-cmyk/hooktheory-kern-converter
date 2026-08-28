@@ -16,45 +16,45 @@
 *c:	*
 *M4/4	*
 =1	=1
-4bn	Cm
+4bn	C minor
 4cc	.
 4dd	.
-8ee-	.
-16dd	.
-16cc	.
+8ee-L	.
+16ddL	.
+16ccJJ	.
 =2	=2
 2.bn	.
 4g	.
 =3	=3
-4b-	Cm7/E-
+4b-	C minor-seventh/E-
 4bn	.
 4b-	.
-8an	.
-16b-	.
-16bn	.
+8anL	.
+16b-L	.
+16bnJJ	.
 =4	=4
 1b-	.
 =5	=5
-4bn	Cm
+4bn	C minor
 4cc	.
 4dd	.
-8ee-	.
-16dd	.
-16cc	.
+8ee-L	.
+16ddL	.
+16ccJJ	.
 =6	=6
 2.bn	.
 4g	.
 =7	=7
-4b-	Cm7/E-
+4b-	C minor-seventh/E-
 4bn	.
 4b-	.
-8an	.
-16b-	.
-16bn	.
+8anL	.
+16b-L	.
+16bnJJ	.
 =8	=8
 1b-	.
 =9	=9
-4cc	Fm
+4cc	F minor
 4bn	.
 4cc	.
 4dd	.
@@ -62,10 +62,10 @@
 4cc	.
 4bn	.
 4cc	.
-8.dd	.
-16dd	.
+8.ddL	.
+16ddJk	.
 =11	=11
-4cc	Cm7/E-
+4cc	C minor-seventh/E-
 4bn	.
 4cc	.
 4dd	.
@@ -74,7 +74,7 @@
 4g	.
 4dd	.
 =13	=13
-4cc	Dm7b5
+4cc	D half-diminished
 4b-	.
 4an	.
 4b-	.
@@ -84,7 +84,7 @@
 4cc	.
 4dd	.
 =15	=15
-1ee-	G7
+1ee-	G dominant
 =16	=16
 1gg	.
 ==	==

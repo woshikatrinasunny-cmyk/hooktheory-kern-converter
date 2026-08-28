@@ -16,10 +16,10 @@
 *A:	*
 *M4/4	*
 =1	=1
-2.r	Asus2
+2.r	A suspended-second
 4cc#	.
 =2	=2
-1ee[	Asus2
+[1ee	A suspended-second
 =3	=3
 4.ee]	.
 3...r	.
@@ -27,49 +27,49 @@
 1r	.
 =5	=5
 8r	.
-8cc#	.
+8cc#L	.
 8ee	.
-8aa	.
-8gg#	.
+8aaJ	.
+8gg#L	.
 8ff#	.
 8ee	.
-8dd	.
+8ddJ	.
 =6	=6
-8cc#	Dmaj7sus2
-8e	.
-2.e[	.
+8cc#L	D major-seventh-suspended-second
+8eJ	.
+[2.e	.
 =7	=7
 2..e]	.
 8r	.
 =8	=8
-1r	E7/D
+1r	E dominant/D
 =9	=9
 8r	.
-8f#	.
+8f#L	.
 8g#	.
-8a	.
-8b	.
+8aJ	.
+8bL	.
 8cc#	.
 8dd	.
-8b	.
+8bJ	.
 =10	=10
-4cc#	C#m7
+4cc#	C# minor-seventh
 4ee	.
-2ee	F#m7
+2ee	F# minor-seventh
 =11	=11
-8cc#	B7sus4
-8a	.
-4a[	.
-2a]	B7
+8cc#L	B dominant-seventh-suspended-fourth
+8aJ	.
+[4a	.
+2a]	B dominant
 =12	=12
-8cc#	E11
-8a	.
+8cc#L	E dominant-11th
+8aJ	.
 4.a	.
-8a	.
+8aL	.
 8cc#	.
-8a	.
+8aJ	.
 =13	=13
-1a[	Asus2
+[1a	A suspended-second
 =14	=14
 2.a]	.
 4r	.

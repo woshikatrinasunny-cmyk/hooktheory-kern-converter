@@ -16,141 +16,141 @@
 *e:	*
 *M4/4	*
 =1	=1
-2..r	G#dim
-16a	.
-16cc	.
+2..r	G# diminished
+16aLL	.
+16ccJJ	.
 =2	=2
-8aa	Am
+8aa	A minor
 2ee	.
 4.r	.
 =3	=3
-2.r	Am
-8a	.
-8b	.
+2.r	A minor
+8aL	.
+8bJ	.
 =4	=4
-16cc	Dadd(2,4,7)
+16ccLL	D other-2,4,7
 16dd	.
 16cc	.
-16b	.
+16bJJ	.
 4a	.
 2r	.
 =5	=5
-2r	Dadd(2,4,7)
-4r	Dadd(4,7,9)
-4r	Dadd(2,4,7)
+2r	D other-2,4,7
+4r	D other-4,7,9
+4r	D other-2,4,7
 =6	=6
-8a	C
+8a	C major
 4.ee	.
 8G#	.
 4A	.
-8c[	.
+[8c	.
 =7	=7
-8c]	Fadd(2,4,7)
+8c]	F other-2,4,7
 4d	.
 4fn	.
 4.g	.
 =8	=8
-16ffn	G7/F
-16ee	.
+16ffnLL	G dominant/F
+16eeJJ	.
 4.ffn	.
-16dd	G7/D
-16cc#	.
+16ddLL	G dominant/D
+16cc#JJ	.
 4.dd	.
 =9	=9
-16b	G7/B
-16a#	.
+16bLL	G dominant/B
+16a#JJ	.
 4.b	.
-2g	G
+2g	G major
 =10	=10
-8r	Am/C
-8g	Am/C
+8r	A minor/C
+8g	A minor/C
 16r	.
-8g	Am/C
+8g	A minor/C
 16r	.
-8f#	Am/C
+8f#	A minor/C
 16r	.
-8f#	Am/C
+8f#	A minor/C
 16r	.
-8f#	Am/C
+8f#	A minor/C
 =11	=11
-8r	Am/C
-8g	Am/C
+8r	A minor/C
+8g	A minor/C
 16r	.
-8g	Am/C
+8g	A minor/C
 16r	.
-8f#	Am/C
+8f#	A minor/C
 16r	.
-8f#	Am/C
+8f#	A minor/C
 16r	.
-8f#	Am/C
+8f#	A minor/C
 =12	=12
-8r	Dadd(2,4,7)
-8g	Dadd(2,4,7)
+8r	D other-2,4,7
+8g	D other-2,4,7
 16r	.
-8g	Dadd(2,4,7)
+8g	D other-2,4,7
 16r	.
-8f#	Dadd(2,4,7)
+8f#	D other-2,4,7
 16r	.
-8f#	Dadd(2,4,7)
+8f#	D other-2,4,7
 16r	.
-8f#	Dadd(2,4,7)
+8f#	D other-2,4,7
 =13	=13
-8r	Dadd(2,4,7)
-8g	Dadd(2,4,7)
+8r	D other-2,4,7
+8g	D other-2,4,7
 16r	.
-8g	Dadd(2,4,7)
+8g	D other-2,4,7
 16r	.
-8f#	Dadd(2,4,7)
+8f#	D other-2,4,7
 16r	.
-8f#	Dadd(2,4,7)
+8f#	D other-2,4,7
 16r	.
-8f#	Dadd(2,4,7)
+8f#	D other-2,4,7
 =14	=14
-8r	F
-8g	F
+8r	F major
+8g	F major
 16r	.
-8g	F
+8g	F major
 16r	.
-8fn	F
+8fn	F major
 16r	.
-8fn	F
+8fn	F major
 16r	.
-8fn	F
+8fn	F major
 =15	=15
-8r	F
-8g	F
+8r	F major
+8g	F major
 16r	.
-8g	F
+8g	F major
 16r	.
-8fn	F
+8fn	F major
 16r	.
-8fn	F
+8fn	F major
 16r	.
-8fn	F
+8fn	F major
 =16	=16
-8r	G7
-8g	G7
+8r	G dominant
+8g	G dominant
 16r	.
-8g	G7
+8g	G dominant
 16r	.
-8fn	G7
+8fn	G dominant
 16r	.
-8fn	G7
+8fn	G dominant
 16r	.
-8fn	G7
+8fn	G dominant
 =17	=17
-8r	G7
-8e	G7
+8r	G dominant
+8e	G dominant
 16r	.
-8e	G7
+8e	G dominant
 16r	.
-8fn	G7
+8fn	G dominant
 16r	.
-16fn	G7
+16fnLL	G dominant
 16cc	.
 16dd	.
-16cc	G7
-16b	.
+16cc	G dominant
+16bJJ	.
 =18	=18
 1r	.
 =19	=19

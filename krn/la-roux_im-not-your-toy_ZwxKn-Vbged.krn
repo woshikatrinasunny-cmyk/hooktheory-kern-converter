@@ -16,66 +16,66 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8.dd[	E-
-8.dd_	E-
-8dd]	E-
-8dd	.
-8cc	E-
-8b-	E-/B-
-8cc	E-/G
+[8.ddL	E- major
+8.dd_	E- major
+8ddJ]	E- major
+8ddL	.
+8cc	E- major
+8b-	E- major/B-
+8ccJ	E- major/G
 =2	=2
-8.b-[	B-
-8.b-_	B-
-8b-]	B-
-8cc[	.
-8cc]	B-
-8dd[	B-
-8dd]	B-/D
+[8.b-L	B- major
+8.b-_	B- major
+8b-J]	B- major
+[8ccL	.
+8cc]	B- major
+[8dd	B- major
+8ddJ]	B- major/D
 =3	=3
-8.cc[	F
-8.cc_	F
-8cc]	F
-8cc	.
-8b-	F
-8g	F
-8b-	E-/B-
+[8.ccL	F major
+8.cc_	F major
+8ccJ]	F major
+8ccL	.
+8b-	F major
+8g	F major
+8b-J	E- major/B-
 =4	=4
-8.g[	Cm7
-8.g_	Cm7
-4g_	Cm7
-8g_	Cm7
-8g_	E-/B-
-8g]	E-/G
+[8.gL	C minor-seventh
+8.gJ_	C minor-seventh
+4g_	C minor-seventh
+8gL_	C minor-seventh
+8g_	E- major/B-
+8gJ]	E- major/G
 =5	=5
-8.dd[	E-
-8.dd_	E-
-8dd]	E-
-8dd	.
-8cc	E-
-8b-	E-/B-
-8cc	E-/G
+[8.ddL	E- major
+8.dd_	E- major
+8ddJ]	E- major
+8ddL	.
+8cc	E- major
+8b-	E- major/B-
+8ccJ	E- major/G
 =6	=6
-8.b-[	B-
-8.b-_	B-
-8b-]	B-
-8cc[	.
-8cc]	B-
-8dd[	B-
-8dd]	B-/D
+[8.b-L	B- major
+8.b-_	B- major
+8b-J]	B- major
+[8ccL	.
+8cc]	B- major
+[8dd	B- major
+8ddJ]	B- major/D
 =7	=7
-8.cc[	F
-8.cc_	F
-8cc]	F
-8cc	.
-8b-	F
-8g	F
-8b-	E-/B-
+[8.ccL	F major
+8.cc_	F major
+8ccJ]	F major
+8ccL	.
+8b-	F major
+8g	F major
+8b-J	E- major/B-
 =8	=8
-8.g[	Cm7
-8.g_	Cm7
-4g_	Cm7
-8g_	Cm7
-8g_	E-/B-
-8g]	E-/G
+[8.gL	C minor-seventh
+8.gJ_	C minor-seventh
+4g_	C minor-seventh
+8gL_	C minor-seventh
+8g_	E- major/B-
+8gJ]	E- major/G
 ==	==
 *-	*-

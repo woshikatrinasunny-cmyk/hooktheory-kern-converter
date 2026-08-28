@@ -16,39 +16,39 @@
 *a:	*
 *M6/4	*
 =1	=1
-2.cc#	A
-2dd	Bm11
-4ee	A/C#
+2.cc#	A major
+2dd	B minor-11th
+4ee	A major/C#
 =2	=2
-2.ff[	Dm
-3...ff]	Dm/A
-16dd	.
-16ee	.
+[2.ff	D minor
+3...ff]	D minor/A
+16ddLL	.
+16eeJJ	.
 =3	=3
-2.ff	Dm
-2ee	Dm/A
+2.ff	D minor
+2ee	D minor/A
 4dd	.
 =4	=4
-8cc#	A
-8dd	.
-1ee[	.
-8ee]	A/E
-16a	.
-16b	.
+8cc#L	A major
+8ddJ	.
+[1ee	.
+8eeL]	A major/E
+16aL	.
+16bJJ	.
 =5	=5
-2.cc#	A
-2dd	Bm11
-4ee	A/C#
+2.cc#	A major
+2dd	B minor-11th
+4ee	A major/C#
 =6	=6
-2.ff[	Dm
-3...ff]	Dm/A
-16dd	.
-16ee	.
+[2.ff	D minor
+3...ff]	D minor/A
+16ddLL	.
+16eeJJ	.
 =7	=7
-16ff	Dm
+16ff	D minor
 8.r	.
 2r	.
-16ee	E
+16ee	E major
 8.r	.
 2r	.
 =8	=8
@@ -59,7 +59,7 @@
 8.r	.
 16cc	.
 16r	.
-16cc	.
-16dd	.
+16ccLL	.
+16ddJJ	.
 ==	==
 *-	*-

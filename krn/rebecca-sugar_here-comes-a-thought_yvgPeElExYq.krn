@@ -16,64 +16,64 @@
 *C:	*
 *M4/4	*
 =1	=1
-8.d	Cmaj7
+8.dL	C major-seventh
 8c	.
-8B	.
+8BJ	.
 6...A	.
 4r	.
 =2	=2
 8r	.
-8.d	.
+8.dL	.
 8c	.
-16B	.
-8.A	.
-8.B	.
+16BJk	.
+8.AL	.
+8.BJ	.
 8r	.
 =3	=3
-8.e	Fmaj7
+8.eL	F major-seventh
 8.d	.
-8c	.
+8cJ	.
 4B	.
 4r	.
 =4	=4
-8r	E
-8.e	.
+8r	E major
+8.eL	.
 8d	.
-16c	.
-8.B	.
-16c[	.
-8c]	E7
+16cJk	.
+8.BL	.
+[16ck	.
+8cJ]	E dominant
 8r	.
 =5	=5
-8.d	Cmaj7
+8.dL	C major-seventh
 8c	.
-8B	.
+8BJ	.
 6...A	.
 4r	.
 =6	=6
 8r	.
-8A	.
+8AL	.
 8d	.
-16c	.
-16B	.
-8.A	.
-8.B	.
+16cL	.
+16BJJ	.
+8.AL	.
+8.BJ	.
 8r	.
 =7	=7
-8.e	Fmaj7
+8.eL	F major-seventh
 8.d	.
-8c	.
+8cJ	.
 4B	.
 8r	.
 8G	.
 =8	=8
-8r	E
-8.e	.
+8r	E major
+8.eL	.
 8d	.
-16c	.
-8.B	.
-16c[	.
-8c]	E7
-8G	.
+16cJk	.
+8.BL	.
+[16ck	.
+8c]	E dominant
+8GJ	.
 ==	==
 *-	*-

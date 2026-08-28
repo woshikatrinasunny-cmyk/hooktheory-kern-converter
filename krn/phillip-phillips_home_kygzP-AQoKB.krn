@@ -16,80 +16,80 @@
 *C:	*
 *M4/4	*
 =1	=1
-16e	C
-16e	.
+16eLL	C major
+16eJJ	.
 2..e	.
 =2	=2
-2f	Csus4
-16f	.
-16f	.
+2f	C suspended-fourth
+16fLL	.
+16fJ	.
 8.f	.
-8.e	.
+8.eJ	.
 =3	=3
-2e	C
+2e	C major
 2r	.
 =4	=4
-1r	Csus4
+1r	C suspended-fourth
 =5	=5
-8.e	C
+8.eL	C major
 8.e	.
-8e	.
+8eJ	.
+8.dL	.
 8.d	.
-8.d	.
-8e	.
+8eJ	.
 =6	=6
-8.f	Csus4
+8.fL	C suspended-fourth
 8.f	.
-8f	.
-8.f	.
+8fJ	.
+8.fL	.
 8.e	.
-8e	.
+8eJ	.
 =7	=7
-2e	C
+2e	C major
 2r	.
 =8	=8
-1r	Csus4
+1r	C suspended-fourth
 =9	=9
-8.e	Am
+8.eL	A minor
 8.e	.
-8e	.
-8.e	.
+8eJ	.
+8.eL	.
 8.d	.
-8c	.
+8cJ	.
 =10	=10
-2c	F
+2c	F major
 8.r	.
-8.c	.
-8d	.
+8.cL	.
+8dJ	.
 =11	=11
-8.e	C
+8.eL	C major
 8.e	.
-8e	.
+8eJ	.
+8.dL	.
 8.d	.
-8.d	.
-8d	.
+8dJ	.
 =12	=12
-2d	G
+2d	G major
 4.r	.
 8G	.
 =13	=13
-4c	C
-4B	G/B
-4A	Am
-4G	G
+4c	C major
+4B	G major/B
+4A	A minor
+4G	G major
 =14	=14
-1A	Am
+1A	A minor
 =15	=15
 16r	.
-16C	.
+16CLK	.
 8C	.
 8D	.
-8E	.
-4F	F
-4E	C/E
+8EJ	.
+4F	F major
+4E	C major/E
 =16	=16
-4D	Gsus4/D
-4D	G
-2C	C
+4D	G suspended-fourth/D
+4D	G major
+2C	C major
 ==	==
 *-	*-

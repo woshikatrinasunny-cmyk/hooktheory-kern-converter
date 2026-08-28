@@ -16,133 +16,133 @@
 *D:	*
 *M6/8	*
 =1	=1
-4.ddd	D
-4.aa	D/F#
+4.ddd	D major
+4.aa	D major/F#
 =2	=2
-4.ff#	D/A
-4.ee	F#7/A#
+4.ff#	D major/A
+4.ee	F# dominant/A#
 =3	=3
-4dd[	Bm
-32dd]	.
+[4dd	B minor
+32ddLLK]	.
 16dd	.
-32ee	.
-8dd	Bm/D
+32eeJJk	.
+8ddL	B minor/D
 8cc#	.
-8b	.
+8bJ	.
 =4	=4
-8gg	Em7
+8gg	E minor-seventh
 8r	.
 8ff#	.
-8ee	A
+8ee	A major
 8r	.
 8aa	.
 =5	=5
-4.ddd	D
-4.aa	D/F#
+4.ddd	D major
+4.aa	D major/F#
 =6	=6
-4.ff#	D/A
-4.ee	F#7/A#
+4.ff#	D major/A
+4.ee	F# dominant/A#
 =7	=7
-4dd[	Bm
-32dd]	.
+[4dd	B minor
+32ddLLK]	.
 16dd	.
-32ee	.
-8dd	Bm/D
+32eeJJk	.
+8ddL	B minor/D
 8cc#	.
-8b	.
+8bJ	.
 =8	=8
-8dd	F#7
+8dd	F# dominant
 8r	.
 8cc#	.
-8b	Bm
+8b	B minor
 4r	.
 =9	=9
-4.ddd	D
-4.aa	D/F#
+4.ddd	D major
+4.aa	D major/F#
 =10	=10
-4.ff#	D/A
-4.ee	F#7/A#
+4.ff#	D major/A
+4.ee	F# dominant/A#
 =11	=11
-4dd[	Bm
-32dd]	.
+[4dd	B minor
+32ddLLK]	.
 16dd	.
-32ee	.
-8dd	Bm/D
+32eeJJk	.
+8ddL	B minor/D
 8cc#	.
-8b	.
+8bJ	.
 =12	=12
-8gg	Em7
+8gg	E minor-seventh
 8r	.
 8ff#	.
-8ee	A
+8ee	A major
 8r	.
 8aa	.
 =13	=13
-4.ddd	D
-4.aa	D/F#
+4.ddd	D major
+4.aa	D major/F#
 =14	=14
-4.ff#	D/A
-4.ee	F#7/A#
+4.ff#	D major/A
+4.ee	F# dominant/A#
 =15	=15
-4dd[	Bm
-32dd]	.
+[4dd	B minor
+32ddLLK]	.
 16dd	.
-32ee	.
-8dd	Bm/D
+32eeJJk	.
+8ddL	B minor/D
 8cc#	.
-8b	.
+8bJ	.
 =16	=16
-8dd	F#7
+8dd	F# dominant
 8r	.
 8cc#	.
-8b	Bm
+8b	B minor
 4r	.
 =17	=17
 *k[f#]	*
 *G:	*
-4.dd	G
-4.b	G/D
+4.dd	G major
+4.b	G major/D
 =18	=18
-4dd	D7/A
+4dd	D dominant/A
 8a	.
-8a	D7
+8aL	D dominant
 8b	.
-8cc	.
+8ccJ	.
 =19	=19
-8b	G
+8b	G major
 8r	.
 8cc	.
-8dd	G/D
+8dd	G major/D
 8r	.
 8ee	.
 =20	=20
-8a	D7/A
+8a	D dominant/A
 8r	.
 8cc	.
-8b	D7
+8b	D dominant
 8r	.
 8a	.
 =21	=21
-4.ddd	G
-4.bb	G/D
+4.ddd	G major
+4.bb	G major/D
 =22	=22
-4ddd	D7/A
+4ddd	D dominant/A
 8aa	.
-8aa	D7
+8aaL	D dominant
 8bb	.
-8ccc	.
+8cccJ	.
 =23	=23
-8bb	G
+8bb	G major
 8r	.
 8ddd	.
-8ccc#	G/D
+8ccc#	G major/D
 8r	.
 8bb	.
 =24	=24
-8ccc#	A7/E
+8ccc#	A dominant/E
 8r	.
 8ddd	.
-8eee	A7
+8eee	A dominant
 8r	.
 8aa	.
 ==	==

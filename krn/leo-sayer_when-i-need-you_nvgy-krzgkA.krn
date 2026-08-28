@@ -16,24 +16,24 @@
 *D-:	*
 *M6/4	*
 =1	=1
-1.r	D-add(2,4,7)
+1.r	D- other-2,4,7
 =2	=2
-1.r	D-7/B
+1.r	D- dominant/B
 =3	=3
-1.r	G-/B-
+1.r	G- major/B-
 =4	=4
-1.r	E-m7b5/A
+1.r	E- half-diminished/A
 =5	=5
-1.r	D-/A-
+1.r	D- major/A-
 =6	=6
-1.r	B-m
+1.r	B- minor
 =7	=7
-1.r	A-
+1.r	A- major
 =8	=8
-2.r	G-add(2,4,7)
-4r	A-add(4,5,7)
+2.r	G- other-2,4,7
+4r	A- other-4,5,7
 4A-	.
-8B-	.
-8A-	.
+8B-L	.
+8A-J	.
 ==	==
 *-	*-

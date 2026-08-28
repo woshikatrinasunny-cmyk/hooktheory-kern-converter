@@ -16,7 +16,7 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4aa-	A-
+4aa-	A- major
 4gg	.
 4ee-	.
 4cc	.
@@ -26,7 +26,7 @@
 4ee-	.
 4cc	.
 =3	=3
-4aa-	A-/C
+4aa-	A- major/C
 4gg	.
 4ee-	.
 4cc	.
@@ -36,15 +36,15 @@
 4ee-	.
 4cc	.
 =5	=5
-4dd-	D-
+4dd-	D- major
 4cc	.
 4dd-	.
 4a-	.
 =6	=6
 4dd-	.
 4cc	.
-8dd-	.
-8a-	.
+8dd-L	.
+8a-J	.
 4f	.
 =7	=7
 4dd-	.
@@ -54,8 +54,8 @@
 =8	=8
 4dd-	.
 4cc	.
-8dd-	.
-8a-	.
+8dd-L	.
+8a-J	.
 4f	.
 ==	==
 *-	*-

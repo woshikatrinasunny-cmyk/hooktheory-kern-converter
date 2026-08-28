@@ -16,7 +16,7 @@
 *A:	*
 *M3/4	*
 =1	=1
-4Cn	A#add(2,4,6,7)/D
+4Cn	A# other-2,4,6,7/D
 8Cn	.
 4.Cn	.
 =2	=2
@@ -25,21 +25,21 @@
 8Cn	.
 4.Cn	.
 =3	=3
-2.AA	Am
+2.AA	A minor
 =4	=4
 4r	.
 8AA	.
 4.AA	.
 =5	=5
-4E	E7
-2Fn[	Eadd(1,4,7,10)
+4E	E dominant
+[2Fn	E other-1,4,7,10
 =6	=6
 2.Fn]	.
 =7	=7
-2.E	E
+2.E	E major
 =8	=8
-4r	E/G#
-4F#	F#m/A
-4G#	E
+4r	E major/G#
+4F#	F# minor/A
+4G#	E major
 ==	==
 *-	*-

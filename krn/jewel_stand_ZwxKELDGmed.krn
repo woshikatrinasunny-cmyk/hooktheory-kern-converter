@@ -16,78 +16,78 @@
 *F:	*
 *M4/4	*
 =1	=1
-8a	F
+8aL	F major
 8cc	.
-8cc	.
+8ccJ	.
 8r	.
-8cc	Am
+8ccL	A minor
 8e	.
-8e	.
+8eJ	.
 8r	.
 =2	=2
-8f	Dm
+8fL	D minor
 8f	.
 8f	.
-8f	.
-8f	B-
+8fJ	.
+8fL	B- major
 8d	.
 8c	.
-8c	.
+8cJ	.
 =3	=3
-8r	F
-16c	.
-16f	.
+8r	F major
+16cLL	.
+16fJ	.
 8f	.
-8f	.
-16f	C
+8fJ	.
+16fLK	C major
 8g	.
-16g	.
-16g	.
+16gL	.
+16gJ	.
 8f	.
-16f	.
+16fJk	.
 =4	=4
-8a	Dm
+8aL	D minor
 8a	.
-16g	.
-8.f	.
-8cc	B-
+16gk	.
+8.fJ	.
+8ccL	B- major
 8a	.
-16g	.
-8.f	.
+16gk	.
+8.fJ	.
 =5	=5
-8r	F
+8r	F major
+8aL	.
 8a	.
-8a	.
-8f	.
-8r	Am
+8fJ	.
+8r	A minor
+8gL	.
 8g	.
-8g	.
-8e	.
+8eJ	.
 =6	=6
-8r	Dm
+8r	D minor
+8fL	.
 8f	.
-8f	.
+8dJ	.
+8r	B- major
+8dL	.
 8d	.
-8r	B-
-8d	.
-8d	.
-8c	.
+8cJ	.
 =7	=7
-4r	Gm
+4r	G minor
+8dL	.
+16cJk	.
 8d	.
-16c	.
-8d	.
-16c	.
+16cLL	.
 16d	.
 16c	.
 16d	.
-16e	.
-8d[	.
+16eJ	.
+[8dJ	.
 =8	=8
-8d]	Csus4
+8dL]	C suspended-fourth
 8c	.
-16d	.
-8.c[	.
-2c]	C
+16dk	.
+[8.cJ	.
+2c]	C major
 ==	==
 *-	*-

@@ -16,85 +16,85 @@
 *d:	*
 *M4/4	*
 =1	=1
-4d	Dm
+4d	D minor
 4e	.
-4f	Dm/A
-8g	.
-8a[	.
+4f	D minor/A
+8gL	.
+[8aJ	.
 =2	=2
-8a]	C7
+8a]	C dominant
 4dd	.
-8cc[	.
-4cc]	C7/G
+[8cc	.
+4cc]	C dominant/G
 8r	.
 8f	.
 =3	=3
-4a	F
+4a	F major
 4dd	.
-4cc	F/C
+4cc	F major/C
 4dd	.
 =4	=4
-4a	C7
-8dd	.
-8cc[	.
-4cc]	C7/G
+4a	C dominant
+8ddL	.
+[8ccJ	.
+4cc]	C dominant/G
 4r	.
 =5	=5
-4a	A
+4a	A major
 4a	.
-4a	A7/G
+4a	A dominant/G
 4a	.
 =6	=6
-8a	FaugMaj7
+8a	F augmented-major-seventh
 4.g	.
-4f	A/E
-8e	.
-8d[	.
+4f	A major/E
+8eL	.
+[8dJ	.
 =7	=7
-4d]	Dm
+4d]	D minor
 8r	.
 8d	.
-8f	Dm/A
+8f	D minor/A
 4g	.
-8a[	.
+[8a	.
 =8	=8
-8a]	C7
+8a]	C dominant
 4dd	.
-8cc[	.
-4cc]	C7/G
+[8cc	.
+4cc]	C dominant/G
 8r	.
 8a	.
 =9	=9
-4a	F
+4a	F major
 4dd	.
-4cc	F/C
+4cc	F major/C
 4dd	.
 =10	=10
-8a	C7
+8a	C dominant
 4dd	.
-8cc[	.
-4cc]	C7/G
+[8cc	.
+4cc]	C dominant/G
 4r	.
 =11	=11
-4a	A
+4a	A major
 4a	.
-4a	A7/G
+4a	A dominant/G
 4a	.
 =12	=12
-8a	FaugMaj7
+8a	F augmented-major-seventh
 4g	.
 8d	.
-4f	A/E
-8e	.
-8d[	.
+4f	A major/E
+8eL	.
+[8dJ	.
 =13	=13
-4d]	Dm
+4d]	D minor
 4r	.
-2r	Dm/A
+2r	D minor/A
 =14	=14
-4r	Dm
-4r	Dm/A
-4r	Bm7b5
-4r	DmMaj7/D-
+4r	D minor
+4r	D minor/A
+4r	B half-diminished
+4r	D major-minor/D-
 ==	==
 *-	*-

@@ -16,23 +16,23 @@
 *c#:	*
 *M4/4	*
 =1	=1
-2cc#	C#m
-2g#[	.
+2cc#	C# minor
+[2g#	.
 =2	=2
 4g#]	.
 4cc#	.
 4dd#	.
 4ee	.
 =3	=3
-2ff#	F#m/A
-2cc#[	.
+2ff#	F# minor/A
+[2cc#	.
 =4	=4
 4cc#]	.
 4ff#	.
 4gg#	.
 4bb	.
 =5	=5
-2.ff#	B
+2.ff#	B major
 4ee	.
 =6	=6
 4dd#	.
@@ -40,27 +40,27 @@
 4dd#	.
 4b	.
 =7	=7
-1g#	G#7/F#
+1g#	G# dominant/F#
 =8	=8
-1ccn	G#/C
+1ccn	G# major/C
 =9	=9
-2cc#	C#m
-2g#[	.
+2cc#	C# minor
+[2g#	.
 =10	=10
 4g#]	.
 4cc#	.
 4dd#	.
 4ee	.
 =11	=11
-2ff#	A
-2cc#[	.
+2ff#	A major
+[2cc#	.
 =12	=12
 4cc#]	.
 4ff#	.
 4gg#	.
 4bb	.
 =13	=13
-2.ff#	B
+2.ff#	B major
 4ee	.
 =14	=14
 4dd#	.
@@ -68,8 +68,8 @@
 4dd#	.
 4b	.
 =15	=15
-1cc#[	C#sus4/G#
+[1cc#	C# suspended-fourth/G#
 =16	=16
-1cc#]	C#m
+1cc#]	C# minor
 ==	==
 *-	*-

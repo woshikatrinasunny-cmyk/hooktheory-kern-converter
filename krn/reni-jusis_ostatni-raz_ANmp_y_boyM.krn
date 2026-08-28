@@ -16,44 +16,44 @@
 *e:	*
 *M4/4	*
 =1	=1
-4f#	Eadd(2,3,7)
+4f#	E other-2,3,7
 8f#	.
 4f#	.
 4f#	.
 8f#	.
 =2	=2
-4g	Cmaj7sus2
+4g	C major-seventh-suspended-second
 4r	.
-2r	Dadd(2,4,7)
+2r	D other-2,4,7
 =3	=3
-4.f#	Eadd(2,3,7)
+4.f#	E other-2,3,7
 4.f#	.
 4f#	.
 =4	=4
-8f#	Cmaj7sus2
+8f#	C major-seventh-suspended-second
 4g	.
 8r	.
-2r	Dadd(2,4,7)
+2r	D other-2,4,7
 =5	=5
-4.f#	A7sus4
+4.f#	A dominant-seventh-suspended-fourth
 4.d	.
-4g[	.
+[4g	.
 =6	=6
-4g]	Cmaj7sus2
+4g]	C major-seventh-suspended-second
 4r	.
-2r	Dadd(2,4,7)
+2r	D other-2,4,7
 =7	=7
-4.f#	Eadd(2,3,7)
+4.f#	E other-2,3,7
 4.f#	.
 4f#	.
 =8	=8
-8f#	Cmaj7sus2
+8f#L	C major-seventh-suspended-second
 8g	.
 8f#	.
-8a	.
-8g	Dadd(2,4,7)
+8aJ	.
+8gL	D other-2,4,7
 8f#	.
 8e	.
-8d	.
+8dJ	.
 ==	==
 *-	*-

@@ -16,134 +16,134 @@
 *b:	*
 *M4/4	*
 =1	=1
-8r	Bm
-8B	.
+8r	B minor
+8BL	.
 8d	.
-8f#	Bm
-8d	.
+8f#J	B minor
+8dL	.
 8b	.
-8dd	Bm
-8ff#	.
+8dd	B minor
+8ff#J	.
 =2	=2
-8r	Bm/D
-4.r	Bm
-4r	Bm
-4r	Bm7
+8r	B minor/D
+4.r	B minor
+4r	B minor
+4r	B minor-seventh
 =3	=3
-4B	Bm
+4B	B minor
 8r	.
-4c#	Bm
+4c#	B minor
 8r	.
-4d	Bm
+4d	B minor
 =4	=4
 8r	.
-4e	Bm
+4e	B minor
 8r	.
-8.B	Bm
+8.B	B minor
 16r	.
-8.c#	Bm7
+8.c#	B minor-seventh
 16r	.
 =5	=5
-8B	Bm
+8BL	B minor
 8f#	.
-8e[	.
-4e]	Bm
-8d	.
-8c#	Bm
-8d[	.
+[8eJ	.
+4e]	B minor
+8dL	.
+8c#	B minor
+[8dJ	.
 =6	=6
-8d_	.
-8d]	Bm/D
+8dL_	.
+8d]	B minor/D
 8F#	.
-8G	.
-8A	Bm
+8GJ	.
+8AL	B minor
 8B	.
-8c#	Bm7
-8d	.
+8c#	B minor-seventh
+8dJ	.
 =7	=7
-8e	B7sus2
+8eL	B dominant-seventh-suspended-second
 8b	.
-8a[	.
-4a]	Bm7
-8g#	.
-8f#	B7sus2
-8g#[	.
+[8aJ	.
+4a]	B minor-seventh
+8g#L	.
+8f#	B dominant-seventh-suspended-second
+[8g#J	.
 =8	=8
-8g#]	.
-8B	Bm/D
+8g#L]	.
+8B	B minor/D
 8c#	.
-8d	.
-8e	Bm
+8dJ	.
+8eL	B minor
 8f#	.
-8g	Bm7
-8a	.
+8g	B minor-seventh
+8aJ	.
 =9	=9
-16d	Bm7/D
+16dLL	B minor-seventh/D
 16e	.
 16d	.
-16e	.
-8f#[	.
-4f#]	Bm7/D
-8e	.
-8f#	Bm7/D
-8g[	.
+16eJ	.
+[8f#J	.
+4f#]	B minor-seventh/D
+8eL	.
+8f#	B minor-seventh/D
+[8gJ	.
 =10	=10
-8g]	.
-8f#	Bm7/D
+8gL]	.
+8f#	B minor-seventh/D
 8g	.
-8a[	.
-8a]	Bm7/D
+[8aJ	.
+8aL]	B minor-seventh/D
 8b	.
-8cc#	B7sus2/C#
-8dd	.
+8cc#	B dominant-seventh-suspended-second/C#
+8ddJ	.
 =11	=11
-4.ee[	Bm7/D
-4.ee]	Bm7/D
-4r	Bm7/D
+[4.ee	B minor-seventh/D
+4.ee]	B minor-seventh/D
+4r	B minor-seventh/D
 =12	=12
-16d	.
+16dLL	.
 16e	.
-16f#	Bm7/D
+16f#	B minor-seventh/D
 16g	.
 16f#	.
 16g	.
 16a	.
-16g	.
-16f#	Bm7/D
+16gJJ	.
+16f#LL	B minor-seventh/D
 16g	.
 16a	.
 16b	.
-16cc#	Bm7/F#
+16cc#	B minor-seventh/F#
 16dd	.
 16ee	.
-16ff#	.
+16ff#JJ	.
 =13	=13
-4cc#	Bsus2/F#
+4cc#	B suspended-second/F#
 8r	.
-4dd	D/F#
+4dd	D major/F#
 8r	.
-4b	D
+4b	D major
 =14	=14
 8r	.
-4cc#	D
+4cc#	D major
 8r	.
-8a	D
+8aL	D major
 8b	.
-8cc#	Dmaj7
-8b	.
+8cc#	D major-seventh
+8bJ	.
 =15	=15
-4dd	Bsus4/E
+4dd	B suspended-fourth/E
 8r	.
-4ee	Dsus2
+4ee	D suspended-second
 8r	.
-4cc#	D
+4cc#	D major
 =16	=16
 8r	.
-4dd	D
+4dd	D major
 8r	.
-8ee	D
+8eeL	D major
 8ff#	.
-8gg	Dmaj7
-8aa	.
+8gg	D major-seventh
+8aaJ	.
 ==	==
 *-	*-

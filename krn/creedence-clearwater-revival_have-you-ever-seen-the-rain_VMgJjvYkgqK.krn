@@ -16,69 +16,69 @@
 *C:	*
 *M4/4	*
 =1	=1
-2r	F
+2r	F major
 4.a	.
-16g	.
-16f	.
+16gLL	.
+16fJJ	.
 =2	=2
-16g	G
-16f	.
+16gLL	G major
+16fJJ	.
 4.d	.
 4r	.
-8e	.
-8f	.
+8eL	.
+8fJ	.
 =3	=3
-16g	C
+16g	C major
 4..g	.
-4.g	Cmaj7/B
+4.g	C major-seventh/B
 8c	.
 =4	=4
-2c	Am7
-4r	Am7/G
-8r	Am/E
-8r	Am7/G
+2c	A minor-seventh
+4r	A minor-seventh/G
+8r	A minor/E
+8r	A minor-seventh/G
 =5	=5
-2r	F
+2r	F major
 6...a	.
-8g	.
-16f	.
+8gL	.
+16fJk	.
 =6	=6
-8g	G
-16f	.
+8gL	G major
+16fJk	.
 6...d	.
 4r	.
-8e	.
-8f	.
+8eL	.
+8fJ	.
 =7	=7
-16g	C
+16g	C major
 6...g	.
-8g[	.
-4.g]	Cmaj7/B
+[8g	.
+4.g]	C major-seventh/B
 8c	.
 =8	=8
-2c	Am7
-4r	Am7/G
-8r	Am/E
-8r	Am7/G
+2c	A minor-seventh
+4r	A minor-seventh/G
+8r	A minor/E
+8r	A minor-seventh/G
 =9	=9
-2r	F
+2r	F major
 8A	.
 4c	.
-8c[	.
+[8c	.
 =10	=10
-4c]	G
+4c]	G major
 4r	.
 4e	.
-8B	.
-8c[	.
+8BL	.
+[8cJ	.
 =11	=11
-4c]	C
+4c]	C major
 4r	.
-2r	C/G
+2r	C major/G
 =12	=12
-8r	C
-4r	Cmaj7/B
-4r	Am7
-4.r	C/G
+8r	C major
+4r	C major-seventh/B
+4r	A minor-seventh
+4.r	C major/G
 ==	==
 *-	*-

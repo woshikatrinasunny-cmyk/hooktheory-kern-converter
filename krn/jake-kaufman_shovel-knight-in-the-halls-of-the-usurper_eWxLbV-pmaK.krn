@@ -16,98 +16,98 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4G#	G#m
+4G#	G# minor
 4D#	.
 4G#	.
 4B	.
 =2	=2
-8A#	D#m7
-16G#	.
-16F#	.
-2G#	G#m
-8B	F#/A#
-8c#	.
+8A#L	D# minor-seventh
+16G#L	.
+16F#JJ	.
+2G#	G# minor
+8BL	F# major/A#
+8c#J	.
 =3	=3
-4d#	Badd(2,4,7)
+4d#	B other-2,4,7
 4F#	.
 4d#	.
 4f#	.
 =4	=4
-8fn	C#
-16d#	.
-16c#	.
-2d#	G#m
-8d#	.
-8f#	.
+8fnL	C# major
+16d#L	.
+16c#JJ	.
+2d#	G# minor
+8d#L	.
+8f#J	.
 =5	=5
-4g#	E
-16G#	.
+4g#	E major
+16G#LL	.
 16B	.
 16e	.
-16g#	.
-4f#	B/D#
-8F#	.
-8B	.
+16g#JJ	.
+4f#	B major/D#
+8F#L	.
+8BJ	.
 =6	=6
-8d#	G#m/D#
-16c#	.
-16B	.
-2c#	F#m
-8c#	.
-8d#	.
+8d#L	G# minor/D#
+16c#L	.
+16BJJ	.
+2c#	F# minor
+8c#L	.
+8d#J	.
 =7	=7
-2e[	C#m
-8e]	E
+[2e	C# minor
+8eL]	E major
 8d#	.
-8c#	E/G#
-8B	.
+8c#	E major/G#
+8BJ	.
 =8	=8
-2A#[	F#
-4A#]	D#/G
-4D#	D#
+[2A#	F# major
+4A#]	D# major/G
+4D#	D# major
 =9	=9
-4G#	G#m
-8.D#	.
-16D#	.
+4G#	G# minor
+8.D#L	.
+16D#Jk	.
 4G#	.
-8B	.
-16c#	.
-16B	.
+8BL	.
+16c#L	.
+16BJJ	.
 =10	=10
-8A#	D#m7
-8F#	.
-2G#	G#m
-8B	F#/A#
-8c#	.
+8A#L	D# minor-seventh
+8F#J	.
+2G#	G# minor
+8BL	F# major/A#
+8c#J	.
 =11	=11
-4d#	Badd(2,4,7)
+4d#	B other-2,4,7
 4F#	.
 4B	.
 4f#	.
 =12	=12
-8fn	C#
-16c#	.
-16fn	.
-2d#	G#m
-8d#	.
-8f#	.
+8fnL	C# major
+16c#L	.
+16fnJJ	.
+2d#	G# minor
+8d#L	.
+8f#J	.
 =13	=13
-4g#	E
-4b[	.
-4b]	B/D#
-8f#	.
-8g#	.
+4g#	E major
+[4b	.
+4b]	B major/D#
+8f#L	.
+8g#J	.
 =14	=14
-4an	F#m/C#
+4an	F# minor/C#
 2cc#	.
-16dd#	G#m7
-16cc#	.
-8b	.
+16dd#LL	G# minor-seventh
+16cc#J	.
+8bJ	.
 =15	=15
-1cc#	C#
+1cc#	C# major
 =16	=16
 2.r	.
-8g#	D#
-8a#	.
+8g#L	D# major
+8a#J	.
 ==	==
 *-	*-

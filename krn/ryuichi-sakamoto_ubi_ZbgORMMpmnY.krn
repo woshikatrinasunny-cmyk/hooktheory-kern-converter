@@ -16,41 +16,41 @@
 *e:	*
 *M4/4	*
 =1	=1
-1r	G
+1r	G major
 =2	=2
-8r	Gaug
+8r	G augmented
 8aa	.
 4.gg	.
 8b	.
 4gg	.
 =3	=3
-2r	Cmaj7
-2r	Am/C
+2r	C major-seventh
+2r	A minor/C
 =4	=4
-2r	Esus4/B
-2r	E/B
+2r	E suspended-fourth/B
+2r	E major/B
 =5	=5
-2.r	A#dim7
+2.r	A# diminished-seventh
 16r	.
-16ff#	.
-8ee	.
+16ff#LK	.
+8eeJ	.
 =6	=6
 2.dd	.
 4cc#	.
 =7	=7
-2.ff#[	.
-16ff#]	.
-16ee	.
-8dd	.
+[2.ff#	.
+16ff#LL]	.
+16eeJ	.
+8ddJ	.
 =8	=8
 2.cc#	.
 4dd	.
 =9	=9
-1cc	Badd(1,5,7)
+1cc	B other-1,5,7
 =10	=10
-3...r	B
-8b	.
+3...r	B major
+8bL	.
 8dd	.
-8cc	.
+8ccJ	.
 ==	==
 *-	*-

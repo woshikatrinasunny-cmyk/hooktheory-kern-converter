@@ -16,71 +16,71 @@
 *A:	*
 *M4/4	*
 =1	=1
-8.r	A/C#
-8ee	.
-16ee	.
+8.r	A major/C#
+8eeL	.
+16eeL	.
 16dd	.
-16cc#	.
-8b	Badd(3,5,7,10)/D
+16cc#JJ	.
+8bL	B other-3,5,7,10/D
 8a	.
 8f#	.
-8e[	Esus4
+[8eJ	E suspended-fourth
 =2	=2
-8.e]	.
+8.eL]	.
 8ee	.
-16ee	.
+16eeL	.
 16dd	.
-16ff#	.
-8ee	.
+16ff#JJ	.
+8eeL	.
 8b	.
-8dd	E
-8cc#[	.
+8dd	E major
+[8cc#J	.
 =3	=3
-8.cc#]	A
+8.cc#L]	A major
 8cc#	.
-16cc#	.
+16cc#L	.
 16b	.
-16a	.
-8a	Bm7
+16aJJ	.
+8aL	B minor-seventh
 8dd	.
 8b	.
-8b[	.
+[8bJ	.
 =4	=4
-8b]	E
-8g#	.
+8bL]	E major
+8g#J	.
 2.r	.
 =5	=5
-8r	A/C#
-8a	.
+8r	A major/C#
+8aL	.
 8ee	.
-8cc#	.
-8b	Badd(3,5,7,10)/D
+8cc#J	.
+8bL	B other-3,5,7,10/D
 8a	.
 8f#	.
-8e[	Esus4
+[8eJ	E suspended-fourth
 =6	=6
-8.e]	.
+8.eL]	.
 8ee	.
-16ee	.
+16eeL	.
 16dd	.
-16ff#	.
-8ee	.
+16ff#JJ	.
+8eeL	.
 8b	.
-8dd	E/G#
-8cc#[	.
+8dd	E major/G#
+[8cc#J	.
 =7	=7
-8.cc#]	F#m7
+8.cc#L]	F# minor-seventh
 8cc#	.
-16cc#	.
+16cc#L	.
 16b	.
-16a	.
-8a	Bm7
+16aJJ	.
+8aL	B minor-seventh
 8dd	.
 8b	.
-8b[	.
+[8bJ	.
 =8	=8
-8b]	Esus4
-8g#	.
+8bL]	E suspended-fourth
+8g#J	.
 2.r	.
 ==	==
 *-	*-

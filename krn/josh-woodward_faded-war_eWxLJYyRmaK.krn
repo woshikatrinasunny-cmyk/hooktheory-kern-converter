@@ -16,48 +16,48 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	Csus2
+8r	C suspended-second
+8gL	.
 8g	.
-8g	.
-8g	C
+8gJ	C major
 8g	.
 4.e	.
 =2	=2
-8r	Csus2
+8r	C suspended-second
+8gL	.
 8g	.
-8g	.
-8g	C
-8g	.
+8gJ	C major
+8gL	.
 8e	.
 8e	.
-8g	.
+8gJ	.
 =3	=3
-4.f	F
-2e	Fmaj7
-8c[	.
+4.f	F major
+2e	F major-seventh
+[8c	.
 =4	=4
 4c]	.
 2.r	.
 =5	=5
-8r	Am
+8r	A minor
+8eL	.
 8e	.
-8e	.
-8e	Asus2
+8eJ	A suspended-second
 8e	.
 4.c	.
 =6	=6
-8r	Em
+8r	E minor
+8eL	.
 8e	.
-8e	.
-8e	Em7
-8e	.
-8d	.
-4d[	.
+8eJ	E minor-seventh
+8eL	.
+8dJ	.
+[4d	.
 =7	=7
-8d]	F
+8dL]	F major
 8c	.
-8c[	.
-4.c]	Fmaj7
+[8cJ	.
+4.c]	F major-seventh
 4r	.
 =8	=8
 1r	.

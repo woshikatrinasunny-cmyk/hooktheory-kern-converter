@@ -15,122 +15,122 @@
 *a:	*
 *M4/4	*
 =1	=1
-8a	Dsus2
+8aL	D suspended-second
 8g	.
 8a	.
-8b-[	.
-8b-]	Dm
+[8b-J	.
+8b-L]	D minor
 8a	.
 8g	.
-8b-	.
+8b-J	.
 =2	=2
-8a	Dsus2
+8aL	D suspended-second
 8g	.
 8a	.
-8b-[	.
-8b-]	Dm
+[8b-J	.
+8b-L]	D minor
 8a	.
 8g	.
-8b-	.
+8b-J	.
 =3	=3
-8a	Dsus2
+8aL	D suspended-second
 8g	.
 8a	.
-8b-[	.
-8b-]	Dm
+[8b-J	.
+8b-L]	D minor
 8a	.
 8g	.
-8b-	.
+8b-J	.
 =4	=4
-8a	Dsus4
+8aL	D suspended-fourth
 8dd	.
 8cc	.
-8b-	.
-8a	Dm
+8b-J	.
+8aL	D minor
 8g	.
 8a	.
-8b-	.
+8b-J	.
 =5	=5
-8g	Csus2
+8gL	C suspended-second
 8f	.
 8g	.
-8a-[	.
-8a-]	Cm
+[8a-J	.
+8a-L]	C minor
 8g	.
 8f	.
-8a-	.
+8a-J	.
 =6	=6
-8g	Csus2
+8gL	C suspended-second
 8f	.
 8g	.
-8a-[	.
-8a-]	Cm
+[8a-J	.
+8a-L]	C minor
 8g	.
 8f	.
-8a-	.
+8a-J	.
 =7	=7
-8g	Csus2
+8gL	C suspended-second
 8f	.
 8g	.
-8a-[	.
-8a-]	Cm
+[8a-J	.
+8a-L]	C minor
 8g	.
 8f	.
-8a-	.
+8a-J	.
 =8	=8
-8g	Csus2
+8gL	C suspended-second
 8cc	.
 8b-	.
-8a-	.
-8g	Cm
+8a-J	.
+8gL	C minor
 8f	.
 8g	.
-8a-	.
+8a-J	.
 =9	=9
-4.g	G
-8dd[	.
-4dd]	F
-8cc	.
-8dd	.
+4.g	G major
+[8dd	.
+4dd]	F major
+8ccL	.
+8ddJ	.
 =10	=10
-4ff	Em
+4ff	E minor
 4ee	.
-4dd	E-maj7sus2
+4dd	E- major-seventh-suspended-second
 4cc	.
 =11	=11
-1ee-	E-
+1ee-	E- major
 =12	=12
-1gg	E-
+1gg	E- major
 =13	=13
-2f	Cm
+2f	C minor
 4e-	.
 4f	.
 =14	=14
-4g	Cm
+4g	C minor
 4f	.
 4e-	.
 4g	.
 =15	=15
-2a-	D-
+2a-	D- major
 4f	.
 4g	.
 =16	=16
-4a-	D-
+4a-	D- major
 4g	.
 4f	.
 4a-	.
 =17	=17
-2a	D
+2a	D major
 4g-	.
 4a-	.
 =18	=18
-4a	D
+4a	D major
 4a-	.
 4g-	.
 4a	.
 =19	=19
-1b-	E-
+1b-	E- major
 =20	=20
-1ee-	E-
+1ee-	E- major
 ==	==
 *-	*-

@@ -16,55 +16,55 @@
 *B:	*
 *M4/4	*
 =1	=1
-4r	B5
+4r	B power
+8dd#L	.
+8dd#J	.
+8dd#L	.
 8dd#	.
 8dd#	.
-8dd#	.
-8dd#	.
-8dd#	.
-8dd#[	.
+[8dd#J	.
 =2	=2
-8dd#]	B5
-8dd#	.
+8dd#L]	B power
+8dd#J	.
 2.r	.
 =3	=3
-4r	Esus2
+4r	E suspended-second
+8dd#L	.
+8dd#J	.
+8dd#L	.
 8dd#	.
 8dd#	.
-8dd#	.
-8dd#	.
-8dd#	.
-8dd#	.
+8dd#J	.
 =4	=4
-4dd#	Esus2
+4dd#	E suspended-second
+8cc#L	.
+8bJ	.
+8bL	.
 8cc#	.
-8b	.
-8b	.
-8cc#	.
-8dd#	.
+8dd#J	.
 8r	.
 =5	=5
-8r	F#sus4
+8r	F# suspended-fourth
+8cc#L	.
+8cc#	.
+8cc#J	.
+8cc#L	.
 8cc#	.
 8cc#	.
-8cc#	.
-8cc#	.
-8cc#	.
-8cc#	.
-16cc#	.
-16b[	.
+16cc#L	.
+[16bJJ	.
 =6	=6
-8b]	G#add(3,10)
-8b	.
+8bL]	G# other-3,10
+8bJ	.
 4r	.
+8cc#L	.
 8cc#	.
 8cc#	.
-8cc#	.
-16cc#	.
-16b	.
+16cc#L	.
+16bJJ	.
 =7	=7
-1r	Esus2
+1r	E suspended-second
 =8	=8
-1r	Esus2
+1r	E suspended-second
 ==	==
 *-	*-

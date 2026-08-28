@@ -16,43 +16,43 @@
 *D:	*
 *M4/4	*
 =1	=1
-2.dd	Dadd(2,4,7)
-8dd	.
-8cc#	.
+2.dd	D other-2,4,7
+8ddL	.
+8cc#J	.
 =2	=2
-2.dd	Dadd(2,5,7)
-8dd	.
-8cc#	.
+2.dd	D other-2,5,7
+8ddL	.
+8cc#J	.
 =3	=3
-4.dd	Dadd(2,4,7)
+4.dd	D other-2,4,7
 8ee	.
-4.ee	Dadd(2,5,7)
+4.ee	D other-2,5,7
 8gg	.
 =4	=4
-2gg[	.
-4gg]	A7sus4
-8ff#	Dadd(2,4,7)
-8dd	.
+[2gg	.
+4gg]	A dominant-seventh-suspended-fourth
+8ff#L	D other-2,4,7
+8ddJ	.
 =5	=5
-4.ee	Dadd(2,5,7)
+4.ee	D other-2,5,7
 8cc#	.
-4a	A7sus4
-8ff#	Dadd(2,4,7)
-8dd	.
+4a	A dominant-seventh-suspended-fourth
+8ff#L	D other-2,4,7
+8ddJ	.
 =6	=6
-2ee[	Dadd(2,5,7)
-4ee]	A7sus4
-8aa	Dadd(2,4,7)
-8dd	.
+[2ee	D other-2,5,7
+4ee]	A dominant-seventh-suspended-fourth
+8aaL	D other-2,4,7
+8ddJ	.
 =7	=7
-4.gg	G/B
+4.gg	G major/B
 8ff#	.
-4.ff#	Dmaj7/A
+4.ff#	D major-seventh/A
 8ee	.
 =8	=8
-2ee	Em7/G
-4r	A
-8dd	.
-8cc#	.
+2ee	E minor-seventh/G
+4r	A major
+8ddL	.
+8cc#J	.
 ==	==
 *-	*-

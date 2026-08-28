@@ -15,60 +15,60 @@
 *e:	*
 *M3/4	*
 =1	=1
-2.r	C
+2.r	C major
 =2	=2
-2.r	A
+2.r	A major
 =3	=3
-4.r	D
-8r	D
-8ff#	.
-8ff#	.
+4.r	D major
+8r	D major
+8ff#L	.
+8ff#J	.
 =4	=4
-8gg[	Dsus4
-8gg]	D
-8ff#	.
-8ee	Dsus2
-8ff#[	.
-8ff#]	D
+[8ggL	D suspended-fourth
+8ggJ]	D major
+8ff#L	.
+8eeJ	D suspended-second
+[8ff#L	.
+8ff#J]	D major
 =5	=5
-8ff#	C
-3...ee[	.
+8ff#	C major
+[3...ee	.
 =6	=6
-2ee]	A
+2ee]	A major
 4r	.
 =7	=7
-4.r	D
-8r	D
-8ff#	.
-8ff#	.
+4.r	D major
+8r	D major
+8ff#L	.
+8ff#J	.
 =8	=8
-8gg[	Dsus4
-8gg]	D
-8ff#	.
-8ee	Dsus2
-8ff#[	.
-8ff#]	D
+[8ggL	D suspended-fourth
+8ggJ]	D major
+8ff#L	.
+8eeJ	D suspended-second
+[8ff#L	.
+8ff#J]	D major
 =9	=9
-8ff#	C
-8gg	.
-2ee[	.
+8ff#L	C major
+8ggJ	.
+[2ee	.
 =10	=10
-2.ee]	A
+2.ee]	A major
 =11	=11
-4ff#	D
+4ff#	D major
 8r	.
 8ff#	.
 4ff#	.
 =12	=12
-8ff#	Em
-3...ee[	.
+8ff#	E minor
+[3...ee	.
 =13	=13
 2.ee]	.
 =14	=14
-2.r	Esus2
+2.r	E suspended-second
 =15	=15
-2.r	Em
+2.r	E minor
 =16	=16
-2.r	Em
+2.r	E minor
 ==	==
 *-	*-

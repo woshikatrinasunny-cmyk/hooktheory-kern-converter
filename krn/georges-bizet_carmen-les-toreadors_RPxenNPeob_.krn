@@ -16,41 +16,41 @@
 *f#:	*
 *M2/4	*
 =1	=1
-8cc#	F#m
-16ff#	.
+8cc#L	F# minor
+16ff#Jk	.
 16r	.
 16cc#	.
 16r	.
 16b	.
 16r	.
 =2	=2
-8a	.
-16g#	.
-16f#	.
-16g#	C#7/B
+8aL	.
+16g#L	.
+16f#JJ	.
+16g#	C# dominant/B
 16r	.
-16cc#	C#
+16cc#	C# major
 16r	.
 =3	=3
-16f#	D#m7b5/F#
+16f#	D# half-diminished/F#
 16r	.
-16g#	C#/G#
+16g#	C# major/G#
 16r	.
-16a	F#m
+16a	F# minor
 16r	.
 16cc#	.
 16r	.
 =4	=4
-8ffn	Fdim/G#
-16dd#	.
-16ffn	.
-16cc#	C#/F
+8ffnL	F diminished/G#
+16dd#L	.
+16ffnJJ	.
+16cc#	C# major/F
 16r	.
-16c#	C#
+16c#	C# major
 16r	.
 =5	=5
-8cc#	F#m
-16ff#	.
+8cc#L	F# minor
+16ff#Jk	.
 16r	.
 16cc#	.
 16r	.
@@ -59,91 +59,91 @@
 =6	=6
 16a	.
 16r	.
-16g#	.
-16f#	.
-16g#	C#7/B
+16g#LL	.
+16f#JJ	.
+16g#	C# dominant/B
 16r	.
-16cc#	C#
+16cc#	C# major
 16r	.
 =7	=7
-16f#	D#m7b5/F#
+16f#	D# half-diminished/F#
 16r	.
-16g#	C#/G#
+16g#	C# major/G#
 16r	.
-16a	F#m
+16a	F# minor
 16r	.
 16cc#	.
 16r	.
 =8	=8
-8ffn	Fm/G#
-16dd#	.
-16ffn	.
-16cc#	C#
+8ffnL	F minor/G#
+16dd#L	.
+16ffnJJ	.
+16cc#	C# major
 8.r	.
 =9	=9
-16dd	D
+16ddLL	D major
 16dd	.
-16dd	.
+16ddJJ	.
 16r	.
-16ee	E7sus4
+16eeLL	E dominant-seventh-suspended-fourth
 16ee	.
-16ee	.
+16eeJJ	.
 16r	.
 =10	=10
-16ff#	D/F#
+16ff#LL	D major/F#
 16ff#	.
-16ff#	.
+16ff#JJ	.
 16r	.
-16dd	D
+16ddLL	D major
 16dd	.
-16dd	.
+16ddJJ	.
 16r	.
 =11	=11
-8cc#	C#add(1,7)
-8g#	.
-8cc#	.
-8dd	.
+8cc#L	C# other-1,7
+8g#J	.
+8cc#L	.
+8ddJ	.
 =12	=12
-8cc#	.
-8g#	.
+8cc#L	.
+8g#J	.
 4cc#	.
 =13	=13
-16dd	D
+16ddLL	D major
 16dd	.
-16dd	.
+16ddJJ	.
 16r	.
-16ee	E7sus4
+16eeLL	E dominant-seventh-suspended-fourth
 16ee	.
-16ee	.
+16eeJJ	.
 16r	.
 =14	=14
-16ff#	D/F#
+16ff#LL	D major/F#
 16ff#	.
-16ff#	.
+16ff#JJ	.
 16r	.
-16dd	D
+16ddLL	D major
 16dd	.
-16dd	.
+16ddJJ	.
 16r	.
 =15	=15
-8.r	G#dim
+8.r	G# diminished
 16g#	.
-4g#[	.
+[4g#	.
 =16	=16
-8g#]	.
-16g#	.
-16g#	.
-4g#[	.
+8g#L]	.
+16g#L	.
+16g#JJ	.
+[4g#	.
 =17	=17
-8g#]	.
-16g#	.
-16g#	.
-4g#[	.
+8g#L]	.
+16g#L	.
+16g#JJ	.
+[4g#	.
 =18	=18
-8g#]	.
-16g#	.
-16g#	.
-8g#[	.
-8g#]	E
+8g#L]	.
+16g#L	.
+16g#JJ	.
+[8g#L	.
+8g#J]	E major
 ==	==
 *-	*-

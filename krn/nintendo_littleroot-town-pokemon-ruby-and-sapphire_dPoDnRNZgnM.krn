@@ -16,60 +16,60 @@
 *F:	*
 *M4/4	*
 =1	=1
-2ccc	Am
-8ddd-	A
+2ccc	A minor
+8ddd-L	A major
 8bb-	.
 8aa	.
-8gg	.
+8ggJ	.
 =2	=2
-8ff	Dm
+8ff	D minor
 4ff	.
 8ee	.
-8dd	Bm7b5
+8dd	B half-diminished
 8r	.
-8ff	.
-8aa	.
+8ffL	.
+8aaJ	.
 =3	=3
-2gg	B-
-8r	Gm
-8ff	.
+2gg	B- major
+8r	G minor
+8ffL	.
 8dd	.
-8ff	.
+8ffJ	.
 =4	=4
-8ee	C
+8ee	C major
 4ee	.
 8ff	.
-8gg	C7/B-
+8gg	C dominant/B-
 8r	.
-8aa	.
-8bb-	.
+8aaL	.
+8bb-J	.
 =5	=5
-2ccc	Am
-8r	A
-8aa	.
+2ccc	A minor
+8r	A major
+8aaL	.
 8ddd-	.
-8eee	.
+8eeeJ	.
 =6	=6
-8ggg	Dm
+8gggL	D minor
 8fff	.
 8eee	.
-8fff	.
-8ddd	Bm7b5
+8fffJ	.
+8ddd	B half-diminished
 8r	.
-8fff	.
-8aaa	.
+8fffL	.
+8aaaJ	.
 =7	=7
-2ggg	B-
-8r	Bdim
-8fff	.
+2ggg	B- major
+8r	B diminished
+8fffL	.
 8ddd	.
-8fff	.
+8fffJ	.
 =8	=8
-8eee	C
+8eee	C major
 4eee	.
 8fff	.
-4ggg	C7
-8bb-	.
-8gg	.
+4ggg	C dominant
+8bb-L	.
+8ggJ	.
 ==	==
 *-	*-

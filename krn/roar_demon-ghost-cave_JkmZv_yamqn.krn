@@ -16,43 +16,43 @@
 *G:	*
 *M4/4	*
 =1	=1
-4G	G
+4G	G major
 4A	.
 4G	.
 4A	.
 =2	=2
-4G	A7
+4G	A dominant
 8A	.
 4.B	.
-4e[	.
+[4e	.
 =3	=3
-2e]	Dm
+2e]	D minor
 4d	.
-4B[	.
+[4B	.
 =4	=4
-2B]	CmMaj7
-4.A	Am7b5/C
+2B]	C major-minor
+4.A	A half-diminished/C
 8r	.
 =5	=5
-4G	G
+4G	G major
 4A	.
 4G	.
 4A	.
 =6	=6
-4G	A7
+4G	A dominant
 8A	.
 4.B	.
-4e[	.
+[4e	.
 =7	=7
-2e]	Dm
+2e]	D minor
 4d	.
-4B[	.
+[4B	.
 =8	=8
-2B]	CmMaj7
-4A	Am7b5/C
+2B]	C major-minor
+4A	A half-diminished/C
 4r	.
 =9	=9
-4G	C/G
+4G	C major/G
 4A	.
 4G	.
 4A	.
@@ -60,17 +60,17 @@
 4G	.
 8A	.
 4.B	.
-4e[	.
+[4e	.
 =11	=11
-2e]	C#add(3,5,6,10)/G
+2e]	C# other-3,5,6,10/G
 4d	.
-4B[	.
+[4B	.
 =12	=12
 2B]	.
 4.A	.
 8r	.
 =13	=13
-4G	C/G
+4G	C major/G
 4A	.
 4G	.
 4A	.
@@ -78,11 +78,11 @@
 4G	.
 8A	.
 4.B	.
-4e[	.
+[4e	.
 =15	=15
-2e]	C#add(3,5,6,10)/G
+2e]	C# other-3,5,6,10/G
 4d	.
-4B[	.
+[4B	.
 =16	=16
 2B]	.
 4A	.

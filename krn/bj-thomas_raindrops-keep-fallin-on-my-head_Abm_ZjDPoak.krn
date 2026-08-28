@@ -15,61 +15,61 @@
 *F:	*
 *M4/4	*
 =1	=1
-4a	F
-8.a	.
-16a	.
-8.b-	.
-16a	.
+4a	F major
+8.aL	.
+16aJk	.
+8.b-L	.
+16ak	.
 8.g	.
-16f	.
+16fJk	.
 =2	=2
-4a	Fmaj7
+4a	F major-seventh
 3...r	.
 16r	.
 16c	.
 =3	=3
-4cc	F7
-8.cc	.
-16cc	.
-8.dd	.
-16cc	.
+4cc	F dominant
+8.ccL	.
+16ccJk	.
+8.ddL	.
+16cck	.
 8.b-	.
-16a	.
+16aJk	.
 =4	=4
-4a	B-maj7
+4a	B- major-seventh
 4b-	.
 4g	.
 4f	.
 =5	=5
-4ee	Am7
+4ee	A minor-seventh
 4r	.
-8.dd	D7
-16cc	.
+8.ddL	D dominant
+16cck	.
 8.a	.
-16f	.
+16fJk	.
 =6	=6
-4ee	Am7
+4ee	A minor-seventh
 4r	.
-4dd	D7
+4dd	D dominant
 4r	.
 =7	=7
-4cc	Gm7
-8.cc	.
-16a	.
+4cc	G minor-seventh
+8.ccL	.
+16aJk	.
+8.b-L	.
+16cck	.
 8.b-	.
-16cc	.
-8.b-	.
-16a	.
+16aJk	.
 =8	=8
 4cc	.
-8.cc	.
-16a	.
+8.ccL	.
+16aJk	.
 8b-	.
 4.cc	.
 =9	=9
-4r	Cadd(2,5,7)
+4r	C other-2,5,7
 4f	.
 4f	.
-4g	C7
+4g	C dominant
 ==	==
 *-	*-

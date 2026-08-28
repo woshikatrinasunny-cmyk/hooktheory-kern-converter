@@ -16,57 +16,57 @@
 *C:	*
 *M4/4	*
 =1	=1
-2c	C
-8B	G
+2c	C major
+8BL	G major
 8c	.
 8d	.
-8c[	.
+[8cJ	.
 =2	=2
-4c]	C
+4c]	C major
 4r	.
-8G#	Fm
+8G#L	F minor
 8F	.
 8D	.
-8G[	.
+[8GJ	.
 =3	=3
-4G]	C
+4G]	C major
 4r	.
-8F	Fm
+8FL	F minor
 8G	.
 8G#	.
-8G[	.
+[8GJ	.
 =4	=4
 *M2/4	*
-4G]	G
+4G]	G major
 4r	.
 =5	=5
 *k[f#c#g#]	*
 *A:	*
 *M4/4	*
-2A	A
-8G#	E
+2A	A major
+8G#L	E major
 8A	.
 8B	.
-8A[	.
+[8AJ	.
 =6	=6
 *M4/4	*
-4A]	A
+4A]	A major
 4r	.
-8Fn	Dm
+8FnL	D minor
 8D	.
 8BB	.
-8E[	.
+[8EJ	.
 =7	=7
-4E]	A
+4E]	A major
 4r	.
-8D	Dm
+8DL	D minor
 8E	.
 8Fn	.
-8E[	.
+[8EJ	.
 =8	=8
-4E]	E
-4r	E7/D
-4r	CaugMaj7
-4r	E/B
+4E]	E major
+4r	E dominant/D
+4r	C augmented-major-seventh
+4r	E major/B
 ==	==
 *-	*-

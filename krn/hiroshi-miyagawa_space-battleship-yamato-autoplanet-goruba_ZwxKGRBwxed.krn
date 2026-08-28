@@ -16,89 +16,89 @@
 *a:	*
 *M4/4	*
 =1	=1
-2.dd#	Am
+2.dd#	A minor
 4ee	.
 =2	=2
-2.ff	Am/C
+2.ff	A minor/C
 4ee	.
 =3	=3
-2.dd#	Fm7b5/B
+2.dd#	F half-diminished/B
 4ee	.
 =4	=4
-2.ff	Ddim
+2.ff	D diminished
 4ee	.
 =5	=5
-2.dd#	A7/C#
+2.dd#	A dominant/C#
 4ee	.
 =6	=6
-2.ff	A
+2.ff	A major
 4gg	.
 =7	=7
-2.gg#	Dm
+2.gg#	D minor
 4aa	.
 =8	=8
-1dd	Dm/F
+1dd	D minor/F
 =9	=9
-2.cc#	Dm
+2.cc#	D minor
 4dd	.
 =10	=10
-2.ee	E7/B
+2.ee	E dominant/B
 4dd	.
 =11	=11
-2.b	Am/C
+2.b	A minor/C
 4cc	.
 =12	=12
-2.dd	Am
+2.dd	A minor
 4cc	.
 =13	=13
-2.ff	B7
+2.ff	B dominant
 4ff#	.
 =14	=14
-2.gg	B7/D#
+2.gg	B dominant/D#
 4ff#	.
 =15	=15
-4gg	E7
+4gg	E dominant
 4ff#	.
 4ff	.
 4ff#	.
 =16	=16
-4ccc	Dadd(2,4,7)/F#
+4ccc	D other-2,4,7/F#
 4bb	.
-4aa#	E7/G#
+4aa#	E dominant/G#
 4bb	.
 =17	=17
-8aa	F7/A
+8aa	F dominant/A
 4.r	.
-8aa	F7/A
+8aa	F dominant/A
 4.r	.
 =18	=18
-8aa	F7/A
+8aa	F dominant/A
 8r	.
-8aa	F7/A
+8aa	F dominant/A
 4.r	.
-8aa	F7/A
+8aa	F dominant/A
 8r	.
 =19	=19
 4r	.
-8aa	F7/A
+8aa	F dominant/A
 8r	.
-8aa	F7/A
+8aa	F dominant/A
 8r	.
-8aa	F7/A
+8aa	F dominant/A
 8r	.
 =20	=20
 4r	.
-16aa	F7/A
-16aa	.
+16aaLL	F dominant/A
+16aaJ	.
+8aaJ	.
+16aaLL	F dominant/A
+16aaJ	.
 8aa	.
-16aa	F7/A
-16aa	.
-8aa	.
-16aa	F7/A
-16aa	.
-8aa	.
+16aaL	F dominant/A
+16aaJ	.
+8aaJ	.
 =21	=21
-8dd	Dm/A
+8dd	D minor/A
 2..r	.
 ==	==
 *-	*-

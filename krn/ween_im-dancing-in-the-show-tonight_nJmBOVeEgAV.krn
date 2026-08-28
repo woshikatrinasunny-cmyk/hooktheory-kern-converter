@@ -16,87 +16,87 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8dd	B-
+8dd	B- major
 8r	.
 8b-	.
 8r	.
-4b-	Gm7
+4b-	G minor-seventh
 8dd	.
 8r	.
 =2	=2
-8cc	Cm7
+8ccL	C minor-seventh
 8bn	.
 8cc	.
-8ee-	.
+8ee-J	.
 8gg	.
 8r	.
-8aa	.
-8gg	.
+8aaL	.
+8ggJ	.
 =3	=3
-8ff	F7
+8ff	F dominant
 8r	.
-8ff	.
-8ee-	.
+8ffL	.
+8ee-J	.
 8dd	.
 8r	.
 8cc	.
 8r	.
 =4	=4
-2b-	B-
-4r	Faug7
-8F	.
-8E-	.
+2b-	B- major
+4r	F augmented-seventh
+8FL	.
+8E-J	.
 =5	=5
-4D	B-
+4D	B- major
 4BB-	.
-4BB-	Gm7/B-
-8GG	.
-8BB-	.
+4BB-	G minor-seventh/B-
+8GGL	.
+8BB-J	.
 =6	=6
-4C	Cm
+4C	C minor
 4GG	.
-4GG	Cm7
+4GG	C minor-seventh
 4r	.
 =7	=7
-4AA	F7
+4AA	F dominant
 4AA	.
-8AA	Faug7
+8AAL	F augmented-seventh
 8E-	.
 8D	.
-8C	.
+8CJ	.
 =8	=8
-8BB-	B-
+8BB-L	B- major
 8AA	.
 8BB-	.
-8D	.
-4F	Faug
-8F	.
-8E-	.
+8DJ	.
+4F	F augmented
+8FL	.
+8E-J	.
 =9	=9
-4D	B-
+4D	B- major
 4BB-	.
-4BB-	Gm7
+4BB-	G minor-seventh
 8r	.
 8BB-	.
 =10	=10
-8C	Cm7
+8CL	C minor-seventh
 8BBn	.
 8C	.
-8E-	.
+8E-J	.
 4G	.
-8A	.
-8G	.
+8AL	.
+8GJ	.
 =11	=11
-8F	F7
+8FL	F dominant
 8G	.
 8F	.
-8E-	.
+8E-J	.
 4D	.
 4C	.
 =12	=12
-2BB-	B-
-4r	Faug
-8F	.
-8E-	.
+2BB-	B- major
+4r	F augmented
+8FL	.
+8E-J	.
 ==	==
 *-	*-

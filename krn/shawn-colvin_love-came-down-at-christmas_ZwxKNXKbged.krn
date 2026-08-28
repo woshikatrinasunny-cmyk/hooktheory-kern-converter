@@ -16,48 +16,48 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.a	Fadd(2,4,7)
+4.a	F other-2,4,7
 8a	.
-4g	Cmaj7/E
+4g	C major-seventh/E
 4e	.
 =2	=2
-2d	Am7
-4c	C/G
+2d	A minor-seventh
+4c	C major/G
 4r	.
 =3	=3
-4.c	Fadd(2,4,7)
+4.c	F other-2,4,7
 8d	.
-4e	Cmaj7/E
+4e	C major-seventh/E
 4a	.
 =4	=4
-4g	Am7
-8c	.
-8d	.
-4d	Gsus4
+4g	A minor-seventh
+8cL	.
+8dJ	.
+4d	G suspended-fourth
 4r	.
 =5	=5
-4.c	Am7
+4.c	A minor-seventh
 8d	.
-4e	Fadd(2,4,7)
+4e	F other-2,4,7
 4a	.
 =6	=6
-4g	C
-8e	.
-8g	.
-4g[	G7sus4
-8g]	G7
+4g	C major
+8eL	.
+8gJ	.
+[4g	G dominant-seventh-suspended-fourth
+8g]	G dominant
 8r	.
 =7	=7
-4.g	Am7
+4.g	A minor-seventh
 8g	.
-8g	Fadd(2,4,7)
+8gL	F other-2,4,7
 8e	.
 8d	.
-8e	.
+8eJ	.
 =8	=8
-4c	Gsus4
+4c	G suspended-fourth
 4c	.
-4.c	C
+4.c	C major
 8r	.
 ==	==
 *-	*-

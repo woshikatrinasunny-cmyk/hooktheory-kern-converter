@@ -16,47 +16,47 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8f#	F#
+8f#L	F# major
 8a#	.
-8cc#	F#
-8a#	.
-8g#	F#
-16a#	.
-16a#[	.
-16a#]	F#
-16a#	.
-8a#	.
+8cc#	F# major
+8a#J	.
+8g#L	F# major
+16a#L	.
+[16a#	.
+16a#]	F# major
+16a#J	.
+8a#J	.
 =2	=2
-8e#	A#m/E#
+8e#L	A# minor/E#
 8a#	.
-8cc#	A#m/E#
-8a#	.
-8g#	A#m/E#
-16a#	.
-16a#[	.
-16a#]	A#m/E#
-16a#	.
-8a#	.
+8cc#	A# minor/E#
+8a#J	.
+8g#L	A# minor/E#
+16a#L	.
+[16a#	.
+16a#]	A# minor/E#
+16a#J	.
+8a#J	.
 =3	=3
-8f#	D#m
+8f#L	D# minor
 8a#	.
-8cc#	D#m
-8a#	.
-8g#	D#m
+8cc#	D# minor
+8a#J	.
+8g#L	D# minor
+16a#L	.
+[16a#	.
+16a#]	D# minor
 16a#	.
-16a#[	.
-16a#]	D#m
 16a#	.
-16a#	.
-16a#	.
+16a#JJ	.
 =4	=4
-8a#	A#m
+8a#L	A# minor
 8a#	.
-8a#	A#m
+8a#	A# minor
+8a#J	.
+8a#L	A# minor
 8a#	.
-8a#	A#m
-8a#	.
-8g#	A#m
-8f#	.
+8g#	A# minor
+8f#J	.
 ==	==
 *-	*-

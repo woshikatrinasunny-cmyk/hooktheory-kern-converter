@@ -16,37 +16,37 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2dd	B-
-4ff	Dm/A
+2dd	B- major
+4ff	D minor/A
 4cc	.
 =2	=2
-2.b-[	Gm
-4b-]	B-/F
+[2.b-	G minor
+4b-]	B- major/F
 =3	=3
-2gg	E-
-4ff	Dm
-8bb-	.
-8ff	.
+2gg	E- major
+4ff	D minor
+8bb-L	.
+8ffJ	.
 =4	=4
-4ff	Cm
+4ff	C minor
 2.ee-	.
 =5	=5
-4.cc	A-
+4.cc	A- major
 8cc	.
-8.aa-	.
+8.aa-L	.
 8.gg	.
-8ee-	.
+8ee-J	.
 =6	=6
-2.b-	E-/G
+2.b-	E- major/G
 4gg	.
 =7	=7
-4ff	F
+4ff	F major
 2cc	.
 4ff	.
 =8	=8
-4gg	Gsus4
-8cc	.
-8dd	.
-2bn	G
+4gg	G suspended-fourth
+8ccL	.
+8ddJ	.
+2bn	G major
 ==	==
 *-	*-

@@ -15,64 +15,64 @@
 *a:	*
 *M6/4	*
 =1	=1
-2.b	Bdim
-8.r	E
+2.b	B diminished
+8.r	E major
 8.e	.
-16f	.
-16e	.
-8d#	.
-8b	.
+16fLL	.
+16eJJ	.
+8d#L	.
+8bJ	.
 =2	=2
-2.a	Am
-8.r	A7
+2.a	A minor
+8.r	A dominant
 8.a	.
-16b	.
-16a	.
-8g#	.
-8gg	.
+16bLL	.
+16aJJ	.
+8g#L	.
+8ggJ	.
 =3	=3
-4.ff	Dm
+4.ff	D minor
 8ff	.
 4ff	.
-4ff	G7
+4ff	G dominant
 4gg	.
 4ff	.
 =4	=4
-4ff	C
+4ff	C major
 2ee	.
 4.r	.
 8cc	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 =5	=5
-4.ee	A#
+4.ee	A# major
 8dd	.
 3...dd	.
 8dd	.
-8ee	.
-8dd	.
+8eeL	.
+8ddJ	.
 =6	=6
-4.dd	Am
+4.dd	A minor
 8cc	.
-4cc[	.
-4.cc]	Am7/G
+[4cc	.
+4.cc]	A minor-seventh/G
 8r	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =7	=7
-4.cc	F7
+4.cc	F dominant
 8dd	.
 4cc	.
-4b	E
+4b	E major
 4ee	.
 4cc	.
 =8	=8
-2.a	Am
+2.a	A minor
 8.r	.
 8.e	.
-16f	.
-16e	.
-8d#	.
-8cc	.
+16fLL	.
+16eJJ	.
+8d#L	.
+8ccJ	.
 ==	==
 *-	*-

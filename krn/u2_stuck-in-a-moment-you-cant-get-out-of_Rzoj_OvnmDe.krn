@@ -16,43 +16,43 @@
 *E:	*
 *M4/4	*
 =1	=1
-8B	E
+8BL	E major
 8B	.
-16B	.
-16B[	.
-6...B]	E/G#
+16BL	.
+[16BJJ	.
+6...B]	E major/G#
 8.r	.
-16E	.
-16c#	.
+16ELL	.
+16c#JJ	.
 =2	=2
-16c#	A
+16c#LK	A major
 8c#	.
-16c#	.
-8B	.
-6...B	E/G#
+16c#k	.
+8BJ	.
+6...B	E major/G#
 8.r	.
-16E	.
-16c#[	.
+16ELL	.
+[16c#JJ	.
 =3	=3
-16c#]	B
+16c#LL]	B major
 16c#	.
-16c#	.
+16c#J	.
 8B	.
-16B[	.
-16B]	C#m
-16A	.
-16F#	.
-8.E	.
+[16BL	.
+16B]	C# minor
+16AJJ	.
+16F#LK	.
+8.EJ	.
 8r	.
-16E	.
-16E	.
+16ELL	.
+16EJJ	.
 =4	=4
-16c#	A
-16c#	.
+16c#LL	A major
+16c#J	.
 8c#	.
-16c#	.
-16B	.
-8B	E
+16c#L	.
+16BJ	.
+8BJ	E major
 8G#	.
 4.r	.
 ==	==

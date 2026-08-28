@@ -16,70 +16,70 @@
 *F:	*
 *M4/4	*
 =1	=1
-8r	F
+8r	F major
 8r	.
-8r	F
+8r	F major
 8r	.
-8r	F
+8r	F major
 8r	.
-8r	F
+8r	F major
 8r	.
 =2	=2
-8r	F
+8r	F major
 8r	.
-8r	F
+8r	F major
 8r	.
-8r	F
+8r	F major
 8r	.
-8r	F
+8r	F major
 8r	.
 =3	=3
-16ff	F
-16ff[	.
+16ffLL	F major
+[16ff	.
 16ff]	.
-16ff[	.
-16ff]	F
-16ff	.
-8ff	.
-8r	F
+[16ff	.
+16ff]	F major
+16ffJ	.
+8ffJ	.
+8r	F major
 8r	.
-8r	F
-16ff	.
-16gg	.
+8r	F major
+16ffLL	.
+16ggJJ	.
 =4	=4
-8ee-	F7
-16dd	.
-16cc[	.
-16cc]	F7
-16dd	.
-8ee-	.
-8r	F7
+8ee-L	F dominant
+16ddL	.
+[16cc	.
+16cc]	F dominant
+16ddJ	.
+8ee-J	.
+8r	F dominant
 8r	.
-8r	F7
+8r	F dominant
 8r	.
 =5	=5
-8b-	E-add(6,7)
-16b-	.
-16ee-[	.
-16ee-]	E-add(6,7)
-16ee-[	.
+8b-L	E- other-6,7
+16b-L	.
+[16ee-	.
+16ee-]	E- other-6,7
+[16ee-	.
 16ee-]	.
-16ee-	.
-16b-	E-
-16b-[	.
-16b-]	.
+16ee-JJ	.
+16b-LL	E- major
+[16b-	.
+16b-JJ]	.
 16r	.
-8g[	E-
-8g]	.
+[8gL	E- major
+8gJ]	.
 =6	=6
-8r	B-
-16a	.
-16g	.
-8f[	B-
-8f]	.
-8r	B-
+8r	B- major
+16aLL	.
+16gJ	.
+[8f	B- major
+8fJ]	.
+8r	B- major
 8r	.
-8r	B-
+8r	B- major
 8r	.
 ==	==
 *-	*-

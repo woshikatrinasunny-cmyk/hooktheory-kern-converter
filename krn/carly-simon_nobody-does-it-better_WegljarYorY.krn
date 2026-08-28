@@ -16,22 +16,22 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.ff	F/C
-16cc	F7/C
-16a	.
-16bn	Ddim
+4.ff	F major/C
+16ccLL	F dominant/C
+16aJJ	.
+16bnLL	D diminished
 16a-	.
 16f	.
 16bn	.
-16b-	D-dim
+16b-	D- diminished
 16g	.
 16e	.
-16b-	.
+16b-JJ	.
 =2	=2
-4.a	F/C
-16dd	.
-16dd-	.
-4.cc	F7
+4.a	F major/C
+16ddLL	.
+16dd-JJ	.
+4.cc	F dominant
 8a	.
 ==	==
 *-	*-

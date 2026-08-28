@@ -16,90 +16,90 @@
 *C:	*
 *M6/4	*
 =1	=1
-4gg	Fsus2
+4gg	F suspended-second
 2..r	.
 8cc	.
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 =2	=2
-4gg	Cadd(2,4,7)/E
+4gg	C other-2,4,7/E
 2.r	.
 4b	.
 4cc	.
 =3	=3
-4gg	Fsus2
+4gg	F suspended-second
 1r	.
 8r	.
 8bb	.
 =4	=4
-4gg	Cadd(2,4,7)/E
+4gg	C other-2,4,7/E
 2.r	.
 4b	.
 4cc	.
 =5	=5
-4gg	Fsus2
+4gg	F suspended-second
 2..r	.
 8cc	.
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 =6	=6
-4gg	Cadd(2,4,7)/E
+4gg	C other-2,4,7/E
 2.r	.
 4b	.
 4cc	.
 =7	=7
-4gg	Fmaj7sus2
+4gg	F major-seventh-suspended-second
 1r	.
 8r	.
 8bb	.
 =8	=8
-4gg	Cadd(2,4,7)/E
+4gg	C other-2,4,7/E
 2.r	.
 4b	.
 4cc	.
 =9	=9
-4gg	Fsus2
+4gg	F suspended-second
 2..r	.
 8cc	.
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 =10	=10
-4gg	Cadd(2,4,7)/E
+4gg	C other-2,4,7/E
 2.r	.
 4b	.
 4cc	.
 =11	=11
-4gg	Fadd(2,7,9)
+4gg	F other-2,7,9
 1r	.
 8r	.
 8bb	.
 =12	=12
-4gg	Cadd(2,4,7)/E
+4gg	C other-2,4,7/E
 2.r	.
 4b	.
 4cc	.
 =13	=13
-4gg	Fsus2
+4gg	F suspended-second
 2r	.
-4ff	E7
+4ff	E dominant
 4.ee	.
 8dd	.
 =14	=14
-2.ee	Aadd(2,3,7)
+2.ee	A other-2,3,7
 16r	.
 2r	.
 16r	.
-16cc	.
-16dd	.
+16ccLL	.
+16ddJJ	.
 =15	=15
-4ee	D9
+4ee	D dominant-ninth
 2r	.
-4dd	D7
+4dd	D dominant
 4r	.
 4a	.
 =16	=16
-2.cc	Dm7/C
-2b	G9
+2.cc	D minor-seventh/C
+2b	G dominant-ninth
 4g	.
 ==	==
 *-	*-

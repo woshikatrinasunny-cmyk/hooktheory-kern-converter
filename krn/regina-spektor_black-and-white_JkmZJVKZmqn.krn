@@ -16,35 +16,35 @@
 *C:	*
 *M4/4	*
 =1	=1
-2r	F
+2r	F major
 4.cc	.
 8cc	.
 =2	=2
-2g	Cadd(2,4,7)/E
+2g	C other-2,4,7/E
 2r	.
 =3	=3
-2r	Am
-4cc	Em/G
-8b	.
-8a	.
+2r	A minor
+4cc	E minor/G
+8bL	.
+8aJ	.
 =4	=4
-4.a	F
+4.a	F major
 8c	.
 2c	.
 =5	=5
-2r	Dm
-4.dd	Am/C
+2r	D minor
+4.dd	A minor/C
 8dd	.
 =6	=6
-2.dd[	G/B
-4dd]	Am11
+[2.dd	G major/B
+4dd]	A minor-11th
 =7	=7
-2r	G7
-4dd	G7/D
-8cc	.
-8b	.
+2r	G dominant
+4dd	G dominant/D
+8ccL	.
+8bJ	.
 =8	=8
-4.b	G7
+4.b	G dominant
 8g	.
 2g	.
 ==	==

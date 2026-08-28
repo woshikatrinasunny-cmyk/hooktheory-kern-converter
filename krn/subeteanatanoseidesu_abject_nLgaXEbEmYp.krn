@@ -16,62 +16,62 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4cc#	C#m
+4cc#	C# minor
 8r	.
 8b	.
-8g#	Amaj7
+8g#L	A major-seventh
 8f#	.
 8g#	.
-8cc#	.
+8cc#J	.
 =2	=2
-4.dd#	G#m7
-8b	G#/C
-8g#	C#m7
+4.dd#	G# minor-seventh
+8b	G# major/C
+8g#L	C# minor-seventh
 8e	.
 8e	.
-8f#	.
+8f#J	.
 =3	=3
-4g#	F#m7
+4g#	F# minor-seventh
 8r	.
 8c#	.
-8cc#	C#m7/B
+8cc#L	C# minor-seventh/B
 8b	.
-8g#	B7
-8f#	.
+8g#	B dominant
+8f#J	.
 =4	=4
-4.g#	Emaj7
+4.g#	E major-seventh
 8r	.
-8r	G#add(3,4,7,10)
-8e	.
-8g#	G#add(3,4,7,10)/C
-8b	.
+8r	G# other-3,4,7,10
+8eL	.
+8g#	G# other-3,4,7,10/C
+8bJ	.
 =5	=5
-4.cc#	Amaj7
+4.cc#	A major-seventh
 8b	.
-8g#	Am
+8g#L	A minor
 8f#	.
 8g#	.
-8ee	.
+8eeJ	.
 =6	=6
-4.dd#	G#m7
+4.dd#	G# minor-seventh
 8b	.
-8g#	C#m7
+8g#L	C# minor-seventh
 8e	.
 8e	.
-8f#	.
+8f#J	.
 =7	=7
-4g#	F#m7
+4g#	F# minor-seventh
 8r	.
 8c#	.
-8b	Badd(1,4,7,10)
+8bL	B other-1,4,7,10
 8g#	.
 8f#	.
-8e	.
+8eJ	.
 =8	=8
-4.e	E
+4.e	E major
 4r	.
-8e	.
-8g#	G#add(3,4,7,10)
-8b	.
+8eL	.
+8g#	G# other-3,4,7,10
+8bJ	.
 ==	==
 *-	*-

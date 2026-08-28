@@ -16,13 +16,13 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	G
+4r	G major
+8gL	.
+8gJ	.
+8gL	.
 8g	.
 8g	.
-8g	.
-8g	.
-8g	.
-8g	.
+8gJ	.
 =2	=2
 4g	.
 8g	.
@@ -30,27 +30,27 @@
 4g	.
 8g	.
 =3	=3
-8g	.
-8g	.
+8gL	.
+8gJ	.
 2g	.
-8d	.
-8d	.
+8dL	.
+8dJ	.
 =4	=4
-8d	.
-8d	.
+8dL	.
+8dJ	.
 4d	.
-8d	D
+8dL	D major
 8e	.
-8e	.
+8eJ	.
 8r	.
 =5	=5
-8r	C
-8G	.
-8G	.
+8r	C major
+8GL	.
+8GJ	.
 4g	.
+8eL	.
 8e	.
-8e	.
-8d	.
+8dJ	.
 =6	=6
 4d	.
 4e	.
@@ -59,14 +59,14 @@
 =7	=7
 4.r	.
 8g	.
+8eL	.
 8e	.
 8e	.
-8e	.
-8d	.
+8dJ	.
 =8	=8
 4d	.
 4e	.
-4G	D
+4G	D major
 4G	.
 ==	==
 *-	*-

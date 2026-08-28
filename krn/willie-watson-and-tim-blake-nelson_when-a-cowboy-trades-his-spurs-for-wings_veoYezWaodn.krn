@@ -16,68 +16,68 @@
 *C:	*
 *M3/4	*
 =1	=1
-4.G	G
+4.G	G major
 4.A	.
 =2	=2
 8B	.
 4.A	.
-8A	.
-8A	.
+8AL	.
+8AJ	.
 =3	=3
-8A	F
+8A	F major
 4.G	.
-8G	.
-8G[	.
+8GL	.
+[8GJ	.
 =4	=4
-4G]	C
+4G]	C major
 4r	.
-8G	.
-8G	.
+8GL	.
+8GJ	.
 =5	=5
-4.G	G
+4.G	G major
 4.A	.
 =6	=6
 8B	.
 4.A	.
-8A	.
-8A	.
+8AL	.
+8AJ	.
 =7	=7
-8A	F
+8A	F major
 4G	.
 4.E	.
 =8	=8
-8E	G
+8E	G major
 4.D	.
 4r	.
 =9	=9
 4r	.
-4r	F/A
-8G	G/B
-8G	.
+4r	F major/A
+8GL	G major/B
+8GJ	.
 =10	=10
-4.G	C
+4.G	C major
 4.A	.
 =11	=11
-8G	C/G
-8E	.
+8GL	C major/G
+8EJ	.
 4r	.
-8E	.
-8D	.
+8EL	.
+8DJ	.
 =12	=12
-4C	C
-8E	.
-8G[	.
-4G]	C/G
+4C	C major
+8EL	.
+[8GJ	.
+4G]	C major/G
 =13	=13
-8G	F
-3...A[	.
+8G	F major
+[3...A	.
 =14	=14
 4A]	.
 4r	.
-8G	.
-8G	.
+8GL	.
+8GJ	.
 =15	=15
-8G	C
+8G	C major
 4.c	.
 4G	.
 =16	=16
@@ -85,21 +85,21 @@
 4.F	.
 4D	.
 =17	=17
-8D	G
+8D	G major
 4.E	.
 4C	.
 =18	=18
-2C	C
+2C	C major
 4r	.
 =19	=19
 4r	.
-4r	Cadd(2,4,5,7)
-4r	C/G
+4r	C other-2,4,5,7
+4r	C major/G
 =20	=20
-2.r	F/A
+2.r	F major/A
 =21	=21
 2r	.
-8G	.
-8G	.
+8GL	.
+8GJ	.
 ==	==
 *-	*-

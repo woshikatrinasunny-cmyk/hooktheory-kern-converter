@@ -16,59 +16,59 @@
 *G:	*
 *M4/4	*
 =1	=1
-8r	Am
+8r	A minor
 4a	.
-4a	Aadd(2,3,7)
+4a	A other-2,3,7
 4a	.
 8a	.
 =2	=2
-8r	Em
-8g	.
+8r	E minor
+8gL	.
 8a	.
-8g	Eadd(2,3,7)
-8.b	.
+8gJ	E other-2,3,7
+8.bL	.
 8.g	.
-8e[	.
+[8eJ	.
 =3	=3
-8e]	C
+8e]	C major
 8r	.
-8a	.
-8g	Cadd(2,4,7)
-8.b	.
+8aL	.
+8gJ	C other-2,4,7
+8.bL	.
 8.g	.
-8e	.
+8eJ	.
 =4	=4
-4.d	Gadd(2,5,7)
-4d	G
+4.d	G other-2,5,7
+4d	G major
 8g	.
 4f#	.
 =5	=5
-8r	Am
+8r	A minor
 4a	.
-4a	Aadd(2,3,7)
+4a	A other-2,3,7
 4a	.
 8a	.
 =6	=6
-8r	Em
-8g	.
+8r	E minor
+8gL	.
 8a	.
-8g	.
-8.b	E7sus2/D
+8gJ	.
+8.bL	E dominant-seventh-suspended-second/D
 8.g	.
-8e[	.
+[8eJ	.
 =7	=7
-4.e]	C
-4r	Cadd(2,4,7)
-8g	.
+4.e]	C major
+4r	C other-2,4,7
+8gL	.
 8a	.
-8g	.
+8gJ	.
 =8	=8
-8a	Gadd(2,5,7)
+8aL	G other-2,5,7
 8g	.
 8a	.
-8g	G
-8.b	.
+8gJ	G major
+8.bL	.
 8.g	.
-8f#	.
+8f#J	.
 ==	==
 *-	*-

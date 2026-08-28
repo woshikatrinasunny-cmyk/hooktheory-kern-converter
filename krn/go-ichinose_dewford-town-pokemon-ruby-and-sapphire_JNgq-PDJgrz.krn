@@ -16,7 +16,7 @@
 *D:	*
 *M6/4	*
 =1	=1
-2.aa	A7
+2.aa	A dominant
 2.gg	.
 =2	=2
 2.ee	.
@@ -30,102 +30,102 @@
 4c#	.
 4e	.
 =5	=5
-1g[	G/D
+[1g	G major/D
 4g]	.
-4f#	D/A
+4f#	D major/A
 =6	=6
-2.f#	D
-2r	Dadd(2,5,7)
-4r	D/A
+2.f#	D major
+2r	D other-2,5,7
+4r	D major/A
 =7	=7
-1r	D
+1r	D major
 8e	.
 8r	.
-8f#	D/A
+8f#	D major/A
 8r	.
 =8	=8
-8a	D
+8a	D major
 8r	.
-16g	.
-16a	.
-8g	.
+16gLL	.
+16aJ	.
+8gJ	.
 8f#	.
 8r	.
-8e	F#m7/C#
+8e	F# minor-seventh/C#
 8r	.
 8f#	.
 8r	.
 8c#	.
 8r	.
 =9	=9
-1e[	Em/B
+[1e	E minor/B
 4e]	.
-8d	D/F#
+8d	D major/F#
 8r	.
 =10	=10
-2.d	Bm
-2r	Badd(2,5,7)
-4r	F#7sus4
+2.d	B minor
+2r	B other-2,5,7
+4r	F# dominant-seventh-suspended-fourth
 =11	=11
-1r	Bm
+1r	B minor
 8B	.
 8r	.
-8c#	D/F#
+8c#	D major/F#
 16r	.
 16g	.
 =12	=12
-8f#	Bm7
+8f#	B minor-seventh
 8r	.
 8e	.
 8r	.
 8d	.
 8r	.
-8B	Bm7/A
+8B	B minor-seventh/A
 8r	.
 8c#	.
 8r	.
 8d	.
 8r	.
 =13	=13
-1a[	Gadd(2,4,7)
-8.a]	.
-16b	.
-8a	G/D
+[1a	G other-2,4,7
+8.aL]	.
+16bJk	.
+8a	G major/D
 8r	.
 =14	=14
-2.g	G
-2r	Gadd(2,6,7)
-4r	Dmaj7sus4
+2.g	G major
+2r	G other-2,6,7
+4r	D major-seventh-suspended-fourth
 =15	=15
-1r	G
+1r	G major
 8c#	.
 8r	.
-8d	G/D
+8d	G major/D
 8r	.
 =16	=16
-8b	G
+8b	G major
 8r	.
-16a	.
-16b	.
-8a	.
+16aLL	.
+16bJ	.
+8aJ	.
 8g	.
 8r	.
 8f#	.
 8r	.
 8g	.
 8r	.
-8d	G/D
+8d	G major/D
 8r	.
 =17	=17
-1e[	A7
+[1e	A dominant
 4e_	.
-4e_	A7/E
+4e_	A dominant/E
 =18	=18
-1e_	A7
+1e_	A dominant
 4e_	.
-4e]	A7/E
+4e]	A dominant/E
 =19	=19
-4a	A
+4a	A major
 1r	.
 4r	.
 ==	==

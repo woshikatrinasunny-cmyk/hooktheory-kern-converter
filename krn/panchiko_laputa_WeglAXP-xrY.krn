@@ -16,54 +16,54 @@
 *C:	*
 *M4/4	*
 =1	=1
-4c	C
-8d	.
-8d	.
+4c	C major
+8dL	.
+8dJ	.
 4c	.
-8c	.
-8c[	.
+8cL	.
+[8cJ	.
 =2	=2
-4c]	Cmaj7/B
-8d	.
-8d	.
+4c]	C major-seventh/B
+8dL	.
+8dJ	.
 4.c	.
 8c	.
 =3	=3
-4B	Am
-8c	.
-8B[	.
-4B]	Aadd(2,3,7)
-8B	.
-8B[	.
+4B	A minor
+8cL	.
+[8BJ	.
+4B]	A other-2,3,7
+8BL	.
+[8BJ	.
 =4	=4
-4B]	F
-8c	.
-8c	.
-2B	Fm
+4B]	F major
+8cL	.
+8cJ	.
+2B	F minor
 =5	=5
-4c	C
+4c	C major
 4d	.
 8d	.
 4c	.
 8c	.
 =6	=6
-4c	Cmaj7/B
-8d	.
-8d	.
+4c	C major-seventh/B
+8dL	.
+8dJ	.
 4c	.
-8c	.
-8B[	.
+8cL	.
+[8BJ	.
 =7	=7
-4B]	Am
-8c	.
-8c	.
-4B	Aadd(2,3,7)
-8B	.
-8B[	.
+4B]	A minor
+8cL	.
+8cJ	.
+4B	A other-2,3,7
+8BL	.
+[8BJ	.
 =8	=8
-4B]	F
-8c	.
-8c	.
-2B	Fm
+4B]	F major
+8cL	.
+8cJ	.
+2B	F minor
 ==	==
 *-	*-

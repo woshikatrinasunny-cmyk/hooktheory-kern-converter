@@ -16,31 +16,31 @@
 *B:	*
 *M6/4	*
 =1	=1
-2.r	B
+2.r	B major
 2f#	.
 4d#	.
 =2	=2
-2.f#	Eadd(2,4,7)
+2.f#	E other-2,4,7
 2.g#	.
 =3	=3
-2.r	G#m
+2.r	G# minor
 2g#	.
 4f#	.
 =4	=4
-2.d#	D#
+2.d#	D# major
 2.c#	.
 =5	=5
-2.B	E
+2.B	E major
 2.r	.
 =6	=6
 1r	.
 4r	.
 4F#	.
 =7	=7
-1.c#	F#
+1.c#	F# major
 =8	=8
-2.B	G
-2c#	A
+2.B	G major
+2c#	A major
 4d#	.
 ==	==
 *-	*-

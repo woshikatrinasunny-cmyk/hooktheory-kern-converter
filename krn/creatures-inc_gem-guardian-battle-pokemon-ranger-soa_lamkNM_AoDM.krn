@@ -16,158 +16,158 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8.G#	C#sus2
-16G#	.
+8.G#L	C# suspended-second
+16G#Jk	.
 3...d#	.
 8r	.
 =2	=2
-8.c#	C#sus2
-16c#	.
+8.c#L	C# suspended-second
+16c#Jk	.
 2g#	.
 4e	.
 =3	=3
-4.f#	G#7sus2
+4.f#	G# dominant-seventh-suspended-second
 8B	.
 2B	.
 =4	=4
-2r	G#7sus2
-2r	G#7sus2/F#
+2r	G# dominant-seventh-suspended-second
+2r	G# dominant-seventh-suspended-second/F#
 =5	=5
 *k[f#c#]	*
 *e:	*
-8.B	Esus2
-16B	.
+8.BL	E suspended-second
+16BJk	.
 3...f#	.
 8r	.
 =6	=6
-8.e	Esus2
-16e	.
+8.eL	E suspended-second
+16eJk	.
 2b	.
 4g	.
 =7	=7
-4.a	B7sus2
+4.a	B dominant-seventh-suspended-second
 8d	.
 2d	.
 =8	=8
-2r	B7sus2
-2r	B7sus2/A
+2r	B dominant-seventh-suspended-second
+2r	B dominant-seventh-suspended-second/A
 =9	=9
 *k[f#c#]	*
 *b:	*
-4.cc#	G#m7b5
+4.cc#	G# half-diminished
 8b	.
 4.b	.
 8a#	.
 =10	=10
-4a#	G#m7b5
+4a#	G# half-diminished
 4b	.
 4cc#	.
 4b	.
 =11	=11
-4.dd	Gm
+4.dd	G minor
 8cc#	.
 4.cc#	.
 8ccn	.
 =12	=12
-4ccn	Gm
+4ccn	G minor
 4cc#	.
 4dd	.
 4cc#	.
 =13	=13
-4.ff#	D/F#
+4.ff#	D major/F#
 8a	.
 4.a	.
 8cc#	.
 =14	=14
-4cc#	Bm
+4cc#	B minor
 4b	.
-4cc#	Bm7/A
+4cc#	B minor-seventh/A
 4dd	.
 =15	=15
-4.a	Gmaj7
+4.a	G major-seventh
 8g	.
 4.g	.
 8f#	.
 =16	=16
-4f#	Edim7
+4f#	E diminished-seventh
 4e	.
 4d	.
 4c#	.
 =17	=17
 *k[b-e-a-]	*
 *f:	*
-8.c	Fm
-16c	.
+8.cL	F minor
+16cJk	.
 3...g	.
 8r	.
 =18	=18
-8.f	Fm
-16f	.
+8.fL	F minor
+16fJk	.
 2cc	.
 4a-	.
 =19	=19
-4.b-	Cm7
+4.b-	C minor-seventh
 8e-	.
 2e-	.
 =20	=20
-2r	Cm7
-2r	Cm7/B-
+2r	C minor-seventh
+2r	C minor-seventh/B-
 =21	=21
 *k[f#c#g#d#a#e#]	*
 *g#:	*
-8.d#	G#m
-16d#	.
+8.d#L	G# minor
+16d#Jk	.
 3...a#	.
 8r	.
 =22	=22
-8.g#	G#m
-16g#	.
+8.g#L	G# minor
+16g#Jk	.
 2dd#	.
 4b	.
 =23	=23
-4.cc#	D#m7
+4.cc#	D# minor-seventh
 8f#	.
 2f#	.
 =24	=24
-2r	D#m7
-2r	D#m7/C#
+2r	D# minor-seventh
+2r	D# minor-seventh/C#
 =25	=25
 *k[f#c#g#d#a#e#]	*
 *B:	*
-8.b	B
-16b	.
+8.bL	B major
+16bJk	.
 2.ff#	.
 =26	=26
-8.dd#	B
-16dd#	.
+8.dd#L	B major
+16dd#Jk	.
 2aa#	.
 4ff#	.
 =27	=27
-4.gg#	C#
+4.gg#	C# major
 8cc#	.
 2cc#	.
 =28	=28
-1r	C#
+1r	C# major
 =29	=29
 *k[f#c#g#]	*
 *E:	*
-8.dd	D
-16dd	.
-2aa[	.
-8aa_	D
-8aa]	C#m
+8.ddL	D major
+16ddJk	.
+[2aa	.
+8aaL_	D major
+8aaJ]	C# minor
 =30	=30
-8.ff#	Bm7
-16ff#	.
+8.ff#L	B minor-seventh
+16ff#Jk	.
 2ccc#	.
-8aa[	Bm7
-8aa]	Bm7
+[8aaL	B minor-seventh
+8aaJ]	B minor-seventh
 =31	=31
-4.bb	E
+4.bb	E major
 8ee	.
 2ee	.
 =32	=32
-1r	E
+1r	E major
 *k[f#c#g#d#a#e#]	*
 *B:	*
 ==	==

@@ -16,60 +16,60 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8r	D-add(2,4,7)
+8r	D- other-2,4,7
+8ee-L	.
 8ee-	.
-8ee-	.
-8ee-	.
-8ee-	.
+8ee-J	.
+8ee-L	.
 8dd-	.
 8cc	.
-8dd-	.
+8dd-J	.
 =2	=2
-4ee-	E-7/D-
+4ee-	E- dominant/D-
 4gg	.
 4ee-	.
 4r	.
 =3	=3
-8r	Cm7
+8r	C minor-seventh
+8ee-L	.
 8ee-	.
-8ee-	.
-8ee-	.
-8ee-	.
+8ee-J	.
+8ee-L	.
 8dd-	.
 8cc	.
-8dd-	.
+8dd-J	.
 =4	=4
-2ee-	F7/C
+2ee-	F dominant/C
 4.r	.
-16f	.
-16b-	.
+16fLL	.
+16b-JJ	.
 =5	=5
-8cc	B-m7
+8ccL	B- minor-seventh
 8cc	.
 8cc	.
-8cc	.
-8cc	.
+8ccJ	.
+8ccL	.
 8b-	.
 8a-	.
-8f	.
+8fJ	.
 =6	=6
-8r	Cm7
+8r	C minor-seventh
+8ccL	.
 8cc	.
-8cc	.
-8cc	.
-8cc	.
+8ccJ	.
+8ccL	.
 8b-	.
 8cc	.
-8ee-	.
+8ee-J	.
 =7	=7
-2ff	D-maj7
+2ff	D- major-seventh
 8r	.
 8r	.
-8cc	.
-8a-	.
+8ccL	.
+8a-J	.
 =8	=8
-2b-[	E-
-4b-_	E-aug
-4b-]	E-add(2,4,7)
+[2b-	E- major
+4b-_	E- augmented
+4b-]	E- other-2,4,7
 ==	==
 *-	*-

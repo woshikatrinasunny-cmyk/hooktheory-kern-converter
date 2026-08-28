@@ -16,42 +16,42 @@
 *C:	*
 *M4/4	*
 =1	=1
-4d[	.
-8d_	G
-8d_	Am
-8d_	C
-8d_	Am
-8d_	G
-8d]	Am
+[4d	.
+8dL_	G major
+8dJ_	A minor
+8dL_	C major
+8d_	A minor
+8d_	G major
+8dJ]	A minor
 =2	=2
-2..c[	C
-8c]	G
+[2..c	C major
+8c]	G major
 =3	=3
-8r	Am
-8r	Am
+8r	A minor
+8r	A minor
 2.r	.
 =4	=4
 1r	.
 =5	=5
-4d[	Dm
-8d_	G
-8d_	Am
-8d_	C
-8d_	Dm
-8d_	Em
-8d]	G
+[4d	D minor
+8dL_	G major
+8dJ_	A minor
+8dL_	C major
+8d_	D minor
+8d_	E minor
+8dJ]	G major
 =6	=6
-2e[	C
-4.e_	C/G
-16e]	G
+[2e	C major
+4.e_	C major/G
+16e]	G major
 16r	.
 =7	=7
-8r	Am
-8r	Am
+8r	A minor
+8r	A minor
 2.r	.
 =8	=8
 2r	.
-8r	Am
-4.r	Am
+8r	A minor
+4.r	A minor
 ==	==
 *-	*-

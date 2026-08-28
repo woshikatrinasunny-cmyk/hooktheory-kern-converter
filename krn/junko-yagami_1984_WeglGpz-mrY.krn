@@ -16,35 +16,35 @@
 *c:	*
 *M4/4	*
 =1	=1
-8g	Cm9
-16f	.
+8gL	C minor-ninth
+16fk	.
 8e-	.
-16f	.
+16fJk	.
 4g	.
 4.r	.
 =2	=2
-8d	Gm7
-16c	.
+8dL	G minor-seventh
+16ck	.
 8B-	.
-16c	.
+16cJk	.
 4d	.
-8.r	Gm7
-8.r	G-m7
+8.r	G minor-seventh
+8.r	G- minor-seventh
 =3	=3
-8r	Fm7
+8r	F minor-seventh
+8e-L	.
 8e-	.
-8e-	.
-16f	.
+16fJk	.
 8.g	.
-8f	.
+8fL	.
 8e-	.
-8d	.
+8dJ	.
 =4	=4
-4c	A-add(2,4,7)
-8g	.
-8f[	.
-4.f_	B-
-16f]	Bdim
+4c	A- other-2,4,7
+8gL	.
+[8fJ	.
+4.f_	B- major
+16f]	B diminished
 16r	.
 ==	==
 *-	*-

@@ -16,80 +16,80 @@
 *e:	*
 *M4/4	*
 =1	=1
-1b[	Em
+[1b	E minor
 =2	=2
-2b]	C/E
+2b]	C major/E
 4.cc	.
 8b	.
 =3	=3
-1b[	F#m7
+[1b	F# minor-seventh
 =4	=4
-2b]	B7
+2b]	B dominant
 4.cc	.
 8b	.
 =5	=5
-1b[	Fadd(2,6,7,10)
+[1b	F other-2,6,7,10
 =6	=6
-2b]	E7
+2b]	E dominant
 4.cc	.
 8b	.
 =7	=7
-1b[	Aadd(2,5,7,9,10)
+[1b	A other-2,5,7,9,10
 =8	=8
-2b]	Aadd(2,4,7,9,10)
+2b]	A other-2,4,7,9,10
 4.a#	.
 8g	.
 =9	=9
-1a[	Am7
+[1a	A minor-seventh
 =10	=10
-2a]	D7
+2a]	D dominant
 4.b	.
 8a	.
 =11	=11
-2..a[	F#m7b5
-8a_	B7
+[2..a	F# half-diminished
+8a_	B dominant
 =12	=12
 2a]	.
-8b[	.
-4.b]	Badd(1,4,7,10)
+[8b	.
+4.b]	B other-1,4,7,10
 =13	=13
-1a[	Dm9
+[1a	D minor-ninth
 =14	=14
 3...a]	.
 4b	.
 8a	.
 =15	=15
-1a[	.
+[1a	.
 =16	=16
-2a]	Gadd(2,4,7,9,10)
-2g#	Gadd(1,4,7)/B
+2a]	G other-2,4,7,9,10
+2g#	G other-1,4,7/B
 =17	=17
-4.r	Cmaj9
-8r	Aadd(3,5,7)/C
+4.r	C major-ninth
+8r	A other-3,5,7/C
 4a	.
 4b	.
 =18	=18
 4dd	.
 4cc	.
 4e	.
-8a	.
-8f#[	.
+8aL	.
+[8f#J	.
 =19	=19
-1f#]	Badd(3,4,7,10)
+1f#]	B other-3,4,7,10
 =20	=20
-4.r	C9
+4.r	C dominant-ninth
 8f#	.
 6a	.
 6g#	.
 6g	.
 =21	=21
-1f#	Badd(3,4,7,10)
+1f#	B other-3,4,7,10
 =22	=22
-2r	Cadd(3,4,7,10)
+2r	C other-3,4,7,10
 4.a	.
 8g	.
 =23	=23
-4g	Badd(4,7,8,10)
+4g	B other-4,7,8,10
 4f#	.
 4c	.
 4B	.

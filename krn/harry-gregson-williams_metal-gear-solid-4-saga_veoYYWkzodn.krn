@@ -16,43 +16,43 @@
 *d:	*
 *M4/4	*
 =1	=1
-4r	Dm
-8d	.
-8e	.
+4r	D minor
+8dL	.
+8eJ	.
 4f	.
-8A	.
-8f	.
+8AL	.
+8fJ	.
 =2	=2
-2f	B-
-2e	B-add(6,7)
+2f	B- major
+2e	B- other-6,7
 =3	=3
-4r	F
-8d	.
-8e	.
+4r	F major
+8dL	.
+8eJ	.
 4f	.
-8A	.
-8a	.
+8AL	.
+8aJ	.
 =4	=4
-2a	Gsus2
-2g	Gm
+2a	G suspended-second
+2g	G minor
 =5	=5
-4r	Dm/A
-8f	.
-8e	.
+4r	D minor/A
+8fL	.
+8eJ	.
 4d	.
-8f	.
-8a	.
+8fL	.
+8aJ	.
 =6	=6
-2dd	B-
+2dd	B- major
 2d	.
 =7	=7
-8.g	Edim
+8.gL	E diminished
 8.f	.
-8g	.
-4.a	Dm
+8gJ	.
+4.a	D minor
 8d	.
 =8	=8
-2d	Asus4
-2d-	A
+2d	A suspended-fourth
+2d-	A major
 ==	==
 *-	*-

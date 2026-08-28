@@ -16,128 +16,128 @@
 *a:	*
 *M12/8	*
 =1	=1
-4.aa	Am
-8cc	.
+4.aa	A minor
+8ccL	.
 8dd	.
-8dd#	.
+8dd#J	.
 4.ee	.
-8ccc	.
+8cccL	.
 8bb	.
-8ccc	.
+8cccJ	.
 =2	=2
-1aa[	F/A
+[1aa	F major/A
 4.aa]	.
 8r	.
 =3	=3
-4.r	D/A
-8ddd	.
+4.r	D major/A
+8dddL	.
 8ccc	.
-8bb	.
+8bbJ	.
 2.ccc	.
 =4	=4
-8ddd	F
+8dddL	F major
 8ccc	.
+8bbJ	.
+8cccL	.
 8bb	.
-8ccc	.
-8bb	.
-8aa	.
-4bb	G
+8aaJ	.
+4bb	G major
 8ccc	.
 4r	.
-8aa[	Am
+[8aa	A minor
 =5	=5
 4.aa]	.
-8cc	.
+8ccL	.
 8dd	.
-8dd#	.
+8dd#J	.
 4.ee	.
-8ccc	.
+8cccL	.
 8bb	.
-8ccc	.
+8cccJ	.
 =6	=6
-4bb	D
-1aa[	.
+4bb	D major
+[1aa	.
 8aa]	.
 8r	.
 =7	=7
-8ddd	F
+8dddL	F major
 8ccc	.
+8bbJ	.
+8cccL	.
 8bb	.
-8ccc	.
-8bb	.
-8aa	.
+8aaJ	.
 4bb	.
 8ccc	.
 4r	.
-8bb[	G
+[8bb	G major
 =8	=8
 4.bb]	.
 4aa	.
-2.gg#	E7/G#
+2.gg#	E dominant/G#
 8r	.
 =9	=9
-4.aa	Am
-8cc	.
+4.aa	A minor
+8ccL	.
 8dd	.
-8dd#	.
+8dd#J	.
 4.ee	.
-8ccc	.
+8cccL	.
 8bb	.
-8ccc	.
+8cccJ	.
 =10	=10
-1aa[	F/A
+[1aa	F major/A
 4.aa]	.
 8r	.
 =11	=11
-4.r	D/A
-8ddd	.
+4.r	D major/A
+8dddL	.
 8ccc	.
-8bb	.
+8bbJ	.
 2.ccc	.
 =12	=12
-8ddd	F
+8dddL	F major
 8ccc	.
+8bbJ	.
+8cccL	.
 8bb	.
-8ccc	.
-8bb	.
-8aa	.
-4bb	G
+8aaJ	.
+4bb	G major
 8ccc	.
 4r	.
-8aa[	Am
+[8aa	A minor
 =13	=13
 4.aa]	.
-8ee	.
+8eeL	.
 8gg	.
-8gg#	.
+8gg#J	.
 4.aa	.
-8ccc	.
+8cccL	.
 8bb	.
-8ccc	.
+8cccJ	.
 =14	=14
-4.ddd	D
+4.ddd	D major
 4eee	.
 2.aa	.
 8r	.
 =15	=15
-8ccc	F
+8cccL	F major
 8bb	.
+8aaJ	.
+8bbL	.
 8aa	.
-8bb	.
-8aa	.
+8ggJ	.
+8aaL	G major
 8gg	.
-8aa	G
-8gg	.
+8eeJ	.
+8ddL	.
 8ee	.
-8dd	.
-8ee	.
-8gg	.
+8ggJ	.
 =16	=16
-4gg#	Eaug/G#
-8ccc	Eaug/C
+4gg#	E augmented/G#
+8ccc	E augmented/C
 8r	.
 8r	.
-2.aa	Am
+2.aa	A minor
 8r	.
 ==	==
 *-	*-

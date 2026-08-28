@@ -16,60 +16,60 @@
 *f:	*
 *M4/4	*
 =1	=1
-8.ff	D-
+8.ffL	D- major
+8.ffJ	.
 8.ff	.
-8.ff	.
-8.ff	.
-8.ff	D-add(6,7)
-16ff[	.
+8.ffL	.
+8.ff	D- other-6,7
+[16ffJk	.
 =2	=2
-8ff]	.
+8ffL]	.
 8ee-	.
-8.aa-	D-
+8.aa-J	D- major
 8.gg	.
-8.ee-	.
-8.cc	D-/A-
+8.ee-L	.
+8.ccJ	D- major/A-
 =3	=3
-8.ff	E-11
-8.ee-	Fm7
+8.ffL	E- dominant-11th
+8.ee-J	F minor-seventh
 8.ee-	.
-8.cc	.
-8.b-	E-add(2,4,7)/G
-16b-[	.
+8.ccL	.
+8.b-	E- other-2,4,7/G
+[16b-Jk	.
 =4	=4
-8b-]	.
+8b-L]	.
 8cc	.
-8.aa-	E-
+8.aa-J	E- major
 8.gg	.
-8.ee-	.
-8.cc	E-/B-
+8.ee-L	.
+8.ccJ	E- major/B-
 =5	=5
-8.ff	D-
+8.ffL	D- major
+8.ffJ	.
 8.ff	.
-8.ff	.
-8.ff	.
-8.ff	D-add(6,7)
-16ff[	.
+8.ffL	.
+8.ff	D- other-6,7
+[16ffJk	.
 =6	=6
-8ff]	.
+8ffL]	.
 8ee-	.
-8.aa-	D-
+8.aa-J	D- major
 8.gg	.
-8.ee-	.
-8.cc	D-/A-
+8.ee-L	.
+8.ccJ	D- major/A-
 =7	=7
-8.ff	E-11
-8.ee-	Fm7
+8.ffL	E- dominant-11th
+8.ee-J	F minor-seventh
 8.ee-	.
-8.cc	.
-8.b-	E-add(2,4,7)/G
-16b-[	.
+8.ccL	.
+8.b-	E- other-2,4,7/G
+[16b-Jk	.
 =8	=8
-8b-]	.
+8b-L]	.
 8b-	.
-8.f	Fm
-8.a-	A-
-8.cc	A-/C
-8.ee-	A-/E-
+8.fJ	F minor
+8.a-	A- major
+8.ccL	A- major/C
+8.ee-J	A- major/E-
 ==	==
 *-	*-

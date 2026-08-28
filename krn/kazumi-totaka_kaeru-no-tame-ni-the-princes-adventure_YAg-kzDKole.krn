@@ -15,66 +15,66 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	Am7
+4r	A minor-seventh
 8.cc	.
 16r	.
-8cc	.
+8ccL	.
 8b	.
 8cc	.
-8dd[	.
+[8ddJ	.
 =2	=2
-16dd]	Gadd(2,4,7)/B
+16dd]	G other-2,4,7/B
 16r	.
 8.g	.
 16r	.
 4.g	.
 4r	.
 =3	=3
-4r	A7/C#
+4r	A dominant/C#
 8.ee	.
 16r	.
-8ee	.
+8eeL	.
 8dd	.
 8ee	.
-8ff#[	.
+[8ff#J	.
 =4	=4
-16ff#]	Bm/D
+16ff#]	B minor/D
 16r	.
 8.b	.
 16r	.
-8gg#[	.
-4gg#]	G#dim/D
+[8gg#	.
+4gg#]	G# diminished/D
 8r	.
 8ff#	.
 =5	=5
-8.ee	A/C#
+8.ee	A major/C#
 16r	.
-8bb	.
-8aa[	.
-8.aa]	F#m7
+8bbL	.
+[8aaJ	.
+8.aa]	F# minor-seventh
 16r	.
-8ccc#	.
-8ddd[	.
+8ccc#L	.
+[8dddJ	.
 =6	=6
-6...ddd]	Bm
+6...ddd]	B minor
 16r	.
-16ccc#	.
-16bb	.
-8.aa	E
+16ccc#LL	.
+16bbJJ	.
+8.aa	E major
 16r	.
 8.gg#	.
 16r	.
 =7	=7
-4aa	A7sus2
+4aa	A dominant-seventh-suspended-second
 8r	.
-16gg	.
-16ff#	.
-4aa	A7
+16ggLL	.
+16ff#JJ	.
+4aa	A dominant
 8r	.
-16gg	.
-16ff#	.
+16ggLL	.
+16ff#JJ	.
 =8	=8
-2aa[	D7sus2
-2aa]	D7
+[2aa	D dominant-seventh-suspended-second
+2aa]	D dominant
 ==	==
 *-	*-

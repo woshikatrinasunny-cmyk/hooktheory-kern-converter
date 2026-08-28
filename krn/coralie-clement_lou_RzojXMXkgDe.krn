@@ -16,21 +16,21 @@
 *G:	*
 *M4/4	*
 =1	=1
-2dd	Gadd(2,4,7)
-2dd	Em7
+2dd	G other-2,4,7
+2dd	E minor-seventh
 =2	=2
-8cc	Am7
+8ccL	A minor-seventh
 8dd	.
 8ee	.
-8cc	.
-2a	Dadd(1,4,7,10)
+8ccJ	.
+2a	D other-1,4,7,10
 =3	=3
-2b	Gadd(2,4,7)
-4a	Em7/B
-8g	D#m7/A#
-8a	.
+2b	G other-2,4,7
+4a	E minor-seventh/B
+8gL	D# minor-seventh/A#
+8aJ	.
 =4	=4
-2a	Am7
-2r	Dadd(1,4,7,10)
+2a	A minor-seventh
+2r	D other-1,4,7,10
 ==	==
 *-	*-

@@ -16,72 +16,72 @@
 *e:	*
 *M4/4	*
 =1	=1
-2.b	Em/G
+2.b	E minor/G
 4cc	.
 =2	=2
-2b[	F#add(3,5,6,10)
-4b]	Fadd(4,6,7,10)
-4cc	F7
+[2b	F# other-3,5,6,10
+4b]	F other-4,6,7,10
+4cc	F dominant
 =3	=3
-4b[	Fadd(3,6,7,10)
-4b_	Bdim7/F
-4b]	E7
-4cc	Eadd(4,7,8,10)
+[4b	F other-3,6,7,10
+4b_	B diminished-seventh/F
+4b]	E dominant
+4cc	E other-4,7,8,10
 =4	=4
-8.b	Em7
-16a#	.
-8a#	A#dim7/E
-32b	.
+8.bL	E minor-seventh
+16a#k	.
+8a#	A# diminished-seventh/E
+32bLL	.
 32a#	.
 32a	.
-32a#	.
-4gg	A#dim7/C#
-8.ff#	F#m7b5/C
-16ee	.
+32a#JJJ	.
+4gg	A# diminished-seventh/C#
+8.ff#L	F# half-diminished/C
+16eeJk	.
 =5	=5
-8ee	Badd(1,4,7,10)
+8eeL	B other-1,4,7,10
 8dd#	.
 8ccc	.
-8dd#	.
-8dd#	GaugMaj7
-8ee	Em/G
+8dd#J	.
+8dd#L	G augmented-major-seventh
+8ee	E minor/G
 8gg	.
-8b	.
+8bJ	.
 =6	=6
-8dd	Am
+8ddL	A minor
 8cc	.
-12ee	F#m7b5/A
+12ee	F# half-diminished/A
 12e	.
-12a	.
-4f#[	Bsus4
-8f#]	Am/C
-8a	.
+12aJ	.
+[4f#	B suspended-fourth
+8f#L]	A minor/C
+8aJ	.
 =7	=7
-2f#[	Bsus4
-4f#]	Am/C
-8b	.
-8a	.
+[2f#	B suspended-fourth
+4f#]	A minor/C
+8bL	.
+8aJ	.
 =8	=8
-2f#[	Bsus4
-4f#_	B
-8.f#]	B7
-16e	.
+[2f#	B suspended-fourth
+4f#_	B major
+8.f#L]	B dominant
+16eJk	.
 =9	=9
-2e[	C
-4e]	C7
-4f#	F#m7b5/C
+[2e	C major
+4e]	C dominant
+4f#	F# half-diminished/C
 =10	=10
-4e[	Esus4/B
-4e_	E/B
-4e]	Em/B
+[4e	E suspended-fourth/B
+4e_	E major/B
+4e]	E minor/B
 4f#	.
 =11	=11
-2e	C7/A#
+2e	C dominant/A#
 2r	.
 =12	=12
-2e	Bsus4
-2d#	B
+2e	B suspended-fourth
+2d#	B major
 =13	=13
-1e	Em
+1e	E minor
 ==	==
 *-	*-

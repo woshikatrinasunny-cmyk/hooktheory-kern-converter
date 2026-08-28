@@ -15,163 +15,163 @@
 *c:	*
 *M4/4	*
 =1	=1
-2ee-	Cm
-8dd	.
+2ee-	C minor
+8ddL	.
 8ee-	.
 8ff	.
-8gg	.
+8ggJ	.
 =2	=2
-4cc	A-
+4cc	A- major
 2gg	.
-8ff	.
-8ee-	.
+8ffL	.
+8ee-J	.
 =3	=3
-4ee-	B-
+4ee-	B- major
 4dd	.
 4cc	.
 4b-	.
 =4	=4
-4a-	G
+4a-	G major
 4g	.
 4ff	.
-8ee-	.
-8dd	.
+8ee-L	.
+8ddJ	.
 =5	=5
-4ee-	Fm7
-8dd	.
-8ee-	.
+4ee-	F minor-seventh
+8ddL	.
+8ee-J	.
 2cc	.
 =6	=6
-4r	G-dim
+4r	G- diminished
 4an	.
 4cc	.
 4gg-	.
 =7	=7
-4gg	Gadd(2,5,7)
+4gg	G other-2,5,7
 4an	.
 4cc	.
 4gg-	.
 =8	=8
-2gg	G
+2gg	G major
 4cc	.
 4dd	.
 =9	=9
-2ee-	Cm
-8dd	.
+2ee-	C minor
+8ddL	.
 8ee-	.
 8ff	.
-8gg	.
+8ggJ	.
 =10	=10
-4cc	A-
+4cc	A- major
 2gg	.
-8ff	.
-8ee-	.
+8ffL	.
+8ee-J	.
 =11	=11
-4ee-	B-
+4ee-	B- major
 4dd	.
 4cc	.
 4b-	.
 =12	=12
-4a-	G/B
+4a-	G major/B
 4g	.
-4ff	G
-8ee-	.
-8dd	.
+4ff	G major
+8ee-L	.
+8ddJ	.
 =13	=13
-8dd	Fm7
-8ee-	.
+8ddL	F minor-seventh
+8ee-J	.
 2cc	.
-8bn	.
-8cc	.
+8bnL	.
+8ccJ	.
 =14	=14
-8dd	A-maj7/G
-8ee-	.
-4cc[	.
-4cc]	G7
+8ddL	A- major-seventh/G
+8ee-J	.
+[4cc	.
+4cc]	G dominant
 4bn	.
 =15	=15
-2cc	A-
+2cc	A- major
 4r	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =16	=16
-2dd	B-
+2dd	B- major
 4ee-	.
 4ff	.
 =17	=17
-2ee-	Cm
-8dd	.
+2ee-	C minor
+8ddL	.
 8ee-	.
 8ff	.
-8gg	.
+8ggJ	.
 =18	=18
-4cc	A-
+4cc	A- major
 2gg	.
-8ff	.
-8ee-	.
+8ffL	.
+8ee-J	.
 =19	=19
-4ee-	B-
+4ee-	B- major
 4dd	.
 4cc	.
 4b-	.
 =20	=20
-4a-	G
+4a-	G major
 4g	.
 4dd	.
-8ee-	.
-8ff	.
+8ee-L	.
+8ffJ	.
 =21	=21
-2gg	Fm7
+2gg	F minor-seventh
 4ff	.
-4cc[	.
+[4cc	.
 =22	=22
-4cc]	G-dim
+4cc]	G- diminished
 4cc	.
 4dd	.
 4ee-	.
 =23	=23
-1ee-	Cm/G
+1ee-	C minor/G
 =24	=24
-1dd	G
+1dd	G major
 =25	=25
-2ee-	Cm
-8dd	.
+2ee-	C minor
+8ddL	.
 8ee-	.
 8ff	.
-8gg	.
+8ggJ	.
 =26	=26
-4cc	A-
+4cc	A- major
 2gg	.
-8ff	.
-8ee-	.
+8ffL	.
+8ee-J	.
 =27	=27
-4ee-	B-
+4ee-	B- major
 4dd	.
 4cc	.
 4b-	.
 =28	=28
-4a-	G
+4a-	G major
 4g	.
 4ff	.
-8ee-	.
-8dd	.
+8ee-L	.
+8ddJ	.
 =29	=29
-8dd	Fm7
-8ee-	.
+8ddL	F minor-seventh
+8ee-J	.
 2cc	.
 4cc	.
 =30	=30
-8dd	Cm/G
-8ee-	.
-4cc[	.
-4cc]	G7
+8ddL	C minor/G
+8ee-J	.
+[4cc	.
+4cc]	G dominant
 4bn	.
 =31	=31
-2cc	A-
+2cc	A- major
 2c	.
 =32	=32
-2d	B-
-4e-	Gm7
+2d	B- major
+4e-	G minor-seventh
 4f	.
 ==	==
 *-	*-

@@ -15,43 +15,43 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.g	C
+4.g	C major
 4f#	.
 4.a	.
 =2	=2
-4.g	D
+4.g	D major
 4.f#	.
-8d	.
-8f#	.
+8dL	.
+8f#J	.
 =3	=3
-4.g	Em
+4.g	E minor
 4.f#	.
-8a	.
-8f#[	.
+8aL	.
+[8f#J	.
 =4	=4
-4.f#]	Bm
+4.f#]	B minor
 4d	.
-8f#	.
+8f#L	.
 8g	.
-8a	.
+8aJ	.
 =5	=5
-4.b	C
+4.b	C major
 4.a	.
-8b	.
-8g[	.
+8bL	.
+[8gJ	.
 =6	=6
-4g]	D
+4g]	D major
 8a	.
 4.f#	.
-8d	.
-8f#	.
+8dL	.
+8f#J	.
 =7	=7
-2g	Em
-4dd	F#dim
-8cc	.
-8b[	.
+2g	E minor
+4dd	F# diminished
+8ccL	.
+[8bJ	.
 =8	=8
-4b]	G
+4b]	G major
 4a	.
 ==	==
 *-	*-

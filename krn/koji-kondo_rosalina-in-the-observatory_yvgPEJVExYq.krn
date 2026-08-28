@@ -16,42 +16,42 @@
 *D:	*
 *M3/4	*
 =1	=1
-8a	Gadd(2,4,7)
-8d	.
-8e	.
-8a	.
-8e	.
-8cc#	.
+8aL	G other-2,4,7
+8dJ	.
+8eL	.
+8aJ	.
+8eL	.
+8cc#J	.
 =2	=2
-4.a	D/F#
+4.a	D major/F#
 4.d	.
 =3	=3
-8a	Aadd(2,4,7)/E
-8d	.
-8e	.
-8a	.
-8e	.
-8cc#	.
+8aL	A other-2,4,7/E
+8dJ	.
+8eL	.
+8aJ	.
+8eL	.
+8cc#J	.
 =4	=4
-4a	D
+4a	D major
 8ee	.
 4cc#	.
 8r	.
 =5	=5
-8a	Gadd(2,4,7)
-8d	.
-8e	.
-8a	.
-8e	.
-8cc#	.
+8aL	G other-2,4,7
+8dJ	.
+8eL	.
+8aJ	.
+8eL	.
+8cc#J	.
 =6	=6
-4.a	D/F#
+4.a	D major/F#
 4.d	.
 =7	=7
-4.B	A7/G
-4.c#	A7
+4.B	A dominant/G
+4.c#	A dominant
 =8	=8
-4.d	A
+4.d	A major
 4.e	.
 ==	==
 *-	*-

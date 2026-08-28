@@ -16,63 +16,63 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.b	Em
-8.b	Em
-8.b	Em
-8.f#	Bm
-8.f#	Bm
-16f#[	Bm
+8.bL	E minor
+8.bJ	E minor
+8.b	E minor
+8.f#L	B minor
+8.f#	B minor
+[16f#Jk	B minor
 =2	=2
-8f#]	.
-8.e	C
-8.e	C
-8.e	C
-8.e	C
-8d	Cmaj7sus2
+8f#L]	.
+8.e	C major
+8.eJ	C major
+8.eL	C major
+8.e	C major
+8dJ	C major-seventh-suspended-second
 =3	=3
-8.e	C
-8.e	C
-8.e	C
-8.d	Cmaj7sus2
-8.d	Cmaj7sus2
-16f#[	D
+8.eL	C major
+8.eJ	C major
+8.e	C major
+8.dL	C major-seventh-suspended-second
+8.d	C major-seventh-suspended-second
+[16f#Jk	D major
 =4	=4
-8f#]	.
-8.f#	D
-8.f#[	D
-8f#]	D
-16A	.
-8.e	Dsus2
-8f#	D
+8f#L]	.
+8.f#	D major
+[8.f#J	D major
+8f#L]	D major
+16Ak	.
+8.e	D suspended-second
+8f#J	D major
 =5	=5
-8.b	Em
-8.b	Em
-8.b	Em
-8.dd	Bm/F#
-8.dd	Bm/F#
-16dd[	Bm/F#
+8.bL	E minor
+8.bJ	E minor
+8.b	E minor
+8.ddL	B minor/F#
+8.dd	B minor/F#
+[16ddJk	B minor/F#
 =6	=6
-8dd]	.
-8.ee	C/G
-8.ee	C/G
-8.ee	C/G
-8.ee[	C/G
-16ee]	Gsus4
-16d	.
+8ddL]	.
+8.ee	C major/G
+8.eeJ	C major/G
+8.eeL	C major/G
+[8.ee	C major/G
+16eeL]	G suspended-fourth
+16dJJ	.
 =7	=7
-8.e	C
-8.e	C
-8.e	C
-8.g	G
-8.g[	G
-16g]	D
+8.eL	C major
+8.eJ	C major
+8.e	C major
+8.gL	G major
+[8.g	G major
+16gJk]	D major
 =8	=8
-8f#	.
-8.f#	D
-8.f#	D
-8f#	D
-16e[	.
-8.e]	Dsus2
-8f#	D
+8f#L	.
+8.f#	D major
+8.f#J	D major
+8f#L	D major
+[16ek	.
+8.e]	D suspended-second
+8f#J	D major
 ==	==
 *-	*-

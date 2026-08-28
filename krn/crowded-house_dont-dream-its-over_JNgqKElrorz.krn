@@ -16,47 +16,47 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4.r	E-
-8r	E-sus2
+4.r	E- major
+8r	E- suspended-second
 4r	.
-4r	E-
+4r	E- major
 =2	=2
-4.r	E-
-8r	E-sus2
+4.r	E- major
+8r	E- suspended-second
 4r	.
-4r	E-
+4r	E- major
 =3	=3
-4.r	E-m7
-8r	E-7sus2
+4.r	E- minor-seventh
+8r	E- dominant-seventh-suspended-second
 4r	.
-4r	E-m7
+4r	E- minor-seventh
 =4	=4
-2r	E-m7
-2r	E-7sus4
+2r	E- minor-seventh
+2r	E- dominant-seventh-suspended-fourth
 =5	=5
-4.r	E-
-8r	E-sus2
+4.r	E- major
+8r	E- suspended-second
 4r	.
-4r	E-
+4r	E- major
 =6	=6
-4.r	E-
-8r	E-sus2
+4.r	E- major
+8r	E- suspended-second
 4r	.
-4r	E-
+4r	E- major
 =7	=7
-4.r	E-m7
-8r	E-7sus2
+4.r	E- minor-seventh
+8r	E- dominant-seventh-suspended-second
 4r	.
-8BB-	E-m7
-8C	.
+8BB-L	E- minor-seventh
+8CJ	.
 =8	=8
-8E-	E-m7
+8E-L	E- minor-seventh
 8F	.
 8E-	.
+8CJ	.
+8BB-L	E- dominant-seventh-suspended-fourth
 8C	.
-8BB-	E-7sus4
-8C	.
-8E-	.
+8E-J	.
 8r	.
 ==	==
 *-	*-

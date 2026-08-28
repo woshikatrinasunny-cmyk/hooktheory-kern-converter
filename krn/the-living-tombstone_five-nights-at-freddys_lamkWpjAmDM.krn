@@ -16,22 +16,22 @@
 *c#:	*
 *M4/4	*
 =1	=1
-2e	C#m
-4d#	Emaj7/D#
-4c#	E/G#
+2e	C# minor
+4d#	E major-seventh/D#
+4c#	E major/G#
 =2	=2
-2e	Am
-4dn	Cadd(2,4,7)
-4cn	C/E
+2e	A minor
+4dn	C other-2,4,7
+4cn	C major/E
 =3	=3
-2e	C#m/E
-4d#	Emaj7/G#
-4B	C#m7
+2e	C# minor/E
+4d#	E major-seventh/G#
+4B	C# minor-seventh
 =4	=4
-2c#	F#m
-16e	G#7
-8.f#[	.
-8f#_	G#7/C
-8f#]	G#7/D#
+2c#	F# minor
+16eLK	G# dominant
+[8.f#	.
+8f#_	G# dominant/C
+8f#J]	G# dominant/D#
 ==	==
 *-	*-

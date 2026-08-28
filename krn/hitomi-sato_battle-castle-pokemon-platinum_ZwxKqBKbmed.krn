@@ -16,144 +16,144 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4r	F#
+4r	F# major
 4cc#	.
 4ff#	.
 4aa#	.
 =2	=2
-4bb	F#maj7sus2
-8aa#	.
-8gg#	.
-8ff#	.
+4bb	F# major-seventh-suspended-second
+8aa#L	.
+8gg#J	.
+8ff#L	.
 8ee#	.
 8dd#	.
-8cc#	.
+8cc#J	.
 =3	=3
-2ccc#[	D#7/G
-4ccc#]	D#7
-8bb	.
-8aa#	.
+[2ccc#	D# dominant/G
+4ccc#]	D# dominant
+8bbL	.
+8aa#J	.
 =4	=4
-4ccc#	G#sus4
-4bb[	.
-2bb]	G#m
+4ccc#	G# suspended-fourth
+[4bb	.
+2bb]	G# minor
 =5	=5
-2bb[	C#7
-4bb]	C#7/E#
-8aa#	.
-8gg#	.
+[2bb	C# dominant
+4bb]	C# dominant/E#
+8aa#L	.
+8gg#J	.
 =6	=6
-4bb	Bmaj7/F#
+4bb	B major-seventh/F#
 4.aa#	.
-8bb	.
+8bbL	.
 8ccc#	.
-8ddd#	.
+8ddd#J	.
 =7	=7
-4gg#	C#/E#
+4gg#	C# major/E#
 4ccc#	.
-8bb	F#
+8bbL	F# major
 8aa#	.
 8gg#	.
-8ff#	.
+8ff#J	.
 =8	=8
-4aa#	C#7
+4aa#	C# dominant
 2gg#	.
 4cc#	.
 =9	=9
-4r	F#
+4r	F# major
 4cc#	.
 4ff#	.
 4aa#	.
 =10	=10
-4bb	F#maj7sus2
-8aa#	.
-8gg#	.
-8ff#	.
+4bb	F# major-seventh-suspended-second
+8aa#L	.
+8gg#J	.
+8ff#L	.
 8ee#	.
 8dd#	.
-8cc#	.
+8cc#J	.
 =11	=11
-2ccc#[	D#7/G
-4ccc#]	D#7
-8bb	.
-8aa#	.
+[2ccc#	D# dominant/G
+4ccc#]	D# dominant
+8bbL	.
+8aa#J	.
 =12	=12
-4aa#	G#sus4
+4aa#	G# suspended-fourth
 8bb	.
 8r	.
-8ddd#	G#m
+8ddd#	G# minor
 8r	.
 8fff#	.
 8r	.
 =13	=13
-8fff#	Bm
+8fff#	B minor
 8r	.
 8ff#	.
 8r	.
-8gg#	.
+8gg#L	.
 8ff#	.
 8ee#	.
-8ff#	.
+8ff#J	.
 =14	=14
-8ccc#	F#/A#
+8ccc#	F# major/A#
 8r	.
 8cc#	.
 8r	.
-8dd#	.
+8dd#L	.
 8cc#	.
 8ccn	.
-8cc#	.
+8cc#J	.
 =15	=15
-4ff#	F#add(2,4,7)/C#
-8ee#	.
-8ff#	.
-8aa#	C#7
+4ff#	F# other-2,4,7/C#
+8ee#L	.
+8ff#J	.
+8aa#L	C# dominant
 8gg#	.
 8ff#	.
-8ee#	.
+8ee#J	.
 =16	=16
-4ee#	F#
+4ee#	F# major
 2ff#	.
 4ff#	.
 =17	=17
-4ggn	C#7
+4ggn	C# dominant
 2gg#	.
 4gg#	.
 =18	=18
-4aan	F#
+4aan	F# major
 2aa#	.
 4aa#	.
 =19	=19
-8bb	B
+8bbL	B major
 8aa#	.
 8gg#	.
-8ff#	.
-8cc#	C#7
+8ff#J	.
+8cc#L	C# dominant
 8ff#	.
 8ee#	.
-8ff#	.
+8ff#J	.
 =20	=20
-4gg#	F#
+4gg#	F# major
 2ff#	.
 4ccc#	.
 =21	=21
-4ddd#	G#m
+4ddd#	G# minor
 4ccc#	.
-4ddd#	C#7
+4ddd#	C# dominant
 4ccc#	.
 =22	=22
-4fff#	F#
+4fff#	F# major
 2ccc#	.
 4dddn	.
 =23	=23
-4ddd#	B
-4ff#[	.
-8ff#]	C#7
+4ddd#	B major
+[4ff#	.
+8ff#L]	C# dominant
 8ee#	.
 8aa#	.
-8gg#	.
+8gg#J	.
 =24	=24
-4ee#	F#
+4ee#	F# major
 2.ff#	.
 ==	==
 *-	*-

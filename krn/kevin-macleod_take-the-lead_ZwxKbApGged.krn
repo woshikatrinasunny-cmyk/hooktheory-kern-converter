@@ -15,19 +15,19 @@
 *g:	*
 *M4/4	*
 =1	=1
-2.b-[	Cadd(2,3,7)
-4b-_	Cadd(2,3,5,7)/E-
+[2.b-	C other-2,3,7
+4b-_	C other-2,3,5,7/E-
 =2	=2
-8b-]	Dadd(2,3,7)
+8b-]	D other-2,3,7
 3...r	.
-8.r	E-
-16r	Cadd(2,3,7)
+8.r	E- major
+16r	C other-2,3,7
 =3	=3
 2.r	.
-4r	Cadd(2,3,5,7)/E-
+4r	C other-2,3,5,7/E-
 =4	=4
-4..r	Dadd(2,3,7)
-4r	Dadd(2,3,6)/A-
-6...r	Gm
+4..r	D other-2,3,7
+4r	D other-2,3,6/A-
+6...r	G minor
 ==	==
 *-	*-

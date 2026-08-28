@@ -16,35 +16,35 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.G#	E
-2A	Dadd(2,4,7)
+4.G#	E major
+2A	D other-2,4,7
 8G#	.
 =2	=2
-8c#	F#m7
+8c#L	F# minor-seventh
 8B	.
-8c#	.
-4B	Aadd(2,4,7)
-4.A	A
+8c#J	.
+4B	A other-2,4,7
+4.A	A major
 =3	=3
-4.d	Badd(3,5,7)
-4.c#	A
-4A[	Dadd(2,4,7)
+4.d	B other-3,5,7
+4.c#	A major
+[4A	D other-2,4,7
 =4	=4
 1A]	.
 =5	=5
-4.G#	E
-2D	B7sus4
+4.G#	E major
+2D	B dominant-seventh-suspended-fourth
 8G#	.
 =6	=6
-8A	F#m7
+8AL	F# minor-seventh
 8B	.
-8A	.
-4G#	E
-4.c#	A
+8AJ	.
+4G#	E major
+4.c#	A major
 =7	=7
-4.d	Bm
-4.c#	A
-4F#[	Dadd(2,4,7)
+4.d	B minor
+4.c#	A major
+[4F#	D other-2,4,7
 =8	=8
 1F#]	.
 ==	==

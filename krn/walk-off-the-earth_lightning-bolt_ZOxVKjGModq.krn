@@ -16,97 +16,97 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8en	B
+8enL	B major
 8f#	.
 8f#	.
-8en	.
-8f#	.
+8enJ	.
+8f#L	.
 8c#	.
 8c#	.
-8c#	.
+8c#J	.
 =2	=2
-8en	B
+8enL	B major
 8f#	.
 8f#	.
-8en	.
+8enJ	.
+8f#L	.
 8f#	.
 8f#	.
-8f#	.
-8f#	.
+8f#J	.
 =3	=3
-8r	F#
-8.an	F#
-16a#	.
+8r	F# major
+8.anL	F# major
+16a#k	.
+8f#J	.
+8enL	.
 8f#	.
-8en	.
 8f#	.
-8f#	.
-8f#	.
+8f#J	.
 =4	=4
-8r	F#
-8.an	F#
-16a#	.
+8r	F# major
+8.anL	F# major
+16a#k	.
+8f#J	.
+8enL	.
 8f#	.
-8en	.
 8f#	.
-8f#	.
-8c#	.
+8c#J	.
 =5	=5
-8en	B
+8enL	B major
 8f#	.
 8f#	.
-8en	.
-8f#	.
+8enJ	.
+8f#L	.
 8c#	.
 8c#	.
-8c#	.
+8c#J	.
 =6	=6
-8en	B
+8enL	B major
 8f#	.
 8f#	.
-8en	.
+8enJ	.
+8f#L	.
 8f#	.
 8f#	.
-8f#	.
-8f#	.
+8f#J	.
 =7	=7
-8r	F#
-8.an	F#
-16a#	.
-8f#	.
+8r	F# major
+8.anL	F# major
+16a#k	.
+8f#J	.
 4en	.
 4f#	.
 =8	=8
-4c#	C#
-8B	.
-8An	.
-4B	B
-8.An	.
-16F#[	.
+4c#	C# major
+8BL	.
+8AnJ	.
+4B	B major
+8.AnL	.
+[16F#Jk	.
 =9	=9
-4F#]	F#
+4F#]	F# major
 4r	.
-8r	C#
-8c#	.
-8c#	B
-8c#	.
+8r	C# major
+8c#L	.
+8c#	B major
+8c#J	.
 =10	=10
-8en	F#
+8enL	F# major
 8f#	.
 8f#	.
-8en	.
-8f#	C#
+8enJ	.
+8f#L	C# major
 8c#	.
-8c#	B
-8c#	.
+8c#	B major
+8c#J	.
 =11	=11
-8en	F#
+8enL	F# major
 8f#	.
 8f#	.
-8en	.
-8f#	C#
+8enJ	.
+8f#L	C# major
 8c#	.
-8c#	B
-8c#	.
+8c#	B major
+8c#J	.
 ==	==
 *-	*-

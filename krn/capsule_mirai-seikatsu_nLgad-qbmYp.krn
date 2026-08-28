@@ -16,64 +16,64 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8c	B-m9
+8c	B- minor-ninth
 8r	.
 8d-	.
 8r	.
-8e-	E-add(4,7,9,10)
+8e-	E- other-4,7,9,10
 8r	.
 8f	.
 8r	.
 =2	=2
-8g	A-maj9
-8a-	.
+8gL	A- major-ninth
+8a-J	.
 8r	.
-8e-[	.
-4e-]	Fm7
+[8e-	.
+4e-]	F minor-seventh
 4r	.
 =3	=3
-16c	B-m9
+16c	B- minor-ninth
 16r	.
-8c	.
-8d-	.
+8cL	.
+8d-J	.
 8r	.
-4e-	E-add(4,7,9,10)
+4e-	E- other-4,7,9,10
 4f	.
 =4	=4
-8g	A-maj9
+8gL	A- major-ninth
 8g	.
 8b-	.
-8a-	.
-8r	Fm7
+8a-J	.
+8r	F minor-seventh
 8e-	.
 8r	.
-8e-[	D-m9
+[8e-	D- minor-ninth
 =5	=5
 4e-]	.
 8en	.
 8r	.
-8g-	G-13
+8g-	G- dominant-13th
 8r	.
 8a-	.
 8r	.
 =6	=6
-8b-	Bmaj9
+8b-L	B major-ninth
 8bn	.
 8b-	.
-8g-[	.
-8g-]	A-m
-8en	Aadd(6)
+[8g-J	.
+8g-L]	A- minor
+8en	A other-6
 8en	.
-8e-[	B-m9
+[8e-J	B- minor-ninth
 =7	=7
 4e-]	.
 8d-	.
 8r	.
-8c	E-add(4,7,9,10)
+8cL	E- other-4,7,9,10
 8G	.
 8B-	.
-8A-	.
+8A-J	.
 =8	=8
-1r	A-maj9
+1r	A- major-ninth
 ==	==
 *-	*-

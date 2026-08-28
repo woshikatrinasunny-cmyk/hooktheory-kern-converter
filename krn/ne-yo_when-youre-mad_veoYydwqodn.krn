@@ -16,78 +16,78 @@
 *G:	*
 *M4/4	*
 =1	=1
-8b	Cmaj7
+8b	C major-seventh
 16r	.
 8dd	.
 16r	.
 8b	.
-16e	.
-16g	.
+16eLL	.
+16gJ	.
 8b	.
 8dd	.
-8b	.
+8bJ	.
 =2	=2
-4f#	D/F#
-4g	G
+4f#	D major/F#
+4g	G major
 8g	.
 16r	.
-16gg	.
+16ggLL	.
 16ff#	.
-16ee	.
-8dd	.
+16eeJ	.
+8ddJ	.
 =3	=3
-8b	Cmaj7
+8b	C major-seventh
 16r	.
 8dd	.
 16r	.
 8b	.
-16e	.
-16g	.
+16eLL	.
+16gJ	.
 8b	.
 8dd	.
-8b	.
+8bJ	.
 =4	=4
-4d	D
-4e	Em7
-4f#	D/F#
-4g	G
+4d	D major
+4e	E minor-seventh
+4f#	D major/F#
+4g	G major
 =5	=5
-8b	Cmaj7
+8b	C major-seventh
 16r	.
 8dd	.
 16r	.
 8b	.
-16e	.
-16g	.
+16eLL	.
+16gJ	.
 8b	.
 8dd	.
-8b	.
+8bJ	.
 =6	=6
-4f#	D/F#
-4g	G
+4f#	D major/F#
+4g	G major
 8g	.
 16r	.
-16gg	.
+16ggLL	.
 16ff#	.
-16ee	.
-8dd	.
+16eeJ	.
+8ddJ	.
 =7	=7
-8r	A#maj7
-16cc	.
+8r	A# major-seventh
+16ccLK	.
 8ffn	.
-16cc	.
+16cck	.
+8ffnJ	.
+8r	C suspended-second
+16ccLK	.
 8ffn	.
-8r	Csus2
-16cc	.
-8ffn	.
-16cc	.
-8ffn	.
+16cck	.
+8ffnJ	.
 =8	=8
-8r	D/F#
-16a	.
+8r	D major/F#
+16aLK	.
 8dd	.
-16a	.
-8dd	.
-2r	G
+16ak	.
+8ddJ	.
+2r	G major
 ==	==
 *-	*-

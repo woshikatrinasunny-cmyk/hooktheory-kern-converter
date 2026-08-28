@@ -16,50 +16,50 @@
 *a:	*
 *M4/4	*
 =1	=1
-8.f	Dm
-4d	Dm
-4dd	Dm
-4dd	Dm
-16cc	Dm
+8.f	D minor
+4d	D minor
+4dd	D minor
+4dd	D minor
+16cc	D minor
 =2	=2
-8.b-	Adim
-4cc	Adim
-4cc	Adim
-4cc	Adim
-16e-	Adim
+8.b-	A diminished
+4cc	A diminished
+4cc	A diminished
+4cc	A diminished
+16e-	A diminished
 =3	=3
-8.a	E-
-4b-	E-
-4b-	E-
-4b-	E-
-16cc	E-
+8.a	E- major
+4b-	E- major
+4b-	E- major
+4b-	E- major
+16cc	E- major
 =4	=4
-8.b-	Dm
-4a	Dm
-4.a[	Dm
-8.a]	Dm
+8.b-	D minor
+4a	D minor
+[4.a	D minor
+8.a]	D minor
 =5	=5
-16e-	.
-8.f	F
-4c	F
-4dd	F
-4dd	F
+16e-LK	.
+8.fJ	F major
+4c	F major
+4dd	F major
+4dd	F major
 =6	=6
-16cc	F
-8.dd	Adim
-4ee-	Adim
-4ee-	Adim
-4ee-	Adim
+16ccLK	F major
+8.ddJ	A diminished
+4ee-	A diminished
+4ee-	A diminished
+4ee-	A diminished
 =7	=7
-16g	Adim
-8.cc	Gm
-4gg	Gm
-4gg	Gm
-4gg	Gm
+16gLK	A diminished
+8.ccJ	G minor
+4gg	G minor
+4gg	G minor
+4gg	G minor
 =8	=8
-16aa	Gm
-8.gg	F
-4ff	F
-2ff	F
+16aaLK	G minor
+8.ggJ	F major
+4ff	F major
+2ff	F major
 ==	==
 *-	*-

@@ -16,7 +16,7 @@
 *A:	*
 *M4/4	*
 =1	=1
-8e	A
+8e	A major
 4.e	.
 8e	.
 4.f#	.
@@ -26,52 +26,52 @@
 4.r	.
 8e	.
 =3	=3
-8f#	E
+8f#L	E major
 8f#	.
 8e	.
-8e	.
+8eJ	.
 4B	.
-8e	.
-8f#[	.
+8eL	.
+[8f#J	.
 =4	=4
 8f#]	.
 4e	.
 4B	.
 8A	.
-4cn	F
+4cn	F major
 =5	=5
-4.r	F#m
+4.r	F# minor
+8f#	.
+8aL	.
 8f#	.
 8a	.
-8f#	.
-8a	.
-8f#	.
+8f#J	.
 =6	=6
 8a	.
 4b	.
 4f#	.
 8r	.
-4r	F#m7/E
+4r	F# minor-seventh/E
 =7	=7
-8r	Dmaj7
+8r	D major-seventh
+8f#L	.
 8f#	.
-8f#	.
-8a	.
-8f#	.
-8a	.
+8aJ	.
+8f#L	.
+8aJ	.
 4f#	.
 =8	=8
+8aL	.
 8a	.
-8a	.
-8b	.
+8bJ	.
 4f#	.
 4.r	.
 =9	=9
-4.f#	D7
+4.f#	D dominant
 8e	.
 4e	.
-8d	.
-8d[	.
+8dL	.
+[8dJ	.
 =10	=10
 8d]	.
 4A	.
@@ -79,69 +79,69 @@
 4cn	.
 8r	.
 =11	=11
-2r	A
+2r	A major
 8cc#	.
 4cc#	.
-8b[	.
+[8b	.
 =12	=12
 8b]	.
 4a	.
 4.b	.
-8cc#	.
-8a[	.
+8cc#L	.
+[8aJ	.
 =13	=13
-8a]	E11
+8a]	E dominant-11th
 4r	.
 8b	.
 8b	.
 4b	.
-8b[	.
+[8b	.
 =14	=14
-4b]	E
+4b]	E major
 4a	.
-8b	.
-8cc#[	.
-8cc#]	F
-8a[	.
+8bL	.
+[8cc#	.
+8cc#]	F major
+[8aJ	.
 =15	=15
-8a]	F#m
+8a]	F# minor
 4r	.
 8cc#	.
 8cc#	.
 4cc#	.
-8dd[	.
+[8dd	.
 =16	=16
 4dd]	.
 8cc#	.
 4.b	.
-8a	F#m7/E
-8a[	.
+8aL	F# minor-seventh/E
+[8aJ	.
 =17	=17
-8a]	Dmaj7
+8a]	D major-seventh
 4r	.
 8cc#	.
 8cc#	.
 4cc#	.
-8dd[	.
+[8dd	.
 =18	=18
 8dd]	.
 4cc#	.
 4b	.
+8aL	.
 8a	.
-8a	.
-8ccn[	.
+[8ccnJ	.
 =19	=19
-4ccn]	D7/A
+4ccn]	D dominant/A
 4ccn	.
 4ccn	.
-8ccn	.
-8b[	.
+8ccnL	.
+[8bJ	.
 =20	=20
-8b]	D7
+8b]	D dominant
 4a	.
 4a	.
-8gn	.
+8gnL	.
 8a	.
-8b	.
+8bJ	.
 ==	==
 *-	*-

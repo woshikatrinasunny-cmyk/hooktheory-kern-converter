@@ -16,150 +16,150 @@
 *g:	*
 *M4/4	*
 =1	=1
-2.dd	E-maj7
-8a	.
-8b-	.
+2.dd	E- major-seventh
+8aL	.
+8b-J	.
 =2	=2
-2.ff	F
-8a	.
-8b-	.
+2.ff	F major
+8aL	.
+8b-J	.
 =3	=3
-4.ff	Gm
+4.ff	G minor
 8gg	.
-2gg[	.
+[2gg	.
 =4	=4
-2gg]	Gm
+2gg]	G minor
 4gg	.
 4aa	.
 =5	=5
-2.bb-	E-maj7
+2.bb-	E- major-seventh
 4bb-	.
 =6	=6
-8aa	F
+8aaL	F major
 8bb-	.
 8aa	.
-8ff	.
-8.cc	.
+8ffJ	.
+8.ccL	.
 8.b-	.
-8gg[	.
+[8ggJ	.
 =7	=7
-4.gg]	Gsus4
+4.gg]	G suspended-fourth
 4.cc	.
-4b-[	Gm
+[4b-	G minor
 =8	=8
 2b-]	.
 4gg	.
 4aa	.
 =9	=9
-2.bb-	E-maj7
+2.bb-	E- major-seventh
 4ccc	.
 =10	=10
-4.aa	F
+4.aa	F major
 4.ff	.
-8aa	.
-8ccc	.
+8aaL	.
+8cccJ	.
 =11	=11
-8ddd	Gm
+8dddL	G minor
 8bb-	.
 8gg	.
-8ccc	.
+8cccJ	.
 8aa	.
 4ff	.
-8bb-[	.
+[8bb-	.
 =12	=12
-8bb-]	Gm
+8bb-L]	G minor
 8gg	.
 8dd	.
-8aa	.
+8aaJ	.
 8ff	.
 4cc	.
-8dd[	.
+[8dd	.
 =13	=13
-2.dd]	E-maj7
-8b-	.
-8cc	.
+2.dd]	E- major-seventh
+8b-L	.
+8ccJ	.
 =14	=14
-2.ff	F
+2.ff	F major
 4a	.
 =15	=15
-4.b-	Gm
+4.b-	G minor
 4.a	.
-4g[	.
+[4g	.
 =16	=16
-2.g]	Gm
-8b-	.
-8cc	.
+2.g]	G minor
+8b-L	.
+8ccJ	.
 =17	=17
-2.dd	E-maj7
-8a	.
-8b-	.
+2.dd	E- major-seventh
+8aL	.
+8b-J	.
 =18	=18
-2.ff	F
-8a	.
-8b-	.
+2.ff	F major
+8aL	.
+8b-J	.
 =19	=19
-4.ff	Gm
+4.ff	G minor
 8gg	.
-2gg[	.
+[2gg	.
 =20	=20
-2gg]	Gm
+2gg]	G minor
 4gg	.
 4aa	.
 =21	=21
-2.bb-	E-maj7
+2.bb-	E- major-seventh
 4bb-	.
 =22	=22
-8aa	F
+8aaL	F major
 8bb-	.
 8aa	.
-8ff	.
-8.cc	.
+8ffJ	.
+8.ccL	.
 8.b-	.
-8gg[	.
+[8ggJ	.
 =23	=23
-4.gg]	Gsus4
+4.gg]	G suspended-fourth
 4.cc	.
-4b-[	Gm
+[4b-	G minor
 =24	=24
 2b-]	.
 4gg	.
 4aa	.
 =25	=25
-2.bb-	E-maj7
+2.bb-	E- major-seventh
 4ccc	.
 =26	=26
-4.aa	F
+4.aa	F major
 4.ff	.
-8aa	.
-8ccc	.
+8aaL	.
+8cccJ	.
 =27	=27
-8ddd	Gm
+8dddL	G minor
 8bb-	.
 8gg	.
-8ccc	.
+8cccJ	.
 8aa	.
 4ff	.
-8bb-[	.
+[8bb-	.
 =28	=28
-8bb-]	Gm
+8bb-L]	G minor
 8gg	.
 8dd	.
-8aa	.
+8aaJ	.
 8ff	.
 4cc	.
-8dd[	.
+[8dd	.
 =29	=29
-2.dd]	E-maj7
-8b-	.
-8cc	.
+2.dd]	E- major-seventh
+8b-L	.
+8ccJ	.
 =30	=30
-2.ff	F
+2.ff	F major
 4a	.
 =31	=31
-4.b-	Gm
+4.b-	G minor
 4.a	.
-4g[	.
+[4g	.
 =32	=32
-1g]	Gm
+1g]	G minor
 ==	==
 *-	*-

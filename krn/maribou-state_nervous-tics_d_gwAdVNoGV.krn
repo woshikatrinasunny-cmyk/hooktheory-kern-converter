@@ -16,58 +16,58 @@
 *c:	*
 *M4/4	*
 =1	=1
-8.cc	Cm
-8.g	.
+8.ccL	C minor
+8.gJ	.
 8.f	.
-16g[	.
-4g_	B-
-8g]	Cm
+[16g	.
+4g_	B- major
+8g]	C minor
 =2	=2
 4.r	.
-8r	Cm
-8c	.
-8e-	B-
-8g[	.
-8g]	A-
+8r	C minor
+8cL	.
+8e-	B- major
+[8g	.
+8gJ]	A- major
 =3	=3
-16f	.
-16e-	.
-8c	.
+16fLL	.
+16e-J	.
+8cJ	.
 4.f	.
 8e-	.
-8r	A-
-8r	A-
+8r	A- major
+8r	A- major
 =4	=4
 4.r	.
-4r	A-
-4r	Gm
-8r	A-
+4r	A- major
+4r	G minor
+8r	A- major
 =5	=5
-8.cc	.
-8.g	.
+8.ccL	.
+8.gJ	.
 8.f	.
-8.g[	.
-8g_	Gm
-8g]	A-
+[8.gL	.
+8g_	G minor
+8gJ]	A- major
 =6	=6
 4.r	.
-8r	A-
-8c	.
-8e-	B-
-8g[	.
-8g]	Cm
+8r	A- major
+8cL	.
+8e-	B- major
+[8g	.
+8gJ]	C minor
 =7	=7
-16f	.
-16e-	.
-8c	.
+16fLL	.
+16e-J	.
+8cJ	.
 4.f	.
-8e-[	.
-8e-_	Cm
-8e-]	Cm
+[8e-L	.
+8e-_	C minor
+8e-J]	C minor
 =8	=8
 4.r	.
-4r	Cm
-4r	B-
-8r	Cm
+4r	C minor
+4r	B- major
+8r	C minor
 ==	==
 *-	*-

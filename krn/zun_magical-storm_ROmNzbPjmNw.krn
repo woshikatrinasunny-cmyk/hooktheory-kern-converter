@@ -16,75 +16,75 @@
 *c#:	*
 *M4/4	*
 =1	=1
-1cc#[	C#m
+[1cc#	C# minor
 =2	=2
-1cc#_	E/B
+1cc#_	E major/B
 =3	=3
-1cc#_	A#m7b5
+1cc#_	A# half-diminished
 =4	=4
-4.cc#]	Amaj7
+4.cc#]	A major-seventh
 8r	.
-16cc#	.
+16cc#LL	.
 16g#	.
 16cc#	.
 16dd#	.
 16ee	.
 16dd#	.
 16ee	.
-16ff#	.
+16ff#JJ	.
 =5	=5
-1gg#	F#add(2,3,7)
+1gg#	F# other-2,3,7
 =6	=6
-2ff#	G#m
+2ff#	G# minor
 2bb	.
 =7	=7
-1gg#[	Amaj7
+[1gg#	A major-seventh
 =8	=8
-4gg#]	B
+4gg#]	B major
 4r	.
 4e	.
 4f#	.
 =9	=9
-2.g#	C#m
+2.g#	C# minor
 4cc#	.
 =10	=10
 4.dd#	.
 8r	.
-8.dd#	C#sus4
+8.dd#L	C# suspended-fourth
 8.cc#	.
-8dd#	.
+8dd#J	.
 =11	=11
 6...ee	.
 16r	.
 4.ff#	.
 4ee	.
 =12	=12
-2dd#	C#7sus4
-8.dd#	C#sus2
+2dd#	C# dominant-seventh-suspended-fourth
+8.dd#L	C# suspended-second
 12...b	.
-8f#	.
+8f#J	.
 32r	.
 =13	=13
-2g#[	Amaj7
-2g#_	B
+[2g#	A major-seventh
+2g#_	B major
 =14	=14
-2g#_	Amaj7
-2g#]	B
+2g#_	A major-seventh
+2g#]	B major
 =15	=15
-1cc#[	A#m7b5
+[1cc#	A# half-diminished
 =16	=16
 1cc#]	.
 =17	=17
-4.gg#	Amaj7
+4.gg#	A major-seventh
 8cc#	.
 4.gg#	.
 8r	.
 =18	=18
 4.ff#	.
 8r	.
-8.ff#	.
+8.ff#L	.
 8.ee	.
-16dd#	.
+16dd#Jk	.
 16r	.
 =19	=19
 6...ee	.
@@ -93,26 +93,26 @@
 16r	.
 4ee	.
 =20	=20
-2dd#	B7/A
-8.dd#	.
+2dd#	B dominant/A
+8.dd#L	.
 12...b	.
-8f#	.
+8f#J	.
 32r	.
 =21	=21
-2g#[	C#m
-2g#_	C#m/E
+[2g#	C# minor
+2g#_	C# minor/E
 =22	=22
-2g#_	G#/C
-2g#]	D#dim
+2g#_	G# major/C
+2g#]	D# diminished
 =23	=23
-4r	C#m
+4r	C# minor
 4cc#	.
-4r	C#m/E
+4r	C# minor/E
 4ee	.
 =24	=24
-4r	Cdim
+4r	C diminished
 4ccn	.
-4r	D#dim
+4r	D# diminished
 4dd#	.
 ==	==
 *-	*-

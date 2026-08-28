@@ -16,26 +16,26 @@
 *A:	*
 *M6/4	*
 =1	=1
-2.r	A
+2.r	A major
 4cn	.
 4A	.
-4B[	.
+[4B	.
 =2	=2
 2.B]	.
 2r	.
 4A	.
 =3	=3
-4cn	Aaug/F
+4cn	A augmented/F
 4B	.
 4A	.
 2B	.
 4c#	.
 =4	=4
-1A[	.
+[1A	.
 4A]	.
 4r	.
 =5	=5
-2.r	Dmaj7
+2.r	D major-seventh
 4c#	.
 4A	.
 4B	.
@@ -44,13 +44,13 @@
 2A	.
 2.r	.
 =7	=7
-2.e	G7sus2
+2.e	G dominant-seventh-suspended-second
 2.d	.
 =8	=8
 2.A	.
 2.B	.
 =9	=9
-2.r	A
+2.r	A major
 4cn	.
 4A	.
 4B	.
@@ -59,13 +59,13 @@
 2r	.
 4A	.
 =11	=11
-2.c#	Aaug/F
+2.c#	A augmented/F
 2c#	.
-4B[	.
+[4B	.
 =12	=12
 1.B]	.
 =13	=13
-2.r	Dmaj7
+2.r	D major-seventh
 4c#	.
 4A	.
 4B	.
@@ -73,7 +73,7 @@
 1A	.
 2r	.
 =15	=15
-2e	G7sus2
+2e	G dominant-seventh-suspended-second
 4e	.
 2d	.
 4d	.
@@ -84,7 +84,7 @@
 4e	.
 4e	.
 =17	=17
-4e	Bm9
+4e	B minor-ninth
 4B	.
 4c#	.
 2f#	.
@@ -96,16 +96,16 @@
 4f#	.
 4e	.
 =19	=19
-2gn	E
+2gn	E major
 4f#	.
 2e	.
-4e[	.
+[4e	.
 =20	=20
 2.e]	.
 2r	.
 4f#	.
 =21	=21
-4a	Dmaj7
+4a	D major-seventh
 4f#	.
 4f#	.
 4a	.
@@ -119,7 +119,7 @@
 4f#	.
 4f#	.
 =23	=23
-2.b	C#add(1,4,7,10)
+2.b	C# other-1,4,7,10
 2a	.
 4a	.
 =24	=24

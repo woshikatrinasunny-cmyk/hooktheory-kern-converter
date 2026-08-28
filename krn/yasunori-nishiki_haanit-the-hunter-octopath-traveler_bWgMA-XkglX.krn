@@ -15,81 +15,81 @@
 *F:	*
 *M3/4	*
 =1	=1
-8cc	B-sus2
-8b-	.
+8ccL	B- suspended-second
+8b-J	.
 8cc	.
 4.ff	.
 =2	=2
-8cc	C
-8b-	.
+8ccL	C major
+8b-J	.
 8cc	.
 4ff	.
 8gg	.
 =3	=3
-8gg	Dm
-8ff	.
+8ggL	D minor
+8ffJ	.
 4.aa	.
 8ff	.
 =4	=4
-8gg	Am
-8ff	.
+8ggL	A minor
+8ffJ	.
 4aa	.
-8aa	.
-8bb-	.
+8aaL	.
+8bb-J	.
 =5	=5
-8ccc	B-
-8bb-	.
+8cccL	B- major
+8bb-J	.
 8aa	.
 4gg	.
 8aa	.
 =6	=6
-4ff	Csus4
+4ff	C suspended-fourth
 4cc	.
-8ff	.
-8ee	.
+8ffL	.
+8eeJ	.
 =7	=7
-2.ff	Dm
+2.ff	D minor
 =8	=8
-4.b-	C7
-4.cc	F
+4.b-	C dominant
+4.cc	F major
 =9	=9
-8cc	B-sus2
-8b-	.
+8ccL	B- suspended-second
+8b-J	.
 8cc	.
 4.ff	.
 =10	=10
-8cc	C
-8b-	.
+8ccL	C major
+8b-J	.
 8cc	.
 4ff	.
 8gg	.
 =11	=11
-8gg	Dm
-8ff	.
+8ggL	D minor
+8ffJ	.
 4.aa	.
 8ff	.
 =12	=12
-8gg	Am
-8ff	.
+8ggL	A minor
+8ffJ	.
 4.ccc	.
-16a	.
-16b-	.
+16aLL	.
+16b-JJ	.
 =13	=13
-8cc	B-m
-8b-	.
-8a	.
-8g	.
-8f	.
-8e-	.
+8ccL	B- minor
+8b-J	.
+8aL	.
+8gJ	.
+8fL	.
+8e-J	.
 =14	=14
-4.c	B-m
+4.c	B- minor
 4.B-	.
 =15	=15
-4.cc	Csus4
+4.cc	C suspended-fourth
 8f	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 =16	=16
-2.cc	C
+2.cc	C major
 ==	==
 *-	*-

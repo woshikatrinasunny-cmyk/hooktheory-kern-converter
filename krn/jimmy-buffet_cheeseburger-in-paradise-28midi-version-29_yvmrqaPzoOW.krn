@@ -16,30 +16,30 @@
 *b:	*
 *M4/4	*
 =1	=1
-4r	Bm
-4r	Bm
-4r	Bm
-4r	Bm
+4r	B minor
+4r	B minor
+4r	B minor
+4r	B minor
 =2	=2
 4r	.
-2.r	A
+2.r	A major
 =3	=3
-4r	Bm
-4r	Bm
-4r	Bm
-4r	Bm
+4r	B minor
+4r	B minor
+4r	B minor
+4r	B minor
 =4	=4
 4r	.
-2.r	G
+2.r	G major
 =5	=5
-4r	Bm
-4r	Bm
-4r	Bm
-4r	Bm
+4r	B minor
+4r	B minor
+4r	B minor
+4r	B minor
 =6	=6
 4r	.
-2r	A
-4r	D
+2r	A major
+4r	D major
 =7	=7
 1r	.
 =8	=8
@@ -48,15 +48,15 @@
 4ddd	.
 4ddd	.
 =9	=9
-4bb	G
+4bb	G major
 4r	.
 4bb	.
 4r	.
 =10	=10
-4aa	A
+4aa	A major
 4bb	.
 4aa	.
-4aa	D
+4aa	D major
 =11	=11
 4ff#	.
 4r	.
@@ -65,15 +65,15 @@
 =12	=12
 1r	.
 =13	=13
-4bb	G
+4bb	G major
 4bb	.
 4bb	.
 4bb	.
 =14	=14
-4bb	A
+4bb	A major
 4aa	.
 4aa	.
-4aa[	D
+[4aa	D major
 =15	=15
 4..aa]	.
 2r	.
@@ -84,25 +84,25 @@
 4aa	.
 4bb	.
 =17	=17
-4r	G
+4r	G major
 4bb	.
 4bb	.
 4r	.
 =18	=18
-4bb	A
+4bb	A major
 4bb	.
 4bb	.
-4bb[	D
+[4bb	D major
 =19	=19
 4bb]	.
 4aa	.
 4aa	.
-4aa[	.
+[4aa	.
 =20	=20
 2aa]	.
 2r	.
 =21	=21
-4ee	E
+4ee	E major
 4ee	.
 4ee	.
 4ee	.
@@ -112,24 +112,24 @@
 4ff#	.
 4ee	.
 =23	=23
-4ccc#	A
+4ccc#	A major
 4aa	.
 2bb	.
 =24	=24
 4aa	.
 4aa	.
 4aa	.
-4bb	G
+4bb	G major
 =25	=25
 4r	.
 4bb	.
 4r	.
-4ccc#	A
+4ccc#	A major
 =26	=26
 4r	.
 4ccc#	.
 4r	.
-4ddd	D
+4ddd	D major
 =27	=27
 4r	.
 4aa	.
@@ -139,14 +139,14 @@
 4aa	.
 2.r	.
 =29	=29
-2bb	G
+2bb	G major
 4bb	.
 4bb	.
 =30	=30
-4ccc#	A
+4ccc#	A major
 4ccc#	.
 4ccc#	.
-4ddd[	Bm
+[4ddd	B minor
 =31	=31
 1ddd]	.
 =32	=32
@@ -155,87 +155,87 @@
 4r	.
 4ddd	.
 =33	=33
-4ddd	G
+4ddd	G major
 4ddd	.
 4ddd	.
 4ddd	.
 =34	=34
-4aa	D
+4aa	D major
 4aa	.
 4aa	.
-4ddd	G
+4ddd	G major
 =35	=35
 4r	.
 4ddd	.
 4r	.
 4aa	.
 =36	=36
-4r	D
+4r	D major
 4ddd	.
 4ddd	.
 4ddd	.
 =37	=37
-4r	G
+4r	G major
 4bb	.
 4r	.
 4aa	.
 =38	=38
-4r	D
+4r	D major
 4aa	.
 4aa	.
-4bb	A
+4bb	A major
 =39	=39
 4r	.
 4aa	.
 4aa	.
-4aa[	D
+[4aa	D major
 =40	=40
 4aa]	.
 2.r	.
 =41	=41
 2r	.
-2ddd	G
+2ddd	G major
 =42	=42
-4aa	A
+4aa	A major
 4aa	.
 2aa	.
 =43	=43
-2bb	D
+2bb	D major
 4aa	.
-4aa[	.
+[4aa	.
 =44	=44
 2aa]	.
 2r	.
 =45	=45
-4bb	G
+4bb	G major
 4bb	.
 4bb	.
 4r	.
 =46	=46
-4ccc#	A
+4ccc#	A major
 4ccc#	.
 4ccc#	.
-4ddd[	.
+[4ddd	.
 =47	=47
-4ddd]	D
+4ddd]	D major
 4aa	.
 4bb	.
-4aa[	.
+[4aa	.
 =48	=48
 2aa]	.
 2r	.
 =49	=49
-4bb	G
+4bb	G major
 4r	.
 4bb	.
 4bb	.
 =50	=50
-4ccc#	A
+4ccc#	A major
 4ccc#	.
 4ccc#	.
 4ddd	.
 =51	=51
-4r	D
+4r	D major
 4aa	.
 4bb	.
 4aa	.
@@ -245,31 +245,31 @@
 4ddd	.
 4aa	.
 =53	=53
-2r	G
+2r	G major
 2ddd	.
 =54	=54
-4aa	D
+4aa	D major
 4aa	.
 2aa	.
 =55	=55
-2bb	A
+2bb	A major
 4aa	.
-4aa[	D
+[4aa	D major
 =56	=56
 2aa]	.
 2r	.
 =57	=57
-4r	Bm
-4r	Bm
-4r	Bm
-4r	Bm
+4r	B minor
+4r	B minor
+4r	B minor
+4r	B minor
 =58	=58
 4r	.
-4r	A
+4r	A major
 4r	.
-4r	D
+4r	D major
 =59	=59
-1r	D
+1r	D major
 =60	=60
 1r	.
 ==	==

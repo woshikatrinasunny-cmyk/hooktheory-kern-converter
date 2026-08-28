@@ -16,155 +16,155 @@
 *c#:	*
 *M4/4	*
 =1	=1
-6...c#	C#m
+6...c#	C# minor
 8.c#	.
 4.g#	.
 8a#	.
 =2	=2
-4b	F#
+4b	F# major
 4g#	.
 4g#	.
-8g#	.
-8a#	.
+8g#L	.
+8a#J	.
 =3	=3
-8.b	G#m
+8.bL	G# minor
 8.b	.
-8b	.
-8.a#	F#
+8bJ	.
+8.a#L	F# major
 8.g#	.
-8f#	.
+8f#J	.
 =4	=4
-2g#	C#m
+2g#	C# minor
 2r	.
 =5	=5
-8.c#	C#m
+8.c#L	C# minor
 8.c#	.
-8c#	.
+8c#J	.
 4.g#	.
 8a#	.
 =6	=6
-8.b	F#
+8.bL	F# major
 8.g#	.
-8g#	.
+8g#J	.
 4g#	.
-8g#	.
-8a#	.
+8g#L	.
+8a#J	.
 =7	=7
-8.b	G#m
+8.bL	G# minor
 8.b	.
-8b	.
-8.a#	F#
+8bJ	.
+8.a#L	F# major
 8.g#	.
-8f#	.
+8f#J	.
 =8	=8
-2g#	C#m
+2g#	C# minor
 4.r	.
 8f#	.
 =9	=9
-8.g#	G#m
+8.g#L	G# minor
 8.g#	.
-8g#	.
+8g#J	.
 4.b	.
 8a#	.
 =10	=10
-8.f#	D#m
+8.f#L	D# minor
 8d#	.
-8.d#	.
+8.d#J	.
 2f#	.
 =11	=11
-8.g#	G#m
+8.g#L	G# minor
 8.g#	.
-8g#	.
+8g#J	.
 4.b	.
 8a#	.
 =12	=12
-8an[	F
-16an]	.
+[8anL	F major
+16ank]	.
 8.fn	.
-8fn	.
-8ccn[	F
-8ccn]	.
+8fnJ	.
+[8ccnL	F major
+8ccnJ]	.
 8r	.
 8d#	.
 =13	=13
-6...c#	C#m
+6...c#	C# minor
 8.c#	.
 4.g#	.
 8a#	.
 =14	=14
-8.b	F#
+8.bL	F# major
 8.g#	.
-8g#	.
+8g#J	.
 4g#	.
-8g#	.
-8a#	.
+8g#L	.
+8a#J	.
 =15	=15
-8.b	G#m
+8.bL	G# minor
 8.b	.
-8b	.
-8.a#	.
+8bJ	.
+8.a#L	.
 8.g#	.
-8gn	.
+8gnJ	.
 =16	=16
-8.g#	D#
-16a#[	.
+8.g#L	D# major
+[16a#k	.
 8a#]	.
-8gn	.
-4g#	G#m
+8gnJ	.
+4g#	G# minor
 4r	.
 =17	=17
-6...cc#	A#m
+6...cc#	A# minor
 8.cc#	.
 4cc#	.
 4r	.
 =18	=18
-6...fn	Fm
+6...fn	F minor
 8.fn	.
 4fn	.
 8r	.
 8fn	.
 =19	=19
-8.cc#	A#m
-16cc#[	.
+8.cc#L	A# minor
+[16cc#k	.
 8cc#]	.
-8cc#	.
-8.cc#	D#
-16ccn[	.
+8cc#J	.
+8.cc#L	D# major
+[16ccnk	.
 8ccn]	.
-8a#	.
+8a#J	.
 =20	=20
-2ccn	F
+2ccn	F major
 2fn	.
 =21	=21
 4r	.
-8.c#	C#m
-16c#[	.
-8c#]	.
-8c#	.
-4g#[	.
+8.c#L	C# minor
+[16c#Jk	.
+8c#L]	.
+8c#J	.
+[4g#	.
 =22	=22
-8g#]	.
+8g#L]	.
 8a#	.
-8.b	F#
-16g#[	.
-8g#]	.
+8.b	F# major
+[16g#Jk	.
+8g#L]	.
 8.g#	.
-8.g#[	.
+[8.g#J	.
 =23	=23
 4g#]	.
-8.b	G#m
-16b[	.
-8b]	.
+8.bL	G# minor
+[16bJk	.
+8bL]	.
 8b	.
-8.a#	D#
-16g#[	.
+8.a#	D# major
+[16g#Jk	.
 =24	=24
-8g#]	.
+8g#L]	.
 8gn	.
-8.g#	G#m
-16g#[	.
-8g#]	.
+8.g#	G# minor
+[16g#Jk	.
+8g#L]	.
 8.g#	.
-8.g#	.
+8.g#J	.
 ==	==
 *-	*-

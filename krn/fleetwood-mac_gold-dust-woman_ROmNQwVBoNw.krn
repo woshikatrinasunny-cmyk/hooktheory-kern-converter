@@ -16,65 +16,65 @@
 *D:	*
 *M4/4	*
 =1	=1
-3...r	D
+3...r	D major
+8fnL	.
 8fn	.
-8fn	.
-8fn	.
+8fnJ	.
 =2	=2
-8fn	A#
+8fnL	A# major
 8e	.
-8d	.
+8dJ	.
 4.d	.
 8r	.
-8fn[	.
+[8fn	.
 =3	=3
-8fn]	G/B
-8e	.
+8fnL]	G major/B
+8eJ	.
 4d	.
 4d	.
 4r	.
 =4	=4
-8cn	C
+8cnL	C major
 8cn	.
 8cn	.
+8cnJ	.
+8cnL	.
 8cn	.
 8cn	.
-8cn	.
-8cn	.
-8d[	.
+[8dJ	.
 =5	=5
-2d]	D
+2d]	D major
 8r	.
+8fnL	.
 8fn	.
-8fn	.
-8fn	.
+8fnJ	.
 =6	=6
-8fn	A#
+8fnL	A# major
 8e	.
-8d	.
+8dJ	.
 4.d	.
 8r	.
-8fn[	.
+[8fn	.
 =7	=7
-8fn]	G/B
-8e	.
+8fnL]	G major/B
+8eJ	.
 4d	.
 4.d	.
 16r	.
 16cn	.
 =8	=8
-8cn	C
+8cnL	C major
 8cn	.
 8cn	.
+8cnJ	.
+8cnL	.
 8cn	.
 8cn	.
-8cn	.
-8cn	.
-8d	.
+8dJ	.
 =9	=9
-1d	D
+1d	D major
 =10	=10
-2d	A#/D
+2d	A# major/D
 2r	.
 ==	==
 *-	*-

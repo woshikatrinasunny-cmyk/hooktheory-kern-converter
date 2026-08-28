@@ -16,26 +16,26 @@
 *E-:	*
 *M4/4	*
 =1	=1
-1b-	E-add(2,4,7)
+1b-	E- other-2,4,7
 =2	=2
-2.f	B-
-8e-	.
-16B-	.
-16e-	.
+2.f	B- major
+8e-L	.
+16B-L	.
+16e-JJ	.
 =3	=3
-1b-	A-add(2,4,7)
+1b-	A- other-2,4,7
 =4	=4
-1f	B-
+1f	B- major
 =5	=5
-1b-	E-add(2,4,7)
+1b-	E- other-2,4,7
 =6	=6
-2.f	B-
-8e-	.
-16B-	.
-16e-	.
+2.f	B- major
+8e-L	.
+16B-L	.
+16e-JJ	.
 =7	=7
-1b-	A-add(2,4,7)
+1b-	A- other-2,4,7
 =8	=8
-1b-	E
+1b-	E major
 ==	==
 *-	*-

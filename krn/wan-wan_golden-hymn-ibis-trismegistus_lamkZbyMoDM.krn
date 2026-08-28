@@ -18,11 +18,11 @@
 =1	=1
 1r	.
 4r	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 =2	=2
-8ff#	Gmaj7
-8b	.
+8ff#L	G major-seventh
+8bJ	.
 8b	.
 4b	.
 8a	.
@@ -30,14 +30,14 @@
 4dd	.
 4ff#	.
 =3	=3
-4.ee	A
+4.ee	A major
 4.aa	.
-2ee	A7
-8cc#	.
-8dd	.
+2ee	A dominant
+8cc#L	.
+8ddJ	.
 =4	=4
-8ee	F#m7b5
-8a	.
+8eeL	F# half-diminished
+8aJ	.
 8a	.
 4a	.
 8g	.
@@ -45,15 +45,15 @@
 4ccn	.
 4ee	.
 =5	=5
-4.ee	Bsus4
+4.ee	B suspended-fourth
 4ff#	.
 8ee	.
-4dd#	B
+4dd#	B major
 4ee	.
 4ff#	.
 =6	=6
-8gg	Gmaj7
-8b	.
+8ggL	G major-seventh
+8bJ	.
 8b	.
 4b	.
 8a	.
@@ -61,22 +61,22 @@
 4dd	.
 4ff#	.
 =7	=7
-4.ee	A
+4.ee	A major
 4.aa	.
-4.ccc#	A7
+4.ccc#	A dominant
 4.aa	.
 =8	=8
-1ff#[	Bsus4
+[1ff#	B suspended-fourth
 4ff#]	.
 4r	.
 =9	=9
-1r	B7/A
+1r	B dominant/A
 4r	.
-8dd#	.
-8ee	.
+8dd#L	.
+8eeJ	.
 =10	=10
-8ff#	Gmaj7
-8b	.
+8ff#L	G major-seventh
+8bJ	.
 8b	.
 4b	.
 8a	.
@@ -84,14 +84,14 @@
 4dd	.
 4ff#	.
 =11	=11
-4.ee	A
+4.ee	A major
 4.aa	.
-2ee	A7
-8cc#	.
-8dd	.
+2ee	A dominant
+8cc#L	.
+8ddJ	.
 =12	=12
-8ee	F#m7b5
-8a	.
+8eeL	F# half-diminished
+8aJ	.
 8a	.
 4a	.
 8g	.
@@ -99,15 +99,15 @@
 4ccn	.
 4ee	.
 =13	=13
-4.ee	Bsus4
+4.ee	B suspended-fourth
 4ff#	.
 8ee	.
-4dd#	B
+4dd#	B major
 4ee	.
 4ff#	.
 =14	=14
-8gg	Gmaj7
-8b	.
+8ggL	G major-seventh
+8bJ	.
 8b	.
 4b	.
 8a	.
@@ -115,13 +115,13 @@
 4dd	.
 4ff#	.
 =15	=15
-4.ee	A
+4.ee	A major
 4.aa	.
-4.ccc#	A7
+4.ccc#	A dominant
 4.eee	.
 =16	=16
-1.eee	Bsus4
+1.eee	B suspended-fourth
 =17	=17
-1.fff#	B
+1.fff#	B major
 ==	==
 *-	*-

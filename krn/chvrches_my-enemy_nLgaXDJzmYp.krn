@@ -16,7 +16,7 @@
 *d:	*
 *M4/4	*
 =1	=1
-2..r	C
+2..r	C major
 8a	.
 =2	=2
 4.g	.
@@ -24,18 +24,18 @@
 4.g	.
 8a	.
 =3	=3
-8g	Dm
-8f	.
+8gL	D minor
+8fJ	.
 4d	.
 4.r	.
 8a	.
 =4	=4
-4.g	B-maj7
+4.g	B- major-seventh
 8a	.
 4.cc	.
 8a	.
 =5	=5
-4g	C
+4g	C major
 3...r	.
 8a	.
 =6	=6
@@ -44,18 +44,18 @@
 4.g	.
 8a	.
 =7	=7
-8g	Dm
+8gL	D minor
 8f	.
-8d	.
+8dJ	.
 4e	.
 4f	.
 8g	.
 =8	=8
-8a	B-maj7
+8a	B- major-seventh
 4f	.
 8f	.
 4f	.
-8f	.
-8e	.
+8fL	.
+8eJ	.
 ==	==
 *-	*-

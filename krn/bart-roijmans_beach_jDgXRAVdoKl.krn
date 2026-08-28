@@ -16,62 +16,62 @@
 *C:	*
 *M6/4	*
 =1	=1
-4.r	C
-4.r	C
-4.r	F
-4.r	F
+4.r	C major
+4.r	C major
+4.r	F major
+4.r	F major
 =2	=2
-4.r	G
-4.r	G
-4.r	F
-4.r	F
+4.r	G major
+4.r	G major
+4.r	F major
+4.r	F major
 =3	=3
-4.r	C
-4.r	C
-4.r	F
-4.r	F
+4.r	C major
+4.r	C major
+4.r	F major
+4.r	F major
 =4	=4
-4.r	D
-4.r	D
-4.r	G
-4.r	G
+4.r	D major
+4.r	D major
+4.r	G major
+4.r	G major
 =5	=5
-8cc	C
-8ee	.
+8ccL	C major
+8eeJ	.
 8gg	.
-4ccc	C
+4ccc	C major
 8gg	.
-4aa	F
+4aa	F major
 8ff	.
-4cc	F
+4cc	F major
 8aa	.
 =6	=6
-4gg	G
-8ee	.
-8g	G
-8a	.
-8b	.
-4cc	F
+4gg	G major
+8eeL	.
+8gJ	G major
+8aL	.
+8bJ	.
+4cc	F major
 8dd	.
-4.ee	F
+4.ee	F major
 =7	=7
-8cc	C
-8ee	.
+8ccL	C major
+8eeJ	.
 8gg	.
-4ccc	C
+4ccc	C major
 8gg	.
-4aa	F
+4aa	F major
 8ff	.
-4cc	F
+4cc	F major
 8aa	.
 =8	=8
-8dd	D
-8ee	.
-8ff#	.
-8aa	D
-8gg	.
-8ff#	.
-4.gg[	G
-4.gg]	G
+8ddL	D major
+8eeJ	.
+8ff#L	.
+8aaJ	D major
+8ggL	.
+8ff#J	.
+[4.gg	G major
+4.gg]	G major
 ==	==
 *-	*-

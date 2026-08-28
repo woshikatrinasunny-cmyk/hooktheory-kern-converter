@@ -16,166 +16,166 @@
 *c#:	*
 *M4/4	*
 =1	=1
-16fn[	C#m
-16fn_	D
-16fn_	Fm
-16fn]	C#m
-16c#[	Fm
-16c#_	F#
-16c#_	C#m
-16c#]	F#
-16B[	G#
-16B_	C#m
-16B_	G#
-16B]	A
-16c#[	.
-16c#]	C#m
-16G#[	A
-16G#_	D
+[16fnLL	C# minor
+16fn_	D major
+16fn_	F minor
+16fn]	C# minor
+[16c#	F minor
+16c#_	F# major
+16c#_	C# minor
+16c#JJ]	F# major
+[16BLL	G# major
+16B_	C# minor
+16B_	G# major
+16B]	A major
+[16c#	.
+16c#]	C# minor
+[16G#	A major
+16G#JJ_	D major
 =2	=2
-16G#_	C#m
-16G#_	C#m
-16G#_	Fm
-16G#_	C#m
-16G#]	Fm
-16G#[	F#
-16G#]	C#m
-16F#[	F#
-16F#_	G#
-16F#_	C#m
-16F#]	G#
-8Fn[	A
-16Fn_	C#m
-16Fn]	A
-16r	G#
+16G#LL_	C# minor
+16G#_	C# minor
+16G#_	F minor
+16G#_	C# minor
+16G#]	F minor
+[16G#	F# major
+16G#]	C# minor
+[16F#JJ	F# major
+16F#LL_	G# major
+16F#_	C# minor
+16F#J]	G# major
+[8Fn	A major
+16FnL_	C# minor
+16FnJJ]	A major
+16r	G# major
 =3	=3
-16fn[	C#m
-16fn_	D
-16fn_	Fm
-16fn]	C#m
-16c#[	Fm
-16c#_	F#
-16c#_	C#m
-16c#]	F#
-16B[	G#
-16B_	C#m
-16B_	G#
-16B]	A
-16c#[	.
-16c#]	C#m
-16G#[	A
-16G#_	D
+[16fnLL	C# minor
+16fn_	D major
+16fn_	F minor
+16fn]	C# minor
+[16c#	F minor
+16c#_	F# major
+16c#_	C# minor
+16c#JJ]	F# major
+[16BLL	G# major
+16B_	C# minor
+16B_	G# major
+16B]	A major
+[16c#	.
+16c#]	C# minor
+[16G#	A major
+16G#JJ_	D major
 =4	=4
-16G#_	C#m
-16G#]	C#m
-16G#[	Fm
-16G#]	C#m
-16G#[	Fm
-16G#]	F#
-16F#[	C#m
-16F#_	F#
-16F#_	G#
-16F#]	C#m
-16G#[	G#
-8G#_	A
-16G#]	C#m
-16A[	A
-16A]	G#
+16G#LL_	C# minor
+16G#]	C# minor
+[16G#	F minor
+16G#]	C# minor
+[16G#	F minor
+16G#]	F# major
+[16F#	C# minor
+16F#JJ_	F# major
+16F#LL_	G# major
+16F#]	C# minor
+[16G#J	G# major
+8G#_	A major
+16G#L]	C# minor
+[16A	A major
+16AJJ]	G# major
 =5	=5
-16d#	G#
-16d#	F#
-8d#	F#sus2
-16d#	.
+16d#LL	G# major
+16d#J	F# major
+8d#	F# suspended-second
+16d#L	.
 16c#	.
-16c#	.
+16c#JJ	.
 8d#	.
-16d#	.
-16d#	.
+16d#LL	.
+16d#J	.
 8d#	.
-16d#	.
-16e[	.
-16e]	G#
+16d#L	.
+[16e	.
+16eJJ]	G# major
 =6	=6
-16d#	F#
-16d#	E
-8d#	Esus2
-16d#	.
+16d#LL	F# major
+16d#J	E major
+8d#	E suspended-second
+16d#L	.
 16c#	.
-16c#	.
+16c#JJ	.
 8d#	.
-16d#	.
-16d#	.
+16d#LL	.
+16d#J	.
 8d#	.
-16d#	Bm
-16e[	Bm
-16e]	A
+16d#L	B minor
+[16e	B minor
+16eJJ]	A major
 =7	=7
-16r	A
-16r	G#
-8r	C#m
-16f#	C#m
-16g#[	E
-4.g#]	C#m
-16f#	C#m
-16g#	E
-8f#[	F#
+16r	A major
+16r	G# major
+8r	C# minor
+16f#LL	C# minor
+[16g#JJ	E major
+4.g#]	C# minor
+16f#LL	C# minor
+16g#J	E major
+[8f#J	F# major
 =8	=8
-16f#_	F#
-16f#_	E
-8f#_	C#m
-16f#_	C#m
-16f#_	E
-8f#]	C#m
+16f#LL_	F# major
+16f#J_	E major
+8f#_	C# minor
+16f#L_	C# minor
+16f#J_	E major
+8f#J]	C# minor
 4r	.
-16r	C#m
-16r	F#
-16r	G#
+16r	C# minor
+16r	F# major
+16r	G# major
 16G#	.
 =9	=9
-16B	G#
-16B	F#
-8B	F#sus2
-16B	.
+16BLL	G# major
+16BJ	F# major
+8B	F# suspended-second
+16BL	.
 16G#	.
-16G#	.
+16G#JJ	.
 8B	.
-16B	.
-16B	.
+16BLL	.
+16BJ	.
 8B	.
-16B	.
-16c#[	.
-16c#]	G#
+16BL	.
+[16c#	.
+16c#JJ]	G# major
 =10	=10
-16B	F#
-16B	E
-8B	Esus2
-16B	.
+16BLL	F# major
+16BJ	E major
+8B	E suspended-second
+16BL	.
 16G#	.
-16G#	.
+16G#JJ	.
 8B	.
-16B	.
-16B	.
+16BLL	.
+16BJ	.
 8B	.
-16B	Bm
-16c#[	Bm
-16c#]	A
+16BL	B minor
+[16c#	B minor
+16c#JJ]	A major
 =11	=11
-16r	A
-16r	G#
-8r	C#m
-16B	C#m
-16c#[	E
-4.c#]	C#m
-16B	C#m
-16c#	E
-8B[	F#
+16r	A major
+16r	G# major
+8r	C# minor
+16BLL	C# minor
+[16c#JJ	E major
+4.c#]	C# minor
+16BLL	C# minor
+16c#J	E major
+[8BJ	F# major
 =12	=12
-16B_	F#
-16B_	E
-8B_	C#m
-16B_	C#m
-16B_	E
-8B]	C#m
+16BLL_	F# major
+16BJ_	E major
+8B_	C# minor
+16BL_	C# minor
+16BJ_	E major
+8BJ]	C# minor
 4r	.
 4r	.
 ==	==

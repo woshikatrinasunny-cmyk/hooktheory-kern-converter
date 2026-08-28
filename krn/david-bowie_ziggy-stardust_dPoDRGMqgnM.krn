@@ -16,20 +16,20 @@
 *G:	*
 *M4/4	*
 =1	=1
-1r	G
+1r	G major
 =2	=2
-8ff#	D
-8gg	Dsus4
-8ff#	D
-8gg	Dsus4
-4ff#	D
+8ff#L	D major
+8gg	D suspended-fourth
+8ff#	D major
+8ggJ	D suspended-fourth
+4ff#	D major
 4dd	.
 =3	=3
-2.r	Cadd(2,4,7)
-4r	G/B
+2.r	C other-2,4,7
+4r	G major/B
 =4	=4
 2r	.
-4r	G/D
-4r	G7/F
+4r	G major/D
+4r	G dominant/F
 ==	==
 *-	*-

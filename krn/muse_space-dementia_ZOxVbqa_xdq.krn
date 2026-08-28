@@ -16,30 +16,30 @@
 *e:	*
 *M4/4	*
 =1	=1
-2.eee	Em
+2.eee	E minor
 4fff#	.
 =2	=2
-2.ggg	C
+2.ggg	C major
 4aaa	.
 =3	=3
-2.aaa#	F#
+2.aaa#	F# major
 4fff#	.
 =4	=4
-2.bbb	B7
+2.bbb	B dominant
 4bb	.
 =5	=5
-2.eee	Em
+2.eee	E minor
 4ddd#	.
 =6	=6
-2.eee	C
+2.eee	C major
 4fff#	.
 =7	=7
-2.ggg	F#
+2.ggg	F# major
 4fff#	.
 =8	=8
-1eee	Bsus4
+1eee	B suspended-fourth
 =9	=9
-2.ddd#[	B
-4ddd#]	Badd(2,4,7)
+[2.ddd#	B major
+4ddd#]	B other-2,4,7
 ==	==
 *-	*-

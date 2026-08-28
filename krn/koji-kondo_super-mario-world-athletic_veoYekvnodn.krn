@@ -16,288 +16,288 @@
 *C:	*
 *M4/4	*
 =1	=1
-16r	A
-16A	.
+16r	A major
+16ALL	.
 16a	.
 16e	.
-16g	A/E
+16gJ	A major/E
 8a	.
-16e	.
-16a	A
+16eJk	.
+16aLL	A major
 16c#	.
 16e	.
-16a[	.
-16a]	A/E
+[16a	.
+16aJJ]	A major/E
 16r	.
 8A	.
 =2	=2
-16r	Dm
-16A	.
+16r	D minor
+16ALL	.
 16a	.
 16A	.
-16f	Dm/A
+16fJ	D minor/A
 8a	.
-16A	.
-16a	Dm
+16AJk	.
+16aLL	D minor
 16A	.
 16d	.
-16a[	.
-16a]	Dm/A
+[16a	.
+16aJJ]	D minor/A
 16r	.
 8A	.
 =3	=3
-16r	G
-16G	.
+16r	G major
+16GLL	.
 16g	.
 16d	.
-16f	G/B
+16fJ	G major/B
 8g	.
-16d	.
-16g	G
+16dJk	.
+16gLL	G major
 16B	.
 16d	.
-16g[	.
-16g]	G/B
+[16g	.
+16gJJ]	G major/B
 16r	.
 8G	.
 =4	=4
-16r	C
-16G	.
+16r	C major
+16GLL	.
 16g	.
 16c	.
-16e	C/G
+16eJ	C major/G
 8g	.
-16c	.
-8g	C7
+16cJk	.
+8gL	C dominant
 8g	.
-8f#	B7
-8f	A#7
+8f#	B dominant
+8fJ	A# dominant
 =5	=5
-16r	A
-16A	.
+16r	A major
+16ALL	.
 16a	.
 16e	.
-16g	A/E
+16gJ	A major/E
 8a	.
-16e	.
-16a	A
+16eJk	.
+16aLL	A major
 16c#	.
 16e	.
-16a[	.
-16a]	A/E
+[16a	.
+16aJJ]	A major/E
 16r	.
 8A	.
 =6	=6
-16r	Dm
-16A	.
+16r	D minor
+16ALL	.
 16a	.
 16A	.
-16f	Dm/A
+16fJ	D minor/A
 8a	.
-16A	.
-16a	Dm
+16AJk	.
+16aLL	D minor
 16A	.
 16d	.
-16a[	.
-16a]	Dm/A
+[16a	.
+16aJJ]	D minor/A
 16r	.
 8A	.
 =7	=7
-16r	G7
-16B	.
+16r	G dominant
+16BLL	.
 16b	.
 16d	.
-16f	G7/D
+16fJ	G dominant/D
 8b	.
-16d	.
-16b	G7
+16dJk	.
+16bLL	G dominant
 16d	.
 16f	.
-16b[	.
-16b]	G7/D
+[16b	.
+16bJJ]	G dominant/D
 16r	.
 8B	.
 =8	=8
-16r	C
-16c	.
+16r	C major
+16cLL	.
 16cc	.
-16c[	.
-16c]	C/G
+[16c	.
+16c]	C major/G
 16g	.
 16a	.
-16b	.
-8cc	C
-8b	G
-8cc	C
+16bJJ	.
+8ccL	C major
+8b	G major
+8ccJ	C major
 8r	.
 =9	=9
-8ee	C
+8ee	C major
 8r	.
-8cc	C/E
+8cc	C major/E
 16r	.
 16g	.
-16a	F
-16cc	.
+16aLL	F major
+16ccJJ	.
 16r	.
-16cc[	.
-8cc]	F#dim
+[16ccLK	.
+8ccJ]	F# diminished
 16r	.
 16a	.
 =10	=10
-8g	C/E
+8gL	C major/E
 8cc	.
-8cc	D#add(1,3,4,6,9)
-8gg	.
-8ee	Dm7
+8cc	D# other-1,3,4,6,9
+8ggJ	.
+8ee	D minor-seventh
 16r	.
-16dd[	.
-8dd]	G7
+[16ddLK	.
+8ddJ]	G dominant
 16r	.
 16g	.
 =11	=11
-8ee	C
+8ee	C major
 8r	.
-8cc	C/E
+8cc	C major/E
 16r	.
 16g	.
-16a	F
-16cc	.
+16aLL	F major
+16ccJJ	.
 16r	.
-16cc[	.
-8cc]	F#dim
+[16ccLK	.
+8ccJ]	F# diminished
 16r	.
 16a	.
 =12	=12
-8g	Dm7
+8gL	D minor-seventh
 8cc	.
-16ff	G
+16ffL	G major
 16ee	.
 16dd	.
-16cc[	.
-8cc]	C
+[16ccJJ	.
+8cc]	C major
 4.r	.
 =13	=13
 8ee	.
 8r	.
-8cc	C/E
+8cc	C major/E
 16r	.
 16g	.
-16a	F
-16cc	.
+16aLL	F major
+16ccJJ	.
 16r	.
-16cc[	.
-8cc]	F#dim
+[16ccLK	.
+8ccJ]	F# diminished
 16r	.
 16a	.
 =14	=14
-8g	C/E
+8gL	C major/E
 8cc	.
-8cc	D#add(1,3,4,6,9)
-8gg	.
-8ee	Dm7
+8cc	D# other-1,3,4,6,9
+8ggJ	.
+8ee	D minor-seventh
 16r	.
-16dd[	.
-8dd]	G7
+[16ddLK	.
+8ddJ]	G dominant
 16r	.
 16g	.
 =15	=15
-8ee	C
+8ee	C major
 8r	.
-8cc	C/E
+8cc	C major/E
 16r	.
 16g	.
-16a	F
-16cc	.
+16aLL	F major
+16ccJJ	.
 16r	.
-16cc[	.
-8cc]	F#dim
+[16ccLK	.
+8ccJ]	F# diminished
 16r	.
 16a	.
 =16	=16
-8g	Dm7
+8gL	D minor-seventh
 8cc	.
-16ff	G
+16ffL	G major
 16ee	.
 16dd	.
-16cc[	.
-8cc]	C
+[16ccJJ	.
+8cc]	C major
 4.r	.
 =17	=17
-8ee	F
+8ee	F major
 16r	.
-8.cc	.
-8g	.
-8ee	C/E
+8.ccL	.
+8gJ	.
+8ee	C major/E
 16r	.
 6...cc	.
 =18	=18
-16dd#	Cm/D#
-16cc	.
+16dd#LL	C minor/D#
+16ccJ	.
 8g	.
-8dd#	.
+8dd#J	.
 16r	.
-16dd[	.
-8dd]	Dm7
+[16dd	.
+8dd]	D minor-seventh
 8r	.
-4r	G7
+4r	G dominant
 =19	=19
-8ee	F
+8ee	F major
 16r	.
-8.cc	.
-8g	.
-8ee	C/E
+8.ccL	.
+8gJ	.
+8ee	C major/E
 16r	.
 6...cc	.
 =20	=20
-16dd#	Cm/D#
-16cc	.
+16dd#LL	C minor/D#
+16ccJ	.
 8g	.
-8gg	.
+8ggJ	.
 8r	.
-4r	Dm7
-4r	G7
+4r	D minor-seventh
+4r	G dominant
 =21	=21
-8ee	C
+8ee	C major
 8r	.
 8cc	.
 16r	.
 16g	.
-16a	Gm/A#
-16cc	.
+16aLL	G minor/A#
+16ccJJ	.
 16r	.
 8.cc	.
 16r	.
 16dd	.
 =22	=22
-16ee	Am7
+16eeLL	A minor-seventh
 16cc	.
-16g	.
+16gJJ	.
 16r	.
 8a	.
 16r	.
-16cc[	.
-8cc]	G#7
+[16cc	.
+8cc]	G# dominant
 6...r	.
 16g	.
 =23	=23
-8gg	G7
+8ggL	G dominant
 8aa	.
 8gg	.
-8aa	.
+8aaJ	.
 8gg	.
 16r	.
-16g	.
-16ff	Dm/A
-16ee	.
-8dd	G/B
+16gLL	.
+16ff	D minor/A
+16eeJ	.
+8ddJ	G major/B
 =24	=24
-8cc	C
-16c	.
+8ccL	C major
+16ck	.
 8G	.
-16c	.
-8G	.
-16c	.
-8G	.
+16ck	.
+8GJ	.
+16cLK	.
+8GJ	.
 6...c	.
 ==	==
 *-	*-

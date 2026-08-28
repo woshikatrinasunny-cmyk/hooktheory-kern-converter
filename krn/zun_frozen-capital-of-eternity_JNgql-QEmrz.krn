@@ -16,9 +16,9 @@
 *f:	*
 *M4/4	*
 =1	=1
-2.f	Fm
-8f	.
-8g	.
+2.f	F minor
+8fL	.
+8gJ	.
 =2	=2
 4a-	.
 4g	.
@@ -26,22 +26,22 @@
 4c	.
 8e-	.
 =3	=3
-4f	D-
+4f	D- major
 4b-	.
-4g	E-
+4g	E- major
 4e-	.
 =4	=4
-4en	Edim
+4en	E diminished
 4b-	.
-4g	C
-8a-	.
-8b-	.
+4g	C major
+8a-L	.
+8b-J	.
 =5	=5
-4cc	Fm
+4cc	F minor
 4b-	.
 4a-	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 =6	=6
 4a-	.
 4g	.
@@ -49,11 +49,11 @@
 4c	.
 8e-	.
 =7	=7
-4f	D-
+4f	D- major
 4b-	.
-4cc	E-
+4cc	E- major
 4e-	.
 =8	=8
-1f	Fm
+1f	F minor
 ==	==
 *-	*-

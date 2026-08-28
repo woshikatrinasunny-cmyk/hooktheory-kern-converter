@@ -16,77 +16,77 @@
 *g:	*
 *M4/4	*
 =1	=1
-8r	Gm
-8r	Gm
-8r	Gm
-8r	Gm
-8r	Gm
-8r	Gm
-8r	F
-8r	F
+8r	G minor
+8r	G minor
+8r	G minor
+8r	G minor
+8r	G minor
+8r	G minor
+8r	F major
+8r	F major
 =2	=2
-8r	Gm
-8r	Gm
-8r	Gm
-8r	Gm
-8r	Gm
-8r	Gm
-8r	F
-8f	F
+8r	G minor
+8r	G minor
+8r	G minor
+8r	G minor
+8r	G minor
+8r	G minor
+8r	F major
+8f	F major
 =3	=3
-8g	Gm
-8dd	.
-4dd-[	A
-4dd-]	B-
-8b-	Cm
-8a	.
+8gL	G minor
+8ddJ	.
+[4dd-	A major
+4dd-]	B- major
+8b-L	C minor
+8aJ	.
 =4	=4
-4g	Gm
-8g	A
-8a	.
-4b-	B-
-8a	F/A
-8f	.
+4g	G minor
+8gL	A major
+8aJ	.
+4b-	B- major
+8aL	F major/A
+8fJ	.
 =5	=5
-8g	Gm
-8dd	.
-4dd-[	A
-8dd-]	B-
+8gL	G minor
+8ddJ	.
+[4dd-	A major
+8dd-L]	B- major
 8a	.
-8b-	Cm
-8ff	.
+8b-	C minor
+8ffJ	.
 =6	=6
-4een[	Gm
-4een_	A
-4een_	B-
-8een]	D/A
-8f	.
+[4een	G minor
+4een_	A major
+4een_	B- major
+8eenL]	D major/A
+8fJ	.
 =7	=7
-8g	Gm
-8dd	.
-4dd-[	A
-4dd-]	B-
-8b-	Cm
-8a	.
+8gL	G minor
+8ddJ	.
+[4dd-	A major
+4dd-]	B- major
+8b-L	C minor
+8aJ	.
 =8	=8
-4g	Gm
-8g	A
-8a	.
-4b-	B-
-8a	F/A
-8f	.
+4g	G minor
+8gL	A major
+8aJ	.
+4b-	B- major
+8aL	F major/A
+8fJ	.
 =9	=9
-8g	Gm
-8dd	.
-4dd-[	A
-8dd-]	B-
+8gL	G minor
+8ddJ	.
+[4dd-	A major
+8dd-L]	B- major
 8a	.
-8b-	Cm
-8ff	.
+8b-	C minor
+8ffJ	.
 =10	=10
-4een[	Gm
-4een_	A
-4een_	B-
-4een]	D/A
+[4een	G minor
+4een_	A major
+4een_	B- major
+4een]	D major/A
 ==	==
 *-	*-

@@ -15,40 +15,40 @@
 *G:	*
 *M4/4	*
 =1	=1
-1r	G
+1r	G major
 =2	=2
-2r	Gsus4
-2r	Gsus2
+2r	G suspended-fourth
+2r	G suspended-second
 =3	=3
-1r	G
+1r	G major
 =4	=4
-2r	Gsus4
-2r	Gsus2
+2r	G suspended-fourth
+2r	G suspended-second
 =5	=5
-8B	G
-8B	.
+8BL	G major
+8BJ	.
 4d	.
 4a	.
-8b	.
-8g	.
+8bL	.
+8gJ	.
 =6	=6
-8c	C
-8c	.
+8cL	C major
+8cJ	.
 4e	.
 4b	.
-8cc	.
-8dd	.
+8ccL	.
+8ddJ	.
 =7	=7
-8G	C
-8G	.
+8GL	C major
+8GJ	.
 4A	.
 4B	.
-8c	.
-8d[	.
+8cL	.
+[8dJ	.
 =8	=8
-4d]	D/F#
-8A	.
-8F#	.
+4d]	D major/F#
+8AL	.
+8F#J	.
 2D	.
 ==	==
 *-	*-

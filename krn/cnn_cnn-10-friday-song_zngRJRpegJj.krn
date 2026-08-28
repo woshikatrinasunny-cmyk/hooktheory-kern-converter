@@ -16,64 +16,64 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2f#	F#
+2f#	F# major
 2e	.
 =2	=2
-2.a[	A
-16a]	.
-8.g#	.
+[2.a	A major
+16aLK]	.
+8.g#J	.
 =3	=3
-2g#	E
+2g#	E major
 2e	.
 =4	=4
-2b	B
-8.cc#	.
+2b	B major
+8.cc#L	.
 8.dd#	.
-8ff#	.
+8ff#J	.
 =5	=5
-2gg#	C#m
+2gg#	C# minor
 2bb	.
 =6	=6
-2.ff#[	A
-16ff#]	.
-8.ee	.
+[2.ff#	A major
+16ff#LK]	.
+8.eeJ	.
 =7	=7
-2gg#	E
+2gg#	E major
 2bb	.
 =8	=8
-2ff#	B
+2ff#	B major
 4ee	.
 4dd#	.
 =9	=9
-2cc#	F#
+2cc#	F# major
 4dd#	.
 4ee	.
 =10	=10
-2.gg#[	A
-16gg#]	.
-8.ee	.
+[2.gg#	A major
+16gg#LK]	.
+8.eeJ	.
 =11	=11
-2.bb[	E
-16bb]	.
-8.gg#	.
+[2.bb	E major
+16bbLK]	.
+8.gg#J	.
 =12	=12
-2.ccc#[	B
-16ccc#]	.
+[2.ccc#	B major
+16ccc#LK]	.
 8bb	.
-16aa	.
+16aaJk	.
 =13	=13
-2gg#	C#m
+2gg#	C# minor
 4ff#	.
 4bb	.
 =14	=14
-2gg#	A
+2gg#	A major
 4ff#	.
 4ee	.
 =15	=15
-2.ff#	E
+2.ff#	E major
 4ee	.
 =16	=16
-2eee	B
+2eee	B major
 2ddd#	.
 ==	==
 *-	*-

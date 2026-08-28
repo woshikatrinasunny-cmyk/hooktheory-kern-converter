@@ -16,135 +16,135 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4.G#	G#m
-8r	G#m
+4.G#	G# minor
+8r	G# minor
 8d#	.
-16r	G#m
+16r	G# minor
 8B	.
-16r	G#m
-8A#[	.
+16r	G# minor
+[8A#	.
 =2	=2
-4.A#]	F#
-8r	F#
+4.A#]	F# major
+8r	F# major
 8c#	.
-16r	F#
+16r	F# major
 8A#	.
-16r	F#
-8G#[	.
+16r	F# major
+[8G#	.
 =3	=3
-4.G#]	E
-8r	E
+4.G#]	E major
+8r	E major
 8c#	.
-16r	E
+16r	E major
 8G#	.
-16r	E
-8A#[	.
+16r	E major
+[8A#	.
 =4	=4
-8.A#]	F#
+8.A#]	F# major
 8.r	.
-8A#	F#
-8d#	.
-8c#	F#
-16B[	.
-16B]	F#
-8A#	.
+8A#	F# major
+8d#L	.
+8c#	F# major
+[16BL	.
+16BJ]	F# major
+8A#J	.
 =5	=5
-4.G#	G#m
-8r	G#m
+4.G#	G# minor
+8r	G# minor
 8d#	.
-16r	G#m
+16r	G# minor
 8B	.
-16r	G#m
-8A#[	.
+16r	G# minor
+[8A#	.
 =6	=6
-4.A#]	F#
-8r	F#
+4.A#]	F# major
+8r	F# major
 8c#	.
-16r	F#
+16r	F# major
 8A#	.
-16r	F#
-8G#[	.
+16r	F# major
+[8G#	.
 =7	=7
-4.G#_	E
-8G#]	E
+4.G#_	E major
+8G#]	E major
 8r	.
-8G#	E
-16B[	.
-16B]	E
-8B	.
+8G#L	E major
+[16BL	.
+16BJ]	E major
+8BJ	.
 =8	=8
-4A#	D#/G
+4A#	D# major/G
 8r	.
-8G#	D#/G
-8d#	.
-8c#	D#/G
-16B[	.
-16B]	D#/G
-8A#	.
+8G#	D# major/G
+8d#L	.
+8c#	D# major/G
+[16BL	.
+16BJ]	D# major/G
+8A#J	.
 =9	=9
-8.G#[	G#m
-8.G#]	G#m
-8r	G#m
+[8.G#L	G# minor
+8.G#J]	G# minor
+8r	G# minor
 8d#	.
-16r	G#m
+16r	G# minor
 8B	.
-16r	G#m
-8A#[	.
+16r	G# minor
+[8A#	.
 =10	=10
-8.A#_	F#
-8.A#]	F#
-8r	F#
+8.A#L_	F# major
+8.A#J]	F# major
+8r	F# major
 8c#	.
-16r	F#
+16r	F# major
 8A#	.
-16r	F#
-8G#[	.
+16r	F# major
+[8G#	.
 =11	=11
-8.G#_	E
-8.G#]	E
-8r	E
+8.G#L_	E major
+8.G#J]	E major
+8r	E major
 8c#	.
-16r	E
+16r	E major
 8G#	.
-16r	E
-8A#[	.
+16r	E major
+[8A#	.
 =12	=12
-8.A#]	F#
-8.r	F#
-8A#	F#
-8d#	.
-8c#	F#
-16B[	.
-16B]	F#
-8A#	.
+8.A#]	F# major
+8.r	F# major
+8A#	F# major
+8d#L	.
+8c#	F# major
+[16BL	.
+16BJ]	F# major
+8A#J	.
 =13	=13
-8.G#[	G#m
-16G#]	G#m
-8G#[	.
-8G#]	G#m
-4G#	G#m
-4G#	G#m
+[8.G#L	G# minor
+16G#k]	G# minor
+[8G#	.
+8G#J]	G# minor
+4G#	G# minor
+4G#	G# minor
 =14	=14
-8.G#[	G#m
-16G#]	G#m
-8G#[	.
-8G#]	G#m
-4G#	G#m
-4G#	G#m
+[8.G#L	G# minor
+16G#k]	G# minor
+[8G#	.
+8G#J]	G# minor
+4G#	G# minor
+4G#	G# minor
 =15	=15
-8G#	G#m
+8G#L	G# minor
 8G#	.
 8G#	.
+8G#J	.
+8G#L	.
 8G#	.
 8G#	.
-8G#	.
-8G#	.
-8G#	.
+8G#J	.
 =16	=16
+8G#L	.
 8G#	.
 8G#	.
-8G#	.
-8G#	.
+8G#J	.
 4r	.
 4r	.
 ==	==

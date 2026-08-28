@@ -16,64 +16,64 @@
 *a:	*
 *M4/4	*
 =1	=1
-16gg[	Fadd(2,4,7)
-16gg_	Fadd(2,4,7)
-16gg_	Fadd(2,4,7)
-8.gg]	Fadd(2,4,7)
-8cc	.
+[16ggLL	F other-2,4,7
+16gg_	F other-2,4,7
+16ggJ_	F other-2,4,7
+8.gg]	F other-2,4,7
+8ccJ	.
+8.aaL	.
 8.aa	.
-8.aa	.
-8ccc	.
+8cccJ	.
 =2	=2
-16gg[	G
-16gg_	G
-16gg_	G
-16gg]	G
+[16ggLL	G major
+16gg_	G major
+16gg_	G major
+16ggJ]	G major
 8aa	.
-8gg	.
-4ee	C
-4bb	G
+8ggJ	.
+4ee	C major
+4bb	G major
 =3	=3
-8r	Am
-8aa	.
+8r	A minor
+8aaL	.
 8gg	.
-8aa	Cmaj7
-8.ccc	.
-16bb[	.
-8bb]	Dm7
-8aa	.
+8aaJ	C major-seventh
+8.cccL	.
+[16bbk	.
+8bb]	D minor-seventh
+8aaJ	.
 =4	=4
-8bb[	.
-16bb]	Em7
+[8bbL	.
+16bbk]	E minor-seventh
 8.ccc	.
-8ddd	.
-4ccc	C/G
-4bb	G
+8dddJ	.
+4ccc	C major/G
+4bb	G major
 =5	=5
-8eee	Am
-16aa	.
-8eee	.
+8eeeL	A minor
+16aak	.
+8eeeJ	.
 16r	.
-4.aa	F/C
-4ccc	Dm7
+4.aa	F major/C
+4ccc	D minor-seventh
 =6	=6
-8bb	G
-16bb	.
+8bbL	G major
+16bbk	.
 8ddd	.
-16bb	.
-3...ccc	Am
+16bbJk	.
+3...ccc	A minor
 =7	=7
-8eee	Am
-16aa	.
-8eee	.
+8eeeL	A minor
+16aak	.
+8eeeJ	.
 16r	.
-4.aa	F/C
-4ccc	Dm7
+4.aa	F major/C
+4ccc	D minor-seventh
 =8	=8
-8bb	G
-16bb	.
+8bbL	G major
+16bbk	.
 8ddd	.
-16bb	.
-3...ccc	Am
+16bbJk	.
+3...ccc	A minor
 ==	==
 *-	*-

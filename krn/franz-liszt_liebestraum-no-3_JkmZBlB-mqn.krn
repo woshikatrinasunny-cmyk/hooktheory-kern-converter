@@ -16,105 +16,105 @@
 *C:	*
 *M6/4	*
 =1	=1
-3...ccc	Fm
+3...ccc	F minor
 8bb	.
 3...ccc	.
 8ddd	.
 =2	=2
-3...eee	C
+3...eee	C major
 8ddd	.
 3...ccc	.
 8eee	.
 =3	=3
 *k[f#c#g#d#]	*
 *E:	*
-3...eee	Am
+3...eee	A minor
 8ddd#	.
 3...eee	.
 8fff#	.
 =4	=4
-2.ggg#	E
+2.ggg#	E major
 2.ggg#	.
 =5	=5
-1ggg#[	G#7/D#
+[1ggg#	G# dominant/D#
 4.ggg#]	.
 8ggg#	.
 =6	=6
-3...ggg#	Fdim7/D
+3...ggg#	F diminished-seventh/D
 8ggg#	.
-3...aaa	C#7
+3...aaa	C# dominant
 8ggg#	.
 =7	=7
-2.ggg#	F#9
+2.ggg#	F# dominant-ninth
 2ccc#	.
 4ccc#	.
 =8	=8
-4ccc#	G#add(1,3,7)/B
+4ccc#	G# other-1,3,7/B
 4ddd#	.
 4eee	.
 2ggg#	.
 4fff#	.
 =9	=9
-4fff#	E
+4fff#	E major
 4eee	.
-4ccc#	Edim
-2bb	E
+4ccc#	E diminished
+2bb	E major
 4bb	.
 =10	=10
 2.ggg#	.
-2.ggg#	G#7/D#
+2.ggg#	G# dominant/D#
 =11	=11
-2.ggg#[	Fdim7/D
-2.ggg#]	C#7
+[2.ggg#	F diminished-seventh/D
+2.ggg#]	C# dominant
 =12	=12
 *k[b-e-a-d-]	*
 *A-:	*
-2.aaa-	Fm/C
-2.aaa-	D-7/B
+2.aaa-	F minor/C
+2.aaa-	D- dominant/B
 =13	=13
-2aaa-	B-7
+2aaa-	B- dominant
 4ggg	.
 4fff	.
 4gg	.
 4aa-	.
 =14	=14
-2.ccc	Fadd(3,5,7,8,10)/E-
+2.ccc	F other-3,5,7,8,10/E-
 2bb-	.
 4aaa-	.
 =15	=15
-4.aaa-	B-9
+4.aaa-	B- dominant-ninth
 8ggg	.
-16bbb-	.
-16aaa-	.
-8ggg	.
+16bbb-LL	.
+16aaa-J	.
+8gggJ	.
 4fff	.
 4gg	.
 4aa-	.
 =16	=16
-2.ccc	Fadd(3,5,7,8,10)/E-
+2.ccc	F other-3,5,7,8,10/E-
 2bb-	.
 4aaa-	.
 =17	=17
-4.aaa-	Ddim7/B
+4.aaa-	D diminished-seventh/B
 8ggg	.
-8bbb-	.
-8aaa-	.
-8bbbn	B-7
-8bbb-	.
+8bbb-L	.
+8aaa-J	.
+8bbbnL	B- dominant
+8bbb-J	.
 4.gggg	.
 8ffff	.
 =18	=18
-8eeee-	.
-8ddddn	.
-8cccc	.
-8bbb-	.
-8aaa-	.
-8ggg	.
+8eeee-L	.
+8ddddnJ	.
+8ccccL	.
+8bbb-J	.
+8aaa-L	.
+8gggJ	.
 4fff	.
 4gg	.
 4aa-	.
 =19	=19
-2ccc	Fadd(3,5,7,8,10)/E-
+2ccc	F other-3,5,7,8,10/E-
 4bb-	.
 2eee-	.
 4ddd-	.
@@ -124,11 +124,11 @@
 2cccc	.
 4bbb-	.
 =21	=21
-16fff	E-9
+16fffLL	E- dominant-ninth
 16ggg	.
 16bbb-	.
-16dddd-	.
-1ffff[	.
+16dddd-JJ	.
+[1ffff	.
 4ffff_	.
 =22	=22
 1.ffff]	.

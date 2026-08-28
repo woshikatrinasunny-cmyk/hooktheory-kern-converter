@@ -16,71 +16,71 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.r	Am7
+4.r	A minor-seventh
 16a	.
 8ee	.
-8dd	.
+8ddL	.
 8ccn	.
-8.dd	.
+8.ddJ	.
 =2	=2
-4..a	F#m7
+4..a	F# minor-seventh
 8.ee	.
-16dd	.
+16ddLK	.
 8ccn	.
-8.dd	.
+8.ddJ	.
 =3	=3
-4.a	Dm7
+4.a	D minor-seventh
 8ee	.
-8ee	.
-16dd	.
+8eeL	.
+16ddk	.
 8ccn	.
 8dd	.
-16ee[	.
+[16eeJk	.
 =4	=4
-8ee]	G7sus4
-16dd	.
+8eeL]	G dominant-seventh-suspended-fourth
+16ddk	.
 8ccn	.
-8dd	.
+8ddJ	.
 8.ee	.
-16dd	.
+16ddLK	.
 8ccn	.
-8.a	G
+8.aJ	G major
 =5	=5
-4.r	Am7
-16a	.
-16a	.
-16ee	.
+4.r	A minor-seventh
+16aLL	.
+16aJJ	.
+16eeLK	.
 8dd	.
 8ccn	.
 8dd	.
-16a[	.
+[16aJk	.
 =6	=6
-8a]	F#m7
+8a]	F# minor-seventh
 4r	.
 8ee	.
+8eeL	.
 8ee	.
+16eek	.
 8ee	.
-16ee	.
-8ee	.
-16ffn	.
+16ffnJk	.
 =7	=7
-8ee	Dm7
+8ee	D minor-seventh
 4r	.
 16a	.
 8a	.
-8ccn	.
+8ccnL	.
 8ccn	.
 8dd	.
-16ee[	.
+[16eeJk	.
 =8	=8
-8ee]	G7sus4
-16dd	.
+8eeL]	G dominant-seventh-suspended-fourth
+16ddk	.
 8ccn	.
-8dd	.
+8ddJ	.
 8.ee	.
-16dd	G
+16ddLK	G major
 8ccn	.
-8a	Em/G
+8aJ	E minor/G
 16r	.
 ==	==
 *-	*-

@@ -16,61 +16,61 @@
 *d#:	*
 *M4/4	*
 =1	=1
-8.cc#	D#m
+8.cc#L	D# minor
 8.an	.
-8g#[	D#m
-4g#]	D#m/F#
-4r	Eadd(6,7)
+[8g#J	D# minor
+4g#]	D# minor/F#
+4r	E other-6,7
 =2	=2
-8.b	D#m
+8.bL	D# minor
 8.g#	.
-8fn[	D#m
-8fn]	D#m/F#
-8c#[	.
-16c#]	Eadd(6,7)
+[8fnJ	D# minor
+8fnL]	D# minor/F#
+[8c#	.
+16c#Jk]	E other-6,7
 16r	.
 8c#	.
 =3	=3
-8.an	D#m
-16b	.
+8.anL	D# minor
+16bk	.
 8g#	.
-8an	D#m
-8f#	D#m/F#
+8anJ	D# minor
+8f#	D# minor/F#
 8r	.
-4r	Eadd(6,7)
+4r	E other-6,7
 =4	=4
-4.r	D#m
-8r	D#m
-8r	D#m/F#
-8r	A
-4ddn	Eadd(6,7)
+4.r	D# minor
+8r	D# minor
+8r	D# minor/F#
+8r	A major
+4ddn	E other-6,7
 =5	=5
-8.cc#	D#m
+8.cc#L	D# minor
 8.an	.
-8g#[	D#m
-4g#]	D#m/F#
-4r	Eadd(6,7)
+[8g#J	D# minor
+4g#]	D# minor/F#
+4r	E other-6,7
 =6	=6
-8.b	D#m
+8.bL	D# minor
 8.g#	.
-8fn[	D#m
-8fn]	D#m/F#
-8c#	.
-8r	Eadd(6,7)
+[8fnJ	D# minor
+8fnL]	D# minor/F#
+8c#J	.
+8r	E other-6,7
 8c#	.
 =7	=7
-8.an	D#m
-16b	.
+8.anL	D# minor
+16bk	.
 8g#	.
-8an	D#m
-8f#	D#m/F#
+8anJ	D# minor
+8f#	D# minor/F#
 8r	.
-4r	Eadd(6,7)
+4r	E other-6,7
 =8	=8
-4.r	D#m
-8r	D#m
-8r	D#m/F#
-8r	A
-4ddn	Eadd(6,7)
+4.r	D# minor
+8r	D# minor
+8r	D# minor/F#
+8r	A major
+4ddn	E other-6,7
 ==	==
 *-	*-

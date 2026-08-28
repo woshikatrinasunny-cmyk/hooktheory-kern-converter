@@ -15,59 +15,59 @@
 *C:	*
 *M4/4	*
 =1	=1
-8cccc	F
-16cccc	.
-16bbb	.
-8cccc	F/C
-16cccc	.
-16bbb	.
-16cccc	F
+8ccccL	F major
+16ccccL	.
+16bbbJ	.
+8cccc	F major/C
+16ccccL	.
+16bbbJJ	.
+16ccccLL	F major
 16aaa	.
 16ggg#	.
-16aaa	.
-8cccc	Gsus4
-16cccc	F
-16bbb	.
+16aaaJ	.
+8cccc	G suspended-fourth
+16ccccL	F major
+16bbbJJ	.
 =2	=2
-8cccc	C
-16cccc	.
-16bbb	.
-8cccc	C/G
-16cccc	.
-16bbb	.
-16cccc	C
+8ccccL	C major
+16ccccL	.
+16bbbJ	.
+8cccc	C major/G
+16ccccL	.
+16bbbJJ	.
+16ccccLL	C major
 16bbb	.
 16fff#	.
-16ggg	.
-8cccc	C/E
-16cccc	.
-16ggg	.
+16gggJ	.
+8cccc	C major/E
+16ccccL	.
+16gggJJ	.
 =3	=3
-8cccc	F
-16cccc	.
-16bbb	.
-8cccc	F/C
-16cccc	.
-16bbb	.
-16cccc	F
+8ccccL	F major
+16ccccL	.
+16bbbJ	.
+8cccc	F major/C
+16ccccL	.
+16bbbJJ	.
+16ccccLL	F major
 16aaa	.
 16ggg#	.
-16aaa	.
-8cccc	Gsus4
-16cccc	F
-16aaa	.
+16aaaJ	.
+8cccc	G suspended-fourth
+16ccccL	F major
+16aaaJJ	.
 =4	=4
-8dddd	G
-16dddd	.
-16bbb	.
-8dddd	G/D
-16dddd	.
-16bbb	.
-16dddd	G
+8ddddL	G major
+16ddddL	.
+16bbbJ	.
+8dddd	G major/D
+16ddddL	.
+16bbbJJ	.
+16ddddLL	G major
 16ffff	.
 16eeee	.
-16dddd	.
+16ddddJ	.
 8cccc	.
-8bbb	.
+8bbbJ	.
 ==	==
 *-	*-

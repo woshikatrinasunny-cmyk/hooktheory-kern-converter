@@ -16,64 +16,64 @@
 *c:	*
 *M4/4	*
 =1	=1
-8r	Cm
-8c	.
+8r	C minor
+8cL	.
 8g	.
-8cc	.
+8ccJ	.
 4ee-	.
 4cc	.
 =2	=2
-8bn	G/B
-8cc	.
+8bnL	G major/B
+8ccJ	.
 4dd	.
-8cc	.
+8ccL	.
 8g	.
 8e-	.
-8c	.
+8cJ	.
 =3	=3
-8d	G7/B
-8e-	.
+8dL	G dominant/B
+8e-J	.
 4g-	.
-8g	Cm/G
+8gL	C minor/G
 8e-	.
 8c	.
-8An	.
+8AnJ	.
 =4	=4
-8Bn	G
-8c	.
+8BnL	G major
+8cJ	.
 4d	.
-4c	Cm
+4c	C minor
 4r	.
 =5	=5
 8r	.
-8c	.
+8cL	.
 8g	.
-8cc	.
+8ccJ	.
 4ee-	.
 4bb-	.
 =6	=6
-8aan	D7
-8gg	.
+8aanL	D dominant
+8ggJ	.
 4aan	.
-8bb-	E-
+8bb-L	E- major
 8gg	.
-8ee-	A-/E-
-8cc	.
+8ee-	A- major/E-
+8ccJ	.
 =7	=7
-8bn	G7/F
-8cc	.
+8bnL	G dominant/F
+8ccJ	.
 4dd	.
-8ee-	Cm/G
+8ee-L	C minor/G
 8cc	.
 8g	.
-8e-	.
+8e-J	.
 =8	=8
-8bn	G/B
+8bnL	G major/B
 8an	.
-16bn	.
-16cc	.
-8bn	.
-4cc	Cm
+16bnL	.
+16ccJ	.
+8bnJ	.
+4cc	C minor
 4r	.
 ==	==
 *-	*-

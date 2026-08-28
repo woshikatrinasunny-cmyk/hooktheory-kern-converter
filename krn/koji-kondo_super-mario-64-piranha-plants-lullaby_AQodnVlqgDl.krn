@@ -15,49 +15,49 @@
 *G:	*
 *M3/4	*
 =1	=1
-2.bb	Cmaj7
+2.bb	C major-seventh
 =2	=2
-2.aa	D7
+2.aa	D dominant
 =3	=3
-2.ff#	Bm
+2.ff#	B minor
 =4	=4
-2dd	Em7
+2dd	E minor-seventh
 4b	.
 =5	=5
-4cc	Am7
+4cc	A minor-seventh
 4ee	.
 4bb	.
 =6	=6
-2aa	D7sus2
-8ee	.
-8ff#	.
+2aa	D dominant-seventh-suspended-second
+8eeL	.
+8ff#J	.
 =7	=7
-2.dd	G
+2.dd	G major
 =8	=8
 4g	.
 4a	.
 4b	.
 =9	=9
-2.bb	Cmaj7
+2.bb	C major-seventh
 =10	=10
-2.aa	D9
+2.aa	D dominant-ninth
 =11	=11
-2.ddd	Bm
+2.ddd	B minor
 =12	=12
-2gg	Em7
+2gg	E minor-seventh
 4b	.
 =13	=13
-4cc	Am7
+4cc	A minor-seventh
 4ee	.
 4bb	.
 =14	=14
-2aa	D7
-8ee	.
-8ff#	.
+2aa	D dominant
+8eeL	.
+8ff#J	.
 =15	=15
-2gg	G
-8a	.
-8b	.
+2gg	G major
+8aL	.
+8bJ	.
 =16	=16
 2.g	.
 ==	==

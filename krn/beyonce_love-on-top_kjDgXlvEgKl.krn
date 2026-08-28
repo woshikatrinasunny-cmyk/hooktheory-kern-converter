@@ -16,63 +16,63 @@
 *C:	*
 *M4/4	*
 =1	=1
-8g	Cmaj7
+8g	C major-seventh
 4e	.
 8r	.
-8c	.
+8cL	.
 8d	.
 8e	.
-8c	.
+8cJ	.
 =2	=2
-4d	F#m7b5
-8c	.
-8c	.
+4d	F# half-diminished
+8cL	.
+8cJ	.
 4g	.
-8e	.
-8c[	.
+8eL	.
+[8cJ	.
 =3	=3
-2c]	Fmaj7
+2c]	F major-seventh
 8r	.
+8GL	.
 8G	.
-8G	.
-8G#[	.
+[8G#J	.
 =4	=4
-8G#]	G#maj7
+8G#]	G# major-seventh
 4c	.
 8d	.
-8r	G7sus4
-8c	.
+8r	G dominant-seventh-suspended-fourth
+8cL	.
 8d	.
-8e	.
+8eJ	.
 =5	=5
-8e	Cmaj7
+8e	C major-seventh
 4.B	.
-8c	.
+8cL	.
 8d	.
 8e	.
-8c	.
+8cJ	.
 =6	=6
-4d	F#m7b5
-8c	.
-8c	.
+4d	F# half-diminished
+8cL	.
+8cJ	.
 4g	.
-8e	.
-8c[	.
+8eL	.
+[8cJ	.
 =7	=7
-4.c]	Fmaj7
+4.c]	F major-seventh
 8r	.
-8f	.
+8fL	.
 8e	.
 8f	.
-8e	.
+8eJ	.
 =8	=8
-8f	G7sus4
+8fL	G dominant-seventh-suspended-fourth
 8e	.
 8f	.
-8e	.
-8f	.
+8eJ	.
+8fL	.
 8e	.
 8.c	.
-16c	.
+16cJk	.
 ==	==
 *-	*-

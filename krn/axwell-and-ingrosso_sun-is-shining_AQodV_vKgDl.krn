@@ -16,22 +16,22 @@
 *D:	*
 *M6/4	*
 =1	=1
-2.gg	Em
+2.gg	E minor
 2gg	.
-4gg[	.
+[4gg	.
 =2	=2
 2gg]	.
 4gg	.
 2.gg	.
 =3	=3
-2.ff#	D
+2.ff#	D major
 2.ff#	.
 =4	=4
-1.ee	A
+1.ee	A major
 =5	=5
-2.dd	D
+2.dd	D major
 2ee	.
-4ff#[	.
+[4ff#	.
 =6	=6
 2ff#]	.
 4ee	.
@@ -40,24 +40,24 @@
 2.a	.
 2.b	.
 =8	=8
-1.b	G
+1.b	G major
 =9	=9
-2.gg	Em
+2.gg	E minor
 2gg	.
-4gg[	.
+[4gg	.
 =10	=10
 2gg]	.
 4gg	.
 2.gg	.
 =11	=11
-2.aa	D
+2.aa	D major
 2.ff#	.
 =12	=12
-1.ee	A
+1.ee	A major
 =13	=13
-2.dd	D
+2.dd	D major
 2ee	.
-4ff#[	.
+[4ff#	.
 =14	=14
 2ff#]	.
 4ee	.
@@ -66,6 +66,6 @@
 2.a	.
 2.b	.
 =16	=16
-1.b	G
+1.b	G major
 ==	==
 *-	*-

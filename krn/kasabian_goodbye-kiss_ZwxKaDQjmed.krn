@@ -16,29 +16,29 @@
 *G:	*
 *M4/4	*
 =1	=1
-4bb	G
+4bb	G major
 4bb	.
 4aa	.
 4aa	.
 =2	=2
 4ff#	.
-8ff#	.
-8gg[	.
-4gg]	Gmaj7
+8ff#L	.
+[8ggJ	.
+4gg]	G major-seventh
 4r	.
 =3	=3
-4bb	G
+4bb	G major
 4bb	.
 4aa	.
 4aa	.
 =4	=4
 4ff#	.
-8ff#	.
-8gg[	.
-4gg]	Gmaj7
+8ff#L	.
+[8ggJ	.
+4gg]	G major-seventh
 4r	.
 =5	=5
-4bb	C
+4bb	C major
 4bb	.
 4aa	.
 4aa	.
@@ -48,43 +48,43 @@
 4.bb	.
 4r	.
 =7	=7
-4ff#	D
+4ff#	D major
 4ff#	.
 4gg	.
 4gg	.
 =8	=8
-4aa[	D7/C
-8aa]	G/B
-8ccc[	.
-8ccc]	D/A
-8bb[	.
-4bb]	D/F#
+[4aa	D dominant/C
+8aaL]	G major/B
+[8cccJ	.
+8cccL]	D major/A
+[8bbJ	.
+4bb]	D major/F#
 =9	=9
-1B[	G
+[1B	G major
 =10	=10
 4.B]	.
 2A	.
-8B[	.
+[8B	.
 =11	=11
 8B]	.
 2..B	.
 =12	=12
 4.r	.
 8G	.
-8.d	.
+8.dL	.
 8.c	.
-8B	.
+8BJ	.
 =13	=13
-4B	C
+4B	C major
 4c	.
 2G	.
 =14	=14
 2r	.
-8.d	Bm7/D
-8.c	Am/C
-8B	C/G
+8.dL	B minor-seventh/D
+8.c	A minor/C
+8BJ	C major/G
 =15	=15
-2G	G
+2G	G major
 2r	.
 =16	=16
 1r	.

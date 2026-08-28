@@ -15,68 +15,68 @@
 *b-:	*
 *M3/4	*
 =1	=1
-2r	B-m
-8.dd-	.
-16dd-	.
+2r	B- minor
+8.dd-L	.
+16dd-Jk	.
 =2	=2
-2b-	B-m
-8.b-	.
-16b-	.
+2b-	B- minor
+8.b-L	.
+16b-Jk	.
 =3	=3
-2ff	D-
-8.ff	.
-16ff	.
+2ff	D- major
+8.ffL	.
+16ffJk	.
 =4	=4
-2ee-	E-m
-16ee-	.
-8.b-	.
+2ee-	E- minor
+16ee-LK	.
+8.b-J	.
 =5	=5
-4.dd-	G-
+4.dd-	G- major
 4r	.
 8b-	.
 =6	=6
-16ff	D-
+16ff	D- major
 4..ff	.
-8ee-	.
-8ee-	.
+8ee-L	.
+8ee-J	.
 =7	=7
-8ee-	A-
+8ee-	A- major
 4.dd-	.
-8.dd-	.
-16cc	.
+8.dd-L	.
+16ccJk	.
 =8	=8
-2b-	B-m
+2b-	B- minor
 4r	.
 =9	=9
-2r	B-m
+2r	B- minor
 4dd-	.
 =10	=10
-2b-	B-m
-8.b-	.
-16b-	.
+2b-	B- minor
+8.b-L	.
+16b-Jk	.
 =11	=11
-8ee-	D-
+8ee-	D- major
 2ff	.
 8ff	.
 =12	=12
-2ee-	E-m
-8ee-	.
-8b-	.
+2ee-	E- minor
+8ee-L	.
+8b-J	.
 =13	=13
-4.dd-	G-
+4.dd-	G- major
 4r	.
 8ee-	.
 =14	=14
-4ff	F
+4ff	F major
 4.ff	.
 8ee-	.
 =15	=15
-16ee-	F
+16ee-	F major
 4..dd-	.
-8.dd-	.
-16cc	.
+8.dd-L	.
+16ccJk	.
 =16	=16
-2b-	B-m
+2b-	B- minor
 4r	.
 ==	==
 *-	*-

@@ -16,23 +16,23 @@
 *E:	*
 *M4/4	*
 =1	=1
-4g#	E
+4g#	E major
 8a	.
 4g#	.
 4a	.
-8b[	.
+[8b	.
 =2	=2
 4b]	.
 4b	.
 4a	.
 4g#	.
 =3	=3
-4f#	B/D#
+4f#	B major/D#
 8g#	.
 4f#	.
 8.g#	.
 16r	.
-8a[	G#7
+[8a	G# dominant
 =4	=4
 8a]	.
 8r	.
@@ -40,87 +40,87 @@
 4g#	.
 4f#	.
 =5	=5
-4e	C#m
+4e	C# minor
 8f#	.
 4e	.
 4f#	.
-8g#[	.
+[8g#	.
 =6	=6
 4g#]	.
 4g#	.
 4f#	.
 4e	.
 =7	=7
-4dn	Bm
+4dn	B minor
 4r	.
 4.cc#	.
-8b[	E
+[8b	E major
 =8	=8
 4b]	.
 4a	.
 4g#	.
 4r	.
 =9	=9
-4e	A
+4e	A major
 8c#	.
 4d#	.
 4e	.
-8f#[	C
+[8f#	C major
 =10	=10
 4f#]	.
 4r	.
 4e	.
 4f#	.
 =11	=11
-2g#	G#m
+2g#	G# minor
 4.b	.
-8e[	C#m
+[8e	C# minor
 =12	=12
 2e]	.
 2r	.
 =13	=13
-4a	F#m7
+4a	F# minor-seventh
 8g#	.
 4a	.
 4g#	.
-8a[	.
+[8a	.
 =14	=14
 4a]	.
 4g#	.
-8f#	.
+8f#L	.
 8e	.
 8f#	.
-8g#	.
+8g#J	.
 =15	=15
-3...b	Bsus4
+3...b	B suspended-fourth
 8r	.
-8cc#	.
-8b[	B
+8cc#L	.
+[8bJ	B major
 =16	=16
+8bL_	.
+8b_	B major
 8b_	.
-8b_	B
-8b_	.
-8b]	B
-8r	B
+8bJ]	B major
+8r	B major
 8r	.
-4r	B
+4r	B major
 =17	=17
-4g#	E
+4g#	E major
 8a	.
 4g#	.
 4a	.
-8b[	.
+[8b	.
 =18	=18
 4b]	.
 4b	.
 4a	.
 4g#	.
 =19	=19
-4f#	B/D#
+4f#	B major/D#
 8g#	.
 4f#	.
 4g#	.
-8a[	G#7
+[8a	G# dominant
 =20	=20
 8a]	.
 8r	.
@@ -129,57 +129,57 @@
 16r	.
 4f#	.
 =21	=21
-4e	C#m
+4e	C# minor
 8d#	.
 4e	.
 4f#	.
-8g#[	.
+[8g#	.
 =22	=22
 4g#]	.
 4r	.
 16e	.
 16r	.
-8d#	.
+8d#L	.
 8e	.
-8cc#	.
+8cc#J	.
 =23	=23
-2cc#	Bm
+2cc#	B minor
 4cc#	.
-8b	.
-8b[	E
+8bL	.
+[8bJ	E major
 =24	=24
 2b]	.
 4r	.
 4e	.
 =25	=25
-2.g#	A
-8c#	.
-8f#[	Am/C
+2.g#	A major
+8c#L	.
+[8f#J	A minor/C
 =26	=26
 2f#]	.
 4r	.
 8d#	.
 8r	.
 =27	=27
-2f#	G#m7
+2f#	G# minor-seventh
 4.e	.
-8r	C#m7
+8r	C# minor-seventh
 =28	=28
 4f#	.
 4e	.
 4f#	.
 4g#	.
 =29	=29
-1b	F#m7
+1b	F# minor-seventh
 =30	=30
 2r	.
 16e	.
 16r	.
-8d#	.
+8d#L	.
 8e	.
-8f#	.
+8f#J	.
 =31	=31
-2b	B
+2b	B major
 4r	.
 4B	.
 =32	=32
@@ -188,15 +188,15 @@
 4f#	.
 4e	.
 =33	=33
-4f#	Am
+4f#	A minor
 8e	.
 4e	.
 8d#	.
-4e[	.
+[4e	.
 =34	=34
 1e]	.
 =35	=35
-2.r	B
+2.r	B major
 4B	.
 =36	=36
 4a	.
@@ -204,25 +204,25 @@
 4f#	.
 4e	.
 =37	=37
-4f#	Esus4
-8e	E
-8e[	E
-8e]	.
-8d#[	Esus2
+4f#	E suspended-fourth
+8eL	E major
+[8eJ	E major
+8eL]	.
+[8d#	E suspended-second
 8d#]	.
-8e[	E
+[8eJ	E major
 =38	=38
 1e]	.
 =39	=39
-4r	Esus4
-8r	E
-8r	E
+4r	E suspended-fourth
+8r	E major
+8r	E major
 8r	.
-8r	Esus2
+8r	E suspended-second
 8r	.
-8r	E
+8r	E major
 =40	=40
 2r	.
-2r	B
+2r	B major
 ==	==
 *-	*-

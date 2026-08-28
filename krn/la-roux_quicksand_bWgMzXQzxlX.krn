@@ -16,118 +16,118 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4r	B-m
-8f	B-m
-4b-	B-m/D-
-8b-	B-m
-8b-	B-m/F
-8a-	B-m/D-
+4r	B- minor
+8f	B- minor
+4b-	B- minor/D-
+8b-L	B- minor
+8b-	B- minor/F
+8a-J	B- minor/D-
 =2	=2
-4b-	G-
-8a-[	G-
-8a-]	G-/B-
+4b-	G- major
+[8a-L	G- major
+8a-J]	G- major/B-
 8r	.
-8r	G-
-8r	G-/D-
-8r	G-
+8r	G- major
+8r	G- major/D-
+8r	G- major
 =3	=3
-4r	A-
-8dd-	A-
-4cc	A-/C
-8b-	A-
-8dd-	A-/E-
-8b-[	A-
+4r	A- major
+8dd-	A- major
+4cc	A- major/C
+8b-L	A- major
+8dd-	A- major/E-
+[8b-J	A- major
 =4	=4
-8b-]	B-m
-8b-[	.
-8b-]	B-m
-4r	B-m/D-
-8r	B-m
-4r	B-m/F
+8b-L]	B- minor
+[8b-	.
+8b-J]	B- minor
+4r	B- minor/D-
+8r	B- minor
+4r	B- minor/F
 =5	=5
-4r	B-m
-8b-	B-m
-4b-[	B-m/D-
-8b-]	B-m
-8b-[	B-m/F
-8b-]	B-m/D-
+4r	B- minor
+8b-	B- minor
+[4b-	B- minor/D-
+8b-L]	B- minor
+[8b-	B- minor/F
+8b-J]	B- minor/D-
 =6	=6
-4cc	G-
-8b-	G-
-4a-	G-/B-
-8f[	G-
-8f]	G-/D-
-8r	G-
+4cc	G- major
+8b-	G- major
+4a-	G- major/B-
+[8fL	G- major
+8fJ]	G- major/D-
+8r	G- major
 =7	=7
-4r	A-
-8b-	A-
-4ee-	A-/C
-8ee-	A-
-8ee-	A-/E-
-8dd-	A-
+4r	A- major
+8b-	A- major
+4ee-	A- major/C
+8ee-L	A- major
+8ee-	A- major/E-
+8dd-J	A- major
 =8	=8
-8ee-	B-m
+8ee-L	B- minor
 8dd-	.
-8b-[	.
-8b-]	B-m
+[8b-	.
+8b-J]	B- minor
 8r	.
-8.r	B-m
+8.r	B- minor
 8.r	.
 =9	=9
 8r	.
-8r	A-
+8r	A- major
 8r	.
-2r	A-
+2r	A- major
 8r	.
 =10	=10
-8r	D-
+8r	D- major
 4r	.
-8r	D-
+8r	D- major
 8r	.
-8.r	D-
+8.r	D- major
 8.r	.
 =11	=11
 8r	.
-8r	B-m
+8r	B- minor
 8r	.
-4ee-	B-m
+4ee-	B- minor
+8ee-L	.
 8ee-	.
-8ee-	.
-8dd-	.
+8dd-J	.
 =12	=12
-8ee-	B-m
+8ee-L	B- minor
 8dd-	.
-8b-[	.
-8b-]	B-m
+[8b-	.
+8b-J]	B- minor
 8r	.
-8.r	B-m
+8.r	B- minor
 8.r	.
 =13	=13
 8r	.
-8r	A-
+8r	A- major
 8r	.
-2r	A-
+2r	A- major
 8r	.
 =14	=14
-8r	D-
+8r	D- major
 4r	.
-8ee-[	D-
-8ee-]	.
-8ee-	D-
-16ee-[	.
-16ee-]	.
-8dd-	.
+[8ee-	D- major
+8ee-L]	.
+8ee-	D- major
+[16ee-L	.
+16ee-J]	.
+8dd-J	.
 =15	=15
-8ee-	.
-8dd-	B-m
-8b-[	.
-8b-]	B-m
+8ee-L	.
+8dd-	B- minor
+[8b-	.
+8b-J]	B- minor
 4.r	.
 8r	.
 =16	=16
-4.r	B-m
-4r	B-m
-4r	B-m
-8r	B-m
+4.r	B- minor
+4r	B- minor
+4r	B- minor
+8r	B- minor
 ==	==
 *-	*-

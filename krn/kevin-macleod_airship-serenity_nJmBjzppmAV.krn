@@ -15,43 +15,43 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.r	C
+4.r	C major
 8cc	.
 4.gg	.
-16ff	.
-16ee	.
+16ffLL	.
+16eeJJ	.
 =2	=2
-4.dd[	G/B
-4..dd_	G
-8.dd]	Am11
+[4.dd	G major/B
+4..dd_	G major
+8.dd]	A minor-11th
 =3	=3
-4.r	A#
+4.r	A# major
 8dd	.
-6...ff[	.
-16ff]	A#maj7/A
-16ee	Gm7
-16dd	.
+[6...ff	.
+16ffLL]	A# major-seventh/A
+16ee	G minor-seventh
+16ddJJ	.
 =4	=4
-4.cc	F
+4.cc	F major
 3...a	.
 =5	=5
-4.r	C
+4.r	C major
 8cc	.
 4.gg	.
-16ff	.
-16ee	.
+16ffLL	.
+16eeJJ	.
 =6	=6
-4.dd[	G/B
-4..dd_	G
-8.dd]	Am11
+[4.dd	G major/B
+4..dd_	G major
+8.dd]	A minor-11th
 =7	=7
-4.r	A#add(2,4,7)
+4.r	A# other-2,4,7
 8ff	.
-8.ff	.
-8ee[	.
-16ee]	A#maj7/A
-8dd	Gsus4
+8.ffL	.
+[8ee	.
+16eek]	A# major-seventh/A
+8ddJ	G suspended-fourth
 =8	=8
-1cc	F
+1cc	F major
 ==	==
 *-	*-

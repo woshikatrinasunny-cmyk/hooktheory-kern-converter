@@ -17,66 +17,66 @@
 =1	=1
 8C	.
 16r	.
-16C	.
-8C	.
+16CLK	.
+8CJ	.
 8r	.
 8C	.
 16r	.
-16C	.
+16CLK	.
 8C	.
-16C	.
+16CJk	.
 16r	.
 =2	=2
-4c	F
+4c	F major
 4d	.
-16c	C
+16c	C major
 6...r	.
 16C	.
 16r	.
 =3	=3
-4c	F7
+4c	F dominant
 4d	.
-16c	B-
-16B-	.
+16cLL	B- major
+16B-JJ	.
 16r	.
 16F	.
 4F	.
 =4	=4
-4B-	B-m
+4B-	B- minor
 4c	.
-4A	F
+4A	F major
 4F	.
 =5	=5
-4F	C7sus4
+4F	C dominant-seventh-suspended-fourth
 4E	.
-4D	C7
-8E	.
-16C	.
+4D	C dominant
+8EL	.
+16CJk	.
 16r	.
 =6	=6
-4c	F
+4c	F major
 4d	.
-16c	C
+16c	C major
 6...r	.
 16C	.
 16r	.
 =7	=7
-4c	F7
+4c	F dominant
 4d	.
-16c	B-
-16B-	.
+16cLL	B- major
+16B-JJ	.
 16r	.
 16F	.
 4F	.
 =8	=8
-4B-	B-m
+4B-	B- minor
 4c	.
-4A	F
+4A	F major
 4F	.
 =9	=9
-4F	C7sus4
+4F	C dominant-seventh-suspended-fourth
 4E	.
-4D	C7
+4D	C dominant
 4E	.
 ==	==
 *-	*-

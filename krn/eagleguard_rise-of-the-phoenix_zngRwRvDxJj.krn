@@ -16,52 +16,52 @@
 *d:	*
 *M4/4	*
 =1	=1
-4.d	Dm
+4.d	D minor
+8A	.
+8dL	.
 8A	.
 8d	.
-8A	.
-8d	.
-8e-	.
+8e-J	.
 =2	=2
-4f	E-
+4f	E- major
 4e-	.
 4d	.
 4c	.
 =3	=3
-4.c	Cm
+4.c	C minor
 8d	.
-8e-	.
-8d	.
-4c	Cm7
+8e-L	.
+8dJ	.
+4c	C minor-seventh
 =4	=4
-4d	Dm
-4A	D7sus2
-2A	Dm
+4d	D minor
+4A	D dominant-seventh-suspended-second
+2A	D minor
 =5	=5
 4.d	.
 8A	.
-8d	.
+8dL	.
 8A	.
 8d	.
-8e-	.
+8e-J	.
 =6	=6
-4f	E-
+4f	E- major
 4e-	.
 4d	.
 4c	.
 =7	=7
-8g	Cm
+8gL	C minor
 8f	.
 8g	.
-8a-	.
-8g	.
+8a-J	.
+8gL	.
 8f	.
-8e-	Cm7
-8f	.
+8e-	C minor-seventh
+8fJ	.
 =8	=8
-4d[	Dm
-4d_	Dm11
-4d]	Dm
+[4d	D minor
+4d_	D minor-11th
+4d]	D minor
 4A	.
 ==	==
 *-	*-

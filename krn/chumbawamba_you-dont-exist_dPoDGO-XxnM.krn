@@ -16,37 +16,37 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.r	C#
+4.r	C# major
 8ffn	.
 4ff#	.
-8gg#	.
-8ff#[	.
+8gg#L	.
+[8ff#J	.
 =2	=2
-1ff#]	F#m
+1ff#]	F# minor
 =3	=3
-4r	B
+4r	B major
 4dd#	.
 4ee	.
-8ff#	.
-8ee[	.
+8ff#L	.
+[8eeJ	.
 =4	=4
-1ee]	E
+1ee]	E major
 =5	=5
-4r	C#
+4r	C# major
 4ffn	.
 4ff#	.
-8gg#	.
-8ff#[	.
+8gg#L	.
+[8ff#J	.
 =6	=6
-2ff#]	F#m
+2ff#]	F# minor
 2cc#	.
 =7	=7
-2r	B
-8dd#	.
+2r	B major
+8dd#L	.
 8ee	.
 8ff#	.
-8ee[	.
+[8eeJ	.
 =8	=8
-1ee]	E
+1ee]	E major
 ==	==
 *-	*-

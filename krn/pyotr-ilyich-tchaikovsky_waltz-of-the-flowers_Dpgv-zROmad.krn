@@ -16,154 +16,154 @@
 *D:	*
 *M3/4	*
 =1	=1
-2ff#	D
+2ff#	D major
 4cc#	.
 =2	=2
-2ee	F#m7/A
-4b	Bm7/D
+2ee	F# minor-seventh/A
+4b	B minor-seventh/D
 =3	=3
-2dd	Em7
+2dd	E minor-seventh
 4g	.
 =4	=4
-20ccc#	A7
+20ccc#LL	A dominant
 20ddd	.
 20ccc#	.
 20ddd	.
-20ccc#	.
+20ccc#JJ	.
 16cccn	.
 8.r	.
 16ccc#	.
 8.r	.
 =5	=5
-2gg	G/B
+2gg	G major/B
 4dd	.
 =6	=6
-2ff#	Aadd(4,7,9,10)
-4cc#	A7/E
+2ff#	A other-4,7,9,10
+4cc#	A dominant/E
 =7	=7
-2ee	Dmaj9
+2ee	D major-ninth
 4a	.
 =8	=8
-20ddd	D/A
+20dddLL	D major/A
 20eee	.
 20ddd	.
 20eee	.
-20ddd	.
+20dddJJ	.
 16ccc#	.
 8.r	.
 16ddd	.
 8.r	.
 =9	=9
-2ff#	D
+2ff#	D major
 4cc#	.
 =10	=10
-2ee	F#m7/A
-4b	Bm7/D
+2ee	F# minor-seventh/A
+4b	B minor-seventh/D
 =11	=11
-2dd	Em7
+2dd	E minor-seventh
 4g	.
 =12	=12
-20ccc#	A7
+20ccc#LL	A dominant
 20ddd	.
 20ccc#	.
 20ddd	.
-20ccc#	.
+20ccc#JJ	.
 16cccn	.
 8.r	.
 16ccc#	.
 8.r	.
 =13	=13
-2gg	Gm/A#
+2gg	G minor/A#
 4dd	.
 =14	=14
-2gg	Gaug/B
+2gg	G augmented/B
 4dd#	.
 =15	=15
-2gg	C
+2gg	C major
 4ee	.
 =16	=16
-8aa	A7/C#
-8a	.
-8b	.
-8cc#	.
-8dd	.
-8ee	.
+8aaL	A dominant/C#
+8aJ	.
+8bL	.
+8cc#J	.
+8ddL	.
+8eeJ	.
 =17	=17
-2ff#	D
+2ff#	D major
 4cc#	.
 =18	=18
-2ee	F#m7/A
-4b	Bm7/D
+2ee	F# minor-seventh/A
+4b	B minor-seventh/D
 =19	=19
-2dd	Em7
+2dd	E minor-seventh
 4g	.
 =20	=20
-20ccc#	A7
+20ccc#LL	A dominant
 20ddd	.
 20ccc#	.
 20ddd	.
-20ccc#	.
+20ccc#JJ	.
 16cccn	.
 8.r	.
 16ccc#	.
 8.r	.
 =21	=21
-2gg	G/B
+2gg	G major/B
 4dd	.
 =22	=22
-2ff#	Aadd(4,7,9,10)
-4cc#	A7/E
+2ff#	A other-4,7,9,10
+4cc#	A dominant/E
 =23	=23
-2ee	Dmaj9
+2ee	D major-ninth
 4a	.
 =24	=24
-20ddd	D/A
+20dddLL	D major/A
 20eee	.
 20ddd	.
 20eee	.
-20ddd	.
+20dddJJ	.
 16ccc#	.
 8.r	.
 16ddd	.
 8.r	.
 =25	=25
-2ff#	D
+2ff#	D major
 4cc#	.
 =26	=26
-2ee	F#m7/A
-4b	Bm7/D
+2ee	F# minor-seventh/A
+4b	B minor-seventh/D
 =27	=27
-2dd	Em7
+2dd	E minor-seventh
 4g	.
 =28	=28
-20ccc#	A7
+20ccc#LL	A dominant
 20ddd	.
 20ccc#	.
 20ddd	.
-20ccc#	.
+20ccc#JJ	.
 16cccn	.
 8.r	.
 16ccc#	.
 8.r	.
 =29	=29
-2bb	Bm7/F#
+2bb	B minor-seventh/F#
 4aa	.
 =30	=30
-2bb	Fadd(4,6,7,10)
-4aa	F7
+2bb	F other-4,6,7,10
+4aa	F dominant
 =31	=31
-8ccc#	A/E
+8ccc#	A major/E
 8r	.
-8ee	.
-8ff#	.
-8gg	E7
-8gg#	.
+8eeL	.
+8ff#J	.
+8ggL	E dominant
+8gg#J	.
 =32	=32
-8aa	A
-8g	.
-8e	A7
-8c#	.
-8B	.
-8A#	.
+8aaL	A major
+8gJ	.
+8eL	A dominant
+8c#J	.
+8BL	.
+8A#J	.
 ==	==
 *-	*-

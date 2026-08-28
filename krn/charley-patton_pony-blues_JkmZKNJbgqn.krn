@@ -16,65 +16,65 @@
 *F:	*
 *M4/4	*
 =1	=1
-4dd	F
-16cc	F
-8.cc[	.
-4cc_	F
-8cc]	F
+4dd	F major
+16ccLK	F major
+[8.ccJ	.
+4cc_	F major
+8cc]	F major
 8r	.
 =2	=2
-8r	F
+8r	F major
+16ddLL	.
 16dd	.
-16dd	.
-16dd	F
+16ddJJ	F major
 16r	.
-16dd	.
-16cc	.
-8a-	F
+16ddLL	.
+16ccJJ	.
+8a-L	F major
 8a	.
-16f	F
-16g	.
-8f[	.
+16fL	F major
+16gJ	.
+[8fJ	.
 =3	=3
-4f_	F
-4f_	F
-4f_	F
-4f_	F
+4f_	F major
+4f_	F major
+4f_	F major
+4f_	F major
 =4	=4
-4f]	F
-4r	F
-4r	F
-4r	F
+4f]	F major
+4r	F major
+4r	F major
+4r	F major
 =5	=5
-16r	F
-16f	.
+16r	F major
+16fLL	.
 16a	.
-16dd	.
-4dd[	B-
-8dd]	B-
-8cc	.
-4f[	B-
+16ddJJ	.
+[4dd	B- major
+8ddL]	B- major
+8ccJ	.
+[4f	B- major
 =6	=6
-4f]	B-
-8r	F
-16dd	.
-16dd	.
-8dd	F
-16dd	.
-16cc	.
-8a-	F
-8a	.
+4f]	B- major
+8r	F major
+16ddLL	.
+16ddJJ	.
+8ddL	F major
+16ddL	.
+16ccJ	.
+8a-	F major
+8aJ	.
 =7	=7
-16f	F
-16g	.
-8f[	.
-4f_	F
-4f_	F
-4f_	F
+16fLL	F major
+16gJ	.
+[8fJ	.
+4f_	F major
+4f_	F major
+4f_	F major
 =8	=8
-4f_	F
-4f]	F
-4r	F
-4r	F
+4f_	F major
+4f]	F major
+4r	F major
+4r	F major
 ==	==
 *-	*-

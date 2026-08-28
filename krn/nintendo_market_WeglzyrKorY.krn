@@ -15,64 +15,64 @@
 *G:	*
 *M6/4	*
 =1	=1
-4.dd	G
-4.dd	G
-8dd	D/A
-8cc	.
+4.dd	G major
+4.dd	G major
+8ddL	D major/A
+8ccJ	.
 8b	.
-4.cc	D7/A
+4.cc	D dominant/A
 =2	=2
-4.dd	G/B
-4.dd	G/B
-8ee	C
-8ff#	.
+4.dd	G major/B
+4.dd	G major/B
+8eeL	C major
+8ff#J	.
 8gg	.
-4.dd	C
+4.dd	C major
 =3	=3
-4.dd	G
-4.dd	G
-8dd	D/A
-8cc	.
+4.dd	G major
+4.dd	G major
+8ddL	D major/A
+8ccJ	.
 8b	.
-4.cc	D7/A
+4.cc	D dominant/A
 =4	=4
-8dd	G/B
-8cc	.
-8b	.
-8cc	C
-8b	.
-8a	.
-4.g[	G
-4.g]	G
+8ddL	G major/B
+8ccJ	.
+8bL	.
+8ccJ	C major
+8bL	.
+8aJ	.
+[4.g	G major
+4.g]	G major
 =5	=5
-4.dd	G
-4.dd	G
-8dd	D/A
-8cc	.
+4.dd	G major
+4.dd	G major
+8ddL	D major/A
+8ccJ	.
 8b	.
-4.cc	D7/A
+4.cc	D dominant/A
 =6	=6
-4.dd	G/B
-4.dd	G/B
-8ee	C
-8ff#	.
+4.dd	G major/B
+4.dd	G major/B
+8eeL	C major
+8ff#J	.
 8gg	.
-4.dd	C
+4.dd	C major
 =7	=7
-4.dd	G
-4.dd	G
-8dd	D/A
-8cc	.
+4.dd	G major
+4.dd	G major
+8ddL	D major/A
+8ccJ	.
 8b	.
-4.cc	D7/A
+4.cc	D dominant/A
 =8	=8
-8dd	G/B
-8cc	.
-8b	.
-8cc	C
-8b	.
-8a	.
-4.g[	G
-4.g]	G
+8ddL	G major/B
+8ccJ	.
+8bL	.
+8ccJ	C major
+8bL	.
+8aJ	.
+[4.g	G major
+4.g]	G major
 ==	==
 *-	*-

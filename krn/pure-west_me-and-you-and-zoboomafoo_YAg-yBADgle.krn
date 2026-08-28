@@ -19,35 +19,35 @@
 2..r	.
 8C	.
 =2	=2
-16F	F
+16FLK	F major
 8F	.
 8F	.
-8F	.
+8FJ	.
 8G	.
-8F	.
-8F	.
+8FL	.
+8FJ	.
 8.r	.
 =3	=3
-16A	.
+16ALK	.
 8A	.
 8A	.
-16G	.
+16Gk	.
+8FJ	.
+8GL	.
 8F	.
-8G	.
-8F	.
-8A	.
+8AJ	.
 16r	.
 16C	.
 =4	=4
-16C	.
+16CLK	.
 8F	.
 8F	.
-8F	.
+8FJ	.
 8G	.
+8GL	.
+16Gk	.
 8G	.
-16G	.
-8G	.
-16F	.
+16FJk	.
 16r	.
 =5	=5
 8A	.
@@ -55,49 +55,49 @@
 8F	.
 16r	.
 8G	.
-8F[	.
-8F]	Fsus4
+[8FL	.
+8FJ]	F suspended-fourth
 8r	.
 8A	.
 =6	=6
-16c	F
+16cLK	F major
 8A	.
 8A	.
+8GJ	.
 8G	.
-8G	.
-8F	.
-16F[	.
-16F]	B-/F
+8FL	.
+[16FL	.
+16FJJ]	B- major/F
 16r	.
 8C	.
 =7	=7
-16C	F
+16CLK	F major
 8F	.
 8F	.
-16F	.
-16F	.
+16FL	.
+16FJJ	.
 8G	.
-16G	.
+16GLK	.
 8F	.
-8A	Fsus2
+8AJ	F suspended-second
 16r	.
 16A	.
 =8	=8
-16c	F
+16cLK	F major
 8A	.
 8A	.
-8G	.
+8GJ	.
 8G	.
 8F	.
 16r	.
-8F	B-/F
-8F	.
+8FL	B- major/F
+8FJ	.
 =9	=9
-4A	F
-8F	.
-8G	.
-8F[	.
-8F]	Fsus4
+4A	F major
+8FL	.
+8GJ	.
+[8FL	.
+8FJ]	F suspended-fourth
 4r	.
 ==	==
 *-	*-

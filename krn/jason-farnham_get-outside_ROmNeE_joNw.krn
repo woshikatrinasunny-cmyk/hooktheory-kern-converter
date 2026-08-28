@@ -16,54 +16,54 @@
 *G:	*
 *M4/4	*
 =1	=1
-4bb	G
+4bb	G major
 4r	.
 4gg	.
 8r	.
 8dd	.
 =2	=2
-8ee	C
+8eeL	C major
 8dd	.
 8ee	.
-8gg	.
+8ggJ	.
 2r	.
 =3	=3
-8bb	G
-8gg	.
+8bbL	G major
+8ggJ	.
 8r	.
 8gg	.
 4r	.
 4gg	.
 =4	=4
-8aa	D
-8ff#	.
+8aaL	D major
+8ff#J	.
 8r	.
 8ee	.
 8r	.
 8ee	.
 4dd	.
 =5	=5
-4gg	G
+4gg	G major
 4r	.
-4bb	G7
+4bb	G dominant
 4r	.
 =6	=6
-4ccc	C
+4ccc	C major
 4bb	.
-4ccc	C#dim7
-8ccc#	.
-8ddd[	.
+4ccc	C# diminished-seventh
+8ccc#L	.
+[8dddJ	.
 =7	=7
-8ddd]	D
+8ddd]	D major
 4.aa	.
 4ff#	.
 4ee	.
 =8	=8
-4dd	D7
+4dd	D dominant
 8cc	.
 4b	.
-8cc	.
-8a	.
+8ccL	.
+8aJ	.
 8r	.
 ==	==
 *-	*-

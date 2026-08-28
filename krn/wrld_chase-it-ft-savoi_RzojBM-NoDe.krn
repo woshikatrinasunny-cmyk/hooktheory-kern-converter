@@ -16,92 +16,92 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8r	Bmaj7
+8r	B major-seventh
 16r	.
-16r	Bmaj7
+16r	B major-seventh
 16r	.
-16r	Bmaj7
-8r	Bmaj7
+16r	B major-seventh
+8r	B major-seventh
 4r	.
-8cc#	F#maj7
-8ff#[	.
+8cc#L	F# major-seventh
+[8ff#J	.
 =2	=2
-8ff#_	D#m7
-16ff#_	.
-16ff#]	D#m7
-16gg#[	.
-16gg#]	D#m7
-8ee#[	C#11
-16ee#_	.
-8ee#_	C#11
-16ee#]	.
-8cc#	C#11
-8a#[	C#11
+8ff#L_	D# minor-seventh
+16ff#L_	.
+16ff#]	D# minor-seventh
+[16gg#	.
+16gg#J]	D# minor-seventh
+[8ee#J	C# dominant-11th
+16ee#LK_	.
+8ee#_	C# dominant-11th
+16ee#k]	.
+8cc#	C# dominant-11th
+[8a#J	C# dominant-11th
 =3	=3
-8a#_	Bmaj7
+8a#L_	B major-seventh
+16a#L_	.
+16a#_	B major-seventh
 16a#_	.
-16a#_	Bmaj7
-16a#_	.
-16a#]	Bmaj7
-8dd#[	Bmaj7
+16a#J]	B major-seventh
+[8dd#J	B major-seventh
 4dd#]	.
-8cc#	F#maj7
-8ff#[	.
+8cc#L	F# major-seventh
+[8ff#J	.
 =4	=4
-8ff#_	D#m7
-16ff#_	.
-16ff#]	D#m7
-16gg#[	.
-16gg#]	D#m7
-8aa#[	G#7
-16aa#_	.
-8aa#_	G#7
-16aa#]	.
-8gg#	G#7
-8dd#[	G#7
+8ff#L_	D# minor-seventh
+16ff#L_	.
+16ff#]	D# minor-seventh
+[16gg#	.
+16gg#J]	D# minor-seventh
+[8aa#J	G# dominant
+16aa#LK_	.
+8aa#_	G# dominant
+16aa#k]	.
+8gg#	G# dominant
+[8dd#J	G# dominant
 =5	=5
-8dd#_	Bmaj7
+8dd#L_	B major-seventh
+16dd#L_	.
+16dd#_	B major-seventh
 16dd#_	.
-16dd#_	Bmaj7
-16dd#_	.
-16dd#]	Bmaj7
-8r	Bmaj7
+16dd#JJ]	B major-seventh
+8r	B major-seventh
 4r	.
-8ff#	F#maj7
-8aa#[	.
+8ff#L	F# major-seventh
+[8aa#J	.
 =6	=6
-8aa#_	D#m7
-16aa#_	.
-16aa#]	D#m7
-16ccc#[	.
-16ccc#]	D#m7
-8aa#[	C#11
-16aa#_	.
-8aa#_	C#11
-16aa#]	.
-8ff#	C#11
-8a#[	C#11
+8aa#L_	D# minor-seventh
+16aa#L_	.
+16aa#]	D# minor-seventh
+[16ccc#	.
+16ccc#J]	D# minor-seventh
+[8aa#J	C# dominant-11th
+16aa#LK_	.
+8aa#_	C# dominant-11th
+16aa#k]	.
+8ff#	C# dominant-11th
+[8a#J	C# dominant-11th
 =7	=7
-8a#_	Bmaj7
+8a#L_	B major-seventh
+16a#L_	.
+16a#_	B major-seventh
 16a#_	.
-16a#_	Bmaj7
-16a#_	.
-16a#]	Bmaj7
-8dd#[	Bmaj7
+16a#J]	B major-seventh
+[8dd#J	B major-seventh
 4dd#]	.
-8ff#	F#maj7
-8aa#[	.
+8ff#L	F# major-seventh
+[8aa#J	.
 =8	=8
-8aa#_	D#m7
-16aa#_	.
-16aa#]	D#m7
-16ccc#[	.
-16ccc#]	D#m7
-8ddd#[	G#7
-16ddd#_	.
-8ddd#_	G#7
-16ddd#]	.
-8gg#	G#7
-8dd#	G#7
+8aa#L_	D# minor-seventh
+16aa#L_	.
+16aa#]	D# minor-seventh
+[16ccc#	.
+16ccc#J]	D# minor-seventh
+[8ddd#J	G# dominant
+16ddd#LK_	.
+8ddd#_	G# dominant
+16ddd#k]	.
+8gg#	G# dominant
+8dd#J	G# dominant
 ==	==
 *-	*-

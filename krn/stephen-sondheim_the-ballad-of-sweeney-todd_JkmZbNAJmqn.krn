@@ -16,96 +16,96 @@
 *f#:	*
 *M6/4	*
 =1	=1
-4F#	F#add(2,3,7)
+4F#	F# other-2,3,7
 8G#	.
-4A	F#add(2,3,7)
+4A	F# other-2,3,7
 8F#	.
-4G#	F#add(2,3,7)
+4G#	F# other-2,3,7
 8E	.
-4F#	F#add(2,3,7)
+4F#	F# other-2,3,7
 8r	.
 =2	=2
-4.r	F#add(2,3,7)
-4.r	F#add(2,3,7)
-4.r	F#add(2,3,7)
-4r	Asus4
+4.r	F# other-2,3,7
+4.r	F# other-2,3,7
+4.r	F# other-2,3,7
+4r	A suspended-fourth
 8C#	.
 =3	=3
-4F#	F#add(2,3,7)
-8G#	.
-8A	F#add(2,3,7)
-8G#	.
-8F#	.
-4G#	F#add(2,3,7)
+4F#	F# other-2,3,7
+8G#L	.
+8AJ	F# other-2,3,7
+8G#L	.
+8F#J	.
+4G#	F# other-2,3,7
 8E	.
-4F#	F#add(2,3,7)
+4F#	F# other-2,3,7
 8r	.
 =4	=4
-4.r	F#add(2,3,7)
-4.r	F#add(2,3,7)
-4.r	F#add(2,3,7)
-4r	Asus4
+4.r	F# other-2,3,7
+4.r	F# other-2,3,7
+4.r	F# other-2,3,7
+4r	A suspended-fourth
 8F#	.
 =5	=5
-4A	F#add(2,3,7)
-8B	.
-8c#	F#add(2,3,7)
-8B	.
-8A	.
-4B	F#add(2,3,7)
+4A	F# other-2,3,7
+8BL	.
+8c#J	F# other-2,3,7
+8BL	.
+8AJ	.
+4B	F# other-2,3,7
 8G#	.
-4A	F#add(2,3,7)
+4A	F# other-2,3,7
 8F#	.
 =6	=6
-8G#	Dadd(2,6,7)
-8A	.
-8G#	.
-8F#	Dadd(2,6,7)
-8E	.
-8C#	.
-8BB	Dadd(2,6,7)
-8C#	.
+8G#L	D other-2,6,7
+8AJ	.
+8G#L	.
+8F#J	D other-2,6,7
+8EL	.
+8C#J	.
+8BBL	D other-2,6,7
+8C#J	.
 8AA	.
-4BB	Dadd(2,6,7)
+4BB	D other-2,6,7
 8r	.
 =7	=7
-4.r	Dadd(2,6,7)
-4r	Dadd(2,6,7)
+4.r	D other-2,6,7
+4r	D other-2,6,7
 8D	.
-4C#	Gadd(6,7)
+4C#	G other-6,7
 8AA	.
-4BB	Gadd(6,7)
+4BB	G other-6,7
 8D	.
 =8	=8
-4C#	Gadd(6,7)
+4C#	G other-6,7
 8AA	.
-4BB	Gadd(6,7)
+4BB	G other-6,7
 8r	.
-4.r	Gadd(6,7)
-4r	Gadd(6,7)
+4.r	G other-6,7
+4r	G other-6,7
 8D	.
 =9	=9
-4C#	C#7
+4C#	C# dominant
 8AA	.
-4BB	C#7
+4BB	C# dominant
 8r	.
-4.r	C#7
-4.r	C#7
+4.r	C# dominant
+4.r	C# dominant
 =10	=10
-4.r	C#7
-4r	C#7
+4.r	C# dominant
+4r	C# dominant
 8C#	.
-4BB	F#add(2,3,7)
-8AA	.
-8GG#	F#add(2,3,7)
-8AA	.
-8FF#	.
+4BB	F# other-2,3,7
+8AAL	.
+8GG#J	F# other-2,3,7
+8AAL	.
+8FF#J	.
 =11	=11
-8GG#	F#add(2,3,7)
+8GG#	F# other-2,3,7
 4r	.
-8GG#	F#add(2,3,7)
+8GG#	F# other-2,3,7
 4r	.
-4.r	F#add(2,3,7)
-4.r	F#add(2,3,7)
+4.r	F# other-2,3,7
+4.r	F# other-2,3,7
 ==	==
 *-	*-

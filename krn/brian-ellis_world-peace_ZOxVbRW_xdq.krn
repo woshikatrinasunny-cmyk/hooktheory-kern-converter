@@ -16,73 +16,73 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Dadd(2,4,7)
-8aa	.
+8r	D other-2,4,7
+8aaL	.
 8gg	.
-8aa	Em11
+8aaJ	E minor-11th
 8r	.
 8ee	.
 8r	.
-8dd	Fmaj9
+8dd	F major-ninth
 =2	=2
 8r	.
 4.cc	.
 8r	.
-16g	.
+16gLL	.
 16a	.
 16cc	.
-16dd	.
-8cc	.
+16ddJ	.
+8ccJ	.
 =3	=3
-8r	Dadd(2,4,7)
-8a	.
+8r	D other-2,4,7
+8aL	.
 8g	.
-8a	Em11
+8aJ	E minor-11th
 8r	.
 8e	.
 8r	.
-8d	A#
+8d	A# major
 =4	=4
 8r	.
 8c	.
 8r	.
-16G	Am
-16A	.
-8c	.
+16GLL	A minor
+16AJJ	.
+8cL	.
 8d	.
-16e	Am7/G
+16eJk	A minor-seventh/G
 16r	.
 8g	.
 =5	=5
-8r	Dadd(2,4,7)
-8aa	.
+8r	D other-2,4,7
+8aaL	.
 8gg	.
-8aa	Em11
+8aaJ	E minor-11th
 8r	.
 8ee	.
 8r	.
-8dd	Fmaj9
+8dd	F major-ninth
 =6	=6
 8r	.
 3...cc	.
-16a	.
-16g	.
-8a	.
+16aLL	.
+16gJ	.
+8aJ	.
 =7	=7
-8r	Dadd(2,4,7)
-8a	.
+8r	D other-2,4,7
+8aL	.
 8g	.
-8a	Em11
+8aJ	E minor-11th
 8r	.
-8cc	.
+8ccL	.
 8dd	.
-8a#	A#
+8a#J	A# major
 =8	=8
 8r	.
-8a	.
+8aL	.
 8g	.
-8a	Am
+8aJ	A minor
 4r	.
-4r	Am7/G
+4r	A minor-seventh/G
 ==	==
 *-	*-

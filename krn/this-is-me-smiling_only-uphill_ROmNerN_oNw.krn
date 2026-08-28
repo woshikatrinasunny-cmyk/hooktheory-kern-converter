@@ -16,65 +16,65 @@
 *F#:	*
 *M6/4	*
 =1	=1
-4a#	F#
+4a#	F# major
 4f#	.
 4c#	.
 4f#	.
-8g#	E#dim7
-8f#	.
-8g#	.
-8a#[	.
+8g#L	E# diminished-seventh
+8f#J	.
+8g#L	.
+[8a#J	.
 =2	=2
-2.a#]	F#
+2.a#]	F# major
 4r	.
-8ff#	Ddim7/G#
-8ee#	.
-8ee#	.
-8dd#[	.
+8ff#L	D diminished-seventh/G#
+8ee#J	.
+8ee#L	.
+[8dd#J	.
 =3	=3
-4dd#]	D#m
+4dd#]	D# minor
 4a#	.
-4g#	D#m/F#
-4a#	D#m
-8b	B
-8cc#	.
-8cc#	.
-8cc#[	.
+4g#	D# minor/F#
+4a#	D# minor
+8bL	B major
+8cc#J	.
+8cc#L	.
+[8cc#J	.
 =4	=4
-2.cc#]	F#
+2.cc#]	F# major
 4r	.
-8b	E#dim7/B
-8cc#	.
-8b	.
-8a#[	.
+8bL	E# diminished-seventh/B
+8cc#J	.
+8bL	.
+[8a#J	.
 =5	=5
-4a#]	F#
+4a#]	F# major
 4f#	.
 4c#	.
 4f#	.
-8b	E#dim7
-8cc#	.
-8b	.
-8a#[	.
+8bL	E# diminished-seventh
+8cc#J	.
+8bL	.
+[8a#J	.
 =6	=6
-2.a#]	F#
+2.a#]	F# major
 4r	.
-8ff#	Ddim7/G#
-8ee#	.
-8ee#	.
-8dd#[	.
+8ff#L	D diminished-seventh/G#
+8ee#J	.
+8ee#L	.
+[8dd#J	.
 =7	=7
-4dd#]	D#m
+4dd#]	D# minor
 4a#	.
-4g#	D#m/F#
-4a#	D#m
-8b	B
-8cc#	.
-8b	.
-8a#[	.
+4g#	D# minor/F#
+4a#	D# minor
+8bL	B major
+8cc#J	.
+8bL	.
+[8a#J	.
 =8	=8
-2..a#]	F#
+2..a#]	F# major
 8r	.
-2r	A#add(4,7,8,10)
+2r	A# other-4,7,8,10
 ==	==
 *-	*-

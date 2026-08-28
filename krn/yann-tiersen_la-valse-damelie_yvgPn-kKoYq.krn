@@ -16,41 +16,41 @@
 *a:	*
 *M6/4	*
 =1	=1
-1dd[	Dm
-4dd]	Dm/F
-4cc	Gsus2
+[1dd	D minor
+4dd]	D minor/F
+4cc	G suspended-second
 =2	=2
-2.b	Am
-4a[	.
-4a_	Esus4
-4a]	Am/C
+2.b	A minor
+[4a	.
+4a_	E suspended-fourth
+4a]	A minor/C
 =3	=3
-2..dd	Dm
+2..dd	D minor
 8ee	.
-8dd	Dm/F
-8cc	.
-8b	Gsus2
-8cc	.
+8ddL	D minor/F
+8ccJ	.
+8bL	G suspended-second
+8ccJ	.
 =4	=4
-2.b	Am
-2a[	.
-4a]	Am7/G
+2.b	A minor
+[2a	.
+4a]	A minor-seventh/G
 =5	=5
-1cc[	F
+[1cc	F major
 4cc]	.
-4b	Fmaj7/E
+4b	F major-seventh/E
 =6	=6
-1e	Cadd(2,4,7)
-4f	Dm7
-4e	C/E
+1e	C other-2,4,7
+4f	D minor-seventh
+4e	C major/E
 =7	=7
-2..cc	F
+2..cc	F major
 8dd	.
-8cc	.
-8b	.
-8cc	Fmaj7/E
-8b	.
+8ccL	.
+8bJ	.
+8ccL	F major-seventh/E
+8bJ	.
 =8	=8
-1e	Cadd(2,4,7)
+1e	C other-2,4,7
 ==	==
 *-	*-

@@ -15,102 +15,102 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.f#	Gmaj9
-2e[	.
-8e]	Gadd(2,4,7,9)
+4.f#	G major-ninth
+[2e	.
+8e]	G other-2,4,7,9
 =2	=2
 4.r	.
 8d	.
-8c#	.
+8c#L	.
 8d	.
 8c#	.
-8d	.
+8dJ	.
 =3	=3
-4e	F#m7
+4e	F# minor-seventh
 4d	.
 8c#	.
 4d	.
-8B[	Bm7
+[8B	B minor-seventh
 =4	=4
 4.B]	.
-8d	B7sus2
+8d	B dominant-seventh-suspended-second
+8c#L	.
+8d	B minor-seventh
 8c#	.
-8d	Bm7
-8c#	.
-8d	.
+8dJ	.
 =5	=5
-4.f#	Em7
-2e[	.
-8e]	A
+4.f#	E minor-seventh
+[2e	.
+8e]	A major
 =6	=6
 4.r	.
-8r	Asus2
-8c#	.
+8r	A suspended-second
+8c#L	.
 8d	.
 8c#	.
-8d	.
+8dJ	.
 =7	=7
-4e	Bm7/D
+4e	B minor-seventh/D
 4d	.
 8c#	.
 4d	.
-8a[	D
+[8a	D major
 =8	=8
 4.a]	.
 8d	.
-8c#	.
+8c#L	.
 8d	.
 8c#	.
-8d	.
+8dJ	.
 =9	=9
-4f#	Gmaj9
+4f#	G major-ninth
 8r	.
 8d	.
-8c#	.
-8d	.
+8c#L	.
+8dJ	.
 8r	.
-8e[	Gadd(2,4,7,9)
+[8e	G other-2,4,7,9
 =10	=10
 4.e]	.
 8d	.
-8c#	.
+8c#L	.
 8d	.
 8c#	.
-8d	.
+8dJ	.
 =11	=11
-4a	F#m7
+4a	F# minor-seventh
 4g	.
 8f#	.
 4e	.
-8e[	Bm7
+[8e	B minor-seventh
 =12	=12
 8e]	.
 4f#	.
-4e	B7sus2
-4.d	Bm7
+4e	B dominant-seventh-suspended-second
+4.d	B minor-seventh
 =13	=13
-4.f#	Em7
-2e[	.
-8e]	Asus4
+4.f#	E minor-seventh
+[2e	.
+8e]	A suspended-fourth
 =14	=14
 4.r	.
-8d	A
-8c#	.
+8d	A major
+8c#L	.
 8d	.
 8c#	.
-8d	.
+8dJ	.
 =15	=15
-4e	Bm7/D
+4e	B minor-seventh/D
 4d	.
 8c#	.
 4d	.
-8B[	D
+[8B	D major
 =16	=16
 4B]	.
 4r	.
-8F#	.
+8F#L	.
 8G	.
 8A	.
-8B	.
+8BJ	.
 ==	==
 *-	*-

@@ -16,70 +16,70 @@
 *E-:	*
 *M4/4	*
 =1	=1
-8ff	E-sus2
+8ffL	E- suspended-second
 8ff	.
-8ff	B-/D
+8ffJ	B- major/D
 16r	.
-8ff	Fsus4/C
-16ff	.
-8ff	B-sus2
-16ee-	B-sus2
+8ff	F suspended-fourth/C
+16ffLK	.
+8ff	B- suspended-second
+16ee-L	B- suspended-second
 16b-	.
 16bb-	.
-16b-	.
+16b-JJ	.
 =2	=2
-8ff	E-sus2
+8ffL	E- suspended-second
 8ff	.
-8ff	B-/D
+8ffJ	B- major/D
 16r	.
-8ff	Fsus4/C
-16ff	.
-8ff	B-sus2
-16ee-	B-sus2
+8ff	F suspended-fourth/C
+16ffLK	.
+8ff	B- suspended-second
+16ee-L	B- suspended-second
 16bb-	.
 16eee-	.
-16ee-	.
+16ee-JJ	.
 =3	=3
-8aa-	D-
+8aa-L	D- major
 8aa-	.
-8aa-	D-maj7/C
+8aa-J	D- major-seventh/C
 16r	.
-8aa-	B-m7
-16aa-	.
-8aa-	D-/A-
-16dd-	D-/A-
+8aa-	B- minor-seventh
+16aa-LK	.
+8aa-	D- major/A-
+16dd-L	D- major/A-
 16a-	.
 16aa-	.
-16a-	.
+16a-JJ	.
 =4	=4
-8aa-	D-
+8aa-L	D- major
 8aa-	.
-8aa-	D-maj7/C
+8aa-J	D- major-seventh/C
 16r	.
-8aa-	B-m7
-16aa-	.
-8aa-	D-/A-
-16dd-	D-/A-
+8aa-	B- minor-seventh
+16aa-LK	.
+8aa-	D- major/A-
+16dd-L	D- major/A-
 16aa-	.
 16ddd-	.
-16dd-	.
+16dd-JJ	.
 =5	=5
-8bbn	G-sus4
+8bbnL	G- suspended-fourth
 8bbn	.
-8bbn	G-maj7sus4/F
+8bbnJ	G- major-seventh-suspended-fourth/F
 16r	.
-8bbn	Badd(2,4,7)/E-
-16bbn	.
-8bbn	G-sus4/D-
-16bbn	D-7sus4/A-
-16bbn	.
-8bbn	.
+8bbn	B other-2,4,7/E-
+16bbnLK	.
+8bbn	G- suspended-fourth/D-
+16bbnL	D- dominant-seventh-suspended-fourth/A-
+16bbnJ	.
+8bbnJ	.
 =6	=6
 16r	.
-8.b-	A-11
-4cc	B-11
+8.b-	A- dominant-11th
+4cc	B- dominant-11th
 16r	.
-8.cc	B-11
-4dd	Cm11
+8.cc	B- dominant-11th
+4dd	C minor-11th
 ==	==
 *-	*-

@@ -16,104 +16,104 @@
 *e:	*
 *M4/4	*
 =1	=1
-3...r	Cadd(2,4,7)
+3...r	C other-2,4,7
+8ddL	.
 8dd	.
-8dd	.
-8dd	Dadd(2,4,7)
+8ddJ	D other-2,4,7
 =2	=2
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8dd	.
-8b	.
+8ddJ	.
+8ddL	.
+8bJ	.
 4b	.
 =3	=3
-3...r	Am7
+3...r	A minor-seventh
+8ddL	.
 8dd	.
-8dd	.
-8dd	Em7
+8ddJ	E minor-seventh
 =4	=4
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8ee	.
+8eeJ	.
 8dd	.
 4.b	.
 =5	=5
-3...r	Cadd(2,4,7)
+3...r	C other-2,4,7
+8ddL	.
 8dd	.
-8dd	.
-8dd	Dadd(2,4,7)
+8ddJ	D other-2,4,7
 =6	=6
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8dd	.
-8b	.
+8ddJ	.
+8ddL	.
+8bJ	.
 4b	.
 =7	=7
-4.r	F
+4.r	F major
 8g	.
-8.b	.
+8.bL	.
 8.g	.
-8b	E
+8bJ	E major
 =8	=8
 4.d	.
 8d	.
+8.dL	.
 8.d	.
-8.d	.
-8a	.
+8aJ	.
 =9	=9
-3...g	Cadd(2,4,7)
+3...g	C other-2,4,7
+8ddL	.
 8dd	.
-8dd	.
-8dd	Dadd(2,4,7)
+8ddJ	D other-2,4,7
 =10	=10
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8dd	.
-8b	.
+8ddJ	.
+8ddL	.
+8bJ	.
 4b	.
 =11	=11
-3...r	Am7
+3...r	A minor-seventh
+8ddL	.
 8dd	.
-8dd	.
-8dd	Em7
+8ddJ	E minor-seventh
 =12	=12
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8ee	.
+8eeJ	.
 8dd	.
 4.b	.
 =13	=13
-3...r	Cadd(2,4,7)
+3...r	C other-2,4,7
+8ddL	.
 8dd	.
-8dd	.
-8dd	Dadd(2,4,7)
+8ddJ	D other-2,4,7
 =14	=14
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8dd	.
-8b	.
+8ddJ	.
+8ddL	.
+8bJ	.
 4b	.
 =15	=15
-4.r	F
+4.r	F major
 8g	.
-8.b	.
+8.bL	.
 8.g	.
-8b	E
+8bJ	E major
 =16	=16
 4.d	.
 8d	.
+8.dL	.
 8.d	.
-8.d	.
-8a	.
+8aJ	.
 ==	==
 *-	*-

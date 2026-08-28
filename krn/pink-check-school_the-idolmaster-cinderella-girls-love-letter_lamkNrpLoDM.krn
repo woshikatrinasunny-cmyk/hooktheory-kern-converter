@@ -16,23 +16,23 @@
 *F:	*
 *M4/4	*
 =1	=1
-2..r	F
-8r	G7/F
+2..r	F major
+8r	G dominant/F
 =2	=2
 1r	.
 =3	=3
-2..r	Fm7
-8r	B-/F
+2..r	F minor-seventh
+8r	B- major/F
 =4	=4
 1r	.
 =5	=5
-2..r	F
-8r	G7/F
+2..r	F major
+8r	G dominant/F
 =6	=6
 1r	.
 =7	=7
-2..r	Fm7
-8r	B-/F
+2..r	F minor-seventh
+8r	B- major/F
 =8	=8
 2r	.
 16ff	.
@@ -40,12 +40,12 @@
 16gg	.
 8.r	.
 =9	=9
-4aa	F
+4aa	F major
 4r	.
-8ff	.
-8gg	.
+8ffL	.
+8ggJ	.
 8r	.
-8aa[	.
+[8aa	.
 =10	=10
 8aa]	.
 4.r	.
@@ -54,14 +54,14 @@
 16gg	.
 8.r	.
 =11	=11
-16aa	Cm
+16aa	C minor
 8.r	.
 16aa	.
 8.r	.
-8ff	.
-8bb-	.
+8ffL	.
+8bb-J	.
 8r	.
-8aa[	F
+[8aa	F major
 =12	=12
 8aa]	.
 4.r	.
@@ -70,12 +70,12 @@
 16ee	.
 8.r	.
 =13	=13
-4ff	B-maj7
+4ff	B- major-seventh
 4r	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 8r	.
-8ff[	.
+[8ff	.
 =14	=14
 8ff]	.
 4.r	.
@@ -84,14 +84,14 @@
 16ff	.
 8.r	.
 =15	=15
-16aa	C11
+16aa	C dominant-11th
 8.r	.
 16aa	.
 8.r	.
-8gg	.
-8ff	.
+8ggL	.
+8ffJ	.
 8r	.
-8gg[	C
+[8gg	C major
 =16	=16
 8gg]	.
 4.r	.
@@ -100,12 +100,12 @@
 16gg	.
 8.r	.
 =17	=17
-4aa	F
+4aa	F major
 4r	.
-8ff	.
-8gg	.
+8ffL	.
+8ggJ	.
 8r	.
-8aa[	.
+[8aa	.
 =18	=18
 8aa]	.
 4.r	.
@@ -114,14 +114,14 @@
 16gg	.
 8.r	.
 =19	=19
-16aa	Cm
+16aa	C minor
 8.r	.
 16aa	.
 8.r	.
-8ff	.
-8bb-	.
+8ffL	.
+8bb-J	.
 8r	.
-8aa[	F
+[8aa	F major
 =20	=20
 8aa]	.
 4.r	.
@@ -130,12 +130,12 @@
 16ee	.
 8.r	.
 =21	=21
-4ff	B-maj7
+4ff	B- major-seventh
 4r	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 8r	.
-8ff[	.
+[8ff	.
 =22	=22
 8ff]	.
 4.r	.
@@ -144,7 +144,7 @@
 16ff	.
 8.r	.
 =23	=23
-1aa[	E-add(2,6,10)
+[1aa	E- other-2,6,10
 =24	=24
 2.aa]	.
 4r	.

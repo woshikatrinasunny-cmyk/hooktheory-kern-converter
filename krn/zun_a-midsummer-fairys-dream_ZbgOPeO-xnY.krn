@@ -16,45 +16,45 @@
 *c#:	*
 *M4/4	*
 =1	=1
-1g#	Amaj7
+1g#	A major-seventh
 =2	=2
-8f#	Amaj7
+8f#L	A major-seventh
 8g#	.
 8b	.
-8f#	.
-8ee	.
+8f#J	.
+8eeL	.
 8dd#	.
 8cc#	.
-8b	.
+8bJ	.
 =3	=3
-1g#	C#m
+1g#	C# minor
 =4	=4
-4.cc#[	C#sus4
-4cc#]	C#m
-8g#	.
+[4.cc#	C# suspended-fourth
+4cc#]	C# minor
+8g#L	.
 8cc#	.
-8dd#	.
+8dd#J	.
 =5	=5
-2ee	F#m7
-8.ee	.
+2ee	F# minor-seventh
+8.eeL	.
 8.ff#	.
-8gg#	.
+8gg#J	.
 =6	=6
-8.dd#	G#7
+8.dd#L	G# dominant
 8.ccn	.
-8g#	.
-8.f#	.
+8g#J	.
+8.f#L	.
 8.g#	.
-8ccn	.
+8ccnJ	.
 =7	=7
-8.cc#	A
+8.cc#L	A major
 8.a	.
-8e	.
-8.ee	.
+8eJ	.
+8.eeL	.
 8.dd#	.
-8b	.
+8bJ	.
 =8	=8
-2dd#	Cdim
+2dd#	C diminished
 2gg#	.
 ==	==
 *-	*-

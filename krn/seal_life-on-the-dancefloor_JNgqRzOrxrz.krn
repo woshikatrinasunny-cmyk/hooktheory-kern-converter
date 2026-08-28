@@ -17,40 +17,40 @@
 *M4/4	*
 =1	=1
 2.r	.
-8e	.
-8f#[	.
+8eL	.
+[8f#J	.
 =2	=2
-8f#]	F#add(2,4,7)/A#
+8f#]	F# other-2,4,7/A#
 8r	.
-2.r	F#m7/A
+2.r	F# minor-seventh/A
 =3	=3
 4.r	.
 8c#	.
-8e	.
-8c#	.
-4g#[	.
+8eL	.
+8c#J	.
+[4g#	.
 =4	=4
-8g#]	B
+8g#]	B major
 8r	.
-2.r	F#/C#
+2.r	F# major/C#
 =5	=5
 4r	.
-8e	.
-8c#	.
+8eL	.
+8c#J	.
+8.eL	.
 8.e	.
-8.e	.
-8f#[	.
+[8f#J	.
 =6	=6
-8f#]	F#11
+8f#]	F# dominant-11th
 8r	.
-2.r	Emaj13#11
+2.r	E major-13th
 =7	=7
 1r	.
 =8	=8
-4r	E
-2.r	C#/F
+4r	E major
+2.r	C# major/F
 =9	=9
-4r	F#11
-2.r	G#add(3,5,7,10)
+4r	F# dominant-11th
+2.r	G# other-3,5,7,10
 ==	==
 *-	*-

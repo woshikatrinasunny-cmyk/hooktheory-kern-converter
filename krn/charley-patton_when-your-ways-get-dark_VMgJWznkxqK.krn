@@ -16,78 +16,78 @@
 *B:	*
 *M4/4	*
 =1	=1
-4r	B
-8r	B
-16dd#	.
-16ee	.
-8ffn	B
-8ff#[	.
-8ff#]	B
-8ffn	.
+4r	B major
+8r	B major
+16dd#LL	.
+16eeJJ	.
+8ffnL	B major
+[8ff#	.
+8ff#]	B major
+8ffnJ	.
 =2	=2
-8ffn	B
+8ffnL	B major
 8b	.
-16b	B
-16dd#	.
+16bL	B major
+16dd#JJ	.
 8r	.
-4r	B
-4r	B
+4r	B major
+4r	B major
 =3	=3
-8r	B
+8r	B major
+16dd#LL	.
 16dd#	.
-16dd#	.
-16ff#	B
-16dd#	.
-8b	.
-4r	B
-4r	B
+16ff#	B major
+16dd#J	.
+8bJ	.
+4r	B major
+4r	B major
 =4	=4
-8r	B
-16cc#	.
+8r	B major
+16cc#LL	.
 16ee	.
-16ffn	B
+16ffn	B major
 16ff#	.
 16ffn	.
-16b[	.
-16b]	B
+[16bJJ	.
+16bLL]	B major
 16b	.
 16ddn	.
-16dd#	.
-4r	B
+16dd#JJ	.
+4r	B major
 =5	=5
-4r	B
-4r	B
-4r	B
-4r	B
+4r	B major
+4r	B major
+4r	B major
+4r	B major
 =6	=6
-4r	B
-4r	B
-8r	B
-16cc#	.
+4r	B major
+4r	B major
+8r	B major
+16cc#LL	.
 16dd#	.
-16dd#	B
+16dd#	B major
 16ff#	.
 16ddn	.
-16dd#	.
+16dd#JJ	.
 =7	=7
-16ee	B/F#
+16eeLK	B major/F#
 8f#	.
-16f#[	.
-16f#]	B/F#
-16f#	.
+[16f#L	.
+16f#]	B major/F#
+16f#JJ	.
 16r	.
 16g#	.
-16b	B
-16b	.
+16bLL	B major
+16bJ	.
 8ddn	.
-8dd#	B
-8b	.
+8dd#	B major
+8bJ	.
 =8	=8
-16a	B
-16b	.
+16aLL	B major
+16bJJ	.
 8r	.
-4r	B
-4r	B
-4r	B
+4r	B major
+4r	B major
+4r	B major
 ==	==
 *-	*-

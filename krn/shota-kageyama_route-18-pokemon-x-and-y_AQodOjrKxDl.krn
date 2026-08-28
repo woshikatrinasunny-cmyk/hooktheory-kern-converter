@@ -16,105 +16,105 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	G
-8r	G
-8G[	.
-16G_	G
-16G]	G
-4B	G
-4d	G7
+8r	G major
+8r	G major
+[8GL	.
+16GL_	G major
+16GJJ]	G major
+4B	G major
+4d	G dominant
 =2	=2
-1e	C
+1e	C major
 =3	=3
-8r	D7/C
-8e	.
+8r	D dominant/C
+8eL	.
 8f#	.
-8g	.
-8a	.
+8gJ	.
+8aL	.
 8g	.
 8f#	.
-8a	.
+8aJ	.
 =4	=4
-1d	Bm7
+1d	B minor-seventh
 =5	=5
-4.f#	Bm7
+4.f#	B minor-seventh
 4.d	.
 4B	.
 =6	=6
-1e	C
+1e	C major
 =7	=7
-8r	C
-8e	.
+8r	C major
+8eL	.
 8f#	.
-8g	.
-8a	.
+8gJ	.
+8aL	.
 8g	.
 8f#	.
-8g	.
+8gJ	.
 =8	=8
-1b	Em7
+1b	E minor-seventh
 =9	=9
-4.f#	Dadd(4,7,9)
+4.f#	D other-4,7,9
 4.b	.
 4f#	.
 =10	=10
-1e	C
+1e	C major
 =11	=11
-8r	D7/C
-8e	.
+8r	D dominant/C
+8eL	.
 8f#	.
-8g	.
-8a	.
+8gJ	.
+8aL	.
 8g	.
 8f#	.
-8a	.
+8aJ	.
 =12	=12
-1d	Bm7
+1d	B minor-seventh
 =13	=13
-2r	G#dim7/D
-8.fn	.
+2r	G# diminished-seventh/D
+8.fnL	.
 8.e	.
-8B	.
+8BJ	.
 =14	=14
 *k[]	*
 *a:	*
-8A	Am
-16A	.
-16B	.
+8AL	A minor
+16AL	.
+16BJJ	.
 4c	.
-8c	Cm
-16c	.
-16d	.
+8cL	C minor
+16cL	.
+16dJJ	.
 4d#	.
 =15	=15
-8d#	D#m
-16d#	.
-16f	.
+8d#L	D# minor
+16d#L	.
+16fJJ	.
 4f#	.
-8f#	F#m
-16f#	.
-16g#	.
+8f#L	F# minor
+16f#L	.
+16g#J	.
 8a	.
-8b	.
+8bJ	.
 =16	=16
 *k[b-e-a-d-g-]	*
 *D-:	*
-2.a-	A-sus4
-16A-	.
+2.a-	A- suspended-fourth
+16A-LL	.
 16B-	.
 16d-	.
-16g-	.
+16g-JJ	.
 =17	=17
-8a-	A-sus4
-8a-	A-sus4
+8a-L	A- suspended-fourth
+8a-J	A- suspended-fourth
 8r	.
-16a-	A-sus4
-16a-	A-sus4
-8a-	A-
+16a-LL	A- suspended-fourth
+16a-JJ	A- suspended-fourth
+8a-	A- major
 8r	.
-16a-	.
+16a-LL	.
 16b-	.
 16dd-	.
-16gg-	.
+16gg-JJ	.
 ==	==
 *-	*-

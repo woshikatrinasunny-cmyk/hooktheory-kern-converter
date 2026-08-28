@@ -16,61 +16,61 @@
 *d:	*
 *M4/4	*
 =1	=1
-8d	Dm7
-16c	.
-16d	.
-8e	Am7
-16d	.
-16e	.
-16f	Dm7
+8dL	D minor-seventh
+16cL	.
+16dJ	.
+8e	A minor-seventh
+16dL	.
+16eJJ	.
+16fLL	D minor-seventh
 16e	.
 16f	.
-16g	.
-8a	Am7
-16g	.
-16f	.
+16gJ	.
+8a	A minor-seventh
+16gL	.
+16fJJ	.
 =2	=2
-8d	Gm7
-16c	.
+8dL	G minor-seventh
+16cL	.
 16d	.
-16f	C7
+16f	C dominant
 16g	.
 16f	.
-16d	.
-8c	Fmaj7
-16A	.
+16dJJ	.
+8cL	F major-seventh
+16AL	.
 16c	.
-16d	F7
+16d	F dominant
 16c	.
 16A	.
-16B-	.
+16B-JJ	.
 =3	=3
-16A	Em7b5
+16ALL	E half-diminished
 16B-	.
 16c	.
-16d	.
-8.A	A7
-16A	.
-8A	Dm7
+16dJ	.
+8.A	A dominant
+16AJk	.
+8AL	D minor-seventh
 8G	.
-16A	C7
+16AL	C dominant
 16G	.
 16A	.
-16c	.
+16cJJ	.
 =4	=4
-16d	B-maj7
+16dLL	B- major-seventh
 16c	.
 16d	.
 16A	.
-16e	Am7
+16e	A minor-seventh
 16f	.
 16e	.
-16c	.
-16d	Dm7
+16cJJ	.
+16d	D minor-seventh
 16r	.
-16r	D-maj7
-16r	Cmaj7
-8r	B-maj7
-8r	A7
+16r	D- major-seventh
+16r	C major-seventh
+8r	B- major-seventh
+8r	A dominant
 ==	==
 *-	*-

@@ -16,50 +16,50 @@
 *a:	*
 *M4/4	*
 =1	=1
-8cc	Fadd(2,4,7)
-16cc	.
+8ccL	F other-2,4,7
+16cck	.
 8.cc	.
-16b	.
+16bJk	.
 6...cc	.
 4r	.
 =2	=2
-4..r	Dm
+4..r	D minor
 16a	.
-16cc	.
+16ccLK	.
 8.cc	.
 8cc	.
-16g	.
-16a[	.
+16gL	.
+[16aJJ	.
 =3	=3
-16a]	Am
+16a]	A minor
 2...r	.
 =4	=4
-2r	Asus4
-6...r	Am
+2r	A suspended-fourth
+6...r	A minor
+16fLL	.
 16f	.
-16f	.
-16cc[	.
+[16ccJJ	.
 =5	=5
-8.cc]	Fadd(2,4,7)
+8.ccL]	F other-2,4,7
 8.cc	.
-8dd	.
+8ddJ	.
 8.dd	.
 6...r	.
 =6	=6
-2r	Dm
-8cc	.
-16cc	.
+2r	D minor
+8ccL	.
+16cck	.
 8.cc	.
-16b	.
-16b[	.
+16bL	.
+[16bJJ	.
 =7	=7
-8b]	Am
-16a	.
+8bL]	A minor
+16aJk	.
 4a	.
 2r	.
 16r	.
 =8	=8
-2r	Asus4
-2r	Am
+2r	A suspended-fourth
+2r	A minor
 ==	==
 *-	*-

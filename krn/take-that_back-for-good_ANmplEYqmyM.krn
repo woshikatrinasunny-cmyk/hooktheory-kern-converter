@@ -16,101 +16,101 @@
 *F:	*
 *M4/4	*
 =1	=1
-2r	B-
-4r	F/C
-8.r	C
+2r	B- major
+4r	F major/C
+8.r	C major
 16c	.
 =2	=2
-16a	F
-16a	.
+16aLL	F major
+16aJ	.
 8g	.
 8.c	.
-16c	.
-16a	Gadd(3,5,7,10)
+16cJk	.
+16aLL	G other-3,5,7,10
 16a	.
-16g	.
+16gJ	.
 8c	.
-16B-	.
+16B-L	.
 16c	.
-16B-	.
+16B-JJ	.
 =3	=3
-16c	B-
+16cLK	B- major
 8d	.
-16c	.
+16cJk	.
 8r	.
-16d	.
-16f	.
-8.e	C
+16dLL	.
+16fJJ	.
+8.eL	C major
 8c	.
 8c	.
-16A	.
+16AJk	.
 =4	=4
-16A	F
+16ALL	F major
 16G	.
 16A	.
-16B-	.
-8c	.
+16B-J	.
+8cJ	.
 8r	.
-8r	Gadd(3,5,7,10)
-16A	.
-16B-	.
-8c	.
+8r	G other-3,5,7,10
+16ALL	.
+16B-J	.
+8cJ	.
 8r	.
 =5	=5
-8r	B-
-16A	.
-16B-	.
+8r	B- major
+16ALL	.
+16B-J	.
 8.c	.
-16A	.
-16A	C
-8.G	.
+16AJk	.
+16ALK	C major
+8.GJ	.
 8.r	.
 16c	.
 =6	=6
-16a	F
-16a	.
+16aLL	F major
+16aJ	.
 8g	.
 8.c	.
-16c	.
-16a	Gadd(3,5,7,10)
+16cJk	.
+16aLL	G other-3,5,7,10
 16a	.
-16g	.
+16gJ	.
 8c	.
-16c	.
+16cL	.
 16B-	.
-16c[	.
+[16cJJ	.
 =7	=7
-16c]	B-
+16cLK]	B- major
 8d	.
-16c	.
+16cJk	.
 8r	.
-16d	.
-16f	.
-8.e	C
+16dLL	.
+16fJJ	.
+8.eL	C major
 8c	.
 8c	.
-16A	.
+16AJk	.
 =8	=8
-16A	F
+16ALL	F major
 16G	.
 16A	.
-16B-	.
-8c	.
+16B-J	.
+8cJ	.
 8r	.
-8r	Gadd(3,5,7,10)
-16A	.
-16B-	.
-8c	.
+8r	G other-3,5,7,10
+16ALL	.
+16B-J	.
+8cJ	.
 16r	.
 16F	.
 =9	=9
-8f	B-
-16d	.
+8fL	B- major
+16dk	.
 8d	.
-16c	.
-8d	.
-8c	C
-8d	.
+16ck	.
+8dJ	.
+8cL	C major
+8dJ	.
 4r	.
 ==	==
 *-	*-

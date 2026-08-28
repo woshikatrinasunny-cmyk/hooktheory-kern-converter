@@ -16,49 +16,49 @@
 *G:	*
 *M4/4	*
 =1	=1
-8dd	C
+8dd	C major
 4b	.
-8dd	G
+8dd	G major
 4b	.
-8dd	.
-8b	.
+8ddL	.
+8bJ	.
 =2	=2
-4f#	D
+4f#	D major
 8a	.
 3...f#	.
 =3	=3
-8cc	A#
+8cc	A# major
 4a	.
-8cc	F
+8cc	F major
 4a	.
-8cc	.
-8a	.
+8ccL	.
+8aJ	.
 =4	=4
-4e	C
+4e	C major
 8g	.
 3...e	.
 =5	=5
-8dd	C
+8dd	C major
 4b	.
-8dd	G
+8dd	G major
 4b	.
-8dd	.
-8b	.
+8ddL	.
+8bJ	.
 =6	=6
-4f#	D
+4f#	D major
 8a	.
 3...f#	.
 =7	=7
-8cc	A#
+8cc	A# major
 4a	.
-8cc	F
+8cc	F major
 4a	.
-8cc	.
-8a	.
+8ccL	.
+8aJ	.
 =8	=8
-8e	C
+8eL	C major
 8fn	.
-8g	.
+8gJ	.
 4fn	.
 8e	.
 4c	.

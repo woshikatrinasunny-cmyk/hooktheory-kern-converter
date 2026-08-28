@@ -16,133 +16,133 @@
 *c:	*
 *M4/4	*
 =1	=1
-8c	Cm
+8cL	C minor
 8d	.
 8e-	.
-8f	.
+8fJ	.
 4g	.
 4g	.
 =2	=2
-8a-	A-/C
+8a-L	A- major/C
 8g	.
 8a-	.
-8cc	.
-2g	Cm
+8ccJ	.
+2g	C minor
 =3	=3
-4f	F/C
-8f	.
-8f	.
-4e-	A-/C
+4f	F major/C
+8fL	.
+8fJ	.
+4e-	A- major/C
 4e-	.
 =4	=4
-8d	Dm7b5/C
+8dL	D half-diminished/C
 8c	.
 8d	.
-8e-	.
-2c	Cm
+8e-J	.
+2c	C minor
 =5	=5
-8c	Cm
+8cL	C minor
 8d	.
 8e-	.
-8f	B-
-4g	E-
+8fJ	B- major
+4g	E- major
 4g	.
 =6	=6
-8a-	A-/E-
+8a-L	A- major/E-
 8g	.
 8a-	.
-8cc	.
-2g	E-
+8ccJ	.
+2g	E- major
 =7	=7
-4f	D-
-8f	.
-8f	.
-4e-	Cm
+4f	D- major
+8fL	.
+8fJ	.
+4e-	C minor
 4e-	.
 =8	=8
-8d	Dm7b5/A-
+8dL	D half-diminished/A-
 8c	.
-8d	G
-8e-	.
-2c	Cm
+8d	G major
+8e-J	.
+2c	C minor
 =9	=9
-4c	A-
+4c	A- major
 4cc	.
 4cc	.
-8cc	.
-8cc	.
+8ccL	.
+8ccJ	.
 =10	=10
-8b-	B-
+8b-L	B- major
 8cc	.
 8b-	.
-8a-	.
-2g	E-
+8a-J	.
+2g	E- major
 =11	=11
-4c	A-maj7
+4c	A- major-seventh
 4cc	.
 4cc	.
-4cc	A-7
+4cc	A- dominant
 =12	=12
-8b-	E-/B-
+8b-L	E- major/B-
 8cc	.
 8b-	.
-8a-	.
-4g[	E-
-4g]	Edim
+8a-J	.
+[4g	E- major
+4g]	E diminished
 =13	=13
-4f	Fm
-8f	B-
-8f	.
-4e-	Cm
+4f	F minor
+8fL	B- major
+8fJ	.
+4e-	C minor
 4e-	.
 =14	=14
-8f	Fm
-8g	Edim
-8a-	A-/E-
-8b-	B-/D
-8g	E-
+8fL	F minor
+8g	E diminished
+8a-	A- major/E-
+8b-J	B- major/D
+8gL	E- major
 8f	.
-8e-[	Cm
-8e-]	Cm7/B-
+[8e-	C minor
+8e-J]	C minor-seventh/B-
 =15	=15
-4f	F/A
-4f	G7
-4e-	A-
-8e-	.
-8e-	.
+4f	F major/A
+4f	G dominant
+4e-	A- major
+8e-L	.
+8e-J	.
 =16	=16
-8d	Dm/A
+8dL	D minor/A
 8c	.
-8d	G7/B
-8e-	.
-2c	Cm
+8d	G dominant/B
+8e-J	.
+2c	C minor
 =17	=17
-4f	Fm
-8f	B-/D
-8f	.
-4e-	E-
-8e-[	Cm
-8e-]	Cm7/B-
+4f	F minor
+8fL	B- major/D
+8fJ	.
+4e-	E- major
+[8e-L	C minor
+8e-J]	C minor-seventh/B-
 =18	=18
-8f	Fm/A-
+8fL	F minor/A-
 8g	.
-8a-	B-/F
-8b-	.
-8g	E-
+8a-	B- major/F
+8b-J	.
+8gL	E- major
 8f	.
-8e-[	Cm
-8e-]	Cm7/B-
+[8e-	C minor
+8e-J]	C minor-seventh/B-
 =19	=19
-4f	D-/A-
+4f	D- major/A-
 4f	.
-4e-	Cm/G
-8.e-	.
-16e-	.
+4e-	C minor/G
+8.e-L	.
+16e-Jk	.
 =20	=20
-8d	G/D
+8dL	G major/D
 8c	.
-8d	G
-8e-	.
-2c	Cm
+8d	G major
+8e-J	.
+2c	C minor
 ==	==
 *-	*-

@@ -16,110 +16,110 @@
 *c:	*
 *M4/4	*
 =1	=1
-4e-	Cm
-8g	.
-8f	.
-4f	C9sus4
-8a-	.
-8g	.
+4e-	C minor
+8gL	.
+8fJ	.
+4f	C dominant-ninth-suspended-fourth
+8a-L	.
+8gJ	.
 =2	=2
-4g	Cm
+4g	C minor
 4g	.
-8e-	.
+8e-L	.
 8f	.
-8g	B-add(4,7,9)
+8gJ	B- other-4,7,9
 8r	.
 =3	=3
-4g	A-maj7
-8f	.
-8e-	.
-4f	B-
+4g	A- major-seventh
+8fL	.
+8e-J	.
+4f	B- major
 8r	.
 8d	.
 =4	=4
-4.d	Cm11
-8e-	Cm
-4e-	Cm
-4r	Gm7
+4.d	C minor-11th
+8e-	C minor
+4e-	C minor
+4r	G minor-seventh
 =5	=5
-4e-	Cm
-8g	.
-8f	.
-4f	C9sus4
-8a-	.
-8g	.
+4e-	C minor
+8gL	.
+8fJ	.
+4f	C dominant-ninth-suspended-fourth
+8a-L	.
+8gJ	.
 =6	=6
-4g	Cm
+4g	C minor
 8r	.
 8g	.
-8e-	.
+8e-L	.
 8f	.
-8g	B-add(4,7,9)
+8gJ	B- other-4,7,9
 8r	.
 =7	=7
-4g	A-maj7
-8f	.
-8e-	.
-4f	B-
+4g	A- major-seventh
+8fL	.
+8e-J	.
+4f	B- major
 4d	.
 =8	=8
-4.d	Cm11
-8c	Cm
-4c	Cm
-4r	Gm7
+4.d	C minor-11th
+8c	C minor
+4c	C minor
+4r	G minor-seventh
 =9	=9
-4e-	Cm
-8g	.
-8f	.
-4f	C9sus4
-8a-	.
-8g	.
+4e-	C minor
+8gL	.
+8fJ	.
+4f	C dominant-ninth-suspended-fourth
+8a-L	.
+8gJ	.
 =10	=10
-4g	Cm
+4g	C minor
 8r	.
 8g	.
-8e-	.
+8e-L	.
 8f	.
-8g	B-add(4,7,9)
+8gJ	B- other-4,7,9
 8r	.
 =11	=11
-4g	A-maj7
-8f	.
-8e-	.
-4f	B-
+4g	A- major-seventh
+8fL	.
+8e-J	.
+4f	B- major
 8r	.
 8a-	.
 =12	=12
-4.a-	E-
+4.a-	E- major
 8g	.
-4g	G
+4g	G major
 4r	.
 =13	=13
-4g	Cm
-8g	.
-8f	.
-4f	C9sus4
-8a-	.
-8g	.
+4g	C minor
+8gL	.
+8fJ	.
+4f	C dominant-ninth-suspended-fourth
+8a-L	.
+8gJ	.
 =14	=14
-4g	Cm
+4g	C minor
 8r	.
 8g	.
-8g	.
+8gL	.
 8f	.
-8e-	B-add(4,7,9)
+8e-J	B- other-4,7,9
 8r	.
 =15	=15
-4g	A-maj7
-8f	.
-8e-	.
-4f	Gm7
-8d	.
-8c	.
+4g	A- major-seventh
+8fL	.
+8e-J	.
+4f	G minor-seventh
+8dL	.
+8cJ	.
 =16	=16
-4c[	Cm
-8c]	Cm/G
+[4c	C minor
+8c]	C minor/G
 8r	.
-2r	Cm
+2r	C minor
 ==	==
 *-	*-

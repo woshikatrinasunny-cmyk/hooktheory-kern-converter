@@ -16,195 +16,195 @@
 *D:	*
 *M4/4	*
 =1	=1
-2r	D
-2r	D#
+2r	D major
+2r	D# major
 =2	=2
-2r	D
-2r	D#
+2r	D major
+2r	D# major
 =3	=3
-16f#	D
+16f#	D major
 8r	.
 16f#	.
 8.r	.
 16f#	.
-16r	D#
-16g#	.
-16a#	.
+16r	D# major
+16g#LL	.
+16a#JJ	.
 16r	.
 16g#	.
 16r	.
 16f#	.
 16r	.
 =4	=4
-16e	D
+16e	D major
 8r	.
 16e	.
 8.r	.
 16e	.
-16r	C#m7
-16f#	.
-16g#	.
+16r	C# minor-seventh
+16f#LL	.
+16g#JJ	.
 16r	.
 16f#	.
 16r	.
 16e	.
 16r	.
 =5	=5
-16d	Cm7
+16d	C minor-seventh
 8r	.
 16d	.
 8.r	.
 16d	.
-16r	F7
-16d#	.
-16fn	.
+16r	F dominant
+16d#LL	.
+16fnJJ	.
 16r	.
 16d	.
 16r	.
 16A#	.
 16r	.
 =6	=6
-8.cn	A#maj7
-8.A	.
+8.cnL	A# major-seventh
+8.AJ	.
 3...Fn	.
 =7	=7
-16fn	A#m7
+16fn	A# minor-seventh
 8r	.
 16fn	.
 8.r	.
 16fn	.
-16r	D#7
-16g	.
-16g#	.
+16r	D# dominant
+16gLL	.
+16g#JJ	.
 16r	.
 16g	.
 16r	.
 16fn	.
 16r	.
 =8	=8
-16d#	G#m7
+16d#	G# minor-seventh
 8r	.
 16d#	.
 8.r	.
 16d#	.
-16r	C#7
-16fn	.
-16f#	.
+16r	C# dominant
+16fnLL	.
+16f#JJ	.
 16r	.
 16fn	.
 16r	.
 16d#	.
 16r	.
 =9	=9
-8.c#	F#
-16f#	.
+8.c#L	F# major
+16f#Jk	.
 16r	.
-16f#	.
-8a#	.
-8.cc#	D#m7
+16f#LK	.
+8a#J	.
+8.cc#L	D# minor-seventh
 8.b	.
-8a#	.
+8a#J	.
 =10	=10
-2g#	G#7
-2a#	A#7
+2g#	G# dominant
+2a#	A# dominant
 =11	=11
-16g	D#
+16g	D# major
 8r	.
 16g	.
 8.r	.
 16g	.
-16r	E
-16a	.
-16b	.
+16r	E major
+16aLL	.
+16bJJ	.
 16r	.
 16a	.
 16r	.
 16g	.
 16r	.
 =12	=12
-16fn	D#
+16fn	D# major
 8r	.
 16fn	.
 8.r	.
 16fn	.
-16r	Dm7
-16g	.
-16a	.
+16r	D minor-seventh
+16gLL	.
+16aJJ	.
 16r	.
 16g	.
 16r	.
 16fn	.
 16r	.
 =13	=13
-16d#	C#m7
+16d#	C# minor-seventh
 8r	.
 16d#	.
 8.r	.
 16d#	.
-16r	F#7
-16e	.
-16f#	.
+16r	F# dominant
+16eLL	.
+16f#JJ	.
 16r	.
 16d#	.
 16r	.
 16B	.
 16r	.
 =14	=14
-8.c#	Bmaj7
-8.A#	.
+8.c#L	B major-seventh
+8.A#J	.
 3...F#	.
 =15	=15
-16f#	Bm7
+16f#	B minor-seventh
 8r	.
 16f#	.
 8.r	.
 16f#	.
-16r	E7
-16g#	.
-16a	.
+16r	E dominant
+16g#LL	.
+16aJJ	.
 16r	.
 16g#	.
 16r	.
 16f#	.
 16r	.
 =16	=16
-16e	Am7
+16e	A minor-seventh
 8r	.
 16e	.
 8.r	.
 16e	.
-16r	D7
-16f#	.
-16g	.
+16r	D dominant
+16f#LL	.
+16gJJ	.
 16r	.
 16f#	.
 16r	.
 16e	.
 16r	.
 =17	=17
-8.d	G
-16g	.
+8.dL	G major
+16gJk	.
 16r	.
-16g	.
-8b	.
-8.dd	Em7
-16ccn	.
+16gLK	.
+8bJ	.
+8.ddL	E minor-seventh
+16ccnJk	.
 16r	.
-16ccn	.
-8b	.
+16ccnLK	.
+8bJ	.
 =18	=18
-4a	D#
-8g	D7
-16f#	.
-4..g	G
-16g	.
-16a	.
+4a	D# major
+8gL	D dominant
+16f#Jk	.
+4..g	G major
+16gLL	.
+16aJJ	.
 =19	=19
-6...a#	Cm7
-16a#	.
+6...a#	C minor-seventh
+16a#LL	.
 16ccn	.
-16ffn	.
-16dd	F7
+16ffnJJ	.
+16dd	F dominant
 16r	.
 16ccn	.
 16r	.
@@ -213,16 +213,16 @@
 16ccn	.
 16r	.
 =20	=20
-8r	A#maj7
+8r	A# major-seventh
 2.fn	.
-16fn	.
-16g	.
+16fnLL	.
+16gJJ	.
 =21	=21
-6...g#	A#m7
-16g#	.
+6...g#	A# minor-seventh
+16g#LL	.
 16a#	.
-16dd#	.
-16ccn	D#7
+16dd#JJ	.
+16ccn	D# dominant
 16r	.
 16a#	.
 16r	.
@@ -231,74 +231,74 @@
 16a#	.
 16r	.
 =22	=22
-8r	G#maj7
+8r	G# major-seventh
 2.ccn	.
-16d#	.
-16fn	.
+16d#LL	.
+16fnJJ	.
 =23	=23
-8f#	G#m7
-8g#	.
+8f#L	G# minor-seventh
+8g#J	.
 8r	.
 8cc#	.
-8a#	C#7
+8a#L	C# dominant
 8g#	.
 8f#	.
-8g#	.
+8g#J	.
 =24	=24
-8a#	F#maj7
-16f#	.
-16fn	.
+8a#L	F# major-seventh
+16f#L	.
+16fnJJ	.
 16r	.
-16fn	.
-8d#[	.
-4d#]	Bmaj7/F#
-8c#	.
-8d#	.
+16fnLK	.
+[8d#J	.
+4d#]	B major-seventh/F#
+8c#L	.
+8d#J	.
 =25	=25
-2.f#	G#7
-8d#	.
-8f#	.
+2.f#	G# dominant
+8d#L	.
+8f#J	.
 =26	=26
-2f#	C#sus4
-4.g#	C#7
-16d#	.
-16fn	.
+2f#	C# suspended-fourth
+4.g#	C# dominant
+16d#LL	.
+16fnJJ	.
 =27	=27
-4.f#	F#
-3...b	Eadd(2,4,7)
+4.f#	F# major
+3...b	E other-2,4,7
 =28	=28
-4.a	Dmaj7/F#
-3...dd	Gmaj7/F#
+4.a	D major-seventh/F#
+3...dd	G major-seventh/F#
 =29	=29
-16f#	F#
-16f#	.
+16f#LL	F# major
+16f#JJ	.
 16r	.
-16f#	.
-16g#	E
+16f#LL	.
+16g#JJ	E major
 16r	.
-4.cc#[	D
-8cc#_	C#m
-8cc#]	C
+[4.cc#	D major
+8cc#L_	C# minor
+8cc#J]	C major
 =30	=30
-16a	B7
-16a	.
+16aLL	B dominant
+16aJJ	.
 16r	.
-16a	.
-16b	A7
+16aLL	.
+16bJJ	A dominant
 16r	.
-4ee	G7
-4.gg	C#dim
+4ee	G dominant
+4.gg	C# diminished
 =31	=31
-2ff#	F#
-2r	G
+2ff#	F# major
+2r	G major
 =32	=32
-2r	F#
-2r	F
+2r	F# major
+2r	F major
 =33	=33
-2r	D
-2r	D#
+2r	D major
+2r	D# major
 =34	=34
-2r	D
-2r	A7
+2r	D major
+2r	A dominant
 ==	==
 *-	*-

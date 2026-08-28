@@ -16,42 +16,42 @@
 *A-:	*
 *M4/4	*
 =1	=1
-2.r	A-
-4r	A-add(4,6)
+2.r	A- major
+4r	A- other-4,6
 =2	=2
 8r	.
-8a-	.
+8a-L	.
 8b-	.
-8ddn	.
+8ddnJ	.
 8ee-	.
 4.ff	.
 =3	=3
 2.r	.
-4r	A-
+4r	A- major
 =4	=4
 8r	.
-8g-	.
+8g-L	.
 8e-	.
-8dn	.
+8dnJ	.
 8e-	.
 4.g-	.
 =5	=5
-2.r	A-add(4,6,10)
-4r	A-
+2.r	A- other-4,6,10
+4r	A- major
 =6	=6
 8r	.
-8e-	.
+8e-L	.
 8g-	.
-8e-	.
-8g-	.
-8a-	.
+8e-J	.
+8g-L	.
+8a-J	.
 4e-	.
 =7	=7
-4.r	A-add(2,5,7)
+4.r	A- other-2,5,7
 8a-	.
-8dd-	.
-8b-	.
-4cc[	A-
+8dd-L	.
+8b-J	.
+[4cc	A- major
 =8	=8
 1cc]	.
 ==	==

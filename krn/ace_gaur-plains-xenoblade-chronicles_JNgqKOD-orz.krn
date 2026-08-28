@@ -16,55 +16,55 @@
 *g:	*
 *M4/4	*
 =1	=1
-2.dd	Gm
-16g	.
+2.dd	G minor
+16gLL	.
 16a	.
 16b-	.
-16cc	.
+16ccJJ	.
 =2	=2
-2.dd	B-
-16g	.
+2.dd	B- major
+16gLL	.
 16a	.
 16b-	.
-16dd	.
+16ddJJ	.
 =3	=3
-2cc	C
+2cc	C major
+8.gL	.
 8.g	.
-8.g	.
-8a	.
+8aJ	.
 =4	=4
-16b-	E-
+16b-	E- major
 8r	.
-16b-	E-
+16b-	E- major
 8r	.
-8cc	E-
-8a	Dm
+8cc	E- major
+8a	D minor
 8r	.
-8f	Dm/A
-16b-	.
-16cc	.
+8fL	D minor/A
+16b-L	.
+16ccJJ	.
 =5	=5
-2.dd	Gm
-16dd	.
-16ee-	.
-8ff	.
+2.dd	G minor
+16ddLL	.
+16ee-J	.
+8ffJ	.
 =6	=6
-2.dd	B-
-16dd	.
-16ee-	.
-8gg	.
+2.dd	B- major
+16ddLL	.
+16ee-J	.
+8ggJ	.
 =7	=7
-2ff	F
+2ff	F major
 4.a	.
-16g	.
-16a	.
+16gLL	.
+16aJJ	.
 =8	=8
-16b-[	E-
+[16b-LK	E- major
 8b-_	.
-16b-_	E-
+16b-k_	E- major
 8b-]	.
-16cc	E-add(2,4,7)
-16b-	.
-2a	Dm
+16ccL	E- other-2,4,7
+16b-JJ	.
+2a	D minor
 ==	==
 *-	*-

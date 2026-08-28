@@ -16,85 +16,85 @@
 *g:	*
 *M6/4	*
 =1	=1
-8dd	D
-8gg-	.
-8aa	.
-8dd	D7/C
-8gg-	.
-8aa	.
-8dd	Gm/B-
-8gg-	.
-8aa	.
-8dd	D/A
-8gg-	.
-8aa	.
+8ddL	D major
+8gg-J	.
+8aaL	.
+8ddJ	D dominant/C
+8gg-L	.
+8aaJ	.
+8ddL	G minor/B-
+8gg-J	.
+8aaL	.
+8ddJ	D major/A
+8gg-L	.
+8aaJ	.
 =2	=2
-8dd	Gm
-8gg	.
-8bb-	.
-8dd	.
-8gg	.
-8bb-	.
-8dd	Aadd(1,3,5,6,10)
-8gg	.
-8bb-	.
-8dd	Gm/B-
-8gg	.
-8bb-	.
+8ddL	G minor
+8ggJ	.
+8bb-L	.
+8ddJ	.
+8ggL	.
+8bb-J	.
+8ddL	A other-1,3,5,6,10
+8ggJ	.
+8bb-L	.
+8ddJ	G minor/B-
+8ggL	.
+8bb-J	.
 =3	=3
-8cc	C
-8een	.
-8gg	.
-8cc	.
-8een	.
-8gg	.
-8cc	Dm11
-8een	.
-8gg	.
-8cc	C/E
-8een	.
-8gg	.
+8ccL	C major
+8eenJ	.
+8ggL	.
+8ccJ	.
+8eenL	.
+8ggJ	.
+8ccL	D minor-11th
+8eenJ	.
+8ggL	.
+8ccJ	C major/E
+8eenL	.
+8ggJ	.
 =4	=4
-8cc	F
-8ff	.
-8aa	.
-8cc	F/C
-8ff	.
-8aa	.
-8cc	F
-8ff	.
-8aa	.
-8cc	F7/E-
-8ff	.
-8aa	.
+8ccL	F major
+8ffJ	.
+8aaL	.
+8ccJ	F major/C
+8ffL	.
+8aaJ	.
+8ccL	F major
+8ffJ	.
+8aaL	.
+8ccJ	F dominant/E-
+8ffL	.
+8aaJ	.
 =5	=5
-8b-	B-/D
-8dd	.
-8ff	.
-8b-	Cm11
-8dd	.
-8ff	.
-8b-	B-
-8dd	.
-8ff	.
-8b-	B-7/A-
-8dd	.
-8ff	.
+8b-L	B- major/D
+8ddJ	.
+8ffL	.
+8b-J	C minor-11th
+8ddL	.
+8ffJ	.
+8b-L	B- major
+8ddJ	.
+8ffL	.
+8b-J	B- dominant/A-
+8ddL	.
+8ffJ	.
 =6	=6
-8b-	E-/G
-8ee-	.
-8gg	.
-8b-	E-
-8ee-	.
-8gg	.
-8b-	E-/B-
-8ee-	.
-8gg	.
-8b-	E-7/D-
-8ee-	.
-8gg	.
+8b-L	E- major/G
+8ee-J	.
+8ggL	.
+8b-J	E- major
+8ee-L	.
+8ggJ	.
+8b-L	E- major/B-
+8ee-J	.
+8ggL	.
+8b-J	E- dominant/D-
+8ee-L	.
+8ggJ	.
 =7	=7
-8.aa	A
+8.aa	A major
 8.a	.
 8.bn	.
 8.dd-	.
@@ -104,24 +104,24 @@
 8.een	.
 =8	=8
 8.ff	.
-8.gg-	D
+8.gg-	D major
 8.gg	.
 8.aa	.
-8.bb-	Gm/B-
+8.bb-	G minor/B-
 8.gg	.
-8.ccc	D/A
+8.ccc	D major/A
 8.aa	.
 =9	=9
-8.bb-	G
+8.bb-	G major
 8.ggg	.
-8.fff	G/B
+8.fff	G major/B
 8.ggg	.
-8.eee-	Cm
+8.eee-	C minor
 8.ddd	.
-8.ccc	Cm/E-
+8.ccc	C minor/E-
 8.eee-	.
 =10	=10
-8.ddd	D
+8.ddd	D major
 8.aa	.
 8.ccc	.
 8.eee-	.
@@ -130,58 +130,58 @@
 8.aa	.
 8.ccc	.
 =11	=11
-8.bb-	Gm
+8.bb-	G minor
 8.gg	.
-8.bb-	Gm/D
+8.bb-	G minor/D
 8.ddd	.
-8.aa	D/G-
+8.aa	D major/G-
 8.gg-	.
-8.eee-	D/A
+8.eee-	D major/A
 8.ddd	.
 =12	=12
-8.gg	Gm
+8.gg	G minor
 8.ddd	.
 8.gg-	.
 8.ddd	.
 8.gg	.
 8.ddd	.
-8.aa	D/G-
+8.aa	D major/G-
 8.ddd	.
 =13	=13
-8.bb-	B-/F
+8.bb-	B- major/F
 8.ddd	.
-8.aa	Eadd(1,3,5,6,10)
+8.aa	E other-1,3,5,6,10
 8.ddd	.
-8.bb-	E-
+8.bb-	E- major
 8.ddd	.
-8.bbn	G/D
+8.bbn	G major/D
 8.ddd	.
 =14	=14
-8.ccc	Cm
+8.ccc	C minor
 8.ggg	.
 8.ggg-	.
 8.ggg	.
-8.ddd	Gm/D
+8.ddd	G minor/D
 8.ccc	.
 8.bb-	.
 8.aa	.
 =15	=15
-8.gg	Cm/E-
+8.gg	C minor/E-
 8.eee-	.
 8.ddd	.
 8.eee-	.
-8.ccc	F
+8.ccc	F major
 8.bb-	.
 8.aa	.
 8.ff	.
 =16	=16
-8.ee-	E-/G
+8.ee-	E- major/G
 8.bb-	.
 8.aa	.
 8.bb-	.
-4.ccc	D
-4.aa	D/G-
+4.ccc	D major
+4.aa	D major/G-
 =17	=17
-1.gg	Gm
+1.gg	G minor
 ==	==
 *-	*-

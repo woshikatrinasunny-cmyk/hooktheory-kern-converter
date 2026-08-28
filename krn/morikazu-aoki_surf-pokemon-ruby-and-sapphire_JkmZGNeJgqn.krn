@@ -16,79 +16,79 @@
 *D-:	*
 *M3/4	*
 =1	=1
-4.c	A-
+4.c	A- major
 8A-	.
-8B-	.
-8c	.
+8B-L	.
+8cJ	.
 =2	=2
 4.e-	.
 8c	.
-8d-	A-
-8e-	.
+8d-L	A- major
+8e-J	.
 =3	=3
-4.ddd-	D-
+4.ddd-	D- major
 8aa-	.
-8bb-	.
-8ccc	.
+8bb-L	.
+8cccJ	.
 =4	=4
-4ddd-	D-
-4aaa-	A-
-4fff	D-
+4ddd-	D- major
+4aaa-	A- major
+4fff	D- major
 =5	=5
-4.f	Ddim
+4.f	D diminished
 8dn	.
-8e-	.
-8f	.
+8e-L	.
+8fJ	.
 =6	=6
 4.a-	.
 8f	.
-8g-	Ddim/A-
-8a-	.
+8g-L	D diminished/A-
+8a-J	.
 =7	=7
-4.eee-	E-m
+4.eee-	E- minor
 8bb-	.
-8ccc	.
-8ddd-	.
+8cccL	.
+8ddd-J	.
 =8	=8
 4eee-	.
 4bbb-	.
 4ggg-	.
 =9	=9
-4.bb-	G-
+4.bb-	G- major
 8bb-	.
-8ccc	.
-8bb-	.
+8cccL	.
+8bb-J	.
 =10	=10
-4.aa-	Fm
+4.aa-	F minor
 8ff	.
-8ee-	.
-8ff	.
+8ee-L	.
+8ffJ	.
 =11	=11
-4.gg-	E-m
+4.gg-	E- minor
 8ff	.
-8ee-	.
-8gg-	.
+8ee-L	.
+8gg-J	.
 =12	=12
-4ff	D-
+4ff	D- major
 4gg-	.
 4aa-	.
 =13	=13
-4.bb-	G-
+4.bb-	G- major
 8bb-	.
-8ccc	.
-8bb-	.
+8cccL	.
+8bb-J	.
 =14	=14
-4.aa-	Fm
+4.aa-	F minor
 8ff	.
-8gg-	.
-8aa-	.
+8gg-L	.
+8aa-J	.
 =15	=15
-4bb-	E-m
+4bb-	E- minor
 4ccc	.
 4ddd-	.
 =16	=16
-4ccc[	A-
-4ccc_	B-m
-4ccc]	A-/C
+[4ccc	A- major
+4ccc_	B- minor
+4ccc]	A- major/C
 ==	==
 *-	*-

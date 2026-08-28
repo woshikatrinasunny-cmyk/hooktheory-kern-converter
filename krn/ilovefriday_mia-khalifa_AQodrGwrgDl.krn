@@ -16,64 +16,64 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4r	B-add(2,3,7)
-16e-	.
-8.e-	.
-8f	B-m
+4r	B- other-2,3,7
+16e-LK	.
+8.e-J	.
+8f	B- minor
 4r	.
 8d-	.
 =2	=2
-8e-	B-add(2,3,7)
+8e-L	B- other-2,3,7
 8e-	.
 8e-	.
-8e-	.
-4f	B-m
+8e-J	.
+4f	B- minor
 8d-	.
 8r	.
 =3	=3
-8r	B-add(2,3,7)
-8d-	.
+8r	B- other-2,3,7
+8d-L	.
 8e-	.
-8e-	.
-4f	B-m
-8d-	.
-8d-	.
+8e-J	.
+4f	B- minor
+8d-L	.
+8d-J	.
 =4	=4
-8g-	B-add(2,3,7)
+8g-L	B- other-2,3,7
 8g-	.
 8a-	.
-8a-	.
-4b-	B-m
+8a-J	.
+4b-	B- minor
 4a-	.
 =5	=5
-4a-	B-add(2,3,7)
+4a-	B- other-2,3,7
+8fL	.
+8fJ	.
+8fL	B- minor
 8f	.
 8f	.
-8f	B-m
-8f	.
-8f	.
-8f	.
+8fJ	.
 =6	=6
-8f	B-add(2,3,7)
+8fL	B- other-2,3,7
 8f	.
 8g-	.
-8a-	.
-4cc	B-m
+8a-J	.
+4cc	B- minor
 4b-	.
 =7	=7
-4r	B-add(2,3,7)
+4r	B- other-2,3,7
+8a-L	.
+8a-J	.
+8a-L	B- minor
 8a-	.
 8a-	.
-8a-	B-m
-8a-	.
-8a-	.
-8a-	.
+8a-J	.
 =8	=8
-8a-	B-add(2,3,7)
+8a-L	B- other-2,3,7
 8a-	.
 8b-	.
-8b-	.
-4cc	B-m
+8b-J	.
+4cc	B- minor
 4b-	.
 ==	==
 *-	*-

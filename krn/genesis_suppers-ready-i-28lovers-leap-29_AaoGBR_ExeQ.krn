@@ -16,126 +16,126 @@
 *B:	*
 *M4/4	*
 =1	=1
-16An	F#m7b5/A
+16AnLL	F# half-diminished/A
 16An	.
-16An	.
-8An	.
+16AnJ	.
+8AnJ	.
 8r	.
 16An	.
-16An	.
+16AnLK	.
 8B	.
-8F#	.
+8F#J	.
 8r	.
 16F#	.
 =2	=2
-8G#	Bsus4
-16G#	.
+8G#L	B suspended-fourth
+16G#k	.
 8An	.
-8.B	.
-8D#	B
-16D#	.
+8.BJ	.
+8D#L	B major
+16D#k	.
 8E	.
-8F#	.
+8F#J	.
 16r	.
 =3	=3
-4r	Bm
+4r	B minor
+16F#LL	.
 16F#	.
-16F#	.
-16F#	C#add(1,5,10)
-16Gn[	.
-8Gn]	Bm/D
-16F#[	.
-8F#]	E7sus2
+16F#	C# other-1,5,10
+[16GnJJ	.
+8GnL]	B minor/D
+[16F#k	.
+8F#J]	E dominant-seventh-suspended-second
 16r	.
-16r	Bm/F#
+16r	B minor/F#
 16F#	.
 =4	=4
-16B	Bmaj7sus2
+16BLK	B major-seventh-suspended-second
 8B	.
-8F#	F#
-16G#[	.
-16G#]	G#m11
-16A#[	.
-4.A#]	F#/A#
+8F#	F# major
+[16G#L	.
+16G#]	G# minor-11th
+[16A#JJ	.
+4.A#]	F# major/A#
 8r	.
 =5	=5
-8An	F#m7b5/A
-16An	.
+8AnL	F# half-diminished/A
+16Ank	.
 8.An	.
-16An	.
-16An	.
-16B	.
-8.F#	.
+16AnL	.
+16AnJJ	.
+16BLK	.
+8.F#J	.
 4r	.
 =6	=6
-8.G#	Bsus4
+8.G#L	B suspended-fourth
 8An	.
-8.B	.
-8.D#	B
-8.E	.
+8.BJ	.
+8.D#L	B major
+8.EJ	.
 16r	.
 16F#	.
 =7	=7
-8A#	D#m/A#
-16A#	.
+8A#L	D# minor/A#
+16A#k	.
 8G#	.
 8F#	.
-16Fn[	.
-16Fn]	F7/A
-8Fn[	.
-16Fn]	F7
+[16FnJk	.
+16FnLK]	F dominant/A
+[8Fn	.
+16FnJk]	F dominant
 8r	.
-16r	F7/A
+16r	F dominant/A
 16Cn	.
 =8	=8
 *k[b-e-]	*
 *B-:	*
-16D	B-
+16DLK	B- major
 8D	.
 8E-	.
-8.F	.
-16F	.
+8.FJ	.
+16FLK	.
 8.E-	.
-16E-	.
-8F	.
+16E-k	.
+8FJ	.
 16r	.
 =9	=9
-4r	E-/B-
-16g	.
+4r	E- major/B-
+16gLK	.
 8f	.
-16f[	.
-8.f]	B-
+[16fJk	.
+8.f]	B- major
 8r	.
-16e-	.
-8d	.
+16e-LK	.
+8dJ	.
 =10	=10
-8c	Adim
-16c	.
-16c	.
+8cL	A diminished
+16cL	.
+16cJ	.
 8.B-	.
-16B-	.
-16d	B-
-8.f	.
+16B-Jk	.
+16dLK	B- major
+8.fJ	.
 8r	.
-8r	B-/D
+8r	B- major/D
 =11	=11
-4r	E-
-8g	.
-16f	.
-16f[	.
-16f]	B-/F
-8dd	.
+4r	E- major
+8gL	.
+16fL	.
+[16fJJ	.
+16fLK]	B- major/F
+8ddJ	.
 16r	.
-8e-	.
-16d	.
-16c[	.
+8e-L	.
+16dL	.
+[16cJJ	.
 =12	=12
-16c]	G-dim7
+16cLK]	G- diminished-seventh
 8c	.
 8d	.
-8.B-	.
-16B-	Gm7
-16F	.
+8.B-J	.
+16B-LL	G minor-seventh
+16FJJ	.
 4G	.
 8r	.
 =13	=13
@@ -143,10 +143,10 @@
 2r	.
 =14	=14
 *M4/4	*
-2r	A7sus4
-2r	A
+2r	A dominant-seventh-suspended-fourth
+2r	A major
 =15	=15
-2r	A7sus4
-2r	A
+2r	A dominant-seventh-suspended-fourth
+2r	A major
 ==	==
 *-	*-

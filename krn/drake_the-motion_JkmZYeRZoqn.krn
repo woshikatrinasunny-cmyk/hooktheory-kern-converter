@@ -16,21 +16,21 @@
 *e:	*
 *M4/4	*
 =1	=1
-8EE	Em
+8EE	E minor
 2r	.
 8BB	.
 8r	.
-8C	Cmaj9
+8C	C major-ninth
 =2	=2
 3...r	.
 8BB	.
 8r	.
-8AA	Am9
+8AA	A minor-ninth
 =3	=3
 3...r	.
-8AA	.
+8AAL	.
 8AA#	.
-8BB	B
+8BBJ	B major
 =4	=4
 4.r	.
 8E	.
@@ -39,22 +39,22 @@
 8r	.
 8BB	.
 =5	=5
-8EE	Em
+8EE	E minor
 2r	.
 8AA	.
 8r	.
 8BB	.
 =6	=6
-8C	Cadd(2,4,7,9,11)
+8C	C other-2,4,7,9,11
 2r	.
 8BB	.
 8r	.
-8AA	Am9
+8AA	A minor-ninth
 =7	=7
 3...r	.
 8AA#	.
 8r	.
-8BB	B
+8BB	B major
 =8	=8
 4.r	.
 8E	.

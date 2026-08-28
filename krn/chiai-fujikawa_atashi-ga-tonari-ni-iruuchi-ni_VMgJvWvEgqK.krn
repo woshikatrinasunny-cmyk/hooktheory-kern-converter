@@ -16,72 +16,72 @@
 *A:	*
 *M4/4	*
 =1	=1
-8b	Asus2
-16b	.
+8bL	A suspended-second
+16bk	.
 8b	.
-16cc#	.
+16cc#Jk	.
 2cc#	.
 8a	.
 =2	=2
-8b	E/G#
-16b	.
+8bL	E major/G#
+16bk	.
 8b	.
-16cc#	.
+16cc#Jk	.
 2cc#	.
-16a	.
-16a	.
+16aLL	.
+16aJJ	.
 =3	=3
-8b	F#m
-16b	.
+8bL	F# minor
+16bk	.
 8b	.
-16cc#	.
+16cc#Jk	.
 4cc#	.
-8cc#	.
+8cc#L	.
 8dd	.
-8ee[	.
+[8eeJ	.
 =4	=4
-8ee]	E
+8eeL]	E major
 8dd	.
-8cc#	.
+8cc#J	.
 2a	.
-16a	.
-16a	.
+16aLL	.
+16aJJ	.
 =5	=5
-8b	Dmaj7sus2
-16b	.
+8bL	D major-seventh-suspended-second
+16bk	.
 8b	.
-16cc#	.
+16cc#Jk	.
 4cc#	.
+8aL	.
 8a	.
-8a	.
-16ee	.
-16ee	.
+16eeL	.
+16eeJJ	.
 =6	=6
-8ff#	C#
+8ff#L	C# major
 8ee	.
-8cc#	Fdim
-8b[	.
-8b]	F#m
+8cc#	F diminished
+[8bJ	.
+8b]	F# minor
 4a	.
-16a	.
-16cc#	.
+16aLL	.
+16cc#JJ	.
 =7	=7
-8dd	Bm7
-16cc#	.
+8ddL	B minor-seventh
+16cc#k	.
 8.b	.
-16a	.
-16a[	.
-8a]	E
+16aL	.
+[16aJJ	.
+8aL]	E major
 8g#	.
 8g#	.
-16a	.
-16a[	.
+16aL	.
+[16aJJ	.
 =8	=8
-4.a]	A
+4.a]	A major
 8a	.
-8a	E/G#
+8aL	E major/G#
 8b	.
 8cc#	.
-8aa	.
+8aaJ	.
 ==	==
 *-	*-

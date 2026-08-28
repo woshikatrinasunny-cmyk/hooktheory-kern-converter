@@ -16,86 +16,86 @@
 *a:	*
 *M4/4	*
 =1	=1
-8r	Dm
-16dd	.
-16dd	.
-8.dd	Dm
-16dd	.
-16dd	Dm
-16dd	.
-8dd[	.
-16dd]	Dm
+8r	D minor
+16ddLL	.
+16ddJ	.
+8.dd	D minor
+16ddJk	.
+16ddLL	D minor
+16ddJ	.
+[8dd	.
+16ddJk]	D minor
 8.r	.
 =2	=2
-8dd	Asus4
+8ddL	A suspended-fourth
 8dd	.
-8dd	Asus4
-16dd	.
-16dd	.
-8dd	Am
-16cc	.
-16a[	.
-4a]	Am
+8dd	A suspended-fourth
+16ddL	.
+16ddJJ	.
+8ddL	A minor
+16ccL	.
+[16aJJ	.
+4a]	A minor
 =3	=3
-16cc	Gsus4
+16ccLL	G suspended-fourth
 16cc	.
 16cc	.
 16cc	.
-16cc	Gsus4
-16cc	.
-8cc	.
-8cc	G
-16b	.
-16g[	.
-4g]	G
+16cc	G suspended-fourth
+16ccJ	.
+8ccJ	.
+8ccL	G major
+16bL	.
+[16gJJ	.
+4g]	G major
 =4	=4
-8a	Asus4
+8aL	A suspended-fourth
 8a	.
-16a	Asus4
-8.a	.
-8a	A
-16b	.
-16cc#[	.
-4cc#]	A
+16ak	A suspended-fourth
+8.aJ	.
+8aL	A major
+16bL	.
+[16cc#JJ	.
+4cc#]	A major
 =5	=5
-8dd	Dsus4
+8ddL	D suspended-fourth
 8dd	.
-8.dd	Dsus4
-16dd	.
-8dd	Dm
-16dd	.
-16dd[	.
-4dd]	Dm
+8.dd	D suspended-fourth
+16ddJk	.
+8ddL	D minor
+16ddL	.
+[16ddJJ	.
+4dd]	D minor
 =6	=6
-16dd	Asus4
-16dd	.
+16ddLL	A suspended-fourth
+16ddJ	.
 8dd	.
-8dd	Asus4
-16dd	.
-16dd	.
-8dd	Am
+8dd	A suspended-fourth
+16ddL	.
+16ddJJ	.
+8ddL	A minor
 8cc	.
-8a	Am
+8aJ	A minor
 8r	.
 =7	=7
-16cc	Gsus4
-16cc	.
+16ccLL	G suspended-fourth
+16ccJ	.
 8cc	.
-8.cc	Gsus4
-16cc	.
-8cc	G
-16b	.
-16g[	.
-4g]	G
+8.cc	G suspended-fourth
+16ccJk	.
+8ccL	G major
+16bL	.
+[16gJJ	.
+4g]	G major
 =8	=8
-16a	Asus4
-16a	.
+16aLL	A suspended-fourth
+16aJ	.
 8a	.
-16a	Asus4
-8.a	.
-8a	A
-16g	.
-16e[	.
-4e]	A
+16ak	A suspended-fourth
+8.aJ	.
+8aL	A major
+16gL	.
+[16eJJ	.
+4e]	A major
 ==	==
 *-	*-

@@ -16,111 +16,111 @@
 *F:	*
 *M4/4	*
 =1	=1
-8cc[	Dm
-16cc_	Dm
-16cc]	Dm
-8a	Dm
-16r	Gm
-16r	Gm
-16a[	Gm
-16a]	Gm
-8b-	F
-8cc	F
-16dd[	Dm/F
-16dd_	Dm/F
+[8ccL	D minor
+16ccL_	D minor
+16ccJ]	D minor
+8aJ	D minor
+16r	G minor
+16r	G minor
+[16aLL	G minor
+16aJ]	G minor
+8b-	F major
+8cc	F major
+[16ddL	D minor/F
+16ddJJ_	D minor/F
 =2	=2
-8dd]	Dm/F
-16cc	Dm/F
-16b-	Dm/F
-8a	Dm/F
-16r	Edim/G
-16r	Edim/G
-8a	Edim/G
-16b-[	Edim/G
-16b-]	Edim/G
-8cc	Edim/G
-8dd[	F
+8ddL]	D minor/F
+16ccL	D minor/F
+16b-J	D minor/F
+8aJ	D minor/F
+16r	E diminished/G
+16r	E diminished/G
+8aL	E diminished/G
+[16b-L	E diminished/G
+16b-J]	E diminished/G
+8cc	E diminished/G
+[8ddJ	F major
 =3	=3
-16dd_	Dm
-16dd]	Dm
-16cc	Dm
-16b-	Dm
-8a	Dm
-16r	Gm
-16r	Gm
-16a[	Gm
-16a]	Gm
-8b-	F
-8cc	F
-16f[	Dm/F
-16f]	Dm/F
+16ddLL_	D minor
+16dd]	D minor
+16cc	D minor
+16b-J	D minor
+8aJ	D minor
+16r	G minor
+16r	G minor
+[16aLL	G minor
+16aJ]	G minor
+8b-	F major
+8cc	F major
+[16fL	D minor/F
+16fJJ]	D minor/F
 =4	=4
-8g	Dm/F
-16r	Dm/F
-16r	Dm/F
-8cc	Dm/F
-16g[	Dm/F
-16g]	Dm/F
-16g[	Dm/F
-16g_	Edim/G
-16g]	Edim/G
+8g	D minor/F
+16r	D minor/F
+16r	D minor/F
+8ccL	D minor/F
+[16gL	D minor/F
+16gJJ]	D minor/F
+[16gLL	D minor/F
+16g_	E diminished/G
+16g]	E diminished/G
 16f	.
-16a	F
+16a	F major
 16g	.
-16f	F
-16d	.
+16f	F major
+16dJJ	.
 =5	=5
-8cc[	Dm
-16cc_	Dm
-16cc]	Dm
-8a	Dm
-16r	Gm
-16r	Gm
-16a[	Gm
-16a]	Gm
-8b-	F
-8cc	F
-16dd[	Dm/F
-16dd_	Dm/F
+[8ccL	D minor
+16ccL_	D minor
+16ccJ]	D minor
+8aJ	D minor
+16r	G minor
+16r	G minor
+[16aLL	G minor
+16aJ]	G minor
+8b-	F major
+8cc	F major
+[16ddL	D minor/F
+16ddJJ_	D minor/F
 =6	=6
-8dd]	Dm/F
-16cc	Dm/F
-16b-	Dm/F
-8a	Dm/F
-16r	Edim/G
-16r	Edim/G
-8a	Edim/G
-16b-[	Edim/G
-16b-]	Edim/G
-8cc	Edim/G
-8g[	F
+8ddL]	D minor/F
+16ccL	D minor/F
+16b-J	D minor/F
+8aJ	D minor/F
+16r	E diminished/G
+16r	E diminished/G
+8aL	E diminished/G
+[16b-L	E diminished/G
+16b-J]	E diminished/G
+8cc	E diminished/G
+[8gJ	F major
 =7	=7
-16g_	Dm
-16g]	Dm
-16a[	Dm
-16a]	Dm
-8d	Dm
-16c[	Gm
-16c]	Gm
-16c	Gm
-16f	Gm
-8f	F
-16f	F
+16gLL_	D minor
+16g]	D minor
+[16a	D minor
+16aJ]	D minor
+8d	D minor
+[16cL	G minor
+16cJJ]	G minor
+16cLL	G minor
+16fJ	G minor
+8f	F major
+16fL	F major
 16g	.
-16cc[	Dm/F
-16cc]	Dm/F
+[16cc	D minor/F
+16ccJJ]	D minor/F
 =8	=8
-16a	Dm/F
+16a	D minor/F
 16r	.
-16b-	.
-16a	.
+16b-LL	.
+16aJ	.
 8b-	.
-16b-	.
-16a	.
-16b-	.
-16b-	.
+16b-L	.
+16aJJ	.
+16b-LL	.
+16b-J	.
 8cc	.
-16g	.
-8.f	.
+16gk	.
+8.fJ	.
 ==	==
 *-	*-

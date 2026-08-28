@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-1ee[	C
+[1ee	C major
 =2	=2
 2ee]	.
 2dd	.
@@ -27,9 +27,9 @@
 2dd	.
 2cc	.
 =5	=5
-1ee[	Aadd(2,3,7)
+[1ee	A other-2,3,7
 =6	=6
-2ee]	Am
+2ee]	A minor
 2dd	.
 =7	=7
 2ff	.
@@ -38,21 +38,21 @@
 2dd	.
 2cc	.
 =9	=9
-1b	Fadd(2,6,7)
+1b	F other-2,6,7
 =10	=10
-1a	F
+1a	F major
 =11	=11
-1g	Fmaj7sus2
+1g	F major-seventh-suspended-second
 =12	=12
-1f	Dm/F
+1f	D minor/F
 =13	=13
-1e	Fmaj7sus2
+1e	F major-seventh-suspended-second
 =14	=14
-1d	Dm7/F
+1d	D minor-seventh/F
 =15	=15
-1c[	F
+[1c	F major
 =16	=16
 2c]	.
-2G#	G#/C
+2G#	G# major/C
 ==	==
 *-	*-

@@ -30,78 +30,78 @@
 8r	.
 =3	=3
 4.e-	.
-24dn	.
+24dnLL	.
 24c	.
-24Bn	.
+24BnJJ	.
 8c	.
 8r	.
 8c	.
 8r	.
 =4	=4
-4.a-	Fm/C
-24ee-	.
+4.a-	F minor/C
+24ee-LL	.
 24dd-	.
-24cc	.
+24ccJJ	.
 8dd-	.
 8r	.
 8dd-	.
 8r	.
 =5	=5
-4.dd-	B-m7
-24b-	.
+4.dd-	B- minor-seventh
+24b-LL	.
 24a-	.
-24g	.
+24gJJ	.
 8a-	.
 8r	.
 8a-	.
 8r	.
 =6	=6
-4.g	E-7/B-
-24ee-	.
+4.g	E- dominant/B-
+24ee-LL	.
 24dd-	.
-24cc	.
+24ccJJ	.
 8dd-	.
 8r	.
 8dd-	.
 8r	.
 =7	=7
-4.a-	A-
-24dd-	.
+4.a-	A- major
+24dd-LL	.
 24cc	.
-24bn	.
+24bnJJ	.
 8cc	.
 8r	.
 8cc	.
 8r	.
 =8	=8
-4cc	B-m/D-
-4b-[	.
-4b-]	B-7/D
+4cc	B- minor/D-
+[4b-	.
+4b-]	B- dominant/D
 4a-	.
 =9	=9
-4g	E-
+4g	E- major
 4ee-	.
 4dd-	.
-4cc[	Cm
+[4cc	C minor
 =10	=10
-4cc]	B-m/D-
-4b-[	.
-4b-]	B-7/D
+4cc]	B- minor/D-
+[4b-	.
+4b-]	B- dominant/D
 4a-	.
 =11	=11
-4g	E-
+4g	E- major
 4ee-	.
 4dd-	.
-4cc[	Cm
+[4cc	C minor
 =12	=12
-4cc]	B-m/D-
-4b-[	.
-4b-]	B-7/D
+4cc]	B- minor/D-
+[4b-	.
+4b-]	B- dominant/D
 4a-	.
 =13	=13
-4g	E-
+4g	E- major
 2r	.
-4een	E-add(1,4,7,10)
+4een	E- other-1,4,7,10
 =14	=14
 4ee-	.
 4dd-	.
@@ -110,9 +110,9 @@
 =15	=15
 4.en	.
 8e-	.
-8a-	A-/E-
+8a-	A- major/E-
 8r	.
-4een	E-add(1,4,7,10)
+4een	E- other-1,4,7,10
 =16	=16
 4ee-	.
 4dd-	.
@@ -121,185 +121,185 @@
 =17	=17
 4.en	.
 8e-	.
-8a-	A-/E-
+8a-	A- major/E-
 8r	.
-4een	E-add(1,4,7,10)
+4een	E- other-1,4,7,10
 =18	=18
 4ee-	.
 4dd-	.
-4b-	E-7/D-
+4b-	E- dominant/D-
 4g	.
 =19	=19
-8r	A-/C
-8g	.
+8r	A- major/C
+8gL	.
 8b-	.
-8a-	.
-8r	E-/G
-8an	.
+8a-J	.
+8r	E- major/G
+8anL	.
 8cc	.
-8b-	.
+8b-J	.
 =20	=20
-8r	A-
-8bn	.
+8r	A- major
+8bnL	.
 8dd-	.
-8cc	.
-8r	Ddim/F
-8ddn	.
+8ccJ	.
+8r	D diminished/F
+8ddnL	.
 8aa-	.
-8ddn	.
+8ddnJ	.
 =21	=21
-2ee-	E-
-8r	Ddim/F
-8ddn	.
+2ee-	E- major
+8r	D diminished/F
+8ddnL	.
 8aa-	.
-8ddn	.
+8ddnJ	.
 =22	=22
-2ee-	E-
-8r	Gdim7/D-
-8gg	.
+2ee-	E- major
+8r	G diminished-seventh/D-
+8ggL	.
 8eeen	.
-8gg	.
+8ggJ	.
 =23	=23
-2aa-	A-/C
-8r	Gdim7/D-
-8gg	.
+2aa-	A- major/C
+8r	G diminished-seventh/D-
+8ggL	.
 8eeen	.
-8gg	.
+8ggJ	.
 =24	=24
-8r	A-/C
-8gg	.
+8r	A- major/C
+8ggL	.
 8bb-	.
-8aa-	.
-8r	E-/G
-8aan	.
+8aa-J	.
+8r	E- major/G
+8aanL	.
 8ccc	.
-8bb-	.
+8bb-J	.
 =25	=25
-8r	A-
-8bbn	.
+8r	A- major
+8bbnL	.
 8ddd-	.
-8ccc	.
-8r	E-/B-
-8ccc	.
+8cccJ	.
+8r	E- major/B-
+8cccL	.
 8eee-	.
-8ddd-	.
+8ddd-J	.
 =26	=26
-8r	A-/C
-8dddn	.
+8r	A- major/C
+8dddnL	.
 8fff	.
-8eee-	.
-8ddd-	.
+8eee-J	.
+8ddd-L	.
 8ccc	.
 8bb-	.
-8aa-	.
+8aa-J	.
 =27	=27
-8gg	B-m/D-
+8ggL	B- minor/D-
 8ff	.
 8ee-	.
-8dd-	.
-8cc	.
+8dd-J	.
+8ccL	.
 8b-	.
 8a-	.
-8g	.
+8gJ	.
 =28	=28
-8f	A-/E-
+8fL	A- major/E-
 8e-	.
 8dn	.
+8e-J	.
+8dnL	.
 8e-	.
 8dn	.
-8e-	.
-8dn	.
-8e-	.
+8e-J	.
 =29	=29
-8dn	E-7/D-
+8dnL	E- dominant/D-
 8e-	.
 8f	.
-8e-	.
-8dn	.
+8e-J	.
+8dnL	.
 8e-	.
 8f	.
-8e-	.
+8e-J	.
 =30	=30
-8r	A-/C
-8aa-	.
+8r	A- major/C
+8aa-L	.
 8fff	.
-8eee-	.
-8ddd-	.
+8eee-J	.
+8ddd-L	.
 8ccc	.
 8bb-	.
-8aa-	.
+8aa-J	.
 =31	=31
-8gg	B-m/D-
+8ggL	B- minor/D-
 8ff	.
 8ee-	.
-8dd-	.
-8cc	.
+8dd-J	.
+8ccL	.
 8b-	.
 8a-	.
-8g	.
+8gJ	.
 =32	=32
-8f	A-/E-
+8fL	A- major/E-
 8e-	.
 8d-	.
-8c	.
-8B-	.
+8cJ	.
+8B-L	.
 8A-	.
 8G	.
-8F	.
+8FJ	.
 =33	=33
-8E-	E-7
+8E-L	E- dominant
 8F	.
 8G	.
-8A-	.
-8B-	.
+8A-J	.
+8B-L	.
 8c	.
 8d-	.
-8B-	.
+8B-J	.
 =34	=34
-8A-	A-
+8A-	A- major
 8r	.
 8A-	.
 8r	.
-16dn	.
-8.bn[	.
-8bn]	Ddim7
-8b-	.
+16dnLK	.
+[8.bn	.
+8bn]	D diminished-seventh
+8b-J	.
 =35	=35
-4a-[	.
-4a-]	A-/E-
-4g[	.
-8g]	E-7
-8ee-	.
+[4a-	.
+4a-]	A- major/E-
+[4g	.
+8gL]	E- dominant
+8ee-J	.
 =36	=36
-4ee-[	.
-4ee-]	A-
-16dn	.
-8.bn[	.
-8bn]	Ddim7
-8b-	.
+[4ee-	.
+4ee-]	A- major
+16dnLK	.
+[8.bn	.
+8bn]	D diminished-seventh
+8b-J	.
 =37	=37
-4a-[	.
-4a-]	A-/E-
-4g[	.
-8g]	E-7
-8ee-	.
+[4a-	.
+4a-]	A- major/E-
+[4g	.
+8gL]	E- dominant
+8ee-J	.
 =38	=38
-4ee-[	.
-4ee-]	A-
-16ddn	.
-8.bbn[	.
-8bbn]	Ddim7
-8bb-	.
+[4ee-	.
+4ee-]	A- major
+16ddnLK	.
+[8.bbn	.
+8bbn]	D diminished-seventh
+8bb-J	.
 =39	=39
-4aa-[	.
-4aa-]	A-/E-
-4gg[	.
-8gg]	E-7
-8eee-	.
+[4aa-	.
+4aa-]	A- major/E-
+[4gg	.
+8ggL]	E- dominant
+8eee-J	.
 =40	=40
-1eee-	A-add(2,5,7,11)
+1eee-	A- other-2,5,7,11
 =41	=41
-2aa-	A-
+2aa-	A- major
 2r	.
 ==	==
 *-	*-

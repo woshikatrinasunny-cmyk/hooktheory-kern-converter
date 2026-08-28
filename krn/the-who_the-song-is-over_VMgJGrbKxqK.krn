@@ -15,68 +15,68 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8r	F#/C#
+8r	F# major/C#
+8a#L	.
 8a#	.
-8a#	.
-8a#	.
-4g#	C#
-8f#	.
-8e#	.
+8a#J	.
+4g#	C# major
+8f#L	.
+8e#J	.
 =2	=2
-8f#	.
+8f#L	.
 8e#	.
 8d#	.
-8e#[	.
-8e#]	C#/E#
+[8e#J	.
+8e#]	C# major/E#
 4.g#	.
 =3	=3
-8r	F#/C#
-8c#	.
+8r	F# major/C#
+8c#L	.
 8a#	.
-8a#	.
-8g#	C#
+8a#J	.
+8g#L	C# major
 8f#	.
 8e#	.
-8g#	.
+8g#J	.
 =4	=4
-8f#	.
-16e#	.
+8f#L	.
+16e#k	.
 8.d#	.
-8e#	.
-2c#	C#/E#
+8e#J	.
+2c#	C# major/E#
 =5	=5
-8r	G#/D#
-8g#	.
+8r	G# major/D#
+8g#L	.
 8ccn	.
-8ccn	.
-16a#	D#
+8ccnJ	.
+16a#LK	D# major
 8.gn	.
 8d#	.
-8gn	.
+8gnJ	.
 =6	=6
-8g#	C#add(2,4,7)
+8g#	C# other-2,4,7
 4g#	.
-8gn[	.
-8gn]	D#
+[8gn	.
+8gn]	D# major
 4d#	.
 8r	.
 =7	=7
-8r	E#/C
-8e#	.
+8r	E# major/C
+8e#L	.
 8an	.
-8an	.
-4gn	C
-8en	.
-8cn	.
+8anJ	.
+4gn	C major
+8enL	.
+8cnJ	.
 =8	=8
-2dn	A#add(2,4,7)
+2dn	A# other-2,4,7
 2r	.
 =9	=9
-2..r	A#add(2,4,7)
-16en	.
-16e#	.
+2..r	A# other-2,4,7
+16enLL	.
+16e#JJ	.
 =10	=10
-1e#	A#maj7sus2
+1e#	A# major-seventh-suspended-second
 =11	=11
 1r	.
 ==	==

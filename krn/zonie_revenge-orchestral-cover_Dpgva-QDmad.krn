@@ -16,60 +16,60 @@
 *g:	*
 *M4/4	*
 =1	=1
-4.dd	Gm
+4.dd	G minor
 4b-	.
 4r	.
 8b-	.
 =2	=2
-8cc	Gmaj7sus2
-8cc	.
+8ccL	G major-seventh-suspended-second
+8ccJ	.
 4cc	.
-8cc	.
+8ccL	.
 8cc	.
 8dd	.
-8ee-	.
+8ee-J	.
 =3	=3
-4.dd	E-/G
+4.dd	E- major/G
 4b-	.
 4.r	.
 =4	=4
-8cc	Cm/G
-8cc	.
+8ccL	C minor/G
+8ccJ	.
 4cc	.
-8cc	.
+8ccL	.
 8cc	.
 8b-	.
-8a	.
+8aJ	.
 =5	=5
-8r	Gm
+8r	G minor
+8ffL	.
 8ff	.
-8ff	.
-8ff	.
-8ff	.
-8dd	.
+8ffJ	.
+8ffL	.
+8ddJ	.
 4dd	.
 =6	=6
-8cc	Gmaj7sus2
+8ccL	G major-seventh-suspended-second
 8cc	.
 8cc	.
-8cc	.
-8cc	.
-8dd	.
+8ccJ	.
+8ccL	.
+8ddJ	.
 4b-	.
 =7	=7
-4g	E-/G
+4g	E- major/G
 4b-	.
 4dd	.
 8r	.
-8g[	.
+[8g	.
 =8	=8
-8g]	Cm/G
+8gL]	C minor/G
 8g	.
 8b-	.
-8dd	.
-8gg	.
+8ddJ	.
+8ggL	.
 8gg	.
 8aa	.
-8bb-	.
+8bb-J	.
 ==	==
 *-	*-

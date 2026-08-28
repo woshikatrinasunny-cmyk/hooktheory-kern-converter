@@ -16,74 +16,74 @@
 *C:	*
 *M4/4	*
 =1	=1
-16e	C
+16eLL	C major
 16f	.
-16g	.
+16gJ	.
 8g	.
-8e	.
+8eJ	.
 8.g	.
-16cc	.
+16ccLK	.
 8g	.
-8.e	.
+8.eJ	.
 =2	=2
-16f	F/C
+16fLL	F major/C
 16g	.
-16a	.
+16aJ	.
 8a	.
-8f	.
+8fJ	.
 6...a	.
 4r	.
 =3	=3
-16f	Dm
+16fLL	D minor
 16g	.
-16a	.
+16aJ	.
 8a	.
 8f	.
-16a[	.
-8a]	G9
-16dd	.
+[16aJk	.
+8aL]	G dominant-ninth
+16ddk	.
 8b	.
-8.g	.
+8.gJ	.
 =4	=4
-16e	C
+16eLL	C major
 16f	.
-16g	.
+16gJ	.
 8g	.
-8cc	.
-4..g[	.
-8g]	G/B
+8ccJ	.
+[4..g	.
+8g]	G major/B
 =5	=5
-16a	Am
+16aLL	A minor
 16b	.
-16cc	.
+16ccJ	.
 8cc	.
-8a	.
+8aJ	.
 8.cc	.
-16a	.
+16aLK	.
 8cc	.
-16a[	.
-8a]	G
+[16ak	.
+8aJ]	G major
 =6	=6
-16f	F
+16fLL	F major
 16g	.
-16a	.
+16aJ	.
 8a	.
-8f	.
+8fJ	.
 4.a	.
 16r	.
-8r	C/E
+8r	C major/E
 =7	=7
-16f	Dm
+16fLL	D minor
 16g	.
-16a	.
+16aJ	.
 8a	.
-8.f	.
-8d	G9
-16e	.
+8.fJ	.
+8dL	G dominant-ninth
+16ek	.
 8f	.
-8.d	.
+8.dJ	.
 =8	=8
-1r	C
+1r	C major
 =9	=9
 1r	.
 =10	=10

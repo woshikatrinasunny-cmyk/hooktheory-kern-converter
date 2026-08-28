@@ -16,136 +16,136 @@
 *d:	*
 *M4/4	*
 =1	=1
-16d	Dsus4
+16dLL	D suspended-fourth
 16g	.
 16a	.
 16dd	.
 16d	.
 16g	.
 16a	.
-16dd	.
-16d	.
+16ddJJ	.
+16dLL	.
 16g	.
 16a	.
 16dd	.
 16d	.
 16g	.
 16a	.
-16dd	.
+16ddJJ	.
 =2	=2
-16d-	Gm7b5/D-
+16d-LL	G half-diminished/D-
 16f	.
 16g	.
 16dd-	.
 16d-	.
 16f	.
 16g	.
-16dd-	.
-16c	Csus4
+16dd-JJ	.
+16cLL	C suspended-fourth
 16f	.
 16g	.
 16cc	.
 16c	.
 16f	.
 16g	.
-16cc	.
+16ccJJ	.
 =3	=3
-16f	B-
+16fLL	B- major
 16g	.
 16a	.
 16dd	.
 16f	.
 16g	.
 16a	.
-16dd	.
-16e	B-
+16ddJJ	.
+16eLL	B- major
 16f	.
 16g	.
 16cc	.
 16e	.
 16f	.
 16g	.
-16cc	.
+16ccJJ	.
 =4	=4
-16f	C
+16fLL	C major
 16g	.
 16a	.
 16dd	.
 16f	.
 16g	.
 16a	.
-16dd	.
-16e	C
+16ddJJ	.
+16eLL	C major
 16g	.
 16cc	.
 16ee	.
 16e	.
 16g	.
 16cc	.
-16ee	.
+16eeJJ	.
 =5	=5
-16f	Dm
+16fLL	D minor
 16g	.
 16a	.
 16dd	.
 16f	.
 16g	.
 16a	.
-16dd	.
-16e	.
+16ddJJ	.
+16eLL	.
 16f	.
 16g	.
 16cc	.
 16e	.
 16f	.
 16g	.
-16cc	.
+16ccJJ	.
 =6	=6
-16c	Fadd(2,4,7)
+16cLL	F other-2,4,7
 16f	.
 16g	.
 16cc	.
 16c	.
 16f	.
 16g	.
-16cc	.
-16f	F
+16ccJJ	.
+16fLL	F major
 16a	.
 16cc	.
 16ff	.
 16f	.
 16a	.
 16cc	.
-16ff	.
+16ffJJ	.
 =7	=7
-16a	Am
+16aLL	A minor
 16cc	.
 16ee	.
 16aa	.
 16a	.
 16cc	.
 16ee	.
-16aa	.
-16a	Am7
+16aaJJ	.
+16aLL	A minor-seventh
 16cc	.
 16ee	.
 16gg	.
 16a	.
 16cc	.
 16ee	.
-16gg	.
+16ggJJ	.
 =8	=8
-16b-	B-
+16b-LL	B- major
 16cc	.
 16dd	.
 16ff	.
 16b-	.
 16cc	.
 16dd	.
-16ff	.
-8.gg[	C
-16gg]	C
+16ffJJ	.
+[8.ggL	C major
+16ggJk]	C major
 8r	.
-8r	C
+8r	C major
 ==	==
 *-	*-

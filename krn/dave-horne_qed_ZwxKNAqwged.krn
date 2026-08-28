@@ -16,132 +16,132 @@
 *d:	*
 *M4/4	*
 =1	=1
-16G	Am7
+16GLL	A minor-seventh
 16G	.
-16A	Am7
+16A	A minor-seventh
 16d	.
 16G	.
-16G	B-maj7
+16G	B- major-seventh
 16A	.
-16d	.
-16G	B-maj7
+16dJJ	.
+16GLL	B- major-seventh
 16G	.
 16A	.
-16d	B-maj7
+16d	B- major-seventh
 16G	.
 16G	.
-16A	B-maj7
-16d	.
+16A	B- major-seventh
+16dJJ	.
 =2	=2
-16G	.
-16G	C
+16GLL	.
+16G	C major
 16A	.
 16d	.
-16G	C
+16G	C major
 16G	.
 16A	.
-16d	Dm
+16dJJ	D minor
+16GLL	.
 16G	.
-16G	.
-16A	Dm
+16A	D minor
 16d	.
 16G	.
-16G	Dm
+16G	D minor
 16A	.
-16d	.
+16dJJ	.
 =3	=3
-16G	Am7
+16GLL	A minor-seventh
 16G	.
-16A	Am7
+16A	A minor-seventh
 16d	.
 16G	.
-16G	B-maj7
+16G	B- major-seventh
 16A	.
-16d	.
-16G	B-maj7
+16dJJ	.
+16GLL	B- major-seventh
 16G	.
 16A	.
-16d	B-maj7
+16d	B- major-seventh
 16G	.
 16G	.
-16A	B-maj7
-16d	.
+16A	B- major-seventh
+16dJJ	.
 =4	=4
-16G	.
-16G	C
+16GLL	.
+16G	C major
 16A	.
 16d	.
-16G	C
+16G	C major
 16G	.
 16A	.
-16d	Dm
+16dJJ	D minor
+16GLL	.
 16G	.
-16G	.
-16A	Dm
+16A	D minor
 16d	.
 16G	.
-16G	Dm
+16G	D minor
 16A	.
-16d	.
+16dJJ	.
 =5	=5
-16G	Am7
+16GLL	A minor-seventh
 16G	.
-16A	Am7
+16A	A minor-seventh
 16d	.
 16G	.
-16G	B-maj7
+16G	B- major-seventh
 16A	.
-16d	.
-16G	B-maj7
+16dJJ	.
+16GLL	B- major-seventh
 16G	.
 16A	.
-16d	B-maj7
+16d	B- major-seventh
 16G	.
 16G	.
-16A	B-maj7
-16d	.
+16A	B- major-seventh
+16dJJ	.
 =6	=6
-16G	.
-16G	C
+16GLL	.
+16G	C major
 16A	.
 16d	.
-16G	C
+16G	C major
 16G	.
 16A	.
-16d	Dm
+16dJJ	D minor
+16GLL	.
 16G	.
-16G	.
-16A	Dm
+16A	D minor
 16d	.
 16G	.
-16G	Dm
+16G	D minor
 16A	.
-16d	.
+16dJJ	.
 =7	=7
-16G	Am7
+16GLL	A minor-seventh
 16G	.
-16A	Am7
+16A	A minor-seventh
 16d	.
 16G	.
-16G	B-maj7
+16G	B- major-seventh
 16A	.
-16d	.
-8D	B-maj7
-16G[	.
-16G]	B-maj7
+16dJJ	.
+8DL	B- major-seventh
+[16GL	.
+16GJ]	B- major-seventh
 8A	.
-8c	B-maj7
+8cJ	B- major-seventh
 =8	=8
-16d[	.
-16d]	C
+[16dLL	.
+16dJ]	C major
 8g	.
-8a	C
-16cc[	.
-16cc]	Dm
-8dd	.
-8gg	Dm
-16aa[	.
-16aa]	Dm
-8ddd	.
+8a	C major
+[16ccL	.
+16ccJJ]	D minor
+8ddL	.
+8gg	D minor
+[16aaL	.
+16aaJ]	D minor
+8dddJ	.
 ==	==
 *-	*-

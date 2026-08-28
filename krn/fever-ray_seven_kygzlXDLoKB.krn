@@ -16,51 +16,51 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4r	Gm
+4r	G minor
 4gg	.
 4bb-	.
 4gg	.
 =2	=2
 8r	.
+8ggL	.
+8gg	.
+8ggJ	.
+8ggL	.
 8gg	.
 8gg	.
-8gg	.
-8gg	.
-8gg	.
-8gg	.
-8gg	.
+8ggJ	.
 =3	=3
-3...ff	F
+3...ff	F major
 8r	.
 4f	.
 =4	=4
 2b-	.
 2f	.
 =5	=5
-4r	Cm
+4r	C minor
 4ccc	.
 4eee-	.
 4ccc	.
 =6	=6
 8r	.
+8cccL	.
+8ccc	.
+8cccJ	.
+8cccL	.
 8ccc	.
 8ccc	.
-8ccc	.
-8ccc	.
-8ccc	.
-8ccc	.
-8eee-	.
+8eee-J	.
 =7	=7
-4bb-	B-
+4bb-	B- major
 3...bb-	.
-8f[	.
+[8f	.
 =8	=8
 8f]	.
 4g	.
 8f	.
 2b-	.
 =9	=9
-4r	Fm
+4r	F minor
 4ff	.
 4ff	.
 4ff	.
@@ -71,26 +71,26 @@
 4aa-	.
 8aa-	.
 =11	=11
-4gg	E-
+4gg	E- major
 4ee-	.
-2ee-[	.
+[2ee-	.
 =12	=12
 4ee-]	.
 4r	.
-8ee-	.
-8ee-	.
+8ee-L	.
+8ee-J	.
 4dd	.
 =13	=13
-2.gg	B-
-4ff[	.
+2.gg	B- major
+[4ff	.
 =14	=14
 4ff]	.
 4ee-	.
 4dd	.
 4ee-	.
 =15	=15
-2.gg	F
-4ff[	.
+2.gg	F major
+[4ff	.
 =16	=16
 2ff]	.
 2r	.

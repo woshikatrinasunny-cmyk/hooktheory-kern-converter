@@ -16,117 +16,117 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4.r	F#
-4.r	F#
-4r	Gmaj7
+4.r	F# major
+4.r	F# major
+4r	G major-seventh
 =2	=2
 4r	.
-4.r	F#m7/A
-4.r	F#m7/A
+4.r	F# minor-seventh/A
+4.r	F# minor-seventh/A
 =3	=3
-4.r	F#m7/A
-4.r	Gmaj7
-4r	Gmaj7
+4.r	F# minor-seventh/A
+4.r	G major-seventh
+4r	G major-seventh
 =4	=4
 4r	.
-4.r	G
-4.r	G
+4.r	G major
+4.r	G major
 =5	=5
-4.g	F#
-4.r	F#
-4r	Gmaj7
+4.g	F# major
+4.r	F# major
+4r	G major-seventh
 =6	=6
 4r	.
-4.r	F#m7/A
-4.r	F#m7/A
+4.r	F# minor-seventh/A
+4.r	F# minor-seventh/A
 =7	=7
-4.r	F#m7/A
-4.r	Gmaj7
-4r	Gmaj7
+4.r	F# minor-seventh/A
+4.r	G major-seventh
+4r	G major-seventh
 =8	=8
 4r	.
-4.r	Gmaj7
-4.r	Gmaj7
+4.r	G major-seventh
+4.r	G major-seventh
 =9	=9
-4.ff#[	F#
-4.ff#_	F#
-4ff#_	Gmaj7
+[4.ff#	F# major
+4.ff#_	F# major
+4ff#_	G major-seventh
 =10	=10
 4ff#_	.
-4.ff#_	F#m7/A
-4.ff#_	F#m7/A
+4.ff#_	F# minor-seventh/A
+4.ff#_	F# minor-seventh/A
 =11	=11
-4.ff#_	F#m7/A
-4.ff#]	Gmaj7
-4ee	Gmaj7
+4.ff#_	F# minor-seventh/A
+4.ff#]	G major-seventh
+4ee	G major-seventh
 =12	=12
 4gg#	.
-4ee	G
-8ff#[	.
-8ff#]	G
+4ee	G major
+[8ff#L	.
+8ff#]	G major
 8gg#	.
-8ee	.
+8eeJ	.
 =13	=13
-4.ff#[	F#
-4.ff#_	F#
-4ff#]	Gmaj7
+[4.ff#	F# major
+4.ff#_	F# major
+4ff#]	G major-seventh
 =14	=14
 4gg#	.
-4ff#	F#m7/A
-8ee[	.
-8ee]	F#m7/A
+4ff#	F# minor-seventh/A
+[8eeL	.
+8eeJ]	F# minor-seventh/A
 4dd	.
 =15	=15
-4.cc#[	F#m7/A
-4.cc#_	Gmaj7
-4cc#_	Gmaj7
+[4.cc#	F# minor-seventh/A
+4.cc#_	G major-seventh
+4cc#_	G major-seventh
 =16	=16
 4cc#_	.
-4.cc#_	Gmaj7
-4.cc#]	Gmaj7
+4.cc#_	G major-seventh
+4.cc#]	G major-seventh
 =17	=17
-4b	F#
-8cc#[	.
-8cc#]	F#
+4b	F# major
+[8cc#L	.
+8cc#J]	F# major
 4cc#	.
-8cc#	Gmaj7
-8b[	.
+8cc#L	G major-seventh
+[8bJ	.
 =18	=18
-8b]	.
-8cc#[	.
-8cc#]	F#m7/A
-4cc#[	.
-4.cc#_	F#m7/A
+8bL]	.
+[8cc#	.
+8cc#J]	F# minor-seventh/A
+[4cc#	.
+4.cc#_	F# minor-seventh/A
 =19	=19
-4.cc#_	F#m7/A
-4.cc#_	Gmaj7
-4cc#_	Gmaj7
+4.cc#_	F# minor-seventh/A
+4.cc#_	G major-seventh
+4cc#_	G major-seventh
 =20	=20
 4cc#_	.
-4.cc#_	Gmaj7
-4.cc#]	Gmaj7
+4.cc#_	G major-seventh
+4.cc#]	G major-seventh
 =21	=21
-8a	F#m
+8a	F# minor
 4a	.
-4a	F#m
-8a[	.
-8a]	Eadd(2,4,7)
-8b[	.
+4a	F# minor
+[8aL	.
+8a]	E other-2,4,7
+[8bJ	.
 =22	=22
 4b]	.
-8b	Eadd(2,4,7)
-4b[	.
-4b]	Eadd(2,4,7)
+8b	E other-2,4,7
+[4b	.
+4b]	E other-2,4,7
 8a#	.
 =23	=23
-8b	Gmaj7
+8bL	G major-seventh
 8a#	.
-8f#[	.
-4.f#_	Gmaj7
-4f#_	Gmaj7
+[8f#J	.
+4.f#_	G major-seventh
+4f#_	G major-seventh
 =24	=24
 4f#_	.
-4.f#_	Gmaj7
-4.f#]	Gmaj7
+4.f#_	G major-seventh
+4.f#]	G major-seventh
 ==	==
 *-	*-

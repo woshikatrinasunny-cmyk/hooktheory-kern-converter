@@ -16,63 +16,63 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	Aadd(2,3,7)
+4r	A other-2,3,7
 4.b	.
-8cc	.
+8ccL	.
 8b	.
-8a	.
+8aJ	.
 =2	=2
-2g	Cmaj7/G
+2g	C major-seventh/G
 2c	.
 =3	=3
-3...g	Fmaj7
-8f	.
+3...g	F major-seventh
+8fL	.
 8e	.
-8d	.
+8dJ	.
 =4	=4
-1e	C/E
+1e	C major/E
 =5	=5
-4A	Dm7
+4A	D minor-seventh
 4B	.
 4c	.
 4g	.
 =6	=6
-2.d	Em7
+2.d	E minor-seventh
 4d	.
 =7	=7
-4A	Fmaj7
+4A	F major-seventh
 4B	.
 4c	.
 4g	.
 =8	=8
-2d	Em7
+2d	E minor-seventh
 2e	.
 =9	=9
-4r	Aadd(2,3,7)
+4r	A other-2,3,7
 4.b	.
-8cc	.
+8ccL	.
 8b	.
-8a	.
+8aJ	.
 =10	=10
-2g	C7/G
-2c	C7
+2g	C dominant/G
+2c	C dominant
 =11	=11
-3...g	Fmaj7
-8f	.
+3...g	F major-seventh
+8fL	.
 8e	.
-8d	.
+8dJ	.
 =12	=12
-1e	C/E
+1e	C major/E
 =13	=13
-4A	Dm7
+4A	D minor-seventh
 4B	.
 4c	.
 4g	.
 =14	=14
-2d	Em7
+2d	E minor-seventh
 2g	.
 =15	=15
-1a[	Aadd(2,5,7)
+[1a	A other-2,5,7
 =16	=16
 1a]	.
 ==	==

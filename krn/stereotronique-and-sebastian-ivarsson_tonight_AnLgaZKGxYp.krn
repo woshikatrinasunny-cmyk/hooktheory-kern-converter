@@ -16,155 +16,155 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.cc[	Fsus2
-4.cc_	F
-4cc]	Fsus2
+[4.cc	F suspended-second
+4.cc_	F major
+4cc]	F suspended-second
 =2	=2
 8r	.
-4.cc[	Am
-4cc]	Am7
-4dd	Asus4
+[4.cc	A minor
+4cc]	A minor-seventh
+4dd	A suspended-fourth
 =3	=3
-4.cc	Gsus4
-4.b	G
-8cc	Gsus4
-8gg	.
+4.cc	G suspended-fourth
+4.b	G major
+8ccL	G suspended-fourth
+8ggJ	.
 =4	=4
 8r	.
-4.aa	Fadd(2,4,7)
-4ff	F
-4ee	Fmaj7
+4.aa	F other-2,4,7
+4ff	F major
+4ee	F major-seventh
 =5	=5
-4.cc[	Fsus2
-4.cc_	F
-4cc]	Fsus2
+[4.cc	F suspended-second
+4.cc_	F major
+4cc]	F suspended-second
 =6	=6
 8r	.
-4.cc[	Am
-4cc]	Am7
-4dd	Asus4
+[4.cc	A minor
+4cc]	A minor-seventh
+4dd	A suspended-fourth
 =7	=7
-4.cc	Gsus4
-4.b	G
-8cc	Gsus4
-8gg	.
+4.cc	G suspended-fourth
+4.b	G major
+8ccL	G suspended-fourth
+8ggJ	.
 =8	=8
 8r	.
-4.aa	Fadd(2,4,7)
-4ff	F
-4ee	Fmaj7
+4.aa	F other-2,4,7
+4ff	F major
+4ee	F major-seventh
 =9	=9
-4.cc[	Fsus2
-4.cc_	F
-4cc]	Fsus2
+[4.cc	F suspended-second
+4.cc_	F major
+4cc]	F suspended-second
 =10	=10
 8r	.
-4.cc[	Am
-4cc]	Am7
-4dd	Asus4
+[4.cc	A minor
+4cc]	A minor-seventh
+4dd	A suspended-fourth
 =11	=11
-4.cc	Gsus4
-4.b	G
-8cc	Gsus4
-8gg	.
+4.cc	G suspended-fourth
+4.b	G major
+8ccL	G suspended-fourth
+8ggJ	.
 =12	=12
 8r	.
-4.aa	Fadd(2,4,7)
-4ff	F
-4ee	Fmaj7
+4.aa	F other-2,4,7
+4ff	F major
+4ee	F major-seventh
 =13	=13
-4.cc[	D7sus4
-4.cc_	Dm7
-4cc]	D7sus4
+[4.cc	D dominant-seventh-suspended-fourth
+4.cc_	D minor-seventh
+4cc]	D dominant-seventh-suspended-fourth
 =14	=14
 8r	.
-3...cc	C/E
-4dd	Em7
+3...cc	C major/E
+4dd	E minor-seventh
 =15	=15
-4.cc	Fsus2
-4.b	Fadd(2,6,7)
-8cc	Fsus2
-8gg	.
+4.cc	F suspended-second
+4.b	F other-2,6,7
+8ccL	F suspended-second
+8ggJ	.
 =16	=16
 8r	.
-4.aa	Fadd(2,4,7)
-4ff	F
-4ee	Fmaj7
+4.aa	F other-2,4,7
+4ff	F major
+4ee	F major-seventh
 =17	=17
-4.ee	Fmaj7sus2
-4.ff	F
-4ee	Fmaj7sus2
+4.ee	F major-seventh-suspended-second
+4.ff	F major
+4ee	F major-seventh-suspended-second
 =18	=18
 8r	.
-4.cc	Am
+4.cc	A minor
 4ee	.
-4gg	A7sus4
+4gg	A dominant-seventh-suspended-fourth
 =19	=19
-4.ee	C/G
-4.gg	G
-8cc	Gsus4
-8gg	.
+4.ee	C major/G
+4.gg	G major
+8ccL	G suspended-fourth
+8ggJ	.
 =20	=20
 8r	.
-4.aa	Fmaj7sus2
-4ff	F
-4ee	Fmaj7sus2
+4.aa	F major-seventh-suspended-second
+4ff	F major
+4ee	F major-seventh-suspended-second
 =21	=21
-4.ee	Fmaj7sus2
-4.ff	F
-4ee	Fmaj7sus2
+4.ee	F major-seventh-suspended-second
+4.ff	F major
+4ee	F major-seventh-suspended-second
 =22	=22
 8r	.
-4.cc	Am
+4.cc	A minor
 4ee	.
-4gg	A7sus4
+4gg	A dominant-seventh-suspended-fourth
 =23	=23
-4.ee	C/G
-4.gg	G
-8cc	Gsus4
-8gg	.
+4.ee	C major/G
+4.gg	G major
+8ccL	G suspended-fourth
+8ggJ	.
 =24	=24
 8r	.
-4.aa	Fmaj7sus2
-4ff	F
-4ee	Fmaj7sus2
+4.aa	F major-seventh-suspended-second
+4ff	F major
+4ee	F major-seventh-suspended-second
 =25	=25
-4.ee	Fmaj7sus2
-4.ff	F
-4ee	Fmaj7sus2
+4.ee	F major-seventh-suspended-second
+4.ff	F major
+4ee	F major-seventh-suspended-second
 =26	=26
 8r	.
-4.cc	Am
+4.cc	A minor
 4ee	.
-4gg	A7sus4
+4gg	A dominant-seventh-suspended-fourth
 =27	=27
-4.ee	C/G
-4.gg	G
-8cc	Gsus4
-8gg	.
+4.ee	C major/G
+4.gg	G major
+8ccL	G suspended-fourth
+8ggJ	.
 =28	=28
 8r	.
-4.aa	Fmaj7sus2
-4ff	F
-4ee	Fmaj7sus2
+4.aa	F major-seventh-suspended-second
+4ff	F major
+4ee	F major-seventh-suspended-second
 =29	=29
-4.ee	Dadd(2,3,7)
-4.ff	Dm7
-4ee	Dadd(2,3,7)
+4.ee	D other-2,3,7
+4.ff	D minor-seventh
+4ee	D other-2,3,7
 =30	=30
 8r	.
-4.cc	C/E
+4.cc	C major/E
 4ee	.
-4gg	Em7
+4gg	E minor-seventh
 =31	=31
-4.ee	Fsus2
-4.b	Fadd(2,6,7)
-8cc	Fsus2
-8gg	.
+4.ee	F suspended-second
+4.b	F other-2,6,7
+8ccL	F suspended-second
+8ggJ	.
 =32	=32
 8r	.
-4.aa	Fadd(2,4,7)
-4ff	F
-4ee	Fmaj7
+4.aa	F other-2,4,7
+4ff	F major
+4ee	F major-seventh
 ==	==
 *-	*-

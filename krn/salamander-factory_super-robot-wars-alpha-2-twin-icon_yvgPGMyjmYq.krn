@@ -16,7 +16,7 @@
 *d:	*
 *M4/4	*
 =1	=1
-2e	B-
+2e	B- major
 2d	.
 =2	=2
 4d-	.
@@ -24,7 +24,7 @@
 4g	.
 4f	.
 =3	=3
-2e	A
+2e	A major
 2d	.
 =4	=4
 4d-	.
@@ -32,7 +32,7 @@
 4e	.
 4f	.
 =5	=5
-2ee	B-
+2ee	B- major
 2dd	.
 =6	=6
 4dd-	.
@@ -40,7 +40,7 @@
 4gg	.
 4ff	.
 =7	=7
-2ee	Dm/A
+2ee	D minor/A
 2dd	.
 =8	=8
 4a-	.
@@ -48,15 +48,15 @@
 4dd	.
 4ff	.
 =9	=9
-2ff	Ddim/A-
-2ee	E7/A-
+2ff	D diminished/A-
+2ee	E dominant/A-
 =10	=10
 4b-	.
 4bn	.
 4ee	.
 4dd	.
 =11	=11
-4dd	D-dim/G
+4dd	D- diminished/G
 4dd-	.
 4b-	.
 4a	.

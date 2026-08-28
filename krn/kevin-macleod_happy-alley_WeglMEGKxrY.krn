@@ -15,64 +15,64 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8.r	F#
-8.r	F#
-8r	F#
-8.r	F#
-8.r	F#
-8r	F#
+8.r	F# major
+8.r	F# major
+8r	F# major
+8.r	F# major
+8.r	F# major
+8r	F# major
 =2	=2
-8.r	B
-8.r	B
-8r	B
-8.r	B
-16r	B
-8r	B/D#
-8r	B/D#
+8.r	B major
+8.r	B major
+8r	B major
+8.r	B major
+16r	B major
+8r	B major/D#
+8r	B major/D#
 =3	=3
-8.r	C#
-8.r	C#
-8r	C#
-8.r	C#
-8.r	C#
-8r	C#
+8.r	C# major
+8.r	C# major
+8r	C# major
+8.r	C# major
+8.r	C# major
+8r	C# major
 =4	=4
-8.r	E#dim/B
-8.r	E#dim/B
-8r	E#dim/B
-8.r	E#dim/B
-16r	E#dim/B
-8r	C#7
-8r	C#7
+8.r	E# diminished/B
+8.r	E# diminished/B
+8r	E# diminished/B
+8.r	E# diminished/B
+16r	E# diminished/B
+8r	C# dominant
+8r	C# dominant
 =5	=5
-8.r	F#
-8.r	F#
-8r	F#
-8.r	F#
-8.r	F#
-8r	F#/A#
+8.r	F# major
+8.r	F# major
+8r	F# major
+8.r	F# major
+8.r	F# major
+8r	F# major/A#
 =6	=6
-8.r	B
-8.r	B
-8r	B
-8.r	B
-8.r	B
-8r	B/D#
+8.r	B major
+8.r	B major
+8r	B major
+8.r	B major
+8.r	B major
+8r	B major/D#
 =7	=7
-8.r	C#
-8.r	C#
-8r	C#
-8.r	C#7
-8.r	C#7
-8r	C#7
+8.r	C# major
+8.r	C# major
+8r	C# major
+8.r	C# dominant
+8.r	C# dominant
+8r	C# dominant
 =8	=8
 *k[f#c#g#d#]	*
 *E:	*
-8.r	B
-8.r	B
-8r	B
-8.r	C#add(2,5,7,8,10)
-8.r	C#add(2,5,7,8,10)
-8r	C#add(2,5,7,8,10)
+8.r	B major
+8.r	B major
+8r	B major
+8.r	C# other-2,5,7,8,10
+8.r	C# other-2,5,7,8,10
+8r	C# other-2,5,7,8,10
 ==	==
 *-	*-

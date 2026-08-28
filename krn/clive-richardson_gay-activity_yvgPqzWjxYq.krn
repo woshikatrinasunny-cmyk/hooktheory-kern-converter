@@ -16,70 +16,70 @@
 *F:	*
 *M4/4	*
 =1	=1
-1A	Fmaj7
+1A	F major-seventh
 =2	=2
-2A-	Fadd(3,4,6,7,11)
-2A	Fmaj7
+2A-	F other-3,4,6,7,11
+2A	F major-seventh
 =3	=3
 1A	.
 =4	=4
-4c[	Fmaj7/A
-2c_	Am7
-4c]	Dm7/A
+[4c	F major-seventh/A
+2c_	A minor-seventh
+4c]	D minor-seventh/A
 =5	=5
-8r	D9
-8G-	.
+8r	D dominant-ninth
+8G-L	.
 8A	.
-8c	.
-2e[	.
+8cJ	.
+[2e	.
 =6	=6
 1e]	.
 =7	=7
-2d	Gm7
-2d-	Gm7b5
+2d	G minor-seventh
+2d-	G half-diminished
 =8	=8
-2c[	Am7/C
-2c]	C
+[2c	A minor-seventh/C
+2c]	C major
 =9	=9
-1A	Fmaj7
+1A	F major-seventh
 =10	=10
-1A-	Fadd(3,4,6,7,11)
+1A-	F other-3,4,6,7,11
 =11	=11
-1A	Fmaj7
+1A	F major-seventh
 =12	=12
-4c[	Fmaj7/A
-2c_	Am7
-4c]	F/A
+[4c	F major-seventh/A
+2c_	A minor-seventh
+4c]	F major/A
 =13	=13
-1Bn	D-9
+1Bn	D- dominant-ninth
 =14	=14
-1B-	G-add(2,4,7)
+1B-	G- other-2,4,7
 =15	=15
-8bbn	D
+8bbnL	D major
 8aa	.
 8bbn	.
-8aa	.
-8aa	G
+8aaJ	.
+8aaL	G major
 8gg	.
 8bn	.
-8dd	.
+8ddJ	.
 =16	=16
-8aa	Fmaj7/C
+8aaL	F major-seventh/C
 8gg	.
 8aa	.
-8dd	.
-8gg	F/C
+8ddJ	.
+8ggL	F major/C
 8ff	.
 8gg	.
-8ff	.
+8ffJ	.
 =17	=17
-8gg	.
+8ggL	.
 8ff	.
 8gg	.
-8ff	.
-8ee-	Fm7/C
-8dd	Ddim
-8cc	Fm7/E-
-8b-	E-m
+8ffJ	.
+8ee-L	F minor-seventh/C
+8dd	D diminished
+8cc	F minor-seventh/E-
+8b-J	E- minor
 ==	==
 *-	*-

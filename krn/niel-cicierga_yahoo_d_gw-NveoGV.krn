@@ -16,54 +16,54 @@
 *G:	*
 *M4/4	*
 =1	=1
-1r	G
+1r	G major
 =2	=2
 8r	.
-2..r	Gadd(2,4,7)
+2..r	G other-2,4,7
 =3	=3
-1r	G
+1r	G major
 =4	=4
-1r	Gadd(2,4,7)
+1r	G other-2,4,7
 =5	=5
-2.r	D
+2.r	D major
 4f#	.
 =6	=6
-8.cc	D
-2.dd[	.
+8.cc	D major
+[2.dd	.
 16dd_	.
 =7	=7
-2..dd]	Gadd(2,4,7)
+2..dd]	G other-2,4,7
 8B	.
 =8	=8
-4b	G
+4b	G major
 2.r	.
 =9	=9
-2.r	C
+2.r	C major
 4g	.
 =10	=10
-4gg[	.
-4gg]	D
+[4gg	.
+4gg]	D major
 2ff#	.
 =11	=11
-2..bb	Em
+2..bb	E minor
 8b	.
 =12	=12
-4dd	Bm
+4dd	B minor
 4f#	.
 4b	.
 4a	.
 =13	=13
-4g	C
+4g	C major
 4.r	.
 8r	.
 4f#	.
 =14	=14
-1aa[	.
+[1aa	.
 =15	=15
 2..aa]	.
 8d	.
 =16	=16
-8dd	G
+8dd	G major
 2..r	.
 ==	==
 *-	*-

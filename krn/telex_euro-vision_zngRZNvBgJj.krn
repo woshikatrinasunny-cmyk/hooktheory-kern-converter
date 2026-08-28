@@ -16,64 +16,64 @@
 *D:	*
 *M4/4	*
 =1	=1
-4a	D
+4a	D major
 4f#	.
 4b	.
 4a	.
 =2	=2
-4aa	D
+4aa	D major
 4ff#	.
 4bb	.
-4aa	F#m/C#
+4aa	F# minor/C#
 =3	=3
-4a	Bm7
+4a	B minor-seventh
 4f#	.
 4b	.
 4a	.
 =4	=4
-4aa	Bm7
+4aa	B minor-seventh
 4ff#	.
 4bb	.
-4aa	A
+4aa	A major
 =5	=5
-2a	Gadd(2,4,7)
+2a	G other-2,4,7
 2f#	.
 =6	=6
-2b	Gsus2
+2b	G suspended-second
 2a	.
 =7	=7
-16d	A
+16dLL	A major
 16e	.
 16d	.
 16e	.
 16f#	.
 16g	.
 16f#	.
-16g	.
-16a	.
+16gJJ	.
+16aLL	.
 16b	.
 16a	.
 16b	.
 16cc#	.
 16dd	.
 16cc#	.
-16dd	.
+16ddJJ	.
 =8	=8
-16ee	A
+16eeLL	A major
 16ff#	.
 16ee	.
 16ff#	.
 16gg	.
 16aa	.
 16gg	.
-16aa	.
-16bb	A/C#
+16aaJJ	.
+16bbLL	A major/C#
 16ccc#	.
 16bb	.
 16ccc#	.
 16ddd	.
 16eee	.
 16ddd	.
-16eee	.
+16eeeJJ	.
 ==	==
 *-	*-

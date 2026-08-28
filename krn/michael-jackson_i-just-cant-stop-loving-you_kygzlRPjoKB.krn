@@ -15,105 +15,105 @@
 *C:	*
 *M4/4	*
 =1	=1
-8c	C
+8cL	C major
 8G	.
-8c	.
+8cJ	.
 4d	.
 4.e	.
 =2	=2
-8c	C
+8cL	C major
 8G	.
-8c	.
+8cJ	.
 4d	.
 4.e	.
 =3	=3
-8r	Gm7
+8r	G minor-seventh
 8c	.
 4d	.
 8B-	.
-4.B-[	.
+[4.B-	.
 =4	=4
-2B-]	Gm7
+2B-]	G minor-seventh
 2r	.
 =5	=5
-8c	C
+8cL	C major
 8G	.
-8c	.
+8cJ	.
 4d	.
 4e	.
 8G	.
 =6	=6
-8c	C
+8cL	C major
 8G	.
-8c	.
+8cJ	.
 4d	.
 4.e	.
 =7	=7
-8.r	C7sus4
+8.r	C dominant-seventh-suspended-fourth
 8.g	.
 4a	.
-8.g	.
+8.gL	.
 8e	.
-16d	.
+16dJk	.
 =8	=8
-16c	C7sus4
-3...d[	.
+16c	C dominant-seventh-suspended-fourth
+[3...d	.
 16d]	.
 8r	.
 8c	.
 =9	=9
-4g	F
-16f	.
-8.e	.
+4g	F major
+16fLK	.
+8.eJ	.
 4d	.
 8r	.
 8c	.
 =10	=10
-8.g	F
+8.gL	F major
 8f	.
-8.e	.
+8.eJ	.
 4d	.
 4r	.
 =11	=11
-8e	Fm
+8eL	F minor
 8f	.
 8e	.
-8f	.
-8e	.
+8fJ	.
+8eL	.
 8c	.
 8A-	.
-8c[	.
+[8cJ	.
 =12	=12
-2.c]	Am7
+2.c]	A minor-seventh
 8r	.
 8c	.
 =13	=13
-8.f	B-7sus4
+8.fL	B- dominant-seventh-suspended-fourth
 8.e-	.
-8d	.
-8.c	.
-16c	.
+8dJ	.
+8.cL	.
+16ck	.
 8c	.
-8f[	.
+[8fJ	.
 =14	=14
-6...f]	B-7sus4
-8e-	.
-16d	.
+6...f]	B- dominant-seventh-suspended-fourth
+8e-L	.
+16dJk	.
 2c	.
 =15	=15
-8d	E-maj7
+8dL	E- major-seventh
 8e-	.
 8d	.
-8e-	.
-8d	.
+8e-J	.
+8dL	.
 8B-	.
 8B-	.
-8c	.
+8cJ	.
 =16	=16
-8a	G
+8aL	G major
 8g	.
 8e	.
-8g	.
+8gJ	.
 4a	.
 4r	.
 ==	==

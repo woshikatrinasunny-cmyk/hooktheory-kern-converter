@@ -16,57 +16,57 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4.r	C#
-4.r	G#m
+4.r	C# major
+4.r	G# minor
+16bbLL	.
 16bb	.
 16bb	.
-16bb	.
-16bb	.
+16bbJJ	.
 =2	=2
-8bb	D#m
+8bbL	D# minor
 8aa#	.
-16gg#	.
-16gg#	.
-8gg#	F#
+16gg#L	.
+16gg#J	.
+8gg#J	F# major
 8gg#	.
 8r	.
-16aa#	.
-16bb	.
-8ccc#	.
+16aa#LL	.
+16bbJ	.
+8ccc#J	.
 =3	=3
-8ee#	C#
-16dd#	.
+8ee#L	C# major
+16dd#L	.
 16cc#	.
 16bb	.
 16bb	.
-16bb	G#m
-16bb	.
-8bb	.
+16bb	G# minor
+16bbJJ	.
+8bbL	.
 8aa#	.
+16bbL	.
 16bb	.
 16bb	.
-16bb	.
-16bb	.
+16bbJJ	.
 =4	=4
-8bb	D#m
+8bbL	D# minor
 8aa#	.
-16gg#	.
-16gg#	.
-8gg#	F#
+16gg#L	.
+16gg#J	.
+8gg#J	F# major
 8gg#	.
 8r	.
-8aa#	.
-16ccc#	.
-16ccc#	.
+8aa#L	.
+16ccc#L	.
+16ccc#JJ	.
 =5	=5
-8ee#	C#
-16dd#	.
+8ee#L	C# major
+16dd#L	.
 16cc#	.
 16bb	.
-16bb	.
-8bb	G#m
-8bb	.
-8aa#	.
+16bbJ	.
+8bbJ	G# minor
+8bbL	.
+8aa#J	.
 4r	.
 ==	==
 *-	*-

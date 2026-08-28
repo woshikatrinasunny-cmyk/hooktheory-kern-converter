@@ -16,36 +16,36 @@
 *F:	*
 *M3/4	*
 =1	=1
-2aa	F
-16cc	.
+2aa	F major
+16ccLL	.
 16dd	.
 16cc	.
-16bn	.
+16bnJJ	.
 =2	=2
-16cc	A7
-2aa[	.
-16aa]	.
-8gg	.
+16cc	A dominant
+[2aa	.
+16aaLK]	.
+8ggJ	.
 =3	=3
-2gg	Dm
+2gg	D minor
 4ff	.
 =4	=4
-2.dd	Bdim7
+2.dd	B diminished-seventh
 =5	=5
-4.cc	F/C
-16dd	.
-16cc	.
-8bn	.
-8cc	.
+4.cc	F major/C
+16ddLL	.
+16ccJJ	.
+8bnL	.
+8ccJ	.
 =6	=6
-4aa-	Caug
+4aa-	C augmented
 4bb-	.
 4ccc	.
 =7	=7
-2.fff[	F
+[2.fff	F major
 =8	=8
-4fff_	F/C
-4fff_	Dm7
-4fff]	Cadd(4,5,7)/E
+4fff_	F major/C
+4fff_	D minor-seventh
+4fff]	C other-4,5,7/E
 ==	==
 *-	*-

@@ -15,50 +15,50 @@
 *G:	*
 *M4/4	*
 =1	=1
-1r	Fmaj7
+1r	F major-seventh
 =2	=2
-1r	D
+1r	D major
 =3	=3
-4r	Gmaj7
+4r	G major-seventh
 4f#	.
 4g	.
 4a	.
 =4	=4
-2.b	Cmaj7
-8a	.
-8f#	.
+2.b	C major-seventh
+8aL	.
+8f#J	.
 =5	=5
-2e[	F#m7b5
-4e]	Fmaj7
-8d	.
-8B	.
+[2e	F# half-diminished
+4e]	F major-seventh
+8dL	.
+8BJ	.
 =6	=6
-2.g	B7
+2.g	B dominant
 4F#	.
 =7	=7
-2.f#	Gmaj7
-8d	.
-8B	.
+2.f#	G major-seventh
+8dL	.
+8BJ	.
 =8	=8
-4d	Em7
-16B	.
+4d	E minor-seventh
+16BLL	.
 16G	.
-16F#	.
+16F#JJ	.
 4G	.
 8.r	.
 8c	.
 =9	=9
-4.d	Am11
+4.d	A minor-11th
 4c	.
-8d	.
+8dL	.
 8d#	.
-8e	.
+8eJ	.
 =10	=10
-8f#	G#7
+8f#L	G# dominant
 8g	.
-16d#	.
+16d#k	.
 8d	.
-16c	.
+16cJk	.
 2d	.
 ==	==
 *-	*-

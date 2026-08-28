@@ -16,51 +16,51 @@
 *A:	*
 *M4/4	*
 =1	=1
-2r	A
-2r	B
+2r	A major
+2r	B major
 =2	=2
-2r	D
-4r	A
-16ee	.
+2r	D major
+4r	A major
+16eeLL	.
 16ffn	.
 16ff#	.
-16gg#	.
+16gg#JJ	.
 =3	=3
-2aa[	A
-8aa]	B
+[2aa	A major
+8aaL]	B major
 8ee	.
 8bb	.
-8aa[	.
+[8aaJ	.
 =4	=4
-2aa_	D
-8aa]	A
+2aa_	D major
+8aaL]	A major
 8bb	.
 8ccc#	.
-8ddd	.
+8dddJ	.
 =5	=5
-16ccc#	A
-16bb	.
-4.aa[	.
-2aa_	B
+16ccc#LL	A major
+16bbJJ	.
+[4.aa	.
+2aa_	B major
 =6	=6
-2aa_	D
-8aa]	A
+2aa_	D major
+8aaL]	A major
 8ccc#	.
 8ddd	.
-8ddd#	.
+8ddd#J	.
 =7	=7
-8eee	A
+8eee	A major
 8r	.
 8fff#	.
 8r	.
-8ddd#	B
+8ddd#	B major
 8r	.
 8bb	.
 8r	.
 =8	=8
-8.ddd	D
-16ddd	.
+8.dddL	D major
+16dddJk	.
 8r	.
-3...ccc#	A
+3...ccc#	A major
 ==	==
 *-	*-

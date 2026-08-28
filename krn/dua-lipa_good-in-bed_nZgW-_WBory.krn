@@ -16,167 +16,167 @@
 *g:	*
 *M4/4	*
 =1	=1
-4..r	Gm7
+4..r	G minor-seventh
 16c	.
-16d	C7sus2
+16dLL	C dominant-seventh-suspended-second
 16c	.
 16d	.
-16c	.
+16cJ	.
 8d	.
-8A[	.
+[8AJ	.
 =2	=2
-8A]	F
+8A]	F major
 16r	.
-16A	.
+16ALL	.
 16d	.
 16c	.
 16d	.
-16c	.
-8d	G-m7
+16cJJ	.
+8dL	G- minor-seventh
 8A	.
-8G	G-dim7
-8A[	.
+8G	G- diminished-seventh
+[8AJ	.
 =3	=3
-8A]	Gm7
+8A]	G minor-seventh
 16r	.
-16A	.
+16ALL	.
 16d	.
 16c	.
 16d	.
-16c	.
-8d	C7sus2
+16cJJ	.
+8dL	C dominant-seventh-suspended-second
 8A	.
 8G	.
-8F	.
+8FJ	.
 =4	=4
-16G	F
+16GLK	F major
 8A	.
 8G	.
-16F	.
-8F	.
-16G	G-m7
+16Fk	.
+8FJ	.
+16GLK	G- minor-seventh
 8A	.
-16G[	.
-8G]	G-dim7
-8D	.
+[16Gk	.
+8G]	G- diminished-seventh
+8DJ	.
 =5	=5
-4..r	Gm7
+4..r	G minor-seventh
 16c	.
-16d	C7sus2
+16dLL	C dominant-seventh-suspended-second
 16c	.
 16d	.
-16c	.
+16cJ	.
 8d	.
-8A[	.
+[8AJ	.
 =6	=6
-8A]	F
+8A]	F major
 16r	.
-16A	.
+16ALL	.
 16d	.
 16c	.
 16d	.
-16c	.
-8d	G-m7
+16cJJ	.
+8dL	G- minor-seventh
 8A	.
-8G	G-dim7
-8A[	.
+8G	G- diminished-seventh
+[8AJ	.
 =7	=7
-8A]	Gm7
+8A]	G minor-seventh
 16r	.
-16A	.
+16ALL	.
 16d	.
 16c	.
 16d	.
-16c	.
-8d	C7sus2
+16cJJ	.
+8dL	C dominant-seventh-suspended-second
 8A	.
 8G	.
-8F	.
+8FJ	.
 =8	=8
-16G	F
+16GLK	F major
 8A	.
 8.G	.
-16F	.
-16F	.
-16G	G-m7
+16FL	.
+16FJJ	.
+16GLK	G- minor-seventh
 8A	.
-16G[	.
-8G]	G-dim7
-8D	.
+[16Gk	.
+8G]	G- diminished-seventh
+8DJ	.
 =9	=9
-16dd	Gm7
+16ddLK	G minor-seventh
 8.cc	.
-16a	.
-8.g	.
-16f	C7sus2
+16ak	.
+8.gJ	.
+16fLK	C dominant-seventh-suspended-second
 8.e	.
-16d	.
-8.c	.
+16dk	.
+8.cJ	.
 =10	=10
-16A	F
+16ALK	F major
 8.G	.
-16B-	.
-8.c	.
-16d	G-m7
+16B-k	.
+8.cJ	.
+16dLK	G- minor-seventh
 8.f	.
-16g	G-dim7
-8.a	.
+16gk	G- diminished-seventh
+8.aJ	.
 =11	=11
-16dd	Gm7
+16ddLK	G minor-seventh
 8.cc	.
-16a	.
-8.g	.
-16f	C7sus2
+16ak	.
+8.gJ	.
+16fLK	C dominant-seventh-suspended-second
 8.e	.
-16d	.
-8.c	.
+16dk	.
+8.cJ	.
 =12	=12
-16c	F
+16cLL	F major
 16d	.
 16c	.
 16A	.
 16G	.
 16A	.
 16A	.
-16G[	.
-4G]	G-m7
-4r	G-dim7
+[16GJJ	.
+4G]	G- minor-seventh
+4r	G- diminished-seventh
 =13	=13
-16dd	Gm7
+16ddLK	G minor-seventh
 8.cc	.
-16a	.
-8.g	.
-16f	C7sus2
+16ak	.
+8.gJ	.
+16fLK	C dominant-seventh-suspended-second
 8.e	.
-16d	.
-8.c	.
+16dk	.
+8.cJ	.
 =14	=14
-16A	F
+16ALK	F major
 8.G	.
-16B-	.
-8.c	.
-16d	G-m7
+16B-k	.
+8.cJ	.
+16dLK	G- minor-seventh
 8.f	.
-16g	G-dim7
-8.a	.
+16gk	G- diminished-seventh
+8.aJ	.
 =15	=15
-16dd	Gm7
+16ddLK	G minor-seventh
 8.cc	.
-16a	.
-8.g	.
-16f	C7sus2
+16ak	.
+8.gJ	.
+16fLK	C dominant-seventh-suspended-second
 8.e	.
-16d	.
-8.c	.
+16dk	.
+8.cJ	.
 =16	=16
-16d	F
-8.A	.
+16dLK	F major
+8.AJ	.
 4r	.
-8.r	G-m7
+8.r	G- minor-seventh
+16cLL	.
+16c	G- diminished-seventh
 16c	.
-16c	G-dim7
 16c	.
-16c	.
-16c	.
+16cJJ	.
 ==	==
 *-	*-

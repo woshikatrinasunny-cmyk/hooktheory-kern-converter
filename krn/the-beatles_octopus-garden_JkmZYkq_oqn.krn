@@ -16,72 +16,72 @@
 *E:	*
 *M4/4	*
 =1	=1
-8r	C#m
+8r	C# minor
+8c#L	.
 8c#	.
-8c#	.
-8B	.
+8BJ	.
 4.c#	.
 8B	.
 =2	=2
 4c#	.
 8B	.
 4c#	.
-8e[	.
-8e]	B
+[8eL	.
+8eJ]	B major
 8r	.
 =3	=3
-8r	A
+8r	A major
+8AL	.
 8A	.
-8A	.
-8A	.
+8AJ	.
 4A	.
 4A	.
 =4	=4
-8B	B
+8BL	B major
 8B	.
-8B	.
+8BJ	.
 4B	.
-8c#	.
-8B	C#add(2,5,10)
-8r	B/D#
+8c#L	.
+8BJ	C# other-2,5,10
+8r	B major/D#
 =5	=5
-8r	E
-8B	.
-8B	E/B
-16c#	.
-16B[	.
-16B]	E
+8r	E major
+8BL	.
+8B	E major/B
+16c#L	.
+[16BJJ	.
+16B]	E major
 8.r	.
-4r	Emaj7/D#
+4r	E major-seventh/D#
 =6	=6
-8r	C#m
-8G#	.
-16G#	C#m/G#
+8r	C# minor
+8G#L	.
+16G#k	C# minor/G#
 8A	.
-16G#[	.
-16G#]	C#m
+[16G#Jk	.
+16G#]	C# minor
 8.r	.
-8r	C#m7/B
-16F#	.
-16F#	.
+8r	C# minor-seventh/B
+16F#LL	.
+16F#JJ	.
 =7	=7
-8E	A
+8EL	A major
 8E	.
-16E	A/E
+16Ek	A major/E
 8c#	.
-16B[	.
-16B]	B
-8G#	.
+[16BJk	.
+16BLK]	B major
+8G#J	.
 16r	.
-16r	C#add(2,5,10)
-16G#	.
-16F#	B/D#
-16E[	.
+16r	C# other-2,5,10
+16G#LL	.
+16F#	B major/D#
+[16EJJ	.
 =8	=8
-8E]	E
+8E]	E major
 8r	.
-4r	E/B
-4r	E
-4r	E/B
+4r	E major/B
+4r	E major
+4r	E major/B
 ==	==
 *-	*-

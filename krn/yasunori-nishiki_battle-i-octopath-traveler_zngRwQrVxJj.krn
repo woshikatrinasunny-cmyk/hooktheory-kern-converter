@@ -16,82 +16,82 @@
 *g:	*
 *M4/4	*
 =1	=1
-4ggg	Gm
+4ggg	G minor
 2r	.
-16ccc	.
+16cccLL	.
 16ddd	.
 16eee-	.
-16fff	.
+16fffJJ	.
 =2	=2
-4ggg	Gm
+4ggg	G minor
 2r	.
-16ccc	.
+16cccLL	.
 16ddd	.
 16eee-	.
-16fff	.
+16fffJJ	.
 =3	=3
-8ggg	Gm
+8gggL	G minor
 8ddd	.
-8eee-	Adim
-8ccc	.
-8ddd	B-
+8eee-	A diminished
+8cccJ	.
+8dddL	B- major
 8bb-	.
-8ccc	Adim/C
-8aa	.
+8ccc	A diminished/C
+8aaJ	.
 =4	=4
-8bb-	Gm/D
+8bb-L	G minor/D
 8gg	.
-8aa	G-dim
-8gg-	.
-8gg	Gm
+8aa	G- diminished
+8gg-J	.
+8ggL	G minor
 8dd	.
-8ee-	G-dim7/A
-8cc	.
+8ee-	G- diminished-seventh/A
+8ccJ	.
 =5	=5
-4gg	Gm
+4gg	G minor
 2r	.
-16ccc	.
+16cccLL	.
 16ddd	.
 16eee-	.
-16fff	.
+16fffJJ	.
 =6	=6
-4ggg	Gm
+4ggg	G minor
 2r	.
-16ccc	.
+16cccLL	.
 16ddd	.
 16eee-	.
-16fff	.
+16fffJJ	.
 =7	=7
-8ggg	Gm
+8gggL	G minor
 8ddd	.
-8eee-	Adim
-8ccc	.
-8ddd	B-
+8eee-	A diminished
+8cccJ	.
+8dddL	B- major
 8bb-	.
-8ccc	Adim/C
-8aa	.
+8ccc	A diminished/C
+8aaJ	.
 =8	=8
-8bb-	Cm7
+8bb-L	C minor-seventh
 8gg	.
-8aa	D
-8gg-	.
-4gg	Cm7
-4gg-	D
+8aa	D major
+8gg-J	.
+4gg	C minor-seventh
+4gg-	D major
 =9	=9
-2gg	E-
-8.gg	.
+2gg	E- major
+8.ggL	.
 8.aa	.
-8bb-	.
+8bb-J	.
 =10	=10
-2ccc	Dm7
+2ccc	D minor-seventh
 2aa	.
 =11	=11
-2bb-	D-dim7
-8.bb-	.
+2bb-	D- diminished-seventh
+8.bb-L	.
 8.aa	.
-8gg	.
+8ggJ	.
 =12	=12
-2aa[	Dsus4
-2aa]	D
+[2aa	D suspended-fourth
+2aa]	D major
 ==	==
 *-	*-

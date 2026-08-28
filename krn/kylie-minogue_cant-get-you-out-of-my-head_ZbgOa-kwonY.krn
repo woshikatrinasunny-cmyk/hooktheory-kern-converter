@@ -16,63 +16,63 @@
 *a:	*
 *M4/4	*
 =1	=1
-4f	Dm7
-8e	.
-8d	.
-8e	.
-8d	.
+4f	D minor-seventh
+8eL	.
+8dJ	.
+8eL	.
+8dJ	.
 4f	.
 =2	=2
 2d	.
 4c	.
 4d	.
 =3	=3
-4e	Am9
-8e	.
-8d	.
+4e	A minor-ninth
+8eL	.
+8dJ	.
 4e	.
 4f	.
 =4	=4
-8e	.
-8d	.
+8eL	.
+8dJ	.
 4d	.
 4d	.
 4e	.
 =5	=5
-4f	Dm7
-8e	.
-8d	.
-8e	.
-8d	.
+4f	D minor-seventh
+8eL	.
+8dJ	.
+8eL	.
+8dJ	.
 4f	.
 =6	=6
 2d	.
 4c	.
 4d	.
 =7	=7
-4e	Am9
-8e	.
-8d	.
+4e	A minor-ninth
+8eL	.
+8dJ	.
 4e	.
 4f	.
 =8	=8
-8e	.
-8d	.
+8eL	.
+8dJ	.
 2.d	.
 =9	=9
-2f	A#maj7
+2f	A# major-seventh
 2d	.
 =10	=10
-1e	A
+1e	A major
 =11	=11
-3...e	G#dim
+3...e	G# diminished
 4d	.
-8f[	.
+[8f	.
 =12	=12
-8f]	A
+8f]	A major
 2..e	.
 =13	=13
-4.e	Gm7
+4.e	G minor-seventh
 4.d	.
 4f	.
 =14	=14
@@ -80,8 +80,8 @@
 4.d	.
 4f	.
 =15	=15
-1e[	Asus4
+[1e	A suspended-fourth
 =16	=16
-1e]	A
+1e]	A major
 ==	==
 *-	*-

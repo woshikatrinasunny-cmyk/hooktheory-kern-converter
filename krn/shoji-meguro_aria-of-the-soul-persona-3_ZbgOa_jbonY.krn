@@ -16,88 +16,88 @@
 *b:	*
 *M4/4	*
 =1	=1
-2..dd	Badd(2,3,7)
+2..dd	B other-2,3,7
 8f#	.
 =2	=2
-4g	Em
+4g	E minor
 8r	.
 8ff#	.
-8ee	Em7
+8eeL	E minor-seventh
 8dd	.
 8cc#	.
-8dd	.
+8ddJ	.
 =3	=3
-2..cc#	A7
+2..cc#	A dominant
 8e	.
 =4	=4
-4f#	Dmaj7
+4f#	D major-seventh
 8r	.
 8ee	.
-8dd	Bm7/D
+8ddL	B minor-seventh/D
 8cc#	.
 8b	.
-8cc#	.
+8cc#J	.
 =5	=5
-2.b	Gmaj7
-8cc#	.
-8dd	.
+2.b	G major-seventh
+8cc#L	.
+8ddJ	.
 =6	=6
-2dd	G#dim
+2dd	G# diminished
 8r	.
-8b	.
+8bL	.
 8cc#	.
-8dd	.
+8ddJ	.
 =7	=7
-8dd	A7
-8cc#	.
+8ddL	A dominant
+8cc#J	.
 2cc#	.
-4r	C#dim/G
+4r	C# diminished/G
 =8	=8
-8b	F#7
-8a#	.
+8bL	F# dominant
+8a#J	.
 2a#	.
 4r	.
 =9	=9
-2..dd	Badd(2,3,7)
+2..dd	B other-2,3,7
 8f#	.
 =10	=10
-4g	Em
+4g	E minor
 8r	.
 8ff#	.
-8ee	Em7
+8eeL	E minor-seventh
 8dd	.
 8cc#	.
-8dd	.
+8ddJ	.
 =11	=11
-2..cc#	A7
+2..cc#	A dominant
 8aa	.
 =12	=12
-8gg	Dmaj7
+8ggL	D major-seventh
 8ff#	.
 8ee	.
-8dd	.
-8cc#	Bm7/D
+8ddJ	.
+8cc#L	B minor-seventh/D
 8dd	.
 8ee	.
-8ff#	.
+8ff#J	.
 =13	=13
-2b	Gmaj7
+2b	G major-seventh
 4r	.
-8cc#	.
-8dd	.
+8cc#L	.
+8ddJ	.
 =14	=14
-3...dd	G#dim
-8b	.
+3...dd	G# diminished
+8bL	.
 8cc#	.
-8dd	.
+8ddJ	.
 =15	=15
-8dd	A7
-8cc#	.
+8ddL	A dominant
+8cc#J	.
 2cc#	.
 4r	.
 =16	=16
-8b	F#7
-8a#	.
+8bL	F# dominant
+8a#J	.
 2a#	.
 4r	.
 ==	==

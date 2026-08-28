@@ -16,98 +16,98 @@
 *c#:	*
 *M4/4	*
 =1	=1
-16r	C#
-16C#	.
+16r	C# major
+16C#LL	.
 16Fn	.
 16G#	.
 16c#	.
 16Fn	.
 16G#	.
-16c#	.
-16fn	.
+16c#JJ	.
+16fnLL	.
 16G#	.
 16c#	.
 16fn	.
 16g#	.
 16c#	.
 16fn	.
-16g#	.
+16g#JJ	.
 =2	=2
-16cc#	.
+16cc#LL	.
 16fn	.
 16g#	.
 16cc#	.
 16ffn	.
 16g#	.
 16cc#	.
-16ffn	.
-16gg#	.
+16ffnJJ	.
+16gg#LL	.
 16cc#	.
 16ffn	.
-16gg#	.
-8ccc#	C#
-8ccc#	C#
+16gg#J	.
+8ccc#	C# major
+8ccc#J	C# major
 =3	=3
-16r	C#7/B
-16C#	.
+16r	C# dominant/B
+16C#LL	.
 16Fn	.
 16G#	.
 16c#	.
 16Fn	.
 16G#	.
-16c#	.
-16fn	.
+16c#JJ	.
+16fnLL	.
 16G#	.
 16c#	.
 16fn	.
 16g#	.
 16c#	.
 16fn	.
-16g#	.
+16g#JJ	.
 =4	=4
-16cc#	.
+16cc#LL	.
 16fn	.
 16g#	.
 16cc#	.
 16ffn	.
 16g#	.
 16cc#	.
-16ffn	.
-16gg#	.
+16ffnJJ	.
+16gg#LL	.
 16cc#	.
 16ffn	.
-16gg#	.
-8ccc#	C#7/B
-8ccc#	C#7/B
+16gg#J	.
+8ccc#	C# dominant/B
+8ccc#J	C# dominant/B
 =5	=5
-16r	F#m/A
-16C#	.
+16r	F# minor/A
+16C#LL	.
 16F#	.
 16A	.
 16c#	.
 16c#	.
 16f#	.
-16a	.
-16cc#	.
+16aJJ	.
+16cc#LL	.
 16cc#	.
 16ff#	.
-16aa	.
-8ccc#	F#m/A
-8ccc#	F#m/A
+16aaJ	.
+8ccc#	F# minor/A
+8ccc#J	F# minor/A
 =6	=6
-16r	C#7/F
-16C#	.
+16r	C# dominant/F
+16C#LL	.
 16G#	.
 16B	.
 16c#	.
 16c#	.
 16g#	.
-16b	.
-16cc#	.
+16bJJ	.
+16cc#LL	.
 16cc#	.
 16gg#	.
-16bb	.
-8ccc#	C#7/F
-8ccc#	C#7/F
+16bbJ	.
+8ccc#	C# dominant/F
+8ccc#J	C# dominant/F
 ==	==
 *-	*-

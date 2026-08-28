@@ -16,54 +16,54 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.c	C
-4.G	Eadd(3,10)
-4E	C
+4.c	C major
+4.G	E other-3,10
+4E	C major
 =2	=2
 8r	.
-4A	Am
-4B	G7
-8A#	F#7
-4A	Fmaj7
+4A	A minor
+4B	G dominant
+8A#	F# dominant
+4A	F major-seventh
 =3	=3
-8.G	Cadd(4,5,7)
-8.e	C/E
-8g	Cmaj7/E
-4a	Fmaj7
-8f	Dm
-8g	Em7
+8.GL	C other-4,5,7
+8.e	C major/E
+8gJ	C major-seventh/E
+4a	F major-seventh
+8fL	D minor
+8gJ	E minor-seventh
 =4	=4
 8r	.
-8e	Cmaj7
+8e	C major-seventh
 8r	.
-8c	Cadd(4,7,9)/E
+8c	C other-4,7,9/E
 8r	.
-8d	Fadd(4,6,9)
-4B	G7
+8d	F other-4,6,9
+4B	G dominant
 =5	=5
-4.c	C
-4.G	Eadd(3,10)
-4E	C
+4.c	C major
+4.G	E other-3,10
+4E	C major
 =6	=6
 8r	.
-4A	Am
-4B	G7
-8A#	F#7
-4A	Fmaj7
+4A	A minor
+4B	G dominant
+8A#	F# dominant
+4A	F major-seventh
 =7	=7
-8.G	Cadd(4,5,7)
-8.e	C/E
-8g	Cmaj7/E
-4a	Fmaj7
-8f	Dm
-8g	Em7
+8.GL	C other-4,5,7
+8.e	C major/E
+8gJ	C major-seventh/E
+4a	F major-seventh
+8fL	D minor
+8gJ	E minor-seventh
 =8	=8
 8r	.
-8e	Cmaj7
+8e	C major-seventh
 8r	.
-8c	Cadd(4,7,9)/E
+8c	C other-4,7,9/E
 8r	.
-8d	Fadd(4,6,9)
-4B	G7
+8d	F other-4,6,9
+4B	G dominant
 ==	==
 *-	*-

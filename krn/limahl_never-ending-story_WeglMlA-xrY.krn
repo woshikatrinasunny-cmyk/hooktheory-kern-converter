@@ -16,30 +16,30 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.c	C
+4.c	C major
 8g	.
-2g[	.
+[2g	.
 =2	=2
-2g]	Gsus4
-8r	G
-8f	.
+2g]	G suspended-fourth
+8r	G major
+8fL	.
 8e	.
-8f[	.
+[8fJ	.
 =3	=3
-8f]	Dm/F
+8fL]	D minor/F
 8e	.
 8d	.
-8e[	.
-8e]	Am
+[8eJ	.
+8eL]	A minor
 8d	.
 8c	.
-8d[	.
+[8dJ	.
 =4	=4
-4.d]	G
+4.d]	G major
 8r	.
-8e	.
+8eL	.
 8f	.
 8e	.
-8d	.
+8dJ	.
 ==	==
 *-	*-

@@ -16,56 +16,56 @@
 *F#:	*
 *M6/4	*
 =1	=1
-4.f#[	Badd(2,4,7)
-4.f#_	Badd(2,4,7)
-4.f#]	Badd(2,4,7)
-8dd#	Badd(2,4,7)
-8a#	.
-8cc#[	.
+[4.f#	B other-2,4,7
+4.f#_	B other-2,4,7
+4.f#]	B other-2,4,7
+8dd#	B other-2,4,7
+8a#L	.
+[8cc#J	.
 =2	=2
-4.cc#_	D#m7
-4.cc#_	D#m7
-4.cc#]	D#m7
-8dd#	D#m7
-8a#	.
-8g#[	.
+4.cc#_	D# minor-seventh
+4.cc#_	D# minor-seventh
+4.cc#]	D# minor-seventh
+8dd#	D# minor-seventh
+8a#L	.
+[8g#J	.
 =3	=3
-4.g#_	C#sus4
-4.g#_	C#sus4
-4.g#]	C#sus4
-8f#	C#sus4
-8a#	.
-8g#[	.
+4.g#_	C# suspended-fourth
+4.g#_	C# suspended-fourth
+4.g#]	C# suspended-fourth
+8f#	C# suspended-fourth
+8a#L	.
+[8g#J	.
 =4	=4
-4.g#_	G#7
-4.g#_	G#7
-4.g#_	G#7
-4.g#]	G#7
+4.g#_	G# dominant
+4.g#_	G# dominant
+4.g#_	G# dominant
+4.g#]	G# dominant
 =5	=5
-4.f#[	Badd(2,4,7)
-4.f#_	Badd(2,4,7)
-4.f#]	Badd(2,4,7)
-8dd#	Badd(2,4,7)
-8a#	.
-8cc#[	.
+[4.f#	B other-2,4,7
+4.f#_	B other-2,4,7
+4.f#]	B other-2,4,7
+8dd#	B other-2,4,7
+8a#L	.
+[8cc#J	.
 =6	=6
-4.cc#_	D#m7
-4.cc#_	D#m7
-4.cc#]	D#m7
-8dd#	D#m7
-8a#	.
-8g#[	.
+4.cc#_	D# minor-seventh
+4.cc#_	D# minor-seventh
+4.cc#]	D# minor-seventh
+8dd#	D# minor-seventh
+8a#L	.
+[8g#J	.
 =7	=7
-4.g#_	C#sus4
-4.g#_	C#sus4
-4.g#]	C#sus4
-8f#	C#sus4
-8a#	.
-8g#[	.
+4.g#_	C# suspended-fourth
+4.g#_	C# suspended-fourth
+4.g#]	C# suspended-fourth
+8f#	C# suspended-fourth
+8a#L	.
+[8g#J	.
 =8	=8
-4.g#_	G#7
-4.g#_	G#7
-4.g#_	G#7
-4.g#]	G#7
+4.g#_	G# dominant
+4.g#_	G# dominant
+4.g#_	G# dominant
+4.g#]	G# dominant
 ==	==
 *-	*-

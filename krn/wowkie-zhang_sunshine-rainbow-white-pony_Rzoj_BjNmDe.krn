@@ -16,33 +16,33 @@
 *G:	*
 *M4/4	*
 =1	=1
-4dd	Gmaj7
-8dd	.
-8b	.
+4dd	G major-seventh
+8ddL	.
+8bJ	.
 4dd	.
 4dd	.
 =2	=2
-8dd	.
+8ddL	.
 8b	.
 8dd	.
-8ee	.
+8eeJ	.
 4dd	.
 4dd	.
 =3	=3
-4dd	Am7
-8dd	.
-8b	.
+4dd	A minor-seventh
+8ddL	.
+8bJ	.
 4dd	.
 4dd	.
 =4	=4
-8dd	.
+8ddL	.
 8b	.
 8dd	.
-8ee	.
+8eeJ	.
 4dd	.
 4dd	.
 =5	=5
-4dd	C
+4dd	C major
 4b	.
 4a	.
 4g	.
@@ -51,9 +51,9 @@
 4g	.
 2g	.
 =7	=7
-4b	G
-8b	.
-8a	.
+4b	G major
+8bL	.
+8aJ	.
 4b	.
 4a	.
 =8	=8

@@ -16,87 +16,87 @@
 *c:	*
 *M4/4	*
 =1	=1
-4.g	C
+4.g	C major
 4.cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =2	=2
-4.dd-	D-
+4.dd-	D- major
 4ff	.
-8ee-	.
+8ee-L	.
 8dd-	.
-8ff	.
+8ffJ	.
 =3	=3
-4.een	C
+4.een	C major
 4.cc	.
-16g	.
+16gLL	.
 16ddn	.
-16ff	.
+16ffJJ	.
 16r	.
 =4	=4
-4.een	C
+4.een	C major
 3...cc	.
 =5	=5
-4.g	C
+4.g	C major
 4.cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =6	=6
-4.dd-	D-
+4.dd-	D- major
 4ff	.
-8ee-	.
+8ee-L	.
 8dd-	.
-8ff	.
+8ffJ	.
 =7	=7
-4.een	C
-3...gg[	.
+4.een	C major
+[3...gg	.
 =8	=8
-2.gg]	C
+2.gg]	C major
 4gg	.
 =9	=9
-8.aa-	D-
-8.gg	.
+8.aa-L	D- major
+8.ggJ	.
 8.ff	.
 8.dd-	.
 4G	.
 =10	=10
-8.A-	D-
-8.G	.
+8.A-L	D- major
+8.GJ	.
 8.F	.
 16A-	.
 4.ff	.
 =11	=11
-8.een	C
-8.ff	.
+8.eenL	C major
+8.ffJ	.
 8.gg	.
 8.gg	.
 4dd-	.
 =12	=12
-8.cc	C
-8.dd-	.
+8.ccL	C major
+8.dd-J	.
 8.cc	.
 8.een	.
 4gg	.
 =13	=13
-8.aa-	D-
+8.aa-L	D- major
 8.gg	.
-8ff	.
-8.dd-	.
+8ffJ	.
+8.dd-L	.
 8.cc	.
-8b-	.
+8b-J	.
 =14	=14
-8.ff	D-
+8.ffL	D- major
 8.ee-	.
-8dd-	.
+8dd-J	.
 2ff	.
 =15	=15
-8.een	C
+8.eenL	C major
 8.ff	.
-8gg	.
+8ggJ	.
 4gg	.
 4dd-	.
 =16	=16
-1cc	C
+1cc	C major
 =17	=17
 1r	.
 =18	=18

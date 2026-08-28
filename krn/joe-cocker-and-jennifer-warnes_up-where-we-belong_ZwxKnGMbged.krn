@@ -16,68 +16,68 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	Dadd(2,4,7)
+8r	D other-2,4,7
+8AL	.
 8A	.
-8A	.
-8d	.
-8d	D/F#
+8dJ	.
+8dL	D major/F#
 8f#	.
 8f#	.
-16A	.
-16B[	.
+16AL	.
+[16BJJ	.
 =2	=2
-16B]	G
+16BLL]	G major
 16A	.
-16G	.
+16GJJ	.
 2r	.
 16r	.
-8B	Bm7
-8d	.
+8BL	B minor-seventh
+8dJ	.
 =3	=3
-8e	Em
+8e	E minor
 4f#	.
 8d	.
-4.r	Dmaj7/F#
-16B	.
-16d	.
+4.r	D major-seventh/F#
+16BLL	.
+16dJJ	.
 =4	=4
-6...e	C
-8f#	.
-16d[	.
-8d]	G
+6...e	C major
+8f#L	.
+[16dJk	.
+8d]	G major
 8r	.
-4r	A
+4r	A major
 =5	=5
-8r	Dadd(2,4,7)
+8r	D other-2,4,7
+8AL	.
 8A	.
-8A	.
-8d	.
-8d	D/F#
+8dJ	.
+8dL	D major/F#
 8f#	.
 8f#	.
-16A	.
-16B[	.
+16AL	.
+[16BJJ	.
 =6	=6
-16B]	G
+16BLL]	G major
 16A	.
-16G	.
+16GJJ	.
 2r	.
 16r	.
-8B	Bm7
-8d	.
+8BL	B minor-seventh
+8dJ	.
 =7	=7
-4e	Em
-8f#	.
-8d	.
-4r	Dmaj7/F#
-16B	.
-8.d	.
+4e	E minor
+8f#L	.
+8dJ	.
+4r	D major-seventh/F#
+16BLK	.
+8.dJ	.
 =8	=8
-8f#	F#/A#
+8f#L	F# major/A#
 8e	.
 8d	.
-8f#	Bm7
+8f#J	B minor-seventh
 4r	.
-4r	Em7b5/A#
+4r	E half-diminished/A#
 ==	==
 *-	*-

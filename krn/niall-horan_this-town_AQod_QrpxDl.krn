@@ -16,35 +16,35 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	Bm
-8dd	.
-8dd	.
-8dd	.
+4r	B minor
+8ddL	.
+8ddJ	.
+8ddL	.
 8cc#	.
 8b	.
-8a	.
+8aJ	.
 =2	=2
-8cc#	E
+8cc#L	E major
 8b	.
-8b	.
+8bJ	.
 3...r	.
 =3	=3
-2r	A
-2r	E/G#
+2r	A major
+2r	E major/G#
 =4	=4
-1r	F#m
+1r	F# minor
 =5	=5
-1r	Bm
+1r	B minor
 =6	=6
-1r	E
+1r	E major
 =7	=7
-2r	A
-2r	E/G#
+2r	A major
+2r	E major/G#
 =8	=8
-1r	F#m
+1r	F# minor
 =9	=9
-1r	Dadd(2,4,7)
+1r	D other-2,4,7
 =10	=10
-1r	Dadd(2,4,7)
+1r	D other-2,4,7
 ==	==
 *-	*-

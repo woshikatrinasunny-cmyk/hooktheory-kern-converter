@@ -16,79 +16,79 @@
 *f:	*
 *M4/4	*
 =1	=1
-2f	Fm
+2f	F minor
 2cc	.
 =2	=2
-2.g	C/E
-8f	.
-8g	.
+2.g	C major/E
+8fL	.
+8gJ	.
 =3	=3
-2a-	E-
-8.a-	.
+2a-	E- major
+8.a-L	.
 8.b-	.
-8g	.
+8gJ	.
 =4	=4
-2.a-	B-/D
-8cc	.
-8ee-	.
+2.a-	B- major/D
+8ccL	.
+8ee-J	.
 =5	=5
-4.ff	D-
+4.ff	D- major
 4.ee-	.
 4dd-	.
 =6	=6
-4ee-	E-
+4ee-	E- major
 4aa-	.
 4gg	.
 4ee-	.
 =7	=7
-1cc[	Fm
+[1cc	F minor
 =8	=8
-2cc]	Fm
+2cc]	F minor
 4r	.
-8a-	.
-8b-	.
+8a-L	.
+8b-J	.
 =9	=9
-2cc	Fm
+2cc	F minor
 2ee-	.
 =10	=10
-3...b-	C/E
+3...b-	C major/E
 4een	.
-8ff[	.
+[8ff	.
 =11	=11
-8ff]	E-
+8ffL]	E- major
 8cc	.
 8b-	.
-8gg	.
-8ee-	.
+8ggJ	.
+8ee-L	.
 8cc	.
 8aa-	.
-8bb-	.
+8bb-J	.
 =12	=12
-4aa-	B-/D
+4aa-	B- major/D
 4gg	.
 4aa-	.
-8ff	.
-8gg	.
+8ffL	.
+8ggJ	.
 =13	=13
-8aa-	D-
+8aa-L	D- major
 8gg	.
 8ff	.
-8ee-	.
+8ee-J	.
 4.ff	.
-8aa-[	.
+[8aa-	.
 =14	=14
-8aa-]	E-
+8aa-L]	E- major
 8gg	.
 8ff	.
-8ee-	.
-8ff	.
+8ee-J	.
+8ffL	.
 8gg	.
 8cc	.
-8ee-	.
+8ee-J	.
 =15	=15
-1ff[	Fsus2
+[1ff	F suspended-second
 =16	=16
-2ff_	Fm
-2ff]	F
+2ff_	F minor
+2ff]	F major
 ==	==
 *-	*-

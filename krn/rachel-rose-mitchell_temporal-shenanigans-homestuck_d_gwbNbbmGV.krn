@@ -16,55 +16,55 @@
 *d:	*
 *M4/4	*
 =1	=1
-2d	Dm
-8A	.
+2d	D minor
+8AL	.
 8d	.
 8e	.
-8f	.
+8fJ	.
 =2	=2
-8g	Gm
+8g	G minor
 4.r	.
-8b-	.
+8b-L	.
 8a	.
 8g	.
-8f	.
+8fJ	.
 =3	=3
-8g	D-dim
+8g	D- diminished
 4r	.
 8f	.
-8e	.
+8eL	.
 8d-	.
 8d	.
-8e	.
+8eJ	.
 =4	=4
-8f	F
+8fL	F major
 8g	.
-8a	.
+8aJ	.
 8r	.
-8a	.
+8aL	.
 8g	.
 8f	.
-8e	.
+8eJ	.
 =5	=5
-8d	Dm
+8dL	D minor
 8e	.
 8f	.
-8e	.
-8f	.
+8eJ	.
+8fL	.
 8g	.
-8a	.
+8aJ	.
 8r	.
 =6	=6
-8b-	Gm
+8b-	G minor
 8r	.
-8a	.
-8g	.
-8f	.
+8aL	.
+8gJ	.
+8fL	.
 8d	.
-8g	.
+8gJ	.
 8r	.
 =7	=7
-8e	D-dim
+8e	D- diminished
 8r	.
 8f	.
 8r	.
@@ -73,13 +73,13 @@
 8d-	.
 8r	.
 =8	=8
-8d	Dm
+8d	D minor
 8r	.
 8g	.
 8r	.
-8g	.
+8gL	.
 8a	.
-8d	.
+8dJ	.
 8r	.
 ==	==
 *-	*-

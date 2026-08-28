@@ -16,37 +16,37 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.r	C
+4.r	C major
 8dd	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 4gg	.
 =2	=2
-4bb	D
+4bb	D major
 2.aa	.
 =3	=3
 4.r	.
 8bb	.
-8bb	.
-8aa	.
+8bbL	.
+8aaJ	.
 4gg	.
 =4	=4
-4ff#	Em
+4ff#	E minor
 2.gg	.
 =5	=5
 4.r	.
 8dd	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 4gg	.
 =6	=6
-4bb	Am
+4bb	A minor
 8aa	.
 4aa	.
 4gg	.
-8bb[	.
+[8bb	.
 =7	=7
-8bb]	D
+8bb]	D major
 4aa	.
 4gg	.
 4.ff#	.

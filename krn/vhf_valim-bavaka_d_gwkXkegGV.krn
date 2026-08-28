@@ -16,65 +16,65 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8d	B-
+8dL	B- major
 8d	.
 8d	.
-16d	.
+16dJk	.
 16r	.
-4c	Dm/A
-8c	.
-8B-[	Gm
+4c	D minor/A
+8cL	.
+[8B-J	G minor
 =2	=2
 4.B-_	.
-4B-]	Gm/D
-8B-	.
+4B-]	G minor/D
+8B-L	.
 8c	.
-8d	.
+8dJ	.
 =3	=3
-8e-	E-
+8e-L	E- major
 8e-	.
-16e-	.
+16e-Jk	.
 16r	.
 16e-	.
 6...d	.
-16d	.
-8.d[	.
+16dLK	.
+[8.dJ	.
 =4	=4
-8d]	F/A
-16c	.
-8.c[	.
-4c]	Fadd(2,4,7)/A
-16c	.
-16c	.
-8d	F/A
-8e-	.
+8dL]	F major/A
+16ck	.
+[8.cJ	.
+4c]	F other-2,4,7/A
+16cLL	.
+16cJ	.
+8d	F major/A
+8e-J	.
 =5	=5
-8f	B-
+8fL	B- major
 8f	.
 8f	.
-8g-[	.
-8g-]	D
+[8g-J	.
+8g-L]	D major
 8g-	.
-16d	.
-16c	.
-8B-[	Gm
+16dL	.
+16cJ	.
+[8B-J	G minor
 =6	=6
 4.B-_	.
-4B-]	Gm/D
-8B-	.
+4B-]	G minor/D
+8B-L	.
 8A	.
-8B-[	.
+[8B-J	.
 =7	=7
-4.B-]	E-
+4.B-]	E- major
 8B-	.
 4r	.
-16c	.
-8.d[	.
+16cLK	.
+[8.dJ	.
 =8	=8
-8d]	F/A
+8d]	F major/A
 2c	.
+8B-L	.
 8B-	.
-8B-	.
-8c	.
+8cJ	.
 ==	==
 *-	*-

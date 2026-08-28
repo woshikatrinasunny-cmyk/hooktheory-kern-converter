@@ -16,7 +16,7 @@
 *F:	*
 *M4/4	*
 =1	=1
-16ff	F
+16ff	F major
 16r	.
 16gg	.
 16r	.
@@ -42,9 +42,9 @@
 16r	.
 16aa	.
 16r	.
-8bb-	.
-16ccc	.
-16bb-	.
+8bb-L	.
+16cccL	.
+16bb-JJ	.
 16aa	.
 16r	.
 16gg	.
@@ -55,12 +55,12 @@
 16r	.
 16aa	.
 16r	.
-4gg	Gm/B-
-16ff	F/C
+4gg	G minor/B-
+16ff	F major/C
 16r	.
-16ee	C
+16ee	C major
 16r	.
-4ff	F
+4ff	F major
 =5	=5
 16ff	.
 16r	.
@@ -88,9 +88,9 @@
 16r	.
 16aa	.
 16r	.
-8bb-	.
-16ccc	.
-16bb-	.
+8bb-L	.
+16cccL	.
+16bb-JJ	.
 16aa	.
 16r	.
 16gg	.
@@ -101,16 +101,16 @@
 16r	.
 16aa	.
 16r	.
-4gg	Gm/B-
-16ff	F/C
+4gg	G minor/B-
+16ff	F major/C
 16r	.
-16ee	C
+16ee	C major
 16r	.
-4ff	F
+4ff	F major
 =9	=9
 *k[b-e-]	*
 *B-:	*
-16b-	B-
+16b-	B- major
 16r	.
 16cc	.
 16r	.
@@ -136,9 +136,9 @@
 16r	.
 16dd	.
 16r	.
-8ee-	.
-16ff	.
-16ee-	.
+8ee-L	.
+16ffL	.
+16ee-JJ	.
 16dd	.
 16r	.
 16cc	.
@@ -149,12 +149,12 @@
 16r	.
 16dd	.
 16r	.
-4cc	Cm/E-
-16b-	B-/F
+4cc	C minor/E-
+16b-	B- major/F
 16r	.
-16a	F
+16a	F major
 16r	.
-4b-	B-
+4b-	B- major
 =13	=13
 16b-	.
 16r	.
@@ -182,9 +182,9 @@
 16r	.
 16dd	.
 16r	.
-8ee-	.
-16ff	.
-16ee-	.
+8ee-L	.
+16ffL	.
+16ee-JJ	.
 16dd	.
 16r	.
 16cc	.
@@ -196,85 +196,85 @@
 16r	.
 16dd	.
 16r	.
-4cc	Cm/E-
-16b-	B-/F
+4cc	C minor/E-
+16b-	B- major/F
 16r	.
-16a	F
+16a	F major
 16r	.
-4b-	B-
+4b-	B- major
 4r	.
 =17	=17
 *M4/4	*
-16a	F
+16a	F major
+16r	.
+16aLL	.
+16b-	.
+16ccJJ	.
 16r	.
 16a	.
-16b-	.
+16r	.
+16b-	B- major/F
+16r	.
+16b-LL	.
 16cc	.
-16r	.
-16a	.
-16r	.
-16b-	B-/F
-16r	.
-16b-	.
-16cc	.
-16dd	.
+16ddJJ	.
 16r	.
 16b-	.
 16r	.
 =18	=18
-16cc	F
+16cc	F major
 16r	.
-16cc	.
+16ccLL	.
 16dd	.
-16ee-	.
+16ee-JJ	.
 16r	.
 16gg	.
 16r	.
-4ff	B-/F
+4ff	B- major/F
 4dd	.
 =19	=19
-16a	F
+16aLL	F major
 16b-	.
 16a	.
 16b-	.
-16cc	.
+16ccJJ	.
 16r	.
 16a	.
 16r	.
-16b-	B-/F
+16b-LL	B- major/F
 16cc	.
 16b-	.
 16cc	.
-16dd	.
+16ddJJ	.
 16r	.
 16b-	.
 16r	.
 =20	=20
-16cc	C
+16ccLL	C major
 16dd	.
 16cc	.
 16dd	.
 16een	.
 16cc	.
 16dd	.
-16een	.
-8ff	F
+16eenJJ	.
+8ff	F major
 4.r	.
 =21	=21
 4aa	.
-4gg	E-
-4ff	Dm
-4ee-	Cm
+4gg	E- major
+4ff	D minor
+4ee-	C minor
 =22	=22
-4dd	B-
-4dd	Bdim
-4cc	C
-16cc	.
+4dd	B- major
+4dd	B diminished
+4cc	C major
+16ccLL	.
 16b-	.
 16a	.
-16g	.
+16gJJ	.
 =23	=23
-2.f	F
+2.f	F major
 4r	.
 ==	==
 *-	*-

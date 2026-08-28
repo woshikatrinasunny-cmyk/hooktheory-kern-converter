@@ -15,86 +15,86 @@
 *G:	*
 *M4/4	*
 =1	=1
-4gg	C
+4gg	C major
 8r	.
-3...r	C
+3...r	C major
 =2	=2
-4.r	D7/C
-4r	D7/C
-8gg	.
+4.r	D dominant/C
+4r	D dominant/C
+8ggL	.
 8aa	.
-8ff#	.
+8ff#J	.
 =3	=3
-4dd	C
+4dd	C major
 8r	.
-3...r	C
+3...r	C major
 =4	=4
-4.r	D7/C
-4r	D7/C
-8gg	.
+4.r	D dominant/C
+4r	D dominant/C
+8ggL	.
 8aa	.
-8ff#	.
+8ff#J	.
 =5	=5
-4gg	Am
+4gg	A minor
 8r	.
-8r	Am
+8r	A minor
 4ddd	.
 4r	.
 =6	=6
-4ddd	Bm7/A
-8ccc[	.
-8ccc]	Bm7/A
+4ddd	B minor-seventh/A
+[8cccL	.
+8cccJ]	B minor-seventh/A
 4bb	.
-8aa	.
-8bb[	.
+8aaL	.
+[8bbJ	.
 =7	=7
-8bb]	Am9
+8bb]	A minor-ninth
 4r	.
-3...r	Am9
+3...r	A minor-ninth
 =8	=8
-4.r	Bm7/A
-4r	Bm7/A
-8gg	.
+4.r	B minor-seventh/A
+4r	B minor-seventh/A
+8ggL	.
 8aa	.
-8ff#	.
+8ff#J	.
 =9	=9
-4gg	C
+4gg	C major
 8r	.
-3...r	C
+3...r	C major
 =10	=10
-4.r	D7/C
-4r	D7/C
-8gg	.
+4.r	D dominant/C
+4r	D dominant/C
+8ggL	.
 8aa	.
-8ff#	.
+8ff#J	.
 =11	=11
-4dd	C
+4dd	C major
 8r	.
-8r	C
+8r	C major
 4ddd	.
 4r	.
 =12	=12
-4ddd	D7/C
-8ccc[	.
-8ccc]	D7/C
+4ddd	D dominant/C
+[8cccL	.
+8cccJ]	D dominant/C
 4bb	.
 4aa	.
 =13	=13
-4gg	Am
+4gg	A minor
 8r	.
-8r	Am
+8r	A minor
 4bb	.
 4r	.
 =14	=14
-4aa	Bm
+4aa	B minor
 8r	.
-8r	Bm
+8r	B minor
 4gg	.
 4r	.
 =15	=15
-4ff#	Em
+4ff#	E minor
 8r	.
-4ee	Em
+4ee	E minor
 4.r	.
 ==	==
 *-	*-

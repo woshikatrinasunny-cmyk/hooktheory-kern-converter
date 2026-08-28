@@ -16,124 +16,124 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4ff#	D#m
+4ff#	D# minor
 8r	.
-4ff#	C#
+4ff#	C# major
 8r	.
-4ff#	D#m
+4ff#	D# minor
 =2	=2
-8a#	G#m
-8cc#	F#
-8ff#	.
-4ee#	G#m
+8a#L	G# minor
+8cc#	F# major
+8ff#J	.
+4ee#	G# minor
 8ee#	.
-4ff#	D#m
+4ff#	D# minor
 =3	=3
 8r	.
-4ff#	C#
+4ff#	C# major
 8r	.
-8ff#	D#m
+8ff#L	D# minor
 8a#	.
-8cc#	G#m
-8ff#	F#
+8cc#	G# minor
+8ff#J	F# major
 =4	=4
-8ee#[	.
-8ee#]	G#m
-8ee#	.
+[8ee#L	.
+8ee#]	G# minor
+8ee#J	.
 8r	.
-4ff#	D#m
+4ff#	D# minor
 8r	.
-8ff#[	C#
+[8ff#	C# major
 =5	=5
 8ff#]	.
 8r	.
-4ff#	D#m
-8a#	G#m
-8cc#	F#
+4ff#	D# minor
+8a#L	G# minor
+8cc#	F# major
 8ff#	.
-8ee#[	G#m
+[8ee#J	G# minor
 =6	=6
-8ee#]	.
-8ee#	.
-4ff#	D#m
+8ee#L]	.
+8ee#J	.
+4ff#	D# minor
 8r	.
-4ff#	C#
+4ff#	C# major
 8r	.
 =7	=7
-8ff#	D#m
+8ff#L	D# minor
 8a#	.
-8cc#	G#m
-8ff#	F#
-8ee#	.
-8aa#	G#m
+8cc#	G# minor
+8ff#J	F# major
+8ee#L	.
+8aa#	G# minor
 8gg#	.
-8ee#	.
+8ee#J	.
 =8	=8
-4d#	D#m
+4d#	D# minor
 8r	.
-4d#	Bmaj7
-8A#	.
-8d#	G#m
-8f#	A#m
+4d#	B major-seventh
+8A#L	.
+8d#	G# minor
+8f#J	A# minor
 =9	=9
-4e#	C#
+4e#	C# major
 8c#	.
-4d#	D#m
-8G#[	.
-8G#]	C#/G#
-8c#	.
+4d#	D# minor
+[8G#L	.
+8G#]	C# major/G#
+8c#J	.
 =10	=10
-4d#	D#m
+4d#	D# minor
 8r	.
-4d#	Bmaj7
-8d#	.
-8f#	G#m
-8a#	A#m
+4d#	B major-seventh
+8d#L	.
+8f#	G# minor
+8a#J	A# minor
 =11	=11
-4g#	C#
-8cc#[	.
-8cc#]	D#m
+4g#	C# major
+[8cc#L	.
+8cc#J]	D# minor
 4g#	.
-4e#	C#/G#
+4e#	C# major/G#
 =12	=12
-8d#	D#m
-16d#	.
+8d#L	D# minor
+16d#L	.
 16d#	.
 16a#	.
-16d#	.
-4d#	Bmaj7
-8A#	.
-8d#	G#m
-8f#	A#m
+16d#JJ	.
+4d#	B major-seventh
+8A#L	.
+8d#	G# minor
+8f#J	A# minor
 =13	=13
-4e#	C#
+4e#	C# major
 8c#	.
-4d#	D#m
-8G#[	.
-8G#]	C#/G#
-8c#	.
+4d#	D# minor
+[8G#L	.
+8G#]	C# major/G#
+8c#J	.
 =14	=14
-8d#	D#m
-16a#	.
+8d#L	D# minor
+16a#L	.
 16e#	.
 16f#	.
-16c#	.
-4d#	Bmaj7
-8d#	.
-8f#	G#m
-8g#	A#m
+16c#JJ	.
+4d#	B major-seventh
+8d#L	.
+8f#	G# minor
+8g#J	A# minor
 =15	=15
-16a#	C#
+16a#LL	C# major
 16f#	.
 16dd#	.
 16a#	.
 16cc#	.
 16ee#	.
-16aa#	D#m
-16ff#	.
-8.gg#	E#dim
-16ff#[	.
-8ff#]	Adim
-8ee#	.
+16aa#	D# minor
+16ff#JJ	.
+8.gg#L	E# diminished
+[16ff#k	.
+8ff#]	A diminished
+8ee#J	.
 ==	==
 *-	*-

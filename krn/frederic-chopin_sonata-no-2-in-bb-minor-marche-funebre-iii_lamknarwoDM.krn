@@ -16,70 +16,70 @@
 *D-:	*
 *M4/4	*
 =1	=1
-2b-	B-m
-2cc	A-7
+2b-	B- minor
+2cc	A- dominant
 =2	=2
-2dd-	D-
+2dd-	D- major
 4.ff	.
-8gg-	D-add(2,5,7)
+8gg-	D- other-2,5,7
 =3	=3
-4.aa-	D-
-8bb-	G-/D-
-4.ccc	A-
-8ddd-	D-/A-
+4.aa-	D- major
+8bb-	G- major/D-
+4.ccc	A- major
+8ddd-	D- major/A-
 =4	=4
-2fff[	Fm/A-
-4.fff_	A-7
-8fff]	A-11
+[2fff	F minor/A-
+4.fff_	A- dominant
+8fff]	A- dominant-11th
 =5	=5
-4.eee-[	.
-2eee-]	A-7
-8gg-	Adim7
+[4.eee-	.
+2eee-]	A- dominant
+8gg-	A diminished-seventh
 =6	=6
-2ff	B-add(2,5,7)
-4.ff	B-m
+2ff	B- other-2,5,7
+4.ff	B- minor
 8ggn	.
 =7	=7
-4.aan	D-aug
+4.aan	D- augmented
 8bb-	.
-4.ccc	B-m/F
+4.ccc	B- minor/F
 8ddd-	.
 =8	=8
-2ddd-[	Fadd(2,4,5,7,8,11)
-2ddd-]	Gm7b5/F
+[2ddd-	F other-2,4,5,7,8,11
+2ddd-]	G half-diminished/F
 =9	=9
-2ccc	F
+2ccc	F major
 2F	.
 =10	=10
-2a-	A-add(4,7,9,10)
-2a-	A-7
+2a-	A- other-4,7,9,10
+2a-	A- dominant
 =11	=11
-2a-	D-
+2a-	D- major
 2D-	.
 =12	=12
-2f	Fadd(4,7,8,10)
-2f	F7
+2f	F other-4,7,8,10
+2f	F dominant
 =13	=13
-2B-	G-
-4FF	B-m/F
-4DD-	B-m/D-
+2B-	G- major
+4FF	B- minor/F
+4DD-	B- minor/D-
 =14	=14
-2B-	B-m
-4.B-	G-/D-
+2B-	B- minor
+4.B-	G- major/D-
 8B-	.
 =15	=15
-2B-	B-m
-4.d-	G-/D-
-16c	.
-16d-	.
+2B-	B- minor
+4.d-	G- major/D-
+16cLL	.
+16d-JJ	.
 =16	=16
-4.c	B-sus2
+4.c	B- suspended-second
 8B-	.
-4.B-	G-/D-
+4.B-	G- major/D-
 8B-	.
 =17	=17
-2B-	B-m
-4.d-	A7
-8e-	A-7
+2B-	B- minor
+4.d-	A dominant
+8e-	A- dominant
 ==	==
 *-	*-

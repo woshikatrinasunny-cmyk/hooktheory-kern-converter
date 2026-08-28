@@ -16,60 +16,60 @@
 *c:	*
 *M4/4	*
 =1	=1
-8.c	Cm
-8.c	Cm
-8.g	Cm
-8.g	Cm
-8.e-	Cm
-16e-[	E-
+8.cL	C minor
+8.cJ	C minor
+8.g	C minor
+8.gL	C minor
+8.e-	C minor
+[16e-Jk	E- major
 =2	=2
-8e-]	.
-8.e-	E-
-8.e-	E-
-8.d	E-maj7
-8.d	E-maj7
-8e-	E-
+8e-L]	.
+8.e-	E- major
+8.e-J	E- major
+8.dL	E- major-seventh
+8.d	E- major-seventh
+8e-J	E- major
 =3	=3
-8.c	A-
-8.c	A-
-8.g	A-maj7
-8.g	A-maj7
-8.e-	A-
-16e-[	B-sus4
+8.cL	A- major
+8.cJ	A- major
+8.g	A- major-seventh
+8.gL	A- major-seventh
+8.e-	A- major
+[16e-Jk	B- suspended-fourth
 =4	=4
-8e-]	.
-8.e-	B-sus4
-8.e-	B-sus4
-8.d	B-
-8.d	B-
-8e-	B-sus4
+8e-L]	.
+8.e-	B- suspended-fourth
+8.e-J	B- suspended-fourth
+8.dL	B- major
+8.d	B- major
+8e-J	B- suspended-fourth
 =5	=5
-8.c	Cm
-8.c	Cm
-8.g	Cm
-8.g	Cm
-8.e-	Cm
-16e-[	E-
+8.cL	C minor
+8.cJ	C minor
+8.g	C minor
+8.gL	C minor
+8.e-	C minor
+[16e-Jk	E- major
 =6	=6
-8e-]	.
-8.e-	E-
-8.e-	E-
-8.d	E-maj7
-8.d	E-maj7
-8e-	E-
+8e-L]	.
+8.e-	E- major
+8.e-J	E- major
+8.dL	E- major-seventh
+8.d	E- major-seventh
+8e-J	E- major
 =7	=7
-8.a-	A-
-8.a-	A-
-8.g	A-maj7
-8.g	A-maj7
-8.e-	A-
-16e-[	B-sus4
+8.a-L	A- major
+8.a-J	A- major
+8.g	A- major-seventh
+8.gL	A- major-seventh
+8.e-	A- major
+[16e-Jk	B- suspended-fourth
 =8	=8
-8e-]	.
-8.e-	B-sus4
-8.e-	B-sus4
-8.f	B-
-8.f	B-
-8g	Gm/B-
+8e-L]	.
+8.e-	B- suspended-fourth
+8.e-J	B- suspended-fourth
+8.fL	B- major
+8.f	B- major
+8gJ	G minor/B-
 ==	==
 *-	*-

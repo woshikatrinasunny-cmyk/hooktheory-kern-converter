@@ -16,177 +16,177 @@
 *F:	*
 *M4/4	*
 =1	=1
-4c	F
-8A	.
-8B-	.
-8c[	.
-8c]	B-
+4c	F major
+8AL	.
+8B-J	.
+[8cL	.
+8c]	B- major
 8.d	.
-16f	.
+16fJk	.
 =2	=2
 *M2/4	*
-4f	F
-8f	.
-8g	.
+4f	F major
+8fL	.
+8gJ	.
 =3	=3
 *M4/4	*
-4g	Gm
-8g	.
-8g	.
-8g	C7
+4g	G minor
+8gL	.
+8gJ	.
+8gL	C dominant
 8g	.
 8a	.
-8b-	.
+8b-J	.
 =4	=4
 *M4/4	*
-4a	F
+4a	F major
 4a	.
 4.r	.
 8c	.
 =5	=5
-8c	F
+8cL	F major
 8a	.
 8a	.
-8a	.
-8a	.
-8a	C/E
+8aJ	.
+8aL	.
+8a	C major/E
 8g	.
-8f	.
+8fJ	.
 =6	=6
 *M5/4	*
-4a	Dm
+4a	D minor
 8a	.
-4.a	A
+4.a	A major
 4r	.
-8r	Dm
-8r	A
+8r	D minor
+8r	A major
 =7	=7
 *M4/4	*
-2g[	B-add(4,7,9)
-2g_	Am7
+[2g	B- other-4,7,9
+2g_	A minor-seventh
 =8	=8
 *M2/4	*
-8g]	G
+8g]	G major
 4r	.
 8g	.
 =9	=9
 *M4/4	*
-2g	C
+2g	C major
 2r	.
 =10	=10
 *k[b-e-a-]	*
 *c:	*
-8g	Cm
+8gL	C minor
 8g	.
 8g	.
-8a-	Gaug/B
+8a-J	G augmented/B
 8g	.
 8r	.
-8g	.
-8a-	.
+8gL	.
+8a-J	.
 =11	=11
-8b-	E-/B-
+8b-L	E- major/B-
 8cc	.
 8g	.
-8f	Adim7
+8fJ	A diminished-seventh
 4e-	.
 8r	.
-16f	.
-16g	.
+16fLL	.
+16gJJ	.
 =12	=12
-4f	B-
+4f	B- major
 2.f	.
 =13	=13
-4.r	E-
+4.r	E- major
 8e-	.
-8d	.
-8e-	Cm
-8d	G
-8e-	Cm
+8dL	.
+8e-	C minor
+8d	G major
+8e-J	C minor
 =14	=14
 *M2/4	*
-4d	G
+4d	G major
 4d	.
 =15	=15
 *M4/4	*
-2en	C
+2en	C major
 4.r	.
 8c	.
 =16	=16
 *k[b-]	*
 *F:	*
-8c	F
+8cL	F major
 8c	.
 8A	.
-8B-	.
-8.c[	.
-16c]	B-
+8B-J	.
+[8.cL	.
+16ck]	B- major
 8.d	.
-16f	.
+16fJk	.
 =17	=17
 *M2/4	*
-4f	F/A
-16f	.
-8.g	.
+4f	F major/A
+16fLK	.
+8.gJ	.
 =18	=18
 *M4/4	*
-4.cc	Gm
-16b-	.
-16a	.
-4g	C7
+4.cc	G minor
+16b-LL	.
+16aJJ	.
+4g	C dominant
 8r	.
-16a	.
-16b-	.
+16aLL	.
+16b-JJ	.
 =19	=19
 *M4/4	*
-4a	F
+4a	F major
 2a	.
 8r	.
 8c	.
 =20	=20
-8a	F
+8aL	F major
 8cc	.
 8dd	.
-8cc	.
-8f[	.
-8f]	C/E
+8ccJ	.
+[8fL	.
+8f]	C major/E
 8g	.
-8a	.
+8aJ	.
 =21	=21
-8f	Dm
-8d	.
+8fL	D minor
+8dJ	.
 8r	.
-8a	A
-8f	Dm
-8f	Dm
-8e	A
-8f	Dm
+8a	A major
+8fL	D minor
+8f	D minor
+8e	A major
+8fJ	D minor
 =22	=22
-2a	A
-2r	Dm
+2a	A major
+2r	D minor
 =23	=23
-2r	C
-2r	F
+2r	C major
+2r	F major
 =24	=24
 *k[b-e-a-]	*
 *E-:	*
-2r	G
-2r	Cm
+2r	G major
+2r	C minor
 =25	=25
 *M2/4	*
-2r	B-
+2r	B- major
 =26	=26
 *M4/4	*
-1r	E-
+1r	E- major
 =27	=27
-1r	Cm
+1r	C minor
 =28	=28
-1r	G
+1r	G major
 =29	=29
 *k[]	*
 *a:	*
-1r	Am
+1r	A minor
 =30	=30
-1r	Am
+1r	A minor
 ==	==
 *-	*-

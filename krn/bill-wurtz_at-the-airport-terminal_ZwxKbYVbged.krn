@@ -16,34 +16,34 @@
 *F:	*
 *M4/4	*
 =1	=1
-2ff	Fsus2
+2ff	F suspended-second
 2ee	.
 =2	=2
 2dd	.
 2cc	.
 =3	=3
-2b-	B-
-16cc	.
-8.dd[	.
-4dd]	C11
+2b-	B- major
+16ccLK	.
+[8.ddJ	.
+4dd]	C dominant-11th
 =4	=4
-2cc	Fsus2
+2cc	F suspended-second
 2a	.
 =5	=5
-2g	Gm7b5/B-
-16a	.
-8.b-[	.
-4b-]	Gadd(4,6)/B
+2g	G half-diminished/B-
+16aLK	.
+[8.b-J	.
+4b-]	G other-4,6/B
 =6	=6
-4a[	F/C
-4a]	Faug/D-
-4f[	Dm
-4f]	Dm/A
+[4a	F major/C
+4a]	F augmented/D-
+[4f	D minor
+4f]	D minor/A
 =7	=7
-2f	Gm7
-2e	C7
+2f	G minor-seventh
+2e	C dominant
 =8	=8
-2f	F
+2f	F major
 4c	.
 4c	.
 ==	==

@@ -16,36 +16,36 @@
 *F#:	*
 *M3/4	*
 =1	=1
-4.f#	B
+4.f#	B major
 8c#	.
-8e#	.
-8f#	.
+8e#L	.
+8f#J	.
 =2	=2
-4.g#	A#m7
+4.g#	A# minor-seventh
 8f#	.
-8g#	.
-8cc#	.
+8g#L	.
+8cc#J	.
 =3	=3
-16dd#	A
-16g#	.
-8a#	.
+16dd#LL	A major
+16g#J	.
+8a#J	.
 4cc#	.
 4ee#	.
 =4	=4
-2ff#	G#7
-8ee#	.
-8ff#	.
+2ff#	G# dominant
+8ee#L	.
+8ff#J	.
 =5	=5
-2.gg#[	G#dim/D
+[2.gg#	G# diminished/D
 =6	=6
 4gg#]	.
 4r	.
-16ff#	.
-16gg#	.
-8bb	.
+16ff#LL	.
+16gg#J	.
+8bbJ	.
 =7	=7
-2.aa#[	A#sus4
+[2.aa#	A# suspended-fourth
 =8	=8
-2.aa#]	A#
+2.aa#]	A# major
 ==	==
 *-	*-

@@ -16,18 +16,18 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.gg	Cmaj7
+8.ggL	C major-seventh
 8.gg	.
-16gg	.
+16ggJk	.
 16r	.
+8.ggL	.
 8.gg	.
-8.gg	.
-16aa	.
+16aaJk	.
 16r	.
 =2	=2
-8.ff#	D
+8.ff#L	D major
 8.ff#	.
-8ff#	.
+8ff#J	.
 16ff#	.
 16r	.
 16ee	.
@@ -37,58 +37,58 @@
 16ee	.
 16r	.
 =3	=3
-8.ff#	Bm7
+8.ff#L	B minor-seventh
 8.ff#	.
-16ff#	.
+16ff#Jk	.
 16r	.
+8.ff#L	.
 8.ff#	.
-8.ff#	.
-16gg	.
+16ggJk	.
 16r	.
 =4	=4
-8.ee	Cmaj7
+8.eeL	C major-seventh
 8.ee	.
-16ee	.
+16eeJk	.
 16r	.
 16ee	.
 16r	.
-16ee	.
+16eeLL	.
 16dd	.
-16cc	.
+16ccJJ	.
 16r	.
 16dd	.
 16r	.
 =5	=5
-8.ee	Am7
+8.eeL	A minor-seventh
 8.ee	.
-16ee	.
+16eeJk	.
 16r	.
+8.ggL	.
 8.gg	.
-8.gg	.
-16gg	.
+16ggJk	.
 16r	.
 =6	=6
-8.ff#	B
+8.ff#L	B major
 8.ff#	.
-16ff#	.
+16ff#Jk	.
 16r	.
-8.bb	B7
+8.bbL	B dominant
 8.bb	.
-16bb	.
+16bbJk	.
 16r	.
 =7	=7
-8.aa	Em7
+8.aaL	E minor-seventh
 8.aa	.
-16gg	.
+16ggJk	.
 16r	.
+8.ff#L	.
 8.ff#	.
-8.ff#	.
-16gg	.
+16ggJk	.
 16r	.
 =8	=8
-8.dd	D
+8.ddL	D major
 8.dd	.
-8dd	.
+8ddJ	.
 16bb	.
 16r	.
 16bb	.
@@ -98,18 +98,18 @@
 16ff#	.
 16r	.
 =9	=9
-8.gg	Cmaj7
+8.ggL	C major-seventh
 8.gg	.
-16gg	.
+16ggJk	.
 16r	.
+8.ggL	.
 8.gg	.
-8.gg	.
-16aa	.
+16aaJk	.
 16r	.
 =10	=10
-8.ff#	D
+8.ff#L	D major
 8.ff#	.
-16ff#	.
+16ff#Jk	.
 16r	.
 16ff#	.
 16r	.
@@ -120,58 +120,58 @@
 16ee	.
 16r	.
 =11	=11
-8.ff#	Bm7
+8.ff#L	B minor-seventh
 8.ff#	.
-16ff#	.
+16ff#Jk	.
 16r	.
+8.ff#L	.
 8.ff#	.
-8.ff#	.
-16bb	.
+16bbJk	.
 16r	.
 =12	=12
-8.gg	Cmaj7
+8.ggL	C major-seventh
 8.gg	.
-16gg	.
+16ggJk	.
 16r	.
 16gg	.
 16r	.
-16gg	.
+16ggLL	.
 16ff#	.
-16ee	.
+16eeJJ	.
 16r	.
 16ff#	.
 16r	.
 =13	=13
-8.gg	Am7
+8.ggL	A minor-seventh
 8.gg	.
-16gg	.
+16ggJk	.
 16r	.
+8.cccL	.
 8.ccc	.
-8.ccc	.
-16bb	.
+16bbJk	.
 16r	.
 =14	=14
-8.aa	Bm
+8.aaL	B minor
 8.aa	.
-16gg	.
+16ggJk	.
 16r	.
-8.ff#	Bm7
+8.ff#L	B minor-seventh
 8.ff#	.
-16gg	.
+16ggJk	.
 16r	.
 =15	=15
-8.ff#	Eadd(3,5,7,10)
+8.ff#L	E other-3,5,7,10
 8.ff#	.
-16ff#	.
+16ff#Jk	.
 16r	.
+8.ff#L	.
 8.ff#	.
-8.ff#	.
-16ff#	.
+16ff#Jk	.
 16r	.
 =16	=16
-8.gg	Em7
+8.ggL	E minor-seventh
 8.gg	.
-16gg	.
+16ggJk	.
 16r	.
 16gg	.
 16r	.

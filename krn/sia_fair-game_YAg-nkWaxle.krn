@@ -16,166 +16,166 @@
 *G:	*
 *M4/4	*
 =1	=1
-8r	G
+8r	G major
+8BL	.
 8B	.
-8B	.
-8B	.
-8B	.
-8B	.
-4B	Am
+8BJ	.
+8BL	.
+8BJ	.
+4B	A minor
 =2	=2
-8r	G
+8r	G major
+8BL	.
 8B	.
-8B	.
-8B	.
-8.B	Am
-16A	.
-16G	.
+8BJ	.
+8.BL	A minor
+16AL	.
+16GJ	.
 8A	.
-16B[	.
+[16BJk	.
 =3	=3
-8B]	Em
+8BL]	E minor
 8B	.
 8B	.
-8B	.
+8BJ	.
 16B	.
 4..B	.
 =4	=4
-8r	Em
-16B	.
+8r	E minor
+16BLK	.
 8B	.
 8B	.
-16B[	.
-16B]	D
+[16BJk	.
+16BLK]	D major
 8A	.
 8G	.
 8A	.
-16B	.
+16BJk	.
 =5	=5
-8r	G
-16B	.
+8r	G major
+16BLK	.
 8B	.
-16B	.
-8B	.
+16Bk	.
+8BJ	.
 4B	.
-4r	Am
+4r	A minor
 =6	=6
-4r	G
+4r	G major
+8BL	.
+8BJ	.
+8.BL	A minor
+16BL	.
+16BJ	.
 8B	.
-8B	.
-8.B	Am
-16B	.
-16B	.
-8B	.
-16B[	.
+[16BJk	.
 =7	=7
-8B]	Em
+8BL]	E minor
 8A	.
-16B	.
-8A	.
+16Bk	.
+8AJ	.
 8B	.
-8A	.
-8B	.
+8AL	.
+8BJ	.
 8.r	.
 =8	=8
-8r	Em
-8E	.
+8r	E minor
+8EL	.
 8B	.
-8B	.
-8B	D
+8BJ	.
+8BL	D major
 8A	.
 8G	.
-8A	.
+8AJ	.
 =9	=9
-4E	C
+4E	C major
 4B	.
 4A	.
 4G	.
 =10	=10
-8r	C
-8E	.
+8r	C major
+8EL	.
 8B	.
-8A	.
-8B	.
-8A	.
-4B	Em/B
+8AJ	.
+8BL	.
+8AJ	.
+4B	E minor/B
 =11	=11
-4r	Am
+4r	A minor
 4B	.
 4A	.
 4G	.
 =12	=12
-8r	Am
-8E	.
+8r	A minor
+8EL	.
 8B	.
-8A	.
-8B	.
-8A	.
-4B[	.
+8AJ	.
+8BL	.
+8AJ	.
+[4B	.
 =13	=13
-4B]	G
+4B]	G major
+8BL	.
+16AJk	.
 8B	.
-16A	.
-8B	.
-8A	.
-16B[	.
-4B]	Am
+8AL	.
+[16BJk	.
+4B]	A minor
 =14	=14
-8r	G
+8r	G major
+8BL	.
 8B	.
-8B	.
-8B	.
-8B	Am
+8BJ	.
+8BL	A minor
 8A	.
 8G	.
-8A	.
+8AJ	.
 =15	=15
-8r	Em
-8B	.
-16B	.
-8.B	.
+8r	E minor
+8BL	.
+16Bk	.
+8.BJ	.
 4B	.
 4B	.
 =16	=16
-8r	Em
+8r	E minor
+8BL	.
 8B	.
-8B	.
-8B	.
-8B	D
+8BJ	.
+8BL	D major
 8A	.
 8G	.
-8A	.
+8AJ	.
 =17	=17
-8r	F
+8r	F major
+8AL	.
+8A	.
+8AJ	.
+8AL	.
 8A	.
 8A	.
-8A	.
-8A	.
-8A	.
-8A	.
-8c	.
+8cJ	.
 =18	=18
-4r	Am
-8A	.
-8G	.
+4r	A minor
+8AL	.
+8GJ	.
+8.AL	.
 8.A	.
-8.A	.
-8G	.
+8GJ	.
 =19	=19
-4r	Dm
-8A	.
-8A	.
+4r	D minor
+8AL	.
+8AJ	.
 4d	.
-8c	.
-8c	.
+8cL	.
+8cJ	.
 =20	=20
 8r	.
+8AL	.
 8A	.
-8A	.
-8A	.
-8d	.
+8AJ	.
+8dL	.
 8c	.
 8A	.
-8G	.
+8GJ	.
 ==	==
 *-	*-

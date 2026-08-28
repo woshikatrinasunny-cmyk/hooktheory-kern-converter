@@ -16,56 +16,56 @@
 *D:	*
 *M4/4	*
 =1	=1
-4F#	D
+4F#	D major
 4F#	.
-8F#	Dmaj7/C#
+8F#L	D major-seventh/C#
 8E	.
-8D	.
+8DJ	.
 8r	.
 =2	=2
-8F#	B7
+8F#L	B dominant
 8Fn	.
 8F#	.
-8G	.
-8A	B7/F#
-8B	.
+8GJ	.
+8AL	B dominant/F#
+8BJ	.
 4cn	.
 =3	=3
-4B	Em
+4B	E minor
 4G	.
-4G	Em/B
-8F#	.
-8G[	.
+4G	E minor/B
+8F#L	.
+[8GJ	.
 =4	=4
-4G]	Em
-4r	Em7/D
-4r	C#m7b5
-4r	Em/B
+4G]	E minor
+4r	E minor-seventh/D
+4r	C# half-diminished
+4r	E minor/B
 =5	=5
-8B	A7
+8B	A dominant
 8r	.
 4G	.
-4G	A7/C#
-8A	.
-8B[	.
+4G	A dominant/C#
+8AL	.
+[8BJ	.
 =6	=6
-8B]	A7/E
+8BL]	A dominant/E
 8c#	.
 8B	.
-8A[	.
-8A]	A7/C#
+[8AJ	.
+8A]	A dominant/C#
 4G	.
 8r	.
 =7	=7
-2F#	D
-8A	Dmaj7/C#
-8F#[	.
-8F#]	Bm7
-8E[	.
+2F#	D major
+8AL	D major-seventh/C#
+[8F#	.
+8F#]	B minor-seventh
+[8EJ	.
 =8	=8
-4E]	A7
+4E]	A dominant
 4r	.
-4r	C#add(3,6,8,10)/B
-4r	A7/C#
+4r	C# other-3,6,8,10/B
+4r	A dominant/C#
 ==	==
 *-	*-

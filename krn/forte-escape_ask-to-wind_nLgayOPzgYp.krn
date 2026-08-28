@@ -16,60 +16,60 @@
 *g:	*
 *M4/4	*
 =1	=1
-4gg	E-maj7
+4gg	E- major-seventh
 8r	.
 8dd	.
-8bb-	Dm7/F
-16aa	.
+8bb-L	D minor-seventh/F
+16aak	.
 8gg	.
-8.ff	.
+8.ffJ	.
 =2	=2
-4dd	Dm7
+4dd	D minor-seventh
 4r	.
-8bb-	Gm7
-16aa	.
+8bb-L	G minor-seventh
+16aak	.
 8gg	.
-8.ff	.
+8.ffJ	.
 =3	=3
-4gg	E-maj7
+4gg	E- major-seventh
 4ff	.
-4cc	Dm7/F
+4cc	D minor-seventh/F
 4ff	.
 =4	=4
-8dd	Dm7
+8ddL	D minor-seventh
 8cc	.
-8.dd	.
+8.ddJ	.
 16r	.
-8bb-	Fm7/A-
-16aa	.
-16gg[	.
-16gg]	Gm7
-8.ff	.
+8bb-L	F minor-seventh/A-
+16aaL	.
+[16gg	.
+16ggJ]	G minor-seventh
+8.ffJ	.
 =5	=5
-4gg	E-maj7
+4gg	E- major-seventh
 8r	.
 8dd	.
-8bb-	Dm7/F
-16aa	.
+8bb-L	D minor-seventh/F
+16aak	.
 8gg	.
-8.ff	.
+8.ffJ	.
 =6	=6
-4dd	Dm7
+4dd	D minor-seventh
 8r	.
 8dd	.
-8bb-	Gm7
-16aa	.
+8bb-L	G minor-seventh
+16aak	.
 8gg	.
-8.ff	.
+8.ffJ	.
 =7	=7
-4gg	E-maj7
+4gg	E- major-seventh
 4bb-	.
-4ccc	Dm7/F
+4ccc	D minor-seventh/F
 4aa	.
 =8	=8
-8bb-	Gsus4
-16aa	.
-6...gg[	.
-2gg]	Gadd(2,4,7)
+8bb-L	G suspended-fourth
+16aaJk	.
+[6...gg	.
+2gg]	G other-2,4,7
 ==	==
 *-	*-

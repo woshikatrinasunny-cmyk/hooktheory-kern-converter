@@ -16,25 +16,25 @@
 *C:	*
 *M4/4	*
 =1	=1
-1G#	G#/C
+1G#	G# major/C
 =2	=2
-1G	Cm
+1G	C minor
 =3	=3
-1A#	Cm7
+1A#	C minor-seventh
 =4	=4
 1d	.
 =5	=5
-1e	C
+1e	C major
 =6	=6
 2f	.
 2g	.
 =7	=7
-1g#	E/B
+1g#	E major/B
 =8	=8
 2a#	.
 2b	.
 =9	=9
-1g#	E
+1g#	E major
 =10	=10
 2a#	.
 2b	.
@@ -44,9 +44,9 @@
 2.dd#	.
 4ee	.
 =13	=13
-1gg	Fadd(2,3,7)
+1gg	F other-2,3,7
 =14	=14
-2gg#	Fm
+2gg#	F minor
 2aa#	.
 =15	=15
 1gg	.
@@ -54,8 +54,8 @@
 2gg#	.
 2aa#	.
 =17	=17
-1ccc	Fm
+1ccc	F minor
 =18	=18
-1ddd	Dm7b5/F
+1ddd	D half-diminished/F
 ==	==
 *-	*-

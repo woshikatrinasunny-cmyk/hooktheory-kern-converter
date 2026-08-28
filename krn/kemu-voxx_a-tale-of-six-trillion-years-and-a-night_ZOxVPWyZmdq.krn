@@ -16,139 +16,139 @@
 *b:	*
 *M4/4	*
 =1	=1
-4bb	G
-8ff#	.
+4bb	G major
+8ff#L	.
+8aaJ	.
+8.bbL	A major
+16bbk	.
 8aa	.
-8.bb	A
-16bb	.
-8aa	.
-8ff#	.
+8ff#J	.
 =2	=2
-8.ee	F#m
-16dd	.
+8.eeL	F# minor
+16ddk	.
 8ee	.
-8ff#	.
-4dd	Bm
-8b	.
-8dd	.
+8ff#J	.
+4dd	B minor
+8bL	.
+8ddJ	.
 =3	=3
-4ee	F#
-8ee	.
+4ee	F# major
+8eeL	.
+8ff#J	.
+8aaL	.
 8ff#	.
-8aa	.
-8ff#	.
 8ee	.
-8dd	.
+8ddJ	.
 =4	=4
-4ee	Bm
-8ee	.
-8dd	.
-8ff#	D7
+4ee	B minor
+8eeL	.
+8ddJ	.
+8ff#	D dominant
 8r	.
-8ff#	.
-8aa	.
+8ff#L	.
+8aaJ	.
 =5	=5
-4bb	G
-8ff#	.
-8aa	.
-4bb	A
-8bb	.
-8fff#	.
+4bb	G major
+8ff#L	.
+8aaJ	.
+4bb	A major
+8bbL	.
+8fff#J	.
 =6	=6
-8eee	F#m
+8eeeL	F# minor
 8fff#	.
 8eee	.
-8ddd	.
-4bb	Bm
-8bb	.
-8ddd	.
+8dddJ	.
+4bb	B minor
+8bbL	.
+8dddJ	.
 =7	=7
-8eee	G
-16eee	.
-16ddd	.
+8eeeL	G major
+16eeeL	.
+16dddJ	.
 8eee	.
-16eee	.
-16ddd	.
-8eee	A
-16eee	.
-16ddd	.
+16eeeL	.
+16dddJJ	.
+8eeeL	A major
+16eeeL	.
+16dddJ	.
 8eee	.
-16eee	.
-16ddd	.
+16eeeL	.
+16dddJJ	.
 =8	=8
-8bb	Bm
+8bbL	B minor
 8ddd	.
 8bb	.
-8aa	.
+8aaJ	.
 4bb	.
-8ff#	.
-8aa	.
+8ff#L	.
+8aaJ	.
 =9	=9
 4bb	.
-8ff#	G
+8ff#L	G major
+8aaJ	.
+8.bbL	A major
+16bbk	.
 8aa	.
-8.bb	A
-16bb	.
-8aa	.
-8ff#	.
+8ff#J	.
 =10	=10
-8.ee	F#m
-16dd	.
+8.eeL	F# minor
+16ddk	.
 8ee	.
-8ff#	.
-4dd	Bm
-8b	.
-8dd	.
+8ff#J	.
+4dd	B minor
+8bL	.
+8ddJ	.
 =11	=11
-4ee	F#
-8ee	.
+4ee	F# major
+8eeL	.
+8ff#J	.
+8aaL	.
 8ff#	.
-8aa	.
-8ff#	.
 8ee	.
-8dd	.
+8ddJ	.
 =12	=12
-8ee[	Bm
+[8eeL	B minor
 8ee]	.
-8ee	Bm
-8dd	.
-8ff#	D7
+8ee	B minor
+8ddJ	.
+8ff#	D dominant
 8r	.
-8ff#	.
-8aa	.
+8ff#L	.
+8aaJ	.
 =13	=13
-4bb	G
-8ff#	.
-8aa	.
-4bb	A
-8bb	.
-8fff#	.
+4bb	G major
+8ff#L	.
+8aaJ	.
+4bb	A major
+8bbL	.
+8fff#J	.
 =14	=14
-8eee	F#m
+8eeeL	F# minor
 8fff#	.
 8eee	.
-8ddd	.
-4bb	Bm
-8bb	.
-8ddd	.
+8dddJ	.
+4bb	B minor
+8bbL	.
+8dddJ	.
 =15	=15
-8eee	G
-16eee	.
-16ddd	.
+8eeeL	G major
+16eeeL	.
+16dddJ	.
 8eee	.
-16eee	.
-16ddd	.
-8eee	A
-16eee	.
-16ddd	.
+16eeeL	.
+16dddJJ	.
+8eeeL	A major
+16eeeL	.
+16dddJ	.
 8eee	.
-16eee	.
-16ddd	.
+16eeeL	.
+16dddJJ	.
 =16	=16
-8bb	Bm
+8bbL	B minor
 8ddd	.
 8bb	.
-8aa	.
+8aaJ	.
 4bb	.
 4r	.
 ==	==

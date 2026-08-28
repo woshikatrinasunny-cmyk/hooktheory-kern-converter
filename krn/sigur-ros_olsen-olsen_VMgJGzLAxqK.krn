@@ -16,26 +16,26 @@
 *D:	*
 *M6/4	*
 =1	=1
-2.d	D
+2.d	D major
 2.dd	.
 =2	=2
-2dd	A/C#
-8.cc#	.
-16b	.
-2a	A7/C#
-8.g	.
-16f#	.
+2dd	A major/C#
+8.cc#L	.
+16bJk	.
+2a	A dominant/C#
+8.gL	.
+16f#Jk	.
 =3	=3
-8.g	D
-16f#	.
+8.gL	D major
+16f#Jk	.
 4..dd	.
 16g	.
 2f#	.
 4g	.
 =4	=4
-2a	A/C#
-4e[	.
-4e]	A7/C#
+2a	A major/C#
+[4e	.
+4e]	A dominant/C#
 4g	.
 4f#	.
 ==	==

@@ -16,32 +16,32 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8a#	F#
+8a#L	F# major
 8b	.
 8cc#	.
-8dd#	.
-8ff#	.
+8dd#J	.
+8ff#L	.
 8gg#	.
 8aa#	.
-8bb	.
+8bbJ	.
 =2	=2
-8aa#	C#m/G#
+8aa#L	C# minor/G#
 8gg#	.
 8ff#	.
-8ee	.
-8ee	.
+8eeJ	.
+8eeL	.
 8ee	.
 8dd#	.
-8ee	.
+8eeJ	.
 =3	=3
-8ff#	G#m/B
+8ff#	G# minor/B
 4.dd#	.
 4r	.
-8b	.
-8cc#[	.
+8bL	.
+[8cc#J	.
 =4	=4
-4cc#]	F#sus4
+4cc#]	F# suspended-fourth
 8r	.
-3...r	F#
+3...r	F# major
 ==	==
 *-	*-

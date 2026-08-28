@@ -15,65 +15,65 @@
 *D:	*
 *M4/4	*
 =1	=1
-8f#	D
-16d	.
-16e	.
+8f#L	D major
+16dL	.
+16eJ	.
 8f#	.
-16d	.
-16e	.
-8f#	.
-16d	.
+16dL	.
+16eJJ	.
+8f#L	.
+16dL	.
 16e	.
 16f#	.
 16e	.
 16d	.
-16e	.
+16eJJ	.
 =2	=2
-8f#	F#
+8f#	F# major
 6...a#	.
 2r	.
 16r	.
 =3	=3
-8b	G
-16g	.
-16a	.
+8bL	G major
+16gL	.
+16aJ	.
 8b	.
+16gL	.
+16aJJ	.
+8bL	.
+16dL	.
 16g	.
+16b	E minor-seventh/G
 16a	.
-8b	.
-16d	.
 16g	.
-16b	Em7/G
-16a	.
-16g	.
-16a[	.
+[16aJJ	.
 =4	=4
-4..a]	Em
+4..a]	E minor
 2r	.
 16r	.
 =5	=5
-16cc	Am
+16ccLL	A minor
 16b	.
 16a	.
-16b	.
-4e[	.
-4e]	Am7/C
-16cc	.
+16bJJ	.
+[4e	.
+4e]	A minor-seventh/C
+16ccLL	.
 16b	.
 16a	.
-16b	.
+16bJJ	.
 =6	=6
-8f#	D7
-8a	.
+8f#L	D dominant
+8aJ	.
 2f#	.
 4r	.
 =7	=7
-4..d	A#
+4..d	A# major
 16e	.
-4..fn	A#7
+4..fn	A# dominant
 16e	.
 =8	=8
-2e	A
-2r	A7
+2e	A major
+2r	A dominant
 ==	==
 *-	*-

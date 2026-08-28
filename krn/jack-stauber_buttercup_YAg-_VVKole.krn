@@ -18,65 +18,65 @@
 =1	=1
 4.r	.
 8dd	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8ee	.
+8eeJ	.
 =2	=2
-4ff#	G
+4ff#	G major
 4ee	.
 4dd	.
 4b	.
 =3	=3
-4a	G
+4a	G major
 4dd	.
-4b	Gadd(2,4,7)
-4g	G/B
+4b	G other-2,4,7
+4g	G major/B
 =4	=4
-4f#	Bm/F#
+4f#	B minor/F#
 2.r	.
 =5	=5
-4.r	Bm/F#
+4.r	B minor/F#
+8dd	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8ee	.
+8eeJ	.
 =6	=6
-4ff#	G
+4ff#	G major
 4ee	.
 4dd	.
 4b	.
 =7	=7
-4a	G
+4a	G major
 4dd	.
-4b	Gadd(2,4,7)
-4g	G/B
+4b	G other-2,4,7
+4g	G major/B
 =8	=8
-4f#	Bm/F#
+4f#	B minor/F#
 2.r	.
 =9	=9
-1r	Bm/F#
+1r	B minor/F#
 =10	=10
-1r	G
+1r	G major
 =11	=11
-2r	G
-4r	Gadd(2,4,7)
-4r	G/B
+2r	G major
+4r	G other-2,4,7
+4r	G major/B
 =12	=12
-1r	Bm/F#
+1r	B minor/F#
 =13	=13
-1r	Bm/F#
+1r	B minor/F#
 =14	=14
-1r	G
+1r	G major
 =15	=15
-2r	G
-4r	Gadd(2,4,7)
-4r	G/B
+2r	G major
+4r	G other-2,4,7
+4r	G major/B
 =16	=16
-1r	Bm/F#
+1r	B minor/F#
 =17	=17
-2r	Bm/F#
+2r	B minor/F#
 2r	.
 ==	==
 *-	*-

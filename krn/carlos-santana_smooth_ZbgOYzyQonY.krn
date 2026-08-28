@@ -16,29 +16,29 @@
 *a:	*
 *M4/4	*
 =1	=1
-8cc	Am
+8ccL	A minor
 8cc	.
-8a	.
+8aJ	.
 4cc	.
-4a	F
-8r	E7
+4a	F major
+8r	E dominant
 =2	=2
+8ccL	.
 8cc	.
-8cc	.
-8a	.
+8aJ	.
 4dd	.
-8e	.
+8eL	.
 8g	.
-8a	.
+8aJ	.
 =3	=3
-8cc	Am
+8ccL	A minor
 8a	.
 8cc	.
-8a	.
+8aJ	.
+8ccL	.
+8a	F major
 8cc	.
-8a	F
-8cc	.
-8a	E7
+8aJ	E dominant
 =4	=4
 8dd	.
 4dd	.
@@ -47,37 +47,37 @@
 4cc	.
 8cc	.
 =5	=5
-8ee	Am
+8eeL	A minor
 8gg	.
 8ee	.
-8cc	.
-8dd	.
-8cc	F
+8ccJ	.
+8ddL	.
+8cc	F major
 8a	.
-8g#	E7
+8g#J	E dominant
 =6	=6
 8cc	.
 4dd	.
 8cc	.
-8.dd	.
-8.cc	.
+8.ddL	.
+8.ccJ	.
 8r	.
 =7	=7
-8cc	Dm
+8ccL	D minor
 8cc	.
-8a	.
+8aJ	.
 4cc	.
-8cc	Dm
+8ccL	D minor
 8a	.
-8cc	Eadd(1,4,7,10)
+8ccJ	E other-1,4,7,10
 =8	=8
-8cc	.
+8ccL	.
 8g	.
 8g	.
+8gJ	.
+8gL	E minor-seventh
 8g	.
-8g	Em7
 8g	.
-8g	.
-8a	Am
+8aJ	A minor
 ==	==
 *-	*-

@@ -16,90 +16,90 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8r	Amaj7
+8r	A major-seventh
+8eL	.
 8e	.
-8e	.
-16e	.
-16e	.
-8e	Amaj7
-16B[	.
-16B]	B
-8e[	.
-8e]	C#m7
+16eL	.
+16eJJ	.
+8eL	A major-seventh
+[16BL	.
+16BJ]	B major
+[8e	.
+8eJ]	C# minor-seventh
 =2	=2
 8r	.
+8eL	.
 8e	.
-8e	.
-16e	.
-16e	.
-8e	C#m7
-16B[	.
-16B]	E
-8e[	.
-8e]	B
+16eL	.
+16eJJ	.
+8eL	C# minor-seventh
+[16BL	.
+16BJ]	E major
+[8e	.
+8eJ]	B major
 =3	=3
 8r	.
+8f#L	.
 8f#	.
+16f#L	.
+16f#JJ	.
+8f#L	B major
+[16g#L	.
+16g#J]	E major
 8f#	.
-16f#	.
-16f#	.
-8f#	B
-16g#[	.
-16g#]	E
-8f#	.
-8f#	B
+8f#J	B major
 =4	=4
-8g#	.
+8g#L	.
 8f#	.
 8e	.
-8c#	.
-8g#	E/G#
+8c#J	.
+8g#L	E major/G#
 8e	.
 8f#	.
-16e	.
-16c#[	.
+16eL	.
+[16c#JJ	.
 =5	=5
-8c#]	Amaj7
+8c#L]	A major-seventh
 8e	.
 8e	.
-16e	.
-16e	.
-8e	Amaj7
-16B[	.
-16B]	B
-8e[	.
-8e]	C#m7
+16eL	.
+16eJJ	.
+8eL	A major-seventh
+[16BL	.
+16BJ]	B major
+[8e	.
+8eJ]	C# minor-seventh
 =6	=6
 8r	.
+8eL	.
 8e	.
-8e	.
-16e	.
-16e	.
-8e	C#m7
-16B[	.
-16B]	E
-8e[	.
-8e]	B
+16eL	.
+16eJJ	.
+8eL	C# minor-seventh
+[16BL	.
+16BJ]	E major
+[8e	.
+8eJ]	B major
 =7	=7
 8r	.
+8f#L	.
 8f#	.
+16f#L	.
+16f#JJ	.
+8f#L	B major
+[16g#L	.
+16g#J]	E major
 8f#	.
-16f#	.
-16f#	.
-8f#	B
-16g#[	.
-16g#]	E
-8f#	.
-8f#	B
+8f#J	B major
 =8	=8
-8g#	.
+8g#L	.
 8f#	.
 8e	.
-8c#	.
-8g#	E/G#
+8c#J	.
+8g#L	E major/G#
 8e	.
 8f#	.
-16e	.
-16c#	.
+16eL	.
+16c#JJ	.
 ==	==
 *-	*-

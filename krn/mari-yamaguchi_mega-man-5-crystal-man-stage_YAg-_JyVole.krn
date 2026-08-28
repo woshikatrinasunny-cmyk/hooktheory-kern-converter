@@ -16,20 +16,20 @@
 *b:	*
 *M4/4	*
 =1	=1
-8.ff#	Bm
-8ee	.
+8.ff#L	B minor
+8eeJ	.
 16r	.
 8dd	.
-8.ee	A
-8a	.
+8.eeL	A major
+8aJ	.
 16r	.
 8aa	.
 =2	=2
-8.gg	C
-8ff#	.
+8.ggL	C major
+8ff#J	.
 16r	.
 8ee	.
-16r	Bm
+16r	B minor
 16dd	.
 16r	.
 4bb	.
@@ -37,32 +37,32 @@
 =3	=3
 *k[b-]	*
 *d:	*
-8.aa	Dm
-8gg	.
+8.aaL	D minor
+8ggJ	.
 16r	.
 8ff	.
-4ee	Am
+4ee	A minor
 4g	.
 =4	=4
-2a[	Dsus4
-2a]	Dm
+[2a	D suspended-fourth
+2a]	D minor
 =5	=5
 *k[f#c#g#d#]	*
 *c#:	*
-8.gg#	C#m
-8ff#	.
+8.gg#L	C# minor
+8ff#J	.
 16r	.
 8ee	.
-8.ff#	B
-8b	.
+8.ff#L	B major
+8bJ	.
 16r	.
 8bb	.
 =6	=6
-8.aa	D
-8gg#	.
+8.aaL	D major
+8gg#J	.
 16r	.
 8ff#	.
-16r	C#m
+16r	C# minor
 16ee	.
 16r	.
 4ccc#	.
@@ -70,13 +70,13 @@
 =7	=7
 *k[b-e-a-d-]	*
 *f:	*
-8.ccc	Fm
-8bb-	.
+8.cccL	F minor
+8bb-J	.
 16r	.
 8aa-	.
-8gg	Cm
+8gg	C minor
 8r	.
-4fff[	Fm
+[4fff	F minor
 =8	=8
 1fff]	.
 ==	==

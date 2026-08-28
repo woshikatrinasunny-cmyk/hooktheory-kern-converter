@@ -15,74 +15,74 @@
 *d#:	*
 *M4/4	*
 =1	=1
-8f#[	.
-8f#]	A#7/D
-8e#[	.
-8e#]	D#m
-8d#[	.
-8d#]	D#add(2,5,7)
-8c#[	.
-8c#]	D#m
+[8f#L	.
+8f#]	A# dominant/D
+[8e#	.
+8e#J]	D# minor
+[8d#L	.
+8d#]	D# other-2,5,7
+[8c#	.
+8c#J]	D# minor
 =2	=2
 8A#	.
-8r	D#7/G
-8c#[	.
-8c#]	G#m
-8d#	.
+8r	D# dominant/G
+[8c#L	.
+8c#J]	G# minor
+8d#L	.
 8c#	.
 8d#	.
-8f#	.
+8f#J	.
 =3	=3
-8a#[	.
-8a#]	A#7/D
-8g#	.
-8r	D#m
-8b[	.
-8b]	E#dim
-8a#	.
-8r	D#m7/F#
+[8a#L	.
+8a#]	A# dominant/D
+8g#J	.
+8r	D# minor
+[8bL	.
+8b]	E# diminished
+8a#J	.
+8r	D# minor-seventh/F#
 =4	=4
-8a#[	.
-8a#]	D#7/G
-8g#[	.
-8g#]	G#m
-8A#	.
+[8a#L	.
+8a#]	D# dominant/G
+[8g#	.
+8g#J]	G# minor
+8A#L	.
 8c#	.
 8d#	.
-8e#	.
+8e#J	.
 =5	=5
-8f#[	.
-8f#]	A#7/D
-8e#[	.
-8e#]	D#m
+[8f#L	.
+8f#]	A# dominant/D
+[8e#	.
+8e#J]	D# minor
 8d#	.
-8r	D#add(2,5,7)
-8c#[	.
-8c#]	D#m
+8r	D# other-2,5,7
+[8c#L	.
+8c#J]	D# minor
 =6	=6
-8A#[	.
-8A#]	D#7/G
-8c#[	.
-8c#]	G#m
-8d#	.
+[8A#L	.
+8A#]	D# dominant/G
+[8c#	.
+8c#J]	G# minor
+8d#L	.
 8c#	.
 8d#	.
-8f#	.
+8f#J	.
 =7	=7
-8a#[	.
-8a#]	A#7/D
-8g#	.
-8r	D#m
-8b[	.
-8b]	E#dim
-8a#	.
-8r	D#m7/F#
+[8a#L	.
+8a#]	A# dominant/D
+8g#J	.
+8r	D# minor
+[8bL	.
+8b]	E# diminished
+8a#J	.
+8r	D# minor-seventh/F#
 =8	=8
-8a#[	.
-8a#]	D#7/G
-16g#	.
-16a#	.
-4g#	G#m
+[8a#L	.
+8a#]	D# dominant/G
+16g#L	.
+16a#JJ	.
+4g#	G# minor
 4f#	.
 8r	.
 ==	==

@@ -16,23 +16,23 @@
 *c:	*
 *M3/4	*
 =1	=1
-2.r	D-maj7
+2.r	D- major-seventh
 =2	=2
-4.r	Cadd(2,3,7)
-4.r	Cm
+4.r	C other-2,3,7
+4.r	C minor
 =3	=3
-2.r	B-m
+2.r	B- minor
 =4	=4
-4.r	Gsus4
-4.r	G
+4.r	G suspended-fourth
+4.r	G major
 =5	=5
-2.r	D-maj7
+2.r	D- major-seventh
 =6	=6
-2.r	G-add(2,4,7)
+2.r	G- other-2,4,7
 =7	=7
-2.r	G-7/E
+2.r	G- dominant/E
 =8	=8
-2.r	G7sus4
+2.r	G dominant-seventh-suspended-fourth
 =9	=9
 2.r	.
 =10	=10

@@ -16,29 +16,29 @@
 *c:	*
 *M3/4	*
 =1	=1
-4.en	C
+4.en	C major
 8c	.
-8d	.
-8en	.
+8dL	.
+8enJ	.
 =2	=2
-8f	Fm/C
-8g	.
+8fL	F minor/C
+8gJ	.
 2a-	.
 =3	=3
-4.a-	B-7
+4.a-	B- dominant
 8d	.
-8e-	.
-8f	.
+8e-L	.
+8fJ	.
 =4	=4
-4g	Cm
+4g	C minor
 2G	.
 =5	=5
-8GG	G
-16G	.
-16D	.
-8GG	.
-8D	.
-8G	.
-8D	.
+8GGL	G major
+16GL	.
+16DJJ	.
+8GGL	.
+8DJ	.
+8GL	.
+8DJ	.
 ==	==
 *-	*-

@@ -16,64 +16,64 @@
 *g:	*
 *M4/4	*
 =1	=1
-1r	Gm
+1r	G minor
 =2	=2
-8r	Gm
-8g	.
+8r	G minor
+8gL	.
+8b-	.
+8ddJ	.
+8gL	.
 8b-	.
 8dd	.
-8g	.
-8b-	.
-8dd	.
-8d	.
+8dJ	.
 =3	=3
-1r	Dm
+1r	D minor
 =4	=4
-8r	Dm
+8r	D minor
+8dL	.
 8d	.
-8d	.
-8f	.
+8fJ	.
 4d	.
 4a	.
 =5	=5
-2g	E-
+2g	E- major
 2dd	.
 =6	=6
-4r	F
+4r	F major
 4cc	.
 4dd	.
 4ff	.
 =7	=7
-16dd	B-
-16ff	.
-2..dd[	.
+16ddLL	B- major
+16ffJJ	.
+[2..dd	.
 =8	=8
-2.dd]	B-
+2.dd]	B- major
 4dd	.
 =9	=9
-1gg	E-
+1gg	E- major
 =10	=10
-2ff	F
+2ff	F major
 4cc	.
 4ff	.
 =11	=11
-2.dd	B-
-8cc	.
-8b-	.
+2.dd	B- major
+8ccL	.
+8b-J	.
 =12	=12
-2a	D/G-
+2a	D major/G-
 2g-	.
 =13	=13
-2g	E-
+2g	E- major
 2dd	.
 =14	=14
-4r	F
+4r	F major
 4cc	.
 4a	.
 4f	.
 =15	=15
-1g[	Gsus4
+[1g	G suspended-fourth
 =16	=16
-1g]	Gm
+1g]	G minor
 ==	==
 *-	*-

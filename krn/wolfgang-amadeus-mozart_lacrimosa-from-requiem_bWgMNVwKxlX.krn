@@ -16,36 +16,36 @@
 *F:	*
 *M6/4	*
 =1	=1
-2.bn	Ddim
-2.cc	Fm/C
+2.bn	D diminished
+2.cc	F minor/C
 =2	=2
-2.dd	Bdim
+2.dd	B diminished
 2.dd	.
 =3	=3
-2.dd	Bdim
-2.cc	Fm/C
+2.dd	B diminished
+2.cc	F minor/C
 =4	=4
-2.bn	D-7
+2.bn	D- dominant
 2.bn	.
 =5	=5
-2.bn	G7/D
-2.cc	C
+2.bn	G dominant/D
+2.cc	C major
 =6	=6
-2.dd	Em7b5/B-
-2cc	F/A
+2.dd	E half-diminished/B-
+2cc	F major/A
 4ff	.
 =7	=7
-2.ff[	B-
-4ff]	Ddim
+[2.ff	B- major
+4ff]	D diminished
 4dd	.
 4bn	.
 =8	=8
-2.cc[	F/C
-4cc]	C7
+[2.cc	F major/C
+4cc]	C dominant
 4b-	.
 4g	.
 =9	=9
-2f	F
+2f	F major
 1r	.
 ==	==
 *-	*-

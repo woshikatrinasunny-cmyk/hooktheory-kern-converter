@@ -16,82 +16,82 @@
 *F:	*
 *M4/4	*
 =1	=1
-8cc	F
+8ccL	F major
 8cc	.
 8cc	.
-8cc	F
+8ccJ	F major
 8cc	.
 4cc	.
-8cc[	F
+[8cc	F major
 =2	=2
 4.cc_	.
-4cc_	F
-4.cc]	Fsus2
+4cc_	F major
+4.cc]	F suspended-second
 =3	=3
-8b-	B-sus4
+8b-L	B- suspended-fourth
 8b-	.
 8b-	.
-8b-	B-sus4
+8b-J	B- suspended-fourth
 8b-	.
 4a	.
-8cc[	.
+[8cc	.
 =4	=4
-8cc]	Fadd(2,4,7)
-4a[	.
-6...a]	Fadd(2,4,7)
+8cc]	F other-2,4,7
+[4a	.
+6...a]	F other-2,4,7
 8.r	.
-8r	Fadd(2,4,7)
+8r	F other-2,4,7
 =5	=5
 4.r	.
-4r	Fadd(2,4,7)
-4r	Fsus2
-8r	F
+4r	F other-2,4,7
+4r	F suspended-second
+8r	F major
 =6	=6
 8r	.
-4r	Fadd(2,4,7)
-2r	Fadd(2,4,7)
-8r	Fadd(2,4,7)
+4r	F other-2,4,7
+2r	F other-2,4,7
+8r	F other-2,4,7
 =7	=7
 4.r	.
-4r	Fadd(2,4,7)
-4r	Fsus2
-8r	F
+4r	F other-2,4,7
+4r	F suspended-second
+8r	F major
 =8	=8
-8cc	F
-8cc	.
+8ccL	F major
+8ccJ	.
 8r	.
-8cc	F
+8cc	F major
 8cc	.
-4cc[	.
-8cc]	F
+[4cc	.
+8cc]	F major
 =9	=9
 4.r	.
-4r	F
-4.r	Fsus2
+4r	F major
+4.r	F suspended-second
 =10	=10
-8b-	B-sus4
+8b-	B- suspended-fourth
 4b-	.
-8b-	B-sus4
+8b-	B- suspended-fourth
 8a	.
 4.cc	.
 =11	=11
-4.r	Fadd(2,4,7)
-2r	Fadd(2,4,7)
-8r	Fadd(2,4,7)
+4.r	F other-2,4,7
+2r	F other-2,4,7
+8r	F other-2,4,7
 =12	=12
 4.r	.
-4r	Fadd(2,4,7)
-4r	Fsus2
-8r	F
+4r	F other-2,4,7
+4r	F suspended-second
+8r	F major
 =13	=13
 8r	.
-4r	Fadd(2,4,7)
-2r	Fadd(2,4,7)
-8r	Fadd(2,4,7)
+4r	F other-2,4,7
+2r	F other-2,4,7
+8r	F other-2,4,7
 =14	=14
 4.r	.
-4r	Fadd(2,4,7)
-4r	Fsus2
-8r	F
+4r	F other-2,4,7
+4r	F suspended-second
+8r	F major
 ==	==
 *-	*-

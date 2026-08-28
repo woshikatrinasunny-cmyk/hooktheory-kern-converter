@@ -15,35 +15,35 @@
 *d:	*
 *M6/4	*
 =1	=1
-4dd	Dm
+4dd	D minor
 2.ff	.
 4ee	.
-4dd[	.
+[4dd	.
 =2	=2
-4dd]	Csus2
-1cc[	.
+4dd]	C suspended-second
+[1cc	.
 4cc]	.
 =3	=3
-4dd	Dm
-1ff[	.
+4dd	D minor
+[1ff	.
 4ff]	.
 =4	=4
-1.cc	C
+1.cc	C major
 =5	=5
-1dd	Dm
+1dd	D minor
 4.ff	.
 8ee	.
 =6	=6
-4cc	C
-1g[	.
+4cc	C major
+[1g	.
 4g]	.
 =7	=7
-4dd	Dm
+4dd	D minor
 4ff	.
 4ee	.
-2dd	Csus2
+2dd	C suspended-second
 4cc	.
 =8	=8
-1.dd	Dadd(2,3,7)
+1.dd	D other-2,3,7
 ==	==
 *-	*-

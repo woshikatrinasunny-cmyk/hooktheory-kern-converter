@@ -16,64 +16,64 @@
 *C:	*
 *M4/4	*
 =1	=1
-16cc	C
+16cc	C major
 16r	.
 16cc	.
 16r	.
-16r	B-
+16r	B- major
 16b-	.
 8r	.
-16a	A
+16a	A major
 16r	.
 16a	.
 8.r	.
-16a	.
-16a	.
+16aLL	.
+16aJJ	.
 =2	=2
 16a	.
 16r	.
 16a	.
 16r	.
-16b-	B-
+16b-	B- major
 16r	.
 16b-	.
 16r	.
-16cc	C
+16cc	C major
 16r	.
 16cc	.
 8.r	.
-16cc	.
-16cc	.
+16ccLL	.
+16ccJJ	.
 =3	=3
 16cc	.
 16r	.
 16cc	.
 16r	.
-16b-	B-
+16b-LL	B- major
 16cc	.
-16b-	.
+16b-JJ	.
 16r	.
-16bn	Aadd(2,4,7)
+16bn	A other-2,4,7
 16r	.
-16bn	.
-16e	A
+16bnLL	.
+16eJJ	A major
 8r	.
-16a	.
-16a	.
+16aLL	.
+16aJJ	.
 =4	=4
 16a	.
 16r	.
 16a	.
 16r	.
-16b-	B-
+16b-	B- major
 16r	.
 16b-	.
 16r	.
-16cc	C
+16cc	C major
 16r	.
 16cc	.
 8.r	.
-16cc	.
-16cc	.
+16ccLL	.
+16ccJJ	.
 ==	==
 *-	*-

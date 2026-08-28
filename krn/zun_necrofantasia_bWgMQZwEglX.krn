@@ -16,64 +16,64 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4.B-	E-add(2,3,7)
-3...c	F
+4.B-	E- other-2,3,7
+3...c	F major
 =2	=2
-4.d-	G-maj7
-4.e-	Fm7/A-
+4.d-	G- major-seventh
+4.e-	F minor-seventh/A-
 4a-	.
 =3	=3
-4.b-	E-m
-3...an	F7
+4.b-	E- minor
+3...an	F dominant
 =4	=4
-4.dd-	G-maj7
-4.cc	Fm7/A-
+4.dd-	G- major-seventh
+4.cc	F minor-seventh/A-
 4b-	.
 =5	=5
-4.b-	E-m7
-4.a-	B-m/F
+4.b-	E- minor-seventh
+4.a-	B- minor/F
 4b-	.
 =6	=6
-4f	G-maj7
-8a-[	.
-8a-]	A-
+4f	G- major-seventh
+[8a-L	.
+8a-J]	A- major
 4e-	.
 4c	.
 =7	=7
-4.d-	E-m7
-3...c	F
+4.d-	E- minor-seventh
+3...c	F major
 =8	=8
-4.f	G-maj7
-3...e-	A-
+4.f	G- major-seventh
+3...e-	A- major
 =9	=9
-4.b-	E-add(2,3,7)
-3...cc	F
+4.b-	E- other-2,3,7
+3...cc	F major
 =10	=10
-4.dd-	G-maj7
-4.ee-	Fm7/A-
+4.dd-	G- major-seventh
+4.ee-	F minor-seventh/A-
 4aa-	.
 =11	=11
-4.bb-	E-m
-3...aan	F7
+4.bb-	E- minor
+3...aan	F dominant
 =12	=12
-4.ddd-	G-maj7
-4.ccc	Fm7/A-
+4.ddd-	G- major-seventh
+4.ccc	F minor-seventh/A-
 4bb-	.
 =13	=13
-4.bb-	E-m7
-4.aa-	B-m/F
+4.bb-	E- minor-seventh
+4.aa-	B- minor/F
 4bb-	.
 =14	=14
-4ff	G-maj7
-8aa-[	.
-8aa-]	A-
+4ff	G- major-seventh
+[8aa-L	.
+8aa-J]	A- major
 4ee-	.
 4cc	.
 =15	=15
-4.dd-	E-m7
-3...cc	F
+4.dd-	E- minor-seventh
+3...cc	F major
 =16	=16
-4.ff[	G-maj7
-3...ff]	A-
+[4.ff	G- major-seventh
+3...ff]	A- major
 ==	==
 *-	*-

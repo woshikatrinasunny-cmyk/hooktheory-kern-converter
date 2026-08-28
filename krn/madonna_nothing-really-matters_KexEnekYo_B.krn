@@ -16,70 +16,70 @@
 *d:	*
 *M4/4	*
 =1	=1
-4r	Dm
-8.r	Dm
-16r	Dm
-16g	F
-16a[	.
-8a]	F
-8f	C/G
-8f	F/A
+4r	D minor
+8.r	D minor
+16r	D minor
+16gLL	F major
+[16aJ	.
+8a]	F major
+8f	C major/G
+8fJ	F major/A
 =2	=2
-4f[	C
-8.f_	C
-16f]	C
-8d[	F
-8d_	F
-8d_	C/G
-8d]	Dm/A
+[4f	C major
+8.fL_	C major
+16fJk]	C major
+[8dL	F major
+8d_	F major
+8d_	C major/G
+8dJ]	D minor/A
 =3	=3
-4r	Gm
-8.r	Gm
-16r	Gm
-16g	Dm
-16a[	.
-8a]	Dm
-8f	F
-8f[	F
+4r	G minor
+8.r	G minor
+16r	G minor
+16gLL	D minor
+[16aJ	.
+8a]	D minor
+8f	F major
+[8fJ	F major
 =4	=4
-8.f]	Gm
-16d[	.
-8.d_	Gm
-16d]	Gm
-8r	Gm/D
-8r	C11
-8r	C/G
-8r	Cadd(2,4,7)
+8.fL]	G minor
+[16dk	.
+8.d_	G minor
+16dJk]	G minor
+8r	G minor/D
+8r	C dominant-11th
+8r	C major/G
+8r	C other-2,4,7
 =5	=5
-4r	Dm
-8.r	Dm
-16r	Dm
-16g	F
-16a[	.
-8a]	F
-8f	C/G
-8f	F/A
+4r	D minor
+8.r	D minor
+16r	D minor
+16gLL	F major
+[16aJ	.
+8a]	F major
+8f	C major/G
+8fJ	F major/A
 =6	=6
-4f[	C
-8.f_	C
-16f]	C
-8d[	F
-8d_	F
-8d_	C/G
-8d]	Dm/A
+[4f	C major
+8.fL_	C major
+16fJk]	C major
+[8dL	F major
+8d_	F major
+8d_	C major/G
+8dJ]	D minor/A
 =7	=7
-4a[	Gm
-8.a_	Gm
-16a]	Gm
-8g[	Gm/D
-8g_	Gadd(2,3,7)/D
-8g_	Dm/F
-8g]	Gm
+[4a	G minor
+8.aL_	G minor
+16aJk]	G minor
+[8gL	G minor/D
+8g_	G other-2,3,7/D
+8g_	D minor/F
+8gJ]	G minor
 =8	=8
-4f[	F
-8.f_	F
-16f]	F
-4e[	Am7/C
-4e]	Am7/C
+[4f	F major
+8.fL_	F major
+16fJk]	F major
+[4e	A minor-seventh/C
+4e]	A minor-seventh/C
 ==	==
 *-	*-

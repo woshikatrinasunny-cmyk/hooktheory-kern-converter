@@ -17,99 +17,99 @@
 *M4/4	*
 =1	=1
 8r	.
+8ccL	.
 8cc	.
-8cc	.
-8cc	.
+8ccJ	.
 4cc	.
-8cc	.
-8cc	.
+8ccL	.
+8ccJ	.
 =2	=2
-4ccc	C
+4ccc	C major
 8r	.
-4.r	C/G
-4dd	C/E
+4.r	C major/G
+4dd	C major/E
 =3	=3
-4.dd	Am
-4dd#[	Am/C
-8dd#]	D7sus2
-4dd#[	Am/E
+4.dd	A minor
+[4dd#	A minor/C
+8dd#]	D dominant-seventh-suspended-second
+[4dd#	A minor/E
 =4	=4
-8dd#]	F
-4ee[	.
-8ee]	G
+8dd#]	F major
+[4ee	.
+8ee]	G major
 4r	.
-4r	C
+4r	C major
 =5	=5
 8r	.
+8ccL	.
 8cc	.
+8ccJ	.
+[8ccL	.
+8cc]	G major
 8cc	.
-8cc	.
-8cc[	.
-8cc]	G
-8cc	.
-8cc	.
+8ccJ	.
 =6	=6
-4ccc	C
+4ccc	C major
 8r	.
-4r	C/G
+4r	C major/G
 8g	.
-4ee	C/E
+4ee	C major/E
 =7	=7
-4dd	Am
+4dd	A minor
 8cc	.
-4cc	AmMaj7/G#
-8g	Am7/G
-4ee	F#m7b5
+4cc	A major-minor/G#
+8g	A minor-seventh/G
+4ee	F# half-diminished
 =8	=8
-4dd	F
+4dd	F major
 8cc	.
-4.gg	G
-4ee	C
+4.gg	G major
+4ee	C major
 =9	=9
 8r	.
+8ccL	.
 8cc	.
-8cc	.
-8cc	.
-4cc	Cadd(1,4,7)
-8cc	.
-8cc	.
+8ccJ	.
+4cc	C other-1,4,7
+8ccL	.
+8ccJ	.
 =10	=10
-4ccc	C
+4ccc	C major
 8r	.
-4.r	C/G
-4ee	C/E
+4.r	C major/G
+4ee	C major/E
 =11	=11
-4.ff	Am
-4ff#[	Am/C
-8ff#]	D7sus2
-4ff#[	Am/E
+4.ff	A minor
+[4ff#	A minor/C
+8ff#]	D dominant-seventh-suspended-second
+[4ff#	A minor/E
 =12	=12
-8ff#]	F
-4gg[	.
-4.gg_	G
-4gg]	C
+8ff#]	F major
+[4gg	.
+4.gg_	G major
+4gg]	C major
 =13	=13
 8r	.
+8ccL	.
 8cc	.
-8cc	.
-8cc	.
+8ccJ	.
 4cc	.
-8cc	.
-8cc	.
+8ccL	.
+8ccJ	.
 =14	=14
 4eee	.
 8r	.
-4.r	C/G
-4ggg[	C/E
+4.r	C major/G
+[4ggg	C major/E
 =15	=15
-4.ggg_	Am
-4ggg_	AmMaj7/G#
-8ggg]	Am7/G
-4r	F#m7b5
+4.ggg_	A minor
+4ggg_	A major-minor/G#
+8ggg]	A minor-seventh/G
+4r	F# half-diminished
 =16	=16
-4.r	F
-4.r	G
-4r	C
+4.r	F major
+4.r	G major
+4r	C major
 =17	=17
 1r	.
 ==	==

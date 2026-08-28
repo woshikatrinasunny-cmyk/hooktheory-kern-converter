@@ -15,16 +15,16 @@
 *C:	*
 *M6/8	*
 =1	=1
-8c	C
+8c	C major
 8r	.
 8G	.
-4.c[	.
+[4.c	.
 =2	=2
 4c]	.
 8G	.
-8c	.
+8cL	.
 8G	.
-8c	.
+8cJ	.
 =3	=3
 2.d	.
 =4	=4
@@ -33,36 +33,36 @@
 =5	=5
 4c	.
 8G	.
-4.c[	.
+[4.c	.
 =6	=6
 4c]	.
 8G	.
-8c	.
+8cL	.
 8G	.
-8g	.
+8gJ	.
 =7	=7
-2.f	Csus4
+2.f	C suspended-fourth
 =8	=8
 8e	.
 3...r	.
 =9	=9
 *k[f#c#g#]	*
 *D:	*
-4d	D
+4d	D major
 8A	.
-4.d[	.
+[4.d	.
 =10	=10
 4d]	.
 8A	.
-8d	.
+8dL	.
 8A	.
-8d	.
+8dJ	.
 =11	=11
-2.e	E7/D
+2.e	E dominant/D
 =12	=12
 2.g#	.
 =13	=13
-2.f#[	F#
+[2.f#	F# major
 =14	=14
 2.f#_	.
 =15	=15
@@ -72,15 +72,15 @@
 =17	=17
 *k[]	*
 *C:	*
-4g	G
+4g	G major
 4r	.
-4g	G
+4g	G major
 =18	=18
 4r	.
-4g	G
+4g	G major
 4r	.
 =19	=19
-4g	G
+4g	G major
 2r	.
 =20	=20
 2.r	.

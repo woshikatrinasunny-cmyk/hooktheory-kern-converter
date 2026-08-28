@@ -16,96 +16,96 @@
 *F:	*
 *M3/4	*
 =1	=1
-8F	F
-8c	.
+8FL	F major
+8cJ	.
 4.f	.
 8c	.
 =2	=2
-2.g	Fadd(2,5,7)
+2.g	F other-2,5,7
 =3	=3
-2c	F
-8f	.
-8a	.
+2c	F major
+8fL	.
+8aJ	.
 =4	=4
-4g	Fadd(2,5,7)
+4g	F other-2,5,7
 2f	.
 =5	=5
-2c	F
-8f	.
-8c	.
+2c	F major
+8fL	.
+8cJ	.
 =6	=6
-2.g	Fadd(2,5,7)
+2.g	F other-2,5,7
 =7	=7
-4.c	F
+4.c	F major
 8c	.
-8f	.
-8a	.
+8fL	.
+8aJ	.
 =8	=8
-4g	Fadd(2,5,7)
+4g	F other-2,5,7
 2f	.
 =9	=9
-3...c	F
+3...c	F major
 8f	.
 =10	=10
-2.B-	Fadd(2,5,7)
+2.B-	F other-2,5,7
 =11	=11
-2.c	F
+2.c	F major
 =12	=12
-8d	B-
+8d	B- major
 4.f	.
 4f	.
 =13	=13
-2.cc	F
+2.cc	F major
 =14	=14
-8d	B-
+8d	B- major
 4.f	.
 4f	.
 =15	=15
-4g	Gm7/F
-2f	F
+4g	G minor-seventh/F
+2f	F major
 =16	=16
-8d	B-add(2,4,7)
+8d	B- other-2,4,7
 4f	.
 8f	.
 4f	.
 =17	=17
-2.cc	F
+2.cc	F major
 =18	=18
-8d	Dm
-8a	.
-4c	F/C
+8dL	D minor
+8aJ	.
+4c	F major/C
 4a	.
 =19	=19
-8d	B-add(2,4,7)
-8a	.
+8dL	B- other-2,4,7
+8aJ	.
 4b-	.
 4a	.
 =20	=20
 2.f	.
 =21	=21
-4cc	F
+4cc	F major
 4.ff	.
 8cc	.
 =22	=22
-8gg	B-
+8gg	B- major
 3...b-	.
 =23	=23
-4.r	Dadd(2,3,7)
+4.r	D other-2,3,7
 8cc	.
-8ff	.
-8aa	.
+8ffL	.
+8aaJ	.
 =24	=24
-4gg	B-
+4gg	B- major
 2ff	.
 =25	=25
-2.gg	B-add(2,4,7)
+2.gg	B- other-2,4,7
 =26	=26
-4ee[	Csus4
-2ee]	C
+[4ee	C suspended-fourth
+2ee]	C major
 =27	=27
-2.gg	B-add(2,4,7)
+2.gg	B- other-2,4,7
 =28	=28
-4ee[	Csus4
-2ee]	C
+[4ee	C suspended-fourth
+2ee]	C major
 ==	==
 *-	*-

@@ -16,84 +16,84 @@
 *E-:	*
 *M4/4	*
 =1	=1
-8g	A-maj7
-8g	.
+8gL	A- major-seventh
+8gJ	.
 4r	.
-8.r	A-maj7
-8.r	Gm7
-8r	Fm7
+8.r	A- major-seventh
+8.r	G minor-seventh
+8r	F minor-seventh
 =2	=2
 4a-	.
 4g	.
-4f	Fm7
-8.g	A-maj7
-16f[	.
+4f	F minor-seventh
+8.gL	A- major-seventh
+[16fJk	.
 =3	=3
-4f]	Gm7
+4f]	G minor-seventh
 4r	.
-8.r	Gm7
-16r	B-
-8e-	.
-8c	Cm7
+8.r	G minor-seventh
+16r	B- major
+8e-L	.
+8cJ	C minor-seventh
 =4	=4
 4a-	.
 4g	.
-4f	Cm7
-4g	B-
+4f	C minor-seventh
+4g	B- major
 =5	=5
-4c	A-maj7
+4c	A- major-seventh
 4r	.
-8r	A-maj7
-16c	.
-16c	Gm7
+8r	A- major-seventh
+16cLL	.
+16c	G minor-seventh
 16f	.
-16g	.
-8a-[	Fm7
+16gJ	.
+[8a-J	F minor-seventh
 =6	=6
 4a-]	.
 4g	.
-4f	Fm7
-8.g	A-maj7
-16f[	.
+4f	F minor-seventh
+8.gL	A- major-seventh
+[16fJk	.
 =7	=7
-4f]	Gm7
+4f]	G minor-seventh
 4r	.
-8.r	Gm7
-16r	B-
-8e-	.
-8c	Cm7
+8.r	G minor-seventh
+16r	B- major
+8e-L	.
+8cJ	C minor-seventh
 =8	=8
 4a-	.
 4g	.
-4f	Cm7
-4g	B-
+4f	C minor-seventh
+4g	B- major
 =9	=9
-4c	A-maj7
+4c	A- major-seventh
 4r	.
-8.r	A-maj7
-16r	Gm7
-8e-	.
-8c	Fm7
+8.r	A- major-seventh
+16r	G minor-seventh
+8e-L	.
+8cJ	F minor-seventh
 =10	=10
 4a-	.
 4g	.
-4f	Fm7
-4g	A-maj7
+4f	F minor-seventh
+4g	A- major-seventh
 =11	=11
-4c[	B-7sus4
-8c]	B-7sus4
-8e-[	.
-4e-]	B-7sus4
-4g[	B-7sus4
+[4c	B- dominant-seventh-suspended-fourth
+8cL]	B- dominant-seventh-suspended-fourth
+[8e-J	.
+4e-]	B- dominant-seventh-suspended-fourth
+[4g	B- dominant-seventh-suspended-fourth
 =12	=12
-16g_	B-7sus4
-8g_	B-7sus4
-16g_	B-7sus4
-8g_	B-7sus4
-16g_	B-7sus4
-8g_	B-7sus4
-16g_	B-7sus4
-8g_	B-7sus4
-4g]	B-7sus4
+16gLK_	B- dominant-seventh-suspended-fourth
+8g_	B- dominant-seventh-suspended-fourth
+16gk_	B- dominant-seventh-suspended-fourth
+8g_	B- dominant-seventh-suspended-fourth
+16gJk_	B- dominant-seventh-suspended-fourth
+8g_	B- dominant-seventh-suspended-fourth
+16gLK_	B- dominant-seventh-suspended-fourth
+8gJ_	B- dominant-seventh-suspended-fourth
+4g]	B- dominant-seventh-suspended-fourth
 ==	==
 *-	*-

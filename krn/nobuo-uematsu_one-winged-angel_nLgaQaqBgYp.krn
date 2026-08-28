@@ -16,7 +16,7 @@
 *e:	*
 *M4/4	*
 =1	=1
-4E	Eadd(5,6)
+4E	E other-5,6
 4e	.
 4E	.
 4e	.
@@ -26,38 +26,38 @@
 4E	.
 4e	.
 =3	=3
-16ee	E-add(1,3,6)
+16eeLL	E- other-1,3,6
 16b-	.
-16a	Edim
+16a	E diminished
 16b-	.
-16ee	Fdim
-16b-	Edim
-16a	E-dim
+16ee	F diminished
+16b-	E diminished
+16a	E- diminished
+16b-JJ	.
+16eeLL	E diminished
 16b-	.
-16ee	Edim
+16a	E- diminished
 16b-	.
-16a	E-dim
-16b-	.
-16ee	G-dim
-16b-	Edim
+16ee	G- diminished
+16b-	E diminished
 16a	.
-16b-	.
+16b-JJ	.
 =4	=4
-16ee	E-dim
+16eeLL	E- diminished
 16b-	.
-16a	Edim
+16a	E diminished
 16b-	.
-16ee	Fdim
-16b-	Edim
-16a	E-dim
+16ee	F diminished
+16b-	E diminished
+16a	E- diminished
+16b-JJ	.
+16eeLL	E diminished
 16b-	.
-16ee	Edim
+16a	E- diminished
 16b-	.
-16a	E-dim
-16b-	.
-16ee	G-dim
-16b-	Edim
+16ee	G- diminished
+16b-	E diminished
 16a	.
-16b-	.
+16b-JJ	.
 ==	==
 *-	*-

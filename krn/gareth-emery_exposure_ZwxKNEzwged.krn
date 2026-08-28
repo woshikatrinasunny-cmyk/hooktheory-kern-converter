@@ -16,13 +16,13 @@
 *b:	*
 *M4/4	*
 =1	=1
-4B	Bm
+4B	B minor
 8.B	.
 8B	.
-16f#	.
+16f#LK	.
 8e	.
 8d	.
-8c#	.
+8c#J	.
 =2	=2
 4B	.
 8.B	.
@@ -32,10 +32,10 @@
 4B	.
 8.B	.
 8B	.
-16f#	.
+16f#LK	.
 8e	.
 8d	.
-8c#	.
+8c#J	.
 =4	=4
 4B	.
 8.B	.
@@ -45,10 +45,10 @@
 4B	.
 8.B	.
 8B	.
-16f#	.
+16f#LK	.
 8e	.
 8d	.
-8c#	.
+8c#J	.
 =6	=6
 4B	.
 8.B	.
@@ -58,82 +58,82 @@
 4B	.
 8.B	.
 8B	.
-16f#	.
+16f#LK	.
 8e	.
 8d	.
-8c#	.
+8c#J	.
 =8	=8
-8.A	.
+8.AL	.
 8A	.
-8F#	.
+8F#J	.
 8B	.
-16B	.
+16BLL	.
 16f#	.
 16b	.
 16dd	.
-16cc#	.
-8b	.
+16cc#J	.
+8bJ	.
 =9	=9
-4B	Bm
+4B	B minor
 8.B	.
 8B	.
-16f#	.
+16f#LK	.
 8e	.
 8d	.
-8c#	.
+8c#J	.
 =10	=10
-4B	A
-8B[	.
-16B]	Em
+4B	A major
+[8BL	.
+16BJk]	E minor
 8B	.
 4..r	.
 =11	=11
-4B	G
+4B	G major
 8.B	.
 8B	.
-16f#	.
+16f#LK	.
 8e	.
 8d	.
-8c#	.
+8c#J	.
 =12	=12
-4B	A
-8B[	.
-16B]	Bm
+4B	A major
+[8BL	.
+16BJk]	B minor
 8B	.
 4..r	.
 =13	=13
-4B	Bm
+4B	B minor
 8.B	.
 8B	.
-16f#	.
+16f#LK	.
 8e	.
 8d	.
-8c#	.
+8c#J	.
 =14	=14
-4B	A
-8B[	.
-16B]	Em
+4B	A major
+[8BL	.
+16BJk]	E minor
 8B	.
 4..r	.
 =15	=15
-4B	G
+4B	G major
 8.B	.
 8B	.
-16f#	.
+16f#LK	.
 8e	.
 8d	.
-8c#	.
+8c#J	.
 =16	=16
-8.A	A
+8.AL	A major
 8A	.
-16F#[	.
-16F#]	Bm
+[16F#L	.
+16F#JJ]	B minor
 8B	.
-16B	.
+16BLL	.
 16f#	.
 16b	.
 16dd	.
-16cc#	.
-8b	.
+16cc#J	.
+8bJ	.
 ==	==
 *-	*-

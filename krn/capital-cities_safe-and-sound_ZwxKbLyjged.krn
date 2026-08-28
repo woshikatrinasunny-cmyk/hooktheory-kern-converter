@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-4ee	F
+4ee	F major
 4a	.
 16b	.
 16r	.
@@ -24,9 +24,9 @@
 16r	.
 16dd	.
 16r	.
-8ee[	.
+[8ee	.
 =2	=2
-8ee]	C
+8ee]	C major
 4g	.
 8g	.
 16b	.
@@ -35,7 +35,7 @@
 16r	.
 4dd	.
 =3	=3
-4ee	Am
+4ee	A minor
 4a	.
 16b	.
 16r	.
@@ -43,9 +43,9 @@
 16r	.
 16dd	.
 16r	.
-8ee[	.
+[8ee	.
 =4	=4
-8ee]	Em7
+8ee]	E minor-seventh
 4g	.
 8g	.
 16gg	.
@@ -54,7 +54,7 @@
 16r	.
 4ee	.
 =5	=5
-4ee	F
+4ee	F major
 4a	.
 16b	.
 16r	.
@@ -62,9 +62,9 @@
 16r	.
 16dd	.
 16r	.
-8ee[	.
+[8ee	.
 =6	=6
-8ee]	C
+8ee]	C major
 4g	.
 8g	.
 16b	.
@@ -73,7 +73,7 @@
 16r	.
 4dd	.
 =7	=7
-4ee	Am
+4ee	A minor
 4a	.
 16b	.
 16r	.
@@ -81,9 +81,9 @@
 16r	.
 16dd	.
 16r	.
-8ee[	.
+[8ee	.
 =8	=8
-8ee]	G
+8ee]	G major
 4g	.
 8g	.
 16gg	.

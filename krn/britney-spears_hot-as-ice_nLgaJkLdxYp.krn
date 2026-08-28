@@ -16,25 +16,25 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.E	Em
-8D	Em7/D
-4E	Em
-8D	Em7/D
-8C	Cmaj7
+4.E	E minor
+8D	E minor-seventh/D
+4E	E minor
+8DL	E minor-seventh/D
+8CJ	C major-seventh
 =2	=2
-4AA	A7sus2
-4BB	Em/B
-4.C	Cmaj7
-8BB	Em/B
+4AA	A dominant-seventh-suspended-second
+4BB	E minor/B
+4.C	C major-seventh
+8BB	E minor/B
 =3	=3
-4.C	Cmaj7
-8BB	Em/B
-4C	Cmaj7
-8BB	Em/B
-8AA	A7sus2
+4.C	C major-seventh
+8BB	E minor/B
+4C	C major-seventh
+8BBL	E minor/B
+8AAJ	A dominant-seventh-suspended-second
 =4	=4
-4D	D
-4D#	B/D#
-2E	Em
+4D	D major
+4D#	B major/D#
+2E	E minor
 ==	==
 *-	*-

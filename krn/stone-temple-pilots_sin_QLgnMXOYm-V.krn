@@ -16,61 +16,61 @@
 *G:	*
 *M4/4	*
 =1	=1
-4g	G
-8g	.
-8g	Am11
+4g	G major
+8gL	.
+8gJ	A minor-11th
 4.f	.
 8d	.
 =2	=2
-4d	Dadd(2,3,7)/F
-8f	.
-16d	G
+4d	D other-2,3,7/F
+8fL	.
+16dJk	G major
 8.c#	.
 8d	.
-4c	Am11
+4c	A minor-11th
 =3	=3
-8r	G
+8r	G major
+8gL	.
 8g	.
-8g	.
-8g	Am11
+8gJ	A minor-11th
 4.f	.
 8d	.
 =4	=4
-8d	Dadd(2,3,7)/F
+8dL	D other-2,3,7/F
 8d	.
 8f	.
-16d	G
+16dJk	G major
 8.c#	.
 8d	.
-4c#	Am11
+4c#	A minor-11th
 =5	=5
-16f	G
+16fLK	G major
 8.g	.
 8g	.
-8g	Am11
+8gJ	A minor-11th
 4.f	.
 8d	.
 =6	=6
-4d	Dadd(2,3,7)/F
-8f	.
-16d	G
+4d	D other-2,3,7/F
+8fL	.
+16dJk	G major
 8.c#	.
 8d	.
-4c	Am11
+4c	A minor-11th
 =7	=7
-8r	G
+8r	G major
+8gL	.
 8g	.
-8g	.
-8g	Am11
+8gJ	A minor-11th
 4.f	.
 8d	.
 =8	=8
-8g	Dadd(2,3,7)/F
+8gL	D other-2,3,7/F
 8f	.
-8d	.
-4c#	G
+8dJ	.
+4c#	G major
 4B	.
-16g	.
-16f#	.
+16gLL	.
+16f#JJ	.
 ==	==
 *-	*-

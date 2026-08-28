@@ -16,60 +16,60 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
-4gg	C/E
-8ff	F
-8dd#[	.
-8dd#]	F#dim
-8ee[	.
+4r	C major
+4gg	C major/E
+8ffL	F major
+[8dd#	.
+8dd#]	F# diminished
+[8eeJ	.
 =2	=2
-8ee]	C/G
-8a[	.
-8a]	G#dim
-8cc[	.
-8cc]	Am7
-8cc	.
-4dd	G#dim
+8eeL]	C major/G
+[8a	.
+8a]	G# diminished
+[8ccJ	.
+8ccL]	A minor-seventh
+8ccJ	.
+4dd	G# diminished
 =3	=3
-4r	C
-4gg	Em
-8ff	F
-8dd#[	.
-8dd#]	F#dim
-8ee[	.
+4r	C major
+4gg	E minor
+8ffL	F major
+[8dd#	.
+8dd#]	F# diminished
+[8eeJ	.
 =4	=4
-8ee]	C/G
-8ccc[	.
-4ccc]	F
-8ccc	C/E
-8ccc[	.
-8ccc]	Dm11
-8ccc	.
+8eeL]	C major/G
+[8cccJ	.
+4ccc]	F major
+8cccL	C major/E
+[8ccc	.
+8ccc]	D minor-11th
+8cccJ	.
 =5	=5
-4r	C
-4gg	C/E
-8ff	F
-8dd#[	.
-8dd#]	F#dim
-8ee[	.
+4r	C major
+4gg	C major/E
+8ffL	F major
+[8dd#	.
+8dd#]	F# diminished
+[8eeJ	.
 =6	=6
-8ee]	C/G
-8a[	.
-8a]	G#dim
-8cc[	.
-8cc]	Am7
-8cc	.
-4dd	Cm7/A#
+8eeL]	C major/G
+[8a	.
+8a]	G# diminished
+[8ccJ	.
+8ccL]	A minor-seventh
+8ccJ	.
+4dd	C minor-seventh/A#
 =7	=7
-4r	D
+4r	D major
 4dd#	.
-8r	G
+8r	G major
 4dd	.
 8r	.
 =8	=8
-4cc[	C
-4cc]	Am7
-4r	C7/A#
-4r	Cmaj7/B
+[4cc	C major
+4cc]	A minor-seventh
+4r	C dominant/A#
+4r	C major-seventh/B
 ==	==
 *-	*-

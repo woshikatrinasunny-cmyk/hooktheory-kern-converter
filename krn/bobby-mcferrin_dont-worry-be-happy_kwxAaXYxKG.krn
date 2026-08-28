@@ -16,42 +16,42 @@
 *B:	*
 *M4/4	*
 =1	=1
-2bb	B
+2bb	B major
 4gg#	.
 4ff#	.
 =2	=2
-8gg#	.
-8cc#	.
+8gg#L	.
+8cc#J	.
 4dd#	.
-8ff#	.
+8ff#L	.
 8dd#	.
 8cc#	.
-8b	.
+8bJ	.
 =3	=3
-8cc#	C#m
-8dd#	.
+8cc#L	C# minor
+8dd#J	.
 2.cc#	.
 =4	=4
 2r	.
-8ff#	.
+8ff#L	.
 8dd#	.
 8cc#	.
-8b	.
+8bJ	.
 =5	=5
-8cc#	E
-8dd#	.
+8cc#L	E major
+8dd#J	.
 2.cc#	.
 =6	=6
 2r	.
-8dd#	.
+8dd#L	.
 8cc#	.
 8b	.
-8g#	.
+8g#J	.
 =7	=7
-2b[	B
-2b]	Bsus4
+[2b	B major
+2b]	B suspended-fourth
 =8	=8
-2r	B
-2r	Bsus4
+2r	B major
+2r	B suspended-fourth
 ==	==
 *-	*-

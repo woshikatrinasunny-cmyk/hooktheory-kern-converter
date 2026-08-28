@@ -18,61 +18,61 @@
 =1	=1
 3...r	.
 16r	.
-8.c	.
-8d	.
+8.cL	.
+8dJ	.
 =2	=2
-4f	Fmaj7
+4f	F major-seventh
 8f	.
-4cc	Am
+4cc	A minor
 4.r	.
 =3	=3
-8r	B-
-8.dd	.
+8r	B- major
+8.ddL	.
 8dd	.
-16dd[	.
-16dd]	Am
+[16ddJk	.
+16dd]	A minor
 6...cc	.
 8r	.
 =4	=4
-8r	Gm7
+8r	G minor-seventh
+8b-L	.
+16b-k	.
 8b-	.
-16b-	.
-8b-	.
-16a[	.
-4a]	Fmaj7
+[16aJk	.
+4a]	F major-seventh
 4r	.
 =5	=5
-8r	A7
-8g	.
+8r	A dominant
+8gL	.
+16gL	.
 16g	.
 16g	.
-16g	.
-16f[	.
-4f]	Dm
+[16fJJ	.
+4f]	D minor
 16r	.
+16fLL	.
 16f	.
-16f	.
-16f[	.
+[16fJJ	.
 =6	=6
-16f]	D-
+16fLK]	D- major
 8f	.
-8f	.
+8fJ	.
 4..f	.
 4r	.
 =7	=7
-4.r	Gm7
-16f	.
-16f	.
-8e	C7
-16f	.
+4.r	G minor-seventh
+16fLL	.
+16fJJ	.
+8eL	C dominant
+16fk	.
 8.g	.
-8a[	.
+[8aJ	.
 =8	=8
-4a]	F
+4a]	F major
 4r	.
-2r	Fadd(4,6,8,10)/B
+2r	F other-4,6,8,10/B
 =9	=9
-2r	B-maj7
-2r	C7
+2r	B- major-seventh
+2r	C dominant
 ==	==
 *-	*-

@@ -16,116 +16,116 @@
 *g:	*
 *M4/4	*
 =1	=1
-4dd[	Gm
-4dd_	Gm
-4dd]	Gm
-8cc	Gm
-8b-[	.
+[4dd	G minor
+4dd_	G minor
+4dd]	G minor
+8ccL	G minor
+[8b-J	.
 =2	=2
-4b-_	Gm
-4b-_	Gm
-4b-_	Gm
-8b-]	Gm
-16b-	.
-16cc	.
+4b-_	G minor
+4b-_	G minor
+4b-_	G minor
+8b-L]	G minor
+16b-L	.
+16ccJJ	.
 =3	=3
-4dd	B-
-8cc	B-
-8b-[	.
-4b-]	B-
-8dd	B-
-8cc[	.
+4dd	B- major
+8ccL	B- major
+[8b-J	.
+4b-]	B- major
+8ddL	B- major
+[8ccJ	.
 =4	=4
-4cc_	Dm/A
-8cc]	Dm/A
-16b-	.
-16cc	.
-8.dd	Dm/A
-16cc[	.
-8cc]	Dm/A
-8b-	.
+4cc_	D minor/A
+8ccL]	D minor/A
+16b-L	.
+16ccJJ	.
+8.ddL	D minor/A
+[16cck	.
+8cc]	D minor/A
+8b-J	.
 =5	=5
-4b-[	Gm
-4b-_	Gm
-4b-]	Gm
-8a	Gm
-8g[	.
+[4b-	G minor
+4b-_	G minor
+4b-]	G minor
+8aL	G minor
+[8gJ	.
 =6	=6
-4g_	Gm
-4g_	Gm
-4g_	Gm
-8g]	Gm
-16b-	.
-16cc	.
+4g_	G minor
+4g_	G minor
+4g_	G minor
+8gL]	G minor
+16b-L	.
+16ccJJ	.
 =7	=7
-4dd	B-
-8cc	B-
-8b-[	.
-4b-]	B-
-8dd	B-
-8cc[	.
+4dd	B- major
+8ccL	B- major
+[8b-J	.
+4b-]	B- major
+8ddL	B- major
+[8ccJ	.
 =8	=8
-4cc_	F
-8cc]	F
-16b-	.
-16cc	.
-8.dd	F
-16cc[	.
-8cc]	F
-8b-	.
+4cc_	F major
+8ccL]	F major
+16b-L	.
+16ccJJ	.
+8.ddL	F major
+[16cck	.
+8cc]	F major
+8b-J	.
 =9	=9
-4b-[	Gm
-4b-_	Gm
-4b-]	Gm
-8a	Gm
-8g[	.
+[4b-	G minor
+4b-_	G minor
+4b-]	G minor
+8aL	G minor
+[8gJ	.
 =10	=10
-4g_	Gm
-4g_	Gm
-4g_	Gm
-8g]	Gm
-16b-	.
-16cc	.
+4g_	G minor
+4g_	G minor
+4g_	G minor
+8gL]	G minor
+16b-L	.
+16ccJJ	.
 =11	=11
-4dd	B-
-8cc	B-
-8b-[	.
-4b-]	B-
-8dd	B-
-8cc[	.
+4dd	B- major
+8ccL	B- major
+[8b-J	.
+4b-]	B- major
+8ddL	B- major
+[8ccJ	.
 =12	=12
-4cc_	Dm/A
-8cc]	Dm/A
-16b-	.
-16cc	.
-8.dd	Dm/A
-16cc[	.
-8cc]	Dm/A
-8b-	.
+4cc_	D minor/A
+8ccL]	D minor/A
+16b-L	.
+16ccJJ	.
+8.ddL	D minor/A
+[16cck	.
+8cc]	D minor/A
+8b-J	.
 =13	=13
-4b-[	Gm
-4b-_	Gm
-4b-]	Gm
-8a	Gm
-8g[	.
+[4b-	G minor
+4b-_	G minor
+4b-]	G minor
+8aL	G minor
+[8gJ	.
 =14	=14
-4g_	Gm
-4g_	Gm
-4g_	Gm
-8g]	Gm
-16b-	.
-16cc	.
+4g_	G minor
+4g_	G minor
+4g_	G minor
+8gL]	G minor
+16b-L	.
+16ccJJ	.
 =15	=15
-4dd	B-
-8cc	B-
-8b-[	.
-4b-]	B-
-8dd	B-
-8cc[	.
+4dd	B- major
+8ccL	B- major
+[8b-J	.
+4b-]	B- major
+8ddL	B- major
+[8ccJ	.
 =16	=16
-4cc_	F
-4cc_	F
-4cc_	F
-4cc]	F
+4cc_	F major
+4cc_	F major
+4cc_	F major
+4cc]	F major
 ==	==
 *-	*-

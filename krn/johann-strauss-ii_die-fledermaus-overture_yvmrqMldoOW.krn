@@ -16,85 +16,85 @@
 *A:	*
 *M4/4	*
 =1	=1
-4ee	A
-4ffn	Aaug
-4.ff#	F#m/A
+4ee	A major
+4ffn	A augmented
+4.ff#	F# minor/A
 8a	.
 =2	=2
-8a	.
+8aL	.
 8g#	.
 8f#	.
-8g#	.
-8a	.
+8g#J	.
+8aL	.
 8b	.
 8cc#	.
-8dd	.
+8ddJ	.
 =3	=3
-4ee	A
-4ffn	Aaug
-4.ff#	F#m/A
+4ee	A major
+4ffn	A augmented
+4.ff#	F# minor/A
 8a	.
 =4	=4
-8a	.
+8aL	.
 8g#	.
 8f#	.
-8g#	.
-8a	.
+8g#J	.
+8aL	.
 8b	.
 8cc#	.
-8dd	.
+8ddJ	.
 =5	=5
 4ee	.
-4ggn	G
-4.ee	C
+4ggn	G major
+4.ee	C major
 8dd	.
 =6	=6
-8ccn	.
+8ccnL	.
 8gn	.
 8e	.
-8d	.
-8e	.
+8dJ	.
+8eL	.
 8gn	.
 8ccn	.
-8dd	.
+8ddJ	.
 =7	=7
 4ee	.
-4ggn	G
-4ee	C
-16ee	E
-16ee	.
-8ee	.
+4ggn	G major
+4ee	C major
+16eeLL	E major
+16eeJ	.
+8eeJ	.
 =8	=8
-4ee	Am
-16ee	E
-16ee	.
-8ee	.
-4ee	Am
-16cn	C
-16cn	.
-8cn	.
+4ee	A minor
+16eeLL	E major
+16eeJ	.
+8eeJ	.
+4ee	A minor
+16cnLL	C major
+16cnJ	.
+8cnJ	.
 =9	=9
-4fn	F
-16cn	C
-16cn	.
-8cn	.
-4fn	F
-16b	B
-16b	.
-8b	.
+4fn	F major
+16cnLL	C major
+16cnJ	.
+8cnJ	.
+4fn	F major
+16bLL	B major
+16bJ	.
+8bJ	.
 =10	=10
-4ee	E
-16b	B
-16b	.
-8b	.
-4ee	E
-16b	B
-16b	.
-8b	.
+4ee	E major
+16bLL	B major
+16bJ	.
+8bJ	.
+4ee	E major
+16bLL	B major
+16bJ	.
+8bJ	.
 =11	=11
-2ee	E
-2b	B
+2ee	E major
+2b	B major
 =12	=12
-1e	E
+1e	E major
 ==	==
 *-	*-

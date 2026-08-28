@@ -16,18 +16,18 @@
 *e:	*
 *M4/4	*
 =1	=1
-2r	Em
+2r	E minor
 8B	.
 4e	.
-8f#[	Dadd(2,4,7)
+[8f#	D other-2,4,7
 =2	=2
 2f#]	.
 2r	.
 =3	=3
-2r	C
+2r	C major
 8B	.
 4e	.
-8f#[	.
+[8f#	.
 =4	=4
 8f#]	.
 4g	.
@@ -35,14 +35,14 @@
 8g	.
 4a	.
 =5	=5
-2b	Em
+2b	E minor
 4.r	.
-8a[	Dadd(2,4,7)
+[8a	D other-2,4,7
 =6	=6
 2a]	.
 2r	.
 =7	=7
-8g	C
+8g	C major
 4.e	.
 2r	.
 =8	=8
@@ -51,40 +51,40 @@
 4f#	.
 4d	.
 =9	=9
-2r	Em
+2r	E minor
 8B	.
 4e	.
-8f#[	Dadd(2,4,7)
+[8f#	D other-2,4,7
 =10	=10
 2f#]	.
 2r	.
 =11	=11
-2r	C
+2r	C major
 8B	.
 4e	.
-8f#[	.
+[8f#	.
 =12	=12
 8f#]	.
 4g	.
 4a	.
-8g	.
+8gL	.
 8a	.
-8g	.
+8gJ	.
 =13	=13
-2b	Em
+2b	E minor
 4.r	.
-8a[	Dadd(2,4,7)
+[8a	D other-2,4,7
 =14	=14
 2a]	.
 2r	.
 =15	=15
-2g	C
+2g	C major
 2r	.
 =16	=16
 2r	.
-8g	Am7
+8gL	A minor-seventh
 8g	.
-8a	Bm7
-8g	.
+8a	B minor-seventh
+8gJ	.
 ==	==
 *-	*-

@@ -17,95 +17,95 @@
 *M4/4	*
 =1	=1
 2.r	.
-8f#	.
-8cc#	.
+8f#L	.
+8cc#J	.
 =2	=2
-4ff#	D
+4ff#	D major
 4cc#	.
-4gg#	E
-8ff#	.
-8gg#	.
+4gg#	E major
+8ff#L	.
+8gg#J	.
 =3	=3
-8.aa	F#m
+8.aaL	F# minor
 8.bb	.
-8aa	.
-8.gg#	E
+8aaJ	.
+8.gg#L	E major
 8.ff#	.
-8ee	.
+8eeJ	.
 =4	=4
-4ff#	D
+4ff#	D major
 4cc#	.
-8b	E
-8a	.
+8bL	E major
+8aJ	.
 4g#	.
 =5	=5
-2a	F#m
-2cc#	Fdim/B
+2a	F# minor
+2cc#	F diminished/B
 =6	=6
-4ff#	D
+4ff#	D major
 4cc#	.
-4gg#	E
-8ff#	.
-8gg#	.
+4gg#	E major
+8ff#L	.
+8gg#J	.
 =7	=7
-8.aa	F#m
+8.aaL	F# minor
 8.bb	.
-8aa	.
-8.gg#	E
+8aaJ	.
+8.gg#L	E major
 8.ff#	.
-8ee	.
+8eeJ	.
 =8	=8
-8.ff#	D
+8.ff#L	D major
 8.cc#	.
-8b	.
-8.a	Fdim/B
+8bJ	.
+8.aL	F diminished/B
 8.b	.
-8ffn	.
+8ffnJ	.
 =9	=9
-1ff#	F#m/A
+1ff#	F# minor/A
 =10	=10
-4ff#	D/F#
+4ff#	D major/F#
 4cc#	.
-4gg#	E/G#
-8ff#	.
-8gg#	.
+4gg#	E major/G#
+8ff#L	.
+8gg#J	.
 =11	=11
-8.aa	F#m/A
+8.aaL	F# minor/A
 8.bb	.
-8aa	.
-8.gg#	E/G#
+8aaJ	.
+8.gg#L	E major/G#
 8.ff#	.
-8ee	.
+8eeJ	.
 =12	=12
-4ff#	D/F#
+4ff#	D major/F#
 4cc#	.
-8b	E
-8a	.
+8bL	E major
+8aJ	.
 4g#	.
 =13	=13
-2a	F#m/A
-2cc#	Fdim
+2a	F# minor/A
+2cc#	F diminished
 =14	=14
-4ff#	D/F#
+4ff#	D major/F#
 4cc#	.
-4gg#	E/G#
-8ff#	.
-8gg#	.
+4gg#	E major/G#
+8ff#L	.
+8gg#J	.
 =15	=15
-8.aa	F#m/A
+8.aaL	F# minor/A
 8.bb	.
-8aa	.
-8.gg#	E/G#
+8aaJ	.
+8.gg#L	E major/G#
 8.ff#	.
-8ee	.
+8eeJ	.
 =16	=16
-8.ff#	D/F#
+8.ff#L	D major/F#
 8.cc#	.
-8b	.
-8.a	Fdim
+8bJ	.
+8.aL	F diminished
 8.b	.
-8ffn	.
+8ffnJ	.
 =17	=17
-1ff#	F#m/C#
+1ff#	F# minor/C#
 ==	==
 *-	*-

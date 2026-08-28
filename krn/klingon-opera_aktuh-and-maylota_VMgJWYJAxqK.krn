@@ -17,60 +17,60 @@
 *M4/4	*
 =1	=1
 2r	.
-4r	C#add(2,5,7)
-4r	C#add(2,5,7)
+4r	C# other-2,5,7
+4r	C# other-2,5,7
 =2	=2
-4r	C#add(2,5,7)
-4g#	C#add(2,5,7)
-4cc#[	C#add(2,5,7)
-4cc#_	C#add(2,5,7)
+4r	C# other-2,5,7
+4g#	C# other-2,5,7
+[4cc#	C# other-2,5,7
+4cc#_	C# other-2,5,7
 =3	=3
-8cc#]	C#add(2,5,7)
-8c#	.
-4c#	C#add(2,5,7)
-4c#[	C#add(2,5,7)
-4c#]	C#add(2,5,7)
+8cc#L]	C# other-2,5,7
+8c#J	.
+4c#	C# other-2,5,7
+[4c#	C# other-2,5,7
+4c#]	C# other-2,5,7
 =4	=4
-4r	C#add(2,5,7)
-4b	C#add(2,5,7)
-4cc#[	C#add(2,5,7)
-4cc#_	C#add(2,5,7)
+4r	C# other-2,5,7
+4b	C# other-2,5,7
+[4cc#	C# other-2,5,7
+4cc#_	C# other-2,5,7
 =5	=5
-4cc#_	C#add(2,5,7)
-8cc#]	C#add(2,5,7)
-8c#	.
-4c#	C#add(2,5,7)
-4c#[	C#add(2,5,7)
+4cc#_	C# other-2,5,7
+8cc#L]	C# other-2,5,7
+8c#J	.
+4c#	C# other-2,5,7
+[4c#	C# other-2,5,7
 =6	=6
-4c#]	C#add(2,5,7)
-8r	A#/D
+4c#]	C# other-2,5,7
+8r	A# major/D
 8a#	.
-4a#[	A#/D
-8a#]	C#add(2,5,7)
-8a	.
+[4a#	A# major/D
+8a#L]	C# other-2,5,7
+8aJ	.
 =7	=7
-8g#	C#add(2,5,7)
-8gn	.
-4a#	D#sus2
-4b	Gmaj7
-8ccn	Gmaj7
-8b	.
+8g#L	C# other-2,5,7
+8gnJ	.
+4a#	D# suspended-second
+4b	G major-seventh
+8ccnL	G major-seventh
+8bJ	.
 =8	=8
-8a#	Gdim
+8a#	G diminished
 8r	.
-8a#	D#7/G
-8dd#[	.
-4dd#_	D#7/G
-4dd#_	D#7/G
+8a#L	D# dominant/G
+[8dd#J	.
+4dd#_	D# dominant/G
+4dd#_	D# dominant/G
 =9	=9
-4dd#_	D#7/G
-8dd#]	D#7/G
-8a#[	.
-4a#]	D#7/G
-4dd#[	D#7/G
+4dd#_	D# dominant/G
+8dd#L]	D# dominant/G
+[8a#J	.
+4a#]	D# dominant/G
+[4dd#	D# dominant/G
 =10	=10
-4dd#]	D#7/G
-4r	D#7/G
-4r	D#7/G
+4dd#]	D# dominant/G
+4r	D# dominant/G
+4r	D# dominant/G
 ==	==
 *-	*-

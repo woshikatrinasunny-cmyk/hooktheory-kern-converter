@@ -18,337 +18,337 @@
 =1	=1
 2r	.
 16r	.
-16AA	.
+16AALL	.
 16BB	.
 16C	.
 16D	.
 16E	.
 16F#	.
-16G	.
+16GJJ	.
 =2	=2
-16A	D7/A
+16ALL	D dominant/A
 16F#	.
 16D	.
 16E	.
 16F#	.
 16G	.
 16A	.
-16B	.
-16c	D7/C
+16BJJ	.
+16cLL	D dominant/C
 16A	.
 16F#	.
 16G	.
 16A	.
 16B	.
 16c	.
-16d	.
+16dJJ	.
 =3	=3
-16d#	Dadd(1,4,7,10)
+16d#LL	D other-1,4,7,10
 16d	.
 16c#	.
 16d	.
 16d	.
 16c	.
 16B	.
-16c	.
-16c	.
+16cJJ	.
+16cLL	.
 16A	.
 16F#	.
 16E	.
 16D	.
 16AA	.
 16BB	.
-16C	.
+16CJJ	.
 =4	=4
-16DD	D7
+16DDLL	D dominant
 16AA	.
 16D	.
 16F#	.
 16A	.
 16B	.
 16c	.
-16A	.
-16B	G/B
+16AJJ	.
+16BLL	G major/B
 16G	.
 16D	.
 16C	.
 16BB	.
 16GG	.
 16AA	.
-16BB	.
+16BBJJ	.
 =5	=5
-16DD	G/D
+16DDLL	G major/D
 16GG	.
 16BB	.
 16D	.
 16G	.
 16A	.
 16B	.
-16G	.
-16c#	A#m7/G#
+16GJJ	.
+16c#LL	A# minor-seventh/G#
 16A#	.
 16A	.
 16A#	.
 16A#	.
 16A	.
 16G#	.
-16A	.
+16AJJ	.
 =6	=6
-16A	A7
+16ALL	A dominant
 16G	.
 16F#	.
 16G	.
 16G	.
 16E	.
 16C#	.
-16BB	.
-16AA	.
+16BBJJ	.
+16AALL	.
 16C#	.
 16E	.
 16G	.
 16A	.
 16c#	.
 16d	.
-16c#	.
+16c#JJ	.
 =7	=7
-16d	D
+16dLL	D major
 16A	.
 16F#	.
 16E	.
 16F#	.
 16A	.
 16D	.
-16F#	.
-16AA	A7
+16F#JJ	.
+16AALL	A dominant
 16D	.
 16C#	.
 16BB	.
 16AA	.
 16GG	.
 16FF#	.
-16EE	.
+16EEJJ	.
 =8	=8
-8DD	D7
+8DDL	D dominant
+16cL	.
+16B	.
+16A	.
+16G	.
+16F#	.
+16EJJ	.
+16DLL	.
 16c	.
 16B	.
 16A	.
 16G	.
 16F#	.
 16E	.
-16D	.
-16c	.
-16B	.
-16A	.
-16G	.
-16F#	.
-16E	.
-16D	.
+16DJJ	.
 =9	=9
-16C	D7/C
+16CLL	D dominant/C
 16B	.
 16A	.
 16G	.
 16F#	.
 16E	.
 16D	.
-16C	.
-16BB	Em/B
+16CJJ	.
+16BBLL	E minor/B
 16A	.
 16G	.
 16F#	.
 16E	.
 16D	.
 16C	.
-16BB	.
+16BBJJ	.
 =10	=10
-16AA	D/A
+16AALL	D major/A
 16G	.
 16F#	.
 16E	.
 16F#	.
 16A	.
 16D	.
+16AJJ	.
+16ELL	D suspended-second
 16A	.
-16E	Dsus2
+16F#	D major
 16A	.
-16F#	D
+16G	D suspended-fourth
 16A	.
-16G	Dsus4
-16A	.
-16E	Dsus2
-16A	.
+16E	D suspended-second
+16AJJ	.
 =11	=11
-16F#	D
+16F#LL	D major
 16A	.
 16D	.
 16A	.
-16G	Dsus4
+16G	D suspended-fourth
 16A	.
-16E	Dsus2
-16A	.
-16F#	D
+16E	D suspended-second
+16AJJ	.
+16F#LL	D major
 16A	.
 16D	.
 16A	.
-16G	Dsus4
+16G	D suspended-fourth
 16A	.
-16E	Dsus2
-16A	.
+16E	D suspended-second
+16AJJ	.
 =12	=12
-16F#	D
+16F#LL	D major
 16A	.
 16D	.
 16A	.
-16E	Dsus2
+16E	D suspended-second
 16A	.
-16F#	D
+16F#	D major
+16AJJ	.
+16GLL	D suspended-fourth
 16A	.
-16G	Dsus4
 16A	.
 16A	.
-16A	.
-16B	Bm7/D
+16B	B minor-seventh/D
 16A	.
 16D	.
-16A	.
+16AJJ	.
 =13	=13
-16A	.
+16ALL	.
 16A	.
 16B	.
 16A	.
-16c	D7
+16c	D dominant
 16A	.
 16D	.
+16AJJ	.
+16BLL	B minor-seventh/D
 16A	.
-16B	Bm7/D
+16c	D dominant
 16A	.
-16c	D7
+16d	D major
 16A	.
-16d	D
-16A	.
-16B	Bm7/D
-16A	.
+16B	B minor-seventh/D
+16AJJ	.
 =14	=14
-16c	D7
+16cLL	D dominant
 16A	.
-16B	Bm7/D
+16B	B minor-seventh/D
 16A	.
-16c	D7
+16c	D dominant
 16A	.
-16A	D
-16A	.
-16B	Bm7/D
+16A	D major
+16AJJ	.
+16BLL	B minor-seventh/D
 16A	.
 16A	.
 16A	.
 16B	.
 16A	.
-16G	Dsus4
-16A	.
+16G	D suspended-fourth
+16AJJ	.
 =15	=15
-16A	.
+16ALL	.
 16A	.
 16G	.
 16A	.
 16A	.
 16A	.
-16F#	D
+16F#	D major
+16AJJ	.
+16GLL	D suspended-fourth
 16A	.
-16G	Dsus4
+16F#	D major
 16A	.
-16F#	D
+16G	D suspended-fourth
 16A	.
-16G	Dsus4
-16A	.
-16E	Dsus2
-16A	.
+16E	D suspended-second
+16AJJ	.
 =16	=16
-16F#	D
+16F#LL	D major
 16A	.
 16D	.
 16E	.
-16Fn	Dm
+16Fn	D minor
 16D	.
-16F#	D
+16F#	D major
+16DJJ	.
+16GLL	D suspended-fourth
 16D	.
-16G	Dsus4
+16G#	D other-6,7
 16D	.
-16G#	Dadd(6,7)
+16A	D major
 16D	.
-16A	D
-16D	.
-16A#	A#/D
-16D	.
+16A#	A# major/D
+16DJJ	.
 =17	=17
-16B	Bm7/D
+16BLL	B minor-seventh/D
 16D	.
-16c	D7
+16c	D dominant
 16D	.
-16c#	Dmaj7
+16c#	D major-seventh
 16D	.
-16d	D
+16d	D major
+16DJJ	.
+16d#LL	D# major-seventh/D
 16D	.
-16d#	D#maj7/D
+16e	E minor-seventh/D
 16D	.
-16e	Em7/D
+16fn	D minor
 16D	.
-16fn	Dm
-16D	.
-16f#	D
-16D	.
+16f#	D major
+16DJJ	.
 =18	=18
-16g	G/D
+16gLL	G major/D
 16B	.
 16D	.
 16B	.
 16g	.
 16B	.
 16g	.
-16B	.
-16g	.
+16BJJ	.
+16gLL	.
 16B	.
 16D	.
 16B	.
 16g	.
 16B	.
 16g	.
-16B	.
+16BJJ	.
 =19	=19
-16g	Dsus4
+16gLL	D suspended-fourth
 16A	.
 16D	.
 16A	.
 16g	.
 16A	.
 16g	.
-16A	.
-16g	.
+16AJJ	.
+16gLL	.
 16A	.
 16D	.
 16A	.
 16g	.
 16A	.
 16g	.
-16A	.
+16AJJ	.
 =20	=20
-16f#	D7
+16f#LL	D dominant
 16c	.
 16D	.
 16c	.
 16f#	.
 16c	.
 16f#	.
-16c	.
-16f#	.
+16cJJ	.
+16f#LL	.
 16c	.
 16D	.
 16c	.
 16f#	.
 16c	.
 16f#	.
-16c	.
+16cJJ	.
 =21	=21
-4GG	G
+4GG	G major
 2.g	.
 ==	==
 *-	*-

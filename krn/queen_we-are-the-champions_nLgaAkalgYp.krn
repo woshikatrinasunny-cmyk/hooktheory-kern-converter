@@ -16,69 +16,69 @@
 *F:	*
 *M6/4	*
 =1	=1
-1f	F
+1f	F major
 4e	.
 4f	.
 =2	=2
-2e	Am
+2e	A minor
 2.c	.
 4A	.
 =3	=3
-2d	Dm
+2d	D minor
 1A	.
 =4	=4
-2.r	B-
-2r	C
+2.r	B- major
+2r	C major
 4c	.
 =5	=5
-1f	F
+1f	F major
 4g	.
 4a	.
 =6	=6
-2cc	Am
+2cc	A minor
 2.a	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 =7	=7
-2.d	B-
+2.d	B- major
 4r	.
-4r	B-maj7/A
-4r	Gm7
+4r	B- major-seventh/A
+4r	G minor-seventh
 =8	=8
-2.r	G-dim
-2.r	G-dim
+2.r	G- diminished
+2.r	G- diminished
 =9	=9
-2.d	Gm7
+2.d	G minor-seventh
 2c	.
 4d	.
 =10	=10
-2.c	C7/G
+2.c	C dominant/G
 2.B-	.
 =11	=11
-2.b-	B-add(3,7,9)
+2.b-	B- other-3,7,9
 2a	.
-4b-	B-m/D-
+4b-	B- minor/D-
 =12	=12
-2.a	Edim7
-2.g	Edim7/G
+2.a	E diminished-seventh
+2.g	E diminished-seventh/G
 =13	=13
-2.a	F
+2.a	F major
 2f	.
 4b-	.
 =14	=14
-2.a	E-add(2,4,7)/G
+2.a	E- other-2,4,7/G
 2f	.
 4b-	.
 =15	=15
-2.a-	A-add(4,7,9)
+2.a-	A- other-4,7,9
 2f	.
 4b-	.
 =16	=16
-2.a-	B-7
+2.a-	B- dominant
 2.f	.
 =17	=17
-4r	C7sus4
-3...r	C7sus4
+4r	C dominant-seventh-suspended-fourth
+3...r	C dominant-seventh-suspended-fourth
 4e-	.
 8c	.
 4f	.

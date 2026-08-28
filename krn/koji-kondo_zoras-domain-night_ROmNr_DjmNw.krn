@@ -16,28 +16,28 @@
 *D:	*
 *M4/4	*
 =1	=1
-1e[	F#m7
+[1e	F# minor-seventh
 =2	=2
 1e]	.
 =3	=3
-1d#[	Fm7b5
+[1d#	F half-diminished
 =4	=4
 1d#]	.
 =5	=5
-1d[	Em7
+[1d	E minor-seventh
 =6	=6
 1d]	.
 =7	=7
-1c#[	A7
+[1c#	A dominant
 =8	=8
 1c#]	.
 =9	=9
-1fn[	Gm9
+[1fn	G minor-ninth
 =10	=10
 2fn]	.
 2aa#	.
 =11	=11
-1ee	F#m7b5
+1ee	F# half-diminished
 =12	=12
 4.aa	.
 4.cccn	.
@@ -45,7 +45,7 @@
 =13	=13
 *k[b-e-a-]	*
 *E-:	*
-6ggg	Fm9
+6ggg	F minor-ninth
 6aaa-	.
 6bbb-	.
 6ggg	.
@@ -59,13 +59,13 @@
 6ee-	.
 6cc	.
 =15	=15
-6g	B-add(2,5,7,9,10)
+6g	B- other-2,5,7,9,10
 6a-	.
 6b-	.
 6g	.
 6e-	.
 6c	.
 =16	=16
-1d	B-add(1,4,7,10)
+1d	B- other-1,4,7,10
 ==	==
 *-	*-

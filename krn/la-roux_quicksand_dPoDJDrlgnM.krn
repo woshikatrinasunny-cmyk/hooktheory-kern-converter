@@ -16,147 +16,147 @@
 *b-:	*
 *M4/4	*
 =1	=1
-1r	B-m
+1r	B- minor
 =2	=2
 1r	.
 =3	=3
-1r	A-
+1r	A- major
 =4	=4
 1r	.
 =5	=5
-1r	B-m
+1r	B- minor
 =6	=6
 1r	.
 =7	=7
-1r	A-
+1r	A- major
 =8	=8
 1r	.
 =9	=9
-1r	B-m
+1r	B- minor
 =10	=10
-1r	A-
+1r	A- major
 =11	=11
-1r	D-
+1r	D- major
 =12	=12
-1r	B-m
+1r	B- minor
 =13	=13
-1r	B-m
+1r	B- minor
 =14	=14
-1r	A-
+1r	A- major
 =15	=15
-1r	D-
+1r	D- major
 =16	=16
-1r	B-m
+1r	B- minor
 =17	=17
-4.r	B-m
-4r	B-m
-4r	B-m
-8r	B-m
+4.r	B- minor
+4r	B- minor
+4r	B- minor
+8r	B- minor
 =18	=18
-8b-	B-m
+8b-	B- minor
 8r	.
-8b-	.
-8bb-	B-m
+8b-L	.
+8bb-J	B- minor
 8r	.
-8b-	B-m
+8b-L	B- minor
 8bb-	.
-8ddd-	B-m
+8ddd-J	B- minor
 =19	=19
-8dd-	G-/B-
+8dd-	G- major/B-
 8r	.
-8dd-	.
-8ddd-	G-/B-
+8dd-L	.
+8ddd-J	G- major/B-
 8r	.
-8dd-	G-/B-
+8dd-L	G- major/B-
 8ddd-	.
-8eee-	G-/B-
+8eee-J	G- major/B-
 =20	=20
-8ee-	Cm7b5/B-
+8ee-	C half-diminished/B-
 8r	.
-8ee-	.
-8eee-	Cm7b5/B-
+8ee-L	.
+8eee-J	C half-diminished/B-
 8r	.
-8ee-	Cm7b5/B-
+8ee-L	C half-diminished/B-
 8eee-	.
-8fff	Cm7b5/B-
+8fffJ	C half-diminished/B-
 =21	=21
-8ff	B-m
+8ff	B- minor
 8r	.
-8ff	.
-8fff	B-m
+8ffL	.
+8fffJ	B- minor
 8r	.
-8ff	B-m
-8fff	.
-8r	B-m
+8ffL	B- minor
+8fffJ	.
+8r	B- minor
 =22	=22
-8b-	B-m
+8b-	B- minor
 8r	.
-8b-	.
-8bb-	B-m
+8b-L	.
+8bb-J	B- minor
 8r	.
-8b-	B-m
+8b-L	B- minor
 8bb-	.
-8ddd-	B-m
+8ddd-J	B- minor
 =23	=23
-8dd-	G-/B-
+8dd-	G- major/B-
 8r	.
-8dd-	.
-8ddd-	G-/B-
+8dd-L	.
+8ddd-J	G- major/B-
 8r	.
-8dd-	G-/B-
+8dd-L	G- major/B-
 8ddd-	.
-8eee-	G-/B-
+8eee-J	G- major/B-
 =24	=24
-8ee-	B-m11
+8ee-	B- minor-11th
 8r	.
-8ee-	.
-8eee-	B-m11
+8ee-L	.
+8eee-J	B- minor-11th
 8r	.
-8ee-	B-m11
+8ee-L	B- minor-11th
 8eee-	.
-8fff	B-m11
+8fffJ	B- minor-11th
 =25	=25
-8ff	B-m
+8ff	B- minor
 8r	.
-8ff	.
-8fff	B-m
+8ffL	.
+8fffJ	B- minor
 8r	.
-8ff	B-m
-8fff	.
-8r	B-m
+8ffL	B- minor
+8fffJ	.
+8r	B- minor
 =26	=26
-4.r	B-m
-8ff	B-m
+4.r	B- minor
+8ff	B- minor
 8ee-	.
-4dd-	B-m
-8ee-[	B-m
+4dd-	B- minor
+[8ee-	B- minor
 =27	=27
-8ee-]	B-m
+8ee-]	B- minor
 4b-	.
-8r	B-m
+8r	B- minor
 8r	.
-8.r	B-m
+8.r	B- minor
 8.r	.
 =28	=28
 8r	.
-8r	A-
+8r	A- major
 8r	.
-2r	A-
-8ee-[	.
+2r	A- major
+[8ee-	.
 =29	=29
-8ee-]	D-
+8ee-]	D- major
 4dd-	.
-8b-[	D-
-8b-]	.
-8a-	D-
-16b-[	.
-16b-]	.
-8cc[	.
+[8b-	D- major
+8b-L]	.
+8a-	D- major
+[16b-L	.
+16b-J]	.
+[8ccJ	.
 =30	=30
 8cc]	.
-8r	B-m
+8r	B- minor
 8r	.
-2r	B-m
+2r	B- minor
 8r	.
 ==	==
 *-	*-

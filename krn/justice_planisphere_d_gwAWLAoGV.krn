@@ -16,140 +16,140 @@
 *d#:	*
 *M4/4	*
 =1	=1
-16DD#	D#m
+16DD#LL	D# minor
 16D#	.
 16d#	.
 16DD#	.
 16D#	.
 16d#	.
 16DD#	.
-16d#	.
-16FF#	D#m/F#
+16d#JJ	.
+16FF#LL	D# minor/F#
 16F#	.
 16f#	.
 16FF#	.
 16FF#	.
 16F#	.
 16f#	.
-16FF#	.
+16FF#JJ	.
 =2	=2
-16DD#	D#m
+16DD#LL	D# minor
 16D#	.
 16d#	.
 16DD#	.
 16D#	.
 16d#	.
 16DD#	.
-16d#	.
-16AA#	A#
+16d#JJ	.
+16AA#LL	A# major
 16A#	.
 16a#	.
 16AA#	.
 16AA#	.
 16A#	.
 16a#	.
-16AA#	.
+16AA#JJ	.
 =3	=3
-16C#	A#m/C#
+16C#LL	A# minor/C#
 16c#	.
 16c#	.
 16C#	.
 16c#	.
 16c#	.
 16C#	.
-16a#	.
-16AA#	A#m
+16a#JJ	.
+16AA#LL	A# minor
 16A#	.
 16a#	.
 16AA#	.
 16AA#	.
 16A#	.
 16a#	.
-16AA#	.
+16AA#JJ	.
 =4	=4
-16Cn	C
+16CnLL	C major
 16cn	.
 16cn	.
 16Cn	.
 16cn	.
 16cn	.
 16Cn	.
-16en	.
-16EEn	C/E
+16enJJ	.
+16EEnLL	C major/E
 16EEn	.
 16en	.
 16EEn	.
 16EEn	.
 16EEn	.
 16en	.
-16EEn	.
+16EEnJJ	.
 =5	=5
-16DD#	D#m
+16DD#LL	D# minor
 16D#	.
 16d#	.
 16DD#	.
 16D#	.
 16d#	.
 16DD#	.
-16d#	.
-16FF#	D#m/F#
+16d#JJ	.
+16FF#LL	D# minor/F#
 16F#	.
 16f#	.
 16FF#	.
 16FF#	.
 16F#	.
 16f#	.
-16FF#	.
+16FF#JJ	.
 =6	=6
-16DD#	D#m
+16DD#LL	D# minor
 16D#	.
 16d#	.
 16DD#	.
 16D#	.
 16d#	.
 16DD#	.
-16d#	.
-16AA#	A#
+16d#JJ	.
+16AA#LL	A# major
 16A#	.
 16a#	.
 16AA#	.
 16AA#	.
 16A#	.
 16a#	.
-16AA#	.
+16AA#JJ	.
 =7	=7
-16C#	A#m/C#
+16C#LL	A# minor/C#
 16c#	.
 16c#	.
 16C#	.
 16c#	.
 16c#	.
 16C#	.
-16a#	.
-16AA#	A#m
+16a#JJ	.
+16AA#LL	A# minor
 16A#	.
 16a#	.
 16AA#	.
 16AA#	.
 16A#	.
 16a#	.
-16AA#	.
+16AA#JJ	.
 =8	=8
-16Cn	C
+16CnLL	C major
 16cn	.
 16cn	.
 16Cn	.
 16cn	.
 16cn	.
 16Cn	.
-16en	.
-16EEn	C/E
+16enJJ	.
+16EEnLL	C major/E
 16EEn	.
 16en	.
 16EEn	.
 16EEn	.
 16EEn	.
 16en	.
-16EEn	.
+16EEnJJ	.
 ==	==
 *-	*-

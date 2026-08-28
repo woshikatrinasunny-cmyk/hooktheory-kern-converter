@@ -16,71 +16,71 @@
 *F:	*
 *M4/4	*
 =1	=1
-8.A	B-maj7sus2
+8.AL	B- major-seventh-suspended-second
 8.F	.
-8C	.
-8.A	.
+8CJ	.
+8.AL	.
 8.F	.
-8C	.
+8CJ	.
 =2	=2
-8.A	.
+8.AL	.
 8.F	.
-8C	.
-8.A	.
+8CJ	.
+8.AL	.
 8.F	.
-8C	.
+8CJ	.
 =3	=3
-8.A	F/A
+8.AL	F major/A
 8.F	.
-8C	.
-8.A	.
+8CJ	.
+8.AL	.
 8.F	.
-8C	.
+8CJ	.
 =4	=4
-8.A	.
+8.AL	.
 8.F	.
-8C	.
-8.A	.
+8CJ	.
+8.AL	.
 8.F	.
-8C	.
+8CJ	.
 =5	=5
-8.B-	A-add(2,4,7,9)
+8.B-L	A- other-2,4,7,9
 8.F	.
-8C	.
-8.B-	.
+8CJ	.
+8.B-L	.
 8.F	.
-8C	.
+8CJ	.
 =6	=6
-8.B-	.
+8.B-L	.
 8.F	.
-8C	.
-8.B-	.
+8CJ	.
+8.B-L	.
 8.F	.
-8C	.
+8CJ	.
 =7	=7
-8.c	Dm7
+8.cL	D minor-seventh
 8F	.
-8.E	.
-8.c	.
+8.EJ	.
+8.cL	.
 8.F	.
-8E	.
+8EJ	.
 =8	=8
-8.A	Am7
+8.AL	A minor-seventh
 8.G	.
-8C	.
-8G	Am7/C
+8CJ	.
+8GL	A minor-seventh/C
 8A	.
 8c	.
-8A	.
+8AJ	.
 =9	=9
-1r	B-maj7sus2
+1r	B- major-seventh-suspended-second
 =10	=10
 4.e	.
 4.f	.
-8.cc	.
-16a[	.
+8.ccL	.
+[16aJk	.
 =11	=11
-4..a]	F/A
+4..a]	F major/A
 2r	.
 16r	.
 =12	=12
@@ -88,18 +88,18 @@
 4.f	.
 4cc	.
 =13	=13
-1b-	A-add(2,4,7,9)
+1b-	A- other-2,4,7,9
 =14	=14
 4.g	.
 4.f	.
 4d	.
 =15	=15
-2.e	Dm7
+2.e	D minor-seventh
 4e	.
 =16	=16
-4c[	F/A
-4c_	Am9
-4c]	Am7/C
+[4c	F major/A
+4c_	A minor-ninth
+4c]	A minor-seventh/C
 4r	.
 ==	==
 *-	*-

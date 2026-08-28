@@ -16,7 +16,7 @@
 *e:	*
 *M6/4	*
 =1	=1
-1.b[	Esus4
+[1.b	E suspended-fourth
 =2	=2
 4b]	.
 4a	.
@@ -24,16 +24,16 @@
 2dd	.
 4a	.
 =3	=3
-2b	Badd(5,6,10)/F
-8ee	.
-8dd	.
-2.ee[	.
+2b	B other-5,6,10/F
+8eeL	.
+8ddJ	.
+[2.ee	.
 =4	=4
-1ee]	Bm7b5/F
+1ee]	B half-diminished/F
 4a	.
 4cc	.
 =5	=5
-1.b[	Esus4
+[1.b	E suspended-fourth
 =6	=6
 4b]	.
 4dd	.
@@ -42,18 +42,18 @@
 4g	.
 4e	.
 =7	=7
-4d	Badd(5,6,10)/F
+4d	B other-5,6,10/F
 4e	.
 4c	.
-2.A[	.
+[2.A	.
 =8	=8
-2A]	Bm7b5/F
+2A]	B half-diminished/F
 4c	.
 4e	.
 4g	.
 4a	.
 =9	=9
-4b	G
+4b	G major
 4a	.
 4dd	.
 2.b	.
@@ -63,17 +63,17 @@
 4ee	.
 2.b	.
 =11	=11
-4b	G#dim
+4b	G# diminished
 4a	.
 4dd	.
 4b	.
-8g#	.
-8a	.
-8b	.
-8dd	.
+8g#L	.
+8aJ	.
+8bL	.
+8ddJ	.
 =12	=12
-2.ff	Eadd(1,5,7)
-2ee	Esus4
+2.ff	E other-1,5,7
+2ee	E suspended-fourth
 4r	.
 ==	==
 *-	*-

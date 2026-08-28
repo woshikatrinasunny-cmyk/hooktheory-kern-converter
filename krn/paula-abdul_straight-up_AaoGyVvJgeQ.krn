@@ -16,53 +16,53 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Gm
-8r	Gm
-8e	.
-16e[	Gm
-16e]	E/A-
-8e	Am
-16d	Am
-16e[	.
+8r	G minor
+8r	G minor
+8eL	.
+[16eL	G minor
+16eJJ]	E major/A-
+8eL	A minor
+16dL	A minor
+[16e	.
 16e]	.
 16e	.
 16d	.
-16e[	Am
+[16eJJ	A minor
 =2	=2
-16e]	Dm
+16eLL]	D minor
 16e	.
-16e	Dm
-16d	.
-8e	Eadd(1,3,5,6,10)
-8e	Eadd(1,3,5,6,10)
-8e	Dm/F
-16d	.
-16e[	.
-16e]	Eadd(1,3,5,6,10)
-16e[	.
-16e]	Eadd(1,3,5,6,10)
-16e[	.
+16e	D minor
+16dJ	.
+8e	E other-1,3,5,6,10
+8eJ	E other-1,3,5,6,10
+8eL	D minor/F
+16dL	.
+[16e	.
+16e]	E other-1,3,5,6,10
+[16e	.
+16e]	E other-1,3,5,6,10
+[16eJJ	.
 =3	=3
-8e]	Gm
-16e	Gm
-16d	.
+8eL]	G minor
+16eL	G minor
+16dJ	.
 8e	.
-16d[	Gm
-16d]	E/A-
-8e	Am
-16d	.
-16e[	.
-16e]	.
+[16dL	G minor
+16dJJ]	E major/A-
+8eL	A minor
+16dL	.
+[16e	.
+16eJ]	.
 8d	.
-16a[	.
+[16aJk	.
 =4	=4
 4..a]	.
 16A	.
-16B-	.
-16d	.
+16B-LL	.
+16dJ	.
 8e	.
-16f	.
-16g	.
-8a	.
+16fL	.
+16gJ	.
+8aJ	.
 ==	==
 *-	*-

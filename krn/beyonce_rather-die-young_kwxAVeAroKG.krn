@@ -16,69 +16,69 @@
 *B:	*
 *M4/4	*
 =1	=1
-2r	Bmaj7
-8d#	.
+2r	B major-seventh
+8d#L	.
 8a#	.
 8a#	.
-8d#	.
+8d#J	.
 =2	=2
-8dn	Bm7
-8an	.
+8dnL	B minor-seventh
+8anJ	.
 4.an	.
 4.r	.
 =3	=3
-8an	Em7b5/A#
+8anL	E half-diminished/A#
 8gn	.
 8f#	.
-16gn	.
+16gnJk	.
 8f#	.
 8.e	.
 16r	.
+16AnLL	.
 16An	.
-16An	.
-16An	.
+16AnJJ	.
 =4	=4
-8an	A7sus4
-16gn	.
-16gn	.
+8anL	A dominant-seventh-suspended-fourth
+16gnL	.
+16gnJ	.
 8f#	.
-16gn	.
-16f#[	.
-16f#]	A7
+16gnL	.
+[16f#JJ	.
+16f#]	A dominant
 6...e	.
 16r	.
 16e	.
 =5	=5
-8d#	Bmaj7
-8a#	.
+8d#L	B major-seventh
+8a#J	.
 4..a#	.
 4r	.
 16d#	.
 =6	=6
-8dn	Bm7
-8an	.
+8dnL	B minor-seventh
+8anJ	.
 4.an	.
 6...r	.
 16dn	.
 =7	=7
-8an	Em7b5/A#
+8anL	E half-diminished/A#
 8gn	.
 8f#	.
-16gn	.
+16gnJk	.
 8f#	.
 8.e	.
 16r	.
+16AnLL	.
 16An	.
-16An	.
-16An	.
+16AnJJ	.
 =8	=8
-8an	A7sus4
+8anL	A dominant-seventh-suspended-fourth
 8gn	.
 8f#	.
-16gn	.
-16f#[	.
-16f#]	A7
-8.e	.
+16gnL	.
+[16f#JJ	.
+16f#LK]	A dominant
+8.eJ	.
 4r	.
 ==	==
 *-	*-

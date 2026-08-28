@@ -16,45 +16,45 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	C
+1r	C major
 =2	=2
-1r	Csus4
+1r	C suspended-fourth
 =3	=3
-1r	C
+1r	C major
 =4	=4
-1r	Csus4
+1r	C suspended-fourth
 =5	=5
-4c	C
-2.c[	.
+4c	C major
+[2.c	.
 =6	=6
-8.c]	Csus4
+8.c]	C suspended-fourth
 8.r	.
 8c	.
-8.c	.
+8.cL	.
 8.A	.
-8G	.
+8GJ	.
 =7	=7
-1G	C
+1G	C major
 =8	=8
-2.r	Csus4
-8G	.
-8G	.
+2.r	C suspended-fourth
+8GL	.
+8GJ	.
 =9	=9
-4c	C
-2.c[	.
+4c	C major
+[2.c	.
 =10	=10
-4.c]	Csus4
+4.c]	C suspended-fourth
 8c	.
-8c	.
-16A	.
+8cL	.
+16Ak	.
 8A	.
-16G	.
-8G[	.
+16Gk	.
+[8GJ	.
 =11	=11
-8G]	C
+8G]	C major
 2G	.
 4.r	.
 =12	=12
-1r	Csus4
+1r	C suspended-fourth
 ==	==
 *-	*-

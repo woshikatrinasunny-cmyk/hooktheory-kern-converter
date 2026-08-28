@@ -17,79 +17,79 @@
 *M4/4	*
 =1	=1
 2r	.
-2r	D-augMaj7
+2r	D- augmented-major-seventh
 =2	=2
 4r	.
-2AAn	D-augMaj7/A
+2AAn	D- augmented-major-seventh/A
 4C	.
 =3	=3
-6EEn	BaugMaj7
-48ggg-	.
+6EEn	B augmented-major-seventh
+48ggg-LKK	.
 12..gggn	.
-48ggg-	.
+48ggg-kk	.
+12..gggnJ	.
+48ggg-LKK	.
 12..gggn	.
-48ggg-	.
+48ggg-kk	.
 12..gggn	.
-48ggg-	.
-12..gggn	.
-48ggg-	.
-12..gggn	.
+48ggg-kk	.
+12..gggnJ	.
 =4	=4
-48ggg-	D-augMaj7
-8..gggn[	.
-96gggn]	.
-4.AAn	D-augMaj7/A
-8.C	.
-8.D-	.
+48ggg-LKK	D- augmented-major-seventh
+[8..gggn	.
+96gggnJkkk]	.
+4.AAn	D- augmented-major-seventh/A
+8.CL	.
+8.D-J	.
 =5	=5
-12EEn	BaugMaj7
+12EEnL	B augmented-major-seventh
 12AAn	.
 12BB-	.
 12Dn	.
 12E-	.
-12G-	.
-12Gn	.
+12G-J	.
+12GnL	.
 12An	.
 12B-	.
 8d-	.
-8dn	.
+8dnJ	.
 =6	=6
 *k[f#c#]	*
 *b:	*
-4d#	BmMaj7
+4d#	B major-minor
 2EE	.
 4GG	.
 =7	=7
 *k[b-e-a-d-g-]	*
 *b-:	*
-3...DDn	B-mMaj7
-16B-	.
+3...DDn	B- major-minor
+16B-LL	.
 16c	.
 16d-	.
 16e-	.
 16en	.
-16g-	.
+16g-JJ	.
 =8	=8
 *k[f#c#g#]	*
 *A:	*
-4g#	AaugMaj7
+4g#	A augmented-major-seventh
 2DD	.
 4FFn	.
 =9	=9
 *k[b-e-a-d-]	*
 *c:	*
-8CC	A-add(4,5,7,9,11)/C
+8CCL	A- other-4,5,7,9,11/C
 8.C	.
-8.D-	.
-8A-	.
+8.D-J	.
+8A-L	.
 8.G	.
-8.c	.
+8.cJ	.
 =10	=10
 *M6/4	*
 8.d-	.
 4a-	.
 2...g	.
-16C	.
-16CC	.
+16CLL	.
+16CCJJ	.
 ==	==
 *-	*-

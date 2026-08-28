@@ -16,15 +16,15 @@
 *f:	*
 *M4/4	*
 =1	=1
-16gg	Fm
+16gg	F minor
 4..r	.
-16cc	.
-16ee-	.
+16ccLL	.
+16ee-JJ	.
 4.r	.
 =2	=2
-2r	Fm
-16cc	.
-16ee-	.
+2r	F minor
+16ccLL	.
+16ee-JJ	.
 16r	.
 16ff	.
 16r	.
@@ -32,22 +32,22 @@
 16r	.
 16ff	.
 =3	=3
-8r	A-
+8r	A- major
 16ee-	.
 16r	.
-16ff	.
-16gg	.
+16ffLL	.
+16ggJJ	.
 3...r	.
 =4	=4
-1r	A-
+1r	A- major
 =5	=5
-4r	E-
-16cc	.
-16ee-	.
+4r	E- major
+16ccLL	.
+16ee-JJ	.
 3...r	.
 =6	=6
-16cc	E-
-16ee-	.
+16ccLL	E- major
+16ee-JJ	.
 16r	.
 16ff	.
 16r	.
@@ -57,19 +57,19 @@
 8r	.
 16ee-	.
 16r	.
-16ff	.
-16gg	.
+16ffLL	.
+16ggJJ	.
 8r	.
 =7	=7
-1r	B-
+1r	B- major
 =8	=8
-4.r	B-
+4.r	B- major
 16r	.
 16ccc	.
 16r	.
-16gg-	.
+16gg-LL	.
 16ff	.
-16ee-	.
+16ee-JJ	.
 8r	.
 16ff	.
 16r	.

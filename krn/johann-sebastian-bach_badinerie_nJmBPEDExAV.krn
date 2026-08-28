@@ -16,119 +16,119 @@
 *b:	*
 *M4/4	*
 =1	=1
-16bb	Bm
+16bb	B minor
 16r	.
-16ddd	.
+16dddLL	.
 16bb	.
-16ff#	.
+16ff#JJ	.
 16r	.
-16bb	.
-16ff#	.
+16bbLL	.
+16ff#JJ	.
 16dd	.
 16r	.
-16ff#	.
-16dd	.
+16ff#LL	.
+16ddJJ	.
 4b	.
 =2	=2
-16f#	.
+16f#LL	.
 16b	.
 16dd	.
 16b	.
-16cc#	C#dim/E
+16cc#	C# diminished/E
 16b	.
-16cc#	C#dim
-16b	.
-16a#	F#
+16cc#	C# diminished
+16bJJ	.
+16a#LL	F# major
 16cc#	.
 16ee	.
 16cc#	.
-16dd	Bm
+16ddJJ	B minor
 16r	.
 16b	.
 16r	.
 =3	=3
 16bb	.
 16r	.
-16ddd	.
+16dddLL	.
 16bb	.
-16ff#	.
+16ff#JJ	.
 16r	.
-16bb	.
-16ff#	.
+16bbLL	.
+16ff#JJ	.
 16dd	.
 16r	.
-16ff#	.
-16dd	.
+16ff#LL	.
+16ddJJ	.
 4b	.
 =4	=4
-16dd	.
-16cc#	.
+16ddLL	.
+16cc#J	.
 8dd	.
-16dd	E
-16cc#	.
+16ddL	E major
+16cc#J	.
+8ddJ	.
+16ddLL	.
+16bbJ	.
 8dd	.
-16dd	.
-16bb	.
-8dd	.
-8dd	A
-8cc#	A/C#
+8dd	A major
+8cc#J	A major/C#
 =5	=5
-16ff#	D
-16ffn	.
+16ff#LL	D major
+16ffnJ	.
 8ff#	.
-16ff#	G#m7b5/B
-16ffn	.
+16ff#L	G# half-diminished/B
+16ffnJ	.
+8ff#J	.
+16ff#LL	G# half-diminished
+16dddJ	.
 8ff#	.
-16ff#	G#m7b5
-16ddd	.
-8ff#	.
-8ff#	C#
-8ffn	.
+8ff#	C# major
+8ffnJ	.
 =6	=6
-16cc#	F#m/A
+16cc#LL	F# minor/A
 16ff#	.
 16aa	.
 16ff#	.
-16gg#	G#dim/B
+16gg#	G# diminished/B
 16ff#	.
-16gg#	G#dim
-16ff#	.
-16ffn	C#
+16gg#	G# diminished
+16ff#JJ	.
+16ffnLL	C# major
 16gg#	.
 16bb	.
 16gg#	.
-16aa	F#m
+16aa	F# minor
 16gg#	.
 16aa	.
-16gg#	.
+16gg#JJ	.
 =7	=7
-16ff#	.
+16ff#LL	.
 16aa	.
 16ff#	.
 16ffn	.
-16ff#	Bm
+16ff#	B minor
 16bb	.
 16ff#	.
-16ffn	.
-16ff#	F#m/C#
+16ffnJJ	.
+16ff#LL	F# minor/C#
 16ccc#	.
 16ff#	.
 16ffn	.
-16ff#	G#m7b5/B
+16ff#	G# half-diminished/B
 16ddd	.
-16ff#	G#m7b5/D
-16ffn	.
+16ff#	G# half-diminished/D
+16ffnJJ	.
 =8	=8
-16ff#	G#m7b5/B
+16ff#LL	G# half-diminished/B
 16ddd	.
-16ccc#	Fdim7/G#
+16ccc#	F diminished-seventh/G#
 16bb	.
-16ccc#	F#m/A
+16ccc#	F# minor/A
 16aa	.
-16gg#	G#m7b5/B
-16ff#	.
-8aa	F#m/C#
-8gg#	C#
-4ff#	F#m
+16gg#	G# half-diminished/B
+16ff#JJ	.
+8aaL	F# minor/C#
+8gg#J	C# major
+4ff#	F# minor
 ==	==
 *-	*-

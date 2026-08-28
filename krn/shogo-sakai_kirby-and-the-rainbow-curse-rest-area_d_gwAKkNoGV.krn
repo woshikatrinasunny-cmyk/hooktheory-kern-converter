@@ -16,50 +16,50 @@
 *C:	*
 *M4/4	*
 =1	=1
-4e	Fmaj7
+4e	F major-seventh
 2r	.
-8d	.
-16c	.
-16d[	.
+8dL	.
+16cL	.
+[16dJJ	.
 =2	=2
-4d]	Em7
+4d]	E minor-seventh
 2r	.
-8c	.
-16d	.
-16e[	.
+8cL	.
+16dL	.
+[16eJJ	.
 =3	=3
-4e]	Fmaj7
+4e]	F major-seventh
 2r	.
-8d	.
-16c	.
-16d[	.
+8dL	.
+16cL	.
+[16dJJ	.
 =4	=4
-4d]	Em7
+4d]	E minor-seventh
 2r	.
-8d#	Gm7
-16f	.
-16g[	.
+8d#L	G minor-seventh
+16fL	.
+[16gJJ	.
 =5	=5
-4g]	G#maj7
+4g]	G# major-seventh
 2r	.
-8f	.
-16d#	.
-16f[	.
+8fL	.
+16d#L	.
+[16fJJ	.
 =6	=6
-4f]	Gm7
+4f]	G minor-seventh
 2r	.
-16d#	.
+16d#LK	.
 8f	.
-16g[	.
+[16gJk	.
 =7	=7
-4g]	G#maj7
+4g]	G# major-seventh
 2r	.
 8.cc	.
 16r	.
 =8	=8
-4r	Gm7
-4r	C7
-4r	Fm7
-4r	A#7
+4r	G minor-seventh
+4r	C dominant
+4r	F minor-seventh
+4r	A# dominant
 ==	==
 *-	*-

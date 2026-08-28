@@ -16,36 +16,36 @@
 *F:	*
 *M4/4	*
 =1	=1
-2.f	F
+2.f	F major
 4ff	.
 =2	=2
-2.ee	Am7
+2.ee	A minor-seventh
 4ff	.
 =3	=3
-2.dd	B-add(2,4,7)
+2.dd	B- other-2,4,7
 4ff	.
 =4	=4
-4ee	C7
+4ee	C dominant
 4dd	.
 4cc	.
 4b-	.
 =5	=5
-2.f	F
+2.f	F major
 4ff	.
 =6	=6
-2.gg	Am7
+2.gg	A minor-seventh
 4ee	.
 =7	=7
-1ff	B-add(2,4,7)
+1ff	B- other-2,4,7
 =8	=8
-4aa	C7
+4aa	C dominant
 4gg	.
 4ee	.
 4b-	.
 =9	=9
-4.cc	F
+4.cc	F major
 4.cc	.
-4cc[	.
+[4cc	.
 =10	=10
 8cc]	.
 4.cc	.
@@ -55,14 +55,14 @@
 =12	=12
 1r	.
 =13	=13
-16C	Cadd(2,5,7)
+16CLL	C other-2,5,7
 16B-	.
 16d	.
 16f	.
 16a	.
 16b-	.
-16dd	.
-2ff[	.
+16ddJJ	.
+[2ff	.
 16ff_	.
 =14	=14
 1ff_	.

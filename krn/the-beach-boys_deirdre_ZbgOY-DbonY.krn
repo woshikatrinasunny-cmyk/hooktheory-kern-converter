@@ -16,50 +16,50 @@
 *D:	*
 *M4/4	*
 =1	=1
-4r	G
+4r	G major
 8b	.
 4.b	.
-8b	.
-8b[	.
+8bL	.
+[8bJ	.
 =2	=2
-4b]	A9
-8b	.
-8b	.
-8cc#	A7
-8cc#	.
-4b	A7/G
+4b]	A dominant-ninth
+8bL	.
+8bJ	.
+8cc#L	A dominant
+8cc#J	.
+4b	A dominant/G
 =3	=3
-4r	F#m
-8a	.
-8a[	.
-4a]	F#m7/C#
-8a	.
-8a[	.
+4r	F# minor
+8aL	.
+[8aJ	.
+4a]	F# minor-seventh/C#
+8aL	.
+[8aJ	.
 =4	=4
-4a]	B7
-8d#	.
-8d#	.
-8e	Aadd(2,4,7)/C#
-8e	.
-4f#	B7/D#
+4a]	B dominant
+8d#L	.
+8d#J	.
+8eL	A other-2,4,7/C#
+8eJ	.
+4f#	B dominant/D#
 =5	=5
-4r	Em
-8g	.
-8f#	.
-8g	Em7
-8f#	.
+4r	E minor
+8gL	.
+8f#J	.
+8gL	E minor-seventh
+8f#J	.
 4e	.
 =6	=6
-2dd	A11
-2b	A9
+2dd	A dominant-11th
+2b	A dominant-ninth
 =7	=7
 8r	.
-8c#	.
-8c#	A7
-8c#	.
-8d	G/B
-8f#[	.
-4f#]	A7/C#
+8c#L	.
+8c#	A dominant
+8c#J	.
+8dL	G major/B
+[8f#J	.
+4f#]	A dominant/C#
 =8	=8
 1r	.
 ==	==

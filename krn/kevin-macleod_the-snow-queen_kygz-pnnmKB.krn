@@ -15,52 +15,52 @@
 *c:	*
 *M4/4	*
 =1	=1
-2.cc	Cm
+2.cc	C minor
 4gg	.
 =2	=2
-4gg-	G7
+4gg-	G dominant
 8gg	.
 4.r	.
 4g	.
 =3	=3
-2.cc	Cm
+2.cc	C minor
 4gg	.
 =4	=4
-4gg-	G7
+4gg-	G dominant
 8gg	.
 4.r	.
 4b-	.
 =5	=5
 *k[f#c#g#d#a#e#]	*
 *d#:	*
-2.dd#	D#m
+2.dd#	D# minor
 4aa#	.
 =6	=6
-4aan	A#7
+4aan	A# dominant
 8aa#	.
 4.r	.
 4a#	.
 =7	=7
-2.dd#	D#m
+2.dd#	D# minor
 4aa#	.
 =8	=8
-2aan	A#7
+2aan	A# dominant
 8aa#	.
 4.r	.
 =9	=9
 *k[f#c#]	*
 *f#:	*
-4.f#	F#m
+4.f#	F# minor
 16g	.
 16r	.
 16a	.
 16r	.
 16g	.
 16r	.
-8f#	.
-8g[	.
+8f#L	.
+[8gJ	.
 =10	=10
-4.g]	Gm
+4.g]	G minor
 16a	.
 16r	.
 16a#	.
@@ -71,11 +71,11 @@
 16r	.
 8a#	.
 =11	=11
-4a	F#m
+4a	F# minor
 4f#	.
 2f#	.
 =12	=12
-16g	Gm
+16g	G minor
 16r	.
 16d	.
 16r	.
@@ -91,17 +91,17 @@
 16r	.
 8DD	.
 =13	=13
-4.f#	F#m
+4.f#	F# minor
 16g	.
 16r	.
 16a	.
 16r	.
 16g	.
 16r	.
-8f#	.
-8g[	.
+8f#L	.
+[8gJ	.
 =14	=14
-4.g]	Gm
+4.g]	G minor
 16a	.
 16r	.
 16a#	.
@@ -112,12 +112,12 @@
 16r	.
 8a#	.
 =15	=15
-8.a	F#m
+8.a	F# minor
 16r	.
 4f#	.
-2cc#[	.
+[2cc#	.
 =16	=16
-2cc#]	Gm
+2cc#]	G minor
 8.dd	.
 6...r	.
 ==	==

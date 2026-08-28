@@ -16,107 +16,107 @@
 *A:	*
 *M4/4	*
 =1	=1
-4cc#	A
+4cc#	A major
 2r	.
-8dd#	.
-8b[	B
+8dd#L	.
+[8bJ	B major
 =2	=2
 2b_	.
-8b_	Bsus2
-8b]	B
+8bL_	B suspended-second
+8b]	B major
 8a	.
-8ff#[	D
+[8ff#J	D major
 =3	=3
 4ff#_	.
-4ff#_	Dmaj7
-8ff#_	Bm7/D
-8ff#]	D
+4ff#_	D major-seventh
+8ff#L_	B minor-seventh/D
+8ff#]	D major
 8ee	.
-8ee[	A
+[8eeJ	A major
 =4	=4
 2ee_	.
-16ee]	A
-16a	.
-8b[	Asus4
-8b_	Aadd(4,6)
-8b]	A
+16eeLL]	A major
+16aJ	.
+[8b	A suspended-fourth
+8b_	A other-4,6
+8bJ]	A major
 =5	=5
 4cc#	.
 2r	.
-8dd#	.
-8b[	B
+8dd#L	.
+[8bJ	B major
 =6	=6
 2b_	.
-8b_	Bsus2
-8b]	B
+8bL_	B suspended-second
+8b]	B major
 8a	.
-8ff#[	D
+[8ff#J	D major
 =7	=7
 4ff#_	.
-4ff#_	Dmaj7
-8ff#_	Bm7/D
-8ff#]	D
+4ff#_	D major-seventh
+8ff#L_	B minor-seventh/D
+8ff#]	D major
 8ee	.
-8ee[	A
+[8eeJ	A major
 =8	=8
 2ee_	.
-8ee]	A
-8cc#	Asus4
-8dd	Aadd(4,6)
-8ee[	A7
+8eeL]	A major
+8cc#	A suspended-fourth
+8dd	A other-4,6
+[8eeJ	A dominant
 =9	=9
 4ee]	.
 2r	.
-8ee	.
-8dd#[	B
+8eeL	.
+[8dd#J	B major
 =10	=10
 4dd#]	.
 3...r	.
-8b	Dm
+8b	D minor
 =11	=11
 8dd	.
 4.dd	.
-16dd	.
-16cc#	.
+16ddLL	.
+16cc#J	.
 8b	.
 8dd	.
-8cc#[	A
+[8cc#J	A major
 =12	=12
 4cc#]	.
 4.r	.
-16b	.
+16bLK	.
 8.a	.
-8b	.
+8bJ	.
 =13	=13
-4cc#	A
+4cc#	A major
 2r	.
-8ee	.
-8b[	B
+8eeL	.
+[8bJ	B major
 =14	=14
 4b]	.
 4r	.
-8r	Bsus2
-4r	B
+8r	B suspended-second
+4r	B major
 8a	.
 =15	=15
-4.b	D
-4a	A
+4.b	D major
+4a	A major
 8cc#	.
-4a[	.
+[4a	.
 =16	=16
-4a_	A
-4a_	G#dim
-4a_	Cdim/F#
-4a]	A/E
+4a_	A major
+4a_	G# diminished
+4a_	C diminished/F#
+4a]	A major/E
 =17	=17
-4.b	D
-4a	A
+4.b	D major
+4a	A major
 8cc#	.
-4a[	.
+[4a	.
 =18	=18
-4a_	A
-4a_	G#dim
-4a_	Cdim/F#
-4a]	A/E
+4a_	A major
+4a_	G# diminished
+4a_	C diminished/F#
+4a]	A major/E
 ==	==
 *-	*-

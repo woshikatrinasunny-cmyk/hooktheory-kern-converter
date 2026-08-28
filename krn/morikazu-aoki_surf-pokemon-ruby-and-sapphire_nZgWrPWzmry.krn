@@ -16,118 +16,118 @@
 *D-:	*
 *M3/4	*
 =1	=1
-8dd-	.
-8cc	.
-8dd-	.
-8a-	.
-8dd-	.
-8ee-	.
+8dd-L	.
+8ccJ	.
+8dd-L	.
+8a-J	.
+8dd-L	.
+8ee-J	.
 =2	=2
-4.ff	D-
+4.ff	D- major
 8gg-	.
 4ff	.
 =3	=3
-4.ff	Fdim/B
+4.ff	F diminished/B
 8gg-	.
 4ff	.
 =4	=4
-4.ff	G-/B-
+4.ff	G- major/B-
 8gg-	.
 4ff	.
 =5	=5
-8aa-	A
-8gg-	.
-8ff	.
-8a-	.
-8dd-	G-m
-8ee-	.
+8aa-L	A major
+8gg-J	.
+8ffL	.
+8a-J	.
+8dd-L	G- minor
+8ee-J	.
 =6	=6
-4.ff	D-
+4.ff	D- major
 8gg-	.
 4ff	.
 =7	=7
-4.ff	Fdim/B
+4.ff	F diminished/B
 8gg-	.
 4ff	.
 =8	=8
-4.gg-	G-/B-
+4.gg-	G- major/B-
 8b-	.
-8cc	.
-8dd-	.
+8ccL	.
+8dd-J	.
 =9	=9
-4ee-	E-m7b5/G-
+4ee-	E- half-diminished/G-
 4ff	.
 4gg-	.
 =10	=10
-4.aa-	D-
+4.aa-	D- major
 8aa-	.
-4gg-	D-/A-
+4gg-	D- major/A-
 =11	=11
-4.ff	D-
+4.ff	D- major
 8dd-	.
-8ff	.
-8gg-	.
+8ffL	.
+8gg-J	.
 =12	=12
-4.aa-	Fdim/B
+4.aa-	F diminished/B
 8aa-	.
-4bb-	Fdim/A-
+4bb-	F diminished/A-
 =13	=13
-4.aa-	Fdim/B
+4.aa-	F diminished/B
 8gg-	.
-8ff	.
-8aa-	.
+8ffL	.
+8aa-J	.
 =14	=14
-4.gg-	G-/B-
+4.gg-	G- major/B-
 8ff	.
-8ee-	G-
-8ff	.
+8ee-L	G- major
+8ffJ	.
 =15	=15
-4gg-[	G-/B-
-8gg-]	Cdim
-8bb-	.
-8ccc	G-m/D-
-8bb-	.
+[4gg-	G- major/B-
+8gg-L]	C diminished
+8bb-J	.
+8cccL	G- minor/D-
+8bb-J	.
 =16	=16
-4ddd-	A
+4ddd-	A major
 4ccc	.
-4bb-	A-7
+4bb-	A- dominant
 =17	=17
-4ddd-	G-m
+4ddd-	G- minor
 4eee-	.
-4ddd-	G-m/D-
+4ddd-	G- minor/D-
 =18	=18
-4.aa-	D-
+4.aa-	D- major
 8aa-	.
-4gg-	D-/A-
+4gg-	D- major/A-
 =19	=19
-4.ff	D-
+4.ff	D- major
 8dd-	.
-8ff	.
-8gg-	.
+8ffL	.
+8gg-J	.
 =20	=20
-4.aa-	Fdim/B
+4.aa-	F diminished/B
 8aa-	.
-4bb-	Fdim/A-
+4bb-	F diminished/A-
 =21	=21
-4.aa-	Fdim/B
+4.aa-	F diminished/B
 8gg-	.
-8ff	.
-8aa-	.
+8ffL	.
+8aa-J	.
 =22	=22
-4.gg-	G-/B-
+4.gg-	G- major/B-
 8ff	.
-8ee-	G-
-8ff	.
+8ee-L	G- major
+8ffJ	.
 =23	=23
-4.gg-	G-/B-
+4.gg-	G- major/B-
 8ff	.
-8gg-	G-
-8aa-	.
+8gg-L	G- major
+8aa-J	.
 =24	=24
-4aan	G-m
-4aa-	Fm
-4gg-	E-m
+4aan	G- minor
+4aa-	F minor
+4gg-	E- minor
 =25	=25
-2.ff	D-
+2.ff	D- major
 ==	==
 *-	*-

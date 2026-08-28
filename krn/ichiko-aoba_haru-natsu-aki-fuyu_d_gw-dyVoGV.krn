@@ -16,62 +16,62 @@
 *G:	*
 *M4/4	*
 =1	=1
-8a	G
+8aL	G major
 8a	.
 8.g	.
-16g	.
-8f#	.
-16f#	.
+16gJk	.
+8f#L	.
+16f#Jk	.
 4d	.
 16d	.
 =2	=2
-4c	Aadd(3,5,7,10)
+4c	A other-3,5,7,10
 3...r	.
 8d	.
 =3	=3
-8a	Badd(3,10)
+8aL	B other-3,10
 8a	.
 8g	.
-8g	.
-8f#	.
+8gJ	.
+8f#L	.
 8f#	.
 8d	.
-16c	.
-16B	.
+16cL	.
+16BJJ	.
 =4	=4
-4e	Cadd(2,4,7)
+4e	C other-2,4,7
 4r	.
-8e	.
-8f#	.
+8eL	.
+8f#J	.
 4g	.
 =5	=5
-8g	Aadd(3,5,7,10)
+8gL	A other-3,5,7,10
 8g	.
 8g	.
-8g	.
+8gJ	.
 4g	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =6	=6
-4d	Badd(3,10)
+4d	B other-3,10
 4.r	.
-16e	.
+16eLK	.
 8.f#	.
-8g	.
+8gJ	.
 =7	=7
-8g	Cadd(2,4,7)
+8gL	C other-2,4,7
 8g	.
 8g	.
-8e	.
-16e	.
+8eJ	.
+16eLK	.
 8g	.
 8.g	.
-16f#	.
-16e	.
+16f#L	.
+16eJJ	.
 =8	=8
-4d#	Am7b5
+4d#	A half-diminished
 4r	.
-4r	D7
+4r	D dominant
 4d	.
 ==	==
 *-	*-

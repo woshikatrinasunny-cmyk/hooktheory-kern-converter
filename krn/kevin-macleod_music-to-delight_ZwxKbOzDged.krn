@@ -15,138 +15,138 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8.cc#	B/F#
-16a#	.
-8f#	B
-8a#	.
-8e#	B/F#
-8a#	.
-4a#	B
+8.cc#L	B major/F#
+16a#k	.
+8f#	B major
+8a#J	.
+8e#L	B major/F#
+8a#J	.
+4a#	B major
 =2	=2
-8cc#	B/F#
-16cc#	.
-16een	.
-8cc#	B
-8dd#	.
-8dd#	B/F#
-8een	.
+8cc#L	B major/F#
+16cc#L	.
+16eenJ	.
+8cc#	B major
+8dd#J	.
+8dd#L	B major/F#
+8eenJ	.
 4cc#	.
 =3	=3
 8ff#	.
 8r	.
-4ff#	B
-8gg#	B/F#
-8een	.
-4cc#	Cadd(3,4,6,7,11)
+4ff#	B major
+8gg#L	B major/F#
+8eenJ	.
+4cc#	C other-3,4,6,7,11
 =4	=4
-8cc#	E#add(1,6,10)
+8cc#L	E# other-1,6,10
 8cc#	.
-8g#	B
-8g#	.
-8g#	B/F#
+8g#	B major
+8g#J	.
+8g#L	B major/F#
 8a#	.
-8f#[	.
-8f#]	Bsus4/F#
+[8f#	.
+8f#J]	B suspended-fourth/F#
 =5	=5
-8f#	E#add(1,6,10)
+8f#	E# other-1,6,10
 8r	.
-8cc#	Cadd(3,4,6,7,11)
-8cc#	.
-8cc#	B/F#
+8cc#L	C other-3,4,6,7,11
+8cc#J	.
+8cc#L	B major/F#
 8g#	.
-8.a#	Cadd(3,4,6,7,11)
+8.a#J	C other-3,4,6,7,11
 16r	.
 =6	=6
-8dd#	B/F#
+8dd#L	B major/F#
 8dd#	.
-8dd#	Cadd(3,4,6,7,11)
-8een	.
-8ccn	B/F#
+8dd#	C other-3,4,6,7,11
+8eenJ	.
+8ccnL	B major/F#
 8a#	.
-8ccn	Badd(4,6,7)/F#
-8ff#	.
+8ccn	B other-4,6,7/F#
+8ff#J	.
 =7	=7
-4ff#	B/F#
-8.gg#	B
-16ff#	.
-8een	B/F#
+4ff#	B major/F#
+8.gg#L	B major
+16ff#Jk	.
+8eenL	B major/F#
 8cc#	.
-8aa#	B
-8gg#	.
+8aa#	B major
+8gg#J	.
 =8	=8
-4een[	E#add(1,6,10)
-8een]	B
-8dd#[	.
-8dd#]	B/F#
-8r	E#add(1,6,10)
-4r	Bm/F#
+[4een	E# other-1,6,10
+8eenL]	B major
+[8dd#J	.
+8dd#]	B major/F#
+8r	E# other-1,6,10
+4r	B minor/F#
 =9	=9
-16cc#	B/F#
+16cc#	B major/F#
 16r	.
-8cc#	.
-8cc#	B
-8cc#	.
-8g#	B/F#
+8cc#L	.
+8cc#	B major
+8cc#J	.
+8g#L	B major/F#
 8dd#	.
-8a#	Cadd(3,4,6,7,11)
-8dd#	.
+8a#	C other-3,4,6,7,11
+8dd#J	.
 =10	=10
-8g#	E#add(1,6,10)
+8g#L	E# other-1,6,10
 8cc#	.
-8cc#	B
-8cc#	.
-4g#	B/F#
-4f#	Badd(4,6,7)/F#
+8cc#	B major
+8cc#J	.
+4g#	B major/F#
+4f#	B other-4,6,7/F#
 =11	=11
-8r	B/F#
-8g#[	.
-16g#]	B
+8r	B major/F#
+[8g#L	.
+16g#Jk]	B major
 16r	.
 8g#	.
-8f#	B/F#
+8f#L	B major/F#
 8g#	.
-8en	B
-8g#	.
+8en	B major
+8g#J	.
 =12	=12
-8.cc#	E#add(1,6,10)
-16cc#	.
-8cc#	B
-8cc#	.
-8g#	B/F#
-8dd#	.
+8.cc#L	E# other-1,6,10
+16cc#k	.
+8cc#	B major
+8cc#J	.
+8g#L	B major/F#
+8dd#J	.
 4cc#	.
 =13	=13
-8.ff#	.
-16ff#	.
-8dd#	B
+8.ff#L	.
+16ff#k	.
+8dd#	B major
+8cc#J	.
+8bL	B major/F#
 8cc#	.
-8b	B/F#
-8cc#	.
-8dd#	Cadd(3,4,6,7,11)
-8g#	.
+8dd#	C other-3,4,6,7,11
+8g#J	.
 =14	=14
-8g#	E#add(1,6,10)
+8g#L	E# other-1,6,10
 8cc#	.
-8a#	Cadd(3,4,6,7,11)
-8g#	.
-8g#	B/F#
+8a#	C other-3,4,6,7,11
+8g#J	.
+8g#L	B major/F#
 8f#	.
-8f#[	.
-8f#]	Badd(4,6,7)/F#
+[8f#	.
+8f#J]	B other-4,6,7/F#
 =15	=15
-8e#	E#add(1,6,10)
+8e#L	E# other-1,6,10
 8cc#	.
-8cc#	Bmaj7/A#
-8f#	.
-8a#	B/F#
+8cc#	B major-seventh/A#
+8f#J	.
+8a#L	B major/F#
 8a#	.
-8g#	B
-8f#	.
+8g#	B major
+8f#J	.
 =16	=16
-8f#	E#add(1,6,10)
-8g#[	.
-8g#]	B
-8f#	.
-2g#	E#add(1,6,10)
+8f#L	E# other-1,6,10
+[8g#	.
+8g#]	B major
+8f#J	.
+2g#	E# other-1,6,10
 ==	==
 *-	*-

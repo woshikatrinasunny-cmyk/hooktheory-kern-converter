@@ -17,37 +17,37 @@
 *M4/4	*
 =1	=1
 2.r	.
-16ee	.
+16eeLL	.
 16ff#	.
 16gg#	.
-16aa	.
+16aaJJ	.
 =2	=2
-2bb[	E
-4bb]	Eadd(2,4,7)
-8ccc#	.
-8bb[	B/D#
+[2bb	E major
+4bb]	E other-2,4,7
+8ccc#L	.
+[8bbJ	B major/D#
 =3	=3
 4bb]	.
 4aa	.
 4gg#	.
-8aa	.
-8bb[	E7/D
+8aaL	.
+[8bbJ	E dominant/D
 =4	=4
 3...bb]	.
-8eee	.
+8eeeL	.
 8ddd#	.
-8bb[	A/C#
+[8bbJ	A major/C#
 =5	=5
 2.bb]	.
 4ee	.
 =6	=6
-4aa	Am/C
-8gg#	.
-8aa	.
+4aa	A minor/C
+8gg#L	.
+8aaJ	.
 8r	.
 8bb	.
 8r	.
-8gg#[	E/B
+[8gg#	E major/B
 =7	=7
 4gg#]	.
 8ff#	.
@@ -57,12 +57,12 @@
 8b	.
 8r	.
 =8	=8
-4cc#	F#/A#
+4cc#	F# major/A#
 8ff#	.
 4.ff#	.
-16aa#	.
-16bb	.
-8ccc#[	F#/A#
+16aa#LL	.
+16bbJ	.
+[8ccc#J	F# major/A#
 =9	=9
 4ccc#]	.
 8ddd#	.
@@ -72,15 +72,15 @@
 8fff#	.
 8r	.
 =10	=10
-2eee	Bsus4
+2eee	B suspended-fourth
 8r	.
-8ddd#	.
+8ddd#L	.
 8ccc#	.
-8ddd#	B
+8ddd#J	B major
 =11	=11
 8r	.
-8ddd#	B
+8ddd#	B major
 8r	.
-3...ddd#	B
+3...ddd#	B major
 ==	==
 *-	*-

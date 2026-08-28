@@ -16,55 +16,55 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	G
-8d	.
-8d	Gmaj7/F#
+4r	G major
+8dL	.
+8dJ	G major-seventh/F#
 4d	.
-8G	.
-8d	.
+8GL	.
+8dJ	.
 =2	=2
-8d	Em
+8d	E minor
 4d	.
-4d	Dsus4
+4d	D suspended-fourth
 4G	.
 8r	.
 =3	=3
-4r	G
-8B	.
-8B	Gmaj7/F#
+4r	G major
+8BL	.
+8BJ	G major-seventh/F#
 4B	.
-8B	.
-8B[	.
+8BL	.
+[8BJ	.
 =4	=4
-8B]	Em
+8BL]	E minor
 8B	.
 8B	.
-8A	Dsus4
+8AJ	D suspended-fourth
 8G	.
 4G	.
 8r	.
 =5	=5
-4r	G
-8d	.
-8d	Gmaj7/F#
-8d	.
+4r	G major
+8dL	.
+8dJ	G major-seventh/F#
+8dL	.
 8d	.
 8B	.
-8d[	.
+[8dJ	.
 =6	=6
-8d]	Em
+8d]	E minor
 4d	.
-4d	Dsus4
+4d	D suspended-fourth
 4G	.
 8r	.
 =7	=7
-4r	Csus2
+4r	C suspended-second
 8G	.
 4d	.
 4d	.
 8r	.
 =8	=8
-4r	D
+4r	D major
 4B	.
 8A	.
 4G	.

@@ -16,36 +16,36 @@
 *d:	*
 *M4/4	*
 =1	=1
-1r	C
+1r	C major
 =2	=2
 4e	.
 4e	.
-4f	Csus4
-4g	C
+4f	C suspended-fourth
+4g	C major
 =3	=3
-2..g	Gm
+2..g	G minor
 8f	.
 =4	=4
-4f[	.
-4f]	Gm7
-8f	Gm7/F
-8g[	.
-4g_	Em7b5
+[4f	.
+4f]	G minor-seventh
+8fL	G minor-seventh/F
+[8gJ	.
+4g_	E half-diminished
 =5	=5
-8g]	Csus4
+8gL]	C suspended-fourth
 8f	.
 8f	.
-8e[	.
-4.e]	C
+[8eJ	.
+4.e]	C major
 8e	.
 =6	=6
 4e	.
 4e	.
-4f	Csus4
-4g	C/G
+4f	C suspended-fourth
+4g	C major/G
 =7	=7
-1g	Gm
+1g	G minor
 =8	=8
-1a	Gadd(2,3,7)
+1a	G other-2,3,7
 ==	==
 *-	*-

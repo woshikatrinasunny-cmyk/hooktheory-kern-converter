@@ -16,29 +16,29 @@
 *D:	*
 *M4/4	*
 =1	=1
-8ff#	D
+8ff#	D major
 8r	.
 8gg	.
 8r	.
-8aa	D7/F#
+8aa	D dominant/F#
 8r	.
 8ddd	.
 8r	.
 =2	=2
-8ccc#	G
-8bb	.
+8ccc#L	G major
+8bbJ	.
 8r	.
-8bb[	.
-2bb]	G#dim
+[8bb	.
+2bb]	G# diminished
 =3	=3
-8r	D/A
+8r	D major/A
 16ff#	.
 16r	.
 16gg	.
 16r	.
 16gg#	.
 16r	.
-16aa	Badd(1,4,7,8,10)
+16aa	B other-1,4,7,8,10
 16r	.
 16ff#	.
 16r	.
@@ -47,52 +47,52 @@
 16a	.
 16r	.
 =4	=4
-16b	Em7
+16b	E minor-seventh
 16r	.
 16cc#	.
 16r	.
 16dd	.
 16r	.
-16a	Aaug
+16a	A augmented
 2r	.
 16r	.
 =5	=5
-8ff#	D
+8ff#	D major
 8r	.
 8gg	.
 8r	.
-8aa	D7/F#
+8aa	D dominant/F#
 8r	.
 8ddd	.
 8r	.
 =6	=6
-8ccc#	G
-8bb	.
+8ccc#L	G major
+8bbJ	.
 8r	.
-8ddd[	.
-2ddd]	G#dim
+[8ddd	.
+2ddd]	G# diminished
 =7	=7
-8r	D/A
+8r	D major/A
 16aa	.
 16r	.
 16aa	.
 16r	.
 16bb	.
 16r	.
-16cccn	Badd(1,4,7,10)
+16cccn	B other-1,4,7,10
 16r	.
 16bb	.
 16r	.
 16aa	.
 8.r	.
 =8	=8
-16gg	Aadd(2,5,7,10)
+16gg	A other-2,5,7,10
 16r	.
 16ff#	.
 16r	.
 16ee	.
 16r	.
-16dd	D
+16dd	D major
 2r	.
 16r	.
 ==	==

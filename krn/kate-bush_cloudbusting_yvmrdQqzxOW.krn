@@ -16,78 +16,78 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4.r	B
+4.r	B major
 8B	.
-16f#	.
-16f#	.
+16f#LL	.
+16f#J	.
 8f#	.
 8f#	.
-8e[	.
+[8eJ	.
 =2	=2
-4e]	C#m7
+4e]	C# minor-seventh
 2.r	.
 =3	=3
-4.r	B
+4.r	B major
 8B	.
+8f#L	.
 8f#	.
 8f#	.
-8f#	.
-8e[	.
+[8eJ	.
 =4	=4
-4e]	Aadd(2,4,7)
+4e]	A other-2,4,7
 2.r	.
 =5	=5
-4r	B
-8B	.
-8B	.
+4r	B major
+8BL	.
+8BJ	.
 4f#	.
-16f#	.
-16f#	.
-8e[	.
+16f#LL	.
+16f#J	.
+[8eJ	.
 =6	=6
-8e]	C#m7
-8f#	.
+8eL]	C# minor-seventh
+8f#J	.
 3...r	.
-8f#[	.
+[8f#	.
 =7	=7
-3...f#]	Badd(2,4,7)
-8f#	.
+3...f#]	B other-2,4,7
+8f#L	.
 8g#	.
-8a[	.
+[8aJ	.
 =8	=8
-8a]	Aadd(2,4,7)
+8aL]	A other-2,4,7
 8g#	.
 8g#	.
-8f#	.
-8f#	.
+8f#J	.
+8f#L	.
 8e	.
 8e	.
-8c#	.
+8c#J	.
 =9	=9
-16e	B
+16e	B major
 2...f#	.
 =10	=10
-4.r	C#m7
+4.r	C# minor-seventh
 8B	.
 8e	.
 4e	.
 8c#	.
 =11	=11
-2B	B
+2B	B major
 8r	.
 8f#	.
 4g#	.
 =12	=12
-8a	F#add(2,3,7)/A
+8aL	F# other-2,3,7/A
 8g#	.
 8g#	.
-8f#	.
-8f#	Aadd(2,4,7)
+8f#J	.
+8f#L	A other-2,4,7
 8e	.
 8e	.
-8c#	.
+8c#J	.
 =13	=13
-16e	B
+16e	B major
 2...f#	.
 ==	==
 *-	*-

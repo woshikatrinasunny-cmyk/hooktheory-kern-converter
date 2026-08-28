@@ -16,60 +16,60 @@
 *g:	*
 *M4/4	*
 =1	=1
-4gg	Gm
-8.dd	.
-16bb-	.
-4gg	E-
-8.dd	.
-16bb-	.
+4gg	G minor
+8.ddL	.
+16bb-Jk	.
+4gg	E- major
+8.ddL	.
+16bb-Jk	.
 =2	=2
-4gg	Cm
-8.dd	.
-16bb-	.
-4gg	F
-8dd[	.
-8dd]	Gm11
+4gg	C minor
+8.ddL	.
+16bb-Jk	.
+4gg	F major
+[8ddL	.
+8ddJ]	G minor-11th
 =3	=3
-8gg[	Gm
-8gg]	Gm
-8dd[	.
-16dd]	Gm
-16bb-	.
-8gg[	E-
-8gg]	E-
-8dd[	.
-16dd]	E-
-16bb-	.
+[8ggL	G minor
+8gg]	G minor
+[8dd	.
+16ddL]	G minor
+16bb-JJ	.
+[8ggL	E- major
+8gg]	E- major
+[8dd	.
+16ddL]	E- major
+16bb-JJ	.
 =4	=4
-8gg[	Cm
-8gg]	Cm
-8dd[	.
-16dd]	Cm
-16bb-	.
-8gg[	F
-8gg]	F/C
-8dd[	G-dim
-8dd]	G-dim/C
+[8ggL	C minor
+8gg]	C minor
+[8dd	.
+16ddL]	C minor
+16bb-JJ	.
+[8ggL	F major
+8gg]	F major/C
+[8dd	G- diminished
+8ddJ]	G- diminished/C
 =5	=5
-8gg[	Gm
-8gg]	Gm
-8dd[	.
-16dd]	Gm
-16bb-	.
-8gg[	E-
-8gg]	E-
-8dd[	.
-16dd]	E-
-16bb-	.
+[8ggL	G minor
+8gg]	G minor
+[8dd	.
+16ddL]	G minor
+16bb-JJ	.
+[8ggL	E- major
+8gg]	E- major
+[8dd	.
+16ddL]	E- major
+16bb-JJ	.
 =6	=6
-8gg[	Cm
-8gg]	Cm
-8dd[	.
-16dd]	Cm
-16bb-	.
-8gg[	F
-8gg]	F/C
-8dd[	G-dim
-8dd]	G-dim/C
+[8ggL	C minor
+8gg]	C minor
+[8dd	.
+16ddL]	C minor
+16bb-JJ	.
+[8ggL	F major
+8gg]	F major/C
+[8dd	G- diminished
+8ddJ]	G- diminished/C
 ==	==
 *-	*-

@@ -16,335 +16,335 @@
 *C:	*
 *M4/4	*
 =1	=1
-2cc[	C
-4cc]	C
+[2cc	C major
+4cc]	C major
 4a	.
 =2	=2
-8r	C
+8r	C major
+8d#L	.
 8d#	.
-8d#	.
-8e	.
-8c	Am/C
-8c	.
+8eJ	.
+8cL	A minor/C
+8cJ	.
 4A	.
 =3	=3
-8r	C
+8r	C major
+8d#L	.
 8d#	.
-8d#	.
-8e	.
-8c	Am/C
+8eJ	.
+8cL	A minor/C
 8c	.
 8A	.
-8G	.
+8GJ	.
 =4	=4
-8r	C
+8r	C major
+8d#L	.
 8d#	.
-8d#	.
-8e	.
-8c	Am/C
+8eJ	.
+8cL	A minor/C
 8c	.
 8A	.
-8G	.
+8GJ	.
 =5	=5
-16e	C
-16f	.
+16eLL	C major
+16fJ	.
 8g	.
 8g	.
-8a	.
-4e	Am/C
+8aJ	.
+4e	A minor/C
 4r	.
 =6	=6
-8r	C
+8r	C major
+8d#L	.
 8d#	.
-8d#	.
-8e	.
-8c	Am/C
+8eJ	.
+8cL	A minor/C
 8c	.
 8A	.
-8G	.
+8GJ	.
 =7	=7
-8r	C
+8r	C major
+8d#L	.
 8d#	.
-8d#	.
-8e	.
-8c	Am/C
-8c	.
+8eJ	.
+8cL	A minor/C
+8cJ	.
 4A	.
 =8	=8
-8r	F7
+8r	F dominant
+8d#L	.
 8d#	.
-8d#	.
-8d#	.
-8d#	F
+8d#J	.
+8d#L	F major
 8c	.
 8c	.
-8A	.
+8AJ	.
 =9	=9
-8d#	Fm7
+8d#L	F minor-seventh
 8d#	.
 8d#	.
-8e	.
-2c	Fm
+8eJ	.
+2c	F minor
 =10	=10
-8r	C
+8r	C major
+8d#L	.
 8d#	.
-8d#	.
-8e	.
-8c	Am/C
+8eJ	.
+8cL	A minor/C
 8c	.
 8c	.
-8A	.
+8AJ	.
 =11	=11
-8r	C
-8e	.
+8r	C major
+8eL	.
 8d#	.
-8c	.
-8e	Am/C
-8A	.
+8cJ	.
+8eL	A minor/C
+8AJ	.
 4A	.
 =12	=12
-8r	C
-8e	.
+8r	C major
+8eL	.
 8d	.
-8c	.
-8e	Am/C
+8cJ	.
+8eL	A minor/C
 8A	.
 8A	.
-8G	.
+8GJ	.
 =13	=13
-8A	C
+8AL	C major
 8c	.
 8d	.
-8c	.
-4e	Am/C
-8A	.
-8G	.
+8cJ	.
+4e	A minor/C
+8AL	.
+8GJ	.
 =14	=14
-8r	C
-8e	.
+8r	C major
+8eL	.
 8d#	.
-8c	.
-8e	Am/C
+8cJ	.
+8eL	A minor/C
 8A	.
 8A	.
-8G	.
+8GJ	.
 =15	=15
-8r	C
-8e	.
+8r	C major
+8eL	.
 8d#	.
-8c	.
-8e	Am/C
-8A	.
+8cJ	.
+8eL	A minor/C
+8AJ	.
 4r	.
 =16	=16
-8r	F7
+8r	F dominant
+8d#L	.
 8d#	.
-8d#	.
-8d#	.
-8d#	F
+8d#J	.
+8d#L	F major
 8c	.
 8c	.
-8A	.
+8AJ	.
 =17	=17
-8d#	Fm7
+8d#L	F minor-seventh
 8d#	.
 8d#	.
-8e	.
-2c	Fm
+8eJ	.
+2c	F minor
 =18	=18
-8r	E7
+8r	E dominant
+8eL	.
 8e	.
-8e	.
+8d#J	.
+8eL	E major
 8d#	.
-8e	E
 8d#	.
-8d#	.
-8d	.
+8dJ	.
 =19	=19
-8dd#	G7
+8dd#L	G dominant
 8ee	.
 8ee	.
-8dd#	.
-2ee	G
+8dd#J	.
+2ee	G major
 =20	=20
-8r	C
-8e	.
+8r	C major
+8eL	.
 8d#	.
-8c	.
-8e	Am/C
+8cJ	.
+8eL	A minor/C
 8A	.
 8A	.
-8G	.
+8GJ	.
 =21	=21
-8r	C
-8e	.
+8r	C major
+8eL	.
 8d#	.
-8c	.
-8e	Am/C
+8cJ	.
+8eL	A minor/C
 8A	.
 8A	.
-8c[	.
+[8cJ	.
 =22	=22
-8c]	C
+8cL]	C major
 8e	.
 8d#	.
-8c	.
-8e	Am/C
+8cJ	.
+8eL	A minor/C
 8A	.
 8A	.
-8G	.
+8GJ	.
 =23	=23
-8r	C
-8e	.
+8r	C major
+8eL	.
 8d#	.
-8c	.
-8e	Am/C
-8A	.
+8cJ	.
+8eL	A minor/C
+8AJ	.
 8r	.
 8A	.
 =24	=24
-8r	C
-8e	.
+8r	C major
+8eL	.
 8d#	.
-8c	.
-8e	Am/C
+8cJ	.
+8eL	A minor/C
 8A	.
 8A	.
-8G	.
+8GJ	.
 =25	=25
-8r	C
-8e	.
+8r	C major
+8eL	.
 8d#	.
-8c	.
-8e	Am/C
+8cJ	.
+8eL	A minor/C
 8A	.
 8A	.
-8G	.
+8GJ	.
 =26	=26
-8r	F7
+8r	F dominant
+8d#L	.
 8d#	.
-8d#	.
-8d#	.
-8d#	F
+8d#J	.
+8d#L	F major
 8c	.
 8c	.
-8A	.
+8AJ	.
 =27	=27
-8d#	Fm7
+8d#L	F minor-seventh
 8d#	.
 8d#	.
-8e	.
-2c	Fm
+8eJ	.
+2c	F minor
 =28	=28
-8r	C
-8e	.
+8r	C major
+8eL	.
 8f	.
-8g	.
-8g	Am/C
+8gJ	.
+8gL	A minor/C
 8d#	.
 8c	.
-8A	.
+8AJ	.
 =29	=29
-8r	C
+8r	C major
+8d#L	.
 8d#	.
-8d#	.
-8e	.
-8c	Am/C
+8eJ	.
+8cL	A minor/C
 8c	.
-8A	.
+8AJ	.
 8r	.
 =30	=30
-8r	C
-8d#	.
+8r	C major
+8d#L	.
 8e	.
-8f	.
-8c	Am/C
+8fJ	.
+8cL	A minor/C
 8c	.
-8A	.
+8AJ	.
 8r	.
 =31	=31
-8r	C
+8r	C major
+8d#L	.
 8d#	.
-8d#	.
-8e	.
-8c	Am/C
+8eJ	.
+8cL	A minor/C
 8c	.
 8c	.
-8A	.
+8AJ	.
 =32	=32
-8r	C
-8d#	.
+8r	C major
+8d#L	.
 8d	.
-8c	.
-8e	Am/C
+8cJ	.
+8eL	A minor/C
 8A	.
 8A	.
-8G	.
+8GJ	.
 =33	=33
-8d#	C
+8d#L	C major
 8d#	.
 8d#	.
-8e	.
-2c	Am/C
+8eJ	.
+2c	A minor/C
 =34	=34
-8r	F7
+8r	F dominant
+8d#L	.
+8d#	.
+8cJ	.
+8d#L	F major
 8d#	.
 8d#	.
-8c	.
-8d#	F
-8d#	.
-8d#	.
-8c	.
+8cJ	.
 =35	=35
-8r	Fm7
+8r	F minor-seventh
+8d#L	.
 8d#	.
-8d#	.
-8c	.
-8e	Fm
-8f	.
+8cJ	.
+8eL	F minor
+8fJ	.
 4c	.
 =36	=36
-8r	E7
+8r	E dominant
+8eL	.
 8e	.
-8e	.
+8d#J	.
+8eL	E major
 8d#	.
-8e	E
 8d#	.
-8d#	.
-8d	.
+8dJ	.
 =37	=37
-8d	G7
+8dL	G dominant
 8e	.
 8e	.
-8d	.
-2e	G
+8dJ	.
+2e	G major
 =38	=38
-2d#	F7
+2d#	F dominant
 8d	.
 4c	.
 8r	.
 =39	=39
-1r	F7
+1r	F dominant
 =40	=40
-2d#	F7
+2d#	F dominant
 8d	.
 4c	.
 8r	.
 =41	=41
-1r	F7
+1r	F dominant
 =42	=42
-2e	A7
+2e	A dominant
 8d	.
 4c#	.
 8r	.
 =43	=43
-1r	A7
+1r	A dominant
 =44	=44
-2e	A7
+2e	A dominant
 8d	.
 4c#	.
 8r	.
 =45	=45
-1r	A7
+1r	A dominant
 ==	==
 *-	*-

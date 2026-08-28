@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.cc	C
+4.cc	C major
 4ee	.
 4ff#	.
 8aa	.
@@ -26,22 +26,22 @@
 4cc	.
 8a	.
 =3	=3
-8f#	Cdim
+8f#L	C diminished
 8f#	.
 8f#	.
-8g	C
+8gJ	C major
 4.E	.
 8F#	.
 =4	=4
-24G	G#add(2,4,8)/C
+24GLL	G# other-2,4,8/C
 24A	.
-24G	.
+24GJ	.
 8F#	.
-8E	.
+8EJ	.
 2C	.
 8E	.
 =5	=5
-8r	C
+8r	C major
 8F#	.
 8r	.
 8A	.
@@ -53,9 +53,9 @@
 8C	.
 8r	.
 8c	.
-8d#	.
+8d#L	.
 8c	.
 8d	.
-8c	.
+8cJ	.
 ==	==
 *-	*-

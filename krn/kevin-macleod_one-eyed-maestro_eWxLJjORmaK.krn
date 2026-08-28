@@ -15,27 +15,27 @@
 *f:	*
 *M4/4	*
 =1	=1
-4ff	Fm
-8.ff	.
-16ee-	.
+4ff	F minor
+8.ffL	.
+16ee-Jk	.
 16ddn	.
 16r	.
 16cc	.
 16r	.
 4b-	.
 =2	=2
-4ee-	E-
-8.ee-	.
-16dd-	.
+4ee-	E- major
+8.ee-L	.
+16dd-Jk	.
 16cc	.
 16r	.
 16b-	.
 16r	.
 4a-	.
 =3	=3
-4dd-	D-
-8.dd-	.
-16cc	.
+4dd-	D- major
+8.dd-L	.
+16ccJk	.
 16b-	.
 16r	.
 16a-	.
@@ -45,31 +45,31 @@
 16a-	.
 16r	.
 =4	=4
-2bn	C
+2bn	C major
 4cc	.
 4een	.
 =5	=5
-4ff	Fm
-8.ff	.
-16ee-	.
+4ff	F minor
+8.ffL	.
+16ee-Jk	.
 16dd-	.
 16r	.
 16cc	.
 16r	.
 4b-	.
 =6	=6
-4ee-	E-
-8.ee-	.
-16dd-	.
+4ee-	E- major
+8.ee-L	.
+16dd-Jk	.
 16cc	.
 16r	.
 16b-	.
 16r	.
 4a-	.
 =7	=7
-4dd-	D-
-8.dd-	.
-16cc	.
+4dd-	D- major
+8.dd-L	.
+16ccJk	.
 16b-	.
 16r	.
 16a-	.
@@ -79,7 +79,7 @@
 16a-	.
 16r	.
 =8	=8
-2bn	C
+2bn	C major
 8cc	.
 4.r	.
 ==	==

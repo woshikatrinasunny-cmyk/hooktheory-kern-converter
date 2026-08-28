@@ -16,106 +16,106 @@
 *F:	*
 *M4/4	*
 =1	=1
-8a	F
+8a	F major
 4g	.
-8g	Fsus2
+8g	F suspended-second
+8gL	.
 8g	.
-8g	.
-8b-	Fsus4
-8b-	.
+8b-	F suspended-fourth
+8b-J	.
 =2	=2
-8b-	.
-8a	F
+8b-L	.
+8a	F major
 8a	.
-8g	.
-8cc	.
+8gJ	.
+8ccL	.
 8b-	.
 8a	.
-8b-	.
+8b-J	.
 =3	=3
-4.a	Am/E
-4.g	Am/E
-8f	Am/E
-8f	.
+4.a	A minor/E
+4.g	A minor/E
+8fL	A minor/E
+8fJ	.
 =4	=4
-8f	.
-8g	Am/E
+8fL	.
+8g	A minor/E
 8g	.
-8g	.
+8gJ	.
 4g	.
 4a	.
 =5	=5
-4.g	Dsus4
-4.f	Dm
-4e[	Dsus2
+4.g	D suspended-fourth
+4.f	D minor
+[4e	D suspended-second
 =6	=6
 8e]	.
-4.f	Dm
+4.f	D minor
 4g	.
 4f	.
 =7	=7
-4.f	Csus4
-4.e	C
-8d	Csus2
-8d	.
+4.f	C suspended-fourth
+4.e	C major
+8dL	C suspended-second
+8dJ	.
 =8	=8
-8d	.
-8e	C
+8dL	.
+8e	C major
 8e	.
-8e	.
+8eJ	.
+8fL	.
 8f	.
-8f	.
 8e	.
-8g	.
+8gJ	.
 =9	=9
-8a	F
+8a	F major
 4g	.
-8g	Fsus2
+8g	F suspended-second
+8gL	.
 8g	.
-8g	.
-8b-	Fsus4
-8b-	.
+8b-	F suspended-fourth
+8b-J	.
 =10	=10
-8b-	.
-8a	F
+8b-L	.
+8a	F major
 8a	.
-8g	.
-8cc	.
+8gJ	.
+8ccL	.
 8b-	.
 8a	.
-8b-[	.
+[8b-J	.
 =11	=11
-8b-]	Am/E
+8b-L]	A minor/E
 8a	.
-8e[	.
-4.e]	Am/E
-8f	Am/E
-8f	.
+[8eJ	.
+4.e]	A minor/E
+8fL	A minor/E
+8fJ	.
 =12	=12
-8f	.
-8g	Am/E
+8fL	.
+8g	A minor/E
 8g	.
-8g	.
+8gJ	.
 4g	.
 4a	.
 =13	=13
-4.g	Dsus4
-4.f	Dm
-4e[	Dsus2
+4.g	D suspended-fourth
+4.f	D minor
+[4e	D suspended-second
 =14	=14
 8e]	.
-4.f	Dm
+4.f	D minor
 4g	.
 4f	.
 =15	=15
-4.f	Csus4
-4.e	C
-4d[	Csus2
+4.f	C suspended-fourth
+4.e	C major
+[4d	C suspended-second
 =16	=16
 8d]	.
-4.e	C
-8f	.
-8f	.
+4.e	C major
+8fL	.
+8fJ	.
 4e	.
 ==	==
 *-	*-

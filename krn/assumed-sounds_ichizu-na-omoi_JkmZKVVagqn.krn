@@ -16,72 +16,72 @@
 *G:	*
 *M4/4	*
 =1	=1
-1a	Am7/C
+1a	A minor-seventh/C
 =2	=2
-2r	Dadd(2,4,7)
-8f#	.
+2r	D other-2,4,7
+8f#L	.
 8g	.
 8a	.
-8dd	.
+8ddJ	.
 =3	=3
-2.a	B7sus4
+2.a	B dominant-seventh-suspended-fourth
 4f#	.
 =4	=4
-3...g	Em
-8f#	.
+3...g	E minor
+8f#L	.
 8e	.
-8d	.
+8dJ	.
 =5	=5
-4.c	Aadd(2,3,7)
+4.c	A other-2,3,7
 8b	.
 4.b	.
 8d#	.
 =6	=6
-4.d#	D#maj7/D
+4.d#	D# major-seventh/D
 8b	.
 4.b	.
 8a	.
 =7	=7
-4.a	G
+4.a	G major
 8g	.
-4b[	.
-4b]	Gmaj7
+[4b	.
+4b]	G major-seventh
 =8	=8
-2r	G7sus4
-8ee	E7/G#
+2r	G dominant-seventh-suspended-fourth
+8eeL	E dominant/G#
 8ff#	.
 8gg	.
-8ddd	.
+8dddJ	.
 =9	=9
-1aa	Am7/C
+1aa	A minor-seventh/C
 =10	=10
-2r	Dadd(2,4,7)
-8ff#	.
+2r	D other-2,4,7
+8ff#L	.
 8gg	.
 8aa	.
-8eee	.
+8eeeJ	.
 =11	=11
-2.ddd	Bm7
+2.ddd	B minor-seventh
 4bb	.
 =12	=12
-2eee	Cmaj7/E
-8eee	.
+2eee	C major-seventh/E
+8eeeL	.
 8fffn	.
 8eee	.
-8ddd	.
+8dddJ	.
 =13	=13
-4.ddd	Aadd(2,3,7)
+4.ddd	A other-2,3,7
 8ccc	.
 4.ccc	.
 8bb	.
 =14	=14
-4.bb	Dadd(2,4,7)
+4.bb	D other-2,4,7
 8aa	.
-4.aa	D/F#
+4.aa	D major/F#
 8bb	.
 =15	=15
-1aa	Am7b5/G
+1aa	A half-diminished/G
 =16	=16
-1gg	G
+1gg	G major
 ==	==
 *-	*-

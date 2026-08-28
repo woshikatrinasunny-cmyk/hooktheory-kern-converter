@@ -16,18 +16,18 @@
 *G:	*
 *M4/4	*
 =1	=1
-4dd	D
+4dd	D major
 8dd	.
 4.cc	.
 4b	.
 =2	=2
-2.b	Am
-4cc[	.
+2.b	A minor
+[4cc	.
 =3	=3
 3...cc_	.
-4.cc_	G/B
+4.cc_	G major/B
 =4	=4
-2cc]	C
+2cc]	C major
 2r	.
 =5	=5
 4dd	.
@@ -35,14 +35,14 @@
 4.cc	.
 4b	.
 =6	=6
-2.b	Am
-4a[	.
+2.b	A minor
+[4a	.
 =7	=7
 4a]	.
-4.cc[	.
-4.cc_	G/B
+[4.cc	.
+4.cc_	G major/B
 =8	=8
-2cc]	C
+2cc]	C major
 2r	.
 =9	=9
 4dd	.
@@ -50,19 +50,19 @@
 4.dd	.
 4dd	.
 =10	=10
-2.dd	G
-8cc	.
-8b[	.
+2.dd	G major
+8ccL	.
+[8bJ	.
 =11	=11
-1b_	C
+1b_	C major
 =12	=12
-2b]	G
+2b]	G major
 4r	.
 4g	.
 =13	=13
-4cc	Gsus4
-2b	G
-4a[	D
+4cc	G suspended-fourth
+2b	G major
+[4a	D major
 =14	=14
 1a]	.
 ==	==

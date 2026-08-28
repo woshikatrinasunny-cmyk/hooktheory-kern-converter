@@ -16,35 +16,35 @@
 *A-:	*
 *M6/4	*
 =1	=1
-1.r	A-add(2,4,7)/C
+1.r	A- other-2,4,7/C
 =2	=2
-1.r	B-add(2,3,7)
+1.r	B- other-2,3,7
 =3	=3
 1.r	.
 =4	=4
 1.r	.
 =5	=5
-1.r	A-add(2,4,7)/C
+1.r	A- other-2,4,7/C
 =6	=6
-1.r	B-add(2,3,7)
+1.r	B- other-2,3,7
 =7	=7
 1.r	.
 =8	=8
 1.r	.
 =9	=9
-1.r	D-
+1.r	D- major
 =10	=10
-1.r	E-7/D-
+1.r	E- dominant/D-
 =11	=11
-1.r	D-
+1.r	D- major
 =12	=12
-1.r	E-7/D-
+1.r	E- dominant/D-
 =13	=13
-1.r	A-
+1.r	A- major
 =14	=14
-1.r	E-7sus4
+1.r	E- dominant-seventh-suspended-fourth
 =15	=15
-1.r	D-add(2,4,7)
+1.r	D- other-2,4,7
 =16	=16
 1.r	.
 ==	==

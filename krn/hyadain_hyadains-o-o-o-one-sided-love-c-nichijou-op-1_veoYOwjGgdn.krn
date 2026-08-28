@@ -15,64 +15,64 @@
 *F:	*
 *M4/4	*
 =1	=1
-2ff	B-
-8r	B-/D
-8ee	.
+2ff	B- major
+8r	B- major/D
+8eeL	.
 8ff	.
-8cc	F/A
+8ccJ	F major/A
 =2	=2
 8r	.
 8aa	.
 8r	.
-8gg	Am7/C
+8gg	A minor-seventh/C
 8r	.
-8ff	F/A
+8ffL	F major/A
 8ee	.
-8dd[	Gm
+[8ddJ	G minor
 =3	=3
-8dd]	.
+8ddL]	.
 8dd	.
 8dd	.
-8dd	.
-8dd-	A
+8ddJ	.
+8dd-L	A major
 8dd	.
 8ee	.
-8gg	Gsus2
+8ggJ	G suspended-second
 =4	=4
 8r	.
-4ff	Dm
-4aa-	Dm7b5/C
-8gg	.
-8ff	Dm/F
-8ff[	B-
+4ff	D minor
+4aa-	D half-diminished/C
+8ggL	.
+8ff	D minor/F
+[8ffJ	B- major
 =5	=5
 2ff]	.
-8ccc	Dm7
+8cccL	D minor-seventh
 8bb-	.
 8aa	.
-8gg[	Aadd(1,3,5,7,10)
+[8ggJ	A other-1,3,5,7,10
 =6	=6
 8gg]	.
-4ff	F/A
-4ee	Am7/C
-4ff	F/A
-8cc[	Gm11
+4ff	F major/A
+4ee	A minor-seventh/C
+4ff	F major/A
+[8cc	G minor-11th
 =7	=7
 4.cc]	.
 8r	.
-8cc	C/E
+8ccL	C major/E
 8dd	.
 8ee	.
-8ff	.
+8ffJ	.
 =8	=8
 8r	.
-4cc	C
-4aa-	A-/C
-8gg	C
+4cc	C major
+4aa-	A- major/C
+8ggL	C major
 8ff	.
-8ff	F
+8ffJ	F major
 =9	=9
-2ff	F
+2ff	F major
 2r	.
 ==	==
 *-	*-

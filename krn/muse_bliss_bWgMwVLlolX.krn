@@ -16,79 +16,79 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
-4r	C
-4r	C
-4r	C
+4r	C major
+4r	C major
+4r	C major
+4r	C major
 =2	=2
-4ee[	Am
-4ee]	Am
-4ee[	Am
-4ee_	Am
+[4ee	A minor
+4ee]	A minor
+[4ee	A minor
+4ee_	A minor
 =3	=3
-4ee_	C/G
-4ee_	C/G
-4ee_	C/G
-8ee_	C/G
-16ee_	C/G
-16ee_	C/G
+4ee_	C major/G
+4ee_	C major/G
+4ee_	C major/G
+8eeL_	C major/G
+16eeL_	C major/G
+16eeJJ_	C major/G
 =4	=4
-4ee]	C/G
-8r	C/G
+4ee]	C major/G
+8r	C major/G
 8ee	.
-4dd#	C/G
-4ee	C/G
+4dd#	C major/G
+4ee	C major/G
 =5	=5
-8gg[	C
-8gg_	C
-8gg_	C
-8gg_	C
-8gg_	C
-8gg]	C
-8gg[	C
-8gg]	C
+[8ggL	C major
+8gg_	C major
+8gg_	C major
+8ggJ_	C major
+8ggL_	C major
+8gg]	C major
+[8gg	C major
+8ggJ]	C major
 =6	=6
-8ccc[	Am
-8ccc_	Am
-8ccc]	Am
-8ccc[	Am
-8ccc_	Am
-8ccc]	Am
-8ccc[	Am
-8ccc]	Am
+[8cccL	A minor
+8ccc_	A minor
+8ccc]	A minor
+[8cccJ	A minor
+8cccL_	A minor
+8ccc]	A minor
+[8ccc	A minor
+8cccJ]	A minor
 =7	=7
-8bb[	E
-8bb_	E
-8bb]	E
-8gg#	E
-8ee[	E
-8ee_	E
-8ee_	E
-8ee_	E
+[8bbL	E major
+8bb_	E major
+8bb]	E major
+8gg#J	E major
+[8eeL	E major
+8ee_	E major
+8ee_	E major
+8eeJ_	E major
 =8	=8
-8ee_	E
-8ee_	E
-8ee_	E
-8ee]	E
-8r	E
-8r	E
-8r	E
-8r	E
+8eeL_	E major
+8ee_	E major
+8ee_	E major
+8eeJ]	E major
+8r	E major
+8r	E major
+8r	E major
+8r	E major
 =9	=9
 4.cc	.
-8a#[	.
-8a#_	Fm
-8a#]	Fm
-8g#[	Fm
-8g#]	Fm
+[8a#	.
+8a#L_	F minor
+8a#]	F minor
+[8g#	F minor
+8g#J]	F minor
 =10	=10
-8g[	Fm
-8g_	Fm
-8g]	Fm
-8f#	Fm
-8g[	Fm
-8g_	Fm
-8g_	Fm
-8g]	Fm
+[8gL	F minor
+8g_	F minor
+8g]	F minor
+8f#J	F minor
+[8gL	F minor
+8g_	F minor
+8g_	F minor
+8gJ]	F minor
 ==	==
 *-	*-

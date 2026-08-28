@@ -16,142 +16,142 @@
 *D:	*
 *M4/4	*
 =1	=1
-8d	D
+8dL	D major
 8d	.
 8f#	.
-8f#	.
+8f#J	.
+8aL	.
 8a	.
-8a	.
-8dd	D
-8dd	.
+8dd	D major
+8ddJ	.
 =2	=2
-8cc#	A
+8cc#L	A major
 8dd	.
-8cc#	Bm
-8b	.
-8a	A/C#
+8cc#	B minor
+8bJ	.
+8aL	A major/C#
 8g	.
-8f#	F#m7/A
-8e	.
+8f#	F# minor-seventh/A
+8eJ	.
 =3	=3
-8d	D/F#
+8dL	D major/F#
 8d	.
-8f#	F#m7/E
-8f#	.
-8a	D/F#
+8f#	F# minor-seventh/E
+8f#J	.
+8aL	D major/F#
 8a	.
-8dd	D
-8dd	.
+8dd	D major
+8ddJ	.
 =4	=4
-4ee	A
-4a	Bm7
-4r	A/C#
-4ee	A
+4ee	A major
+4a	B minor-seventh
+4r	A major/C#
+4ee	A major
 =5	=5
-8ff#	D
+8ff#L	D major
 8ff#	.
-8ee	A/C#
-8ee	.
-8gg	G/B
+8ee	A major/C#
+8eeJ	.
+8ggL	G major/B
 8gg	.
-8ff#	F#m/A
-8ff#	.
+8ff#	F# minor/A
+8ff#J	.
 =6	=6
-8bb	G
+8bbL	G major
 8bb	.
-8aa	D/F#
-8aa	.
-8cc#	C#dim/E
+8aa	D major/F#
+8aaJ	.
+8cc#L	C# diminished/E
 8cc#	.
-8dd	D
-8dd	.
+8dd	D major
+8ddJ	.
 =7	=7
-8g	C#dim
+8gL	C# diminished
 8g	.
-8f#	D
-8f#	.
-8b	G
+8f#	D major
+8f#J	.
+8bL	G major
 8b	.
-8a	D/F#
-8a	.
+8a	D major/F#
+8aJ	.
 =8	=8
-8c#	C#dim/E
+8c#L	C# diminished/E
 8c#	.
-8d	D
-8d	.
-8A	A/C#
+8d	D major
+8dJ	.
+8AL	A major/C#
 8A	.
-8g	A7
-8g	.
+8g	A dominant
+8gJ	.
 =9	=9
-8f#	D
+8f#L	D major
 8e	.
-8f#	Bm
-8d	.
-8e	Em/G
+8f#	B minor
+8dJ	.
+8eL	E minor/G
 8e	.
-8A	A
-8A	.
+8A	A major
+8AJ	.
 =10	=10
-8d	Bm
-8e	A/C#
-8f#	D
-8g	Em
-8a	D/F#
-8b	G
-8cc#	A
-8a	F#m
+8dL	B minor
+8e	A major/C#
+8f#	D major
+8gJ	E minor
+8aL	D major/F#
+8b	G major
+8cc#	A major
+8aJ	F# minor
 =11	=11
-8dd	Bm
+8ddL	B minor
 8dd	.
-8cc#	F#m/A
-8cc#	.
-8ee	Em/G
+8cc#	F# minor/A
+8cc#J	.
+8eeL	E minor/G
 8ee	.
-8dd	D/F#
-8dd	.
+8dd	D major/F#
+8ddJ	.
 =12	=12
-8gg	C#dim/E
+8ggL	C# diminished/E
 8gg	.
-8ff#	D
-8ff#	.
-8bb	C#m7b5
+8ff#	D major
+8ff#J	.
+8bbL	C# half-diminished
 8bb	.
-8aa	A
-8aa	.
+8aa	A major
+8aaJ	.
 =13	=13
-8gg	D
+8ggL	D major
 8ff#	.
-8ee	D/F#
-8dd	.
-4ee	Em/G
-8a	A
-8b	C#m7b5/G
+8ee	D major/F#
+8ddJ	.
+4ee	E minor/G
+8aL	A major
+8bJ	C# half-diminished/G
 =14	=14
-8ccn	F#dim
+8ccnL	F# diminished
 8a	.
-8b	G
-8dd	.
-8cc#	C#dim/G
+8b	G major
+8ddJ	.
+8cc#L	C# diminished/G
 8ee	.
-8a	A/C#
-8g	.
+8a	A major/C#
+8gJ	.
 =15	=15
-8f#	D
+8f#L	D major
 8d	.
-8e	A/C#
-8g	.
-8f#	D
+8e	A major/C#
+8gJ	.
+8f#L	D major
 8a	.
-8d	D/F#
-8c#	.
+8d	D major/F#
+8c#J	.
 =16	=16
-8B	G
+8BL	G major
 8g	.
 8f#	.
-8e	.
-4e[	A
-8e]	A7
-8d	.
+8eJ	.
+[4e	A major
+8eL]	A dominant
+8dJ	.
 ==	==
 *-	*-

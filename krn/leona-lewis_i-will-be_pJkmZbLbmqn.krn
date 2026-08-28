@@ -16,70 +16,70 @@
 *G:	*
 *M4/4	*
 =1	=1
-8d	G
-16B	.
+8dL	G major
+16Bk	.
 8.d	.
-16B	.
+16BJk	.
 8.d	.
-16B	.
-8.d	.
+16BLK	.
+8.dJ	.
 8r	.
 =2	=2
-8d	Em
-16B	.
+8dL	E minor
+16Bk	.
 8.d	.
-16B	.
+16BJk	.
 8.d	.
-16B	.
+16BLK	.
 8.d	.
-16d	.
-16d[	.
+16dL	.
+[16dJJ	.
 =3	=3
-16d]	Bm
+16dLK]	B minor
 8f#	.
-8.f#	.
+8.f#J	.
 4..r	.
-16e	.
+16eLL	.
 16d	.
-16d[	.
+[16dJJ	.
 =4	=4
-16d]	Cadd(6,7)
+16dLK]	C other-6,7
 8g	.
-8g	.
+8gJ	.
 8.r	.
-2r	C
+2r	C major
 =5	=5
-8d	G
-16B	.
+8dL	G major
+16Bk	.
 8.d	.
-16B	.
+16BJk	.
 8.d	.
-16B	.
-8.d	.
+16BLK	.
+8.dJ	.
 8r	.
 =6	=6
-8d	Em
-16B	.
+8dL	E minor
+16Bk	.
 8.d	.
-16B	.
+16BJk	.
 8.d	.
-16B	.
+16BLK	.
 8.d	.
-16d	.
-16d[	.
+16dL	.
+[16dJJ	.
 =7	=7
-16d]	Bm
+16dLK]	B minor
 8f#	.
-8.f#	.
+8.f#J	.
 4..r	.
-16e	.
+16eLL	.
 16d	.
-16d[	.
+[16dJJ	.
 =8	=8
-16d]	Cadd(6,7)
+16dLK]	C other-6,7
 8g	.
-8g	.
+8gJ	.
 4..r	.
-4r	C
+4r	C major
 ==	==
 *-	*-

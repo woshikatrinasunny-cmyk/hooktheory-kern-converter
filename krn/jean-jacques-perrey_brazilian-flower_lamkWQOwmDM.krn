@@ -16,76 +16,76 @@
 *F:	*
 *M4/4	*
 =1	=1
-8ff	F
+8ff	F major
 8r	.
-8cc	.
-8ff	.
-8ee	Am
+8ccL	.
+8ffJ	.
+8ee	A minor
 8r	.
-8cc	.
-8ee	.
+8ccL	.
+8eeJ	.
 =2	=2
-8dd	B-
+8ddL	B- major
 8f	.
 8b-	.
-8dd	.
-8cc	F
+8ddJ	.
+8ccL	F major
 8cc	.
 8dd	.
-8cc	.
+8ccJ	.
 =3	=3
-8f	B-
+8f	B- major
 8r	.
-8f	.
-8f	.
-8g	C7
-8g	.
+8fL	.
+8fJ	.
+8gL	C dominant
+8gJ	.
 8r	.
-8a[	.
+[8a	.
 =4	=4
-8a]	F
+8aL]	F major
 8F	.
 8A	.
-8c	.
-8C	C
+8cJ	.
+8CL	C major
 8cc	.
 8dd	.
-8ee	.
+8eeJ	.
 =5	=5
-8ff	F
+8ff	F major
 8r	.
-8cc	.
-8ff	.
-8ee	Am
+8ccL	.
+8ffJ	.
+8ee	A minor
 8r	.
-8cc	.
-8ee	.
+8ccL	.
+8eeJ	.
 =6	=6
-8dd	B-
+8ddL	B- major
 8f	.
 8b-	.
-8dd	.
-8cc	F
+8ddJ	.
+8ccL	F major
 8cc	.
 8dd	.
-8cc	.
+8ccJ	.
 =7	=7
-8f	B-
+8f	B- major
 8r	.
-8f	.
-8f	.
-8g	C7
-8g	.
+8fL	.
+8fJ	.
+8gL	C dominant
+8gJ	.
 8r	.
-8f[	.
+[8f	.
 =8	=8
-8f]	F
+8fL]	F major
 8F	.
 8A	.
-8c	.
-8C	C
+8cJ	.
+8CL	C major
 8cc	.
 8dd	.
-8ee	.
+8eeJ	.
 ==	==
 *-	*-

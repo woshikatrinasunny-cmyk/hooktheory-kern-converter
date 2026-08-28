@@ -16,7 +16,7 @@
 *E:	*
 *M4/4	*
 =1	=1
-8r	Emaj9
+8r	E major-ninth
 16ff#	.
 16r	.
 16ff#	.
@@ -58,7 +58,7 @@
 =5	=5
 *k[f#c#]	*
 *D:	*
-8r	Em9
+8r	E minor-ninth
 16ff#	.
 16r	.
 16ff#	.
@@ -70,15 +70,15 @@
 16dd	.
 16r	.
 =6	=6
-16dd	A7sus4
+16dd	A dominant-seventh-suspended-fourth
 8.r	.
-16cc#	A7
+16cc#	A dominant
 16r	.
 16cc#	.
 2r	.
 16r	.
 =7	=7
-8r	Dmaj9
+8r	D major-ninth
 16ee	.
 16r	.
 16ee	.
@@ -92,27 +92,27 @@
 =8	=8
 *k[f#c#g#d#]	*
 *E:	*
-8cc#	D#m7b5
+8cc#	D# half-diminished
 8r	.
-8b	.
-8b	.
-8r	DmMaj7
+8bL	.
+8bJ	.
+8r	D major-minor
 4.a	.
 =9	=9
-4r	C#m7
+4r	C# minor-seventh
 16g#	.
 16r	.
 16g#	.
 8.r	.
 16b	.
 8.r	.
-8f#[	.
+[8f#	.
 =10	=10
-8.f#]	Cadd(3,4,6,7,11)
+8.f#]	C other-3,4,6,7,11
 6...r	.
-2r	D#dim7/F#
+2r	D# diminished-seventh/F#
 =11	=11
-8r	Bm7
+8r	B minor-seventh
 16f#	.
 8.r	.
 16fn	.
@@ -126,11 +126,11 @@
 16b	.
 16r	.
 =12	=12
-2cc#	Eadd(4,7,9,10)
-8ccn	Eaug7
+2cc#	E other-4,7,9,10
+8ccn	E augmented-seventh
 4.r	.
 =13	=13
-16b	Amaj9
+16b	A major-ninth
 16r	.
 16b	.
 16r	.
@@ -155,7 +155,7 @@
 =15	=15
 *k[f#]	*
 *G:	*
-16b	Am9
+16b	A minor-ninth
 16r	.
 16b	.
 16r	.
@@ -167,11 +167,11 @@
 4..r	.
 =16	=16
 2r	.
-16b	F#add(5,6,10)/C
+16bLL	F# other-5,6,10/C
 16b	.
 16b	.
 16b	.
-16b	.
+16bJJ	.
 8.r	.
 ==	==
 *-	*-

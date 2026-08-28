@@ -15,12 +15,12 @@
 *G:	*
 *M4/4	*
 =1	=1
-2.dd	Gmaj7
+2.dd	G major-seventh
 4ee	.
 =2	=2
-1g[	.
+[1g	.
 =3	=3
-4g]	Gm7
+4g]	G minor-seventh
 4g	.
 4a	.
 4a#	.
@@ -30,7 +30,7 @@
 4dd	.
 4cc	.
 =5	=5
-2.cc#	Dmaj7
+2.cc#	D major-seventh
 4dd	.
 =6	=6
 4f#	.
@@ -38,48 +38,48 @@
 4a	.
 4g#	.
 =7	=7
-2g	C
+2g	C major
 2e	.
 =8	=8
 4.cc	.
 4.g	.
 4e	.
 =9	=9
-4g	G#
+4g	G# major
 8g	.
 4fn	.
 8g	.
-4a#[	.
+[4a#	.
 =10	=10
 4a#]	.
 4d#	.
 4fn	.
 4g	.
 =11	=11
-4b	Cmaj7
+4b	C major-seventh
 8b	.
 4a	.
 8b	.
-4dd[	.
+[4dd	.
 =12	=12
 4dd]	.
 4d	.
 4f#	.
 4g	.
 =13	=13
-4dd	G7
+4dd	G dominant
 8dd	.
 4cc	.
 8dd	.
-4ffn[	.
+[4ffn	.
 =14	=14
 4ffn]	.
 4dd	.
 4ee	.
 4ffn	.
 =15	=15
-1gg[	Gadd(2,5,7)
+[1gg	G other-2,5,7
 =16	=16
-1gg]	G
+1gg]	G major
 ==	==
 *-	*-

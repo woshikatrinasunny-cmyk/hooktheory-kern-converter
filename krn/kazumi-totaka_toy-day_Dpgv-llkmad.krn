@@ -16,66 +16,66 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4cccc	A-maj7
-8bbb-	.
-8aaa-	.
-4eee-	B-m7
+4cccc	A- major-seventh
+8bbb-L	.
+8aaa-J	.
+4eee-	B- minor-seventh
 4ccc	.
 =2	=2
-4.eee-	A-add(2,4,7)/C
+4.eee-	A- other-2,4,7/C
 8ddd-	.
-4ccc	B-m9
+4ccc	B- minor-ninth
 4bb-	.
 =3	=3
-4ccc	A-maj7
+4ccc	A- major-seventh
 4aa-	.
-4r	B-m7
-8aaa-	.
-8ggg	.
+4r	B- minor-seventh
+8aaa-L	.
+8gggJ	.
 =4	=4
-4eeee-	A-add(2,4,7)/C
+4eeee-	A- other-2,4,7/C
 4r	.
-2r	D-
+2r	D- major
 =5	=5
-4e-	A-/E-
+4e-	A- major/E-
 4g	.
-2a-	D-
+2a-	D- major
 =6	=6
-4b-	Cm7
-8a-	.
-8g	.
-4a-	D-
-8g	.
-8f	.
+4b-	C minor-seventh
+8a-L	.
+8gJ	.
+4a-	D- major
+8gL	.
+8fJ	.
 =7	=7
-2e-	A-maj7/C
-2A-[	D-
+2e-	A- major-seventh/C
+[2A-	D- major
 =8	=8
-2A-_	A-maj7/E-
-8A-]	D-
+2A-_	A- major-seventh/E-
+8A-L]	D- major
 8B-	.
 8c	.
-8d-	.
+8d-J	.
 =9	=9
-4e-	Cm7
+4e-	C minor-seventh
 4g	.
-2a-	D-
+2a-	D- major
 =10	=10
-6b-	C7/E
-24cc	.
-24b-	.
+6b-	C dominant/E
+24ccLL	.
+24b-J	.
 8a-	.
+8gJ	.
+6a-	F minor
+24b-LL	.
+24a-J	.
 8g	.
-6a-	Fm
-24b-	.
-24a-	.
-8g	.
-8f	.
+8fJ	.
 =11	=11
-2e-[	E-7sus4/B-
-2e-_	E-7/B-
+[2e-	E- dominant-seventh-suspended-fourth/B-
+2e-_	E- dominant/B-
 =12	=12
-2e-]	E-7sus2
-2r	E-
+2e-]	E- dominant-seventh-suspended-second
+2r	E- major
 ==	==
 *-	*-

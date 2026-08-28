@@ -16,50 +16,50 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.cc#	A
+4.cc#	A major
 4.ee	.
-4b[	E
+[4b	E major
 =2	=2
 2.b]	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =3	=3
-4.cc#	F#m7
+4.cc#	F# minor-seventh
 4ee	.
-8cc#	.
-8bb	G
-8aa[	.
+8cc#L	.
+8bb	G major
+[8aaJ	.
 =4	=4
 2.aa]	.
-8aa	.
-8bb	.
+8aaL	.
+8bbJ	.
 =5	=5
-4.ccc#	Dmaj9
+4.ccc#	D major-ninth
 8bb	.
 8r	.
 8aa	.
-4bb[	Dadd(3,7,9,10)
+[4bb	D other-3,7,9,10
 =6	=6
 2.bb]	.
-8aa	.
-8bb	.
+8aaL	.
+8bbJ	.
 =7	=7
-8ccc#	C#m7
+8ccc#L	C# minor-seventh
 8bb	.
-8ee	.
+8eeJ	.
 4aa	.
-16gg#	.
+16gg#LL	.
 16aa	.
-16gg#	E
-16ee	.
-8b[	.
+16gg#	E major
+16eeJ	.
+[8bJ	.
 =8	=8
 4b]	.
-8aa	.
+8aaL	.
+8bbJ	.
+8eeeL	.
 8bb	.
-8eee	.
-8bb	.
 8aa	.
-8gg#	.
+8gg#J	.
 ==	==
 *-	*-

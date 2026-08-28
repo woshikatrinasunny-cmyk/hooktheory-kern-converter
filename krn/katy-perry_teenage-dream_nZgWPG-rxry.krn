@@ -16,80 +16,80 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4ddd	E-maj7
+4ddd	E- major-seventh
 4ccc	.
 4bb-	.
-8bb-	.
-8ccc	Gm
+8bb-L	.
+8cccJ	G minor
 =2	=2
-8aa[	.
-8aa]	Fsus4
+[8aaL	.
+8aaJ]	F suspended-fourth
 4gg	.
 4ff	.
-8ff	.
-8gg	.
+8ffL	.
+8ggJ	.
 =3	=3
-4dd	E-maj7
+4dd	E- major-seventh
 4cc	.
 4b-	.
-8b-	.
-8cc[	Gm
+8b-L	.
+[8ccJ	G minor
 =4	=4
-8cc_	.
-8cc]	Fsus4
+8ccL_	.
+8ccJ]	F suspended-fourth
 4r	.
-8dd	.
+8ddL	.
 8ff	.
 8gg	.
-8bb-	.
+8bb-J	.
 =5	=5
-4ddd	E-maj7
+4ddd	E- major-seventh
 4ccc	.
 4bb-	.
-8bb-	.
-8ccc	Gm
+8bb-L	.
+8cccJ	G minor
 =6	=6
-8aa[	.
-8aa]	Fsus4
+[8aaL	.
+8aaJ]	F suspended-fourth
 4gg	.
 4ff	.
-8ff	.
-8gg	.
+8ffL	.
+8ggJ	.
 =7	=7
-4dd	E-maj7
+4dd	E- major-seventh
 4cc	.
 4b-	.
-8b-	.
-8cc[	Gm
+8b-L	.
+[8ccJ	G minor
 =8	=8
-8cc_	.
-8cc]	Fsus4
-8b-	.
+8ccL_	.
+8cc]	F suspended-fourth
+8b-J	.
 4.cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =9	=9
-4r	E-maj7
+4r	E- major-seventh
 8b-	.
 4.cc	.
-8b-	E-maj7
-8cc[	Gm
+8b-L	E- major-seventh
+[8ccJ	G minor
 =10	=10
-8cc_	.
-8cc]	Fsus4
-8b-	.
+8ccL_	.
+8cc]	F suspended-fourth
+8b-J	.
 4.cc	.
-8b-	.
-8cc[	.
+8b-L	.
+[8ccJ	.
 =11	=11
-4cc]	E-maj7
+4cc]	E- major-seventh
 8b-	.
 4.cc	.
-8r	E-maj7
-8r	Gm
+8r	E- major-seventh
+8r	G minor
 =12	=12
 8r	.
-4r	Fsus4
+4r	F suspended-fourth
 8r	.
 2ddd	.
 ==	==

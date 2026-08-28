@@ -15,43 +15,43 @@
 *B-:	*
 *M4/4	*
 =1	=1
-1dd-	D-
+1dd-	D- major
 =2	=2
-1a-	A-
+1a-	A- major
 =3	=3
-4.e-	E-
+4.e-	E- major
+8b-	.
+8b-L	.
 8b-	.
 8b-	.
-8b-	.
-8b-	.
-8dd-[	.
+[8dd-J	.
 =4	=4
-2dd-]	B-
+2dd-]	B- major
 8r	.
+8b-L	.
 8b-	.
-8b-	.
-8dd-[	.
+[8dd-J	.
 =5	=5
-1dd-]	D-
+1dd-]	D- major
 =6	=6
-2.a-	A-
+2.a-	A- major
 8r	.
 8a-	.
 =7	=7
-8a-	E-
-8b-	.
+8a-L	E- major
+8b-J	.
 4b-	.
 4b-	.
-8b-	.
-8b-	.
+8b-L	.
+8b-J	.
 =8	=8
-8dd-	B-
+8dd-	B- major
 4dd-	.
 2dd-	.
 8r	.
 =9	=9
-1r	B-
+1r	B- major
 =10	=10
-1r	B-
+1r	B- major
 ==	==
 *-	*-

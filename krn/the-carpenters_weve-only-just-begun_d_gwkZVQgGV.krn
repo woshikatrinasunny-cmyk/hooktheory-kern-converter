@@ -16,64 +16,64 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.r	Amaj9
+4.r	A major-ninth
 8E	.
-8F#	.
-16A	.
+8F#L	.
+16Ak	.
 8A	.
-8.e[	.
+[8.eJ	.
 =2	=2
-16e]	Dmaj7
-2.c#[	.
-16c#]	.
-8d	.
+16e]	D major-seventh
+[2.c#	.
+16c#LK]	.
+8dJ	.
 =3	=3
-1e	C#m7
+1e	C# minor-seventh
 =4	=4
-2r	F#add(2,3,7)
-8.g#	.
+2r	F# other-2,3,7
+8.g#L	.
 8.f#	.
-8e[	.
+[8eJ	.
 =5	=5
-8e]	Bm
+8e]	B minor
 4c#	.
 8B	.
-2A[	.
+[2A	.
 =6	=6
-4A]	F#add(2,3,7)
+4A]	F# other-2,3,7
 8.r	.
 16g#	.
-16g#	.
+16g#LK	.
 8a	.
 8a	.
-16f#	.
-8e	.
+16f#k	.
+8eJ	.
 =7	=7
-16B	Bm
+16B	B minor
 6...c#	.
-16c#	.
-16d	.
+16c#LL	.
+16dJJ	.
 8.c#	.
-6...B[	.
+[6...B	.
 =8	=8
-4.B]	E
+4.B]	E major
 8E	.
-8c#	.
+8c#L	.
 8A	.
 8A	.
-16e	.
-16B	.
+16eL	.
+16BJJ	.
 =9	=9
-2c#[	A
-2c#_	Dmaj7
+[2c#	A major
+2c#_	D major-seventh
 =10	=10
-2c#_	A
-4c#]	Dmaj7
-4B	E
+2c#_	A major
+4c#]	D major-seventh
+4B	E major
 =11	=11
 *k[f#c#g#d#a#e#]	*
 *F#:	*
-4A#	F#
+4A#	F# major
 2.r	.
 ==	==
 *-	*-

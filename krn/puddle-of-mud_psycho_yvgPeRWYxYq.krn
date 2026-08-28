@@ -16,138 +16,138 @@
 *f:	*
 *M4/4	*
 =1	=1
-4.r	F
+4.r	F major
 8f	.
 4an	.
-8an	.
-8an	.
+8anL	.
+8anJ	.
 =2	=2
 4.an	.
 8an	.
-8an[	.
-8an]	G-
+[8anL	.
+8anJ]	G- major
 4b-	.
 =3	=3
-4.f	D-
+4.f	D- major
 8r	.
+8fL	.
 8f	.
 8f	.
-8f	.
-8f[	.
+[8fJ	.
 =4	=4
-8f]	.
+8fL]	.
 8e-	.
 8f	.
-8f	.
-8g[	.
-8g]	E-
+8fJ	.
+[8gL	.
+8gJ]	E- major
 4a-	.
 =5	=5
-4.f	F
+4.f	F major
 8r	.
+8anL	.
 8an	.
 8an	.
-8an	.
-8an	.
+8anJ	.
 =6	=6
+8anL	.
 8an	.
 8an	.
-8an	.
-8an	.
-8b-[	.
-8b-]	G-
-4f[	.
+8anJ	.
+[8b-L	.
+8b-J]	G- major
+[4f	.
 =7	=7
-4.f]	D-
+4.f]	D- major
 8r	.
 8f	.
 4f	.
-8f[	.
+[8f	.
 =8	=8
-8f]	.
+8fL]	.
 8e-	.
 8f	.
-8f	.
-8g[	.
-8g]	E-
+8fJ	.
+[8gL	.
+8gJ]	E- major
 4a-	.
 =9	=9
-4.f	B-
+4.f	B- major
 8r	.
 8f	.
 4f	.
-8f[	.
+[8f	.
 =10	=10
-8f]	.
+8fL]	.
 8e-	.
 8f	.
-8f	.
-4g	C
+8fJ	.
+4g	C major
 4a-	.
 =11	=11
-4.f	D-
+4.f	D- major
 8r	.
 8ff	.
 4ff	.
-8ff[	.
+[8ff	.
 =12	=12
-8ff]	.
+8ffL]	.
 8ee-	.
 8ff	.
-8ff	.
+8ffJ	.
 4gg	.
 4aa-	.
 =13	=13
-4.ff	F
+4.ff	F major
 8r	.
+8ffL	.
 8ff	.
 8ff	.
-8ff	.
-8ee-	.
+8ee-J	.
 =14	=14
 2cc	.
+8ffL	.
+8ff	G- major
 8ff	.
-8ff	G-
-8ff	.
-8ee-	.
+8ee-J	.
 =15	=15
-4.dd-	D-
+4.dd-	D- major
 8cc	.
 4.dd-	.
 8cc	.
 =16	=16
+8dd-L	.
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
-8dd-[	.
-8dd-]	E-
+8dd-J	.
+[8dd-L	.
+8dd-J]	E- major
 4ee-	.
 =17	=17
-4cc	F
+4cc	F major
 4r	.
+8ffL	.
 8ff	.
 8ff	.
-8ff	.
-8ee-	.
+8ee-J	.
 =18	=18
 2cc	.
+8ffL	.
+8ff	G- major
 8ff	.
-8ff	G-
-8ff	.
-8ee-	.
+8ee-J	.
 =19	=19
-4.dd-	D-
+4.dd-	D- major
 8cc	.
 4.dd-	.
 8cc	.
 =20	=20
+8dd-L	.
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
-8ee-[	.
-8ee-]	E-
+8dd-J	.
+[8ee-L	.
+8ee-J]	E- major
 4ff	.
 ==	==
 *-	*-

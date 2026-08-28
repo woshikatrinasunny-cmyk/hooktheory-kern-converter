@@ -16,69 +16,69 @@
 *e:	*
 *M4/4	*
 =1	=1
-2.d	Edim
-8fn	.
-8d#[	.
+2.d	E diminished
+8fnL	.
+[8d#J	.
 =2	=2
-2.d#]	F#9
-8g	.
-8fn[	.
+2.d#]	F# dominant-ninth
+8gL	.
+[8fnJ	.
 =3	=3
-2.fn]	Caug/G#
-8g#	.
-8g[	.
+2.fn]	C augmented/G#
+8g#L	.
+[8gJ	.
 =4	=4
-2.g]	A#add(2,4,6,10)
-8cc	.
-8b[	.
+2.g]	A# other-2,4,6,10
+8ccL	.
+[8bJ	.
 =5	=5
-2.b]	Em/B
-8ee	.
-8dd[	.
+2.b]	E minor/B
+8eeL	.
+[8ddJ	.
 =6	=6
-3...dd]	Em7/G
-8b	.
+3...dd]	E minor-seventh/G
+8bL	.
 8e	.
-8a[	.
+[8aJ	.
 =7	=7
-2.a]	B7sus4/F#
-8e	.
-8b[	.
+2.a]	B dominant-seventh-suspended-fourth/F#
+8eL	.
+[8bJ	.
 =8	=8
-4b]	B7
+4b]	B dominant
 4d#	.
 4e	.
-8a	.
-8g[	.
+8aL	.
+[8gJ	.
 =9	=9
-2.g]	Cmaj7
-8e	.
-8a[	.
+2.g]	C major-seventh
+8eL	.
+[8aJ	.
 =10	=10
-2.a]	Dadd(2,4,7)
-8cc	.
-8b[	.
+2.a]	D other-2,4,7
+8ccL	.
+[8bJ	.
 =11	=11
-3...b]	E
-8g	.
+3...b]	E major
+8gL	.
 8g#	.
-8e[	.
+[8eJ	.
 =12	=12
-2.e]	F#7
-8a	.
-8g[	.
+2.e]	F# dominant
+8aL	.
+[8gJ	.
 =13	=13
-2.g]	Em7/G
-8B	.
-8e[	.
+2.g]	E minor-seventh/G
+8BL	.
+[8eJ	.
 =14	=14
-3...e]	A
-8e	.
+3...e]	A major
+8eL	.
 8B	.
-8e[	.
+[8eJ	.
 =15	=15
-1e_	E
+1e_	E major
 =16	=16
-1e]	E
+1e]	E major
 ==	==
 *-	*-

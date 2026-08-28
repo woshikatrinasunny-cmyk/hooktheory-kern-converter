@@ -16,159 +16,159 @@
 *E-:	*
 *M4/4	*
 =1	=1
-16aan	E-
+16aanLL	E- major
 16bb-	.
 16aan	.
 16gg	.
-16ff	D-
+16ff	D- major
 16gg	.
 16ff	.
-16ee-	.
-16gg	D-
+16ee-JJ	.
+16ggLL	D- major
 16aa-	.
 16gg	.
 16ff	.
-16ee-	B
+16ee-	B major
 16ff	.
 16ee-	.
-16dd-	.
+16dd-JJ	.
 =2	=2
-16ff	B
+16ffLL	B major
 16gg-	.
 16ff	.
 16ee-	.
-16dd-	A
+16dd-	A major
 16ee-	.
 16dd-	.
-16bn	.
-16ee-	A
+16bnJJ	.
+16ee-LL	A major
 16een	.
 16ee-	.
 16dd-	.
-16bn	A
+16bn	A major
 16b-	.
 16an	.
-16b-	.
+16b-JJ	.
 =3	=3
 *k[b-]	*
 *C:	*
-16cc	C
+16ccLL	C major
 16dd	.
 16ee	.
-16gg	.
+16ggJ	.
 8gg-	.
-16cc	Cdim
-16dd	.
-16ee	.
-16gg	.
+16ccL	C diminished
+16ddJJ	.
+16eeLL	.
+16ggJ	.
 8gg-	.
-16cc	C
+16ccL	C major
 16dd	.
 16ee	.
-16gg-	.
+16gg-JJ	.
 =4	=4
-16b-	B-
+16b-LL	B- major
 16cc	.
 16dd	.
-16ff	.
+16ffJ	.
 8ee	.
-16b-	B-dim
-16cc	.
-16dd	.
-16ff	.
+16b-L	B- diminished
+16ccJJ	.
+16ddLL	.
+16ffJ	.
 8ee	.
-16b-	B-
+16b-L	B- major
 16cc	.
 16dd	.
-16ee	.
+16eeJJ	.
 =5	=5
-16cc	C
+16ccLL	C major
 16dd	.
 16ee	.
-16gg	.
+16ggJ	.
 8gg-	.
-16cc	Cdim
-16dd	.
-16ee	.
-16gg	.
+16ccL	C diminished
+16ddJJ	.
+16eeLL	.
+16ggJ	.
 8gg-	.
-16cc	C
+16ccL	C major
 16dd	.
 16ee	.
-16gg-	.
+16gg-JJ	.
 =6	=6
-16a-	A-
+16a-LL	A- major
 16b-	.
 16cc	.
-16dd	.
+16ddJ	.
 8ee-	.
-16b-	B-
-16cc	.
-16dd	.
-16ee	.
+16b-L	B- major
+16ccJJ	.
+16ddLL	.
+16eeJ	.
 8ff	.
-16ff	.
+16ffL	.
 16ee	.
 16dd	.
-16ee	.
+16eeJJ	.
 =7	=7
-16c	C
+16cLL	C major
 16d	.
 16e	.
-16g	.
+16gJ	.
 8g-	.
-16c	.
-16d	.
-16e	.
-16g	.
+16cL	.
+16dJJ	.
+16eLL	.
+16gJ	.
 8g-	.
-16c	.
+16cL	.
 16d	.
 16e	.
-16g-	.
+16g-JJ	.
 =8	=8
-16B-	B-
+16B-LL	B- major
 16c	.
 16d	.
-16f	.
+16fJ	.
 8e	.
-16B-	.
-16c	.
-16d	.
-16f	.
+16B-L	.
+16cJJ	.
+16dLL	.
+16fJ	.
 8e	.
-16B-	.
+16B-L	.
 16c	.
 16d	.
-16e	.
+16eJJ	.
 =9	=9
-16c	C
+16cLL	C major
 16d	.
 16e	.
-16g	.
+16gJ	.
 8g-	.
-16c	.
-16d	.
-16e	.
-16g	.
+16cL	.
+16dJJ	.
+16eLL	.
+16gJ	.
 8g-	.
-16c	.
+16cL	.
 16d	.
 16e	.
-16g-	.
+16g-JJ	.
 =10	=10
 4gg	.
 4ee-	.
 4bn	.
 4g	.
 =11	=11
-8gg	.
+8ggL	.
 8gg	.
 8ee-	.
-8ee-	.
+8ee-J	.
+8bnL	.
 8bn	.
-8bn	.
-8g	.
+8gJ	.
 8r	.
 ==	==
 *-	*-

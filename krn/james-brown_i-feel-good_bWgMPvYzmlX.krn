@@ -16,15 +16,15 @@
 *D:	*
 *M4/4	*
 =1	=1
-4d	D7
+4d	D dominant
 2.r	.
 =2	=2
 4.r	.
 8A	.
-8d	.
+8dL	.
 8c	.
 8d	.
-8fn[	.
+[8fnJ	.
 =3	=3
 8fn]	.
 4d	.
@@ -35,47 +35,47 @@
 4a	.
 8g	.
 =5	=5
-4fn	G7
+4fn	G dominant
 4g	.
 2r	.
 =6	=6
 4.r	.
 8A	.
-8d	.
+8dL	.
 8c	.
 8d	.
-8fn[	.
+[8fnJ	.
 =7	=7
-8fn]	D7
+8fn]	D dominant
 4d	.
 3...r	.
 =8	=8
 2.r	.
-8a	.
-8a[	.
+8aL	.
+[8aJ	.
 =9	=9
 8a]	.
 8r	.
-2r	A7
-8g	.
-8g[	.
+2r	A dominant
+8gL	.
+[8gJ	.
 =10	=10
 8g]	.
 8r	.
-4r	G7
-8fn	.
+4r	G dominant
+8fnL	.
 8g	.
 8fn	.
-8a[	.
+[8aJ	.
 =11	=11
 8a]	.
-4r	D
-4r	D/F#
-4r	D/A
-8ee[	D7/C
+4r	D major
+4r	D major/F#
+4r	D major/A
+[8ee	D dominant/C
 =12	=12
 8ee_	.
-4ee]	Em
+4ee]	E minor
 3...r	.
 ==	==
 *-	*-

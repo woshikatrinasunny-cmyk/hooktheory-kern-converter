@@ -16,47 +16,47 @@
 *d#:	*
 *M3/4	*
 =1	=1
-8.DD#	D#m
-8FF#	D#m/F#
+8.DD#	D# minor
+8FF#	D# minor/F#
 8r	.
-8BB	E#dim/B
+8BB	E# diminished/B
 8r	.
-16AAn	Adim
+16AAn	A diminished
 =2	=2
-8.AA#	A#7
+8.AA#	A# dominant
 4aa#	.
 16aan	.
 16aa#	.
 8.r	.
 =3	=3
-8.DD#	D#m
-16FF#	D#m/F#
-8EE#	E#dim
+8.DD#L	D# minor
+16FF#Jk	D# minor/F#
+8EE#	E# diminished
 8r	.
-8.DD#	D#m
-16BB[	B
+8.DD#L	D# minor
+[16BBJk	B major
 =4	=4
 4..BB]	.
-6...ddn	E#dim/B
+6...ddn	E# diminished/B
 =5	=5
-8.DD#	D#m
-8FF#	D#m/F#
+8.DD#	D# minor
+8FF#	D# minor/F#
 8r	.
-8BB	E#dim/B
+8BB	E# diminished/B
 8r	.
-16AAn	Adim
+16AAn	A diminished
 =6	=6
-4..ff#	A#
+4..ff#	A# major
 6...ee#	.
 =7	=7
-8.dd#	D#m
-16a#	D#m/F#
-8.g#	E#dim
-16f#	D#m
+8.dd#L	D# minor
+16a#Jk	D# minor/F#
+8.g#L	E# diminished
+16f#Jk	D# minor
 8.r	.
-16e#[	E#m7b5
+[16e#	E# half-diminished
 =8	=8
 4..e#]	.
-6...e#	A#7
+6...e#	A# dominant
 ==	==
 *-	*-

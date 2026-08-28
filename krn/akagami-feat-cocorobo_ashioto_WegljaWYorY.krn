@@ -15,68 +15,68 @@
 *D:	*
 *M4/4	*
 =1	=1
-16dd	Gadd(2,4,7)
+16ddLL	G other-2,4,7
 16a	.
 16cc#	.
 16dd	.
 16aa	.
 16a	.
 16dd	.
-16ee	.
-16aa	D
+16eeJJ	.
+16aaLL	D major
 16a	.
 16dd	.
 16ee	.
 16aa	.
 16a	.
 16dd	.
-16ee	.
+16eeJJ	.
 =2	=2
-16aa	A
+16aaLL	A major
 16a	.
 16cc#	.
 16ee	.
 16aa	.
 16a	.
 16cc#	.
-16ee	.
-16aa	Bm7
+16eeJJ	.
+16aaLL	B minor-seventh
 16a	.
 16dd	.
 16ee	.
-16aa	Bm7/F#
+16aa	B minor-seventh/F#
 16a	.
 16dd	.
-16ee	.
+16eeJJ	.
 =3	=3
-16aa	Gadd(2,4,7)
+16aaLL	G other-2,4,7
 16a	.
 16dd	.
 16ee	.
 16aa	.
 16a	.
 16dd	.
-16ee	.
-16aa	D
+16eeJJ	.
+16aaLL	D major
 16a	.
 16dd	.
 16ee	.
 16aa	.
 16a	.
 16dd	.
-16ee	.
+16eeJJ	.
 =4	=4
-16aa	A
-16a	.
+16aaLL	A major
+16aJ	.
 8cc#	.
-16gg	A#dim
-16a	.
-8cc#	.
-2dd	Bm7
+16ggL	A# diminished
+16aJ	.
+8cc#J	.
+2dd	B minor-seventh
 =5	=5
-16d	Gmaj9
-16f#	.
-2..a[	.
+16dLL	G major-ninth
+16f#JJ	.
+[2..a	.
 =6	=6
 1a]	.
 ==	==

@@ -16,84 +16,84 @@
 *f#:	*
 *M4/4	*
 =1	=1
-1r	F#m7
+1r	F# minor-seventh
 =2	=2
 1r	.
 =3	=3
-4cc#	Dmaj7
+4cc#	D major-seventh
 4r	.
 4cc#	.
 4cc#	.
 =4	=4
 4r	.
-4cc#	C#7
+4cc#	C# dominant
 4cc#	.
 4r	.
 =5	=5
-4b	F#add(3,5,7,10)
+4b	F# other-3,5,7,10
 4r	.
 4b	.
 4b	.
 =6	=6
 4r	.
-4b	C#m7/E
+4b	C# minor-seventh/E
 4b	.
 4r	.
 =7	=7
-4cc#	Dmaj7
+4cc#	D major-seventh
 4r	.
 4cc#	.
 4cc#	.
 =8	=8
 4r	.
-4cc#	C#7
+4cc#	C# dominant
 4cc#	.
 4r	.
 =9	=9
-4b	F#add(3,5,7,10)
+4b	F# other-3,5,7,10
 4r	.
 4b	.
 4b	.
 =10	=10
-2a	E11
-2b	Badd(2,4,7)/D#
+2a	E dominant-11th
+2b	B other-2,4,7/D#
 =11	=11
-4cc#	Dmaj7
+4cc#	D major-seventh
 4r	.
 4cc#	.
 4cc#	.
 =12	=12
 4r	.
-4cc#	C#7
+4cc#	C# dominant
 4cc#	.
 4r	.
 =13	=13
-4b	F#add(3,5,7,10)
+4b	F# other-3,5,7,10
 4r	.
 4b	.
 4b	.
 =14	=14
 4r	.
-4b	C#m7/E
+4b	C# minor-seventh/E
 4b	.
 4r	.
 =15	=15
-4cc#	G#add(3,5,6,10)
+4cc#	G# other-3,5,6,10
 4r	.
 4cc#	.
 4cc#	.
 =16	=16
 4r	.
-4cc#	Gadd(4,6,7,10)
+4cc#	G other-4,6,7,10
 4cc#	.
 4r	.
 =17	=17
-4cc#	F#m7
+4cc#	F# minor-seventh
 4dd	.
 4cc#	.
 4b	.
 =18	=18
-2a	Dm7
-2b	Em7
+2a	D minor-seventh
+2b	E minor-seventh
 ==	==
 *-	*-

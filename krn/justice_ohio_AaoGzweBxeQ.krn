@@ -17,79 +17,79 @@
 *M4/4	*
 =1	=1
 2.r	.
-8e-	.
-8d-	.
+8e-L	.
+8d-J	.
 =2	=2
-4.d-[	B-m7
-16d-_	B-m7/F
-16d-_	B-m7/A-
-4d-]	B-m7
-16c	.
+[4.d-	B- minor-seventh
+16d-LL_	B- minor-seventh/F
+16d-JJ_	B- minor-seventh/A-
+4d-]	B- minor-seventh
+16cLL	.
 16d-	.
-16c[	B-m7
-16c]	B-m7/A-
+[16c	B- minor-seventh
+16cJJ]	B- minor-seventh/A-
 =3	=3
-8.B-[	G-
-16B-]	G-
+[8.B-L	G- major
+16B-Jk]	G- major
 8r	.
-8r	E-m7
-8.r	F7sus4
-16r	F7sus4
-8e-	.
-8d-	E-7/D-
+8r	E- minor-seventh
+8.r	F dominant-seventh-suspended-fourth
+16r	F dominant-seventh-suspended-fourth
+8e-L	.
+8d-J	E- dominant/D-
 =4	=4
-4d-[	.
-16d-_	E-7/D-
-16d-_	E-7/D-
-16d-_	E-/B-
-16d-_	E-7/D-
-4d-]	E-
-16c	.
-16d-	.
-8c	E-/B-
+[4d-	.
+16d-LL_	E- dominant/D-
+16d-_	E- dominant/D-
+16d-_	E- major/B-
+16d-JJ_	E- dominant/D-
+4d-]	E- major
+16cLL	.
+16d-J	.
+8cJ	E- major/B-
 =5	=5
-8.B-[	G-/D-
-8.B-]	G-/D-
-8c	E-
+[8.B-L	G- major/D-
+8.B-]	G- major/D-
+8cJ	E- major
 8r	.
-8r	E-
-16b-[	E-7/D-
-8.b-]	Cm7
+8r	E- major
+[16b-LK	E- dominant/D-
+8.b-J]	C minor-seventh
 =6	=6
-4.dd-[	B-m7
-16dd-_	B-m7/F
-16dd-_	B-m7/A-
-4dd-]	B-m7
-16c	.
+[4.dd-	B- minor-seventh
+16dd-LL_	B- minor-seventh/F
+16dd-JJ_	B- minor-seventh/A-
+4dd-]	B- minor-seventh
+16cLL	.
 16d-	.
-16c[	B-m7
-16c]	B-m7/A-
+[16c	B- minor-seventh
+16cJJ]	B- minor-seventh/A-
 =7	=7
-8.B-[	G-
-16B-]	G-
+[8.B-L	G- major
+16B-Jk]	G- major
 8r	.
-8r	E-m7
-8.r	F7sus4
-16r	F7sus4
-8e-	.
-8d-	E-7/D-
+8r	E- minor-seventh
+8.r	F dominant-seventh-suspended-fourth
+16r	F dominant-seventh-suspended-fourth
+8e-L	.
+8d-J	E- dominant/D-
 =8	=8
-4d-[	.
-16d-_	E-7/D-
-16d-_	E-7/D-
-16d-_	E-/B-
-16d-_	E-7/D-
-4d-]	E-
-16c	.
-16d-	.
-8c	E-/B-
+[4d-	.
+16d-LL_	E- dominant/D-
+16d-_	E- dominant/D-
+16d-_	E- major/B-
+16d-JJ_	E- dominant/D-
+4d-]	E- major
+16cLL	.
+16d-J	.
+8cJ	E- major/B-
 =9	=9
-8.B-[	F7sus4
-8.B-]	F7sus4
-8An	F7/A
+[8.B-L	F dominant-seventh-suspended-fourth
+8.B-]	F dominant-seventh-suspended-fourth
+8AnJ	F dominant/A
 8r	.
-8r	F7/A
-16r	B-add(2,5,7)
-8.r	F7/C
+8r	F dominant/A
+16r	B- other-2,5,7
+8.r	F dominant/C
 ==	==
 *-	*-

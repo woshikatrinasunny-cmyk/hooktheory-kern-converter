@@ -16,58 +16,58 @@
 *D:	*
 *M6/4	*
 =1	=1
-16d	D
-16e	.
-1f#[	.
+16dLL	D major
+16eJJ	.
+[1f#	.
 4.f#]	.
 =2	=2
-16e	Em7b5/G
-16f#	.
+16eLL	E half-diminished/G
+16f#JJ	.
 3...g	.
-16g#	Asus4
-2a[	.
-16a]	.
+16g#	A suspended-fourth
+[2a	.
+16aLL]	.
 16g#	.
-16g	.
+16gJJ	.
 =3	=3
-1.f#	D
+1.f#	D major
 =4	=4
-16d#	Em7b5/G
-3...e[	.
+16d#	E half-diminished/G
+[3...e	.
 16e]	.
-2.d	Asus4
+2.d	A suspended-fourth
 =5	=5
-1aa[	D
-8.aa]	.
-16gg	.
+[1aa	D major
+8.aaL]	.
+16ggJk	.
 4ff#	.
 =6	=6
-2.gg[	Em7b5/G
-4gg]	A7sus4
+[2.gg	E half-diminished/G
+4gg]	A dominant-seventh-suspended-fourth
 4ff#	.
 4ee	.
 =7	=7
-1dd[	D
+[1dd	D major
 4dd]	.
 4ff#	.
 =8	=8
-2.ee	Em7b5/G
-2.dd	A7sus4
+2.ee	E half-diminished/G
+2.dd	A dominant-seventh-suspended-fourth
 =9	=9
-1aa	D
+1aa	D major
 4gg	.
 4ff#	.
 =10	=10
-2.gg[	C#m7b5
-4gg]	F#7
+[2.gg	C# half-diminished
+4gg]	F# dominant
 4ff#	.
 4ee	.
 =11	=11
-1.dd	Bm7
+1.dd	B minor-seventh
 =12	=12
-2.r	Dadd(2,4,7)/A
-4r	D/A
-4r	D/F#
-4r	D
+2.r	D other-2,4,7/A
+4r	D major/A
+4r	D major/F#
+4r	D major
 ==	==
 *-	*-

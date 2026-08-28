@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-4B	C
+4B	C major
 4c	.
 4B	.
 4c	.
@@ -26,7 +26,7 @@
 2c	.
 8G	.
 =3	=3
-4B	Am
+4B	A minor
 4c	.
 4B	.
 4c	.
@@ -36,7 +36,7 @@
 2c	.
 8G	.
 =5	=5
-4B	F
+4B	F major
 4c	.
 4B	.
 4c	.
@@ -46,10 +46,10 @@
 4.G	.
 4f	.
 =7	=7
-2e	Am7/G
+2e	A minor-seventh/G
 2d	.
 =8	=8
-2c	G/D
+2c	G major/D
 2B	.
 ==	==
 *-	*-

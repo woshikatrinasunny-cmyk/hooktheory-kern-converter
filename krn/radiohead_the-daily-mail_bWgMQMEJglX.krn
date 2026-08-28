@@ -16,17 +16,17 @@
 *D:	*
 *M4/4	*
 =1	=1
-2f#	D
-8a	.
-8f#	.
+2f#	D major
+8aL	.
+8f#J	.
 4a	.
 =2	=2
-2r	Dmaj7/C#
-8a	Bm7
-8a	.
-4b[	.
+2r	D major-seventh/C#
+8aL	B minor-seventh
+8aJ	.
+[4b	.
 =3	=3
-4b]	A#augMaj7
+4b]	A# augmented-major-seventh
 4d	.
 4.r	.
 8d	.
@@ -36,17 +36,17 @@
 4a	.
 4d	.
 =5	=5
-2f#	D
+2f#	D major
+8aL	.
 8a	.
 8a	.
-8a	.
-8a	.
+8aJ	.
 =6	=6
-2r	Dmaj7/C#
-4dd	Bm7
-4dd[	.
+2r	D major-seventh/C#
+4dd	B minor-seventh
+[4dd	.
 =7	=7
-4dd]	A#augMaj7
+4dd]	A# augmented-major-seventh
 2.d	.
 =8	=8
 4e	.

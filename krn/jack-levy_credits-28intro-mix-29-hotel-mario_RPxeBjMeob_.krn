@@ -16,84 +16,84 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8ff	B-
+8ffL	B- major
 8gg	.
 8gg	.
-8ff	.
-8gg	F
+8ffJ	.
+8ggL	F major
 8gg	.
-8aa	.
+8aaJ	.
 8r	.
 =2	=2
-8gg	F
+8ggL	F major
 8gg	.
 8aa	.
-8gg	.
-8ff	B-
+8ggJ	.
+8ff	B- major
 4.r	.
 =3	=3
-8ff	B-
+8ffL	B- major
 8gg-	.
 8gg	.
-8ff	.
-8gg	F
+8ffJ	.
+8ggL	F major
 8gg	.
-8aa	.
+8aaJ	.
 8r	.
 =4	=4
-8gg	F
+8gg	F major
 8r	.
 8gg	.
 8r	.
-8b-	B-
+8b-L	B- major
 8a	.
-8b-	.
+8b-J	.
 8r	.
 =5	=5
-8ff	B-
+8ffL	B- major
 8gg	.
 8bb-	.
-8aa	.
-8gg	F
+8aaJ	.
+8ggL	F major
 8gg	.
-8aa	.
+8aaJ	.
 8r	.
 =6	=6
-8aa	F
+8aa	F major
 16r	.
-16gg	.
+16ggLK	.
 8aa	.
-8gg	.
-8ff	B-
+8ggJ	.
+8ff	B- major
 16r	.
-16ff	.
+16ffLK	.
 8dd	.
-8b-	.
+8b-J	.
 =7	=7
-16f	B-
+16fLL	B- major
 16f	.
 16f	.
 16f	.
-16g-	Adim
+16g-	A diminished
 16g	.
 16a-	.
-16a	.
-8cc	F
+16aJJ	.
+8ccL	F major
 8gg	.
-8aa	.
+8aaJ	.
 8r	.
 =8	=8
-16ff	F
+16ffLL	F major
 16ff	.
 16ff	.
 16ff	.
 16gg	.
 16aa-	.
 16aa	.
-16ccc	.
-8b-	B-
+16cccJJ	.
+8b-L	B- major
 8a	.
-8b-	.
+8b-J	.
 8r	.
 ==	==
 *-	*-

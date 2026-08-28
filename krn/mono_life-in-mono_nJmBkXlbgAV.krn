@@ -15,52 +15,52 @@
 *e:	*
 *M4/4	*
 =1	=1
-2r	Eadd(2,3,7)
-8g	Em
+2r	E other-2,3,7
+8gL	E minor
 8a	.
 8b	.
-8g	.
+8gJ	.
 =2	=2
-4dd	Aadd(2,3,7)
+4dd	A other-2,3,7
 8r	.
-8cc[	.
-4cc]	Am
-4r	Am7/G
+[8cc	.
+4cc]	A minor
+4r	A minor-seventh/G
 =3	=3
-2r	D7/F#
-8f#	D
+2r	D dominant/F#
+8f#L	D major
 8g	.
 8a	.
-8d	.
+8dJ	.
 =4	=4
-4cc	Gadd(2,4,7)
+4cc	G other-2,4,7
 8r	.
-8b[	.
-8b]	G
+[8b	.
+8bL]	G major
 8g	.
-8f#	G/B
-8e	.
+8f#	G major/B
+8eJ	.
 =5	=5
-2r	Cadd(2,4,7)
-8e	C
+2r	C other-2,4,7
+8eL	C major
 8f#	.
-8g	Cmaj7/B
-8B	.
+8g	C major-seventh/B
+8BJ	.
 =6	=6
-4b	Aadd(2,3,7)
+4b	A other-2,3,7
 8r	.
-8a[	.
-8.a]	Am
-16c	.
+[8a	.
+8.aL]	A minor
+16ck	.
 8c	.
-8c	.
+8cJ	.
 =7	=7
-8B	Bsus4
+8BL	B suspended-fourth
 8B	.
 8A	.
-8B	.
+8BJ	.
 2r	.
 =8	=8
-1r	B
+1r	B major
 ==	==
 *-	*-

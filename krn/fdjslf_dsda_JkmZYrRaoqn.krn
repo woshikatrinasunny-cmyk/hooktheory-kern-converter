@@ -16,66 +16,66 @@
 *A:	*
 *M4/4	*
 =1	=1
-8b-	A
-8cc#	.
-8r	A
-8b-	Dm
+8b-L	A major
+8cc#J	.
+8r	A major
+8b-	D minor
 4cc#	.
 4cc#	.
 =2	=2
-8b-	Edim
+8b-L	E diminished
 8cc#	.
-8ee	Edim
-4.cc#	A
+8eeJ	E diminished
+4.cc#	A major
 8r	.
 8a	.
 =3	=3
-8b-	Faug
-8cc#	.
+8b-L	F augmented
+8cc#J	.
 8r	.
-8b-	Edim
-8cc#[	Edim
+8b-	E diminished
+[8cc#L	E diminished
 8cc#]	.
-8cc#[	Edim
-8cc#]	.
+[8cc#	E diminished
+8cc#J]	.
 =4	=4
-4.b-	Edim
-4.cc#[	A
-4cc#]	A
+4.b-	E diminished
+[4.cc#	A major
+4cc#]	A major
 =5	=5
-8b-	A
-8cc#	.
-8r	A
-8b-	Dm
+8b-L	A major
+8cc#J	.
+8r	A major
+8b-	D minor
 4cc#	.
-4cc#	Dm
+4cc#	D minor
 =6	=6
-8b-	Edim
+8b-L	E diminished
 8cc#	.
-8ee	Edim
-4.cc#	Faug
-8r	Faug
+8eeJ	E diminished
+4.cc#	F augmented
+8r	F augmented
 8a	.
 =7	=7
-4.cc#	Dm
-4.cc#	Dm
-4a	Dm
+4.cc#	D minor
+4.cc#	D minor
+4a	D minor
 =8	=8
-4.b-	Edim
-4.a	A
-4f	A
+4.b-	E diminished
+4.a	A major
+4f	A major
 =9	=9
-8cc#[	Faug
-8cc#_	Faug
+[8cc#L	F augmented
+8cc#_	F augmented
 8cc#]	.
-8cc#[	Faug
+[8cc#J	F augmented
 8cc#]	.
 8r	.
-8a	Faug
+8a	F augmented
 8r	.
 =10	=10
 8r	.
-4.b-	Edim
-2a	A
+4.b-	E diminished
+2a	A major
 ==	==
 *-	*-

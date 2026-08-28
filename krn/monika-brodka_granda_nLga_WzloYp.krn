@@ -17,77 +17,77 @@
 *M4/4	*
 =1	=1
 8r	.
-8r	Em
+8r	E minor
 8r	.
-8r	Em
+8r	E minor
 8r	.
-8r	Bm
+8r	B minor
 8r	.
-8r	Bm
+8r	B minor
 =2	=2
+8AL	.
+8G	D major
 8A	.
-8G	D
-8A	.
-8G	D
-8A[	.
-8A]	A
-16A#	.
-16B[	.
-8B]	A
+8GJ	D major
+[8AL	.
+8A]	A major
+16A#L	.
+[16BJ	.
+8BJ]	A major
 =3	=3
 8r	.
-8r	Em
+8r	E minor
 8r	.
-8r	Em
+8r	E minor
 8r	.
-8r	Bm
+8r	B minor
 8r	.
-8d[	Bm
+[8d	B minor
 =4	=4
+8dL]	.
+[8d	D major
 8d]	.
-8d[	D
-8d]	.
-8G	D
-8A	.
-8G	A
-8B[	.
-8B]	A
+8GJ	D major
+8AL	.
+8G	A major
+[8B	.
+8BJ]	A major
 =5	=5
 8r	.
-8r	Em
+8r	E minor
 8r	.
-8r	Em
+8r	E minor
 8r	.
-8r	Bm
+8r	B minor
 8r	.
-8r	Bm
+8r	B minor
 =6	=6
+8AL	.
+8G	D major
 8A	.
-8G	D
-8A	.
-8G	D
-8A[	.
-16A]	A
-16B[	.
+8GJ	D major
+[8AL	.
+16AL]	A major
+[16BJ	.
 8B_	.
-8B]	A
+8BJ]	A major
 =7	=7
 8r	.
-8r	Em
+8r	E minor
 8r	.
-8r	Em
+8r	E minor
 8r	.
-8r	Bm
+8r	B minor
 8r	.
-8r	Bm
+8r	B minor
 =8	=8
-8A	.
-8G	D
+8AL	.
+8G	D major
 8G	.
-8E	D
-8E[	.
-8E]	A
-8D[	.
-8D]	A
+8EJ	D major
+[8EL	.
+8E]	A major
+[8D	.
+8DJ]	A major
 ==	==
 *-	*-

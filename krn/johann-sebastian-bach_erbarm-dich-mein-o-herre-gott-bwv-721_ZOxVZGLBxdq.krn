@@ -16,112 +16,112 @@
 *D:	*
 *M4/4	*
 =1	=1
-2c#	F#m
+2c#	F# minor
 2c#	.
 =2	=2
-2c#	F#m7/A
+2c#	F# minor-seventh/A
 2c#	.
 =3	=3
-2d	Bm7
+2d	B minor-seventh
 2d	.
 =4	=4
-2d	Gmaj7/B
+2d	G major-seventh/B
 2d	.
 =5	=5
-2e	A7/C#
+2e	A dominant/C#
 2e	.
 =6	=6
 2e	.
 2e	.
 =7	=7
-1f#[	Dadd(2,4,7)
+[1f#	D other-2,4,7
 =8	=8
-1f#]	Bm
+1f#]	B minor
 =9	=9
-1a[	F#m
+[1a	F# minor
 =10	=10
-1a]	A7/E
+1a]	A dominant/E
 =11	=11
-1a#[	Daug
+[1a#	D augmented
 =12	=12
-1a#]	F#7/C#
+1a#]	F# dominant/C#
 =13	=13
-1b[	Bm
+[1b	B minor
 =14	=14
-1b]	G
+1b]	G major
 =15	=15
-1cc#[	A7/G
+[1cc#	A dominant/G
 =16	=16
-2cc#_	F#m
-2cc#]	A#dim7/E
+2cc#_	F# minor
+2cc#]	A# diminished-seventh/E
 =17	=17
-1dd[	Bm/D
+[1dd	B minor/D
 =18	=18
-1dd]	G/B
+1dd]	G major/B
 =19	=19
-1cc#[	C#m7b5/E
+[1cc#	C# half-diminished/E
 =20	=20
-1cc#]	Dmaj7/F#
+1cc#]	D major-seventh/F#
 =21	=21
-4a	Gadd(2,4,7)
-4b[	.
-2b_	Gadd(2,4,8)
+4a	G other-2,4,7
+[4b	.
+2b_	G other-2,4,8
 =22	=22
-2b]	Em
+2b]	E minor
 2r	.
 =23	=23
-2f#	F#m7b5/E
+2f#	F# half-diminished/E
 2f#	.
 =24	=24
-2f#	B7/D#
+2f#	B dominant/D#
 2f#	.
 =25	=25
-2f#	Eadd(2,3,7)
+2f#	E other-2,3,7
 2f#	.
 =26	=26
-2e	C#m7b5/E
-2e	Em
+2e	C# half-diminished/E
+2e	E minor
 =27	=27
-1a[	Dadd(2,4,7)/F#
+[1a	D other-2,4,7/F#
 =28	=28
-1a]	D/F#
+1a]	D major/F#
 =29	=29
-1dd[	Bm7
+[1dd	B minor-seventh
 =30	=30
-1dd]	Em7
+1dd]	E minor-seventh
 =31	=31
-1cc#[	A7
+[1cc#	A dominant
 =32	=32
-2cc#_	F#/A#
-2cc#]	F#7/A#
+2cc#_	F# major/A#
+2cc#]	F# dominant/A#
 =33	=33
-1dd[	Bm
+[1dd	B minor
 =34	=34
-1dd]	Bm7/D
+1dd]	B minor-seventh/D
 =35	=35
-1b[	Em
+[1b	E minor
 =36	=36
-1b]	G
+1b]	G major
 =37	=37
-4g	A7
-2.a[	.
+4g	A dominant
+[2.a	.
 =38	=38
-1a]	F#m7/A
+1a]	F# minor-seventh/A
 =39	=39
-1g[	Gmaj7/B
+[1g	G major-seventh/B
 =40	=40
-1g]	A7/C#
+1g]	A dominant/C#
 =41	=41
-4e	Dadd(2,4,7)
-4f#[	.
-2f#_	Dadd(2,4,8)
+4e	D other-2,4,7
+[4f#	.
+2f#_	D other-2,4,8
 =42	=42
-2f#_	Bm
-2f#_	G#m7b5/B
+2f#_	B minor
+2f#_	G# half-diminished/B
 =43	=43
-1f#_	F#sus4
+1f#_	F# suspended-fourth
 =44	=44
-2f#_	F#m
-2f#]	F#sus2
+2f#_	F# minor
+2f#]	F# suspended-second
 ==	==
 *-	*-

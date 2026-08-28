@@ -16,140 +16,140 @@
 *g:	*
 *M4/4	*
 =1	=1
-4b-	Gm
-8g	.
-8g	.
+4b-	G minor
+8gL	.
+8gJ	.
 4b-	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 =2	=2
 4b-	.
-8g	.
-8g	.
-16b-[	Gm/B-
-16b-_	Gm/B-
-16b-_	Gm/B-
-16b-]	Gm/B-
-16g[	Gm/B-
-16g_	Gm/B-
-16g_	Gm/B-
-16g]	Gm/B-
+8gL	.
+8gJ	.
+[16b-LL	G minor/B-
+16b-_	G minor/B-
+16b-_	G minor/B-
+16b-]	G minor/B-
+[16g	G minor/B-
+16g_	G minor/B-
+16g_	G minor/B-
+16gJJ]	G minor/B-
 =3	=3
-2g-	G-
+2g-	G- major
 4r	.
 4g	.
 =4	=4
-8.g-[	G-
-8.g-_	G-
-8g-]	G-
-8r	E-m7
-16g[	.
-16g]	E-m7/D-
+[8.g-L	G- major
+8.g-_	G- major
+8g-J]	G- major
+8r	E- minor-seventh
+[16gLL	.
+16gJ]	E- minor-seventh/D-
 8g	.
-8g	G-/B-
+8gJ	G- major/B-
 =5	=5
-4b-	Gm
-8g	.
-8g	.
+4b-	G minor
+8gL	.
+8gJ	.
 4b-	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 =6	=6
 4b-	.
-8g	.
-8g	.
-16b-[	Gm/B-
-16b-_	Gm/B-
-16b-_	Gm/B-
-16b-]	Gm/B-
-16g[	Gm/B-
-16g_	Gm/B-
-16g_	Gm/B-
-16g]	Gm/B-
+8gL	.
+8gJ	.
+[16b-LL	G minor/B-
+16b-_	G minor/B-
+16b-_	G minor/B-
+16b-]	G minor/B-
+[16g	G minor/B-
+16g_	G minor/B-
+16g_	G minor/B-
+16gJJ]	G minor/B-
 =7	=7
-2g-	G-
+2g-	G- major
 4.r	.
-8dd-[	.
+[8dd-	.
 =8	=8
-8.dd-_	G-
-8.dd-_	G-
-8dd-]	G-
-8.r	E-m7
-8.r	E-m7/D-
-8r	G-/B-
+8.dd-L_	G- major
+8.dd-_	G- major
+8dd-J]	G- major
+8.r	E- minor-seventh
+8.r	E- minor-seventh/D-
+8r	G- major/B-
 =9	=9
-16dd	Gm
+16ddLL	G minor
 16dd	.
 16dd	.
 16dd	.
 16dd	.
-16dd	.
-8dd	.
-8dd	.
-8dd	.
+16ddJ	.
+8ddJ	.
+8ddL	.
+8ddJ	.
 4dd	.
 =10	=10
-16cc	.
+16ccLL	.
 16dd	.
 16dd	.
 16dd	.
 16dd	.
-16dd	.
-8dd	.
-16dd[	Gm/B-
-16dd]	Gm/B-
-16dd[	Gm/B-
-16dd]	Gm/B-
-16dd[	Gm/B-
-16dd_	Gm/B-
-16dd_	Gm/B-
-16dd]	Gm/B-
+16ddJ	.
+8ddJ	.
+[16ddLL	G minor/B-
+16dd]	G minor/B-
+[16dd	G minor/B-
+16dd]	G minor/B-
+[16dd	G minor/B-
+16dd_	G minor/B-
+16dd_	G minor/B-
+16ddJJ]	G minor/B-
 =11	=11
-8dd-	G-
+8dd-L	G- major
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
-8b-	.
+8dd-J	.
+8dd-L	.
+8b-J	.
 4b-	.
 =12	=12
-8.g-[	G-
-8.g-]	G-
-8b-[	G-
-8b-]	E-m7
-16g[	.
-16g]	E-m7/D-
+[8.g-L	G- major
+8.g-]	G- major
+[8b-J	G- major
+8b-L]	E- minor-seventh
+[16gL	.
+16gJ]	E- minor-seventh/D-
 8g	.
-8g	G-/B-
+8gJ	G- major/B-
 =13	=13
-4b-	Gm
-8g	.
-8g	.
+4b-	G minor
+8gL	.
+8gJ	.
 4b-	.
 4dd	.
 =14	=14
 4dd	.
-8g	.
-8g	.
-16b-[	Gm/B-
-16b-_	Gm/B-
-16b-_	Gm/B-
-16b-]	Gm/B-
-16g[	Gm/B-
-16g_	Gm/B-
-16g_	Gm/B-
-16g]	Gm/B-
+8gL	.
+8gJ	.
+[16b-LL	G minor/B-
+16b-_	G minor/B-
+16b-_	G minor/B-
+16b-]	G minor/B-
+[16g	G minor/B-
+16g_	G minor/B-
+16g_	G minor/B-
+16gJJ]	G minor/B-
 =15	=15
-4.g-	G-
+4.g-	G- major
 2b-	.
-8dd-[	.
+[8dd-	.
 =16	=16
 4dd-]	.
 8r	.
 8dd	.
-8dd	.
+8ddL	.
 8cc	.
 8b-	.
-8dd	.
+8ddJ	.
 ==	==
 *-	*-

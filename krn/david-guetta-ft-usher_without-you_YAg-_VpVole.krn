@@ -16,36 +16,36 @@
 *D:	*
 *M4/4	*
 =1	=1
-8e	D
+8e	D major
 4f#	.
 3...f#	.
 =2	=2
-8e	D
+8e	D major
 4f#	.
 3...a	.
 =3	=3
-8e	Gadd(2,4,7)
+8e	G other-2,4,7
 4f#	.
 4f#	.
 4d	.
-8e[	.
+[8e	.
 =4	=4
-8e]	Gadd(2,4,7)
+8e]	G other-2,4,7
 4f#	.
 4.b	.
-8d	.
-8e[	.
+8dL	.
+[8eJ	.
 =5	=5
-8e]	Bm
+8e]	B minor
 2..f#	.
 =6	=6
-2.r	Bm
-8d	.
-8e[	.
+2.r	B minor
+8dL	.
+[8eJ	.
 =7	=7
-8e]	G
+8e]	G major
 2..f#	.
 =8	=8
-1r	G
+1r	G major
 ==	==
 *-	*-

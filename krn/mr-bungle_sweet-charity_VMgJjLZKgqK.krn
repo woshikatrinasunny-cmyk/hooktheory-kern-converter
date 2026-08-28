@@ -16,108 +16,108 @@
 *f:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4c	.
 8e-	.
 4f	.
-8g[	Fadd(2,5,7)
+[8g	F other-2,5,7
 =2	=2
 4g]	.
-8C	Fm
+8C	F minor
 8r	.
-8E-	.
-8F	.
+8E-L	.
+8FJ	.
 8r	.
-8g[	Fadd(2,5,7)
+[8g	F other-2,5,7
 =3	=3
 4g]	.
-8C	Fm
+8C	F minor
 8r	.
-8E-	.
-8F	.
+8E-L	.
+8FJ	.
 8r	.
-8g-[	G-
+[8g-	G- major
 =4	=4
 4g-]	.
 8a-	.
 8r	.
-8b-	.
+8b-L	.
 8a-	.
 8g-	.
-8f[	B-m
+[8fJ	B- minor
 =5	=5
 4f]	.
 8BB-	.
 8r	.
-8D-	.
-8E-	.
+8D-L	.
+8E-J	.
 8r	.
-8en[	A
+[8en	A major
 =6	=6
 4en]	.
 8g-	.
 8r	.
-8a-	.
+8a-L	.
 8g-	.
 8en	.
-8e-[	A-sus4
+[8e-J	A- suspended-fourth
 =7	=7
 8e-]	.
 4r	.
-8c[	.
-8c]	A-
+[8c	.
+8cL]	A- major
 8e-	.
 8f	.
-8g[	Fadd(2,5,7)
+[8gJ	F other-2,5,7
 =8	=8
 4g]	.
-8C	Fm
+8C	F minor
 8r	.
-8E-	.
-8F	.
+8E-L	.
+8FJ	.
 8r	.
-8g[	Fadd(2,5,7)
+[8g	F other-2,5,7
 =9	=9
 4g]	.
-8C	Fm
+8C	F minor
 8r	.
-8E-	.
-8F	.
+8E-L	.
+8FJ	.
 8r	.
-8g-[	G-
+[8g-	G- major
 =10	=10
 4g-]	.
 8a-	.
 8r	.
-8b-	.
+8b-L	.
 8a-	.
 8g-	.
-8f[	B-m
+[8fJ	B- minor
 =11	=11
 4f]	.
 8BB-	.
 8r	.
-8D-	.
-8E-	.
+8D-L	.
+8E-J	.
 8r	.
-8en[	A
+[8en	A major
 =12	=12
 4en]	.
 4g-	.
-8a-	.
+8a-L	.
 8g-	.
 8en	.
-8e-[	A-sus4
+[8e-J	A- suspended-fourth
 =13	=13
 4e-]	.
 3...r	.
-8r	A-
+8r	A- major
 =14	=14
 2r	.
-8AA-	.
+8AA-L	.
 8GG	.
 8GG-	.
-8FF[	Fm
+[8FFJ	F minor
 =15	=15
 4FF]	.
 2.r	.

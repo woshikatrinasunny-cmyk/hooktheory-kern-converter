@@ -16,63 +16,63 @@
 *D:	*
 *M4/4	*
 =1	=1
-1dd[	G
+[1dd	G major
 =2	=2
 4dd]	.
 4a	.
 4dd	.
 4cc#	.
 =3	=3
-1a[	F#m7
+[1a	F# minor-seventh
 =4	=4
 4a]	.
 4a	.
 4dd	.
 4ee	.
 =5	=5
-2.ff#	Bm
-8gg	.
-8ff#[	.
+2.ff#	B minor
+8ggL	.
+[8ff#J	.
 =6	=6
-4ff#]	A
+4ff#]	A major
 8ee	.
 4.dd	.
-8cc#	.
-8dd[	.
+8cc#L	.
+[8ddJ	.
 =7	=7
-1dd_	G
+1dd_	G major
 =8	=8
-8dd]	A
+8ddL]	A major
 8a	.
 8b	.
+8cc#J	.
+8ddL	.
 8cc#	.
 8dd	.
-8cc#	.
-8dd	.
-8ee	.
+8eeJ	.
 =9	=9
-1ff#	G
+1ff#	G major
 =10	=10
 4ff#	.
 8gg	.
 4aa	.
 4dd	.
-8ee[	.
+[8ee	.
 =11	=11
-1ee]	F#m7
+1ee]	F# minor-seventh
 =12	=12
-4ff#	F#dim
+4ff#	F# diminished
 8gg	.
 4aa	.
 4ddd	.
-8eee[	.
+[8eee	.
 =13	=13
-1eee]	Em7
+1eee]	E minor-seventh
 =14	=14
-2ddd	Edim/A#
-2ccc#	A
+2ddd	E diminished/A#
+2ccc#	A major
 =15	=15
-1ddd[	Dadd(2,4,7)
+[1ddd	D other-2,4,7
 =16	=16
 2.ddd]	.
 4r	.

@@ -16,7 +16,7 @@
 *f:	*
 *M4/4	*
 =1	=1
-4.g	A-maj7
+4.g	A- major-seventh
 4.f	.
 4a-	.
 =2	=2
@@ -25,17 +25,17 @@
 4.c	.
 4e-	.
 =3	=3
-4.f	D-maj7
+4.f	D- major-seventh
 4.e-	.
 4c	.
 =4	=4
-8e-	.
-8f	.
+8e-L	.
+8fJ	.
 8r	.
 4c	.
 4.B-	.
 =5	=5
-4.g	A-maj7
+4.g	A- major-seventh
 4.f	.
 4a-	.
 =6	=6
@@ -44,7 +44,7 @@
 4.c	.
 4e-	.
 =7	=7
-4.b-	D-maj7
+4.b-	D- major-seventh
 4.cc	.
 4ee-	.
 =8	=8
@@ -52,44 +52,44 @@
 4ee-	.
 4.cc	.
 =9	=9
-4.g	D-
+4.g	D- major
 4.f	.
 4a-	.
 =10	=10
-8g	E-
+8g	E- major
 4e-	.
 4.c	.
 4e-	.
 =11	=11
-4.f	Fm
+4.f	F minor
 4.e-	.
 4c	.
 =12	=12
-8e-	.
-8f	.
+8e-L	.
+8fJ	.
 8r	.
-8c[	.
-8c]	Fm7/E-
-8B-[	.
-4B-]	Cm
+[8c	.
+8cL]	F minor-seventh/E-
+[8B-J	.
+4B-]	C minor
 =13	=13
-2a-	D-
+2a-	D- major
 8r	.
 8cc	.
 8r	.
-8g[	E-
+[8g	E- major
 =14	=14
 2g]	.
 8r	.
 8a-	.
 8r	.
-8f[	Fm
+[8f	F minor
 =15	=15
 2f]	.
 2r	.
 =16	=16
-2r	D-
-4r	E-
-4r	Edim
+2r	D- major
+4r	E- major
+4r	E diminished
 ==	==
 *-	*-

@@ -15,120 +15,120 @@
 *C:	*
 *M3/4	*
 =1	=1
-4.r	C7/A#
+4.r	C dominant/A#
 8dd	.
-8ddd	.
-8dd	.
+8dddL	.
+8ddJ	.
 =2	=2
-4.ccc	C
+4.ccc	C major
 8ff	.
-8ff	.
-8gg	.
+8ffL	.
+8ggJ	.
 =3	=3
-8gg	Cm7/D#
-8cc	.
+8ggL	C minor-seventh/D#
+8ccJ	.
 4cc	.
 8r	.
 8a#	.
 =4	=4
-8gg	Fmaj7/C
+8gg	F major-seventh/C
 4.a#	.
 4r	.
 =5	=5
-4a	Cm7/D#
+4a	C minor-seventh/D#
 4a#	.
 4cc	.
 =6	=6
-2a	Fmaj7/C
-4f[	.
+2a	F major-seventh/C
+[4f	.
 =7	=7
-2f]	G#
-4c[	.
+2f]	G# major
+[4c	.
 =8	=8
-2c]	A#
+2c]	A# major
 4r	.
 =9	=9
-2aa	C7/A#
-8gg	.
-8ff	.
+2aa	C dominant/A#
+8ggL	.
+8ffJ	.
 =10	=10
-8ff	C
-8ee	.
+8ffL	C major
+8eeJ	.
 4.aa#	.
-8ccc[	.
+[8ccc	.
 =11	=11
-8ccc]	Cm7/D#
+8ccc]	C minor-seventh/D#
 2cc	.
 8a#	.
 =12	=12
-2.gg	Fmaj7/C
+2.gg	F major-seventh/C
 =13	=13
-2.g	Cm7/D#
+2.g	C minor-seventh/D#
 =14	=14
-4g	Fmaj7/C
+4g	F major-seventh/C
 4.cc	.
 8dd	.
 =15	=15
-2g	G#
-4c[	.
+2g	G# major
+[4c	.
 =16	=16
-4.c]	A#
+4.c]	A# major
 4.r	.
 =17	=17
-4.r	C7/A#
+4.r	C dominant/A#
 8dd	.
-8ddd	.
-8dd	.
+8dddL	.
+8ddJ	.
 =18	=18
-4.ccc	C
+4.ccc	C major
 8ff	.
-8ff	.
-8gg	.
+8ffL	.
+8ggJ	.
 =19	=19
-4gg	Cm7/D#
+4gg	C minor-seventh/D#
 4cc	.
 8r	.
 8aa	.
 =20	=20
-8gg	Fmaj7/C
-8cc	.
+8ggL	F major-seventh/C
+8ccJ	.
 2cc	.
 =21	=21
-2.r	Cm7/D#
+2.r	C minor-seventh/D#
 =22	=22
-4a#	Fmaj7/C
+4a#	F major-seventh/C
 4a	.
 4dd	.
 =23	=23
-8dd	G#
+8dd	G# major
 3...d	.
 =24	=24
-8dd	A#
+8dd	A# major
 3...d	.
 =25	=25
-4.r	C7/A#
+4.r	C dominant/A#
 8dd	.
-8ddd	.
-8dd	.
+8dddL	.
+8ddJ	.
 =26	=26
-4ccc	C
+4ccc	C major
 4ff	.
 4gg	.
 =27	=27
-4aa	Cm7/D#
+4aa	C minor-seventh/D#
 4ff	.
-4cc[	.
+[4cc	.
 =28	=28
-2.cc]	Fmaj7/C
+2.cc]	F major-seventh/C
 =29	=29
-2.dd	Cm7/D#
+2.dd	C minor-seventh/D#
 =30	=30
-2.g	Fmaj7/C
+2.g	F major-seventh/C
 =31	=31
-3...c	G#
+3...c	G# major
 8cc	.
 =32	=32
-3...c	A#
+3...c	A# major
 8cc	.
 ==	==
 *-	*-

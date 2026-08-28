@@ -16,116 +16,116 @@
 *F:	*
 *M4/4	*
 =1	=1
-4a	F
-8a	F/C
-8a	.
-4g	A7/E
-8g	A7
-8g	.
+4a	F major
+8aL	F major/C
+8aJ	.
+4g	A dominant/E
+8gL	A dominant
+8gJ	.
 =2	=2
-8f	Dm
+8fL	D minor
 8g	.
-8a	Dm/F
-8f	.
-8d	B-
+8a	D minor/F
+8fJ	.
+8dL	B- major
 8e	.
-8f[	Gm7
-8f]	B-m7/A-
+[8f	G minor-seventh
+8fJ]	B- minor-seventh/A-
 =3	=3
-4c	F/A
-8f	F/C
-8a	.
-4cc	F
-8cc	G-dim
-8cc	.
+4c	F major/A
+8fL	F major/C
+8aJ	.
+4cc	F major
+8ccL	G- diminished
+8ccJ	.
 =4	=4
-4cc	C/G
-4cc	F/A
-8cc	C7/B-
+4cc	C major/G
+4cc	F major/A
+8cc	C dominant/B-
 8r	.
-8f	F/A
-8g	C/G
+8fL	F major/A
+8gJ	C major/G
 =5	=5
-4a	F
-8a	F/C
-8a	.
-4g	A7/E
-4g	A7
+4a	F major
+8aL	F major/C
+8aJ	.
+4g	A dominant/E
+4g	A dominant
 =6	=6
-8f	Dm
+8fL	D minor
 8g	.
-8a	Dm/F
-8f	.
-8d	B-
-8e	.
-4f	Gm7
+8a	D minor/F
+8fJ	.
+8dL	B- major
+8eJ	.
+4f	G minor-seventh
 =7	=7
-4c	F/A
-8f	F/C
-8a	.
-4cc	F/A
-8b-	C7/G
-8a	F
+4c	F major/A
+8fL	F major/C
+8aJ	.
+4cc	F major/A
+8b-L	C dominant/G
+8aJ	F major
 =8	=8
-4g	C
-8g	C
-8g	.
-8f	F
+4g	C major
+8gL	C major
+8gJ	.
+8fL	F major
 8c	.
-8f	F
-8a	.
+8f	F major
+8aJ	.
 =9	=9
-4cc	F
-8.cc	F/C
-16cc	.
-4cc	F
-4a	F
+4cc	F major
+8.ccL	F major/C
+16ccJk	.
+4cc	F major
+4a	F major
 =10	=10
-4ff	B-
-8.ff	B-/F
-16ff	.
-4ee	B-
-4dd	B-
+4ff	B- major
+8.ffL	B- major/F
+16ffJk	.
+4ee	B- major
+4dd	B- major
 =11	=11
-4cc	F/A
-8.cc	F/A
-16cc	.
-4dd	B-
-4cc	F
+4cc	F major/A
+8.ccL	F major/A
+16ccJk	.
+4dd	B- major
+4cc	F major
 =12	=12
-4cc	C/G
-8.b-	C/G
-16a	.
-8g	C
-8r	Edim/B-
-8f	F/A
-8g	C/G
+4cc	C major/G
+8.b-L	C major/G
+16aJk	.
+8g	C major
+8r	E diminished/B-
+8fL	F major/A
+8gJ	C major/G
 =13	=13
-4a	F
-8a	F
-8a	.
-4g	A7/E
-4g	A7/E
+4a	F major
+8aL	F major
+8aJ	.
+4g	A dominant/E
+4g	A dominant/E
 =14	=14
-8f	Dm
+8fL	D minor
 8g	.
-8a	Dm/F
-8f	.
-8d	Gm7/B-
-8e	.
-4f	B-m7/A-
+8a	D minor/F
+8fJ	.
+8dL	G minor-seventh/B-
+8eJ	.
+4f	B- minor-seventh/A-
 =15	=15
-4c	F/A
-8f	F/C
-8a	.
-4cc	F/A
-8b-	F
-8a	.
+4c	F major/A
+8fL	F major/C
+8aJ	.
+4cc	F major/A
+8b-L	F major
+8aJ	.
 =16	=16
-4g	C
-8.g	C
-16g	.
-4f	F
+4g	C major
+8.gL	C major
+16gJk	.
+4f	F major
 4r	.
 ==	==
 *-	*-

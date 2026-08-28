@@ -16,42 +16,42 @@
 *G:	*
 *M4/4	*
 =1	=1
-8.A	Am7
-16G	.
-4E[	.
-2E]	Aadd(2,3,7)
+8.AL	A minor-seventh
+16GJk	.
+[4E	.
+2E]	A other-2,3,7
 =2	=2
-4r	Am7
-4D[	.
-8D]	Aadd(2,3,7)
-8E	.
-4G[	.
+4r	A minor-seventh
+[4D	.
+8DL]	A other-2,3,7
+8EJ	.
+[4G	.
 =3	=3
-8G]	D
-4.A[	.
-8A]	Dsus4
+8G]	D major
+[4.A	.
+8A]	D suspended-fourth
 4.r	.
 =4	=4
-4r	D
+4r	D major
 4c	.
-4c	D7
+4c	D dominant
 4B	.
 =5	=5
-2A	Am7
-2B	Aadd(2,3,7)
+2A	A minor-seventh
+2B	A other-2,3,7
 =6	=6
-2c	Am7
-2e	Aadd(2,3,7)
+2c	A minor-seventh
+2e	A other-2,3,7
 =7	=7
-2d[	D
-4d]	Dsus4
-8g	.
-8g	.
+[2d	D major
+4d]	D suspended-fourth
+8gL	.
+8gJ	.
 =8	=8
-4e	D7
-8r	Bm/D
+4e	D dominant
+8r	B minor/D
 8a	.
-4a	D
-4a	Dsus4
+4a	D major
+4a	D suspended-fourth
 ==	==
 *-	*-

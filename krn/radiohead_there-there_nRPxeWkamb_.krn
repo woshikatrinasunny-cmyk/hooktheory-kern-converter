@@ -16,7 +16,7 @@
 *b:	*
 *M4/4	*
 =1	=1
-1b	Bm7
+1b	B minor-seventh
 =2	=2
 1dd	.
 =3	=3
@@ -25,24 +25,24 @@
 =4	=4
 2dd	.
 4r	.
-8dd	.
-8ffn[	.
+8ddL	.
+[8ffnJ	.
 =5	=5
-8ffn]	Dm7
-2..ffn[	.
+8ffn]	D minor-seventh
+[2..ffn	.
 =6	=6
 2..ffn]	.
 8ffn	.
 =7	=7
-8ee	Am7
-2..ee[	.
+8ee	A minor-seventh
+[2..ee	.
 =8	=8
 2ee]	.
 4r	.
-8ee	.
-8ff#[	.
+8eeL	.
+[8ff#J	.
 =9	=9
-1ff#]	Em
+1ff#]	E minor
 =10	=10
 2..ee	.
 8dd	.

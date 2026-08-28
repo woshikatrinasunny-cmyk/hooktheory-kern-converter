@@ -16,29 +16,29 @@
 *g:	*
 *M4/4	*
 =1	=1
-2.dd	B-
-4f[	.
+2.dd	B- major
+[4f	.
 =2	=2
 2f]	.
 4dd	.
 4f	.
 =3	=3
-4dd	Cadd(4,5,7)
+4dd	C other-4,5,7
 2dd	.
-4cc[	.
+[4cc	.
 =4	=4
 4cc]	.
 4b-	.
 4cc	.
 4gg	.
 =5	=5
-2.ff	Gm7
-4b-[	.
+2.ff	G minor-seventh
+[4b-	.
 =6	=6
 4b-]	.
 4cc	.
 4dd	.
-4b-[	.
+[4b-	.
 =7	=7
 1b-_	.
 =8	=8

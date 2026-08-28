@@ -16,49 +16,49 @@
 *C:	*
 *M6/4	*
 =1	=1
-4g	C
+4g	C major
 8r	.
 4c	.
 8r	.
-2c#	C#maj7sus4/C
-8f#	.
-8g#	.
+2c#	C# major-seventh-suspended-fourth/C
+8f#L	.
+8g#J	.
 =2	=2
-8g	C
-8c	.
-8g	.
-8f	C#maj7/C
-8c#	.
-8G#	.
-8c#	.
-8f	.
-8g#	.
-8cc#	.
-8ff	.
-8gg#	.
+8gL	C major
+8cJ	.
+8gL	.
+8fJ	C# major-seventh/C
+8c#L	.
+8G#J	.
+8c#L	.
+8fJ	.
+8g#L	.
+8cc#J	.
+8ffL	.
+8gg#J	.
 =3	=3
-4a#	D#
+4a#	D# major
 8r	.
 4d#	.
 8r	.
-2e	Emaj7sus4/D#
-8a	.
-8b	.
+2e	E major-seventh-suspended-fourth/D#
+8aL	.
+8bJ	.
 =4	=4
-8dd#	D#
-8b	.
+8dd#L	D# major
+8bJ	.
 8dd#	.
-4.dd[	D#maj7
-4dd]	Emaj7/D#
+[4.dd	D# major-seventh
+4dd]	E major-seventh/D#
 8r	.
 8.dd	.
 8.dd#	.
 =5	=5
-4.r	Em
+4.r	E minor
 2.ee	.
 4.b	.
 =6	=6
-4a#	F#7/E
+4a#	F# dominant/E
 8r	.
 3...ff#	.
 8r	.
@@ -66,65 +66,65 @@
 16r	.
 8.g#	.
 =7	=7
-2.a	B7/D#
+2.a	B dominant/D#
 2.f#	.
 =8	=8
-4g#	E7/D
+4g#	E dominant/D
 8r	.
 3...ee	.
 8r	.
 4.b	.
 =9	=9
-1cc	F/C
+1cc	F major/C
 8r	.
 8cc	.
-8a	.
-8cc	.
+8aL	.
+8ccJ	.
 =10	=10
-2..dd	Cmaj7sus2
+2..dd	C major-seventh-suspended-second
 4r	.
 8a	.
 8r	.
 8b	.
 =11	=11
-1cc	G#/D#
+1cc	G# major/D#
 8r	.
 8cc	.
-8g#	.
-8cc	.
+8g#L	.
+8ccJ	.
 =12	=12
-2..dd	D#maj7sus2
+2..dd	D# major-seventh-suspended-second
 8r	.
-8dd	.
-8dd	.
-8cc	.
-8dd	.
+8ddL	.
+8ddJ	.
+8ccL	.
+8ddJ	.
 =13	=13
-1.ee	C
+1.ee	C major
 =14	=14
-1a	D7/C
+1a	D dominant/C
 8r	.
 8a	.
 8r	.
 8a	.
 =15	=15
-1a#	Cm7
+1a#	C minor-seventh
 8r	.
 8a#	.
-8a#	.
-16g	.
+8a#L	.
+16gJk	.
 16r	.
 =16	=16
-4cc	F/C
+4cc	F major/C
 8r	.
 8aa	.
-8aa	.
-8aa	.
-8aa	.
-8aa	.
-8aa	.
-8aa	.
-8aa	.
-8aa	.
+8aaL	.
+8aaJ	.
+8aaL	.
+8aaJ	.
+8aaL	.
+8aaJ	.
+8aaL	.
+8aaJ	.
 ==	==
 *-	*-

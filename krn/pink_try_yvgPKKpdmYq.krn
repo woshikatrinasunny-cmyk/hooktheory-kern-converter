@@ -16,47 +16,47 @@
 *b:	*
 *M4/4	*
 =1	=1
-8dd	Bm
+8ddL	B minor
 8dd	.
 8dd	.
-8dd	.
-4dd	G
-8dd	.
-8dd	.
+8ddJ	.
+4dd	G major
+8ddL	.
+8ddJ	.
 =2	=2
-8dd	D
+8dd	D major
 4.ff#	.
-2r	A
+2r	A major
 =3	=3
-8dd	Bm
+8ddL	B minor
+8ddJ	.
+[4dd	.
+8ddL]	G major
 8dd	.
-4dd[	.
-8dd]	G
 8dd	.
-8dd	.
-8dd[	.
+[8ddJ	.
 =4	=4
-2dd]	D
-2r	A
+2dd]	D major
+2r	A major
 =5	=5
-4dd	Bm
-8dd	.
-8dd	.
-4dd	G
-8dd	.
-8dd	.
+4dd	B minor
+8ddL	.
+8ddJ	.
+4dd	G major
+8ddL	.
+8ddJ	.
 =6	=6
-8dd	D
+8dd	D major
 4.aa	.
-2r	A
+2r	A major
 =7	=7
-8dd	Bm
-8dd	.
+8ddL	B minor
+8ddJ	.
 4dd	.
-4.dd	G
-8dd[	.
+4.dd	G major
+[8dd	.
 =8	=8
-2dd]	D
-2r	A
+2dd]	D major
+2r	A major
 ==	==
 *-	*-

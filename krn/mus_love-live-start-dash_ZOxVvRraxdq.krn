@@ -16,14 +16,14 @@
 *G:	*
 *M4/4	*
 =1	=1
-8.ee	Am
+8.ee	A minor
 16r	.
 8.ee	.
 16r	.
 8.ff#	.
 16r	.
-8gg[	.
-16gg]	D
+[8ggL	.
+16ggJk]	D major
 16r	.
 =2	=2
 8.ff#	.
@@ -33,14 +33,14 @@
 8.aa	.
 6...r	.
 =3	=3
-8.dd	Bm
+8.dd	B minor
 16r	.
 8.dd	.
 16r	.
 8.ee	.
 16r	.
-8ff#[	.
-16ff#]	Em
+[8ff#L	.
+16ff#Jk]	E minor
 16r	.
 =4	=4
 8.gg	.
@@ -49,33 +49,33 @@
 16r	.
 8bb	.
 8r	.
-8aa	.
-8bb	.
+8aaL	.
+8bbJ	.
 =5	=5
-4ccc	F
+4ccc	F major
 8bb	.
 4aa	.
 4gg	.
-8gg[	C/E
+[8gg	C major/E
 =6	=6
 2gg]	.
 4r	.
-8aa	.
-8bb	.
+8aaL	.
+8bbJ	.
 =7	=7
-4ccc	D
+4ccc	D major
 8bb	.
 4aa	.
-8gg	D7/C
+8ggL	D dominant/C
 8aa	.
-8bb[	B
+[8bbJ	B major
 =8	=8
 2..bb]	.
-8bb	B/D#
+8bb	B major/D#
 =9	=9
 4r	.
-4r	Em
-4r	F#dim
-4r	G
+4r	E minor
+4r	F# diminished
+4r	G major
 ==	==
 *-	*-

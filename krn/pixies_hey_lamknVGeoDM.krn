@@ -17,133 +17,133 @@
 *M4/4	*
 =1	=1
 2.r	.
-4r	F#m
+4r	F# minor
 =2	=2
 4r	.
 4f#	.
-8f#	.
-8f#[	.
-8f#]	A
-8f#	A#
+8f#L	.
+[8f#	.
+8f#]	A major
+8f#J	A# major
 =3	=3
-8f#	Bm
-8.B[	.
-16B]	.
-4r	Bm
-8r	Bm
-8r	C
-8r	C#dim
+8f#L	B minor
+[8.B	.
+16BJk]	.
+4r	B minor
+8r	B minor
+8r	C major
+8r	C# diminished
 =4	=4
-6...r	D
+6...r	D major
 16r	.
-4f#	D
-8e	D
-8d	Em
-8e	F#m
+4f#	D major
+8eL	D major
+8d	E minor
+8eJ	F# minor
 =5	=5
-4d	G
+4d	G major
 16r	.
 16r	.
-4r	G
-8r	G
-8r	Em
-8r	F
+4r	G major
+8r	G major
+8r	E minor
+8r	F major
 =6	=6
-4f#	F#m
+4f#	F# minor
 16r	.
 16r	.
-8r	F#m
-8e	.
-8e[	F#m
-8e]	A
-8e	A#
+8r	F# minor
+8eL	.
+[8e	F# minor
+8e]	A major
+8eJ	A# major
 =7	=7
-8f#	Bm
-8B	.
+8f#L	B minor
+8BJ	.
 16r	.
 16r	.
-8d	Bm
-8e	.
-8d[	Bm
-8d]	C
-8d	C#dim
+8d	B minor
+8eL	.
+[8d	B minor
+8d]	C major
+8dJ	C# diminished
 =8	=8
-4f#	D
-16e[	.
-16e]	.
-8d	D
-8f#[	.
-8f#]	D
-8r	Em
-8r	F#m
+4f#	D major
+[16eLL	.
+16eJ]	.
+8dJ	D major
+[8f#L	.
+8f#J]	D major
+8r	E minor
+8r	F# minor
 =9	=9
-4f#	G
+4f#	G major
 16r	.
 16r	.
-8r	G
-8f#[	.
-8f#]	G
-8r	Em
-8r	F
+8r	G major
+[8f#L	.
+8f#J]	G major
+8r	E minor
+8r	F major
 =10	=10
-4f#	F#m
-16e[	.
-16e]	.
-8d	F#m
-8f#[	.
-8f#]	F#m
-8r	A
-8f#	A#
+4f#	F# minor
+[16eLL	.
+16eJ]	.
+8dJ	F# minor
+[8f#L	.
+8f#J]	F# minor
+8r	A major
+8f#	A# major
 =11	=11
-4f#	Bm
+4f#	B minor
 16r	.
 16r	.
-4r	Bm
-8r	Bm
-8r	C
-8r	C#dim
+4r	B minor
+8r	B minor
+8r	C major
+8r	C# diminished
 =12	=12
-4f#	D
+4f#	D major
 16r	.
 16r	.
-4r	D
-8r	D
-8f#[	Em
-8f#]	F#m
+4r	D major
+8r	D major
+[8f#L	E minor
+8f#J]	F# minor
 =13	=13
-4f#	G
+4f#	G major
 16r	.
 16r	.
-4r	G
-8r	G
-8r	Em
-8r	F
+4r	G major
+8r	G major
+8r	E minor
+8r	F major
 =14	=14
-8f#	F#m
-8.e[	.
-16e]	.
-4r	F#m
-8r	F#m
-8r	A
-8r	A#
+8f#L	F# minor
+[8.e	.
+16eJk]	.
+4r	F# minor
+8r	F# minor
+8r	A major
+8r	A# major
 =15	=15
-6...r	Bm
-16f#[	.
-16f#]	Bm
+6...r	B minor
+[16f#LL	.
+16f#JJ]	B minor
 8f#	.
-16a[	.
-16a]	Bm
+[16aLL	.
+16aJJ]	B minor
 16r	.
-8f#	C
-8f#	C#dim
+8f#L	C major
+8f#J	C# diminished
 =16	=16
-8b	D
+8bL	D major
 8a	.
-16d[	.
-16d]	.
-4r	D
-8r	D
-8r	Em
-8d	F#m
+[16dL	.
+16dJJ]	.
+4r	D major
+8r	D major
+8r	E minor
+8d	F# minor
 ==	==
 *-	*-

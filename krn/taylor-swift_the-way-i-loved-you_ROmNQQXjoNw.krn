@@ -15,40 +15,40 @@
 *F:	*
 *M4/4	*
 =1	=1
-8d	F
+8dL	F major
 8d	.
 8dd	.
-8d	.
-8d	.
+8dJ	.
+8dL	.
 8d	.
 8dd	.
-8d	.
+8dJ	.
 =2	=2
-8A	C
+8AL	C major
 8A	.
 8a	.
-8A	.
-8A	.
+8AJ	.
+8AL	.
 8A	.
 8a	.
-8A	.
+8AJ	.
 =3	=3
-8d	Gm
+8dL	G minor
 8d	.
 8dd	.
-8d	.
-8d	.
+8dJ	.
+8dL	.
 8d	.
 8dd	.
-8d	.
+8dJ	.
 =4	=4
-8A	B-
+8AL	B- major
 8A	.
 8a	.
-8A	.
-8A	C
+8AJ	.
+8AL	C major
 8A	.
 8a	.
-8A	.
+8AJ	.
 ==	==
 *-	*-

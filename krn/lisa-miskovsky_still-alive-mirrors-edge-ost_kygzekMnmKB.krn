@@ -16,34 +16,34 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4dd#	D#m
+4dd#	D# minor
 8r	.
 4dd#	.
 4cc#	.
-8a#[	.
+[8a#	.
 =2	=2
-4a#]	B
+4a#]	B major
 8r	.
 4a#	.
 4.g#	.
 =3	=3
-4cc#	C#
+4cc#	C# major
 8r	.
 4cc#	.
 4f#	.
-8e#[	.
+[8e#	.
 =4	=4
-4e#]	C#add(2,4,7)
+4e#]	C# other-2,4,7
 8r	.
-8e#[	.
-8e#]	A#m7
+[8e#	.
+8e#]	A# minor-seventh
 4.d#	.
 =5	=5
-2r	Badd(2,4,7)
-2r	B
+2r	B other-2,4,7
+2r	B major
 =6	=6
-1r	F#
+1r	F# major
 =7	=7
-1r	C#/E#
+1r	C# major/E#
 ==	==
 *-	*-

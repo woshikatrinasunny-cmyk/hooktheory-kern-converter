@@ -16,28 +16,28 @@
 *B:	*
 *M4/4	*
 =1	=1
-8b	B
+8b	B major
 4dd#	.
-4ee	E
-8ff#	.
+4ee	E major
+8ff#L	.
 8ee	.
-8dd#	.
+8dd#J	.
 =2	=2
-8b	B
+8b	B major
 4dd#	.
-4.ee	E
+4.ee	E major
 4r	.
 =3	=3
-8b	B
+8b	B major
 4dd#	.
-4ee	E
-8ff#	.
+4ee	E major
+8ff#L	.
 8ee	.
-8dd#	.
+8dd#J	.
 =4	=4
-8ee	F#
+8ee	F# major
 4dd#	.
-4.b	B
+4.b	B major
 4r	.
 ==	==
 *-	*-

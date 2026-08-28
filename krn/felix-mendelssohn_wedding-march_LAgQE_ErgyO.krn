@@ -16,46 +16,46 @@
 *C:	*
 *M4/4	*
 =1	=1
-2c	C
+2c	C major
 4r	.
+12cL	.
 12c	.
-12c	.
-12c	.
+12cJ	.
 =2	=2
 2c	.
 4r	.
+12cL	.
 12c	.
-12c	.
-12c	.
+12cJ	.
 =3	=3
 4e	.
+12eL	.
 12e	.
-12e	.
-12e	.
+12eJ	.
 4e	.
+12eL	.
 12e	.
-12e	.
-12e	.
+12eJ	.
 =4	=4
 4g	.
+12gL	.
 12g	.
-12g	.
-12g	.
+12gJ	.
 4g	.
+12gL	.
 12g	.
-12g	.
-12g	.
+12gJ	.
 =5	=5
-2ccc	F#m7b5/A
-4.bb	B7
+2ccc	F# half-diminished/A
+4.bb	B dominant
 8ff#	.
 =6	=6
-4aa	Eadd(2,5,7,11)
-4gg	Em
-4ff	Dm/F
+4aa	E other-2,5,7,11
+4gg	E minor
+4ff	D minor/F
 4dd	.
 =7	=7
-32cc	C/G
+32ccLLL	C major/G
 32dd	.
 32cc	.
 32dd	.
@@ -70,29 +70,29 @@
 32cc	.
 32dd	.
 32b	.
-32cc	.
-4dd	G7
-8.g	.
-16dd	.
+32ccJJJ	.
+4dd	G dominant
+8.gL	.
+16ddJk	.
 =8	=8
-4ee	C
-8c	.
-8e	.
-8g	.
+4ee	C major
+8cL	.
+8eJ	.
+8gL	.
 8cc	.
 8ee	.
-8gg	.
+8ggJ	.
 =9	=9
-2ccc	F#m7b5/A
-4.bb	B7
+2ccc	F# half-diminished/A
+4.bb	B dominant
 8ff#	.
 =10	=10
-4aa	Eadd(2,5,7,11)
-4gg	Em
-4ff	Dm/F
+4aa	E other-2,5,7,11
+4gg	E minor
+4ff	D minor/F
 4dd	.
 =11	=11
-32cc	C/G
+32ccLLL	C major/G
 32dd	.
 32cc	.
 32dd	.
@@ -107,15 +107,15 @@
 32cc	.
 32dd	.
 32b	.
-32cc	.
+32ccJJJ	.
 4ee	.
-8.dd	G7
-16ee	.
+8.ddL	G dominant
+16eeJk	.
 =12	=12
 2dd	.
-4cc	C
+4cc	C major
+12cL	.
 12c	.
-12c	.
-12c	.
+12cJ	.
 ==	==
 *-	*-

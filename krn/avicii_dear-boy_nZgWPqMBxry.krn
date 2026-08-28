@@ -16,159 +16,159 @@
 *A:	*
 *M4/4	*
 =1	=1
-4a	D
-8f#	.
-8a	.
-8b	E
+4a	D major
+8f#L	.
+8aJ	.
+8bL	E major
 8cc#	.
 8b	.
-8a[	F#m
+[8aJ	F# minor
 =2	=2
 4a]	.
-8f#	.
-8a	.
-2e	C#m/E
+8f#L	.
+8aJ	.
+2e	C# minor/E
 =3	=3
-4a	D
-8f#	.
-8a	.
-4.b	E
-16ffn	C#m
-16ff#	.
+4a	D major
+8f#L	.
+8aJ	.
+4.b	E major
+16ffnLL	C# minor
+16ff#JJ	.
 =4	=4
 2ee	.
-16aa	A
+16aaLL	A major
 16gg#	.
-16ff#	A
+16ff#	A major
 16ee	.
-16cc#	A
+16cc#JJ	A major
 16r	.
-16r	A
+16r	A major
 16r	.
 =5	=5
-4a	D
-8f#	.
-8a	.
-8b	E
+4a	D major
+8f#L	.
+8aJ	.
+8bL	E major
 8cc#	.
 8b	.
-8a[	F#m
+[8aJ	F# minor
 =6	=6
 4a]	.
-8f#	.
-8a	.
-2e	C#m/E
+8f#L	.
+8aJ	.
+2e	C# minor/E
 =7	=7
-4a	D
-8f#	.
-8a	.
-4.b	E
-16ccn	A
-16cc#	.
+4a	D major
+8f#L	.
+8aJ	.
+4.b	E major
+16ccnLL	A major
+16cc#JJ	.
 =8	=8
 2a	.
-8b	.
+8bL	.
 8cc#	.
 8b	.
-8a	.
+8aJ	.
 =9	=9
-4a	D
-8f#	.
-8a	.
-8b	E
+4a	D major
+8f#L	.
+8aJ	.
+8bL	E major
 8cc#	.
 8b	.
-8ee[	F#m
+[8eeJ	F# minor
 =10	=10
 4ee]	.
-8f#	.
-8a	.
-2e	C#m/E
+8f#L	.
+8aJ	.
+2e	C# minor/E
 =11	=11
-4a	D
-8f#	.
-8a	.
-4.b	E
-16ffn	C#m
-16ff#	.
+4a	D major
+8f#L	.
+8aJ	.
+4.b	E major
+16ffnLL	C# minor
+16ff#JJ	.
 =12	=12
 2ee	.
-16aa	A
+16aaLL	A major
 16gg#	.
-16ff#	A
+16ff#	A major
 16ee	.
-16cc#	A
+16cc#JJ	A major
 16r	.
-16r	A
+16r	A major
 16r	.
 =13	=13
-4a	D
-8f#	.
-8a	.
-8b	E
+4a	D major
+8f#L	.
+8aJ	.
+8bL	E major
 8cc#	.
 8b	.
-8a[	F#m
+[8aJ	F# minor
 =14	=14
 4a]	.
-8f#	.
-8a	.
-2e	C#m/E
+8f#L	.
+8aJ	.
+2e	C# minor/E
 =15	=15
-4a	D
-8f#	.
-8a	.
-4.b	E
-16ccn	A
-16cc#	.
+4a	D major
+8f#L	.
+8aJ	.
+4.b	E major
+16ccnLL	A major
+16cc#JJ	.
 =16	=16
 1a	.
 =17	=17
-8a	D
+8a	D major
 4f#	.
-8ff#[	.
-8ff#]	E
+[8ff#	.
+8ff#]	E major
 4ff#	.
-8ee	F#m
+8ee	F# minor
 =18	=18
 4ff#	.
 4b	.
-4b	C#m
+4b	C# minor
 4a	.
 =19	=19
-8a	D
+8a	D major
 4f#	.
-8ff#[	.
-8ff#]	E
+[8ff#	.
+8ff#]	E major
 4ff#	.
-8ee	C#m
+8ee	C# minor
 =20	=20
 4ff#	.
 4b	.
-4b	D/F#
+4b	D major/F#
 4a	.
 =21	=21
-8a	D
+8a	D major
 4f#	.
-8ff#[	.
-8ff#]	E
+[8ff#	.
+8ff#]	E major
 4ff#	.
-8ee	F#m
+8ee	F# minor
 =22	=22
 4ff#	.
 4b	.
-4b	C#m
+4b	C# minor
 4a	.
 =23	=23
-8a	D
+8a	D major
 4f#	.
-8ff#[	.
-8ff#]	E
+[8ff#	.
+8ff#]	E major
 4ff#	.
-8ee	C#m
+8ee	C# minor
 =24	=24
-2ff#[	.
-4ff#]	D
+[2ff#	.
+4ff#]	D major
 4r	.
 ==	==
 *-	*-

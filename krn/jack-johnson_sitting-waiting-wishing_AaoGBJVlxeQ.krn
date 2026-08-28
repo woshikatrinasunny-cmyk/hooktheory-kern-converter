@@ -16,120 +16,120 @@
 *C:	*
 *M4/4	*
 =1	=1
-8a	Am
+8aL	A minor
 8cc	.
 8a	.
-8g	.
-8e	Am7
+8gJ	.
+8eL	A minor-seventh
 8g	.
 8e	.
-8d	.
+8dJ	.
 =2	=2
-8d	G
-16e	.
+8dL	G major
+16ek	.
 8.d	.
-8c	.
-8d	G7
+8cJ	.
+8dL	G dominant
 8e	.
 8d	.
-8c	.
+8cJ	.
 =3	=3
-8d	F
+8dL	F major
 8e	.
 8d	.
-8c	.
-4c	F7
-8d	.
-8c[	.
+8cJ	.
+4c	F dominant
+8dL	.
+[8cJ	.
 =4	=4
-4c]	C
+4c]	C major
 4r	.
-4.r	C7
-16a	.
-16a[	.
+4.r	C dominant
+16aLL	.
+[16aJJ	.
 =5	=5
-8a]	Am
+8aL]	A minor
 8cc	.
 8a	.
-8g	.
-8e	Am7
-16g	.
+8gJ	.
+8eL	A minor-seventh
+16gk	.
 8.e	.
-16d	.
-16d	.
+16dL	.
+16dJJ	.
 =6	=6
-8d	G
-16e	.
+8dL	G major
+16ek	.
 8.d	.
-16c	.
-16c	.
-8d	G7
-16e	.
+16cL	.
+16cJJ	.
+8dL	G dominant
+16ek	.
 8.d	.
-16e	.
-16e	.
+16eL	.
+16eJJ	.
 =7	=7
-16e	F
+16eLK	F major
 8d	.
 8.c	.
-16c	.
-16c	.
-8c	F7
+16cL	.
+16cJJ	.
+8cL	F dominant
 8c	.
 8c	.
-8c[	.
+[8cJ	.
 =8	=8
-8c]	C
+8c]	C major
 4.c	.
-8r	C7
+8r	C dominant
 8c	.
 4e	.
 =9	=9
-4.e	E
-8g#[	.
-4g#]	E7
-8g#	.
-8ee[	.
+4.e	E major
+[8g#	.
+4g#]	E dominant
+8g#L	.
+[8eeJ	.
 =10	=10
-8ee]	E
+8ee]	E major
 4dd	.
-8dd[	.
-8dd]	E7
+[8dd	.
+8ddL]	E dominant
 8dd	.
 8cc	.
-8dd[	.
+[8ddJ	.
 =11	=11
-16dd]	Am
-16cc	.
+16ddLL]	A minor
+16ccJJ	.
 4.a	.
-2r	Am7
+2r	A minor-seventh
 =12	=12
-2r	Am
-8r	Am7
+2r	A minor
+8r	A minor-seventh
 8c	.
 4e	.
 =13	=13
-4.e	E
-8g#[	.
-4g#]	E7
-8g#	.
-8ee[	.
+4.e	E major
+[8g#	.
+4g#]	E dominant
+8g#L	.
+[8eeJ	.
 =14	=14
-8ee]	E
+8ee]	E major
 4dd	.
-8dd[	.
-8dd]	E7
+[8dd	.
+8ddL]	E dominant
 8dd	.
 8cc	.
-8dd[	.
+[8ddJ	.
 =15	=15
-16dd]	Am
-16ee	.
-8dd	.
-4cc[	.
-2cc]	Am7
+16ddLL]	A minor
+16eeJ	.
+8ddJ	.
+[4cc	.
+2cc]	A minor-seventh
 =16	=16
-2r	Am
-2r	Am7
+2r	A minor
+2r	A minor-seventh
 ==	==
 *-	*-

@@ -16,58 +16,58 @@
 *g:	*
 *M4/4	*
 =1	=1
-2..r	Gm
-8r	E-/G
+2..r	G minor
+8r	E- major/G
 =2	=2
 1r	.
 =3	=3
-2..r	F/A
-8r	Cm
+2..r	F major/A
+8r	C minor
 =4	=4
 1r	.
 =5	=5
-2..r	Gm
-8r	E-/G
+2..r	G minor
+8r	E- major/G
 =6	=6
 1r	.
 =7	=7
-2..r	F/A
-8r	Cm
+2..r	F major/A
+8r	C minor
 =8	=8
 1r	.
 =9	=9
-8gg	Gm
-2.dd[	.
-8dd]	E-
+8gg	G minor
+[2.dd	.
+8dd]	E- major
 =10	=10
 4r	.
 4bb-	.
 4aa	.
 4ff	.
 =11	=11
-8gg	F
+8gg	F major
 2.dd	.
-8cc	Cm
+8cc	C minor
 =12	=12
-8dd	.
-8ff	.
+8ddL	.
+8ffJ	.
 2.dd	.
 =13	=13
-8gg	Gm
+8gg	G minor
 2.dd	.
-8cc	E-
+8cc	E- major
 =14	=14
 4dd	.
 4bb-	.
 4aa	.
 4ff	.
 =15	=15
-8gg	F
+8gg	F major
 2.dd	.
-8cc	Cm
+8cc	C minor
 =16	=16
-8dd	.
-8ff	.
+8ddL	.
+8ffJ	.
 2.dd	.
 ==	==
 *-	*-

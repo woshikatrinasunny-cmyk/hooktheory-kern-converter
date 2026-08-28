@@ -16,158 +16,158 @@
 *F:	*
 *M4/4	*
 =1	=1
-8.cc	F
+8.cc	F major
 16r	.
-8a	.
-8b-	.
-8cc	C/E
+8aL	.
+8b-J	.
+8cc	C major/E
 8r	.
 16f	.
 16r	.
 8cc	.
 =2	=2
-8cc	F7/E-
+8ccL	F dominant/E-
 8b-	.
 8b-	.
-8a	.
-4b-	B-/D
+8aJ	.
+4b-	B- major/D
 8r	.
 8f	.
 =3	=3
-4b-	B-m/D-
-8a	.
-8g	.
-8.a	F/C
+4b-	B- minor/D-
+8aL	.
+8gJ	.
+8.a	F major/C
 16r	.
 8.f	.
 16r	.
 =4	=4
-8.d	G/B
+8.d	G major/B
 16r	.
 4g	.
-8.e	C
+8.e	C major
 16r	.
 16a	.
 16r	.
 8b-	.
 =5	=5
-4cc	F
+4cc	F major
 16a	.
 16r	.
 8b-	.
-4cc	C/E
-8f	.
-8cc	.
+4cc	C major/E
+8fL	.
+8ccJ	.
 =6	=6
-8cc	F7/E-
+8ccL	F dominant/E-
 8b-	.
 8b-	.
-8a	.
-4b-	B-/D
+8aJ	.
+4b-	B- major/D
 8r	.
 8f	.
 =7	=7
-8b-	C7
+8b-L	C dominant
 8a	.
-8a	A7/D-
-8g	.
-4f	Dm7
+8a	A dominant/D-
+8gJ	.
+4f	D minor-seventh
 8r	.
 8a	.
 =8	=8
-4b-	Gm7
+4b-	G minor-seventh
 4a	.
-4f	C11
-4g	C
+4f	C dominant-11th
+4g	C major
 =9	=9
-4cc	F
+4cc	F major
 16a	.
 16r	.
 8b-	.
-8cc	C/E
+8cc	C major/E
 8r	.
-8f	.
-8cc	.
+8fL	.
+8ccJ	.
 =10	=10
-8cc	F7/E-
+8ccL	F dominant/E-
 8cc	.
 8dd	.
-8cc	.
-4f	B-/D
+8ccJ	.
+4f	B- major/D
 8r	.
 16f	.
 16r	.
 =11	=11
-8b-	B-m/D-
-16a	.
+8b-L	B- minor/D-
+16aJk	.
 16r	.
-8b-	.
-8cc	.
-8.a	F/C
+8b-L	.
+8ccJ	.
+8.a	F major/C
 16r	.
 4f	.
 =12	=12
-8.g	G/B
+8.g	G major/B
 16r	.
 4dd	.
-8.cc	C
+8.cc	C major
 16r	.
-8a	.
-8b-	.
+8aL	.
+8b-J	.
 =13	=13
-4cc	F
-8a	.
-8b-	.
-8.cc	C/E
+4cc	F major
+8aL	.
+8b-J	.
+8.cc	C major/E
 16r	.
-8f	.
-16cc	.
+8fL	.
+16ccJk	.
 16r	.
 =14	=14
-8cc	F7/E-
+8ccL	F dominant/E-
 8cc	.
 8dd	.
-16cc	.
+16ccJk	.
 16r	.
-4b-	B-/D
+4b-	B- major/D
 8r	.
 8f	.
 =15	=15
-8b-	C7
+8b-L	C dominant
 8a	.
-8a	A7/D-
-8g	.
-4f	Dm7
-8r	Am/C
+8a	A dominant/D-
+8gJ	.
+4f	D minor-seventh
+8r	A minor/C
 8a	.
 =16	=16
-4.d	Gm7
+4.d	G minor-seventh
 8r	.
 16d	.
 16r	.
 16e	.
 16r	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 =17	=17
-4f	Csus4
-8.e	C
+4f	C suspended-fourth
+8.e	C major
 16r	.
-8.d	Csus2
+8.d	C suspended-second
 16r	.
-8e	C
-8f[	.
+8eL	C major
+[8fJ	.
 =18	=18
-2f]	F
+2f]	F major
 4r	.
 8.a	.
 16r	.
 =19	=19
-3...f	B-m
+3...f	B- minor
 8r	.
 8.a	.
 16r	.
 =20	=20
-1f	F
+1f	F major
 ==	==
 *-	*-

@@ -16,32 +16,32 @@
 *F#:	*
 *M4/4	*
 =1	=1
-3...r	F#
-4.r	F#sus4
+3...r	F# major
+4.r	F# suspended-fourth
 =2	=2
 4r	.
-2.r	D#add(2,3,7)
+2.r	D# other-2,3,7
 =3	=3
 2r	.
-6...r	D7sus4
-8.r	Cm7
+6...r	D dominant-seventh-suspended-fourth
+8.r	C minor-seventh
 =4	=4
 8r	.
-4.r	Cadd(2,4,7)/E
-2r	D#add(4,6,10)/A
+4.r	C other-2,4,7/E
+2r	D# other-4,6,10/A
 =5	=5
-3...r	D#7sus4
-4.r	C#m/E
+3...r	D# dominant-seventh-suspended-fourth
+4.r	C# minor/E
 =6	=6
 4r	.
-3...r	E#m7
-8r	D/F#
+3...r	E# minor-seventh
+8r	D major/F#
 =7	=7
 2r	.
-2r	G
+2r	G major
 =8	=8
 8r	.
-4.r	C#7sus4
-2r	F#maj7
+4.r	C# dominant-seventh-suspended-fourth
+2r	F# major-seventh
 ==	==
 *-	*-

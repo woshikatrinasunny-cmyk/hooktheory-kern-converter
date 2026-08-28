@@ -16,11 +16,11 @@
 *b:	*
 *M3/4	*
 =1	=1
-2.b	Bm
+2.b	B minor
 =2	=2
-2.cc#	A
+2.cc#	A major
 =3	=3
-4.dd	D
+4.dd	D major
 16b	.
 16r	.
 16dd	.
@@ -28,28 +28,28 @@
 16ff#	.
 16r	.
 =4	=4
-2gg	G
+2gg	G major
 4gg	.
 =5	=5
-16ff#	Bm
+16ff#LK	B minor
 8gg	.
-16ff#	.
+16ff#Jk	.
 4dd	.
 4ff#	.
 =6	=6
-16ee	A
+16eeLK	A major
 8ff#	.
-16ee	.
+16eeJk	.
 4cc#	.
 4ee	.
 =7	=7
-16dd	D
+16ddLK	D major
 8ee	.
-16dd	.
+16ddJk	.
 4b	.
 4dd	.
 =8	=8
-4cc#	G
+4cc#	G major
 16b	.
 16r	.
 16cc#	.

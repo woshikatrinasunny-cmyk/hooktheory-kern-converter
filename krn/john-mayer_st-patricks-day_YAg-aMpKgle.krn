@@ -16,31 +16,31 @@
 *E:	*
 *M3/4	*
 =1	=1
-2.r	Eadd(2,4,7)
+2.r	E other-2,4,7
 =2	=2
 2.r	.
 =3	=3
 2.r	.
 =4	=4
-2.r	Cdim
+2.r	C diminished
 =5	=5
-2.r	C#7sus4
+2.r	C# dominant-seventh-suspended-fourth
 =6	=6
 2.r	.
 =7	=7
 2.r	.
 =8	=8
-2.r	A#dim
+2.r	A# diminished
 =9	=9
-2.r	Aadd(2,3,7)
+2.r	A other-2,3,7
 =10	=10
 2.r	.
 =11	=11
-2.r	Emaj7/G#
+2.r	E major-seventh/G#
 =12	=12
-2.r	Em7/G
+2.r	E minor-seventh/G
 =13	=13
-2.r	Gmaj7
+2.r	G major-seventh
 =14	=14
 2.r	.
 =15	=15
@@ -48,57 +48,57 @@
 =16	=16
 2.r	.
 =17	=17
-2.r	Eadd(2,4,7)
+2.r	E other-2,4,7
 =18	=18
 2.r	.
 =19	=19
-2.r	Eadd(2,4,7)
+2.r	E other-2,4,7
 =20	=20
-2.r	Cdim
+2.r	C diminished
 =21	=21
-2.r	C#7sus4
+2.r	C# dominant-seventh-suspended-fourth
 =22	=22
 2.r	.
 =23	=23
 2.r	.
 =24	=24
-2.r	A#dim
+2.r	A# diminished
 =25	=25
-2.r	Aadd(2,3,7)
+2.r	A other-2,3,7
 =26	=26
 2.r	.
 =27	=27
-2.r	Emaj7/G#
+2.r	E major-seventh/G#
 =28	=28
-2.r	Em7/G
+2.r	E minor-seventh/G
 =29	=29
-2.r	Gmaj7
+2.r	G major-seventh
 =30	=30
 2.r	.
 =31	=31
 2.r	.
 =32	=32
-2.r	G#m7b5
+2.r	G# half-diminished
 =33	=33
-2.r	Asus2
+2.r	A suspended-second
 =34	=34
 2.r	.
 =35	=35
-2.r	F#m7
+2.r	F# minor-seventh
 =36	=36
-2.r	Gsus2
+2.r	G suspended-second
 =37	=37
 2.r	.
 =38	=38
-2.r	G#m7b5
+2.r	G# half-diminished
 =39	=39
-2.r	A
+2.r	A major
 =40	=40
 2.r	.
 =41	=41
-2.r	F#m7
+2.r	F# minor-seventh
 =42	=42
-2.r	Gsus2
+2.r	G suspended-second
 =43	=43
 2.r	.
 ==	==

@@ -16,76 +16,76 @@
 *a:	*
 *M4/4	*
 =1	=1
-8ee	Am
+8ee	A minor
 3...ee	.
-8dd	.
-8dd[	.
+8ddL	.
+[8ddJ	.
 =2	=2
-8dd]	F
-8ee	.
-2.ee[	.
+8ddL]	F major
+8eeJ	.
+[2.ee	.
 =3	=3
-8ee]	.
+8eeL]	.
 8dd#	.
 8ee	.
-8dd	.
+8ddJ	.
 4ee	.
-8dd	.
-8ee[	.
+8ddL	.
+[8eeJ	.
 =4	=4
-4ee]	Am
+4ee]	A minor
 2r	.
-8ee	.
-8ee	.
+8eeL	.
+8eeJ	.
 =5	=5
 4ee	.
-8ee	.
-8ee	.
+8eeL	.
+8eeJ	.
 4ee	.
-8cc	.
-8b	.
+8ccL	.
+8bJ	.
 =6	=6
-8cc	F
-8b	.
+8ccL	F major
+8bJ	.
 4a	.
 4r	.
-8dd	.
-8dd[	.
+8ddL	.
+[8ddJ	.
 =7	=7
 8dd]	.
 4.cc	.
 2r	.
 =8	=8
 3...r	.
-8ee	.
+8eeL	.
 8gg	.
-8aa	.
+8aaJ	.
 =9	=9
-2aa[	Am
-4aa_	G
-4aa_	Em
+[2aa	A minor
+4aa_	G major
+4aa_	E minor
 =10	=10
 4aa_	.
-2.aa_	F
+2.aa_	F major
 =11	=11
-2aa_	Em
-4aa_	F
-4aa_	G
+2aa_	E minor
+4aa_	F major
+4aa_	G major
 =12	=12
-4aa]	Am
+4aa]	A minor
 2.r	.
 =13	=13
 2r	.
-4r	G
-4r	Em
+4r	G major
+4r	E minor
 =14	=14
 4r	.
-2.r	F
+2.r	F major
 =15	=15
-2r	Em
-4r	F
-4r	G
+2r	E minor
+4r	F major
+4r	G major
 =16	=16
-1r	Am
+1r	A minor
 ==	==
 *-	*-

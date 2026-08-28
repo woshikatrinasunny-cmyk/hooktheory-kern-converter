@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-8e	C
+8e	C major
 8r	.
 8e	.
 8r	.
@@ -25,7 +25,7 @@
 8e	.
 8r	.
 =2	=2
-8a#	C7
+8a#	C dominant
 8r	.
 8a#	.
 8r	.
@@ -34,7 +34,7 @@
 8a#	.
 8r	.
 =3	=3
-8a	Fmaj7
+8a	F major-seventh
 8r	.
 8a	.
 8r	.
@@ -43,14 +43,14 @@
 8a	.
 8r	.
 =4	=4
-8g#	Dm7b5/F
+8g#	D half-diminished/F
 8r	.
 8g#	.
 8r	.
 4g#	.
-4g	G7
+4g	G dominant
 =5	=5
-8e	Cmaj7
+8e	C major-seventh
 8r	.
 8e	.
 8r	.
@@ -59,7 +59,7 @@
 8e	.
 8r	.
 =6	=6
-8a#	C7
+8a#	C dominant
 8r	.
 8a#	.
 8r	.
@@ -68,7 +68,7 @@
 8a#	.
 8r	.
 =7	=7
-8a	Fmaj7
+8a	F major-seventh
 8r	.
 8a	.
 8r	.
@@ -77,11 +77,11 @@
 8a	.
 8r	.
 =8	=8
-8g#	A#7
+8g#	A# dominant
 8r	.
 8g#	.
 8r	.
 4g#	.
-4g	G/B
+4g	G major/B
 ==	==
 *-	*-

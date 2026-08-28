@@ -16,40 +16,40 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4B-	B-
+4B-	B- major
 4d	.
 4f	.
 4b-	.
 =2	=2
-2.dd	E-maj7
+2.dd	E- major-seventh
 4cc	.
 =3	=3
-4b-	B-/D
+4b-	B- major/D
 4a	.
-4b-	B-7
+4b-	B- dominant
 4f	.
 =4	=4
-1e-	E-
+1e-	E- major
 =5	=5
-4d	B-/F
-8c	.
-8d	.
-8B-	Gm7
-8d	.
+4d	B- major/F
+8cL	.
+8dJ	.
+8B-L	G minor-seventh
+8dJ	.
 4f	.
 =6	=6
-2cc	Gm
-2g	C7
+2cc	G minor
+2g	C dominant
 =7	=7
-4cc	Cm7
-8b-	.
-8cc	.
-8a	F7
-8b-	.
+4cc	C minor-seventh
+8b-L	.
+8ccJ	.
+8aL	F dominant
+8b-J	.
 4cc	.
 =8	=8
-2f[	B-/D
-4f_	Cm7
-4f]	F7
+[2f	B- major/D
+4f_	C minor-seventh
+4f]	F dominant
 ==	==
 *-	*-

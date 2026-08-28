@@ -16,33 +16,33 @@
 *d:	*
 *M4/4	*
 =1	=1
-4.r	Dm
-3...r	C
+4.r	D minor
+3...r	C major
 =2	=2
-4.r	C
-3...r	Bdim
+4.r	C major
+3...r	B diminished
 =3	=3
-4.r	Bdim
-8r	Dm/A
-2r	F
+4.r	B diminished
+8r	D minor/A
+2r	F major
 =4	=4
-4.r	C
-4.r	Dm
-8d	.
-8d	.
+4.r	C major
+4.r	D minor
+8dL	.
+8dJ	.
 =5	=5
-4.a	Dm
-3...g	C
+4.a	D minor
+3...g	C major
 =6	=6
-4.g	Cadd(2,4,7)
-3...f[	Cadd(2,4,7)
+4.g	C other-2,4,7
+[3...f	C other-2,4,7
 =7	=7
-4.f_	F
-3...f_	G
+4.f_	F major
+3...f_	G major
 =8	=8
-8f_	Dm/A
-4f_	C
-8f_	Dm/F
-2f]	Dm
+8f_	D minor/A
+4f_	C major
+8f_	D minor/F
+2f]	D minor
 ==	==
 *-	*-

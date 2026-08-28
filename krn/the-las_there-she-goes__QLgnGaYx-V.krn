@@ -16,66 +16,66 @@
 *G:	*
 *M4/4	*
 =1	=1
-2d	Em
+2d	E minor
 4.f#	.
-8g[	.
+[8g	.
 =2	=2
-1g]	Cadd(2,4,7)
+1g]	C other-2,4,7
 =3	=3
-4d	Em
+4d	E minor
 8f#	.
 4.a	.
-8f#	.
-8g[	.
+8f#L	.
+[8gJ	.
 =4	=4
-4.g]	Cadd(2,4,7)
+4.g]	C other-2,4,7
 8d	.
-4d	D
+4d	D major
 4c	.
 =5	=5
-4.B	G
+4.B	G major
 8d	.
-4d	D
+4d	D major
 4c	.
 =6	=6
-4.B	Cadd(2,4,7)
+4.B	C other-2,4,7
 8d	.
-4d	D
+4d	D major
 4c	.
 =7	=7
-4B	G
+4B	G major
 4g	.
-4a	D
+4a	D major
 4f#	.
 =8	=8
-3...g	C
+3...g	C major
 4.r	.
 =9	=9
-4d	Am
+4d	A minor
 4c	.
 4B	.
-8A	.
-8B	.
+8AL	.
+8BJ	.
 =10	=10
-8B	Em
-8c	.
+8BL	E minor
+8cJ	.
 2B	.
 8r	.
 8d	.
 =11	=11
-4d	C
+4d	C major
 4c	.
 4B	.
-8A	.
-8B	.
+8AL	.
+8BJ	.
 =12	=12
-8B	.
-8c	D
-8B	D
-8c	D
-8B[	D
-8B_	D
-8B_	D
-8B]	D
+8BL	.
+8c	D major
+8B	D major
+8cJ	D major
+[8BL	D major
+8B_	D major
+8B_	D major
+8BJ]	D major
 ==	==
 *-	*-

@@ -16,9 +16,9 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4a-	A-
+4a-	A- major
 4a-	.
-16f	A-/E-
+16f	A- major/E-
 16r	.
 16e-	.
 16r	.
@@ -27,7 +27,7 @@
 16c	.
 16r	.
 =2	=2
-16e-	A-
+16e-	A- major
 16r	.
 16e-	.
 16r	.
@@ -35,7 +35,7 @@
 16r	.
 16f	.
 16r	.
-16e-	A-/E-
+16e-	A- major/E-
 16r	.
 16c	.
 16r	.
@@ -44,21 +44,21 @@
 16A-	.
 16r	.
 =3	=3
-16A-	A-
+16A-	A- major
 8.r	.
-8A-	.
-8B-	.
-8c	A-/E-
-16e-	.
+8A-L	.
+8B-J	.
+8cL	A- major/E-
+16e-Jk	.
 16r	.
 16f	.
 16r	.
 16e-	.
 16r	.
 =4	=4
-8a-	A-
+8a-	A- major
 4.r	.
-8r	A-/E-
+8r	A- major/E-
 16e-	.
 16r	.
 16f	.
@@ -66,9 +66,9 @@
 16f	.
 16r	.
 =5	=5
-4a-	A-
+4a-	A- major
 4a-	.
-16f	A-/E-
+16f	A- major/E-
 16r	.
 16e-	.
 16r	.
@@ -77,7 +77,7 @@
 16c	.
 16r	.
 =6	=6
-16e-	A-
+16e-	A- major
 16r	.
 16e-	.
 16r	.
@@ -85,7 +85,7 @@
 16r	.
 16f	.
 16r	.
-16e-	A-/E-
+16e-	A- major/E-
 16r	.
 16c	.
 16r	.
@@ -94,22 +94,22 @@
 16A-	.
 16r	.
 =7	=7
-16e-	E-7/B-
+16e-	E- dominant/B-
 8.r	.
 16e-	.
 16r	.
 16e-	.
 16r	.
-16g	E-7
+16g	E- dominant
 16r	.
 16b-	.
 16r	.
-8g-	.
-8g-	.
+8g-L	.
+8g-J	.
 =8	=8
-16e-	E-7/B-
+16e-	E- dominant/B-
 4..r	.
-8r	E-7
+8r	E- dominant
 16e-	.
 16r	.
 16f	.
@@ -117,51 +117,51 @@
 16f	.
 16r	.
 =9	=9
-4a-	A-
+4a-	A- major
 4a-	.
-4a-	A-/E-
+4a-	A- major/E-
 4a-	.
 =10	=10
-4a-	A-7
+4a-	A- dominant
 4a-	.
-8f	A-7/E-
+8fL	A- dominant/E-
 8e-	.
 8c	.
-8A-	.
+8A-J	.
 =11	=11
-4d-	D-
+4d-	D- major
 4d-	.
-4d-	D-/A-
+4d-	D- major/A-
 4d-	.
 =12	=12
-8en	D-
+8enL	D- major
 8f	.
 8a-	.
-8b-	.
-8bn	.
-8a-	.
+8b-J	.
+8bnL	.
+8a-J	.
 4r	.
 =13	=13
-8cc	A-
+8ccL	A- major
 8bn	.
 8cc	.
-8bn	.
-8cc	A-/E-
+8bnJ	.
+8cc	A- major/E-
 4.ee-	.
 =14	=14
-8cc	A-
+8ccL	A- major
 8ee-	.
 8cc	.
-8a-[	.
-2a-]	A-/E-
+[8a-J	.
+2a-]	A- major/E-
 =15	=15
-8bn	A-
+8bn	A- major
 4a-	.
 8f	.
-4b-	A-/E-
+4b-	A- major/E-
 4a-	.
 =16	=16
-4r	A-
+4r	A- major
 2r	.
 4e-	.
 ==	==

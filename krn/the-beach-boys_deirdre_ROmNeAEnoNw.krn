@@ -16,73 +16,73 @@
 *D:	*
 *M6/4	*
 =1	=1
-4.a[	Aadd(2,3,7)/C
-4a]	Aadd(2,3,7)/C
-8e[	.
-4.e_	Aadd(2,3,7)/C
-8e]	Aadd(2,3,7)/C
+[4.a	A other-2,3,7/C
+4a]	A other-2,3,7/C
+[8e	.
+4.e_	A other-2,3,7/C
+8e]	A other-2,3,7/C
 4r	.
 =2	=2
-4.r	B7
-4a	Badd(1,4,7,10)
+4.r	B dominant
+4a	B other-1,4,7,10
 8a	.
-8g	B7
-8a	.
+8gL	B dominant
+8aJ	.
 8g	.
-4f#	B7
-8g[	.
+4f#	B dominant
+[8g	.
 =3	=3
-8g]	Gm/A#
+8g]	G minor/A#
 4d	.
-4cn	Gm/A#
-8cn[	.
-8cn]	Gm/A#
+4cn	G minor/A#
+[8cn	.
+8cn]	G minor/A#
 4A#	.
-4.r	Gm/A#
+4.r	G minor/A#
 =4	=4
-4r	A7
+4r	A dominant
 8c#	.
-4c#	A7
+4c#	A dominant
 8c#	.
-4d	Bm7
-8d	.
-8f#	Dmaj7
+4d	B minor-seventh
+8dL	.
+8f#J	D major-seventh
 4r	.
 =5	=5
-4.r	Aadd(2,3,7)/C
-8r	Aadd(2,3,7)/C
-8cn	.
-8e	.
-4b	Aadd(2,3,7)/C
-8a#[	.
-8a#]	Aadd(2,3,7)/C
-8a	.
-8b	.
+4.r	A other-2,3,7/C
+8r	A other-2,3,7/C
+8cnL	.
+8eJ	.
+4b	A other-2,3,7/C
+[8a#L	.
+8a#J]	A other-2,3,7/C
+8aL	.
+8bJ	.
 =6	=6
-4.a[	B7
-4.a]	Badd(1,4,7,10)
-4.g	B7
-4.f#	B7
+[4.a	B dominant
+4.a]	B other-1,4,7,10
+4.g	B dominant
+4.f#	B dominant
 =7	=7
-4.r	Gm/A#
-8r	Gm/A#
-8A#	.
-8d	.
-4a	Gm/A#
-8g#[	.
-8g#]	Gm/A#
+4.r	G minor/A#
+8r	G minor/A#
+8A#L	.
+8dJ	.
+4a	G minor/A#
+[8g#L	.
+8g#J]	G minor/A#
 4g	.
 =8	=8
-4g#	A#7
+4g#	A# dominant
 8r	.
 8AA#	.
 4r	.
-4.r	A#7
-4.r	G#/C
+4.r	A# dominant
+4.r	G# major/C
 =9	=9
-4.r	A#7/D
-4.r	D#
-4.r	D#
-4.r	D#
+4.r	A# dominant/D
+4.r	D# major
+4.r	D# major
+4.r	D# major
 ==	==
 *-	*-

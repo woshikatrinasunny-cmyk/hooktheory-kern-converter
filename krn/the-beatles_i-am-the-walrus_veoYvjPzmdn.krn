@@ -16,74 +16,74 @@
 *A:	*
 *M4/4	*
 =1	=1
-8e	A
+8eL	A major
 8d#	.
 8e	.
-8d#	.
-16e	A7/G
+8d#J	.
+16eLK	A dominant/G
 8.d#	.
 8e	.
-8d#	.
+8d#J	.
 =2	=2
-16e	C
+16eLK	C major
 8.d#	.
 8e	.
-8d#	.
-16e	D
+8d#J	.
+16eLK	D major
 8.d#	.
 8e	.
-16d#	.
-16e[	.
+16d#L	.
+[16eJJ	.
 =3	=3
-16e]	A
+16eLK]	A major
 8d	.
-16A	.
+16AJk	.
 4r	.
-2r	A7/G
+2r	A dominant/G
 =4	=4
-16e	C
+16eLK	C major
 8e	.
-16e	.
+16ek	.
 8e	.
+8eJ	.
+8eL	.
+16eL	.
+16d#J	.
 8e	.
-8e	.
-16e	.
-16d#	.
-8e	.
-8e	.
+8eJ	.
 =5	=5
-16d	D
+16dLL	D major
 16cn	.
-16A	.
+16AJJ	.
 4A	.
 4..r	.
 8A	.
 =6	=6
-16c#	A
+16c#LK	A major
 8d	.
-16c#	.
+16c#Jk	.
 4A	.
 2r	.
 =7	=7
+16eLL	.
 16e	.
 16e	.
-16e	.
-16d#	.
+16d#J	.
 8e	.
-8e	.
-2r	A7/G
+8eJ	.
+2r	A dominant/G
 =8	=8
-2r	F#add(3,7,8,10)
-16e	F
+2r	F# other-3,7,8,10
+16eLL	F major
 16e	.
 16e	.
-16e	.
-8gn	G
-16gn	.
-16e	.
+16eJ	.
+8gn	G major
+16gnL	.
+16eJJ	.
 =9	=9
-8cn	A
+8cn	A major
 4.r	.
-2r	A7/G
+2r	A dominant/G
 ==	==
 *-	*-

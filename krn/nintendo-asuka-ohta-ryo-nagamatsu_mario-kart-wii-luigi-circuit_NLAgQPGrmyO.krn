@@ -15,58 +15,58 @@
 *D:	*
 *M4/4	*
 =1	=1
-4d	D
-8.B	.
-16A	.
-16B	.
+4d	D major
+8.BL	.
+16AJk	.
+16BLK	.
 8d	.
 8.d	.
-8e	.
+8eJ	.
 =2	=2
-8fn	G
+8fnL	G major
 8e	.
 8d	.
-16B	.
+16BJk	.
 4..A	.
 8c#	.
 =3	=3
-4d	D
-8.B	.
-16A	.
-16B	.
+4d	D major
+8.BL	.
+16AJk	.
+16BLK	.
 8d	.
 8.d	.
-8e	.
+8eJ	.
 =4	=4
-8fn	A#
+8fnL	A# major
 8e	.
 8d	.
-16g	.
-16a[	.
-16a]	C
-16a	.
+16gL	.
+[16aJJ	.
+16aLL]	C major
+16aJ	.
 8g	.
 8f#	.
-8g	.
+8gJ	.
 =5	=5
-4f#	F#m
-8f#	.
-8d	.
-8.B	Em
+4f#	F# minor
+8f#L	.
+8dJ	.
+8.BL	E minor
 8.c#	.
-8d[	.
+[8dJ	.
 =6	=6
-4d]	G
+4d]	G major
+8gL	.
+8f#J	.
+8gL	.
+16f#k	.
 8g	.
-8f#	.
-8g	.
-16f#	.
-8g	.
-8.a	.
+8.aJ	.
 =7	=7
-4.f#	D
-3...d[	.
+4.f#	D major
+[3...d	.
 =8	=8
-1d]	C
+1d]	C major
 ==	==
 *-	*-

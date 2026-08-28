@@ -16,12 +16,12 @@
 *A:	*
 *M3/4	*
 =1	=1
-4g#	E
+4g#	E major
 8r	.
 4b	.
 8r	.
 =2	=2
-4.a#	F#7/E
+4.a#	F# dominant/E
 16a#	.
 16r	.
 16b	.
@@ -29,7 +29,7 @@
 16cc#	.
 16r	.
 =3	=3
-16dd	D
+16dd	D major
 16r	.
 16ff#	.
 16r	.
@@ -42,7 +42,7 @@
 16b	.
 16r	.
 =4	=4
-16cc#	A
+16cc#	A major
 16r	.
 16ee	.
 16r	.
@@ -55,7 +55,7 @@
 16a	.
 16r	.
 =5	=5
-16b	G
+16b	G major
 16r	.
 16dd	.
 16r	.
@@ -68,20 +68,20 @@
 16g#	.
 16r	.
 =6	=6
-16a	Dmaj7
+16a	D major-seventh
 16r	.
 16f#	.
 16r	.
 16g#	.
 16r	.
-16a#	E7
+16a#	E dominant
 16r	.
 16b	.
 16r	.
 16cc#	.
 16r	.
 =7	=7
-16dd	D
+16dd	D major
 16r	.
 16ff#	.
 16r	.
@@ -94,7 +94,7 @@
 16b	.
 16r	.
 =8	=8
-16cc#	D/A
+16cc#	D major/A
 16r	.
 16ee	.
 16r	.
@@ -107,8 +107,8 @@
 16a	.
 16r	.
 =9	=9
-8g#	G#dim/B
-16a	.
+8g#L	G# diminished/B
+16aJk	.
 8.r	.
 8g#	.
 16g#	.
@@ -116,7 +116,7 @@
 16a	.
 16r	.
 =10	=10
-16g#	G#dim/B
+16g#	G# diminished/B
 16r	.
 16a	.
 16r	.
@@ -129,7 +129,7 @@
 16cc#	.
 16r	.
 =11	=11
-3...dd	A#
+3...dd	A# major
 8r	.
 =12	=12
 2g#	.

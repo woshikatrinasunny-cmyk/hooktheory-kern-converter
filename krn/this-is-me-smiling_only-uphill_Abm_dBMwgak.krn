@@ -16,133 +16,133 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8cc#	F#
+8cc#L	F# major
 8cc#	.
 8cc#	.
-8cc#	.
-8cc#	Bmaj7sus2
+8cc#J	.
+8cc#	B major-seventh-suspended-second
 8r	.
-8g#	F#/C#
-8f#	.
+8g#L	F# major/C#
+8f#J	.
 =2	=2
-8g#	Ddim7
+8g#	D diminished-seventh
 4f#	.
-16d#	.
-16c#	.
-4a#	D#m
+16d#LL	.
+16c#JJ	.
+4a#	D# minor
 8.r	.
 16B	.
 =3	=3
-8g#	G#m7b5/B
+8g#L	G# half-diminished/B
 8g#	.
 8g#	.
-8g#	.
-8g#	C#
+8g#J	.
+8g#L	C# major
 8f#	.
-8f#	A#add(4,7,8,10)/D
-8d#	.
+8f#	A# other-4,7,8,10/D
+8d#J	.
 =4	=4
-4a#	D#m
+4a#	D# minor
 8r	.
-16g#	.
-16f#	.
-8a#	A#7
+16g#LL	.
+16f#JJ	.
+8a#L	A# dominant
 8g#	.
-8g#	.
+8g#J	.
 8r	.
 =5	=5
-8cc#	F#
+8cc#L	F# major
 8cc#	.
 8cc#	.
-8cc#	.
-8cc#	Bmaj7sus2
+8cc#J	.
+8cc#L	B major-seventh-suspended-second
 8a#	.
-8g#	F#/C#
-8f#	.
+8g#	F# major/C#
+8f#J	.
 =6	=6
-8g#	Ddim7
+8g#	D diminished-seventh
 4f#	.
-16d#	.
-16c#	.
-4a#	D#m
+16d#LL	.
+16c#JJ	.
+4a#	D# minor
 8r	.
 8B	.
 =7	=7
-8g#	G#m7b5/B
+8g#L	G# half-diminished/B
 8f#	.
 8g#	.
-8f#	.
-8g#	C#
+8f#J	.
+8g#	C# major
 8r	.
-8f#	A#add(4,7,8,10)/D
-8an	.
+8f#L	A# other-4,7,8,10/D
+8anJ	.
 =8	=8
-4a#	D#m
+4a#	D# minor
 4r	.
-8.a#	A#7
+8.a#L	A# dominant
 8.g#	.
-8g#[	.
+[8g#J	.
 =9	=9
-8g#]	G#add(2,3,7)
+8g#L]	G# other-2,3,7
 8d#	.
 8d#	.
-8d#	.
-8f#	D#m/A#
+8d#J	.
+8f#	D# minor/A#
 8r	.
-8g#	G#m/B
+8g#	G# minor/B
 8r	.
 =10	=10
-4a#	D#m
+4a#	D# minor
 4r	.
-8a#	F#aug/A#
+8a#	F# augmented/A#
 4g#	.
-8g#[	.
+[8g#	.
 =11	=11
-8g#]	G#add(2,3,7)
+8g#L]	G# other-2,3,7
 8d#	.
 8d#	.
-8d#	.
-4f#	D#m/A#
-8g#	G#m/B
-8f#	.
+8d#J	.
+4f#	D# minor/A#
+8g#L	G# minor/B
+8f#J	.
 =12	=12
-4a#	D#m
+4a#	D# minor
 8.r	.
 16d#	.
-8dd#	A#7
+8dd#L	A# dominant
 8cc#	.
 8cc#	.
-8dd#	.
+8dd#J	.
 =13	=13
-4a#	F#
-8g#	.
-8f#	.
-8.g#	Bmaj7sus2
-16f#[	.
-16f#]	F#/C#
+4a#	F# major
+8g#L	.
+8f#J	.
+8.g#L	B major-seventh-suspended-second
+[16f#L	.
+16f#JJ]	F# major/C#
 16r	.
 8c#	.
 =14	=14
-8g#	Ddim7
+8g#L	D diminished-seventh
 8an	.
 8g#	.
-8f#	.
-8g#	D#m
+8f#J	.
+8g#	D# minor
 4d#	.
 8r	.
 =15	=15
-8f#	G#m7b5/B
+8f#L	G# half-diminished/B
 8f#	.
 8g#	.
-8f#	.
-4g#	C#
-4f#	A#add(4,7,8,10)/D
+8f#J	.
+4g#	C# major
+4f#	A# other-4,7,8,10/D
 =16	=16
-4d#	D#m
+4d#	D# minor
 4r	.
-8g#	E#dim7/B
+8g#L	E# diminished-seventh/B
 8f#	.
 8g#	.
-8a#	.
+8a#J	.
 ==	==
 *-	*-

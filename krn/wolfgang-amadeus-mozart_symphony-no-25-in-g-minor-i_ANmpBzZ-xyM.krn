@@ -16,74 +16,74 @@
 *B-:	*
 *M4/4	*
 =1	=1
-16cc	B-
+16ccLK	B- major
 8.b-	.
 8a	.
-8b-	.
-16dd	Fsus4
+8b-J	.
+16ddLK	F suspended-fourth
 8.cc	.
 8b-	.
-8cc	.
+8ccJ	.
 =2	=2
-16ee-	B-/F
+16ee-LK	B- major/F
 8.dd	.
 8cc	.
-8dd	.
-16ff	E-add(2,4,7)/G
+8ddJ	.
+16ffLK	E- other-2,4,7/G
 8.ee-	.
 8dd	.
-8cc	.
+8ccJ	.
 =3	=3
-16cc	B-
+16ccLK	B- major
 8.b-	.
 8a	.
-8b-	.
-16dd	Fsus4
+8b-J	.
+16ddLK	F suspended-fourth
 8.cc	.
 8b-	.
-8cc	.
+8ccJ	.
 =4	=4
-16ee-	B-/F
+16ee-LK	B- major/F
 8.dd	.
 8cc	.
-8dd	.
-16ff	E-add(2,4,7)/G
+8ddJ	.
+16ffLK	E- other-2,4,7/G
 8.ee-	.
 8dd	.
-8cc	.
+8ccJ	.
 =5	=5
-8b-	B-/D
+8b-L	B- major/D
 8bb-	.
-8bb-	C7/E
-8bb-	.
-8bb-	B-/F
+8bb-	C dominant/E
+8bb-J	.
+8bb-L	B- major/F
 8aa	.
-8gg	Gm/D
-8ff	.
+8gg	G minor/D
+8ffJ	.
 =6	=6
-8ee-	Cm
+8ee-L	C minor
 8gg	.
-8gg	E-/B-
-8gg	.
-8gg	F/A
+8gg	E- major/B-
+8ggJ	.
+8ggL	F major/A
 8ff	.
-8ee-	E-/B-
-8dd	.
+8ee-	E- major/B-
+8ddJ	.
 =7	=7
-8cc	Cm/E-
+8ccL	C minor/E-
 8ee-	.
-8ee-	F7/A
-8ee-	.
-8ee-	E-/B-
+8ee-	F dominant/A
+8ee-J	.
+8ee-L	E- major/B-
 8dd	.
-8ff	B-/D
-8b-	.
+8ff	B- major/D
+8b-J	.
 =8	=8
-8dd	Cm/E-
+8ddL	C minor/E-
 8cc	.
-8b-	F
-8a	.
-4b-	B-
+8b-	F major
+8aJ	.
+4b-	B- major
 4r	.
 ==	==
 *-	*-

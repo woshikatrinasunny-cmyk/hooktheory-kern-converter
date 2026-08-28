@@ -16,49 +16,49 @@
 *b:	*
 *M4/4	*
 =1	=1
-8r	F#m7
-8dd	.
-8b	A#m7
-8r	Am
-8b	.
-8a	Em9
+8r	F# minor-seventh
+8ddL	.
+8bJ	A# minor-seventh
+8r	A minor
+8bL	.
+8aJ	E minor-ninth
 8r	.
 8b	.
 =2	=2
 4f#	.
-8d[	.
-16d]	D#m7/A#
-16B	.
+[8dL	.
+16dL]	D# minor-seventh/A#
+16BJJ	.
 16a	.
 16r	.
-16r	Am7
-16dd[	.
-16dd]	Am7
-16b[	.
-16b]	.
+16r	A minor-seventh
+[16ddLL	.
+16dd]	A minor-seventh
+[16b	.
+16bJJ]	.
 16r	.
 =3	=3
 16r	.
-8b	.
-8a	.
+8bL	.
+8aJ	.
 8r	.
 8b	.
 4f#	.
 8.d	.
 =4	=4
-16B	.
+16BLK	.
 8.e	.
-16B	.
-8.B	.
+16Bk	.
+8.BJ	.
 16A	.
 8r	.
-8dd	.
-8b	.
+8ddL	.
+8bJ	.
 16r	.
 =5	=5
 16r	.
-8b	.
-8a	.
+8bL	.
+8aJ	.
 8r	.
 8b	.
 4f#	.
@@ -66,13 +66,13 @@
 =6	=6
 16e	.
 3...r	.
-8dd	.
-8b	.
+8ddL	.
+8bJ	.
 16r	.
 =7	=7
 16r	.
-8b	.
-8a	.
+8bL	.
+8aJ	.
 4r	.
 ==	==
 *-	*-

@@ -16,70 +16,70 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.aa	Gadd(2,4,7)
+4.aa	G other-2,4,7
 8ff#	.
-4dd[	.
-4dd_	Gadd(2,4,7)
+[4dd	.
+4dd_	G other-2,4,7
 =2	=2
 2dd]	.
-8a	.
-8dd	.
+8aL	.
+8ddJ	.
 8r	.
 8ff#	.
 =3	=3
-4.ffn	Gm7
+4.ffn	G minor-seventh
 8dd	.
-4aa#[	.
-4aa#_	Em7b5/G
+[4aa#	.
+4aa#_	E half-diminished/G
 =4	=4
 3...aa#]	.
-8aa	.
+8aaL	.
 8gg	.
-8aa#	.
+8aa#J	.
 =5	=5
-2.aa[	F#m7
-4aa_	F#m7
+[2.aa	F# minor-seventh
+4aa_	F# minor-seventh
 =6	=6
 1aa_	.
 =7	=7
-2.aa_	D#dim7/F#
-4aa_	D#dim7/F#
+2.aa_	D# diminished-seventh/F#
+4aa_	D# diminished-seventh/F#
 =8	=8
 2aa]	.
-8bb	.
+8bbL	.
 8aa	.
 8gg	.
-8bb	.
+8bbJ	.
 =9	=9
-4.aa	Em
+4.aa	E minor
 8ff#	.
-4dd[	.
-4dd_	Em
+[4dd	.
+4dd_	E minor
 =10	=10
 2dd]	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 8r	.
 8gg	.
 =11	=11
-4.ee	C#dim
+4.ee	C# diminished
 8ff#	.
-4gg[	.
-4gg_	C#dim
+[4gg	.
+4gg_	C# diminished
 =12	=12
 2gg]	.
 4ff#	.
 4cc#	.
 =13	=13
-2.ee[	Dmaj7
-4ee_	Dmaj7
+[2.ee	D major-seventh
+4ee_	D major-seventh
 =14	=14
 2.ee]	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 =15	=15
-2.ffn[	Csus4
-4ffn_	Csus4
+[2.ffn	C suspended-fourth
+4ffn_	C suspended-fourth
 =16	=16
 1ffn]	.
 ==	==

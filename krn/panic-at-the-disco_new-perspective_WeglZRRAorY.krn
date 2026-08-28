@@ -16,42 +16,42 @@
 *G:	*
 *M4/4	*
 =1	=1
-2.r	Cadd(2,4,7)
-8b	.
-8a[	D
+2.r	C other-2,4,7
+8bL	.
+[8aJ	D major
 =2	=2
 4a]	.
 3...g	.
-8e[	Cadd(2,4,7)
+[8e	C other-2,4,7
 =3	=3
 8e]	.
 4g	.
 8e	.
 4g	.
-8e[	.
-8e_	D
+[8eL	.
+8eJ_	D major
 =4	=4
 4e]	.
-3...d[	.
-8d]	Cadd(2,4,7)
+[3...d	.
+8d]	C other-2,4,7
 =5	=5
 2.r	.
-8b	.
-8a[	D
+8bL	.
+[8aJ	D major
 =6	=6
 4a]	.
 3...g	.
-8e[	Cadd(2,4,7)
+[8e	C other-2,4,7
 =7	=7
 8e]	.
 4g	.
 8e	.
 4g	.
-8a	.
-8g[	D
+8aL	.
+[8gJ	D major
 =8	=8
 2g]	.
 4.r	.
-8r	G
+8r	G major
 ==	==
 *-	*-

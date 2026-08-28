@@ -16,50 +16,50 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.r	F#m
-4.r	F#m/A
+4.r	F# minor
+4.r	F# minor/A
 4c#	.
 =2	=2
 4f#	.
 8g#	.
 4a	.
-8a[	.
-4a]	F#m/A
+[8a	.
+4a]	F# minor/A
 =3	=3
-4.r	D
-4r	D/F#
+4.r	D major
+4r	D major/F#
 8d	.
 4d	.
 =4	=4
 4.g#	.
 8f#	.
-8g#	.
-8a[	.
-4a]	D/A
+8g#L	.
+[8aJ	.
+4a]	D major/A
 =5	=5
-4.r	B7
-4r	B7/D#
+4.r	B dominant
+4r	B dominant/D#
+8f#L	.
 8f#	.
-8f#	.
-8f#	.
+8f#J	.
 =6	=6
 4f#	.
 4g#	.
 4a	.
-8.cc#	F#m/A
-16dd	.
+8.cc#L	F# minor/A
+16ddJk	.
 =7	=7
-4cc#	D
-8b[	.
-8b]	Dadd(2,4,7)/F#
+4cc#	D major
+[8bL	.
+8bJ]	D other-2,4,7/F#
 4r	.
-8b	.
-8a	.
+8bL	.
+8aJ	.
 =8	=8
-4g#	Dm/F
+4g#	D minor/F
 4g#	.
 4g#	.
-8g#	.
-8a	.
+8g#L	.
+8aJ	.
 ==	==
 *-	*-

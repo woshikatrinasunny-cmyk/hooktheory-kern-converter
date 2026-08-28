@@ -16,62 +16,62 @@
 *a:	*
 *M4/4	*
 =1	=1
-4f	F
+4f	F major
 4a	.
 4cc	.
 4ff	.
 =2	=2
-4.ff	Csus4
+4.ff	C suspended-fourth
 8ee	.
-2ee[	C
+[2ee	C major
 =3	=3
 2..ee]	.
 8g	.
 =4	=4
-8.ee	C
+8.eeL	C major
 8.ee	.
-8ee	.
+8eeJ	.
+8.eeL	.
 8.ee	.
-8.ee	.
-8ff	.
+8ffJ	.
 =5	=5
-4gg	C
+4gg	C major
 4gg	.
-8.gg	.
+8.ggL	.
 8.ff	.
-8ee	.
+8eeJ	.
 =6	=6
-4.ee	C/G
-16ff	.
-16ee	.
-2dd[	Gsus4
+4.ee	C major/G
+16ffLL	.
+16eeJJ	.
+[2dd	G suspended-fourth
 =7	=7
-1dd]	G7sus4
+1dd]	G dominant-seventh-suspended-fourth
 =8	=8
-4.ff	Am
+4.ff	A minor
 8ee	.
 2ee	.
 =9	=9
-1r	Aadd(2,5,7)
+1r	A other-2,5,7
 =10	=10
-4ff	Am
-8ee	.
-8ee[	.
-4ee]	Asus4
+4ff	A minor
+8eeL	.
+[8eeJ	.
+4ee]	A suspended-fourth
 4cc	.
 =11	=11
-4ff	C/G
-8ee	.
-8ee[	.
-4ee]	Em/G
+4ff	C major/G
+8eeL	.
+[8eeJ	.
+4ee]	E minor/G
 4dd	.
 =12	=12
-4.dd	Fsus2
-16ee	.
-16dd	.
-2cc[	.
+4.dd	F suspended-second
+16eeLL	.
+16ddJJ	.
+[2cc	.
 =13	=13
-2cc]	Fsus2
+2cc]	F suspended-second
 2r	.
 ==	==
 *-	*-

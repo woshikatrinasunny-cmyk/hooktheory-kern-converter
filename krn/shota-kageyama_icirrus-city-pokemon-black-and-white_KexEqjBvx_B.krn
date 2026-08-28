@@ -16,82 +16,82 @@
 *G:	*
 *M3/4	*
 =1	=1
-6...dd	G
+6...dd	G major
 16r	.
-16ee	.
-16dd	.
-8cc	.
-8b	.
+16eeLL	.
+16ddJJ	.
+8ccL	.
+8bJ	.
 =2	=2
-4dd	D
+4dd	D major
 8gg	.
 8r	.
 8aa	.
 8r	.
 =3	=3
-6...bb	G
+6...bb	G major
 16r	.
-16ccc	.
-16bb	.
-8aa	.
-8bb	.
+16cccLL	.
+16bbJJ	.
+8aaL	.
+8bbJ	.
 =4	=4
-4ccc	D
+4ccc	D major
 8bb	.
 8r	.
 8aa	.
 8r	.
 =5	=5
-6...ddd	G
+6...ddd	G major
 16r	.
-16eee	.
-16ddd	.
-8ccc	.
-8bb	.
+16eeeLL	.
+16dddJJ	.
+8cccL	.
+8bbJ	.
 =6	=6
-8.ccc	D
+8.ccc	D major
 16r	.
 8bb	.
 8r	.
 8aa	.
 8r	.
 =7	=7
-4.ffn	F
+4.ffn	F major
 8ffn	.
-8gg	.
-8aa	.
+8ggL	.
+8aaJ	.
 =8	=8
-4gg[	C
-4gg_	Csus4
-4gg]	C
+[4gg	C major
+4gg_	C suspended-fourth
+4gg]	C major
 =9	=9
-2d	G
+2d	G major
 4g	.
 =10	=10
-4.a	D
+4.a	D major
 8d	.
 4a	.
 =11	=11
-2b	G
+2b	G major
 4d	.
 =12	=12
-4.cc	D
+4.cc	D major
 8b	.
 4a	.
 =13	=13
-2dd	G
+2dd	G major
 4dd	.
 =14	=14
-4cc	D
+4cc	D major
 4b	.
 4a	.
 =15	=15
-4.fn	F
+4.fn	F major
 8g	.
 4a	.
 =16	=16
-4g[	C
-4g_	Csus4
-4g]	C
+[4g	C major
+4g_	C suspended-fourth
+4g]	C major
 ==	==
 *-	*-

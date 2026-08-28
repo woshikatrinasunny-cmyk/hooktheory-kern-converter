@@ -16,98 +16,98 @@
 *D:	*
 *M4/4	*
 =1	=1
-8f#	D
-16f#	.
+8f#L	D major
+16f#k	.
 8e	.
-16e	.
+16eL	.
 16f#	.
-16B[	.
-16B]	Em
-8d	.
+[16BJJ	.
+16BLK]	E minor
+8dJ	.
 16r	.
+16gLL	.
 16g	.
 16g	.
-16g	.
-16g	.
+16gJJ	.
 =2	=2
-8f#	G
-16f#	.
+8f#L	G major
+16f#k	.
 8e	.
-16e	.
-16f#	.
+16eL	.
+16f#JJ	.
 8B	.
 8d	.
 16r	.
-16g	Gsus2
+16gLL	G suspended-second
 16g	.
 16g	.
-16g	.
+16gJJ	.
 =3	=3
-8f#	D
-16e	.
+8f#L	D major
+16eJk	.
 6...r	.
-8r	Em
+8r	E minor
+16dLL	.
 16d	.
-16d	.
 16g	.
 16g	.
 16g	.
-16g	.
+16gJJ	.
 =4	=4
-8f#	G
-16e	.
+8f#L	G major
+16eJk	.
 6...r	.
-8.r	Gm
-16d	.
+8.r	G minor
+16dLL	.
 16g	.
-16g	Gadd(3,7,9)
+16g	G other-3,7,9
 16g	.
-16g	.
+16gJJ	.
 =5	=5
-8f#	D
-16f#	.
+8f#L	D major
+16f#k	.
 8e	.
-16e	.
+16eL	.
 16f#	.
-16B[	.
-16B]	Em
-8d	.
+[16BJJ	.
+16BLK]	E minor
+8dJ	.
 16r	.
+16gLL	.
 16g	.
 16g	.
-16g	.
-16g	.
+16gJJ	.
 =6	=6
-8f#	G
-16f#	.
+8f#L	G major
+16f#k	.
 8e	.
-16e	.
-16f#	.
+16eL	.
+16f#JJ	.
 8B	.
 8d	.
 16r	.
-16g	Gsus2
+16gLL	G suspended-second
 16g	.
 16g	.
-16g	.
+16gJJ	.
 =7	=7
-16g	D
+16gLK	D major
 8f#	.
-16e	.
+16eJk	.
 4r	.
-8r	Em
+8r	E minor
+16dLL	.
 16d	.
-16d	.
 16g	.
 16g	.
 16g	.
-16g[	.
+[16gJJ	.
 =8	=8
-8g]	G
+8gL]	G major
 8f#	.
 8e	.
-8d	.
-8.A#	Gm
+8dJ	.
+8.A#	G minor
 6...r	.
 ==	==
 *-	*-

@@ -16,85 +16,85 @@
 *M6/4	*
 =1	=1
 4.dd	.
-8dd	Gm7
+8dd	G minor-seventh
 16r	.
 8cc	.
 16r	.
 8dd	.
 16r	.
-8.ff[	.
+[8.ff	.
 8.ff]	.
-8gg	Dm7
+8gg	D minor-seventh
 16r	.
 =2	=2
 8cc	.
 16r	.
 8dd	.
 16r	.
-16cc	.
-16dd	.
-16cc	.
-8a	.
+16ccLL	.
+16ddJJ	.
+16ccLK	.
+8aJ	.
 16r	.
 8cc	.
 16r	.
-2dd[	.
+[2dd	.
 16dd]	.
 =3	=3
 4.dd	.
-8dd	Gm7
+8dd	G minor-seventh
 16r	.
 8cc	.
 16r	.
 8dd	.
 16r	.
-8.ff[	.
+[8.ff	.
 8.ff]	.
-8gg	Dm7
+8gg	D minor-seventh
 16r	.
 =4	=4
 8aa	.
 16r	.
 16gg	.
-16aa	.
-16gg	.
-8ff	.
+16aaLL	.
+16ggJ	.
+8ffJ	.
 16r	.
 8dd	.
 16r	.
-4.ff	Dm
-8dd	Am/C
+4.ff	D minor
+8dd	A minor/C
 16r	.
 8ff	.
 16r	.
 =5	=5
-2aa[	B-maj7
+[2aa	B- major-seventh
 16aa_	.
-4.aa]	Gm7
+4.aa]	G minor-seventh
 16ccc	.
-16ddd	.
-16ccc	.
-8aa	Am7
+16dddLL	.
+16cccJ	.
+8aaJ	A minor-seventh
 16r	.
 8gg	.
 16r	.
 =6	=6
-8.aa[	.
-2aa_	B-maj7
+[8.aa	.
+2aa_	B- major-seventh
 16aa]	.
-8.dd	Bm7b5
+8.dd	B half-diminished
 8.r	.
 6...ff	.
 16r	.
 =7	=7
-2...aa	C13
-6...gg	B-maj7/D
+2...aa	C dominant-13th
+6...gg	B- major-seventh/D
 16r	.
-8aa	Cadd(4,7,9,10)/E
+8aa	C other-4,7,9,10/E
 16r	.
 =8	=8
-2.gg[	.
-4.gg_	C7sus4
-4.gg]	C
+[2.gg	.
+4.gg_	C dominant-seventh-suspended-fourth
+4.gg]	C major
 ==	==
 *-	*-

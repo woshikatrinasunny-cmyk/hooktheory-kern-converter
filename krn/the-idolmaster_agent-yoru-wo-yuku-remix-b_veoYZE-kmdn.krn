@@ -16,76 +16,76 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.r	Cadd(2,4,7)
-8r	Cadd(2,4,7)/G
-8c	.
+4.r	C other-2,4,7
+8r	C other-2,4,7/G
+8cL	.
 8d	.
-8e	Cadd(2,4,7)
-8f#[	.
+8e	C other-2,4,7
+[8f#J	.
 =2	=2
-4f#]	D7/A
+4f#]	D dominant/A
 4r	.
-8f#	D7
+8f#L	D dominant
 8f#	.
-8e	D7/A
-8d[	.
+8e	D dominant/A
+[8dJ	.
 =3	=3
-4d]	Cadd(2,4,7)
+4d]	C other-2,4,7
 8r	.
-8r	Cadd(2,4,7)/G
+8r	C other-2,4,7/G
+8eL	.
 8e	.
-8e	.
-8e	Cadd(2,4,7)
-8e	.
+8e	C other-2,4,7
+8eJ	.
 =4	=4
-4f#	D7
+4f#	D dominant
 8f#	.
-4.e	Cadd(2,4,7)
-4f#	D7/F#
+4.e	C other-2,4,7
+4f#	D dominant/F#
 =5	=5
-4.r	Cadd(2,4,7)
-8r	Cadd(2,4,7)/G
-8c	.
+4.r	C other-2,4,7
+8r	C other-2,4,7/G
+8cL	.
 8d	.
-8e	Cadd(2,4,7)
-8f#[	.
+8e	C other-2,4,7
+[8f#J	.
 =6	=6
-4f#]	D7/A
+4f#]	D dominant/A
 4r	.
-8f#	D7
+8f#L	D dominant
 8f#	.
-8e	D7/A
-8d[	.
+8e	D dominant/A
+[8dJ	.
 =7	=7
-4d]	Cadd(2,4,7)
+4d]	C other-2,4,7
 8r	.
-8r	Cadd(2,4,7)/G
+8r	C other-2,4,7/G
 4e	.
-4e	Cadd(2,4,7)
+4e	C other-2,4,7
 =8	=8
-4f#	D7
+4f#	D dominant
 8f#	.
-4e	Cadd(2,4,7)
+4e	C other-2,4,7
 8e	.
-4f#	D7/F#
+4f#	D dominant/F#
 =9	=9
-4.g	Cm7/G
-4.g	Cm7/D#
-8r	Cm7/G
-8c[	.
+4.g	C minor-seventh/G
+4.g	C minor-seventh/D#
+8r	C minor-seventh/G
+[8c	.
 =10	=10
-8c]	Cm7
+8cL]	C minor-seventh
 8c	.
 8c	.
-8c	Cm7/G
+8cJ	C minor-seventh/G
+8d#L	.
 8d#	.
-8d#	.
-8f	Cm7
-8f	.
+8f	C minor-seventh
+8fJ	.
 =11	=11
-1g[	D7sus4
+[1g	D dominant-seventh-suspended-fourth
 =12	=12
-4g_	G
+4g_	G major
 2.g]	.
 ==	==
 *-	*-

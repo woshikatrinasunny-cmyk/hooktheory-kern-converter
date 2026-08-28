@@ -15,31 +15,31 @@
 *C:	*
 *M4/4	*
 =1	=1
-16b	G
+16b	G major
 16r	.
-16b	.
+16bLL	.
 16g	.
 16a	.
 16a#	.
 16a	.
-16g	.
+16gJJ	.
 16r	.
 16b	.
 16r	.
-16g	.
+16gLL	.
 16a	.
 16a#	.
 16a	.
-16g	.
+16gJJ	.
 =2	=2
-16cc	C
+16cc	C major
 16r	.
-16cc	.
+16ccLL	.
 16g	.
 16a	.
 16cc	.
 16a	.
-16g	.
+16gJJ	.
 16r	.
 16cc	.
 16r	.
@@ -49,35 +49,35 @@
 16r	.
 16a#	.
 =3	=3
-16b	G
+16b	G major
 16r	.
-16b	.
+16bLL	.
 16g	.
 16a	.
 16a#	.
 16a	.
-16g	.
+16gJJ	.
 16r	.
 16b	.
 16r	.
-16g	.
+16gLL	.
 16a	.
 16a#	.
 16a	.
-16g	.
+16gJJ	.
 =4	=4
-16cc	C
+16cc	C major
 16r	.
-16cc	.
+16ccLL	.
 16g	.
 16a	.
 16b	.
 16a	.
-16g	.
+16gJJ	.
 16cc	.
 16r	.
-16dd	G7/D
+16dd	G dominant/D
 16r	.
-4ee	C7/E
+4ee	C dominant/E
 ==	==
 *-	*-

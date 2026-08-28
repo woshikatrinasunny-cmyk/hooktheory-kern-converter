@@ -16,7 +16,7 @@
 *d:	*
 *M6/4	*
 =1	=1
-2.r	B-
+2.r	B- major
 4d	.
 4d	.
 4c	.
@@ -27,16 +27,16 @@
 2d	.
 4r	.
 =3	=3
-4f	F
+4f	F major
 2.c	.
 2d	.
 =4	=4
-8c	.
-8B-	.
+8cL	.
+8B-J	.
 1c	.
 4r	.
 =5	=5
-2r	B-
+2r	B- major
 4d	.
 4d	.
 4c	.
@@ -49,43 +49,43 @@
 4r	.
 4f	.
 =7	=7
-2c	F
+2c	F major
 4d	.
-4c	G
+4c	G major
 4d	.
-4e[	.
+[4e	.
 =8	=8
-2.e]	A7
+2.e]	A dominant
 4r	.
 4e	.
 4r	.
 =9	=9
-2g	Dsus4
-2.f[	Dm
-4f_	Dm
+2g	D suspended-fourth
+[2.f	D minor
+4f_	D minor
 =10	=10
-2f]	C
+2f]	C major
 4r	.
-4d	B-
+4d	B- major
 4e	.
 4f	.
 =11	=11
-4e	C
+4e	C major
 1e	.
 4c	.
 =12	=12
-2.A	F
+2.A	F major
 2.r	.
 =13	=13
-1.G	Gm
+1.G	G minor
 =14	=14
-1.A	A7
+1.A	A dominant
 =15	=15
-4.F	Dm
-1D[	.
+4.F	D minor
+[1D	.
 8D]	.
 =16	=16
-2.r	B-
-2.r	C
+2.r	B- major
+2.r	C major
 ==	==
 *-	*-

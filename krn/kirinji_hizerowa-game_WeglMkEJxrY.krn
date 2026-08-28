@@ -16,70 +16,70 @@
 *g:	*
 *M4/4	*
 =1	=1
-8d	Gadd(2,3,7)
+8dL	G other-2,3,7
 8d	.
-8f	Ddim7
+8fJ	D diminished-seventh
 8r	.
-4g	E-maj9
+4g	E- major-ninth
 8r	.
 8d	.
 =2	=2
-8f	A-add(4,6,10)
+8fL	A- other-4,6,10
 8f	.
 8f	.
-8d	B-maj9
+8dJ	B- major-ninth
 8r	.
-8d	Dm7b5/F
+8dL	D half-diminished/F
 8c	.
-8B-	.
+8B-J	.
 =3	=3
-8c	E-maj9
+8cL	E- major-ninth
 8c	.
-8d	.
+8dJ	.
 8r	.
-8G	D7sus4
+8GL	D dominant-seventh-suspended-fourth
 8G	.
-8A	D7/C
-8B-	.
+8A	D dominant/C
+8B-J	.
 =4	=4
-8e-	G-dim
+8e-L	G- diminished
 8e-	.
 8e-	.
-8d	F11
+8dJ	F dominant-11th
 4.r	.
-8c	G-add(4,6,7,11)
+8c	G- other-4,6,7,11
 =5	=5
-8d	Gadd(2,3,7)
+8dL	G other-2,3,7
 8d	.
-8f	Ddim7
+8fJ	D diminished-seventh
 8r	.
-4g	E-maj9
+4g	E- major-ninth
 8r	.
 8d	.
 =6	=6
-8f	A-add(4,6,10)
+8fL	A- other-4,6,10
 8f	.
 8f	.
-8d	B-maj9
+8dJ	B- major-ninth
 8r	.
-8d	Fm9
+8dL	F minor-ninth
 8c	.
-8B-	.
+8B-J	.
 =7	=7
-8c	E-maj9
+8cL	E- major-ninth
 8c	.
-8d	.
+8dJ	.
 8r	.
-8G	D7sus4
+8GL	D dominant-seventh-suspended-fourth
 8G	.
-8A	D7/C
-8B-	.
+8A	D dominant/C
+8B-J	.
 =8	=8
-8A	G-dim
+8AL	G- diminished
 8B-	.
 8A	.
-8G	B-maj9
+8GJ	B- major-ninth
 4.r	.
-8r	G-add(4,6,7,11)
+8r	G- other-4,6,7,11
 ==	==
 *-	*-

@@ -16,75 +16,75 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	Am7
-16c[	.
-16c]	Am7
+8r	A minor-seventh
+[16cLL	.
+16cJ]	A minor-seventh
 8g	.
-8g	Gsus4
+8gJ	G suspended-fourth
+8gL	.
 8g	.
-8g	.
-8c	.
+8cJ	.
 8r	.
 =2	=2
-8r	Em7
-16g[	.
-16g]	Em7
+8r	E minor-seventh
+[16gLL	.
+16gJ]	E minor-seventh
 8g	.
-8e	Fmaj7sus2
+8eJ	F major-seventh-suspended-second
 4g	.
 4c	.
 =3	=3
-8r	Am7
-16g[	.
-16g]	Am7
+8r	A minor-seventh
+[16gLL	.
+16gJ]	A minor-seventh
 8g	.
-8g	Gsus4
+8gJ	G suspended-fourth
+8gL	.
 8g	.
 8g	.
-8g	.
-8B	.
+8BJ	.
 =4	=4
-8.B	Em7
-8.B	Em7
-4c	Fmaj7sus2
+8.BL	E minor-seventh
+8.BJ	E minor-seventh
+4c	F major-seventh-suspended-second
 4.r	.
 =5	=5
-8r	Am7
-16e[	.
-16e]	Am7
+8r	A minor-seventh
+[16eLL	.
+16eJ]	A minor-seventh
 8e	.
-8e	Gsus4
-8f	.
+8eJ	G suspended-fourth
+8fL	.
 8e	.
 8d	.
-8d	.
+8dJ	.
 =6	=6
-8d	Em7
-16c[	.
-16c]	Em7
+8dL	E minor-seventh
+[16cL	.
+16cJ]	E minor-seventh
 8c	.
-8c	Fmaj7sus2
+8cJ	F major-seventh-suspended-second
 8r	.
-8B	.
+8BL	.
 8c	.
-8d	.
+8dJ	.
 =7	=7
-8e	Dm7
-16f[	.
-16f]	Dm7
+8eL	D minor-seventh
+[16fL	.
+16fJ]	D minor-seventh
 8e	.
-8d	Em7
+8dJ	E minor-seventh
 4d	.
 4e	.
 =8	=8
-8d	Fmaj7sus2
-16c[	.
-16c]	Fmaj7sus2
+8dL	F major-seventh-suspended-second
+[16cL	.
+16cJ]	F major-seventh-suspended-second
 8d	.
-8e	Gsus4
-8d	.
+8eJ	G suspended-fourth
+8dL	.
 8c	.
 8c	.
-8d	.
+8dJ	.
 ==	==
 *-	*-

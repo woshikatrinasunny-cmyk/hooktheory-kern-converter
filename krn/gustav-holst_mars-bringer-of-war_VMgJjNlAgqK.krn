@@ -16,68 +16,68 @@
 *g:	*
 *M5/4	*
 =1	=1
-1D-[	Gdim
+[1D-	G diminished
 4D-_	.
 =2	=2
 2.D-]	.
 2B-	.
 =3	=3
-1A[	A7/G
+[1A	A dominant/G
 4A_	.
 =4	=4
 2.A]	.
 2r	.
 =5	=5
-2.D-	Gadd(1,6,10)
-2B-	Gm7b5
+2.D-	G other-1,6,10
+2B-	G half-diminished
 =6	=6
-2.A	A7/G
+2.A	A dominant/G
 2en	.
 =7	=7
-2.d-	Gadd(1,6,10)
-2b-	Gm7b5
+2.d-	G other-1,6,10
+2b-	G half-diminished
 =8	=8
-2.a	A7/G
+2.a	A dominant/G
 2een	.
 =9	=9
 *k[b-e-a-d-]	*
 *A-:	*
-2.ee-	A-maj7/G
+2.ee-	A- major-seventh/G
 2c	.
 =10	=10
-2.B-	Gm7b5
+2.B-	G half-diminished
 2f	.
 =11	=11
-2.e-	A-maj7/G
+2.e-	A- major-seventh/G
 2cc	.
 =12	=12
-2.b-	Gm7b5
-2dd-	Gadd(1,6,10)
+2.b-	G half-diminished
+2dd-	G other-1,6,10
 =13	=13
-1bn[	GaugMaj7
+[1bn	G augmented-major-seventh
 4bn_	.
 =14	=14
 2.bn]	.
-2dd-	Gadd(1,6,10)
+2dd-	G other-1,6,10
 =15	=15
-1bn[	GaugMaj7
+[1bn	G augmented-major-seventh
 4bn_	.
 =16	=16
 2.bn]	.
-2dd-	Gadd(1,6,10)
+2dd-	G other-1,6,10
 =17	=17
-2.bn	GaugMaj7
-2dd-	Gadd(1,6,10)
+2.bn	G augmented-major-seventh
+2dd-	G other-1,6,10
 =18	=18
-3...bn[	GaugMaj7
-16bn]	.
-16G	.
+[3...bn	G augmented-major-seventh
+16bnLL]	.
+16GJJ	.
 4..g	.
 16g-	.
 =19	=19
-3...gg-[	.
-16gg-]	.
-16G	.
+[3...gg-	.
+16gg-LL]	.
+16GJJ	.
 4..g	.
 16g-	.
 =20	=20
@@ -85,37 +85,37 @@
 16G	.
 4..g	.
 16g-	.
-4gg-[	.
+[4gg-	.
 =21	=21
-8.gg-]	.
-16G	.
-8.g	.
-16g-	.
-8.gg-	.
-16G	.
+8.gg-L]	.
+16GJk	.
+8.gL	.
+16g-Jk	.
+8.gg-L	.
+16GJk	.
 4..g	.
 16g-	.
 =22	=22
-8.gg-	.
-16G	.
-8.g	.
-16g-	.
-8.gg-	.
-16G	.
-8.g	.
-16g-	.
-8.gg-	.
-16G	.
+8.gg-L	.
+16GJk	.
+8.gL	.
+16g-Jk	.
+8.gg-L	.
+16GJk	.
+8.gL	.
+16g-Jk	.
+8.gg-L	.
+16GJk	.
 =23	=23
-8.g	.
-16g-	.
-8.gg-	.
-16G	.
-8.g	.
-16g-	.
-8.gg-	.
-16G	.
-8.g	.
-16g-	.
+8.gL	.
+16g-Jk	.
+8.gg-L	.
+16GJk	.
+8.gL	.
+16g-Jk	.
+8.gg-L	.
+16GJk	.
+8.gL	.
+16g-Jk	.
 ==	==
 *-	*-

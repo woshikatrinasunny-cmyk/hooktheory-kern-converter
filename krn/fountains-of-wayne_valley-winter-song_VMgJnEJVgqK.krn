@@ -15,27 +15,27 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4r	B-
+4r	B- major
 4dd	.
 8dd	.
 4cc	.
-8cc[	.
+[8cc	.
 =2	=2
-8cc]	E-
+8cc]	E- major
 4b-	.
 4.r	.
 4e-	.
 =3	=3
-4f	F
+4f	F major
 4a	.
 4a	.
-4b-[	.
+[4b-	.
 =4	=4
-2b-]	B-
+2b-]	B- major
 4.r	.
-8a[	.
+[8a	.
 =5	=5
-4a]	D7
+4a]	D dominant
 4g	.
 4a	.
 4g	.
@@ -44,46 +44,46 @@
 8g	.
 4a	.
 4b-	.
-8g[	.
+[8g	.
 =7	=7
-8g]	E-
+8g]	E- major
 2..r	.
 =8	=8
 2.r	.
 4g	.
 =9	=9
-4g	E-
+4g	E- major
 4f	.
 4e-	.
-4f[	.
+[4f	.
 =10	=10
-8f]	B-
+8f]	B- major
 2B-	.
 4.r	.
 =11	=11
-4g	E-
+4g	E- major
 8f	.
 4.e-	.
-4f[	.
+[4f	.
 =12	=12
-8f]	B-
+8f]	B- major
 4.B-	.
 2r	.
 =13	=13
-4e-	Cm
+4e-	C minor
 4d	.
 4e-	.
-8d	.
-8e-[	.
+8dL	.
+[8e-J	.
 =14	=14
 8e-]	.
 4d	.
 8r	.
-4r	B-/D
-8B-	.
-8G[	.
+4r	B- major/D
+8B-L	.
+[8GJ	.
 =15	=15
-8G]	E-
+8G]	E- major
 2..r	.
 =16	=16
 1r	.

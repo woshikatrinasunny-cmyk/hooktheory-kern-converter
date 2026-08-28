@@ -15,95 +15,95 @@
 *C:	*
 *M4/4	*
 =1	=1
-8ee	C
+8eeL	C major
 8ee	.
 8ee	.
-8ee	.
-8ee	.
+8eeJ	.
+8eeL	.
 8ee	.
 8ff	.
-8ff	Dm11
+8ffJ	D minor-11th
 =2	=2
-8gg	D#
+8ggL	D# major
 8gg	.
 8gg	.
+8ggJ	.
+8ggL	D# major/G
 8gg	.
-8gg	D#/G
 8gg	.
-8gg	.
-8gg	.
+8ggJ	.
 =3	=3
-8ee	C
+8eeL	C major
 8ee	.
 8ee	.
-8ee	.
-8ee	.
+8eeJ	.
+8eeL	.
 8ee	.
 8ff	.
-8ff	Dm11
+8ffJ	D minor-11th
 =4	=4
-8gg	D#
+8ggL	D# major
 8g	.
 8g	.
+8gJ	.
+8gL	D# major/G
 8g	.
-8g	D#/G
 8g	.
-8g	.
-8g	.
+8gJ	.
 =5	=5
-8ee	C
+8eeL	C major
 8ee	.
 8ee	.
-8ee	.
-8ee	.
+8eeJ	.
+8eeL	.
 8ee	.
 8ff	.
-8ff	Dm11
+8ffJ	D minor-11th
 =6	=6
-8gg	D#
+8ggL	D# major
 8gg	.
 8gg	.
-8gg	.
-8ccc	Cm7/G
+8ggJ	.
+8cccL	C minor-seventh/G
 8ccc	.
 8ccc	.
-8ccc	.
+8cccJ	.
 =7	=7
-8eee	C
+8eeeL	C major
 8ee	.
 8eee	.
+8eeJ	.
+8eeeL	.
 8ee	.
-8eee	.
-8ee	.
-8eee	Am7/C
-8ee	.
+8eee	A minor-seventh/C
+8eeJ	.
 =8	=8
-8eee	D#
+8eeeL	D# major
 8ee	.
 8eee	.
-8ee	.
-8eee	D#add(4,6,7)/G
+8eeJ	.
+8eeeL	D# other-4,6,7/G
 8ee	.
 8eee	.
-8ee	.
+8eeJ	.
 =9	=9
-8r	C
-16ggg	.
+8r	C major
+16gggLL	.
 16fff	.
+16eeeJJ	.
+16r	.
+16fff	.
+16r	.
+16ggg	.
+16r	.
+16fff	.
+16r	.
 16eee	.
 16r	.
-16fff	.
-16r	.
-16ggg	.
-16r	.
-16fff	.
-16r	.
-16eee	.
-16r	.
-16fff	Dm11
+16fff	D minor-11th
 16r	.
 =10	=10
-16ggg	D#
+16ggg	D# major
 16r	.
 16fff	.
 16r	.
@@ -111,7 +111,7 @@
 16r	.
 16fff	.
 16r	.
-16ggg	D#/G
+16ggg	D# major/G
 16r	.
 16ddd#	.
 16r	.
@@ -120,23 +120,23 @@
 16ddd#	.
 16r	.
 =11	=11
-8r	C
-16ggg	.
+8r	C major
+16gggLL	.
 16fff	.
+16eeeJJ	.
+16r	.
+16fff	.
+16r	.
+16ggg	.
+16r	.
+16fff	.
+16r	.
 16eee	.
 16r	.
-16fff	.
-16r	.
-16ggg	.
-16r	.
-16fff	.
-16r	.
-16eee	.
-16r	.
-16fff	Dm11
+16fff	D minor-11th
 16r	.
 =12	=12
-16ggg	D#
+16ggg	D# major
 16r	.
 16fff	.
 16r	.
@@ -144,32 +144,32 @@
 16r	.
 16ddd	.
 16r	.
-16ccc	D#/G
+16ccc	D# major/G
 16r	.
-16cc	.
+16ccLL	.
 16dd	.
 16ee	.
 16ff#	.
 16gg#	.
-16aa#	.
+16aa#JJ	.
 =13	=13
-8ccc	C
-16ggg	.
+8cccL	C major
+16gggL	.
 16fff	.
+16eeeJJ	.
+16r	.
+16fff	.
+16r	.
+16ggg	.
+16r	.
+16fff	.
+16r	.
 16eee	.
 16r	.
-16fff	.
-16r	.
-16ggg	.
-16r	.
-16fff	.
-16r	.
-16eee	.
-16r	.
-16fff	Dm11
+16fff	D minor-11th
 16r	.
 =14	=14
-16ggg	D#
+16ggg	D# major
 16r	.
 16fff	.
 16r	.
@@ -177,19 +177,19 @@
 16r	.
 16fff	.
 16r	.
-16ggg	D#/G
+16ggg	D# major/G
 16r	.
 16fff	.
 16r	.
-16aaa#	Cm7/G
+16aaa#	C minor-seventh/G
 16r	.
 16ddd#	.
 16r	.
 =15	=15
-8r	C
-16ggg	.
+8r	C major
+16gggLL	.
 16fff	.
-16eee	.
+16eeeJJ	.
 16r	.
 16fff	.
 16r	.
@@ -202,7 +202,7 @@
 16fff	.
 16r	.
 =16	=16
-16ggg	Cm7/D#
+16ggg	C minor-seventh/D#
 16r	.
 16ccc	.
 16r	.
@@ -210,7 +210,7 @@
 16r	.
 16ccc	.
 16r	.
-16ccc	Cm7/G
+16ccc	C minor-seventh/G
 16r	.
 16ccc	.
 16r	.
@@ -221,43 +221,43 @@
 =17	=17
 *k[b-e-a-d-g-]	*
 *D-:	*
-8r	D-
-16aa-	.
-16gg-	.
+8r	D- major
+16aa-LL	.
+16gg-J	.
 8ff	.
-8gg-	.
-8aa-	.
+8gg-J	.
+8aa-L	.
 8gg-	.
 8ff	.
-8gg-	E-m11
+8gg-J	E- minor-11th
 =18	=18
-8aa-	E
+8aa-L	E major
 8gg-	.
 8ff	.
-8gg-	.
-8aa-	E/A-
+8gg-J	.
+8aa-L	E major/A-
 8ff	.
 8bbn	.
-16bb-	.
-16aan	.
+16bb-L	.
+16aanJJ	.
 =19	=19
-8aa-	D-
-16aa-	.
+8aa-L	D- major
+16aa-L	.
 16gg-	.
+16ffJJ	.
+16r	.
+16gg-	.
+16r	.
+16aa-	.
+16r	.
+16gg-	.
+16r	.
 16ff	.
 16r	.
-16gg-	.
-16r	.
-16aa-	.
-16r	.
-16gg-	.
-16r	.
-16ff	.
-16r	.
-16gg-	E-m11
+16gg-	E- minor-11th
 16r	.
 =20	=20
-16aa-	E
+16aa-	E major
 16r	.
 16gg-	.
 16r	.
@@ -265,35 +265,35 @@
 16r	.
 16ee-	.
 16r	.
-16dd-	E/A-
+16dd-	E major/A-
 8.r	.
 16aa-	.
 8.r	.
 =21	=21
-8r	D-
-16aa-	.
-16gg-	.
+8r	D- major
+16aa-LL	.
+16gg-J	.
 8ff	.
-8gg-	.
-8aa-	.
+8gg-J	.
+8aa-L	.
 8gg-	.
 8ff	.
-8gg-	E-m11
+8gg-J	E- minor-11th
 =22	=22
-8aa-	E
+8aa-L	E major
 8gg-	.
 8ff	.
-8gg-	.
-8aa-	E/A-
+8gg-J	.
+8aa-L	E major/A-
 8ff	.
 8bbn	.
-16ff	.
-16gg-	.
+16ffL	.
+16gg-JJ	.
 =23	=23
-8aa-	D-
-16aa-	.
+8aa-L	D- major
+16aa-L	.
 16gg-	.
-16ff	.
+16ffJJ	.
 16r	.
 16gg-	.
 16r	.
@@ -306,7 +306,7 @@
 16gg-	.
 16r	.
 =24	=24
-16aa-	E
+16aa-	E major
 16r	.
 16gg-	.
 16r	.
@@ -314,7 +314,7 @@
 16r	.
 16ee-	.
 16r	.
-16dd-	D-m7/A-
+16dd-	D- minor-seventh/A-
 16r	.
 16aa-	.
 16r	.
@@ -323,18 +323,18 @@
 =25	=25
 *k[f#c#]	*
 *D:	*
-2r	D
-2r	D#
+2r	D major
+2r	D# major
 =26	=26
-2r	D
-2r	D#
+2r	D major
+2r	D# major
 =27	=27
-4r	D
-4r	D#
-4r	E
-4r	F
+4r	D major
+4r	D# major
+4r	E major
+4r	F major
 =28	=28
-2.r	F#
+2.r	F# major
 4D	.
 ==	==
 *-	*-

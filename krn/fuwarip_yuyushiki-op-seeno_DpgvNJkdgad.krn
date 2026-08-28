@@ -15,55 +15,55 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4.cc#	F#/A#
-4dd#	Badd(2,4,7)
+4.cc#	F# major/A#
+4dd#	B other-2,4,7
 4ff#	.
-8ee#[	C#
+[8ee#	C# major
 =2	=2
-8ee#]	.
-8dd#	.
+8ee#L]	.
+8dd#J	.
 4ee#	.
-4ff#	D#m
+4ff#	D# minor
 4cc#	.
 =3	=3
-4.ccc#	F#/A#
-4bb	Badd(2,4,7)
+4.ccc#	F# major/A#
+4bb	B other-2,4,7
 4aa#	.
-8gg#[	C#
+[8gg#	C# major
 =4	=4
-8gg#]	.
+8gg#L]	.
 8aa#	.
 8gg#	.
-8ff#	.
-4ff#	D#m
+8ff#J	.
+4ff#	D# minor
 4r	.
 =5	=5
-4.cc#	F#/A#
-4dd#	Badd(2,4,7)
+4.cc#	F# major/A#
+4dd#	B other-2,4,7
 4ff#	.
-8ee#[	C#
+[8ee#	C# major
 =6	=6
-8ee#]	.
-8dd#	.
+8ee#L]	.
+8dd#J	.
 4ee#	.
-4ff#	D#m
+4ff#	D# minor
 4ccc#	.
 =7	=7
-8ccc#	Eadd(2,4,7)
+8ccc#L	E other-2,4,7
 8ccc#	.
 8ccc#	.
-8ff#	Badd(2,4,7)
+8ff#J	B other-2,4,7
+8ff#L	.
 8ff#	.
-8ff#	.
-8ff#	F#/A#
-8ff#	.
+8ff#	F# major/A#
+8ff#J	.
 =8	=8
+8ff#L	.
+8ff#	F# minor/A
 8ff#	.
-8ff#	F#m/A
-8ff#	.
-8ff#	.
-8ff#	G#m11
-8ff#	.
+8ff#J	.
+8ff#L	G# minor-11th
+8ff#J	.
 4ff#	.
 ==	==
 *-	*-

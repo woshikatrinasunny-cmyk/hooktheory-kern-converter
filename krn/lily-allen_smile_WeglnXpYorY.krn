@@ -16,64 +16,64 @@
 *F:	*
 *M4/4	*
 =1	=1
-8r	Gm
+8r	G minor
 8cc	.
 4.cc	.
-16cc	.
-16cc	.
+16ccLL	.
+16ccJ	.
 8ff	.
-8aa	.
+8aaJ	.
 =2	=2
-8ccc	F/A
-8aa	.
+8cccL	F major/A
+8aaJ	.
 4.gg	.
-16gg	.
-16gg	.
+16ggLL	.
+16ggJ	.
 8gg	.
-8gg	.
+8ggJ	.
 =3	=3
-8aa	Gm7
-8ff	.
+8aaL	G minor-seventh
+8ffJ	.
 4.dd	.
-16ff	.
-16ff	.
+16ffLL	.
+16ffJ	.
 8ff	.
-8ff	.
+8ffJ	.
 =4	=4
-8gg	Fadd(2,4,7)
-8ff	.
+8ggL	F other-2,4,7
+8ffJ	.
 3...ee	.
 8r	.
 =5	=5
-8r	Gm
+8r	G minor
 8cc	.
 6...cc	.
+16ccLL	.
 16cc	.
-16cc	.
-16cc	.
+16ccJ	.
 8ff	.
-16ff	.
-16aa	.
+16ffL	.
+16aaJJ	.
 =6	=6
-8ccc	F/A
-8aa	.
+8cccL	F major/A
+8aaJ	.
 4..gg	.
+16ggLL	.
 16gg	.
-16gg	.
-16gg	.
-8gg	.
+16ggJ	.
+8ggJ	.
 =7	=7
-8aa	Gm7
-8ff	.
+8aaL	G minor-seventh
+8ffJ	.
 6...dd	.
+16ffLL	.
 16ff	.
-16ff	.
-16ff	.
+16ffJ	.
 8ff	.
-8ff	.
+8ffJ	.
 =8	=8
-8gg	Fadd(2,4,7)
-8ff	.
+8ggL	F other-2,4,7
+8ffJ	.
 3...ee	.
 8r	.
 ==	==

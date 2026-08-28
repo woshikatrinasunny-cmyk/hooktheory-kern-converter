@@ -16,144 +16,144 @@
 *F#:	*
 *M4/4	*
 =1	=1
-16r	F#
-16ff#	.
-16ff#	.
-16een	.
+16r	F# major
+16ff#LL	.
 16ff#	.
 16een	.
 16ff#	.
 16een	.
-8ff#	F#/C#
-8een	.
+16ff#	.
+16eenJJ	.
+8ff#L	F# major/C#
+8eenJ	.
 4cc#	.
 =2	=2
-16r	F#
-16ff#	.
-16ff#	.
-16een	.
+16r	F# major
+16ff#LL	.
 16ff#	.
 16een	.
 16ff#	.
 16een	.
-8ff#	F#
-16een[	.
-16een]	G#m11
+16ff#	.
+16eenJJ	.
+8ff#L	F# major
+[16eenL	.
+16eenJ]	G# minor-11th
 8cc#	.
-8een	F#/A#
+8eenJ	F# major/A#
 =3	=3
-8ff#	D
-4.een[	.
-4een]	C#m
-8ff#	.
-8cc#	.
+8ff#	D major
+[4.een	.
+4een]	C# minor
+8ff#L	.
+8cc#J	.
 =4	=4
-2..cc#	F#
+2..cc#	F# major
 8r	.
 =5	=5
-8r	F#
-16ff#	.
-16een	.
+8r	F# major
+16ff#LL	.
+16eenJ	.
 8.ff#	.
-16een	.
-16ff#	F#/C#
+16eenJk	.
+16ff#LL	F# major/C#
 16een	.
 16ff#	.
-16een	.
+16eenJ	.
 8cc#	.
-8een	.
+8eenJ	.
 =6	=6
-8r	F#
-16ff#	.
-16een	.
+8r	F# major
+16ff#LL	.
+16eenJ	.
 8.ff#	.
-16een	.
-16ff#	F#
+16eenJk	.
+16ff#LL	F# major
 16een	.
 16ff#	.
-16een	G#m11
+16eenJ	G# minor-11th
 8cc#	.
-8een	F#/A#
+8eenJ	F# major/A#
 =7	=7
-4r	D
-8ff#	.
-8een	.
-8een	C#m
+4r	D major
+8ff#L	.
+8eenJ	.
+8eenL	C# minor
 8ff#	.
 8.ff#	.
-16een	.
+16eenJk	.
 =8	=8
-8aan	F#
-16ff#	.
-16een	.
+8aanL	F# major
+16ff#L	.
+16eenJJ	.
 2ff#	.
 4r	.
 =9	=9
-4r	Dmaj7
+4r	D major-seventh
 4ff#	.
-4gg#	C#m
-8.aan	.
-16gg#	.
+4gg#	C# minor
+8.aanL	.
+16gg#Jk	.
 =10	=10
-16aan	Aadd(2,4,7)
+16aanLL	A other-2,4,7
 16gg#	.
 16aan	.
-16gg#	.
+16gg#JJ	.
 2ff#	.
 8r	.
-16ff#	.
-16gg#	.
+16ff#LL	.
+16gg#JJ	.
 =11	=11
-16aan	Dmaj7
+16aanLL	D major-seventh
 16gg#	.
 16aan	.
-16gg#	.
-4ff#[	.
-4ff#]	C#m
+16gg#JJ	.
+[4ff#	.
+4ff#]	C# minor
 8r	.
-16ff#	.
-16gg#	.
+16ff#LL	.
+16gg#JJ	.
 =12	=12
-8aan	Aadd(2,4,7)
+8aanL	A other-2,4,7
 8gg#	.
 8ff#	.
-8aan	.
-8ccc#	.
-8bb	.
+8aanJ	.
+8ccc#L	.
+8bbJ	.
 4bb	.
 =13	=13
-4r	Dmaj7
-8ff#	.
-8ff#	.
-4gg#	C#m
+4r	D major-seventh
+8ff#L	.
+8ff#J	.
+4gg#	C# minor
 4aan	.
 =14	=14
-16aan	Aadd(2,4,7)
+16aanLL	A other-2,4,7
 16gg#	.
 16aan	.
-16gg#	.
+16gg#JJ	.
 2ff#	.
 8r	.
-16ff#	.
-16gg#	.
+16ff#LL	.
+16gg#JJ	.
 =15	=15
-16aan	Dmaj7
+16aanLL	D major-seventh
 16gg#	.
 16aan	.
-16gg#	.
-4ff#[	.
-8ff#]	C#m
+16gg#JJ	.
+[4ff#	.
+8ff#L]	C# minor
 8een	.
 8een	.
-8ff#	.
+8ff#J	.
 =16	=16
-2.cc#	Aadd(2,4,7)
+2.cc#	A other-2,4,7
 8r	.
-16f#	.
-16an	.
+16f#LL	.
+16anJJ	.
 =17	=17
-8b	.
-8b	.
+8bL	.
+8bJ	.
 2.b	.
 ==	==
 *-	*-

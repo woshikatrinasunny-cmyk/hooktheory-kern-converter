@@ -16,167 +16,167 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4B-	B-m
+4B-	B- minor
 4c	.
 4d-	.
-8B-	.
-8B-[	.
+8B-L	.
+[8B-J	.
 =2	=2
-8B-]	B-m
+8B-]	B- minor
 4c	.
 4d-	.
 4e-	.
-16Gn	.
-16A-	.
+16GnLL	.
+16A-JJ	.
 =3	=3
-4An	F/C
+4An	F major/C
 4B-	.
 4c	.
-8An	.
-8f[	.
+8AnL	.
+[8fJ	.
 =4	=4
-8f]	F/C
-8f	.
+8fL]	F major/C
+8fJ	.
 4e-	.
 4d-	.
 4c	.
 =5	=5
-4Bn	D-7
+4Bn	D- dominant
 4d-	.
 4e-	.
-8Bn	.
-8Bn[	.
+8BnL	.
+[8BnJ	.
 =6	=6
-8Bn]	D-7
+8Bn]	D- dominant
 4d-	.
 4e-	.
 4g-	.
-16e-	.
-16en	.
+16e-LL	.
+16enJJ	.
 =7	=7
-4f	E-
+4f	E- major
 4c	.
 4d-	.
-8f	.
-8e-[	.
+8fL	.
+[8e-J	.
 =8	=8
-8e-]	E-
-8d-	.
+8e-L]	E- major
+8d-J	.
 4c	.
 4B-	.
 4An	.
 =9	=9
-4An	D
+4An	D major
 4Bn	.
 4d-	.
-8An	.
-8An[	.
+8AnL	.
+[8AnJ	.
 =10	=10
-8An]	D
+8An]	D major
 4Bn	.
 4d-	.
 4g-	.
-16e-	.
-16en	.
+16e-LL	.
+16enJJ	.
 =11	=11
-4f	D-
+4f	D- major
 4B-	.
 4c	.
-8F	.
-8e-[	.
+8FL	.
+[8e-J	.
 =12	=12
-8e-]	D-
-8e-	.
+8e-L]	D- major
+8e-J	.
 4d-	.
 4c	.
 4Bn	.
 =13	=13
-4B-	Cm7b5
+4B-	C half-diminished
 4c	.
 4d-	.
-8B-	.
-8B-[	.
+8B-L	.
+[8B-J	.
 =14	=14
-8B-]	Cm7b5
+8B-]	C half-diminished
 4c	.
 4d-	.
 4e-	.
-16dn	.
-16d-	.
+16dnLL	.
+16d-JJ	.
 =15	=15
-4c	Fsus4
+4c	F suspended-fourth
 4d-	.
 4c	.
-8B-	.
-8An[	.
+8B-L	.
+[8AnJ	.
 =16	=16
-4.An]	F
+4.An]	F major
 3...r	.
 =17	=17
-2.r	B-m
+2.r	B- minor
 4f	.
 =18	=18
-4.dd-	B-m
+4.dd-	B- minor
 4.cc	.
 4b-	.
 =19	=19
-2.a-	D-m
-8en	.
-8g-	.
+2.a-	D- minor
+8enL	.
+8g-J	.
 =20	=20
-4.a-	D-m
+4.a-	D- minor
 4.b-	.
 4bn	.
 =21	=21
-4cc	Cm
+4cc	C minor
 2r	.
 4dn	.
 =22	=22
-2e-	Cm
+2e-	C minor
 2f	.
 =23	=23
-2g-	E-m
-2a-	Ddim
+2g-	E- minor
+2a-	D diminished
 =24	=24
-2b-	G-/D-
-4.f	Cdim
-16bn	.
-16cc	.
+2b-	G- major/D-
+4.f	C diminished
+16bnLL	.
+16ccJJ	.
 =25	=25
-2.dd-	B-m
-8cc	.
-8dd-	.
+2.dd-	B- minor
+8ccL	.
+8dd-J	.
 =26	=26
-4a-	B-m
-16ee-	.
-16ff	.
+4a-	B- minor
+16ee-LL	.
+16ffJJ	.
 4.gg-	.
-8.ff	.
-16een	.
+8.ffL	.
+16eenJk	.
 =27	=27
-4.ee-	D-m
+4.ee-	D- minor
 4dd-	.
-16b-	.
-16a-	.
+16b-LL	.
+16a-JJ	.
 4g-	.
 =28	=28
-4.a-	D-m
+4.a-	D- minor
 4.b-	.
 4bn	.
 =29	=29
-4cc	Cm
+4cc	C minor
 2r	.
 4dn	.
 =30	=30
-2e-	Cm
+2e-	C minor
 4.f	.
-16e-	.
-16f	.
+16e-LL	.
+16fJJ	.
 =31	=31
-2g-	E-m
-2a-	Ddim
+2g-	E- minor
+2a-	D diminished
 =32	=32
-2b-	G-/D-
-2f	Cdim
+2b-	G- major/D-
+2f	C diminished
 ==	==
 *-	*-

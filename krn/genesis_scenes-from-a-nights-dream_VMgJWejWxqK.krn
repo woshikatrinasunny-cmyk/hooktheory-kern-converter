@@ -16,51 +16,51 @@
 *a:	*
 *M4/4	*
 =1	=1
-4f	F
+4f	F major
 4f	.
-8g	G
+8g	G major
 4g	.
-8e[	.
+[8e	.
 =2	=2
-4e]	Am
+4e]	A minor
 8e	.
 4a	.
 4.e	.
 =3	=3
-4c	F
+4c	F major
 4c	.
-4B	G
-8c	.
-8B[	.
+4B	G major
+8cL	.
+[8BJ	.
 =4	=4
-8B]	Am
+8B]	A minor
 4A	.
 3...r	.
 =5	=5
-8.f	F
+8.fL	F major
 8.f	.
-8g[	.
-8g]	G
+[8gJ	.
+8g]	G major
 8r	.
 4g	.
 =6	=6
-8.e	Am
-8.e	.
+8.eL	A minor
+8.eJ	.
 4a	.
 4e	.
 8r	.
 =7	=7
-8d	A#
+8dL	A# major
 8d	.
-8A#	.
+8A#J	.
 4d	.
 4A#	.
 8r	.
 =8	=8
-8c#	C#
+8c#L	C# major
 8c	.
 8G#	.
-8f	G#
+8fJ	G# major
 4d#	.
 4r	.
 ==	==

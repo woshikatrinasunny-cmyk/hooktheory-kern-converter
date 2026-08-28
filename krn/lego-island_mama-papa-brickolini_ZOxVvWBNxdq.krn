@@ -16,137 +16,137 @@
 *D:	*
 *M2/4	*
 =1	=1
-8f#	D
-8f#	.
-16e	A
-16d	.
-8e	.
+8f#L	D major
+8f#J	.
+16eLL	A major
+16dJ	.
+8eJ	.
 =2	=2
-16f#	D
-16g	.
-8f#	.
-8e	A
-8d	.
+16f#LL	D major
+16gJ	.
+8f#J	.
+8eL	A major
+8dJ	.
 =3	=3
-8f#	D
-8f#	.
-16e	A
-16d	.
-8e	.
+8f#L	D major
+8f#J	.
+16eLL	A major
+16dJ	.
+8eJ	.
 =4	=4
-4d	D
-8dd	D
+4d	D major
+8dd	D major
 8r	.
 =5	=5
 2r	.
 =6	=6
-8f#	D
-8f#	.
-16e	A
-16d	.
-8e	.
+8f#L	D major
+8f#J	.
+16eLL	A major
+16dJ	.
+8eJ	.
 =7	=7
-16f#	D
-16g	.
-8f#	.
-8e	A
-8d	.
+16f#LL	D major
+16gJ	.
+8f#J	.
+8eL	A major
+8dJ	.
 =8	=8
-8f#	D
-8f#	.
-16e	A
-16d	.
-8e	.
+8f#L	D major
+8f#J	.
+16eLL	A major
+16dJ	.
+8eJ	.
 =9	=9
-16f#	D
-16g	.
-8f#	.
-8e	A
-8d	.
+16f#LL	D major
+16gJ	.
+8f#J	.
+8eL	A major
+8dJ	.
 =10	=10
-16B	G
-16G	.
-8A	.
-16B	.
-16g	.
-8f#	.
+16BLL	G major
+16GJ	.
+8AJ	.
+16BLL	.
+16gJ	.
+8f#J	.
 =11	=11
-8e	A
-8d	.
-8c#	.
-8A	.
+8eL	A major
+8dJ	.
+8c#L	.
+8AJ	.
 =12	=12
-16G	G
-16d	.
-8g	.
-16dd	.
-16gg	.
-8ff#	.
+16GLL	G major
+16dJ	.
+8gJ	.
+16ddLL	.
+16ggJ	.
+8ff#J	.
 =13	=13
-8ee	A
-8dd	.
-8cc#	.
-8a	.
+8eeL	A major
+8ddJ	.
+8cc#L	.
+8aJ	.
 =14	=14
-8ff#	D
-8ff#	.
-16ee	A
-16dd	.
-8ee	.
+8ff#L	D major
+8ff#J	.
+16eeLL	A major
+16ddJ	.
+8eeJ	.
 =15	=15
-16ff#	D
-16gg	.
-8ff#	.
-8ee	A
-8dd	.
+16ff#LL	D major
+16ggJ	.
+8ff#J	.
+8eeL	A major
+8ddJ	.
 =16	=16
-8ff#	D
-8ff#	.
-16ee	A
-16dd	.
-8ee	.
+8ff#L	D major
+8ff#J	.
+16eeLL	A major
+16ddJ	.
+8eeJ	.
 =17	=17
-16ff#	D
-16gg	.
-8ff#	.
-8ee	A
-8dd	.
+16ff#LL	D major
+16ggJ	.
+8ff#J	.
+8eeL	A major
+8ddJ	.
 =18	=18
-16B	G
-16d	.
-8g	.
-16dd	.
-16gg	.
-8ff#	.
+16BLL	G major
+16dJ	.
+8gJ	.
+16ddLL	.
+16ggJ	.
+8ff#J	.
 =19	=19
-8ee	A
-8dd	.
-8cc#	.
-8a	.
+8eeL	A major
+8ddJ	.
+8cc#L	.
+8aJ	.
 =20	=20
-16B	G
-16d	.
-8g	.
-16dd	.
-16gg	.
-8ff#	.
+16BLL	G major
+16dJ	.
+8gJ	.
+16ddLL	.
+16ggJ	.
+8ff#J	.
 =21	=21
-8ee	A
-8dd	.
-16cc#	.
-16dd	.
-8ee	.
+8eeL	A major
+8ddJ	.
+16cc#LL	.
+16ddJ	.
+8eeJ	.
 =22	=22
-4dd[	D
-4dd_	A
+[4dd	D major
+4dd_	A major
 =23	=23
-4dd_	D
-4dd]	A
+4dd_	D major
+4dd]	A major
 =24	=24
-4ddd[	D
-4ddd_	A
+[4ddd	D major
+4ddd_	A major
 =25	=25
-4ddd_	D
-4ddd]	A
+4ddd_	D major
+4ddd]	A major
 ==	==
 *-	*-

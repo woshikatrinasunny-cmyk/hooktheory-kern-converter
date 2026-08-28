@@ -16,115 +16,115 @@
 *a:	*
 *M4/4	*
 =1	=1
-2cc	Am
+2cc	A minor
 2b	.
 =2	=2
-2.g	Am11
+2.g	A minor-11th
 4d	.
 =3	=3
-2...e	Am
+2...e	A minor
 16r	.
 =4	=4
-4e	Am7
+4e	A minor-seventh
 4g	.
 4cc	.
 4ee	.
 =5	=5
-2.ff	Dm
-8ee	.
-8dd	.
+2.ff	D minor
+8eeL	.
+8ddJ	.
 =6	=6
 4.cc	.
 8dd	.
 4.ee	.
 8aa	.
 =7	=7
-4.ee	Eaug
+4.ee	E augmented
 8cc	.
-2a[	Fmaj7
+[2a	F major-seventh
 =8	=8
-2a_	Fadd(4,7,9,11)
-4..a]	F7
+2a_	F other-4,7,9,11
+4..a]	F dominant
 16r	.
 =9	=9
-4b	G
+4b	G major
 4cc	.
 4dd	.
 4gg	.
 =10	=10
-2..dd	G#dim7
+2..dd	G# diminished-seventh
 8r	.
 =11	=11
-4a	Am
+4a	A minor
 4b	.
 4cc	.
-4ff[	.
+[4ff	.
 =12	=12
-4ff]	Bm7b5
+4ff]	B half-diminished
 4ee	.
 4dd	.
 4a	.
 =13	=13
-2g[	C
-2g_	Cmaj7/B
+[2g	C major
+2g_	C major-seventh/B
 =14	=14
-3...g]	C7/A#
+3...g]	C dominant/A#
 8r	.
 4e	.
 =15	=15
-2a[	Asus4
-2a_	Asus4/E
+[2a	A suspended-fourth
+2a_	A suspended-fourth/E
 =16	=16
-2a]	Fmaj7
-2ee	Em/G
+2a]	F major-seventh
+2ee	E minor/G
 =17	=17
-2ccc	Am
-2bb	G/B
+2ccc	A minor
+2bb	G major/B
 =18	=18
-2gg[	C
-4gg]	C/E
+[2gg	C major
+4gg]	C major/E
 4dd	.
 =19	=19
-2ee[	Eaug
-4ee_	Am/C
-4ee]	Esus4/B
+[2ee	E augmented
+4ee_	A minor/C
+4ee]	E suspended-fourth/B
 =20	=20
-4ee	C/E
+4ee	C major/E
 4gg	.
 4ccc	.
 4ee	.
 =21	=21
 *k[b-e-a-d-]	*
 *f:	*
-2ff[	Fsus4
-4ff]	Fadd(2,5,7)/G
-8ee-	Cm
-8dd-	.
+[2ff	F suspended-fourth
+4ff]	F other-2,5,7/G
+8ee-L	C minor
+8dd-J	.
 =22	=22
-4.cc	A-/C
+4.cc	A- major/C
 8dd-	.
 4.ee-	.
 8aa-	.
 =23	=23
-4.ee-	E-/G
+4.ee-	E- major/G
 8cc	.
 *k[b-e-]	*
 *g:	*
-2a[	D/G-
+[2a	D major/G-
 =24	=24
-2a_	A/E
-2a]	F7/E-
+2a_	A major/E
+2a]	F dominant/E-
 =25	=25
-2bb-	B-/D
+2bb-	B- major/D
 2aa	.
 =26	=26
-4aa-	E-add(2,5,7)
+4aa-	E- other-2,5,7
 2.r	.
 =27	=27
-2aa-	A-
+2aa-	A- major
 2gg	.
 =28	=28
-4gg-	D
+4gg-	D major
 2.r	.
 ==	==
 *-	*-

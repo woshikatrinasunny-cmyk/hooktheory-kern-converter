@@ -17,88 +17,88 @@
 *M4/4	*
 =1	=1
 2r	.
-16dd	.
+16ddLK	.
 8dd	.
 8dd	.
 8dd	.
-16dd[	.
+[16ddJk	.
 =2	=2
-16dd]	Dm
-8.dd[	.
-8dd]	Dm
+16ddLK]	D minor
+[8.dd	.
+8ddJ]	D minor
 8r	.
-16cc	Dm7
+16ccLK	D minor-seventh
 8cc	.
-16cc[	.
-16cc]	Dm7/C
+[16ccL	.
+16ccJ]	D minor-seventh/C
 8bn	.
-16bn[	.
+[16bnJk	.
 =3	=3
-4bn]	D-m7b5/B
-4b-	Cmaj7/B
-4b-	Cm7/B-
-8a	Cm7/B-
-8a	.
+4bn]	D- half-diminished/B
+4b-	C major-seventh/B
+4b-	C minor-seventh/B-
+8aL	C minor-seventh/B-
+8aJ	.
 =4	=4
-16a	Bm7b5/A
+16aLK	B half-diminished/A
 8g	.
-16f[	.
-16f]	Dm/A
+[16fL	.
+16fJ]	D minor/A
 8g	.
-16a[	.
-16a]	Dm/A
+[16aJk	.
+16aLK]	D minor/A
 8g	.
-16f	.
-16f	Dm/A
+16fL	.
+16fJ	D minor/A
 8g	.
-16a[	.
+[16aJk	.
 =5	=5
-16a]	Dm/A
+16aLK]	D minor/A
 8g	.
-16f[	.
-16f]	Dm/A
+[16fL	.
+16fJ]	D minor/A
 8g	.
-16f[	.
-16f]	Dm/A
+[16fJk	.
+16fLK]	D minor/A
 8.d	.
-16ff	Dsus4
+16ffk	D suspended-fourth
 8dd	.
-16dd[	.
+[16ddJk	.
 =6	=6
-4dd_	Dm
-16dd]	Dm
+4dd_	D minor
+16dd]	D minor
 8.r	.
-4r	Dm
-4cc	Dm7
+4r	D minor
+4cc	D minor-seventh
 =7	=7
-4cc	Dm7/C
-4bn	D-m7b5/B
-4bn	D-m7b5/B
-4b-	Cm7/B-
+4cc	D minor-seventh/C
+4bn	D- half-diminished/B
+4bn	D- half-diminished/B
+4b-	C minor-seventh/B-
 =8	=8
-16a	Bm7b5/A
+16aLK	B half-diminished/A
 8g	.
-16f[	.
-16f]	Dm/A
+[16fL	.
+16fJ]	D minor/A
 8g	.
-16a[	.
-16a]	Dm/A
+[16aJk	.
+16aLK]	D minor/A
 8g	.
-16f[	.
-16f]	Dm/A
+[16fL	.
+16fJ]	D minor/A
 8g	.
-16a[	.
+[16aJk	.
 =9	=9
-16a]	Dm/A
+16aLK]	D minor/A
 8g	.
-16f[	.
-16f]	Dm/A
+[16fL	.
+16fJ]	D minor/A
 8g	.
-16a[	.
-16a]	Dm/A
+[16aJk	.
+16aLK]	D minor/A
 8g	.
-16f[	.
-16f]	Dm/A
-8.d	.
+[16fL	.
+16fJ]	D minor/A
+8.dJ	.
 ==	==
 *-	*-

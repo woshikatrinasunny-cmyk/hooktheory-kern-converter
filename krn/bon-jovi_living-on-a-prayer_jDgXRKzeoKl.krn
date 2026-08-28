@@ -16,71 +16,71 @@
 *e:	*
 *M4/4	*
 =1	=1
-8e	Em
+8eL	E minor
 8d	.
-8e[	.
-8e]	Csus2
-8g	.
+[8e	.
+8eJ]	C suspended-second
+8gL	.
 8a	.
-8b[	.
-8b]	Dsus4
+[8b	.
+8bJ]	D suspended-fourth
 =2	=2
-8a	.
-8d	.
-4d[	.
-4d]	D
-8ee	.
-8ff#	.
+8aL	.
+8dJ	.
+[4d	.
+4d]	D major
+8eeL	.
+8ff#J	.
 =3	=3
-8gg	G
+8ggL	G major
 8dd	.
-8b	.
-4cc	C
-8dd	.
+8bJ	.
+4cc	C major
+8ddL	.
 8ee	.
-8ee[	Dsus4
+[8eeJ	D suspended-fourth
 =4	=4
 8ee]	.
-4.dd[	.
-2dd]	D
+[4.dd	.
+2dd]	D major
 =5	=5
-8g	Em
+8gL	E minor
+8gJ	.
+8r	.
+8a	C suspended-second
+8r	.
 8g	.
 8r	.
-8a	Csus2
-8r	.
-8g	.
-8r	.
-16f#	Dsus4
-16g	.
+16f#LL	D suspended-fourth
+16gJJ	.
 =6	=6
-8f#	.
-8d	.
-4A[	.
-8A]	D
+8f#L	.
+8dJ	.
+[4A	.
+8A]	D major
 8r	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 =7	=7
-8gg	G
+8ggL	G major
 8dd	.
-8b	.
-4cc	C
+8bJ	.
+4cc	C major
 8b	.
 4g	.
 =8	=8
-2..ee	Em
-16dd	.
-16b	.
+2..ee	E minor
+16ddLL	.
+16bJJ	.
 =9	=9
-16a	Em
+16aLL	E minor
 16b	.
 16dd	.
 16ee	.
 16gg	.
 16ee	.
 16gg	.
-16aa	.
+16aaJJ	.
 2bb	.
 ==	==
 *-	*-

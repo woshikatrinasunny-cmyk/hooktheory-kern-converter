@@ -16,204 +16,204 @@
 *g:	*
 *M4/4	*
 =1	=1
-8G	Gm
-16d	.
-16d	.
+8GL	G minor
+16dL	.
+16dJ	.
 8d-	.
-8d	.
-8g	.
+8dJ	.
+8gL	.
 8d	.
 8d-	.
-8d	.
+8dJ	.
 =2	=2
-8G	Gm
-16d	.
-16d	.
+8GL	G minor
+16dL	.
+16dJ	.
 8d-	.
-8d	.
-8g	.
+8dJ	.
+8gL	.
 8g-	.
 8g	.
-8a	.
+8aJ	.
 =3	=3
-8b-	Adim
-16cc	.
-16b-	.
+8b-L	A diminished
+16ccL	.
+16b-J	.
 8a	.
-8g	.
-8ee-	.
-16ff	.
-16ee-	.
+8gJ	.
+8ee-L	.
+16ffL	.
+16ee-J	.
 8dd	.
-8cc	.
+8ccJ	.
 =4	=4
-1dd	D
+1dd	D major
 =5	=5
-8G	Gm
-16d	.
-16d	.
+8GL	G minor
+16dL	.
+16dJ	.
 8d-	.
-8d	.
-8g	.
+8dJ	.
+8gL	.
 8d	.
 8d-	.
-8d	.
+8dJ	.
 =6	=6
-8G	Gm
-16d	.
-16d	.
+8GL	G minor
+16dL	.
+16dJ	.
 8d-	.
-8d	.
-8g	.
+8dJ	.
+8gL	.
 8g-	.
 8g	.
-8a	.
+8aJ	.
 =7	=7
-8b-	Adim
-16cc	.
-16b-	.
+8b-L	A diminished
+16ccL	.
+16b-J	.
 8a	.
-8g	.
-8ee-	.
-16ff	.
-16ee-	.
+8gJ	.
+8ee-L	.
+16ffL	.
+16ee-J	.
 8dd	.
-8cc	.
+8ccJ	.
 =8	=8
-8b-	D
-16cc	.
-16b-	.
+8b-L	D major
+16ccL	.
+16b-J	.
 8a	.
-8dd	.
-2g	Gm
+8ddJ	.
+2g	G minor
 =9	=9
-1cc[	Cm
+[1cc	C minor
 =10	=10
-4cc]	A-
-16ee-	.
+4cc]	A- major
+16ee-LL	.
 16dd	.
 16ee-	.
-16dd	.
-8ee-	.
+16ddJJ	.
+8ee-L	.
 8ff	.
 8ee-	.
-8dd	.
+8ddJ	.
 =11	=11
-1cc[	Cm
+[1cc	C minor
 =12	=12
-4cc]	A-
-16ee-	.
+4cc]	A- major
+16ee-LL	.
 16dd	.
 16ee-	.
-16dd	.
-8ee-	.
+16ddJJ	.
+8ee-L	.
 8ff	.
 8ee-	.
-8cc	.
+8ccJ	.
 =13	=13
-1een[	Em
+[1een	E minor
 =14	=14
-4een]	C
-16gg	.
+4een]	C major
+16ggLL	.
 16gg-	.
 16gg	.
-16gg-	.
-8gg	.
+16gg-JJ	.
+8ggL	.
 8aa	.
 8gg	.
-8gg-	.
+8gg-J	.
 =15	=15
-1een[	Em
+[1een	E minor
 =16	=16
-4een]	C
-16gg	.
+4een]	C major
+16ggLL	.
 16gg-	.
 16gg	.
-16gg-	.
-8gg	.
+16gg-JJ	.
+8ggL	.
 8aa	.
 8gg	.
-8gg-	.
+8gg-J	.
 =17	=17
-8D	Dm
+8DL	D minor
 8F	.
 8En	.
-8F	.
-8D	.
+8FJ	.
+8DL	.
 8f	.
 8en	.
-8d	.
+8dJ	.
 =18	=18
-8A	Am
+8AL	A minor
 8c	.
 8Bn	.
-8c	.
-8A	.
+8cJ	.
+8AL	.
 8cc	.
 8bn	.
-8a	.
+8aJ	.
 =19	=19
-8c	Cm
+8cL	C minor
 8e-	.
 8d	.
-8e-	.
-8c	.
+8e-J	.
+8cL	.
 8ee-	.
 8dd	.
-8cc	.
+8ccJ	.
 =20	=20
-8b-	Gm
+8b-L	G minor
 8aa	.
 8gg	.
-8b-	.
-8a	.
+8b-J	.
+8aL	.
 8g	.
 8B-	.
-8A	.
+8AJ	.
 =21	=21
-8D	Dm
+8DL	D minor
 8F	.
 8En	.
-8F	.
-8D	.
+8FJ	.
+8DL	.
 8f	.
 8en	.
-8d	.
+8dJ	.
 =22	=22
-8A	Am
+8AL	A minor
 8c	.
 8Bn	.
-8c	.
-8A	.
+8cJ	.
+8AL	.
 8cc	.
 8bn	.
-8a	.
+8aJ	.
 =23	=23
-8c	Cm
+8cL	C minor
 8e-	.
 8d	.
-8e-	.
-8c	.
+8e-J	.
+8cL	.
 8ee-	.
 8dd	.
-8cc	.
+8ccJ	.
 =24	=24
-8en	Edim
+8enL	E diminished
 8g	.
 8g-	.
-8g	.
-8en	.
+8gJ	.
+8enL	.
 8g	.
 8b-	.
-8dd-	.
+8dd-J	.
 =25	=25
-8dd	D
-4dd	D
-4ee-	E-
-4dd	D
-8cc	Cm
+8dd	D major
+4dd	D major
+4ee-	E- major
+4dd	D major
+8cc	C minor
 =26	=26
-2dd	D
+2dd	D major
 2r	.
 ==	==
 *-	*-

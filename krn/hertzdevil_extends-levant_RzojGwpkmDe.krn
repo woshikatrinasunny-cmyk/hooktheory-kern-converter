@@ -16,94 +16,94 @@
 *c:	*
 *M4/4	*
 =1	=1
-16C	Csus2
-16G	.
+16CLL	C suspended-second
+16GJJ	.
 2..d	.
 =2	=2
-16AA-	A-add(2,4,7)
+16AA-LL	A- other-2,4,7
 16C	.
 16E-	.
-16F	.
-2.B-[	.
+16FJJ	.
+[2.B-	.
 =3	=3
-8B-]	B-
+8B-L]	B- major
 8BB-	.
 8E-	.
-8D	.
+8DJ	.
 8BB-	.
 4FF	.
 8D	.
 =4	=4
-16C	Csus2
-16D	.
+16CLL	C suspended-second
+16DJJ	.
 4.G	.
-16BB-	Cm7/B-
+16BB-LL	C minor-seventh/B-
 16C	.
-16E-	.
+16E-JJ	.
 6...G	.
 =5	=5
-16AA-	A-
+16AA-	A- major
 4..E-	.
 2c	.
 =6	=6
-16c	B-
-3...d[	.
+16c	B- major
+[3...d	.
 16d]	.
 4B-	.
 =7	=7
-16C	Csus2
-16D	.
-8G	.
+16CLL	C suspended-second
+16DJ	.
+8GJ	.
 4c	.
-8g	.
+8gL	.
 8f	.
 8c	.
-8G	.
+8GJ	.
 =8	=8
-8F	Gsus4/D
+8FL	G suspended-fourth/D
 8C	.
 8GG	.
-8FF	.
-8CC	.
+8FFJ	.
+8CCL	.
 8GG	.
 8D	.
-8E-	.
+8E-J	.
 =9	=9
-2E-	E-maj7
-4f	E-
+2E-	E- major-seventh
+4f	E- major
 4g	.
 =10	=10
-4b-	Fadd(2,3,7)
+4b-	F other-2,3,7
 8a-	.
 4g	.
 4a-	.
-8g[	.
+[8g	.
 =11	=11
-8g]	Cm
+8gL]	C minor
 8C	.
-8a-	.
+8a-J	.
 4g	.
-8C	.
+8CL	.
 8a-	.
-8g[	.
+[8gJ	.
 =12	=12
-8g]	B-
+8gL]	B- major
 8BB-	.
-8g	.
+8gJ	.
 4f	.
 8BB-	.
-4e-[	.
+[4e-	.
 =13	=13
-2.e-]	A-
-8e-	.
-8f[	.
+2.e-]	A- major
+8e-L	.
+[8fJ	.
 =14	=14
-4f]	B-
+4f]	B- major
 8g	.
 4f	.
 8e-	.
 4e-	.
 =15	=15
-1e-	E-
+1e-	E- major
 ==	==
 *-	*-

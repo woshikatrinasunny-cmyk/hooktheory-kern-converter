@@ -15,24 +15,24 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4B-	B-m
-8B-	.
-8B-	.
+4B-	B- minor
+8B-L	.
+8B-J	.
 4.r	.
 8B-	.
 =2	=2
 4B-	.
-8B-	.
-8B-	.
+8B-L	.
+8B-J	.
 2r	.
 =3	=3
-4c	A-
+4c	A- major
 4c	.
 4c	.
-8A-	.
-8A-	.
+8A-L	.
+8A-J	.
 =4	=4
-8B-	B-m
+8B-	B- minor
 4B-	.
 4.B-	.
 8r	.
@@ -44,43 +44,43 @@
 4r	.
 =6	=6
 4B-	.
-8B-	.
-8B-	.
+8B-L	.
+8B-J	.
 2r	.
 =7	=7
-4c	A-
+4c	A- major
 8c	.
 4.c	.
 4r	.
 =8	=8
-4B-	B-m
-8B-	.
-8B-	.
+4B-	B- minor
+8B-L	.
+8B-J	.
 4.r	.
 8f	.
 =9	=9
-4f	B-m
-8f	.
-8f	.
+4f	B- minor
+8fL	.
+8fJ	.
 4en	.
 8r	.
 8f	.
 =10	=10
-8f	.
-8f	.
+8fL	.
+8fJ	.
 8r	.
 4.f	.
 4r	.
 =11	=11
-8e-	A-
+8e-L	A- major
 8e-	.
 8e-	.
-8e-	.
+8e-J	.
 4e-	.
-8d-	.
-8e-	.
+8d-L	.
+8e-J	.
 =12	=12
-8f	B-m
+8f	B- minor
 4f	.
 4.f	.
 8r	.
@@ -93,33 +93,33 @@
 8B-	.
 =14	=14
 4B-	.
-8B-	.
-8B-	.
+8B-L	.
+8B-J	.
 4.r	.
 8B-	.
 =15	=15
-8c	A-
+8cL	A- major
 8c	.
 8c	.
-8c	.
+8cJ	.
 4c	.
 4B-	.
 =16	=16
-8c	.
-8c	.
+8cL	.
+8cJ	.
 4c	.
 4c	.
 4B-	.
 =17	=17
-1e-	G-
+1e-	G- major
 =18	=18
-1d-	D-/F
+1d-	D- major/F
 =19	=19
-1f	D-
+1f	D- major
 =20	=20
-1e-	A-/E-
+1e-	A- major/E-
 =21	=21
-4b-	B-m
+4b-	B- minor
 2.r	.
 =22	=22
 4.cc	.

@@ -16,119 +16,119 @@
 *B-:	*
 *M6/4	*
 =1	=1
-2.r	B-
+2.r	B- major
 4dd	.
-16ee-	.
-16dd	.
-4.cc	A-
+16ee-LL	.
+16ddJJ	.
+4.cc	A- major
 =2	=2
 2r	.
-8a-	.
-8b-	.
-4g	E-/G
-8f	A-
+8a-L	.
+8b-J	.
+4g	E- major/G
+8f	A- major
 8r	.
-8e-	A-
-8f	Adim
+8e-L	A- major
+8fJ	A diminished
 =3	=3
-4.f	B-
+4.f	B- major
 4.r	.
 4B-	.
-16Bn	.
-16B-	.
-4.A-	A-
+16BnLL	.
+16B-JJ	.
+4.A-	A- major
 =4	=4
 4r	.
-8r	A-/E-
+8r	A- major/E-
 8r	.
-8d	B-/D
-8c	A-/C
-8B-	A-
-8c	.
+8dL	B- major/D
+8cJ	A- major/C
+8B-L	A- major
+8cJ	.
 8G	.
 4.r	.
 =5	=5
-2.r	B-
-8d[	B-
-8d]	B-/F
-16e-	B-
-16d	.
-4.c	A-
+2.r	B- major
+[8dL	B- major
+8dJ]	B- major/F
+16e-LL	B- major
+16dJJ	.
+4.c	A- major
 =6	=6
 2r	.
-8a-	.
-8b-	A-/E-
-4g	B-11
-8f	Bdim
+8a-L	.
+8b-J	A- major/E-
+4g	B- dominant-11th
+8f	B diminished
 8r	.
-8d-	.
-8c	.
+8d-L	.
+8cJ	.
 =7	=7
-8B-	B-
-8c	.
+8B-L	B- major
+8cJ	.
 2B-	.
 8r	.
-8r	B-
-8r	B-7/A-
-4.r	G-add(6,7,11)
+8r	B- major
+8r	B- dominant/A-
+4.r	G- other-6,7,11
 =8	=8
 4r	.
-8r	G-maj7sus2
+8r	G- major-seventh-suspended-second
 4.r	.
-2e-	G-maj9
-8d-	.
-8c	.
+2e-	G- major-ninth
+8d-L	.
+8cJ	.
 =9	=9
 2.G	.
-4een	C
-16ff	.
-16een	.
-4.dd	B-
+4een	C major
+16ffLL	.
+16eenJJ	.
+4.dd	B- major
 =10	=10
 2r	.
-8B-	.
-8c	.
-4an	F/A
-8g	B-
+8B-L	.
+8cJ	.
+4an	F major/A
+8g	B- major
 8r	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 =11	=11
-2.g	C
+2.g	C major
 4cc	.
-16dd-	.
-16cc	.
-4.b-	B-
+16dd-LL	.
+16ccJJ	.
+4.b-	B- major
 =12	=12
 4.r	.
-8f	B-
-8en	Cm11
-8c	F/A
-8An	F/A
-8d	B-
-2an	B-
+8f	B- major
+8enL	C minor-11th
+8cJ	F major/A
+8AnL	F major/A
+8dJ	B- major
+2an	B- major
 =13	=13
-8g	C
+8g	C major
 3...r	.
 4een	.
-16ff	.
-16een	.
-4.dd	B-
+16ffLL	.
+16eenJJ	.
+4.dd	B- major
 =14	=14
 2r	.
-8c	.
-8cc	B-
-4an	Cm11
-8g	F/A
+8cL	.
+8ccJ	B- major
+4an	C minor-11th
+8g	F major/A
 8r	.
-8f	.
-8en	.
+8fL	.
+8enJ	.
 =15	=15
-8d	Dm
-8en	.
+8dL	D minor
+8enJ	.
 2d	.
 4.r	.
-4.r	Dm11
+4.r	D minor-11th
 =16	=16
 1.r	.
 ==	==

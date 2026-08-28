@@ -15,12 +15,12 @@
 *d:	*
 *M4/4	*
 =1	=1
-4a	Dm
+4a	D minor
 4ff	.
-8ee[	.
-8ee]	C
-8ff[	.
-8ff]	Dm
+[8eeL	.
+8ee]	C major
+[8ff	.
+8ffJ]	D minor
 =2	=2
 8ee	.
 4ff	.
@@ -29,10 +29,10 @@
 =3	=3
 4a	.
 4ff	.
-8ee[	.
-8ee]	C
-8ff[	.
-8ff]	Dm
+[8eeL	.
+8ee]	C major
+[8ff	.
+8ffJ]	D minor
 =4	=4
 8ee	.
 4ff	.
@@ -40,10 +40,10 @@
 =5	=5
 4a	.
 4ff	.
-8ee[	.
-8ee]	C
-8ff[	.
-8ff]	Dm
+[8eeL	.
+8ee]	C major
+[8ff	.
+8ffJ]	D minor
 =6	=6
 8ee	.
 4ff	.
@@ -52,17 +52,17 @@
 =7	=7
 4a	.
 4ff	.
-8ee[	.
-8ee]	C
-8ff[	.
-8ff]	Dm
+[8eeL	.
+8ee]	C major
+[8ff	.
+8ffJ]	D minor
 =8	=8
 8ee	.
 4ff	.
 8ee	.
-8ff	.
+8ffL	.
 8aa	.
 8aa	.
-8aa	.
+8aaJ	.
 ==	==
 *-	*-

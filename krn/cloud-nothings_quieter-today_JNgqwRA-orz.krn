@@ -16,7 +16,7 @@
 *A:	*
 *M4/4	*
 =1	=1
-4b	G
+4b	G major
 4dd	.
 4b	.
 4a	.
@@ -26,13 +26,13 @@
 4b	.
 4a	.
 =3	=3
-2b	Bm
+2b	B minor
 2a	.
 =4	=4
-2f#	Bm7/A
+2f#	B minor-seventh/A
 2a	.
 =5	=5
-4b	G
+4b	G major
 4dd	.
 4b	.
 4a	.
@@ -42,13 +42,13 @@
 4b	.
 4a	.
 =7	=7
-2b	Bm
+2b	B minor
 2a	.
 =8	=8
-2f#	Bm7/A
+2f#	B minor-seventh/A
 2a	.
 =9	=9
-4b	G
+4b	G major
 4dd	.
 4b	.
 4a	.
@@ -58,13 +58,13 @@
 4b	.
 4a	.
 =11	=11
-2b	Bm
+2b	B minor
 2b	.
 =12	=12
-2cc#	Bm7/A
+2cc#	B minor-seventh/A
 2dd	.
 =13	=13
-4b	G
+4b	G major
 4dd	.
 4b	.
 4a	.
@@ -74,7 +74,7 @@
 4b	.
 4a	.
 =15	=15
-2b	Bm
+2b	B minor
 2b	.
 =16	=16
 2cc#	.

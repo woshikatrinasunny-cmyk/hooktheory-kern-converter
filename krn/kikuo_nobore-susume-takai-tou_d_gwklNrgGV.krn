@@ -16,72 +16,72 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8r	C#m7
-8g#	.
-8c#	C#m7/G#
+8r	C# minor-seventh
+8g#L	.
+8c#	C# minor-seventh/G#
+8c#J	.
+8c#L	C# minor-seventh
 8c#	.
-8c#	C#m7
-8c#	.
-8c#	C#m7/G#
-8c#	.
+8c#	C# minor-seventh/G#
+8c#J	.
 =2	=2
-8c#	C#m7
+8c#L	C# minor-seventh
 8g#	.
-8g#	C#m7/G#
-8g#	.
-8.c#[	C#m7
-6...c#]	C#m7/G#
+8g#	C# minor-seventh/G#
+8g#J	.
+[8.c#	C# minor-seventh
+6...c#]	C# minor-seventh/G#
 =3	=3
-8c#	C#m7
+8c#L	C# minor-seventh
 8g#	.
-8g#	C#m7/G#
+8g#	C# minor-seventh/G#
+8g#J	.
+8g#L	C# minor-seventh
 8g#	.
-8g#	C#m7
-8g#	.
-8g#	C#m7/G#
-8g#	.
+8g#	C# minor-seventh/G#
+8g#J	.
 =4	=4
-8b	C#m
+8bL	C# minor
 8a	.
 8g#	.
-8a	.
-4g#[	E/G#
-4g#]	G#/C
+8aJ	.
+[4g#	E major/G#
+4g#]	G# major/C
 =5	=5
-8r	Amaj7
+8r	A major-seventh
+8aL	.
 8a	.
-8a	.
-8cc#	.
-8b	Bsus4
+8cc#J	.
+8bL	B suspended-fourth
 8b	.
 8a	.
-8a	.
+8aJ	.
 =6	=6
-8g#	Esus4
+8g#L	E suspended-fourth
 8a	.
 8g#	.
-8f#	.
-8e	C7/G
+8f#J	.
+8eL	C dominant/G
 8f#	.
 8gn	.
-8gn	.
+8gnJ	.
 =7	=7
-8r	G#add(4,7,8,10)
+8r	G# other-4,7,8,10
+8g#L	.
 8g#	.
-8g#	.
-8g#	.
-8a	Amaj7
+8g#J	.
+8aL	A major-seventh
 8g#	.
 8f#	.
-8a	.
+8aJ	.
 =8	=8
-8g#	G#7
+8g#L	G# dominant
 8a	.
-8g#	A
-8a	.
-8g#	G#7
+8g#	A major
+8aJ	.
+8g#	G# dominant
 8r	.
-8c#	.
-8c#	.
+8c#L	.
+8c#J	.
 ==	==
 *-	*-

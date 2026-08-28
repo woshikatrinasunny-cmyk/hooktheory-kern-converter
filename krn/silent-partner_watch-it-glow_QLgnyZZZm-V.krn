@@ -16,76 +16,76 @@
 *E:	*
 *M4/4	*
 =1	=1
-8cc#	Aadd(2,4,7)
+8cc#L	A other-2,4,7
 8cc#	.
 8cc#	.
-8dd#	E
-8dd#	.
+8dd#J	E major
+8dd#L	.
 8ee	.
 8ee	.
-8dd#	B
+8dd#J	B major
 =2	=2
+8dd#L	.
 8dd#	.
-8dd#	.
 8cc#	.
-8cc#	.
-8cc#	.
+8cc#J	.
+8cc#L	.
 8b	.
 8b	.
-8b	.
+8bJ	.
 =3	=3
-8cc#	Aadd(2,4,7)
+8cc#L	A other-2,4,7
 8cc#	.
 8cc#	.
-8dd#	E
-8dd#	.
+8dd#J	E major
+8dd#L	.
 8ee	.
 8ee	.
-8dd#	B
+8dd#J	B major
 =4	=4
+8dd#L	.
 8dd#	.
-8dd#	.
 8ff#	.
-8ff#	.
-8ff#	.
+8ff#J	.
+8ff#L	.
 8cc#	.
-8b	.
+8bJ	.
 8r	.
 =5	=5
-8cc#	Aadd(2,4,7)
+8cc#L	A other-2,4,7
 8cc#	.
 8cc#	.
-8dd#	E
-8dd#	.
+8dd#J	E major
+8dd#L	.
 8ee	.
 8ee	.
-8dd#	B
+8dd#J	B major
 =6	=6
+8dd#L	.
 8dd#	.
-8dd#	.
 8cc#	.
-8cc#	.
-8cc#	.
+8cc#J	.
+8cc#L	.
 8b	.
 8b	.
-8b	.
+8bJ	.
 =7	=7
-8cc#	Aadd(2,4,7)
+8cc#L	A other-2,4,7
 8cc#	.
 8cc#	.
-8dd#	E
-8dd#	.
+8dd#J	E major
+8dd#L	.
 8ee	.
 8ee	.
-8dd#	B
+8dd#J	B major
 =8	=8
+8dd#L	.
 8dd#	.
-8dd#	.
 8ff#	.
-8ff#	.
-8ff#	.
+8ff#J	.
+8ff#L	.
 8cc#	.
-8b	.
+8bJ	.
 8r	.
 ==	==
 *-	*-

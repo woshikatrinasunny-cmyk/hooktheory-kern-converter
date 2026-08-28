@@ -16,15 +16,15 @@
 *G:	*
 *M4/4	*
 =1	=1
-1G	G
+1G	G major
 =2	=2
 1g	.
 =3	=3
-1f#	Gmaj7
+1f#	G major-seventh
 =4	=4
 1B	.
 =5	=5
-1f#	Em7
+1f#	E minor-seventh
 =6	=6
 1g	.
 =7	=7
@@ -32,7 +32,7 @@
 =8	=8
 1b	.
 =9	=9
-1f#	Cmaj7
+1f#	C major-seventh
 =10	=10
 1g	.
 =11	=11
@@ -40,15 +40,15 @@
 =12	=12
 1e	.
 =13	=13
-1c	Am7
+1c	A minor-seventh
 =14	=14
 1e	.
 =15	=15
-1g	Am9
+1g	A minor-ninth
 =16	=16
-1dd	Am11
+1dd	A minor-11th
 =17	=17
-1dd	D#maj7
+1dd	D# major-seventh
 =18	=18
 1g	.
 =19	=19
@@ -56,7 +56,7 @@
 =20	=20
 1d#	.
 =21	=21
-1a#	Dm7
+1a#	D minor-seventh
 =22	=22
 1a	.
 =23	=23
@@ -64,7 +64,7 @@
 =24	=24
 1fn	.
 =25	=25
-1a#	C#maj7
+1a#	C# major-seventh
 =26	=26
 1g#	.
 =27	=27
@@ -72,21 +72,21 @@
 =28	=28
 1fn	.
 =29	=29
-1d#	Bmaj7
+1d#	B major-seventh
 =30	=30
 1a#	.
 =31	=31
-1a	A#maj7
+1a	A# major-seventh
 =32	=32
 1d	.
 =33	=33
-1e	Amaj7
+1e	A major-seventh
 =34	=34
 1f#	.
 =35	=35
 1g#	.
 =36	=36
-4.g	G#maj7
+4.g	G# major-seventh
 4.c	.
 4G#	.
 ==	==

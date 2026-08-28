@@ -16,102 +16,102 @@
 *d:	*
 *M6/8	*
 =1	=1
-4.dd	D
-8a	D/G-
+4.dd	D major
+8a	D major/G-
 8r	.
-8cc	D7/A
+8cc	D dominant/A
 =2	=2
-4b-[	Gm
-8b-]	Gm/D
-8g	Gm/B-
+[4b-	G minor
+8b-]	G minor/D
+8g	G minor/B-
 8r	.
-8b-	Gm
+8b-	G minor
 =3	=3
-8a	A/D-
+8a	A major/D-
 8r	.
-8g	A7
-8f	Bm7b5
+8g	A dominant
+8f	B half-diminished
 8r	.
-8e	A/D-
+8e	A major/D-
 =4	=4
-4f[	Dm
-8f]	Dm/A
-8d	Dm/F
+[4f	D minor
+8f]	D minor/A
+8d	D minor/F
 8r	.
-8r	Dm
+8r	D minor
 =5	=5
-4ff[	F/A
-8ff]	F/C
-8cc	F
+[4ff	F major/A
+8ff]	F major/C
+8cc	F major
 8r	.
-8ee-	F7/A
+8ee-	F dominant/A
 =6	=6
-4dd[	B-
-8dd]	B-/F
-8b-	B-/D
+[4dd	B- major
+8dd]	B- major/F
+8b-	B- major/D
 8r	.
-8dd	B-
+8dd	B- major
 =7	=7
-8cc	F/C
+8cc	F major/C
 8r	.
-8b-	C7
-8a	F/C
+8b-	C dominant
+8a	F major/C
 8r	.
-8g	C
+8g	C major
 =8	=8
-4a[	F
-8a]	F/A
-8f	F/C
+[4a	F major
+8a]	F major/A
+8f	F major/C
 8r	.
-8r	F
+8r	F major
 =9	=9
 *k[f#c#]	*
 *D:	*
-4aa[	A
-8aa]	A/E
-8ee	A/C#
+[4aa	A major
+8aa]	A major/E
+8ee	A major/C#
 8r	.
-8gg	A7
+8gg	A dominant
 =10	=10
-4ff#[	D
-8ff#]	D/A
-8dd	D/F#
+[4ff#	D major
+8ff#]	D major/A
+8dd	D major/F#
 8r	.
-8ff#	D
+8ff#	D major
 =11	=11
-8ee	A/E
+8ee	A major/E
 8r	.
-8dd	E7
-8cc#	A/E
+8dd	E dominant
+8cc#	A major/E
 8r	.
-8b	E
+8b	E major
 =12	=12
-4cc#[	A
-8cc#]	A/E
-8a	A/C#
+[4cc#	A major
+8cc#]	A major/E
+8a	A major/C#
 8r	.
-8r	A
+8r	A major
 =13	=13
-4aa[	.
-8aa]	A/E
-8ee	A/C#
+[4aa	.
+8aa]	A major/E
+8ee	A major/C#
 8r	.
-8gg	A7
+8gg	A dominant
 =14	=14
-4ff#[	D
-8ff#]	D/A
-8dd	D/F#
+[4ff#	D major
+8ff#]	D major/A
+8dd	D major/F#
 8r	.
-8ff#	D
+8ff#	D major
 =15	=15
-8ee	A/E
+8ee	A major/E
 8r	.
-8dd	E7
-8cc#	A/E
+8dd	E dominant
+8cc#	A major/E
 8r	.
-8b	E
+8b	E major
 =16	=16
-8a	A
+8a	A major
 8r	.
 8GG	.
 8FFn	.

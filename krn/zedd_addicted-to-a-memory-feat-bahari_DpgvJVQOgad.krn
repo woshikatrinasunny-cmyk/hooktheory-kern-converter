@@ -16,100 +16,100 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4r	C#
+4r	C# major
 8g#	.
 4.c#	.
-8g#	.
-8c#[	.
+8g#L	.
+[8c#J	.
 =2	=2
-4c#]	Badd(2,4,7)
+4c#]	B other-2,4,7
 8r	.
 8c#	.
-8f#	.
+8f#L	.
 8f#	.
 8g#	.
-8f#[	.
+[8f#J	.
 =3	=3
-4f#]	F#m7
+4f#]	F# minor-seventh
 8e	.
 4.c#	.
 4r	.
 =4	=4
 2r	.
-8c#	G#m7
+8c#	G# minor-seventh
 4d#	.
 8d#	.
 =5	=5
-4e	Amaj7
+4e	A major-seventh
 8c#	.
 4e	.
-8e	.
+8eL	.
 8g#	.
-8f#[	.
+[8f#J	.
 =6	=6
-8f#]	C#m7/E
+8f#L]	C# minor-seventh/E
 8e	.
-8c#	.
+8c#J	.
 4c#	.
-8e	.
+8eL	.
 8g#	.
-8f#[	.
+[8f#J	.
 =7	=7
-2f#]	F#m
+2f#]	F# minor
 8r	.
 8G#	.
 4G#	.
 =8	=8
-4d#	G#m
-2.e	A
+4d#	G# minor
+2.e	A major
 =9	=9
-4fn	C#
+4fn	C# major
 8g#	.
 4.c#	.
-8g#	C#maj7/C
-8c#[	.
+8g#L	C# major-seventh/C
+[8c#J	.
 =10	=10
-4c#]	Badd(2,4,7)
+4c#]	B other-2,4,7
 8r	.
 8c#	.
-8f#	C#/F
+8f#L	C# major/F
 8f#	.
 8g#	.
-8f#[	.
+[8f#J	.
 =11	=11
-4f#]	F#m7
+4f#]	F# minor-seventh
 8e	.
 4.c#	.
 4r	.
 =12	=12
 2r	.
-8c#	G#m7
+8c#	G# minor-seventh
 4d#	.
 8d#	.
 =13	=13
-4e	Amaj7
+4e	A major-seventh
 8c#	.
 4e	.
-8e	.
+8eL	.
 8g#	.
-8f#[	.
+[8f#J	.
 =14	=14
-8f#]	C#m7/E
+8f#L]	C# minor-seventh/E
 8e	.
-8c#	.
+8c#J	.
 4c#	.
-8e	.
+8eL	.
 8g#	.
-8f#[	.
+[8f#J	.
 =15	=15
-8f#]	F#m
+8f#L]	F# minor
 8e	.
-8c#	.
+8c#J	.
 4c#	.
 4g#	.
 8d#	.
 =16	=16
-4d#	G#m
-2.e	A
+4d#	G# minor
+2.e	A major
 ==	==
 *-	*-

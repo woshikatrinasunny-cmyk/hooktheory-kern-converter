@@ -16,26 +16,26 @@
 *B-:	*
 *M6/4	*
 =1	=1
-1b-[	B-
+[1b-	B- major
 4b-]	.
-8B-	.
-16B-	.
-16B-	.
+8B-L	.
+16B-L	.
+16B-JJ	.
 =2	=2
-1B-[	.
+[1B-	.
 4B-]	.
-8B-	.
-16B-	.
-16B-	.
+8B-L	.
+16B-L	.
+16B-JJ	.
 =3	=3
-4B-	B-sus4
+4B-	B- suspended-fourth
 4F	.
 4e-	.
 4f	.
 4e-	.
 4ee-	.
 =4	=4
-4ff	B-7sus4
+4ff	B- dominant-seventh-suspended-fourth
 4ee-	.
 4e-	.
 4f	.
@@ -48,10 +48,10 @@
 2.a-	.
 =6	=6
 4ff	.
-8b-	.
-8b-	.
+8b-L	.
+8b-J	.
 4b-	.
-4f	F
+4f	F major
 4f	.
 4f	.
 ==	==

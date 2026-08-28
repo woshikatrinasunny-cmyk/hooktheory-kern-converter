@@ -16,28 +16,28 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8a#	F#
+8a#	F# major
 4a#	.
 4a#	.
 4.r	.
 =2	=2
-1r	F#
+1r	F# major
 =3	=3
-8a#	D#m
+8a#	D# minor
 4a#	.
 4a#	.
 4.r	.
 =4	=4
-1r	D#m
+1r	D# minor
 =5	=5
-8b	B
+8b	B major
 4b	.
 4b	.
 4.r	.
 =6	=6
-1r	B
+1r	B major
 =7	=7
-4cc#	C#7
+4cc#	C# dominant
 4cc#	.
 4ddn	.
 4ddn	.
@@ -49,12 +49,12 @@
 2ddn	.
 8b	.
 4b	.
-8cc#[	.
+[8cc#	.
 =10	=10
 4.cc#]	.
 8f#	.
-4a#	F#
-8b	.
-8b	.
+4a#	F# major
+8bL	.
+8bJ	.
 ==	==
 *-	*-

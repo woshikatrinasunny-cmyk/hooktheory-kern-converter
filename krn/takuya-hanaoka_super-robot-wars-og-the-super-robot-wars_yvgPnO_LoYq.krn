@@ -16,32 +16,32 @@
 *c:	*
 *M6/4	*
 =1	=1
-1ee-[	Cm
-8ee-]	.
-8ee-	.
-8ee-	.
-8ee-	.
+[1ee-	C minor
+8ee-L]	.
+8ee-J	.
+8ee-L	.
+8ee-J	.
 =2	=2
-2.ff[	B-/D
-4.ff]	B-7/D
+[2.ff	B- major/D
+4.ff]	B- dominant/D
 8ff	.
-8ff	.
-8ff	.
+8ffL	.
+8ffJ	.
 =3	=3
-2aa-	E-/G
-8gg	.
-8ff	.
+2aa-	E- major/G
+8ggL	.
+8ffJ	.
 2gg	.
-8ff	.
-8ee-	.
+8ffL	.
+8ee-J	.
 =4	=4
-4.dd	Gm7
+4.dd	G minor-seventh
 4.ff	.
 4.bb-	.
 4.ddd	.
 =5	=5
-4.dd	D7/G-
-1cc[	.
+4.dd	D dominant/G-
+[1cc	.
 8cc_	.
 =6	=6
 4.cc]	.
@@ -50,17 +50,17 @@
 4dd	.
 4ee-	.
 =7	=7
-4.cc	B-sus4
-4.b-[	.
-2.b-_	B-m
+4.cc	B- suspended-fourth
+[4.b-	.
+2.b-_	B- minor
 =8	=8
-4.b-]	B-sus2
-4.b-	B-m
+4.b-]	B- suspended-second
+4.b-	B- minor
 4.aa-	.
 4.gg-	.
 =9	=9
-4.ff	G-
-1gg-[	.
+4.ff	G- major
+[1gg-	.
 8gg-_	.
 =10	=10
 4.gg-]	.
@@ -69,11 +69,11 @@
 4aa-	.
 4bb-	.
 =11	=11
-2ddd-	Bsus4
-8bbn	.
-8bb-	.
-4.bbn[	.
-4.bbn_	B
+2ddd-	B suspended-fourth
+8bbnL	.
+8bb-J	.
+[4.bbn	.
+4.bbn_	B major
 =12	=12
 4.bbn]	.
 4.bn	.
@@ -81,14 +81,14 @@
 4e-	.
 4g-	.
 =13	=13
-4a-	G-/D-
+4a-	G- major/D-
 8g-	.
 2.g-	.
 8g-	.
-8a-	.
-8g-	.
+8a-L	.
+8g-J	.
 =14	=14
-2.g-	D-sus4
-2.f	D-
+2.g-	D- suspended-fourth
+2.f	D- major
 ==	==
 *-	*-

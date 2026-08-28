@@ -16,122 +16,122 @@
 *e:	*
 *M4/4	*
 =1	=1
-4c#	F#7
-8eee	.
-8ccc#	.
+4c#	F# dominant
+8eeeL	.
+8ccc#J	.
 4eee	.
-4ddd#	B
+4ddd#	B major
 =2	=2
-4r	E7
-8ddd	.
-8bb	.
+4r	E dominant
+8dddL	.
+8bbJ	.
 4ddd	.
-4ccc#	A
+4ccc#	A major
 =3	=3
-4r	D7
-8ccc	.
-8aa	.
+4r	D dominant
+8cccL	.
+8aaJ	.
 4ccc	.
-4bb[	G
+[4bb	G major
 =4	=4
-8bb]	Gaug
+8bb]	G augmented
 8r	.
-16bb	B7/F#
+16bbLL	B dominant/F#
 16ddd#	.
 16fff#	.
-16bbb	.
-8eee	Em
+16bbbJJ	.
+8eee	E minor
 8r	.
-4bb	B
+4bb	B major
 =5	=5
-8cc#	C#m7b5/B
+8cc#L	C# half-diminished/B
 8ccc#	.
-8dd#	B7
-8ddd#	.
-8ee	C#m7b5/B
+8dd#	B dominant
+8ddd#J	.
+8eeL	C# half-diminished/B
 8eee	.
-8ff#	B7
-8fff#	.
+8ff#	B dominant
+8fff#J	.
 =6	=6
-8gg	Em/B
+8ggL	E minor/B
 8ggg	.
-8ee	C#m7b5/B
-8eee	.
-8dd#	B
-8ddd#	.
-4r	B7/D#
+8ee	C# half-diminished/B
+8eeeJ	.
+8dd#L	B major
+8ddd#J	.
+4r	B dominant/D#
 =7	=7
-16r	Esus4
-8.r	Em
+16r	E suspended-fourth
+8.r	E minor
 4d#	.
 4e	.
-4r	A7/C#
+4r	A dominant/C#
 =8	=8
-16r	Dsus4
-8.r	D
+16r	D suspended-fourth
+8.r	D major
 4c#	.
 4d	.
-4bb	B
+4bb	B major
 =9	=9
-8cc#	C#m7b5/B
+8cc#L	C# half-diminished/B
 8ccc#	.
-8dd#	B7
-8ddd#	.
-8ee	C#m7b5/B
+8dd#	B dominant
+8ddd#J	.
+8eeL	C# half-diminished/B
 8eee	.
-8ff#	B7
-8fff#	.
+8ff#	B dominant
+8fff#J	.
 =10	=10
-8gg	Em/B
+8ggL	E minor/B
 8ggg	.
-8ee	C#m7b5/B
-8eee	.
-8dd#	B
-8ddd#	.
-4r	B7/D#
+8ee	C# half-diminished/B
+8eeeJ	.
+8dd#L	B major
+8ddd#J	.
+4r	B dominant/D#
 =11	=11
-16r	Esus4
-8.r	Em
+16r	E suspended-fourth
+8.r	E minor
 4d#	.
 4e	.
-4r	A7/C#
+4r	A dominant/C#
 =12	=12
-16r	Dsus4
-8.r	D
+16r	D suspended-fourth
+8.r	D major
 4c#	.
 4d	.
-4bb	B
+4bb	B major
 =13	=13
-8cc#	C#m7b5/B
+8cc#L	C# half-diminished/B
 8ccc#	.
-8dd#	B7
-8ddd#	.
-8ee	C#m7b5/B
-8eee	.
-4bb	B
+8dd#	B dominant
+8ddd#J	.
+8eeL	C# half-diminished/B
+8eeeJ	.
+4bb	B major
 =14	=14
-8dd#	B7
+8dd#L	B dominant
 8ddd#	.
-8ee	C#m7b5/B
-8eee	.
-8ff#	B7
-8fff#	.
-4bb	B
+8ee	C# half-diminished/B
+8eeeJ	.
+8ff#L	B dominant
+8fff#J	.
+4bb	B major
 =15	=15
-8ee	C#m7b5/B
+8eeL	C# half-diminished/B
 8eee	.
-8ff#	B7
-8fff#	.
-8gg	Em/B
+8ff#	B dominant
+8fff#J	.
+8ggL	E minor/B
 8ggg	.
 8bb	.
-8ggg	.
+8gggJ	.
 =16	=16
-8aaa	Badd(1,3,5,7,10)
+8aaaL	B other-1,3,5,7,10
 8aaa	.
 8bb	.
-8aaa	.
-4bbb	B
-4r	D7
+8aaaJ	.
+4bbb	B major
+4r	D dominant
 ==	==
 *-	*-

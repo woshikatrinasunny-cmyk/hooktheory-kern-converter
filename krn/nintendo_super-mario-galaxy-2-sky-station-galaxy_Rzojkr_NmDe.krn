@@ -16,143 +16,143 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4r	A-
+4r	A- major
 4a-	.
-8.g	.
+8.gL	.
 8.e-	.
-8d[	B-7/A-
+[8dJ	B- dominant/A-
 =2	=2
 6...d]	.
 16r	.
-2B-[	B-
+[2B-	B- major
 16B-]	.
 16r	.
 =3	=3
-4r	B
+4r	B major
 4bn	.
-8.b-	.
+8.b-L	.
 8.g-	.
-8f[	D-7/B
+[8fJ	D- dominant/B
 =4	=4
 6...f]	.
 16r	.
-2d-[	D-
+[2d-	D- major
 16d-]	.
 16r	.
 =5	=5
-4.r	E-
-3...r	E-
+4.r	E- major
+3...r	E- major
 =6	=6
-4.r	E-m11
-3...r	E-m11
+4.r	E- minor-11th
+3...r	E- minor-11th
 =7	=7
-4.r	B/E-
-3...r	B/E-
+4.r	B major/E-
+3...r	B major/E-
 =8	=8
-4.r	E-m11
-4.r	E-m11
+4.r	E- minor-11th
+4.r	E- minor-11th
 4B-	.
 =9	=9
-4.b-[	E-
-8.b-]	E-
+[4.b-	E- major
+8.b-]	E- major
 16r	.
-8an	.
+8anL	.
 8b-	.
-8ff[	.
+[8ffJ	.
 =10	=10
-8.ff]	A-m/E-
+8.ff]	A- minor/E-
 16r	.
-8ee-[	.
-16ee-]	A-m/E-
+[8ee-L	.
+16ee-Jk]	A- minor/E-
 16r	.
 8.dd	.
 16r	.
 8.ee-	.
 16r	.
 =11	=11
-4.b-[	E-
-8b-]	E-
+[4.b-	E- major
+8b-]	E- major
 8r	.
-8g	.
+8gL	.
 8a-	.
-8b-[	.
+[8b-J	.
 =12	=12
-4.b-_	E-
-4b-]	E-
-8r	Fm11
+4.b-_	E- major
+4b-]	E- major
+8r	F minor-11th
 4B-	.
 =13	=13
-4.b-[	E-/G
-8.b-]	E-/G
+[4.b-	E- major/G
+8.b-]	E- major/G
 16r	.
-8an	.
+8anL	.
 8b-	.
-8ff[	.
+[8ffJ	.
 =14	=14
-8.ff]	E-dim/G-
+8.ff]	E- diminished/G-
 16r	.
-8ee-[	.
-8ee-]	E-dim/G-
+[8ee-L	.
+8ee-J]	E- diminished/G-
 4dd	.
 4ee-	.
 =15	=15
-4.bb-[	Fm7
-4bb-]	Fm7
-8aa-	.
+[4.bb-	F minor-seventh
+4bb-]	F minor-seventh
+8aa-L	.
 8gg	.
-8ff[	.
+[8ffJ	.
 =16	=16
-4.ff_	B-7
-4.ff]	B-7
+4.ff_	B- dominant
+4.ff]	B- dominant
 4B-	.
 =17	=17
-4.b-[	E-
-8.b-]	E-
+[4.b-	E- major
+8.b-]	E- major
 16r	.
-8an	.
+8anL	.
 8b-	.
-8ff[	.
+[8ffJ	.
 =18	=18
-4ff]	A-m
-8ee-[	.
-8ee-]	A-m
+4ff]	A- minor
+[8ee-L	.
+8ee-J]	A- minor
 4dd	.
 4ee-	.
 =19	=19
-4.b-[	Gm7
-4b-]	Gm7
-8g	.
+[4.b-	G minor-seventh
+4b-]	G minor-seventh
+8gL	.
 8a-	.
-8b-[	.
+[8b-J	.
 =20	=20
-8.b-]	C7
+8.b-]	C dominant
 16r	.
-8dd-[	.
-8dd-]	C7
+[8dd-L	.
+8dd-J]	C dominant
 4cc	.
 4g	.
 =21	=21
-4a-	Fm7
+4a-	F minor-seventh
 8r	.
-2ee-	Fm7
+2ee-	F minor-seventh
 8r	.
 =22	=22
-4b-	Gm7
+4b-	G minor-seventh
 8r	.
-2ff	Gm7
+2ff	G minor-seventh
 8r	.
 =23	=23
-4bn	A-m7
+4bn	A- minor-seventh
 8r	.
-6...gg-	A-m7
+6...gg-	A- minor-seventh
 16r	.
 4bn	.
 =24	=24
-4dd-	B-m7
+4dd-	B- minor-seventh
 8r	.
-6...aa-	B-m7
+6...aa-	B- minor-seventh
 16r	.
-8aa-	.
-8bb-	.
+8aa-L	.
+8bb-J	.
 ==	==
 *-	*-

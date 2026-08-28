@@ -18,56 +18,56 @@
 =1	=1
 4.r	.
 8e	.
-8a	A
+8aL	A major
 8dd	.
-16cc#	.
-16b	.
-8a	.
+16cc#L	.
+16bJ	.
+8aJ	.
 =2	=2
-8b	C#m/G#
+8bL	C# minor/G#
 8cc#	.
 8a	.
-8e	.
-8a	F#add(3,5,7,10)
+8eJ	.
+8aL	F# other-3,5,7,10
 8ee	.
-16cc#	.
-16b	.
-8a	.
+16cc#L	.
+16bJ	.
+8aJ	.
 =3	=3
-8b	A/E
+8bL	A major/E
 8cc#	.
 8a	.
-8g#	.
-8f#	D
+8g#J	.
+8f#	D major
 4dd	.
 8cc#	.
 =4	=4
-4.b	Eadd(2,4,7)/G#
-16g#	.
-16f#	.
-8e	C#m7
+4.b	E other-2,4,7/G#
+16g#LL	.
+16f#JJ	.
+8e	C# minor-seventh
 4cc#	.
 8b	.
 =5	=5
-4.a	Dadd(2,4,7)
-16f#	.
-16e	.
-8d	Badd(3,5,7,10)
+4.a	D other-2,4,7
+16f#LL	.
+16eJJ	.
+8dL	B other-3,5,7,10
 8.b	.
-8.a	.
+8.aJ	.
 =6	=6
-4a	Esus4
-8g#	E
-8e	.
-8a	A
+4a	E suspended-fourth
+8g#L	E major
+8eJ	.
+8aL	A major
 8dd	.
-16cc#	E/G#
-16b	.
-8a	.
+16cc#L	E major/G#
+16bJ	.
+8aJ	.
 =7	=7
-8b	F#m7
-8cc#	.
-4a	A
+8bL	F# minor-seventh
+8cc#J	.
+4a	A major
 2r	.
 ==	==
 *-	*-

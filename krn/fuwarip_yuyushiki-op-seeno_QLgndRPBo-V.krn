@@ -15,103 +15,103 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.dd	G/B
-4ee	Cadd(2,4,7)
+4.dd	G major/B
+4ee	C other-2,4,7
 4gg	.
-8ff#[	D
+[8ff#	D major
 =2	=2
-8ff#]	.
+8ff#L]	.
 8ee	.
-8ff#[	.
-8ff#]	Em
+[8ff#	.
+8ff#J]	E minor
 4gg	.
 4dd	.
 =3	=3
-4.ddd	G/B
-4ccc	Cadd(2,4,7)
+4.ddd	G major/B
+4ccc	C other-2,4,7
 4bb	.
-8aa[	D
+[8aa	D major
 =4	=4
-8aa]	.
+8aaL]	.
 8bb	.
 8aa	.
-8gg	Em
+8ggJ	E minor
 4gg	.
 4r	.
 =5	=5
-4.dd	G/B
-4ee	Cadd(2,4,7)
+4.dd	G major/B
+4ee	C other-2,4,7
 4gg	.
-8ff#[	D
+[8ff#	D major
 =6	=6
-8ff#]	.
+8ff#L]	.
 8ee	.
-8ff#[	.
-8ff#]	Em
+[8ff#	.
+8ff#J]	E minor
 4gg	.
 4dd	.
 =7	=7
-4.ddd	G/B
-4ccc	Cadd(2,4,7)
+4.ddd	G major/B
+4ccc	C other-2,4,7
 4bb	.
-8aa[	D
+[8aa	D major
 =8	=8
-8aa]	.
+8aaL]	.
 8bb	.
 8aa	.
-8gg	Em
+8ggJ	E minor
 4gg	.
 4dd	.
 =9	=9
-4ddd	G/B
+4ddd	G major/B
 8ddd	.
-4ddd	Cadd(2,4,7)
+4ddd	C other-2,4,7
 4gg	.
-8ddd[	D
+[8ddd	D major
 =10	=10
-8ddd]	.
+8dddL]	.
 8ddd	.
 8ddd	.
-8ddd	Em
+8dddJ	E minor
 4ddd	.
-8bb	.
-8ccc	.
+8bbL	.
+8cccJ	.
 =11	=11
-4ddd	G/B
+4ddd	G major/B
 8ddd	.
-4gg	Cadd(2,4,7)
+4gg	C other-2,4,7
 4gg	.
-8aa[	D
+[8aa	D major
 =12	=12
-8aa]	.
+8aaL]	.
 8bb	.
 8aa	.
-8gg	Em
+8ggJ	E minor
 4bb	.
 4r	.
 =13	=13
-4.dd	G/B
-4ee	Cadd(2,4,7)
+4.dd	G major/B
+4ee	C other-2,4,7
 4gg	.
-8ff#[	D
+[8ff#	D major
 =14	=14
-8ff#]	.
+8ff#L]	.
 8ee	.
-8ff#[	.
-8ff#]	Em
+[8ff#	.
+8ff#J]	E minor
 4gg	.
 4dd	.
 =15	=15
-4.ddd	G/B
-4ccc	Cadd(2,4,7)
+4.ddd	G major/B
+4ccc	C other-2,4,7
 4bb	.
-8aa[	D
+[8aa	D major
 =16	=16
-8aa]	.
+8aaL]	.
 8bb	.
 8aa	.
-8gg	.
-4gg	G
+8ggJ	.
+4gg	G major
 4r	.
 ==	==
 *-	*-

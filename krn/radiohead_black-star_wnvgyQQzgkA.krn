@@ -16,30 +16,30 @@
 *G:	*
 *M4/4	*
 =1	=1
-8dd	G
+8ddL	G major
 8dd	.
 8dd	.
-16dd	.
-16dd[	.
-8dd]	Cadd(2,4,7)
+16ddL	.
+[16ddJJ	.
+8ddL]	C other-2,4,7
 8dd	.
 8dd	.
-8dd	.
+8ddJ	.
 =2	=2
-8dd	G/B
+8dd	G major/B
 4dd	.
-16dd	.
-16dd[	.
-8dd]	D
-16dd	.
+16ddLL	.
+[16ddJJ	.
+8ddL]	D major
+16ddk	.
 8ee	.
-8.ff#	.
+8.ff#J	.
 =3	=3
-8gg	Eadd(2,3,7)
+8gg	E other-2,3,7
 4b	.
 4ff#	.
-16ee	.
-8.b	.
+16eeLK	.
+8.bJ	.
 8r	.
 =4	=4
 1r	.

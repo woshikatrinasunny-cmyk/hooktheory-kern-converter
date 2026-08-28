@@ -16,63 +16,63 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8a	B-
-16b-	.
+8aL	B- major
+16b-k	.
 8b-	.
-16f	.
+16fk	.
+8aJ	.
+16b-LL	.
+[16b-	.
+16b-]	F major
+16fJ	.
 8a	.
-16b-	.
-16b-[	.
-16b-]	F
-16f	.
-8a	.
-16b-	.
-16b-[	.
+16b-L	.
+[16b-JJ	.
 =2	=2
-8b-]	E-
+8b-]	E- major
 8.r	.
-16f	.
+16fLL	.
 16g	.
-16g	.
-8g	.
-8f	.
+16gJJ	.
+8gL	.
+8fJ	.
 4f	.
 =3	=3
-8a	B-
-16b-	.
+8aL	B- major
+16b-k	.
 8b-	.
-16f	.
+16fk	.
+8aJ	.
+16b-LL	.
+[16b-	.
+16b-]	F major
+16fJ	.
 8a	.
-16b-	.
-16b-[	.
-16b-]	F
-16f	.
-8a	.
-16b-	.
-16b-[	.
+16b-L	.
+[16b-JJ	.
 =4	=4
-8b-]	E-
+8b-]	E- major
 4r	.
-16g	.
-16g	.
-8g	.
-8f	.
+16gLL	.
+16gJJ	.
+8gL	.
+8fJ	.
 4f	.
 =5	=5
-8a	B-
-16b-	.
+8aL	B- major
+16b-k	.
 8b-	.
-16f	.
+16fk	.
+8aJ	.
+16b-LL	.
+[16b-	.
+16b-]	F major
+16fJ	.
 8a	.
-16b-	.
-16b-[	.
-16b-]	F
-16f	.
-8a	.
-16b-	.
-16b-[	.
+16b-L	.
+[16b-JJ	.
 =6	=6
-8b-]	E-
+8b-]	E- major
 8r	.
 8dd	.
 4cc	.
@@ -80,28 +80,28 @@
 8r	.
 8b-	.
 =7	=7
-4r	B-
+4r	B- major
 8dd	.
 4cc	.
-8a	F
+8a	F major
 8r	.
 8a	.
 =8	=8
-8g	E-
+8gL	E- major
 8f	.
-8dd	.
+8ddJ	.
 4cc	.
 8a	.
 8r	.
-8b-[	.
+[8b-	.
 =9	=9
-4.b-]	B-
+4.b-]	B- major
 4r	.
-4.r	F
+4.r	F major
 =10	=10
-8r	E-
-8f	.
-8dd	.
+8r	E- major
+8fL	.
+8ddJ	.
 4cc	.
 8a	.
 8r	.

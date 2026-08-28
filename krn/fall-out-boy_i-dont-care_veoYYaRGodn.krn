@@ -15,108 +15,108 @@
 *f#:	*
 *M6/4	*
 =1	=1
-4.aa	F#m
-4.r	F#m
-4.aa	F#m
-4.r	F#m
+4.aa	F# minor
+4.r	F# minor
+4.aa	F# minor
+4.r	F# minor
 =2	=2
-4.aa	A
-4gg#	A
+4.aa	A major
+4gg#	A major
 8ff#	.
-4.ff#	A
-4cc#	A
+4.ff#	A major
+4cc#	A major
 8cc#	.
 =3	=3
-4.ee	D
-4.dd	D
-4.dd	D
-4.cc#	D
+4.ee	D major
+4.dd	D major
+4.dd	D major
+4.cc#	D major
 =4	=4
-4.cc#	Bsus2
-4.b	Bsus2
-4b	Bsus2
-8a[	.
-4a]	Bsus2
+4.cc#	B suspended-second
+4.b	B suspended-second
+4b	B suspended-second
+[8a	.
+4a]	B suspended-second
 8f#	.
 =5	=5
-4.cc#	D
-4cc#	D
-8cc#[	.
-8cc#]	D
+4.cc#	D major
+4cc#	D major
+[8cc#	.
+8cc#]	D major
 4r	.
-4cc#	D
-8cc#[	.
+4cc#	D major
+[8cc#	.
 =6	=6
-4cc#]	Bsus2
-8cc#[	.
-4cc#]	Bsus2
+4cc#]	B suspended-second
+[8cc#	.
+4cc#]	B suspended-second
 8cc#	.
-4.cc#	Bsus2
-4.cc#	Bsus2
+4.cc#	B suspended-second
+4.cc#	B suspended-second
 =7	=7
-4b	F#m
+4b	F# minor
 8a	.
-4b	F#m
+4b	F# minor
 8a	.
-4b	F#m
+4b	F# minor
 8a	.
-4e	A
-8f#[	.
+4e	A major
+[8f#	.
 =8	=8
-4.f#]	Bsus2
-4.r	A
-4.r	Bsus2
-4.ff#	A
+4.f#]	B suspended-second
+4.r	A major
+4.r	B suspended-second
+4.ff#	A major
 =9	=9
-4.aa	F#m
-4.r	F#m
-4.aa	F#m
-4.r	F#m
+4.aa	F# minor
+4.r	F# minor
+4.aa	F# minor
+4.r	F# minor
 =10	=10
-4.aa	A
-4gg#	A
+4.aa	A major
+4gg#	A major
 8ff#	.
-4.ff#	A
-4cc#	A
+4.ff#	A major
+4cc#	A major
 8cc#	.
 =11	=11
-4.ee	D
-4.dd	D
-4.dd	D
-4.cc#	D
+4.ee	D major
+4.dd	D major
+4.dd	D major
+4.cc#	D major
 =12	=12
-4.cc#	Bsus2
-4.b	Bsus2
-4b	Bsus2
-8a[	.
-4a]	Bsus2
+4.cc#	B suspended-second
+4.b	B suspended-second
+4b	B suspended-second
+[8a	.
+4a]	B suspended-second
 8f#	.
 =13	=13
-4.cc#	D
-4cc#	D
-8cc#[	.
-8cc#]	D
+4.cc#	D major
+4cc#	D major
+[8cc#	.
+8cc#]	D major
 4r	.
-4cc#	D
-8cc#[	.
+4cc#	D major
+[8cc#	.
 =14	=14
-4cc#]	Bsus2
-8ff#[	.
-4ff#]	Bsus2
+4cc#]	B suspended-second
+[8ff#	.
+4ff#]	B suspended-second
 8cc#	.
-4b	Bsus2
+4b	B suspended-second
 8a	.
-4.b	Bsus2
+4.b	B suspended-second
 =15	=15
-4b	F#m
+4b	F# minor
 8a	.
-4.f#	F#m
-4.r	F#m
-4.r	A
+4.f#	F# minor
+4.r	F# minor
+4.r	A major
 =16	=16
-4.r	Bsus2
-4.r	A
-4.r	Bsus2
-4.ff#	A
+4.r	B suspended-second
+4.r	A major
+4.r	B suspended-second
+4.ff#	A major
 ==	==
 *-	*-

@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	Am
+4r	A minor
 4a	.
 4e	.
 4a	.
@@ -25,15 +25,15 @@
 4.ee	.
 4cc	.
 =3	=3
-2.ee	F
+2.ee	F major
 4ff	.
 =4	=4
-4.dd	G
+4.dd	G major
 4.cc	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 =5	=5
-4r	Am
+4r	A minor
 4a	.
 4e	.
 4a	.
@@ -42,10 +42,10 @@
 4.ee	.
 4cc	.
 =7	=7
-2.ee	F
+2.ee	F major
 4ff	.
 =8	=8
-4.dd	G
+4.dd	G major
 4.ee	.
 4dd	.
 ==	==

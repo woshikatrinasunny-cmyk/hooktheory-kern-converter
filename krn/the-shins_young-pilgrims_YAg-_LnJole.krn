@@ -16,40 +16,40 @@
 *D:	*
 *M4/4	*
 =1	=1
-8d	D
+8dL	D major
 8A	.
 8f#	.
-8d[	.
-4d]	D/A
+[8dJ	.
+4d]	D major/A
 4r	.
 =2	=2
-2r	A#
-2r	G
+2r	A# major
+2r	G major
 =3	=3
-8d	D
+8dL	D major
 8A	.
 8f#	.
-8d	.
-2A	D/A
+8dJ	.
+2A	D major/A
 =4	=4
-2r	A#
-2r	C
+2r	A# major
+2r	C major
 =5	=5
-8d	D
+8dL	D major
 8A	.
 8f#	.
-8d	.
-2A	D/A
+8dJ	.
+2A	D major/A
 =6	=6
-8A	F
+8AL	F major
 8Fn	.
-8cn	.
+8cnJ	.
 4.A	.
 4r	.
 =7	=7
-8G	A7
+8GL	A dominant
 8E	.
-8c#	.
+8c#J	.
 4.A	.
 4r	.
 ==	==

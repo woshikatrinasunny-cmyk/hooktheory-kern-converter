@@ -16,66 +16,66 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2..c#	C#
+2..c#	C# major
 8d#	.
 =2	=2
-2fn	C#7/B
-8.d#	.
+2fn	C# dominant/B
+8.d#L	.
 8.fn	.
-8f#	.
+8f#J	.
 =3	=3
-4g#	Amaj7
+4g#	A major-seventh
 4f#	.
 4a	.
 4g#	.
 =4	=4
-2.fn	G#7
+2.fn	G# dominant
 4d#	.
 =5	=5
-2..c#	C#
+2..c#	C# major
 8d#	.
 =6	=6
-2e	E/G#
-8.d#	.
+2e	E major/G#
+8.d#L	.
 8.e	.
-8f#	.
+8f#J	.
 =7	=7
-4g#	Amaj7
+4g#	A major-seventh
 4f#	.
 4a	.
 4g#	.
 =8	=8
-2.e	B7sus4
-4d#	B7
+2.e	B dominant-seventh-suspended-fourth
+4d#	B dominant
 =9	=9
-2c#	G#sus4
-8.cn	.
+2c#	G# suspended-fourth
+8.cnL	.
 8.c#	.
-8d#	.
+8d#J	.
 =10	=10
-2.e	B7sus4
-4d#	B7
+2.e	B dominant-seventh-suspended-fourth
+4d#	B dominant
 =11	=11
-2c#	G#sus4
-8.cn	.
+2c#	G# suspended-fourth
+8.cnL	.
 8.c#	.
-8d#	.
+8d#J	.
 =12	=12
-2.e	B7sus4
-4d#	B7
+2.e	B dominant-seventh-suspended-fourth
+4d#	B dominant
 =13	=13
-1g#[	Emaj7
+[1g#	E major-seventh
 =14	=14
-2g#]	E7/D
-8.f#	.
+2g#]	E dominant/D
+8.f#L	.
 8.g#	.
-8f#	.
+8f#J	.
 =15	=15
-1fn	C#
+1fn	C# major
 =16	=16
 1r	.
 =17	=17
-1r	C#
+1r	C# major
 =18	=18
 1r	.
 ==	==

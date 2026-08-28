@@ -16,191 +16,191 @@
 *C#:	*
 *M4/4	*
 =1	=1
-1r	C#
+1r	C# major
 =2	=2
 1r	.
 =3	=3
-1r	G
+1r	G major
 =4	=4
 1r	.
 =5	=5
-1r	C#
+1r	C# major
 =6	=6
 1r	.
 =7	=7
-1r	G
+1r	G major
 =8	=8
 2r	.
 4.c#	.
 8dn	.
 =9	=9
-1e#	C#
+1e#	C# major
 =10	=10
 2.g#	.
-8e#	.
-8c#	.
+8e#L	.
+8c#J	.
 =11	=11
-2.dn	G
+2.dn	G major
 4b	.
 =12	=12
-8.ddn	.
+8.ddnL	.
 8.cc#	.
-8b	.
-8.gn	.
+8bJ	.
+8.gnL	.
 8.f#	.
-8dn	.
+8dnJ	.
 =13	=13
-1c#[	C#
+[1c#	C# major
 =14	=14
 2c#]	.
 4.e#	.
 8c#	.
 =15	=15
-2dn	G
+2dn	G major
 2r	.
 =16	=16
 2B	.
 2r	.
 =17	=17
-1e#	C#
+1e#	C# major
 =18	=18
 2.g#	.
-8e#	.
-8c#	.
+8e#L	.
+8c#J	.
 =19	=19
-2.dn	G
+2.dn	G major
 4b	.
 =20	=20
-8.ddn	.
+8.ddnL	.
 8.cc#	.
-8b	.
-8.gn	.
+8bJ	.
+8.gnL	.
 8.f#	.
-8dn	.
+8dnJ	.
 =21	=21
-1c#[	C#
+[1c#	C# major
 =22	=22
 2c#]	.
 4.e#	.
 8c#	.
 =23	=23
-2dn	G
+2dn	G major
 2r	.
 =24	=24
 2B	.
 2r	.
 =25	=25
-1A#	F#
+1A#	F# major
 =26	=26
-1An	F#m
+1An	F# minor
 =27	=27
-2A#	F#
+2A#	F# major
 4.c#	.
 8A#	.
 =28	=28
-2An	F#m
+2An	F# minor
 4..F#	.
 16Gn	.
 =29	=29
-2G#	E
+2G#	E major
 2B	.
 =30	=30
-1Gn	Em
+1Gn	E minor
 =31	=31
-1G#	E
+1G#	E major
 =32	=32
-1Gn	Em
+1Gn	E minor
 =33	=33
-1A#	F#
+1A#	F# major
 =34	=34
-1An	F#m
+1An	F# minor
 =35	=35
-2A#	F#
+2A#	F# major
 4.c#	.
 8A#	.
 =36	=36
-2An	F#m
+2An	F# minor
 4..F#	.
 16Gn	.
 =37	=37
-2G#	E
+2G#	E major
 2B	.
 =38	=38
-1Gn	Em
+1Gn	E minor
 =39	=39
-1F#	F#
+1F#	F# major
 =40	=40
 1f#	.
 =41	=41
-1d#	Bmaj7
+1d#	B major-seventh
 =42	=42
-4r	B
-8A#	.
-8B	.
+4r	B major
+8A#L	.
+8BJ	.
 4d#	.
 4f#	.
 =43	=43
-1dn	D/A
+1dn	D major/A
 =44	=44
-4B	G#m7/B
-8G#	.
-8An	.
+4B	G# minor-seventh/B
+8G#L	.
+8AnJ	.
 4B	.
 4G#	.
 =45	=45
-1F#	Bmaj7
+1F#	B major-seventh
 =46	=46
-4r	B
-8A#	.
-8B	.
+4r	B major
+8A#L	.
+8BJ	.
 4d#	.
 4f#	.
 =47	=47
-2g#	Amaj7
+2g#	A major-seventh
 4r	.
-8f#	.
-8en	.
+8f#L	.
+8enJ	.
 =48	=48
-4d#	G#m7/B
+4d#	G# minor-seventh/B
 4en	.
 4d#	.
 4B	.
 =49	=49
-1d#	Bmaj7
+1d#	B major-seventh
 =50	=50
-4r	B
-8A#	.
-8B	.
+4r	B major
+8A#L	.
+8BJ	.
 4d#	.
 4f#	.
 =51	=51
-1dn	D/A
+1dn	D major/A
 =52	=52
-4B	G#m7/B
-8G#	.
-8An	.
+4B	G# minor-seventh/B
+8G#L	.
+8AnJ	.
 4B	.
 4G#	.
 =53	=53
-1F#	Bmaj7
+1F#	B major-seventh
 =54	=54
-4r	B
-8A#	.
-8B	.
+4r	B major
+8A#L	.
+8BJ	.
 4d#	.
 4f#	.
 =55	=55
-2g#	Amaj7
+2g#	A major-seventh
 4r	.
-8f#	.
-8en	.
+8f#L	.
+8enJ	.
 =56	=56
-4d#	G#m7/B
+4d#	G# minor-seventh/B
 4en	.
 4d#	.
 4B	.
 =57	=57
-1dn[	Dm
+[1dn	D minor
 =58	=58
 1dn]	.
 ==	==

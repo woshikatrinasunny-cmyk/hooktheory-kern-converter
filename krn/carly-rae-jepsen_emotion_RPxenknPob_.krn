@@ -16,150 +16,150 @@
 *e:	*
 *M4/4	*
 =1	=1
-4r	C
-8dd	.
-16dd	.
-16dd[	.
-16dd]	G
+4r	C major
+8ddL	.
+16ddL	.
+[16ddJJ	.
+16ddLK]	G major
 8b	.
-16a[	.
-16a]	C
+[16aL	.
+16aJ]	C major
 8b	.
-16a[	Dsus4
+[16aJk	D suspended-fourth
 =2	=2
 8a]	.
 8r	.
-16dd	.
+16ddLK	.
+8ddJ	.
 8dd	.
-8dd	.
-8b	.
+8bL	.
 8a	.
 8b	.
-16a[	.
+[16aJk	.
 =3	=3
-8a]	Bm7
+8a]	B minor-seventh
 8r	.
-8a	.
-16b	.
-16a[	.
-16a]	Bm
+8aL	.
+16bL	.
+[16aJJ	.
+16aLK]	B minor
 8g	.
 8a	.
 8b	.
-16a[	Cadd(2,4,7)
+[16aJk	C other-2,4,7
 =4	=4
-16a]	.
+16aLK]	.
 8g	.
-16a[	.
-16a]	.
-8b	.
+[16aL	.
+16aJ]	.
+8bJ	.
 8a	.
-8g	.
+8gL	.
 8g	.
 8a	.
-16e[	.
+[16eJk	.
 =5	=5
-8e]	C
+8e]	C major
 8r	.
-8dd	.
-16dd	.
-16dd[	.
-16dd]	G
+8ddL	.
+16ddL	.
+[16ddJJ	.
+16ddLK]	G major
 8b	.
-16a[	.
-16a]	C
+[16aL	.
+16aJ]	C major
 8b	.
-16a[	Dsus4
+[16aJk	D suspended-fourth
 =6	=6
 8a]	.
 8r	.
-16dd	.
+16ddLK	.
+8ddJ	.
 8dd	.
-8dd	.
-8b	.
+8bL	.
 8a	.
 8b	.
-16a[	.
+[16aJk	.
 =7	=7
-8a]	Bm7
+8a]	B minor-seventh
 8r	.
-8a	.
-16b	.
-16a[	.
-16a]	Bm
+8aL	.
+16bL	.
+[16aJJ	.
+16aLK]	B minor
 8g	.
 8a	.
 8b	.
-16a[	Cadd(2,4,7)
+[16aJk	C other-2,4,7
 =8	=8
-16a]	.
+16aLK]	.
 8g	.
 8a	.
-8b	.
+8bJ	.
 8a	.
+8gL	.
 8g	.
-8g	.
-8a	.
+8aJ	.
 16r	.
 =9	=9
-8e	C
+8eL	C major
 8f#	.
 8g	.
-8a	.
-8b	Cmaj9
+8aJ	.
+8bL	C major-ninth
 8dd	.
-8b	C
-16a[	.
-16a_	Dsus4
+8b	C major
+[16aL	.
+16aJJ_	D suspended-fourth
 =10	=10
 8a]	.
 4.r	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
+8ddJ	.
 =11	=11
-8.ff#	Bm7
+8.ff#L	B minor-seventh
 8.dd	.
-8ff#[	.
-16ff#]	Bm
+[8ff#J	.
+16ff#LK]	B minor
 8.dd	.
-8.gg[	.
-16gg]	Cmaj9
+[8.gg	.
+16ggJk]	C major-ninth
 =12	=12
 2.r	.
-4r	G
+4r	G major
 =13	=13
-8e	C
+8eL	C major
 8f#	.
 8g	.
-8a	.
-8b	Cmaj9
+8aJ	.
+8bL	C major-ninth
 8dd	.
-8b	C
-16a[	.
-16a_	Dsus4
+8b	C major
+[16aL	.
+16aJJ_	D suspended-fourth
 =14	=14
 8a]	.
 4.r	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
+8ddJ	.
 =15	=15
-8.ff#	Bm7
+8.ff#L	B minor-seventh
 8.dd	.
-8ff#[	.
-16ff#]	Bm
+[8ff#J	.
+16ff#LK]	B minor
 8.dd	.
-8.gg[	.
-16gg]	Cmaj9
+[8.gg	.
+16ggJk]	C major-ninth
 =16	=16
 4r	.
-8ee	.
-8ee	.
-8.ee	.
+8eeL	.
+8eeJ	.
+8.eeL	.
 8.gg	.
-8aa	.
+8aaJ	.
 ==	==
 *-	*-

@@ -15,86 +15,86 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4r	B-m
-8r	B-m
+4r	B- minor
+8r	B- minor
 8A-	.
-8a-	B-m
+8a-L	B- minor
 8g	.
-8c	B-m
-8c	.
+8c	B- minor
+8cJ	.
 =2	=2
-8B-	Cm
+8B-	C minor
 8r	.
-8r	Cm
+8r	C minor
 8A-	.
-8e-	Cm
+8e-L	C minor
 8e-	.
-8B-	Cm
-8B-[	.
+8B-	C minor
+[8B-J	.
 =3	=3
-8B-]	D-
-8A-[	.
-8A-]	D-
-8B-[	.
-8B-]	D-
+8B-L]	D- major
+[8A-	.
+8A-]	D- major
+[8B-J	.
+8B-L]	D- major
 8c	.
-8A-	D-
-8B-	.
+8A-	D- major
+8B-J	.
 =4	=4
-4r	B-m
-8r	B-m
+4r	B- minor
+8r	B- minor
 8A-	.
-8a-	B-m
+8a-L	B- minor
 8g	.
-8c	B-m
-8c	.
+8c	B- minor
+8cJ	.
 =5	=5
-8B-	Cm
+8B-	C minor
 8r	.
-8r	Cm
+8r	C minor
 8A-	.
-8e-	Cm
+8e-L	C minor
 8e-	.
-8B-	Cm
-8B-[	.
+8B-	C minor
+[8B-J	.
 =6	=6
-8B-]	D-
-8A-[	.
-8A-]	D-
+8B-L]	D- major
+[8A-	.
+8A-J]	D- major
 8r	.
-8e-	D-
+8e-L	D- major
 8e-	.
-8B-	D-
-8B-[	.
+8B-	D- major
+[8B-J	.
 =7	=7
-8B-]	D-
-8A-[	.
-8A-]	D-
-8b-[	.
-8b-]	D-
+8B-L]	D- major
+[8A-	.
+8A-]	D- major
+[8b-J	.
+8b-L]	D- major
 8cc	.
-8a-	D-
-8b-[	.
+8a-	D- major
+[8b-J	.
 =8	=8
-4b-_	B-m
-4b-_	B-m
-4b-_	B-m
-4b-]	B-m
+4b-_	B- minor
+4b-_	B- minor
+4b-_	B- minor
+4b-]	B- minor
 =9	=9
-4r	Cm
-4r	Cm
-4r	Cm
-4r	Cm
+4r	C minor
+4r	C minor
+4r	C minor
+4r	C minor
 =10	=10
-4b-[	D-
-4b-_	D-
-4b-_	D-
-4b-_	D-
+[4b-	D- major
+4b-_	D- major
+4b-_	D- major
+4b-_	D- major
 =11	=11
-4b-_	E-
-4b-_	E-
-4b-_	E-
-8b-]	E-
-8a-	.
+4b-_	E- major
+4b-_	E- major
+4b-_	E- major
+8b-L]	E- major
+8a-J	.
 ==	==
 *-	*-

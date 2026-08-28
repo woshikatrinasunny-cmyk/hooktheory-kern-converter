@@ -16,105 +16,105 @@
 *e:	*
 *M4/4	*
 =1	=1
-1e[	Em
+[1e	E minor
 =2	=2
-2e]	Dm7b5
+2e]	D half-diminished
 4fn	.
-4cc	D
+4cc	D major
 =3	=3
-1b[	Cmaj7
+[1b	C major-seventh
 =4	=4
-8.b]	B
+8.b]	B major
 16r	.
 4b	.
-4dd	Bm
+4dd	B minor
 4d	.
 =5	=5
-2e	Em7b5/A#
-4a	F#dim/A
+2e	E half-diminished/A#
+4a	F# diminished/A
 4cc	.
 =6	=6
-2dd[	A#7/G#
-8.dd]	G
+[2dd	A# dominant/G#
+8.dd]	G major
 16r	.
-8cc	.
-8dd	.
+8ccL	.
+8ddJ	.
 =7	=7
-2ee[	F#
-8.ee]	F#dim
+[2ee	F# major
+8.ee]	F# diminished
 16r	.
-8gg	.
-8ffn	.
+8ggL	.
+8ffnJ	.
 =8	=8
-2ee	Em/B
-16B	B
+2ee	E minor/B
+16BLL	B major
 16c#	.
 16d#	.
 16f#	.
 16a	.
 16b	.
 16cc#	.
-16dd#	.
+16dd#JJ	.
 =9	=9
-2ee	C
+2ee	C major
 4gg	.
 4ccc	.
 =10	=10
-4bb	Em/B
+4bb	E minor/B
 4gg	.
-4ffn	Dm/F
+4ffn	D minor/F
 4ccc	.
 =11	=11
-4bb[	Esus4
-2bb_	Em7
-4bb_	C#m7b5/E
+[4bb	E suspended-fourth
+2bb_	E minor-seventh
+4bb_	C# half-diminished/E
 =12	=12
-8.bb]	F#m/A
+8.bb]	F# minor/A
 16r	.
 4bb	.
-4gg	A7sus4
+4gg	A dominant-seventh-suspended-fourth
 4dd	.
 =13	=13
-2ee	E/G#
-4aa	C/G
+2ee	E major/G#
+4aa	C major/G
 4ccc	.
 =14	=14
-2ddd[	D/F#
-8.ddd]	Dm/F
+[2ddd	D major/F#
+8.ddd]	D minor/F
 16r	.
-8ccc	.
-8ddd	.
+8cccL	.
+8dddJ	.
 =15	=15
-4eee[	Esus4
-4eee_	E
-8.eee]	Edim
+[4eee	E suspended-fourth
+4eee_	E major
+8.eee]	E diminished
 16r	.
-8ccc	.
-8ddd	.
+8cccL	.
+8dddJ	.
 =16	=16
-4eee[	A7/C#
-4eee_	F#m7/C#
-8.eee]	F/C
+[4eee	A dominant/C#
+4eee_	F# minor-seventh/C#
+8.eee]	F major/C
 16r	.
-8ccc	.
-8ddd	.
+8cccL	.
+8dddJ	.
 =17	=17
-4eee	C7/A#
+4eee	C dominant/A#
 4ee	.
-4gg	Am7
+4gg	A minor-seventh
 4ccc	.
 =18	=18
-4ccc	E/G#
+4ccc	E major/G#
 4bb	.
-2ddd	G#dim
+2ddd	G# diminished
 =19	=19
-4eee	Esus4
+4eee	E suspended-fourth
 4ee	.
-4gg	Em
+4gg	E minor
 4aa#	.
 =20	=20
-4aa#	F#7/E
+4aa#	F# dominant/E
 4bb	.
-4gg	Em
+4gg	E minor
 ==	==
 *-	*-

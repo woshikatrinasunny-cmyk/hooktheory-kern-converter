@@ -15,44 +15,44 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.bb	Cmaj9
+4.bb	C major-ninth
 2bb	.
 8bb	.
 =2	=2
-4.gg	Cmaj7
+4.gg	C major-seventh
 4.gg	.
 4gg	.
 =3	=3
-4.aa	Dmaj7
+4.aa	D major-seventh
 4.aa	.
 4aa	.
 =4	=4
-4.ff#	D
+4.ff#	D major
 4.ff#	.
-4bb	Bm7
+4bb	B minor-seventh
 =5	=5
-4.bb	Cmaj9
+4.bb	C major-ninth
 2bb	.
 8bb	.
 =6	=6
-4.gg	Cmaj7
+4.gg	C major-seventh
 4.gg	.
 4gg	.
 =7	=7
-4.ff#	Badd(3,5,7,8,10)/A
+4.ff#	B other-3,5,7,8,10/A
+8ff#	.
+8ff#L	.
 8ff#	.
 8ff#	.
-8ff#	.
-8ff#	.
-8ff#	.
+8ff#J	.
 =8	=8
-8gg	D
-16gg	.
+8ggL	D major
+16ggk	.
 8gg	.
-16gg	.
-8gg	.
-8aa	Em11
-8aa	.
-4bb	Bm7/F#
+16ggk	.
+8ggJ	.
+8aaL	E minor-11th
+8aaJ	.
+4bb	B minor-seventh/F#
 ==	==
 *-	*-

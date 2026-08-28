@@ -16,7 +16,7 @@
 *D:	*
 *M6/4	*
 =1	=1
-2.r	Em7
+2.r	E minor-seventh
 4g	.
 4g	.
 4g	.
@@ -26,7 +26,7 @@
 2.a	.
 4g	.
 =3	=3
-3...f#	Bm
+3...f#	B minor
 8d	.
 4d	.
 4d	.
@@ -37,7 +37,7 @@
 2.e	.
 4d	.
 =5	=5
-2c#[	F#7
+[2c#	F# dominant
 16c#]	.
 16r	.
 8c#	.
@@ -51,18 +51,18 @@
 4B	.
 4c#	.
 =7	=7
-2.d	G
+2.d	G major
 2.c#	.
 =8	=8
 2.B	.
-4r	Gadd(2,4,7)
-4r	G
-4r	Gmaj7
+4r	G other-2,4,7
+4r	G major
+4r	G major-seventh
 =9	=9
-2r	G
+2r	G major
 4g	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 4g	.
 4g	.
 =10	=10
@@ -71,7 +71,7 @@
 2.a	.
 4g	.
 =11	=11
-3...f#	D
+3...f#	D major
 8d	.
 4d	.
 4d	.
@@ -82,12 +82,12 @@
 2.e	.
 4d	.
 =13	=13
-2c#[	F#7
+[2c#	F# dominant
 16c#]	.
 3...r	.
 16r	.
-8c#	.
-8c#	.
+8c#L	.
+8c#J	.
 =14	=14
 4c#	.
 4c#	.
@@ -96,11 +96,11 @@
 4B	.
 4c#	.
 =15	=15
-2d	Bm
+2d	B minor
 4d	.
-2.c#	A
+2.c#	A major
 =16	=16
-2.B	Gmaj7
+2.B	G major-seventh
 2.r	.
 =17	=17
 4r	.
@@ -110,7 +110,7 @@
 4d	.
 4d	.
 =18	=18
-2d[	D
+[2d	D major
 16d]	.
 2...r	.
 ==	==

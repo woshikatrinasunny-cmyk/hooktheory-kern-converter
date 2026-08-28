@@ -16,93 +16,93 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4.r	F#add(3,5,7)
-16c#	.
-16B	.
-8c#	.
+4.r	F# other-3,5,7
+16c#LL	.
+16BJJ	.
+8c#L	.
 8c#	.
 8e	.
-16c#	.
-16B	.
+16c#L	.
+16BJJ	.
 =2	=2
-8c#	.
+8c#L	.
 8c#	.
 8e	.
-16c#	F#add(3,5,7)/A
-16B	.
-8c#	.
-8c#	F#add(3,5,7)
-16e[	F#add(3,5,7)/C#
-16e]	D
-16r	F#add(3,5,7)/C#
+16c#L	F# other-3,5,7/A
+16BJJ	.
+8c#L	.
+8c#	F# other-3,5,7
+[16eL	F# other-3,5,7/C#
+16eJJ]	D
+16r	F# other-3,5,7/C#
 16r	D
 =3	=3
-16e	Badd(3,5,7)
-16c#	.
+16eLL	B other-3,5,7
+16c#JJ	.
 4r	.
-16c#	.
-16B	.
-8c#	.
+16c#LL	.
+16BJJ	.
+8c#L	.
 8c#	.
 8e	.
-16c#	.
-16B	.
+16c#L	.
+16BJJ	.
 =4	=4
-8c#	.
+8c#L	.
 8c#	.
 8e	.
-16c#	.
-16B	.
-8c#	.
-16c#[	Bm11
-16c#]	C#add(1,3,5,7,10)
-16e[	Bm11
-16e]	C#add(1,3,5,7,10)
-16r	Bm11
-16r	C#add(1,3,5,7,10)
+16c#L	.
+16BJJ	.
+8c#L	.
+[16c#L	B minor-11th
+16c#]	C# other-1,3,5,7,10
+[16e	B minor-11th
+16eJJ]	C# other-1,3,5,7,10
+16r	B minor-11th
+16r	C# other-1,3,5,7,10
 =5	=5
-16e	F#add(3,5,7)
-16c#	.
+16eLL	F# other-3,5,7
+16c#JJ	.
 4r	.
-16c#	.
-16B	.
-8c#	.
+16c#LL	.
+16BJJ	.
+8c#L	.
 8c#	.
 8e	.
-16c#	.
-16B	.
+16c#L	.
+16BJJ	.
 =6	=6
-8c#	.
+8c#L	.
 8c#	.
 8e	.
-16c#	F#add(3,5,7)/A
-16B	.
-8c#	.
-8c#	F#add(3,5,7)
-16e[	F#add(3,5,7)/C#
-16e]	D
-16r	F#add(3,5,7)/C#
+16c#L	F# other-3,5,7/A
+16BJJ	.
+8c#L	.
+8c#	F# other-3,5,7
+[16eL	F# other-3,5,7/C#
+16eJJ]	D
+16r	F# other-3,5,7/C#
 16r	D
 =7	=7
-16e	Badd(3,5,7)
-16c#	.
+16eLL	B other-3,5,7
+16c#JJ	.
 4r	.
-16c#	.
-16B	.
-8c#	.
+16c#LL	.
+16BJJ	.
+8c#L	.
 8c#	.
 8e	.
-16c#	.
-16B	.
+16c#L	.
+16BJJ	.
 =8	=8
-8c#	.
-8c#	.
-8e	.
-16c#	.
-16B	.
-8c#	.
+8c#L	.
 8c#	.
 8e	.
+16c#L	.
+16BJJ	.
+8c#L	.
+8c#	.
+8eJ	.
 8r	.
 ==	==
 *-	*-

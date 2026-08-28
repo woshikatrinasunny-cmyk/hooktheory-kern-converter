@@ -16,62 +16,62 @@
 *c:	*
 *M4/4	*
 =1	=1
-8r	B-11
+8r	B- dominant-11th
 4a-	.
 4a-	.
-8.a-	.
-16a-	.
+8.a-L	.
+16a-L	.
 16g	.
-16f	.
+16fJJ	.
 =2	=2
-4g	B-add(1,4,5,7,9,10)
+4g	B- other-1,4,5,7,9,10
 8.g	.
 8.g	.
-8.g	.
-16g	.
+8.gL	.
+16gL	.
 16f	.
-16e-	.
+16e-JJ	.
 =3	=3
-4dd-	B-m7
+4dd-	B- minor-seventh
 8.dd-	.
 8.dd-	.
-8.dd-	.
-16dd-	.
-16ff	.
+8.dd-L	.
+16dd-L	.
+16ffJJ	.
 16r	.
 =4	=4
-4cc	C7/B-
+4cc	C dominant/B-
 8.cc	.
 8.cc	.
 4.cc	.
 =5	=5
-4ee-	B-11
+4ee-	B- dominant-11th
 8.ee-	.
 8.ee-	.
-8.ee-	.
-16dd	.
-16cc	.
+8.ee-L	.
+16ddL	.
+16ccJJ	.
 16r	.
 =6	=6
-8r	B-add(2,5,8,11)
+8r	B- other-2,5,8,11
 4ee-	.
 4ee-	.
 4.ee-	.
 =7	=7
-8r	E-/B-
+8r	E- major/B-
 4ee-	.
 4ee-	.
-8.ee-	.
-16ee-	.
+8.ee-L	.
+16ee-L	.
 16ff	.
-16ee-	.
+16ee-JJ	.
 =8	=8
-8dd	Gm7/B-
+8dd	G minor-seventh/B-
 4dd	.
-8cc	B-11
-8cc	.
+8cc	B- dominant-11th
+8ccL	.
 8b-	.
 8b-	.
-8a-	.
+8a-J	.
 ==	==
 *-	*-

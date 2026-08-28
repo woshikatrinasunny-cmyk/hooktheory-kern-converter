@@ -16,48 +16,48 @@
 *B:	*
 *M4/4	*
 =1	=1
-3...dd#	B
-16b	.
-16b	.
+3...dd#	B major
+16bLL	.
+16bJ	.
 8.ee	.
-16dd#	.
+16dd#Jk	.
 =2	=2
-3...cc#	F#
-16cc#	.
-16cc#	.
+3...cc#	F# major
+16cc#LL	.
+16cc#J	.
 8.dd#	.
-16cc#	.
+16cc#Jk	.
 =3	=3
-3...b	E
-16g#	.
+3...b	E major
+16g#LK	.
 8b	.
 8cc#	.
-16dd#[	.
+[16dd#Jk	.
 =4	=4
-3...dd#]	B
-16b	.
+3...dd#]	B major
+16bLK	.
 8b	.
-8.cc#	.
+8.cc#J	.
 =5	=5
-3...dd#	B
-16b	.
-16b	.
+3...dd#	B major
+16bLL	.
+16bJ	.
 8.ee	.
-16dd#	.
+16dd#Jk	.
 =6	=6
-3...cc#	F#
-8cc#	.
+3...cc#	F# major
+8cc#L	.
 8dd#	.
-8cc#	.
+8cc#J	.
 =7	=7
-4.b	E
+4.b	E major
 16b	.
 8b	.
-8g#	.
+8g#L	.
 8b	.
 8cc#	.
-16b[	.
+[16bJk	.
 =8	=8
-1b]	B
+1b]	B major
 ==	==
 *-	*-

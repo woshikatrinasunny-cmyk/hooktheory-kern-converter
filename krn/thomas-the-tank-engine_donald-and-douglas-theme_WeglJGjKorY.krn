@@ -15,87 +15,87 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	C
+1r	C major
 =2	=2
-2..r	C
-16ee	.
-16dd	.
+2..r	C major
+16eeLL	.
+16ddJJ	.
 =3	=3
-16cc	C
+16ccLL	C major
 16g	.
 16g	.
 16e	.
 16e	.
 16g	.
 16g	.
-16cc	.
-16cc	.
+16ccJJ	.
+16ccLL	.
 16g	.
 16cc	.
 16cc	.
 16ee	.
 16cc	.
 16ee	.
-16ee	.
+16eeJJ	.
 =4	=4
-16gg	C
-16ee	.
+16ggLL	C major
+16eeJ	.
 8cc	.
-16ff	.
-16dd	.
-8b	.
+16ffL	.
+16ddJ	.
+8bJ	.
 4cc	.
-8ee	.
-8ff	.
+8eeL	.
+8ffJ	.
 =5	=5
-4gg	C
-8ee	C/G
-8gg	.
-4aa	F
-4bb	F/C
+4gg	C major
+8eeL	C major/G
+8ggJ	.
+4aa	F major
+4bb	F major/C
 =6	=6
-4ccc	C
-4gg	C/G
-4gg[	C
-4gg]	C/G
+4ccc	C major
+4gg	C major/G
+[4gg	C major
+4gg]	C major/G
 =7	=7
-4dd[	Bdim
-8dd]	G7
-8ee	.
-4ff	Bdim
-4dd	G7
+[4dd	B diminished
+8ddL]	G dominant
+8eeJ	.
+4ff	B diminished
+4dd	G dominant
 =8	=8
-4ee[	C
-8ee]	C/G
-8ff	.
-8gg[	C
-8gg]	C/G
-8ee	Am7
-8ff	Cmaj7/B
+[4ee	C major
+8eeL]	C major/G
+8ffJ	.
+[8ggL	C major
+8gg]	C major/G
+8ee	A minor-seventh
+8ffJ	C major-seventh/B
 =9	=9
-4gg	C
-8ee	C/G
-8gg	.
-4aa	F
-4bb	F/C
+4gg	C major
+8eeL	C major/G
+8ggJ	.
+4aa	F major
+4bb	F major/C
 =10	=10
-4ccc	C
-4gg	C/G
-4gg	C
-8ccc	C/E
-8bb	.
+4ccc	C major
+4gg	C major/G
+4gg	C major
+8cccL	C major/E
+8bbJ	.
 =11	=11
-8bb	F
+8bbL	F major
 8aa	.
-8gg	F
-8ff	.
-4ee	G
-4dd	G/B
+8gg	F major
+8ffJ	.
+4ee	G major
+4dd	G major/B
 =12	=12
-4cc[	C
-4cc]	C/G
-4r	C
-8ee	.
-8ff	.
+[4cc	C major
+4cc]	C major/G
+4r	C major
+8eeL	.
+8ffJ	.
 ==	==
 *-	*-

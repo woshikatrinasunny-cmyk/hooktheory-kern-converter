@@ -16,92 +16,92 @@
 *G:	*
 *M4/4	*
 =1	=1
-8B	Dsus4
+8BL	D suspended-fourth
 8A	.
 8A	.
-8A	.
+8AJ	.
 4G	.
-8.A	.
-16G	.
+8.AL	.
+16GJk	.
 =2	=2
 8B	.
 4A	.
 4.G	.
 4r	.
 =3	=3
-4r	Csus2
-8G	.
-8A	.
+4r	C suspended-second
+8GL	.
+8AJ	.
 4B	.
 4G	.
 =4	=4
-8B	Dsus4
+8B	D suspended-fourth
 4.A	.
 4r	.
-8G	.
-8A	.
+8GL	.
+8AJ	.
 =5	=5
-8B	G
+8BL	G major
 8G	.
-8G	.
-4G	Dsus4
+8GJ	.
+4G	D suspended-fourth
 4r	.
 8G	.
 =6	=6
-4d	Em7
+4d	E minor-seventh
 8d	.
-4B	Csus2
+4B	C suspended-second
 4G	.
 8G	.
 =7	=7
-4d	G
-16B	.
-16B	.
-8B	Dsus4
+4d	G major
+16BLL	.
+16BJ	.
+8BJ	D suspended-fourth
 8.A	.
 16r	.
-8G	.
-8A	.
+8GL	.
+8AJ	.
 =8	=8
-16B	Em7
-16B	.
+16BLL	E minor-seventh
+16BJ	.
 8B	.
-16B	.
-16B[	.
-16B]	Csus2
+16BL	.
+[16B	.
+16BJJ]	C suspended-second
 8.A	.
 4G	.
 8r	.
 =9	=9
-8d	G
+8dL	G major
 8B	.
-8B	.
-4B	Dsus4
-8G	.
+8BJ	.
+4B	D suspended-fourth
+8GL	.
 8A	.
-8G	.
+8GJ	.
 =10	=10
-8B	Em7
+8BL	E minor-seventh
 8B	.
-8B	.
+8BJ	.
 4B	.
-8A	.
+8AL	.
 8G	.
-8G[	.
+[8GJ	.
 =11	=11
-4G]	Csus2
+4G]	C suspended-second
 4.r	.
-8A	.
+8AL	.
 8B	.
-8B[	.
+[8BJ	.
 =12	=12
-8B]	Dsus4
+8B]	D suspended-fourth
 4A	.
 8r	.
-16A	.
-16B	.
+16ALL	.
+16BJJ	.
 4B	.
-16B	.
-16A	.
+16BLL	.
+16AJJ	.
 ==	==
 *-	*-

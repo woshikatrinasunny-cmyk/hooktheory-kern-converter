@@ -16,34 +16,34 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4gg#	F#m9
+4gg#	F# minor-ninth
 8r	.
 8ccc#	.
-8.gg#	G#m7
-8dd#	.
+8.gg#L	G# minor-seventh
+8dd#J	.
 8.r	.
 =2	=2
-8gg#	C#m7
+8gg#L	C# minor-seventh
 8ff#	.
 8bb	.
-8ccc#	.
-8.gg#	G#m7
-8dd#	.
+8ccc#J	.
+8.gg#L	G# minor-seventh
+8dd#J	.
 8.r	.
 =3	=3
-4gg#	Amaj9
+4gg#	A major-ninth
 8r	.
 8ddd#	.
-8.bb	G#add(3,4,7,8,10)
-8gg#	.
+8.bbL	G# other-3,4,7,8,10
+8gg#J	.
 8.r	.
 =4	=4
-8ccc#	C#m7
+8ccc#L	C# minor-seventh
 8gg#	.
-8cccn	Cm7
-8ggg#	.
-8.bb	Bm7
-16gg#[	.
-4gg#]	E7
+8cccn	C minor-seventh
+8ggg#J	.
+8.bbL	B minor-seventh
+[16gg#Jk	.
+4gg#]	E dominant
 ==	==
 *-	*-

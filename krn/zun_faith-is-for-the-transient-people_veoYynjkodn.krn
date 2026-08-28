@@ -16,163 +16,163 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8cc#	C#sus4
+8cc#L	C# suspended-fourth
 8g#	.
 8dd#	.
+8g#J	.
+8eeL	.
 8g#	.
-8ee	.
-8g#	.
-16ff#	.
-16cc#	.
-8g#	.
+16ff#L	.
+16cc#J	.
+8g#J	.
 =2	=2
-8cc#	C#m
+8cc#L	C# minor
 8g#	.
 8dd#	.
-8g#	.
-8ee	.
+8g#J	.
+8eeL	.
 8g#	.
 8ff#	.
-16g#	.
-16b[	.
+16g#L	.
+[16bJJ	.
 =3	=3
-8b]	G#m
+8bL]	G# minor
 8f#	.
 8cc#	.
+8f#J	.
+8dd#L	.
 8f#	.
-8dd#	.
-8f#	.
-16ee	.
-16b	.
-8f#	.
+16eeL	.
+16bJ	.
+8f#J	.
 =4	=4
-8b	G#m
+8bL	G# minor
 8f#	.
 8cc#	.
-8f#	.
-8dd#	.
+8f#J	.
+8dd#L	.
 8f#	.
 8ee	.
-8f#	.
+8f#J	.
 =5	=5
-8a	A
+8aL	A major
 8e	.
 8b	.
-8e	.
-8cc#	.
-16e	.
+8eJ	.
+8cc#L	.
+16ek	.
 8.a	.
-8d#	.
+8d#J	.
 =6	=6
-8b	F#m
+8bL	F# minor
 8c#	.
 8cc#	.
-16c#	.
+16c#Jk	.
 8.dd#	.
-8f#	.
+8f#L	.
 8b	.
-8a	.
+8aJ	.
 =7	=7
-8ccn	G#/C
+8ccnL	G# major/C
 8g#	.
 8cc#	.
-8g#	.
-8dd#	.
-16g#	.
+8g#J	.
+8dd#L	.
+16g#k	.
 8ff#	.
-16dd#	.
-8g#	.
+16dd#k	.
+8g#J	.
 =8	=8
-8ee	G#/C
+8eeL	G# major/C
 8g#	.
 8dd#	.
-8g#	.
-16ccn	.
+8g#J	.
+16ccnLL	.
 16dd#	.
-16cc#	.
-8ccn	.
+16cc#J	.
+8ccnJ	.
 8.r	.
 =9	=9
-2cc#	C#sus4
-8.cc#	.
+2cc#	C# suspended-fourth
+8.cc#L	.
 8.dd#	.
-16ee	.
+16eeJk	.
 16r	.
 =10	=10
-2ee	C#m
-8.ee	.
+2ee	C# minor
+8.eeL	.
 8.ff#	.
-16gg#	.
+16gg#Jk	.
 16r	.
 =11	=11
-4dd#	G#m
+4dd#	G# minor
 8ee	.
 4dd#	.
 8b	.
-4g#[	.
+[4g#	.
 =12	=12
-2.g#]	G#m
+2.g#]	G# minor
 4g#	.
 =13	=13
-2a	A
-8.a	.
+2a	A major
+8.aL	.
 8.b	.
-16cc#	.
+16cc#Jk	.
 16r	.
 =14	=14
-2cc#	D#dim/F#
-8.cc#	.
+2cc#	D# diminished/F#
+8.cc#L	.
 8.dd#	.
-16ee	.
+16eeJk	.
 16r	.
 =15	=15
-4ccn	G#/C
+4ccn	G# major/C
 4cc#	.
-8.dd#	.
+8.dd#L	.
 8.ee	.
-8ff#	.
+8ff#J	.
 =16	=16
-1dd#	G#/C
+1dd#	G# major/C
 =17	=17
-2cc#	C#sus4
-8.cc#	.
+2cc#	C# suspended-fourth
+8.cc#L	.
 8.dd#	.
-16ee	.
+16eeJk	.
 16r	.
 =18	=18
-2ee	C#m
-8.ee	.
+2ee	C# minor
+8.eeL	.
 8.ff#	.
-16gg#	.
+16gg#Jk	.
 16r	.
 =19	=19
-4dd#	G#m
+4dd#	G# minor
 8ee	.
 4dd#	.
 8b	.
-4g#[	.
+[4g#	.
 =20	=20
-2.g#]	G#m
+2.g#]	G# minor
 4g#	.
 =21	=21
-2a	A
-8.a	.
+2a	A major
+8.aL	.
 8.b	.
-16cc#	.
+16cc#Jk	.
 16r	.
 =22	=22
-2cc#	D#dim/F#
-8.cc#	.
+2cc#	D# diminished/F#
+8.cc#L	.
 8.dd#	.
-16ee	.
+16eeJk	.
 16r	.
 =23	=23
-4ccn	G#/C
+4ccn	G# major/C
 4cc#	.
-8.dd#	.
+8.dd#L	.
 8.ee	.
-8ff#	.
+8ff#J	.
 =24	=24
-1gg#	G#/C
+1gg#	G# major/C
 ==	==
 *-	*-

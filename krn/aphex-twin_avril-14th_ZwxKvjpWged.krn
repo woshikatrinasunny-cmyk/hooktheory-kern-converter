@@ -15,62 +15,62 @@
 *f:	*
 *M4/4	*
 =1	=1
-4..cc	D-
+4..cc	D- major
 16b-	.
-4..cc	B-m
+4..cc	B- minor
 16cc	.
 =2	=2
-16ee-	A-/C
-16ff	.
-8ee-	.
-4cc[	.
-4cc]	D-/A-
+16ee-LL	A- major/C
+16ffJ	.
+8ee-J	.
+[4cc	.
+4cc]	D- major/A-
 4ee-	.
 =3	=3
-4..cc	Fm
+4..cc	F minor
 16b-	.
-4..a-	Cm7/E-
+4..a-	C minor-seventh/E-
 16cc	.
 =4	=4
-16ee-	A-
-16ff	.
-8f	.
+16ee-LL	A- major
+16ffJ	.
+8fJ	.
 4cc	.
-4f	D-
+4f	D- major
 4a-	.
 =5	=5
-16cc	Fm/A-
+16cc	F minor/A-
 4.ccc	.
 16b-	.
-16cc	A-/C
+16cc	A- major/C
 4.ccc	.
 16cc	.
 =6	=6
-16ee-	D-sus2
+16ee-LL	D- suspended-second
 16ff	.
-16ee-	.
+16ee-J	.
 8.eeee-	.
-8cccc[	.
-4cccc]	B-add(2,3,7)
+[8ccccJ	.
+4cccc]	B- other-2,3,7
 4eee-	.
 =7	=7
-16cc	Fm/A-
+16ccLK	F minor/A-
 8.aaa-	.
 8.fff	.
-16b-	.
-6...bb-	A-/C
-8ff	.
-16ccc	.
+16b-Jk	.
+6...bb-	A- major/C
+8ffL	.
+16cccJk	.
 =8	=8
-16eee-	D-sus2
-16fff	.
+16eee-LL	D- suspended-second
+16fffJ	.
 8.ff	.
-8.ccc[	.
-4ccc]	B-add(2,3,7)
-16ee-	.
-16ee-	.
-8ee-[	.
+[8.cccJ	.
+4ccc]	B- other-2,3,7
+16ee-LL	.
+16ee-J	.
+[8ee-J	.
 =9	=9
-1ee-]	Fadd(2,3,5,7,10)
+1ee-]	F other-2,3,5,7,10
 ==	==
 *-	*-

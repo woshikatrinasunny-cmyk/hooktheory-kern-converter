@@ -16,25 +16,25 @@
 *C:	*
 *M4/4	*
 =1	=1
-1cc	C
+1cc	C major
 =2	=2
 4r	.
 4g	.
 8cc	.
 4b	.
-8cc[	.
+[8cc	.
 =3	=3
-2.cc]	Am
-8b	.
-8g[	.
+2.cc]	A minor
+8bL	.
+[8gJ	.
 =4	=4
 4g]	.
 4r	.
 8cc	.
 4cc	.
-8b[	.
+[8b	.
 =5	=5
-4b]	Em
+4b]	E minor
 8a	.
 4.g	.
 8r	.
@@ -44,10 +44,10 @@
 4a	.
 4b	.
 4cc	.
-8b[	.
+[8b	.
 =7	=7
-8b]	G
-8a	.
+8bL]	G major
+8aJ	.
 2.g	.
 =8	=8
 4r	.

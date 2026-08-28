@@ -15,26 +15,26 @@
 *g:	*
 *M4/4	*
 =1	=1
-4g	E-maj7
-4a	E-add(6,7,11)
-8b-[	E-maj7
-8.b-_	E-maj7/G
-8.b-]	E-maj7/B-
+4g	E- major-seventh
+4a	E- other-6,7,11
+[8b-L	E- major-seventh
+8.b-_	E- major-seventh/G
+8.b-J]	E- major-seventh/B-
 =2	=2
-4g	E-maj7
-4a	E-add(6,7,11)
-8b-[	E-maj7
-8.b-_	E-maj7/B-
-8.b-]	E-maj7
+4g	E- major-seventh
+4a	E- other-6,7,11
+[8b-L	E- major-seventh
+8.b-_	E- major-seventh/B-
+8.b-J]	E- major-seventh
 =3	=3
-4f	Dm7
-4g	D7sus4
-4a[	Dm7
-4a]	Dm7/A
+4f	D minor-seventh
+4g	D dominant-seventh-suspended-fourth
+[4a	D minor-seventh
+4a]	D minor-seventh/A
 =4	=4
-4f	Gm7
-4g	Gm
-4a[	Gadd(2,3,7)
-4a]	Gm/D
+4f	G minor-seventh
+4g	G minor
+[4a	G other-2,3,7
+4a]	G minor/D
 ==	==
 *-	*-

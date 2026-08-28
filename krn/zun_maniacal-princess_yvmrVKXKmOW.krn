@@ -16,146 +16,146 @@
 *b:	*
 *M4/4	*
 =1	=1
-16dd	G
-16dd	.
+16ddLL	G major
+16ddJJ	.
 4dd	.
-4ee	A
-8ee	.
+4ee	A major
+8eeL	.
 8dd	.
-8ee	.
+8eeJ	.
 =2	=2
-16ff#	Bm
-16ff#	.
+16ff#LL	B minor
+16ff#JJ	.
 4ff#	.
 4bb	.
 8bb	.
-4ff#	A
+4ff#	A major
 =3	=3
-16dd	G
-16dd	.
+16ddLL	G major
+16ddJJ	.
 4dd	.
-4ee	A
-8ee	.
+4ee	A major
+8eeL	.
 8dd	.
-8ee	.
+8eeJ	.
 =4	=4
-16ff#	Bm
-16ff#	.
+16ff#LL	B minor
+16ff#JJ	.
 4ff#	.
 4ff#	.
 8ff#	.
-4ee	A
+4ee	A major
 =5	=5
-16dd	G
-16dd	.
+16ddLL	G major
+16ddJJ	.
 4dd	.
-4ee	A
-8ee	.
+4ee	A major
+8eeL	.
 8dd	.
-8ee	.
+8eeJ	.
 =6	=6
-16ff#	Bm
-16ff#	.
+16ff#LL	B minor
+16ff#JJ	.
 4ff#	.
 4bb	.
-8bb	.
-8ccc#	A
-8ddd	.
+8bbL	.
+8ccc#	A major
+8dddJ	.
 =7	=7
-16bb	G
-16bb	.
+16bbLL	G major
+16bbJJ	.
 4bb	.
-4ccc#	A
-8ccc#	.
+4ccc#	A major
+8ccc#L	.
 8bb	.
-8ccc#	.
+8ccc#J	.
 =8	=8
-16ddd	Bm
+16dddLL	B minor
 16ddd	.
 16ddd	.
 16ddd	.
 16ddd	.
 16ddd	.
 16ddd	.
+16dddJJ	.
+16dddLL	.
 16ddd	.
 16ddd	.
 16ddd	.
 16ddd	.
 16ddd	.
 16ddd	.
-16ddd	.
-16ddd	.
-16ddd	.
+16dddJJ	.
 =9	=9
-16bb	G
-16bb	.
+16bbLL	G major
+16bbJJ	.
 4bb	.
-4ccc#	A
-8ccc#	.
+4ccc#	A major
+8ccc#L	.
 8bb	.
-8ccc#	.
+8ccc#J	.
 =10	=10
-16ddd	Bm
-16ddd	.
+16dddLL	B minor
+16dddJJ	.
 4ddd	.
 4fff#	.
 8fff#	.
-4ddd	A
+4ddd	A major
 =11	=11
-16bb	G
-16bb	.
+16bbLL	G major
+16bbJJ	.
 4bb	.
-4ccc#	A
-8ccc#	.
+4ccc#	A major
+8ccc#L	.
 8bb	.
-8ccc#	.
+8ccc#J	.
 =12	=12
-16ddd	Bm
-16ddd	.
+16dddLL	B minor
+16dddJJ	.
 4ddd	.
 4ddd	.
 8ddd	.
-4ccc#	A
+4ccc#	A major
 =13	=13
-16bb	G
-16bb	.
+16bbLL	G major
+16bbJJ	.
 4bb	.
-4ccc#	A
-8ccc#	.
+4ccc#	A major
+8ccc#L	.
 8bb	.
-8ccc#	.
+8ccc#J	.
 =14	=14
-16ddd	Bm
-16ddd	.
+16dddLL	B minor
+16dddJJ	.
 4ddd	.
 4fff#	.
-8fff#	.
-8fff#	A
-8fff#	.
+8fff#L	.
+8fff#	A major
+8fff#J	.
 =15	=15
-16ddd	G
-16ddd	.
+16dddLL	G major
+16dddJJ	.
 4ddd	.
-4eee	A
-8eee	.
+4eee	A major
+8eeeL	.
 8ddd	.
-8ccc#	.
+8ccc#J	.
 =16	=16
-16bb	Bm
+16bbLL	B minor
 16bb	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
+16bbJJ	.
+16bbLL	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
 16bb	.
-16bb	.
-16bb	.
-16bb	.
+16bbJJ	.
 ==	==
 *-	*-

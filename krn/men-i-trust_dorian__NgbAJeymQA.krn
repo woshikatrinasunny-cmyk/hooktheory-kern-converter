@@ -16,44 +16,44 @@
 *d:	*
 *M4/4	*
 =1	=1
-3...dd	G
-8gg	.
+3...dd	G major
+8ggL	.
 8dd	.
-8ff[	Dm
+[8ffJ	D minor
 =2	=2
 8ff]	.
 4ee	.
 4dd	.
 4cc	.
-8dd[	G
+[8dd	G major
 =3	=3
 3...dd]	.
-8gg	.
+8ggL	.
 8dd	.
-8ff[	Dm
+[8ffJ	D minor
 =4	=4
 8ff]	.
 4ee	.
 4dd	.
 4cc	.
-8dd[	Cadd(2,4,7)
+[8dd	C other-2,4,7
 =5	=5
 3...dd]	.
-16g	.
+16gLL	.
 16a	.
 16a#	.
-16cc	.
-8dd[	D#
+16ccJ	.
+[8ddJ	D# major
 =6	=6
 4.dd]	.
-2cc	F
-8g[	C
+2cc	F major
+[8g	C major
 =7	=7
 3...g]	.
-4cc	Dm
-8dd[	D#
+4cc	D minor
+[8dd	D# major
 =8	=8
 4.dd]	.
-3...cc	F
+3...cc	F major
 ==	==
 *-	*-

@@ -16,57 +16,57 @@
 *F:	*
 *M4/4	*
 =1	=1
-2..r	Gadd(2,3,7,9,10)
+2..r	G other-2,3,7,9,10
 8f	.
 =2	=2
-8g	C13
-16g	.
+8gL	C dominant-13th
+16gk	.
 8.g	.
-8g	.
-8g	.
+8gJ	.
+8gL	.
 8c	.
 8g	.
-8f[	.
+[8fJ	.
 =3	=3
-4.f]	Fmaj9/A
+4.f]	F major-ninth/A
 2r	.
 8f	.
 =4	=4
-8g	D7
-16a-	.
+8gL	D dominant
+16a-k	.
 8.g	.
-16g	.
-16g	.
-8g	.
+16gL	.
+16gJJ	.
+8gL	.
 8c	.
 8g	.
-8f[	.
+[8fJ	.
 =5	=5
-4.f]	Gadd(2,3,7,9,10)
+4.f]	G other-2,3,7,9,10
 3...r	.
 =6	=6
-8g	C13
-16g	.
+8gL	C dominant-13th
+16gk	.
 8g	.
-16g	.
-8g	.
-8g	.
+16gk	.
+8gJ	.
+8gL	.
 8c	.
 8g	.
-8f[	.
+[8fJ	.
 =7	=7
-4.f]	Fmaj9/A
+4.f]	F major-ninth/A
 2r	.
 8f	.
 =8	=8
-8g	D7
-16a	.
+8gL	D dominant
+16ak	.
 8g	.
-16g	.
-8g	.
-8g	.
+16gk	.
+8gJ	.
+8gL	.
 8c	.
 8g	.
-8f	.
+8fJ	.
 ==	==
 *-	*-

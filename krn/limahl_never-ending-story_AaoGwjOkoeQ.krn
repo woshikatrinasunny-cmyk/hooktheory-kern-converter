@@ -16,42 +16,42 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.g	G
+4.g	G major
 3...dd	.
 =2	=2
-4.r	Em
+4.r	E minor
 4dd	.
 8cc	.
 4b	.
 =3	=3
-4.f#	Bm
-3...d[	.
+4.f#	B minor
+[3...d	.
 =4	=4
 4.d]	.
 8d	.
-8.d	.
+8.dL	.
 8.e	.
-8f#	.
+8f#J	.
 =5	=5
-2..e	C
-16a	.
-16g	.
+2..e	C major
+16aLL	.
+16gJJ	.
 =6	=6
-4.f#	D
-8g[	.
-8g]	D7
+4.f#	D major
+[8g	.
+8g]	D dominant
 4a	.
 8b	.
 =7	=7
-2..b	G
-16b	.
-16cc	.
+2..b	G major
+16bLL	.
+16ccJJ	.
 =8	=8
-8dd	.
+8ddL	.
 8.cc	.
-8.b	.
-8g	.
+8.bJ	.
+8gL	.
 8.e	.
-8.d	.
+8.dJ	.
 ==	==
 *-	*-

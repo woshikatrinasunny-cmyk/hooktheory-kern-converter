@@ -16,35 +16,35 @@
 *D:	*
 *M6/4	*
 =1	=1
-8c#	D
+8c#	D major
 3...d	.
-4c#	F#7/C#
+4c#	F# dominant/C#
 4d	.
 4c#	.
 =2	=2
-4B	Bm
+4B	B minor
 4.F#	.
 4r	.
 4f#	.
 4f#	.
-8f#[	.
+[8f#	.
 =3	=3
-2f#]	D
-8e	.
-8d	.
-4c#	F#7/C#
+2f#]	D major
+8eL	.
+8dJ	.
+4c#	F# dominant/C#
 8d	.
 4e	.
-8f#[	.
+[8f#	.
 =4	=4
-4.f#]	B
+4.f#]	B major
 2d#	.
 8r	.
 8d#	.
 4c#	.
 8d#	.
 =5	=5
-2e	E
+2e	E major
 4B	.
 4B	.
 4c#	.
@@ -56,14 +56,14 @@
 4G#	.
 2E	.
 =7	=7
-4r	A7
+4r	A dominant
 4g	.
 4g	.
-4f#	Aadd(4,7,9)
+4f#	A other-4,7,9
 4f#	.
 4f#	.
 =8	=8
-4e	A
+4e	A major
 4e	.
 4e	.
 4A	.

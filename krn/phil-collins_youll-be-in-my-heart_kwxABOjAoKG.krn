@@ -16,80 +16,80 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4b-	E-
+4b-	E- major
 4ee-	.
 4ee-	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =2	=2
-2a-	A-add(2,4,7)
+2a-	A- other-2,4,7
 4.r	.
 8a-	.
 =3	=3
-4b-	B-
+4b-	B- major
 4ff	.
-4ff	B-7/A-
-8a-	.
-8g	.
+4ff	B- dominant/A-
+8a-L	.
+8gJ	.
 =4	=4
-2g	Gm
+2g	G minor
 4.r	.
 8g	.
 =5	=5
-8b-	Cm
+8b-	C minor
 4ee-	.
 4.ee-	.
 8r	.
-8b-[	.
+[8b-	.
 =6	=6
-8b-]	A-add(2,4,7)
+8b-]	A- other-2,4,7
 4a-	.
 8ff	.
 4.ff	.
 8g	.
 =7	=7
-2f	D-
+2f	D- major
 2r	.
 =8	=8
-2.r	B-
-8r	A-
-8r	B-
+2.r	B- major
+8r	A- major
+8r	B- major
 =9	=9
-4b-	E-
+4b-	E- major
 4ee-	.
 4ee-	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =10	=10
-2a-	A-add(2,4,7)
+2a-	A- other-2,4,7
 4.r	.
 8a-	.
 =11	=11
-8b-	B-
+8b-	B- major
 4ff	.
-8ff[	.
-4ff]	B-7/A-
-8a-	.
-8g	.
+[8ff	.
+4ff]	B- dominant/A-
+8a-L	.
+8gJ	.
 =12	=12
-2g	Gm
+2g	G minor
 4.r	.
 8g	.
 =13	=13
-8b-	Cm
+8b-	C minor
 4ee-	.
 4.ee-	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =14	=14
-2a-	A-add(2,4,7)
+2a-	A- other-2,4,7
 4.r	.
-8g[	.
+[8g	.
 =15	=15
-8g]	D-
+8g]	D- major
 4.f	.
 2r	.
 =16	=16
-1r	B-
+1r	B- major
 ==	==
 *-	*-

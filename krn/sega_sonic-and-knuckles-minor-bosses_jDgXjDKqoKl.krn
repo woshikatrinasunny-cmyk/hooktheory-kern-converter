@@ -16,193 +16,193 @@
 *a:	*
 *M4/4	*
 =1	=1
-16r	Asus2
-16r	Asus2
-16r	Asus2
+16r	A suspended-second
+16r	A suspended-second
+16r	A suspended-second
 8.r	.
-16r	Asus2
-16r	Asus2
-16r	Asus2
+16r	A suspended-second
+16r	A suspended-second
+16r	A suspended-second
 4..r	.
 =2	=2
-16a	Am
+16aLL	A minor
 16cc	.
 16ee	.
 16cc	.
 16a	.
 16cc	.
 16ee	.
-16cc	.
-16a	.
+16ccJJ	.
+16aLL	.
 16cc	.
 16ee	.
 16cc	.
 16a	.
 16cc	.
-16ee	F/A
-16cc	.
+16ee	F major/A
+16ccJJ	.
 =3	=3
-16a	.
+16aLL	.
 16cc	.
 16ff	.
 16cc	.
 16a	.
 16cc	.
 16ff	.
-16cc	.
-16a	.
+16ccJJ	.
+16aLL	.
 16cc	.
 16ff	.
 16cc	.
 16a	.
 16cc	.
-16ff	F#dim/A
-16cc	.
+16ff	F# diminished/A
+16ccJJ	.
 =4	=4
-16a	.
+16aLL	.
 16cc	.
 16ff#	.
 16cc	.
 16a	.
 16cc	.
 16ff#	.
-16cc	.
-16a	.
+16ccJJ	.
+16aLL	.
 16cc	.
 16ff#	.
 16cc	.
 16a	.
 16cc	.
-16ff#	F/A
-16cc	.
+16ff#	F major/A
+16ccJJ	.
 =5	=5
-16a	.
+16aLL	.
 16cc	.
 16ff	.
 16cc	.
 16a	.
 16cc	.
 16ff	.
+16ccJJ	.
+16aLL	.
+16cc	.
+16ff	.
 16cc	.
 16a	.
 16cc	.
 16ff	.
-16cc	.
-16a	.
-16cc	.
-16ff	.
-16cc	.
+16ccJJ	.
 =6	=6
-16a	Am
+16aLL	A minor
 16cc	.
 16ee	.
 16cc	.
 16a	.
 16cc	.
 16ee	.
-16cc	.
-16a	.
+16ccJJ	.
+16aLL	.
 16cc	.
 16ee	.
 16cc	.
 16a	.
 16cc	.
-16ee	F/A
-16cc	.
+16ee	F major/A
+16ccJJ	.
 =7	=7
-16a	.
+16aLL	.
 16cc	.
 16ff	.
 16cc	.
 16a	.
 16cc	.
 16ff	.
-16cc	.
-16a	.
+16ccJJ	.
+16aLL	.
 16cc	.
 16ff	.
 16cc	.
 16a	.
 16cc	.
-16ff	F#dim/A
-16cc	.
+16ff	F# diminished/A
+16ccJJ	.
 =8	=8
-16a	.
+16aLL	.
 16cc	.
 16ff#	.
 16cc	.
 16a	.
 16cc	.
 16ff#	.
-16cc	.
-16a	.
+16ccJJ	.
+16aLL	.
 16cc	.
 16ff#	.
 16cc	.
 16a	.
 16cc	.
-16ff#	F/A
-16cc	.
+16ff#	F major/A
+16ccJJ	.
 =9	=9
-16a	.
+16aLL	.
 16cc	.
 16ff	.
 16cc	.
 16a	.
 16cc	.
 16ff	.
+16ccJJ	.
+16aLL	.
+16cc	.
+16ff	.
 16cc	.
 16a	.
 16cc	.
 16ff	.
-16cc	.
-16a	.
-16cc	.
-16ff	.
-16cc	.
+16ccJJ	.
 =10	=10
-4r	F
+4r	F major
 4a	.
 4gg	.
-8ff	.
-8ee[	.
+8ffL	.
+[8eeJ	.
 =11	=11
-4ee]	G
+4ee]	G major
 4dd	.
 4ff	.
-8ee	.
-8cc[	.
+8eeL	.
+[8ccJ	.
 =12	=12
-3...cc]	Am
-8dd	.
+3...cc]	A minor
+8ddL	.
 8cc	.
-8ee[	.
+[8eeJ	.
 =13	=13
 2ee_	.
-2ee]	G
+2ee]	G major
 =14	=14
-4r	F
+4r	F major
 4a	.
 4gg	.
-8ff	.
-8ee[	.
+8ffL	.
+[8eeJ	.
 =15	=15
-4ee]	G
+4ee]	G major
 4dd	.
 4ff	.
-8ee	.
-8cc[	.
+8eeL	.
+[8ccJ	.
 =16	=16
-2..cc]	Am
-8aa[	.
+2..cc]	A minor
+[8aa	.
 =17	=17
-16aa_	Am
-16aa_	Am
-16aa_	Am
+16aaLL_	A minor
+16aa_	A minor
+16aaJ_	A minor
 8.aa_	.
-16aa_	Am
-16aa_	Am
-16aa_	Am
+16aaL_	A minor
+16aaJJ_	A minor
+16aa_	A minor
 4..aa]	.
 ==	==
 *-	*-

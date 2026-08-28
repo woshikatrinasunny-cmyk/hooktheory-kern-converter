@@ -16,25 +16,25 @@
 *E-:	*
 *M4/4	*
 =1	=1
-2r	E-
-2r	B-
+2r	E- major
+2r	B- major
 =2	=2
-2r	A-add(2,4,7)
-2r	A-
+2r	A- other-2,4,7
+2r	A- major
 =3	=3
-2r	E-
-2r	B-
+2r	E- major
+2r	B- major
 =4	=4
-2r	A-add(2,4,7)
-2r	A-
+2r	A- other-2,4,7
+2r	A- major
 =5	=5
-4.r	Gm
-3...r	A-
+4.r	G minor
+3...r	A- major
 =6	=6
-2r	Gm
-6...r	A-
-8.r	B-
+2r	G minor
+6...r	A- major
+8.r	B- major
 =7	=7
-2r	E-
+2r	E- major
 ==	==
 *-	*-

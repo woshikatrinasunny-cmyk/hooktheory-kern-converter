@@ -16,95 +16,95 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.ff#	F#m7
-8ee[	.
-8ee]	E/G#
+4.ff#	F# minor-seventh
+[8ee	.
+8eeL]	E major/G#
 8.ee	.
-8.cc#	.
+8.cc#J	.
 =2	=2
-4cc#	A
-8b	.
-8b[	.
-8b]	C#m7
+4cc#	A major
+8bL	.
+[8bJ	.
+8b]	C# minor-seventh
 4.a	.
 =3	=3
-4ee	Bm
+4ee	B minor
 4cc#	.
-4c#	Amaj7/C#
+4c#	A major-seventh/C#
 4r	.
 =4	=4
-4r	Dmaj7
+4r	D major-seventh
 4A	.
-8c#	Eadd(2,5,7)
-8e	.
+8c#L	E other-2,5,7
+8eJ	.
 8r	.
-8f#[	.
+[8f#	.
 =5	=5
-4f#]	F#m7
-8e	.
-8e[	.
-8e]	E
+4f#]	F# minor-seventh
+8eL	.
+[8eJ	.
+8e]	E major
 4c#	.
-8c#[	.
+[8c#	.
 =6	=6
-4c#]	Dadd(2,4,7)
+4c#]	D other-2,4,7
 4B	.
-8B	A/C#
+8B	A major/C#
 4.A	.
 =7	=7
-4B	Bm7
+4B	B minor-seventh
 4c#	.
 4c#	.
 4r	.
 =8	=8
-2.r	E7sus2
-8f#	.
-8g#	.
+2.r	E dominant-seventh-suspended-second
+8f#L	.
+8g#J	.
 =9	=9
-8a	A
-16a	.
+8aL	A major
+16ak	.
 8g#	.
 8e	.
-16e[	.
-8e]	E/G#
+[16eJk	.
+8eL]	E major/G#
 8A	.
 8f#	.
-8e	.
+8eJ	.
 =10	=10
-8e	F#m7
-16c#	.
+8eL	F# minor-seventh
+16c#Jk	.
 6...c#	.
-8d	E
+8dL	E major
 8c#	.
 8B	.
-8c#[	.
+[8c#J	.
 =11	=11
-8c#]	Bm
+8c#]	B minor
 4A	.
 8r	.
-2r	A/C#
+2r	A major/C#
 =12	=12
-2r	D
-8d	Bdim/F
+2r	D major
+8dL	B diminished/F
 8c#	.
 8B	.
-8A	.
+8AJ	.
 =13	=13
-4F#	F#m7
+4F#	F# minor-seventh
 4A	.
-4e	E
+4e	E major
 4f#	.
 =14	=14
-4e	D
-8A	.
-8A[	.
-8A]	Am7b5/C
+4e	D major
+8AL	.
+[8AJ	.
+8A]	A half-diminished/C
 4A	.
-8A[	.
+[8A	.
 =15	=15
-8A]	Bm7
+8A]	B minor-seventh
 2..r	.
 =16	=16
-1r	Amaj7
+1r	A major-seventh
 ==	==
 *-	*-

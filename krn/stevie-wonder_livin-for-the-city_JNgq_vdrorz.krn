@@ -15,106 +15,106 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8r	F#
-8een	.
-8ff#	F#
-16een	.
-8.ff#[	.
-4ff#]	G#m7/F#
-8ff#	F#m7
+8r	F# major
+8eenL	.
+8ff#	F# major
+16eenJk	.
+[8.ff#	.
+4ff#]	G# minor-seventh/F#
+8ff#	F# minor-seventh
 =2	=2
-8een	.
+8eenL	.
 8ff#	.
-8ff#	F#m7
-8een	.
-8gg#[	G#m7/F#
-8gg#]	G#m7/F#
-8ff#[	.
-8ff#]	F#
+8ff#	F# minor-seventh
+8eenJ	.
+[8gg#L	G# minor-seventh/F#
+8gg#]	G# minor-seventh/F#
+[8ff#	.
+8ff#J]	F# major
 =3	=3
-8r	F#
-8een	F#
+8r	F# major
+8eenL	F# major
 8ff#	.
-16een	.
-8.ff#[	.
-4ff#]	G#m7/F#
-8een	F#m7
+16eenJk	.
+[8.ff#	.
+4ff#]	G# minor-seventh/F#
+8een	F# minor-seventh
 =4	=4
-16aan	.
-16aa#	.
+16aanLL	.
+16aa#J	.
 8ccc#	.
-8aan	F#m7
-8gg#	.
-8ff#[	G#m7/F#
-8ff#]	G#m7/F#
-8gg#[	.
-8gg#]	F#
+8aan	F# minor-seventh
+8gg#J	.
+[8ff#L	G# minor-seventh/F#
+8ff#]	G# minor-seventh/F#
+[8gg#	.
+8gg#J]	F# major
 =5	=5
-8r	F#
-8een	.
-8ff#	F#
-16een	.
-8.ff#[	.
-4ff#]	G#m7/F#
-8ff#	F#m7
+8r	F# major
+8eenL	.
+8ff#	F# major
+16eenJk	.
+[8.ff#	.
+4ff#]	G# minor-seventh/F#
+8ff#	F# minor-seventh
 =6	=6
-8een	.
+8eenL	.
 8ff#	.
-8ff#	F#m7
-8een	.
-8gg#[	G#m7/F#
-8gg#]	G#m7/F#
-8ff#[	.
-8ff#]	F#
+8ff#	F# minor-seventh
+8eenJ	.
+[8gg#L	G# minor-seventh/F#
+8gg#]	G# minor-seventh/F#
+[8ff#	.
+8ff#J]	F# major
 =7	=7
-8r	F#
-8een	.
-8ff#	F#
-16een	.
-8.ff#[	.
-8.ff#]	G#m7/F#
-16ff#	.
-16ff#	F#m7
-16aan[	.
+8r	F# major
+8eenL	.
+8ff#	F# major
+16eenJk	.
+[8.ff#	.
+8.ff#L]	G# minor-seventh/F#
+16ff#L	.
+16ff#	F# minor-seventh
+[16aanJJ	.
 =8	=8
-8aan]	.
+8aanL]	.
 8gg#	.
-8gg#	F#m7
-16ff#	.
-16gg#[	.
-16gg#]	G#m7/F#
-16dd#[	.
-8dd#]	G#m7/F#
-16dd#	.
-16ff#[	.
-8ff#]	F#
+8gg#	F# minor-seventh
+16ff#L	.
+[16gg#JJ	.
+16gg#LL]	G# minor-seventh/F#
+[16dd#J	.
+8dd#]	G# minor-seventh/F#
+16dd#L	.
+[16ff#J	.
+8ff#J]	F# major
 =9	=9
-4gg#	G#m7/B
+4gg#	G# minor-seventh/B
 8ff#	.
 2ff#	.
-16aan	.
-16aa#[	.
+16aanLL	.
+[16aa#JJ	.
 =10	=10
-8aa#]	A#m7/C#
+8aa#]	A# minor-seventh/C#
 4aa#	.
-16gg#	.
-16ff#	.
-4dd#	C#7
-8dd#	.
-16cc#	.
-16dd#[	.
+16gg#LL	.
+16ff#JJ	.
+4dd#	C# dominant
+8dd#L	.
+16cc#L	.
+[16dd#JJ	.
 =11	=11
-8dd#]	F#
-8ff#[	.
-4.ff#_	F#
-8ff#]	G#m7/F#
+8dd#L]	F# major
+[8ff#J	.
+4.ff#_	F# major
+8ff#]	G# minor-seventh/F#
 8r	.
-8r	F#m7
+8r	F# minor-seventh
 =12	=12
 4r	.
-4r	F#m7
-8r	G#m7/F#
-4r	G#m7/F#
-8r	F#
+4r	F# minor-seventh
+8r	G# minor-seventh/F#
+4r	G# minor-seventh/F#
+8r	F# major
 ==	==
 *-	*-

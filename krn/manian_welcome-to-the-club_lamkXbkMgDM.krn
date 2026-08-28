@@ -16,129 +16,129 @@
 *a:	*
 *M4/4	*
 =1	=1
-4ee	Am
+4ee	A minor
 4a	.
-8a	.
+8aL	.
 8b	.
 8cc	.
-8a	.
+8aJ	.
 =2	=2
-4ff	F
+4ff	F major
 4a	.
-8a	.
+8aL	.
 8b	.
 8cc	.
-8dd	.
+8ddJ	.
 =3	=3
-8ee	C
+8eeL	C major
 8dd	.
-8cc	.
+8ccJ	.
 8r	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8ee	.
+8eeJ	.
 =4	=4
-8dd	G
-8cc	.
+8ddL	G major
+8ccJ	.
 4b	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8dd	.
+8ddJ	.
 =5	=5
-4ee	Am
+4ee	A minor
 4a	.
-8a	.
+8aL	.
 8b	.
 8cc	.
-8ee	.
+8eeJ	.
 =6	=6
-4ff	F
-8a	.
-8a	.
-8a	.
+4ff	F major
+8aL	.
+8aJ	.
+8aL	.
 8b	.
 8cc	.
-8ff	.
+8ffJ	.
 =7	=7
-4ee	C
+4ee	C major
 8r	.
 8ee	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8ee	.
+8eeJ	.
 =8	=8
-4dd	G
+4dd	G major
 4r	.
-8a	.
+8aL	.
 8b	.
 8cc	.
-8dd	.
+8ddJ	.
 =9	=9
-4ee	Am
+4ee	A minor
 4a	.
-8a	.
+8aL	.
 8b	.
 8cc	.
-8a	.
+8aJ	.
 =10	=10
-4ff	F
+4ff	F major
 4a	.
-8a	.
+8aL	.
 8b	.
 8cc	.
-8dd	.
+8ddJ	.
 =11	=11
-8ee	C
+8eeL	C major
 8dd	.
-8cc	.
+8ccJ	.
 8r	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8ee	.
+8eeJ	.
 =12	=12
-8dd	G
-8cc	.
+8ddL	G major
+8ccJ	.
 4b	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8dd	.
+8ddJ	.
 =13	=13
-4ee	Am
+4ee	A minor
 4a	.
-8a	.
+8aL	.
 8b	.
 8cc	.
-8ee	.
+8eeJ	.
 =14	=14
-4ff	F
-8a	.
-8ff	.
-8ff	.
+4ff	F major
+8aL	.
+8ffJ	.
+8ffL	.
 8ee	.
 8dd	.
-8ff	.
+8ffJ	.
 =15	=15
-4ee	C
+4ee	C major
 8r	.
 8ee	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8ee	.
+8eeJ	.
 =16	=16
-4dd	G
+4dd	G major
 4g	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8b	.
+8bJ	.
 =17	=17
-8a	Am
+8a	A minor
 8r	.
 8ee	.
 8r	.
@@ -147,32 +147,32 @@
 8ee	.
 8r	.
 =18	=18
-4ff	F
+4ff	F major
 4r	.
 16ff	.
 16r	.
-8ee	.
-16dd	.
+8eeL	.
+16ddJk	.
 16r	.
 8ff	.
 =19	=19
-4ee	C
+4ee	C major
 8r	.
 8g	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8ee	.
+8eeJ	.
 =20	=20
-4dd	G
+4dd	G major
 8r	.
 8dd	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8b	.
+8bJ	.
 =21	=21
-4a	Am
+4a	A minor
 8ee	.
 8r	.
 8a	.
@@ -180,30 +180,30 @@
 8ee	.
 8r	.
 =22	=22
-4ff	F
+4ff	F major
 4r	.
 16ff	.
 16r	.
-8ee	.
-16dd	.
+8eeL	.
+16ddJk	.
 16r	.
 8ff	.
 =23	=23
-4ee	C
+4ee	C major
 8r	.
 8g	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8ee	.
+8eeJ	.
 =24	=24
-4dd	G
-16ee	Am
-16ee	.
-8ee	.
-8ee	.
+4dd	G major
+16eeLL	A minor
+16eeJ	.
+8eeJ	.
+8eeL	.
 8dd	.
 8cc	.
-8b	.
+8bJ	.
 ==	==
 *-	*-

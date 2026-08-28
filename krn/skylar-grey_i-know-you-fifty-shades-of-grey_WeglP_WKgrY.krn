@@ -16,72 +16,72 @@
 *f:	*
 *M4/4	*
 =1	=1
-4.cc	Fm
-16b-	.
-16cc[	.
-4.cc]	Fadd(2,5,7)
-16b-	.
-16cc[	.
+4.cc	F minor
+16b-LL	.
+[16ccJJ	.
+4.cc]	F other-2,5,7
+16b-LL	.
+[16ccJJ	.
 =2	=2
-4..cc]	Fm/A-
-16dd-[	.
-8.dd-]	B-m
+4..cc]	F minor/A-
+[16dd-	.
+8.dd-]	B- minor
 16r	.
-8a-	.
-8cc[	.
+8a-L	.
+[8ccJ	.
 =3	=3
-16cc]	D-
-16cc	.
+16ccLL]	D- major
+16ccJJ	.
 4cc	.
 16cc	.
 8.b-	.
 8r	.
-8a-	.
-8cc[	.
+8a-L	.
+[8ccJ	.
 =4	=4
-16cc]	D-
-16cc	.
+16ccLL]	D- major
+16ccJJ	.
 4cc	.
 16cc	.
 8.b-	.
 8r	.
-8a-	.
-8cc[	.
+8a-L	.
+[8ccJ	.
 =5	=5
-4.cc]	Fm
-16b-	.
-16cc[	.
-4.cc]	Fadd(2,5,7)
-16b-	.
-16cc[	.
+4.cc]	F minor
+16b-LL	.
+[16ccJJ	.
+4.cc]	F other-2,5,7
+16b-LL	.
+[16ccJJ	.
 =6	=6
-4..cc]	Fm/A-
-16dd-[	.
-8.dd-]	B-m
+4..cc]	F minor/A-
+[16dd-	.
+8.dd-]	B- minor
 16r	.
-8a-	.
-8cc[	.
+8a-L	.
+[8ccJ	.
 =7	=7
-16cc]	D-
-16cc	.
+16ccLL]	D- major
+16ccJJ	.
 4cc	.
 16cc	.
 8.b-	.
 8r	.
-8a-	.
-8cc[	.
+8a-L	.
+[8ccJ	.
 =8	=8
-16cc]	D-
-16cc	.
+16ccLL]	D- major
+16ccJJ	.
 4cc	.
 16cc	.
 8.b-	.
 4.r	.
 =9	=9
-1aa-	Fm
+1aa-	F minor
 =10	=10
-2..gg	Gdim
-16f	.
-16f	.
+2..gg	G diminished
+16fLL	.
+16fJJ	.
 ==	==
 *-	*-

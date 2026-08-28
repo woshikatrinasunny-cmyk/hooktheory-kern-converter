@@ -16,25 +16,25 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.a	Gadd(2,4,7)
-2g#	C#m7
-16e	.
-16f#	.
+4.a	G other-2,4,7
+2g#	C# minor-seventh
+16eLL	.
+16f#JJ	.
 =2	=2
-4g	D11
+4g	D dominant-11th
 8a	.
-4.f#	Gmaj7
-8e	.
-8d	.
+4.f#	G major-seventh
+8eL	.
+8dJ	.
 =3	=3
-4.a	Gadd(2,4,7)
-2g#	C#m7
-16e	.
-16f#	.
+4.a	G other-2,4,7
+2g#	C# minor-seventh
+16eLL	.
+16f#JJ	.
 =4	=4
-8g	D11
+8gL	D dominant-11th
 8f#	.
-8e	.
-3...f#	Gmaj7
+8eJ	.
+3...f#	G major-seventh
 ==	==
 *-	*-

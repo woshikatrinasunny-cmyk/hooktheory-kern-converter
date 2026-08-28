@@ -16,63 +16,63 @@
 *c:	*
 *M3/4	*
 =1	=1
-2ee-	Cm9
+2ee-	C minor-ninth
 4bb-	.
 =2	=2
-4ff	A-maj9
+4ff	A- major-ninth
 4ee-	.
 4ff	.
 =3	=3
-8.gg	Cm9
+8.gg	C minor-ninth
 6...cc	.
 4ee-	.
 =4	=4
-2.ff	A-maj9
+2.ff	A- major-ninth
 =5	=5
-2ee-	Cm9
+2ee-	C minor-ninth
 4bb-	.
 =6	=6
-4ff	A-maj9
+4ff	A- major-ninth
 4ee-	.
 4ff	.
 =7	=7
-8.gg	Cm9
+8.gg	C minor-ninth
 6...bb-	.
 4cc	.
 =8	=8
-16gg	Gm7
+16gg	G minor-seventh
 2ff	.
-16ee-	.
-8dd	.
+16ee-LK	.
+8ddJ	.
 =9	=9
-3...cc	Fm9
-16dd	.
-16ee-	.
+3...cc	F minor-ninth
+16ddLL	.
+16ee-JJ	.
 =10	=10
-8.ff	Gm7
+8.ff	G minor-seventh
 6...b-	.
 4dd	.
 =11	=11
-4.ee-	Cadd(2,3,7)
+4.ee-	C other-2,3,7
 4.gg	.
 =12	=12
-4ccc	Am7b5
+4ccc	A half-diminished
 4gg	.
 4ee-	.
 =13	=13
-8.dd	A-add(4,7,9,11)
+8.dd	A- other-4,7,9,11
 4.cc	.
-16dd	.
-8ee-	.
+16ddLK	.
+8ee-J	.
 =14	=14
-4.dd	Gm7
+4.dd	G minor-seventh
 4.b-	.
 =15	=15
-2.dd[	Cm
+[2.dd	C minor
 =16	=16
-2dd_	Cm
-16dd]	.
-16ee-	.
-8ff	.
+2dd_	C minor
+16ddLL]	.
+16ee-J	.
+8ffJ	.
 ==	==
 *-	*-

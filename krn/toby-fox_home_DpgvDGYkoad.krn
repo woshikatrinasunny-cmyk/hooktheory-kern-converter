@@ -16,7 +16,7 @@
 *A:	*
 *M6/4	*
 =1	=1
-2.e	Dadd(2,4,7)
+2.e	D other-2,4,7
 4.ee	.
 4.cc#	.
 =2	=2
@@ -25,33 +25,33 @@
 4.g#	.
 4.a	.
 =3	=3
-4.b	Aadd(2,4,7)/C#
+4.b	A other-2,4,7/C#
 4.r	.
 4gg#	.
 4ggn	.
 4ff#	.
 =4	=4
-2.ee	C
+2.ee	C major
 2.r	.
 =5	=5
-2.f#	Bsus4
+2.f#	B suspended-fourth
 4.ee	.
 4.cc#	.
 =6	=6
-4.b	Esus4
+4.b	E suspended-fourth
 4.a	.
 4.b	.
 4.cc#	.
 =7	=7
-2.g#	Fdim
+2.g#	F diminished
 2.b	.
 =8	=8
-4.b	F#m
+4.b	F# minor
 4.a	.
-4.g#	E
+4.g#	E major
 4.a	.
 =9	=9
-2.e	Dsus2
+2.e	D suspended-second
 4.ee	.
 4.cc#	.
 =10	=10
@@ -59,32 +59,32 @@
 4.a	.
 4g#	.
 4a	.
-4b[	.
+[4b	.
 =11	=11
-2b]	C#m7
+2b]	C# minor-seventh
 4r	.
 4gg#	.
 4ggn	.
 4ff#	.
 =12	=12
-2.ee	Am/C
+2.ee	A minor/C
 2.r	.
 =13	=13
-2.f#	B7sus4
+2.f#	B dominant-seventh-suspended-fourth
 4.ee	.
 4.cc#	.
 =14	=14
-4.b	Esus4
+4.b	E suspended-fourth
 4.a	.
 4.b	.
 4.cc#	.
 =15	=15
-2.g#	Fdim
+2.g#	F diminished
 2.b	.
 =16	=16
-4.b	F#m
+4.b	F# minor
 4.a	.
-4.g#	E
+4.g#	E major
 4.a	.
 ==	==
 *-	*-

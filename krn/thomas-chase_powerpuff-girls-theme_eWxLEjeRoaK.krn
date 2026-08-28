@@ -16,32 +16,32 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.c	C
+4.c	C major
 4c	.
-8c	.
+8cL	.
 8g	.
-8b-	.
+8b-J	.
 =2	=2
-4.a	F
-4.g	C
+4.a	F major
+4.g	C major
 4r	.
 =3	=3
-4.ccc	C
+4.ccc	C major
 4ccc	.
-8ccc	.
+8cccL	.
 8ggg	.
-8bbb-	.
+8bbb-J	.
 =4	=4
-4.bbb-	B-
-4.cccc	F
+4.bbb-	B- major
+4.cccc	F major
 4r	.
 =5	=5
-4.c	C
+4.c	C major
 4c	.
-8c	.
+8cL	.
 8g	.
-8b-	.
+8b-J	.
 =6	=6
-1cc	A-
+1cc	A- major
 ==	==
 *-	*-

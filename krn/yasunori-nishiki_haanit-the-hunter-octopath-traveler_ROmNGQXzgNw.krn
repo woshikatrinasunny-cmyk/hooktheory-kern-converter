@@ -15,70 +15,70 @@
 *f:	*
 *M3/4	*
 =1	=1
-2g	Fadd(2,3,7)
-8c	.
-8g	.
+2g	F other-2,3,7
+8cL	.
+8gJ	.
 =2	=2
-4.f	Fadd(2,3,7)
+4.f	F other-2,3,7
 8f	.
-8g	.
-8a-	.
+8gL	.
+8a-J	.
 =3	=3
-2g	D-add(2,4,7)
-8c	.
-8g	.
+2g	D- other-2,4,7
+8cL	.
+8gJ	.
 =4	=4
-3...f	D-add(2,4,7)
+3...f	D- other-2,4,7
 8e-	.
 =5	=5
-2cc	A-add(2,4,7)
-8e-	.
-8cc	.
+2cc	A- other-2,4,7
+8e-L	.
+8ccJ	.
 =6	=6
-3...b-	A-add(2,4,7)
+3...b-	A- other-2,4,7
 8a-	.
 =7	=7
-2.g	E-add(2,4,7)
+2.g	E- other-2,4,7
 =8	=8
-2.e-	E-add(2,4,7)
+2.e-	E- other-2,4,7
 =9	=9
-2g	Fadd(2,3,7)
-8c	.
-8g	.
+2g	F other-2,3,7
+8cL	.
+8gJ	.
 =10	=10
-4.f	Fadd(2,3,7)
+4.f	F other-2,3,7
 8f	.
-8g	.
-8a-	.
+8gL	.
+8a-J	.
 =11	=11
-2g	D-add(2,4,7)
-8c	.
-8g	.
+2g	D- other-2,4,7
+8cL	.
+8gJ	.
 =12	=12
-2f	D-add(2,4,7)
-8e-	.
-8d-	.
+2f	D- other-2,4,7
+8e-L	.
+8d-J	.
 =13	=13
-2c	B-m7
-8d-	.
-8e-	.
+2c	B- minor-seventh
+8d-L	.
+8e-J	.
 =14	=14
-4b-	Cm7
+4b-	C minor-seventh
 4a-	.
 4g	.
 =15	=15
-8f	D-
-8g	.
+8fL	D- major
+8gJ	.
 8a-	.
 4.b-	.
 =16	=16
-2.cc	Csus4
+2.cc	C suspended-fourth
 =17	=17
-8c	.
-8f	.
+8cL	.
+8fJ	.
 8g	.
 8.cc	.
-8.ff[	.
+[8.ff	.
 =18	=18
 4.ff]	.
 ==	==

@@ -16,86 +16,86 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4r	D-
-8d-	.
-64g-	.
+4r	D- major
+8d-L	.
+64g-Jkkk	.
 8...a-	.
-8g-	E-m7/D-
-4f	D-
+8g-	E- minor-seventh/D-
+4f	D- major
 =2	=2
-4.e-	D-maj7sus2
-2f	D-
-16e-	.
-16d-	.
+4.e-	D- major-seventh-suspended-second
+2f	D- major
+16e-LL	.
+16d-JJ	.
 =3	=3
-4g-	E-m7/D-
-8g-	.
-32e-	D-
+4g-	E- minor-seventh/D-
+8g-L	.
+32e-Jkk	D- major
 8..f	.
 8e-	.
 4d-	.
 =4	=4
-8d-	G-/D-
-16A-	.
+8d-L	G- major/D-
+16A-L	.
 16B-	.
-32e-	.
-16.f	.
-3...e-	D-maj7sus2
+32e-k	.
+16.fJJ	.
+3...e-	D- major-seventh-suspended-second
 =5	=5
-4r	D-/F
-8d-	.
-64g-	.
+4r	D- major/F
+8d-L	.
+64g-Jkkk	.
 8...a-	.
-8g-	Fadd(1,3,5,7,10)
-16f	.
-16e-	D-/F
-8d-	.
+8g-L	F other-1,3,5,7,10
+16fL	.
+16e-J	D- major/F
+8d-J	.
 =6	=6
-8.an	F7/A
-16cc	.
+8.anL	F dominant/A
+16ccL	.
 16ee-	.
-16een	.
-8ee-[	B-mMaj7/A
-8ee-]	B-m
-16dd-	.
+16eenJ	.
+[8ee-J	B- major-minor/A
+8ee-L]	B- minor
+16dd-L	.
 16b-	.
-16a-	.
-8.b-[	.
+16a-J	.
+[8.b-J	.
 =7	=7
-8b-]	E-m
-16a-	.
+8b-L]	E- minor
+16a-L	.
 16b-	.
-32e-	.
+32e-k	.
 16.f	.
-16e-	E-m11
-16d-	.
-16B-	D-/F
-16d-	.
+16e-	E- minor-11th
+16d-JJ	.
+16B-LL	D- major/F
+16d-JJ	.
 4B-	.
-8A-[	.
+[8A-	.
 =8	=8
-8A-]	G-
-16A-	.
+8A-L]	G- major
+16A-L	.
 16B-	.
-32e-	.
-16.f	.
-8e-[	E-add(3,5,7,10)/G-
-2e-]	A-add(2,5,7)
+32e-k	.
+16.fJ	.
+[8e-J	E- other-3,5,7,10/G-
+2e-]	A- other-2,5,7
 =9	=9
-8r	G-
-16B-	.
+8r	G- major
+16B-LL	.
 16d-	.
-64g-	.
+64g-kk	.
 16..a-	.
-16g-	G-maj7
-16f[	.
-8f]	A-add(2,5,7,9,10)
-16e-	.
+16g-	G- major-seventh
+[16fJJ	.
+8fL]	A- other-2,5,7,9,10
+16e-k	.
 8.d-	.
-16B-	.
-16A-	.
+16B-L	.
+16A-JJ	.
 =10	=10
-24d-	A
+24d-LL	A major
 24Bn	.
 24d-	.
 24e-	.
@@ -104,19 +104,19 @@
 24en	.
 24e-	.
 24en	.
-24g-	B7/A
+24g-	B dominant/A
 24en	.
-24g-	.
-24a-	B
+24g-JJ	.
+24a-LL	B major
 24g-	.
 24a-	.
 24an	.
 24a-	.
 24an	.
-16bn	A-m7/B
+16bn	A- minor-seventh/B
 16dd-	.
-32ee-	.
-32een	.
-16ee-	.
+32ee-L	.
+32eenJ	.
+16ee-JJ	.
 ==	==
 *-	*-

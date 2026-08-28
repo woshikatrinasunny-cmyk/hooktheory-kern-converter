@@ -16,71 +16,71 @@
 *c:	*
 *M4/4	*
 =1	=1
-2.cc	A-
+2.cc	A- major
 4ee-	.
 =2	=2
-2dd	B-
-8cc	.
+2dd	B- major
+8ccL	.
 8dd	.
 8cc	.
-8b-	.
+8b-J	.
 =3	=3
-4.cc	Cm
+4.cc	C minor
 8g	.
-2g[	.
+[2g	.
 =4	=4
-2g]	Cm
-8cc	.
-8dd	E-maj7
-8ee-	E-maj7/D
-8ff	B-
+2g]	C minor
+8ccL	.
+8dd	E- major-seventh
+8ee-	E- major-seventh/D
+8ffJ	B- major
 =5	=5
-1ee-	A-/C
+1ee-	A- major/C
 =6	=6
-2ff	B-/D
-8ee-	.
+2ff	B- major/D
+8ee-L	.
 8dd	.
 8cc	.
-8b-	.
+8b-J	.
 =7	=7
-1cc[	C/E
+[1cc	C major/E
 =8	=8
-2.cc]	C/E
-8g	.
-8b-	.
+2.cc]	C major/E
+8gL	.
+8b-J	.
 =9	=9
-2.cc	A-
+2.cc	A- major
 4ee-	.
 =10	=10
-2dd	B-
-8cc	.
+2dd	B- major
+8ccL	.
 8dd	.
 8cc	.
-8b-	.
+8b-J	.
 =11	=11
-4.cc	Cm
+4.cc	C minor
 8g	.
-2g[	.
+[2g	.
 =12	=12
-2g]	Cm
-8cc	.
-8dd	E-maj7
-8ee-	E-maj7/D
-8ff	B-
+2g]	C minor
+8ccL	.
+8dd	E- major-seventh
+8ee-	E- major-seventh/D
+8ffJ	B- major
 =13	=13
-1ee-	A-/C
+1ee-	A- major/C
 =14	=14
-4ff[	B-/D
+[4ff	B- major/D
 4ff]	.
-8ee-	.
+8ee-L	.
 8dd	.
 8cc	.
-8b-	.
+8b-J	.
 =15	=15
-2.cc	C/E
+2.cc	C major/E
 4ff	.
 =16	=16
-2een	C/E
+2een	C major/E
 4gg	.
 4bb-	.
 ==	==

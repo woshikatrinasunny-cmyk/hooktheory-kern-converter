@@ -15,60 +15,60 @@
 *C:	*
 *M4/4	*
 =1	=1
-4e	C
+4e	C major
 4r	.
-4e	Am
+4e	A minor
 4r	.
 =2	=2
-16e	Fmaj7
-16f	.
+16eLL	F major-seventh
+16fJ	.
 8e	.
 8e	.
-8e	.
-8d	Gsus4
-8c	.
-4c	G
+8eJ	.
+8dL	G suspended-fourth
+8cJ	.
+4c	G major
 =3	=3
-4e	C
+4e	C major
 4r	.
-4e	Am7
+4e	A minor-seventh
 8r	.
 8c	.
 =4	=4
-8e	Fmaj7sus2
-8f	.
+8eL	F major-seventh-suspended-second
+8fJ	.
 4e	.
-16d	Gsus4
-16c	.
-8c	.
-4r	G
+16dLL	G suspended-fourth
+16cJ	.
+8cJ	.
+4r	G major
 =5	=5
-4e	C
+4e	C major
 4r	.
-4e	Am7
+4e	A minor-seventh
 4r	.
 =6	=6
-16e	Fmaj7sus2
-16f	.
+16eLL	F major-seventh-suspended-second
+16fJ	.
 8e	.
 8e	.
-8e	.
-8d	Gsus4
-8c	.
-4c	G
+8eJ	.
+8dL	G suspended-fourth
+8cJ	.
+4c	G major
 =7	=7
-4e	Am7
+4e	A minor-seventh
 4r	.
-4e	Em
+4e	E minor
 8r	.
 8c	.
 =8	=8
-8e	F
-8f	.
+8eL	F major
+8fJ	.
 4e	.
-16d	G
-16c	.
-8c	.
+16dLL	G major
+16cJ	.
+8cJ	.
 4r	.
 ==	==
 *-	*-

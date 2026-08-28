@@ -16,164 +16,164 @@
 *e:	*
 *M4/4	*
 =1	=1
-16ee	C
+16ee	C major
 8r	.
-16dd	.
-16cc	Am
-8r	.
-16ee	.
-16ff#	D
+16ddLL	.
+16ccJJ	A minor
 8r	.
 16ee	.
-16dd	D/F#
+16ff#	D major
+8r	.
+16eeLL	.
+16ddJJ	D major/F#
 8r	.
 16ff#	.
 =2	=2
-16gg	G/B
+16gg	G major/B
+8r	.
+16ff#LL	.
+16eeJJ	D dominant/A
 8r	.
 16ff#	.
-16ee	D7/A
-8r	.
-16ff#	.
-8gg	G
+8gg	G major
 8r	.
 8ggg	.
 8r	.
 =3	=3
-16ggg	Em
+16gggLL	E minor
 16ggg	.
 16ggg	.
 16ggg	.
 16fff#	.
 16eee	.
 16ddd	.
+16cccJJ	.
+16bbLL	.
+16bb	.
+16bb	.
+16bb	.
+16bb	E dominant
 16ccc	.
 16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	E7
-16ccc	.
-16bb	.
-16ccc	.
+16cccJJ	.
 =4	=4
-16aa	A/E
+16aaLL	A major/E
 16aa	.
 16aa	.
 16aa	.
-16aa	F#m7b5/E
+16aa	F# half-diminished/E
 16bb	.
 16aa	.
-16bb	.
-16gg	Em
+16bbJJ	.
+16ggLL	E minor
 16aa	.
 16ff#	.
 16gg	.
-16ee	Eadd(2,5,7)
+16ee	E other-2,5,7
 16ff#	.
 16dd#	.
-16ff#	.
+16ff#JJ	.
 =5	=5
-16gg	Em
+16ggLL	E minor
 16gg	.
 16gg	.
 16gg	.
 16ff#	.
 16ee	.
 16dd	.
+16ccJJ	.
+16bLL	.
+16b	.
+16b	.
+16b	.
+16b	E dominant
 16cc	.
 16b	.
-16b	.
-16b	.
-16b	.
-16b	E7
-16cc	.
-16b	.
-16cc	.
+16ccJJ	.
 =6	=6
-16a	A/E
+16aLL	A major/E
 16a	.
 16a	.
 16a	.
-16a	F#m7b5/E
+16a	F# half-diminished/E
 16b	.
 16a	.
-16b	.
-16g	Em
+16bJJ	.
+16gLL	E minor
 16a	.
 16f#	.
 16g	.
 16e	.
 16gg	.
 16bb	.
-16eee	.
+16eeeJJ	.
 =7	=7
-16ggg	.
+16gggLL	.
 16ggg	.
 16ggg	.
 16ggg	.
 16fff#	.
 16eee	.
 16ddd	.
+16cccJJ	.
+16bbLL	.
+16bb	.
+16bb	.
+16bb	.
+16bb	E dominant
 16ccc	.
 16bb	.
-16bb	.
-16bb	.
-16bb	.
-16bb	E7
-16ccc	.
-16bb	.
-16ccc	.
+16cccJJ	.
 =8	=8
-16aa	A/E
+16aaLL	A major/E
 16aa	.
 16aa	.
 16aa	.
-16aa	F#m7b5/E
+16aa	F# half-diminished/E
 16bb	.
 16aa	.
-16bb	.
-16gg	Em
+16bbJJ	.
+16ggLL	E minor
 16aa	.
 16ff#	.
 16gg	.
-16ee	Eadd(2,5,7)
+16ee	E other-2,5,7
 16ff#	.
 16dd#	.
-16ff#	.
+16ff#JJ	.
 =9	=9
-16gg	Em
+16ggLL	E minor
 16gg	.
 16gg	.
 16gg	.
 16ff#	.
 16ee	.
 16dd	.
+16ccJJ	.
+16bLL	.
+16b	.
+16b	.
+16b	.
+16b	E dominant
 16cc	.
 16b	.
-16b	.
-16b	.
-16b	.
-16b	E7
-16cc	.
-16b	.
-16cc	.
+16ccJJ	.
 =10	=10
-16a	A/E
+16aLL	A major/E
 16a	.
 16a	.
 16a	.
-16a	F#m7b5/E
+16a	F# half-diminished/E
 16b	.
 16a	.
-16b	.
-16g	Em
+16bJJ	.
+16gLL	E minor
 16a	.
 16f#	.
 16g	.
 16e	.
 16f#	.
 16g	.
-16b	.
+16bJJ	.
 ==	==
 *-	*-

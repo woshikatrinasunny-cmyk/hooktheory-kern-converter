@@ -16,114 +16,114 @@
 *C:	*
 *M4/4	*
 =1	=1
-16ggg	Gsus4
+16gggLL	G suspended-fourth
 16ddd	.
 16ccc	.
 16gg	.
 16ggg	.
 16ddd	.
 16ccc	.
-16gg	.
-16ggg	.
+16ggJJ	.
+16gggLL	.
 16ddd	.
 16ccc	.
 16gg	.
 16ggg	.
 16ddd	.
 16ccc	.
-16gg	.
+16ggJJ	.
 =2	=2
-16ggg	G
+16gggLL	G major
 16ddd	.
 16bb	.
 16gg	.
 16ddd	.
 16bb	.
 16gg	.
-16dd	.
-4ee	C/G
-4ff	Dm/A
+16ddJJ	.
+4ee	C major/G
+4ff	D minor/A
 =3	=3
-2gg	C
-8ddd	.
+2gg	C major
+8dddL	.
 8ccc	.
 8bb	.
-8ccc	.
+8cccJ	.
 =4	=4
-3...gg	G/B
+3...gg	G major/B
 8ee	.
 8r	.
 8ff	.
 =5	=5
-3...gg	Edim/A#
+3...gg	E diminished/A#
 4aa	.
 8ee	.
 =6	=6
-4.gg	F/A
+4.gg	F major/A
 4ff	.
 8dd	.
 8r	.
 8ee	.
 =7	=7
-3...ff	Fm/G#
+3...ff	F minor/G#
 4gg	.
 8ff	.
 =8	=8
-8ee	C/G
+8eeL	C major/G
 8dd#	.
-8ee	.
+8eeJ	.
 4.bb	.
 4aa	.
 =9	=9
-1dd	D/F#
+1dd	D major/F#
 =10	=10
-8g	G7
+8gL	G dominant
 8gg	.
-16ff#	.
+16ff#k	.
 8gg	.
-16ff#	.
-8gg	.
-8ee	.
+16ff#Jk	.
+8ggL	.
+8eeJ	.
 8r	.
 8ff	.
 =11	=11
-2gg	C
-8ddd	.
+2gg	C major
+8dddL	.
 8ccc	.
 8bb	.
-8ccc	.
+8cccJ	.
 =12	=12
-3...gg	G/B
+3...gg	G major/B
 8ee	.
 8r	.
 8ff	.
 =13	=13
-3...gg	Edim/A#
+3...gg	E diminished/A#
 4aa	.
 8ee	.
 =14	=14
-4.gg	F/A
+4.gg	F major/A
 4ff	.
 8dd	.
 8r	.
 8ee	.
 =15	=15
-3...ff	Fm/G#
+3...ff	F minor/G#
 4gg	.
 8ff	.
 =16	=16
-8ee	C/G
+8eeL	C major/G
 8dd#	.
-8ee	.
+8eeJ	.
 4.bb	.
 4aa	.
 =17	=17
-1dd	D/F#
+1dd	D major/F#
 =18	=18
-8gg	G
+8ggL	G major
 8g	.
-8dd	.
+8ddJ	.
 4.gg	.
-4gg#	G#7/F#
+4gg#	G# dominant/F#
 ==	==
 *-	*-

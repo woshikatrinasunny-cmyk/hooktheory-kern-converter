@@ -15,99 +15,99 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4ff	D-
+4ff	D- major
 4dd-	.
-4ee-	A-/C
+4ee-	A- major/C
 4cc	.
 =2	=2
-8dd-	B-m
+8dd-L	B- minor
 8cc	.
 8b-	.
-8cc	.
-4.a-	A-
-16a-	.
-16an	.
+8ccJ	.
+4.a-	A- major
+16a-LL	.
+16anJJ	.
 =3	=3
-4b-	G-
+4b-	G- major
 4dd-	.
-8b-	E-m
+8b-L	E- minor
 8bb-	.
 8aa-	.
-8gg-	.
+8gg-J	.
 =4	=4
-8ff	A-
+8ffL	A- major
 8gg-	.
 8aa-	.
-8ff	.
+8ffJ	.
 2ee-	.
 =5	=5
-4ff	D-
+4ff	D- major
 4dd-	.
-4ee-	A-/C
+4ee-	A- major/C
 4cc	.
 =6	=6
-8dd-	B-m
+8dd-L	B- minor
 8cc	.
 8b-	.
-8cc	.
-4.a-	A-
-16a-	.
-16an	.
+8ccJ	.
+4.a-	A- major
+16a-LL	.
+16anJJ	.
 =7	=7
-4b-	G-
+4b-	G- major
 4dd-	.
-8b-	E-m
+8b-L	E- minor
 8bb-	.
 8aa-	.
-8gg-	.
+8gg-J	.
 =8	=8
-8aa-	A-
+8aa-L	A- major
 8bb-	.
 8ccc	.
-8ddd-	.
+8ddd-J	.
 2eee-	.
 =9	=9
-4.ddd-	D-
+4.ddd-	D- major
 4.fff	.
 4ddd-	.
 =10	=10
-4.ccc	A-/C
+4.ccc	A- major/C
 4.eee-	.
-8ccc	.
-16aa-	.
-16aan	.
+8cccL	.
+16aa-L	.
+16aanJJ	.
 =11	=11
-4.bb-	B-m
+4.bb-	B- minor
 4.ddd-	.
 4bb-	.
 =12	=12
-4ccc	A-
-8eee-	.
-8aa-	.
-8bb-	.
-8bbn	.
+4ccc	A- major
+8eee-L	.
+8aa-J	.
+8bb-L	.
+8bbnJ	.
 4ccc	.
 =13	=13
-4.ddd-	D-
+4.ddd-	D- major
 4.fff	.
 4ddd-	.
 =14	=14
-4.ccc	A-/C
+4.ccc	A- major/C
 4.eee-	.
-8ccc	.
-16aa-	.
-16aan	.
+8cccL	.
+16aa-L	.
+16aanJJ	.
 =15	=15
-4.bb-	B-m
+4.bb-	B- minor
 4.ddd-	.
 4bb-	.
 =16	=16
-4ccc	A-
-8eee-	.
-8fff	.
-8eee-	.
+4ccc	A- major
+8eee-L	.
+8fffJ	.
+8eee-L	.
 8ddd-	.
 8ccc	.
-8aa-	.
+8aa-J	.
 ==	==
 *-	*-

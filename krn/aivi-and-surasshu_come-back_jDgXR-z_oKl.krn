@@ -16,100 +16,100 @@
 *G:	*
 *M4/4	*
 =1	=1
-4bbb	Cmaj7
+4bbb	C major-seventh
 4ee	.
 4gg	.
 4ddd	.
 =2	=2
 4ccc	.
-8.bb	Bm7
+8.bb	B minor-seventh
 4ccc	.
 4bb	.
 16gg	.
 =3	=3
-16dd#	.
-8.ee	.
+16dd#LK	.
+8.eeJ	.
 4dd	.
-4r	Am7
+4r	A minor-seventh
 4cc	.
 =4	=4
-8.dd	.
-16dd	.
-8.dd#	G#maj7
+8.ddL	.
+16ddk	.
+8.dd#J	G# major-seventh
 4dd	.
 16cc	.
-4b[	Gmaj7
+[4b	G major-seventh
 =5	=5
 8b]	.
 4.aa	.
-2ff#	D
+2ff#	D major
 =6	=6
-4r	Cmaj7
+4r	C major-seventh
 4ee	.
 4gg	.
 4ddd	.
 =7	=7
 4ccc	.
-8.bb	Bm7
+8.bb	B minor-seventh
 4eee	.
 4fff#	.
 16ggg	.
 =8	=8
-8aaa	D#7/A#
-8bbb	.
+8aaaL	D# dominant/A#
+8bbbJ	.
 4ddd#	.
-8.eee	Am7
+8.eee	A minor-seventh
 4aa	.
-16bb[	.
+[16bb	.
 =9	=9
-8.bb]	.
-16ccc	.
+8.bbL]	.
+16cccL	.
 16ddd	.
-16ccc	.
-8bb	.
+16cccJ	.
+8bbJ	.
 4gg	.
-8.ee	D
-16ff#	.
+8.eeL	D major
+16ff#Jk	.
 =10	=10
-8r	D
+8r	D major
 4gg	.
 8aa	.
-2ee[	Am7/C
+[2ee	A minor-seventh/C
 =11	=11
 4ee]	.
-8r	Bm7
+8r	B minor-seventh
 4dd	.
-8.ee	.
-8.ff#	.
+8.eeL	.
+8.ff#J	.
 =12	=12
-8.gg	Am7
-16ee[	.
-8ee]	Dadd(2,5,7)
+8.ggL	A minor-seventh
+[16eek	.
+8eeJ]	D other-2,5,7
 4.aa	.
-8.ee	D
-16ff#	.
+8.eeL	D major
+16ff#Jk	.
 =13	=13
 8r	.
 4gg	.
 8aa	.
-4.ee	Am7/C
-8b[	.
+4.ee	A minor-seventh/C
+[8b	.
 =14	=14
 4b]	.
-8.dd	Bm7
+8.dd	B minor-seventh
 8.ee	.
 4ff#	.
-8gg[	.
+[8gg	.
 =15	=15
-16gg]	D7
+16ggLK]	D dominant
 8ff#	.
-16gg	.
-16aa	.
+16ggL	.
+16aaJ	.
 8bb	.
-16ddd	.
-16eee	.
+16dddJk	.
+16eeeLK	.
 8ggg	.
-16aaa	.
-4ggg	G#maj7
+16aaaJk	.
+4ggg	G# major-seventh
 ==	==
 *-	*-

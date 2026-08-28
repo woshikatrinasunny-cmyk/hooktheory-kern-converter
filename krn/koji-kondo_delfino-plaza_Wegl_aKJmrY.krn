@@ -16,20 +16,20 @@
 *A:	*
 *M4/4	*
 =1	=1
-8r	A
+8r	A major
 16a	.
 16r	.
 16a	.
 16r	.
 16a	.
 16r	.
-4g	A11
+4g	A dominant-11th
 16g	.
 16r	.
 16g	.
 16r	.
 =2	=2
-2e	A
+2e	A major
 2A	.
 =3	=3
 8r	.
@@ -39,30 +39,30 @@
 16r	.
 16a	.
 16r	.
-4g	A11
+4g	A dominant-11th
 16b	.
 16r	.
 16g	.
 16r	.
 =4	=4
-1a	A
+1a	A major
 =5	=5
 *k[b-]	*
 *C:	*
-8r	C
+8r	C major
 16cc	.
 16r	.
 16cc	.
 16r	.
 16cc	.
 16r	.
-4b-	C11
+4b-	C dominant-11th
 16b-	.
 16r	.
 16b-	.
 16r	.
 =6	=6
-2g	C
+2g	C major
 2c	.
 =7	=7
 8r	.
@@ -72,47 +72,47 @@
 16r	.
 16cc	.
 16r	.
-4b-	C11
+4b-	C dominant-11th
 16dd	.
 16r	.
 16b-	.
 16r	.
 =8	=8
-2.cc[	C
-4cc]	C7/B-
+[2.cc	C major
+4cc]	C dominant/B-
 =9	=9
 *k[f#c#g#]	*
 *A:	*
-8r	F#m7
+8r	F# minor-seventh
 16a	.
 16r	.
 16a	.
 16r	.
 16a	.
 16r	.
-4a	B7
+4a	B dominant
 16f#	.
 16r	.
 16a	.
 16r	.
 =10	=10
-2g#	E
-2f#[	E9
+2g#	E major
+[2f#	E dominant-ninth
 =11	=11
-8f#]	C#m7
-16a	.
+8f#L]	C# minor-seventh
+16aJk	.
 16r	.
 16a	.
 16r	.
 16a	.
 16r	.
-4a	F#add(3,4,7,10)
+4a	F# other-3,4,7,10
 16e	.
 16r	.
 16a	.
 16r	.
 =12	=12
-2f#	Bm7
-2e	E7/G#
+2f#	B minor-seventh
+2e	E dominant/G#
 ==	==
 *-	*-

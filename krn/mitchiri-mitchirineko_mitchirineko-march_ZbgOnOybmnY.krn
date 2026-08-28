@@ -16,95 +16,95 @@
 *A:	*
 *M4/4	*
 =1	=1
-8r	E7
-8r	E7
-8r	E7
-8r	E7
-8r	E7
+8r	E dominant
+8r	E dominant
+8r	E dominant
+8r	E dominant
+8r	E dominant
 4r	.
 8e	.
 =2	=2
-4a[	A
-8a]	A/E
-8e	.
-4a[	E/G#
-8a]	E
-8e	.
+[4a	A major
+8aL]	A major/E
+8eJ	.
+[4a	E major/G#
+8aL]	E major
+8eJ	.
 =3	=3
-8a	F#m
+8aL	F# minor
 8b	.
-8cc#	F#m/C#
-8dd	.
-4ee	E
-8a[	Esus4
-8a]	E
+8cc#	F# minor/C#
+8ddJ	.
+4ee	E major
+[8aL	E suspended-fourth
+8aJ]	E major
 =4	=4
-8r	D
-8ff#	.
-8ee	D/A
-16dd	.
-16cc#[	.
-8cc#]	E7
+8r	D major
+8ff#L	.
+8ee	D major/A
+16ddL	.
+[16cc#JJ	.
+8cc#L]	E dominant
 8dd	.
-8b	E
-16g#	.
-16a[	.
+8b	E major
+16g#L	.
+[16aJJ	.
 =5	=5
-4a_	A
-4a]	A/E
-8r	A7
-8a	.
-8b	A/E
-8cc#	A
+4a_	A major
+4a]	A major/E
+8r	A dominant
+8aL	.
+8b	A major/E
+8cc#J	A major
 =6	=6
-4dd	D
-4cc#	Dmaj7
-8b[	E
-8b]	E
-8r	Esus2
-8e	E/G#
+4dd	D major
+4cc#	D major-seventh
+[8bL	E major
+8bJ]	E major
+8r	E suspended-second
+8e	E major/G#
 =7	=7
-4a[	A
-8a]	A/E
-8e	.
-4a[	E/G#
-8a]	E
-8e	.
+[4a	A major
+8aL]	A major/E
+8eJ	.
+[4a	E major/G#
+8aL]	E major
+8eJ	.
 =8	=8
-8a	F#m
+8aL	F# minor
 8b	.
-8cc#	F#m/C#
-8dd	.
-4ee	E
-8a[	Esus4
-8a]	E
+8cc#	F# minor/C#
+8ddJ	.
+4ee	E major
+[8aL	E suspended-fourth
+8aJ]	E major
 =9	=9
-8r	D
-8ff#	.
-8ee	D/A
-16dd	.
-16cc#[	.
-8cc#]	E7
+8r	D major
+8ff#L	.
+8ee	D major/A
+16ddL	.
+[16cc#JJ	.
+8cc#L]	E dominant
 8dd	.
-8b	E
-16g#	.
-16a[	.
+8b	E major
+16g#L	.
+[16aJJ	.
 =10	=10
-4a_	A
-4a]	A/E
-8r	A7
-8a	.
-8b	A/E
-8cc#	A
+4a_	A major
+4a]	A major/E
+8r	A dominant
+8aL	.
+8b	A major/E
+8cc#J	A major
 =11	=11
-4dd	D
-4cc#	Dmaj7
-4b	E
-8g#[	E
-8g#]	E
+4dd	D major
+4cc#	D major-seventh
+4b	E major
+[8g#L	E major
+8g#J]	E major
 =12	=12
-2.a	A
+2.a	A major
 8r	.
-8r	Aadd(2,4,7)
+8r	A other-2,4,7
 ==	==
 *-	*-

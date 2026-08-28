@@ -16,69 +16,69 @@
 *G:	*
 *M4/4	*
 =1	=1
-4d	G
+4d	G major
 4r	.
-8b	.
-16a	.
+8bL	.
+16ak	.
 8g	.
-8.a	.
+8.aJ	.
 =2	=2
-4f#	B
+4f#	B major
 8r	.
 8d#	.
-8b	.
+8bL	.
 8a	.
 8g	.
-16f#	.
-16g[	.
+16f#L	.
+[16gJJ	.
 =3	=3
-4g]	C
+4g]	C major
 8.r	.
 16d	.
-16b	.
+16bLK	.
 8a	.
 8g	.
 8f#	.
-16g[	.
+[16gJk	.
 =4	=4
-4g]	Cm
+4g]	C minor
 4d	.
-8b	.
+8bL	.
 8a	.
 8g	.
-16f#	.
-16g[	.
+16f#L	.
+[16gJJ	.
 =5	=5
-4g]	G
+4g]	G major
 8r	.
 8d	.
-8.b	.
-16a	.
-16g	.
-8.a	.
+8.bL	.
+16aL	.
+16gJ	.
+8.aJ	.
 =6	=6
-4f#	B
+4f#	B major
 4d#	.
 4B	.
 8r	.
-16A	.
-16A[	.
+16ALL	.
+[16AJJ	.
 =7	=7
-16A]	C
-8G	.
+16ALK]	C major
+8GJ	.
 6...r	.
-8b	.
+8bL	.
 8a	.
-16g	.
+16gk	.
 8a	.
-16g[	.
+[16gJk	.
 =8	=8
-16g]	Cm
+16g]	C minor
 8.r	.
 4d#	.
 4.b	.
 8r	.
 =9	=9
-1r	Gmaj7
+1r	G major-seventh
 ==	==
 *-	*-

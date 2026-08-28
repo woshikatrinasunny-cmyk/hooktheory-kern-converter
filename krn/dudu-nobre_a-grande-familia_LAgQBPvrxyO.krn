@@ -16,24 +16,24 @@
 *E-:	*
 *M4/4	*
 =1	=1
-2r	B-
-8.b-	.
+2r	B- major
+8.b-L	.
 8.cc	.
-8b-	.
+8b-J	.
 =2	=2
 4cc	.
 8b-	.
 4.cc	.
-8dd	.
-8ff[	.
+8ddL	.
+[8ffJ	.
 =3	=3
-4ff]	E-
+4ff]	E- major
 4..ee-	.
 6...r	.
 =4	=4
 1r	.
 =5	=5
-2r	E-m
+2r	E- minor
 4ff	.
 4ff	.
 =6	=6
@@ -41,156 +41,156 @@
 8ff	.
 4ff	.
 4ff	.
-8ee-[	.
+[8ee-	.
 =7	=7
-8ee-]	B-
+8ee-]	B- major
 4.dd	.
 2r	.
 =8	=8
 4r	.
-8r	B-
+8r	B- major
 8r	.
-8r	A
+8r	A major
 8r	.
-8r	A-
+8r	A- major
 8r	.
 =9	=9
-2r	G
+2r	G major
 4dd-	.
 4dd	.
 =10	=10
 4gg	.
 4ff	.
 4ee-	.
-4dd[	.
+[4dd	.
 =11	=11
-4dd]	C7
+4dd]	C dominant
 2.b-	.
 =12	=12
 1r	.
 =13	=13
-8r	F7
-8.f	.
-8.an	.
-8.cc	.
+8r	F dominant
+8.fL	.
+8.anJ	.
+8.ccL	.
 8.ee-	.
-8gg	.
+8ggJ	.
 =14	=14
 4.ff	.
 4.cc	.
 4dd	.
 =15	=15
-8b-	B-
+8b-	B- major
 2r	.
+8fL	.
 8f	.
-8f	.
-8f	.
+8fJ	.
 =16	=16
-8e-	F
+8e-L	F major
 8f	.
 8dd	.
-8dd	.
-8e-	.
+8ddJ	.
+8e-L	.
 8f	.
 8dd	.
-8dd	.
+8ddJ	.
 =17	=17
-8f	B-
+8fL	B- major
 8f	.
 8f	.
+8fJ	.
+8fL	.
 8f	.
 8f	.
-8f	.
-8f	.
-8f	.
+8fJ	.
 =18	=18
-8e-	F
+8e-L	F major
 8f	.
 8dd	.
-8cc	.
-8e-	.
+8ccJ	.
+8e-L	.
 8f	.
 8dd	.
-8cc	.
+8ccJ	.
 =19	=19
-8f	B-
+8f	B- major
 2r	.
+8fL	.
 8f	.
-8f	.
-8f	.
+8fJ	.
 =20	=20
-8e-	F
+8e-L	F major
 8f	.
 8dd	.
-8dd	.
-8e-	.
+8ddJ	.
+8e-L	.
 8f	.
 8dd	.
-8dd	.
+8ddJ	.
 =21	=21
-8f	B-
+8fL	B- major
 8f	.
 8f	.
-8f	.
-8f	.
+8fJ	.
+8fL	.
 8an	.
 8an	.
-8an	.
+8anJ	.
 =22	=22
-8an	A
+8anL	A major
 8an	.
 8an	.
+8anJ	.
+8anL	.
 8an	.
 8an	.
-8an	.
-8an	.
-8an	.
+8anJ	.
 =23	=23
-8an	Dm
+8an	D minor
 2r	.
+8fL	.
 8f	.
-8f	.
-8f	.
+8fJ	.
 =24	=24
-2e-	E-
-2en	E-m
+2e-	E- major
+2en	E- minor
 =25	=25
-8f	B-
+8fL	B- major
 8f	.
 8f	.
-8f	.
-8g-	G7
+8fJ	.
+8g-L	G dominant
 8g-	.
 8g-	.
-8g-	.
+8g-J	.
 =26	=26
-8g	C7
+8gL	C dominant
 8g	.
 8g	.
-8b-	.
-8dd	F7
+8b-J	.
+8ddL	F dominant
 8cc	.
 8an	.
-8f	.
+8fJ	.
 =27	=27
-8b-	B-
+8b-	B- major
 4.r	.
-2dd	B-
+2dd	B- major
 =28	=28
-8dd-	D-
+8dd-L	D- major
 8cc	.
 8b-	.
-8a-	.
-8g-	F7
+8a-J	.
+8g-L	F dominant
 8f	.
 8e-	.
-8d	.
+8dJ	.
 =29	=29
-8B-	B-
-8d	B-
+8B-L	B- major
+8dJ	B- major
 8r	.
-8f	B-
-8b-	B-
+8f	B- major
+8b-	B- major
 4.r	.
 ==	==
 *-	*-

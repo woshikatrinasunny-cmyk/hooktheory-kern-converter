@@ -16,81 +16,81 @@
 *F#:	*
 *M3/4	*
 =1	=1
-8g#	F#
+8g#	F# major
 4a#	.
 4.a#	.
 =2	=2
-2a#	Badd(2,4,7)
+2a#	B other-2,4,7
 8r	.
-16f#	.
-16f#	.
+16f#LL	.
+16f#JJ	.
 =3	=3
-8g#	F#
+8g#	F# major
 4a#	.
 4.a#	.
 =4	=4
-4a#	Badd(2,4,7)
+4a#	B other-2,4,7
 4g#	.
-8f#	.
-8a#[	.
+8f#L	.
+[8a#J	.
 =5	=5
-8a#]	F#
+8a#]	F# major
 4.f#	.
 8r	.
-16f#	.
-16g#	.
+16f#LL	.
+16g#JJ	.
 =6	=6
-4a#	Badd(2,4,7)
+4a#	B other-2,4,7
 4g#	.
 8r	.
 8f#	.
 =7	=7
-8g#	D#m7
-8a#	.
+8g#L	D# minor-seventh
+8a#J	.
 4a#	.
-8g#	.
-8g#[	.
+8g#L	.
+[8g#J	.
 =8	=8
-4g#]	G#sus4
+4g#]	G# suspended-fourth
 2r	.
 =9	=9
-4r	F#
+4r	F# major
 8f#	.
 4a#	.
 8f#	.
 =10	=10
-4f#	Badd(2,4,7)
+4f#	B other-2,4,7
 4.r	.
 8f#	.
 =11	=11
-4cc#	F#
+4cc#	F# major
 8b	.
 4a#	.
-8a#[	.
+[8a#	.
 =12	=12
-4a#]	Badd(2,4,7)
+4a#]	B other-2,4,7
 8g#	.
 4f#	.
-8a#[	.
+[8a#	.
 =13	=13
-8a#]	F#
+8a#]	F# major
 4.f#	.
 8r	.
-16f#	.
-16g#	.
+16f#LL	.
+16g#JJ	.
 =14	=14
-8a#	Badd(2,4,7)
+8a#	B other-2,4,7
 4g#	.
 4f#	.
 8f#	.
 =15	=15
-8g#	D#m7
-8a#	.
+8g#L	D# minor-seventh
+8a#J	.
 4a#	.
-8g#	.
-8g#[	.
+8g#L	.
+[8g#J	.
 =16	=16
-4g#]	G#sus4
+4g#]	G# suspended-fourth
 2r	.
 ==	==
 *-	*-

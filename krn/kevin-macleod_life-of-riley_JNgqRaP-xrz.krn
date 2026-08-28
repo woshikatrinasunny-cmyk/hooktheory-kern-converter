@@ -15,52 +15,52 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4ggg	.
-8.ggg	.
+8.gggL	.
 8ggg	.
-16eee	.
+16eeeL	.
 16ddd	.
-16eee	.
+16eeeJJ	.
 =2	=2
-2fff	F
-2r	G
+2fff	F major
+2r	G major
 =3	=3
-8r	C
+8r	C major
 8ggg	.
 4..ggg	.
-8ggg	.
-16eee	.
+8gggL	.
+16eeeL	.
 16ddd	.
-16eee	.
+16eeeJJ	.
 =4	=4
-4..fff	F
+4..fff	F major
 16eee	.
-2ddd	G
+2ddd	G major
 =5	=5
-4ggg	C
+4ggg	C major
 4ggg	.
-8.ggg	.
+8.gggL	.
 8ggg	.
-16eee	.
+16eeeL	.
 16ddd	.
-16eee	.
+16eeeJJ	.
 =6	=6
-2fff	F
-4.r	G
-8aaa[	.
+2fff	F major
+4.r	G major
+[8aaa	.
 =7	=7
-4aaa]	C
+4aaa]	C major
 4ggg	.
-8.ggg	.
+8.gggL	.
 8ggg	.
-16eee	.
+16eeeL	.
 16ccc	.
-16eee	.
+16eeeJJ	.
 =8	=8
-4..fff	F
+4..fff	F major
 16eee	.
-4ddd	G
+4ddd	G major
 4ddd	.
 ==	==
 *-	*-

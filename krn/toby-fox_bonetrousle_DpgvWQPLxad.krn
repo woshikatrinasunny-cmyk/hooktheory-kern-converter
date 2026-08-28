@@ -16,33 +16,33 @@
 *c:	*
 *M4/4	*
 =1	=1
-8r	Fm
+8r	F minor
 16f	.
 16r	.
 16a-	.
 16r	.
 16cc	.
 16r	.
-8.ff	.
-16gg	.
+8.ffL	.
+16ggJk	.
 4aa-	.
 =2	=2
-16gg	G
+16gg	G major
 16r	.
 16ff	.
 16r	.
 4dd	.
 8bn	.
 16r	.
-16dd	.
-16ee-	.
+16ddLL	.
+16ee-JJ	.
 16r	.
 16dd	.
 16r	.
 =3	=3
-8cc	A-
+8ccL	A- major
 8bn	.
-16cc	.
+16ccJk	.
 16r	.
 8dd	.
 8ee-	.
@@ -50,11 +50,11 @@
 8cc	.
 8r	.
 =4	=4
-8bn	G
+8bnL	G major
 8cc	.
-8dd	.
+8ddJ	.
 8r	.
-8cc	Cm
+8cc	C minor
 8r	.
 8ccc	.
 ==	==

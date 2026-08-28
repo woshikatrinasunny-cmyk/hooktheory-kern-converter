@@ -16,83 +16,83 @@
 *g#:	*
 *M4/4	*
 =1	=1
-8a#	G#m
+8a#L	G# minor
 8b	.
 8dd#	.
-8g#	.
-8a#	G#sus2
+8g#J	.
+8a#	G# suspended-second
 4b	.
-8f#[	.
+[8f#	.
 =2	=2
-2f#]	G#m
-2r	G#sus2
+2f#]	G# minor
+2r	G# suspended-second
 =3	=3
-8a#	G#m
+8a#L	G# minor
 8b	.
 8ff#	.
-8a#	.
-8b	G#sus2
+8a#J	.
+8bL	G# suspended-second
 8ee	.
 8a#	.
-8b	.
+8bJ	.
 =4	=4
-2dd#	G#m
-4r	G#sus2
+2dd#	G# minor
+4r	G# suspended-second
 4dd#	.
 =5	=5
-4dd#	F#
-8ee	.
-8cc#[	.
-2cc#]	F#sus2
+4dd#	F# major
+8eeL	.
+[8cc#J	.
+2cc#]	F# suspended-second
 =6	=6
-4r	F#
+4r	F# major
 4ee	.
-8ee	F#sus2
+8eeL	F# suspended-second
 8dd#	.
 8cc#	.
-8dd#[	.
+[8dd#J	.
 =7	=7
-2dd#]	G#m
-2r	G#sus2
+2dd#]	G# minor
+2r	G# suspended-second
 =8	=8
-8r	G#m
-8b	.
+8r	G# minor
+8bL	.
 8ff#	.
-8b	.
-4ee	G#sus2
-8b	.
-8dd#	.
+8bJ	.
+4ee	G# suspended-second
+8bL	.
+8dd#J	.
 =9	=9
-2dd#	G#m
-2r	G#sus2
+2dd#	G# minor
+2r	G# suspended-second
 =10	=10
-4.r	G#m
+4.r	G# minor
 8g#	.
-8dd#	G#sus2
+8dd#L	G# suspended-second
 8dd#	.
 8dd#	.
-8dd#[	.
+[8dd#J	.
 =11	=11
-8dd#]	E
-4.b[	.
-4b]	Esus2
+8dd#]	E major
+[4.b	.
+4b]	E suspended-second
 4r	.
 =12	=12
-4r	E
-8dd#	.
-8dd#[	.
-4dd#]	Esus2
+4r	E major
+8dd#L	.
+[8dd#J	.
+4dd#]	E suspended-second
 4cc#	.
 =13	=13
-4dd#	F#
-8ee	.
-8cc#[	.
-8cc#]	F#sus2
+4dd#	F# major
+8eeL	.
+[8cc#J	.
+8cc#]	F# suspended-second
 4.r	.
 =14	=14
-4r	F#
+4r	F# major
 2r	.
-8cc#	.
-8b	.
+8cc#L	.
+8bJ	.
 ==	==
 *-	*-

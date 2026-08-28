@@ -15,119 +15,119 @@
 *F:	*
 *M4/4	*
 =1	=1
-4r	F
+4r	F major
 4a	.
-8a	.
+8aL	.
 8b-	.
 8cc	.
-8cc[	C/E
+[8ccJ	C major/E
 =2	=2
 8cc]	.
 4b-	.
-8a[	.
-8a]	A
+[8a	.
+8aL]	A major
 8g	.
 8f	.
-8g[	.
+[8gJ	.
 =3	=3
-8g]	Dm
-8f	.
+8gL]	D minor
+8fJ	.
 4cc	.
-8cc	Dm7/C
+8cc	D minor-seventh/C
 4ff	.
-8ee-[	F7
+[8ee-	F dominant
 =4	=4
 8ee-]	.
 4ee-	.
 4ee-	.
 4ff	.
-8dd[	B-
+[8dd	B- major
 =5	=5
 4dd]	.
 8b-	.
 4b-	.
-8cc	.
+8ccL	.
 8dd	.
-8cc[	F/A
+[8ccJ	F major/A
 =6	=6
 8cc]	.
 4ff	.
 4f	.
-8g	.
+8gL	.
 8a	.
-8a[	Gm7
+[8aJ	G minor-seventh
 =7	=7
-8a]	.
+8aL]	.
 8g	.
 8ff	.
-8ff	.
-8ff	.
+8ffJ	.
+8ffL	.
 8gg	.
 8aa	.
-8aa[	Am/C
+[8aaJ	A minor/C
 =8	=8
-8aa]	.
+8aaL]	.
 8bb-	.
-8aa	.
-4gg	C7
-8cc	.
+8aaJ	.
+4gg	C dominant
+8ccL	.
 8dd	.
-8cc	.
+8ccJ	.
 =9	=9
-4ccc	Am
+4ccc	A minor
 4ccc	.
-8ccc	Dm7
+8cccL	D minor-seventh
 8a	.
 8b-	.
-8cc[	B-add(2,4,7)
+[8ccJ	B- other-2,4,7
 =10	=10
-8cc]	.
+8ccL]	.
 8b-	.
 8a	.
-8g[	.
-8g]	C7
+[8gJ	.
+8gL]	C dominant
 8g	.
 8a	.
-8b-	.
+8b-J	.
 =11	=11
-4ccc	Am
+4ccc	A minor
 4ccc	.
-8ccc	Dm7
+8cccL	D minor-seventh
 8ff	.
 8ff	.
-8ff[	B-add(2,4,7)
+[8ffJ	B- other-2,4,7
 =12	=12
-8ff]	.
+8ffL]	.
 8ee	.
 8ff	.
-8cc[	.
-8cc]	C7
+[8ccJ	.
+8ccL]	C dominant
 8b-	.
 8a	.
-8b-	.
+8b-J	.
 =13	=13
-4ccc	Am
+4ccc	A minor
 4ccc	.
-8ccc	Dm7
+8cccL	D minor-seventh
 8a	.
 8b-	.
-8cc[	C7
+[8ccJ	C dominant
 =14	=14
-8cc]	.
+8ccL]	.
 8ff	.
-8ee	.
-4ff	F/A
+8eeJ	.
+4ff	F major/A
+8ccL	.
 8cc	.
-8cc	.
-8cc	.
+8ccJ	.
 =15	=15
-8bb-	B-m
+8bb-L	B- minor
 8bb-	.
-8bb-	.
-4bb-	C7
-8aa-	.
+8bb-J	.
+4bb-	C dominant
+8aa-L	.
 8gg	.
-8ff[	F
+[8ffJ	F major
 =16	=16
 1ff]	.
 ==	==

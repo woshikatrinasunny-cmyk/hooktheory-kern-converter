@@ -16,7 +16,7 @@
 *g:	*
 *M4/4	*
 =1	=1
-16d	Gm
+16d	G minor
 16r	.
 16d	.
 16r	.
@@ -24,15 +24,15 @@
 16r	.
 16d	.
 16r	.
-16g	Gm7/F
+16g	G minor-seventh/F
 16r	.
 16d	.
 16r	.
-16f	.
-16g	.
+16fLL	.
+16gJJ	.
 8r	.
 =2	=2
-16d	E-maj7
+16d	E- major-seventh
 16r	.
 16d	.
 16r	.
@@ -40,15 +40,15 @@
 16r	.
 16d	.
 16r	.
-16g	Gm7/F
+16g	G minor-seventh/F
 16r	.
 16d	.
 16r	.
-16f	.
-16g	.
+16fLL	.
+16gJJ	.
 8r	.
 =3	=3
-16d	Gm
+16d	G minor
 16r	.
 16d	.
 16r	.
@@ -56,15 +56,15 @@
 16r	.
 16d	.
 16r	.
-16g	Gm7/F
+16g	G minor-seventh/F
 16r	.
 16d	.
 16r	.
-16f	.
-16g	.
+16fLL	.
+16gJJ	.
 8r	.
 =4	=4
-16d	E-maj7
+16d	E- major-seventh
 16r	.
 16d	.
 16r	.
@@ -72,44 +72,44 @@
 16r	.
 16d	.
 16r	.
-16g	Gm7/F
+16g	G minor-seventh/F
 16r	.
 16d	.
 16r	.
-16f	.
-16g	.
+16fLL	.
+16gJJ	.
 8r	.
 =5	=5
-4.g	Gm
+4.g	G minor
 2b-	.
-16a	.
-16b-	.
+16aLL	.
+16b-JJ	.
 =6	=6
-4.cc	Gm11
+4.cc	G minor-11th
 4.b-	.
 4a	.
 =7	=7
-4.b-	E-maj7
+4.b-	E- major-seventh
 3...g	.
 =8	=8
-8.d	D
-8.a	.
+8.dL	D major
+8.aJ	.
 3...dd	.
 =9	=9
-4.g	Gm
+4.g	G minor
 2b-	.
-16a	.
-16b-	.
+16aLL	.
+16b-JJ	.
 =10	=10
-4.cc	Gm11
+4.cc	G minor-11th
 4.b-	.
 4a	.
 =11	=11
-4.b-	E-maj7
+4.b-	E- major-seventh
 3...g	.
 =12	=12
-8.d	D
-8.a	.
+8.dL	D major
+8.aJ	.
 3...dd	.
 ==	==
 *-	*-

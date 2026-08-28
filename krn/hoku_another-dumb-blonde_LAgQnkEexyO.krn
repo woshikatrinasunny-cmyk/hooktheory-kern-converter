@@ -21,48 +21,48 @@
 4cc	.
 8dd	.
 =2	=2
-2dd	G
+2dd	G major
 8b	.
 4cc	.
-8dd[	.
+[8dd	.
 =3	=3
-4dd_	G7/F
-4dd]	F
-8b	.
+4dd_	G dominant/F
+4dd]	F major
+8bL	.
 8cc	.
 8dd	.
-8dd[	.
+[8ddJ	.
 =4	=4
-8dd]	C
+8dd]	C major
 4dd	.
 4dd	.
 4ee	.
-8g[	.
+[8g	.
 =5	=5
-4g]	Fadd(2,5,7)
+4g]	F other-2,5,7
 4r	.
 8g	.
 4a	.
-8b[	.
+[8b	.
 =6	=6
-8b]	G
+8b]	G major
 4b	.
 8a#	.
 4a	.
-8g	.
-8a[	.
+8gL	.
+[8aJ	.
 =7	=7
-4a]	F
+4a]	F major
 8r	.
 8g	.
 8a	.
 4a	.
-8g[	.
+[8g	.
 =8	=8
-4g]	C
+4g]	C major
 2.r	.
 =9	=9
-2r	F
+2r	F major
 8b	.
 4cc	.
 8dd	.

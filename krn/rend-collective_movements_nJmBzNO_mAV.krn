@@ -17,45 +17,45 @@
 *M4/4	*
 =1	=1
 3...r	.
+8dL	.
 8d	.
-8d	.
-8d	.
+8dJ	.
 =2	=2
-4a	Gadd(2,4,7)
+4a	G other-2,4,7
 8.a	.
-2f#[	.
+[2f#	.
 16f#]	.
 =3	=3
-3...r	Gadd(2,4,7)
+3...r	G other-2,4,7
 8d	.
 4d	.
 =4	=4
-3...a	D
+3...a	D major
 4a	.
 8a	.
 =5	=5
-2e	A
+2e	A major
 4r	.
-8d	.
-8d	.
+8dL	.
+8dJ	.
 =6	=6
-4a	Gadd(2,4,7)
+4a	G other-2,4,7
 8a	.
 2f#	.
 8d	.
 =7	=7
-2e	Gadd(2,4,7)
+2e	G other-2,4,7
 4r	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 =8	=8
-4.f#	D
+4.f#	D major
 8f#	.
 8f#	.
 4g	.
-8f#[	.
+[8f#	.
 =9	=9
-8f#]	A
+8f#]	A major
 4e	.
 4e	.
 4.r	.

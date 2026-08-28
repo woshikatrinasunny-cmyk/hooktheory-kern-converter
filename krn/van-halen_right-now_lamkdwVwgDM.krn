@@ -16,82 +16,82 @@
 *F:	*
 *M4/4	*
 =1	=1
-4cc	F
+4cc	F major
 3...r	.
-8r	F/A
+8r	F major/A
 =2	=2
 2r	.
 4f	.
-8d	.
-8f[	B-sus2
+8dL	.
+[8fJ	B- suspended-second
 =3	=3
 8f]	.
 4g	.
 2r	.
-8r	C
+8r	C major
 =4	=4
 2r	.
 4dd	.
 4r	.
 =5	=5
-4cc	F
+4cc	F major
 4r	.
 4cc	.
-8cc[	.
-8cc]	F/A
+[8ccL	.
+8ccJ]	F major/A
 =6	=6
 2r	.
 4cc	.
-8dd[	.
-8dd_	B-sus2
+[8ddL	.
+8ddJ_	B- suspended-second
 =7	=7
 2dd]	.
 4cc	.
-8cc[	.
-8cc]	C
+[8ccL	.
+8ccJ]	C major
 =8	=8
 2r	.
 4dd	.
 4r	.
 =9	=9
-4cc	F
+4cc	F major
 4r	.
 4cc	.
-8cc[	.
-8cc]	F/A
+[8ccL	.
+8ccJ]	F major/A
 =10	=10
 2cc	.
 4f	.
-8f	.
-8f	B-sus2
+8fL	.
+8fJ	B- suspended-second
 =11	=11
 2r	.
-16f	.
-8f	.
+16fLK	.
+8fJ	.
 8.r	.
-8r	C
+8r	C major
 =12	=12
 8dd	.
 4.r	.
 8e	.
 4e	.
-8f[	.
+[8f	.
 =13	=13
-2f]	B-sus2
+2f]	B- suspended-second
 2r	.
 =14	=14
 1r	.
 =15	=15
 4r	.
 4a	.
-4.b-[	.
-8b-]	B-
+[4.b-	.
+8b-]	B- major
 =16	=16
-4a[	F/A
-8a]	Gm
-8a[	.
-4a]	F
-8f[	.
-8f]	Dm
+[4a	F major/A
+8aL]	G minor
+[8aJ	.
+4a]	F major
+[8fL	.
+8fJ]	D minor
 ==	==
 *-	*-

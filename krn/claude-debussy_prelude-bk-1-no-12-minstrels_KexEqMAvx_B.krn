@@ -17,7 +17,7 @@
 *M4/4	*
 =1	=1
 4r	.
-16c#	F#
+16c#	F# major
 16r	.
 16dn	.
 16r	.
@@ -25,7 +25,7 @@
 16r	.
 16dn	.
 16r	.
-16c#	G
+16c#	G major
 16r	.
 16dn	.
 16r	.
@@ -34,18 +34,18 @@
 16r	.
 16dn	.
 16r	.
-16c#	G#m
+16c#	G# minor
 16r	.
 16d#	.
 16r	.
-16f#	C#
+16f#	C# major
 16r	.
 16d#	.
 16r	.
-8cc#	.
-8dd#	.
+8cc#L	.
+8dd#J	.
 =3	=3
-8cc#	F#
+8cc#	F# major
 8r	.
 16c#	.
 16r	.
@@ -55,7 +55,7 @@
 16r	.
 16dn	.
 16r	.
-16c#	G
+16c#	G major
 16r	.
 16dn	.
 16r	.
@@ -64,20 +64,20 @@
 16r	.
 16dn	.
 16r	.
-16c#	G#m
+16c#	G# minor
 16r	.
 16d#	.
 16r	.
-16f#	C#
+16f#	C# major
 16r	.
 16d#	.
 16r	.
-8cc#	.
-8dd#	.
+8cc#L	.
+8dd#J	.
 =5	=5
 *k[f#]	*
 *G:	*
-8cc#	F#
+8cc#	F# major
 8r	.
 16d	.
 16r	.
@@ -92,34 +92,34 @@
 16B	.
 16r	.
 =6	=6
-8G	.
+8GL	.
 8E	.
 8D	.
-8E	.
+8EJ	.
 8G	.
 8r	.
-8E	C
+8E	C major
 8r	.
 =7	=7
 *k[b-e-a-]	*
 *E-:	*
 4r	.
-16a-	A-
+16a-	A- major
 16r	.
 16a-	.
 16r	.
 16a-	.
 8.r	.
-16b-	B-
+16b-	B- major
 8.r	.
 =8	=8
-16ee-	E-
+16ee-	E- major
 8.r	.
-16cc	Cm
+16cc	C minor
 8.r	.
-16a-	A-
+16a-	A- major
 8.r	.
-16b-	B-
+16b-	B- major
 8.r	.
 =9	=9
 *k[f#]	*
@@ -138,45 +138,45 @@
 16B	.
 16r	.
 =10	=10
-8G	.
+8GL	.
 8E	.
 8D	.
-8E	.
+8EJ	.
 8G	.
 8r	.
-8E	C
+8E	C major
 8r	.
 =11	=11
 *k[f#c#g#d#]	*
 *E:	*
 4r	.
-16a	A
+16a	A major
 16r	.
 16a	.
 16r	.
 16a	.
 8.r	.
-16b	B
+16b	B major
 8.r	.
 =12	=12
-16ee	E
+16ee	E major
 8.r	.
-16cc#	C#
+16cc#	C# major
 8.r	.
-16a	A
+16a	A major
 8.r	.
-16b	B
+16b	B major
 8.r	.
 =13	=13
 *k[f#]	*
 *G:	*
-16g	G
+16g	G major
 8.r	.
-16e	E
+16e	E major
 8.r	.
-16c	C
+16c	C major
 8.r	.
-16d	D
+16d	D major
 8.r	.
 ==	==
 *-	*-

@@ -15,51 +15,51 @@
 *C:	*
 *M4/4	*
 =1	=1
-4cc	Fmaj7
+4cc	F major-seventh
 4aa	.
-8gg[	.
-8gg]	G11
+[8ggL	.
+8ggJ]	G dominant-11th
 4aa	.
 =2	=2
-4ccc	Am7
+4ccc	A minor-seventh
 4aa	.
-8gg[	.
-8gg]	D#9
+[8ggL	.
+8ggJ]	D# dominant-ninth
 4aa	.
 =3	=3
-4ccc	Dm7
-8aa[	.
-8aa]	Em7
+4ccc	D minor-seventh
+[8aaL	.
+8aaJ]	E minor-seventh
 4eee	.
-4fff	Am7
+4fff	A minor-seventh
 =4	=4
-4eee	Gm7
-8ccc[	.
-8ccc]	A#9
+4eee	G minor-seventh
+[8cccL	.
+8cccJ]	A# dominant-ninth
 4aa	.
-4ddd	C7
+4ddd	C dominant
 =5	=5
-4ccc	Fmaj7
+4ccc	F major-seventh
 4aa	.
-8gg[	.
-8gg]	Eadd(1,3,7,10)
+[8ggL	.
+8ggJ]	E other-1,3,7,10
 4aa	.
 =6	=6
-4ccc	Am7
+4ccc	A minor-seventh
 4aa	.
-8eee[	.
-8eee]	C#dim7
+[8eeeL	.
+8eeeJ]	C# diminished-seventh
 4aa	.
 =7	=7
-4ccc	Dm7
-8aa[	.
-8aa]	A11
+4ccc	D minor-seventh
+[8aaL	.
+8aaJ]	A dominant-11th
 4eee	.
-4fff	E7
+4fff	E dominant
 =8	=8
-4ggg	Am7
-4fff	G#dim7
-4eee	Gm7
-4ddd	F#7
+4ggg	A minor-seventh
+4fff	G# diminished-seventh
+4eee	G minor-seventh
+4ddd	F# dominant
 ==	==
 *-	*-

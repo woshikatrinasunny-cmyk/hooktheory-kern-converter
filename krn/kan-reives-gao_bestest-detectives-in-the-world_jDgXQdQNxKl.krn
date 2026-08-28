@@ -16,75 +16,75 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4dd#	G#m
+4dd#	G# minor
 4b	.
 4r	.
-8cc#	.
-8dd#	.
+8cc#L	.
+8dd#J	.
 =2	=2
-4ee	C#m
+4ee	C# minor
 4cc#	.
 4r	.
-8dd#	.
-8ddn	.
+8dd#L	.
+8ddnJ	.
 =3	=3
-4dd#	G#m
+4dd#	G# minor
 4b	.
 4r	.
-8cc#	.
-8ddn	.
+8cc#L	.
+8ddnJ	.
 =4	=4
-4dd#	D#
+4dd#	D# major
 4a#	.
 4r	.
-16dd#	.
+16dd#LL	.
 16ee	.
 16dd#	.
-16ddn	.
+16ddnJJ	.
 =5	=5
-2.dd#	G#m
+2.dd#	G# minor
 8r	.
 8gg#	.
 =6	=6
-4.ff#	C#m
-16ee	.
-16dd#	.
+4.ff#	C# minor
+16eeLL	.
+16dd#JJ	.
 4.ee	.
-16b	.
-16cc#	.
+16bLL	.
+16cc#JJ	.
 =7	=7
-2.dd#	G#m
+2.dd#	G# minor
 8r	.
 8cc#	.
 =8	=8
-3...a#	D#
-8DD#	.
+3...a#	D# major
+8DD#L	.
 8GGn	.
-8AA#	.
+8AA#J	.
 =9	=9
-4GG#	G#m
+4GG#	G# minor
 4D#	.
 4BB	.
 8r	.
 8GG#	.
 =10	=10
-4EE	C#m
-8EE	.
-8DD#	.
+4EE	C# minor
+8EEL	.
+8DD#J	.
 4EE	.
 8.CC#	.
 16r	.
 =11	=11
-8.DD#	G#m
+8.DD#	G# minor
 16r	.
 8.GG#	.
 16r	.
 8.BB	.
 16r	.
-8C#	.
-8BB	.
+8C#L	.
+8BBJ	.
 =12	=12
-8.AA#	D#
+8.AA#	D# major
 16r	.
 8.GG#	.
 16r	.
@@ -93,87 +93,87 @@
 8.DD#	.
 16r	.
 =13	=13
-4r	G#m
+4r	G# minor
 8.D#	.
 6...r	.
-8D#	.
-8E	.
+8D#L	.
+8EJ	.
 =14	=14
-4r	C#m
+4r	C# minor
 8.E	.
 6...r	.
-8E	.
-8Dn	.
+8EL	.
+8DnJ	.
 =15	=15
-4r	G#m
+4r	G# minor
 8.D#	.
 6...r	.
-8D#	.
-8C#	.
+8D#L	.
+8C#J	.
 =16	=16
-4r	D#
-8BB	.
-8AA#	.
+4r	D# major
+8BBL	.
+8AA#J	.
 8r	.
-8GG#	.
+8GG#L	.
 8GGn	.
-8DD#	.
+8DD#J	.
 =17	=17
-8ee	C#m
+8eeL	C# minor
 8dd#	.
 8ee	.
-8ff#	.
-8.gg#	.
-16ggn	.
+8ff#J	.
+8.gg#L	.
+16ggnk	.
 8gg#	.
-8aa#	.
+8aa#J	.
 =18	=18
-6bb	B
+6bb	B major
 6aa#	.
 6gg#	.
 4.dd#	.
 8r	.
 =19	=19
-8r	A#dim
-8cc#	.
+8r	A# diminished
+8cc#L	.
 8dd#	.
-8ee	.
+8eeJ	.
 6aa#	.
 6gg#	.
 6ff#	.
 =20	=20
-16dd#	G#m
-16ee	.
+16dd#LL	G# minor
+16eeJJ	.
 4.dd#	.
 8r	.
-8dd#	.
+8dd#L	.
 8ee	.
-8ff#	.
+8ff#J	.
 =21	=21
-8ee	C#m
+8eeL	C# minor
 8dd#	.
 8ee	.
-8ff#	.
-8gg#	.
+8ff#J	.
+8gg#L	.
 8ggn	.
 8gg#	.
-8aa#	.
+8aa#J	.
 =22	=22
-6bb	B
+6bb	B major
 6aa#	.
 6gg#	.
 2dd#	.
 =23	=23
-4ff#	A#dim
+4ff#	A# diminished
 4ee	.
 4dd#	.
 4cc#	.
 =24	=24
-4.b	G#m
+4.b	G# minor
 4.a#	.
 4gn	.
 =25	=25
-2.g#	G#m
+2.g#	G# minor
 4r	.
 ==	==
 *-	*-

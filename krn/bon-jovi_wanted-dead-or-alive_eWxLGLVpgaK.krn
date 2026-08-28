@@ -16,161 +16,161 @@
 *D:	*
 *M4/4	*
 =1	=1
-4ff#	D
-8cc	.
-8dd[	.
-4.dd]	D
-8r	D
+4ff#	D major
+8ccL	.
+[8ddJ	.
+4.dd]	D major
+8r	D major
 =2	=2
-8r	Dsus4
-8r	D
-4r	Dsus2
-8r	Dsus2
-4r	D
-8r	D
+8r	D suspended-fourth
+8r	D major
+4r	D suspended-second
+8r	D suspended-second
+4r	D major
+8r	D major
 =3	=3
-8gg	C
+8ggL	C major
 8gg	.
 8gg	.
-8gg[	C
-8gg]	.
-8ee	C
-8aa	G
-8gg[	.
+[8ggJ	C major
+8ggL]	.
+8ee	C major
+8aa	G major
+[8ggJ	.
 =4	=4
-8gg]	.
-8ee	.
+8ggL]	.
+8eeJ	.
 4dd	.
-8r	Gsus2
-4.r	G
+8r	G suspended-second
+4.r	G major
 =5	=5
-4ee	C
-8cc	.
-8dd[	C
-8dd_	.
-8dd_	C
-8dd]	G
+4ee	C major
+8ccL	.
+[8ddJ	C major
+8ddL_	.
+8dd_	C major
+8ddJ]	G major
 8r	.
 =6	=6
 4r	.
 4b	.
-8b[	Gsus2
-8b]	G
+[8bL	G suspended-second
+8bJ]	G major
 4dd	.
 =7	=7
-8ffn[	G
-8ffn]	.
-4ffn	F
+[8ffnL	G major
+8ffnJ]	.
+4ffn	F major
 4cc	.
-4dd[	D
+[4dd	D major
 =8	=8
-8dd]	.
-8b	.
+8ddL]	.
+8bJ	.
 4a	.
 2r	.
 =9	=9
-4ff#	D
-8cc	.
-8dd[	.
-4.dd]	D
-8r	D
+4ff#	D major
+8ccL	.
+[8ddJ	.
+4.dd]	D major
+8r	D major
 =10	=10
-8r	Dsus4
-8r	D
-4r	Dsus2
-8r	Dsus2
-8r	D
-8dd	.
-8dd	D
+8r	D suspended-fourth
+8r	D major
+4r	D suspended-second
+8r	D suspended-second
+8r	D major
+8ddL	.
+8ddJ	D major
 =11	=11
-4aa	C
-8gg	.
-8ff#[	C
-8ff#_	.
-8ff#]	C
-4gg	G
+4aa	C major
+8ggL	.
+[8ff#J	C major
+8ff#L_	.
+8ff#J]	C major
+4gg	G major
 =12	=12
 4dd	.
 4r	.
-8r	Gsus2
-4r	G
+8r	G suspended-second
+4r	G major
 8gg	.
 =13	=13
-4gg	C
-8gg[	.
-8gg_	C
-8gg]	.
-8ff#	C
-8aa	G
-8gg[	.
+4gg	C major
+[8ggL	.
+8ggJ_	C major
+8ggL]	.
+8ff#	C major
+8aa	G major
+[8ggJ	.
 =14	=14
-8gg]	.
-8ee	.
+8ggL]	.
+8eeJ	.
 4dd	.
-8r	Gsus2
-8r	G
-8dd	.
-8dd	.
+8r	G suspended-second
+8r	G major
+8ddL	.
+8ddJ	.
 =15	=15
-8ffn	G
+8ffn	G major
 8r	.
-4cc	F
+4cc	F major
 4dd	.
-4dd[	D
+[4dd	D major
 =16	=16
 2dd]	.
 4r	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 =17	=17
-4ffn	C
+4ffn	C major
 4.cc	.
 8r	.
-4r	G
+4r	G major
 =18	=18
 2.r	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 =19	=19
-8aa	F
+8aa	F major
 4gg	.
 4ffn	.
-8gg[	.
-8gg]	D
-8ff#[	.
+[8ggL	.
+8gg]	D major
+[8ff#J	.
 =20	=20
 4ff#]	.
 2r	.
 4dd	.
 =21	=21
-4ffn	C
+4ffn	C major
 4cc	.
 4r	.
-4r	G
+4r	G major
 =22	=22
 1r	.
 =23	=23
-8cc[	.
-8cc]	.
-4dd	F
+[8ccL	.
+8ccJ]	.
+4dd	F major
 4ffn	.
-4dd[	D
+[4dd	D major
 =24	=24
 2dd]	.
 2r	.
 =25	=25
-4ffn	C
+4ffn	C major
 4dd	.
 4r	.
-4r	G
+4r	G major
 =26	=26
 1r	.
 =27	=27
-8cc[	G
-8cc]	.
-4dd	F
+[8ccL	G major
+8ccJ]	.
+4dd	F major
 4ffn	.
-4dd[	D
+[4dd	D major
 =28	=28
 2.dd]	.
 4r	.

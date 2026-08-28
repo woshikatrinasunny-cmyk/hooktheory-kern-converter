@@ -15,56 +15,56 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8r	D-
-8gg	D-maj7
-8gg	D-maj7
-8aa-	D-
+8r	D- major
+8ggL	D- major-seventh
+8gg	D- major-seventh
+8aa-J	D- major
 8r	.
-8ff	D-
+8ff	D- major
 8r	.
-8gg	E-
+8gg	E- major
 =2	=2
 8r	.
-8ee-	A-
+8ee-	A- major
 8r	.
-8ff	D-
+8ff	D- major
 8r	.
-8ee-	A-
-8ff	D-
+8ee-L	A- major
+8ffJ	D- major
 8r	.
 =3	=3
-8gg	E-
+8gg	E- major
 2..r	.
 =4	=4
 1r	.
 =5	=5
-8r	D-
-8gg	D-maj7
-8gg	D-maj7
-8aa-	D-
+8r	D- major
+8ggL	D- major-seventh
+8gg	D- major-seventh
+8aa-J	D- major
 8r	.
-8ff	D-
+8ff	D- major
 8r	.
-8gg	E-
+8gg	E- major
 =6	=6
 8r	.
-8ee-	A-
+8ee-	A- major
 8r	.
-8ff	D-
+8ff	D- major
 8r	.
-8ee-	A-
-8ff	D-
+8ee-L	A- major
+8ffJ	D- major
 8r	.
 =7	=7
-4.a-	A-add(2,4,7)
-4.bn	Badd(2,4,7)
-4ddn[	Dadd(2,4,7)
+4.a-	A- other-2,4,7
+4.bn	B other-2,4,7
+[4ddn	D other-2,4,7
 =8	=8
 8ddn]	.
-4.dd-	D-add(2,4,7)
-4.bn	Badd(2,4,7)
-8a-	B-
+4.dd-	D- other-2,4,7
+4.bn	B other-2,4,7
+8a-	B- major
 =9	=9
-1a-	B-
+1a-	B- major
 ==	==
 *-	*-

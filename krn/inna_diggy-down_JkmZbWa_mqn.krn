@@ -16,7 +16,7 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4.b-	G-
+4.b-	G- major
 8cc	.
 4.dd-	.
 8ee-	.
@@ -24,12 +24,12 @@
 4ff	.
 8ee-	.
 8r	.
-8ee-	.
+8ee-L	.
 8ff	.
 8ee-	.
-8dd-	.
+8dd-J	.
 =3	=3
-4.a-	D-
+4.a-	D- major
 8dd-	.
 4.dd-	.
 8ee-	.
@@ -37,12 +37,12 @@
 4ff	.
 8ee-	.
 8r	.
-8ee-	.
+8ee-L	.
 8ff	.
 8ee-	.
-8dd-	.
+8dd-J	.
 =5	=5
-4.b-	E-m
+4.b-	E- minor
 8dd-	.
 4.dd-	.
 8ee-	.
@@ -50,21 +50,21 @@
 4ff	.
 8ee-	.
 8r	.
-8dd-	.
+8dd-L	.
 8ee-	.
 8dd-	.
-8aa-[	.
+[8aa-J	.
 =7	=7
-8aa-]	Fsus4
+8aa-]	F suspended-fourth
 2ff	.
 4r	.
-8aa-[	.
+[8aa-	.
 =8	=8
 8aa-]	.
-4.bb-[	.
-8bb-]	.
+[4.bb-	.
+8bb-L]	.
 8ff	.
 8ff	.
-8ff	.
+8ffJ	.
 ==	==
 *-	*-

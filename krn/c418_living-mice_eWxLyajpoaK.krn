@@ -16,102 +16,102 @@
 *a:	*
 *M4/4	*
 =1	=1
-4cc	Fadd(4,7,9,11)
+4cc	F other-4,7,9,11
 8b	.
 4g	.
 8ee	.
 4cc	.
 =2	=2
-8e	Eadd(3,5,7,10)
+8eL	E other-3,5,7,10
 8g	.
-8b	.
+8bJ	.
 2dd	.
 8cc	.
 =3	=3
-8g	Am7/G
+8gL	A minor-seventh/G
 8a	.
-8ee	.
+8eeJ	.
 4cc	.
 8ee	.
 4dd	.
 =4	=4
-8g	D7/F#
+8gL	D dominant/F#
 8a	.
-8ee	.
+8eeJ	.
 3...cc	.
 =5	=5
-4cc	Fadd(4,7,9,11)
+4cc	F other-4,7,9,11
 8b	.
 4g	.
 8ee	.
 4cc	.
 =6	=6
-8e	Eadd(3,5,7,10)
+8eL	E other-3,5,7,10
 8g	.
-8b	.
+8bJ	.
 2dd	.
 8cc	.
 =7	=7
-8g	Gadd(2,5,7)
+8gL	G other-2,5,7
 8a	.
-8ee	.
+8eeJ	.
 4cc	.
 8ee	.
 4dd	.
 =8	=8
-8g	D7/F#
+8gL	D dominant/F#
 8a	.
 8ee	.
-8cc	.
+8ccJ	.
 4ccc	.
 4ddd	.
 =9	=9
-8.eee	Aadd(3,5,7,10)
+8.eeeL	A other-3,5,7,10
 8.ccc	.
-8bb[	.
-16bb]	Am7
-8.gg	.
+[8bbJ	.
+16bbLK]	A minor-seventh
+8.ggJ	.
 4ee	.
 =10	=10
-8.eee	Em7/G
-8.ccc	.
+8.eeeL	E minor-seventh/G
+8.cccJ	.
 3...bb	.
 =11	=11
-8.eee	D9/A
+8.eeeL	D dominant-ninth/A
 8.ddd	.
-8aa[	.
-16aa]	D7/A
-16ff#	.
-8ee	.
+[8aaJ	.
+16aaLL]	D dominant/A
+16ff#J	.
+8eeJ	.
 4dd	.
 =12	=12
-8.eee	Aadd(3,5,7,10)/C
+8.eeeL	A other-3,5,7,10/C
 8.ddd	.
-8aa[	.
-2aa]	D7sus2
+[8aaJ	.
+2aa]	D dominant-seventh-suspended-second
 =13	=13
-8.eee	Aadd(3,5,7,10)
+8.eeeL	A other-3,5,7,10
 8.ccc	.
-8bb[	.
-16bb]	Am7
-8.gg	.
+[8bbJ	.
+16bbLK]	A minor-seventh
+8.ggJ	.
 4ee	.
 =14	=14
-8.eee	Em7/G
-8.ccc	.
+8.eeeL	E minor-seventh/G
+8.cccJ	.
 3...bb	.
 =15	=15
-8.eee	D9/A
+8.eeeL	D dominant-ninth/A
 8.ddd	.
-8aa[	.
-16aa]	D7/A
-16ff#	.
-8ee	.
+[8aaJ	.
+16aaLL]	D dominant/A
+16ff#J	.
+8eeJ	.
 4dd	.
 =16	=16
-8.eee	Aadd(3,5,7,10)/C
+8.eeeL	A other-3,5,7,10/C
 8.ddd	.
-8aa[	.
-2aa]	D7sus2
+[8aaJ	.
+2aa]	D dominant-seventh-suspended-second
 ==	==
 *-	*-

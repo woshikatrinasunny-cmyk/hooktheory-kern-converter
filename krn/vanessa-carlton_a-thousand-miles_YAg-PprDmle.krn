@@ -16,145 +16,145 @@
 *B:	*
 *M4/4	*
 =1	=1
-16f#	Esus2
+16f#LL	E suspended-second
 16f#	.
-16f#	.
-8f#	Bmaj7/F#
+16f#J	.
+8f#	B major-seventh/F#
 8d#	.
-16c#[	.
-8.c#]	B/D#
-8d#	E
+[16c#Jk	.
+8.c#L]	B major/D#
+8d#	E major
 8c#	.
-16c#[	.
+[16c#Jk	.
 =2	=2
-16c#]	Esus2
+16c#]	E suspended-second
 8r	.
-8d#	Bmaj7/F#
+8d#L	B major-seventh/F#
 8c#	.
-16c#[	.
-16c#]	B/D#
+[16c#Jk	.
+16c#LL]	B major/D#
 16c#	.
-16B	.
-8d#	E
+16BJ	.
+8d#	E major
 8B	.
-16B	.
+16BJk	.
 =3	=3
-16b	E
+16bLL	E major
 16B	.
 16b	.
-16a#	Bmaj7/F#
+16a#	B major-seventh/F#
 16B	.
 16a#	.
-16f#	B/D#
+16f#	B major/D#
+16BJJ	.
+16f#LL	.
 16B	.
 16f#	.
-16B	.
-16f#	.
-16B	.
-8d#	E
-16c#	.
-16B	.
+16BJ	.
+8d#	E major
+16c#L	.
+16BJJ	.
 =4	=4
-16b	.
+16bLL	.
 16B	.
 16b	.
-16a#	Bmaj7/F#
+16a#	B major-seventh/F#
 16B	.
 16a#	.
-16f#	B/D#
+16f#	B major/D#
+16BJJ	.
+16f#LL	.
 16B	.
 16f#	.
 16B	.
-16f#	.
-16B	.
-16d#	E
+16d#	E major
 16e	.
 16d#	.
-16c#	.
+16c#JJ	.
 =5	=5
-16f#	Esus2
+16f#LK	E suspended-second
 8f#	.
-8d#	Bmaj7/F#
+8d#	B major-seventh/F#
 8d#	.
-16d#	.
-8c#	B/D#
+16d#Jk	.
+8c#L	B major/D#
+16c#k	.
+8d#	E major
+16c#L	.
 16c#	.
-8d#	E
-16c#	.
-16c#	.
-16c#[	.
+[16c#JJ	.
 =6	=6
-8.c#]	Esus2
-8d#	Bmaj7/F#
+8.c#L]	E suspended-second
+8d#	B major-seventh/F#
+16c#L	.
 16c#	.
-16c#	.
-16c#[	.
-16c#]	B/D#
+[16c#JJ	.
+16c#LK]	B major/D#
 8B	.
-16d#	E
-16c#	.
-8.c#	.
+16d#L	E major
+16c#J	.
+8.c#J	.
 =7	=7
-8.c#	E
-8.c#	Bmaj7/F#
-8B	B/D#
-16f#	.
+8.c#L	E major
+8.c#	B major-seventh/F#
+8BJ	B major/D#
+16f#LL	.
 16B	.
 16f#	.
-16B	.
-8d#	E
-16c#	.
-16B	.
+16BJ	.
+8d#	E major
+16c#L	.
+16BJJ	.
 =8	=8
-16b	.
+16bLL	.
 16B	.
 16b	.
-16a#	Bmaj7/F#
+16a#	B major-seventh/F#
 16B	.
 16a#	.
-16f#	B/D#
+16f#	B major/D#
+16BJJ	.
+16f#LL	.
 16B	.
 16f#	.
 16B	.
-16f#	.
-16B	.
-16d#	E
+16d#	E major
 16e	.
 16d#	.
-16c#	.
+16c#JJ	.
 =9	=9
-16B	Esus2
+16BLL	E suspended-second
 16B	.
 16B	.
-16d#	B/F#
+16d#	B major/F#
 16d#	.
 16d#	.
-16c#	Badd(2,4,7)/D#
+16c#JJ	B other-2,4,7/D#
 8r	.
-16B	.
+16BLK	.
 8B	.
 8d#	.
-16c#	.
-16B	.
+16c#L	.
+16BJJ	.
 =10	=10
-8.r	Esus2
-8.r	B/F#
-16r	Badd(2,4,7)/D#
+8.r	E suspended-second
+8.r	B major/F#
+16r	B other-2,4,7/D#
 16r	.
-16B	.
+16BLK	.
 8B	.
 8f#	.
-8.c#	.
+8.c#J	.
 =11	=11
-8.r	Esus2
-8.r	B/F#
-16r	Badd(2,4,7)/D#
+8.r	E suspended-second
+8.r	B major/F#
+16r	B other-2,4,7/D#
 8.r	.
-8B	.
+8BL	.
 8d#	.
-8B	.
+8BJ	.
 =12	=12
-2B	Eadd(2,4,7)
-2A#	F#
+2B	E other-2,4,7
+2A#	F# major
 ==	==
 *-	*-

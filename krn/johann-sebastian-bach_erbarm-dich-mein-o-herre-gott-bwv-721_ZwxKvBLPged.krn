@@ -16,111 +16,111 @@
 *D:	*
 *M4/4	*
 =1	=1
-2d	D/F#
+2d	D major/F#
 2d	.
 =2	=2
-2e	Em7/G
+2e	E minor-seventh/G
 2e	.
 =3	=3
-2c#	C#m7b5/E
+2c#	C# half-diminished/E
 2c#	.
 =4	=4
-2d	D/F#
+2d	D major/F#
 2d	.
 =5	=5
-2e	A/C#
+2e	A major/C#
 2e	.
 =6	=6
 2e	.
-2e	A7/C#
+2e	A dominant/C#
 =7	=7
-1f#[	Dadd(2,4,7)
+[1f#	D other-2,4,7
 =8	=8
-1f#]	Bm/D
+1f#]	B minor/D
 =9	=9
-1b[	B/D#
+[1b	B major/D#
 =10	=10
-1b]	B7/D#
+1b]	B dominant/D#
 =11	=11
-2b[	Eadd(2,4,7)
-2b_	E
+[2b	E other-2,4,7
+2b_	E major
 =12	=12
-1b]	E7/G#
+1b]	E dominant/G#
 =13	=13
-1a[	A
+[1a	A major
 =14	=14
-1a]	A7/G
+1a]	A dominant/G
 =15	=15
-1dd[	D/F#
+[1dd	D major/F#
 =16	=16
-1dd]	Dm/F
+1dd]	D minor/F
 =17	=17
-1cc#	C#m7/E
+1cc#	C# minor-seventh/E
 =18	=18
-1ccn	D#dim7
+1ccn	D# diminished-seventh
 =19	=19
-1b	Esus4
+1b	E suspended-fourth
 =20	=20
-1b	E7/D
+1b	E dominant/D
 =21	=21
-1a[	A/C#
+[1a	A major/C#
 =22	=22
-1a]	D7/C
+1a]	D dominant/C
 =23	=23
-2d	Gmaj7/B
+2d	G major-seventh/B
 2d	.
 =24	=24
-2d	E7
+2d	E dominant
 2d	.
 =25	=25
-2c#	Aadd(2,4,7)
-2c#	A
+2c#	A other-2,4,7
+2c#	A major
 =26	=26
-2c#	A7/G
+2c#	A dominant/G
 2c#	.
 =27	=27
-1a[	D/F#
+[1a	D major/F#
 =28	=28
 1a]	.
 =29	=29
-1dd[	Bm7
+[1dd	B minor-seventh
 =30	=30
-1dd]	G/B
+1dd]	G major/B
 =31	=31
-1a[	A/C#
+[1a	A major/C#
 =32	=32
-1a]	D
+1a]	D major
 =33	=33
-1b[	G
+[1b	G major
 =34	=34
-1b]	G/B
+1b]	G major/B
 =35	=35
-1f#[	D
+[1f#	D major
 =36	=36
-1f#]	F#m
+1f#]	F# minor
 =37	=37
-1a[	B7
+[1a	B dominant
 =38	=38
-1a]	B7/D#
+1a]	B dominant/D#
 =39	=39
-1g[	Em
+[1g	E minor
 =40	=40
-1g]	A7
+1g]	A dominant
 =41	=41
-1f#[	F#7/A#
+[1f#	F# dominant/A#
 =42	=42
-1f#]	Bm
+1f#]	B minor
 =43	=43
-2B	G#m7b5
+2B	G# half-diminished
 2B	.
 =44	=44
-2B	Em/G
+2B	E minor/G
 2B	.
 =45	=45
-2A#	F#7
+2A#	F# dominant
 2A#	.
 =46	=46
-2B	Bm
+2B	B minor
 2B	.
 ==	==
 *-	*-

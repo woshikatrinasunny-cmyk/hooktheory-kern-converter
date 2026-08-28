@@ -16,39 +16,39 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8f	B-
-16b-	.
-16b-	.
+8fL	B- major
+16b-L	.
+16b-J	.
 8b-	.
-8cc	.
-8.dd	.
-16b-	.
-8.f	B-/D
-16f	.
+8ccJ	.
+8.ddL	.
+16b-k	.
+8.f	B- major/D
+16fJk	.
 =2	=2
-8g	E-
+8gL	E- major
 8b-	.
-8b-	Edim
-8cc	.
-16dd	F
+8b-	E diminished
+8ccJ	.
+16ddLK	F major
 8.cc	.
-8.cc	D/G-
-16f	.
+8.cc	D major/G-
+16fJk	.
 =3	=3
-8f	Gm
+8fL	G minor
 8b-	.
 8b-	.
-8cc	.
-8.dd	C
-16b-	.
+8ccJ	.
+8.ddL	C major
+16b-k	.
 8.f	.
-16f	.
+16fJk	.
 =4	=4
-8b-	E-
+8b-L	E- major
 8b-	.
-8b-	F
-8b-	.
-4b-	B-
+8b-	F major
+8b-J	.
+4b-	B- major
 4r	.
 ==	==
 *-	*-

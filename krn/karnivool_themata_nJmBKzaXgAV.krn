@@ -17,26 +17,26 @@
 *M4/4	*
 =1	=1
 2r	.
-8.d#	B
-8.d#	B
-8e[	Aadd(2,6,7)
+8.d#L	B major
+8.d#	B major
+[8eJ	A other-2,6,7
 =2	=2
 1e]	.
 =3	=3
-8.d#	B/D#
-8.d#	B7/A
-8.e	Bm7/D
-8.f#	Bm7/D
-8.d#	B
-16d#[	B
+8.d#L	B major/D#
+8.d#J	B dominant/A
+8.e	B minor-seventh/D
+8.f#L	B minor-seventh/D
+8.d#	B major
+[16d#Jk	B major
 =4	=4
 8d#]	.
-2..e[	Aadd(2,6,7)
+[2..e	A other-2,6,7
 =5	=5
 4e]	.
-8.d#	B/D#
-8.d#	B7/A
-8.e	Bm7/D
-8.f#	Cadd(6,7,11)
+8.d#	B major/D#
+8.d#	B dominant/A
+8.eL	B minor-seventh/D
+8.f#J	C other-6,7,11
 ==	==
 *-	*-

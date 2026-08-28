@@ -16,77 +16,77 @@
 *D:	*
 *M6/4	*
 =1	=1
-2eee	Dadd(2,4,7)
+2eee	D other-2,4,7
 8ddd	.
 3...r	.
-8ff#	.
-8aa	.
+8ff#L	.
+8aaJ	.
 =2	=2
-2eee	Dadd(2,4,8)
+2eee	D other-2,4,8
 8ddd	.
 3...r	.
-8ff#	.
-8aa#	.
+8ff#L	.
+8aa#J	.
 =3	=3
-2eee	Badd(3,5,7,10)/D
+2eee	B other-3,5,7,10/D
 8ddd	.
 8r	.
 8ccc#	.
 8r	.
 8ddd	.
 8r	.
-8..aa	.
-32ggg	.
+8..aaL	.
+32gggJkk	.
 =4	=4
-2.fff#	D7
+2.fff#	D dominant
 2eee	.
 8ddd	.
 8r	.
 =5	=5
-4ggg	G
+4ggg	G major
 4fff#	.
 4eee	.
-2.ddd[	.
+[2.ddd	.
 =6	=6
-4..ddd]	Gm
-32ddd	.
-32bb	.
+4..ddd]	G minor
+32dddLLL	.
+32bbJJJ	.
 4aa#	.
 4fff#	.
 4eee	.
 4ddd	.
 =7	=7
-1.eee	Asus4
+1.eee	A suspended-fourth
 =8	=8
-2.r	A
-8aaa	.
-8ggg	.
-8fff#	.
-8eee	.
-8ddd	.
-8ddd#	.
+2.r	A major
+8aaaL	.
+8gggJ	.
+8fff#L	.
+8eeeJ	.
+8dddL	.
+8ddd#J	.
 =9	=9
-2eee	Dadd(2,4,7)
+2eee	D other-2,4,7
 8ddd	.
 8r	.
 8aa	.
 8r	.
 8ddd	.
 8r	.
-8ff#	.
-8aa	.
+8ff#L	.
+8aaJ	.
 =10	=10
-2eee	Dadd(2,4,8)
+2eee	D other-2,4,8
 8ddd	.
 8r	.
 8aa#	.
 8r	.
 8ddd	.
 8r	.
-8ff#	.
-8aa#	.
+8ff#L	.
+8aa#J	.
 =11	=11
-2eee	Badd(3,5,7,10)/D
+2eee	B other-3,5,7,10/D
 8ddd	.
 8r	.
 8ccc#	.
@@ -96,7 +96,7 @@
 8aa	.
 8r	.
 =12	=12
-4fff#	D7
+4fff#	D dominant
 8ggg	.
 8r	.
 8aaa	.
@@ -108,26 +108,26 @@
 8fff#	.
 8r	.
 =13	=13
-2.ddd	G
-8ggg	.
-8fff#	.
-8eee	.
-8ddd	.
-8bb	.
-8ddd	.
+2.ddd	G major
+8gggL	.
+8fff#J	.
+8eeeL	.
+8dddJ	.
+8bbL	.
+8dddJ	.
 =14	=14
-2.bb	A11
+2.bb	A dominant-11th
 2ccc#	.
 8ddd	.
 8r	.
 =15	=15
-32eee	D
-4...ddd[	.
-4ddd_	Dsus4
-2ddd_	D
-4ddd_	Dsus2
+32eee	D major
+[4...ddd	.
+4ddd_	D suspended-fourth
+2ddd_	D major
+4ddd_	D suspended-second
 =16	=16
-2.ddd]	D
+2.ddd]	D major
 2.r	.
 ==	==
 *-	*-

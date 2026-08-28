@@ -16,78 +16,78 @@
 *B:	*
 *M4/4	*
 =1	=1
-8r	B
+8r	B major
 8r	.
-8r	B
+8r	B major
 8r	.
-8F#[	B
+[8F#L	B major
 8F#_	.
-8F#_	B
-8F#]	.
+8F#_	B major
+8F#J]	.
 =2	=2
-8B[	Bsus2
+[8BL	B suspended-second
 8B_	.
-8B_	Bsus2
-8B]	.
-8c#[	Bsus2
+8B_	B suspended-second
+8BJ]	.
+[8c#L	B suspended-second
 8c#_	.
-8c#_	Bsus2
-8c#]	.
+8c#_	B suspended-second
+8c#J]	.
 =3	=3
-16c#	B
-16d#[	.
+16c#LL	B major
+[16d#J	.
 8d#_	.
-8d#_	B
-8d#_	.
-8d#_	B
-16d#]	.
-16c#	.
-8d#[	B
-8d#]	.
+8d#_	B major
+8d#J_	.
+8d#L_	B major
+16d#L]	.
+16c#J	.
+[8d#	B major
+8d#J]	.
 =4	=4
-8c#[	Bsus2
+[8c#L	B suspended-second
 8c#_	.
-8c#_	Bsus2
-8c#_	.
-8c#]	Bsus2
+8c#_	B suspended-second
+8c#J_	.
+8c#L]	B suspended-second
 8B	.
-8B[	Bsus2
-8B]	.
+[8B	B suspended-second
+8BJ]	.
 =5	=5
-8f#[	Emaj7
+[8f#L	E major-seventh
 8f#_	.
-8f#_	Emaj7
+8f#_	E major-seventh
+8f#J_	.
+8f#L_	E major-seventh
 8f#_	.
-8f#_	Emaj7
-8f#_	.
-8f#_	Emaj7
-8f#]	.
+8f#_	E major-seventh
+8f#J]	.
 =6	=6
-8e[	C#m7/E
+[8eL	C# minor-seventh/E
 8e_	.
-8e_	C#m7/E
-8e]	.
-8d#[	C#m7/E
+8e_	C# minor-seventh/E
+8eJ]	.
+[8d#L	C# minor-seventh/E
 8d#]	.
-8c#	C#m7/E
-8B[	.
+8c#	C# minor-seventh/E
+[8BJ	.
 =7	=7
-8B_	Emaj7
+8BL_	E major-seventh
 8B_	.
-8B_	Emaj7
-8B]	.
-8r	Emaj7
+8B_	E major-seventh
+8BJ]	.
+8r	E major-seventh
 8r	.
-8r	Emaj7
+8r	E major-seventh
 8r	.
 =8	=8
-8r	C#m7/E
+8r	C# minor-seventh/E
 8r	.
-8r	C#m7/E
+8r	C# minor-seventh/E
 8r	.
-8r	C#m7/E
+8r	C# minor-seventh/E
 8r	.
-8r	C#m7/E
+8r	C# minor-seventh/E
 8r	.
 ==	==
 *-	*-

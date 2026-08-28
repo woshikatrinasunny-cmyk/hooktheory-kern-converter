@@ -16,116 +16,116 @@
 *a:	*
 *M4/4	*
 =1	=1
-8a	Am
+8aL	A minor
 8a	.
-8a[	.
-8a]	Am
-8a	Am
+[8a	.
+8aJ]	A minor
+8aL	A minor
 8a	.
 8a	.
-8a	.
+8aJ	.
 =2	=2
-8a	Am
-8a	Badd(1,3,5,6,10)
-8a[	Am/C
-8a]	Am
+8aL	A minor
+8a	B other-1,3,5,6,10
+[8a	A minor/C
+8aJ]	A minor
+16eeLL	.
 16ee	.
-16ee	.
-16ee	.
+16eeJJ	.
 16r	.
 16ee	.
 16r	.
 16ee	.
 16r	.
 =3	=3
-8ee	Am
+8eeL	A minor
+8gg	.
+8eeJ	.
+8r	A minor
+8eeL	A minor
 8gg	.
 8ee	.
-8r	Am
-8ee	Am
-8gg	.
-8ee	.
-8ee	.
+8eeJ	.
 =4	=4
-8ee	Am
+8eeL	A minor
 8gg	.
-8ee	.
-8r	Am
-16a	Am
+8eeJ	.
+8r	A minor
+16aLL	A minor
 16a	.
 16a	.
-16a	.
+16aJ	.
 8a	.
-8a	.
+8aJ	.
 =5	=5
-8a	Am
+8aL	A minor
 8a	.
-8a[	.
-8a]	Am
-8a	Am
+[8a	.
+8aJ]	A minor
+8aL	A minor
 8a	.
 8a	.
-8a	.
+8aJ	.
 =6	=6
-8a	Am
-8a	Badd(1,3,5,6,10)
-8a[	Am/C
-8a]	Am
+8aL	A minor
+8a	B other-1,3,5,6,10
+[8a	A minor/C
+8aJ]	A minor
+16eeLL	.
 16ee	.
-16ee	.
-16ee	.
+16eeJJ	.
 16r	.
 16ee	.
 16r	.
 16ee	.
 16r	.
 =7	=7
-8ee	Am
+8eeL	A minor
 8gg	.
-8ee	.
-8r	Am
-8ee	Am
+8eeJ	.
+8r	A minor
+8eeL	A minor
 8ee	.
 8aa	.
-8ee	.
+8eeJ	.
 =8	=8
-8ee	Am
+8ee	A minor
 4aa	.
-8r	Am
-8r	Am
-8gg	.
+8r	A minor
+8r	A minor
+8ggL	.
 8ee	.
-8gg	.
+8ggJ	.
 =9	=9
-8ee	Am
+8ee	A minor
 8r	.
-8r	Am
+8r	A minor
 8gg	.
-8ee	Badd(1,3,5,6,10)
+8eeL	B other-1,3,5,6,10
 8gg	.
-8ee	Am/C
-8gg	.
+8ee	A minor/C
+8ggJ	.
 =10	=10
-4aa	Badd(1,3,5,6,10)
+4aa	B other-1,3,5,6,10
 8r	.
-8gg	Am
-8ee	.
+8gg	A minor
+8eeL	.
 8gg	.
 8ee	.
-8gg	.
+8ggJ	.
 =11	=11
-8ee	Am
+8ee	A minor
 4r	.
 8gg	.
-8ee	.
+8eeL	.
 8gg	.
 8aa	.
-8ee	.
+8eeJ	.
 =12	=12
 8ee	.
 4r	.
-16ee	.
-16gg	.
+16eeLL	.
+16ggJJ	.
 4aa	.
 4r	.
 ==	==

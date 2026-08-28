@@ -16,118 +16,118 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4r	C#
-8r	C#
-8c#	Ddim
-8fn	C#
+4r	C# major
+8r	C# major
+8c#	D diminished
+8fn	C# major
 4g#	.
-16b	.
-16cc#[	.
+16bLL	.
+[16cc#JJ	.
 =2	=2
-4cc#]	B
-8b[	Bsus2
-8b]	Bm
-4f#	Bsus2
-8g#	.
-8c#[	.
+4cc#]	B major
+[8bL	B suspended-second
+8bJ]	B minor
+4f#	B suspended-second
+8g#L	.
+[8c#J	.
 =3	=3
-4c#_	F#m7/A
-8c#]	F#m7/A
-8d#	D/A
-8e	F#m7/A
+4c#_	F# minor-seventh/A
+8c#L]	F# minor-seventh/A
+8d#J	D major/A
+8e	F# minor-seventh/A
 4g#	.
-16b	.
-16cc#[	.
+16bLL	.
+[16cc#JJ	.
 =4	=4
-4cc#]	F#
+4cc#]	F# major
 4b	.
-4f#	Badd(2,4,7)
-8g#	.
-8c#[	.
+4f#	B other-2,4,7
+8g#L	.
+[8c#J	.
 =5	=5
-4c#_	C#
-8c#]	C#
-8c#	Ddim
-8fn	C#
+4c#_	C# major
+8c#L]	C# major
+8c#J	D diminished
+8fn	C# major
 4g#	.
-16b	.
-16cc#[	.
+16bLL	.
+[16cc#JJ	.
 =6	=6
-4cc#]	B
-8b[	Bsus2
-8b]	Bm
-4f#	Bsus2
-8g#	.
-8c#[	.
+4cc#]	B major
+[8bL	B suspended-second
+8bJ]	B minor
+4f#	B suspended-second
+8g#L	.
+[8c#J	.
 =7	=7
-4c#_	F#m7/A
-8c#]	F#m7/A
-8d#	D/A
-8fn	F#m7/A
+4c#_	F# minor-seventh/A
+8c#L]	F# minor-seventh/A
+8d#J	D major/A
+8fn	F# minor-seventh/A
 4g#	.
-16cc#	.
-16cc#[	.
+16cc#LL	.
+[16cc#JJ	.
 =8	=8
-4cc#]	F#
+4cc#]	F# major
 4b	.
-4f#	Badd(2,4,7)
-8g#	.
-8c#	.
+4f#	B other-2,4,7
+8g#L	.
+8c#J	.
 =9	=9
-4c#[	C#
-8c#]	C#
-8c#	Ddim
-8fn	C#
+[4c#	C# major
+8c#L]	C# major
+8c#J	D diminished
+8fn	C# major
 4g#	.
-16b	.
-16cc#[	.
+16bLL	.
+[16cc#JJ	.
 =10	=10
-4cc#]	B
-8b[	Bsus2
-8b]	Bm
-4f#	Bsus2
-8g#	.
-8c#[	.
+4cc#]	B major
+[8bL	B suspended-second
+8bJ]	B minor
+4f#	B suspended-second
+8g#L	.
+[8c#J	.
 =11	=11
-4c#_	F#m7/A
-8c#]	F#m7/A
-8c#	D/A
-4fn	F#m7/A
-8g#	.
-16b	.
-16cc#[	.
+4c#_	F# minor-seventh/A
+8c#L]	F# minor-seventh/A
+8c#J	D major/A
+4fn	F# minor-seventh/A
+8g#L	.
+16bL	.
+[16cc#JJ	.
 =12	=12
-4cc#]	F#
+4cc#]	F# major
 4b	.
-4f#	Badd(2,4,7)
-8g#	.
-8c#[	.
+4f#	B other-2,4,7
+8g#L	.
+[8c#J	.
 =13	=13
-4c#_	C#
-8c#]	C#
-8e	Ddim
-4fn	C#
+4c#_	C# major
+8c#L]	C# major
+8eJ	D diminished
+4fn	C# major
 4g#	.
 =14	=14
-4cc#	B
-8b[	Bsus2
-8b]	Bm
-4f#	Bsus2
-8g#	.
-8a[	.
+4cc#	B major
+[8bL	B suspended-second
+8bJ]	B minor
+4f#	B suspended-second
+8g#L	.
+[8aJ	.
 =15	=15
-4a_	F#m7/A
-8a]	F#m7/A
-8c#	D/A
-4e	F#m7/A
-8g#	.
-16cc#	.
-16cc#[	.
+4a_	F# minor-seventh/A
+8aL]	F# minor-seventh/A
+8c#J	D major/A
+4e	F# minor-seventh/A
+8g#L	.
+16cc#L	.
+[16cc#JJ	.
 =16	=16
-4cc#]	F#
+4cc#]	F# major
 4b	.
-4f#	Badd(2,4,7)
-8g#	.
-8c#	.
+4f#	B other-2,4,7
+8g#L	.
+8c#J	.
 ==	==
 *-	*-

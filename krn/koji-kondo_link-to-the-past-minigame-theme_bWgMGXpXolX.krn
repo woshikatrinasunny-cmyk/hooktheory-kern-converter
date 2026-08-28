@@ -15,140 +15,140 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8f	A-
+8fL	A- major
 8cc	.
 8ff	.
-8f	.
-8b-	E-m/G-
+8fJ	.
+8b-L	E- minor/G-
 8ee-	.
 8f	.
-8cc	.
+8ccJ	.
 =2	=2
-8ff	A-
+8ffL	A- major
 8f	.
 8b-	.
-8ee-	.
-4r	E-m/G-
+8ee-J	.
+4r	E- minor/G-
 8cc	.
 8r	.
 =3	=3
-8f	A-
+8fL	A- major
 8cc	.
 8ff	.
-8f	.
-8b-	E-m/G-
+8fJ	.
+8b-L	E- minor/G-
 8ee-	.
 8f	.
-8cc	.
+8ccJ	.
 =4	=4
-8ff	A-
+8ffL	A- major
 8f	.
 8b-	.
-8ee-	.
-4r	E-m/G-
+8ee-J	.
+4r	E- minor/G-
 8cc	.
 8r	.
 =5	=5
-8en	E
+8enL	E major
 8a-	.
 8ddn	.
-8dn	.
-8g-	Bm/D
+8dnJ	.
+8g-L	B minor/D
 8cc	.
 8en	.
-8a-	.
+8a-J	.
 =6	=6
-8ddn	E
+8ddnL	E major
 8dn	.
 8g-	.
-8cc	.
-4r	Bm/D
+8ccJ	.
+4r	B minor/D
 8b-	.
 8r	.
 =7	=7
-8en	E
+8enL	E major
 8a-	.
 8ddn	.
-8dn	.
-8g-	Bm/D
+8dnJ	.
+8g-L	B minor/D
 8cc	.
 8en	.
-8a-	.
+8a-J	.
 =8	=8
-8ddn	E
+8ddnL	E major
 8dn	.
 8g-	.
-8cc	.
-4r	Bm/D
+8ccJ	.
+4r	B minor/D
 8b-	.
 8r	.
 =9	=9
-8cc	A-
+8ccL	A- major
 8b-	.
-8cc	A-
-8b-	.
-8g-	G-
-8en	.
+8cc	A- major
+8b-J	.
+8g-L	G- major
+8enJ	.
 8r	.
-8cc	A-
+8cc	A- major
 =10	=10
 8r	.
-8b-	.
-8cc	A-
-8b-	.
-8g-	G-
-8en	.
+8b-L	.
+8cc	A- major
+8b-J	.
+8g-L	G- major
+8enJ	.
 4r	.
 =11	=11
-8bn	E
+8bnL	E major
 8an	.
-8bn	E
-8an	.
-8en	D
-8dn	.
+8bn	E major
+8anJ	.
+8enL	D major
+8dnJ	.
 8r	.
-8bn	E
+8bn	E major
 =12	=12
 8r	.
-8an	.
-8bn	E
-8an	.
-8en	D
-8dn	.
+8anL	.
+8bn	E major
+8anJ	.
+8enL	D major
+8dnJ	.
 8r	.
 8r	.
 =13	=13
-8cc	A-
+8ccL	A- major
 8b-	.
-8cc	A-
-8b-	.
-8g-	G-
-8en	.
+8cc	A- major
+8b-J	.
+8g-L	G- major
+8enJ	.
 8r	.
-8cc	A-
+8cc	A- major
 =14	=14
 8r	.
-8b-	.
-8cc	A-
-8b-	.
-8g-	G-
+8b-L	.
+8cc	A- major
+8b-J	.
+8g-	G- major
 4.en	.
 =15	=15
-8bn	E
+8bnL	E major
 8an	.
-8bn	E
-8an	.
-8en	D
-8dn	.
+8bn	E major
+8anJ	.
+8enL	D major
+8dnJ	.
 8r	.
-8bn	E
+8bn	E major
 =16	=16
 8r	.
-8an	.
-8bn	E
-8an	.
-8en	D
-4dn[	.
+8anL	.
+8bn	E major
+8anJ	.
+8en	D major
+[4dn	.
 8dn]	.
 ==	==
 *-	*-

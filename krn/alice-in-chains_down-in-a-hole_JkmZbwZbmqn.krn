@@ -16,30 +16,30 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4r	G#add(2,3,7)
-4r	G#add(2,3,7)
-8.r	F#maj7
-6...r	C#
+4r	G# other-2,3,7
+4r	G# other-2,3,7
+8.r	F# major-seventh
+6...r	C# major
 =2	=2
-4r	G#add(2,3,7)
-4r	G#add(2,3,7)
-8.r	F#maj7
-6...r	C#
+4r	G# other-2,3,7
+4r	G# other-2,3,7
+8.r	F# major-seventh
+6...r	C# major
 =3	=3
-16ff#	G#add(2,3,7)
+16ff#LK	G# other-2,3,7
 8.gg#	.
-8.gg#	G#add(2,3,7)
-16gg#	.
-16aa#	F#maj7
-8gg#	.
-4ee#	C#
-16ff#[	.
+8.gg#	G# other-2,3,7
+16gg#Jk	.
+16aa#LK	F# major-seventh
+8gg#J	.
+4ee#	C# major
+[16ff#	.
 =4	=4
-8ff#]	G#add(2,3,7)
-8dd#[	.
-4dd#_	G#add(2,3,7)
-8dd#]	F#maj7
+8ff#L]	G# other-2,3,7
+[8dd#J	.
+4dd#_	G# other-2,3,7
+8dd#]	F# major-seventh
 16r	.
-6...r	C#
+6...r	C# major
 ==	==
 *-	*-

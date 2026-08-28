@@ -15,35 +15,35 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	D/A
+8r	D major/A
 4a	.
 6...f#	.
-8e	.
-16f#	.
-8e	.
+8eL	.
+16f#k	.
+8eJ	.
 =2	=2
-8.r	A
+8.r	A major
 8a	.
 4.f#	.
-8e	.
-16f#	.
-8e	.
+8eL	.
+16f#k	.
+8eJ	.
 =3	=3
-8.r	Bm
+8.r	B minor
 8a	.
 4..f#	.
-16e	A
-8.d	.
+16eLK	A major
+8.dJ	.
 =4	=4
-16e	G
+16eLK	G major
 8.d	.
-16e	Gsus2
+16ek	G suspended-second
+8.dJ	.
+16eLK	E minor-seventh/G
 8.d	.
-16e	Em7/G
-8.d	.
-16e	.
-8.d	.
+16ek	.
+8.dJ	.
 =5	=5
-1r	D
+1r	D major
 ==	==
 *-	*-

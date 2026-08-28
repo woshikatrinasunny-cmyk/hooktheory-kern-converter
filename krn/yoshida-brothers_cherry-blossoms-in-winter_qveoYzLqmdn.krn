@@ -15,163 +15,163 @@
 *d:	*
 *M4/4	*
 =1	=1
-16A	Dsus4
+16ALL	D suspended-fourth
 16c	.
 16d	.
 16f	.
 16g	.
 16f	.
-16g	.
+16gJJ	.
 16r	.
-16A	.
+16ALL	.
 16c	.
 16d	.
 16f	.
 16g	.
 16f	.
-16g	.
+16gJJ	.
 16r	.
 =2	=2
-16c	Asus4/E
+16cLL	A suspended-fourth/E
 16d	.
 16f	.
 16g	.
 16a	.
 16g	.
-16a	.
+16aJJ	.
 16r	.
-16c	.
+16cLL	.
 16d	.
 16f	.
 16g	.
 16a	.
 16g	.
-16a	.
+16aJJ	.
 16r	.
 =3	=3
-16A	Dsus4
+16ALL	D suspended-fourth
 16c	.
 16d	.
 16f	.
 16g	.
 16f	.
-16g	.
+16gJJ	.
 16r	.
-16c	.
+16cLL	.
 16d	.
 16f	.
 16g	.
 16a	.
 16g	.
-16a	.
+16aJJ	.
 16r	.
 =4	=4
-16A	.
+16ALL	.
 16c	.
 16d	.
 16f	.
 16g	.
 16f	.
-16g	.
+16gJJ	.
 8.r	.
-8G	.
+8GL	.
 8A	.
-8c[	.
+[8cJ	.
 =5	=5
-2.c]	Dsus4/G
-8c	.
-8c	.
+2.c]	D suspended-fourth/G
+8cL	.
+8cJ	.
 =6	=6
-4c	Asus4/E
+4c	A suspended-fourth/E
 4c	.
 2d	.
 =7	=7
-4.d	Dsus4/G
+4.d	D suspended-fourth/G
 8c	.
 4r	.
-16d	.
+16dLK	.
 8g	.
-16g[	.
+[16gJk	.
 =8	=8
-4.g]	Dm
+4.g]	D minor
 8f	.
 2d	.
 =9	=9
-4d	B-
+4d	B- major
 4d	.
 8.r	.
-16A	.
+16ALL	.
 16c	.
-16d	.
-8g[	.
+16dJ	.
+[8gJ	.
 =10	=10
-4g]	Am/C
-4g[	.
-8g]	Am
-8g	.
-4a[	.
+4g]	A minor/C
+[4g	.
+8gL]	A minor
+8gJ	.
+[4a	.
 =11	=11
-4.a]	B-
+4.a]	B- major
 8g	.
-4d	F/C
+4d	F major/C
 4c	.
 =12	=12
-4r	Dm
-8c	.
-8d	.
-8f	Dm/F
+4r	D minor
+8cL	.
+8dJ	.
+8fL	D minor/F
 8.g	.
-8.cc[	.
+[8.ccJ	.
 =13	=13
-4.cc]	B-
+4.cc]	B- major
+8cc	.
+8ccL	.
 8cc	.
 8cc	.
-8cc	.
-8cc	.
-16b-	.
-16a[	.
+16b-L	.
+[16aJJ	.
 =14	=14
-4.a]	Am7/C
+4.a]	A minor-seventh/C
 8d	.
 4g	.
-4a[	.
+[4a	.
 =15	=15
-4a]	B-
-4d[	.
-8d]	Fadd(2,4,7)/C
+4a]	B- major
+[4d	.
+8dL]	F other-2,4,7/C
 8c	.
 8d	.
-8f	.
+8fJ	.
 =16	=16
-2f[	Dm
-4f]	Dm7
-8a	.
-8cc	.
+[2f	D minor
+4f]	D minor-seventh
+8aL	.
+8ccJ	.
 =17	=17
-4dd	B-maj7
+4dd	B- major-seventh
 4.cc	.
 4r	.
-16a	.
-16cc	.
+16aLL	.
+16ccJJ	.
 =18	=18
-8.a	C
+8.a	C major
 6...g	.
 4r	.
-8d	.
-8f	.
+8dL	.
+8fJ	.
 =19	=19
-8.dd	B-
+8.ddL	B- major
 8.cc	.
-8a	.
-8.a	Am7/C
+8aJ	.
+8.aL	A minor-seventh/C
 8.g	.
-8e	.
+8eJ	.
 =20	=20
-8.e	Asus4/D
-4..d[	.
-4.d_	Dsus4/G
+8.e	A suspended-fourth/D
+[4..d	.
+4.d_	D suspended-fourth/G
 =21	=21
-2d]	D
+2d]	D major
 2r	.
 ==	==
 *-	*-

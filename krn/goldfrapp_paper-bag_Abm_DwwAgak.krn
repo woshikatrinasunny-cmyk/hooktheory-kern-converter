@@ -16,18 +16,18 @@
 *f#:	*
 *M3/4	*
 =1	=1
-2.ff#	F#m/C#
+2.ff#	F# minor/C#
 =2	=2
-2.ee	F#m7/C#
+2.ee	F# minor-seventh/C#
 =3	=3
-2.dd[	Em7/G
+[2.dd	E minor-seventh/G
 =4	=4
-4dd]	C#m7b5/G
-2ee[	.
+4dd]	C# half-diminished/G
+[2ee	.
 =5	=5
-4ee]	Cmaj7/G
+4ee]	C major-seventh/G
 4g	.
-4g[	.
+[4g	.
 =6	=6
 2.g]	.
 =7	=7
@@ -35,18 +35,18 @@
 =8	=8
 2.r	.
 =9	=9
-2.ff#	F#m/C#
+2.ff#	F# minor/C#
 =10	=10
-2.ee	F#m7/C#
+2.ee	F# minor-seventh/C#
 =11	=11
-2.dd[	Em7/G
+[2.dd	E minor-seventh/G
 =12	=12
-4dd]	C#m7b5/G
-2ee[	.
+4dd]	C# half-diminished/G
+[2ee	.
 =13	=13
-8ee]	Cmaj7/G
+8ee]	C major-seventh/G
 4cc#	.
-4.e[	.
+[4.e	.
 =14	=14
 2.e]	.
 =15	=15
@@ -55,9 +55,9 @@
 4r	.
 2ccn	.
 =17	=17
-4ccn	Cmaj7/G
+4ccn	C major-seventh/G
 8a	.
-4.e[	.
+[4.e	.
 =18	=18
 2.e]	.
 =19	=19

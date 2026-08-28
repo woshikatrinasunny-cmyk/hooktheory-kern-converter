@@ -17,80 +17,80 @@
 *M4/4	*
 =1	=1
 8r	.
-16c	Fadd(2,4,7)
+16cLL	F other-2,4,7
 16G	.
 16A	.
 16A	.
 16A	.
-16G	.
-8A	.
+16GJJ	.
+8AL	.
 8A	.
 8.B	.
-16c	.
+16cJk	.
 =2	=2
-8r	Am7
-16A	.
+8r	A minor-seventh
+16ALL	.
 16G	.
 16A	.
 16A	.
 16A	.
-16G	.
+16GJJ	.
+8AL	.
 8A	.
-8A	.
-16g	.
-8g	Cadd(2,4,7)/E
-16e	.
+16gk	.
+8g	C other-2,4,7/E
+16eJk	.
 =3	=3
-16c	F
+16cLL	F major
 16c	.
 16B	.
-16G	.
+16GJ	.
 8.G	.
+16GJk	.
+16ALL	.
 16G	.
-16A	.
-16G	.
-16E	.
+16EJ	.
 8G	.
-8G	G
-16B	.
+8G	G major
+16BJk	.
 =4	=4
-16c	Am7
+16cLL	A minor-seventh
 16c	.
 16B	.
-16G	.
+16GJ	.
 8.G	.
+16GJk	.
+16ALL	.
 16G	.
-16A	.
-16G	.
-16E	.
+16EJ	.
 8G	.
-8E	Cadd(2,4,7)/E
-16B	.
+8E	C other-2,4,7/E
+16BJk	.
 =5	=5
-16c	F
+16cLL	F major
 16c	.
 16B	.
-16G	.
+16GJ	.
 8.G	.
+16GJk	.
+16ALL	.
 16G	.
-16A	.
-16G	.
-16E	.
+16EJ	.
 8G	.
-8G	G
-16B	.
+8G	G major
+16BJk	.
 =6	=6
-16c	Am7
+16cLL	A minor-seventh
 16c	.
 16B	.
-16G	.
+16GJ	.
 8.G	.
+16GJk	.
+16ALL	.
 16G	.
-16A	.
-16G	.
-16E	.
+16EJ	.
 8G	.
-8G	Cadd(2,4,7)/E
-16B	.
+8G	C other-2,4,7/E
+16BJk	.
 ==	==
 *-	*-

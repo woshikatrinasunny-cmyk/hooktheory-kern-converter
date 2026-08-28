@@ -22,77 +22,77 @@
 8.dd	.
 =2	=2
 *M4/4	*
-2.cc	F
-4f[	F
+2.cc	F major
+[4f	F major
 =3	=3
 4f]	.
 2r	.
-8.f[	.
-16f]	F
+[8.fL	.
+16fJk]	F major
 =4	=4
 2cc	.
-8.b[	.
-6...b]	F
+[8.b	.
+6...b]	F major
 =5	=5
 4cc	.
 8r	.
 8c	.
-8.d	.
+8.dL	.
 8g	.
-8.dd	.
+8.ddJ	.
 =6	=6
-2.cc	F
-4g[	F
+2.cc	F major
+[4g	F major
 =7	=7
 16g]	.
 6...f	.
 4.r	.
 4f	.
 =8	=8
-2cc	F
-4b[	.
-4b]	F
+2cc	F major
+[4b	.
+4b]	F major
 =9	=9
 4cc	.
 4c	.
-8.d	.
+8.dL	.
 8g	.
-8.dd	.
+8.ddJ	.
 =10	=10
-2.cc	F
-4g[	F
+2.cc	F major
+[4g	F major
 =11	=11
-16g]	.
-8.f	.
+16gLK]	.
+8.fJ	.
 2r	.
 4f	.
 =12	=12
-2cc	F
-4b[	.
-4b]	F
+2cc	F major
+[4b	.
+4b]	F major
 =13	=13
 4cc	.
 4c	.
-8.d	.
+8.dL	.
 8g	.
-8.dd	.
+8.ddJ	.
 =14	=14
-2.cc	F
-4g[	F
+2.cc	F major
+[4g	F major
 =15	=15
-16g]	.
-8.f	.
+16gLK]	.
+8.fJ	.
 2r	.
 4f	.
 =16	=16
-2cc	F
-4b[	.
-4b]	F
+2cc	F major
+[4b	.
+4b]	F major
 =17	=17
 4cc	.
 4c	.
-8.d	.
+8.dL	.
 8g	.
-8.dd	.
+8.ddJ	.
 ==	==
 *-	*-

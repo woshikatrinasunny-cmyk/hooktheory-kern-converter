@@ -16,36 +16,36 @@
 *c#:	*
 *M3/4	*
 =1	=1
-4.ff#	D#m7
+4.ff#	D# minor-seventh
 8ee	.
-8dd#	.
-8cc#	.
+8dd#L	.
+8cc#J	.
 =2	=2
-4ccn	G#7
+4ccn	G# dominant
 4aa	.
-4gg#	G#7/C
+4gg#	G# dominant/C
 =3	=3
-4.ff#	C#m
+4.ff#	C# minor
 8ee	.
-8dd#	C#m7/B
-8ee	.
+8dd#L	C# minor-seventh/B
+8eeJ	.
 =4	=4
-4gg#	A#m7b5
+4gg#	A# half-diminished
 4cc#	.
 4dd#	.
 =5	=5
-4.ee	Amaj7
+4.ee	A major-seventh
 8dd#	.
-8cc#	F#m7
-8ee	.
+8cc#L	F# minor-seventh
+8eeJ	.
 =6	=6
-4.ff#	D#m7
+4.ff#	D# minor-seventh
 8ee	.
-8dd#	.
-8ff#	.
+8dd#L	.
+8ff#J	.
 =7	=7
-2.gg#[	G#sus4
+[2.gg#	G# suspended-fourth
 =8	=8
-2.gg#]	G#add(2,5,7)
+2.gg#]	G# other-2,5,7
 ==	==
 *-	*-

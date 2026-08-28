@@ -16,61 +16,61 @@
 *D:	*
 *M4/4	*
 =1	=1
-8cc#	Dmaj7
+8cc#	D major-seventh
 4cc#	.
-4ee	Dadd(2,4,7)
-8ee[	.
-8ee]	F#m7
-8ee[	.
+4ee	D other-2,4,7
+[8eeL	.
+8ee]	F# minor-seventh
+[8eeJ	.
 =2	=2
 8ee]	.
-4ee	F#m7
-8ee[	.
-8ee]	F#m7
+4ee	F# minor-seventh
+[8ee	.
+8ee]	F# minor-seventh
 4ee	.
-8ee	F#m7
+8ee	F# minor-seventh
 =3	=3
-8cc#	Dmaj7
+8cc#	D major-seventh
 4cc#	.
-4ee	Dadd(2,4,7)
-8ee[	.
-8ee]	F#m7
-8ee[	.
+4ee	D other-2,4,7
+[8eeL	.
+8ee]	F# minor-seventh
+[8eeJ	.
 =4	=4
 8ee]	.
-4ee	F#m7
-8ee[	.
-8ee]	F#m7
+4ee	F# minor-seventh
+[8ee	.
+8ee]	F# minor-seventh
 4ee	.
-8ee	F#m7
+8ee	F# minor-seventh
 =5	=5
-8cc#	F#m
+8cc#	F# minor
 4cc#	.
-4ee	F#m7
-8ee[	.
-8ee]	A
-8ee[	.
+4ee	F# minor-seventh
+[8eeL	.
+8ee]	A major
+[8eeJ	.
 =6	=6
 8ee]	.
-4ee	A
-8ee[	.
-8ee]	A
+4ee	A major
+[8ee	.
+8ee]	A major
 4ee	.
-8ee	A
+8ee	A major
 =7	=7
-8ff#	Bm
+8ff#	B minor
 4ff#	.
-4aa	A/C#
-8aa[	.
-8aa]	Dadd(2,4,7)
-8aa[	.
+4aa	A major/C#
+[8aaL	.
+8aa]	D other-2,4,7
+[8aaJ	.
 =8	=8
 8aa]	.
-4aa	Dadd(2,4,7)
-8aa[	.
-8aa]	Dadd(2,4,7)
-8aa[	.
-8aa]	Dadd(2,4,7)
-8aa	.
+4aa	D other-2,4,7
+[8aa	.
+8aaL]	D other-2,4,7
+[8aa	.
+8aa]	D other-2,4,7
+8aaJ	.
 ==	==
 *-	*-

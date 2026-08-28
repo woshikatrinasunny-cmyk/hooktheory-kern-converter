@@ -18,7 +18,7 @@
 =1	=1
 1r	.
 =2	=2
-4r	Cm
+4r	C minor
 16ff	.
 8.r	.
 16ee-	.
@@ -26,7 +26,7 @@
 16dd	.
 8.r	.
 =3	=3
-16cc	E-
+16cc	E- major
 8.r	.
 16cc	.
 16r	.
@@ -39,18 +39,18 @@
 16cc	.
 8.r	.
 =4	=4
-4r	F
+4r	F major
 16cc	.
 16r	.
 16cc	.
 16r	.
 16cc	.
 16r	.
-16dd	.
-8cc	.
+16ddLK	.
+8ccJ	.
 8.r	.
 =5	=5
-16cc	F
+16cc	F major
 16r	.
 16cc	.
 16r	.
@@ -58,13 +58,13 @@
 16r	.
 16cc	.
 16r	.
-16cc	G
-16dd	.
+16ccLL	G major
+16ddJJ	.
 16r	.
 16cc	.
 4r	.
 =6	=6
-4r	Cm
+4r	C minor
 16ff	.
 8.r	.
 16ee-	.
@@ -72,7 +72,7 @@
 16dd	.
 8.r	.
 =7	=7
-16cc	E-
+16cc	E- major
 8.r	.
 16cc	.
 16r	.
@@ -85,18 +85,18 @@
 16cc	.
 8.r	.
 =8	=8
-8r	F
+8r	F major
 16cc	.
 16r	.
 8cc	.
 8r	.
-16cc	.
-8dd	.
+16ccLK	.
+8ddJ	.
 4cc	.
 16r	.
 =9	=9
-2r	F
-2r	G
+2r	F major
+2r	G major
 =10	=10
 1r	.
 =11	=11

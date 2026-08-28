@@ -16,55 +16,55 @@
 *G:	*
 *M4/4	*
 =1	=1
-8.dd	G
-8.ff#	G
-8.gg	D
-8.dd	D
-8.dd	C
-16ff#[	C
+8.ddL	G major
+8.ff#J	G major
+8.gg	D major
+8.ddL	D major
+8.dd	C major
+[16ff#Jk	C major
 =2	=2
-8ff#]	.
-8.gg	C
-8.dd	C
-4r	C
-4r	C
+8ff#L]	.
+8.gg	C major
+8.ddJ	C major
+4r	C major
+4r	C major
 =3	=3
-8.dd	C
-8.ff#	C
-8.gg	Em
-8.dd	Em
-8.dd	D
-16ff#[	D
+8.ddL	C major
+8.ff#J	C major
+8.gg	E minor
+8.ddL	E minor
+8.dd	D major
+[16ff#Jk	D major
 =4	=4
-8ff#]	.
-8.gg	D
-8.dd	D
-4r	D
-4r	D
+8ff#L]	.
+8.gg	D major
+8.ddJ	D major
+4r	D major
+4r	D major
 =5	=5
-8.dd	G
-8.ff#	G
-8.gg	D
-8.dd	D
-8.dd	C
-16ff#[	C
+8.ddL	G major
+8.ff#J	G major
+8.gg	D major
+8.ddL	D major
+8.dd	C major
+[16ff#Jk	C major
 =6	=6
-8ff#]	.
-8.gg	C
-8.dd	C
-4r	C
-4r	C
+8ff#L]	.
+8.gg	C major
+8.ddJ	C major
+4r	C major
+4r	C major
 =7	=7
-4g	Cadd(2,4,7)
+4g	C other-2,4,7
 4g	.
 4g	.
-8a	.
-8e[	.
+8aL	.
+[8eJ	.
 =8	=8
 4e]	.
 4.r	.
+8ggL	.
 8gg	.
-8gg	.
-8gg	.
+8ggJ	.
 ==	==
 *-	*-

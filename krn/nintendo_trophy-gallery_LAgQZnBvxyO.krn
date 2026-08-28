@@ -15,34 +15,34 @@
 *C:	*
 *M4/4	*
 =1	=1
-4e	C
+4e	C major
 4r	.
-8e	.
-8f	.
+8eL	.
+8fJ	.
 8r	.
-8e[	.
+[8e	.
 =2	=2
-8e]	C
+8e]	C major
 4d	.
 4.c	.
 4r	.
 =3	=3
-4g	Gm
+4g	G minor
 4r	.
 8g	.
 4a	.
-8g[	C7
+[8g	C dominant
 =4	=4
 4g]	.
 4r	.
 4f	.
 4e	.
 =5	=5
-4f	Dm
+4f	D minor
 4r	.
 8d	.
 4e	.
-8f[	G7
+[8f	G dominant
 =6	=6
 4f]	.
 8r	.
@@ -50,43 +50,43 @@
 4e	.
 4d	.
 =7	=7
-4d	Cmaj9
+4d	C major-ninth
 8c	.
 4.e	.
 4r	.
 =8	=8
-4.A	G9
+4.A	G dominant-ninth
 4c	.
 4.e	.
 =9	=9
-4ee	C
+4ee	C major
 4r	.
-8ee	.
-8ff	.
+8eeL	.
+8ffJ	.
 8r	.
-8ee[	.
+[8ee	.
 =10	=10
-8ee]	C
+8ee]	C major
 4dd	.
-4.cc	Cmaj7
+4.cc	C major-seventh
 4r	.
 =11	=11
-4gg	G
+4gg	G major
 4r	.
 8gg	.
 4aa	.
-8gg[	Cmaj7
+[8gg	C major-seventh
 =12	=12
 8gg]	.
 4.gg	.
 4ff	.
 4ee	.
 =13	=13
-4ff	Dm
+4ff	D minor
 4r	.
 8dd	.
 4ee	.
-8ff[	G7
+[8ff	G dominant
 =14	=14
 4ff]	.
 4r	.

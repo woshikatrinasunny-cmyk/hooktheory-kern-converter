@@ -16,83 +16,83 @@
 *c:	*
 *M4/4	*
 =1	=1
-2ff	F
+2ff	F major
 4ff	.
 4ee-	.
 =2	=2
-4cc	A-
-4cc[	.
-4cc]	A-maj7
-4a-	Fm7/A-
+4cc	A- major
+[4cc	.
+4cc]	A- major-seventh
+4a-	F minor-seventh/A-
 =3	=3
-4.b-	B-sus4
+4.b-	B- suspended-fourth
 8cc	.
-2b-	B-
+2b-	B- major
 =4	=4
-2dd	G/B
+2dd	G major/B
 4r	.
 4dd	.
 =5	=5
-2ff	Cadd(2,5,7)
-2ee-	Cm
+2ff	C other-2,5,7
+2ee-	C minor
 =6	=6
-8dd	B-/D
-8dd	.
+8ddL	B- major/D
+8ddJ	.
 2dd	.
 4r	.
 =7	=7
-8ff	F
-8ff	.
+8ffL	F major
+8ffJ	.
 2cc	.
 4r	.
 =8	=8
-2r	E-
-2r	D-
+2r	E- major
+2r	D- major
 =9	=9
-4r	F
+4r	F major
 4aan	.
 4gg	.
-8gg	.
-8ff	.
+8ggL	.
+8ffJ	.
 =10	=10
-8ee-	A-
-8ff	.
+8ee-L	A- major
+8ffJ	.
 4ee-	.
-4cc	A-maj7
-8a-	Fm7/A-
-8a-	.
+4cc	A- major-seventh
+8a-L	F minor-seventh/A-
+8a-J	.
 =11	=11
-8b-	B-sus4
-8b-	.
+8b-L	B- suspended-fourth
+8b-J	.
 4dd	.
-4ff	B-
-8gg	.
-8ff	.
+4ff	B- major
+8ggL	.
+8ffJ	.
 =12	=12
-8ee-	G/B
-8dd	.
+8ee-L	G major/B
+8ddJ	.
 4cc	.
 4dd	.
 4r	.
 =13	=13
-4r	Cadd(2,5,7)
+4r	C other-2,5,7
 4ff	.
-4.ee-	Cm
+4.ee-	C minor
 8cc	.
 =14	=14
-4b-	B-/D
+4b-	B- major/D
 4cc	.
 4.dd	.
 8ee-	.
 =15	=15
-4ff	A-
-8ff	.
-8gg	.
+4ff	A- major
+8ffL	.
+8ggJ	.
 4.ee-	.
 8dd	.
 =16	=16
-4dd-	G-
+4dd-	G- major
 4gg-	.
-2gg	E-
+2gg	E- major
 ==	==
 *-	*-

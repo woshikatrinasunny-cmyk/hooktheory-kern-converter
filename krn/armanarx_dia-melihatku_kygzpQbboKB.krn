@@ -16,40 +16,40 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.dd	D
-16a	.
-16a	.
+4.dd	D major
+16aLL	.
+16aJJ	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-16ee	.
-16ee	.
+16eeL	.
+16eeJJ	.
 =2	=2
-4.cc#	A
-16a	.
-16a	.
-8cc#	.
+4.cc#	A major
+16aLL	.
+16aJJ	.
+8cc#L	.
 8b	.
 8a	.
-8b	.
+8bJ	.
 =3	=3
-4dd	D
+4dd	D major
+16ddLL	.
 16dd	.
 16dd	.
-16dd	.
-16dd	.
-8dd	.
+16ddJJ	.
+8ddL	.
 8cc#	.
 8a	.
-8b	.
+8bJ	.
 =4	=4
 4.cc#	.
 8cc#	.
-8dd	A
+8ddL	A major
 8cc#	.
 8b	.
-8a	.
+8aJ	.
 =5	=5
-1a	D
+1a	D major
 ==	==
 *-	*-

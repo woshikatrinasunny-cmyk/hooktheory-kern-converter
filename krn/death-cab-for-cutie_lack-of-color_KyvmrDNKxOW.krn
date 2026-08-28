@@ -15,79 +15,79 @@
 *E-:	*
 *M4/4	*
 =1	=1
-8r	E-
-8g[	.
-8g]	E-
-8g[	.
-8g]	E-
-8g[	.
-8g]	E-
-8g[	.
+8r	E- major
+[8gL	.
+8g]	E- major
+[8gJ	.
+8gL]	E- major
+[8g	.
+8g]	E- major
+[8gJ	.
 =2	=2
-8g]	E-
-8g[	.
-8g]	E-
-8e-[	.
-8e-]	E-
-8e-[	.
-8e-]	E-
-8g[	.
+8gL]	E- major
+[8g	.
+8g]	E- major
+[8e-J	.
+8e-L]	E- major
+[8e-	.
+8e-]	E- major
+[8gJ	.
 =3	=3
-8g]	E-add(2,4,7)
-8g[	.
-8g]	E-add(2,4,7)
-8g[	.
-8g]	E-add(2,4,7)
-8g[	.
-8g]	E-add(2,4,7)
-8g[	.
+8gL]	E- other-2,4,7
+[8g	.
+8g]	E- other-2,4,7
+[8gJ	.
+8gL]	E- other-2,4,7
+[8g	.
+8g]	E- other-2,4,7
+[8gJ	.
 =4	=4
-8g]	E-add(2,4,7)
-8g[	.
-8g]	E-add(2,4,7)
-8f[	.
-8f]	E-add(2,4,7)
-8f[	.
-8f]	E-add(2,4,7)
-8ee-[	.
+8gL]	E- other-2,4,7
+[8g	.
+8g]	E- other-2,4,7
+[8fJ	.
+8fL]	E- other-2,4,7
+[8f	.
+8f]	E- other-2,4,7
+[8ee-J	.
 =5	=5
-8ee-]	Cm
-8ee-[	.
-8ee-]	Cm
-8ee-[	.
-8ee-]	Cm
-8ee-[	.
-8ee-]	Cm
-8ee-[	.
+8ee-L]	C minor
+[8ee-	.
+8ee-]	C minor
+[8ee-J	.
+8ee-L]	C minor
+[8ee-	.
+8ee-]	C minor
+[8ee-J	.
 =6	=6
-8ee-]	Cm
-8ee-[	.
-8ee-]	Cm
-8b-[	.
-8b-]	Cm
-8b-[	.
-8b-]	Cm
-8a-[	.
+8ee-L]	C minor
+[8ee-	.
+8ee-]	C minor
+[8b-J	.
+8b-L]	C minor
+[8b-	.
+8b-]	C minor
+[8a-J	.
 =7	=7
-8a-]	A-/C
-8a-[	.
-8a-]	A-/C
-8a-[	.
-8a-]	A-/C
-8a-[	.
-8a-]	A-/C
-8ee-[	.
+8a-L]	A- major/C
+[8a-	.
+8a-]	A- major/C
+[8a-J	.
+8a-L]	A- major/C
+[8a-	.
+8a-]	A- major/C
+[8ee-J	.
 =8	=8
-8ee-]	A-/C
-8ee-[	.
-8ee-]	A-/C
-8b-[	.
-8b-]	A-/C
-8b-[	.
-8b-]	A-/C
+8ee-L]	A- major/C
+[8ee-	.
+8ee-]	A- major/C
+[8b-J	.
+8b-L]	A- major/C
+[8b-	.
+8b-J]	A- major/C
 8r	.
 =9	=9
-3...r	E-
+3...r	E- major
 4g	.
 8g	.
 ==	==

@@ -15,105 +15,105 @@
 *c:	*
 *M4/4	*
 =1	=1
-2r	C7
-2r	C7/B-
+2r	C dominant
+2r	C dominant/B-
 =2	=2
-1r	C7
+1r	C dominant
 =3	=3
-4ccc[	Cm7
-4ccc_	Aadd(1,3,6,10)
-4ccc_	B-sus4
-4ccc_	Badd(4,6,7,11)
+[4ccc	C minor-seventh
+4ccc_	A other-1,3,6,10
+4ccc_	B- suspended-fourth
+4ccc_	B other-4,6,7,11
 =4	=4
-4ccc_	Cm7
-4ccc_	Aadd(1,3,6,10)
-8ccc]	B-sus4
+4ccc_	C minor-seventh
+4ccc_	A other-1,3,6,10
+8cccL]	B- suspended-fourth
 8bb-	.
-8gg	Badd(4,6,7,11)
-8eee-	.
+8gg	B other-4,6,7,11
+8eee-J	.
 =5	=5
-4ccc[	Cm7
-4ccc_	Aadd(1,3,6,10)
-4ccc_	B-sus4
-4ccc_	Badd(4,6,7,11)
+[4ccc	C minor-seventh
+4ccc_	A other-1,3,6,10
+4ccc_	B- suspended-fourth
+4ccc_	B other-4,6,7,11
 =6	=6
-4ccc_	Cm7
-4ccc_	Aadd(1,3,6,10)
-8ccc]	B-sus4
+4ccc_	C minor-seventh
+4ccc_	A other-1,3,6,10
+8cccL]	B- suspended-fourth
 8bb-	.
-8gg	Badd(4,6,7,11)
-8ff	.
+8gg	B other-4,6,7,11
+8ffJ	.
 =7	=7
-4cc[	Cm7
-8cc]	Aadd(1,3,6,10)
-8b-[	.
-4b-]	B-sus4
-8ee-	Badd(4,6,7,11)
-8cc[	.
+[4cc	C minor-seventh
+8ccL]	A other-1,3,6,10
+[8b-J	.
+4b-]	B- suspended-fourth
+8ee-L	B other-4,6,7,11
+[8ccJ	.
 =8	=8
-4cc_	Cm7
-4cc_	Aadd(1,3,6,10)
-8cc]	B-sus4
+4cc_	C minor-seventh
+4cc_	A other-1,3,6,10
+8ccL]	B- suspended-fourth
 8b-	.
-8g	Badd(4,6,7,11)
-8f	.
+8g	B other-4,6,7,11
+8fJ	.
 =9	=9
-4e-[	Cm7
-8e-]	Aadd(1,3,6,10)
-8f[	.
-4f]	B-sus4
-8e-	Badd(4,6,7,11)
-8g[	.
+[4e-	C minor-seventh
+8e-L]	A other-1,3,6,10
+[8fJ	.
+4f]	B- suspended-fourth
+8e-L	B other-4,6,7,11
+[8gJ	.
 =10	=10
-4g_	Cm7
-4g_	Aadd(1,3,6,10)
-4g_	B-sus4
-4g]	Badd(4,6,7,11)
+4g_	C minor-seventh
+4g_	A other-1,3,6,10
+4g_	B- suspended-fourth
+4g]	B other-4,6,7,11
 =11	=11
-4cc[	Cm7
-8cc]	Aadd(1,3,6,10)
-8b-[	.
-4b-]	B-sus4
-8ee-	Badd(4,6,7,11)
-8cc[	.
+[4cc	C minor-seventh
+8ccL]	A other-1,3,6,10
+[8b-J	.
+4b-]	B- suspended-fourth
+8ee-L	B other-4,6,7,11
+[8ccJ	.
 =12	=12
-4cc_	Cm7
-4cc_	Aadd(1,3,6,10)
-8cc]	B-sus4
+4cc_	C minor-seventh
+4cc_	A other-1,3,6,10
+8ccL]	B- suspended-fourth
 8b-	.
-8g	Badd(4,6,7,11)
-8f	.
+8g	B other-4,6,7,11
+8fJ	.
 =13	=13
-4e-[	Cm7
-8e-]	Aadd(1,3,6,10)
-8f[	.
-4f]	B-sus4
-8e-	Badd(4,6,7,11)
-8c[	.
+[4e-	C minor-seventh
+8e-L]	A other-1,3,6,10
+[8fJ	.
+4f]	B- suspended-fourth
+8e-L	B other-4,6,7,11
+[8cJ	.
 =14	=14
-4c_	Cm7
-4c_	Aadd(1,3,6,10)
-4c_	B-sus4
-4c]	Badd(4,6,7,11)
+4c_	C minor-seventh
+4c_	A other-1,3,6,10
+4c_	B- suspended-fourth
+4c]	B other-4,6,7,11
 =15	=15
-4ccc[	B-
-4ccc_	Gm7
-4ccc_	Fm/A-
-4ccc_	F/A
+[4ccc	B- major
+4ccc_	G minor-seventh
+4ccc_	F minor/A-
+4ccc_	F major/A
 =16	=16
-4ccc_	B-
-4ccc_	Gm7
-4ccc_	Fm/A-
-4ccc_	F/A
+4ccc_	B- major
+4ccc_	G minor-seventh
+4ccc_	F minor/A-
+4ccc_	F major/A
 =17	=17
-4ccc_	C7
-4ccc_	Aadd(1,3,6,10)
-4ccc_	Edim/B-
-4ccc_	Badd(5,8,11)
+4ccc_	C dominant
+4ccc_	A other-1,3,6,10
+4ccc_	E diminished/B-
+4ccc_	B other-5,8,11
 =18	=18
-4ccc_	C7
-4ccc_	Aadd(1,3,6,10)
-4ccc_	Edim/B-
-4ccc]	Badd(5,8,11)
+4ccc_	C dominant
+4ccc_	A other-1,3,6,10
+4ccc_	E diminished/B-
+4ccc]	B other-5,8,11
 ==	==
 *-	*-

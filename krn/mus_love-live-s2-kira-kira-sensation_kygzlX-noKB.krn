@@ -16,31 +16,31 @@
 *E:	*
 *M4/4	*
 =1	=1
-2.ggn	Gadd(2,4,7)
-4gggn[	.
+2.ggn	G other-2,4,7
+[4gggn	.
 =2	=2
 1gggn]	.
 =3	=3
 2.ggn	.
-4gggn[	.
+[4gggn	.
 =4	=4
 1gggn]	.
 =5	=5
 2.ggn	.
-4gggn[	.
+[4gggn	.
 =6	=6
 1gggn]	.
 =7	=7
 2.ggn	.
-4gggn[	.
+[4gggn	.
 =8	=8
 1gggn]	.
 =9	=9
-4Gn	Gadd(2,4,7)
+4Gn	G other-2,4,7
 8Dn	.
 4A	.
 4Dn	.
-8Gn[	.
+[8Gn	.
 =10	=10
 8Gn]	.
 4Dn	.
@@ -50,34 +50,34 @@
 8Dn	.
 4A	.
 4Dn	.
-8Gn[	.
+[8Gn	.
 =12	=12
 8Gn]	.
 4Dn	.
 3...F#	.
 =13	=13
-4A	A
+4A	A major
 8E	.
 4B	.
 4E	.
-8A[	.
+[8A	.
 =14	=14
 8A]	.
 4E	.
 3...G#	.
 =15	=15
-4B	B
+4B	B major
 8F#	.
 4.c#	.
-4F#[	.
+[4F#	.
 =16	=16
 8F#]	.
 2..B	.
 =17	=17
-3...b	E
-8g#	.
+3...b	E major
+8g#L	.
 8b	.
-8a	B/D#
+8aJ	B major/D#
 =18	=18
 8r	.
 8g#	.
@@ -86,22 +86,22 @@
 8r	.
 4.g#	.
 =19	=19
-4.f#	C#m
+4.f#	C# minor
 8e	.
 4.e	.
-8a	Am/C
+8a	A minor/C
 =20	=20
 8r	.
-8a	Am/C
+8a	A minor/C
 8r	.
-8b	F#m7b5/C
+8b	F# half-diminished/C
 8r	.
-4.ccn	Am/C
+4.ccn	A minor/C
 =21	=21
-3...b	E
-8cc#	.
+3...b	E major
+8cc#L	.
 8dd#	.
-8ee	B/D#
+8eeJ	B major/D#
 =22	=22
 8r	.
 8g#	.
@@ -110,22 +110,22 @@
 8r	.
 4.g#	.
 =23	=23
-8cc#	C#m
-8cc#	C#m
+8cc#L	C# minor
+8cc#J	C# minor
 8r	.
-8b	C#m
-8b	C#m
+8b	C# minor
+8b	C# minor
 8r	.
-8b	C#m
-8a[	Am/C
+8bL	C# minor
+[8aJ	A minor/C
 =24	=24
-8a]	.
+8aL]	.
 8g#	.
 8f#	.
-8e	.
-8cc#	A
+8eJ	.
+8cc#	A major
 8r	.
-8dd#	B
+8dd#	B major
 8r	.
 ==	==
 *-	*-

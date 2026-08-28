@@ -16,159 +16,159 @@
 *f:	*
 *M4/4	*
 =1	=1
-8r	Fm
+8r	F minor
 4f	.
-8c	Fm/C
-8c[	.
-8c]	Fm/A-
-8B-	Gadd(1,3,5,6,10)
-8A-	Fm/A-
+8c	F minor/C
+[8cL	.
+8c]	F minor/A-
+8B-	G other-1,3,5,6,10
+8A-J	F minor/A-
 =2	=2
-8c[	Fm
-8c]	Fm
-8F	.
-4F	Fm/C
-8F	Fm/A-
-8F	Gadd(1,3,5,6,10)
-8F	Fm/A-
+[8cL	F minor
+8c]	F minor
+8FJ	.
+4F	F minor/C
+8FL	F minor/A-
+8F	G other-1,3,5,6,10
+8FJ	F minor/A-
 =3	=3
-8r	Fm
+8r	F minor
 4f	.
-8c	Fm/C
-8c[	.
-8c]	Fm/A-
-8B-	Gadd(1,3,5,6,10)
-8A-	Fm/A-
+8c	F minor/C
+[8cL	.
+8c]	F minor/A-
+8B-	G other-1,3,5,6,10
+8A-J	F minor/A-
 =4	=4
-8c[	Fm
-8c]	Fm
-8F	.
-4F	Fm/C
-8F	Fm/A-
-8F	Gadd(1,3,5,6,10)
-8F	Fm/A-
+[8cL	F minor
+8c]	F minor
+8FJ	.
+4F	F minor/C
+8FL	F minor/A-
+8F	G other-1,3,5,6,10
+8FJ	F minor/A-
 =5	=5
-8r	Fm
+8r	F minor
 4f	.
-8c	Fm/C
-8c[	.
-8c]	Fm/A-
-8B-	Gadd(1,3,5,6,10)
-8A-	Fm/A-
+8c	F minor/C
+[8cL	.
+8c]	F minor/A-
+8B-	G other-1,3,5,6,10
+8A-J	F minor/A-
 =6	=6
-8c[	Fm
-8c]	Fm
-8F	.
-4F	Fm/C
-8F	Fm/A-
-8F	Gadd(1,3,5,6,10)
-8F	Fm/A-
+[8cL	F minor
+8c]	F minor
+8FJ	.
+4F	F minor/C
+8FL	F minor/A-
+8F	G other-1,3,5,6,10
+8FJ	F minor/A-
 =7	=7
-8F	Fm
+8FL	F minor
 8F	.
 8F	.
-8c	Fm/C
-8A-	.
-8B-	Fm/A-
-8A-	Gadd(1,3,5,6,10)
-8c[	Fm/A-
+8cJ	F minor/C
+8A-L	.
+8B-	F minor/A-
+8A-	G other-1,3,5,6,10
+[8cJ	F minor/A-
 =8	=8
-8c]	Fm
-16c	Fm
-16c	.
+8cL]	F minor
+16cL	F minor
+16cJ	.
 8c	.
-16c	Fm/C
-16c	.
+16cL	F minor/C
+16cJJ	.
 8c	.
-16r	Fm/A-
+16r	F minor/A-
+16cLL	.
+16c	G other-1,3,5,6,10
 16c	.
-16c	Gadd(1,3,5,6,10)
-16c	.
-16c	Fm/A-
-16c	.
+16c	F minor/A-
+16cJJ	.
 =9	=9
-8f	Fm
+8fL	F minor
 8.cc	.
-16cc	.
-8cc	Fm
-8cc	.
-8cc	Fsus4
+16cck	.
+8ccJ	F minor
+8ccL	.
+8cc	F suspended-fourth
 8f	.
-8e-[	Fm
+[8e-J	F minor
 =10	=10
-16e-]	A-
-16f	.
+16e-LL]	A- major
+16fJ	.
 8f	.
-16f	.
-16f	.
-8f	A-
-8cc	.
-8cc	A-sus2
+16fL	.
+16fJ	.
+8fJ	A- major
+8ccL	.
+8cc	A- suspended-second
 8f	.
-8e-[	A-
+[8e-J	A- major
 =11	=11
-8e-]	E-
+8e-]	E- major
 16r	.
-16f	.
+16fLL	.
 16cc	.
 16cc	.
-16cc	Cm7/E-
-16cc	.
+16cc	C minor-seventh/E-
+16ccJJ	.
 8cc	.
-8r	E-
-8f	.
-8f	Cm7/E-
+8r	E- major
+8fL	.
+8fJ	C minor-seventh/E-
 =12	=12
-8f	B-m
+8fL	B- minor
 8f	.
-8f	.
-4cc	B-m
-8b-[	B-sus2
-8b-]	B-m
-8r	B-sus2
+8fJ	.
+4cc	B- minor
+[8b-L	B- suspended-second
+8b-J]	B- minor
+8r	B- suspended-second
 =13	=13
-8r	Fm
+8r	F minor
+16fLL	.
 16f	.
 16f	.
-16f	.
-16f	.
-8f	Fm
-8cc	.
-16cc	Fsus4
-16f	.
+16fJ	.
+8fJ	F minor
+8ccL	.
+16ccL	F suspended-fourth
+16fJ	.
 8f	.
-8f	Fm
+8fJ	F minor
 =14	=14
-8r	A-
-16f	.
-16f	.
+8r	A- major
+16fLL	.
+16fJ	.
 8f	.
-8cc	A-
+8ccJ	A- major
 8r	.
-16f	A-sus2
-16f	.
+16fLL	A- suspended-second
+16fJ	.
 8f	.
-8e-	A-
+8e-J	A- major
 =15	=15
-8r	E-
+8r	E- major
+8fL	.
+16fL	.
+16fJ	.
+8ccJ	C minor-seventh/E-
+8ccL	.
+16ccL	E- major
+16fJ	.
 8f	.
-16f	.
-16f	.
-8cc	Cm7/E-
-8cc	.
-16cc	E-
-16f	.
-8f	.
-8f	Cm7/E-
+8fJ	C minor-seventh/E-
 =16	=16
-8a-	B-m
+8a-L	B- minor
 8b-	.
 8a-	.
-8cc	B-m
-8b-	.
-16a-	B-sus2
-16a-	.
-8g	B-m
-8a-	B-sus2
+8ccJ	B- minor
+8b-L	.
+16a-L	B- suspended-second
+16a-J	.
+8g	B- minor
+8a-J	B- suspended-second
 ==	==
 *-	*-

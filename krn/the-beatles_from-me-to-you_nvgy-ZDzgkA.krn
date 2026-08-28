@@ -17,186 +17,186 @@
 *M4/4	*
 =1	=1
 2.r	.
-8c	.
-8d	.
+8cL	.
+8dJ	.
 =2	=2
-4e	C
-8d	.
-8c	.
-4d	C/G
+4e	C major
+8dL	.
+8cJ	.
+4d	C major/G
 4d	.
 =3	=3
-2A	Am
-4r	Am/E
-8c	.
-8d	.
+2A	A minor
+4r	A minor/E
+8cL	.
+8dJ	.
 =4	=4
-4e	C
-8d	.
-8c	.
-4d	C/G
+4e	C major
+8dL	.
+8cJ	.
+4d	C major/G
 4d	.
 =5	=5
-2A	Am
-4r	Am/E
-8c	.
-8d	.
+2A	A minor
+4r	A minor/E
+8cL	.
+8dJ	.
 =6	=6
-8e	C
-8d	.
+8eL	C major
+8dJ	.
 4c	.
-8d	C/G
+8d	C major/G
 4d	.
-8A[	.
+[8A	.
 =7	=7
-4A]	Am
+4A]	A minor
 4r	.
-4r	Am/E
-8c	.
-8d	.
+4r	A minor/E
+8cL	.
+8dJ	.
 =8	=8
-8e	C
-8d	.
+8eL	C major
+8dJ	.
 4c	.
-8cc	C/G
+8cc	C major/G
 4cc	.
-8b[	.
+[8b	.
 =9	=9
-2b]	G7
-4r	G7/D
+2b]	G dominant
+4r	G dominant/D
 4d	.
 =10	=10
-8d#	F7
+8d#	F dominant
 4d	.
-8d[	.
-16d]	F7/C
+[8d	.
+16d]	F dominant/C
 8.r	.
-8A	.
-8c	.
+8AL	.
+8cJ	.
 =11	=11
-8d#	Am
+8d#L	A minor
 8d	.
 8c	.
-8A[	.
-8A]	Am/E
+[8AJ	.
+8A]	A minor/E
 8r	.
-8c	.
-8c[	.
+8cL	.
+[8cJ	.
 =12	=12
-8c]	C
+8c]	C major
 8r	.
-8e	.
-8d[	.
-8d]	G7
+8eL	.
+[8dJ	.
+8d]	G dominant
 8r	.
-8d	.
-8c[	.
+8dL	.
+[8cJ	.
 =13	=13
-8c]	C
+8c]	C major
 4.r	.
-4r	Am
-8c	.
-8d	.
+4r	A minor
+8cL	.
+8dJ	.
 =14	=14
-8e	C
-8d	.
+8eL	C major
+8dJ	.
 4c	.
-8d	C/G
+8d	C major/G
 4d	.
-8A[	.
+[8A	.
 =15	=15
-4.A]	Am
+4.A]	A minor
 8r	.
-4r	Am/E
-8c	.
-8d	.
+4r	A minor/E
+8cL	.
+8dJ	.
 =16	=16
-8e	C
-8d	.
+8eL	C major
+8dJ	.
 4c	.
-8cc	C/G
+8cc	C major/G
 4cc	.
-8b[	.
+[8b	.
 =17	=17
-2b]	G7
-4r	G7/D
+2b]	G dominant
+4r	G dominant/D
 4d	.
 =18	=18
-8d#	F7
+8d#	F dominant
 4d	.
-8d[	.
-16d]	F7/C
+[8d	.
+16d]	F dominant/C
 8.r	.
-8A	.
-8c	.
+8AL	.
+8cJ	.
 =19	=19
-8d#	Am
+8d#L	A minor
 8d	.
 8c	.
-8A[	.
-8A]	Am/E
+[8AJ	.
+8A]	A minor/E
 8r	.
-8c	.
-8c[	.
+8cL	.
+[8cJ	.
 =20	=20
-8c]	C
+8c]	C major
 8r	.
-8e	.
-8d[	.
-8d]	G7
+8eL	.
+[8dJ	.
+8d]	G dominant
 8r	.
-8d	.
-8c[	.
+8dL	.
+[8cJ	.
 =21	=21
-8c]	C
+8c]	C major
 4.r	.
-4r	C7/G
-8G	.
-8A	.
+4r	C dominant/G
+8GL	.
+8AJ	.
 =22	=22
-4.A#	Gm
+4.A#	G minor
 8A	.
-4.A#	Gm/D
+4.A#	G minor/D
 8c	.
 =23	=23
-8A#	C
-8A	.
-4G[	.
-4G]	C/G
+8A#L	C major
+8AJ	.
+[4G	.
+4G]	C major/G
 8r	.
 8G	.
 =24	=24
-4F	F
+4F	F major
 4A	.
-4c	F/C
-16A#	.
-16c	.
-8A#	.
+4c	F major/C
+16A#LL	.
+16cJ	.
+8A#J	.
 =25	=25
-4A	F
+4A	F major
 4r	.
-4r	F/C
-8A	.
-8B	.
+4r	F major/C
+8AL	.
+8BJ	.
 =26	=26
-4.c	D7
+4.c	D dominant
 8B	.
-4.c	D7/A
+4.c	D dominant/A
 8d	.
 =27	=27
-8c	D7
-8B	.
-4A[	.
-8A]	D7/A
+8cL	D dominant
+8BJ	.
+[4A	.
+8A]	D dominant/A
 4r	.
 8A	.
 =28	=28
-4d	G
+4d	G major
 4G	.
 4G	.
 4G	.
 =29	=29
-2G	Gaug
+2G	G augmented
 4.g	.
 8r	.
 ==	==

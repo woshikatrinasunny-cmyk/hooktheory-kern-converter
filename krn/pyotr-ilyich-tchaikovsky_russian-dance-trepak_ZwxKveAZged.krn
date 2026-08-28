@@ -16,131 +16,131 @@
 *G:	*
 *M4/4	*
 =1	=1
-4d	D
-8d	.
-8c#	.
+4d	D major
+8dL	.
+8c#J	.
 4d	.
 4c	.
 =2	=2
-2B	Em/B
-2E	Em
+2B	E minor/B
+2E	E minor
 =3	=3
-4A	A
-8A	.
-8G#	.
+4A	A major
+8AL	.
+8G#J	.
 4A	.
 4G	.
 =4	=4
-2F#	F#m
-2BB	Bm
+2F#	F# minor
+2BB	B minor
 =5	=5
-4gg	Em7
+4gg	E minor-seventh
 4gg	.
-4ff#	F#m
+4ff#	F# minor
 4ff#	.
 =6	=6
-4ee	Em/G
+4ee	E minor/G
 4ee	.
-4dd	G#m7b5
+4dd	G# half-diminished
 4dd	.
 =7	=7
-4cc#	A7
+4cc#	A dominant
 4cc#	.
-4b	C#m7b5/E
+4b	C# half-diminished/E
 4b	.
 =8	=8
-4a	D/F#
-8f#	.
-8d	.
-4A	A
+4a	D major/F#
+8f#L	.
+8dJ	.
+4A	A major
 4r	.
 =9	=9
-4d	D
-8d	.
-8c#	.
+4d	D major
+8dL	.
+8c#J	.
 4d	.
 4c	.
 =10	=10
-2B	Em/B
-2E	Em
+2B	E minor/B
+2E	E minor
 =11	=11
-4A	A
-8A	.
-8G#	.
+4A	A major
+8AL	.
+8G#J	.
 4A	.
 4G	.
 =12	=12
-2F#	F#m
-2BB	Bm
+2F#	F# minor
+2BB	B minor
 =13	=13
-4gg	Em7
+4gg	E minor-seventh
 4gg	.
-4ff#	F#m
+4ff#	F# minor
 4ff#	.
 =14	=14
-4ee	Em/G
+4ee	E minor/G
 4ee	.
-4dd	G#m7b5
+4dd	G# half-diminished
 4dd	.
 =15	=15
-4cc#	A7
+4cc#	A dominant
 4cc#	.
-4b	Em/B
+4b	E minor/B
 4b	.
 =16	=16
-4a	A7
+4a	A dominant
 4a	.
-4a	D
+4a	D major
 4A	.
 =17	=17
-4cc	Am7b5/D#
-8g	.
-8f#	.
+4cc	A half-diminished/D#
+8gL	.
+8f#J	.
 4g	.
-8cc#	A7/E
-8cc	.
+8cc#L	A dominant/E
+8ccJ	.
 =18	=18
 4cc#	.
-8dd	D/F#
-8cc#	.
+8ddL	D major/F#
+8cc#J	.
 4dd	.
-4a	D
+4a	D major
 =19	=19
-4cc	Am7b5/D#
-8g	.
-8f#	.
+4cc	A half-diminished/D#
+8gL	.
+8f#J	.
 4g	.
-8cc#	A7/E
-8cc	.
+8cc#L	A dominant/E
+8ccJ	.
 =20	=20
 4cc#	.
-8dd	D/F#
-8cc#	.
+8ddL	D major/F#
+8cc#J	.
 4dd	.
-4a	D
+4a	D major
 =21	=21
-4cc	Am7b5/D#
-8g	.
-8f#	.
+4cc	A half-diminished/D#
+8gL	.
+8f#J	.
 4g	.
-4a	D
+4a	D major
 =22	=22
-4cc	Am7b5/D#
-8g	.
-8f#	.
+4cc	A half-diminished/D#
+8gL	.
+8f#J	.
 4g	.
-4a	D
+4a	D major
 =23	=23
-4cc	Am7b5/D#
-4a	D
-4cc	Am7b5/D#
-4a	D
+4cc	A half-diminished/D#
+4a	D major
+4cc	A half-diminished/D#
+4a	D major
 =24	=24
-4cc	Am7b5/D#
-4a	D
-6...dd	D7
-16dd	.
+4cc	A half-diminished/D#
+4a	D major
+6...dd	D dominant
+16ddLL	.
 16ee	.
-16ff#	.
+16ff#JJ	.
 ==	==
 *-	*-

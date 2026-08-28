@@ -16,43 +16,43 @@
 *D:	*
 *M3/4	*
 =1	=1
-4.e	Dsus2
-4.f#	Dsus2
+4.e	D suspended-second
+4.f#	D suspended-second
 =2	=2
-4.a	D
-4.dd	D
+4.a	D major
+4.dd	D major
 =3	=3
-4.d	A#maj7
-4.fn	A#maj7sus2
+4.d	A# major-seventh
+4.fn	A# major-seventh-suspended-second
 =4	=4
-4.cc	A#maj7
-4.a	A#maj7sus2
+4.cc	A# major-seventh
+4.a	A# major-seventh-suspended-second
 =5	=5
-4.d#	D#
-4.g	D#
+4.d#	D# major
+4.g	D# major
 =6	=6
-4.dd	D#maj7
-4.a#	D#maj7
+4.dd	D# major-seventh
+4.a#	D# major-seventh
 =7	=7
-4.a	Esus4
-4.e	Esus4
+4.a	E suspended-fourth
+4.e	E suspended-fourth
 =8	=8
-4.B	Esus4
-4.e	Esus4
+4.B	E suspended-fourth
+4.e	E suspended-fourth
 =9	=9
-4.g#	E
-4.e	E
+4.g#	E major
+4.e	E major
 =10	=10
-4.B	E
-4.e	E
+4.B	E major
+4.e	E major
 =11	=11
-2.D[	Dm
+[2.D	D minor
 =12	=12
 4D]	.
-2D[	Dm
+[2D	D minor
 =13	=13
 2D]	.
-4D[	Dm
+[4D	D minor
 =14	=14
 2.D]	.
 ==	==

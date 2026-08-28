@@ -16,7 +16,7 @@
 *a:	*
 *M6/4	*
 =1	=1
-2ee	F
+2ee	F major
 4ff	.
 2ee	.
 4ff	.
@@ -25,11 +25,11 @@
 4dd	.
 1cc	.
 =3	=3
-1.dd[	Dm
+[1.dd	D minor
 =4	=4
 1.dd]	.
 =5	=5
-2dd	G
+2dd	G major
 4ee	.
 2dd	.
 4ee	.
@@ -38,11 +38,11 @@
 4cc	.
 1g	.
 =7	=7
-1.a[	Am
+[1.a	A minor
 =8	=8
 1.a]	.
 =9	=9
-2ff	Dm
+2ff	D minor
 4gg	.
 2ff	.
 4gg	.
@@ -52,30 +52,30 @@
 2.dd	.
 4ff	.
 =11	=11
-1.ee[	C
+[1.ee	C major
 =12	=12
 1.ee]	.
 =13	=13
-8A#	.
-8e	.
-8a#	.
-8cc	.
+8A#L	.
+8eJ	.
+8a#L	.
+8ccJ	.
 4dd	.
-8A	.
-8e	.
-8a	.
-8a#	.
+8AL	.
+8eJ	.
+8aL	.
+8a#J	.
 4cc	.
 =14	=14
-8G#	.
-8e	.
-8g#	.
-8a#	.
+8G#L	.
+8eJ	.
+8g#L	.
+8a#J	.
 4cc	.
-8G	.
-8e	.
-8g#	.
-8a	.
+8GL	.
+8eJ	.
+8g#L	.
+8aJ	.
 4a#	.
 ==	==
 *-	*-

@@ -16,62 +16,62 @@
 *F:	*
 *M4/4	*
 =1	=1
-2e	B-
+2e	B- major
 2d	.
 =2	=2
 2.f	.
 4e	.
 =3	=3
-8c	Fadd(2,4,7)
+8cL	F other-2,4,7
 8C	.
 8F	.
+8GJ	.
+8AL	.
 8G	.
-8A	.
-8G	.
-8F	F
-8C	.
+8F	F major
+8CJ	.
 =4	=4
-2D	Dadd(2,3,7)
+2D	D other-2,3,7
 4r	.
-8r	Dm
+8r	D minor
 8CC	.
 =5	=5
-2FF	Fadd(2,4,7)
+2FF	F other-2,4,7
 4r	.
-8r	F
+8r	F major
 8CC	.
 =6	=6
-2DD	Dadd(2,3,7)
+2DD	D other-2,3,7
 4r	.
-4CC	Dm7/C
+4CC	D minor-seventh/C
 =7	=7
-2e	B-
+2e	B- major
 2d	.
 =8	=8
 2.g	.
 4d	.
 =9	=9
-8c	Fadd(2,4,7)
+8cL	F other-2,4,7
 8C	.
 8F	.
+8GJ	.
+8AL	.
 8G	.
-8A	.
-8G	.
-8F	F
-8C	.
+8F	F major
+8CJ	.
 =10	=10
-2D	Dadd(2,3,7)
+2D	D other-2,3,7
 4r	.
-8r	Dm
+8r	D minor
 8CC	.
 =11	=11
-2FF	Fadd(2,4,7)
+2FF	F other-2,4,7
 4r	.
-8r	F
+8r	F major
 8CC	.
 =12	=12
-2DD	Dadd(2,3,7)
+2DD	D other-2,3,7
 4r	.
-4CC	Dm7/C
+4CC	D minor-seventh/C
 ==	==
 *-	*-

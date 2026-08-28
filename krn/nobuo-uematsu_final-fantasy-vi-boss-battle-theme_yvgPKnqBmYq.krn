@@ -15,102 +15,102 @@
 *a:	*
 *M4/4	*
 =1	=1
-8e	Am
+8eL	A minor
 8a	.
 8b	.
-8cc	Am
-8b	.
+8ccJ	A minor
+8bL	.
 8a	.
-8e	Am
-8c	.
+8e	A minor
+8cJ	.
 =2	=2
-8B[	.
-8B]	Am
+[8BL	.
+8B]	A minor
 8c	.
-8A[	.
-8A]	Am
+[8AJ	.
+8AL]	A minor
 8c	.
-8B	G
-8c	.
+8B	G major
+8cJ	.
 =3	=3
-4d	F
+4d	F major
 8e	.
-4c	F
-8e	.
-8d	Em
-8e	.
+4c	F major
+8eL	.
+8d	E minor
+8eJ	.
 =4	=4
-8f	.
-8B	Dm
+8fL	.
+8B	D minor
 8d	.
-8f	.
-8a	Esus4
+8fJ	.
+8aL	E suspended-fourth
 8e	.
-8g#	E
-8e	.
+8g#	E major
+8eJ	.
 =5	=5
-8a	Am
+8aL	A minor
 8e	.
 8cc	.
-8b	Am
-8a	.
+8bJ	A minor
+8aL	.
 8e	.
-8c	Am
-8A	.
+8c	A minor
+8AJ	.
 =6	=6
-8B[	.
-8B]	Am
+[8BL	.
+8B]	A minor
 8c	.
-8A[	.
-8A]	Am
+[8AJ	.
+8AL]	A minor
 8c	.
-8B	G
-8c	.
+8B	G major
+8cJ	.
 =7	=7
-4d	F
+4d	F major
 8e	.
-4c	F
-8e	.
-8d	Em
-8e	.
+4c	F major
+8eL	.
+8d	E minor
+8eJ	.
 =8	=8
-8f	.
-8d	Dm
+8fL	.
+8d	D minor
 8g	.
-8e	.
-8a	Esus4
+8eJ	.
+8aL	E suspended-fourth
 8f	.
-8b	E
-8g#	.
+8b	E major
+8g#J	.
 =9	=9
-2.ff	F
-4cc	F#dim
+2.ff	F major
+4cc	F# diminished
 =10	=10
-4.b	G
+4.b	G major
 4.cc	.
 4dd	.
 =11	=11
-4.ee	Am
-4.ff	G
+4.ee	A minor
+4.ff	G major
 4gg	.
 =12	=12
-4.cc[	C/E
-8cc]	G
+[4.cc	C major/E
+8cc]	G major
 4.b	.
-8a[	F
+[8a	F major
 =13	=13
 4.a]	.
 4.ff	.
-4cc	F#dim
+4cc	F# diminished
 =14	=14
-4.b	G
+4.b	G major
 4.a	.
 4g	.
 =15	=15
-2a[	Dsus2
-2a]	Dsus4
+[2a	D suspended-second
+2a]	D suspended-fourth
 =16	=16
-4a	D
+4a	D major
 4b	.
 4cc	.
 4ee	.

@@ -16,172 +16,172 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8.g#	C#m
+8.g#L	C# minor
 8.e	.
-8c#[	.
-8c#]	G#m
+[8c#J	.
+8c#]	G# minor
 4B	.
 8r	.
 =2	=2
-8r	A
+8r	A major
+8aL	.
 8a	.
-8a	.
-8a	.
-8a	B
+8aJ	.
+8aL	B major
 8g#	.
 8f#	.
-8e	.
+8eJ	.
 =3	=3
-8.g#	C#m
+8.g#L	C# minor
 8.e	.
-8c#[	.
-8c#]	G#m
+[8c#J	.
+8c#]	G# minor
 4B	.
 8r	.
 =4	=4
-8r	A
+8r	A major
+8aL	.
 8a	.
-8a	.
-8a	.
-8a	B
+8aJ	.
+8aL	B major
 8g#	.
 8f#	.
-8e	.
+8eJ	.
 =5	=5
-8.g#	C#m
+8.g#L	C# minor
 8.e	.
-8c#[	.
-8c#]	G#m
+[8c#J	.
+8c#]	G# minor
 4B	.
 8r	.
 =6	=6
-4.r	A
+4.r	A major
 8a	.
-8a	B
+8aL	B major
 8g#	.
 8f#	.
-8e	.
+8eJ	.
 =7	=7
-8e	C#m
+8eL	C# minor
 8e	.
 8e	.
-8e	.
-4e	G#m
+8eJ	.
+4e	G# minor
 4r	.
 =8	=8
-8e	A
+8eL	A major
 8e	.
 8e	.
+8eJ	.
+8eL	B major
 8e	.
-8e	B
 8e	.
-8e	.
-8e	.
+8eJ	.
 =9	=9
 2..c#	.
 8r	.
 =10	=10
-2r	C#m
-8c#	.
-16c#	.
-16c#	.
-8.c#	.
+2r	C# minor
+8c#L	.
+16c#L	.
+16c#J	.
+8.c#J	.
 16r	.
 =11	=11
-8dddn	.
-16dddn	C#m
-16dddn	.
+8dddnL	.
+16dddnL	C# minor
+16dddnJJ	.
 16r	.
-16dddn	.
-16dddn	C#m
+16dddnLL	.
+16dddnJJ	C# minor
 16r	.
+8dddnL	.
+8dddn	C# minor
 8dddn	.
-8dddn	C#m
-8dddn	.
-8dddn	C#m
+8dddnJ	C# minor
 =12	=12
-8dddn	.
-16dddn	C#m
-16dddn	.
+8dddnL	.
+16dddnL	C# minor
+16dddnJJ	.
 16r	.
-16dddn	.
-16dddn	C#m
+16dddnLL	.
+16dddnJJ	C# minor
 16r	.
+8dddnL	.
+8dddn	C# minor
 8dddn	.
-8dddn	C#m
-8dddn	.
-8dddn	C#m
+8dddnJ	C# minor
 =13	=13
-8dddn	.
-16dddn	C#m
-16dddn	.
+8dddnL	.
+16dddnL	C# minor
+16dddnJJ	.
 16r	.
-16dddn	.
-16dddn	C#m
+16dddnLL	.
+16dddnJJ	C# minor
 16r	.
+8dddnL	.
+8dddn	C# minor
 8dddn	.
-8dddn	C#m
-8dddn	.
-8dddn	C#m
+8dddnJ	C# minor
 =14	=14
-8eee	.
-16eee	C#m
-16eee	.
+8eeeL	.
+16eeeL	C# minor
+16eeeJJ	.
 8r	.
-8eee	C#m
-8eee	.
-8eee	C#m
-16eee	.
-16eee	.
-16r	C#m
+8eee	C# minor
+8eeeL	.
+8eee	C# minor
+16eeeL	.
+16eeeJJ	.
+16r	C# minor
 16eee	.
 =15	=15
-8dddn	.
-16dddn	C#m
-16dddn	.
+8dddnL	.
+16dddnL	C# minor
+16dddnJJ	.
 16r	.
-16dddn	.
-16dddn	C#m
+16dddnLL	.
+16dddnJJ	C# minor
 16r	.
+8dddnL	.
+8dddn	C# minor
 8dddn	.
-8dddn	C#m
-8dddn	.
-8dddn	C#m
+8dddnJ	C# minor
 =16	=16
-8dddn	.
-16dddn	C#m
-16dddn	.
+8dddnL	.
+16dddnL	C# minor
+16dddnJJ	.
 16r	.
-16dddn	.
-16dddn	C#m
+16dddnLL	.
+16dddnJJ	C# minor
 16r	.
+8dddnL	.
+8dddn	C# minor
 8dddn	.
-8dddn	C#m
-8dddn	.
-8dddn	C#m
+8dddnJ	C# minor
 =17	=17
-8dddn	.
-16dddn	C#m
-16dddn	.
+8dddnL	.
+16dddnL	C# minor
+16dddnJJ	.
 16r	.
-16dddn	.
-16dddn	C#m
+16dddnLL	.
+16dddnJJ	C# minor
 16r	.
+8dddnL	.
+8dddn	C# minor
 8dddn	.
-8dddn	C#m
-8dddn	.
-8dddn	C#m
+8dddnJ	C# minor
 =18	=18
-8eee	.
-16eee	C#m
-16eee	.
+8eeeL	.
+16eeeL	C# minor
+16eeeJJ	.
 8r	.
-8eee	C#m
-8eee	.
-8eee	C#m
-16eee	.
-16eee	.
-16r	C#m
+8eee	C# minor
+8eeeL	.
+8eee	C# minor
+16eeeL	.
+16eeeJJ	.
+16r	C# minor
 16eee	.
 ==	==
 *-	*-

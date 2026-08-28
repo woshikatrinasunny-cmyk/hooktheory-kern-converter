@@ -16,7 +16,7 @@
 *G:	*
 *M3/4	*
 =1	=1
-4g	G
+4g	G major
 4f#	.
 4B	.
 =2	=2
@@ -24,28 +24,28 @@
 4d	.
 4G	.
 =3	=3
-3...A	Am7/G
+3...A	A minor-seventh/G
 8B	.
 =4	=4
 2.c	.
 =5	=5
 2E	.
-8F#	.
-8G	.
+8F#L	.
+8GJ	.
 =6	=6
-8A	Gadd(2,5,7,11)
-8B	.
-8c	.
-8d	.
-8e	.
-8f#	.
+8AL	G other-2,5,7,11
+8BJ	.
+8cL	.
+8dJ	.
+8eL	.
+8f#J	.
 =7	=7
-2.b[	G
+[2.b	G major
 =8	=8
 2b]	.
 4r	.
 =9	=9
-4g	G
+4g	G major
 4f#	.
 4B	.
 =10	=10
@@ -53,24 +53,24 @@
 4d	.
 4G	.
 =11	=11
-3...A#	A#dim7/G
+3...A#	A# diminished-seventh/G
 8B	.
 =12	=12
-2.c#	F#7
+2.c#	F# dominant
 =13	=13
-4.F#	Bm/F#
+4.F#	B minor/F#
 8G#	.
-8A#	.
-8B	.
+8A#L	.
+8BJ	.
 =14	=14
-8c#	F#7
-8d	.
-8e	.
-8f#	.
-8g#	.
-8a#	.
+8c#L	F# dominant
+8dJ	.
+8eL	.
+8f#J	.
+8g#L	.
+8a#J	.
 =15	=15
-2.dd[	Bm
+[2.dd	B minor
 =16	=16
 4dd]	.
 2r	.

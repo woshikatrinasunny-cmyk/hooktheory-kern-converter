@@ -16,40 +16,40 @@
 *F:	*
 *M4/4	*
 =1	=1
-8ccc	Fsus4
+8cccL	F suspended-fourth
 8ff	.
 8ccc	.
-8ff	F
-8bb-	.
+8ffJ	F major
+8bb-L	.
 8aa	.
 8ff	.
-8dd	.
+8ddJ	.
 =2	=2
-8ccc	E-sus4
+8cccL	E- suspended-fourth
 8ff	.
 8ccc	.
-8ff	E-
-8bb-	.
+8ffJ	E- major
+8bb-L	.
 8aa	.
 8dd	.
-8ff	.
+8ffJ	.
 =3	=3
-8ccc	D-
+8cccL	D- major
 8ff	.
 8ccc	.
-8ff	D-maj13#11
-8bb-	.
+8ffJ	D- major-13th
+8bb-L	.
 8aa	.
 8ff	.
-8dd	.
+8ddJ	.
 =4	=4
-8ccc	B-add(3,5,7,10)
+8cccL	B- other-3,5,7,10
 8ff	.
 8ccc	.
-8ff	C7sus2
-8bb-	.
+8ffJ	C dominant-seventh-suspended-second
+8bb-L	.
 8aa	.
 8dd	.
-8ff	.
+8ffJ	.
 ==	==
 *-	*-

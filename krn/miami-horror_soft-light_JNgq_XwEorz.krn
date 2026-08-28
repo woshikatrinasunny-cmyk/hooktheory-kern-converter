@@ -16,8 +16,8 @@
 *c#:	*
 *M4/4	*
 =1	=1
-2..d#	B
-8e[	Dadd(2,4,7)
+2..d#	B major
+[8e	D other-2,4,7
 =2	=2
 1e]	.
 =3	=3
@@ -25,15 +25,15 @@
 4e	.
 4e	.
 4B	.
-8e[	C#m
+[8e	C# minor
 =4	=4
 8e]	.
 4e	.
-4.e	C#m7/B
+4.e	C# minor-seventh/B
 4r	.
 =5	=5
-2..d#	B
-8e[	Dadd(2,4,7)
+2..d#	B major
+[8e	D other-2,4,7
 =6	=6
 1e]	.
 =7	=7
@@ -41,11 +41,11 @@
 4e	.
 4e	.
 4B	.
-8e[	C#m
+[8e	C# minor
 =8	=8
 8e]	.
 4e	.
-4.e	C#m7/B
+4.e	C# minor-seventh/B
 4r	.
 ==	==
 *-	*-

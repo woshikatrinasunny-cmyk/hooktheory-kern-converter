@@ -16,7 +16,7 @@
 *A:	*
 *M4/4	*
 =1	=1
-4cc#	B11
+4cc#	B dominant-11th
 4ee	.
 2cc#	.
 =2	=2
@@ -26,7 +26,7 @@
 8r	.
 8e	.
 =3	=3
-4fn	F/A
+4fn	F major/A
 4a	.
 4a	.
 4b	.
@@ -35,7 +35,7 @@
 3...r	.
 8a	.
 =5	=5
-4cc#	D/F#
+4cc#	D major/F#
 4ee	.
 4cc#	.
 4a	.
@@ -47,14 +47,14 @@
 8e	.
 =7	=7
 4f#	.
-4a	D
+4a	D major
 4a	.
-4b	F/A
+4b	F major/A
 =8	=8
 4a	.
 2.r	.
 =9	=9
-4cc#	B11
+4cc#	B dominant-11th
 4ee	.
 4.cc#	.
 8a	.
@@ -65,38 +65,38 @@
 8r	.
 8e	.
 =11	=11
-4fn	F/A
+4fn	F major/A
 4a	.
 8a	.
 4b	.
-8a[	.
+[8a	.
 =12	=12
 8a]	.
 2..r	.
 =13	=13
-4cc#	D/F#
+4cc#	D major/F#
 4ee	.
 4.cc#	.
 8a	.
 =14	=14
 4b	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 4e	.
 8r	.
 8e	.
 =15	=15
 4f#	.
-4a	D
+4a	D major
 4a	.
-4b	F/A
+4b	F major/A
 =16	=16
-8ccn	.
+8ccnL	.
 8dd	.
 8ccn	.
-8b	.
-8ccn	.
-8b	.
+8bJ	.
+8ccnL	.
+8bJ	.
 4a	.
 ==	==
 *-	*-

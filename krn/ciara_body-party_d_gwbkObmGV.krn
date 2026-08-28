@@ -16,45 +16,45 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.r	Dadd(2,4,7)
+4.r	D other-2,4,7
 4cc#	.
 4b	.
 8a	.
 =2	=2
-4r	C#7
+4r	C# dominant
 8e	.
 4g#	.
 4f#	.
 8e	.
 =3	=3
-4.r	C#m7
+4.r	C# minor-seventh
 4e	.
 4c#	.
 8r	.
 =4	=4
-2r	Em7
-2r	A7
+2r	E minor-seventh
+2r	A dominant
 =5	=5
-4.r	Dadd(2,4,7)
+4.r	D other-2,4,7
 4cc#	.
 4b	.
 8a	.
 =6	=6
-4r	C#7
+4r	C# dominant
 8e	.
 4g#	.
 4f#	.
 8r	.
 =7	=7
-4.r	C#m7
+4.r	C# minor-seventh
 4e	.
 4c#	.
 8r	.
 =8	=8
-2r	Em7
-8b	A7
+2r	E minor-seventh
+8bL	A dominant
 8b	.
 8b	.
-8a	.
+8aJ	.
 ==	==
 *-	*-

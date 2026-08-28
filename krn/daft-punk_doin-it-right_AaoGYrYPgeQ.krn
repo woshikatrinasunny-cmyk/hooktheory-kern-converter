@@ -16,64 +16,64 @@
 *g#:	*
 *M4/4	*
 =1	=1
-16A#	G#sus2
+16A#LL	G# suspended-second
 16A#	.
-16A#	.
-8.B	G#m
-16A#	.
-16A#	.
-16A#	.
+16A#J	.
+8.B	G# minor
+16A#L	.
+16A#JJ	.
+16A#LL	.
 16B	.
 16B	.
 16B	.
-16c#	F#/A#
+16c#	F# major/A#
 16c#	.
 16c#	.
-16c#	.
+16c#JJ	.
 =2	=2
-16c#	Bsus2
+16c#LL	B suspended-second
 16c#	.
-16c#	.
-8.d#	B
-16c#	.
-16c#	.
-16c#	.
+16c#J	.
+8.d#	B major
+16c#L	.
+16c#JJ	.
+16c#LL	.
 16d#	.
 16d#	.
 16d#	.
-16e#	C#
+16e#	C# major
 16e#	.
 16e#	.
-16e#	.
+16e#JJ	.
 =3	=3
-16e#	D#sus2
+16e#LL	D# suspended-second
 16e#	.
-16e#	.
-8.f#	D#m
-16e#	.
-16e#	.
-16e#	C#
+16e#J	.
+8.f#	D# minor
+16e#L	.
+16e#JJ	.
+16e#LL	C# major
 16f#	.
 16f#	.
 16f#	.
 16e#	.
 16e#	.
 16c#	.
-16c#	.
+16c#JJ	.
 =4	=4
-16c#	Bsus2
+16c#LL	B suspended-second
 16c#	.
-16c#	.
-8.d#	B
-16c#	.
-16c#	.
-16c#	.
+16c#J	.
+8.d#	B major
+16c#L	.
+16c#JJ	.
+16c#LL	.
 16d#	.
 16d#	.
 16d#	.
 16c#	.
 16c#	.
 16B	.
-16B	.
+16BJJ	.
 ==	==
 *-	*-

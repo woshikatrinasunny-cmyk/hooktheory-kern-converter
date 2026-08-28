@@ -16,7 +16,7 @@
 *f:	*
 *M3/4	*
 =1	=1
-2aa-	Fm
+2aa-	F minor
 4aa-	.
 =2	=2
 2gg	.
@@ -28,76 +28,76 @@
 2ee-	.
 4ee-	.
 =5	=5
-2.ee-[	D-
+[2.ee-	D- major
 =6	=6
 2.ee-]	.
 =7	=7
-2.ff[	.
+[2.ff	.
 =8	=8
 2ff]	.
-4gg	E-
+4gg	E- major
 =9	=9
-4r	Dm
-8f	.
-8g	.
+4r	D minor
+8fL	.
+8gJ	.
 4an	.
 =10	=10
-4g	B-
+4g	B- major
 4an	.
 4cc	.
 =11	=11
-4ddn	C
-8an	.
-8ddn	.
+4ddn	C major
+8anL	.
+8ddnJ	.
 4een	.
 =12	=12
-4ff	A
+4ff	A major
 4een	.
 4dd-	.
 =13	=13
-2ddn	B-
-16ddn	.
+2ddn	B- major
+16ddnLL	.
 16an	.
 16g	.
-16an	.
+16anJJ	.
 =14	=14
-16een	C
+16eenLL	C major
 16ff	.
 16gg	.
-16een	.
-16ff	.
+16eenJJ	.
+16ffLL	.
 16gg	.
 16cc	.
-16ddn	.
-16een	.
+16ddnJJ	.
+16eenLL	.
 16ff	.
 16gg	.
-16ff	.
+16ffJJ	.
 =15	=15
-16bb-	D-
+16bb-LL	D- major
 16aa-	.
 16ff	.
-16gg	.
-16aa-	.
+16ggJJ	.
+16aa-LL	.
 16ddd-	.
 16ccc	.
-16gg	.
-16aa-	.
+16ggJJ	.
+16aa-LL	.
 16bb-	.
 16ddd-	.
-16eee-	.
+16eee-JJ	.
 =16	=16
-16eeen	Edim
+16eeenLL	E diminished
 16aa-	.
 16gg	.
-16bb-	.
-16een	.
+16bb-JJ	.
+16eenLL	.
 16gg	.
 16ff	.
-16een	.
-16b-	.
+16eenJJ	.
+16b-LL	.
 16g	.
 16en	.
-16g	.
+16gJJ	.
 ==	==
 *-	*-

@@ -16,27 +16,27 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4r	F#
-8cc#	.
-8a#[	.
-4a#]	F#/C#
-8cc#	.
-8dd#[	.
+4r	F# major
+8cc#L	.
+[8a#J	.
+4a#]	F# major/C#
+8cc#L	.
+[8dd#J	.
 =2	=2
-4dd#]	D#m
+4dd#]	D# minor
 4a#	.
-4b	C#m7
+4b	C# minor-seventh
 4cc#	.
 =3	=3
-4.a#	B
-8f#[	.
-8f#]	G#m7
+4.a#	B major
+[8f#	.
+8f#]	G# minor-seventh
 8r	.
 4b	.
 =4	=4
-4.a#	G#m
-8f#[	.
-4f#]	C#7
+4.a#	G# minor
+[8f#	.
+4f#]	C# dominant
 4r	.
 ==	==
 *-	*-

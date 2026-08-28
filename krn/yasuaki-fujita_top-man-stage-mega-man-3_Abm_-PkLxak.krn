@@ -15,94 +15,94 @@
 *d:	*
 *M4/4	*
 =1	=1
-8dd	Dm
+8ddL	D minor
 8dd	.
 8aa	.
-8dd	.
-8gg	.
+8ddJ	.
+8ggL	.
 8dd	.
 8ff	.
-8dd	.
+8ddJ	.
 =2	=2
-8cc	Dm
+8ccL	D minor
 8dd	.
 8ff	.
-8dd	.
-8gg	.
+8ddJ	.
+8ggL	.
 8dd	.
 8ff	.
-8dd[	.
+[8ddJ	.
 =3	=3
-8dd]	Dm
+8ddL]	D minor
 8dd	.
 8aa	.
-8dd	.
-8gg	.
+8ddJ	.
+8ggL	.
 8dd	.
 8ff	.
-8dd	.
+8ddJ	.
 =4	=4
-8cc	Dm
+8ccL	D minor
 8dd	.
 8ff	.
-8dd	.
-8gg	.
+8ddJ	.
+8ggL	.
 8dd	.
 8ff	.
-8cc[	C
+[8ccJ	C major
 =5	=5
-8cc]	.
+8ccL]	.
 8cc	.
 8gg	.
-8cc	.
-8ff	.
+8ccJ	.
+8ffL	.
 8cc	.
 8ee	.
-8cc	.
+8ccJ	.
 =6	=6
-8cc	C
+8ccL	C major
 8cc	.
 8ee	.
-8cc	.
-8ff	.
+8ccJ	.
+8ffL	.
 8cc	.
 8ee	.
-8cc[	.
+[8ccJ	.
 =7	=7
-8cc]	C
+8ccL]	C major
 8cc	.
 8gg	.
-8cc	.
-8ff	.
+8ccJ	.
+8ffL	.
 8cc	.
 8ee	.
-8cc	.
+8ccJ	.
 =8	=8
-8cc	C
-8dd-	D-dim
+8ccL	C major
+8dd-J	D- diminished
 8r	.
-8dd	Dm
+8dd	D minor
 8r	.
-8ff	F
-8ee	Edim
-8dd[	Dm
+8ffL	F major
+8ee	E diminished
+[8ddJ	D minor
 =9	=9
-8dd]	Dm
+8ddL]	D minor
 8dd	.
 8aa	.
-8dd	.
-8gg	.
+8ddJ	.
+8ggL	.
 8dd	.
 8ff	.
-8dd[	.
+[8ddJ	.
 =10	=10
-8dd]	Dm
+8ddL]	D minor
 8dd	.
 8aa	.
-8dd	.
-8gg	.
+8ddJ	.
+8ggL	.
 8dd	.
 8ff	.
-8dd	.
+8ddJ	.
 ==	==
 *-	*-

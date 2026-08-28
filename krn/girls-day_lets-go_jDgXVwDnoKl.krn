@@ -16,45 +16,45 @@
 *D:	*
 *M4/4	*
 =1	=1
-4..a[	Gadd(2,4,7)
-4..a]	D/F#
-16a	.
-16b	.
+[4..a	G other-2,4,7
+4..a]	D major/F#
+16aLL	.
+16bJJ	.
 =2	=2
-4..a[	Em
-4.a]	A
-16g	.
+[4..a	E minor
+4.a]	A major
+16gLL	.
 16f#	.
-16e	.
+16eJJ	.
 =3	=3
-16g	Gadd(2,4,7)
+16gLL	G other-2,4,7
 16g	.
-16f#	.
+16f#JJ	.
 16r	.
-16g	.
-16f#	.
+16gLL	.
+16f#JJ	.
 16r	.
-8g	D/F#
-16g	.
-16f#	.
+8g	D major/F#
+16gLL	.
+16f#JJ	.
 16r	.
-16g	.
-16f#	.
+16gLL	.
+16f#JJ	.
 8r	.
 =4	=4
-16g	Em
+16gLL	E minor
 16g	.
-16f#	.
+16f#JJ	.
 16r	.
-16g	.
-16f#	.
+16gLL	.
+16f#JJ	.
 16r	.
-8g	A
+8g	A major
+16gLL	.
 16g	.
 16g	.
 16g	.
-16g	.
-16a	.
+16aJJ	.
 16r	.
 16f#	.
 ==	==

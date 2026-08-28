@@ -15,94 +15,94 @@
 *a:	*
 *M4/4	*
 =1	=1
-8AA	Am
+8AAL	A minor
 8AA	.
 8AA	.
-8AA	G
+8AAJ	G major
+8AAL	.
 8AA	.
 8AA	.
-8AA	.
-8AA	.
+8AAJ	.
 =2	=2
-8AA	Am
+8AAL	A minor
 8AA	.
 8AA	.
-8AA	C
+8AAJ	C major
+8AAL	.
 8AA	.
 8AA	.
-8AA	.
-8AA	.
+8AAJ	.
 =3	=3
-8r	Am
+8r	A minor
+8AAL	.
+8E	.
+8AAJ	G major
+8EL	.
 8AA	.
 8E	.
-8AA	G
-8E	.
-8AA	.
-8E	.
-8AA	.
+8AAJ	.
 =4	=4
-8E[	A
-8E_	C
-8E]	D
-3...r	C#dim
+[8EL	A major
+8E_	C major
+8EJ]	D major
+3...r	C# diminished
 =5	=5
-8AA	Am
+8AAL	A minor
 8AA	.
 8AA	.
-8AA	G
+8AAJ	G major
+8AAL	.
 8AA	.
 8AA	.
-8AA	.
-8AA	.
+8AAJ	.
 =6	=6
-8AA	Am
+8AAL	A minor
 8AA	.
 8AA	.
-8AA	C
+8AAJ	C major
+8AAL	.
 8AA	.
 8AA	.
-8AA	.
-8AA	.
+8AAJ	.
 =7	=7
-8r	Am
+8r	A minor
+8AAL	.
+8E	.
+8AAJ	G major
+8EL	.
 8AA	.
 8E	.
-8AA	G
-8E	.
-8AA	.
-8E	.
-8AA	.
+8AAJ	.
 =8	=8
-8E[	A
-8E_	C
-8E]	D
-3...r	C#dim
+[8EL	A major
+8E_	C major
+8EJ]	D major
+3...r	C# diminished
 =9	=9
-4.r	Am
-4ee	G
+4.r	A minor
+4ee	G major
 4r	.
-8ee[	.
+[8ee	.
 =10	=10
-8ee]	Am
+8ee]	A minor
 4r	.
-4ee	C
+4ee	C major
 4r	.
-8ee[	.
+[8ee	.
 =11	=11
-8ee]	Am
+8eeL]	A minor
 8AA	.
 8E	.
-8AA	G
-8E	.
+8AAJ	G major
+8EL	.
 8AA	.
 8E	.
-8AA	.
+8AAJ	.
 =12	=12
-8E[	A
-8E_	C
-8E_	D
-8.E]	C#dim
+[8EL	A major
+8E_	C major
+8EJ_	D major
+8.E]	C# diminished
 4..r	.
 ==	==
 *-	*-

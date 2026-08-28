@@ -15,64 +15,64 @@
 *D:	*
 *M4/4	*
 =1	=1
-4a	D
+4a	D major
 4a	.
 4b	.
 4a	.
 =2	=2
-1d	D7
+1d	D dominant
 =3	=3
-4B	G
+4B	G major
 4B	.
 4e	.
 4d	.
 =4	=4
-1B	G#dim7
+1B	G# diminished-seventh
 =5	=5
-4.A	Dmaj7/F#
+4.A	D major-seventh/F#
 4.A	.
-4a[	.
+[4a	.
 =6	=6
-8a]	F13
+8a]	F dominant-13th
 4.A	.
 4A	.
-4a[	.
+[4a	.
 =7	=7
-8a]	Em7
+8a]	E minor-seventh
 4.A	.
 4A	.
 4a	.
 =8	=8
-1e	A7
+1e	A dominant
 =9	=9
-4f#	D
+4f#	D major
 4f#	.
 4b	.
 4a	.
 =10	=10
-1ccn	D#dim7
+1ccn	D# diminished-seventh
 =11	=11
-4b	Em7
+4b	E minor-seventh
 4b	.
 4ee	.
 4dd	.
 =12	=12
-1b	Fdim7
+1b	F diminished-seventh
 =13	=13
-4.a	Dmaj7/F#
-8a[	.
-4a]	F7
-4A[	.
+4.a	D major-seventh/F#
+[8a	.
+4a]	F dominant
+[4A	.
 =14	=14
-8A]	Em7
+8A]	E minor-seventh
 4.a	.
-4A	D#7
+4A	D# dominant
 4e	.
 =15	=15
-2d[	Dmaj7
-2d_	Badd(2,3,7)
+[2d	D major-seventh
+2d_	B other-2,3,7
 =16	=16
-2d_	A#maj9
-2d]	D#maj7sus2
+2d_	A# major-ninth
+2d]	D# major-seventh-suspended-second
 ==	==
 *-	*-

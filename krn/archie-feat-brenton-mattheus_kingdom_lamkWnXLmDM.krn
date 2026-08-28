@@ -16,162 +16,162 @@
 *f:	*
 *M4/4	*
 =1	=1
-4r	D-
-8dd-	.
-8dd-	.
+4r	D- major
+8dd-L	.
+8dd-J	.
 8dd-	.
 4dd-	.
-8dd-[	.
+[8dd-	.
 =2	=2
-8dd-]	E-
+8dd-]	E- major
 4cc	.
-8b-[	.
-8b-]	Cm/G
-8a-	.
+[8b-	.
+8b-L]	C minor/G
+8a-J	.
 4f	.
 =3	=3
-4r	Fm
+4r	F minor
 8f	.
 4.cc	.
-8a-	.
-8b-[	.
+8a-L	.
+[8b-J	.
 =4	=4
-8b-]	Fm
-8b-	.
+8b-L]	F minor
+8b-J	.
 2.b-	.
 =5	=5
-4r	D-
-8f	.
-8dd-	.
+4r	D- major
+8fL	.
+8dd-J	.
 8dd-	.
 4dd-	.
-8dd-[	.
+[8dd-	.
 =6	=6
-8dd-]	Cm/E-
+8dd-]	C minor/E-
 4cc	.
 8b-	.
-8b-	E-/G
+8b-L	E- major/G
 8b-	.
 8a-	.
-8cc[	.
+[8ccJ	.
 =7	=7
-8cc]	Fm
+8cc]	F minor
 4.cc	.
 8r	.
-8ee-	.
+8ee-L	.
 8ff	.
-8ee-	.
+8ee-J	.
 =8	=8
-8cc	A-
+8ccL	A- major
 8b-	.
 8b-	.
-8b-	.
+8b-J	.
 4b-	.
 4a-	.
 =9	=9
-4.f	D-
-4.a-	D-
-4b-	D-
+4.f	D- major
+4.a-	D- major
+4b-	D- major
 =10	=10
 8r	.
-4.cc	E-
-4b-	E-
-4a-	E-
+4.cc	E- major
+4b-	E- major
+4a-	E- major
 =11	=11
-4.f	Fm
-4.a-	Fm
-4ee-	Fm
+4.f	F minor
+4.a-	F minor
+4ee-	F minor
 =12	=12
 8r	.
-3...cc	A-/E-
+3...cc	A- major/E-
 4b-	.
 =13	=13
-4.f	D-
-4.a-	D-
-4b-	D-
+4.f	D- major
+4.a-	D- major
+4b-	D- major
 =14	=14
 8r	.
-4.cc	E-
-4b-	E-
-4a-	E-
+4.cc	E- major
+4b-	E- major
+4a-	E- major
 =15	=15
-4.cc	Fm
+4.cc	F minor
 4ff	.
 4ee-	.
-8cc[	.
+[8cc	.
 =16	=16
-8cc]	.
+8ccL]	.
 8b-	.
-8b-	A-/C
-8b-	.
+8b-	A- major/C
+8b-J	.
 4b-	.
 4a-	.
 =17	=17
-1ff[	D-
+[1ff	D- major
 =18	=18
-2ff]	E-
+2ff]	E- major
 4.aa-	.
 8gg	.
 =19	=19
-2.ff	B-m
+2.ff	B- minor
 4r	.
 =20	=20
 8r	.
+8b-L	.
 8b-	.
-8b-	.
-8b-	.
+8b-J	.
 4b-	.
 4a-	.
 =21	=21
-1ff[	D-
+[1ff	D- major
 =22	=22
-2ff]	E-
+2ff]	E- major
 4.aa-	.
 8gg	.
 =23	=23
-1ff	Fm
+1ff	F minor
 =24	=24
 4.r	.
 8a-	.
 4.cc	.
 8dd-	.
 =25	=25
-8dd-	D-
+8dd-	D- major
 3...cc	.
-8a-	.
-8b-[	.
+8a-L	.
+[8b-J	.
 =26	=26
-4.b-]	E-
+4.b-]	E- major
 8r	.
 4cc	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =27	=27
-4.f	Fm
+4.f	F minor
 4.a-	.
-4b-[	.
+[4b-	.
 =28	=28
-8b-]	Cm
+8b-]	C minor
 4cc	.
 8b-	.
 2r	.
 =29	=29
-4.ff	D-
+4.ff	D- major
 4.ee-	.
-4cc[	.
+[4cc	.
 =30	=30
-2cc]	E-
+2cc]	E- major
 4aa-	.
-8gg	.
-8aa-[	.
+8ggL	.
+[8aa-J	.
 =31	=31
-2aa-]	Fm
-8aa-	.
+2aa-]	F minor
+8aa-L	.
 8bb-	.
 8aa-	.
-8gg	.
+8ggJ	.
 =32	=32
-2r	A-/E-
-2r	A-
+2r	A- major/E-
+2r	A- major
 ==	==
 *-	*-

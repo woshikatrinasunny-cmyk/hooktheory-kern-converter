@@ -16,63 +16,63 @@
 *E:	*
 *M4/4	*
 =1	=1
-16r	E
-16B	.
+16r	E major
+16BLL	.
 16A#	.
-16G#	.
-4F#[	E/B
-8F#]	E
+16G#JJ	.
+[4F#	E major/B
+8F#]	E major
 8r	.
-8r	E/B
-16d#	.
-16c#	.
+8r	E major/B
+16d#LL	.
+16c#JJ	.
 =2	=2
-16c#	E
+16c#LL	E major
 16B	.
 16B	.
-16G#[	.
-4G#]	E/B
-4r	E
-16r	E/B
-8G#	.
-16B[	.
+[16G#JJ	.
+4G#]	E major/B
+4r	E major
+16r	E major/B
+8G#L	.
+[16BJk	.
 =3	=3
-16B]	G#m
+16BLL]	G# minor
 16B	.
-16G#	.
-6...B[	.
-8B]	Fm7b5
+16G#JJ	.
+[6...B	.
+8B]	F half-diminished
 4r	.
-16B	.
-16c#	.
+16BLL	.
+16c#JJ	.
 =4	=4
-2A#	D#/G
+2A#	D# major/G
 2r	.
 =5	=5
-8.r	Emaj7
-16G#	.
-16G#	Emaj7/B
-8A#	.
+8.r	E major-seventh
+16G#LL	.
+16G#J	E major-seventh/B
+8A#J	.
 16r	.
-4B[	Emaj7
-16B]	Emaj7/B
+[4B	E major-seventh
+16B]	E major-seventh/B
 8.r	.
 =6	=6
-8r	Emaj7
-16G#	.
-16A#	.
-4B	Emaj7/B
-4G#[	Emaj7
-8.G#]	Emaj7/B
+8r	E major-seventh
+16G#LL	.
+16A#JJ	.
+4B	E major-seventh/B
+[4G#	E major-seventh
+8.G#]	E major-seventh/B
 16r	.
 =7	=7
-16r	G#m
+16r	G# minor
 4.d#	.
 16r	.
-16r	Fdim/G#
+16r	F diminished/G#
 4..d#	.
 =8	=8
-16r	D#/G
+16r	D# major/G
 4..d#	.
 2r	.
 ==	==

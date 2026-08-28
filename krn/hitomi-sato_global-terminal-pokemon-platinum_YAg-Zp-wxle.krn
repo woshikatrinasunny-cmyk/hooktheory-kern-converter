@@ -16,69 +16,69 @@
 *F#:	*
 *M4/4	*
 =1	=1
-1cc#[	F#add(4,5,7)
+[1cc#	F# other-4,5,7
 =2	=2
-4cc#]	F#add(4,5,7)
+4cc#]	F# other-4,5,7
 4a#	.
 4cc#	.
 4dd#	.
 =3	=3
-1f#[	Bmaj7sus2
+[1f#	B major-seventh-suspended-second
 =4	=4
-4f#]	Bmaj7sus2
+4f#]	B major-seventh-suspended-second
 4b	.
 4a#	.
 4b	.
 =5	=5
-1cc#[	D#add(3,7,8,10)
+[1cc#	D# other-3,7,8,10
 =6	=6
-4cc#]	D#add(3,7,8,10)
+4cc#]	D# other-3,7,8,10
 4a#	.
 4cc#	.
 4dd#	.
 =7	=7
-1f#[	B9
+[1f#	B dominant-ninth
 =8	=8
-1f#_	B9
+1f#_	B dominant-ninth
 =9	=9
-1f#_	C#add(2,5,7)
+1f#_	C# other-2,5,7
 =10	=10
-1f#]	C#add(2,5,7)
+1f#]	C# other-2,5,7
 =11	=11
-8a#	F#maj7
+8a#L	F# major-seventh
 8a#	.
 8a#	.
+8a#J	.
+8a#L	.
 8a#	.
 8a#	.
-8a#	.
-8a#	.
-8a#	.
+8a#J	.
 =12	=12
-8a#	F#maj7
+8a#L	F# major-seventh
 8a#	.
 8a#	.
-8a#	.
-8b	.
+8a#J	.
+8bL	.
 8b	.
 8cc#	.
-8cc#	.
+8cc#J	.
 =13	=13
-8ff#	Bmaj9
+8ff#L	B major-ninth
 8ff#	.
 8ff#	.
+8ff#J	.
+8ff#L	.
 8ff#	.
 8ff#	.
-8ff#	.
-8ff#	.
-8ff#	.
+8ff#J	.
 =14	=14
-8ff#	Bmaj9
+8ff#L	B major-ninth
 8ff#	.
 8ff#	.
+8ff#J	.
+8ff#L	.
 8ff#	.
 8ff#	.
-8ff#	.
-8ff#	.
-8ff#	.
+8ff#J	.
 ==	==
 *-	*-

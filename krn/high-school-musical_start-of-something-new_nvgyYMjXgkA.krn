@@ -16,26 +16,26 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	Csus2
+1r	C suspended-second
 =2	=2
 1r	.
 =3	=3
-1r	Fadd(2,4,7)/C
+1r	F other-2,4,7/C
 =4	=4
 2.r	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 =5	=5
-4cc	Csus2
+4cc	C suspended-second
 8a	.
 4dd	.
 4.a	.
 =6	=6
 2.r	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 =7	=7
-4cc	Fadd(2,4,7)/C
+4cc	F other-2,4,7/C
 8a	.
 4.dd	.
 4r	.
@@ -43,19 +43,19 @@
 2..r	.
 8dd	.
 =9	=9
-8ee	Cadd(2,4,7)
+8eeL	C other-2,4,7
 8dd	.
 8dd	.
-8cc	.
+8ccJ	.
 4cc	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 =10	=10
 2.r	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 =11	=11
-4cc	Fadd(2,4,7)/C
+4cc	F other-2,4,7/C
 8a	.
 4.dd	.
 4r	.

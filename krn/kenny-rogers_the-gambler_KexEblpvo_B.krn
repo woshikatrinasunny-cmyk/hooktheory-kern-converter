@@ -15,77 +15,77 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4E-	E-
-8E-	.
-16BB-	.
+4E-	E- major
+8E-L	.
+16BB-Jk	.
 8.E-	.
 8BB-	.
 4r	.
 =2	=2
-8r	A-add(2,4,7)
-8A-	.
+8r	A- other-2,4,7
+8A-L	.
 8B-	.
-16c	.
-16B-[	.
-8B-]	E-
-8E-	.
+16cL	.
+[16B-JJ	.
+8B-L]	E- major
+8E-J	.
 4r	.
 =3	=3
-8r	A-add(2,4,7)
-8A-	.
+8r	A- other-2,4,7
+8A-L	.
 8B-	.
-16c	.
-16B-[	.
-16B-]	E-
-16B-	.
-8G	.
+16cL	.
+[16B-JJ	.
+16B-LL]	E- major
+16B-J	.
+8GJ	.
 4r	.
 =4	=4
-8r	E-
+8r	E- major
+8E-L	.
 8E-	.
-8E-	.
-16BB-	.
-16F[	.
-8F]	B-7
+16BB-L	.
+[16FJJ	.
+8F]	B- dominant
 8r	.
-16G	.
+16GLK	.
 8F	.
-16E-	.
+16E-Jk	.
 =5	=5
-4E-	E-
-4F	A-add(2,4,7)
-16E-	E-
-8.BB-	.
+4E-	E- major
+4F	A- other-2,4,7
+16E-LK	E- major
+8.BB-J	.
 8r	.
-16E-	.
-16E-	.
+16E-LL	.
+16E-JJ	.
 =6	=6
-16A-	A-add(2,4,7)
+16A-LK	A- other-2,4,7
 8.A-	.
 8B-	.
-16c	.
-16B-[	.
-16B-]	E-
+16cL	.
+[16B-JJ	.
+16B-LK]	E- major
 8.G	.
 8E-	.
-8G	.
+8GJ	.
 =7	=7
-8G	E-
-16G	.
-16B-[	.
-8B-]	A-add(2,4,7)
-16B-	.
-16G[	.
-16G]	E-
-8E-	.
+8GL	E- major
+16GL	.
+[16B-J	.
+8B-]	A- other-2,4,7
+16B-L	.
+[16GJJ	.
+16GLK]	E- major
+8E-J	.
 6...r	.
 =8	=8
-8r	B-
-16F	.
-16E-	.
+8r	B- major
+16FLL	.
+16E-J	.
 8G	.
-8F	.
-4E-	E-
+8FJ	.
+4E-	E- major
 4r	.
 ==	==
 *-	*-

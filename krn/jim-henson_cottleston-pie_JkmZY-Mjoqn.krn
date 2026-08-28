@@ -16,59 +16,59 @@
 *E:	*
 *M6/4	*
 =1	=1
-4b	E
+4b	E major
 4a	.
 4g#	.
-4g#	Eadd(2,4,8)
+4g#	E other-2,4,8
 4f#	.
 4e	.
 =2	=2
-4g#	C#m/E
+4g#	C# minor/E
 4f#	.
 4e	.
-4.g#	E7
+4.g#	E dominant
 4r	.
 8f#	.
 =3	=3
-4g#	Amaj7
+4g#	A major-seventh
 4f#	.
 4e	.
-4e	F#m7
+4e	F# minor-seventh
 4c#	.
 4e	.
 =4	=4
-4gn	B11
+4gn	B dominant-11th
 4e	.
-4f#	B7
-4e	C#m/E
+4f#	B dominant
+4e	C# minor/E
 4r	.
-4r	E
+4r	E major
 =5	=5
-4ee	C#m
+4ee	C# minor
 4dd#	.
 4cc#	.
-8b	G#m
-8a	.
+8bL	G# minor
+8aJ	.
 4r	.
 4g#	.
 =6	=6
-4cc#	A
+4cc#	A major
 4b	.
 4a	.
-4g#	C#m
+4g#	C# minor
 2r	.
 =7	=7
-4g#	F#7sus4
+4g#	F# dominant-seventh-suspended-fourth
 4f#	.
-4e	F#7sus2
-4g#	F#7
+4e	F# dominant-seventh-suspended-second
+4g#	F# dominant
 4f#	.
 4e	.
 =8	=8
-4f#	B7sus4
+4f#	B dominant-seventh-suspended-fourth
 4e	.
-4f#	B7
-2e	E
+4f#	B dominant
+2e	E major
 4r	.
 ==	==
 *-	*-

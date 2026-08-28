@@ -15,62 +15,62 @@
 *F:	*
 *M4/4	*
 =1	=1
-2ff	F
-8ff	.
+2ff	F major
+8ffL	.
 8cc	.
 8dd	.
-8ff[	.
+[8ffJ	.
 =2	=2
-8ff]	F
+8ffL]	F major
 8cc	.
-8dd	.
+8ddJ	.
 4ff	.
-8cc	.
+8ccL	.
 8dd	.
-8ff	.
+8ffJ	.
 =3	=3
-8ff	B-
+8ffL	B- major
 8cc	.
 8dd	.
-8cc	.
+8ccJ	.
 8r	.
-4r	E-add(2,4,7)/B-
-8r	B-
+4r	E- other-2,4,7/B-
+8r	B- major
 =4	=4
 8r	.
-8b-	.
+8b-L	.
 8cc	.
-8cc	.
+8ccJ	.
 8ff	.
 4.ddd	.
 =5	=5
-8r	F
+8r	F major
 4ccc	.
 8r	.
-8aa	.
+8aaL	.
 8gg	.
 8aa	.
-8gg	.
+8ggJ	.
 =6	=6
-8aa	F
+8aaL	F major
 8gg	.
-8aa	.
+8aaJ	.
 4gg	.
-8cc	.
+8ccL	.
 8dd	.
-8ff[	.
+[8ffJ	.
 =7	=7
-8ff]	B-
+8ffL]	B- major
 8cc	.
-8dd	.
+8ddJ	.
 4ff	.
-8cc	.
+8ccL	.
 8dd	.
-8ff[	.
+[8ffJ	.
 =8	=8
-8ff]	B-
+8ffL]	B- major
 8cc	.
-8dd	.
+8ddJ	.
 4f	.
 8f	.
 4g	.

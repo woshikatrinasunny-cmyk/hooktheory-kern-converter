@@ -16,56 +16,56 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4r	D#add(2,3,7)
-8r	D#add(2,3,7)
-16r	D#add(2,3,7)
-8r	D#add(2,3,7)
-8r	D#add(2,3,7)
-6...r	D#add(2,3,7)
+4r	D# other-2,3,7
+8r	D# other-2,3,7
+16r	D# other-2,3,7
+8r	D# other-2,3,7
+8r	D# other-2,3,7
+6...r	D# other-2,3,7
 =2	=2
-4r	E#add(2,3,7)
-8r	E#add(2,3,7)
-8.r	E#add(2,3,7)
-8r	E#add(2,3,7)
-6...r	E#add(2,3,7)
+4r	E# other-2,3,7
+8r	E# other-2,3,7
+8.r	E# other-2,3,7
+8r	E# other-2,3,7
+6...r	E# other-2,3,7
 =3	=3
-4r	G#add(2,3,7)
-8r	G#add(2,3,7)
-8.r	G#add(2,3,7)
-8r	G#add(2,3,7)
-8.r	G#add(2,3,7)
-8r	Aadd(2,4,7)
+4r	G# other-2,3,7
+8r	G# other-2,3,7
+8.r	G# other-2,3,7
+8r	G# other-2,3,7
+8.r	G# other-2,3,7
+8r	A other-2,4,7
 =4	=4
 4r	.
-8r	A#add(2,3,7)
-8.r	A#add(2,3,7)
-8r	A#add(2,3,7)
-8.r	A#add(2,3,7)
-8r	D#add(2,3,7)
+8r	A# other-2,3,7
+8.r	A# other-2,3,7
+8r	A# other-2,3,7
+8.r	A# other-2,3,7
+8r	D# other-2,3,7
 =5	=5
 4r	.
-8r	D#add(2,3,7)
-8.r	D#add(2,3,7)
-8r	D#add(2,3,7)
-6...r	D#add(2,3,7)
+8r	D# other-2,3,7
+8.r	D# other-2,3,7
+8r	D# other-2,3,7
+6...r	D# other-2,3,7
 =6	=6
-4r	E#add(2,3,7)
-8r	E#add(2,3,7)
-8.r	E#add(2,3,7)
-8r	E#add(2,3,7)
-6...r	E#add(2,3,7)
+4r	E# other-2,3,7
+8r	E# other-2,3,7
+8.r	E# other-2,3,7
+8r	E# other-2,3,7
+6...r	E# other-2,3,7
 =7	=7
-4r	G#add(2,3,7)
-8r	G#add(2,3,7)
-8.r	G#add(2,3,7)
-8r	G#add(2,3,7)
-8.r	G#add(2,3,7)
-8r	Aadd(2,4,7)
+4r	G# other-2,3,7
+8r	G# other-2,3,7
+8.r	G# other-2,3,7
+8r	G# other-2,3,7
+8.r	G# other-2,3,7
+8r	A other-2,4,7
 =8	=8
 4r	.
-8r	A#add(2,3,7)
-8.r	A#add(2,3,7)
-8r	A#add(2,3,7)
-6...r	A#add(2,3,7)
+8r	A# other-2,3,7
+8.r	A# other-2,3,7
+8r	A# other-2,3,7
+6...r	A# other-2,3,7
 ==	==
 *-	*-

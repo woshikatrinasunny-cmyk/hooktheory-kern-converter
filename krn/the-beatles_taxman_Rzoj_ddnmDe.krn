@@ -17,47 +17,47 @@
 *M4/4	*
 =1	=1
 2.r	.
-8A	.
-8c[	.
+8AL	.
+[8cJ	.
 =2	=2
-8c]	D7
+8c]	D dominant
 4d	.
 4d	.
 4c	.
-8e[	.
+[8e	.
 =3	=3
 8e]	.
 4c	.
 4A	.
 4.r	.
 =4	=4
-2r	Dadd(3,4,7,10)
-2r	D7
+2r	D other-3,4,7,10
+2r	D dominant
 =5	=5
 2.r	.
-8A	.
-8c[	.
+8AL	.
+[8cJ	.
 =6	=6
 8c]	.
 4d	.
 4d	.
 4c	.
-8e[	.
+[8e	.
 =7	=7
 8e]	.
 4c	.
 4A	.
 4.r	.
 =8	=8
-2r	Dadd(3,4,7,10)
-2r	D7
+2r	D other-3,4,7,10
+2r	D dominant
 =9	=9
 3...r	.
-8c	.
+8cL	.
 8d	.
-8c	.
+8cJ	.
 =10	=10
-4e	C
+4e	C major
 6...c	.
 4..r	.
 =11	=11
@@ -67,13 +67,13 @@
 4e	.
 8d	.
 =12	=12
-8r	G7
+8r	G dominant
 4d	.
 8r	.
 4B	.
-4A[	.
+[4A	.
 =13	=13
-4A]	D7
+4A]	D dominant
 2.r	.
 =14	=14
 1r	.

@@ -16,174 +16,174 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8r	C#
+8r	C# major
+8c#L	.
 8c#	.
-8c#	.
-8c#	.
-8f#	.
+8c#J	.
+8f#L	.
 8g#	.
-8a#	.
+8a#J	.
 8r	.
 =2	=2
-2a#	F#
-8g#	F#/A#
+2a#	F# major
+8g#	F# major/A#
 8r	.
-4f#[	B
+[4f#	B major
 =3	=3
-8f#]	.
-8d#	.
+8f#L]	.
+8d#J	.
 4c#	.
 4r	.
-8B	.
-8B	.
+8BL	.
+8BJ	.
 =4	=4
-8B	B
+8B	B major
 8r	.
-4A#	F#/A#
+4A#	F# major/A#
 4r	.
-4c#	C#sus4
+4c#	C# suspended-fourth
 =5	=5
 8r	.
+8c#L	.
 8c#	.
-8c#	.
-8c#	.
-8f#	.
+8c#J	.
+8f#L	.
 8g#	.
-8a#	.
+8a#J	.
 8r	.
 =6	=6
-2a#	F#
-8cc#	F#/A#
+2a#	F# major
+8cc#	F# major/A#
 8r	.
-4f#[	B
+[4f#	B major
 =7	=7
-8f#]	.
-8d#	.
+8f#L]	.
+8d#J	.
 4c#	.
 4r	.
 4c#	.
 =8	=8
-4b	B
+4b	B major
 4r	.
-4a#	F#/A#
+4a#	F# major/A#
 4r	.
 =9	=9
-4f#	C#sus4
+4f#	C# suspended-fourth
 4r	.
-4g#	C#
+4g#	C# major
 4a#	.
 =10	=10
-4a#	D#m
-8a#	.
-8f#	.
+4a#	D# minor
+8a#L	.
+8f#J	.
 8r	.
 8f#	.
-4B	G#m
+4B	G# minor
 =11	=11
 2.r	.
-8B	.
-8B	.
+8BL	.
+8BJ	.
 =12	=12
-4b	G#m
-8b	.
-8b	.
-8a#	F#/A#
+4b	G# minor
+8bL	.
+8bJ	.
+8a#L	F# major/A#
 8a#	.
 8a#	.
-8g#	C#
+8g#J	C# major
 =13	=13
 8r	.
+8c#L	.
 8c#	.
-8c#	.
-8c#	.
-8f#	C#
+8c#J	.
+8f#L	C# major
 8g#	.
-8a#	.
+8a#J	.
 8r	.
 =14	=14
-2a#	F#
+2a#	F# major
 8cc#	.
 8r	.
-4f#[	B
+[4f#	B major
 =15	=15
-8f#]	.
-8d#	.
+8f#L]	.
+8d#J	.
 4c#	.
 4r	.
-8c#	.
-8c#	.
+8c#L	.
+8c#J	.
 =16	=16
-4b	B
+4b	B major
 4r	.
-4a#	F#/A#
+4a#	F# major/A#
 4r	.
 =17	=17
-4f#	C#sus4
+4f#	C# suspended-fourth
 4c#	.
-8g#	C#
+8g#	C# major
 8r	.
 4f#	.
 =18	=18
-8f#	F#
+8f#L	F# major
 8f#	.
-8f#	.
+8f#J	.
 8r	.
 4c#	.
-8c#	F#/A#
-8c#	.
+8c#L	F# major/A#
+8c#J	.
 =19	=19
-8c#	B
+8c#	B major
 8r	.
 4g#	.
 4c#	.
-8c#	F#/A#
-8c#	.
+8c#L	F# major/A#
+8c#J	.
 =20	=20
-8c#	B
+8c#	B major
 8r	.
 4a#	.
-4f#	F#
-8f#	.
-8f#	.
+4f#	F# major
+8f#L	.
+8f#J	.
 =21	=21
-8B	C#
+8BL	C# major
 8B	.
-8g#	.
+8g#J	.
 8r	.
-8g#	.
+8g#L	.
 8a#	.
 8g#	.
-8f#	.
+8f#J	.
 =22	=22
-8f#	F#
+8f#L	F# major
 8f#	.
-8f#	.
+8f#J	.
 8r	.
 4c#	.
-8c#	F#/A#
-8c#	.
+8c#L	F# major/A#
+8c#J	.
 =23	=23
-8c#	B
+8c#	B major
 8r	.
 4g#	.
 4c#	.
-8c#	F#/A#
-8c#	.
+8c#L	F# major/A#
+8c#J	.
 =24	=24
-8c#	B
+8c#	B major
 8r	.
 4a#	.
-4f#	F#
-8f#	.
-8f#	.
+4f#	F# major
+8f#L	.
+8f#J	.
 =25	=25
-8B	C#sus4
+8BL	C# suspended-fourth
 8B	.
-8g#	.
+8g#J	.
 8r	.
-8g#	C#
+8g#L	C# major
 8a#	.
 8g#	.
-8f#	.
+8f#J	.
 ==	==
 *-	*-

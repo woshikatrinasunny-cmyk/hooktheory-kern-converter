@@ -16,129 +16,129 @@
 *D:	*
 *M4/4	*
 =1	=1
-1r	Gmaj9
+1r	G major-ninth
 =2	=2
 4gg	.
 8ff#	.
 4.ee	.
 4gg	.
 =3	=3
-4.ff#	D
+4.ff#	D major
 4.dd	.
-4a[	.
+[4a	.
 =4	=4
 2.a]	.
 4dd	.
 =5	=5
-1ffn	A#
+1ffn	A# major
 =6	=6
 4ffn	.
 8ee	.
 4.dd	.
 4ffn	.
 =7	=7
-4.f#	D
+4.f#	D major
 4.g	.
-4a[	.
+[4a	.
 =8	=8
 4a]	.
 4a	.
 4dd	.
 4ee	.
 =9	=9
-3...ff#	Bm
-8ee	.
+3...ff#	B minor
+8eeL	.
 8dd	.
-8ff#	.
+8ff#J	.
 =10	=10
-4ee	A
+4ee	A major
 4dd	.
 4cc#	.
 4a	.
 =11	=11
-4.b	G
-16a	.
-16b	.
-4.cc#	Aadd(2,4,7)
-16b	.
-16cc#	.
+4.b	G major
+16aLL	.
+16bJJ	.
+4.cc#	A other-2,4,7
+16bLL	.
+16cc#JJ	.
 =12	=12
-4dd	D
+4dd	D major
 4ee	.
-4ff#	Dmaj7/C#
+4ff#	D major-seventh/C#
 4aa	.
 =13	=13
-3...ddd	Bm7
-8ccc#	.
+3...ddd	B minor-seventh
+8ccc#L	.
 8bb	.
-8aa	.
+8aaJ	.
 =14	=14
-4.bb	E/G#
+4.bb	E major/G#
 4.ee	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 =15	=15
-8gg	Gmaj9
+8ggL	G major-ninth
 8dd	.
 8a	.
-8g	.
-8d	.
+8gJ	.
+8dL	.
 8g	.
 8a	.
-8dd	.
+8ddJ	.
 =16	=16
-8ee	A
-8cc#	.
+8eeL	A major
+8cc#J	.
 4a	.
-16e	A#dim
-16f#	.
+16eLL	A# diminished
+16f#J	.
 8a#	.
 8cc#	.
-8b	.
+8bJ	.
 =17	=17
 *k[f#c#g#]	*
 *f#:	*
-4.a	F#m7
+4.a	F# minor-seventh
 4.ee	.
 4aa	.
 =18	=18
-4.gg#	C#m7
+4.gg#	C# minor-seventh
 4.ee	.
 4b	.
 =19	=19
-4ff#	D
-8ee	.
-8ee[	.
-8ee]	E7
+4ff#	D major
+8eeL	.
+[8eeJ	.
+8ee]	E dominant
 4dd	.
-8cc#[	A
+[8cc#	A major
 =20	=20
 4.cc#]	.
 8dd	.
-8cc#	E/G#
+8cc#L	E major/G#
 8b	.
 8a	.
-8g#	.
+8g#J	.
 =21	=21
-4.a	F#m7
+4.a	F# minor-seventh
 4.ee	.
 4a	.
 =22	=22
-4.b	B/D#
+4.b	B major/D#
 4.ff#	.
-8ff#	.
-8gg#	.
+8ff#L	.
+8gg#J	.
 =23	=23
-4aa	D
+4aa	D major
 8gg#	.
 4ff#	.
 4gg#	.
-8ee[	E
+[8ee	E major
 =24	=24
 2ee]	.
-4ffn	C#/F
+4ffn	C# major/F
 4gg#	.
 =25	=25
-1aa	F#m7
+1aa	F# minor-seventh
 ==	==
 *-	*-

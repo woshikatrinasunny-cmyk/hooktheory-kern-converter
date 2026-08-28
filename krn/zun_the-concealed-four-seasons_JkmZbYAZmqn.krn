@@ -16,62 +16,62 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4f#	F#m
-8a	.
-8f#	.
-8b	.
+4f#	F# minor
+8aL	.
+8f#J	.
+8bL	.
 8cc#	.
 8ff#	.
-8fn[	.
+[8fnJ	.
 =2	=2
-4fn]	C#/F
-8a	.
-8fn	.
-8b	.
+4fn]	C# major/F
+8aL	.
+8fnJ	.
+8bL	.
 8cc#	.
 8ffn	.
-8e[	.
+[8eJ	.
 =3	=3
-8e]	A/E
+8eL]	A major/E
 8A	.
 8a	.
-8e	.
-8b	.
+8eJ	.
+8bL	.
 8ee	.
 8aa	.
-16ffn	.
-16ff#[	.
+16ffnL	.
+[16ff#JJ	.
 =4	=4
-4ff#]	B/D#
+4ff#]	B major/D#
 4cc#	.
-8b	.
+8bL	.
 8a	.
 8d#	.
-8g#	.
+8g#J	.
 =5	=5
-4f#	D
-8a	.
-8f#	.
-8b	.
+4f#	D major
+8aL	.
+8f#J	.
+8bL	.
 8cc#	.
 8ff#	.
-8a[	.
+[8aJ	.
 =6	=6
-4a]	F#m/C#
+4a]	F# minor/C#
 4cc#	.
-8ff#	.
+8ff#L	.
 8aa	.
 8ff#	.
-8gg#[	.
+[8gg#J	.
 =7	=7
-4gg#]	Fdim
-8ff#	.
-8fn	.
+4gg#]	F diminished
+8ff#L	.
+8fnJ	.
 4ffn	.
-8cc#	.
-8ffn[	.
+8cc#L	.
+[8ffnJ	.
 =8	=8
-8ffn]	C#
+8ffn]	C# major
 8r	.
 4cc#	.
 8ffn	.

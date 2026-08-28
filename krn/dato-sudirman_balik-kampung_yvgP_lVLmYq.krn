@@ -16,7 +16,7 @@
 *b:	*
 *M4/4	*
 =1	=1
-16ddd	G7
+16ddd	G dominant
 16r	.
 16ddd	.
 16r	.
@@ -24,18 +24,18 @@
 16r	.
 16bb	.
 16r	.
-16ddd	.
-16eee	.
+16dddLL	.
+16eeeJJ	.
 4.ddd	.
 =2	=2
 2r	.
-8eee	.
+8eeeL	.
 8ddd	.
 8ccc#	.
-16bb	.
+16bbJk	.
 16r	.
 =3	=3
-16ddd	Bm
+16ddd	B minor
 16r	.
 16ddd	.
 16r	.
@@ -43,40 +43,40 @@
 3...fff#	.
 =4	=4
 2r	.
-8ff#	.
+8ff#L	.
 8ee	.
 8dd	.
-8cc#	.
+8cc#J	.
 =5	=5
-8dd	G7
+8ddL	G dominant
 8dd	.
 8ee	.
-8dd	.
+8ddJ	.
+8ffnL	.
 8ffn	.
-8ffn	.
-16ffn	.
+16ffnL	.
 16ee	.
-16dd	.
+16ddJJ	.
 16r	.
 =6	=6
-8cc#	F#7
+8cc#L	F# dominant
 8cc#	.
 8dd	.
-8cc#	.
+8cc#J	.
+8eeL	.
 8ee	.
-8ee	.
-16ee	.
+16eeL	.
 16dd	.
-16cc#	.
+16cc#JJ	.
 16r	.
 =7	=7
-1b	Badd(3,6,7)
+1b	B other-3,6,7
 =8	=8
-8bb	F#7sus4
-8.bb	F#7sus4
-8.ddd	E7
-8eee	F#7
-8fff#[	.
+8bbL	F# dominant-seventh-suspended-fourth
+8.bb	F# dominant-seventh-suspended-fourth
+8.dddJ	E dominant
+8eeeL	F# dominant
+[8fff#J	.
 4fff#]	.
 ==	==
 *-	*-

@@ -16,64 +16,64 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8r	B
-8.ee-	.
-8.dd-	.
+8r	B major
+8.ee-L	.
+8.dd-J	.
 4bn	.
-8a-	.
-8g-	G-
+8a-L	.
+8g-J	G- major
 =2	=2
 8r	.
-8.ee-	.
-8.een	.
+8.ee-L	.
+8.eenJ	.
 4ee-	.
-8dd-	.
-8bn	.
+8dd-L	.
+8bnJ	.
 =3	=3
-8r	D-/F
-8.ee-	.
-8.a-	.
+8r	D- major/F
+8.ee-L	.
+8.a-J	.
 4bn	.
-8a-	.
-8g-	E
+8a-L	.
+8g-J	E major
 =4	=4
 8r	.
+8ee-L	.
 8ee-	.
-8ee-	.
-8een	G-
+8eenJ	G- major
 4ee-	.
-8dd-	.
-8bn	.
+8dd-L	.
+8bnJ	.
 =5	=5
-8r	B
-8.ee-	.
-8.dd-	.
-8.bn	.
-8a-	.
+8r	B major
+8.ee-L	.
+8.dd-J	.
+8.bnL	.
+8a-J	.
 16r	.
-8g-	G-
+8g-	G- major
 =6	=6
+8ee-L	.
 8ee-	.
 8ee-	.
-8ee-	.
-8een	.
+8eenJ	.
 4ee-	.
-8dd-	.
-8bn	.
+8dd-L	.
+8bnJ	.
 =7	=7
-8r	D-/F
+8r	D- major/F
+8ee-L	.
 8ee-	.
-8ee-	.
-8a-	.
-8.bn	.
+8a-J	.
+8.bnL	.
 8.a-	.
-8g-	E
+8g-J	E major
 =8	=8
 8r	.
 4ee-	.
-8een	G-
+8een	G- major
 4ee-	.
-8dd-	.
-8bn	.
+8dd-L	.
+8bnJ	.
 ==	==
 *-	*-

@@ -16,70 +16,70 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4c	A-
+4c	A- major
 4e-	.
-4a-	A-/C
+4a-	A- major/C
 4cc	.
 =2	=2
-8b-	B-m/D-
+8b-	B- minor/D-
 4f	.
 8a-	.
-4g[	E-
-8g]	C/E
-16e-	.
-16d-	.
+[4g	E- major
+8gL]	C major/E
+16e-L	.
+16d-JJ	.
 =3	=3
-4c	Fm
+4c	F minor
 4e-	.
-4a-	A-/C
+4a-	A- major/C
 4cc	.
 =4	=4
-4.ee-	D-maj7
+4.ee-	D- major-seventh
 8ff	.
-4a-[	.
-4a-]	Fm/C
+[4a-	.
+4a-]	F minor/C
 =5	=5
-4ff[	B-m
-8ff]	B-m/F
-16ee-	.
-16ff	.
-4gg[	E-
-4gg]	E-7/D-
+[4ff	B- minor
+8ffL]	B- minor/F
+16ee-L	.
+16ffJJ	.
+[4gg	E- major
+4gg]	E- dominant/D-
 =6	=6
-4bb-[	C
-8bb-]	C/G
-16bb-	.
-16ccc	.
-4aa-	Fm
-4gg	E-
+[4bb-	C major
+8bb-L]	C major/G
+16bb-L	.
+16cccJJ	.
+4aa-	F minor
+4gg	E- major
 =7	=7
-2..ff	D-
-16ee-	.
-16ff	.
+2..ff	D- major
+16ee-LL	.
+16ffJJ	.
 =8	=8
-2.gg-	G-m
-4ee-	Adim
+2.gg-	G- minor
+4ee-	A diminished
 =9	=9
-4aa-[	D-
-4aa-_	D-/A-
-4aa-_	D-/F
-4aa-]	D-
+[4aa-	D- major
+4aa-_	D- major/A-
+4aa-_	D- major/F
+4aa-]	D- major
 =10	=10
-16dd-	D-
+16dd-LL	D- major
 16dd-	.
 16d-	.
 16a-	.
-16dd-	D-/A-
+16dd-	D- major/A-
 16dd-	.
 16ff	.
-16aa-	.
-16ddd-	D-
+16aa-JJ	.
+16ddd-LL	D- major
 16ddd-	.
 16aa-	.
 16ff	.
-16gg	C/G
+16gg	C major/G
 16ff	.
 16cc	.
-16g	.
+16gJJ	.
 ==	==
 *-	*-

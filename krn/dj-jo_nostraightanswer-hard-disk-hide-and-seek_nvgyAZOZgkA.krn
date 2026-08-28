@@ -16,200 +16,200 @@
 *c:	*
 *M4/4	*
 =1	=1
-8C	Cm
-16C	.
-16C	.
+8CL	C minor
+16CL	.
+16CJ	.
 8C	.
-16C	.
-16C	.
+16CL	.
+16CJJ	.
+8CL	.
+16CL	.
+16CJ	.
 8C	.
-16C	.
-16C	.
-8C	.
-16C	.
-16C	.
+16CL	.
+16CJJ	.
 =2	=2
-8G	Gm
-16G	.
-16G	.
+8GL	G minor
+16GL	.
+16GJ	.
 8G	.
-16G	.
-16G	.
+16GL	.
+16GJJ	.
+8GL	.
+16GL	.
+16GJ	.
 8G	.
-16G	.
-16G	.
-8G	.
-16G	.
-16G	.
+16GL	.
+16GJJ	.
 =3	=3
-8C	Cm
-16C	.
-16C	.
+8CL	C minor
+16CL	.
+16CJ	.
 8C	.
-16C	.
-16C	.
+16CL	.
+16CJJ	.
+8CL	.
+16CL	.
+16CJ	.
 8C	.
-16C	.
-16C	.
-8C	.
-16C	.
-16C	.
+16CL	.
+16CJJ	.
 =4	=4
-8G	Gm
-16G	.
-16G	.
+8GL	G minor
+16GL	.
+16GJ	.
 8G	.
-16G	.
-16G	.
+16GL	.
+16GJJ	.
+8GL	.
+16GL	.
+16GJ	.
 8G	.
-16G	.
-16G	.
-8G	.
-16G	.
-16G	.
+16GL	.
+16GJJ	.
 =5	=5
-8C	Cm
-16C	.
-16C	.
+8CL	C minor
+16CL	.
+16CJ	.
 8C	.
-16C	.
-16C	.
+16CL	.
+16CJJ	.
+8CL	.
+16CL	.
+16CJ	.
 8C	.
-16C	.
-16C	.
-8C	.
-16C	.
-16C	.
+16CL	.
+16CJJ	.
 =6	=6
-8G	Gm
-16G	.
-16G	.
+8GL	G minor
+16GL	.
+16GJ	.
 8G	.
-16G	.
-16G	.
+16GL	.
+16GJJ	.
+8GL	.
+16GL	.
+16GJ	.
 8G	.
-16G	.
-16G	.
-8G	.
-16G	.
-16G	.
+16GL	.
+16GJJ	.
 =7	=7
-8A-	A-
-16A-	.
-16A-	.
+8A-L	A- major
+16A-L	.
+16A-J	.
 8A-	.
-16A-	.
-16A-	.
+16A-L	.
+16A-JJ	.
+8A-L	.
+16A-L	.
+16A-J	.
 8A-	.
-16A-	.
-16A-	.
-8A-	.
-16A-	.
-16A-	.
+16A-L	.
+16A-JJ	.
 =8	=8
-8B-	B-
-16B-	.
-16B-	.
+8B-L	B- major
+16B-L	.
+16B-J	.
 8B-	.
-16B-	.
-16B-	.
+16B-L	.
+16B-JJ	.
+8B-L	.
+16B-L	.
+16B-J	.
 8B-	.
-16B-	.
-16B-	.
-8B-	.
-16B-	.
-16B-	.
+16B-L	.
+16B-JJ	.
 =9	=9
-1ee-	A-
+1ee-	A- major
 =10	=10
-2dd	B-
+2dd	B- major
 4r	.
-4dd	B-
+4dd	B- major
 =11	=11
-1ee-	Cm
+1ee-	C minor
 =12	=12
-1dd	Gm
+1dd	G minor
 =13	=13
-1ee-	A-
+1ee-	A- major
 =14	=14
-2ff	Fm7b5/A-
+2ff	F half-diminished/A-
 4r	.
-4ff	Fm7b5/A-
+4ff	F half-diminished/A-
 =15	=15
-1ee-	E-
+1ee-	E- major
 =16	=16
-1dd	Gm
+1dd	G minor
 =17	=17
-8ee-	E-
+8ee-	E- major
 8r	.
-8ee-	E-
+8ee-	E- major
 8r	.
-8ee-	E-
+8ee-	E- major
 8r	.
-8ee-	E-
+8ee-	E- major
 8r	.
 =18	=18
-2.ee-	A-
+2.ee-	A- major
 4ff	.
 =19	=19
-2.dd	B-
+2.dd	B- major
 4cc	.
 =20	=20
-2ee-	Cm
+2ee-	C minor
 4r	.
-4bb-	Cm
+4bb-	C minor
 =21	=21
-2dd	Gm
+2dd	G minor
 4ff	.
 4dd	.
 =22	=22
-2ee-	A-
+2ee-	A- major
 4ff	.
 4gg	.
 =23	=23
-2ff	Fm7b5/A-
+2ff	F half-diminished/A-
 4aa-	.
 4ff	.
 =24	=24
-2gg	E-
+2gg	E- major
 4ddd	.
 4gg	.
 =25	=25
-4ff	Gm
+4ff	G minor
 4r	.
-4bb-	Gm
+4bb-	G minor
 4r	.
 =26	=26
-4.ee-	A-
+4.ee-	A- major
 8dd	.
 4.ee-	.
 8dd	.
 =27	=27
-4.ee-	B-
+4.ee-	B- major
 8dd	.
 4.ee-	.
 8dd	.
 =28	=28
 4r	.
-8ee-	Bdim
-8dd	.
+8ee-L	B diminished
+8ddJ	.
 4.gg	.
 8ff	.
 =29	=29
-4.ccc	Cm
+4.ccc	C minor
 8ddd	.
 4gg	.
 4dd	.
 =30	=30
-2ee-	A-
+2ee-	A- major
 4ff	.
 4gg	.
 =31	=31
-2aa-	Fm7b5/A-
+2aa-	F half-diminished/A-
 2ff	.
 =32	=32
-1gg	E-
+1gg	E- major
 =33	=33
-1dd	Gm
+1dd	G minor
 ==	==
 *-	*-

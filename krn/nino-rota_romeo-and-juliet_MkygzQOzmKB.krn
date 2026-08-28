@@ -15,56 +15,56 @@
 *g:	*
 *M6/4	*
 =1	=1
-2.dd	Dm
+2.dd	D minor
 4dd	.
 4ff	.
 4dd	.
 =2	=2
-2.gg	E-
+2.gg	E- major
 4gg	.
 4ff	.
 4ee-	.
 =3	=3
-2.ff	B-/D
+2.ff	B- major/D
 4ff	.
 4ee-	.
 4dd	.
 =4	=4
-2.cc	Cm
-8dd	.
-8cc	.
+2.cc	C minor
+8ddL	.
+8ccJ	.
 4b-	.
 4cc	.
 =5	=5
-2.dd	Gm
+2.dd	G minor
 4gg	.
 4bb-	.
 4aa	.
 =6	=6
-2.dd	Dm
+2.dd	D minor
 4dd	.
 4ff	.
 4dd	.
 =7	=7
-1gg	E-
+1gg	E- major
 2gg	.
 =8	=8
-1.ccc	Cm
+1.ccc	C minor
 =9	=9
-1aa[	Dm
+[1aa	D minor
 4aa]	.
 4dd	.
 =10	=10
-2.bb-	Gm
+2.bb-	G minor
 4aa	.
 4gg	.
 4ff	.
 =11	=11
-4bb-	Gm
+4bb-	G minor
 4aa	.
 2gg	.
-2ff	Dm
+2ff	D minor
 =12	=12
-1.gg	Gm
+1.gg	G minor
 ==	==
 *-	*-

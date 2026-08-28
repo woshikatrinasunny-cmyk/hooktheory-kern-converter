@@ -16,62 +16,62 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4b-	B-
+4b-	B- major
 4dd	.
 4ff	.
 4bb-	.
 =2	=2
-4ddd	B-
+4ddd	B- major
 4bb-	.
 4ff	.
 4dd	.
 =3	=3
-4e-	E-
+4e-	E- major
 4g	.
 4b-	.
 4ee-	.
 =4	=4
-4gg	E-
+4gg	E- major
 4ee-	.
 4b-	.
 4g	.
 =5	=5
-4a	Adim
+4a	A diminished
 4cc	.
 4ee-	.
 4aa	.
 =6	=6
-4ccc	Adim
+4ccc	A diminished
 4aa	.
 4ee-	.
 4cc	.
 =7	=7
-4d	Dm
+4d	D minor
 4f	.
 4a	.
 4dd	.
 =8	=8
-4ff	Dm
+4ff	D minor
 4dd	.
 4a	.
 4f	.
 =9	=9
-4g	Gm
+4g	G minor
 4b-	.
 4dd	.
 4gg	.
 =10	=10
-4bb-	Gm
+4bb-	G minor
 4gg	.
 4dd	.
 4b-	.
 =11	=11
-4c	Cm
+4c	C minor
 4e-	.
 4g	.
 4cc	.
 =12	=12
-4ee-	Cm
+4ee-	C minor
 4cc	.
 4g	.
 4e-	.
@@ -81,7 +81,7 @@
 4aa	.
 4ff	.
 =14	=14
-4ee-	F7
+4ee-	F dominant
 4cc	.
 4a	.
 4f	.
@@ -91,7 +91,7 @@
 4ff	.
 4dd	.
 =16	=16
-4b-	B-
+4b-	B- major
 4f	.
 4d	.
 4B-	.
@@ -101,7 +101,7 @@
 4ff	.
 4dd-	.
 =18	=18
-4b-	B-m
+4b-	B- minor
 4f	.
 4d-	.
 4B-	.
@@ -111,17 +111,17 @@
 4gg	.
 4een	.
 =20	=20
-4dd-	Edim
+4dd-	E diminished
 4b-	.
 4g	.
 4en	.
 =21	=21
-4f	F
+4f	F major
 4g-	.
 4f	.
 4en	.
 =22	=22
-4f	F
+4f	F major
 4ff	.
 4f	.
 4r	.

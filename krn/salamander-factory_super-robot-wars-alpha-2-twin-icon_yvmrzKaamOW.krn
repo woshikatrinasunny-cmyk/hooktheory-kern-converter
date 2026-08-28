@@ -16,28 +16,28 @@
 *d:	*
 *M4/4	*
 =1	=1
-2dd	Dm
+2dd	D minor
 2aa	.
 =2	=2
-2aa-	Ddim
+2aa-	D diminished
 2dd	.
 =3	=3
-2ee	D-dim
+2ee	D- diminished
 2bb-	.
 =4	=4
-2bb-	D7/C
+2bb-	D dominant/C
 2aa	.
 =5	=5
-2aa	Gadd(2,3,7)/B-
-2ddd	Gm/B-
+2aa	G other-2,3,7/B-
+2ddd	G minor/B-
 =6	=6
-2dd	Dsus4/A
-2ddd	Dm/A
+2dd	D suspended-fourth/A
+2ddd	D minor/A
 =7	=7
-2eee-	E-/G
-2dd-	Gdim
+2eee-	E- major/G
+2dd-	G diminished
 =8	=8
-2dd	A7sus4
-2ddd-	A7
+2dd	A dominant-seventh-suspended-fourth
+2ddd-	A dominant
 ==	==
 *-	*-

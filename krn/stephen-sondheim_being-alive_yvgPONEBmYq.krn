@@ -16,79 +16,79 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	Cmaj9
-8r	Cmaj9
+4r	C major-ninth
+8r	C major-ninth
 8G	.
-8G	.
+8GL	.
 8F	.
 8F	.
-8GG	.
+8GGJ	.
 =2	=2
-4r	Cmaj9
-8r	Cmaj9
+4r	C major-ninth
+8r	C major-ninth
 8G	.
-8G	.
+8GL	.
 8F	.
 8F	.
-8GG	.
+8GGJ	.
 =3	=3
-8g	Cmaj9
+8g	C major-ninth
 4e	.
 8d	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 4g	.
 =4	=4
-2.g	Fadd(2,4,7)/C
+2.g	F other-2,4,7/C
 4r	.
 =5	=5
-8g	Cmaj9
+8g	C major-ninth
 4e	.
 8d	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 4g	.
 =6	=6
-2.f	G7
+2.f	G dominant
 4r	.
 =7	=7
-8b	Cmaj9
+8b	C major-ninth
 4g	.
 8e	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 4b	.
 =8	=8
-4.b	Am7
+4.b	A minor-seventh
 8e	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 4b	.
 =9	=9
-4.b	Fmaj9
+4.b	F major-ninth
 8e	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 4b	.
 =10	=10
-4.b	Am7
+4.b	A minor-seventh
 8e	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 4b	.
 =11	=11
-2a[	Dm7
-2a_	G11
+[2a	D minor-seventh
+2a_	G dominant-11th
 =12	=12
-2a]	Dm7
-8.cc	Fmaj7
+2a]	D minor-seventh
+8.ccL	F major-seventh
 8.b	.
-8g	.
+8gJ	.
 =13	=13
-2f[	Dm7
-2f_	G11
+[2f	D minor-seventh
+2f_	G dominant-11th
 =14	=14
-2f]	Dm7
-2r	G11
+2f]	D minor-seventh
+2r	G dominant-11th
 ==	==
 *-	*-

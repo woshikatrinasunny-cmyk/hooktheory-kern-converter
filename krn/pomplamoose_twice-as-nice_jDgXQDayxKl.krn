@@ -16,65 +16,65 @@
 *B:	*
 *M4/4	*
 =1	=1
-4g#	E
-4f#	Dadd(2,4,7,9)
-4g#	E
-4f#	Dadd(2,4,7,9)
+4g#	E major
+4f#	D other-2,4,7,9
+4g#	E major
+4f#	D other-2,4,7,9
 =2	=2
-4.d#	B
+4.d#	B major
 3...r	.
 =3	=3
-4g#	E
-4b	Dadd(2,4,7,9)
-4g#	E
-4f#	Dadd(2,4,7,9)
+4g#	E major
+4b	D other-2,4,7,9
+4g#	E major
+4f#	D other-2,4,7,9
 =4	=4
-8d#	B
+8d#L	B major
 8c#	.
-8c#	Baug/D#
-8B	.
-4d#	G#m7
+8c#	B augmented/D#
+8BJ	.
+4d#	G# minor-seventh
 8r	.
 8f#	.
 =5	=5
-4g#	E
-4f#	Dadd(2,4,7,9)
-4g#	E
-4f#	F#aug7
+4g#	E major
+4f#	D other-2,4,7,9
+4g#	E major
+4f#	F# augmented-seventh
 =6	=6
-4.b	Badd(4,7,9)
+4.b	B other-4,7,9
 4.r	.
-8d#	.
-8f#	.
+8d#L	.
+8f#J	.
 =7	=7
-16g#	Eadd(2,4,5,7,9)
+16g#LK	E other-2,4,5,7,9
 8g#	.
-8.g#	.
-2f#	Badd(3,5,7,9)/D
+8.g#J	.
+2f#	B other-3,5,7,9/D
 8f#	.
 =8	=8
-16e	Dadd(2,4,7)/A
+16eLK	D other-2,4,7/A
 8e	.
-16e	.
-8d#	.
-4d#	Badd(4,7,9)
+16ek	.
+8d#J	.
+4d#	B other-4,7,9
 8r	.
-8d#	.
-8f#	.
+8d#L	.
+8f#J	.
 =9	=9
-16g#	Eadd(2,4,5,7,9)
+16g#LK	E other-2,4,5,7,9
 8g#	.
-8.g#	.
-8.f#	Badd(3,5,7,9)/D
+8.g#J	.
+8.f#	B other-3,5,7,9/D
 8.b	.
 8r	.
 8b	.
 =10	=10
-16dn	Eadd(2,5,7,10)
+16dnLK	E other-2,5,7,10
 8c#	.
-16c#	.
-8B	.
-4.B	Badd(4,5,7)
+16c#k	.
+8BJ	.
+4.B	B other-4,5,7
 4r	.
 ==	==
 *-	*-

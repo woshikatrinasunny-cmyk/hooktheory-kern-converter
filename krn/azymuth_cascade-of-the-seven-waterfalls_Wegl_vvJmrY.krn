@@ -16,7 +16,7 @@
 *G:	*
 *M4/4	*
 =1	=1
-2e	Gadd(2,4,7,9)
+2e	G other-2,4,7,9
 8r	.
 8c	.
 8r	.
@@ -24,78 +24,78 @@
 =2	=2
 8e	.
 8r	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 4g	.
-8g	.
-8cc[	.
+8gL	.
+[8ccJ	.
 =3	=3
-2..cc]	Cadd(4,6,10)/F#
-8e[	.
+2..cc]	C other-4,6,10/F#
+[8e	.
 =4	=4
 2..e_	.
-8e]	F#m7b5
+8e]	F# half-diminished
 =5	=5
 3...r	.
+8ccL	.
 8cc	.
-8cc	.
-8cc	.
+8ccJ	.
 =6	=6
-4cc	B7
+4cc	B dominant
 8r	.
 8cc	.
 4b	.
-8a	.
-8b[	.
+8aL	.
+[8bJ	.
 =7	=7
-2.b]	Eadd(2,3,7,11)
-8B	.
-8B[	.
+2.b]	E other-2,3,7,11
+8BL	.
+[8BJ	.
 =8	=8
-1B]	Em9
+1B]	E minor-ninth
 =9	=9
-3...r	Aadd(5,7,9,10)
+3...r	A other-5,7,9,10
+8bL	.
 8b	.
-8b	.
-8b	.
+8bJ	.
 =10	=10
-4b	Aadd(4,7,9,10)
+4b	A other-4,7,9,10
 8r	.
 8b	.
 4a	.
-8g	.
-8a[	.
+8gL	.
+[8aJ	.
 =11	=11
-8a]	A9
+8aL]	A dominant-ninth
 8A	.
-8A	.
+8AJ	.
 4A	.
 8a	.
 8r	.
-8r	G#add(4,7,9,10)
+8r	G# other-4,7,9,10
 =12	=12
 4.r	.
 8a	.
 4g#	.
-8f#	.
-8g#[	.
+8f#L	.
+[8g#J	.
 =13	=13
-8g#]	G#add(2,4,7,9)
+8g#L]	G# other-2,4,7,9
 8G#	.
 8G#	.
-8G#	.
+8G#J	.
 8G#	.
 4g#	.
-8r	Gadd(1,4,5,7,9,10)
+8r	G other-1,4,5,7,9,10
 =14	=14
 4.r	.
 8g#	.
 4g	.
-8fn	.
-8g[	.
+8fnL	.
+[8gJ	.
 =15	=15
-2..g_	Gadd(2,4,7,9)
-8g]	G#add(2,4,7,9)
+2..g_	G other-2,4,7,9
+8g]	G# other-2,4,7,9
 =16	=16
 1r	.
 ==	==

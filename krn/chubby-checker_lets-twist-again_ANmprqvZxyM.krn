@@ -16,7 +16,7 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4g	E-
+4g	E- major
 8g	.
 4.g	.
 4r	.
@@ -24,20 +24,20 @@
 8r	.
 4g	.
 8f	.
-8g	.
-16f	.
-16g	.
+8gL	.
+16fL	.
+16gJJ	.
 4f	.
 =3	=3
-8e-	Cm
+8e-	C minor
 4c	.
 2r	.
-8g[	.
+[8g	.
 =4	=4
 2.g]	.
 4g	.
 =5	=5
-4f	A-
+4f	A- major
 8e-	.
 4f	.
 4.r	.
@@ -45,11 +45,11 @@
 8r	.
 4g	.
 8f	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 4g	.
 =7	=7
-8g	B-7
+8g	B- dominant
 2.f	.
 8r	.
 =8	=8
@@ -58,7 +58,7 @@
 4g	.
 4g	.
 =9	=9
-4g	E-
+4g	E- major
 4g	.
 4g	.
 4r	.
@@ -66,34 +66,34 @@
 8r	.
 4g	.
 8f	.
-8g	.
-16f	.
-16g	.
+8gL	.
+16fL	.
+16gJJ	.
 4f	.
 =11	=11
-8e-	Cm
+8e-	C minor
 4c	.
 2r	.
-8g[	.
+[8g	.
 =12	=12
 2.g]	.
 4g	.
 =13	=13
-4f	A-
+4f	A- major
 8e-	.
 4f	.
 4.r	.
 =14	=14
-8r	B-7
+8r	B- dominant
 4g	.
 8f	.
 4g	.
 4g	.
 =15	=15
-2e-	E-
+2e-	E- major
 2r	.
 =16	=16
-4r	E-7
+4r	E- dominant
 2b-	.
 4e-	.
 ==	==

@@ -16,65 +16,65 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4..d#[	D#m
-2d#_	Emaj7
+[4..d#	D# minor
+2d#_	E major-seventh
 16d#_	.
 =2	=2
-4..d#_	C#m
-16d#]	F#add(1,4,7,10)
+4..d#_	C# minor
+16d#]	F# other-1,4,7,10
 8r	.
-8a#	.
+8a#L	.
 8g#	.
-8f#	.
+8f#J	.
 =3	=3
-4..c#[	G#add(2,5,7,10)
-2c#_	G#7sus4
+[4..c#	G# other-2,5,7,10
+2c#_	G# dominant-seventh-suspended-fourth
 16c#_	.
 =4	=4
-4c#]	G#add(2,5,7,10)
+4c#]	G# other-2,5,7,10
 8r	.
-16d#[	.
-16d#]	G#7sus4
-8d#	.
+[16d#LL	.
+16d#JJ]	G# dominant-seventh-suspended-fourth
+8d#L	.
 8a#	.
 8g#	.
-8f#	.
+8f#J	.
 =5	=5
-4d#	D#m
+4d#	D# minor
 8r	.
-16dd#[	.
-16dd#]	Emaj7
-8aa#	.
+[16dd#LL	.
+16dd#JJ]	E major-seventh
+8aa#L	.
 8dd#	.
 8aa#	.
-8dd#	.
+8dd#J	.
 =6	=6
-8dd#	A#m7
+8dd#L	A# minor-seventh
 8aa#	.
-8gg#	.
+8gg#J	.
 16r	.
-8.r	Amaj7
-8a#	.
+8.r	A major-seventh
+8a#L	.
 8g#	.
-8f#	.
+8f#J	.
 =7	=7
-4c#	G#add(2,5,7,10)
+4c#	G# other-2,5,7,10
 8r	.
-16cc#[	.
-16cc#]	G#7sus4
-8gg#	.
+[16cc#LL	.
+16cc#JJ]	G# dominant-seventh-suspended-fourth
+8gg#L	.
 8cc#	.
 8gg#	.
-8cc#	.
+8cc#J	.
 =8	=8
-8cc#	G#add(2,5,7,10)
+8cc#L	G# other-2,5,7,10
 8gg#	.
 8ff#	.
-16d#[	.
-16d#]	G#7sus4
-8d#	.
+[16d#L	.
+16d#JJ]	G# dominant-seventh-suspended-fourth
+8d#L	.
 8a#	.
 8g#	.
-8f#	.
+8f#J	.
 ==	==
 *-	*-

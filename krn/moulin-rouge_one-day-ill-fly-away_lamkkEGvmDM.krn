@@ -15,7 +15,7 @@
 *B:	*
 *M4/4	*
 =1	=1
-2dd#	B
+2dd#	B major
 8ee	.
 4b	.
 8cc#	.
@@ -23,28 +23,28 @@
 2dd#	.
 2r	.
 =3	=3
-4r	Em/B
+4r	E minor/B
 4cc#	.
 4.b	.
 8cc#	.
 =4	=4
-2.b	B
+2.b	B major
 4r	.
 =5	=5
 2dd#	.
-8ee	Em/B
+8ee	E minor/B
 4b	.
 8cc#	.
 =6	=6
-2dd#	B
+2dd#	B major
 2r	.
 =7	=7
-4r	Em/B
+4r	E minor/B
 4cc#	.
 4.b	.
 8cc#	.
 =8	=8
-2.b	B
+2.b	B major
 4r	.
 ==	==
 *-	*-

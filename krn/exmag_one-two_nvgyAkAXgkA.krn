@@ -16,126 +16,126 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4e#	D#m11
+4e#	D# minor-11th
 4e#	.
-8e#	.
+8e#L	.
 8f#	.
 8g#	.
-8cc#	.
+8cc#J	.
 =2	=2
-4gn	E#m11
+4gn	E# minor-11th
 4gn	.
-8gn	.
+8gnL	.
 8g#	.
 8a#	.
-8dd#	.
+8dd#J	.
 =3	=3
-2.cc#	Bmaj9
-8r	Eadd(2,4,6,7,10)
+2.cc#	B major-ninth
+8r	E other-2,4,6,7,10
 8d#	.
 =4	=4
-8g#	.
-16an	.
-16g#	.
+8g#L	.
+16anL	.
+16g#J	.
 8f#	.
-8d#	.
-8g#	.
+8d#J	.
+8g#L	.
 8d#	.
 8f#	.
-8g#	.
+8g#J	.
 =5	=5
-4e#	D#m11
+4e#	D# minor-11th
 4e#	.
-8e#	.
+8e#L	.
 8f#	.
 8g#	.
-8cc#	.
+8cc#J	.
 =6	=6
-4gn	E#m11
+4gn	E# minor-11th
 4gn	.
-8gn	.
+8gnL	.
 8g#	.
 8a#	.
-8dd#	.
+8dd#J	.
 =7	=7
-3...cc#[	Bmaj9
-16cc#]	.
-16b	.
-4a#[	Eadd(2,4,6,7,10)
+[3...cc#	B major-ninth
+16cc#LL]	.
+16bJJ	.
+[4a#	E other-2,4,6,7,10
 =8	=8
 4a#]	.
 4g#	.
 8a#	.
 4cc#	.
-16a#	.
-16f#	.
+16a#LL	.
+16f#JJ	.
 =9	=9
-4e#	D#m11
+4e#	D# minor-11th
 4e#	.
-8e#	.
+8e#L	.
 8f#	.
 8g#	.
-8cc#	.
+8cc#J	.
 =10	=10
-4gn	E#m11
+4gn	E# minor-11th
 4gn	.
-8gn	.
+8gnL	.
 8g#	.
 8a#	.
-8dd#	.
+8dd#J	.
 =11	=11
-3...cc#	Bmaj9
+3...cc#	B major-ninth
 8dd#	.
-4ff#[	Eadd(2,4,6,7,10)
+[4ff#	E other-2,4,6,7,10
 =12	=12
-8ff#]	.
+8ff#L]	.
 8dd#	.
 8gg#	.
-8aa#	.
-16gg#	.
+8aa#J	.
+16gg#LL	.
 16aan	.
 16gg#	.
-16ff#	.
+16ff#J	.
 8dd#	.
-8gg#	.
+8gg#J	.
 =13	=13
-4ee#	D#m11
+4ee#	D# minor-11th
 4ee#	.
-8ee#	.
+8ee#L	.
 8ff#	.
 8gg#	.
-8ccc#	.
+8ccc#J	.
 =14	=14
-4ggn	E#m11
+4ggn	E# minor-11th
 4ggn	.
-8ggn	.
+8ggnL	.
 8gg#	.
 8aa#	.
-8ccc#	.
+8ccc#J	.
 =15	=15
-4.dd#	Bmaj9
-4.ff#	F#maj9
-4aa#[	Eadd(2,4,6,7,10)
+4.dd#	B major-ninth
+4.ff#	F# major-ninth
+[4aa#	E other-2,4,6,7,10
 =16	=16
 1aa#]	.
 =17	=17
-4.an	Dmaj9
-4.b	Amaj9
-4cc#[	Gadd(2,4,6,7,10)
+4.an	D major-ninth
+4.b	A major-ninth
+[4cc#	G other-2,4,6,7,10
 =18	=18
 1cc#]	.
 =19	=19
-4.ccn	E#maj9
-4.ddn	Cmaj9
-4een[	A#add(2,4,6,7,10)
+4.ccn	E# major-ninth
+4.ddn	C major-ninth
+[4een	A# other-2,4,6,7,10
 =20	=20
 1een]	.
 =21	=21
-3...dd#	G#maj9
-4.ee#[	D#maj9
+3...dd#	G# major-ninth
+[4.ee#	D# major-ninth
 =22	=22
 8ee#]	.
-2..ggn[	C#add(2,4,6,7,10)
+[2..ggn	C# other-2,4,6,7,10
 =23	=23
 1ggn_	.
 =24	=24

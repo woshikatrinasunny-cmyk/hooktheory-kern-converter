@@ -16,23 +16,23 @@
 *c:	*
 *M4/4	*
 =1	=1
-8.r	Cadd(2,3,7)
-8b-	.
+8.r	C other-2,3,7
+8b-L	.
 8ee-	.
-16eee-	.
-6...ggg	Cm
-8ccc	.
-16eee-	.
+16eee-Jk	.
+6...ggg	C minor
+8cccL	.
+16eee-Jk	.
 =2	=2
-6...fff	Dm7
+6...fff	D minor-seventh
 16eee-	.
 8r	.
-6...ddd	G7
-8.ccc[	.
+6...ddd	G dominant
+[8.ccc	.
 =3	=3
-2.ccc_	A-maj7
-16ccc]	.
-8.ggg[	.
+2.ccc_	A- major-seventh
+16cccLK]	.
+[8.gggJ	.
 =4	=4
 1ggg]	.
 ==	==

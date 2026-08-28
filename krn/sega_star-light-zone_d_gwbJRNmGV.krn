@@ -15,73 +15,73 @@
 *C:	*
 *M4/4	*
 =1	=1
-2..ee	C
-16ee	.
-16ff	.
+2..ee	C major
+16eeLL	.
+16ffJJ	.
 =2	=2
-8.gg	A#
+8.ggL	A# major
 8.aa	.
-8aa#	A
+8aa#J	A major
 4aa	.
 4gg	.
 =3	=3
-2ff[	Dm
-8ff]	C#dim
+[2ff	D minor
+8ffL]	C# diminished
 8ff	.
 8ee	.
-8ff[	.
+[8ffJ	.
 =4	=4
-2ff]	Dm7/C
-4dd	Bm7b5
+2ff]	D minor-seventh/C
+4dd	B half-diminished
 4ee	.
 =5	=5
-2..ff	G7
-16dd	.
-16ee	.
+2..ff	G dominant
+16ddLL	.
+16eeJJ	.
 =6	=6
-8.ff	A#7
+8.ffL	A# dominant
 8.gg	.
-8gg#	.
+8gg#J	.
 4gg	.
 4ff	.
 =7	=7
-3...ee	C
-8ff	.
+3...ee	C major
+8ffL	.
 8ee	.
-8dd[	G/D
+[8ddJ	G major/D
 =8	=8
 4dd]	.
 4g	.
-4a	G
+4a	G major
 4gg	.
 =9	=9
-2..ee	C
-16ee	.
-16ff	.
+2..ee	C major
+16eeLL	.
+16ffJJ	.
 =10	=10
-8.gg	A#
+8.ggL	A# major
 8.aa	.
-8aa#	A
+8aa#J	A major
 4aa	.
 4gg	.
 =11	=11
-2ff[	Dm
-8ff]	C#dim
+[2ff	D minor
+8ffL]	C# diminished
 8ff	.
 8ee	.
-8ff[	.
+[8ffJ	.
 =12	=12
-2ff]	Dm7/C
-4dd	Bm7b5
+2ff]	D minor-seventh/C
+4dd	B half-diminished
 4ee	.
 =13	=13
-2..ff	G7
-16dd	.
-16ee	.
+2..ff	G dominant
+16ddLL	.
+16eeJJ	.
 =14	=14
-8.ff	A#7
+8.ffL	A# dominant
 8.gg	.
-8gg#	.
+8gg#J	.
 4gg	.
 4ff	.
 ==	==

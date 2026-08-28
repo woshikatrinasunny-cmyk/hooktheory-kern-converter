@@ -16,49 +16,49 @@
 *F:	*
 *M4/4	*
 =1	=1
-2f	F
+2f	F major
 2r	.
 =2	=2
-1r	F7
+1r	F dominant
 =3	=3
-1dd	B-
+1dd	B- major
 =4	=4
-4cc	B-m
+4cc	B- minor
 4b-	.
 4a	.
 4b-	.
 =5	=5
-2cc	Am
+2cc	A minor
 2r	.
 =6	=6
-1r	D7
+1r	D dominant
 =7	=7
-1cc	Gm7
+1cc	G minor-seventh
 =8	=8
-4b-	Gm7b5/B-
+4b-	G half-diminished/B-
 4a	.
 4g	.
 4a-	.
 =9	=9
-2a	A7
+2a	A dominant
 2r	.
 =10	=10
-1r	Dm7
+1r	D minor-seventh
 =11	=11
-1dd	B-
+1dd	B- major
 =12	=12
-4cc	B-m
+4cc	B- minor
 4b-	.
 4a	.
 4b-	.
 =13	=13
-2cc	Am
+2cc	A minor
 2f	.
 =14	=14
-2a	D9
+2a	D dominant-ninth
 2d	.
 =15	=15
-4a	G7
+4a	G dominant
 4g	.
 4f	.
 4g	.
@@ -68,8 +68,8 @@
 4a	.
 4a	.
 =17	=17
-1d	Gm7/B-
+1d	G minor-seventh/B-
 =18	=18
-1e	Caug
+1e	C augmented
 ==	==
 *-	*-

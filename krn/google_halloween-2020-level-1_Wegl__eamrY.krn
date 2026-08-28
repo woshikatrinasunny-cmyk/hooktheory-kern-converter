@@ -16,7 +16,7 @@
 *d:	*
 *M6/4	*
 =1	=1
-4.f	Dm/F
+4.f	D minor/F
 8a	.
 6dd	.
 6ee	.
@@ -24,7 +24,7 @@
 4.dd	.
 8cc	.
 =2	=2
-4.g	Gm
+4.g	G minor
 8b-	.
 6dd	.
 6ff	.
@@ -32,7 +32,7 @@
 4.ee	.
 8ff	.
 =3	=3
-4.gg	A7/E
+4.gg	A dominant/E
 8ee	.
 6dd-	.
 6a	.
@@ -40,12 +40,12 @@
 4.gg	.
 8ee	.
 =4	=4
-1ff	Dm/F
-12ee	A/E
+1ff	D minor/F
+12eeL	A major/E
 12dd-	.
+12aJ	.
+12ccL	D dominant/A
 12a	.
-12cc	D7/A
-12a	.
-12g-	.
+12g-J	.
 ==	==
 *-	*-

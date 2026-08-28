@@ -16,73 +16,73 @@
 *f:	*
 *M6/4	*
 =1	=1
-2.cc	Fm
+2.cc	F minor
 2.f	.
 =2	=2
-4.f	D-
+4.f	D- major
 4.g	.
 4.a-	.
 4.b-	.
 =3	=3
-2.cc	B-
+2.cc	B- major
 2.ff	.
 =4	=4
-4ff	B-m
+4ff	B- minor
 4ee-	.
 4dd-	.
-4cc	G-
+4cc	G- major
 4b-	.
 4dd-	.
 =5	=5
-2.cc	Fm
+2.cc	F minor
 2.f	.
 =6	=6
-4.f	D-
+4.f	D- major
 4.g	.
 4.a-	.
 4.b-	.
 =7	=7
-4cc	B-
+4cc	B- major
 8b-	.
 1cc	.
 8ff	.
 =8	=8
-2.cc[	B-m
-2.cc]	G-
+[2.cc	B- minor
+2.cc]	G- major
 =9	=9
-1ff	Fm
+1ff	F minor
 4gg	.
 4aa-	.
 =10	=10
-1ff	D-
+1ff	D- major
 4gg	.
 4aa-	.
 =11	=11
-2bb-	B-/D
-8aa-	.
-8gg	.
+2bb-	B- major/D
+8aa-L	.
+8ggJ	.
 2.ff	.
 =12	=12
-2ff	Csus4
-8gg	.
-8ff	.
-2.een	C7
+2ff	C suspended-fourth
+8ggL	.
+8ffJ	.
+2.een	C dominant
 =13	=13
-1ff	Fm
+1ff	F minor
 4gg	.
 4aa-	.
 =14	=14
-1ff	D-
+1ff	D- major
 4gg	.
 4aa-	.
 =15	=15
-3...bb-	B-/D
+3...bb-	B- major/D
 8ccc	.
 2.ff	.
 =16	=16
-2ff	Csus4
-8gg	.
-8ff	.
-2.een	C7
+2ff	C suspended-fourth
+8ggL	.
+8ffJ	.
+2.een	C dominant
 ==	==
 *-	*-

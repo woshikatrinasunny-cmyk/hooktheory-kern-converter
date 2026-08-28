@@ -16,83 +16,83 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4r	B-
-8fff	.
-8eee-	.
+4r	B- major
+8fffL	.
+8eee-J	.
 4ddd-	.
 4bb-	.
 =2	=2
-1r	G-
+1r	G- major
 =3	=3
-4r	E-
-8fff	.
-8eee-	.
+4r	E- major
+8fffL	.
+8eee-J	.
 4ddd-	.
 4bb-	.
 =4	=4
-2r	G-
-2r	A-
+2r	G- major
+2r	A- major
 =5	=5
-4r	B-
-8fff	.
-8eee-	.
+4r	B- major
+8fffL	.
+8eee-J	.
 4ddd-	.
 4bb-	.
 =6	=6
-1r	G-
+1r	G- major
 =7	=7
-4r	E-
-8fff	.
-8eee-	.
+4r	E- major
+8fffL	.
+8eee-J	.
 4ddd-	.
 4bb-	.
 =8	=8
-2r	G-add(2,4,7)
-2r	A-
+2r	G- other-2,4,7
+2r	A- major
 =9	=9
-4b-	B-
-8fff	.
-8eee-	.
+4b-	B- major
+8fffL	.
+8eee-J	.
 4ddd-	.
 4bb-	.
 =10	=10
-4r	G-
-8dd-	.
-8ee-	.
+4r	G- major
+8dd-L	.
+8ee-J	.
 4ff	.
 4a-	.
 =11	=11
-4b-	E-
-8fff	.
-8eee-	.
+4b-	E- major
+8fffL	.
+8eee-J	.
 4ddd-	.
 4bb-	.
 =12	=12
-4r	G-
-8dd-	.
-8ee-	.
-4ff	A-
+4r	G- major
+8dd-L	.
+8ee-J	.
+4ff	A- major
 4a-	.
 =13	=13
-4b-	B-
-8fff	.
-8eee-	.
+4b-	B- major
+8fffL	.
+8eee-J	.
 4ddd-	.
 4bb-	.
 =14	=14
-4r	G-
-8dd-	.
-8ee-	.
+4r	G- major
+8dd-L	.
+8ee-J	.
 4ff	.
 4a-	.
 =15	=15
-4b-	E-
-8fff	.
-8eee-	.
+4b-	E- major
+8fffL	.
+8eee-J	.
 4ddd-	.
 4bb-	.
 =16	=16
-2r	G-add(2,4,7)
-2r	A-
+2r	G- other-2,4,7
+2r	A- major
 ==	==
 *-	*-

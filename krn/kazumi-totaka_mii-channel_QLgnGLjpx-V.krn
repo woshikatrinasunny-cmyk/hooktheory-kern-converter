@@ -16,122 +16,122 @@
 *A:	*
 *M4/4	*
 =1	=1
-8f#	Bm
+8f#	B minor
 8r	.
-8a	.
-8cc#	.
+8aL	.
+8cc#J	.
 8r	.
 8a	.
 8r	.
 8f#	.
 =2	=2
-8d	G#dim
+8dL	G# diminished
 8d	.
-8d	.
+8dJ	.
 2r	.
-8c#	A#m/F
+8c#	A# minor/F
 =3	=3
-8d	Bm
+8dL	B minor
 8f#	.
 8a	.
-8cc#	.
+8cc#J	.
 8r	.
 8a	.
 8r	.
 8f#	.
 =4	=4
-4.ee	Eadd(4,7,9,10)/G#
-8dd#	Cm/G
-8dd	Bm/F#
+4.ee	E other-4,7,9,10/G#
+8dd#	C minor/G
+8dd	B minor/F#
 4.r	.
 =5	=5
-8g#	Amaj7
+8g#	A major-seventh
 8r	.
-8cc#	A/E
-8f#	.
+8cc#L	A major/E
+8f#J	.
 8r	.
-8cc#	A/E
+8cc#	A major/E
 8r	.
-8g#	Amaj7
+8g#	A major-seventh
 =6	=6
 8r	.
-8cc#	A/E
+8cc#	A major/E
 8r	.
 8gn	.
 8f#	.
 8r	.
-8e	A/C#
+8e	A major/C#
 8r	.
 =7	=7
-8e	D9
+8eL	D dominant-ninth
 8e	.
-8e	.
+8eJ	.
 4.r	.
-8e	D9
-8e	.
+8eL	D dominant-ninth
+8eJ	.
 =8	=8
 8e	.
 4.r	.
-4d#	C#m9
-4d	Cm9
+4d#	C# minor-ninth
+4d	C minor-ninth
 =9	=9
-4f#	Bm9
-8a	.
-8cc#	.
+4f#	B minor-ninth
+8aL	.
+8cc#J	.
 8r	.
 8a	.
 8r	.
-8d#	Dadd(1,4,5,7)
+8d#	D other-1,4,5,7
 =10	=10
-8e	E7/D
+8eL	E dominant/D
 8e	.
-8e	.
+8eJ	.
 8r	.
-8ee	E7/D
+8eeL	E dominant/D
 8ee	.
-8ee	.
+8eeJ	.
 8r	.
 =11	=11
-8BB	Bm
+8BBL	B minor
 8f#	.
 8a	.
-8cc#	.
+8cc#J	.
 8r	.
 8a	.
 8r	.
 8f#	.
 =12	=12
-2ee	Eadd(4,7,9,10)/G#
-8dd	Bm/F#
+2ee	E other-4,7,9,10/G#
+8dd	B minor/F#
 4.r	.
 =13	=13
-8b	Em7
+8bL	E minor-seventh
 8gn	.
-8d	.
-4c#	A7
-8b	.
+8dJ	.
+4c#	A dominant
+8bL	.
 8gn	.
-8c#	.
+8c#J	.
 =14	=14
-8a	D7
+8aL	D dominant
 8f#	.
-8cn	.
-4B	G7
-8fn	.
+8cnJ	.
+4B	G dominant
+8fnL	.
 8d	.
-8B	.
+8BJ	.
 =15	=15
-8e	Bm11
+8eL	B minor-11th
 8e	.
-8e	.
+8eJ	.
 2r	.
-8a#	Gdim
+8a#	G diminished
 =16	=16
-8b	G#dim
-8cc#	A#dim
-8dd	G#dim/B
-8ff#	Bm/D
-8aa	A7/G
+8bL	G# diminished
+8cc#	A# diminished
+8dd	G# diminished/B
+8ff#J	B minor/D
+8aa	A dominant/G
 4.r	.
 ==	==
 *-	*-

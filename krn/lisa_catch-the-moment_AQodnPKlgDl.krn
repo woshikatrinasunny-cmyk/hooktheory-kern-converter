@@ -21,7 +21,7 @@
 4a	.
 4g	.
 =2	=2
-4cc	G
+4cc	G major
 4b	.
 4r	.
 4g	.
@@ -31,17 +31,17 @@
 4r	.
 4g	.
 =4	=4
-4cc	B7
+4cc	B dominant
 4b	.
 4r	.
-4a[	.
+[4a	.
 =5	=5
 4a]	.
 4g	.
 4a	.
 4g	.
 =6	=6
-4cc	Em
+4cc	E minor
 4b	.
 4r	.
 4g	.
@@ -51,51 +51,51 @@
 4r	.
 4g	.
 =8	=8
-4cc	Dm
+4cc	D minor
 4b	.
 4r	.
-4a[	.
+[4a	.
 =9	=9
-4a]	G
+4a]	G major
 4g	.
 4a	.
 4g	.
 =10	=10
-4r	C
+4r	C major
 4e	.
 4g	.
-4a[	.
+[4a	.
 =11	=11
 4a]	.
 4g	.
-2a	Cm
+2a	C minor
 =12	=12
-4r	Bm7
+4r	B minor-seventh
 4d	.
 4g	.
-4a[	.
+[4a	.
 =13	=13
 4a]	.
 4g	.
-2a	A#
+2a	A# major
 =14	=14
-4r	Am7
+4r	A minor-seventh
 4e	.
 4f#	.
 4g	.
 =15	=15
-2cc	A7/C#
+2cc	A dominant/C#
 4b	.
 4b	.
 =16	=16
-1a	D
+1a	D major
 =17	=17
 4r	.
 4b	.
 4a	.
 4g	.
 =18	=18
-4cc	G
+4cc	G major
 4b	.
 4r	.
 4g	.
@@ -105,77 +105,77 @@
 4r	.
 4g	.
 =20	=20
-4cc	F#m7b5
+4cc	F# half-diminished
 4b	.
 4r	.
-4a[	.
+[4a	.
 =21	=21
-4a]	B
+4a]	B major
 4g	.
 4a	.
 4g	.
 =22	=22
-4cc	Em
+4cc	E minor
 4b	.
 4r	.
 4g	.
 =23	=23
 4cc	.
 4b	.
-4r	D#m
+4r	D# minor
 4g	.
 =24	=24
-4cc	Dm
+4cc	D minor
 4b	.
 4r	.
-4a[	.
+[4a	.
 =25	=25
-4a]	G
+4a]	G major
 4g	.
 4a	.
 4g	.
 =26	=26
-4r	F#m7b5
+4r	F# half-diminished
 4a	.
 4f#	.
-4cc[	B7
+[4cc	B dominant
 =27	=27
 4cc]	.
 4b	.
 4r	.
 4b	.
 =28	=28
-4a	Em
+4a	E minor
 4g	.
 4a	.
-4e[	A/C#
+[4e	A major/C#
 =29	=29
 4e]	.
 4f#	.
 4g	.
 4a	.
 =30	=30
-2.g	Am7
+2.g	A minor-seventh
 4r	.
 =31	=31
-4r	Bm7
+4r	B minor-seventh
 4b	.
 4a	.
 4g	.
 =32	=32
-4cc	F
+4cc	F major
 8b	.
 4g	.
 8a	.
-4g	D
+4g	D major
 =33	=33
 4r	.
 4g	.
-8g	.
-8d	.
+8gL	.
+8dJ	.
 4a	.
 =34	=34
-4g	Em
+4g	E minor
 2.r	.
 ==	==
 *-	*-

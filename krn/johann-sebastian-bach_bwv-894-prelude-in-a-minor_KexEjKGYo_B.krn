@@ -17,105 +17,105 @@
 *M2/4	*
 =1	=1
 4r	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =2	=2
-8cc	.
-8ee	.
-8dd	.
-8b	.
+8ccL	.
+8eeJ	.
+8ddL	.
+8bJ	.
 =3	=3
 4cc	.
-8A	Am
-8B	.
+8AL	A minor
+8BJ	.
 =4	=4
-8c	Am/C
-8e	.
-8d	E7/D
-8B	.
+8cL	A minor/C
+8eJ	.
+8dL	E dominant/D
+8BJ	.
 =5	=5
-4c	Am/C
-12ee	Am
+4c	A minor/C
+12eeL	A minor
 12ff	.
-12gg	.
+12ggJ	.
 =6	=6
-12gg	G/B
+12ggL	G major/B
 12aa	.
-12aa#	.
-12aa#	C#dim7
+12aa#J	.
+12aa#L	C# diminished-seventh
 12aa	.
-12gg	.
+12ggJ	.
 =7	=7
-12ff	Dm
+12ffL	D minor
 12ee	.
-12dd	.
-12dd	Dm7/C
+12ddJ	.
+12ddL	D minor-seventh/C
 12ee	.
-12ff	.
+12ffJ	.
 =8	=8
-12ff	Bdim
+12ffL	B diminished
 12gg	.
-12aa	.
-12aa	G
+12aaJ	.
+12aaL	G major
 12gg	.
-12ff	.
+12ffJ	.
 =9	=9
-12ee	C
+12eeL	C major
 12dd	.
-12cc	.
-12aa	F
+12ccJ	.
+12aaL	F major
 12gg	.
-12aa	.
+12aaJ	.
 =10	=10
-12b	G7/F
+12bL	G dominant/F
 12cc	.
-12dd	.
-12gg	C/E
+12ddJ	.
+12ggL	C major/E
 12ff	.
-12gg	.
+12ggJ	.
 =11	=11
-12a	Fmaj7/E
+12aL	F major-seventh/E
 12b	.
-12cc	.
-12ff	Bdim/D
+12ccJ	.
+12ffL	B diminished/D
 12ee	.
-12ff	.
+12ffJ	.
 =12	=12
-12g#	E7/D
+12g#L	E dominant/D
 12a	.
-12b	.
-12ee	Am/C
+12bJ	.
+12eeL	A minor/C
 12dd	.
-12ee	.
+12eeJ	.
 =13	=13
-12f#	D7/C
+12f#L	D dominant/C
 12ee	.
-12dd	.
-12g#	G#dim/B
+12ddJ	.
+12g#L	G# diminished/B
 12ee	.
-12dd	.
+12ddJ	.
 =14	=14
-12a	Am/C
+12aL	A minor/C
 12ee	.
-12dd	.
-12b	E/G#
+12ddJ	.
+12bL	E major/G#
 12ee	.
-12dd	.
+12ddJ	.
 =15	=15
-12cc	Am
+12ccL	A minor
 12b	.
-12a	.
-12ff	G7
+12aJ	.
+12ffL	G dominant
 12gg	.
-12ee	.
+12eeJ	.
 =16	=16
-8ee	Dm/F
-16dd	.
-16ee	.
-8dd	.
-8ee	.
+8eeL	D minor/F
+16ddL	.
+16eeJJ	.
+8ddL	.
+8eeJ	.
 =17	=17
-4ee	E
+4ee	E major
 4r	.
 ==	==
 *-	*-

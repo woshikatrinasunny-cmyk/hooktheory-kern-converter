@@ -16,60 +16,60 @@
 *C:	*
 *M4/4	*
 =1	=1
-8E	Am7/E
+8EL	A minor-seventh/E
 8G	.
 8A	.
-8c	.
+8cJ	.
 4r	.
-8D#	G#7
-8F#	.
+8D#L	G# dominant
+8F#J	.
 =2	=2
-8G#	.
-8c	.
+8G#L	.
+8cJ	.
 2r	.
-8D	D7
-8F#	.
+8DL	D dominant
+8F#J	.
 =3	=3
-8A	.
-8c	.
+8AL	.
+8cJ	.
 2r	.
-8C#	C#maj7
+8C#	C# major-seventh
 8r	.
 =4	=4
-8C#	C#add(4,6,7,10)
+8C#L	C# other-4,6,7,10
 8C	.
 8C#	.
-8D#	.
-8F	C#augMaj7/F
+8D#J	.
+8FL	C# augmented-major-seventh/F
 8G#	.
 8A#	.
-8c	.
+8cJ	.
 =5	=5
-8E	Am7/E
+8EL	A minor-seventh/E
 8G	.
 8A	.
-8c	.
+8cJ	.
 4r	.
-8D#	G#add(3,4,6,7,10)
-8F#	.
+8D#L	G# other-3,4,6,7,10
+8F#J	.
 =6	=6
-8G#	.
-8c	.
-4r	G#aug7
-4r	G#add(1,4,8,10)
-8D	D7
-8F#	.
+8G#L	.
+8cJ	.
+4r	G# augmented-seventh
+4r	G# other-1,4,8,10
+8DL	D dominant
+8F#J	.
 =7	=7
-8A	.
-8c	.
+8AL	.
+8cJ	.
 2r	.
-8c#	C#add(4,7,9,11)
-8c	.
+8c#L	C# other-4,7,9,11
+8cJ	.
 =8	=8
-8G#	.
+8G#L	.
 8G	.
 8F	.
-8D#	.
+8D#J	.
 2C#	.
 ==	==
 *-	*-

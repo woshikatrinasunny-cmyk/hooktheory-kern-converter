@@ -16,66 +16,66 @@
 *g:	*
 *M4/4	*
 =1	=1
-4dd	Gm
+4dd	G minor
 4ff	.
 4gg	.
-8dd	.
-8ff	.
+8ddL	.
+8ffJ	.
 =2	=2
-8gg	F
+8ggL	F major
 8dd	.
 8ff	.
-8gg	.
-8dd	.
+8ggJ	.
+8ddL	.
 8ff	.
 8gg	.
-8aa	.
+8aaJ	.
 =3	=3
-4bb-	B-
-8aa	.
-8bb-	.
-8aa	.
+4bb-	B- major
+8aaL	.
+8bb-J	.
+8aaL	.
 8gg	.
 8ff	.
-8bb-[	.
+[8bb-J	.
 =4	=4
-4bb-]	F/A
-8aa	.
-8bb-	.
-8aa	.
+4bb-]	F major/A
+8aaL	.
+8bb-J	.
+8aaL	.
 8gg	.
 8ff	.
-8cc	.
+8ccJ	.
 =5	=5
-4dd	Gm
+4dd	G minor
 4ff	.
 4gg	.
-8dd	.
-8ff	.
+8ddL	.
+8ffJ	.
 =6	=6
-8gg	F
+8ggL	F major
 8dd	.
 8ff	.
-8gg	.
-8dd	.
+8ggJ	.
+8ddL	.
 8ff	.
 8gg	.
-8aa	.
+8aaJ	.
 =7	=7
-4bb-	B-
-8aa	.
-8bb-	.
-8aa	.
+4bb-	B- major
+8aaL	.
+8bb-J	.
+8aaL	.
 8gg	.
 8ff	.
-8ccc[	.
+[8cccJ	.
 =8	=8
-4ccc]	F
-8bb-	.
-8ccc	.
-8bb-	.
+4ccc]	F major
+8bb-L	.
+8cccJ	.
+8bb-L	.
 8aa	.
-8gg	G-dim
-8ff	.
+8gg	G- diminished
+8ffJ	.
 ==	==
 *-	*-

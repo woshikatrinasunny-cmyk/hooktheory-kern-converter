@@ -16,40 +16,40 @@
 *C:	*
 *M4/4	*
 =1	=1
-8.c	C
-16c	.
+8.cL	C major
+16ck	.
 8.c	.
-16c	.
+16cJk	.
+8.cL	.
+16ck	.
 8.c	.
-16c	.
-8.c	.
-16c	.
+16cJk	.
 =2	=2
+8.cL	.
+16ck	.
 8.c	.
-16c	.
-8.c	.
-16c	.
-16c	G
+16cJk	.
+16cLK	G major
 8d	.
-16c	.
+16cJk	.
 4G	.
 =3	=3
-8.A	Am
-16A	.
+8.AL	A minor
+16Ak	.
 8.A	.
-16A	.
+16AJk	.
+8.AL	.
+16Ak	.
 8.A	.
-16A	.
-8.A	.
-16A	.
+16AJk	.
 =4	=4
+8.AL	.
+16Ak	.
 8.A	.
-16A	.
-8.A	.
-16A	.
-16A	F/A
+16AJk	.
+16ALK	F major/A
 8B	.
-16c	.
-4B	G/B
+16cJk	.
+4B	G major/B
 ==	==
 *-	*-

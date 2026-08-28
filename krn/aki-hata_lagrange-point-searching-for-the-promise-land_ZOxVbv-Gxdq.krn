@@ -16,90 +16,90 @@
 *C:	*
 *M4/4	*
 =1	=1
-3...cc	Fadd(2,4,7)
-8ee	.
+3...cc	F other-2,4,7
+8eeL	.
 8dd	.
-8cc[	.
+[8ccJ	.
 =2	=2
 3...cc]	.
-8ee	.
+8eeL	.
 8dd	.
-8cc[	.
+[8ccJ	.
 =3	=3
-3...cc]	C/E
-8gg	.
+3...cc]	C major/E
+8ggL	.
 8ff	.
-8ee[	.
+[8eeJ	.
 =4	=4
 3...ee]	.
-8gg	.
+8ggL	.
 8ff	.
-8ee	.
+8eeJ	.
 =5	=5
-2.dd	Dm
-8cc	.
-8dd	.
+2.dd	D minor
+8ccL	.
+8ddJ	.
 =6	=6
 *k[b-]	*
 *d:	*
-8ee	C
+8ee	C major
 4dd	.
-4dd-	D-dim
-8dd	.
+4dd-	D- diminished
+8ddL	.
 8ee	.
-8ff[	Dm
+[8ffJ	D minor
 =7	=7
 4ff]	.
 4a	.
 4d	.
-8a	.
-8d[	.
+8aL	.
+[8dJ	.
 =8	=8
-3...d]	C
-8e	.
+3...d]	C major
+8eL	.
 8dd	.
-8cc	.
+8ccJ	.
 =9	=9
-8b-	B-
+8b-L	B- major
 8a	.
-8b-	.
+8b-J	.
 4a	.
 4g	.
-8a[	.
+[8a	.
 =10	=10
-8a]	F
+8a]	F major
 4ff	.
 4.a	.
-8g	Edim
-8f[	Dm
+8gL	E diminished
+[8fJ	D minor
 =11	=11
 2f]	.
 4r	.
-8e	D-dim
-8d[	Dm7/C
+8eL	D- diminished
+[8dJ	D minor-seventh/C
 =12	=12
 2.d]	.
 4r	.
 =13	=13
-8r	Bdim
-8c	.
+8r	B diminished
+8cL	.
 8Bn	.
-8c	.
-8d	.
+8cJ	.
+8dL	.
 8e	.
 8f	.
-8g[	B-
+[8gJ	B- major
 =14	=14
-8g]	.
+8gL]	.
 8f	.
 8e	.
-8d	.
+8dJ	.
 *k[]	*
 *C:	*
-8e	C
-8f	Dm
-8g	C/E
-8cc[	F
+8eL	C major
+8f	D minor
+8g	C major/E
+[8ccJ	F major
 =15	=15
 8cc]	.
 4b	.
@@ -107,22 +107,22 @@
 4dd	.
 8cc	.
 =16	=16
+8ccL	.
 8cc	.
-8cc	.
-8b	.
+8bJ	.
 4cc	.
 4dd	.
 8cc	.
 =17	=17
-4cc	C/E
+4cc	C major/E
 8r	.
 8g	.
-2g[	.
+[2g	.
 =18	=18
 2.g]	.
 4r	.
 =19	=19
-4cc	Cm/D#
+4cc	C minor/D#
 8r	.
 8g	.
 4.g	.
@@ -135,41 +135,41 @@
 =21	=21
 *k[b-e-a-]	*
 *E-:	*
-4ee-	E-7/D-
+4ee-	E- dominant/D-
 8r	.
 8b-	.
 4.b-	.
 8r	.
 =22	=22
-4e-	Cm
+4e-	C minor
 4f	.
 4g	.
 4a-	.
 =23	=23
-4.g	E-/B-
+4.g	E- major/B-
 8r	.
 4.f	.
 8r	.
 =24	=24
-4.g	Am7b5
+4.g	A half-diminished
 8r	.
 4.f	.
 8r	.
 =25	=25
-4.g	A-maj7
+4.g	A- major-seventh
 8r	.
 4f	.
 4e-	.
 =26	=26
 *k[]	*
 *C:	*
-16aa	Gsus2
+16aa	G suspended-second
 16r	.
 8.dd	.
 16r	.
 8.aa	.
 16r	.
-4.dd[	.
+[4.dd	.
 =27	=27
 2.dd]	.
 4r	.
@@ -178,23 +178,23 @@
 16r	.
 8.dd	.
 16r	.
-8aa[	.
-16aa]	Cadd(2,7,9)
+[8aa	.
+16aa]	C other-2,7,9
 16r	.
-4.dd[	.
+[4.dd	.
 =29	=29
 4.dd]	.
 8r	.
-16b	Dm
+16bLL	D minor
 16cc	.
 16dd	.
 16ee	.
-16ff	Em
+16ff	E minor
 16gg	.
 16aa	.
-16bb	.
+16bbJJ	.
 =30	=30
-2ccc	Fadd(2,4,7)
+2ccc	F other-2,4,7
 2r	.
 ==	==
 *-	*-

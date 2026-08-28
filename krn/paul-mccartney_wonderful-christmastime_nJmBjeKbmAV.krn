@@ -16,68 +16,68 @@
 *B:	*
 *M4/4	*
 =1	=1
-8.BB	B
-16F#	.
-16B	.
+8.BBL	B major
+16F#L	.
+16BJ	.
 8c#	.
-16d#[	.
-16d#]	Bmaj7
+[16d#Jk	.
+16d#]	B major-seventh
 4..r	.
 =2	=2
-8.BB	B
-16F#	.
-16B	.
+8.BBL	B major
+16F#L	.
+16BJ	.
 8c#	.
-16d#[	.
-16d#]	G#m/B
+[16d#Jk	.
+16d#]	G# minor/B
 4..r	.
 =3	=3
-8.BB	B
-16F#	.
+8.BBL	B major
+16F#k	.
 8B	.
-16c#	.
-16d#[	.
-16d#]	Bmaj7sus2
+16c#L	.
+[16d#JJ	.
+16d#]	B major-seventh-suspended-second
 4..r	.
 =4	=4
-8.BB	B
-16F#	.
+8.BBL	B major
+16F#k	.
 8B	.
-16c#	.
+16c#Jk	.
 8d#	.
 4..r	.
 =5	=5
-4d#	C#add(3,5,7,10)
-4c#	F#9
-8.e	D#m7
-16f#	.
-8d#	G#m9
+4d#	C# other-3,5,7,10
+4c#	F# dominant-ninth
+8.eL	D# minor-seventh
+16f#k	.
+8d#J	G# minor-ninth
 16r	.
 16G#	.
 =6	=6
-8f#	Emaj9
-16e	.
-16d#	.
-8B	Aadd(2,4,7,9,10)
-8B	.
-4B	B
+8f#L	E major-ninth
+16eL	.
+16d#J	.
+8B	A other-2,4,7,9,10
+8BJ	.
+4B	B major
 4r	.
 =7	=7
-4d#	C#add(3,5,7,10)
-8c#	F#9
+4d#	C# other-3,5,7,10
+8c#	F# dominant-ninth
 8r	.
-8.e	D#m7
-16f#	.
-8d#	G#m9
+8.eL	D# minor-seventh
+16f#k	.
+8d#J	G# minor-ninth
 16r	.
 16G#	.
 =8	=8
-8f#	Emaj9
-16e	.
-16d#	.
-8B	Aadd(2,4,7,9,10)
-8B	.
-4B	B
+8f#L	E major-ninth
+16eL	.
+16d#J	.
+8B	A other-2,4,7,9,10
+8BJ	.
+4B	B major
 4r	.
 ==	==
 *-	*-

@@ -16,42 +16,42 @@
 *b:	*
 *M4/4	*
 =1	=1
-4B	Bm
+4B	B minor
 4c#	.
 4d	.
 4e	.
 =2	=2
-8fn	.
-8fn	.
+8fnL	.
+8fnJ	.
 4e	.
 4e	.
-4d	G
+4d	G major
 =3	=3
 2r	.
 4B	.
-8Fn	Gsus4
-8E[	.
+8FnL	G suspended-fourth
+[8EJ	.
 =4	=4
-8E]	.
-8D[	.
-8D]	G
-8D	.
+8EL]	.
+[8D	.
+8D]	G major
+8DJ	.
 8E	.
 4.D	.
 =5	=5
-4F#	E
+4F#	E major
 4E	.
 4F#	.
-4BB[	.
+[4BB	.
 =6	=6
 4BB]	.
 8r	.
 4E	.
-8E	.
+8EL	.
 8D	.
-8F#	.
+8F#J	.
 =7	=7
-4.E	F#7
+4.E	F# dominant
 4.E	.
 4F#	.
 =8	=8
@@ -60,7 +60,7 @@
 4.r	.
 8BB	.
 =9	=9
-4BB	Bm
+4BB	B minor
 4C#	.
 8D	.
 4.E	.
@@ -68,35 +68,35 @@
 4F#	.
 4G#	.
 4B	.
-4d	D
+4d	D major
 =11	=11
 2r	.
-4B	Dsus4
-8Fn	D
-8E[	.
+4B	D suspended-fourth
+8FnL	D major
+[8EJ	.
 =12	=12
 8E]	.
 2D	.
 8E	.
 4D	.
 =13	=13
-8Fn	A
+8Fn	A major
 4.E	.
 4F#	.
-4BB[	A
+[4BB	A major
 =14	=14
 4BB]	.
-4r	A
+4r	A major
+8.EL	.
 8.E	.
-8.E	.
-8D	.
+8DJ	.
 =15	=15
-8Fn	F#7
+8Fn	F# dominant
 4E	.
 8D	.
-8E	.
-8D	.
-4F#[	.
+8EL	.
+8DJ	.
+[4F#	.
 =16	=16
 2F#]	.
 2r	.

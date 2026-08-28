@@ -16,94 +16,94 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.b	Aadd(2,3,7)
+4.b	A other-2,3,7
 4.cc	.
-4dd[	.
+[4dd	.
 =2	=2
 4dd]	.
 4dd	.
 4cc	.
 4b	.
 =3	=3
-8.a	G
-8.b	.
+8.aL	G major
+8.bJ	.
 3...g	.
 =4	=4
-8.dd	.
+8.ddL	.
 8.b	.
-8g	.
-8.gg	.
+8gJ	.
+8.ggL	.
 8.dd	.
-8b	.
+8bJ	.
 =5	=5
-8r	F
-8f	.
+8r	F major
+8fL	.
 8g	.
-8a	.
-8.cc	.
+8aJ	.
+8.ccL	.
 8.b	.
-8a	.
+8aJ	.
 =6	=6
-8r	G
-8g	.
+8r	G major
+8gL	.
 8a	.
-8b	.
-8.dd	.
+8bJ	.
+8.ddL	.
 8.cc	.
-8b	.
+8bJ	.
 =7	=7
-8.b	Am
-8.cc	.
+8.bL	A minor
+8.ccJ	.
 3...a	.
 =8	=8
-4dd	D7
+4dd	D dominant
 4dd	.
 16r	.
-16dd	.
+16ddLL	.
 16cc	.
 16b	.
 16cc	.
 16b	.
 16a	.
-16g	.
+16gJJ	.
 =9	=9
-4.B	Aadd(2,3,7)
+4.B	A other-2,3,7
 4.c	.
-4d[	.
+[4d	.
 =10	=10
 4d]	.
 4d	.
 4e	.
 4f	.
 =11	=11
-8.g	G
-8.d	.
+8.gL	G major
+8.dJ	.
 3...B	.
 =12	=12
-8.dd	.
-8b	.
+8.ddL	.
+8bJ	.
 16r	.
 4gg	.
 4dd	.
 8b	.
 =13	=13
-8r	F
-8f	.
+8r	F major
+8fL	.
 8e	.
-8d	.
-8.c	.
+8dJ	.
+8.cL	.
 8.B	.
-8A	.
+8AJ	.
 =14	=14
-8.B	G
-8.G	.
+8.BL	G major
+8.GJ	.
 4E	.
 4d	.
-16c#	.
-16c	.
+16c#LL	.
+16cJJ	.
 =15	=15
-1B[	Esus4
+[1B	E suspended-fourth
 =16	=16
-1B]	E
+1B]	E major
 ==	==
 *-	*-

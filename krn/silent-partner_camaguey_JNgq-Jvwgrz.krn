@@ -16,76 +16,76 @@
 *G:	*
 *M4/4	*
 =1	=1
-6...ddd[	G
-8.ddd_	G/D
-6...ddd_	A-maj7
-16ddd]	A-maj7/E-
-8ccc	.
+[6...ddd	G major
+8.ddd_	G major/D
+6...ddd_	A- major-seventh
+16dddLK]	A- major-seventh/E-
+8cccJ	.
 =2	=2
-16ddd	G
-16eee-	.
+16dddLL	G major
+16eee-J	.
 8ddd	.
-16ccc	.
-16r	G/D
-8bb[	.
-6...bb_	A-maj7
-8.bb]	A-maj7/E-
+16cccJk	.
+16r	G major/D
+[8bb	.
+6...bb_	A- major-seventh
+8.bb]	A- major-seventh/E-
 =3	=3
-16aa-	G
+16aa-LL	G major
 16ccc	.
-16bb	.
+16bbJJ	.
 16r	.
 16aa-	.
-16r	G/D
-8gg[	.
-6...gg]	A-maj7
-16ff	A-maj7/E-
+16r	G major/D
+[8gg	.
+6...gg]	A- major-seventh
+16ff	A- major-seventh/E-
 8r	.
 =4	=4
-16gg	G
-16aa-	.
+16ggLL	G major
+16aa-J	.
 8gg	.
-16dd	.
-16r	G/D
-8gg[	.
-6...gg_	A-maj7
-16gg]	A-maj7/E-
+16ddJk	.
+16r	G major/D
+[8gg	.
+6...gg_	A- major-seventh
+16gg]	A- major-seventh/E-
 8r	.
 =5	=5
-8r	G
-8.fff[	.
-8.fff_	G/D
-6...fff]	A-maj7
-8eee-	A-maj7/E-
+8r	G major
+[8.fffL	.
+8.fffJ_	G major/D
+6...fff]	A- major-seventh
+8eee-	A- major-seventh/E-
 16r	.
 =6	=6
-16fff	G
-16ggg	.
+16fffLL	G major
+16gggJ	.
 8fff	.
-16eee-	.
-16r	G/D
-8ddd[	.
-6...ddd]	A-maj7
-16ccc	A-maj7/E-
+16eee-Jk	.
+16r	G major/D
+[8ddd	.
+6...ddd]	A- major-seventh
+16ccc	A- major-seventh/E-
 8r	.
 =7	=7
-16ddd	G
-16eee-	.
+16dddLL	G major
+16eee-J	.
 8ddd	.
-16ccc	.
-16r	G/D
-8bb[	.
-6...bb]	A-maj7
-16aa-	A-maj7/E-
+16cccJk	.
+16r	G major/D
+[8bb	.
+6...bb]	A- major-seventh
+16aa-	A- major-seventh/E-
 8r	.
 =8	=8
-16bb	G
-16ccc	.
+16bbLL	G major
+16cccJ	.
 8bb	.
-16gg	.
-16r	G/D
-8ddd[	.
-6...ddd_	A-add(3,4,6,7,11)
-8.ddd]	G
+16ggJk	.
+16r	G major/D
+[8ddd	.
+6...ddd_	A- other-3,4,6,7,11
+8.ddd]	G major
 ==	==
 *-	*-

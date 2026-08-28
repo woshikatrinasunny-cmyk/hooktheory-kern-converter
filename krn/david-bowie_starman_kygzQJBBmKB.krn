@@ -16,25 +16,25 @@
 *F:	*
 *M4/4	*
 =1	=1
-1r	B-add(4,6,7)/F
+1r	B- other-4,6,7/F
 =2	=2
 1r	.
 =3	=3
-1r	Fmaj7
+1r	F major-seventh
 =4	=4
 1r	.
 =5	=5
-8r	B-add(4,6,7)/F
-8f	.
-8d	.
+8r	B- other-4,6,7/F
+8fL	.
+8dJ	.
 4.B-	.
 4r	.
 =6	=6
 1r	.
 =7	=7
-8r	Fmaj7
-8e	.
-8c	.
+8r	F major-seventh
+8eL	.
+8cJ	.
 4.A	.
 4r	.
 =8	=8

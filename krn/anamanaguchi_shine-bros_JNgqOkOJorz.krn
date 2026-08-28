@@ -16,50 +16,50 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4f#	F#m
+4f#	F# minor
 4cc#	.
-4g#	G#dim
+4g#	G# diminished
 4cc#	.
 =2	=2
-4a	A
-8cc#	.
-8dd	.
+4a	A major
+8cc#L	.
+8ddJ	.
 4cc#	.
 4b	.
 =3	=3
-8f#	D
+8f#L	D major
 8c#	.
 8g#	.
-8a	.
-8f#	.
+8aJ	.
+8f#L	.
 8d	.
 8A	.
-8F#	.
+8F#J	.
 =4	=4
-8f#	.
+8f#L	.
 8c#	.
 8g#	.
-8a	.
-8f#	.
+8aJ	.
+8f#L	.
 8c#	.
 8A	.
-8F#	.
+8F#J	.
 =5	=5
-4f#	F#m
-8cc#	.
-8dd	.
-4cc#	G#dim
+4f#	F# minor
+8cc#L	.
+8ddJ	.
+4cc#	G# diminished
 4b	.
 =6	=6
-4a	A
-8e	.
-8c#	.
+4a	A major
+8eL	.
+8c#J	.
 4g#	.
-8a	.
-8g#[	.
+8aL	.
+[8g#J	.
 =7	=7
-8g#]	D
-2..f#[	.
+8g#]	D major
+[2..f#	.
 =8	=8
 1f#]	.
 ==	==

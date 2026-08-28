@@ -16,121 +16,121 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4r	A
-16d-	.
-16e-	.
-8d-	.
-2a-[	.
+4r	A major
+16d-LL	.
+16e-J	.
+8d-J	.
+[2a-	.
 =2	=2
-4a-]	B
-16a-	.
-16b-	.
-8bn	.
-8gg-	.
+4a-]	B major
+16a-LL	.
+16b-J	.
+8bnJ	.
+8gg-L	.
 8.ff	.
-8.ee-	.
+8.ee-J	.
 =3	=3
-4dd-	D-
+4dd-	D- major
 8r	.
-3...r	D-
+3...r	D- major
 =4	=4
-4.r	Dmaj7/D-
-3...r	Dmaj7/D-
+4.r	D major-seventh/D-
+3...r	D major-seventh/D-
 =5	=5
-4.r	D-m7
-3...r	D-m7
+4.r	D- minor-seventh
+3...r	D- minor-seventh
 =6	=6
-4.r	G-m/D-
-3...r	G-m/D-
+4.r	G- minor/D-
+3...r	G- minor/D-
 =7	=7
-4.dd-[	D-
-4dd-]	D-
-8cc	.
+[4.dd-	D- major
+4dd-]	D- major
+8ccL	.
 8ee-	.
-8dd-	.
+8dd-J	.
 =8	=8
-4.a-[	D-maj7/F
-4a-]	D-maj7/F
-8f	.
+[4.a-	D- major-seventh/F
+4a-]	D- major-seventh/F
+8fL	.
 8g-	.
-8a-	.
+8a-J	.
 =9	=9
-4a-	G-
+4a-	G- major
 8r	.
-3...g-[	G-
+[3...g-	G- major
 =10	=10
-4.g-_	G-
-4g-_	G-
-8g-]	G-maj7/F
+4.g-_	G- major
+4g-_	G- major
+8g-]	G- major-seventh/F
 4r	.
 =11	=11
-4.ee-[	E-m
-4ee-]	E-m
-8ddn	.
+[4.ee-	E- minor
+4ee-]	E- minor
+8ddnL	.
 8ff	.
-8ee-	.
+8ee-J	.
 =12	=12
-4dd-	A-
+4dd-	A- major
 8r	.
-8cc	A-7
+8cc	A- dominant
 8r	.
 8b-	.
 8r	.
 8cc	.
 =13	=13
-16cc	D-sus4
-8.b-	.
+16ccLK	D- suspended-fourth
+8.b-J	.
 8r	.
-3...a-[	D-
+[3...a-	D- major
 =14	=14
-4.a-_	A-/C
-2a-]	Fm7/C
+4.a-_	A- major/C
+2a-]	F minor-seventh/C
 8r	.
 =15	=15
-4.aa-[	A-m/B
-4aa-]	A-m/B
-8ggn	.
+[4.aa-	A- minor/B
+4aa-]	A- minor/B
+8ggnL	.
 8bb-	.
-8aa-	.
+8aa-J	.
 =16	=16
-4gg-	B-7
+4gg-	B- dominant
 8r	.
-4.ff	B-7
+4.ff	B- dominant
 4r	.
 =17	=17
-4.gg-[	E-m
-4gg-]	E-m
-8ff	.
+[4.gg-	E- minor
+4gg-]	E- minor
+8ffL	.
 8aa-	.
-8gg-	.
+8gg-J	.
 =18	=18
-4ff	E-m7b5/G-
+4ff	E- half-diminished/G-
 8r	.
-2ee-	E-m7b5/G-
+2ee-	E- half-diminished/G-
 8r	.
 =19	=19
-4.ff[	D-/A-
-4ff]	D-/A-
-8een	.
+[4.ff	D- major/A-
+4ff]	D- major/A-
+8eenL	.
 8gg-	.
-8ff	.
+8ffJ	.
 =20	=20
-4ee-	E-/G
+4ee-	E- major/G
 8r	.
-8ddn	E-/G
+8ddn	E- major/G
 8r	.
 8ff	.
 8r	.
 8ee-	.
 =21	=21
-4dd-	A-7sus4
+4dd-	A- dominant-seventh-suspended-fourth
 8r	.
-2cc	A-7
+2cc	A- dominant
 8r	.
 =22	=22
-4dd-	A
+4dd-	A major
 8r	.
-4.ee-	B
+4.ee-	B major
 4r	.
 ==	==
 *-	*-

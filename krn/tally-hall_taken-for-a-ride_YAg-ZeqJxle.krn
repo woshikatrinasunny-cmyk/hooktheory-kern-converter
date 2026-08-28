@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-4g	Cmaj9
+4g	C major-ninth
 4a	.
 4g	.
 4a	.
@@ -24,10 +24,10 @@
 8g	.
 4a	.
 4.g	.
-8a	.
-8g[	.
+8aL	.
+[8gJ	.
 =3	=3
-4g]	Em7
+4g]	E minor-seventh
 4a	.
 4g	.
 4a	.
@@ -36,25 +36,25 @@
 4a	.
 4g	.
 4c	.
-8g[	.
+[8g	.
 =5	=5
-4g]	G#
+4g]	G# major
 4f	.
 2r	.
 =6	=6
 2r	.
 8d#	.
 4c	.
-8g[	.
+[8g	.
 =7	=7
-4g]	D#add(2,4,7)
+4g]	D# other-2,4,7
 4f	.
 2r	.
 =8	=8
-3...r	D#maj7/D
+3...r	D# major-seventh/D
 4.g	.
 =9	=9
-4g	Cmaj9
+4g	C major-ninth
 4a	.
 4g	.
 4a	.
@@ -64,7 +64,7 @@
 4.g	.
 4a	.
 =11	=11
-4g	Em7
+4g	E minor-seventh
 4a	.
 4g	.
 4a	.
@@ -73,21 +73,21 @@
 4r	.
 8g	.
 4g	.
-8g[	.
+[8g	.
 =13	=13
-4g]	G#
+4g]	G# major
 4f	.
 2r	.
 =14	=14
 2r	.
 8d#	.
 4c	.
-8g[	.
+[8g	.
 =15	=15
-4g]	D#
+4g]	D# major
 4d#	.
 2r	.
 =16	=16
-1r	D#maj7/D
+1r	D# major-seventh/D
 ==	==
 *-	*-

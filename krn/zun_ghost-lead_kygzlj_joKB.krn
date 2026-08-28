@@ -16,7 +16,7 @@
 *d:	*
 *M4/4	*
 =1	=1
-4.dd	Dm
+4.dd	D minor
 8r	.
 4.cc	.
 8r	.
@@ -25,37 +25,37 @@
 4r	.
 4ee	.
 =3	=3
-8.ff	Gm
+8.ff	G minor
 16r	.
 8.ee	.
 16r	.
-4dd	A
+4dd	A major
 4ee	.
 =4	=4
-4.ff	B-/F
+4.ff	B- major/F
 8gg	.
-4ee	C/G
-8a	.
-8cc	.
+4ee	C major/G
+8aL	.
+8ccJ	.
 =5	=5
-4.dd	B-/D
+4.dd	B- major/D
 8r	.
-4.cc	C/E
+4.cc	C major/E
 8r	.
 =6	=6
-2a[	Dm
-8.a]	Am
-16ee	.
+[2a	D minor
+8.aL]	A minor
+16eeJk	.
 4ff	.
 =7	=7
-8.ee	B-
+8.ee	B- major
 16r	.
 8.dd	.
 16r	.
-4cc	C
+4cc	C major
 4a	.
 =8	=8
-2...dd	Dm
+2...dd	D minor
 16r	.
 ==	==
 *-	*-

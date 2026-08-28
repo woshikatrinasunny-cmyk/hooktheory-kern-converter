@@ -16,78 +16,78 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.r	C
+4.r	C major
 8gg	.
 4ff	.
-8ee	.
-8dd[	.
+8eeL	.
+[8ddJ	.
 =2	=2
-4.dd]	Dm
+4.dd]	D minor
 4.cc	.
-8cc	.
-8ccc[	.
+8ccL	.
+[8cccJ	.
 =3	=3
-4.ccc]	C/E
+4.ccc]	C major/E
 8r	.
-8.bb	.
+8.bbL	.
 8.ccc	.
-8ddd	.
+8dddJ	.
 =4	=4
-4.ddd	F
+4.ddd	F major
 8ccc	.
 2ccc	.
 =5	=5
-4.ccc	C/G
+4.ccc	C major/G
 8gg	.
-2gg[	.
+[2gg	.
 =6	=6
-4.gg]	C/G
+4.gg]	C major/G
 8r	.
-8.ff	.
+8.ffL	.
 8.ee	.
-8cc	.
+8ccJ	.
 =7	=7
-1dd[	Gsus4
+[1dd	G suspended-fourth
 =8	=8
-1dd]	G
+1dd]	G major
 =9	=9
-4.r	C
+4.r	C major
 8gg	.
 4ff	.
-8ee	.
-8dd[	.
+8eeL	.
+[8ddJ	.
 =10	=10
-4.dd]	Dm
+4.dd]	D minor
 4.cc	.
-8cc	.
-8ccc[	.
+8ccL	.
+[8cccJ	.
 =11	=11
-4.ccc]	C/E
+4.ccc]	C major/E
 8r	.
-8.bb	.
+8.bbL	.
 8.ccc	.
-8ddd	.
+8dddJ	.
 =12	=12
-4.ddd	F
+4.ddd	F major
 8ccc	.
 4ccc	.
-8ddd	.
-8eee[	.
+8dddL	.
+[8eeeJ	.
 =13	=13
-1eee_	C/G
+1eee_	C major/G
 =14	=14
-4.eee]	C/G
+4.eee]	C major/G
 8r	.
-8.fff	.
+8.fffL	.
 8.eee	.
-8ccc	.
+8cccJ	.
 =15	=15
-2..ddd	Gsus4
+2..ddd	G suspended-fourth
 8gg	.
 =16	=16
-1gg	G
+1gg	G major
 =17	=17
-1ccc[	G#maj7/G
+[1ccc	G# major-seventh/G
 =18	=18
 1ccc]	.
 =19	=19

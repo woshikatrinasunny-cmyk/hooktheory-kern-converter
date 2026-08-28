@@ -17,137 +17,137 @@
 *M4/4	*
 =1	=1
 2r	.
-8r	E
+8r	E major
+8eL	.
 8e	.
-8e	.
-8e	.
+8eJ	.
 =2	=2
-8f#	D
-8a	.
+8f#L	D major
+8aJ	.
 8r	.
 8a	.
-8b	.
-8cc#	.
+8bL	.
+8cc#J	.
 8r	.
 8e	.
 =3	=3
-8f#	C#m
+8f#L	C# minor
 8a	.
 8cc#	.
-8b	.
+8bJ	.
 8r	.
-8a	.
+8aL	.
 8f#	.
-8e	.
+8eJ	.
 =4	=4
-8f#	Bm
+8f#	B minor
 8r	.
-8ee	.
-8cc#	.
-8b	C#
+8eeL	.
+8cc#J	.
+8b	C# major
 4a	.
 8a	.
 =5	=5
-8b	F#m
-8cc#	.
+8bL	F# minor
+8cc#J	.
 8r	.
 8e	.
-8f#	E
-8a	.
-8r	C#dim
+8f#L	E major
+8aJ	.
+8r	C# diminished
 8e	.
 =6	=6
-8e	D
+8eL	D major
 8e	.
 8f#	.
-8a	.
-8b	.
-8cc#	.
+8aJ	.
+8bL	.
+8cc#J	.
 8r	.
 8e	.
 =7	=7
-8e	C#m
+8eL	C# minor
 8f#	.
 8cc#	.
-8b	.
-8r	F#m
-8a	.
+8bJ	.
+8r	F# minor
+8aL	.
 8f#	.
-8e	.
+8eJ	.
 =8	=8
-8f#	Bm
+8f#	B minor
 8r	.
-8ee	.
-8cc#	.
-8b	E
+8eeL	.
+8cc#J	.
+8bL	E major
 8a	.
 8b	.
-8a[	.
+[8aJ	.
 =9	=9
-2a_	A
-8a]	Amaj7
+2a_	A major
+8aL]	A major-seventh
 8e	.
 8e	.
-8e	.
+8eJ	.
 =10	=10
-8f#	D
-8a	.
+8f#L	D major
+8aJ	.
 8r	.
 8a	.
-8b	.
-8cc#	.
+8bL	.
+8cc#J	.
 8r	.
 8e	.
 =11	=11
-8f#	C#m
+8f#L	C# minor
 8a	.
 8cc#	.
-8b	.
+8bJ	.
 8r	.
-8a	.
+8aL	.
 8f#	.
-8e	.
+8eJ	.
 =12	=12
-8f#	Bm
+8f#	B minor
 8r	.
-8ee	.
-8cc#	.
-8b	C#
+8eeL	.
+8cc#J	.
+8b	C# major
 4a	.
 8a	.
 =13	=13
-4b	F#m
-8cc#	F
-8cc#	.
-8b	E
-8a	.
-8r	D
+4b	F# minor
+8cc#L	F major
+8cc#J	.
+8bL	E major
+8aJ	.
+8r	D major
 8a	.
 =14	=14
-4dd	Bm
+4dd	B minor
 8cc#	.
 4a	.
 4e	.
 8f#	.
 =15	=15
-8e	C#m
+8eL	C# minor
 8a	.
 8b	.
-8a	.
+8aJ	.
 8r	.
-8e	.
+8eL	.
 8a	.
-8cc#	.
+8cc#J	.
 =16	=16
-8b	D
-8a	.
+8bL	D major
+8aJ	.
 8r	.
 8e	.
-8f#	E
+8f#L	E major
 8a	.
 8g#	.
-8a[	.
+[8aJ	.
 =17	=17
-1a]	A
+1a]	A major
 ==	==
 *-	*-

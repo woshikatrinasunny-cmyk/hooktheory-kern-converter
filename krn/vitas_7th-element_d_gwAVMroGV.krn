@@ -16,39 +16,39 @@
 *f:	*
 *M4/4	*
 =1	=1
-8cc	Fm7
-16b-[	.
-16b-]	Fm7
+8ccL	F minor-seventh
+[16b-L	.
+16b-J]	F minor-seventh
 8b-	.
-8a-	Fm7
-8b-	.
-8a-	Fm7
-16b-[	.
-16b-]	Fm7
-8a-	.
+8a-J	F minor-seventh
+8b-L	.
+8a-	F minor-seventh
+[16b-L	.
+16b-J]	F minor-seventh
+8a-J	.
 =2	=2
-8.b-	Cadd(3,5,7,10)
-8cc	Cadd(3,5,7,10)
+8.b-L	C other-3,5,7,10
+8ccJ	C other-3,5,7,10
 16r	.
-4r	Cadd(3,5,7,10)
-8r	Cadd(3,5,7,10)
-16e-[	.
-16e-]	Cadd(3,5,7,10)
-8f	.
+4r	C other-3,5,7,10
+8r	C other-3,5,7,10
+[16e-LL	.
+16e-J]	C other-3,5,7,10
+8fJ	.
 =3	=3
-8.b-	B-m9
-8.a-	B-m9
-8e-	B-m9
-8f[	.
-8f]	B-m9
-16a-[	.
-8.a-_	B-m9
+8.b-L	B- minor-ninth
+8.a-	B- minor-ninth
+8e-J	B- minor-ninth
+[8fL	.
+8f]	B- minor-ninth
+[16a-k	.
+8.a-J_	B- minor-ninth
 =4	=4
-8.a-_	B-m9
-16a-]	B-m9
+8.a-L_	B- minor-ninth
+16a-Jk]	B- minor-ninth
 8r	.
-4r	B-m9
-8.r	B-m9
-8.r	E-add(2,4,7)
+4r	B- minor-ninth
+8.r	B- minor-ninth
+8.r	E- other-2,4,7
 ==	==
 *-	*-

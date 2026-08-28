@@ -16,59 +16,59 @@
 *b:	*
 *M4/4	*
 =1	=1
-1r	Bm
+1r	B minor
 =2	=2
-1r	Aadd(2,4,5,7,9)
+1r	A other-2,4,5,7,9
 =3	=3
-1r	Gmaj7
+1r	G major-seventh
 =4	=4
-1r	F#add(5,7,8,10)
+1r	F# other-5,7,8,10
 =5	=5
-2dd	Gmaj7
-4cc#	G#dim7
+2dd	G major-seventh
+4cc#	G# diminished-seventh
 4b	.
 =6	=6
-2a	A
-4a#	C#dim7/G
+2a	A major
+4a#	C# diminished-seventh/G
 4g	.
 =7	=7
-2f#	D/F#
-8g	Gadd(2,4,7)
-16f#	.
-16e[	.
-8e]	G
-8d	Gmaj7
+2f#	D major/F#
+8gL	G other-2,4,7
+16f#L	.
+[16eJ	.
+8e]	G major
+8dJ	G major-seventh
 =8	=8
-4e	E7/G#
-8.B	.
-16c#	.
-4c#[	A
-4c#]	F#/A#
+4e	E dominant/G#
+8.BL	.
+16c#Jk	.
+[4c#	A major
+4c#]	F# major/A#
 =9	=9
-4r	G
+4r	G major
 4dd	.
-4ee	G#dim7
+4ee	G# diminished-seventh
 4ff#	.
 =10	=10
-4ee	A
-12a	.
+4ee	A major
+12aL	.
 12cc#	.
-12ee	.
-4gg	C#dim7/G
-8ff#	.
-8ee	.
+12eeJ	.
+4gg	C# diminished-seventh/G
+8ff#L	.
+8eeJ	.
 =11	=11
-2aa	D/F#
-4dd[	G
-8dd_	Gadd(2,4,7)
-16dd_	G
-16dd]	Gmaj7
+2aa	D major/F#
+[4dd	G major
+8ddL_	G other-2,4,7
+16ddL_	G major
+16ddJJ]	G major-seventh
 =12	=12
-8bb[	Eadd(2,4,7)/G#
-8bb]	E/G#
-4ee	E7/G#
-8cc#[	Aadd(2,4,7)
-8cc#_	A
-4cc#]	F#/A#
+[8bbL	E other-2,4,7/G#
+8bbJ]	E major/G#
+4ee	E dominant/G#
+[8cc#L	A other-2,4,7
+8cc#J_	A major
+4cc#]	F# major/A#
 ==	==
 *-	*-

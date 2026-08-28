@@ -15,84 +15,84 @@
 *g:	*
 *M4/4	*
 =1	=1
-1r	GmMaj7
+1r	G major-minor
 =2	=2
 1r	.
 =3	=3
-1r	Dm
+1r	D minor
 =4	=4
 1r	.
 =5	=5
-1r	GmMaj7
+1r	G major-minor
 =6	=6
 1r	.
 =7	=7
-1r	Dm
+1r	D minor
 =8	=8
 1r	.
 =9	=9
 *k[]	*
 *a:	*
-1r	AmMaj7
+1r	A major-minor
 =10	=10
 1r	.
 =11	=11
-1r	Em
+1r	E minor
 =12	=12
 1r	.
 =13	=13
-1r	AmMaj7
+1r	A major-minor
 =14	=14
 1r	.
 =15	=15
-1r	Em
+1r	E minor
 =16	=16
 1r	.
 =17	=17
 *k[f#c#g#]	*
 *f#:	*
-1ff#[	Bm/D
+[1ff#	B minor/D
 =18	=18
 2ff#]	.
 2gg#	.
 =19	=19
-1aa[	F#m/C#
+[1aa	F# minor/C#
 =20	=20
 2.aa]	.
 4r	.
 =21	=21
-1ff#[	Bm/D
+[1ff#	B minor/D
 =22	=22
 2ff#]	.
 2gg#	.
 =23	=23
-1aa[	F#m/A
+[1aa	F# minor/A
 =24	=24
 2.aa]	.
 4r	.
 =25	=25
 *k[f#c#g#d#]	*
 *c#:	*
-1gg#[	C#mMaj7
+[1gg#	C# major-minor
 =26	=26
 2gg#]	.
 2aa#	.
 =27	=27
-1bb[	G#m/D#
+[1bb	G# minor/D#
 =28	=28
 2..bb]	.
 8r	.
 =29	=29
-1gg#[	C#mMaj7/E
+[1gg#	C# major-minor/E
 =30	=30
 2gg#]	.
 2aa#	.
 =31	=31
-1bb[	G#mMaj7
+[1bb	G# major-minor
 =32	=32
 1bb]	.
 =33	=33
-4c#	C#m
+4c#	C# minor
 2.r	.
 ==	==
 *-	*-

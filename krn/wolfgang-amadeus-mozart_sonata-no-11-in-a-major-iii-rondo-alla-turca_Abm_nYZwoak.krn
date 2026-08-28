@@ -16,80 +16,80 @@
 *A:	*
 *M2/4	*
 =1	=1
-4ccc#	A
-8aa	.
-8bb	.
+4ccc#	A major
+8aaL	.
+8bbJ	.
 =2	=2
-8ccc#	.
-8bb	.
-8aa	.
-8gg#	.
+8ccc#L	.
+8bbJ	.
+8aaL	.
+8gg#J	.
 =3	=3
-8ff#	D
-8gg#	.
-8aa	D#dim
-8bb	.
+8ff#L	D major
+8gg#J	.
+8aaL	D# diminished
+8bbJ	.
 =4	=4
-8gg#	E
-8ee	.
-8aa	.
-8bb	.
+8gg#L	E major
+8eeJ	.
+8aaL	.
+8bbJ	.
 =5	=5
-4ccc#	A
-8aa	.
-8bb	.
+4ccc#	A major
+8aaL	.
+8bbJ	.
 =6	=6
-8ccc#	.
-8bb	.
-8aa	.
-8gg#	.
+8ccc#L	.
+8bbJ	.
+8aaL	.
+8gg#J	.
 =7	=7
-8ff#	D
-8bb	.
-8gg#	E
-8ee	.
+8ff#L	D major
+8bbJ	.
+8gg#L	E major
+8eeJ	.
 =8	=8
-4aa	A
-8aa	.
-8bb	.
+4aa	A major
+8aaL	.
+8bbJ	.
 =9	=9
-4ccc#	A
-8aa	.
-8bb	.
+4ccc#	A major
+8aaL	.
+8bbJ	.
 =10	=10
-8ccc#	.
-8bb	.
-8aa	.
-8gg#	.
+8ccc#L	.
+8bbJ	.
+8aaL	.
+8gg#J	.
 =11	=11
-8ff#	D
-8gg#	.
-8aa	D#dim
-8bb	.
+8ff#L	D major
+8gg#J	.
+8aaL	D# diminished
+8bbJ	.
 =12	=12
-8gg#	E
-8ee	.
-8aa	.
-8bb	.
+8gg#L	E major
+8eeJ	.
+8aaL	.
+8bbJ	.
 =13	=13
-4ccc#	A
-8aa	.
-8bb	.
+4ccc#	A major
+8aaL	.
+8bbJ	.
 =14	=14
-8ccc#	.
-8bb	.
-8aa	.
-8gg#	.
+8ccc#L	.
+8bbJ	.
+8aaL	.
+8gg#J	.
 =15	=15
-8ff#	D
-8bb	.
-8gg#	E
-8ee	.
+8ff#L	D major
+8bbJ	.
+8gg#L	E major
+8eeJ	.
 =16	=16
-4aa	A
-16ccc#	.
+4aa	A major
+16ccc#LL	.
 16ddd	.
 16ccc#	.
-16bb	.
+16bbJJ	.
 ==	==
 *-	*-

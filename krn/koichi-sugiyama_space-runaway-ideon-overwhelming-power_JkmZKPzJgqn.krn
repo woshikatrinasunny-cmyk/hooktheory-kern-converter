@@ -15,7 +15,7 @@
 *g:	*
 *M4/4	*
 =1	=1
-2r	Gm7
+2r	G minor-seventh
 2d	.
 =2	=2
 2a	.
@@ -23,77 +23,77 @@
 =3	=3
 1f	.
 =4	=4
-4r	Gm7
+4r	G minor-seventh
 4r	.
 2f	.
 =5	=5
-1e-	E-/G
+1e-	E- major/G
 =6	=6
 2r	.
-2f	G7sus2
+2f	G dominant-seventh-suspended-second
 =7	=7
-1g	Gm
+1g	G minor
 =8	=8
-4r	Gm
+4r	G minor
 4r	.
 2g	.
 =9	=9
-1dd	Cm
+1dd	C minor
 =10	=10
 1cc	.
 =11	=11
-2ff	D7
+2ff	D dominant
 2ee-	.
 =12	=12
 2dd	.
 2cc	.
 =13	=13
-1dd[	Gm
+[1dd	G minor
 =14	=14
-6...dd_	B-/F
-6...dd_	Edim
-4.dd]	E-
+6...dd_	B- major/F
+6...dd_	E diminished
+4.dd]	E- major
 =15	=15
-1dd[	D7
+[1dd	D dominant
 =16	=16
-1dd_	A-7
+1dd_	A- dominant
 =17	=17
-1dd_	D7
+1dd_	D dominant
 =18	=18
-1dd]	A-7
+1dd]	A- dominant
 =19	=19
-16d	D7
+16dLL	D dominant
 16en	.
 16g-	.
 16a-	.
 16en	.
 16g-	.
 16a-	.
-16b-	.
-16g-	.
+16b-JJ	.
+16g-LL	.
 16a-	.
 16b-	.
 16cc	.
 16a-	.
 16b-	.
 16cc	.
-16dd	.
+16ddJJ	.
 =20	=20
-16b-	A-7
+16b-LL	A- dominant
 16cc	.
 16dd	.
 16een	.
 16cc	.
 16dd	.
 16een	.
-16gg-	.
-16dd	.
+16gg-JJ	.
+16ddLL	.
 16een	.
 16gg-	.
 16aa-	.
 16een	.
 16gg-	.
 16aa-	.
-16bb-	.
+16bb-JJ	.
 ==	==
 *-	*-

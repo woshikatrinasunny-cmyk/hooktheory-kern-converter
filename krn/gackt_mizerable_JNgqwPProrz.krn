@@ -16,63 +16,63 @@
 *E:	*
 *M4/4	*
 =1	=1
-2.r	Emaj7
-8B	.
-8B	.
+2.r	E major-seventh
+8BL	.
+8BJ	.
 =2	=2
 4b	.
 4a	.
 4g#	.
-8f#	.
-8f#	.
+8f#L	.
+8f#J	.
 =3	=3
-4g#	Bm7
+4g#	B minor-seventh
 8f#	.
 3...f#	.
 =4	=4
 1r	.
 =5	=5
-2.r	Emaj7
-8B	.
-8B	.
+2.r	E major-seventh
+8BL	.
+8BJ	.
 =6	=6
 4a	.
-8g#	.
-8g#	.
+8g#L	.
+8g#J	.
 4f#	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 =7	=7
-4g#	Bm7
+4g#	B minor-seventh
 8f#	.
 4f#	.
 4g#	.
-8g#[	.
+[8g#	.
 =8	=8
 8g#]	.
 4e	.
 4A	.
 4.c#	.
 =9	=9
-2.r	Amaj7
+2.r	A major-seventh
 4a	.
 =10	=10
+8eL	.
 8e	.
 8e	.
-8e	.
-8e	.
-8e	.
-8e	.
+8eJ	.
+8eL	.
+8eJ	.
 4f#	.
 =11	=11
-8d#	G#m7
+8d#L	G# minor-seventh
 8e	.
-8d#	.
+8d#J	.
 3...B	.
 =12	=12
 1r	.
 =13	=13
-2..r	Amaj7
+2..r	A major-seventh
 8A	.
 =14	=14
 8c#	.
@@ -81,8 +81,8 @@
 4c#	.
 8cc#	.
 =15	=15
-1b	Bsus4
+1b	B suspended-fourth
 =16	=16
-1r	B/D#
+1r	B major/D#
 ==	==
 *-	*-

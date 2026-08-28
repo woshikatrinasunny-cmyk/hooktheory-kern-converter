@@ -15,20 +15,20 @@
 *F:	*
 *M4/4	*
 =1	=1
-2.r	F
-4dd[	.
+2.r	F major
+[4dd	.
 =2	=2
 8dd]	.
 4r	.
+16ddLL	.
+16ccJJ	.
+16ddLL	F major
+16cc	.
 16dd	.
-16cc	.
-16dd	F
-16cc	.
-16dd	.
-16cc	.
-4ee[	F
+16ccJJ	.
+[4ee	F major
 =3	=3
-16ee]	Am/E
+16ee]	A minor/E
 6...cc	.
 8.cc	.
 8.cc	.
@@ -37,43 +37,43 @@
 4cc	.
 8r	.
 8cc	.
-16cc	Am/E
+16ccLL	A minor/E
 16cc	.
 16cc	.
-16cc	.
-4ee[	Am/E
+16ccJJ	.
+[4ee	A minor/E
 =5	=5
-16ee]	Am7b5/E-
+16ee]	A half-diminished/E-
 6...ee-	.
 2r	.
-8dd[	.
+[8dd	.
 =6	=6
-8dd]	D7
+8dd]	D dominant
 6...r	.
 16dd	.
+16ddLL	.
 16dd	.
 16dd	.
-16dd	.
-16dd	.
+16ddJ	.
 8ee	.
-8ff	.
+8ffJ	.
 =7	=7
-4ff	Gm
-8r	Am
+4ff	G minor
+8r	A minor
 8dd	.
-8r	B-
-8aa	.
-8aa	C
-8aa	.
+8r	B- major
+8aaL	.
+8aa	C major
+8aaJ	.
 =8	=8
-8bb-	Gm
-16aa	.
-16gg	.
-8ff	Am
-8dd	.
-8cc	B-
+8bb-L	G minor
+16aaL	.
+16ggJ	.
+8ff	A minor
+8ddJ	.
+8ccL	B- major
 8cc	.
-8cc	C
-8aa	.
+8cc	C major
+8aaJ	.
 ==	==
 *-	*-

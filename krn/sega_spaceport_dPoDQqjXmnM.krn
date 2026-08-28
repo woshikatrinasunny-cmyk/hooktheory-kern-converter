@@ -15,49 +15,49 @@
 *g:	*
 *M4/4	*
 =1	=1
-4fff	E-add(2,4,7)
+4fff	E- other-2,4,7
 4bb-	.
 4ccc	.
-8ff	.
-8fff[	Dm
+8ffL	.
+[8fffJ	D minor
 =2	=2
 8fff]	.
 4bb-	.
 4ccc	.
 4.ddd	.
 =3	=3
-4fff	E-add(2,4,7)
+4fff	E- other-2,4,7
 4bb-	.
 4ccc	.
-8ff	.
-8fff[	Dm
+8ffL	.
+[8fffJ	D minor
 =4	=4
 8fff]	.
 4bb-	.
 4ccc	.
-8bbb-	.
+8bbb-L	.
 8aaa	.
-8ggg	.
+8gggJ	.
 =5	=5
-4fff	E-add(2,4,7)
+4fff	E- other-2,4,7
 4bb-	.
 4ccc	.
-8ff	.
-8fff[	Dm
+8ffL	.
+[8fffJ	D minor
 =6	=6
 8fff]	.
 4bb-	.
 4ccc	.
 4.ddd	.
 =7	=7
-8bb-	Cm
+8bb-	C minor
 8r	.
-8bb-	.
+8bb-L	.
+8ggJ	.
+8bb-L	.
 8gg	.
 8bb-	.
-8gg	.
-8bb-	.
-8bb-	Dm
+8bb-J	D minor
 =8	=8
 8r	.
 8ccc	.

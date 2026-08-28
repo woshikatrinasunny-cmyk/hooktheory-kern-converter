@@ -16,42 +16,42 @@
 *d:	*
 *M4/4	*
 =1	=1
-1r	Dm7
+1r	D minor-seventh
 =2	=2
-2r	Dm7
+2r	D minor-seventh
 4dd	.
 4ee	.
 =3	=3
-4dd	Cadd(2,4,7)
+4dd	C other-2,4,7
 2cc	.
 4r	.
 =4	=4
-8ee	Cadd(2,4,7)
+8eeL	C other-2,4,7
 8ff	.
 8ee	.
+8ffJ	.
+8eeL	.
 8ff	.
 8ee	.
-8ff	.
-8ee	.
-8ff	.
+8ffJ	.
 =5	=5
-1r	Dm7
+1r	D minor-seventh
 =6	=6
-2r	Dm7
+2r	D minor-seventh
 4dd	.
 4ee	.
 =7	=7
-4dd	Fmaj7
+4dd	F major-seventh
 2cc	.
 4r	.
 =8	=8
-8a	Fmaj7
+8aL	F major-seventh
 8b-	.
 8a	.
+8b-J	.
+8aL	.
 8b-	.
 8a	.
-8b-	.
-8a	.
-8b-	.
+8b-J	.
 ==	==
 *-	*-

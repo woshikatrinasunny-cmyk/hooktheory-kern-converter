@@ -20,72 +20,72 @@
 4a	.
 4dd	.
 =2	=2
-2dd	D
+2dd	D major
 4.r	.
 8dd	.
 =3	=3
-4.ee	Em
+4.ee	E minor
 8dd	.
 4.ee	.
 8aa	.
 =4	=4
-8ff#	D
-8ee	.
+8ff#L	D major
+8eeJ	.
 4dd	.
 2r	.
 =5	=5
-2r	F#m/C#
+2r	F# minor/C#
 4.a	.
 8dd	.
 =6	=6
-4.dd	Bm
+4.dd	B minor
 2r	.
 8dd	.
 =7	=7
-4.ee	E7/B
+4.ee	E dominant/B
 8dd	.
 4.ee	.
 8dd	.
 =8	=8
-4b	A
+4b	A major
 4.a	.
 4.r	.
 =9	=9
-2..r	C#m/G#
+2..r	C# minor/G#
 8a	.
 =10	=10
-4b	G
+4b	G major
 4dd	.
 4.r	.
 8dd	.
 =11	=11
-4.cc#	F#7
+4.cc#	F# dominant
 8dd	.
 4.ee	.
 8ff#	.
 =12	=12
-4dd	Bm
+4dd	B minor
 4ff#	.
 4.r	.
 8dd	.
 =13	=13
-8gg	Em
+8ggL	E minor
 8ff#	.
 8ee	.
-8dd	.
-8gg	.
+8ddJ	.
+8ggL	.
 8ff#	.
 8ee	.
-8dd	.
+8ddJ	.
 =14	=14
-8gg	G/D
+8ggL	G major/D
 8ff#	.
 8ee	.
-8dd	.
-4b	A/C#
-4a[	.
+8ddJ	.
+4b	A major/C#
+[4a	.
 =15	=15
 2a]	.
-2r	A
+2r	A major
 ==	==
 *-	*-

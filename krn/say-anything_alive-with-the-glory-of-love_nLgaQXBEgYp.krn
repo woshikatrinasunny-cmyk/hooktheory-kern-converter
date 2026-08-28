@@ -15,11 +15,11 @@
 *A:	*
 *M4/4	*
 =1	=1
-1cc#[	D
+[1cc#	D major
 =2	=2
 1cc#]	.
 =3	=3
-2.r	F#m
+2.r	F# minor
 4cc#	.
 =4	=4
 4cc#	.
@@ -27,7 +27,7 @@
 4cc#	.
 4cc#	.
 =5	=5
-4b	E
+4b	E major
 4b	.
 2r	.
 =6	=6
@@ -36,23 +36,23 @@
 4cc#	.
 4cc#	.
 =7	=7
-4b	Bm
-4a[	.
-4a]	Bsus2
+4b	B minor
+[4a	.
+4a]	B suspended-second
 4r	.
 =8	=8
-2cc#	Bsus4
-2b	Bsus2
+2cc#	B suspended-fourth
+2b	B suspended-second
 =9	=9
-4b	D
+4b	D major
 2.a	.
 =10	=10
 4r	.
 2ee	.
-8cc#	.
-8dd	.
+8cc#L	.
+8ddJ	.
 =11	=11
-2cc#	F#m
+2cc#	F# minor
 4r	.
 4cc#	.
 =12	=12
@@ -61,7 +61,7 @@
 4cc#	.
 4cc#	.
 =13	=13
-4b	E
+4b	E major
 4b	.
 2r	.
 =14	=14
@@ -70,13 +70,13 @@
 4cc#	.
 4cc#	.
 =15	=15
-4b	Bm
-4a[	.
-4a]	Bsus2
+4b	B minor
+[4a	.
+4a]	B suspended-second
 4r	.
 =16	=16
-2cc#	Bsus4
-4.b	Bsus2
+2cc#	B suspended-fourth
+4.b	B suspended-second
 8b	.
 ==	==
 *-	*-

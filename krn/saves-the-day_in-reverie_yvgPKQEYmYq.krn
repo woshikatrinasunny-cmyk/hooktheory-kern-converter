@@ -16,89 +16,89 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8e#	E#m
+8e#L	E# minor
 8e#	.
 8e#	.
-8e#	.
-8an	E#
+8e#J	.
+8anL	E# major
 8an	.
 8an	.
-8an	.
+8anJ	.
 =2	=2
-8a#	F#
+8a#L	F# major
 8a#	.
 8a#	.
-8a#	.
+8a#J	.
+8f#L	.
 8f#	.
 8f#	.
-8f#	.
-8d#	.
+8d#J	.
 =3	=3
-8e#	E#m
+8e#L	E# minor
 8e#	.
 8e#	.
-8e#	.
-8an	E#
+8e#J	.
+8anL	E# major
 8an	.
 8an	.
-8a#	.
+8a#J	.
 =4	=4
-8f#	F#
+8f#L	F# major
 8f#	.
 8f#	.
+8f#J	.
+8f#L	.
 8f#	.
 8f#	.
-8f#	.
-8f#	.
-8f#	.
+8f#J	.
 =5	=5
-8e#	E#m
+8e#L	E# minor
 8d#	.
 8e#	.
-8d#	.
-4e#	E#
+8d#J	.
+4e#	E# major
 4d#	.
 =6	=6
-4.c#	F#
+4.c#	F# major
 4.A#	.
 4r	.
 =7	=7
-8e#	E#m
+8e#L	E# minor
 8d#	.
 8e#	.
-8d#	.
-4e#	E#
+8d#J	.
+4e#	E# major
 4d#	.
 =8	=8
-4.cn	E#m
+4.cn	E# minor
 4.d#	.
 4r	.
 =9	=9
-8e#	E#m
+8e#L	E# minor
 8d#	.
 8e#	.
-8d#	.
-4e#	E#
+8d#J	.
+4e#	E# major
 4d#	.
 =10	=10
-4.c#	F#
+4.c#	F# major
 4.A#	.
-8A#	.
-8A#	.
+8A#L	.
+8A#J	.
 =11	=11
-8e#	E#m
+8e#L	E# minor
 8d#	.
 8e#	.
-8d#	.
-4e#	E#
-8d#	.
-8cn	.
+8d#J	.
+4e#	E# major
+8d#L	.
+8cnJ	.
 =12	=12
-4.cn	G#/C
+4.cn	G# major/C
 8d#	.
-8d#[	.
-8d#_	G#7
-8d#]	G#sus4
+[8d#L	.
+8d#_	G# dominant
+8d#J]	G# suspended-fourth
 8r	.
 ==	==
 *-	*-

@@ -16,78 +16,78 @@
 *F:	*
 *M4/4	*
 =1	=1
-4a	F
-4a-	D-
-4a	F
-4a-	D-
+4a	F major
+4a-	D- major
+4a	F major
+4a-	D- major
 =2	=2
-4a	F
-2.cc	Am
+4a	F major
+2.cc	A minor
 =3	=3
-4a	D
-4a-	E
-4a	F
-4cc	A-
+4a	D major
+4a-	E major
+4a	F major
+4cc	A- major
 =4	=4
 *k[f#c#g#d#]	*
 *E:	*
-4cc#	F#m
-2.ee	C#m
+4cc#	F# minor
+2.ee	C# minor
 =5	=5
-4dd#	G#m/B
-4gg#	C#m
-4dd#	B
-4b	G#m
+4dd#	G# minor/B
+4gg#	C# minor
+4dd#	B major
+4b	G# minor
 =6	=6
-4cc#	A
-4ee	E
-4a#	F#
-4dd#	D#/G
+4cc#	A major
+4ee	E major
+4a#	F# major
+4dd#	D# major/G
 =7	=7
-4b	G#m
-4e	C#m
-4c#	A
+4b	G# minor
+4e	C# minor
+4c#	A major
 4e	.
 =8	=8
-1g#	E
+1g#	E major
 =9	=9
-4g#	C#
-4gn	D#
-4g#	E
-4gn	C
+4g#	C# major
+4gn	D# major
+4g#	E major
+4gn	C major
 =10	=10
-4g#	E
-2.b	G#m
+4g#	E major
+2.b	G# minor
 =11	=11
 *k[f#c#g#]	*
 *A:	*
-4cc#	A
-4ccn	F
-4cc#	A
-4ccn	F
+4cc#	A major
+4ccn	F major
+4cc#	A major
+4ccn	F major
 =12	=12
-4cc#	A
-2ff#	F#7/A#
-4ggn	A7
+4cc#	A major
+2ff#	F# dominant/A#
+4ggn	A dominant
 =13	=13
 *k[f#c#g#d#]	*
 *E:	*
-4gg#	E
+4gg#	E major
 4b	.
-4ccn	Cdim/D#
-4cc#	C#m
+4ccn	C diminished/D#
+4cc#	C# minor
 =14	=14
-4gg#	G#/C
-4ccn	G#
-4cc#	C#m/E
-4ee	C#m
+4gg#	G# major/C
+4ccn	G# major
+4cc#	C# minor/E
+4ee	C# minor
 =15	=15
-4gg#	Amaj7
+4gg#	A major-seventh
 4ff#	.
-4gg#	G#7sus4/D#
+4gg#	G# dominant-seventh-suspended-fourth/D#
 4aa	.
 =16	=16
-2ee	G#add(4,7,8,10)
-2dd#	G#7
+2ee	G# other-4,7,8,10
+2dd#	G# dominant
 ==	==
 *-	*-

@@ -16,29 +16,29 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.f	F
+4.f	F major
 4.e	.
 4c	.
 =2	=2
-2d[	.
-2d]	Gm
+[2d	.
+2d]	G minor
 =3	=3
-4.e	Dadd(2,3,7)
+4.e	D other-2,3,7
 4.c	.
 4f	.
 =4	=4
-2d[	.
-2d]	Gm
+[2d	.
+2d]	G minor
 =5	=5
-4.f	F
+4.f	F major
 4.e	.
 4c	.
 =6	=6
-2d[	.
-2d]	Gm
+[2d	.
+2d]	G minor
 =7	=7
-1r	Dsus4
+1r	D suspended-fourth
 =8	=8
-1r	Dm
+1r	D minor
 ==	==
 *-	*-

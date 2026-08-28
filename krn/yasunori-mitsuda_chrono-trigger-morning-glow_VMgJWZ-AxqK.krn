@@ -15,35 +15,35 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	Cmaj7sus2
+1r	C major-seventh-suspended-second
 =2	=2
-3...r	Fmaj7sus2
-8c	.
+3...r	F major-seventh-suspended-second
+8cL	.
 8d	.
-8g	.
+8gJ	.
 =3	=3
-2.e	Cmaj7sus2
+2.e	C major-seventh-suspended-second
 4c	.
 =4	=4
-3...A	Fmaj7sus2
-8c	.
+3...A	F major-seventh-suspended-second
+8cL	.
 8d	.
-8g	.
+8gJ	.
 =5	=5
-4a	E7sus4
+4a	E dominant-seventh-suspended-fourth
 2b	.
-8b	.
-8g	.
+8bL	.
+8gJ	.
 =6	=6
-3...e	A7sus4
-8e	.
-16a	.
-16g	.
-8c	.
+3...e	A dominant-seventh-suspended-fourth
+8eL	.
+16aL	.
+16gJ	.
+8cJ	.
 =7	=7
-2.d	Gadd(2,3,7)/A#
+2.d	G other-2,3,7/A#
 4d	.
 =8	=8
-1e	A
+1e	A major
 ==	==
 *-	*-

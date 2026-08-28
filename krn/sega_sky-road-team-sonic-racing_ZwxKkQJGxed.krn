@@ -16,29 +16,29 @@
 *D:	*
 *M4/4	*
 =1	=1
-2f#	Gmaj7
+2f#	G major-seventh
 2a	.
 =2	=2
-2ee	F#add(1,7,10)
+2ee	F# other-1,7,10
 4dd	.
-8cc#	.
-8dd[	.
+8cc#L	.
+[8ddJ	.
 =3	=3
-1dd]	Bm
+1dd]	B minor
 =4	=4
-1r	Badd(2,3,7)
+1r	B other-2,3,7
 =5	=5
-2f#	Gmaj7
+2f#	G major-seventh
 2a	.
 =6	=6
-2ee	F#add(1,7,10)
+2ee	F# other-1,7,10
 4dd	.
-8ee	.
-8ff#[	.
+8eeL	.
+[8ff#J	.
 =7	=7
-1ff#]	Gmaj7
+1ff#]	G major-seventh
 =8	=8
-1ee[	A7
+[1ee	A dominant
 =9	=9
 1ee]	.
 ==	==

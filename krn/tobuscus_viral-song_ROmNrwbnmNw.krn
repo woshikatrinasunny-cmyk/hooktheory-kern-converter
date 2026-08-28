@@ -16,72 +16,72 @@
 *F:	*
 *M4/4	*
 =1	=1
-4ff	F
+4ff	F major
 4ff	.
-8cc	C
+8ccL	C major
 8cc	.
 8cc	.
-8cc	.
+8ccJ	.
 =2	=2
-8b-	B-
+8b-L	B- major
 8b-	.
 8b-	.
-8b-	.
-8b-	.
+8b-J	.
+8b-L	.
 8a	.
 8f	.
-8g	C
+8gJ	C major
 =3	=3
-8ff	F
+8ffL	F major
 8ff	.
 8ff	.
-8ff	.
-8cc	C
+8ffJ	.
+8ccL	C major
 8cc	.
 8cc	.
-8cc	.
+8ccJ	.
 =4	=4
-8b-	B-
+8b-L	B- major
 8b-	.
 8b-	.
-8b-	.
-8b-	.
+8b-J	.
+8b-L	.
 8a	.
 8f	.
-8g	F
+8gJ	F major
 =5	=5
-16ff	F
+16ffLL	F major
 16ff	.
 16ff	.
-16ff	.
+16ffJ	.
 8ff	.
-8ff	.
-4cc	C
+8ffJ	.
+4cc	C major
 4cc	.
 =6	=6
-8b-	B-
+8b-L	B- major
 8b-	.
 8b-	.
-8b-	.
-8b-	.
+8b-J	.
+8b-L	.
 8a	.
 8a	.
-8b-	C
+8b-J	C major
 =7	=7
-8f	F
+8fL	F major
 8f	.
 8f	.
-8f	.
-4cc	C
+8fJ	.
+4cc	C major
 4cc	.
 =8	=8
-8b-	B-
+8b-L	B- major
 8b-	.
 8b-	.
-8a	.
-8b-	.
+8aJ	.
+8b-L	.
 8a	.
 8g	.
-8f	F
+8fJ	F major
 ==	==
 *-	*-

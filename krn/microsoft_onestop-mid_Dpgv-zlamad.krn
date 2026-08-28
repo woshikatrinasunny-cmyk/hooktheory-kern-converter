@@ -17,66 +17,66 @@
 *M4/4	*
 =1	=1
 8r	.
-8a	.
+8aL	.
 8cc	.
-8dd-	.
-8dd	.
+8dd-J	.
+8ddL	.
 8ff	.
 8aa-	.
-8ff[	Bm7b5
+[8ffJ	B half-diminished
 =2	=2
 4ff]	.
 8dd	.
 8r	.
-8ff	.
-8gg	.
+8ffL	.
+8ggJ	.
 8r	.
-8aa-[	B-m9
+[8aa-	B- minor-ninth
 =3	=3
 4aa-]	.
-8gg	D-add(2,6,7,9,11)
-16ff	D-maj7
+8ggL	D- other-2,6,7,9,11
+16ffJk	D- major-seventh
 16r	.
-8e-	.
+8e-L	.
 8d	.
 8d-	.
-8c[	.
+[8cJ	.
 =4	=4
-8c]	Am7b5
+8c]	A half-diminished
 4.cc	.
 8ee-	.
 8r	.
 8gg	.
 8r	.
 =5	=5
-4.aa-	G-add(2,4,6,8,9,11)/D
-8aa	Dadd(2,4,7,9,10)
-8d	.
+4.aa-	G- other-2,4,6,8,9,11/D
+8aa	D other-2,4,7,9,10
+8dL	.
 8f	.
 8a-	.
-8a[	.
+[8aJ	.
 =6	=6
-4a]	G9
+4a]	G dominant-ninth
 2ff	.
-16dd	Dadd(3,4,7,8,10)
+16dd	D other-3,4,7,8,10
 8.r	.
 =7	=7
-8ff	G9
+8ffL	G dominant-ninth
 8aa	.
 8bb-	.
-8bbn	.
+8bbnJ	.
 8ccc	.
-4.aa-	Cadd(3,4,8,10)
+4.aa-	C other-3,4,8,10
 =8	=8
-4ff	F9
+4ff	F dominant-ninth
 4r	.
-4fff	B-/D
+4fff	B- major/D
 4r	.
 =9	=9
-4fff	Bdim/D
+4fff	B diminished/D
 8r	.
-4fff	Dadd(3,10)
+4fff	D other-3,10
 8r	.
-4fff	F
+4fff	F major
 ==	==
 *-	*-

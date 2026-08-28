@@ -16,98 +16,98 @@
 *C#:	*
 *M4/4	*
 =1	=1
-2r	C#sus2
-16c#	.
+2r	C# suspended-second
+16c#LK	.
 8d#	.
 8e#	.
 8e#	.
-16e#[	.
+[16e#Jk	.
 =2	=2
-4e#]	Bsus2
+4e#]	B suspended-second
 8.c#	.
 8A#	.
-8A#	.
+8A#L	.
 8A#	.
 8G#	.
-16G#[	.
+[16G#Jk	.
 =3	=3
-16G#]	C#sus2
+16G#]	C# suspended-second
 6...r	.
 8e#	.
-16e#	.
+16e#LK	.
 8f#	.
 8g#	.
 8a#	.
-16f#[	.
+[16f#Jk	.
 =4	=4
-16f#]	Bsus2
+16f#]	B suspended-second
 8.r	.
-16f#	.
-8f#	.
+16f#LK	.
+8f#J	.
 8b	.
-8a#	.
+8a#L	.
 8g#	.
 8a#	.
-16g#[	.
+[16g#Jk	.
 =5	=5
-4g#]	C#sus2
+4g#]	C# suspended-second
 8r	.
 16g#	.
 8cc#	.
-8g#	.
+8g#L	.
 8g#	.
 8b	.
-16b[	.
+[16bJk	.
 =6	=6
-16b]	Bsus2
+16b]	B suspended-second
 8.r	.
-16b	.
+16bLK	.
+8bJ	.
+8a#	.
+8a#L	.
 8b	.
 8a#	.
-8a#	.
-8b	.
-8a#	.
-16g#[	.
+[16g#Jk	.
 =7	=7
-4..g#]	C#sus2
+4..g#]	C# suspended-second
 2r	.
 16r	.
 =8	=8
-4.f#	Bsus2
+4.f#	B suspended-second
 4.c#	.
 4B	.
 =9	=9
-2r	B
-8f#	.
-16f#	.
+2r	B major
+8f#L	.
+16f#k	.
 8f#	.
 8e#	.
-16f#	.
+16f#Jk	.
 =10	=10
-2e#	C#add(2,4,7)
+2e#	C# other-2,4,7
 8r	.
-8A#	.
+8A#L	.
 8B	.
-8f#[	.
+[8f#J	.
 =11	=11
-2f#]	G#m9
+2f#]	G# minor-ninth
 4r	.
 4f#	.
 =12	=12
-3...e#	C#add(2,4,7)
-8A#	.
+3...e#	C# other-2,4,7
+8A#L	.
 8B	.
-8a#	.
+8a#J	.
 =13	=13
-16g#	G#m9
+16g#LK	G# minor-ninth
 8f#	.
-16e#	.
-8f#	.
+16e#k	.
+8f#J	.
 4e#	.
 8r	.
 4g#	.
 =14	=14
-3...e#	C#add(2,4,7)
+3...e#	C# other-2,4,7
 4.r	.
 ==	==
 *-	*-

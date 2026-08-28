@@ -15,63 +15,63 @@
 *a:	*
 *M4/4	*
 =1	=1
-4r	Am
+4r	A minor
 4a	.
 8r	.
 8a	.
 4a	.
 =2	=2
-4.a	G/B
+4.a	G major/B
 8g	.
 2g	.
 =3	=3
-4r	F
+4r	F major
 4g	.
 4f	.
 4e	.
 =4	=4
-4.e	G
+4.e	G major
 8d	.
 2d	.
 =5	=5
-4r	Am
+4r	A minor
 4a	.
 8r	.
 8a	.
 4a	.
 =6	=6
-4.a	G/B
+4.a	G major/B
 8g	.
 2g	.
 =7	=7
-4r	F
+4r	F major
 4g	.
 4f	.
 4e	.
 =8	=8
-4.e	G
+4.e	G major
 8d	.
 4.d	.
-16c	.
-16d	.
+16cLL	.
+16dJJ	.
 =9	=9
-4e	C
-8d	.
-8c	.
-2c[	F/C
+4e	C major
+8dL	.
+8cJ	.
+[2c	F major/C
 =10	=10
-16c]	C
+16c]	C major
 2.r	.
 16r	.
-16c	.
-16d	.
+16cLL	.
+16dJJ	.
 =11	=11
 4e	.
-8d	.
-8c	.
-2c	F/C
+8dL	.
+8cJ	.
+2c	F major/C
 =12	=12
-2c	C
+2c	C major
 2r	.
 ==	==
 *-	*-

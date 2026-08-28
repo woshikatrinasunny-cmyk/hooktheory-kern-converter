@@ -16,55 +16,55 @@
 *e:	*
 *M4/4	*
 =1	=1
-4b	Cmaj7
+4b	C major-seventh
 4ee	.
-8ff#	Bm7/D
+8ff#L	B minor-seventh/D
 8ee	.
 8b	.
-8ee	.
+8eeJ	.
 =2	=2
-4.ff#	Eadd(2,5,7)
-8gg	Em
-4gg[	.
-4gg]	Dsus4
+4.ff#	E other-2,5,7
+8gg	E minor
+[4gg	.
+4gg]	D suspended-fourth
 =3	=3
-4ee	Cmaj7
-8bb	.
-8aa[	.
-8aa]	Bm7/D
+4ee	C major-seventh
+8bbL	.
+[8aaJ	.
+8aaL]	B minor-seventh/D
 8gg	.
 8ff#	.
-8gg[	.
+[8ggJ	.
 =4	=4
-8gg]	Am7
+8ggL]	A minor-seventh
 8ff#	.
 8ee	.
-8dd	.
-8b	Bm7
-8dd	.
+8ddJ	.
+8bL	B minor-seventh
+8ddJ	.
 4a	.
 =5	=5
-4b	Cmaj7
+4b	C major-seventh
 4ee	.
-8ff#	Bm7/D
+8ff#L	B minor-seventh/D
 8ee	.
 8b	.
-8ee	.
+8eeJ	.
 =6	=6
-4.ff#	Eadd(2,5,7)
-8gg	Em
+4.ff#	E other-2,5,7
+8gg	E minor
 4gg	.
-8gg	Dsus4
-8aa	.
+8ggL	D suspended-fourth
+8aaJ	.
 =7	=7
-2bb[	Cmaj7
-2bb_	Bm7/D
+[2bb	C major-seventh
+2bb_	B minor-seventh/D
 =8	=8
-2bb_	Am7
-4bb]	Bm7
-16aa	.
+2bb_	A minor-seventh
+4bb]	B minor-seventh
+16aaLL	.
 16ff#	.
 16a	.
-16dd	.
+16ddJJ	.
 ==	==
 *-	*-

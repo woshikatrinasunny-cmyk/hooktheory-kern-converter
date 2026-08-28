@@ -16,114 +16,114 @@
 *C:	*
 *M6/4	*
 =1	=1
-4.a	F
-4a	F
-8a[	.
-4.a]	F/C
-4a	F/C
+4.a	F major
+4a	F major
+[8a	.
+4.a]	F major/C
+4a	F major/C
 8a	.
 =2	=2
-4a	F
+4a	F major
 8a	.
-4a	F
+4a	F major
 8a	.
-4g	F/C
+4g	F major/C
 8f	.
-4.f	F/C
+4.f	F major/C
 =3	=3
-4.g	C
-4f	C
-8g[	.
-4.g]	C/G
-8.r	C/G
-16B	.
-8B	.
+4.g	C major
+4f	C major
+[8g	.
+4.g]	C major/G
+8.r	C major/G
+16BLK	.
+8BJ	.
 =4	=4
-4.a	C
-4.a	C
-4g	C
+4.a	C major
+4.a	C major
+4g	C major
 8f	.
-4f	A/C#
+4f	A major/C#
 8c#	.
 =5	=5
-4.d	Dm
-4d	Dm
-8d[	.
-4.d_	Dm/A
-4d]	Dm/A
-16d	.
-16e	.
+4.d	D minor
+4d	D minor
+[8d	.
+4.d_	D minor/A
+4d]	D minor/A
+16dLL	.
+16eJJ	.
 =6	=6
-4.f	Dm
-4.e	Dm
-4.d	Dm/A
-4f	Dm/A
-8g[	.
+4.f	D minor
+4.e	D minor
+4.d	D minor/A
+4f	D minor/A
+[8g	.
 =7	=7
-4.g_	G
-4g]	G
+4.g_	G major
+4g]	G major
 8r	.
-4.r	G/D
-4r	G/D
-8r	Gsus4/D
+4.r	G major/D
+4r	G major/D
+8r	G suspended-fourth/D
 =8	=8
-4.r	Gsus4
-4r	Gsus4
-8r	G/D
-4.r	G
-4r	Am11
+4.r	G suspended-fourth
+4r	G suspended-fourth
+8r	G major/D
+4.r	G major
+4r	A minor-11th
 8d	.
 =9	=9
-4.a#	A#
-4a#	A#
-8a#[	.
-8a#]	A#/F
+4.a#	A# major
+4a#	A# major
+[8a#	.
+8a#]	A# major/F
 4r	.
-4r	A#/F
+4r	A# major/F
 8a#	.
 =10	=10
-4.a#	A#
-4cc	A#
-8a#[	.
-4.a#]	A#/F
-4r	A#/F
+4.a#	A# major
+4cc	A# major
+[8a#	.
+4.a#]	A# major/F
+4r	A# major/F
 8f	.
 =11	=11
-4.cc#	C#
-4.cc#	C#
-4.cc#	C#/G#
-4.a#	C#/G#
+4.cc#	C# major
+4.cc#	C# major
+4.cc#	C# major/G#
+4.a#	C# major/G#
 =12	=12
-4.cc#	C#
-4dd#	C#
-8cc#[	.
-4cc#]	C#
+4.cc#	C# major
+4dd#	C# major
+[8cc#	.
+4cc#]	C# major
 8r	.
-4r	C#
+4r	C# major
 8b	.
 =13	=13
-4.b	G/D
-4b	G/D
-8b[	.
-4.b_	G/D
-8b]	G/D
+4.b	G major/D
+4b	G major/D
+[8b	.
+4.b_	G major/D
+8b]	G major/D
 8r	.
 8dd	.
 =14	=14
-4.dd	Gsus4
-4.dd	Gsus4
-4.dd	Gsus4
-4ee	Gsus4
-8ff[	.
+4.dd	G suspended-fourth
+4.dd	G suspended-fourth
+4.dd	G suspended-fourth
+4ee	G suspended-fourth
+[8ff	.
 =15	=15
-4.ff_	G7
-4.ff_	G7
-4.ff_	G7
-4.ff]	G7
+4.ff_	G dominant
+4.ff_	G dominant
+4.ff_	G dominant
+4.ff]	G dominant
 =16	=16
-4.gg[	G
-4.gg_	G
-4.gg_	G
-4.gg]	G
+[4.gg	G major
+4.gg_	G major
+4.gg_	G major
+4.gg]	G major
 ==	==
 *-	*-

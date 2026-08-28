@@ -15,53 +15,53 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.r	A
-8r	D7/C
-8r	D7
-8r	Aadd(3,5,6,9)/D#
-8r	Eadd(2,3,5,7,8,10)
-8r	A
+4.r	A major
+8r	D dominant/C
+8r	D dominant
+8r	A other-3,5,6,9/D#
+8r	E other-2,3,5,7,8,10
+8r	A major
 =2	=2
 4.r	.
-8r	Eadd(2,3,5,7,8,10)
-8r	Aadd(3,5,6,9)/D#
-8r	D7
-8r	D7/C
-8r	Cadd(1,3,4,6,9)
+8r	E other-2,3,5,7,8,10
+8r	A other-3,5,6,9/D#
+8r	D dominant
+8r	D dominant/C
+8r	C other-1,3,4,6,9
 =3	=3
-4.r	A
-8r	D7/C
-8r	D7
-8r	Aadd(3,5,6,9)/D#
-8r	Eadd(2,3,5,7,8,10)
-8r	A
+4.r	A major
+8r	D dominant/C
+8r	D dominant
+8r	A other-3,5,6,9/D#
+8r	E other-2,3,5,7,8,10
+8r	A major
 =4	=4
 8r	.
-4r	A7/G
-4r	A/E
-8r	D#add(1,6,10)
-8r	Dmaj7sus2
-8r	Cadd(1,3,4,6,9)
+4r	A dominant/G
+4r	A major/E
+8r	D# other-1,6,10
+8r	D major-seventh-suspended-second
+8r	C other-1,3,4,6,9
 =5	=5
-4.r	A
-8r	D7/C
-8r	D7
-8r	Aadd(3,5,6,9)/D#
-8r	Eadd(2,3,5,7,8,10)
-8r	A
+4.r	A major
+8r	D dominant/C
+8r	D dominant
+8r	A other-3,5,6,9/D#
+8r	E other-2,3,5,7,8,10
+8r	A major
 =6	=6
 4.r	.
-8r	Eadd(2,3,5,7,8,10)
-8r	Aadd(3,5,6,9)/D#
-8r	D7
-4r	D7/C
+8r	E other-2,3,5,7,8,10
+8r	A other-3,5,6,9/D#
+8r	D dominant
+4r	D dominant/C
 =7	=7
-4.r	B
-8r	Dadd(1,3,4,6,9)
-8r	Emaj7sus2
-8r	Fadd(1,6,9)
-8r	B/F#
-8r	B
+4.r	B major
+8r	D other-1,3,4,6,9
+8r	E major-seventh-suspended-second
+8r	F other-1,6,9
+8r	B major/F#
+8r	B major
 =8	=8
 1r	.
 ==	==

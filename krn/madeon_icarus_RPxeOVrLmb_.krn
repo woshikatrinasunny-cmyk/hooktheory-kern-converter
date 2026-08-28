@@ -17,73 +17,73 @@
 *M4/4	*
 =1	=1
 4C#	.
-8CC#	.
-16cc#	C#m
+8CC#L	.
+16cc#Jk	C# minor
 8CC#	.
 16r	.
-8CC#	C#m
-4cc#	C#sus4
+8CC#	C# minor
+4cc#	C# suspended-fourth
 =2	=2
-8CC#	.
-8CC#[	C#sus4
-8CC#]	.
+8CC#L	.
+[8CC#	C# suspended-fourth
+8CC#J]	.
 16r	.
 16c#	.
-4f#	Badd(2,4,7)
-4f#	Badd(2,4,7)
+4f#	B other-2,4,7
+4f#	B other-2,4,7
 =3	=3
-4g#	C#m7
-8CC#	C#m
-16f#	.
-16CC#[	C#m
+4g#	C# minor-seventh
+8CC#L	C# minor
+16f#L	.
+[16CC#JJ	C# minor
 16CC#]	.
 16r	.
-8CC#	C#m
-4cc#	C#sus4
+8CC#	C# minor
+4cc#	C# suspended-fourth
 =4	=4
-8CC#	.
-8CC#[	C#sus4
-8CC#]	.
+8CC#L	.
+[8CC#	C# suspended-fourth
+8CC#J]	.
 16r	.
 16c#	.
-4f#	F#m/A
-4f#	Badd(2,4,7)
+4f#	F# minor/A
+4f#	B other-2,4,7
 =5	=5
-4g#	C#m7
-8CC#	.
-16cc#	C#m
+4g#	C# minor-seventh
+8CC#L	.
+16cc#Jk	C# minor
 8CC#	.
 16r	.
-8CC#	C#m
-4cc#	C#sus4
+8CC#	C# minor
+4cc#	C# suspended-fourth
 =6	=6
-8CC#	.
-8CC#[	C#sus4
-8CC#]	.
+8CC#L	.
+[8CC#	C# suspended-fourth
+8CC#J]	.
 16r	.
 16c#	.
-4f#	Badd(2,4,7)
-4f#	Badd(2,4,7)
+4f#	B other-2,4,7
+4f#	B other-2,4,7
 =7	=7
-16ee	.
+16eeLL	.
 16cc#	.
-16dd#	C#m
-16gg#	.
+16dd#	C# minor
+16gg#J	.
 8CC#	.
-16f#	C#sus4
-16CC#[	C#m
+16f#L	C# suspended-fourth
+[16CC#JJ	C# minor
 16CC#]	.
 16r	.
-8CC#	C#m
-4cc#	C#sus4
+8CC#	C# minor
+4cc#	C# suspended-fourth
 =8	=8
-8.cc#	C#sus4
-16gg#	G#m/B
+8.cc#L	C# suspended-fourth
+16gg#L	G# minor/B
 16ff#	.
-16gg#	.
-8.ee	Amaj7
-8.dd#	G#m7
-8cc#	F#m7
-8b	Emaj7
+16gg#JJ	.
+8.ee	A major-seventh
+8.dd#L	G# minor-seventh
+8cc#	F# minor-seventh
+8bJ	E major-seventh
 ==	==
 *-	*-

@@ -16,7 +16,7 @@
 *F:	*
 *M4/4	*
 =1	=1
-2a	F
+2a	F major
 4b-	.
 4cc	.
 =2	=2
@@ -25,14 +25,14 @@
 4b-	.
 4a	.
 =3	=3
-2g	Gm7
+2g	G minor-seventh
 4a	.
 4f	.
 =4	=4
-2g	C7sus4
+2g	C dominant-seventh-suspended-fourth
 2c	.
 =5	=5
-2a	F
+2a	F major
 4b-	.
 4cc	.
 =6	=6
@@ -41,16 +41,16 @@
 4ee	.
 4cc	.
 =7	=7
-4ff	Gm7
+4ff	G minor-seventh
 4ff	.
 4ee	.
 4ff	.
 =8	=8
-2dd	C7sus4
+2dd	C dominant-seventh-suspended-fourth
 4cc	.
 4dd	.
 =9	=9
-4ee	Fmaj7
+4ee	F major-seventh
 4cc	.
 4dd	.
 4a	.
@@ -60,18 +60,18 @@
 4a	.
 4f	.
 =11	=11
-4g	B-maj7
+4g	B- major-seventh
 4d	.
 4f	.
 4c	.
 =12	=12
 4d	.
 4A	.
-8c	.
-8d	.
+8cL	.
+8dJ	.
 4g	.
 =13	=13
-4ff	Fmaj7
+4ff	F major-seventh
 4cc	.
 4dd	.
 4a	.
@@ -81,17 +81,17 @@
 4a	.
 4f	.
 =15	=15
-4g	Gm7
+4g	G minor-seventh
 4d	.
 4f	.
 4c	.
 =16	=16
-8d	C7sus4
-8A	.
+8dL	C dominant-seventh-suspended-fourth
+8AJ	.
 4d	.
-8c	.
+8cL	.
 8d	.
 8f	.
-8g	.
+8gJ	.
 ==	==
 *-	*-

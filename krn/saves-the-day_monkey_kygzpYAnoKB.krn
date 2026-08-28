@@ -15,41 +15,41 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.r	F#m
+4.r	F# minor
 8a	.
 4ee	.
 4ee	.
 =2	=2
-4.ffn	F
+4.ffn	F major
 4cc#	.
 4b	.
-8a[	.
+[8a	.
 =3	=3
-2a]	Eadd(2,5,7)
+2a]	E other-2,5,7
 4r	.
 4e	.
 =4	=4
-4cc#	D#dim
+4cc#	D# diminished
 8cc#	.
 4b	.
 4.a	.
 =5	=5
-2f#	Bm
+2f#	B minor
 4r	.
 4a	.
 =6	=6
-2g#	C#7
+2g#	C# dominant
 4r	.
 4b	.
 =7	=7
-2a	D
+2a	D major
 4r	.
 4a	.
 =8	=8
-4g#	C#7
+4g#	C# dominant
 4g#	.
-4b	E7
-8b	.
-8cc#	.
+4b	E dominant
+8bL	.
+8cc#J	.
 ==	==
 *-	*-

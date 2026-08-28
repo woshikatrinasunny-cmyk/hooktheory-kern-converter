@@ -15,34 +15,34 @@
 *F:	*
 *M4/4	*
 =1	=1
-8dd	B-
-16gg	.
-2ee[	.
-16ee]	.
+8ddL	B- major
+16ggJk	.
+[2ee	.
+16eeLK]	.
 8dd	.
-8cc	.
+8ccJ	.
 =2	=2
-8.dd	C
-8.gg	.
+8.ddL	C major
+8.ggJ	.
 4.ee	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 =3	=3
-8dd	Gadd(2,3,7)
-16gg	.
-2ee[	.
-16ee]	.
+8ddL	G other-2,3,7
+16ggJk	.
+[2ee	.
+16eeLK]	.
 8dd	.
-8ee	.
+8eeJ	.
 =4	=4
-8ff	B-
+8ffL	B- major
 8gg	.
-8ff	B-m
-16ee	E/B
-16bn	.
-16a-	E
+8ff	B- minor
+16eeL	E major/B
+16bnJJ	.
+16a-LL	E major
 16e	.
-16Bn	E/B
-16A-	.
+16Bn	E major/B
+16A-JJ	.
 ==	==
 *-	*-

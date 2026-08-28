@@ -16,100 +16,100 @@
 *G:	*
 *M4/4	*
 =1	=1
-8b	G
+8bL	G major
 8b	.
 8b	.
-16b	G
+16bJk	G major
 8b	.
-8dd	Dm
+8ddL	D minor
 8.dd	.
-8dd	Dm
+8ddJ	D minor
 =2	=2
-8dd	Dm
+8ddL	D minor
+16ccL	.
+[16ccJ	.
+8.cc]	C major
+16bJk	.
+8bL	G major
+16bL	G major
 16cc	.
-16cc[	.
-8.cc]	C
-16b	.
-8b	G
-16b	G
-16cc	.
-16b	F
-8.a[	.
+16bJ	F major
+[8.aJ	.
 =3	=3
-16a]	F
+16aLL]	F major
 16a	.
 16a	.
-16b[	.
-8b]	F
-16a	.
-16g[	.
-16g]	C
-8.g[	.
-16g]	C
+[16bJ	.
+8b]	F major
+16aL	.
+[16gJJ	.
+16gLK]	C major
+[8.g	.
+16gL]	C major
 16e	.
 16g	.
-16a[	.
+[16aJJ	.
 =4	=4
-8a]	F
-16b	.
-16a[	.
-8a]	F
-16g	.
-16g[	.
-16g]	C
-16g	.
-8cc[	.
-8cc]	F
-8a	F
+8aL]	F major
+16bL	.
+[16aJ	.
+8a]	F major
+16gL	.
+[16gJJ	.
+16gLL]	C major
+16gJ	.
+[8cc	.
+8cc]	F major
+8aJ	F major
 =5	=5
-8cc	F
+8ccL	F major
 8ff	.
 8aa	.
-8gg	C
+8ggJ	C major
 8r	.
-8b	Em/B
-8cc	Am7
+8bL	E minor/B
+8ccJ	A minor-seventh
 8r	.
 =6	=6
-8b	G
-16b	.
-8.b[	.
-16b]	G
+8bL	G major
+16bk	.
+[8.b	.
+16bJk]	G major
 8.b	.
-8dd	.
-8.dd	Dm
-16dd[	.
+8ddL	.
+8.dd	D minor
+[16ddJk	.
 =7	=7
-16dd]	Dm
-16dd	.
-8cc[	.
-16cc]	C
+16ddLL]	D minor
+16ddJ	.
+[8cc	.
+16ccL]	C major
 16cc	.
 16b	.
-16b[	.
-8b]	G
-8b	.
-4a	F
+[16bJJ	.
+8bL]	G major
+8bJ	.
+4a	F major
 =8	=8
-16g	F
+16gLK	F major
 8a	.
-16b[	.
-16b]	F
+[16bL	.
+16b]	F major
 16a	.
 16g	.
-16g[	.
-8.g]	C
-16e	.
-8e	C
-16g	.
-16a[	.
+[16gJJ	.
+8.gL]	C major
+16ek	.
+8e	C major
+16gL	.
+[16aJJ	.
 =9	=9
-16a]	F
-6...a[	.
-8a]	F
+16a]	F major
+[6...a	.
+8a]	F major
 2r	.
 =10	=10
-4.r	F
-3...r	F
+4.r	F major
+3...r	F major
 ==	==
 *-	*-

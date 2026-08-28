@@ -16,60 +16,60 @@
 *f:	*
 *M3/4	*
 =1	=1
-4f	Fm
+4f	F minor
 8f	.
 4.g-	.
 =2	=2
-4f	Cm/E-
-8f	.
-8b-	.
-8a-	.
-8g-	.
+4f	C minor/E-
+8fL	.
+8b-J	.
+8a-L	.
+8g-J	.
 =3	=3
-4f	Fm
+4f	F minor
 8f	.
 4.g-	.
 =4	=4
-4f	E-/G
-8f	.
-8cc	.
-8b-	.
-8a-	.
+4f	E- major/G
+8fL	.
+8ccJ	.
+8b-L	.
+8a-J	.
 =5	=5
-4an	Am
+4an	A minor
 8an	.
 4.b-	.
 =6	=6
-4an	Gdim
-8an	.
-8ff	.
-8ee-	.
-8dd-	.
+4an	G diminished
+8anL	.
+8ffJ	.
+8ee-L	.
+8dd-J	.
 =7	=7
-4cc	A-
+4cc	A- major
 8cc	.
 4.een	.
 =8	=8
-4cc	B-m
-8cc	.
-8aa-	.
-8gg	.
-8ff	.
+4cc	B- minor
+8ccL	.
+8aa-J	.
+8ggL	.
+8ffJ	.
 =9	=9
-4.een	C
-4.cc[	.
+4.een	C major
+[4.cc	.
 =10	=10
 2.cc_	.
 =11	=11
 4.cc]	.
-8cc[	.
-16cc]	.
-8.dd-	.
+[8cc	.
+16ccLK]	.
+8.dd-J	.
 =12	=12
-8cc	.
-8ddn	.
+8ccL	.
+8ddnJ	.
 4.een	.
-8ff[	.
+[8ff	.
 =13	=13
 4ff]	.
 ==	==

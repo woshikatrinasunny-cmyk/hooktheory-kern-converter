@@ -15,65 +15,65 @@
 *F:	*
 *M4/4	*
 =1	=1
-8f	F
+8f	F major
 8r	.
 8c	.
 8r	.
-8B-	.
-16A	.
+8B-L	.
+16Ak	.
 8G	.
-8.F	.
+8.FJ	.
 =2	=2
-8f	C
+8f	C major
 8r	.
 4c	.
-8B-	.
-16A	.
+8B-L	.
+16Ak	.
 8G	.
-8.F	.
+8.FJ	.
 =3	=3
-8f	Gm
+8f	G minor
 8r	.
 4c	.
-16B-	.
+16B-LK	.
 8A	.
 8.B-	.
-16A	.
-16B-[	.
+16AL	.
+[16B-JJ	.
 =4	=4
-8B-]	B-
+8B-]	B- major
 4.c	.
 2r	.
 =5	=5
-8f	F
+8f	F major
 8r	.
 8c	.
 8r	.
-8B-	.
-16A	.
+8B-L	.
+16Ak	.
 8G	.
-8.F	.
+8.FJ	.
 =6	=6
-8f	C
+8f	C major
 8r	.
 4c	.
-8B-	.
-16A	.
+8B-L	.
+16Ak	.
 8G	.
-8.F	.
+8.FJ	.
 =7	=7
-8f	Gm
+8f	G minor
 8r	.
-8c	.
-8c	.
+8cL	.
+8cJ	.
+8B-L	.
+16Ak	.
 8B-	.
-16A	.
-8B-	.
-16A	.
-8B-[	.
+16Ak	.
+[8B-J	.
 =8	=8
-8B-]	B-
-8B-	.
+8B-L]	B- major
+8B-J	.
 4.c	.
 4.r	.
 ==	==

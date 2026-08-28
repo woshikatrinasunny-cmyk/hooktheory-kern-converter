@@ -16,7 +16,7 @@
 *d:	*
 *M4/4	*
 =1	=1
-4.dd	Gm
+4.dd	G minor
 4.ee	.
 4dd	.
 =2	=2
@@ -25,36 +25,36 @@
 4dd	.
 4.b-	.
 =3	=3
-8a	F
+8aL	F major
 8a	.
-8b-	.
+8b-J	.
 4cc	.
 8dd	.
-4cc[	.
+[4cc	.
 =4	=4
 1cc]	.
 =5	=5
-2b-	B-
+2b-	B- major
 2cc	.
 =6	=6
 4.dd	.
 4.ee	.
 4dd	.
 =7	=7
-8dd-	A
+8dd-L	A major
 8dd	.
-8ee	.
+8eeJ	.
 4gg	.
 8aa-	.
-4aa[	.
+[4aa	.
 =8	=8
 2aa]	.
-8ddd-	.
+8ddd-L	.
 8aa	.
 8ee	.
-8dd-	.
+8dd-J	.
 =9	=9
-4.dd	Dm
+4.dd	D minor
 4.ee	.
 4dd	.
 =10	=10
@@ -62,7 +62,7 @@
 4.aa	.
 4dd	.
 =11	=11
-4.dd	C
+4.dd	C major
 4.ee	.
 4dd	.
 =12	=12
@@ -70,7 +70,7 @@
 4.aa	.
 4dd	.
 =13	=13
-4.dd	Bdim
+4.dd	B diminished
 4.ee	.
 4dd	.
 =14	=14
@@ -78,18 +78,18 @@
 4.aa	.
 4dd	.
 =15	=15
-4.b-	B-
+4.b-	B- major
 4.dd	.
 4ff	.
 =16	=16
-4cc	C
+4cc	C major
 8ee	.
 4gg	.
-8gg	.
+8ggL	.
 8ff	.
-8ee	.
+8eeJ	.
 =17	=17
-4.dd	Dm
+4.dd	D minor
 4.ee	.
 4dd	.
 =18	=18
@@ -97,7 +97,7 @@
 4.aa	.
 4dd	.
 =19	=19
-4.dd	C
+4.dd	C major
 4.ee	.
 4dd	.
 =20	=20
@@ -105,7 +105,7 @@
 4.aa	.
 4dd	.
 =21	=21
-4.dd	Bdim
+4.dd	B diminished
 4.ee	.
 4dd	.
 =22	=22
@@ -113,11 +113,11 @@
 4.aa	.
 4dd	.
 =23	=23
-4.b-	B-
+4.b-	B- major
 4.dd	.
 4ff	.
 =24	=24
-4.cc	C
+4.cc	C major
 4.dd	.
 4ee	.
 ==	==

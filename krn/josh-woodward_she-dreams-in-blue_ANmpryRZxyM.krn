@@ -16,46 +16,46 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2..dd	B-maj9
+2..dd	B- major-ninth
 8a	.
 =2	=2
 2..a	.
-8b-[	.
+[8b-	.
 =3	=3
-8b-]	Gadd(2,3,5,7)
+8b-]	G other-2,3,5,7
 4b-	.
 3...r	.
 =4	=4
 1r	.
 =5	=5
-2..dd	B-maj9
+2..dd	B- major-ninth
 8a	.
 =6	=6
 2..a	.
-8b-[	.
+[8b-	.
 =7	=7
-8b-]	Gadd(2,3,5,7)
+8b-]	G other-2,3,5,7
 4..b-	.
 4..r	.
 =8	=8
-2b-	Edim
+2b-	E diminished
 2a	.
 =9	=9
-4f	E-
+4f	E- major
 8.r	.
 16d	.
-8.e-	.
-16d	.
+8.e-L	.
+16dL	.
 16c	.
-16d	.
-8B-[	.
+16dJ	.
+[8B-J	.
 =10	=10
-8B-]	Gm9
+8B-]	G minor-ninth
 2..r	.
 =11	=11
 1r	.
 =12	=12
-1r	E-
+1r	E- major
 =13	=13
 1r	.
 ==	==

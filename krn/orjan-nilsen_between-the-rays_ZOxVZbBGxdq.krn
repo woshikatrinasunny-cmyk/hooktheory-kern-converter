@@ -16,44 +16,44 @@
 *g:	*
 *M4/4	*
 =1	=1
-2.G	Gm
-8f	.
-16G	.
-16g[	.
+2.G	G minor
+8fL	.
+16GL	.
+[16gJJ	.
 =2	=2
-2.g]	E-add(2,4,7)
-8d	.
-16G	.
-16e-[	.
+2.g]	E- other-2,4,7
+8dL	.
+16GL	.
+[16e-JJ	.
 =3	=3
-2.e-]	Cadd(2,3,7)
-8d	.
-16G	.
-16d[	.
+2.e-]	C other-2,3,7
+8dL	.
+16GL	.
+[16dJJ	.
 =4	=4
-2.d]	E-maj7
-8c	.
-16G	.
-16d[	.
+2.d]	E- major-seventh
+8cL	.
+16GL	.
+[16dJJ	.
 =5	=5
-2.d]	Gm
-8b-	.
-16G	.
-16f[	.
+2.d]	G minor
+8b-L	.
+16GL	.
+[16fJJ	.
 =6	=6
-2.f]	E-add(2,4,7)
-8b-	.
-16G	.
-16d[	.
+2.f]	E- other-2,4,7
+8b-L	.
+16GL	.
+[16dJJ	.
 =7	=7
-2.d]	Cadd(2,3,7)
-8B-	.
-16G	.
-16c[	.
+2.d]	C other-2,3,7
+8B-L	.
+16GL	.
+[16cJJ	.
 =8	=8
-2.c]	Cm7/E-
-8B-	.
-16F	.
-16G	.
+2.c]	C minor-seventh/E-
+8B-L	.
+16FL	.
+16GJJ	.
 ==	==
 *-	*-

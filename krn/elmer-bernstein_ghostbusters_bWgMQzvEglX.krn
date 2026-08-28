@@ -17,33 +17,33 @@
 *M4/4	*
 =1	=1
 2..r	.
-16b	.
-16b	.
+16bLL	.
+16bJJ	.
 =2	=2
-8b	B
-8b	.
-4dd#[	.
-4dd#_	A
-8dd#]	E
-16b	.
-16b	.
+8bL	B major
+8bJ	.
+[4dd#	.
+4dd#_	A major
+8dd#L]	E major
+16bL	.
+16bJJ	.
 =3	=3
-8b	B
-8b	.
-4f#[	.
-4f#]	A
-4r	E
+8bL	B major
+8bJ	.
+[4f#	.
+4f#]	A major
+4r	E major
 =4	=4
-16dd#	B
+16dd#LL	B major
 16a	.
 16f#	.
-16f#	.
+16f#JJ	.
 4e	.
-4r	A
-4r	E
+4r	A major
+4r	E major
 =5	=5
-2r	B
-4r	A
-4r	E
+2r	B major
+4r	A major
+4r	E major
 ==	==
 *-	*-

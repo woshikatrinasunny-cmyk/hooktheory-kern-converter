@@ -16,64 +16,64 @@
 *B:	*
 *M4/4	*
 =1	=1
-4f#	B
+4f#	B major
 4f#	.
-2r	F#m/A
+2r	F# minor/A
 =2	=2
-2r	D
-8.e	A
+2r	D major
+8.eL	A major
 8.e	.
-8f#	.
+8f#J	.
 =3	=3
 *k[b-]	*
 *F:	*
-2f	F
-2cc	A-maj7
+2f	F major
+2cc	A- major-seventh
 =4	=4
-4..r	Gm7
+4..r	G minor-seventh
 16f	.
-8.g	C
-16f	.
+8.gL	C major
+16fJk	.
 4g	.
 =5	=5
 16r	.
-4..r	Gm/B-
-2r	E-
+4..r	G minor/B-
+2r	E- major
 =6	=6
 *k[f#c#g#d#a#e#]	*
 *F#:	*
-8e#	A#
-16e#	.
+8e#L	A# major
+16e#k	.
 8.e#	.
-8gn	.
-2f#	F#
+8gnJ	.
+2f#	F# major
 =7	=7
-2cc#	A
-4..r	G#m7
+2cc#	A major
+4..r	G# minor-seventh
 16f#	.
 =8	=8
-8.g#	C#
-16f#	.
+8.g#L	C# major
+16f#Jk	.
 4g#	.
 16r	.
-4..r	G#m/B
+4..r	G# minor/B
 =9	=9
 *k[f#c#g#d#]	*
 *E:	*
-2r	E
-8.f#	B
+2r	E major
+8.f#L	B major
 8.f#	.
-8g#	.
+8g#J	.
 =10	=10
 *k[f#]	*
 *G:	*
-2g	G
-2dd	A#
+2g	G major
+2dd	A# major
 =11	=11
-4..r	Am7
+4..r	A minor-seventh
 16g	.
-8.a	D
+8.aL	D major
 8.g	.
-8a	.
+8aJ	.
 ==	==
 *-	*-

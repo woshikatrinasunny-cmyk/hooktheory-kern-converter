@@ -19,138 +19,138 @@
 2...r	.
 16F#	.
 =2	=2
-8f#	F#
-16f#	.
-16f#	.
+8f#L	F# major
+16f#L	.
+16f#J	.
 8c#	.
-8c#	.
-16B	A#m
+8c#J	.
+16BLK	A# minor
 8B	.
 8.A#	.
-16A#	D#m
-16A#	.
+16A#L	D# minor
+16A#JJ	.
 =3	=3
-8.A#	.
-16A#	.
+8.A#L	.
+16A#k	.
 8A#	.
-16G#	.
+16G#Jk	.
 6...G#	.
 8r	.
-8r	C#
+8r	C# major
 =4	=4
-16f#	F#
+16f#LL	F# major
 16f#	.
 16f#	.
-16f#	.
+16f#J	.
 8c#	.
-8c#	.
-16B	A#m
+8c#J	.
+16BLK	A# minor
 8B	.
-8A#	.
+8A#J	.
 16r	.
-8r	D#m
+8r	D# minor
 =5	=5
 8r	.
+16A#LL	.
 16A#	.
 16A#	.
-16A#	.
-16A#	.
-8F#	.
+16A#J	.
+8F#J	.
 4G#	.
 8r	.
-8r	C#
+8r	C# major
 =6	=6
-8f#	F#
-16f#	.
-16f#	.
+8f#L	F# major
+16f#L	.
+16f#J	.
 8f#	.
-16f#	.
-16f#	.
-8e#	A#m
-16e#	.
-16e#	.
+16f#L	.
+16f#JJ	.
+8e#L	A# minor
+16e#L	.
+16e#J	.
 8e#	.
-8f#[	D#m
+[8f#J	D# minor
 =7	=7
-16f#]	.
+16f#LL]	.
 16f#	.
 16f#	.
-16f#	.
+16f#J	.
 8f#	.
-16f#	.
-16f#	.
+16f#L	.
+16f#JJ	.
+16e#LL	.
 16e#	.
 16e#	.
-16e#	.
-16e#	.
+16e#J	.
 8e#	.
-8f#	C#
+8f#J	C# major
 =8	=8
-16r	F#
+16r	F# major
+8f#L	.
+16f#k	.
 8f#	.
-16f#	.
-8f#	.
-8f#	.
-8.g#	A#m
-8.a#	.
-8r	D#m
+8f#J	.
+8.g#L	A# minor
+8.a#J	.
+8r	D# minor
 =9	=9
+16f#LL	.
 16f#	.
 16f#	.
-16f#	.
-16f#	.
+16f#J	.
 8f#	.
-8f#	.
-8.g#	.
-8.a#	.
-8r	C#
+8f#J	.
+8.g#L	.
+8.a#J	.
+8r	C# major
 =10	=10
-16r	F#
-16c#	.
+16r	F# major
+16c#LL	.
 16e#	.
 16f#	.
 16f#	.
 16f#	.
 16f#	.
-16f#	.
-16e#	A#m
+16f#JJ	.
+16e#LL	A# minor
 16e#	.
 16e#	.
-16e#	.
+16e#J	.
 8e#	.
-8f#[	D#m
+[8f#J	D# minor
 =11	=11
-16f#]	.
+16f#LK]	.
 8f#	.
+16f#L	.
 16f#	.
 16f#	.
 16f#	.
-16f#	.
-16f#	.
-8e#	.
+16f#JJ	.
+8e#L	.
 8.f#	.
-16f#	.
-16f#	C#
-16f#	.
+16f#L	.
+16f#	C# major
+16f#JJ	.
 =12	=12
-8f#	F#
-16f#	.
+8f#L	F# major
+16f#k	.
 8f#	.
+16f#L	.
 16f#	.
-16f#	.
-16f#	.
-8dd#	A#m
-16cc#	.
+16f#JJ	.
+8dd#L	A# minor
+16cc#k	.
 8.a#	.
-16a#	D#m
-16a#	.
+16a#L	D# minor
+16a#JJ	.
 =13	=13
+8a#L	.
 8a#	.
 8a#	.
-8a#	.
-16g#	.
+16g#Jk	.
 4a#	.
 8.r	.
-8r	C#
+8r	C# major
 ==	==
 *-	*-

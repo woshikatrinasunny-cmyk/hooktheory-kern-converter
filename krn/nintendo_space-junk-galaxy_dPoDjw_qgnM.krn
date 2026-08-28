@@ -16,13 +16,13 @@
 *A-:	*
 *M6/4	*
 =1	=1
-4r	A-maj7
+4r	A- major-seventh
 4e-	.
 4ee-	.
 4.dd	.
 8cc	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =2	=2
 2.cc	.
 2.e-	.
@@ -32,30 +32,30 @@
 4ee-	.
 4.dd	.
 8cc	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =4	=4
-1.cc	Cadd(3,6,8,10)/G-
+1.cc	C other-3,6,8,10/G-
 =5	=5
-4r	A-maj7
+4r	A- major-seventh
 4e-	.
 4ee-	.
 4.dd	.
 8cc	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =6	=6
 2.cc	.
 2.e-	.
 =7	=7
-4r	Eadd(2,4,7)
+4r	E other-2,4,7
 4e-	.
 4ee-	.
-4.dd-	G-add(2,4,7)
+4.dd-	G- other-2,4,7
 8cc	.
-8b-	.
-8dd-	.
+8b-L	.
+8dd-J	.
 =8	=8
-1.cc	A-maj7
+1.cc	A- major-seventh
 ==	==
 *-	*-

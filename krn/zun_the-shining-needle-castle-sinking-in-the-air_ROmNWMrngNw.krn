@@ -16,66 +16,66 @@
 *b-:	*
 *M3/4	*
 =1	=1
-2.dd-	B-m
+2.dd-	B- minor
 =2	=2
 4cc	.
 4dd-	.
 4ee-	.
 =3	=3
-2.dd-	D-/A-
+2.dd-	D- major/A-
 =4	=4
 4cc	.
 4dd-	.
 4ff	.
 =5	=5
-2.b-	G-
+2.b-	G- major
 =6	=6
-2.dd-	B-m/F
+2.dd-	B- minor/F
 =7	=7
-4cc	Adim
+4cc	A diminished
 4gn	.
 4cc	.
 =8	=8
 4ee-	.
 8r	.
 8ee-	.
-8dd-	.
-8cc	.
+8dd-L	.
+8ccJ	.
 =9	=9
-4r	B-m
-8dd-	.
-8cc	.
-8dd-	.
-8ee-	.
+4r	B- minor
+8dd-L	.
+8ccJ	.
+8dd-L	.
+8ee-J	.
 =10	=10
 2.ff	.
 =11	=11
-4r	D-/A-
-8ff	.
-8ee-	.
-8ff	.
-8ggn	.
+4r	D- major/A-
+8ffL	.
+8ee-J	.
+8ffL	.
+8ggnJ	.
 =12	=12
 2.aa-	.
 =13	=13
-4r	G-
-8gg-	.
-8ff	.
-8gg-	.
-8bb-	.
+4r	G- major
+8gg-L	.
+8ffJ	.
+8gg-L	.
+8bb-J	.
 =14	=14
-4r	B-m/F
-8ff	.
-8ee-	.
-8ff	.
-8ddd-	.
+4r	B- minor/F
+8ffL	.
+8ee-J	.
+8ffL	.
+8ddd-J	.
 =15	=15
-4ccc	Adim
+4ccc	A diminished
 4ggn	.
 4ccc	.
 =16	=16
 2eee-	.
-8ddd-	.
-8ccc	.
+8ddd-L	.
+8cccJ	.
 ==	==
 *-	*-

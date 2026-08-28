@@ -16,127 +16,127 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4dd	B-7/F
+4dd	B- dominant/F
+8bb-L	.
+8aanJ	.
+8bb-L	B- dominant
+8aan	.
 8bb-	.
-8aan	.
-8bb-	B-7
-8aan	.
-8bb-	.
-8aan	.
+8aanJ	.
 =2	=2
-8bb-	B-7/F
+8bb-	B- dominant/F
 4ccc	.
 8bb-	.
-8F	.
+8FL	.
 8B-	.
 8An	.
-24A-	.
+24A-L	.
 24cc	.
-24dd	.
+24ddJJ	.
 =3	=3
-4ee-	E-/G
+4ee-	E- major/G
+8bb-L	.
+8aanJ	.
+8bb-L	E- major
+8aan	.
 8bb-	.
-8aan	.
-8bb-	E-
-8aan	.
-8bb-	.
-8aan	.
+8aanJ	.
 =4	=4
-8bb-	E-/G
+8bb-	E- major/G
 4ccc	.
 8bb-	.
-8E-	E-
+8E-L	E- major
 8D	.
 8E-	.
-24F	.
+24FL	.
 24aa-	.
-24aan	.
+24aanJJ	.
 =5	=5
-4bb-	G-
-8bb-	.
-8aan	.
-8bb-	E-7/G
+4bb-	G- major
+8bb-L	.
+8aanJ	.
+8bb-L	E- dominant/G
 8ddd-	.
 8bbn	.
-8bb-	.
+8bb-J	.
 =6	=6
-8bb-	A-m
+8bb-	A- minor
 4aa-	.
 8aa-	.
-8BBn	.
+8BBnL	.
 8C	.
 8D-	.
-24D	.
+24DL	.
 24e-	.
-24f	.
+24fJJ	.
 =7	=7
-4g-	E-m
-8gg-	.
-8aa-	.
-8aan	Badd(4,6,7,10)
-8aa-	.
+4g-	E- minor
+8gg-L	.
+8aa-J	.
+8aanL	B other-4,6,7,10
+8aa-J	.
 4aan	.
 =8	=8
-4bb-	B-
-8bb-	.
-8bb-	.
+4bb-	B- major
+8bb-L	.
+8bb-J	.
 4bb-	.
 6BB-	.
-24cc	.
-24dd-	.
+24ccLL	.
+24dd-JJ	.
 =9	=9
-4dd	B-7/F
+4dd	B- dominant/F
+8bb-L	.
+8aanJ	.
+8bb-L	B- dominant
+8aan	.
 8bb-	.
-8aan	.
-8bb-	B-7
-8aan	.
-8bb-	.
-8aan	.
+8aanJ	.
 =10	=10
-8bb-	B-7/F
+8bb-	B- dominant/F
 4ccc	.
 8bb-	.
-8F	.
+8FL	.
 8B-	.
 8An	.
-24A-	.
+24A-L	.
 24cc	.
-24dd	.
+24ddJJ	.
 =11	=11
-4ee-	E-/G
+4ee-	E- major/G
+8bb-L	.
+8aanJ	.
+8bb-L	E- major
+8aan	.
 8bb-	.
-8aan	.
-8bb-	E-
-8aan	.
-8bb-	.
-8aan	.
+8aanJ	.
 =12	=12
 8bb-	.
 4ccc	.
 4.bb-	.
-4a-	B-7
+4a-	B- dominant
 =13	=13
-8g	E-
+8g	E- major
 4g	.
-4.g	G7/D
-4g	Gm7b5/D-
+4.g	G dominant/D
+4g	G half-diminished/D-
 =14	=14
-4g	C7
+4g	C dominant
 4g	.
-8g	Am7b5/C
-4.f	F7/C
+8g	A half-diminished/C
+4.f	F dominant/C
 =15	=15
-8f	Fm7b5/B
+8f	F half-diminished/B
 4f	.
-4.f	B-7
+4.f	B- dominant
 4b-	.
 =16	=16
-4e-	E-
-8b-	.
-8b-	.
+4e-	E- major
+8b-L	.
+8b-J	.
 4b-	.
 6BB-	.
-24cc	.
-24dd-	.
+24ccLL	.
+24dd-JJ	.
 ==	==
 *-	*-

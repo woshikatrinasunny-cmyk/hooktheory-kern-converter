@@ -16,46 +16,46 @@
 *a:	*
 *M4/4	*
 =1	=1
-2..r	F
+2..r	F major
 8a	.
 =2	=2
-8ee	F
-8ee	.
+8eeL	F major
+8eeJ	.
 4ee	.
 4ee	.
-8ff	.
-8dd[	.
+8ffL	.
+[8ddJ	.
 =3	=3
-4.dd]	Dm
+4.dd]	D minor
 2r	.
 8cc	.
 =4	=4
-8dd	Dm
-8dd	.
+8ddL	D minor
+8ddJ	.
 4dd	.
 4dd	.
-8ee	.
-8cc[	.
+8eeL	.
+[8ccJ	.
 =5	=5
-16cc]	Am
-16b	.
+16ccLL]	A minor
+16bJJ	.
 4.a	.
 2r	.
 =6	=6
-4dd	Am
+4dd	A minor
 4dd	.
 4dd	.
-8ee	.
-8cc[	.
+8eeL	.
+[8ccJ	.
 =7	=7
-16cc]	G/B
-16b	.
-4a[	.
-16a]	C
+16ccLL]	G major/B
+16bJJ	.
+[4a	.
+16a]	C major
 2r	.
 16r	.
 =8	=8
-4.r	Dm
-3...r	C/E
+4.r	D minor
+3...r	C major/E
 ==	==
 *-	*-

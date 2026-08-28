@@ -17,79 +17,79 @@
 *M4/4	*
 =1	=1
 3...r	.
-8G[	C
-16G_	Csus2
-16G]	C
-8G	C
+[8GL	C major
+16GL_	C suspended-second
+16GJ]	C major
+8GJ	C major
 =2	=2
-16A[	Fsus2
-8A]	F
+[16ALK	F suspended-second
+8A]	F major
 8.A	.
-8G	.
+8GJ	.
 4A	.
-16F	Fsus2
-16F	.
-8G	.
+16FLL	F suspended-second
+16FJ	.
+8GJ	.
 =3	=3
-16E[	Csus2
-8.E]	C
+[16ELK	C suspended-second
+8.EJ]	C major
 2r	.
-16E[	Csus2
-16E]	C
-8G	C
+[16ELL	C suspended-second
+16EJ]	C major
+8GJ	C major
 =4	=4
-16A[	Fsus2
-8A]	F
-16A	.
-16A	.
+[16ALK	F suspended-second
+8A]	F major
+16AL	.
+16AJJ	.
 4A	.
-16G	.
-8G	.
-4G	Fsus2
+16GLK	.
+8GJ	.
+4G	F suspended-second
 =5	=5
-16r	Csus2
-2r	C
+16r	C suspended-second
+2r	C major
 16r	.
-8E	.
-16G[	Csus2
-16G_	C
-8G]	C
+8EL	.
+[16GL	C suspended-second
+16GJ_	C major
+8GJ]	C major
 =6	=6
-16A[	Fsus2
-8A]	F
+[16ALK	F suspended-second
+8A]	F major
 8A	.
-8A	.
+8AJ	.
 6...G	.
-16E	Fsus2
-16D	.
-8C	.
+16ELL	F suspended-second
+16DJ	.
+8CJ	.
 =7	=7
-2r	Am
+2r	A minor
 16r	.
 16C	.
 4E	.
 8D	.
 =8	=8
-8.D	G
+8.DL	G major
 8.D	.
-16E[	G
-16E]	C/G
-8.D	G
-16D[	.
-8D]	C
-8C	.
+[16EL	G major
+16EJJ]	C major/G
+8.DL	G major
+[16Dk	.
+8D]	C major
+8CJ	.
 =9	=9
-4AA	F
+4AA	F major
 4.r	.
-16r	Fmaj7
-16r	Fmaj7
-8r	F
-8r	Fmaj7sus2
+16r	F major-seventh
+16r	F major-seventh
+8r	F major
+8r	F major-seventh-suspended-second
 =10	=10
-3...r	F
-8C	C
-16G[	Csus2
-16G]	C
-8G	C
+3...r	F major
+8CL	C major
+[16GL	C suspended-second
+16GJ]	C major
+8GJ	C major
 ==	==
 *-	*-

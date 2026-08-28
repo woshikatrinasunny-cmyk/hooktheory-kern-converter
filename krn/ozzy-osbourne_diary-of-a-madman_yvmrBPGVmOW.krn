@@ -16,48 +16,48 @@
 *a:	*
 *M4/4	*
 =1	=1
-4G	G
-8A	Am
+4G	G major
+8AL	A minor
+8eJ	.
+8ccL	.
 8e	.
-8cc	.
-8e	.
-8b	Asus2
-8e	.
+8b	A suspended-second
+8eJ	.
 =2	=2
-8A	.
+8AL	.
 8e	.
-8a	Am
+8a	A minor
+8eJ	.
+8bL	A suspended-second
 8e	.
-8b	Asus2
-8e	.
-8cc	Am
-8e	.
+8cc	A minor
+8eJ	.
 =3	=3
-8b	Asus2
+8bL	A suspended-second
 8e	.
-8a	Am
-8e	.
-8A	.
+8a	A minor
+8eJ	.
+8AL	.
 8e	.
 8cc	.
-8e	.
+8eJ	.
 =4	=4
-8b	Asus2
+8bL	A suspended-second
 8e	.
-8a	Am
+8a	A minor
+8eJ	.
+8bL	A suspended-second
 8e	.
-8b	Asus2
-8e	.
-8cc	Am
-8e	.
+8cc	A minor
+8eJ	.
 =5	=5
-1e	Em
+1e	E minor
 =6	=6
-1fn	F
+1fn	F major
 =7	=7
-1f#	F#m
+1f#	F# minor
 =8	=8
-2c	C
-2B	Bm
+2c	C major
+2B	B minor
 ==	==
 *-	*-

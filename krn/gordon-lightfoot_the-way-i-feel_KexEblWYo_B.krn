@@ -16,34 +16,34 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.r	E7sus4
+4.r	E dominant-seventh-suspended-fourth
 8e	.
-8b	.
-8a	.
+8bL	.
+8aJ	.
 4g	.
 =2	=2
-8a	Dadd(2,4,7)/F#
-2..b[	.
+8a	D other-2,4,7/F#
+[2..b	.
 =3	=3
-8b]	.
+8bL]	.
 8a	.
 8a	.
-8f#	.
+8f#J	.
 4a	.
-8b	.
-8g	.
+8bL	.
+8gJ	.
 =4	=4
-8f#	E7sus4
+8f#	E dominant-seventh-suspended-fourth
 4e	.
 3...r	.
 =5	=5
 4r	.
 4e	.
 4b	.
-8b	.
-8a	.
+8bL	.
+8aJ	.
 =6	=6
-16g	Dadd(2,4,7)/F#
+16g	D other-2,4,7/F#
 4..a	.
 2r	.
 =7	=7
@@ -53,53 +53,53 @@
 4d	.
 8d	.
 =8	=8
-2e	E7sus4
+2e	E dominant-seventh-suspended-fourth
 2r	.
 =9	=9
-4r	E7sus4
-8e	.
-8e	.
-8b	.
-8a	.
+4r	E dominant-seventh-suspended-fourth
+8eL	.
+8eJ	.
+8bL	.
+8aJ	.
 4g	.
 =10	=10
-8cc#	Eadd(2,3,7)
-2.dd[	.
-8dd_	Dadd(2,4,7)/F#
+8cc#	E other-2,3,7
+[2.dd	.
+8dd_	D other-2,4,7/F#
 =11	=11
-8dd]	.
+8ddL]	.
 8cc#	.
 8cc#	.
-8b	.
-8b	.
-8a	.
+8bJ	.
+8bL	.
+8aJ	.
 4a	.
 =12	=12
-8b	E7sus4
-8e	.
+8bL	E dominant-seventh-suspended-fourth
+8eJ	.
 4.e	.
 4.r	.
 =13	=13
 4r	.
-8e	.
-8e	.
-8a	.
+8eL	.
+8eJ	.
+8aL	.
 8b	.
 8b	.
-8a	.
+8aJ	.
 =14	=14
-8g	Dadd(2,4,7)/F#
+8g	D other-2,4,7/F#
 2a	.
 4.r	.
 =15	=15
 4r	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 8e	.
 4d	.
 8d	.
 =16	=16
-2e	E7sus4
+2e	E dominant-seventh-suspended-fourth
 2r	.
 ==	==
 *-	*-

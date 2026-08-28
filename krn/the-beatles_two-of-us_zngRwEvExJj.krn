@@ -16,20 +16,20 @@
 *G:	*
 *M4/4	*
 =1	=1
-8D	G
+8DL	G major
 8E	.
-8G	.
+8GJ	.
 8r	.
 4A	.
-8B	.
-8A[	.
+8BL	.
+[8AJ	.
 =2	=2
-8A]	.
-8G	.
+8AL]	.
+8GJ	.
 4r	.
 4A	.
-8B	.
-8A[	.
+8BL	.
+[8AJ	.
 =3	=3
 *M2/4	*
 8A]	.
@@ -37,26 +37,26 @@
 8r	.
 =4	=4
 *M4/4	*
-2c	C
-2B	Cmaj7/B
+2c	C major
+2B	C major-seventh/B
 =5	=5
-4A	Am7
+4A	A minor-seventh
 2.r	.
 =6	=6
-8D	G
+8DL	G major
 8E	.
-8G	.
+8GJ	.
 8r	.
 4A	.
-8B	.
-8A[	.
+8BL	.
+[8AJ	.
 =7	=7
 8A]	.
 4G	.
 8r	.
 4A	.
-8B	.
-8A	.
+8BL	.
+8AJ	.
 =8	=8
 *M2/4	*
 8G	.
@@ -64,10 +64,10 @@
 8r	.
 =9	=9
 *M4/4	*
-2c	C
-2B	Cmaj7/B
+2c	C major
+2B	C major-seventh/B
 =10	=10
-4A	Am7
+4A	A minor-seventh
 4r	.
 2A	.
 ==	==

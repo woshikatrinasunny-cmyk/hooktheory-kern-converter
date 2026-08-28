@@ -16,161 +16,161 @@
 *F:	*
 *M4/4	*
 =1	=1
-2a	F
+2a	F major
 4.a	.
 8a	.
 =2	=2
-4b-	E-
+4b-	E- major
 2a	.
 4f	.
 =3	=3
-3...cc	B-add(2,4,7)
+3...cc	B- other-2,4,7
 8b-	.
 4a	.
 =4	=4
-2f	B-m
-2g	E-
+2f	B- minor
+2g	E- major
 =5	=5
-2a	F
+2a	F major
 2a	.
 =6	=6
-4b-	E-
+4b-	E- major
 2a	.
 4f	.
 =7	=7
-3...cc	B-add(2,4,7)/D
+3...cc	B- other-2,4,7/D
 8b-	.
 4a	.
 =8	=8
-2f	D-
-2g	E-
+2f	D- major
+2g	E- major
 =9	=9
-2cc	F
+2cc	F major
 4.cc	.
 8cc	.
 =10	=10
-4cc	Cm/E-
+4cc	C minor/E-
 4b-	.
 4b-	.
 4a	.
 =11	=11
-4a	B-
+4a	B- major
 4b-	.
 4cc	.
-4cc[	B-m
+[4cc	B- minor
 =12	=12
 4cc]	.
 4b-	.
 4b-	.
 4a	.
 =13	=13
-2.a	Dm
+2.a	D minor
 4a	.
 =14	=14
-4b-	Gdim/D-
+4b-	G diminished/D-
 8a	.
 4b-	.
 4cc	.
-8a[	.
+[8a	.
 =15	=15
-2.a]	F/C
+2.a]	F major/C
 4a	.
 =16	=16
-2g	G/B
+2g	G major/B
 2f	.
 =17	=17
-4d	B-
+4d	B- major
 8e	.
 4f	.
 8f	.
-4b-[	.
+[4b-	.
 =18	=18
 2b-_	.
-2b-]	C
+2b-]	C major
 =19	=19
-2a	F
+2a	F major
 4.a	.
 8a	.
 =20	=20
-4b-	E-
+4b-	E- major
 2a	.
-8f	.
-8f	.
+8fL	.
+8fJ	.
 =21	=21
-3...cc	B-add(2,4,7)/D
+3...cc	B- other-2,4,7/D
 8b-	.
 4a	.
 =22	=22
-2f	D-
-2g	E-
+2f	D- major
+2g	E- major
 =23	=23
-2a	F
+2a	F major
 2a	.
 =24	=24
-4b-	E-
+4b-	E- major
 2a	.
 4f	.
 =25	=25
-3...cc	B-add(2,4,7)/D
+3...cc	B- other-2,4,7/D
 8b-	.
 4a	.
 =26	=26
-2f	D-
-2g	E-
+2f	D- major
+2g	E- major
 =27	=27
-2cc	F
+2cc	F major
 2cc	.
 =28	=28
-4cc	Cm/E-
+4cc	C minor/E-
 8b-	.
 4.b-	.
 4a	.
 =29	=29
-4a	B-/D
+4a	B- major/D
 4b-	.
 4cc	.
-4cc[	B-m/D-
+[4cc	B- minor/D-
 =30	=30
 4cc]	.
 4b-	.
 4b-	.
 4a	.
 =31	=31
-2.a	Dm
+2.a	D minor
 4a	.
 =32	=32
-4b-	Gm7b5/D-
+4b-	G half-diminished/D-
 8a	.
 4b-	.
 4cc	.
-8a[	.
+[8a	.
 =33	=33
-2.a]	F/C
+2.a]	F major/C
 4a	.
 =34	=34
-4b-	Gm
+4b-	G minor
 8a	.
 4.g	.
 4f	.
 =35	=35
-4d	B-
+4d	B- major
 8e	.
 4.f	.
-4b-[	.
+[4b-	.
 =36	=36
 2.b-]	.
 4f	.
 =37	=37
-4d-	B-m
+4d-	B- minor
 8e-	.
 4f	.
 8g	.
-4b-[	.
+[4b-	.
 =38	=38
 2.b-]	.
-4a[	.
+[4a	.
 =39	=39
-8a]	F/C
+8a]	F major/C
 2..a	.
 ==	==
 *-	*-

@@ -16,62 +16,62 @@
 *g:	*
 *M4/4	*
 =1	=1
-8.g	Dsus4
+8.gL	D suspended-fourth
+8.gJ	.
 8.g	.
-8.g	.
-8.g	.
+8.gL	.
 8g	.
-8a	.
+8aJ	.
 =2	=2
-8.b-	Gm
+8.b-L	G minor
+8.b-J	.
 8.b-	.
-8.b-	.
-8.b-	.
+8.b-L	.
 8b-	.
-8cc	F
+8ccJ	F major
 =3	=3
-8.dd	B-
+8.ddL	B- major
+8.ddJ	.
 8.dd	.
-8.dd	.
-8.dd	.
+8.ddL	.
 8dd	.
-8ff	.
+8ffJ	.
 =4	=4
-8.gg	C
+8.ggL	C major
 8.gg	.
-8gg[	.
-16gg]	Csus4
+[8ggJ	.
+16ggLK]	C suspended-fourth
 8.ff	.
-8ff	Dm
-8ff	.
+8ff	D minor
+8ffJ	.
 =5	=5
-8.g	Dsus4
+8.gL	D suspended-fourth
+8.gJ	.
 8.g	.
-8.g	.
-8.g	.
+8.gL	.
 8g	.
-8a	.
+8aJ	.
 =6	=6
-8.b-	Gm
+8.b-L	G minor
+8.b-J	.
 8.b-	.
-8.b-	.
-8.b-	.
+8.b-L	.
 8b-	.
-8cc	F
+8ccJ	F major
 =7	=7
-8.dd	B-
+8.ddL	B- major
+8.ddJ	.
 8.dd	.
-8.dd	.
-8.dd	.
+8.ddL	.
 8dd	.
-8ff	.
+8ffJ	.
 =8	=8
-8.gg	C
+8.ggL	C major
 8.gg	.
-8gg[	.
-16gg]	Csus4
+[8ggJ	.
+16ggLK]	C suspended-fourth
 8.aa	.
-8aa	Dm
-8bb-	.
+8aa	D minor
+8bb-J	.
 ==	==
 *-	*-

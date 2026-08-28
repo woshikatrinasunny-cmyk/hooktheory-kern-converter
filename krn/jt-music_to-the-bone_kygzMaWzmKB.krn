@@ -16,80 +16,80 @@
 *c:	*
 *M4/4	*
 =1	=1
-4r	Cm
+4r	C minor
 4g	.
 4g	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 =2	=2
-4f	Csus2
-4e-	Gsus4
-4c[	A-add(4,6,11)
-4c]	Gsus4
+4f	C suspended-second
+4e-	G suspended-fourth
+[4c	A- other-4,6,11
+4c]	G suspended-fourth
 =3	=3
-4r	Cm
+4r	C minor
 4B-	.
 4B-	.
 4A-	.
 =4	=4
-4G[	Csus2
-4G]	Csus2/D
-4r	Cadd(2,3,7)/E-
-4r	Csus2/D
+[4G	C suspended-second
+4G]	C suspended-second/D
+4r	C other-2,3,7/E-
+4r	C suspended-second/D
 =5	=5
-4r	Cm
+4r	C minor
 4g	.
 4g	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 =6	=6
-4f	Csus2
-4e-	Gsus4
-4c[	A-add(4,6,11)
-4c]	Gsus4
+4f	C suspended-second
+4e-	G suspended-fourth
+[4c	A- other-4,6,11
+4c]	G suspended-fourth
 =7	=7
-4r	A-
+4r	A- major
 4B-	.
 4B-	.
 4A-	.
 =8	=8
-4G[	Csus2
-4G]	Gadd(1,7)
-4r	Gmaj7sus4/G-
-4r	Gadd(1,7)
+[4G	C suspended-second
+4G]	G other-1,7
+4r	G major-seventh-suspended-fourth/G-
+4r	G other-1,7
 =9	=9
-4r	Cm
+4r	C minor
 4c	.
 4e-	.
 4g	.
 =10	=10
-4f	Csus2
-4e-	Gsus4
-4c	A-add(4,6,11)
-4e-	Gsus4
+4f	C suspended-second
+4e-	G suspended-fourth
+4c	A- other-4,6,11
+4e-	G suspended-fourth
 =11	=11
-4r	Cm
+4r	C minor
 4c	.
 4e-	.
 4g-	.
 =12	=12
-4f	Csus2
-4e-	Csus2/D
-4c	Cadd(2,3,7)/E-
-4e-	Csus2/D
+4f	C suspended-second
+4e-	C suspended-second/D
+4c	C other-2,3,7/E-
+4e-	C suspended-second/D
 =13	=13
-1r	Cm
+1r	C minor
 =14	=14
-4r	Csus2
-4r	Gsus4
-4r	A-add(4,6,11)
-4r	Gsus4
+4r	C suspended-second
+4r	G suspended-fourth
+4r	A- other-4,6,11
+4r	G suspended-fourth
 =15	=15
-1r	A-
+1r	A- major
 =16	=16
-4r	Csus2
-4r	Gadd(1,7)
-4r	Gmaj7sus4/G-
-4r	Gadd(1,7)
+4r	C suspended-second
+4r	G other-1,7
+4r	G major-seventh-suspended-fourth/G-
+4r	G other-1,7
 ==	==
 *-	*-

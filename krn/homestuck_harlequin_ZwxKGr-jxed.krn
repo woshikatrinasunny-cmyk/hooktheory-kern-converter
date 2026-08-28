@@ -16,84 +16,84 @@
 *d:	*
 *M6/4	*
 =1	=1
-2.a	Dm/A
-2.g	D-dim/G
+2.a	D minor/A
+2.g	D- diminished/G
 =2	=2
-2.a	Dm/A
-2.b-	B-
+2.a	D minor/A
+2.b-	B- major
 =3	=3
-2.a	Dm/A
-2.g	D-dim/G
+2.a	D minor/A
+2.g	D- diminished/G
 =4	=4
-4r	Dm/A
-8a	.
-8g	.
+4r	D minor/A
+8aL	.
+8gJ	.
 8.f	.
 16r	.
-4r	A
-8e	.
-8f	.
-8g	.
-8a-	.
+4r	A major
+8eL	.
+8fJ	.
+8gL	.
+8a-J	.
 =5	=5
-2.a	Dm/A
-2.g	D-dim/G
+2.a	D minor/A
+2.g	D- diminished/G
 =6	=6
-2.a	Dm/A
-2.b-	B-
+2.a	D minor/A
+2.b-	B- major
 =7	=7
-2.dd	Dm
-2.dd-	D-dim/G
+2.dd	D minor
+2.dd-	D- diminished/G
 =8	=8
-4r	Dm/F
-8ff	.
-8ee	.
+4r	D minor/F
+8ffL	.
+8eeJ	.
 8.dd	.
 16r	.
-4r	A
-8dd-	.
-8dd	.
-8ee	.
-8ff	.
+4r	A major
+8dd-L	.
+8ddJ	.
+8eeL	.
+8ffJ	.
 =9	=9
-2.gg	Em7b5/G
-2ff	D-dim
+2.gg	E half-diminished/G
+2ff	D- diminished
 4ee	.
 =10	=10
-8ff	Dm
-8ee	.
+8ffL	D minor
+8eeJ	.
 4dd	.
 4r	.
-2r	Dm/A
+2r	D minor/A
 4a	.
 =11	=11
-2.b-	Em7b5/B-
-2a	D-dim
+2.b-	E half-diminished/B-
+2a	D- diminished
 4g	.
 =12	=12
-2.a	Dm
-2r	Dm/A
-8ee	.
-8ff	.
+2.a	D minor
+2r	D minor/A
+8eeL	.
+8ffJ	.
 =13	=13
-2.gg	Em7b5
-2ff	D-dim
+2.gg	E half-diminished
+2ff	D- diminished
 4ee	.
 =14	=14
-8ff	Dm
-8gg	.
+8ffL	D minor
+8ggJ	.
 4aa	.
 4r	.
-2r	Dm/A
+2r	D minor/A
 4ff	.
 =15	=15
-2dd	B-
+2dd	B- major
 4aa	.
-2aa	Edim/G
+2aa	E diminished/G
 4gg	.
 =16	=16
-2aa	A
+2aa	A major
 4r	.
-2.r	A/D-
+2.r	A major/D-
 ==	==
 *-	*-

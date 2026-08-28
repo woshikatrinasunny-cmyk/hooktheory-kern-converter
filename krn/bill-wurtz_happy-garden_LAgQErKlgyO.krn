@@ -16,7 +16,7 @@
 *D:	*
 *M4/4	*
 =1	=1
-8d	D/A
+8d	D major/A
 8r	.
 8f#	.
 8r	.
@@ -25,71 +25,71 @@
 8dd	.
 8r	.
 =2	=2
-8b	G/B
+8b	G major/B
 8r	.
-8a	.
-8g	.
-8a	D/A
+8aL	.
+8gJ	.
+8a	D major/A
 8r	.
 8f#	.
 8r	.
 =3	=3
-8g	G/B
+8g	G major/B
 8r	.
-8a	.
-8g	.
-8f#	D/A
+8aL	.
+8gJ	.
+8f#	D major/A
 8r	.
 8d	.
 8r	.
 =4	=4
-8d	Eadd(4,10)
+8d	E other-4,10
 8r	.
 8f#	.
 8r	.
-8e	A11
+8e	A dominant-11th
 8r	.
 8A	.
 8r	.
 =5	=5
-8d	D/A
+8d	D major/A
 8r	.
 8f#	.
 8r	.
-8a	D/F#
+8a	D major/F#
 8r	.
 8dd	.
 8r	.
 =6	=6
-8b	G/D
+8b	G major/D
 8r	.
-8a	.
-8g	.
-8a	D
+8aL	.
+8gJ	.
+8a	D major
 8r	.
 8f#	.
 8r	.
 =7	=7
-8g	Gm/A#
+8g	G minor/A#
 8r	.
-8a	.
-8g	.
-8f#	D/A
+8aL	.
+8gJ	.
+8f#	D major/A
 8r	.
 8d	.
 8r	.
 =8	=8
 *M2/4	*
-8e	A7/G
+8e	A dominant/G
 8r	.
 8f#	.
 8r	.
 =9	=9
 *M4/4	*
-2d[	D
-2d]	G/D
+[2d	D major
+2d]	G major/D
 =10	=10
-2r	D
-2r	Em/G
+2r	D major
+2r	E minor/G
 ==	==
 *-	*-

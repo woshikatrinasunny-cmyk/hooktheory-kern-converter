@@ -15,52 +15,52 @@
 *A:	*
 *M4/4	*
 =1	=1
-8A	A
+8A	A major
 2r	.
-8E	.
+8EL	.
 8A	.
-8c#	.
+8c#J	.
 =2	=2
-8d	D
+8d	D major
 2r	.
-8E	.
-8d	Eadd(3,5,7,10)
-8f#	.
+8EL	.
+8d	E other-3,5,7,10
+8f#J	.
 =3	=3
-8e	A
+8e	A major
 2r	.
-8E	.
+8EL	.
 8e	.
-8c#	.
+8c#J	.
 =4	=4
-8d	D
+8d	D major
 2r	.
-8d	.
+8dL	.
 8c#	.
-8B	.
+8BJ	.
 =5	=5
-8A	A
+8A	A major
 2r	.
-8E	.
+8EL	.
 8c#	.
-8e	.
+8eJ	.
 =6	=6
-8d	D
+8d	D major
 2r	.
-8d	.
-8d	Eadd(3,5,7,10)
-8f#	.
+8dL	.
+8d	E other-3,5,7,10
+8f#J	.
 =7	=7
-8e	A
+8e	A major
 2r	.
-8e	.
-8e	A7
-8c#	.
+8eL	.
+8e	A dominant
+8c#J	.
 =8	=8
-8d	D
+8d	D major
 2r	.
-8d	.
+8dL	.
 8c#	.
-8B	.
+8BJ	.
 ==	==
 *-	*-

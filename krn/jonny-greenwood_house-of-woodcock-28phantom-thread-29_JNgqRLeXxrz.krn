@@ -16,57 +16,57 @@
 *C:	*
 *M3/4	*
 =1	=1
-4G	C
-4A	C
-4B	C
+4G	C major
+4A	C major
+4B	C major
 =2	=2
-4c	Cdim
-4d	Cdim
-4d#	Cdim
+4c	C diminished
+4d	C diminished
+4d#	C diminished
 =3	=3
-4f	Dm
-4g	Dm
-4a	Dm
+4f	D minor
+4g	D minor
+4a	D minor
 =4	=4
-4b	Ddim
-4cc	Ddim
-4dd	Ddim
+4b	D diminished
+4cc	D diminished
+4dd	D diminished
 =5	=5
-4ff	C
-4ee	C
-4dd	C
+4ff	C major
+4ee	C major
+4dd	C major
 =6	=6
-4cc	Cdim
-4b	Cdim
-4a	Cdim
+4cc	C diminished
+4b	C diminished
+4a	C diminished
 =7	=7
-4g	Dm
-4f	Dm
-8.e	Dm
-16a[	.
+4g	D minor
+4f	D minor
+8.eL	D minor
+[16aJk	.
 =8	=8
 4a]	.
-2d#	C#add(2,4,6,10)
+2d#	C# other-2,4,6,10
 =9	=9
-16B	.
+16BLL	.
 16d#	.
 16g	.
-16b	.
-16dd#	.
+16bJJ	.
+16dd#LL	.
 16gg	.
 16bb	.
-16gg	.
-16dd#	.
+16ggJJ	.
+16dd#LL	.
 16b	.
 16g	.
-16d#	.
+16d#JJ	.
 =10	=10
-16b	.
+16bLL	.
 16g	.
 16d#	.
-16B	.
-16G	.
-16D#	.
+16BJJ	.
+16GLL	.
+16D#JJ	.
 4.BB	.
 ==	==
 *-	*-

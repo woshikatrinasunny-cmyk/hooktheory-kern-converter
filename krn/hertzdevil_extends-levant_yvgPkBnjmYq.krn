@@ -16,116 +16,116 @@
 *d#:	*
 *M4/4	*
 =1	=1
-1D#	D#m
+1D#	D# minor
 =2	=2
-4F#	D
-8G#	.
-8An	.
-8c#	.
+4F#	D major
+8G#L	.
+8AnJ	.
+8c#L	.
 8f#	.
 8g#	.
-8an	.
+8anJ	.
 =3	=3
-8a#	B
+8a#L	B major
 8b	.
-8a#	.
+8a#J	.
 4.d#	.
-16e#	.
+16e#LL	.
 16f#	.
 16g#	.
-16a#	.
+16a#JJ	.
 =4	=4
 *k[f#c#g#]	*
 *f#:	*
-4cc#	C#
+4cc#	C# major
 8b	.
 4a#	.
-8fn	.
+8fnL	.
 8b	.
-8a[	.
+[8aJ	.
 =5	=5
-4a]	F#m
+4a]	F# minor
 4ff#	.
-4ee	E/G#
-8dd	.
-8cc#[	.
+4ee	E major/G#
+8ddL	.
+[8cc#J	.
 =6	=6
-8cc#]	A
+8cc#L]	A major
 8dd	.
 8cc#	.
-8b	.
-8a	Bm
-8f#	.
-4cc#[	.
+8bJ	.
+8aL	B minor
+8f#J	.
+[4cc#	.
 =7	=7
-1cc#]	C#sus4
+1cc#]	C# suspended-fourth
 =8	=8
 *k[f#c#g#d#a#e#]	*
 *d#:	*
-1gg#	G#sus2
+1gg#	G# suspended-second
 =9	=9
-4ddd#	D#m
+4ddd#	D# minor
 8r	.
 4ccc#	.
 8r	.
 4bb	.
 =10	=10
-4aa#	A#/D
+4aa#	A# major/D
 8r	.
 2eee#	.
 8r	.
 =11	=11
-8ggg#	F#/C#
+8ggg#L	F# major/C#
 8fff#	.
 8eee#	.
-8fff#	.
+8fff#J	.
 8r	.
 4ccc#	.
-8ddd#[	.
+[8ddd#	.
 =12	=12
-8ddd#]	G#
+8ddd#L]	G# major
 8aa#	.
-8gg#	.
+8gg#J	.
 4ff#	.
 4.dd#	.
 =13	=13
-8gg#	B
-16ff#	.
+8gg#L	B major
+16ff#Jk	.
 16r	.
 2ff#	.
 8r	.
 8aa#	.
 =14	=14
-4gg#	F#/A#
+4gg#	F# major/A#
 8ff#	.
 8.cc#	.
 16r	.
 8.a#	.
 16r	.
-8dd#[	.
+[8dd#	.
 =15	=15
-4..dd#]	D#dim/A
+4..dd#]	D# diminished/A
 16r	.
-8dd#	.
+8dd#L	.
 8ee#	.
 8ff#	.
-8gg#	.
+8gg#J	.
 =16	=16
-4ccc#	A#
+4ccc#	A# major
+8bbL	.
+8aa#J	.
+8r	A# major/D
+8ee#L	.
 8bb	.
-8aa#	.
-8r	A#/D
-8ee#	.
-8bb	.
-8aa#[	.
+[8aa#J	.
 =17	=17
-4aa#]	D#m
+4aa#]	D# minor
 8r	.
 4a#	.
-8.dd#	.
-8.aa#	.
+8.dd#L	.
+8.aa#J	.
 =18	=18
-4gg#	A#/D
+4gg#	A# major/D
 16gg#	.
 16r	.
 4dddn	.
@@ -134,38 +134,38 @@
 8eee#	.
 16r	.
 =19	=19
-4ggg#	F#/C#
-8fff#	.
-8eee#	.
+4ggg#	F# major/C#
+8fff#L	.
+8eee#J	.
 8r	.
 8fff#	.
 8r	.
-8aa#[	.
+[8aa#	.
 =20	=20
-16aa#]	G#
+16aa#]	G# major
 16r	.
 8gg#	.
 4ff#	.
-8.dd#	.
-8ee#	.
+8.dd#L	.
+8ee#J	.
 16r	.
-8ff#[	.
+[8ff#	.
 =21	=21
-4ff#]	B
+4ff#]	B major
 16gg#	.
 16r	.
 4aa#	.
 4ff#	.
-8gg#[	.
+[8gg#	.
 =22	=22
-8gg#]	C#
-8ccc#	.
+8gg#L]	C# major
+8ccc#J	.
 8r	.
 4.bb	.
-8ccc#	.
-8dddn[	.
+8ccc#L	.
+[8dddnJ	.
 =23	=23
-4dddn]	D
+4dddn]	D major
 8een	.
 8.ff#	.
 16r	.
@@ -175,15 +175,15 @@
 =24	=24
 *k[f#c#g#]	*
 *f#:	*
-8r	E
+8r	E major
 8.eee	.
 16r	.
 8.bbb	.
 16r	.
-8aaa	.
+8aaaL	.
 8ggg#	.
-8fff#[	.
+[8fff#J	.
 =25	=25
-1fff#]	F#m
+1fff#]	F# minor
 ==	==
 *-	*-

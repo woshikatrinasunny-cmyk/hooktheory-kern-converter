@@ -16,23 +16,23 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8A#	D#7
+8A#	D# dominant
 4An	.
 4.A#	.
-8A#	.
-8en[	.
+8A#L	.
+[8enJ	.
 =2	=2
 4en]	.
 8en	.
 4.d#	.
 4d#	.
 =3	=3
-1B	G#m
+1B	G# minor
 =4	=4
 2.r	.
 4A#	.
 =5	=5
-4B	C#
+4B	C# major
 8A#	.
 4.B	.
 4c#	.
@@ -41,49 +41,49 @@
 4f#	.
 8e#	.
 4c#	.
-8A#[	.
+[8A#	.
 =7	=7
-1A#]	F#
+1A#]	F# major
 =8	=8
-2r	D#7
+2r	D# dominant
 4D#	.
 4D#	.
 =9	=9
-2B	G#m7/F#
+2B	G# minor-seventh/F#
 8G#	.
 4A#	.
-8B[	.
+[8B	.
 =10	=10
-4B]	E#m7b5
+4B]	E# half-diminished
 4r	.
 8G#	.
 4A#	.
-8B[	.
+[8B	.
 =11	=11
-2B]	Emaj7
+2B]	E major-seventh
 8G#	.
 4A#	.
-8B[	.
+[8B	.
 =12	=12
-4B]	G#m/D#
+4B]	G# minor/D#
 4r	.
 4G#	.
 4A#	.
 =13	=13
-4B	Bm/D
+4B	B minor/D
 8A#	.
 4.B	.
 4G#	.
 =14	=14
-2c#	Bsus2
-8B	Bm
-8c#	.
+2c#	B suspended-second
+8BL	B minor
+8c#J	.
 8r	.
-8A#[	.
+[8A#	.
 =15	=15
-1A#]	A#
+1A#]	A# major
 =16	=16
-4r	A#
+4r	A# major
 2.r	.
 ==	==
 *-	*-

@@ -16,110 +16,110 @@
 *g:	*
 *M12/8	*
 =1	=1
-2.r	E-add(4,6,7,10)
-2r	D7
-8BB-	.
-8C	.
+2.r	E- other-4,6,7,10
+2r	D dominant
+8BB-L	.
+8CJ	.
 =2	=2
-8.D	Gm
+8.D	G minor
 4.GG	.
 8.r	.
-4.r	C7
+4.r	C dominant
 4BB-	.
 8D	.
 =3	=3
-4.C	F
+4.C	F major
 4.r	.
-4.r	B-7
-8.BB-	D7
-8.C	.
+4.r	B- dominant
+8.BB-L	D dominant
+8.CJ	.
 =4	=4
-8.D	Gm
-2GG[	.
+8.D	G minor
+[2GG	.
 16GG]	.
-3...En	Aadd(1,4,7,10)
+3...En	A other-1,4,7,10
 8AA	.
 =5	=5
-2.G-	Dadd(4,6,10)
+2.G-	D other-4,6,10
 4.r	.
-8.D	.
-8.D	.
+8.DL	.
+8.DJ	.
 =6	=6
-8.G	G7
-8.F	.
-8.E-	.
-8.D	.
-8.E-	Cm
-8.D	.
-8.D	.
-8.C[	.
+8.GL	G dominant
+8.FJ	.
+8.E-L	.
+8.DJ	.
+8.E-L	C minor
+8.DJ	.
+8.DL	.
+[8.CJ	.
 =7	=7
-16C]	F7
+16CLK]	F dominant
 8.F	.
-16E-	.
+16E-Jk	.
 8.D	.
-8C	.
-8D[	.
-8D]	B-maj7
+8CL	.
+[8DJ	.
+8D]	B- major-seventh
 4r	.
-8.BB-	.
+8.BB-L	.
 8AA	.
-16GG[	.
+[16GGJk	.
 =8	=8
-2.GG]	E-add(4,6,7,10)
-8G	E-9
+2.GG]	E- other-4,6,7,10
+8G	E- dominant-ninth
 3...r	.
 =9	=9
-8.En	.
-8.En	.
+8.EnL	.
+8.EnJ	.
 4En	.
 8AA	.
-8.En	.
-8.En	.
-8.En	.
-8.En	.
+8.EnL	.
+8.EnJ	.
+8.EnL	.
+8.EnJ	.
 =10	=10
 32DD-	.
-3DD[	.
+[3DD	.
 96DD]	.
 32DD-	.
-3DD[	.
+[3DD	.
 96DD]	.
 8.G-	.
 4En	.
 6...G-	.
 =11	=11
-4G	G13
+4G	G dominant-13th
 8gg	.
-8bb-	.
+8bb-L	.
 8aa	.
-8gg	.
-8.ddd-	Cm7
+8ggJ	.
+8.ddd-	C minor-seventh
 4..gg	.
 8gg	.
 =12	=12
-8bb-	G13
+8bb-L	G dominant-13th
 8aa	.
+8ggJ	.
+8.ddd-L	.
+[8.ggJ	.
+4gg]	C minor-seventh
 8gg	.
-8.ddd-	.
-8.gg[	.
-4gg]	Cm7
-8gg	.
-8bb-	.
+8bb-L	.
 8aa	.
-8gg	.
+8ggJ	.
 =13	=13
-8.ddd-	G13
+8.ddd-	G dominant-13th
 4..gg	.
 8ddd-	.
-4.gg	Aadd(4,7,9,11)
-4.dd[	.
+4.gg	A other-4,7,9,11
+[4.dd	.
 =14	=14
-4.dd_	Dadd(4,6,10)
-4.dd]	Dadd(4,6,10)/A-
-4.r	D7
+4.dd_	D other-4,6,10
+4.dd]	D other-4,6,10/A-
+4.r	D dominant
 8r	.
-8BBn	.
-8BBn	.
+8BBnL	.
+8BBnJ	.
 ==	==
 *-	*-

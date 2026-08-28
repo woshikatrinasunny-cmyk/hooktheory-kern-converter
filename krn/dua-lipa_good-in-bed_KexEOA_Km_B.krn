@@ -16,140 +16,140 @@
 *g:	*
 *M4/4	*
 =1	=1
-4r	F
+4r	F major
 4r	.
-8.r	G-m7
+8.r	G- minor-seventh
+16cLL	.
+16c	G- diminished-seventh
 16c	.
-16c	G-dim7
 16c	.
-16c	.
-16c	.
+16cJJ	.
 =2	=2
-8e-	Gm7
+8e-L	G minor-seventh
 8d	.
 8d	.
-8d-	.
-4c	C7sus2
+8d-J	.
+4c	C dominant-seventh-suspended-second
+16cLL	.
 16c	.
 16c	.
-16c	.
-16c	.
+16cJJ	.
 =3	=3
-8e-	F
+8e-L	F major
 8d	.
 8d	.
-8d-	.
-8.c	G-m7
+8d-J	.
+8.cL	G- minor-seventh
+16cL	.
+16c	G- diminished-seventh
 16c	.
-16c	G-dim7
 16c	.
-16c	.
-16c	.
+16cJJ	.
 =4	=4
-8e-	Gm7
+8e-L	G minor-seventh
 8d	.
 8d	.
-8d-	.
-8c	C7sus2
+8d-J	.
+8c	C dominant-seventh-suspended-second
 16r	.
-16c	.
-16c	.
+16cLL	.
+16cJ	.
 8c	.
-16a[	.
+[16aJk	.
 =5	=5
-16a]	F
+16aLK]	F major
 8g	.
 8f	.
 8e	.
-16A[	.
-16A]	G-m7
+[16AJk	.
+16ALK]	G- minor-seventh
 8e	.
-16e	.
-8d	G-dim7/A
+16ek	.
+8dJ	G- diminished-seventh/A
 8r	.
 =6	=6
-8e-	Gm7
+8e-L	G minor-seventh
 8d	.
 8d	.
-8d-	.
-8.c	C7sus2
+8d-J	.
+8.cL	C dominant-seventh-suspended-second
+16cL	.
 16c	.
 16c	.
 16c	.
-16c	.
-16c	.
+16cJJ	.
 =7	=7
-8e-	F
+8e-L	F major
 8d	.
 8d	.
-8d-	.
-8.c	G-m7
+8d-J	.
+8.cL	G- minor-seventh
+16cL	.
+16c	G- diminished-seventh
 16c	.
-16c	G-dim7
 16c	.
-16c	.
-16c	.
+16cJJ	.
 =8	=8
-8e-	Gm7
+8e-L	G minor-seventh
 8d	.
 8d	.
-8d-	.
+8d-J	.
 8.r	.
-16c	.
-16c	C7sus2
+16cLL	.
+16cJ	C dominant-seventh-suspended-second
 8c	.
-16a[	.
+[16aJk	.
 =9	=9
-16a]	F
+16aLK]	F major
 8g	.
 8f	.
 8e	.
-16A[	.
-16A]	G-m7
+[16AJk	.
+16ALK]	G- minor-seventh
 8e	.
-16e	.
-4d	G-dim7/A
+16eJk	.
+4d	G- diminished-seventh/A
 =10	=10
-8r	Gm7
+8r	G minor-seventh
+8aL	.
 8a	.
-8a	.
-8g	.
-8.r	C7sus2
-16d	.
+8gJ	.
+8.r	C dominant-seventh-suspended-second
+16dLL	.
 16f	.
 16d	.
 16f	.
-16d[	.
+[16dJJ	.
 =11	=11
-8d]	F
+8dL]	F major
 8a	.
 8a	.
-8g	.
-8.r	G-m7
-16d	.
-16f	G-dim7
+8gJ	.
+8.r	G- minor-seventh
+16dLL	.
+16f	G- diminished-seventh
 16d	.
 16f	.
-16d[	.
+[16dJJ	.
 =12	=12
-8d]	Gm7
+8dL]	G minor-seventh
 8a	.
 8a	.
-8g	.
-8.r	C7sus2
-16A	.
-16A	.
+8gJ	.
+8.r	C dominant-seventh-suspended-second
+16ALL	.
+16AJ	.
 8A	.
-16a[	.
+[16aJk	.
 =13	=13
-16a]	F
+16aLK]	F major
 8g	.
 8f	.
 8e	.
-16A[	.
-16A]	G-m7
+[16AJk	.
+16ALK]	G- minor-seventh
 8e	.
-16e	.
-4d	G-dim7/A
+16eJk	.
+4d	G- diminished-seventh/A
 ==	==
 *-	*-

@@ -16,85 +16,85 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.d	D
+4.d	D major
 4e	.
-4f#	D/F#
-8f#[	G
+4f#	D major/F#
+[8f#	G major
 =2	=2
 8.f#]	.
 2.r	.
 16r	.
 =3	=3
-4.d	Bm
+4.d	B minor
 4e	.
 4f#	.
-8c#[	A
+[8c#	A major
 =4	=4
 4.c#]	.
 4c#	.
-4d	A/C#
-8d[	D
+4d	A major/C#
+[8d	D major
 =5	=5
 4.d]	.
 4e	.
-4f#	D/F#
-8f#[	G
+4f#	D major/F#
+[8f#	G major
 =6	=6
 8.f#]	.
 2.r	.
 16r	.
 =7	=7
-4.d	Bm
+4.d	B minor
 4e	.
 4f#	.
-8g[	A
+[8g	A major
 =8	=8
 4g]	.
 8f#	.
 4e	.
-4d	A/C#
+4d	A major/C#
 8d	.
 =9	=9
-4.d	D
+4.d	D major
 4a	.
-8f#	D/F#
-8f#[	.
-8f#_	G
+8f#L	D major/F#
+[8f#	.
+8f#J_	G major
 =10	=10
 8f#]	.
 4e	.
 4e	.
 4.d	.
 =11	=11
-4.r	Bm
+4.r	B minor
 4f#	.
 4f#	.
-8r	A
+8r	A major
 =12	=12
 4.r	.
 4f#	.
-4f#	A/C#
-8r	D
+4f#	A major/C#
+8r	D major
 =13	=13
 4.d	.
-4g[	.
-8g]	D/F#
+[4g	.
+8gL]	D major/F#
 8f#	.
-8e[	G
+[8eJ	G major
 =14	=14
 4.e]	.
 2d	.
-8d[	.
+[8d	.
 =15	=15
-4.d]	Bm
+4.d]	B minor
 4.e	.
-8f#	.
-8c#[	A
+8f#L	.
+[8c#J	A major
 =16	=16
 4c#]	.
 8A	.
 4d	.
-8d	A/C#
+8d	A major/C#
 4d	.
 ==	==
 *-	*-

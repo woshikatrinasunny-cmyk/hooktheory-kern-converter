@@ -16,68 +16,68 @@
 *E-:	*
 *M4/4	*
 =1	=1
-2r	E-
-2r	Gm7
+2r	E- major
+2r	G minor-seventh
 =2	=2
-2r	Cm7
-4r	B-add(3,5,7,10)
-4r	E-add(5,7,9,10)
+2r	C minor-seventh
+4r	B- other-3,5,7,10
+4r	E- other-5,7,9,10
 =3	=3
-2r	A-
-2r	B-7/A-
+2r	A- major
+2r	B- dominant/A-
 =4	=4
-2r	Gm7
-2r	Cm7
+2r	G minor-seventh
+2r	C minor-seventh
 =5	=5
-2r	Am7b5
-2r	Dm7b5/A-
+2r	A half-diminished
+2r	D half-diminished/A-
 =6	=6
-2r	Gm7
-2r	Cm7
+2r	G minor-seventh
+2r	C minor-seventh
 =7	=7
-4r	Fm7
-16r	Gm
+4r	F minor-seventh
+16r	G minor
 16r	.
-3...r	A-
+3...r	A- major
 =8	=8
-2r	B-add(2,5,7)
-2r	B-7/A-
+2r	B- other-2,5,7
+2r	B- dominant/A-
 =9	=9
-2r	E-/G
-4r	G
-4r	G7/B
+2r	E- major/G
+4r	G major
+4r	G dominant/B
 =10	=10
-2r	Cm7
-4r	B-add(3,5,7,10)
-4r	E-7
+2r	C minor-seventh
+4r	B- other-3,5,7,10
+4r	E- dominant
 =11	=11
-2r	A-
-2r	B-7/A-
+2r	A- major
+2r	B- dominant/A-
 =12	=12
-4r	E-/G
-4r	Gm7
-2r	Cm7
+4r	E- major/G
+4r	G minor-seventh
+2r	C minor-seventh
 =13	=13
-2r	Fadd(2,4,7)/A
-2r	Fm/A-
+2r	F other-2,4,7/A
+2r	F minor/A-
 =14	=14
-2r	Gm7
-2r	Cm7
+2r	G minor-seventh
+2r	C minor-seventh
 =15	=15
-4r	Fm7
-16r	Gm
+4r	F minor-seventh
+16r	G minor
 16r	.
-3...r	A-
+3...r	A- major
 =16	=16
-2.r	B-11
-4r	Bdim7
+2.r	B- dominant-11th
+4r	B diminished-seventh
 =17	=17
-4.r	Cm7
-3...r	Fm7
+4.r	C minor-seventh
+3...r	F minor-seventh
 =18	=18
-1r	B-11
+1r	B- dominant-11th
 =19	=19
-2r	E-
+2r	E- major
 2r	.
 ==	==
 *-	*-

@@ -16,62 +16,62 @@
 *a:	*
 *M4/4	*
 =1	=1
-4e	Am
-4f	F
-4f#	D
-4g	Em
+4e	A minor
+4f	F major
+4f#	D major
+4g	E minor
 =2	=2
-4a[	Am
-4a_	F
-4a_	D
-4a]	Em/G
+[4a	A minor
+4a_	F major
+4a_	D major
+4a]	E minor/G
 =3	=3
-4cc	Am
-4b	F
-8a	D
+4cc	A minor
+4b	F major
+8aL	D major
 8g	.
-8e	Em
-8g	.
+8e	E minor
+8gJ	.
 =4	=4
-4a[	Am
-4a_	F
-4a_	D
-4a]	Em/G
+[4a	A minor
+4a_	F major
+4a_	D major
+4a]	E minor/G
 =5	=5
-4g	C
-4g	G
-4g	C
-4g	G
+4g	C major
+4g	G major
+4g	C major
+4g	G major
 =6	=6
-4a	D
-4cc	Am
-4b[	B
-4b]	E
+4a	D major
+4cc	A minor
+[4b	B major
+4b]	E major
 =7	=7
-4cc	Am
-4b	F
-8a	D
+4cc	A minor
+4b	F major
+8aL	D major
 8g	.
-8a	Em/G
-8b	.
+8a	E minor/G
+8bJ	.
 =8	=8
-4cc	Am
-4b	F
-8a	D
+4cc	A minor
+4b	F major
+8aL	D major
 8g	.
-8a	Em/G
-8b	.
+8a	E minor/G
+8bJ	.
 =9	=9
-4cc	Am
-4b	F
-8a	D
+4cc	A minor
+4b	F major
+8aL	D major
 8g	.
-8e	Em/G
-8g	.
+8e	E minor/G
+8gJ	.
 =10	=10
-4a[	Am
-4a]	F
-4r	D
-4r	Em/G
+[4a	A minor
+4a]	F major
+4r	D major
+4r	E minor/G
 ==	==
 *-	*-

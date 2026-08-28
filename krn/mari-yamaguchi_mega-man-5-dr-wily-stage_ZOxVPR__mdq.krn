@@ -16,7 +16,7 @@
 *g:	*
 *M4/4	*
 =1	=1
-4.g	Gm
+4.g	G minor
 3...dd	.
 =2	=2
 4g	.
@@ -24,14 +24,14 @@
 4b-	.
 4cc	.
 =3	=3
-4.b-	F
+4.b-	F major
 8a	.
 4r	.
-4f[	.
+[4f	.
 =4	=4
 1f]	.
 =5	=5
-2.r	Gm
+2.r	G minor
 4g	.
 =6	=6
 4b-	.
@@ -39,49 +39,49 @@
 4dd	.
 4ff	.
 =7	=7
-4.dd	B-/F
-3...cc[	F
+4.dd	B- major/F
+[3...cc	F major
 =8	=8
 2..cc]	.
 8r	.
 =9	=9
 *k[b-e-a-]	*
 *c:	*
-3...ee-	A-
+3...ee-	A- major
 8dd	.
 8r	.
-8ee-[	.
+[8ee-	.
 =10	=10
-2ee-]	B-sus4
+2ee-]	B- suspended-fourth
 8r	.
 8ff	.
 8r	.
-8dd[	.
+[8dd	.
 =11	=11
-1dd]	Cm11
+1dd]	C minor-11th
 =12	=12
 4dd	.
 4cc	.
 4dd	.
 4ff	.
 =13	=13
-2gg	A-maj7
-8gg	.
+2gg	A- major-seventh
+8ggL	.
 8ff	.
 8ee-	.
-8ff[	.
+[8ffJ	.
 =14	=14
-2ff]	D-
+2ff]	D- major
 2ee-	.
 =15	=15
-2ee-[	Dadd(1,3,7,9)
+[2ee-	D other-1,3,7,9
 16ee-]	.
 16r	.
-8ff	.
+8ffL	.
 8ee-	.
-8dd[	.
+[8ddJ	.
 =16	=16
-3...dd]	G
+3...dd]	G major
 4.r	.
 ==	==
 *-	*-

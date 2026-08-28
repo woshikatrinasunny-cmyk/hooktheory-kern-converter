@@ -16,40 +16,40 @@
 *C:	*
 *M6/4	*
 =1	=1
-2.c	F
-2f	F/C
-4c	F
+2.c	F major
+2f	F major/C
+4c	F major
 =2	=2
-2.B	G
-2f	Bdim/D
-4B	G
+2.B	G major
+2f	B diminished/D
+4B	G major
 =3	=3
-8A#	D#
-8D#	.
-8A#	.
-8A	Dm
-8D	.
-8A	.
-8G#	C#
-8C#	.
-8G#	.
-8G	C
-8C	.
-8G	.
+8A#L	D# major
+8D#J	.
+8A#L	.
+8AJ	D minor
+8DL	.
+8AJ	.
+8G#L	C# major
+8C#J	.
+8G#L	.
+8GJ	C major
+8CL	.
+8GJ	.
 =4	=4
-8c#	G#maj7sus4
-8c	C/G
-8B	Bm/F#
-8A#	Fadd(2,4,5,7,11)
-8A	Am/E
-8G#	G#m/D#
-8G	G/D
-8F#	F#m7/C#
-8F	F/C
-8E	Em/B
-8D#	A#add(5,6)
-8D	F/A
+8c#L	G# major-seventh-suspended-fourth
+8cJ	C major/G
+8BL	B minor/F#
+8A#J	F other-2,4,5,7,11
+8AL	A minor/E
+8G#J	G# minor/D#
+8GL	G major/D
+8F#J	F# minor-seventh/C#
+8FL	F major/C
+8EJ	E minor/B
+8D#L	A# other-5,6
+8DJ	F major/A
 =5	=5
-1.C#	C#/G#
+1.C#	C# major/G#
 ==	==
 *-	*-

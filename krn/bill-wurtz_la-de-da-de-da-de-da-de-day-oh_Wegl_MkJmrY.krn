@@ -16,26 +16,26 @@
 *G:	*
 *M4/4	*
 =1	=1
-4d	Gsus2
+4d	G suspended-second
 4r	.
-12cc	Gsus4
-24b	.
-16a	.
-8g	Gadd(7,11)/F#
-16fn	.
+12ccL	G suspended-fourth
+24bL	.
+16aJ	.
+8g	G other-7,11/F#
+16fnL	.
 16d	.
-16c	Csus4
+16cJJ	C suspended-fourth
 =2	=2
 16r	.
-16A#	.
-8G	Gsus4
-16Fn	G11
+16A#LK	.
+8G	G suspended-fourth
+16FnL	G dominant-11th
 16D	.
 16C	.
-16AA#	D#maj7
+16AA#JJ	D# major-seventh
 16r	.
-16GG	.
-8.d	A#/D
-8.c	Am7/E
+16GGLK	.
+8.d	A# major/D
+8.cJ	A minor-seventh/E
 ==	==
 *-	*-

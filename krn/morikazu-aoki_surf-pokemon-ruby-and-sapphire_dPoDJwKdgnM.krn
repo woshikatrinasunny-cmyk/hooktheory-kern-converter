@@ -16,73 +16,73 @@
 *D-:	*
 *M3/4	*
 =1	=1
-4.ff	D-
+4.ff	D- major
 8gg-	.
 4ff	.
 =2	=2
-4.ff	D-
+4.ff	D- major
 8gg-	.
 4ff	.
 =3	=3
-4.ff	D-aug
+4.ff	D- augmented
 8gg-	.
-8ff	.
-8ee-	.
+8ffL	.
+8ee-J	.
 =4	=4
-4dd-	D-aug
+4dd-	D- augmented
 4ff	.
 4aa-	.
 =5	=5
-4.bb-	B-m
+4.bb-	B- minor
 8aan	.
-8bb-	.
-8ccc	.
+8bb-L	.
+8cccJ	.
 =6	=6
-4ddd-	B-m
+4ddd-	B- minor
 4eee-	.
 4ddd-	.
 =7	=7
-4.ccc	A-
+4.ccc	A- major
 8bb-	.
 4ccc	.
 =8	=8
-4aa-[	A-7
-4aa-_	B-m
-4aa-]	A-/C
+[4aa-	A- dominant
+4aa-_	B- minor
+4aa-]	A- major/C
 =9	=9
-4.ff	D-
+4.ff	D- major
 8gg-	.
 4ff	.
 =10	=10
-4.ff	D-/A-
+4.ff	D- major/A-
 8gg-	.
 4ff	.
 =11	=11
-4.ff	D-aug
+4.ff	D- augmented
 8gg-	.
-8ff	G-mMaj7/D-
-8ee-	.
+8ffL	G- major-minor/D-
+8ee-J	.
 =12	=12
-4dd-	D-aug/A
+4dd-	D- augmented/A
 4ff	.
 4aa-	.
 =13	=13
-4.bb-	B-m
+4.bb-	B- minor
 8aan	.
-8bb-	.
-8ccc	.
+8bb-L	.
+8cccJ	.
 =14	=14
-4ddd-	F7sus4
+4ddd-	F dominant-seventh-suspended-fourth
 4eee-	.
 4fff	.
 =15	=15
-4.eee-	Fm7
+4.eee-	F minor-seventh
 8fff	.
-8eee-	Fsus4
-8bb-	.
+8eee-L	F suspended-fourth
+8bb-J	.
 =16	=16
-4ccc[	A-
-4ccc_	A-7/G-
-4ccc]	Fm7
+[4ccc	A- major
+4ccc_	A- dominant/G-
+4ccc]	F minor-seventh
 ==	==
 *-	*-

@@ -16,113 +16,113 @@
 *G:	*
 *M4/4	*
 =1	=1
-8b	E5
+8bL	E power
 8cc	.
 8b	.
-8e	.
+8eJ	.
 4a	.
 4cc	.
 =2	=2
 8r	.
-8e	.
+8eL	.
 8b	.
-8cc	.
+8ccJ	.
 4b	.
 4a	.
 =3	=3
-8b	.
+8bL	.
 8cc	.
 8b	.
-8e	.
+8eJ	.
 4f#	.
 4g	.
 =4	=4
 8r	.
-8g	.
+8gL	.
 8b	.
-8cc	.
+8ccJ	.
 4b	.
 4a	.
 =5	=5
-8b	E5
-8cc	E5
+8bL	E power
+8cc	E power
 8b	.
-8e	E5
-8a[	.
-16a_	E5
-16a]	E5
-8cc[	E5
-8cc]	.
+8eJ	E power
+[8aL	.
+16aL_	E power
+16aJ]	E power
+[8cc	E power
+8ccJ]	.
 =6	=6
 8r	.
-8e	E5
+8eL	E power
 8b	.
-16cc[	E5
-16cc]	E5
-4b	E5
-4a	E5
+[16ccL	E power
+16ccJJ]	E power
+4b	E power
+4a	E power
 =7	=7
-8b	E5
-8cc	E5
+8bL	E power
+8cc	E power
 8b	.
-8e	E5
-8f#[	.
-16f#_	E5
-16f#]	E5
-8g[	C5
-8g]	.
+8eJ	E power
+[8f#L	.
+16f#L_	E power
+16f#J]	E power
+[8g	C power
+8gJ]	.
 =8	=8
 8r	.
-8g	C5
+8gL	C power
 8b	.
-16cc[	C5
-16cc]	C5
-4b	C5
-4a	C5
+[16ccL	C power
+16ccJJ]	C power
+4b	C power
+4a	C power
 =9	=9
-8b	E5
-8cc	E5
+8bL	E power
+8cc	E power
 8b	.
-8e	E5
-8a[	.
-16a_	E5
-16a]	E5
-8cc[	E5
-8cc]	.
+8eJ	E power
+[8aL	.
+16aL_	E power
+16aJ]	E power
+[8cc	E power
+8ccJ]	.
 =10	=10
 8r	.
-8e	E5
+8eL	E power
 8b	.
-16cc[	E5
-16cc]	E5
-4b	E5
-4a	E5
+[16ccL	E power
+16ccJJ]	E power
+4b	E power
+4a	E power
 =11	=11
-8b	E5
-8cc	E5
+8bL	E power
+8cc	E power
 8b	.
-8e	E5
-8f#[	.
-16f#_	E5
-16f#]	E5
-8g[	C5
-8g]	.
+8eJ	E power
+[8f#L	.
+16f#L_	E power
+16f#J]	E power
+[8g	C power
+8gJ]	.
 =12	=12
 8r	.
-8g	C5
+8gL	C power
 8b	.
-16cc[	C5
-16cc]	C5
-4b	C5
-4a	C5
+[16ccL	C power
+16ccJJ]	C power
+4b	C power
+4a	C power
 =13	=13
-8b	.
+8bL	.
 8b	.
 8f#	.
-8f#	.
-8g	.
+8f#J	.
+8gL	.
 8g	.
 8e	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

@@ -16,10 +16,10 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.dd	B-
+4.dd	B- major
 4ee	.
 4ff	.
-8ee	C
+8ee	C major
 =2	=2
 8r	.
 8ee	.
@@ -27,22 +27,22 @@
 4cc	.
 4g	.
 =3	=3
-4.a	Dm
+4.a	D minor
 3...dd	.
 =4	=4
-4.dd	E-
+4.dd	E- major
 3...cc	.
 =5	=5
-4.b-	B-
+4.b-	B- major
 4cc	.
 8dd	.
 4ff	.
 =6	=6
-4.cc	C
+4.cc	C major
 4ff	.
-8aa	Fmaj7sus2
-8r	G-add(1,6,9)
-8gg[	C/G
+8aa	F major-seventh-suspended-second
+8r	G- other-1,6,9
+[8gg	C major/G
 =7	=7
 4.gg]	.
 3...ccc	.

@@ -16,116 +16,116 @@
 *C:	*
 *M4/4	*
 =1	=1
-4cc	C
-8cc	C/G
-8cc[	.
-8cc]	C
+4cc	C major
+8ccL	C major/G
+[8ccJ	.
+8ccL]	C major
 8b	.
-8a	C/G
-8g	.
+8a	C major/G
+8gJ	.
 =2	=2
-4a	Am/C
-8a	Am
-8a[	.
-8a]	Am/C
+4a	A minor/C
+8aL	A minor
+[8aJ	.
+8aL]	A minor/C
 8g	.
-8f	Am
-8e	.
+8f	A minor
+8eJ	.
 =3	=3
-4f	F/A
-8f	G11
-8f	.
-8f	F
-8e	.
-4f	Fmaj7/E
+4f	F major/A
+8fL	G dominant-11th
+8fJ	.
+8fL	F major
+8eJ	.
+4f	F major-seventh/E
 =4	=4
-4g	G
+4g	G major
 4r	.
-8r	Gaug
-8g	.
+8r	G augmented
+8gL	.
 8a	.
-8b	.
+8bJ	.
 =5	=5
-4cc	C
-8cc	C/G
-8cc[	.
-8cc]	C
+4cc	C major
+8ccL	C major/G
+[8ccJ	.
+8ccL]	C major
 8b	.
-8a	C/G
-8g	.
+8a	C major/G
+8gJ	.
 =6	=6
-4a	Am/C
+4a	A minor/C
 8a	.
 4a	.
-8g	.
-8f	Am
-8e	.
+8gL	.
+8f	A minor
+8eJ	.
 =7	=7
-8f	F/A
+8fL	F major/A
 8f	.
-8f	G11
-8f	.
-8f	F
-8e	.
-4f	Fmaj7/E
+8f	G dominant-11th
+8fJ	.
+8fL	F major
+8eJ	.
+4f	F major-seventh/E
 =8	=8
-4a	G
-8g	.
-8g[	.
-8.g]	Gaug
+4a	G major
+8gL	.
+[8gJ	.
+8.g]	G augmented
 16r	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =9	=9
-4cc	Am/C
+4cc	A minor/C
 8cc	.
 4cc	.
-8b	.
+8bL	.
 8a	.
-8b	.
+8bJ	.
 =10	=10
-4cc	Cadd(2,4,8,11)
+4cc	C other-2,4,8,11
 8cc	.
 4cc	.
-8b	.
+8bL	.
 8a	.
-8b	.
+8bJ	.
 =11	=11
-4.cc	Cadd(4,7,9)
+4.cc	C other-4,7,9
 4cc	.
 8b	.
 4cc	.
 =12	=12
-2dd	D/A
-4r	Dm7b5/G#
-8cc	.
-8dd	.
+2dd	D major/A
+4r	D half-diminished/G#
+8ccL	.
+8ddJ	.
 =13	=13
-4ee	C/G
+4ee	C major/G
 8ee	.
 4ee	.
 8dd	.
 4cc	.
 =14	=14
-8ee	F#m7b5
-16ee	.
-16ee	.
-8ee	.
+8eeL	F# half-diminished
+16eeL	.
+16eeJ	.
+8eeJ	.
 4ee	.
-8dd	.
+8ddL	.
 8cc	.
-8dd	.
+8ddJ	.
 =15	=15
-4ee	F
+4ee	F major
 8ee	.
-4ee	G11
+4ee	G dominant-11th
 8cc	.
-4dd[	Bdim7
+[4dd	B diminished-seventh
 =16	=16
 4dd]	.
 4.r	.
-8g	.
+8gL	.
 8a	.
-8b	.
+8bJ	.
 ==	==
 *-	*-

@@ -16,141 +16,141 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4..r	D#m
+4..r	D# minor
 16d#	.
-16a#	G#m
+16a#LL	G# minor
 16g#	.
-16g#	.
-8.g#	.
+16g#J	.
+8.g#J	.
 8r	.
 =2	=2
-2r	B
-8g#	C#
-16g#	.
-16a#	.
+2r	B major
+8g#L	C# major
+16g#L	.
+16a#J	.
 8b	.
-8a#	.
+8a#J	.
 =3	=3
-6...r	D#m
-16d#	.
-8a#	.
-16a#	G#m
+6...r	D# minor
+16d#LK	.
+8a#J	.
+16a#LL	G# minor
 16g#	.
-16g#	.
-8.g#	.
+16g#J	.
+8.g#J	.
 8r	.
 =4	=4
-2r	B
-8g#	C#
-16g#	.
-16a#	.
+2r	B major
+8g#L	C# major
+16g#L	.
+16a#J	.
 8b	.
-8a#	.
+8a#J	.
 =5	=5
-4..r	D#m
+4..r	D# minor
 16d#	.
-16a#	G#m
-16g#	.
+16a#LL	G# minor
+16g#J	.
 8g#	.
-16g#	.
-8.a#	.
+16g#k	.
+8.a#J	.
 =6	=6
-4.r	B
-16g#	.
-16f#	.
-8g#	C#
-16g#	.
-16a#	.
+4.r	B major
+16g#LL	.
+16f#JJ	.
+8g#L	C# major
+16g#L	.
+16a#J	.
 8b	.
-8a#	.
+8a#J	.
 =7	=7
-4..r	D#m
+4..r	D# minor
 16d#	.
-16a#	G#m
-16g#	.
+16a#LL	G# minor
+16g#J	.
 8g#	.
-8g#	.
+8g#J	.
 16r	.
 16d#	.
 =8	=8
-16b	A#
+16bLL	A# major
 16a#	.
-16a#	.
-8.a#	.
+16a#J	.
+8.a#J	.
 8r	.
-16b	.
+16bLL	.
 16a#	.
-16a#	.
-8.a#	.
+16a#J	.
+8.a#J	.
 8r	.
 =9	=9
-16b	.
+16bLL	.
 16a#	.
-16a#	.
+16a#J	.
 8.a#	.
-16g#	.
-16g#	.
-8g#	.
-16g#	.
-16a#	.
+16g#L	.
+16g#JJ	.
+8g#L	.
+16g#L	.
+16a#J	.
 8b	.
-8a#	.
+8a#J	.
 =10	=10
-16dd#	D#m
-16bb	.
+16dd#LL	D# minor
+16bbJ	.
 8aa#	.
 8ff#	.
-16e#	D#m
-16e#	D#m
-16f#	.
-16e#	D#m
-16aa#[	D#m
-16aa#]	.
+16e#L	D# minor
+16e#JJ	D# minor
+16f#LL	.
+16e#	D# minor
+[16aa#	D# minor
+16aa#J]	.
 8ff#	.
-16e#	.
-16f#	.
+16e#L	.
+16f#JJ	.
 =11	=11
-16dd#	D#m
-16dd#	D#m
-16aa#[	D#m
-16aa#]	.
+16dd#LL	D# minor
+16dd#	D# minor
+[16aa#	D# minor
+16aa#J]	.
 8ff#	.
-16e#	D#m
-16e#	D#m
-16f#	.
-16e#	D#m
-16aa#[	D#m
-16aa#]	.
+16e#L	D# minor
+16e#JJ	D# minor
+16f#LL	.
+16e#	D# minor
+[16aa#	D# minor
+16aa#J]	.
 8ff#	.
-16e#	.
-16f#	.
+16e#L	.
+16f#JJ	.
 =12	=12
-16dd#	D#m
-16bb	.
+16dd#LL	D# minor
+16bbJ	.
 8aa#	.
 8ff#	.
-16e#	D#m
-16e#	D#m
-16f#	.
-16e#	D#m
-16aa#[	D#m
-16aa#]	.
+16e#L	D# minor
+16e#JJ	D# minor
+16f#LL	.
+16e#	D# minor
+[16aa#	D# minor
+16aa#J]	.
 8ff#	.
-16e#	.
-16f#	.
+16e#L	.
+16f#JJ	.
 =13	=13
-16dd#	D#m
-16dd#	D#m
-16aa#[	D#m
-16aa#]	.
+16dd#LL	D# minor
+16dd#	D# minor
+[16aa#	D# minor
+16aa#J]	.
 8ff#	.
-16e#	D#m
-16e#	D#m
+16e#L	D# minor
+16e#JJ	D# minor
 16r	.
+8d#L	.
 8d#	.
-8d#	.
+16d#L	.
 16d#	.
-16d#	.
-16d#	.
+16d#JJ	.
 ==	==
 *-	*-

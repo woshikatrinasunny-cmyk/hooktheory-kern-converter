@@ -16,52 +16,52 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.dd[	C
-4dd]	D#dim
-8cc	.
+[4.dd	C major
+4dd]	D# diminished
+8ccL	.
 8b	.
-8a	Em
+8aJ	E minor
 =2	=2
 4.b	.
-3...ee	Em/G
+3...ee	E minor/G
 =3	=3
-4.dd[	C
-4dd]	D#dim
-8cc	.
+[4.dd	C major
+4dd]	D# diminished
+8ccL	.
 8b	.
-8cc	Em
+8ccJ	E minor
 =4	=4
-8.b	.
-8.g	.
-4.e	Em/G
-8b	.
-8cc	.
+8.bL	.
+8.gJ	.
+4.e	E minor/G
+8bL	.
+8ccJ	.
 =5	=5
-4.dd[	C
-4dd]	D#dim
-8cc	.
+[4.dd	C major
+4dd]	D# diminished
+8ccL	.
 8b	.
-8a	Em
+8aJ	E minor
 =6	=6
-8.b	.
-8ff#	.
+8.bL	.
+8ff#J	.
 16r	.
-3...gg	Em
+3...gg	E minor
 =7	=7
-4r	Am
+4r	A minor
 4gg	.
-4ff#	Bm
+4ff#	B minor
 4gg	.
 =8	=8
-4aa#	Cm
+4aa#	C minor
 4aa#	.
-4aa	Dm
+4aa	D minor
 4gg	.
 =9	=9
 4r	.
 4a#	.
 4a	.
-8g	.
-8f#	.
+8gL	.
+8f#J	.
 ==	==
 *-	*-

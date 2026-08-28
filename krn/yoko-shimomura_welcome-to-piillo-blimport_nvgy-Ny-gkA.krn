@@ -16,123 +16,123 @@
 *D:	*
 *M4/4	*
 =1	=1
-4dd	D
+4dd	D major
 4a	.
 4ff#	.
-8dd	.
-8dd[	.
+8ddL	.
+[8ddJ	.
 =2	=2
-8dd]	Dadd(2,4,7)
+8dd]	D other-2,4,7
 4dd	.
 8ee	.
-8ff#	.
+8ff#L	.
 8gg	.
 8aa	.
-8bb	.
+8bbJ	.
 =3	=3
-1aa[	D
+[1aa	D major
 =4	=4
-2aa]	Dadd(4,5,7)
+2aa]	D other-4,5,7
 4ccc	.
 4aa#	.
 =5	=5
-4.aa	D
-3...dd[	.
+4.aa	D major
+[3...dd	.
 =6	=6
-2dd]	Dadd(4,5,7)
+2dd]	D other-4,5,7
 4aa	.
 4dd	.
 =7	=7
-1dd[	D
+[1dd	D major
 =8	=8
-2dd]	Dadd(2,4,7)
+2dd]	D other-2,4,7
 4ff#	.
 4ee	.
 =9	=9
-4dd	D
+4dd	D major
 4a	.
 4ff#	.
-8dd	.
-8dd[	.
+8ddL	.
+[8ddJ	.
 =10	=10
-8dd]	Dadd(2,4,7)
+8dd]	D other-2,4,7
 4dd	.
 8ee	.
-8ff#	.
+8ff#L	.
 8gg	.
 8aa	.
-8bb	.
+8bbJ	.
 =11	=11
-1aa[	D
+[1aa	D major
 =12	=12
-2aa]	Dadd(4,5,7)
+2aa]	D other-4,5,7
 4ddd	.
 4eee	.
 =13	=13
-4.fff#	D
+4.fff#	D major
 4.ddd	.
 4aa	.
 =14	=14
-4.ccc	Dadd(4,5,7)
-16aa#	.
-16ccc	.
+4.ccc	D other-4,5,7
+16aa#LL	.
+16cccJJ	.
 4aa#	.
-8aa	.
-8gg	.
+8aaL	.
+8ggJ	.
 =15	=15
-1aa[	D
+[1aa	D major
 =16	=16
-2aa]	Dadd(2,4,7)
+2aa]	D other-2,4,7
 4gg	.
-8ff#	.
-8ee	.
+8ff#L	.
+8eeJ	.
 =17	=17
-4dd[	D
-4dd_	D
-8dd_	D
-4dd_	D
-8dd_	D
+[4dd	D major
+4dd_	D major
+8dd_	D major
+4dd_	D major
+8dd_	D major
 =18	=18
 8dd_	.
-4dd_	D
-8dd_	D
-4dd_	Dsus4
-4dd_	Dsus4
+4dd_	D major
+8dd_	D major
+4dd_	D suspended-fourth
+4dd_	D suspended-fourth
 =19	=19
-4dd_	D
-4dd]	D
-8r	D
-4r	D
-8r	D
+4dd_	D major
+4dd]	D major
+8r	D major
+4r	D major
+8r	D major
 =20	=20
 8r	.
-4r	D
-8r	D
-4r	Dsus4
-4r	Dsus4
+4r	D major
+8r	D major
+4r	D suspended-fourth
+4r	D suspended-fourth
 =21	=21
-4r	D
-4r	D
-8r	D
-4r	D
-8r	D
+4r	D major
+4r	D major
+8r	D major
+4r	D major
+8r	D major
 =22	=22
 8r	.
-4r	D
-8r	D
-4r	Dsus4
-4r	Dsus4
+4r	D major
+8r	D major
+4r	D suspended-fourth
+4r	D suspended-fourth
 =23	=23
-4r	D
-4r	D
-8r	D
-4r	D
-8r	D
+4r	D major
+4r	D major
+8r	D major
+4r	D major
+8r	D major
 =24	=24
 8r	.
-4r	D
-8r	D
-4r	Dsus4
-4r	Dsus4
+4r	D major
+8r	D major
+4r	D suspended-fourth
+4r	D suspended-fourth
 ==	==
 *-	*-

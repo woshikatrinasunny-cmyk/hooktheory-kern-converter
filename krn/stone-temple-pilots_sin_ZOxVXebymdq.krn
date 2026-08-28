@@ -16,12 +16,12 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.g	Em11
+4.g	E minor-11th
 16d	.
 8.e	.
-8e	.
-16e	.
-16e	.
+8eL	.
+16eL	.
+16eJJ	.
 8r	.
 =2	=2
 4g	.
@@ -29,14 +29,14 @@
 8.e	.
 4..d	.
 =3	=3
+8gL	.
 8g	.
 8g	.
+8eJ	.
+8gL	.
 8g	.
-8e	.
 8g	.
-8g	.
-8g	.
-8e	.
+8eJ	.
 =4	=4
 8d	.
 2B	.
@@ -46,37 +46,37 @@
 4.g	.
 16d	.
 8.e	.
+8dL	.
 8d	.
-8d	.
-8d[	.
+[8dJ	.
 =6	=6
-16d]	.
-16B	.
+16dLL]	.
+16BJJ	.
 2..B	.
 =7	=7
+8dL	.
 8d	.
 8d	.
+8BJ	.
+8eL	.
 8d	.
-8B	.
-8e	.
 8d	.
-8d	.
-16A#	.
-16A[	.
+16A#L	.
+[16AJJ	.
 =8	=8
 4.A]	.
 8B	.
 16E	.
 4..E	.
 =9	=9
-4d	Dm7
+4d	D minor-seventh
 8r	.
-3...r	Dm9
+3...r	D minor-ninth
 =10	=10
-4.r	C#m9
-3...r	Bm11
+4.r	C# minor-ninth
+3...r	B minor-11th
 =11	=11
 2r	.
-2r	Eadd(6,7)
+2r	E other-6,7
 ==	==
 *-	*-

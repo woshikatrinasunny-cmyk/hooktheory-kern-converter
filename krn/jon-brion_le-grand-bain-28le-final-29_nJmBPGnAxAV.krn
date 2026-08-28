@@ -16,7 +16,7 @@
 *E:	*
 *M4/4	*
 =1	=1
-4b	C
+4b	C major
 4ccn	.
 4ccn	.
 4b	.
@@ -30,10 +30,10 @@
 4ccn	.
 2ccn	.
 =4	=4
-4r	Cmaj7
-4r	Em
-4r	Em/G
-4g#	Amaj7
+4r	C major-seventh
+4r	E minor
+4r	E minor/G
+4g#	A major-seventh
 =5	=5
 4g#	.
 4a	.
@@ -49,12 +49,12 @@
 4a	.
 2a	.
 =8	=8
-4r	A
-4r	C#5
-4r	C#add(6)
+4r	A major
+4r	C# power
+4r	C# other-6
 4r	F#
 =9	=9
-4b	F
+4b	F major
 4ccn	.
 4ccn	.
 4b	.
@@ -68,10 +68,10 @@
 4ccn	.
 2ccn	.
 =12	=12
-4r	F
-4r	G5
-4r	F5
-4dd#	E
+4r	F major
+4r	G power
+4r	F power
+4dd#	E major
 =13	=13
 4dd#	.
 4ee	.
@@ -83,7 +83,7 @@
 4ee	.
 4dd#	.
 =15	=15
-4dd#	C#m
+4dd#	C# minor
 4ee	.
 2ee	.
 =16	=16

@@ -15,63 +15,63 @@
 *b:	*
 *M4/4	*
 =1	=1
-4r	B
+4r	B major
+8BL	.
+8AJ	B major
+8BL	.
 8B	.
-8A	B
-8B	.
-8B	.
-8d	C#
-8d[	.
+8d	C# major
+[8dJ	.
 =2	=2
-8d]	D
+8dL]	D major
 8A	.
 8B	.
-8A	D
+8AJ	D major
 4B	.
-4A	E
+4A	E major
 =3	=3
-8r	A
+8r	A major
+8AL	.
 8A	.
-8A	.
-8A	A
+8AJ	A major
 4A	.
-4A	G
+4A	G major
 =4	=4
-8B	E
+8BL	E major
 8B	.
-8A[	.
-8A]	E
-8A	E7
+[8A	.
+8AJ]	E major
+8AL	E dominant
 8A	.
-8B	E
-8A	.
+8B	E major
+8AJ	.
 =5	=5
-4B	B
-8A[	.
-8A]	B
+4B	B major
+[8AL	.
+8AJ]	B major
 4r	.
-8A	C#
-8B	.
+8AL	C# major
+8BJ	.
 =6	=6
-8B	D
+8BL	D major
 8F#	.
 8A	.
-8B	D
-8B	.
+8BJ	D major
+8BL	.
 8F#	.
-8A	E
-8B	.
+8A	E major
+8BJ	.
 =7	=7
-4B	A
-8d[	.
-4.d]	A
-8r	G
+4B	A major
+[8d	.
+4.d]	A major
+8r	G major
 8B	.
 =8	=8
-4A	E
+4A	E major
 8r	.
-8r	E
-4r	E7
-4r	E
+8r	E major
+4r	E dominant
+4r	E major
 ==	==
 *-	*-

@@ -16,10 +16,10 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8c#	.
+8c#L	.
 8C#	.
 8E	.
-8C#	.
+8C#J	.
 8E	.
 4F#	.
 8C#	.
@@ -27,26 +27,26 @@
 4G	.
 8C#	.
 4F#	.
-8C#	.
+8C#L	.
 8E	.
-8C#	.
+8C#J	.
 =3	=3
-8c#	.
+8c#L	.
 8C#	.
 8E	.
-8C#	.
+8C#J	.
 8E	.
 4F#	.
 8C#	.
 =4	=4
-4.G	G
-4.G	G
-4F#	F#m
+4.G	G major
+4.G	G major
+4F#	F# minor
 =5	=5
-8c#	.
+8c#L	.
 8C#	.
 8E	.
-8C#	.
+8C#J	.
 8E	.
 4F#	.
 8C#	.
@@ -54,102 +54,102 @@
 4G	.
 8C#	.
 4F#	.
-8C#	.
+8C#L	.
 8E	.
-8C#	.
+8C#J	.
 =7	=7
-8c#	.
+8c#L	.
 8C#	.
 8E	.
-8C#	.
+8C#J	.
 8E	.
 4F#	.
 8C#	.
 =8	=8
-4.A	A
-4.A	A
-4G	G
+4.A	A major
+4.A	A major
+4G	G major
 =9	=9
-4C#	C#dim
-8E	.
-8C#	.
+4C#	C# diminished
+8EL	.
+8C#J	.
 8E	.
 4F#	.
 8C#	.
 =10	=10
-4G	C#dim
+4G	C# diminished
 8C#	.
-4F#	C#dim
-8C#	.
-8E	C#dim
-8C#	.
+4F#	C# diminished
+8C#L	.
+8E	C# diminished
+8C#J	.
 =11	=11
 4C#	.
-8E	.
-8C#	.
+8EL	.
+8C#J	.
 8E	.
 4F#	.
 8C#	.
 =12	=12
-4.G	G
-4.G	G
-4F#	F#m
+4.G	G major
+4.G	G major
+4F#	F# minor
 =13	=13
-4C#	C#dim
-8E	.
-8C#	.
+4C#	C# diminished
+8EL	.
+8C#J	.
 8E	.
 4F#	.
 8C#	.
 =14	=14
-4G	C#dim
+4G	C# diminished
 8C#	.
-4F#	C#dim
-8C#	.
-8E	C#dim
-8C#	.
+4F#	C# diminished
+8C#L	.
+8E	C# diminished
+8C#J	.
 =15	=15
 4C#	.
-8E	.
-8C#	.
+8EL	.
+8C#J	.
 8E	.
 4F#	.
 8C#	.
 =16	=16
-4.A	A
-4.A	A
-4G	G
+4.A	A major
+4.A	A major
+4G	G major
 =17	=17
-8C#	C#dim
+8C#L	C# diminished
 8C#	.
 8C#	.
-8C#	.
+8C#J	.
 4r	.
-8C#	C#dim
-8C#	.
+8C#L	C# diminished
+8C#J	.
 =18	=18
-8C#	.
-8C#	.
+8C#L	.
+8C#J	.
 4r	.
-8C#	C#dim
-8C#	.
+8C#L	C# diminished
+8C#J	.
 4r	.
 =19	=19
-8C#	C#dim
+8C#L	C# diminished
 8C#	.
 8C#	.
-8C#	.
+8C#J	.
 4r	.
-8C#	C#dim
-8C#	.
+8C#L	C# diminished
+8C#J	.
 =20	=20
-8E	C#dim
+8EL	C# diminished
 8E	.
-8F#	C#add(5,6)
-8F#	.
-8E	C#dim
+8F#	C# other-5,6
+8F#J	.
+8EL	C# diminished
 8E	.
-8D#	C#sus2
-8D#	.
+8D#	C# suspended-second
+8D#J	.
 ==	==
 *-	*-

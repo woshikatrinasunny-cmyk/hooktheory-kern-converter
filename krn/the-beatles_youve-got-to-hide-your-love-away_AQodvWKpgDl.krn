@@ -15,45 +15,45 @@
 *G:	*
 *M3/4	*
 =1	=1
-4g	G
+4g	G major
 8g	.
-4.a	Dsus4
+4.a	D suspended-fourth
 =2	=2
-8.cc	Fadd(2,4,7)
+8.cc	F other-2,4,7
 8.cc	.
-16b	G
-16a	.
+16bLL	G major
+16aJJ	.
 4g	.
 =3	=3
-4g	C
+4g	C major
 8g	.
-8.g	C
-16a	.
-8a	.
+8.g	C major
+16aLK	.
+8aJ	.
 =4	=4
-4.a	Fadd(2,4,7)
-4.r	C
+4.a	F other-2,4,7
+4.r	C major
 =5	=5
-4g	G
+4g	G major
 8g	.
-4a	Dsus4
+4a	D suspended-fourth
 8a	.
 =6	=6
-4cc	Fadd(2,4,7)
-8cc	.
-16b	G
-16a	.
+4cc	F other-2,4,7
+8ccL	.
+16bL	G major
+16aJJ	.
 4g	.
 =7	=7
-4g	C
+4g	C major
 8g	.
-4g	C
+4g	C major
 8a	.
 =8	=8
-4.a	Fadd(2,4,7)
-4.g	C
+4.a	F other-2,4,7
+4.g	C major
 =9	=9
-4.f#	D
-4.r	D
+4.f#	D major
+4.r	D major
 ==	==
 *-	*-

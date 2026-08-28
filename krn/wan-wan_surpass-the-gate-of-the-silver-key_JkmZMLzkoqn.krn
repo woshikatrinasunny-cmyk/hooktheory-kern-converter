@@ -16,75 +16,75 @@
 *b-:	*
 *M4/4	*
 =1	=1
-2b-	B-m
+2b-	B- minor
 4b-	.
-8cc	.
-8dd-[	.
+8ccL	.
+[8dd-J	.
 =2	=2
-2dd-]	G-
-8dd-	.
+2dd-]	G- major
+8dd-L	.
 8.ee-	.
-8.dd-	.
+8.dd-J	.
 =3	=3
-4.a-	A-
+4.a-	A- major
 8g-	.
-2f[	.
+[2f	.
 =4	=4
-2f_	D-
-2f]	F/C
+2f_	D- major
+2f]	F major/C
 =5	=5
-2b-	B-m
+2b-	B- minor
 4b-	.
-8cc	.
-8dd-[	.
+8ccL	.
+[8dd-J	.
 =6	=6
-2dd-]	G-
-8dd-	.
+2dd-]	G- major
+8dd-L	.
 8.ee-	.
-8.dd-	.
+8.dd-J	.
 =7	=7
-8ff	Cdim
+8ffL	C diminished
 8.cc	.
-8.dd-	.
-4cc[	.
-4cc_	B-m
+8.dd-J	.
+[4cc	.
+4cc_	B- minor
 =8	=8
-1cc]	F/A
+1cc]	F major/A
 =9	=9
-2b-	B-m
+2b-	B- minor
 4b-	.
-8cc	.
-8dd-[	.
+8ccL	.
+[8dd-J	.
 =10	=10
-2dd-]	G-
-8dd-	.
+2dd-]	G- major
+8dd-L	.
 8.ee-	.
-8.dd-	.
+8.dd-J	.
 =11	=11
-4.a-	A-
+4.a-	A- major
 8g-	.
-2f[	.
+[2f	.
 =12	=12
-2f_	D-
-2f]	F/C
+2f_	D- major
+2f]	F major/C
 =13	=13
-2b-	B-m
+2b-	B- minor
 4b-	.
-8cc	.
-8dd-[	.
+8ccL	.
+[8dd-J	.
 =14	=14
-2dd-]	G-
-8dd-	.
+2dd-]	G- major
+8dd-L	.
 8.cc	.
-8.b-	.
+8.b-J	.
 =15	=15
-3...cc	Cdim/G-
-8cc	.
-16dd-	.
-16cc	.
-8b-	.
+3...cc	C diminished/G-
+8ccL	.
+16dd-L	.
+16ccJ	.
+8b-J	.
 =16	=16
-4an	F
+4an	F major
 4b-	.
 2cc	.
 ==	==

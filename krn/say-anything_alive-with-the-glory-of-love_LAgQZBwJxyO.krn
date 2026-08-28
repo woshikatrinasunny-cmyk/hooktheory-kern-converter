@@ -15,33 +15,33 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.b	Bm
+4.b	B minor
 8a	.
-4.f#[	.
-8f#]	Badd(2,3,7)
+[4.f#	.
+8f#]	B other-2,3,7
 =2	=2
 4r	.
 4cc#	.
 4cc#	.
 4b	.
 =3	=3
-8a	Dmaj7
+8a	D major-seventh
 3...f#	.
 4r	.
 =4	=4
 4a	.
 4f#	.
 4.a	.
-8f#[	.
+[8f#	.
 =5	=5
-8f#]	A
+8f#]	A major
 4.e	.
 2r	.
 =6	=6
 2.r	.
 4a	.
 =7	=7
-4b	E
+4b	E major
 2r	.
 4e	.
 =8	=8
@@ -49,16 +49,16 @@
 4..cc#	.
 16r	.
 =9	=9
-4b	Bm
+4b	B minor
 8a	.
-2f#[	.
-8f#]	Badd(2,3,7)
+[2f#	.
+8f#]	B other-2,3,7
 =10	=10
 4r	.
 4.cc#	.
 4.cc#	.
 =11	=11
-4b	Dmaj7
+4b	D major-seventh
 8a	.
 4.f#	.
 4r	.
@@ -67,15 +67,15 @@
 4f#	.
 2a	.
 =13	=13
-4cc#	F#m
+4cc#	F# minor
 2.r	.
 =14	=14
 2r	.
 4dd	.
-8cc#	.
-8b[	.
+8cc#L	.
+[8bJ	.
 =15	=15
-8b]	E
+8b]	E major
 4.b	.
 4r	.
 4cc#	.
@@ -83,19 +83,19 @@
 2dd	.
 2dd	.
 =17	=17
-4b	Bm
+4b	B minor
 8a	.
-2f#[	.
-8f#]	Badd(2,3,7)
+[2f#	.
+8f#]	B other-2,3,7
 =18	=18
 4r	.
 8cc#	.
 4.dd	.
-4cc#[	.
+[4cc#	.
 =19	=19
-4cc#]	Dmaj7
-8b	.
-8a	.
+4cc#]	D major-seventh
+8bL	.
+8aJ	.
 4f#	.
 4r	.
 =20	=20
@@ -104,31 +104,31 @@
 4a	.
 4f#	.
 =21	=21
-4e	A
+4e	A major
 2.r	.
 =22	=22
 2.r	.
 4a	.
 =23	=23
-4b	E
+4b	E major
 2r	.
 4e	.
 =24	=24
 2ee	.
 2cc#	.
 =25	=25
-4b	Bm
+4b	B minor
 8a	.
 4.f#	.
 8r	.
-8r	Badd(2,3,7)
+8r	B other-2,3,7
 =26	=26
 8r	.
 4f#	.
 4.ee	.
 4cc#	.
 =27	=27
-8b	Dmaj7
+8b	D major-seventh
 4a	.
 4f#	.
 8r	.
@@ -137,16 +137,16 @@
 4a	.
 4f#	.
 4a	.
-4cc#[	.
+[4cc#	.
 =29	=29
-4cc#]	F#m
+4cc#]	F# minor
 4r	.
-2r	F#m7
+2r	F# minor-seventh
 =30	=30
-2r	F#m
-2dd	F#m7
+2r	F# minor
+2dd	F# minor-seventh
 =31	=31
-1b	E
+1b	E major
 =32	=32
 2g#	.
 2r	.

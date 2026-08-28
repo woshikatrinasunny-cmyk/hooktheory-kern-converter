@@ -16,40 +16,40 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.dd	B-
+4.dd	B- major
 4dd	.
 4cc	.
 8b-	.
 =2	=2
-4.a	F
+4.a	F major
 4a	.
 4b-	.
 8cc	.
 =3	=3
-4.ee	C
+4.ee	C major
 4ee	.
 4dd	.
 8cc	.
 =4	=4
-4.a	F
+4.a	F major
 4a	.
-4b-	Gm7
-8cc	F/A
+4b-	G minor-seventh
+8cc	F major/A
 =5	=5
-4.dd	B-
+4.dd	B- major
 4dd	.
 4cc	.
 8b-	.
 =6	=6
-4.a	F
+4.a	F major
 4a	.
 4b-	.
 8cc	.
 =7	=7
-4.ee	C
+4.ee	C major
 4ee	.
-8dd	.
+8ddL	.
 8cc	.
-8a	.
+8aJ	.
 ==	==
 *-	*-

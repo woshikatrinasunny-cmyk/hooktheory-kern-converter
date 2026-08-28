@@ -16,77 +16,77 @@
 *D:	*
 *M4/4	*
 =1	=1
-4r	D
-8f#	.
-8f#	G
+4r	D major
+8f#L	.
+8f#J	G major
 8e	.
 4.f#	.
 =2	=2
-4r	D
-8f#	.
-8f#	G
+4r	D major
+8f#L	.
+8f#J	G major
 8e	.
 4.d	.
 =3	=3
-4r	D
-8f#	.
-8f#	G
+4r	D major
+8f#L	.
+8f#J	G major
 8e	.
 4.f#	.
 =4	=4
-8r	A7
-8r	A7
-8r	A7
-8r	A7
-8r	A7
+8r	A dominant
+8r	A dominant
+8r	A dominant
+8r	A dominant
+8r	A dominant
+8dL	.
 8d	.
-8d	.
-8d	.
+8dJ	.
 =5	=5
-4d	D
+4d	D major
 16r	.
+16dLL	.
 16d	.
-16d	.
-16d	.
-16d	G
-16B	.
+16dJJ	.
+16dLL	G major
+16BJJ	.
 4d	.
-16d	.
-16d[	.
+16dLL	.
+[16dJJ	.
 =6	=6
-16d]	D
+16dLL]	D major
 16B	.
 16d	.
-16B	.
+16BJ	.
 8d	.
-16d	.
-16d[	.
-8d]	G
+16dL	.
+[16dJJ	.
+8dL]	G major
 8d	.
 8d	.
-8d	.
+8dJ	.
 =7	=7
-4d	D
+4d	D major
 16r	.
+16dLL	.
 16d	.
-16d	.
-16d	.
-16d	G
-16B	.
+16dJJ	.
+16dLL	G major
+16BJJ	.
 4d	.
-16d	.
-16c#[	.
+16dLL	.
+[16c#JJ	.
 =8	=8
-16c#]	A7
+16c#LL]	A dominant
 16B	.
-16c#	A7
-16B	.
-8c#	A7
-16c#	A7
-16c#[	.
-8c#]	A7
+16c#	A dominant
+16BJ	.
+8c#	A dominant
+16c#L	A dominant
+[16c#JJ	.
+8c#L]	A dominant
 8d	.
 8d	.
-8d	.
+8dJ	.
 ==	==
 *-	*-

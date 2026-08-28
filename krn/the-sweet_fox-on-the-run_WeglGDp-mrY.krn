@@ -16,77 +16,77 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4.f#	F#
+4.f#	F# major
 4.f#	.
-4f#[	.
+[4f#	.
 =2	=2
-8f#]	E
+8f#L]	E major
 8en	.
 8en	.
-8en	.
-8an	B
+8enJ	.
+8an	B major
 4g#	.
-8f#[	.
+[8f#	.
 =3	=3
-2..f#]	F#
+2..f#]	F# major
 8f#	.
 =4	=4
-4en	E
+4en	E major
 4en	.
-8an	B
+8an	B major
 4g#	.
-8f#[	.
+[8f#	.
 =5	=5
-2..f#]	F#
+2..f#]	F# major
 8f#	.
 =6	=6
-4en	E
+4en	E major
 4en	.
 4en	.
 4en	.
 =7	=7
 2en	.
-8d#	.
+8d#L	.
 8en	.
 8d#	.
-8c#[	.
+[8c#J	.
 =8	=8
 2c#]	.
 4r	.
-8en	.
-8f#	.
+8enL	.
+8f#J	.
 =9	=9
-8f#	F#
-8en	.
+8f#L	F# major
+8enJ	.
 4f#	.
 8en	.
 4f#	.
 8f#	.
 =10	=10
-8en	E
+8enL	E major
 8en	.
 8en	.
-8en	.
-8an	B
+8enJ	.
+8an	B major
 4g#	.
-8f#[	.
+[8f#	.
 =11	=11
-2.f#]	F#
-8f#	.
-8en	.
+2.f#]	F# major
+8f#L	.
+8enJ	.
 =12	=12
-8en	E
+8enL	E major
 8en	.
 8en	.
-8en	.
-8an	B
+8enJ	.
+8an	B major
 4g#	.
-8f#[	.
+[8f#	.
 =13	=13
-2..f#]	F#
+2..f#]	F# major
 8f#	.
 =14	=14
-4en	E
+4en	E major
 4en	.
 4en	.
 4en	.
@@ -97,7 +97,7 @@
 4een	.
 =16	=16
 2aan	.
-4r	A
-4r	B
+4r	A major
+4r	B major
 ==	==
 *-	*-

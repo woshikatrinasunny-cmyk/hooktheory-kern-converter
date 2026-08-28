@@ -15,7 +15,7 @@
 *E:	*
 *M4/4	*
 =1	=1
-16bb	E
+16bb	E major
 6...r	.
 16aa	.
 6...r	.
@@ -36,7 +36,7 @@
 16b	.
 16r	.
 =3	=3
-16ccn	Caug
+16ccn	C augmented
 16r	.
 16ee	.
 8.r	.
@@ -47,11 +47,11 @@
 16ccn	.
 16r	.
 =4	=4
-2..r	Cadd(2,4,6,7)
+2..r	C other-2,4,6,7
 16b	.
 16r	.
 =5	=5
-16bb	E
+16bb	E major
 6...r	.
 16aa	.
 6...r	.
@@ -72,7 +72,7 @@
 16b	.
 16r	.
 =7	=7
-16ccn	Caug
+16ccn	C augmented
 16r	.
 16ee	.
 8.r	.
@@ -83,7 +83,7 @@
 16cccn	.
 16r	.
 =8	=8
-8r	Dadd(2,4,7)
+8r	D other-2,4,7
 16bb	.
 8.r	.
 16aa	.
@@ -95,7 +95,7 @@
 16aa	.
 16r	.
 =9	=9
-16bb	E
+16bb	E major
 6...r	.
 16aa	.
 6...r	.
@@ -116,7 +116,7 @@
 16b	.
 16r	.
 =11	=11
-16ccn	Caug
+16ccn	C augmented
 16r	.
 16ee	.
 8.r	.
@@ -127,11 +127,11 @@
 16ccn	.
 16r	.
 =12	=12
-2..r	Cadd(2,4,6,7)
+2..r	C other-2,4,6,7
 16b	.
 16r	.
 =13	=13
-16bb	E
+16bb	E major
 6...r	.
 16aa	.
 6...r	.
@@ -152,7 +152,7 @@
 16b	.
 16r	.
 =15	=15
-16ccn	Caug
+16ccn	C augmented
 16r	.
 16ee	.
 8.r	.
@@ -163,7 +163,7 @@
 16ggn	.
 16r	.
 =16	=16
-16ggn	Dadd(2,4,7)
+16ggn	D other-2,4,7
 16r	.
 16ggn	.
 16r	.

@@ -16,83 +16,83 @@
 *g:	*
 *M4/4	*
 =1	=1
-2r	Gm
-2r	Dm
+2r	G minor
+2r	D minor
 =2	=2
-4r	Gm
+4r	G minor
 4G	.
 4r	.
 4G	.
 =3	=3
-8r	Gm
-16g	.
+8r	G minor
+16gLK	.
 8b-	.
-16cc	.
-8cc[	.
-8cc]	Dm
-16g	.
-16g	.
+16cck	.
+[8ccJ	.
+8ccL]	D minor
+16gL	.
+16gJ	.
 8b-	.
-16cc	.
-16b-	.
+16ccL	.
+16b-JJ	.
 =4	=4
-4cc	Gm
+4cc	G minor
 4G	.
 4r	.
 4G	.
 =5	=5
-4r	Gm
-16b-	.
+4r	G minor
+16b-LL	.
 16cc	.
 16b-	.
-16dd[	.
-16dd]	Dm
-16g	.
+[16ddJJ	.
+16ddLL]	D minor
+16gJ	.
 8g	.
-16b-	.
+16b-L	.
 16cc	.
 16b-	.
-16cc[	.
+[16ccJJ	.
 =6	=6
-8cc]	Cm
-8dd	.
+8ccL]	C minor
+8ddJ	.
 4G	.
 4r	.
 4G	.
 =7	=7
-8.r	Gm
+8.r	G minor
+16gLL	.
+16b-	.
+16cc	.
+16b-	.
+[16ccJJ	.
+8ccL]	D minor
+16gL	.
 16g	.
 16b-	.
 16cc	.
 16b-	.
-16cc[	.
-8cc]	Dm
-16g	.
-16g	.
-16b-	.
-16cc	.
-16b-	.
-16cc[	.
+[16ccJJ	.
 =8	=8
-8cc]	Gm
+8cc]	G minor
 8r	.
 4G	.
 4r	.
 4G	.
 =9	=9
-4r	Gm
-16b-	.
+4r	G minor
+16b-LK	.
 8cc	.
-16dd[	.
-16dd]	Dm
+[16ddJk	.
+16ddLK]	D minor
 8g	.
 8b-	.
-16cc	.
+16ccL	.
 16b-	.
-16cc[	.
+[16ccJJ	.
 =10	=10
-8cc]	Cm
-8dd	.
+8ccL]	C minor
+8ddJ	.
 4G	.
 4r	.
 4G	.

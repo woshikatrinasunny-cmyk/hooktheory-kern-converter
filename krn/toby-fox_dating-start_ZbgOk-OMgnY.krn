@@ -16,116 +16,116 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8ddd	B-
+8dddL	B- major
 8ff	.
-8bb-	B-/D
-16ff	.
-8.ccc	Cm/E-
-8ee-	.
-8bb-	B-/F
-8ccc	.
+8bb-	B- major/D
+16ffJk	.
+8.ccc	C minor/E-
+8ee-L	.
+8bb-	B- major/F
+8cccJ	.
 =2	=2
-8.ddd	B-
-16bb-[	.
-8bb-]	B-/D
-16ff	.
-16ee-	Cm/E-
-8gg	.
+8.dddL	B- major
+[16bb-k	.
+8bb-]	B- major/D
+16ffL	.
+16ee-JJ	C minor/E-
+8ggL	.
 8bb-	.
-8ccc	F
-8bb-	.
+8ccc	F major
+8bb-J	.
 =3	=3
-8ddd	B-
+8dddL	B- major
 8ff	.
-8bb-	B-/D
-16ff	.
-8.ccc	Cm/E-
-8ee-	.
-8bb-	B-/F
-8ccc	.
+8bb-	B- major/D
+16ffJk	.
+8.ccc	C minor/E-
+8ee-L	.
+8bb-	B- major/F
+8cccJ	.
 =4	=4
-8ddd	B-
+8dddL	B- major
+16bb-L	.
+[16eee-	.
+16eee-]	B- major/D
 16bb-	.
-16eee-[	.
-16eee-]	B-/D
-16bb-	.
-16ddd[	.
-16ddd]	Cm/E-
-8ccc	.
+[16ddd	.
+16dddJJ]	C minor/E-
+8cccL	.
 8ddd	.
-8ccc	F
-8bb-	.
+8ccc	F major
+8bb-J	.
 =5	=5
-8ff	B-
+8ffL	B- major
 8f	.
-8b-	B-/D
-16f	.
-6...cc	Cm7/E-
-8b-	B-/F
-8cc	F/C
+8b-	B- major/D
+16fJk	.
+6...cc	C minor-seventh/E-
+8b-L	B- major/F
+8ccJ	F major/C
 =6	=6
-8.dd	B-
-16b-[	.
-8b-]	B-/D
-16f[	.
-16f]	Cm7/E-
-8g	.
+8.ddL	B- major
+[16b-k	.
+8b-]	B- major/D
+[16fL	.
+16fJJ]	C minor-seventh/E-
+8gL	.
 8b-	.
-8cc	F
-8b-	F/C
+8cc	F major
+8b-J	F major/C
 =7	=7
-8ff	B-
+8ffL	B- major
 8f	.
-8b-	B-/D
-16f	.
-6...cc	Cm7/E-
-8b-	B-/F
-8cc	F/C
+8b-	B- major/D
+16fJk	.
+6...cc	C minor-seventh/E-
+8b-L	B- major/F
+8ccJ	F major/C
 =8	=8
-8dd	B-
+8ddL	B- major
+16b-L	.
+[16ee-	.
+16ee-]	B- major/D
 16b-	.
-16ee-[	.
-16ee-]	B-/D
-16b-	.
-16dd[	.
-16dd]	Cm7/E-
-8cc	.
+[16dd	.
+16ddJJ]	C minor-seventh/E-
+8ccL	.
 8dd	.
-8cc	F
-8b-	F/C
+8cc	F major
+8b-J	F major/C
 =9	=9
-8ff	B-
+8ffL	B- major
 8f	.
-8b-	B-/D
-16f	.
-6...cc	Cm7/E-
-8b-	B-/F
-8cc	F/C
+8b-	B- major/D
+16fJk	.
+6...cc	C minor-seventh/E-
+8b-L	B- major/F
+8ccJ	F major/C
 =10	=10
-8.dd	B-
-16b-[	.
-8b-]	B-/D
-16f[	.
-16f]	Cm7/E-
-8g	.
+8.ddL	B- major
+[16b-k	.
+8b-]	B- major/D
+[16fL	.
+16fJJ]	C minor-seventh/E-
+8gL	.
 8b-	.
-8cc	F
-8b-	F/C
+8cc	F major
+8b-J	F major/C
 =11	=11
-8ff	B-
+8ffL	B- major
 8f	.
-8b-	B-/D
-16f	.
-6...cc	Cm7/E-
-8b-	F
-8cc	.
+8b-	B- major/D
+16fJk	.
+6...cc	C minor-seventh/E-
+8b-L	F major
+8ccJ	.
 =12	=12
-8.dd	E-maj7
+8.ddL	E- major-seventh
 8.ee-	.
+8ddJ	.
+8ccL	F major
 8dd	.
-8cc	F
-8dd	.
-8cc	F/C
-8b-	.
+8cc	F major/C
+8b-J	.
 ==	==
 *-	*-

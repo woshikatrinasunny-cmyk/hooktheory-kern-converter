@@ -16,160 +16,160 @@
 *f:	*
 *M3/4	*
 =1	=1
-8ff	Fsus4
-8cc	.
-8b-	.
-8cc	Fm
+8ffL	F suspended-fourth
+8ccJ	.
+8b-L	.
+8ccJ	F minor
 8a-	.
 8r	.
 =2	=2
-8ff	Fsus2
-8cc	.
-8b-	.
-8cc	Fm
+8ffL	F suspended-second
+8ccJ	.
+8b-L	.
+8ccJ	F minor
 8gg	.
 8r	.
 =3	=3
-8ff	Fsus4
-8cc	.
-8b-	.
-8cc	Fm
+8ffL	F suspended-fourth
+8ccJ	.
+8b-L	.
+8ccJ	F minor
 8f	.
 8r	.
 =4	=4
-8ff	Fsus2
-8cc	.
-8b-	.
-8cc	Fm
-8bb-	Fm7
+8ffL	F suspended-second
+8ccJ	.
+8b-L	.
+8ccJ	F minor
+8bb-	F minor-seventh
 8r	.
 =5	=5
-8ff	D-add(6,7)
-8cc	.
-8b-	.
-8cc	D-
+8ffL	D- other-6,7
+8ccJ	.
+8b-L	.
+8ccJ	D- major
 8a-	.
 8r	.
 =6	=6
-8ff	D-sus2
-8cc	.
-8b-	.
-8cc	D-
+8ffL	D- suspended-second
+8ccJ	.
+8b-L	.
+8ccJ	D- major
 8gg	.
 8r	.
 =7	=7
-8ff	D-add(6,7)
-8cc	.
-8b-	.
-8cc	D-
-8ff	.
-8b-	.
+8ffL	D- other-6,7
+8ccJ	.
+8b-L	.
+8ccJ	D- major
+8ffL	.
+8b-J	.
 =8	=8
-8aa-	D-maj7sus2
-8ff	.
-8cc	.
-8aa-	B-m7/D-
-8gg	.
-8ee-	.
+8aa-L	D- major-seventh-suspended-second
+8ffJ	.
+8ccL	.
+8aa-J	B- minor-seventh/D-
+8ggL	.
+8ee-J	.
 =9	=9
-16ff	Fsus4
+16ffLL	F suspended-fourth
 16ee-	.
 16ff	.
+16ccJJ	.
+16b-LL	.
 16cc	.
-16b-	.
-16cc	.
-16ff	Fm
-16ee-	.
-16ff	.
+16ff	F minor
+16ee-JJ	.
+16ffLL	.
 16cc	.
 16g	.
-16a-	.
+16a-JJ	.
 =10	=10
-16ff	Fsus2
+16ffLL	F suspended-second
 16ee-	.
 16ff	.
+16ccJJ	.
+16b-LL	.
 16cc	.
-16b-	.
-16cc	.
-16ff	Fm
-16ee-	.
-8ff	.
-16gg	.
-16aa-	.
+16ff	F minor
+16ee-JJ	.
+8ffL	.
+16ggL	.
+16aa-JJ	.
 =11	=11
-16ff	Fsus4
+16ffLL	F suspended-fourth
 16ee-	.
 16ff	.
+16ccJJ	.
+16b-LL	.
 16cc	.
-16b-	.
-16cc	.
-16ff	Fm
-16ee-	.
-16ff	.
+16ff	F minor
+16ee-JJ	.
+16ffLL	.
 16cc	.
 16g	.
-16a-	.
+16a-JJ	.
 =12	=12
-16ff	Fsus2
+16ffLL	F suspended-second
 16ee-	.
 16ff	.
+16ccJJ	.
+16b-LL	.
 16cc	.
-16b-	.
-16cc	.
-16ff	Fm
-16ee-	.
-8ff	.
-16gg	.
-16aa-	.
+16ff	F minor
+16ee-JJ	.
+8ffL	.
+16ggL	.
+16aa-JJ	.
 =13	=13
-16ff	D-add(6,7)
+16ffLL	D- other-6,7
 16ee-	.
 16ff	.
+16ccJJ	.
+16b-LL	.
 16cc	.
-16b-	.
-16cc	.
-16ff	D-
-16ee-	.
-16ff	.
+16ff	D- major
+16ee-JJ	.
+16ffLL	.
 16cc	.
 16g	.
-16a-	.
+16a-JJ	.
 =14	=14
-16ff	D-sus2
+16ffLL	D- suspended-second
 16ee-	.
 16ff	.
+16ccJJ	.
+16b-LL	.
 16cc	.
-16b-	.
-16cc	.
-16ff	D-
-16ee-	.
-8ff	.
-16gg	.
-16aa-	.
+16ff	D- major
+16ee-JJ	.
+8ffL	.
+16ggL	.
+16aa-JJ	.
 =15	=15
-16ff	D-add(6,7)
+16ffLL	D- other-6,7
 16ee-	.
 16ff	.
+16ccJJ	.
+16b-LL	.
 16cc	.
-16b-	.
-16cc	.
-16ff	D-
-16ee-	.
-16ff	.
+16ff	D- major
+16ee-JJ	.
+16ffLL	.
 16cc	.
 16g	.
-16a-	.
+16a-JJ	.
 =16	=16
-16ff	D-sus2
+16ffLL	D- suspended-second
 16ee-	.
 16ff	.
+16ccJJ	.
+16b-LL	.
 16cc	.
-16b-	.
-16cc	.
-16ff	D-
-16ee-	.
-8ff	.
-16gg	.
-16aa-	.
+16ff	D- major
+16ee-JJ	.
+8ffL	.
+16ggL	.
+16aa-JJ	.
 ==	==
 *-	*-

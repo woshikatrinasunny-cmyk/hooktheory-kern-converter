@@ -16,39 +16,39 @@
 *f:	*
 *M4/4	*
 =1	=1
-8.c	Fm
-16Bn	.
-8.c	Fm/A-
-16Bn	.
-8c	Fm
+8.cL	F minor
+16Bnk	.
+8.c	F minor/A-
+16BnJk	.
+8cL	F minor
 8f	.
-8c[	.
-8c]	Fm
+[8c	.
+8cJ]	F minor
 =2	=2
-16B-	C7
+16B-LK	C dominant
 8B-	.
-16B-	.
+16B-k	.
 8A-	.
-8G	C7
-8F	Fm
-8A-	.
-4c	C
+8GJ	C dominant
+8FL	F minor
+8A-J	.
+4c	C major
 =3	=3
-8.c	Fm
-16Bn	.
-8.c	Fm/A-
-16Bn	.
-8c	Fm
+8.cL	F minor
+16Bnk	.
+8.c	F minor/A-
+16BnJk	.
+8cL	F minor
 8f	.
-8c[	.
-8c]	Fm
+[8c	.
+8cJ]	F minor
 =4	=4
-16c	C
-16c	.
-8c	C
-8dn	B-
-8en	Fm/A-
-4f	Fm
+16cLL	C major
+16cJ	.
+8c	C major
+8dn	B- major
+8enJ	F minor/A-
+4f	F minor
 4ff	.
 ==	==
 *-	*-

@@ -15,37 +15,37 @@
 *A-:	*
 *M4/4	*
 =1	=1
-1r	A-
+1r	A- major
 =2	=2
-4cc	A-/C
+4cc	A- major/C
 8aa-	.
 4gg	.
 4ee-	.
-8ff[	.
+[8ff	.
 =3	=3
-2.ff]	D-maj7
+2.ff]	D- major-seventh
 4r	.
 =4	=4
-8r	B-7/D
-8ff	.
-8bb-	.
+8r	B- dominant/D
+8ffL	.
+8bb-J	.
 4aa-	.
 4ff	.
-8gg[	.
+[8gg	.
 =5	=5
-2.gg]	E-
+2.gg]	E- major
 8r	.
-8cc[	.
+[8cc	.
 =6	=6
-8cc]	Edim
+8cc]	E diminished
 4.een	.
 8ccc	.
 4bb-	.
-8aan[	.
+[8aan	.
 =7	=7
-2.aan]	F
+2.aan]	F major
 8r	.
-8cc[	.
+[8cc	.
 =8	=8
 8cc]	.
 4aan	.
@@ -53,36 +53,36 @@
 4ccc	.
 8ddd-	.
 =9	=9
-2.r	D-
-8ff	.
-8ddd-[	.
+2.r	D- major
+8ffL	.
+[8ddd-J	.
 =10	=10
-4ddd-]	E-7/G
+4ddd-]	E- dominant/G
 8ccc	.
 4bb-	.
-8eee-	.
+8eee-L	.
 8bb-	.
-8ccc[	.
+[8cccJ	.
 =11	=11
-2ccc]	A-
+2ccc]	A- major
 4r	.
-8eee-	.
-8ccc[	.
+8eee-L	.
+[8cccJ	.
 =12	=12
-8ccc]	D-maj7
+8ccc]	D- major-seventh
 4bb-	.
 4aa-	.
-8ddd-	.
+8ddd-L	.
 8aa-	.
-8bb-[	.
+[8bb-J	.
 =13	=13
-2bb-]	Gdim
+2bb-]	G diminished
 2r	.
 =14	=14
-2r	Csus4
-2gg	C
+2r	C suspended-fourth
+2gg	C major
 =15	=15
-2aan	Fsus4
+2aan	F suspended-fourth
 2r	.
 =16	=16
 1r	.

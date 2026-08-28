@@ -15,27 +15,27 @@
 *C:	*
 *M4/4	*
 =1	=1
-2cc	C
+2cc	C major
 2gg	.
 =2	=2
-2gg#	G#/C
+2gg#	G# major/C
 4aa#	.
 4gg#	.
 =3	=3
-1gg	C
+1gg	C major
 =4	=4
-3...gg#	G#/C
-8.aa#	.
-8.gg#	.
+3...gg#	G# major/C
+8.aa#L	.
+8.gg#J	.
 =5	=5
-2gg[	G7/B
-2gg]	Gadd(4,5,7,10)/B
+[2gg	G dominant/B
+2gg]	G other-4,5,7,10/B
 =6	=6
-1bb	Gadd(4,6,10)/B
+1bb	G other-4,6,10/B
 =7	=7
-2b	G7/B
-2gg	Gadd(4,5,7,10)/B
+2b	G dominant/B
+2gg	G other-4,5,7,10/B
 =8	=8
-1bb	Gadd(4,6,10)/B
+1bb	G other-4,6,10/B
 ==	==
 *-	*-

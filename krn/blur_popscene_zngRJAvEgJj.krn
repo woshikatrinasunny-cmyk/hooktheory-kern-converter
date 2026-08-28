@@ -16,16 +16,16 @@
 *a:	*
 *M4/4	*
 =1	=1
-2dd	D
-2ff	F
+2dd	D major
+2ff	F major
 =2	=2
-2ee	A
+2ee	A major
 2r	.
 =3	=3
-2cc	C
-2ff	F/A
+2cc	C major
+2ff	F major/A
 =4	=4
-2aa	A
+2aa	A major
 2r	.
 ==	==
 *-	*-

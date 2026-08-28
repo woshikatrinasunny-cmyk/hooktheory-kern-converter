@@ -16,109 +16,109 @@
 *C:	*
 *M4/4	*
 =1	=1
-8.g	C
+8.gL	C major
 8.cc	.
-8g	.
-8.dd	.
+8gJ	.
+8.ddL	.
 8.cc	.
-8dd	.
+8ddJ	.
 =2	=2
-8.ff	F
+8.ffL	F major
 8.ee	.
-8dd	.
+8ddJ	.
 4ee	.
 4r	.
 =3	=3
-8.g	G
+8.gL	G major
 8.cc	.
-8g	.
-8.dd	G#dim
+8gJ	.
+8.ddL	G# diminished
 8.cc	.
-8dd	.
+8ddJ	.
 =4	=4
-8.ff	Am
+8.ffL	A minor
 8.ee	.
-8dd	.
-4ee	C7/A#
+8ddJ	.
+4ee	C dominant/A#
 4gg	.
 =5	=5
-4.gg	F
-16ff	.
-16ee	.
-4.ff	Fm
+4.gg	F major
+16ffLL	.
+16eeJJ	.
+4.ff	F minor
 8dd	.
 =6	=6
-4.ff	Em
-16ee	.
-16dd	.
-4.ee	Am
-16cc	.
-16dd	.
+4.ff	E minor
+16eeLL	.
+16ddJJ	.
+4.ee	A minor
+16ccLL	.
+16ddJJ	.
 =7	=7
-8ee	D7
+8eeL	D dominant
 8dd	.
 8ee	.
-8ff	.
-8ee	.
+8ffJ	.
+8eeL	.
 8dd	.
 8cc	.
-8dd	.
+8ddJ	.
 =8	=8
-4.ee	G
+4.ee	G major
 8dd	.
 2dd	.
 =9	=9
-8.g	C
+8.gL	C major
 8.cc	.
-8g	.
-8.dd	.
+8gJ	.
+8.ddL	.
 8.cc	.
-8dd	.
+8ddJ	.
 =10	=10
-8.ff	Bm7b5
+8.ffL	B half-diminished
 8.ee	.
-8dd	.
-4ee	E7
+8ddJ	.
+4ee	E dominant
 4r	.
 =11	=11
-8.g	Am
+8.gL	A minor
 8.cc	.
-8g	.
-8.dd	.
+8gJ	.
+8.ddL	.
 8.cc	.
-8dd	.
+8ddJ	.
 =12	=12
-8.ff	Gm7
+8.ffL	G minor-seventh
 8.ee	.
-8dd	.
-4ee	C7
+8ddJ	.
+4ee	C dominant
 4gg	.
 =13	=13
-4.gg	F
-16ff	.
-16ee	.
-4.ff	Fm
-16dd	.
-16ee	.
+4.gg	F major
+16ffLL	.
+16eeJJ	.
+4.ff	F minor
+16ddLL	.
+16eeJJ	.
 =14	=14
-8.ff	Em
+8.ffL	E minor
 8.ee	.
-8dd	.
-4cc	Am
-8gg	.
-8aa	.
+8ddJ	.
+4cc	A minor
+8ggL	.
+8aaJ	.
 =15	=15
-4.gg	D7
-16ee	.
-16dd	.
+4.gg	D dominant
+16eeLL	.
+16ddJJ	.
 2cc	.
 =16	=16
-8r	G
-8cc	.
+8r	G major
+8ccL	.
 8dd	.
-8cc	.
-8.gg	.
+8ccJ	.
+8.ggL	.
 8.ee	.
-8cc	.
+8ccJ	.
 ==	==
 *-	*-

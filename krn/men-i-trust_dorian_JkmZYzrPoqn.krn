@@ -16,37 +16,37 @@
 *G:	*
 *M4/4	*
 =1	=1
-2.d	G
-8g	.
-8d	.
+2.d	G major
+8gL	.
+8dJ	.
 =2	=2
-4f	Dm
+4f	D minor
 4e	.
 4d	.
 4c	.
 =3	=3
-2.d	G
-8g	.
-8d	.
+2.d	G major
+8gL	.
+8dJ	.
 =4	=4
-4f	Dm
+4f	D minor
 4e	.
 4d	.
 4c	.
 =5	=5
-2.d	Cadd(2,4,7)
-16G	.
+2.d	C other-2,4,7
+16GLL	.
 16A	.
 16A#	.
-16c	.
+16cJJ	.
 =6	=6
-2d	D#maj7
-2c	Dm7/F
+2d	D# major-seventh
+2c	D minor-seventh/F
 =7	=7
-2.E	Cadd(2,4,7)
-4c	Dm7
+2.E	C other-2,4,7
+4c	D minor-seventh
 =8	=8
-2d	D#maj7
-2c	Dm7/F
+2d	D# major-seventh
+2c	D minor-seventh/F
 ==	==
 *-	*-

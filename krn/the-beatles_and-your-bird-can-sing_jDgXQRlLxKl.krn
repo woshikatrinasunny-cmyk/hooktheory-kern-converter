@@ -16,18 +16,18 @@
 *E:	*
 *M4/4	*
 =1	=1
-8B	E
+8BL	E major
 8B	.
 8B	.
-8B	.
+8BJ	.
 4B	.
-8B	.
-8B	.
+8BL	.
+8BJ	.
 =2	=2
 4c#	.
 4B	.
-8B	.
-8G#	.
+8BL	.
+8G#J	.
 4r	.
 =3	=3
 4B	.
@@ -36,24 +36,24 @@
 4f#	.
 =4	=4
 4e	.
-8B	.
-8B	.
-8c#	.
-8e	.
+8BL	.
+8BJ	.
+8c#L	.
+8eJ	.
 8r	.
-8f#[	.
+[8f#	.
 =5	=5
-8f#]	F#m
+8f#]	F# minor
 2..r	.
 =6	=6
-4r	A
-8r	Amaj7/G#
+4r	A major
+8r	A major-seventh/G#
 8e	.
-8e	F#m7
-8e	.
+8eL	F# minor-seventh
+8eJ	.
 4r	.
 =7	=7
-4r	E
+4r	E major
 2.e	.
 =8	=8
 1r	.

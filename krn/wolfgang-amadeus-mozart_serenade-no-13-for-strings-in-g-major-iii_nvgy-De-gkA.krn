@@ -17,128 +17,128 @@
 *M3/4	*
 =1	=1
 2r	.
-8ff#	.
-8gg	.
+8ff#L	.
+8ggJ	.
 =2	=2
-2aa	D
-8bb	.
-8ccc#	.
+2aa	D major
+8bbL	.
+8ccc#J	.
 =3	=3
 4.ddd	.
 8ccc#	.
-8bb	.
-8aa	.
+8bbL	.
+8aaJ	.
 =4	=4
-8gg	A7
-8ff#	.
-8gg	.
-8aa	.
-8aa#	.
-8bb	.
+8ggL	A dominant
+8ff#J	.
+8ggL	.
+8aaJ	.
+8aa#L	.
+8bbJ	.
 =5	=5
 4.ee	.
 8dd#	.
-8ee	.
-8gg	.
+8eeL	.
+8ggJ	.
 =6	=6
-8ff#	D
-8ffn	.
-8ff#	.
-8gg	.
-8gg#	.
-8aa	.
+8ff#L	D major
+8ffnJ	.
+8ff#L	.
+8ggJ	.
+8gg#L	.
+8aaJ	.
 =7	=7
-8dd	Bm
-8cc#	.
-8dd	.
-8ee	.
-8ffn	.
-8ff#	.
+8ddL	B minor
+8cc#J	.
+8ddL	.
+8eeJ	.
+8ffnL	.
+8ff#J	.
 =8	=8
-8ee	Em/G
-8ff#	.
-8gg	Em
-8ee	.
-8cc#	A7
-8ee	.
+8eeL	E minor/G
+8ff#J	.
+8ggL	E minor
+8eeJ	.
+8cc#L	A dominant
+8eeJ	.
 =9	=9
-4dd	D
+4dd	D major
 4d	.
-8cc#	A
-8dd	Bm
+8cc#L	A major
+8ddJ	B minor
 =10	=10
-8ee	A
-8ff#	D/A
-8gg	A7
-8aa	F#m/A
-8bb	C#m7b5
-8aa	F#m/C#
+8eeL	A major
+8ff#J	D major/A
+8ggL	A dominant
+8aaJ	F# minor/A
+8bbL	C# half-diminished
+8aaJ	F# minor/C#
 =11	=11
-8gg	Dadd(2,5,7)
-8ff#	D
-8ee	A/C#
-8dd	D
-8ee	.
-8ff#	D#dim
+8ggL	D other-2,5,7
+8ff#J	D major
+8eeL	A major/C#
+8ddJ	D major
+8eeL	.
+8ff#J	D# diminished
 =12	=12
-8gg#	E7
-8aa	A/E
-8bb	E
-8ccc#	A/E
-8ddd	E7
-8bb	.
+8gg#L	E dominant
+8aaJ	A major/E
+8bbL	E major
+8ccc#J	A major/E
+8dddL	E dominant
+8bbJ	.
 =13	=13
-8aa	A
-8g	.
-8f#	.
-8gg	.
-8ff#	.
-8gg	.
+8aaL	A major
+8gJ	.
+8f#L	.
+8ggJ	.
+8ff#L	.
+8ggJ	.
 =14	=14
-4.aa	D
+4.aa	D major
 8aa#	.
-8bb	.
-8ccc#	.
+8bbL	.
+8ccc#J	.
 =15	=15
 4.ddd	.
 8ccc#	.
-8bb	.
-8aa	.
+8bbL	.
+8aaJ	.
 =16	=16
-8gg	A7
-8ff#	.
-8gg	.
-8aa	.
-8aa#	.
-8bb	.
+8ggL	A dominant
+8ff#J	.
+8ggL	.
+8aaJ	.
+8aa#L	.
+8bbJ	.
 =17	=17
 4.ee	.
 8dd#	.
-8ee	.
-8gg	.
+8eeL	.
+8ggJ	.
 =18	=18
-8ff#	D
-8ffn	.
-8ff#	.
-8gg	.
-8gg#	.
-8aa	.
+8ff#L	D major
+8ffnJ	.
+8ff#L	.
+8ggJ	.
+8gg#L	.
+8aaJ	.
 =19	=19
-8dd	Bm
-8cc#	.
-8dd	.
-8ee	.
-8ffn	.
-8ff#	.
+8ddL	B minor
+8cc#J	.
+8ddL	.
+8eeJ	.
+8ffnL	.
+8ff#J	.
 =20	=20
-8ee	Em/G
-8ff#	.
-8gg	Em
-8ee	.
-8cc#	A7
-8ee	.
+8eeL	E minor/G
+8ff#J	.
+8ggL	E minor
+8eeJ	.
+8cc#L	A dominant
+8eeJ	.
 =21	=21
-4dd	D
+4dd	D major
 4d	.
 4r	.
 ==	==

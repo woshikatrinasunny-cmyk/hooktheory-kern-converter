@@ -16,123 +16,123 @@
 *C:	*
 *M6/4	*
 =1	=1
-4.ee[	C
-4.ee]	C
-4.cc[	C/G
-4.cc]	C/G
+[4.ee	C major
+4.ee]	C major
+[4.cc	C major/G
+4.cc]	C major/G
 =2	=2
-4.g[	C
-4g]	C
+[4.g	C major
+4g]	C major
 8g	.
-4ee	C/E
+4ee	C major/E
 8ff	.
-4.ee	Fmaj7sus2
+4.ee	F major-seventh-suspended-second
 =3	=3
-4.dd[	G
-4.dd]	G
-4.b[	G/D
-4.b]	G/D
+[4.dd	G major
+4.dd]	G major
+[4.b	G major/D
+4.b]	G major/D
 =4	=4
-4.g[	Gsus4
-4g_	Gsus4
-8g]	G
+[4.g	G suspended-fourth
+4g_	G suspended-fourth
+8g]	G major
 4r	.
-8r	Am11
-4r	G
+8r	A minor-11th
+4r	G major
 8g	.
 =5	=5
-4dd	Dm
+4dd	D minor
 8dd	.
-4dd	Dm
+4dd	D minor
 8dd	.
-4dd	Dm/A
+4dd	D minor/A
 8cc	.
-4r	Dm/A
+4r	D minor/A
 8f	.
 =6	=6
-4dd	F
+4dd	F major
 8dd	.
-4dd	F
+4dd	F major
 8dd	.
-4dd	F
+4dd	F major
 8cc	.
-4r	F
+4r	F major
 8f	.
 =7	=7
-4.dd	G
-4.dd	G
-4.dd	G/D
-4.ee	G/D
+4.dd	G major
+4.dd	G major
+4.dd	G major/D
+4.ee	G major/D
 =8	=8
-4.ff	G
-4.ee	G7/F
-4.dd	Am/E
-4.cc	G/D
+4.ff	G major
+4.ee	G dominant/F
+4.dd	A minor/E
+4.cc	G major/D
 =9	=9
-4.ee[	C
-4.ee]	C
-4.cc[	C/G
-4.cc]	C/G
+[4.ee	C major
+4.ee]	C major
+[4.cc	C major/G
+4.cc]	C major/G
 =10	=10
-4.g[	C
-4g]	C
+[4.g	C major
+4g]	C major
 8g	.
-4ee	C/E
+4ee	C major/E
 8ff	.
-4.ee	Fmaj7sus2
+4.ee	F major-seventh-suspended-second
 =11	=11
-4.dd[	G
-4.dd]	G
-4.b[	G/D
-4.b]	G/D
+[4.dd	G major
+4.dd]	G major
+[4.b	G major/D
+4.b]	G major/D
 =12	=12
-4.g[	Gsus4
-4g_	Gsus4
-8g]	G
+[4.g	G suspended-fourth
+4g_	G suspended-fourth
+8g]	G major
 4r	.
 8g	.
-4g	Am11
-8dd[	.
+4g	A minor-11th
+[8dd	.
 =13	=13
-4dd]	A#
+4dd]	A# major
 8dd	.
-4dd	A#
+4dd	A# major
 8dd	.
-8dd	A#
-8cc	.
-8cc[	.
-4cc]	A#
+8ddL	A# major
+8ccJ	.
+[8cc	.
+4cc]	A# major
 8f	.
 =14	=14
-4dd	F
+4dd	F major
 8dd	.
-4dd	F
+4dd	F major
 8dd	.
-8dd	F
-8cc	.
-8cc[	.
-4cc]	F
+8ddL	F major
+8ccJ	.
+[8cc	.
+4cc]	F major
 8g	.
 =15	=15
-4.dd	G
-4.dd	G
-4.dd	G
-4.ee	G
+4.dd	G major
+4.dd	G major
+4.dd	G major
+4.ee	G major
 =16	=16
-4.ff	G
+4.ff	G major
 4.ee	.
 4.b	.
 4.dd	.
 =17	=17
-4.cc[	F
-4.cc_	F
-4cc]	F
+[4.cc	F major
+4.cc_	F major
+4cc]	F major
 8r	.
-4.r	F
+4.r	F major
 =18	=18
-4.r	F
-4.r	C/E
-4.r	Dm
-4.r	C/E
+4.r	F major
+4.r	C major/E
+4.r	D minor
+4.r	C major/E
 ==	==
 *-	*-

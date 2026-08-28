@@ -16,11 +16,11 @@
 *G:	*
 *M4/4	*
 =1	=1
-2dd	G
+2dd	G major
 2b	.
 =2	=2
 2..r	.
-8r	C
+8r	C major
 =3	=3
 4r	.
 4cc	.
@@ -30,24 +30,24 @@
 8cc	.
 4cc	.
 4.cc	.
-8cc	.
-8b[	G
+8ccL	.
+[8bJ	G major
 =5	=5
 2b]	.
 2g	.
 =6	=6
 2..r	.
-8r	C
+8r	C major
 =7	=7
 1r	.
 =8	=8
 1r	.
 =9	=9
-2dd	G
+2dd	G major
 2b	.
 =10	=10
 2..r	.
-8r	C
+8r	C major
 =11	=11
 4r	.
 4cc	.
@@ -58,13 +58,13 @@
 8cc	.
 4cc	.
 4cc	.
-8b[	G
+[8b	G major
 =13	=13
 4b]	.
 2.r	.
 =14	=14
 2..r	.
-8g[	C
+[8g	C major
 =15	=15
 1g_	.
 =16	=16

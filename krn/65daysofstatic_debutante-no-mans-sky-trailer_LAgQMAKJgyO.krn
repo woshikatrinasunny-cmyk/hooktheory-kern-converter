@@ -16,10 +16,10 @@
 *e:	*
 *M3/4	*
 =1	=1
-4.cc	E
+4.cc	E major
 4.b	.
 =2	=2
-2.g#[	.
+[2.g#	.
 =3	=3
 4g#]	.
 4f#	.
@@ -29,26 +29,26 @@
 4.g#	.
 8f#	.
 =5	=5
-4.b	C
+4.b	C major
 4.cc	.
 =6	=6
 2.g	.
 =7	=7
-2.b	Cmaj7sus2
+2.b	C major-seventh-suspended-second
 =8	=8
-4cc	C
+4cc	C major
 2b	.
 =9	=9
-4.f#	F#m7b5/A
+4.f#	F# half-diminished/A
 4.g	.
 =10	=10
-2.e[	Asus2
+[2.e	A suspended-second
 =11	=11
 2.e]	.
 =12	=12
-2.dd	Bm7/A
+2.dd	B minor-seventh/A
 =13	=13
-4.e	C
+4.e	C major
 4.f#	.
 =14	=14
 4.g	.
@@ -56,7 +56,7 @@
 =15	=15
 2.r	.
 =16	=16
-2r	G/D
-4r	B
+2r	G major/D
+4r	B major
 ==	==
 *-	*-

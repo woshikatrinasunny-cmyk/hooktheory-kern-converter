@@ -15,170 +15,170 @@
 *G:	*
 *M4/4	*
 =1	=1
-8r	G
-8g	.
+8r	G major
+8gL	.
 8dd	.
-8b	.
-16g	.
+8bJ	.
+16gLL	.
 16a	.
 16g	.
 16f#	.
 16g	.
 16a	.
 16b	.
-16cc	.
+16ccJJ	.
 =2	=2
-8dd	G
+8ddL	G major
 8cc	.
 8b	.
-8dd	.
-8gg	C
-16aa	.
+8ddJ	.
+8ggL	C major
+16aaL	.
 16gg	.
-16ff#	D
+16ff#	D major
 16dd	.
 16g	.
-16a	.
+16aJJ	.
 =3	=3
-8r	G
-8g	.
+8r	G major
+8gL	.
 8dd	.
-8b	.
-16g	.
+8bJ	.
+16gLL	.
 16a	.
 16g	.
 16f#	.
 16g	.
 16a	.
 16b	.
-16cc	.
+16ccJJ	.
 =4	=4
-8dd	G
+8ddL	G major
 8cc	.
 8b	.
-8dd	.
-8gg	C
-16ff#	.
+8ddJ	.
+8ggL	C major
+16ff#L	.
 16gg	.
-16aa	D
+16aa	D major
 16bb	.
 16ccc	.
-16gg	.
+16ggJJ	.
 =5	=5
-8r	G
-8g	.
+8r	G major
+8gL	.
 8dd	.
-8b	.
-16g	.
+8bJ	.
+16gLL	.
 16a	.
 16g	.
 16f#	.
 16g	.
 16a	.
 16b	.
-16cc	.
+16ccJJ	.
 =6	=6
-8dd	G
+8ddL	G major
 8cc	.
 8b	.
-8dd	.
-8gg	C
-16aa	.
+8ddJ	.
+8ggL	C major
+16aaL	.
 16gg	.
-16ff#	D
+16ff#	D major
 16dd	.
 16g	.
-16a	.
+16aJJ	.
 =7	=7
-8r	G
-8g	.
+8r	G major
+8gL	.
 8dd	.
-8b	.
-16g	.
+8bJ	.
+16gLL	.
 16a	.
 16g	.
 16f#	.
 16g	.
 16a	.
 16b	.
-16cc	.
+16ccJJ	.
 =8	=8
-8dd	G
+8ddL	G major
 8cc	.
 8b	.
-8dd	.
-8gg	C
-16ff#	.
+8ddJ	.
+8ggL	C major
+16ff#L	.
 16gg	.
-16aa	D
+16aa	D major
 16bb	.
 16ccc	.
-16gg	.
+16ggJJ	.
 =9	=9
-16gg	Em/G
+16ggLL	E minor/G
 16ee	.
 16b	.
 16gg	.
 16ee	.
 16b	.
 16gg	.
-16ee	.
-16cc	C/E
+16eeJJ	.
+16ccLL	C major/E
 16g	.
 16e	.
 16c	.
 16e	.
 16f#	.
 16g	.
-16cc	.
+16ccJJ	.
 =10	=10
-16b	G/D
+16bLL	G major/D
 16cc	.
-16dd	.
+16ddJ	.
 8b	.
-16b	.
+16bL	.
 16dd	.
-16b	.
-4a	D
+16bJJ	.
+4a	D major
 4r	.
 =11	=11
-16gg	Em/G
+16ggLL	E minor/G
 16ee	.
 16b	.
 16gg	.
 16ee	.
 16b	.
 16gg	.
-16ee	.
-16cc	C/E
+16eeJJ	.
+16ccLL	C major/E
 16g	.
 16e	.
 16c	.
 16e	.
 16f#	.
 16g	.
-16cc	.
+16ccJJ	.
 =12	=12
-16b	G/D
+16bLL	G major/D
 16cc	.
-16dd	.
+16ddJ	.
 8b	.
-16b	.
+16bL	.
 16cc	.
-16dd	.
-4aa	D
+16ddJJ	.
+4aa	D major
 4r	.
 =13	=13
-1r	G/B
+1r	G major/B
 =14	=14
-2r	G/B
-4r	C
-4r	D
+2r	G major/B
+4r	C major
+4r	D major
 =15	=15
-1r	G/B
+1r	G major/B
 =16	=16
-2r	G/B
-4r	C
-4r	G
+2r	G major/B
+4r	C major
+4r	G major
 ==	==
 *-	*-

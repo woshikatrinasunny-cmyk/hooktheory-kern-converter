@@ -16,37 +16,37 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2ff	B-maj7
-8gg	Fm7
+2ff	B- major-seventh
+8ggL	F minor-seventh
 8ff	.
-16ee-	B-aug7
+16ee-k	B- augmented-seventh
 8ff	.
-16dd[	.
+[16ddJk	.
 =2	=2
-16dd]	E-maj9
-16cc	.
+16ddLL]	E- major-ninth
+16ccJJ	.
 4.b-	.
-8r	D-dim7/E
-8bb-	.
+8r	D- diminished-seventh/E
+8bb-L	.
 8aa	.
-8gg	.
+8ggJ	.
 =3	=3
-16ff	Dm7
+16ffLK	D minor-seventh
 8gg	.
-16ff	.
-8dd	Gadd(3,4,7,8,10)
-8b-	Gadd(1,4,7,8,10)
-8ee-	Cm7
-16dd	.
+16ffk	.
+8dd	G other-3,4,7,8,10
+8b-J	G other-1,4,7,8,10
+8ee-L	C minor-seventh
+16ddL	.
 16f	.
-16b-	F7sus2
-8.cc	.
+16b-J	F dominant-seventh-suspended-second
+8.ccJ	.
 =4	=4
-4b-[	B-
-8b-_	Cm
-8b-]	D-m
-8.r	B-/D
-8.r	Fadd(1,4,5,7,9,10)
-8f	Fadd(1,4,7,10)
+[4b-	B- major
+8b-L_	C minor
+8b-J]	D- minor
+8.r	B- major/D
+8.r	F other-1,4,5,7,9,10
+8f	F other-1,4,7,10
 ==	==
 *-	*-

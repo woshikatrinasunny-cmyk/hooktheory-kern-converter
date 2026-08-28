@@ -16,55 +16,55 @@
 *c:	*
 *M4/4	*
 =1	=1
-4r	Cm7
-4g	B-add(2,4,7)
-8c	.
+4r	C minor-seventh
+4g	B- other-2,4,7
+8cL	.
 8e-	.
-8c	Cm7
-8g[	.
+8c	C minor-seventh
+[8gJ	.
 =2	=2
-4g]	A-maj7
+4g]	A- major-seventh
 4c	.
-8c	.
+8cL	.
 8e-	.
 8c	.
-8g[	.
+[8gJ	.
 =3	=3
-4g]	Cm7
-4c	B-add(2,4,7)
-8c	.
-8b-[	.
-8b-]	Cm7
-8g[	.
+4g]	C minor-seventh
+4c	B- other-2,4,7
+8cL	.
+[8b-	.
+8b-]	C minor-seventh
+[8gJ	.
 =4	=4
-2g_	A-maj7
-8g]	B-
-8g	.
+2g_	A- major-seventh
+8gL]	B- major
+8gJ	.
 4f	.
 =5	=5
-4r	Cm7
-4g	B-add(2,4,7)
-8c	.
+4r	C minor-seventh
+4g	B- other-2,4,7
+8cL	.
 8e-	.
-8c	Cm7
-8g[	.
+8c	C minor-seventh
+[8gJ	.
 =6	=6
-4g]	A-maj7
+4g]	A- major-seventh
 4c	.
-8c	.
+8cL	.
 8e-	.
 8c	.
-8g[	.
+[8gJ	.
 =7	=7
-4g]	Cm7
-4c	B-add(2,4,7)
-8c	.
+4g]	C minor-seventh
+4c	B- other-2,4,7
+8cL	.
 8e-	.
-8b-	Cm7
-8g[	.
+8b-	C minor-seventh
+[8gJ	.
 =8	=8
-2g_	A-maj7
-4g]	B-
+2g_	A- major-seventh
+4g]	B- major
 4r	.
 ==	==
 *-	*-

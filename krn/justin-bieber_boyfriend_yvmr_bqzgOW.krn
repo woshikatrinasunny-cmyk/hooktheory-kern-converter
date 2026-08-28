@@ -15,86 +15,86 @@
 *C:	*
 *M4/4	*
 =1	=1
-16g	Dm
+16gLL	D minor
 16a	.
-16b	Em
-16c	Dm
+16b	E minor
+16c	D minor
 16d	.
-16e	.
+16eJJ	.
 8.f	.
-16f	C
+16fLL	C major
 16e	.
 16e	.
 16e	.
 16g	.
 16g	.
-16b	.
+16bJJ	.
 =2	=2
-16b	Em
+16bLL	E minor
 16b	.
 16f	.
 16e	.
 16d	.
 16d	.
-16d[	.
-8d]	F
-16e	.
+[16dJJ	.
+8d]	F major
+16eLK	.
 8.f	.
-16g[	.
-8g_	C
+[16gk	.
+8gJ_	C major
 =3	=3
-16g]	Bdim
+16gLK]	B diminished
 8a	.
 8.f	.
-16f	.
-16g	F
-8g	.
+16fL	.
+16gJJ	F major
+8gL	.
 8a	.
-16e	.
-16e[	.
-8e]	Dm
+16eL	.
+[16eJ	.
+8eJ]	D minor
 =4	=4
+16fLL	.
 16f	.
-16f	.
-16a	Em
+16a	E minor
 16b	.
-16f	.
-8.f	.
-16e	.
-8.e	C
-16c	.
-8.c	.
+16fJ	.
+8.fJ	.
+16eLK	.
+8.e	C major
+16ck	.
+8.cJ	.
 =5	=5
-8.d	G
+8.dL	G major
 8.e	.
-16d[	.
-8d]	G
-8.d	.
-16f	.
-16f[	.
-8f]	Am
+[16dJk	.
+8d]	G major
+8.dL	.
+16fL	.
+[16fJ	.
+8fJ]	A minor
 =6	=6
-16f	.
-16a	.
+16fLL	.
+16aJ	.
 8.g	.
-8.f[	G
-16f]	F
-8e[	.
-8.e]	Dm
-8g[	Dm
+[8.fJ	G major
+16fLK]	F major
+[8e	.
+8.e]	D minor
+[8gJ	D minor
 =7	=7
-16g_	.
-8g]	C
+16gLK_	.
+8gJ]	C major
 4a	.
 16c	.
-8.c[	Em
-8c]	F
-16e	.
-8e[	.
+[8.cL	E minor
+8c]	F major
+16ek	.
+[8eJ	.
 =8	=8
-8.e]	G
-6...c[	.
-8c]	Am
+8.e]	G major
+[6...c	.
+8c]	A minor
 4f	.
 8r	.
 ==	==

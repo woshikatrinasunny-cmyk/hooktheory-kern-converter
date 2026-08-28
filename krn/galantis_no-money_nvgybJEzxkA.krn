@@ -16,98 +16,98 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8ff#	D
+8ff#	D major
 8r	.
-8ff#	D
+8ff#	D major
 16r	.
-16ff#	D
+16ff#	D major
 16r	.
-8ee	D
+8ee	D major
 16r	.
-8ee	D
+8ee	D major
 8r	.
 =2	=2
 8r	.
-8cc#	F#m
-16cc#	F#m
+8cc#L	F# minor
+16cc#Jk	F# minor
 16r	.
-16b	F#m
-16cc#	F#m
+16bLL	F# minor
+16cc#JJ	F# minor
 16r	.
-8ee	F#m
+8ee	F# minor
 16r	.
-8ee	E/G#
+8ee	E major/G#
 8r	.
 =3	=3
-8b	A
+8b	A major
 8r	.
-16b	A
+16b	A major
 16r	.
-16cc#	.
-16b	A
+16cc#LL	.
+16bJJ	A major
 16r	.
-8a	C#
+8a	C# major
 16r	.
-8a	C#
+8a	C# major
 8r	.
 =4	=4
 8r	.
-8b	D
-16b	D
+8bL	D major
+16bJk	D major
 16r	.
-16cc#	D
-16b	D
+16cc#LL	D major
+16bJJ	D major
 16r	.
-8a	D
+8a	D major
 6...r	.
 =5	=5
-8ff#	D
+8ff#	D major
 8r	.
-8ff#	D
+8ff#	D major
 16r	.
-16ff#	D
+16ff#	D major
 16r	.
-8ee	D
+8ee	D major
 16r	.
-8ee	E
+8ee	E major
 8r	.
 =6	=6
 8r	.
-8cc#	F#m
-16cc#	F#m
+8cc#L	F# minor
+16cc#Jk	F# minor
 16r	.
-16b	F#m
-16cc#	F#m7
+16bLL	F# minor
+16cc#JJ	F# minor-seventh
 16r	.
-8ee	F#m7
+8ee	F# minor-seventh
 16r	.
-8ee	E/G#
+8ee	E major/G#
 8r	.
 =7	=7
-8b	A
+8b	A major
 8r	.
-16b	A
+16b	A major
 16r	.
-16cc#	.
-16b	A
+16cc#LL	.
+16bJJ	A major
 16r	.
-8a	C#
+8a	C# major
 16r	.
-8a	C#
+8a	C# major
 8r	.
 =8	=8
 8r	.
-8e	D
-16a	D
+8eL	D major
+16aJk	D major
 16r	.
-16cc#	D
-16b	D
+16cc#LL	D major
+16bJJ	D major
 16r	.
-8a	D
+8a	D major
 16r	.
-16a	.
+16aLL	.
 16b	.
 16cc#	.
-16ee	.
+16eeJJ	.
 ==	==
 *-	*-

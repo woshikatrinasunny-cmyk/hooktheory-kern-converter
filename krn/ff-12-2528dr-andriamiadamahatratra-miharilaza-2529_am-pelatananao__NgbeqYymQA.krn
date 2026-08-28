@@ -17,85 +17,85 @@
 *M4/4	*
 =1	=1
 2.r	.
-4cc	F
+4cc	F major
 =2	=2
-4.cc	F
-8cc	F
-8aa	F
-8bb-	B-/F
-8aa	F
-8bb-	B-/F
+4.cc	F major
+8cc	F major
+8aaL	F major
+8bb-	B- major/F
+8aa	F major
+8bb-J	B- major/F
 =3	=3
-4.gg	C7
-8ee	C7
-4dd	Cadd(2,5,7,10)
-4cc	Cadd(4,10)
+4.gg	C dominant
+8ee	C dominant
+4dd	C other-2,5,7,10
+4cc	C other-4,10
 =4	=4
-4.cc	Cadd(4,10)
-8cc	Cadd(4,10)
-8ee	C7
-8dd	Cadd(2,5,7,10)
-8cc	Cadd(4,10)
-8ee	C7
+4.cc	C other-4,10
+8cc	C other-4,10
+8eeL	C dominant
+8dd	C other-2,5,7,10
+8cc	C other-4,10
+8eeJ	C dominant
 =5	=5
-2dd	Dm/F
-4cc	F
-4ff	Fadd(4,10)
+2dd	D minor/F
+4cc	F major
+4ff	F other-4,10
 =6	=6
-4.ff	Fadd(4,10)
-8ff	Fadd(4,10)
-8ccc	F7
-8bb-	Fadd(2,5,7,10)
-8aa	F7
-8ccc	F7
+4.ff	F other-4,10
+8ff	F other-4,10
+8cccL	F dominant
+8bb-	F other-2,5,7,10
+8aa	F dominant
+8cccJ	F dominant
 =7	=7
 *k[]	*
 *C:	*
-4aa#[	Gm
-8aa#]	F#dim/A
-8aa	.
-4gg	Gm/A#
-4gg#	Bdim7
+[4aa#	G minor
+8aa#L]	F# diminished/A
+8aaJ	.
+4gg	G minor/A#
+4gg#	B diminished-seventh
 =8	=8
 *k[b-]	*
 *F:	*
-8aa[	F/C
-8aa_	Am/C
-8aa]	Csus4
-8aa-	Cadd(5,8,11)
-8aa	F/C
-8bb-	Cadd(2,5,7,10)
-8dd	Csus2
-8ee	C
+[8aaL	F major/C
+8aa_	A minor/C
+8aa]	C suspended-fourth
+8aa-J	C other-5,8,11
+8aaL	F major/C
+8bb-	C other-2,5,7,10
+8dd	C suspended-second
+8eeJ	C major
 =9	=9
-2gg	C7
-4ff	F
-4ff	Fadd(4,10)
+2gg	C dominant
+4ff	F major
+4ff	F other-4,10
 =10	=10
 *k[b-e-]	*
 *B-:	*
-4.ff	Fadd(4,10)
-8ff	Fadd(4,10)
-8ff	Fadd(4,10)
-8ff	Fadd(4,10)
-8gg	F9
-8aa	Adim/E-
+4.ff	F other-4,10
+8ff	F other-4,10
+8ffL	F other-4,10
+8ff	F other-4,10
+8gg	F dominant-ninth
+8aaJ	A diminished/E-
 =11	=11
-4ccc	B-add(2,4,7)/D
-4bb-	B-/D
-4ff	B-/D
-4gg	C7
+4ccc	B- other-2,4,7/D
+4bb-	B- major/D
+4ff	B- major/D
+4gg	C dominant
 =12	=12
-4.aa	Adim/C
-8aa	F7
-8bb-	F7sus4
-8aa	F7
-8gg	Fadd(2,5,7,10)
-8ff	Fadd(4,10)
+4.aa	A diminished/C
+8aa	F dominant
+8bb-L	F dominant-seventh-suspended-fourth
+8aa	F dominant
+8gg	F other-2,5,7,10
+8ffJ	F other-4,10
 =13	=13
-2gg	B-add(4,7,9)
-4ff	B-
-4ddd	B-
+2gg	B- other-4,7,9
+4ff	B- major
+4ddd	B- major
 *k[b-e-]	*
 *B-:	*
 ==	==

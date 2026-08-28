@@ -16,7 +16,7 @@
 *f:	*
 *M4/4	*
 =1	=1
-8r	F7sus2
+8r	F dominant-seventh-suspended-second
 8FF	.
 8r	.
 8F	.
@@ -25,7 +25,7 @@
 8r	.
 8FF	.
 =2	=2
-8r	A-add(2,7,9)
+8r	A- other-2,7,9
 8FF	.
 8r	.
 8F	.
@@ -34,7 +34,7 @@
 8r	.
 8FF	.
 =3	=3
-8r	Bm/G-
+8r	B minor/G-
 8FF	.
 8r	.
 8F	.
@@ -43,13 +43,13 @@
 8r	.
 8FF	.
 =4	=4
-8r	B-m/F
+8r	B- minor/F
 8FF	.
 8r	.
 8F	.
 8r	.
-16AA-	.
-16FF	.
+16AA-LL	.
+16FFJJ	.
 8r	.
 8FF	.
 ==	==

@@ -16,111 +16,111 @@
 *C:	*
 *M4/4	*
 =1	=1
-8.g	Csus2
+8.gL	C suspended-second
+8.gJ	.
 8.g	.
-8.g	.
-8.g	.
-8f#	Cadd(6,7)
-8f#	.
+8.gL	.
+8f#	C other-6,7
+8f#J	.
 =2	=2
-8.g	Csus2
+8.gL	C suspended-second
+8.gJ	.
 8.g	.
-8.g	.
-8.g	.
-8f#	Cadd(6,7)
-8f#	.
+8.gL	.
+8f#	C other-6,7
+8f#J	.
 =3	=3
-16a	Csus2
+16aLL	C suspended-second
 16g	.
-16f#	.
+16f#J	.
 8g	.
-16a	.
+16aJk	.
 3...d	.
 =4	=4
-6...e	A#sus2
-16fn	.
-16g	.
+6...e	A# suspended-second
+16fnLL	.
+16gJJ	.
 2cc	.
 16f#	.
 =5	=5
-16a	Csus2
+16aLL	C suspended-second
 16g	.
-16f#	.
+16f#J	.
 8g	.
-16a	.
+16aJk	.
 3...d	.
 =6	=6
-6...e	A#sus2
-16fn	.
-16g	.
+6...e	A# suspended-second
+16fnLL	.
+16gJJ	.
 8.cc	.
-8cc	.
+8ccL	.
 8dd	.
-8ee	.
+8eeJ	.
 =7	=7
-6...ee	Am
-16ffn	.
-16gg	.
+6...ee	A minor
+16ffnLL	.
+16ggJJ	.
 2cc	.
 16cc	.
 =8	=8
-16cc	G#
+16ccLL	G# major
 16dd	.
-16dd#	.
+16dd#JJ	.
 2.cc	.
 16dd	.
 =9	=9
-4ee	C/G
+4ee	C major/G
 8.cc	.
 4..g	.
 8g	.
 =10	=10
-4a	D7/F#
+4a	D dominant/F#
 8.b	.
 6...cc	.
-8cc	.
-8dd	.
+8ccL	.
+8ddJ	.
 =11	=11
-6...ee	C/G
-16ffn	.
+6...ee	C major/G
+16ffnLL	.
 16ee	.
-16dd[	.
-2dd]	G
+[16ddJJ	.
+2dd]	G major
 =12	=12
-4.cc	C
-16cc	.
-16a#[	.
-2a#]	F/C
+4.cc	C major
+16ccLL	.
+[16a#JJ	.
+2a#]	F major/C
 =13	=13
-6...a	Csus2
-16a#	.
+6...a	C suspended-second
+16a#LL	.
 16a	.
-16g[	.
-2g]	C
+[16gJJ	.
+2g]	C major
 =14	=14
-4.cc	C
-16cc	.
-16a#[	.
-2a#]	F/C
+4.cc	C major
+16ccLL	.
+[16a#JJ	.
+2a#]	F major/C
 =15	=15
-6...a	Csus2
-16a#	.
+6...a	C suspended-second
+16a#LL	.
 16a	.
-16g[	.
-2g]	C
+[16gJJ	.
+2g]	C major
 =16	=16
-4.dd#	D#
-16dd#	.
-16cc#[	.
-4.cc#]	D#sus2
+4.dd#	D# major
+16dd#LL	.
+[16cc#JJ	.
+4.cc#]	D# suspended-second
 8cc	.
 =17	=17
-8.a#	F
-2.cc[	Gsus4
+8.a#	F major
+[2.cc	G suspended-fourth
 16cc]	.
 =18	=18
-8.cc	G
-6...dd	E
+8.cc	G major
+6...dd	E major
 2r	.
 ==	==
 *-	*-

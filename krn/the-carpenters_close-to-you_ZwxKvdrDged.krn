@@ -16,40 +16,40 @@
 *G:	*
 *M4/4	*
 =1	=1
-2d	Cadd(2,4,7)
-8d	.
-8c	.
+2d	C other-2,4,7
+8dL	.
+8cJ	.
 4d	.
 =2	=2
-8e	Bsus4
-4.B[	.
-4.B]	B
-16B	.
-16d	.
+8e	B suspended-fourth
+[4.B	.
+4.B]	B major
+16BLL	.
+16dJJ	.
 =3	=3
-3...f#	Bm7
-8B	.
+3...f#	B minor-seventh
+8BL	.
 8d	.
-8f#	.
+8f#J	.
 =4	=4
-2g[	Em7
-4g]	Em
+[2g	E minor-seventh
+4g]	E minor
 4r	.
 =5	=5
-8E	Cmaj9
+8E	C major-ninth
 4G	.
 8c	.
 2d	.
 =6	=6
-8E	Cadd(2,4,7)
+8E	C other-2,4,7
 4G	.
 8c	.
 2d	.
 =7	=7
-8E	Gadd(2,4,7)
+8E	G other-2,4,7
 4G	.
 8c	.
-2d[	D
+[2d	D major
 =8	=8
 4d]	.
 4r	.

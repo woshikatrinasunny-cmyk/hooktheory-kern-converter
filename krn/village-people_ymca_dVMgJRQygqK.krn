@@ -16,60 +16,60 @@
 *F#:	*
 *M4/4	*
 =1	=1
-2dd#	F#
+2dd#	F# major
 4cc#	.
-8dd#	.
-8cc#[	.
+8dd#L	.
+[8cc#J	.
 =2	=2
-8cc#]	.
+8cc#L]	.
 8a#	.
 8cc#	.
-8a#	.
-8cc#	F#/C#
-8a#	.
-4g#	D
+8a#J	.
+8cc#L	F# major/C#
+8a#J	.
+4g#	D major
 =3	=3
-2g#	D#m
+2g#	D# minor
 4a#	.
-8g#	.
-8f#[	.
+8g#L	.
+[8f#J	.
 =4	=4
 8f#]	.
 4d#	.
 8r	.
-4r	D#m/F#
-8ff#	Gdim
-8dd#	.
+4r	D# minor/F#
+8ff#L	G diminished
+8dd#J	.
 =5	=5
-8ff#	G#m
+8ff#L	G# minor
 8ff#	.
 8ff#	.
-8dd#	.
+8dd#J	.
 4r	.
-8ff#	.
-8dd#	.
+8ff#L	.
+8dd#J	.
 =6	=6
-8ff#	G#m7
+8ff#L	G# minor-seventh
 8ff#	.
 8ff#	.
-8dd#	G#m
+8dd#J	G# minor
 4r	.
-8ff#	.
-8dd#	.
+8ff#L	.
+8dd#J	.
 =7	=7
-8ff#	C#
-8dd#	.
+8ff#L	C# major
+8dd#J	.
 8r	.
 4ff#	.
 4ff#	.
-8dd#[	.
+[8dd#	.
 =8	=8
-8dd#]	.
+8dd#L]	.
 8ff#	.
 8ff#	.
-8dd#	.
-8ff#	C#m/E
-8dd#	.
-4ff#	C#/E#
+8dd#J	.
+8ff#L	C# minor/E
+8dd#J	.
+4ff#	C# major/E#
 ==	==
 *-	*-

@@ -15,42 +15,42 @@
 *C:	*
 *M4/4	*
 =1	=1
-1cc	C
+1cc	C major
 =2	=2
-1b	G/B
+1b	G major/B
 =3	=3
-1cc	F/A
+1cc	F major/A
 =4	=4
-1dd	G
+1dd	G major
 =5	=5
-1ee[	C
+[1ee	C major
 =6	=6
 2ee]	.
 4r	.
 4ee	.
 =7	=7
-1ff	Eadd(1,4,7,10)
+1ff	E other-1,4,7,10
 =8	=8
-2ee	Fadd(3,4,6,7,11)
-2dd	Gadd(1,4,7)
+2ee	F other-3,4,6,7,11
+2dd	G other-1,4,7
 =9	=9
-2cc	Am
-2ee[	.
+2cc	A minor
+[2ee	.
 =10	=10
 2ee]	.
-2dd	Am11
+2dd	A minor-11th
 =11	=11
-1cc	F/A
+1cc	F major/A
 =12	=12
-1b	G
+1b	G major
 =13	=13
-1cc[	C
+[1cc	C major
 =14	=14
 1cc]	.
 =15	=15
 1r	.
 =16	=16
 2.r	.
-4r	G
+4r	G major
 ==	==
 *-	*-

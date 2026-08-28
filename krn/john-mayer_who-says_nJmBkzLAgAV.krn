@@ -16,46 +16,46 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	D
-8f#	.
+8r	D major
+8f#L	.
 8e	.
-16d	.
-16d[	.
-16d]	G
+16dL	.
+[16dJJ	.
+16dLK]	G major
 8d	.
-16A[	.
-16A]	D/F#
+[16AL	.
+16AJJ]	D major/F#
 8.r	.
 =2	=2
-16B	Em7
+16BLK	E minor-seventh
 8d	.
-16B	.
+16Bk	.
 8d	.
-16B	.
-16A	.
-8e	A
-16e	.
-16f#[	.
-8f#]	A#dim
+16BL	.
+16AJJ	.
+8eL	A major
+16eL	.
+[16f#J	.
+8f#J]	A# diminished
 8r	.
 =3	=3
-16b	Bm
+16bLK	B minor
 8.f#	.
 8e	.
-16d	.
-16d[	.
-16d]	E7
-16d	.
-8.d	.
+16dL	.
+[16dJJ	.
+16dLL]	E dominant
+16dJ	.
+8.dJ	.
 8r	.
-16f#[	.
+[16f#	.
 =4	=4
-16f#]	G
+16f#LK]	G major
 8e	.
-16d	.
-8d	A
-8d	.
-4d	D
+16dk	.
+8d	A major
+8dJ	.
+4d	D major
 4r	.
 ==	==
 *-	*-

@@ -16,41 +16,41 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8f#	C#sus4
-4e	C#m
-3...b	C#m7
+8f#	C# suspended-fourth
+4e	C# minor
+3...b	C# minor-seventh
 =2	=2
-8a#	Bmaj7
-4b	B
-4.a#	Bmaj7
-4g#	G#m7/B
+8a#	B major-seventh
+4b	B major
+4.a#	B major-seventh
+4g#	G# minor-seventh/B
 =3	=3
-8f#	Eadd(2,4,7)
-4e	E
+8f#	E other-2,4,7
+4e	E major
 3...b	.
 =4	=4
-8a#	F#
-4b	Bmaj7sus2
-4.a#	F#
-4g#	F#add(2,4,7)
+8a#	F# major
+4b	B major-seventh-suspended-second
+4.a#	F# major
+4g#	F# other-2,4,7
 =5	=5
-8f#	C#sus4
-4e	C#m
-3...b	C#m7
+8f#	C# suspended-fourth
+4e	C# minor
+3...b	C# minor-seventh
 =6	=6
-8a#	Bmaj7
-4b	B
-4.a#	Bmaj7
-4g#	G#m7/B
+8a#	B major-seventh
+4b	B major
+4.a#	B major-seventh
+4g#	G# minor-seventh/B
 =7	=7
-8f#	Eadd(2,4,7)
-4e	E
+8f#	E other-2,4,7
+4e	E major
 4.b	.
 4g#	.
 =8	=8
-8f#[	F#
-4f#_	Bmaj7sus2
-4.f#_	F#
-4f#]	F#add(2,4,7)
+[8f#	F# major
+4f#_	B major-seventh-suspended-second
+4.f#_	F# major
+4f#]	F# other-2,4,7
 ==	==
 *-	*-

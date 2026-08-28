@@ -16,78 +16,78 @@
 *a:	*
 *M4/4	*
 =1	=1
-8.A	F
+8.AL	F major
 8e	.
-8.e	.
-8.d	Eadd(3,5,7,10)
-16c	.
+8.eJ	.
+8.dL	E other-3,5,7,10
+16ck	.
 8.B	.
-16B	.
+16BJk	.
 =2	=2
-8.B	Am7
+8.BL	A minor-seventh
 8B	.
 8A	.
-16A	.
-16c	Em/G
+16AJk	.
+16cLL	E minor/G
 16c	.
 16B	.
-16A	.
+16AJ	.
 8G	.
-8G	.
+8GJ	.
 =3	=3
-8.A	F
+8.AL	F major
 8e	.
-8.e	.
-8d	Eadd(3,5,7,10)
+8.eJ	.
+8d	E other-3,5,7,10
 6...r	.
 16c	.
 =4	=4
-8.B	Am7
+8.BL	A minor-seventh
 8B	.
 8A	.
-16A	.
-16B	Em/G
+16AJk	.
+16BLL	E minor/G
 16c	.
 16B	.
-16A	.
+16AJ	.
 8G	.
-8G	.
+8GJ	.
 =5	=5
-8.A	F
+8.AL	F major
 8e	.
-8.e	.
-8.g	Eadd(3,5,7,10)
-16d	.
+8.eJ	.
+8.gL	E other-3,5,7,10
+16dk	.
 8.d	.
-16c	.
+16cJk	.
 =6	=6
-8.B	Am7
+8.BL	A minor-seventh
 8B	.
 8A	.
-16A	.
-16c	C
+16AJk	.
+16cLL	C major
 16c	.
 16B	.
-16A	.
+16AJ	.
 8G	.
-8G	.
+8GJ	.
 =7	=7
-8.A	F
+8.AL	F major
 8e	.
-8.e	.
-8d	Cmaj7/E
+8.eJ	.
+8d	C major-seventh/E
 6...r	.
 16c	.
 =8	=8
-8.B	Am7
+8.BL	A minor-seventh
 8B	.
 8A	.
-16A	.
-16c	.
+16AJk	.
+16cLL	.
 16c	.
 16B	.
-16A	.
-8G	.
+16AJ	.
+8GJ	.
 8r	.
 ==	==
 *-	*-

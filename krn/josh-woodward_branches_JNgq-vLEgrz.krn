@@ -16,87 +16,87 @@
 *D:	*
 *M4/4	*
 =1	=1
-2..F#	D
+2..F#	D major
 8D	.
 =2	=2
 2D	.
 4r	.
-4r	Dmaj7/C#
+4r	D major-seventh/C#
 =3	=3
-2..F#	Badd(2,3,7)
-8D[	.
+2..F#	B other-2,3,7
+[8D	.
 =4	=4
 2D]	.
 4r	.
-8.r	D/A
+8.r	D major/A
 16AA	.
 =5	=5
-8G	G
+8GL	G major
 8F#	.
-16E	.
-8D	.
+16Ek	.
+8DJ	.
 8C#	.
 8D	.
 4D	.
 16D	.
 =6	=6
-16G	.
+16GLK	.
 8F#	.
 8E	.
-8D	.
+8DJ	.
 8C#	.
-8D	.
+8DL	.
 8.E	.
-8D	.
+8DJ	.
 =7	=7
-4AA	D
+4AA	D major
 2.r	.
 =8	=8
-1r	A
+1r	A major
 =9	=9
-2..F#	D
+2..F#	D major
 8D	.
 =10	=10
 4D	.
 2r	.
-8r	Dmaj7/C#
+8r	D major-seventh/C#
 8AA	.
 =11	=11
-2..F#	Badd(2,3,7)
-8D[	.
+2..F#	B other-2,3,7
+[8D	.
 =12	=12
 2D]	.
 4r	.
-8.r	D/A
+8.r	D major/A
 16D	.
 =13	=13
-8G	G
+8GL	G major
 8F#	.
 8E	.
+8DJ	.
+16C#LK	.
 8D	.
-16C#	.
-8D	.
-8D	.
+8DJ	.
 8r	.
 16D	.
 =14	=14
-16G	.
+16GLK	.
 8F#	.
 8E	.
-8D	.
+8DJ	.
 8C#	.
-8D	.
+8DL	.
 8E	.
 8F#	.
-16F#[	.
+[16F#Jk	.
 =15	=15
-4..F#]	A
-32G	.
-32F#	.
+4..F#]	A major
+32GLLL	.
+32F#JJJ	.
 2E	.
 =16	=16
 2.r	.
-8r	F#m
+8r	F# minor
 8D	.
 ==	==
 *-	*-

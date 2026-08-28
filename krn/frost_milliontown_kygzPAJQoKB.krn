@@ -15,61 +15,61 @@
 *G:	*
 *M4/4	*
 =1	=1
-2.dd	G
-4a	Gmaj7/F#
+2.dd	G major
+4a	G major-seventh/F#
 =2	=2
-2.b	Em7
-16g	D
-16a	.
-8b	.
+2.b	E minor-seventh
+16gLL	D major
+16aJ	.
+8bJ	.
 =3	=3
-2e	C
+2e	C major
 4cc	.
 4b	.
 =4	=4
-2a	D
+2a	D major
 4f#	.
 4g	.
 =5	=5
-2.dd	G
-4a	Gmaj7/F#
+2.dd	G major
+4a	G major-seventh/F#
 =6	=6
-2.b	Em7
-16g	D
-16a	.
-8b	.
+2.b	E minor-seventh
+16gLL	D major
+16aJ	.
+8bJ	.
 =7	=7
-2e	C
+2e	C major
 4cc	.
 4b	.
 =8	=8
-2a	D
+2a	D major
 4f#	.
 4g	.
 =9	=9
-16G	G
+16GLL	G major
 16d	.
-16g	.
-2b[	.
+16gJJ	.
+[2b	.
 16b]	.
 4dd	.
 =10	=10
-2.cc#	A7/G
-16g	.
-16a	.
-8b	.
+2.cc#	A dominant/G
+16gLL	.
+16aJ	.
+8bJ	.
 =11	=11
-2.e[	C/G
-16e]	.
-8.a[	.
+[2.e	C major/G
+16eLK]	.
+[8.aJ	.
 =12	=12
 16a]	.
-2...g[	D#/G
+[2...g	D# major/G
 =13	=13
 16g]	.
-2...g[	Gm7
+[2...g	G minor-seventh
 =14	=14
 8g]	.
-2..G	G
+2..G	G major
 ==	==
 *-	*-

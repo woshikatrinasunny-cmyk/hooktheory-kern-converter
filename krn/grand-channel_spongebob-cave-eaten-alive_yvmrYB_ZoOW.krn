@@ -16,120 +16,120 @@
 *C:	*
 *M6/4	*
 =1	=1
-8g	.
-8g	C
-8g#	.
-8g	.
-8e	.
-8c	.
-8e	.
-8g	.
-8g#	.
-8g	.
-4e[	.
+8gL	.
+8gJ	C major
+8g#L	.
+8gJ	.
+8eL	.
+8cJ	.
+8eL	.
+8gJ	.
+8g#L	.
+8gJ	.
+[4e	.
 =2	=2
-8e]	.
-8e	C#dim
-8f#	.
-8e	.
-8c#	Cdim
-8d#	.
-8c#	.
-8c	Bdim
-8A#	.
-8G#	.
-4F	A#dim
+8eL]	.
+8eJ	C# diminished
+8f#L	.
+8eJ	.
+8c#L	C diminished
+8d#J	.
+8c#L	.
+8cJ	B diminished
+8A#L	.
+8G#J	.
+4F	A# diminished
 =3	=3
-8cc	.
-8cc	F
-8cc#	.
-8cc	.
-8a	.
-8f	.
-8a	.
-8cc	.
-8cc#	.
-8cc	.
-4a[	.
+8ccL	.
+8ccJ	F major
+8cc#L	.
+8ccJ	.
+8aL	.
+8fJ	.
+8aL	.
+8ccJ	.
+8cc#L	.
+8ccJ	.
+[4a	.
 =4	=4
-8a]	.
-8g#	G#dim
-8a#	.
-8g#	.
-8f	Gdim
-8g	.
-8f	.
-8c	F#dim
-8e	.
-8g	.
-4a#[	C9
+8aL]	.
+8g#J	G# diminished
+8a#L	.
+8g#J	.
+8fL	G diminished
+8gJ	.
+8fL	.
+8cJ	F# diminished
+8eL	.
+8gJ	.
+[4a#	C dominant-ninth
 =5	=5
 8a#]	.
-4f	Fm
-4.g#	G#dim
-4.ff	Gdim
-4.cc	F#dim
+4f	F minor
+4.g#	G# diminished
+4.ff	G diminished
+4.cc	F# diminished
 =6	=6
-4.f	Fm
-4.g#	G#dim
-4.ff#	Gdim
-4.cc	F#dim
+4.f	F minor
+4.g#	G# diminished
+4.ff#	G diminished
+4.cc	F# diminished
 =7	=7
-4.f	Fm
-4.g#	G#dim
-4.ff	Gdim
-4cc	Fm
+4.f	F minor
+4.g#	G# diminished
+4.ff	G diminished
+4cc	F minor
 8g	.
 =8	=8
-8g	C
-8g#	.
-8g	.
-8e	C#dim
-8c#	.
-16e[	.
+8gL	C major
+8g#J	.
+8gL	.
+8eJ	C# diminished
+8c#L	.
+[16eJk	.
 8.e]	.
 4.r	.
-8e	C
-8f#	.
+8eL	C major
+8f#J	.
 =9	=9
-8e	C
-4.c#	C#dim
-8e	Cdim
-8f#	.
-8e	.
-8c#	Bdim
-8d#	.
-8c#	.
-8c	A#dim
-8A#	.
+8e	C major
+4.c#	C# diminished
+8eL	C diminished
+8f#J	.
+8eL	.
+8c#J	B diminished
+8d#L	.
+8c#J	.
+8cL	A# diminished
+8A#J	.
 =10	=10
 8G#	.
-4F	F
+4F	F major
 8cc	.
-8cc	.
-8cc#	.
-8cc	.
-8a	.
-8f	.
-8a	.
-8cc	.
-8cc#	.
+8ccL	.
+8cc#J	.
+8ccL	.
+8aJ	.
+8fL	.
+8aJ	.
+8ccL	.
+8cc#J	.
 =11	=11
 8cc	.
 4.a	.
-8g#	G#dim
-8a#	.
-8g#	.
-8f	Gdim
-8g	.
-8f	.
-8c	F#dim
-8e	.
+8g#L	G# diminished
+8a#J	.
+8g#L	.
+8fJ	G diminished
+8gL	.
+8fJ	.
+8cL	F# diminished
+8eJ	.
 =12	=12
 8g	.
-4.a#	C9
+4.a#	C dominant-ninth
 4r	.
-6...f	Fm
+6...f	F minor
 6...g#	.
 8r	.
 ==	==

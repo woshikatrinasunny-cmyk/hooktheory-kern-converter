@@ -15,65 +15,65 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.ee	Asus2
-16ee	.
-16ff#	.
-4.b	Asus4
-16cc#	.
-16dd	.
+4.ee	A suspended-second
+16eeLL	.
+16ff#JJ	.
+4.b	A suspended-fourth
+16cc#LL	.
+16ddJJ	.
 =2	=2
-4.ee	Asus2
-16ee	.
-16gg#	.
-4.b	Asus4
-16cc#	.
-16dd	.
+4.ee	A suspended-second
+16eeLL	.
+16gg#JJ	.
+4.b	A suspended-fourth
+16cc#LL	.
+16ddJJ	.
 =3	=3
-4.ee	Asus2
-16ee	.
-16ff#	.
-8ggn	C#dim
+4.ee	A suspended-second
+16eeLL	.
+16ff#JJ	.
+8ggnL	C# diminished
 8ff#	.
 8ee	.
-8dd	.
+8ddJ	.
 =4	=4
-8dd	D
+8ddL	D major
 8cc#	.
 8b	.
-8a	.
-4.g#	E
-16cc#	.
-16dd	.
+8aJ	.
+4.g#	E major
+16cc#LL	.
+16ddJJ	.
 =5	=5
-4.ee	Asus2
-16ee	.
-16ff#	.
-4.b	Asus4
-16cc#	.
-16dd	.
+4.ee	A suspended-second
+16eeLL	.
+16ff#JJ	.
+4.b	A suspended-fourth
+16cc#LL	.
+16ddJJ	.
 =6	=6
-4.ee	Asus2
-16ee	.
-16gg#	.
-4.b	Asus4
-16cc#	.
-16dd	.
+4.ee	A suspended-second
+16eeLL	.
+16gg#JJ	.
+4.b	A suspended-fourth
+16cc#LL	.
+16ddJJ	.
 =7	=7
-4.ee	Asus2
-16ee	.
-16ff#	.
-8ggn	C#dim
+4.ee	A suspended-second
+16eeLL	.
+16ff#JJ	.
+8ggnL	C# diminished
 8ff#	.
 8ee	.
-8dd	.
+8ddJ	.
 =8	=8
-8dd	D
+8ddL	D major
 8cc#	.
 8b	.
-8a	.
-16g#	E
-16a	.
-8b	.
+8aJ	.
+16g#LL	E major
+16aJ	.
+8bJ	.
 4ee	.
 ==	==
 *-	*-

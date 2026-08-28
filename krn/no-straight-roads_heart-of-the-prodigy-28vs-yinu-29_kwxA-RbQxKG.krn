@@ -16,47 +16,47 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.ff#	D
-16ddd	.
-16ccc#	.
+4.ff#	D major
+16dddLL	.
+16ccc#JJ	.
 4.ff#	.
 8ee	.
 =2	=2
-1ff#	F#m7/C#
+1ff#	F# minor-seventh/C#
 =3	=3
-4aa	Gadd(2,4,7)/B
-16b	.
+4aa	G other-2,4,7/B
+16bLL	.
 16dd	.
 16aa	.
-16bb	.
+16bbJJ	.
 4.dd	.
 8ee	.
 =4	=4
-4gg	G/D
-4ff#	D
+4gg	G major/D
+4ff#	D major
 4r	.
-4r	Dmaj7/C#
+4r	D major-seventh/C#
 =5	=5
-4.ff#	Bm
-16ddd	.
-16ccc#	.
+4.ff#	B minor
+16dddLL	.
+16ccc#JJ	.
 4.ff#	.
 8eee	.
 =6	=6
-4fff#	F#m
+4fff#	F# minor
 2.ccc#	.
 =7	=7
-4fff#	Gmaj7
-16eee	.
+4fff#	G major-seventh
+16eeeLL	.
 16fff#	.
 16ccc#	.
-16bb	.
-6...ff#	E7sus2
+16bbJJ	.
+6...ff#	E dominant-seventh-suspended-second
 8.bb	.
 =8	=8
-4bb	Gmaj7
+4bb	G major-seventh
 4ccc#	.
-4ddd	Asus4
+4ddd	A suspended-fourth
 4eee	.
 ==	==
 *-	*-

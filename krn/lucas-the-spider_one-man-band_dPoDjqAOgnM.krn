@@ -17,23 +17,23 @@
 *M4/4	*
 =1	=1
 8d	.
-4a	D
+4a	D major
 4f#	.
 4.g	.
 =2	=2
-4cc	D7
-4b	Gadd(2,4,7)/D
-4.cc	D7
-8cc[	.
+4cc	D dominant
+4b	G other-2,4,7/D
+4.cc	D dominant
+[8cc	.
 =3	=3
 8cc]	.
-4a	D
-4b	Gadd(2,4,7)/D
-8f#	D
-8e	Eadd(3,5,7,10)
-8d	.
+4a	D major
+4b	G other-2,4,7/D
+8f#L	D major
+8e	E other-3,5,7,10
+8dJ	.
 =4	=4
-2c	Csus2
+2c	C suspended-second
 4.f#	.
 8f#	.
 =5	=5
@@ -45,7 +45,7 @@
 8f#	.
 =7	=7
 2d	.
-4d	D
+4d	D major
 4r	.
 ==	==
 *-	*-

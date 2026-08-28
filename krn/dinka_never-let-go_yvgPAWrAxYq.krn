@@ -16,102 +16,102 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.a	Dsus2
+4.a	D suspended-second
 4a	.
-4cc#	F#m
-8b[	E
+4cc#	F# minor
+[8b	E major
 =2	=2
 2b]	.
 8r	.
-4cc#	A
-8dd[	Bm7
+4cc#	A major
+[8dd	B minor-seventh
 =3	=3
 3...dd]	.
 8r	.
-8f#	Bm/D
-8dd	D
+8f#L	B minor/D
+8ddJ	D major
 =4	=4
-4.cc#	F#m
-2b	Aadd(2,4,7)/C#
+4.cc#	F# minor
+2b	A other-2,4,7/C#
 8r	.
 =5	=5
-4a	Dsus2
+4a	D suspended-second
 8r	.
 8a	.
 8r	.
-4cc#	F#m
-8b[	E
+4cc#	F# minor
+[8b	E major
 =6	=6
 2b]	.
 8r	.
-4cc#	A
-8dd[	Bm7
+4cc#	A major
+[8dd	B minor-seventh
 =7	=7
 3...dd]	.
 8r	.
-8f#	Bm/D
-8dd	D
+8f#L	B minor/D
+8ddJ	D major
 =8	=8
-4.ee	F#m7
-2b	Aadd(2,4,7)/C#
+4.ee	F# minor-seventh
+2b	A other-2,4,7/C#
 8r	.
 =9	=9
-4ff#	Dsus2
+4ff#	D suspended-second
 8r	.
 8ff#	.
 8r	.
-4aa	F#m
-8gg#[	E
+4aa	F# minor
+[8gg#	E major
 =10	=10
 2gg#]	.
 8r	.
-4ee	A
-8ff#[	Bm7
+4ee	A major
+[8ff#	B minor-seventh
 =11	=11
 3...ff#]	.
 8r	.
-8f#	Bm/D
-8ff#	D
+8f#L	B minor/D
+8ff#J	D major
 =12	=12
-4.ee	F#m7
-3...aa	Aadd(2,4,7)/C#
+4.ee	F# minor-seventh
+3...aa	A other-2,4,7/C#
 =13	=13
-3...aa	Dsus2
-8ee	F#m
+3...aa	D suspended-second
+8eeL	F# minor
 8gg#	.
-8aa[	E
+[8aaJ	E major
 =14	=14
 2aa]	.
-8bb[	.
-4bb_	A
-8bb]	Bm7
+[8bb	.
+4bb_	A major
+8bb]	B minor-seventh
 =15	=15
-3...ff#[	.
-8ff#]	.
-8ee	Bm/D
-8dd	D
+[3...ff#	.
+8ff#L]	.
+8ee	B minor/D
+8ddJ	D major
 =16	=16
-4.cc#[	F#m7
-4.cc#]	Aadd(2,4,7)/C#
+[4.cc#	F# minor-seventh
+4.cc#]	A other-2,4,7/C#
 4r	.
 =17	=17
-3...f#[	Dsus2
-8f#]	F#m
+[3...f#	D suspended-second
+8f#L]	F# minor
 8cc#	.
-8b[	E
+[8bJ	E major
 =18	=18
 2b_	.
-8b_	.
-8b]	A
+8bL_	.
+8b]	A major
 8cc#	.
-8dd	Bm7
+8ddJ	B minor-seventh
 =19	=19
-3...ff#[	.
-8ff#_	.
-8ff#_	Bm/D
-8ff#_	D
+[3...ff#	.
+8ff#L_	.
+8ff#_	B minor/D
+8ff#J_	D major
 =20	=20
-4.ff#]	F#m7
-3...aa	Aadd(2,4,7)/C#
+4.ff#]	F# minor-seventh
+3...aa	A other-2,4,7/C#
 ==	==
 *-	*-

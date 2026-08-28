@@ -15,134 +15,134 @@
 *C:	*
 *M4/4	*
 =1	=1
-8d	Dm
-8d	Dm/A
-8c	Dm7/C
-8c	Dm
-8B	.
-8B	Dm
-8A[	.
-8A]	Dm
+8dL	D minor
+8d	D minor/A
+8c	D minor-seventh/C
+8cJ	D minor
+8BL	.
+8B	D minor
+[8A	.
+8AJ]	D minor
 =2	=2
-8d	C
-8d	C/G
-8c	Cmaj7/B
-8c	C
-8B[	.
-8B]	C
+8dL	C major
+8d	C major/G
+8c	C major-seventh/B
+8cJ	C major
+[8BL	.
+8BJ]	C major
 4A	.
 =3	=3
-8d	G
-8d	G/D
-8c	G7/F
-8c	G
-8B	.
-8B	G
+8dL	G major
+8d	G major/D
+8c	G dominant/F
+8cJ	G major
+8BL	.
+8B	G major
 8A	.
-8A	G
+8AJ	G major
 =4	=4
-8d[	F
-8d]	F/C
-8c	Fmaj7/E
-8c	F
-8B[	.
-8B]	F
+[8dL	F major
+8d]	F major/C
+8c	F major-seventh/E
+8cJ	F major
+[8BL	.
+8BJ]	F major
 4A	.
 =5	=5
-8d[	Dm
-8d]	Dm/A
-8c	Dm7/C
-8c	Dm
-8B	.
-8B	Dm
-8A[	.
-8A]	Dm
+[8dL	D minor
+8d]	D minor/A
+8c	D minor-seventh/C
+8cJ	D minor
+8BL	.
+8B	D minor
+[8A	.
+8AJ]	D minor
 =6	=6
-8d	C
-8d	C/G
-8c	Cmaj7/B
-8c	C
-8B	.
-8B	C
+8dL	C major
+8d	C major/G
+8c	C major-seventh/B
+8cJ	C major
+8BL	.
+8BJ	C major
 4A	.
 =7	=7
-8d	G
-8d	G/D
-8d	G7/F
-8d	G
-8d	.
-8e	G
+8dL	G major
+8d	G major/D
+8d	G dominant/F
+8dJ	G major
+8dL	.
+8e	G major
 8c	.
-8d[	G
+[8dJ	G major
 =8	=8
-8d]	F
+8dL]	F major
 8d	.
 8d	.
-8d	.
-8d	F
-8e	.
-4c	F
+8dJ	.
+8dL	F major
+8eJ	.
+4c	F major
 =9	=9
-8e	Dm
-8d[	Dm/A
-8d]	Dm7/C
-8e	Dm
-8d[	.
-8d]	Dm
+8eL	D minor
+[8d	D minor/A
+8d]	D minor-seventh/C
+8eJ	D minor
+[8dL	.
+8dJ]	D minor
 8r	.
-8r	Dm
+8r	D minor
 =10	=10
-8d	C
-8c[	C/G
-8c]	Cmaj7/B
-8d	C
-8c[	.
-8c]	C
+8dL	C major
+[8c	C major/G
+8c]	C major-seventh/B
+8dJ	C major
+[8cL	.
+8cJ]	C major
 4r	.
 =11	=11
-8e	G
-8d[	G/D
-8d]	G7/F
-8e	G
-8d[	.
-8d]	G
+8eL	G major
+[8d	G major/D
+8d]	G dominant/F
+8eJ	G major
+[8dL	.
+8dJ]	G major
 8r	.
-8r	G
+8r	G major
 =12	=12
-8r	F
-8d	F/C
-8d	Fmaj7/E
-8d	F
-8d[	.
-8d]	F
+8r	F major
+8dL	F major/C
+8d	F major-seventh/E
+8dJ	F major
+[8dL	.
+8dJ]	F major
 4d	.
 =13	=13
-8e	Dm
-8d[	Dm/A
-8d]	Dm7/C
-8e	Dm
-8d[	.
-8d]	Dm
+8eL	D minor
+[8d	D minor/A
+8d]	D minor-seventh/C
+8eJ	D minor
+[8dL	.
+8dJ]	D minor
 8r	.
-8r	Dm
+8r	D minor
 =14	=14
-8d	C
-8c[	C/G
-8c]	Cmaj7/B
-8d	C
-8c[	.
-8c]	C
+8dL	C major
+[8c	C major/G
+8c]	C major-seventh/B
+8dJ	C major
+[8cL	.
+8cJ]	C major
 4r	.
 =15	=15
-8e	G
-8d[	G/D
-8d]	G7/F
-8e	G
-8d[	.
-8d]	G/D
-8r	G
-8r	G
+8eL	G major
+[8d	G major/D
+8d]	G dominant/F
+8eJ	G major
+[8dL	.
+8dJ]	G major/D
+8r	G major
+8r	G major
 =16	=16
-1r	F
+1r	F major
 ==	==
 *-	*-

@@ -16,107 +16,107 @@
 *g:	*
 *M4/4	*
 =1	=1
-2r	Gm
+2r	G minor
 4dd	.
-8dd	.
-8dd[	.
+8ddL	.
+[8ddJ	.
 =2	=2
 8dd]	.
 4dd	.
 4dd	.
 4ff	.
-8ff[	.
+[8ff	.
 =3	=3
-4ff]	F
+4ff]	F major
 2.r	.
 =4	=4
 1r	.
 =5	=5
-4r	Gm
-8g	.
-8g	.
+4r	G minor
+8gL	.
+8gJ	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd[	.
+[8ddJ	.
 =6	=6
 8dd]	.
 4dd	.
 4dd	.
 4ff	.
-8cc[	.
+[8cc	.
 =7	=7
-8cc]	F
+8cc]	F major
 4b-	.
 8cc	.
 2dd	.
 =8	=8
-16cc	.
+16ccLL	.
 16b-	.
 16g	.
 16f	.
-16g	.
+16gJJ	.
 2b-	.
 8.r	.
 =9	=9
-2r	Gm
+2r	G minor
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd[	.
+[8ddJ	.
 =10	=10
 8dd]	.
 4dd	.
 4ff	.
 4.ff	.
 =11	=11
-1r	F
+1r	F major
 =12	=12
 4.r	.
 8g	.
 8cc	.
 4.dd	.
 =13	=13
-16cc	E-
+16ccLL	E- major
 16b-	.
 16g	.
 16f	.
-16g	.
+16gJJ	.
 4..b-	.
 4r	.
 =14	=14
-4r	E-maj7
+4r	E- major-seventh
 8g	.
 4dd	.
 4.dd	.
 =15	=15
-1cc	F
+1cc	F major
 =16	=16
-4.r	F
+4.r	F major
 8g	.
 8dd	.
 4.dd	.
 =17	=17
-16cc	E-
+16ccLL	E- major
 16b-	.
 16g	.
 16f	.
-16g	.
+16gJ	.
 8b-	.
-16cc	.
-8dd	.
-16cc	.
+16ccJk	.
+8ddL	.
+16ccJk	.
 6...r	.
 =18	=18
-4r	E-maj7
+4r	E- major-seventh
 8g	.
 4dd	.
 4.dd	.
 =19	=19
-2cc	F
+2cc	F major
 2dd	.
 =20	=20
-2ff	Fsus2
+2ff	F suspended-second
 2gg	.
 ==	==
 *-	*-

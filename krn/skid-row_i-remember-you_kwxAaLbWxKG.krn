@@ -16,63 +16,63 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	G
-16g	.
-8g	.
+4r	G major
+16gLK	.
+8gJ	.
 16r	.
-8g	.
-16d	.
+8gL	.
+16dk	.
 8.d	.
-8B	.
+8BJ	.
 =2	=2
-8.d	Cadd(2,4,7)
+8.dL	C other-2,4,7
 8.e	.
-16d	.
-16A	.
+16dL	.
+16AJJ	.
 2B	.
 =3	=3
-4r	G
-8g	.
-8g	.
-8d	.
+4r	G major
+8gL	.
+8gJ	.
+8dL	.
 8.B	.
-16B	.
-8B	.
+16Bk	.
+8BJ	.
 =4	=4
-8.c	Cadd(2,4,7)
+8.cL	C other-2,4,7
 8.B	.
-16A	.
-2G[	.
+16AJk	.
+[2G	.
 16G]	.
 =5	=5
-8.r	G
-16G	.
+8.r	G major
+16GLK	.
 8g	.
-16g	.
+16gJk	.
 8.g	.
-16d	.
+16dLK	.
 8.d	.
-8B	.
+8BJ	.
 =6	=6
-8.d	Cadd(2,4,7)
+8.dL	C other-2,4,7
 8.e	.
-16d	.
-16A	.
+16dL	.
+16AJJ	.
 4B	.
 4r	.
 =7	=7
-8.r	D
-16d	.
+8.r	D major
+16dLK	.
 8a	.
-16a	.
+16aJk	.
 8a	.
-8.a	.
-16a	.
-8.b	.
+8.aL	.
+16ak	.
+8.bJ	.
 =8	=8
-8.cc	C
+8.ccL	C major
 8.b	.
-8a	Cadd(2,4,7)
+8aJ	C other-2,4,7
 2g	.
 ==	==
 *-	*-

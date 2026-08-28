@@ -16,57 +16,57 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.ee	Eadd(2,5,7)
+4.ee	E other-2,5,7
 4.ee-	.
-4dd-[	E-m7/G-
+[4dd-	E- minor-seventh/G-
 =2	=2
 8dd-]	.
 4.cc	.
-4.b-	E-sus2
-8a[	.
+4.b-	E- suspended-second
+[8a	.
 =3	=3
 4a]	.
-2.a-	Dadd(2,4,7)
+2.a-	D other-2,4,7
 =4	=4
 1r	.
 =5	=5
-2cc	Cadd(2,5,7)
+2cc	C other-2,5,7
 2dd	.
 =6	=6
-2ee	B-
+2ee	B- major
 2ff	.
 =7	=7
-2gg	A-maj7sus4
+2gg	A- major-seventh-suspended-fourth
 2aa-	.
 =8	=8
-2bb-	G-
+2bb-	G- major
 2ccc	.
 =9	=9
-1aa[	F
+[1aa	F major
 =10	=10
 1aa]	.
 =11	=11
-1ee-	F7
+1ee-	F dominant
 =12	=12
-4.aa	Fmaj7
-4bb-	C7/G
-4.ccc	Adim
+4.aa	F major-seventh
+4bb-	C dominant/G
+4.ccc	A diminished
 =13	=13
-1aa	B-maj7
+1aa	B- major-seventh
 =14	=14
-1gg	Am7
+1gg	A minor-seventh
 =15	=15
-2aa-	A-add(6,7,11)
+2aa-	A- other-6,7,11
 2gg	.
 =16	=16
-2ff	G-maj7
+2ff	G- major-seventh
 2dd-	.
 =17	=17
-1cc	Fmaj7
+1cc	F major-seventh
 =18	=18
 1r	.
 =19	=19
-1r	E
+1r	E major
 =20	=20
 1r	.
 ==	==

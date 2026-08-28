@@ -16,78 +16,78 @@
 *D:	*
 *M4/4	*
 =1	=1
-2d	A7
+2d	A dominant
 2c#	.
 =2	=2
-2f#	D
-2a	D/F#
+2f#	D major
+2a	D major/F#
 =3	=3
-2.d	Gadd(2,4,7)
-4e	E7/G#
+2.d	G other-2,4,7
+4e	E dominant/G#
 =4	=4
-4d	A7sus4
+4d	A dominant-seventh-suspended-fourth
 4c#	.
 4d	.
 4e	.
 =5	=5
-2d	D/A
-2c#	A7
+2d	D major/A
+2c#	A dominant
 =6	=6
-2g	Em
-2b	B/D#
+2g	E minor
+2b	B major/D#
 =7	=7
-2.d	G/D
-4e	E7/G#
+2.d	G major/D
+4e	E dominant/G#
 =8	=8
-4d	A7
+4d	A dominant
 4c#	.
 4d	.
 4e	.
 =9	=9
-1e	Em7b5/A#
+1e	E half-diminished/A#
 =10	=10
-2a	A#maj7
+2a	A# major-seventh
 2dd	.
 =11	=11
-2.fn	Gm7
+2.fn	G minor-seventh
 4g	.
 =12	=12
-4fn	C7
+4fn	C dominant
 4e	.
 4fn	.
 4g	.
 =13	=13
-4.g	Fmaj7
+4.g	F major-seventh
 8a	.
 2a	.
 =14	=14
-4.ccn	A#maj7
+4.ccn	A# major-seventh
 8fn	.
 4.fn	.
 8g	.
 =15	=15
-4.fn	Gm7
+4.fn	G minor-seventh
 8e	.
 4.e	.
 8d	.
 =16	=16
-1d	A7sus4
+1d	A dominant-seventh-suspended-fourth
 =17	=17
-16e	A7
+16eLL	A dominant
 16f#	.
 16e	.
 16f#	.
 16e	.
 16f#	.
 16e	.
+16f#JJ	.
+16eLL	.
 16f#	.
 16e	.
 16f#	.
 16e	.
 16f#	.
 16e	.
-16f#	.
-16e	.
-16f#	.
+16f#JJ	.
 ==	==
 *-	*-

@@ -16,50 +16,50 @@
 *B:	*
 *M4/4	*
 =1	=1
-8r	Bmaj7
+8r	B major-seventh
+8f#L	.
 8f#	.
-8f#	.
-8f#	.
-8e	.
-8d#	.
+8f#J	.
+8eL	.
+8d#J	.
 4r	.
 =2	=2
-8r	A#m7b5
-8d#	.
+8r	A# half-diminished
+8d#L	.
 8e	.
-8e	.
-8d#	D#add(3,4,7,8,10)
-8c#	.
-4r	D#add(1,4,7,10)
+8eJ	.
+8d#L	D# other-3,4,7,8,10
+8c#J	.
+4r	D# other-1,4,7,10
 =3	=3
-4r	G#add(2,3,7)
-8B	.
-8B	.
+4r	G# other-2,3,7
+8BL	.
+8BJ	.
 8c#	.
 4d#	.
-8c#[	.
+[8c#	.
 =4	=4
-4c#]	F#m9
+4c#]	F# minor-ninth
 4r	.
-4d#	B13
-8c#	.
-8B	.
+4d#	B dominant-13th
+8c#L	.
+8BJ	.
 =5	=5
-4d#	Emaj7
+4d#	E major-seventh
 8G#	.
 3...B	.
 =6	=6
-2r	D#m7
+2r	D# minor-seventh
 4d#	.
-8c#	.
-8B	.
+8c#L	.
+8BJ	.
 =7	=7
-8d#	C#m7
+8d#	C# minor-seventh
 4f#	.
 3...f#	.
 =8	=8
-2r	F#add(2,5,7,9,10)
-4r	E
-4r	F#11
+2r	F# other-2,5,7,9,10
+4r	E major
+4r	F# dominant-11th
 ==	==
 *-	*-

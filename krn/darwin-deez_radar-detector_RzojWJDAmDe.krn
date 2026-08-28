@@ -16,37 +16,37 @@
 *E:	*
 *M4/4	*
 =1	=1
-2dd#	B
+2dd#	B major
 4b	.
-4g#[	.
+[4g#	.
 =2	=2
-2g#]	C#m7
+2g#]	C# minor-seventh
 4e	.
-4f#[	.
+[4f#	.
 =3	=3
-4f#]	B
+4f#]	B major
 2.r	.
 =4	=4
 2r	.
 8e	.
 4f#	.
-8g#[	.
+[8g#	.
 =5	=5
 8g#]	.
 4.b	.
 8f#	.
 4e	.
-8f#[	.
+[8f#	.
 =6	=6
-4f#]	C#m7
+4f#]	C# minor-seventh
 4e	.
 2c#	.
 =7	=7
-1r	F#add(2,5,7)
+1r	F# other-2,5,7
 =8	=8
-1r	F#sus4
+1r	F# suspended-fourth
 =9	=9
-4r	A
+4r	A major
 4ff#	.
 4ee	.
 4f#	.
@@ -55,58 +55,58 @@
 4g#	.
 8B	.
 4B	.
-8G#[	.
+[8G#	.
 =11	=11
-8G#]	E
+8G#]	E major
 2..r	.
 =12	=12
 1r	.
 =13	=13
-4r	Amaj7
+4r	A major-seventh
 4e	.
 4e	.
-8f#	.
-8g#[	.
+8f#L	.
+[8g#J	.
 =14	=14
-8.g#]	.
-8.g#	.
+8.g#L]	.
+8.g#J	.
 6...f#	.
-8.e	.
-8B[	.
+8.eL	.
+[8BJ	.
 =15	=15
-4B]	C#m7
+4B]	C# minor-seventh
 4b	.
-4g#[	.
-8.g#]	B
+[4g#	.
+8.g#]	B major
 16r	.
 =16	=16
-4r	E
-8f#	.
+4r	E major
+8f#L	.
+8eJ	.
+8f#L	.
 8e	.
-8f#	.
 8e	.
-8e	.
-8c#	.
+8c#J	.
 =17	=17
-1r	Aadd(2,4,7)
+1r	A other-2,4,7
 =18	=18
 4.r	.
 8e	.
 8e	.
 4B	.
-8b[	.
+[8b	.
 =19	=19
-8b]	F#add(2,5,7)
+8b]	F# other-2,5,7
 4..g#	.
 8.f#	.
 4e	.
 =20	=20
-6...f#	F#sus4
+6...f#	F# suspended-fourth
 8.e	.
 4..e	.
 16r	.
 =21	=21
-4r	E
+4r	E major
 2.r	.
 ==	==
 *-	*-

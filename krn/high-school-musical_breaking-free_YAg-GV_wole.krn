@@ -16,67 +16,67 @@
 *c:	*
 *M4/4	*
 =1	=1
-8cc	Cm
+8ccL	C minor
 8G	.
-8c	.
-4.dd	Cadd(2,5,7)
-4cc	Cm
+8cJ	.
+4.dd	C other-2,5,7
+4cc	C minor
 =2	=2
-8gg	Fm
+8ggL	F minor
 8C	.
-8G	.
-3...cc	F
+8GJ	.
+3...cc	F major
 =3	=3
-1cc	A-
+1cc	A- major
 =4	=4
 2..b-	.
 8G	.
 =5	=5
-4.B-	Cm
+4.B-	C minor
 4G	.
 4.r	.
 =6	=6
-4.B-	F
+4.B-	F major
 4G	.
 4.r	.
 =7	=7
-8G	A-
+8GL	A- major
 8A-	.
 8G	.
-8F	.
+8FJ	.
 8E-	.
 4E-	.
-8G[	.
+[8G	.
 =8	=8
-8G]	E-
+8GL]	E- major
 8A-	.
 8G	.
-8F	.
-8E-	B-
+8FJ	.
+8E-	B- major
 4E-	.
-16G	.
-16F	.
+16GLL	.
+16FJJ	.
 =9	=9
-4G	Cm
+4G	C minor
 4.r	.
-8g-	.
+8g-L	.
 8f	.
-8f[	.
+[8fJ	.
 =10	=10
-8f]	F
-16f	.
-16g	.
+8fL]	F major
+16fL	.
+16gJJ	.
 4f	.
 8r	.
+8fL	.
 8f	.
-8f	.
-8f	.
+8fJ	.
 =11	=11
-8e-	A-sus2
-4e-[	.
-4.e-]	A-
+8e-	A- suspended-second
+[4e-	.
+4.e-]	A- major
 8r	.
-8r	A-maj7
+8r	A- major-seventh
 =12	=12
 1r	.
 ==	==

@@ -16,34 +16,34 @@
 *B:	*
 *M4/4	*
 =1	=1
-2b	B
+2b	B major
 4dd#	.
 4ff#	.
 =2	=2
-2ggn	Em/B
-8ff#	B
+2ggn	E minor/B
+8ff#	B major
 4.r	.
 =3	=3
-2ee	C#m7b5/B
-8dd#	B
+2ee	C# half-diminished/B
+8dd#	B major
 4.r	.
 =4	=4
-2cc#[	F#sus4
-2cc#_	F#
+[2cc#	F# suspended-fourth
+2cc#_	F# major
 =5	=5
-2cc#_	F#sus4
-4cc#]	F#
-8b	.
-8cc#	.
+2cc#_	F# suspended-fourth
+4cc#]	F# major
+8bL	.
+8cc#J	.
 =6	=6
-2ddn	G
-4ddn	Asus4
-4cc#	A
+2ddn	G major
+4ddn	A suspended-fourth
+4cc#	A major
 =7	=7
-2ddn	G/B
-4ddn	A/C#
+2ddn	G major/B
+4ddn	A major/C#
 4ee	.
 =8	=8
-1ff#	Bm
+1ff#	B minor
 ==	==
 *-	*-

@@ -16,33 +16,33 @@
 *F:	*
 *M4/4	*
 =1	=1
-8ee	Fmaj7
+8eeL	F major-seventh
 8cc	.
 8g	.
-8b	G
+8bJ	G major
 8g	.
 4.dd	.
 =2	=2
-8b	Em7
+8bL	E minor-seventh
 8g	.
-8e	.
-4.cc	F
-16cc	.
-16dd	.
-8ee	.
+8eJ	.
+4.cc	F major
+16ccLL	.
+16ddJ	.
+8eeJ	.
 =3	=3
-8ee	Fmaj7
+8eeL	F major-seventh
 8cc	.
 8g	.
-8dd	G
+8ddJ	G major
 8g	.
 4dd	.
-16cc	.
-16b	.
+16ccLL	.
+16bJJ	.
 =4	=4
-8b	Em7
+8bL	E minor-seventh
 8g	.
-8e	.
-3...cc	F
+8eJ	.
+3...cc	F major
 ==	==
 *-	*-

@@ -16,30 +16,30 @@
 *A:	*
 *M3/4	*
 =1	=1
-2b	A7sus2/G
-4cc#[	A7/G
+2b	A dominant-seventh-suspended-second/G
+[4cc#	A dominant/G
 =2	=2
 4cc#]	.
 2dd	.
 =3	=3
-2ee	F#7
-4cc#[	.
+2ee	F# dominant
+[4cc#	.
 =4	=4
 4cc#]	.
 2cc#	.
 =5	=5
-2dd	F#7/E
-4ee[	.
+2dd	F# dominant/E
+[4ee	.
 =6	=6
 4ee]	.
 2ff#	.
 =7	=7
-2ggn	Bm/D
-4ff#[	.
+2ggn	B minor/D
+[4ff#	.
 =8	=8
 4ff#]	.
-4b[	.
-4b]	G#m7b5/D
+[4b	.
+4b]	G# half-diminished/D
 =9	=9
 2ff#	.
 4ee	.
@@ -48,51 +48,51 @@
 4g#	.
 4e	.
 =11	=11
-2b	Aadd(2,4,7)/C#
-4a[	Asus4
+2b	A other-2,4,7/C#
+[4a	A suspended-fourth
 =12	=12
 4a]	.
-4a[	.
-4a]	A
+[4a	.
+4a]	A major
 =13	=13
-2dd	Fdim7/B
+2dd	F diminished-seventh/B
 4cc#	.
 =14	=14
 4d	.
 4fn	.
 4c#	.
 =15	=15
-2g#	F#add(2,3,7)/A
-4f#[	F#sus4
+2g#	F# other-2,3,7/A
+[4f#	F# suspended-fourth
 =16	=16
 4f#]	.
-4a[	.
-4a]	F#m
+[4a	.
+4a]	F# minor
 =17	=17
-2b	A7sus2/G
-4cc#[	A7/G
+2b	A dominant-seventh-suspended-second/G
+[4cc#	A dominant/G
 =18	=18
 4cc#]	.
 2dd	.
 =19	=19
-2ee	F#7
-4cc#[	.
+2ee	F# dominant
+[4cc#	.
 =20	=20
 4cc#]	.
 2cc#	.
 =21	=21
-2dd	F#7/E
-4ee[	.
+2dd	F# dominant/E
+[4ee	.
 =22	=22
 4ee]	.
 2ff#	.
 =23	=23
-2ggn	Bm/D
-4ff#[	.
+2ggn	B minor/D
+[4ff#	.
 =24	=24
 4ff#]	.
-4b[	.
-4b]	G#m7b5/D
+[4b	.
+4b]	G# half-diminished/D
 =25	=25
 2ff#	.
 4ee	.
@@ -101,25 +101,25 @@
 4g#	.
 4e	.
 =27	=27
-2b	Aadd(2,4,7)/C#
-4a[	Asus4
+2b	A other-2,4,7/C#
+[4a	A suspended-fourth
 =28	=28
 4a]	.
-4a[	.
-4a]	A
+[4a	.
+4a]	A major
 =29	=29
-2dd	Fdim7/B
+2dd	F diminished-seventh/B
 4cc#	.
 =30	=30
 4d	.
 4fn	.
 4c#	.
 =31	=31
-2g#	F#add(2,3,7)/A
-4f#[	F#m
+2g#	F# other-2,3,7/A
+[4f#	F# minor
 =32	=32
 4f#]	.
-4cc#[	F#add(7,8,10)
-4cc#]	Eadd(4,7,9,10)/G#
+[4cc#	F# other-7,8,10
+4cc#]	E other-4,7,9,10/G#
 ==	==
 *-	*-

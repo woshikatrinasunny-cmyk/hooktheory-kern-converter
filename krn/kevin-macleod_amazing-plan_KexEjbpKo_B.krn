@@ -15,7 +15,7 @@
 *d:	*
 *M4/4	*
 =1	=1
-16fff	Dm
+16fff	D minor
 16r	.
 16fff	.
 16r	.
@@ -23,11 +23,11 @@
 16r	.
 16fff	.
 16r	.
-16fff	.
+16fffLL	.
 16eee	.
 16fff	.
 16ggg	.
-16aaa	.
+16aaaJJ	.
 16r	.
 8eee	.
 =2	=2
@@ -35,10 +35,10 @@
 16r	.
 16fff	.
 16r	.
-16fff	.
+16fffLL	.
 16eee	.
 16fff	.
-16ggg	.
+16gggJJ	.
 4aaa	.
 8r	.
 8eee	.
@@ -51,11 +51,11 @@
 16r	.
 16fff	.
 16r	.
-16fff	.
+16fffLL	.
 16eee	.
 16fff	.
 16ggg	.
-16aaa	.
+16aaaJJ	.
 16r	.
 8eee	.
 =4	=4
@@ -63,14 +63,14 @@
 16r	.
 16fff	.
 16r	.
-16fff	.
+16fffLL	.
 16eee	.
 16fff	.
-16ggg	.
+16gggJJ	.
 4fff	.
 4r	.
 =5	=5
-16bbb-	Gm
+16bbb-	G minor
 16r	.
 16bbb-	.
 16r	.
@@ -78,11 +78,11 @@
 16r	.
 16bbb-	.
 16r	.
-16bbb-	.
+16bbb-LL	.
 16aaa	.
 16bbb-	.
 16cccc	.
-16dddd	.
+16ddddJJ	.
 16r	.
 8aaa	.
 =6	=6
@@ -90,10 +90,10 @@
 16r	.
 16bbb-	.
 16r	.
-16bbb-	.
+16bbb-LL	.
 16aaa	.
 16bbb-	.
-16cccc	.
+16ccccJJ	.
 4dddd	.
 4r	.
 =7	=7
@@ -105,11 +105,11 @@
 16r	.
 16bbb-	.
 16r	.
-16bbb-	.
+16bbb-LL	.
 16aaa	.
 16bbb-	.
 16cccc	.
-16dddd	.
+16ddddJJ	.
 16r	.
 8aaa	.
 =8	=8
@@ -117,11 +117,11 @@
 16r	.
 16bbb-	.
 16r	.
-16bbb-	.
+16bbb-LL	.
 16aaa	.
 16bbb-	.
-16bbbn	.
-16cccc	A
+16bbbnJJ	.
+16cccc	A major
 16r	.
 16dddd-	.
 16r	.

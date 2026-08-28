@@ -16,77 +16,77 @@
 *G:	*
 *M4/4	*
 =1	=1
-8gg	Em
+8ggL	E minor
 8ee	.
-8dd	.
+8ddJ	.
 4.b	.
 4r	.
 =2	=2
 8r	.
-8b	.
+8bL	.
 8dd	.
-8ee	.
-8.gg	Em
-16ff#[	.
-8ff#]	D
-8ee	.
+8eeJ	.
+8.ggL	E minor
+[16ff#k	.
+8ff#]	D major
+8eeJ	.
 =3	=3
-8gg	C
+8ggL	C major
 8ee	.
-8cc	.
+8ccJ	.
 4.g	.
 4r	.
 =4	=4
 8r	.
-8g	.
+8gL	.
 8cc	.
+8ddJ	.
+8eeL	C major
 8dd	.
-8ee	C
-8dd	.
-8cc	Em/B
-8g	.
+8cc	E minor/B
+8gJ	.
 =5	=5
-8gg	Am
+8ggL	A minor
 8cc	.
-8e	.
+8eJ	.
 4.aa	.
 4r	.
 =6	=6
 8r	.
-8g	.
+8gL	.
 8cc	.
-8dd	.
-8.ee	Am/C
+8ddJ	.
+8.eeL	A minor/C
 8.dd	.
-8cc	.
+8ccJ	.
 =7	=7
-8ee	Fmaj7sus2
+8eeL	F major-seventh-suspended-second
 8cc	.
-8a	.
+8aJ	.
 2fn	.
-8g[	.
+[8g	.
 =8	=8
-8g]	.
+8gL]	.
 8c	.
-8A	.
+8AJ	.
 4g	.
-8c	.
+8cL	.
 8A	.
-8g	.
+8gJ	.
 =9	=9
-2A	Am
+2A	A minor
 2B	.
 =10	=10
 2c	.
 2e	.
 =11	=11
-2g	G
+2g	G major
 2b	.
 =12	=12
 2dd	.
 2gg	.
 =13	=13
-2g#	E
+2g#	E major
 2b	.
 =14	=14
 2ee	.
@@ -96,7 +96,7 @@
 2ddd	.
 =16	=16
 2.eee	.
-8ddd	.
-8eee	.
+8dddL	.
+8eeeJ	.
 ==	==
 *-	*-

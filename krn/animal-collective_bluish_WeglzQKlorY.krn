@@ -16,31 +16,31 @@
 *D:	*
 *M4/4	*
 =1	=1
-2a	D
+2a	D major
 2cc#	.
 =2	=2
-4.ee	D/F#
+4.ee	D major/F#
 4.dd	.
-4ff#[	.
+[4ff#	.
 =3	=3
-4ff#]	D
+4ff#]	D major
 2.cc#	.
 =4	=4
-4.b	D/F#
+4.b	D major/F#
 4.a	.
 4f#	.
 =5	=5
-2a	D
+2a	D major
 2dd	.
 =6	=6
-4.ee	D/F#
+4.ee	D major/F#
 4.dd	.
-4ff#[	.
+[4ff#	.
 =7	=7
-4ff#]	D
-2.cc#	Dadd(2,4,7)
+4ff#]	D major
+2.cc#	D other-2,4,7
 =8	=8
-4.b	Dadd(2,4,7)/F#
+4.b	D other-2,4,7/F#
 4.a	.
 4f#	.
 ==	==

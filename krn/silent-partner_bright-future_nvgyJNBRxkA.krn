@@ -16,40 +16,40 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4dd	D
+4dd	D major
 4a	.
 4dd	.
-8a[	.
-8a]	A
+[8aL	.
+8aJ]	A major
 =2	=2
 4cc#	.
 4a	.
 4cc#	.
 4a	.
 =3	=3
-4ee	E
+4ee	E major
 4g#	.
 4ee	.
-8g#[	.
-8g#]	F#m
+[8g#L	.
+8g#J]	F# minor
 =4	=4
 4a	.
 4f#	.
 4a	.
 4f#	.
 =5	=5
-4dd	D
+4dd	D major
 4a	.
 4dd	.
-8a[	.
-8a]	A
+[8aL	.
+8aJ]	A major
 =6	=6
 4cc#	.
 4a	.
 4cc#	.
 4a	.
 =7	=7
-4ee	E
+4ee	E major
 4g#	.
 4ee	.
 4g#	.
@@ -59,47 +59,47 @@
 4gg#	.
 4b	.
 =9	=9
-4dd	D
+4dd	D major
 4a	.
 4dd	.
-8a[	.
-8a]	A
+[8aL	.
+8aJ]	A major
 =10	=10
 4cc#	.
 4a	.
 4cc#	.
 4a	.
 =11	=11
-4ee	E
+4ee	E major
 4g#	.
 4ee	.
-8g#[	.
-8g#]	F#m
+[8g#L	.
+8g#J]	F# minor
 =12	=12
 4a	.
 4f#	.
 4a	.
 4f#	.
 =13	=13
-4dd	D
+4dd	D major
 4a	.
 4dd	.
-8a[	.
-8a]	A
+[8aL	.
+8aJ]	A major
 =14	=14
 4cc#	.
 4a	.
 4cc#	.
 4a	.
 =15	=15
-4ee	E
+4ee	E major
 4g#	.
 4ee	.
 4g#	.
 =16	=16
-4ee	Aadd(4,7,9,11)/E
+4ee	A other-4,7,9,11/E
 4g#	.
-4gg#	Eadd(2,4,7)
+4gg#	E other-2,4,7
 4b	.
 ==	==
 *-	*-

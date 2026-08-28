@@ -15,140 +15,140 @@
 *C:	*
 *M4/4	*
 =1	=1
-16d	Dm
+16dLL	D minor
 16a	.
 16ff	.
 16a	.
 16f	.
 16a	.
 16ff	.
-16f	.
-16g	G7
+16fJJ	.
+16gLL	G dominant
 16dd	.
 16ff	.
 16g	.
 16b	.
 16ff	.
 16g	.
-16ff	.
+16ffJJ	.
 =2	=2
-16c	C
+16cLL	C major
 16g	.
 16ee	.
 16g	.
-16e	Csus2
+16e	C suspended-second
 16g	.
 16dd	.
-16e	.
-16c	Am
+16eJJ	.
+16cLL	A minor
 16a	.
 16cc	.
 16c	.
 16e	.
 16cc	.
 16c	.
-16cc	.
+16ccJJ	.
 =3	=3
-16d	Dm
+16dLL	D minor
 16a	.
 16ff	.
 16a	.
 16f	.
 16a	.
 16ff	.
-16f	.
-16g	G7
+16fJJ	.
+16gLL	G dominant
 16dd	.
 16ff	.
 16g	.
 16b	.
 16ff	.
 16g	.
-16ff	.
+16ffJJ	.
 =4	=4
-16c	C
+16cLL	C major
 16g	.
 16ee	.
 16cc	.
-16b	E7
+16b	E dominant
 16g#	.
 16dd	.
-16g#	.
-16c	Am
+16g#JJ	.
+16cLL	A minor
 16a	.
 16cc	.
 16c	.
 16e	.
 16cc	.
 16c	.
-16cc	.
+16ccJJ	.
 =5	=5
-16d	Dm
+16dLL	D minor
 16a	.
 16ff	.
 16a	.
-16f	Dadd(2,3,7)
+16f	D other-2,3,7
 16a	.
 16ee	.
-16f	.
-16g	G7
+16fJJ	.
+16gLL	G dominant
 16b	.
 16dd	.
 16f	.
 16b	.
 16dd	.
 16g	.
-16ff	.
+16ffJJ	.
 =6	=6
-16c	C
+16cLL	C major
 16e	.
 16g	.
 16e	.
 16cc	.
 16g	.
 16a	.
-16e	.
-16c	C7
+16eJJ	.
+16cLL	C dominant
 16g	.
 16a#	.
 16c	.
 16e	.
 16a#	.
 16c	.
-16a#	.
+16a#JJ	.
 =7	=7
-16d	Dm
+16dLL	D minor
 16f	.
 16a	.
 16f	.
 16d	.
 16f	.
 16a	.
-16d	.
-16g	G
+16dJJ	.
+16gLL	G major
 16d	.
 16b	.
 16d	.
 16g	.
 16b	.
 16d	.
-16b	.
+16bJJ	.
 =8	=8
-16c	C
+16cLL	C major
 16g	.
 16cc	.
 16g	.
 16e	.
 16g	.
 16cc	.
-16e	.
-16c#	A
+16eJJ	.
+16c#LL	A major
 16a	.
 16cc#	.
 16c#	.
 16e	.
 16ee	.
 16c#	.
-16ee	.
+16eeJJ	.
 ==	==
 *-	*-

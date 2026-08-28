@@ -16,34 +16,34 @@
 *E:	*
 *M4/4	*
 =1	=1
-8B	E
-8B	E
-8B	E
-8B	E
-8B	E
+8BL	E major
+8B	E major
+8B	E major
+8BJ	E major
+8B	E major
 4.g#	.
 =2	=2
-8B	B
-8B	B
-8B	B
-8d#	B/D#
-8e	E
-4e	E
+8BL	B major
+8B	B major
+8B	B major
+8d#J	B major/D#
+8e	E major
+4e	E major
 8r	.
 =3	=3
-8B	E
-8B	E
-8B	E
-8B	E
+8BL	E major
+8B	E major
+8B	E major
+8BJ	E major
 8r	.
 4.g#	.
 =4	=4
-8B	B
-8B	B
-8B	B
-8d#	B/D#
-8e	E
-4e	E
+8BL	B major
+8B	B major
+8B	B major
+8d#J	B major/D#
+8e	E major
+4e	E major
 8r	.
 ==	==
 *-	*-

@@ -15,48 +15,48 @@
 *g:	*
 *M4/4	*
 =1	=1
-4r	Gm
-8ggg	.
-8ggg	.
-4dddd[	.
-4dddd_	A-mMaj7/G
+4r	G minor
+8gggL	.
+8gggJ	.
+[4dddd	.
+4dddd_	A- major-minor/G
 =2	=2
-4dddd]	Gm
-8dddd	.
-8eeee-	.
-4dddd[	.
-4dddd_	Gm/D
+4dddd]	G minor
+8ddddL	.
+8eeee-J	.
+[4dddd	.
+4dddd_	G minor/D
 =3	=3
-4dddd]	Gm
-8ggg	.
-8ggg	.
+4dddd]	G minor
+8gggL	.
+8gggJ	.
 4dddd	.
-4eeee-	A-mMaj7/G
+4eeee-	A- major-minor/G
 =4	=4
-2dddd	Gm
+2dddd	G minor
 2gggg	.
 =5	=5
 4r	.
-8ggg	.
-8ggg	.
-4dddd[	.
-4dddd_	A-mMaj7/G
+8gggL	.
+8gggJ	.
+[4dddd	.
+4dddd_	A- major-minor/G
 =6	=6
-4dddd]	Gm
-8dddd	.
-8eeee-	.
-4dddd[	.
-4dddd_	Gm/D
+4dddd]	G minor
+8ddddL	.
+8eeee-J	.
+[4dddd	.
+4dddd_	G minor/D
 =7	=7
-4dddd]	A-m
-8eeee-	.
-8eeeen	.
+4dddd]	A- minor
+8eeee-L	.
+8eeeenJ	.
 4eeee-	.
 4aaa-	.
 =8	=8
-4dddd[	Gadd(1,4,7)
-4dddd]	Gadd(1,3,7)
-4ggg[	Gadd(1,4,7)
-4ggg]	Gadd(1,3,7)
+[4dddd	G other-1,4,7
+4dddd]	G other-1,3,7
+[4ggg	G other-1,4,7
+4ggg]	G other-1,3,7
 ==	==
 *-	*-

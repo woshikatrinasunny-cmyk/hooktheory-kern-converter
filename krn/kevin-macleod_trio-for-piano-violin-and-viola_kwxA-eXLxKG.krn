@@ -15,58 +15,58 @@
 *c:	*
 *M3/4	*
 =1	=1
-2r	Cm
-4r	Cadd(2,5,7)
+2r	C minor
+4r	C other-2,5,7
 =2	=2
-2r	Cm
-4r	Fm/C
+2r	C minor
+4r	F minor/C
 =3	=3
-2r	Cm
-4r	Cadd(2,5,7)
+2r	C minor
+4r	C other-2,5,7
 =4	=4
-2r	Cm
-4g	E-augMaj7/G
+2r	C minor
+4g	E- augmented-major-seventh/G
 =5	=5
-4.cc	Cm
+4.cc	C minor
 8g	.
-8cc	Cadd(2,5,7)
-8dd	.
+8ccL	C other-2,5,7
+8ddJ	.
 =6	=6
-2ee-	Cm
-4gg	Csus4
+2ee-	C minor
+4gg	C suspended-fourth
 =7	=7
-2ff[	Ddim/F
-4ff_	Dm7b5/F
+[2ff	D diminished/F
+4ff_	D half-diminished/F
 =8	=8
-2.ff]	G7
+2.ff]	G dominant
 =9	=9
-4.cc	Fm7/A-
+4.cc	F minor-seventh/A-
 8dd	.
-8ee-	.
-8ff	.
+8ee-L	.
+8ffJ	.
 =10	=10
-4ee-	G7
+4ee-	G dominant
 4dd	.
 4bn	.
 =11	=11
-4.cc	Fm7/A-
+4.cc	F minor-seventh/A-
 8dd	.
-8ee-	.
-8aa-	.
+8ee-L	.
+8aa-J	.
 =12	=12
-2.gg	G7
+2.gg	G dominant
 =13	=13
-4.cc	Fm7/A-
+4.cc	F minor-seventh/A-
 8dd	.
-8ee-	.
-8ff	.
+8ee-L	.
+8ffJ	.
 =14	=14
-4ee-	A-maj7/G
-4dd	Gsus4
-4bn	G7
+4ee-	A- major-seventh/G
+4dd	G suspended-fourth
+4bn	G dominant
 =15	=15
-2.cc[	Cadd(3,5,7)
+[2.cc	C other-3,5,7
 =16	=16
-2.cc]	Cm
+2.cc]	C minor
 ==	==
 *-	*-

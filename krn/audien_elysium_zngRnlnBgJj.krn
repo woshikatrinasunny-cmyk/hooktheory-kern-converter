@@ -16,38 +16,38 @@
 *f:	*
 *M4/4	*
 =1	=1
-4.r	D-add(2,4,7)
-4.r	D-add(2,4,7)
-4r	D-add(2,4,7)
+4.r	D- other-2,4,7
+4.r	D- other-2,4,7
+4r	D- other-2,4,7
 =2	=2
 8r	.
-4.r	E-
-2r	E-
+4.r	E- major
+2r	E- major
 =3	=3
-4.r	B-m
-4.r	B-m
-4r	B-m
+4.r	B- minor
+4.r	B- minor
+4r	B- minor
 =4	=4
 8r	.
-4.r	Fm
-2r	Fm
+4.r	F minor
+2r	F minor
 =5	=5
-4.r	D-add(2,4,7)
-4.r	D-add(2,4,7)
-4r	D-add(2,4,7)
+4.r	D- other-2,4,7
+4.r	D- other-2,4,7
+4r	D- other-2,4,7
 =6	=6
 8r	.
-4.r	E-
-2r	E-
+4.r	E- major
+2r	E- major
 =7	=7
-4.r	B-m
-4.r	B-m
-4r	B-m
+4.r	B- minor
+4.r	B- minor
+4r	B- minor
 =8	=8
 8r	.
-4.r	A-
-8r	D-
-8r	D-
-4r	E-
+4.r	A- major
+8r	D- major
+8r	D- major
+4r	E- major
 ==	==
 *-	*-

@@ -16,7 +16,7 @@
 *E:	*
 *M4/4	*
 =1	=1
-4r	Aadd(2,4,7)
+4r	A other-2,4,7
 4bb	.
 8bb	.
 4ccc#	.
@@ -28,41 +28,41 @@
 4ccc#	.
 8bb	.
 =3	=3
-2..r	G#m7
-8r	C#m7
+2..r	G# minor-seventh
+8r	C# minor-seventh
 =4	=4
 2r	.
-8bb	.
+8bbL	.
 8ee	.
 8ff#	.
-8b	.
+8bJ	.
 =5	=5
-4bb	F#m7
+4bb	F# minor-seventh
 4bb	.
 8bb	.
 4ccc#	.
 8bb	.
 =6	=6
-8r	B7
+8r	B dominant
 8gg#	.
 8r	.
 8ff#	.
 8r	.
-8g#	.
+8g#L	.
 8b	.
-8ee	.
+8eeJ	.
 =7	=7
-16ee	Emaj7
+16eeLK	E major-seventh
 8.ff#	.
-16ggn	.
-16ff#	.
-8ee	.
+16ggnL	.
+16ff#J	.
+8eeJ	.
 8r	.
 8b	.
 8r	.
 8ee	.
 =8	=8
-8r	E7
+8r	E dominant
 8ff#	.
 8r	.
 8gg#	.
@@ -71,7 +71,7 @@
 8r	.
 8ee	.
 =9	=9
-4r	Aadd(2,4,7)
+4r	A other-2,4,7
 4bb	.
 8bb	.
 4ccc#	.
@@ -83,38 +83,38 @@
 4ccc#	.
 8bb	.
 =11	=11
-4r	G#m7
+4r	G# minor-seventh
 8eee	.
 8r	.
-8ddd#	.
-8bb	.
+8ddd#L	.
+8bbJ	.
 8r	.
-8ff#	C#m7
+8ff#	C# minor-seventh
 =12	=12
 1r	.
 =13	=13
-4r	F#m7
+4r	F# minor-seventh
 4bb	.
 8bb	.
 4ccc#	.
 8bb	.
 =14	=14
-8r	F#m7
+8r	F# minor-seventh
 8gg#	.
 8r	.
 8ff#	.
 8r	.
-8b	.
+8bL	.
 8ee	.
-8ff#	.
+8ff#J	.
 =15	=15
-4ggn	Am7
-8ff#	.
-8ee	.
+4ggn	A minor-seventh
+8ff#L	.
+8eeJ	.
 8r	.
 8b	.
 8r	.
-8ee	Bm7
+8ee	B minor-seventh
 =16	=16
 8r	.
 8ff#	.

@@ -16,137 +16,137 @@
 *d:	*
 *M4/4	*
 =1	=1
-8d[	Dm
+[8dL	D minor
 8d]	.
-8a[	Dm
-8a]	.
-8g[	Dm
+[8a	D minor
+8aJ]	.
+[8gL	D minor
 8g]	.
-8f	Dm
-8d[	.
+8f	D minor
+[8dJ	.
 =2	=2
-8d]	B-
-8a[	.
-8a]	B-
-8g[	.
-8g]	B-
-8f[	.
-8f]	B-
-8c[	.
+8dL]	B- major
+[8a	.
+8a]	B- major
+[8gJ	.
+8gL]	B- major
+[8f	.
+8f]	B- major
+[8cJ	.
 =3	=3
-8c]	F
-8a[	.
-8a]	F
-8f[	.
-8f]	F
+8cL]	F major
+[8a	.
+8a]	F major
+[8fJ	.
+8fL]	F major
 8f	.
-8g	F
-8g[	.
+8g	F major
+[8gJ	.
 =4	=4
-8g]	.
-8a	C
-8r	C
-8r	C
-8r	C
-8r	C
-8r	C
+8gL]	.
+8aJ	C major
+8r	C major
+8r	C major
+8r	C major
+8r	C major
+8r	C major
 8c	.
 =5	=5
-8d[	Dm
+[8dL	D minor
 8d]	.
-8a[	Dm
-8a]	.
-8g	Dm
+[8a	D minor
+8aJ]	.
+8gL	D minor
 8g	.
-8f	Dm
-8d[	.
+8f	D minor
+[8dJ	.
 =6	=6
-8d]	B-
-8a[	.
-8a]	B-
-8g[	.
-8g]	B-
+8dL]	B- major
+[8a	.
+8a]	B- major
+[8gJ	.
+8gL]	B- major
 8f	.
-8f[	B-
-8f]	.
+[8f	B- major
+8fJ]	.
 =7	=7
-8a	F
+8aL	F major
 8g	.
-8a	F
-8g	.
-8a	F
+8a	F major
+8gJ	.
+8aL	F major
 8a	.
-8cc	F
-8g	.
+8cc	F major
+8gJ	.
 =8	=8
-8g[	.
-8g]	C
-8a[	C
-8a]	C
-8r	C
-8r	C
-8r	C
-8f	C
+[8gL	.
+8g]	C major
+[8a	C major
+8aJ]	C major
+8r	C major
+8r	C major
+8r	C major
+8f	C major
 =9	=9
-8cc[	Dm
+[8ccL	D minor
 8cc]	.
-8a[	Dm
-8a]	.
-8g[	Dm
+[8a	D minor
+8aJ]	.
+[8gL	D minor
 8g]	.
-8f	Dm
-8cc[	.
+8f	D minor
+[8ccJ	.
 =10	=10
-8cc]	B-
-8a[	.
-8a]	B-
-8g[	.
-8g]	B-
-8f[	.
-8f]	B-
-8f[	.
+8ccL]	B- major
+[8a	.
+8a]	B- major
+[8gJ	.
+8gL]	B- major
+[8f	.
+8f]	B- major
+[8fJ	.
 =11	=11
-8f]	F
-8c[	.
-8c]	F
-8f[	.
-8f]	F
-8g[	.
-8g]	F
-8g[	.
+8fL]	F major
+[8c	.
+8c]	F major
+[8fJ	.
+8fL]	F major
+[8g	.
+8g]	F major
+[8gJ	.
 =12	=12
-8g]	C
-8a	C
-8r	C
-8r	C
-8r	C
-8r	C
-8r	C
+8gL]	C major
+8aJ	C major
+8r	C major
+8r	C major
+8r	C major
+8r	C major
+8r	C major
 8c	.
 =13	=13
-4d	Dm
+4d	D minor
 4a	.
 4g	.
-8f	.
-8d[	.
+8fL	.
+[8dJ	.
 =14	=14
-8d]	B-
-8a[	.
-8a]	.
+8dL]	B- major
+[8a	.
+8aJ]	.
 4f	.
+8fL	.
 8f	.
-8f	.
-8g	.
+8gJ	.
 =15	=15
-4a[	F
+[4a	F major
 8a]	.
 4.f	.
-4g[	.
+[4g	.
 =16	=16
-4g]	C
+4g]	C major
 4g	.
-8a	.
-8f	.
+8aL	.
+8fJ	.
 4g	.
 ==	==
 *-	*-

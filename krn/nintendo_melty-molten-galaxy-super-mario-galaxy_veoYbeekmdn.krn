@@ -16,40 +16,40 @@
 *C:	*
 *M6/4	*
 =1	=1
-2.cc	G11
+2.cc	G dominant-11th
 2a	.
 16cc	.
 16r	.
 16b	.
 16r	.
 =2	=2
-2.g	G
-3...d[	.
+2.g	G major
+[3...d	.
 16d]	.
 16r	.
 =3	=3
-2.cc	G11
+2.cc	G dominant-11th
 8.a	.
 16r	.
 4.ee	.
 16dd	.
 16r	.
 =4	=4
-1b[	G
+[1b	G major
 4b]	.
-16f	.
+16fLL	.
 16g	.
 16a	.
-16b	.
+16bJJ	.
 =5	=5
-2.cc	G11
+2.cc	G dominant-11th
 2a	.
 16cc	.
 16r	.
 16b	.
 16r	.
 =6	=6
-3...g[	G
+[3...g	G major
 16g]	.
 16r	.
 2dd	.
@@ -58,57 +58,57 @@
 16ee	.
 16r	.
 =7	=7
-2ff	G#
+2ff	G# major
 16gg	.
 16r	.
 16aa	.
 16r	.
-4gg	A#
+4gg	A# major
 4.ff	.
 16dd	.
 16r	.
 =8	=8
-4ee	C
+4ee	C major
 4ggg	.
 4fff#	.
 4ddd	.
 4aa	.
 4ff	.
 =9	=9
-2.dd	A11
+2.dd	A dominant-11th
 2b	.
 16dd	.
 16r	.
 16cc#	.
 16r	.
 =10	=10
-2.a	A
-3...e[	.
+2.a	A major
+[3...e	.
 16e]	.
 16r	.
 =11	=11
-2.dd	A11
+2.dd	A dominant-11th
 8.b	.
 16r	.
 4.ff#	.
 16ee	.
 16r	.
 =12	=12
-1cc#[	A
+[1cc#	A major
 4cc#]	.
-16f#	.
+16f#LL	.
 16a	.
 16b	.
-16cc#	.
+16cc#JJ	.
 =13	=13
-2.dd	A11
+2.dd	A dominant-11th
 2b	.
 16dd	.
 16r	.
 16cc#	.
 16r	.
 =14	=14
-3...a[	A
+[3...a	A major
 16a]	.
 16r	.
 2ee	.
@@ -117,17 +117,17 @@
 16ff#	.
 16r	.
 =15	=15
-2gg	A#
+2gg	A# major
 16aa	.
 16r	.
 16bb	.
 16r	.
-4aa	C
+4aa	C major
 4.gg	.
 16ee	.
 16r	.
 =16	=16
-4ff#	D
+4ff#	D major
 4aaa	.
 4ggg#	.
 4eee	.

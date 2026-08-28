@@ -16,29 +16,29 @@
 *C:	*
 *M3/4	*
 =1	=1
-4c	Cmaj7
+4c	C major-seventh
 8r	.
 8c	.
-8A#	.
-8c	.
+8A#L	.
+8cJ	.
 =2	=2
-8d#	G#add(4,7,9,11)
-16f	.
+8d#L	G# other-4,7,9,11
+16fJk	.
 16r	.
 4f	.
 4d#	.
 =3	=3
-8g	G#maj9
+8g	G# major-ninth
 8r	.
-4a#	G#maj7
-16g	G#/D#
-16d#	.
-8c	.
+4a#	G# major-seventh
+16gLL	G# major/D#
+16d#J	.
+8cJ	.
 =4	=4
-2d#	C#maj7sus2
-16cc	C#maj7
+2d#	C# major-seventh-suspended-second
+16ccLL	C# major-seventh
 16cc	.
 16cc	.
-16cc	.
+16ccJJ	.
 ==	==
 *-	*-

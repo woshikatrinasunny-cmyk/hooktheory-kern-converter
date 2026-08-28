@@ -16,67 +16,67 @@
 *G:	*
 *M4/4	*
 =1	=1
-8dd	Am7
-8b	.
+8ddL	A minor-seventh
+8bJ	.
 4b	.
-8a	.
+8aL	.
 8g	.
 8g	.
-8cc[	.
+[8ccJ	.
 =2	=2
-8cc]	D7
+8ccL]	D dominant
 8b	.
 8b	.
-8a	.
+8aJ	.
 8a	.
 4g	.
 8g	.
 =3	=3
-8dd	Gmaj7
+8ddL	G major-seventh
 8b	.
 8b	.
-8a	.
-8a	.
+8aJ	.
+8aL	.
 8g	.
 8g	.
-8e[	.
+[8eJ	.
 =4	=4
-8e]	Cmaj7
+8e]	C major-seventh
 4d	.
 4.r	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 =5	=5
-8dd	Am7
+8ddL	A minor-seventh
 8b	.
 8b	.
-8a	.
-8a	G/B
+8aJ	.
+8aL	G major/B
 8g	.
 8g	.
-8cc[	.
+[8ccJ	.
 =6	=6
-8cc]	Cmaj7
+8ccL]	C major-seventh
 8b	.
 8b	.
-8a	.
-8a	C#dim7
+8aJ	.
+8aL	C# diminished-seventh
 8g	.
 8g	.
-8dd[	.
+[8ddJ	.
 =7	=7
-8dd]	D7sus4
+8ddL]	D dominant-seventh-suspended-fourth
 8b	.
 8b	.
-8a[	.
-8a]	D7
+[8aJ	.
+8aL]	D dominant
 8g	.
 8g	.
-8a[	.
+[8aJ	.
 =8	=8
-8a]	D7sus2
+8a]	D dominant-seventh-suspended-second
 4.e	.
-4r	D7
-4r	Bm7
+4r	D dominant
+4r	B minor-seventh
 ==	==
 *-	*-

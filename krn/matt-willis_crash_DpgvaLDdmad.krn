@@ -16,10 +16,10 @@
 *B:	*
 *M4/4	*
 =1	=1
-4cc#	F#7
+4cc#	F# dominant
 4r	.
-8cc#	.
-8b	.
+8cc#L	.
+8bJ	.
 4cc#	.
 =2	=2
 4dd#	.
@@ -27,17 +27,17 @@
 4.cc#	.
 4r	.
 =3	=3
-4dd#	Badd(4,5,7)
+4dd#	B other-4,5,7
 4dd#	.
 4cc#	.
 4b	.
 =4	=4
-4ee	E
+4ee	E major
 8dd#	.
 4b	.
 4.b	.
 =5	=5
-4cc#	F#7
+4cc#	F# dominant
 4r	.
 8cc#	.
 4cc#	.
@@ -49,23 +49,23 @@
 8r	.
 8cc#	.
 =7	=7
-4dd#	Badd(4,5,7)
+4dd#	B other-4,5,7
 8dd#	.
 4cc#	.
 4.b	.
 =8	=8
-4ee	E
+4ee	E major
 4dd#	.
 4b	.
 4b	.
 =9	=9
-2cc#	F#7
+2cc#	F# dominant
 2r	.
 =10	=10
 2.r	.
 4cc#	.
 =11	=11
-1cc#[	.
+[1cc#	.
 =12	=12
 1cc#]	.
 ==	==

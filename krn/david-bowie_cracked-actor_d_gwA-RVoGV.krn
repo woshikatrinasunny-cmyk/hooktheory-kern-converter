@@ -16,109 +16,109 @@
 *b:	*
 *M4/4	*
 =1	=1
-4ff#	Bm
-8ee	.
-8dd	Bm
-4ee	Bm
-4r	Bm
+4ff#	B minor
+8eeL	.
+8ddJ	B minor
+4ee	B minor
+4r	B minor
 =2	=2
-8ee	A
+8eeL	A major
 8ee	.
 8dd	.
-8ff#	A
-4ee	A
-4r	A
+8ff#J	A major
+4ee	A major
+4r	A major
 =3	=3
-4ee	G
-8ee	.
-8dd	G
-4ee	G
-8dd	G
-8b	.
+4ee	G major
+8eeL	.
+8ddJ	G major
+4ee	G major
+8ddL	G major
+8bJ	.
 =4	=4
-8ee	F#
+8eeL	F# major
 8ee	.
 8dd	.
-8ff#	F#
-4ee	F#
-4r	F#
+8ff#J	F# major
+4ee	F# major
+4r	F# major
 =5	=5
-4ff#	Bm
-8ee	.
-8dd	Bm
-4ee	Bm
-4r	Bm
+4ff#	B minor
+8eeL	.
+8ddJ	B minor
+4ee	B minor
+4r	B minor
 =6	=6
-8ee	A
+8eeL	A major
 8ee	.
 8dd	.
-8ff#	A
-4ee	A
-8r	A
+8ff#J	A major
+4ee	A major
+8r	A major
 8dd	.
 =7	=7
-8ee	G
+8eeL	G major
 8ee	.
 8ee	.
-8dd	G
-8ee	G
+8ddJ	G major
+8eeL	G major
 8ee	.
-8ee	G
-8dd	.
+8ee	G major
+8ddJ	.
 =8	=8
-8r	F#
+8r	F# major
+8eeL	.
 8ee	.
-8ee	.
-8dd	F#
-8ffn	F#
-8ee[	.
-8ee]	F#
+8ddJ	F# major
+8ffnL	F# major
+[8ee	.
+8eeJ]	F# major
 8r	.
 =9	=9
-4r	E
-4r	C#m7/E
-4r	E
-8ffn	.
-8ee[	F
+4r	E major
+4r	C# minor-seventh/E
+4r	E major
+8ffnL	.
+[8eeJ	F major
 =10	=10
-8ee]	.
-8dd[	F
-4dd_	Dm7/F
-8dd]	F
+8eeL]	.
+[8ddJ	F major
+4dd_	D minor-seventh/F
+8dd]	F major
 4.r	.
 =11	=11
-4r	G
-4r	Em7/G
-4r	G
-8ee[	.
-8ee]	G
+4r	G major
+4r	E minor-seventh/G
+4r	G major
+[8eeL	.
+8eeJ]	G major
 =12	=12
-8ee[	.
-8ee_	G
-8ee]	Em7/G
+[8eeL	.
+8ee_	G major
+8eeJ]	E minor-seventh/G
 8r	.
-2r	G
+2r	G major
 =13	=13
-4r	E
-4r	C#m7/E
-4r	E
-8ffn	.
-8ee[	F
+4r	E major
+4r	C# minor-seventh/E
+4r	E major
+8ffnL	.
+[8eeJ	F major
 =14	=14
-8ee]	.
-8dd[	F
-4dd]	Dm7/F
-2r	F
+8eeL]	.
+[8ddJ	F major
+4dd]	D minor-seventh/F
+2r	F major
 =15	=15
-4r	G
-4r	Em7/G
-4.r	G
-8r	G
+4r	G major
+4r	E minor-seventh/G
+4.r	G major
+8r	G major
 =16	=16
 8r	.
-8r	G
-8r	B
-2r	B
+8r	G major
+8r	B major
+2r	B major
 8ee	.
 ==	==
 *-	*-

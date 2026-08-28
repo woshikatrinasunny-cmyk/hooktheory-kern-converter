@@ -16,7 +16,7 @@
 *F:	*
 *M6/4	*
 =1	=1
-4cc	F
+4cc	F major
 4cc	.
 4cc	.
 4cc	.
@@ -29,7 +29,7 @@
 4c	.
 2r	.
 =3	=3
-4cc	Am
+4cc	A minor
 4cc	.
 4cc	.
 4cc	.
@@ -39,7 +39,7 @@
 2cc	.
 1r	.
 =5	=5
-4.cc	Dm7
+4.cc	D minor-seventh
 8cc	.
 4cc	.
 4cc	.
@@ -53,12 +53,12 @@
 8r	.
 8f	.
 =7	=7
-2.b-	B-m
-2.cc	B-add(2,3,7)
+2.b-	B- minor
+2.cc	B- other-2,3,7
 =8	=8
-2.dd-	B-m
-2.ee-	E-
+2.dd-	B- minor
+2.ee-	E- major
 =9	=9
-1.ff	F
+1.ff	F major
 ==	==
 *-	*-

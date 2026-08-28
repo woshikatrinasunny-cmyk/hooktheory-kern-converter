@@ -16,164 +16,164 @@
 *c:	*
 *M4/4	*
 =1	=1
-8r	E-
-8b-	.
+8r	E- major
+8b-L	.
+16b-L	.
 16b-	.
 16b-	.
+16b-JJ	.
+16b-LL	.
 16b-	.
 16b-	.
-16b-	.
-16b-	.
-16b-	.
-16b-	.
+16b-J	.
 8cc	.
-8b-	.
+8b-J	.
 =2	=2
-8r	Gm/D
-8b-	.
+8r	G minor/D
+8b-L	.
+16b-L	.
 16b-	.
-16b-	.
-16b-	.
+16b-JJ	.
 16r	.
+16b-LL	.
 16b-	.
 16b-	.
-16b-	.
-16b-	.
+16b-J	.
 8cc	.
-8b-	.
+8b-J	.
 =3	=3
-8r	Cm7
-8b-	.
+8r	C minor-seventh
+8b-L	.
+16b-L	.
 16b-	.
-16b-	.
-16b-	.
+16b-JJ	.
 16r	.
+16b-LL	.
 16b-	.
-16b-	.
-16b-	.
+16b-JJ	.
 16r	.
-8cc	.
-8b-	.
+8ccL	.
+8b-J	.
 =4	=4
-4g	Cm
+4g	C minor
 8a-	.
 4g	.
 4.e-	.
 =5	=5
-8r	A-
+8r	A- major
+8ccL	.
 8cc	.
-8cc	.
-8dd	.
-16ee-	.
-16ee-	.
+8ddJ	.
+16ee-LL	.
+16ee-JJ	.
 4dd	.
 8cc	.
 =6	=6
-8r	Adim
-16cc	.
+8r	A diminished
+16ccLL	.
 16cc	.
 16cc	.
 16cc	.
 16dd	.
-16dd	.
+16ddJJ	.
 8ee-	.
 4dd	.
 8cc	.
 =7	=7
-8r	B-sus4
-8cc	.
-16cc	.
-16cc	.
-8dd	.
+8r	B- suspended-fourth
+8ccL	.
+16ccL	.
+16ccJ	.
+8ddJ	.
 8ee-	.
 4dd	.
 8cc	.
 =8	=8
-16ff	B-7/A-
+16ffLL	B- dominant/A-
 16ff	.
 16ee-	.
 16ee-	.
 16dd	.
-16dd	.
+16ddJJ	.
 4cc	.
-8b-	.
+8b-L	.
 8f	.
-8a-	.
+8a-J	.
 =9	=9
-4r	Gm7b5
+4r	G half-diminished
 4g	.
 4dd-	.
 4b-	.
 =10	=10
-16r	C7
+16r	C dominant
+16ccLL	.
 16cc	.
 16cc	.
 16cc	.
-16cc	.
-16cc	.
+16ccJJ	.
 4.g	.
 4en	.
 =11	=11
-4r	Fm7
+4r	F minor-seventh
 4f	.
 4c	.
 4f	.
 =12	=12
-16b-	B-7
+16b-LL	B- dominant
 16b-	.
 16b-	.
 16b-	.
 16b-	.
-16b-	.
-8f	.
+16b-J	.
+8fJ	.
 8r	.
 8f	.
 4a-	.
 =13	=13
-4r	Gm7b5
+4r	G half-diminished
 4g	.
 4dd-	.
 4b-	.
 =14	=14
-16cc	C7
+16ccLL	C dominant
 16cc	.
 16cc	.
 16cc	.
 16cc	.
 16cc	.
 16dd	.
+16ddJJ	.
+16ddLL	.
 16dd	.
 16dd	.
-16dd	.
-16dd	.
-16dd	.
+16ddJJ	.
 4een	.
 =15	=15
-8ff	Fm7
+8ffL	F minor-seventh
 8cc	.
 8a-	.
-8g	.
-8f	.
+8gJ	.
+8fL	.
 8c	.
 8f	.
-8a-	.
+8a-J	.
 =16	=16
-8b-	B-7
-8b-	B-7
+8b-L	B- dominant
+8b-J	B- dominant
 8r	.
-8b-	B-7
-8b-	B-7
+8b-	B- dominant
+8b-	B- dominant
 8r	.
-8b-	B-7
-8b-	B-7
+8b-L	B- dominant
+8b-J	B- dominant
 =17	=17
 8r	.
-8g	G
-8g	G
+8gL	G major
+8gJ	G major
 8r	.
-8g	G
-8an	G
-8g	G
+8gL	G major
+8an	G major
+8gJ	G major
 8r	.
 ==	==
 *-	*-

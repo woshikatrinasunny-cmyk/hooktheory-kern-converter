@@ -19,93 +19,93 @@
 2r	.
 2f	.
 =2	=2
-4cc[	F
-8cc]	Gadd(3,5,7,10)
-8a	.
-4a[	F/A
-4a]	B-maj7
+[4cc	F major
+8ccL]	G other-3,5,7,10
+8aJ	.
+[4a	F major/A
+4a]	B- major-seventh
 =3	=3
-4g[	Csus4
-8g_	C
-8g]	Csus2
-4g	C
-4a	D7/C
+[4g	C suspended-fourth
+8gL_	C major
+8gJ]	C suspended-second
+4g	C major
+4a	D dominant/C
 =4	=4
-4b-[	Gm
-8b-]	Aadd(1,3,7,10)
-8a	.
-8b-	Gm/B-
-8b-	.
-4g	C
+[4b-	G minor
+8b-L]	A other-1,3,7,10
+8aJ	.
+8b-L	G minor/B-
+8b-J	.
+4g	C major
 =5	=5
-4a[	Dsus4
-8a_	D
-8a]	Dsus2
-4a	D
-8b-	.
-8cc	.
+[4a	D suspended-fourth
+8aL_	D major
+8aJ]	D suspended-second
+4a	D major
+8b-L	.
+8ccJ	.
 =6	=6
-8dd	B-
+8dd	B- major
 4r	.
-8cc	F
-8b-	Gm
+8cc	F major
+8b-	G minor
 8r	.
-8a	Dm
+8a	D minor
 8r	.
 =7	=7
-4g	E-
-2g	Cm
-4g-	D
+4g	E- major
+2g	C minor
+4g-	D major
 =8	=8
-2.g	G
+2.g	G major
 4r	.
 =9	=9
 2f	.
 2f	.
 =10	=10
-4cc[	F
-8cc]	Gadd(3,5,7,10)
-8a	.
-4a	F/A
-4a	B-maj7
+[4cc	F major
+8ccL]	G other-3,5,7,10
+8aJ	.
+4a	F major/A
+4a	B- major-seventh
 =11	=11
-4g[	Csus4
-8g_	C
-8g]	Csus2
-4g	C
-4a	D7/C
+[4g	C suspended-fourth
+8gL_	C major
+8gJ]	C suspended-second
+4g	C major
+4a	D dominant/C
 =12	=12
-4b-[	Gm
-8b-]	Aadd(1,3,7,10)
-8a	.
-4b-	Gm/B-
-4g	C
+[4b-	G minor
+8b-L]	A other-1,3,7,10
+8aJ	.
+4b-	G minor/B-
+4g	C major
 =13	=13
-4a[	Dsus4
-8a_	D
-8a_	Dsus2
-4a]	D
-8b-	.
-8cc	.
+[4a	D suspended-fourth
+8aL_	D major
+8aJ_	D suspended-second
+4a]	D major
+8b-L	.
+8ccJ	.
 =14	=14
-8dd	B-
+8dd	B- major
 4r	.
-8cc	F
-8b-	Gm
+8cc	F major
+8b-	G minor
 8r	.
-8a	Dm
+8a	D minor
 8r	.
 =15	=15
-4g	E-
-2g	Cm
-4g-	D
+4g	E- major
+2g	C minor
+4g-	D major
 =16	=16
-2g	G
-2g[	.
+2g	G major
+[2g	.
 =17	=17
 2g]	.
 4r	.
-8A	.
-8A	.
+8AL	.
+8AJ	.
 ==	==
 *-	*-

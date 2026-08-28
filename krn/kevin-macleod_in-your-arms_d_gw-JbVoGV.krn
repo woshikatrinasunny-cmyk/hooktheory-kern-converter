@@ -15,31 +15,31 @@
 *F:	*
 *M4/4	*
 =1	=1
-4a	B-maj7
+4a	B- major-seventh
 4g	.
 4d	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 =2	=2
 8r	.
-2d[	.
-24d]	.
-12f	.
+[2d	.
+24dLK]	.
+12fJ	.
 6g	.
 12f	.
 =3	=3
-4a-	B-m7
+4a-	B- minor-seventh
 4g	.
 4f	.
-8.d-	.
-16f[	.
+8.d-L	.
+[16fJk	.
 =4	=4
 3...f]	.
-8e	.
+8eL	.
 8g	.
-8f	.
+8fJ	.
 =5	=5
-4c	Fmaj7
+4c	F major-seventh
 4d	.
 4e	.
 4f	.
@@ -48,51 +48,51 @@
 8d	.
 8d-	.
 4d	.
-8g[	.
+[8g	.
 =7	=7
-2..g]	Cm7
-8f[	.
+2..g]	C minor-seventh
+[8f	.
 =8	=8
-2..f]	F7
+2..f]	F dominant
 8r	.
 =9	=9
-4a	B-maj7
+4a	B- major-seventh
 4g	.
 4d	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 =10	=10
 8r	.
-2d[	.
-24d]	.
-12f	.
+[2d	.
+24dLK]	.
+12fJ	.
 6g	.
 12f	.
 =11	=11
-4a-	B-m7
+4a-	B- minor-seventh
 4g	.
 8.f	.
 4d-	.
-16f[	.
+[16f	.
 =12	=12
 3...f]	.
-8e	.
+8eL	.
 8g	.
-8f	.
+8fJ	.
 =13	=13
-4c	Am7
+4c	A minor-seventh
 4d	.
 4e	.
 4f	.
 =14	=14
-4e	Dadd(1,4,6,7,10)
+4e	D other-1,4,6,7,10
 4f	.
 4g	.
 4f	.
 =15	=15
-1a	Gm9
+1a	G minor-ninth
 =16	=16
-2cc	Cadd(1,4,7,10)
+2cc	C other-1,4,7,10
 4Bn	.
 4c	.
 ==	==

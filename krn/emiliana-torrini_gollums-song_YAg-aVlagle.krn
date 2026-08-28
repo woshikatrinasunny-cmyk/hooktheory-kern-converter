@@ -16,97 +16,97 @@
 *a:	*
 *M4/4	*
 =1	=1
-8r	G#m
-8g#	.
+8r	G# minor
+8g#L	.
 8b	.
-8cc#	.
+8cc#J	.
 2dd#	.
 =2	=2
-8r	Bm/D
-8b	.
+8r	B minor/D
+8bL	.
 8dd	.
-8b	.
+8bJ	.
 2b	.
 =3	=3
-8r	Cm
-8cc	.
+8r	C minor
+8ccL	.
 8dd#	.
-8ff	.
+8ffJ	.
 2gg	.
 =4	=4
-8r	D
+8r	D major
+8ff#L	.
 8ff#	.
-8ff#	.
-8ee	.
+8eeJ	.
 2ff#	.
 =5	=5
-4r	B/D#
+4r	B major/D#
 4dd#	.
 4.b	.
 8a	.
 =6	=6
-1dd	Bm/D
+1dd	B minor/D
 =7	=7
-4.r	Cm
+4.r	C minor
 8cc	.
 6...cc	.
-16cc	.
+16ccLL	.
 16dd	.
-16cc	.
+16ccJJ	.
 =8	=8
-4cc	D
+4cc	D major
 2.b	.
 =9	=9
-8r	Gm
-8gg	.
+8r	G minor
+8ggL	.
 8aa#	.
-8gg	.
+8ggJ	.
 2aa#	.
 =10	=10
-8r	Bm
-8bb	.
+8r	B minor
+8bbL	.
 8ddd	.
-8bb	.
+8bbJ	.
 2bb	.
 =11	=11
-8r	Gm/D
-8gg	.
+8r	G minor/D
+8ggL	.
 8aa#	.
-8gg	.
-8.aa#	.
-16aa#	.
+8ggJ	.
+8.aa#L	.
+16aa#k	.
 8aa	.
-8gg	.
+8ggJ	.
 =12	=12
-8.r	Bm/D
-16bb	.
-8bb	.
+8.r	B minor/D
+16bbLK	.
+8bbJ	.
 16r	.
 16aa	.
 2bb	.
 =13	=13
-8r	Cadd(2,3,7)
-8bb	.
+8r	C other-2,3,7
+8bbL	.
 8aa	.
-8gg	.
+8ggJ	.
 4.gg	.
 8gg	.
 =14	=14
-4gg	D
-8ff#	.
-8ee	.
+4gg	D major
+8ff#L	.
+8eeJ	.
 4.ff#	.
-16ff#	.
-16ff#	.
+16ff#LL	.
+16ff#JJ	.
 =15	=15
-4.gg	Cm
-16cc	.
-16cc	.
+4.gg	C minor
+16ccLL	.
+16ccJJ	.
 8cc	.
 4dd	.
-8dd#[	.
+[8dd#	.
 =16	=16
-8dd#]	D
+8dd#]	D major
 2..dd	.
 ==	==
 *-	*-

@@ -16,111 +16,111 @@
 *b:	*
 *M4/4	*
 =1	=1
-8.dd	Bm
-16dd	.
+8.ddL	B minor
+16ddk	.
 8.cc#	.
-16cc#	.
+16cc#Jk	.
 4b	.
-8a	.
-8a	.
+8aL	.
+8aJ	.
 =2	=2
-4f#	Em
-8e	.
-8d	.
+4f#	E minor
+8eL	.
+8dJ	.
 8r	.
 8d	.
 4f#	.
 =3	=3
-8e	F#m
-8e	.
+8eL	F# minor
+8eJ	.
 4e	.
+8eL	.
 8e	.
 8e	.
-8e	.
-8f#	.
+8f#J	.
 =4	=4
-4e	Bm
+4e	B minor
 8d	.
 4B	.
 4r	.
-8dd[	.
+[8dd	.
 =5	=5
-4dd]	Bm
-8cc#	.
-8cc#	.
-8b	.
+4dd]	B minor
+8cc#L	.
+8cc#J	.
+8bL	.
 8b	.
 8a	.
-8a	.
+8aJ	.
 =6	=6
-4f#	Em
+4f#	E minor
 8e	.
 4d	.
-8d	.
+8dL	.
 8f#	.
-8f#	.
+8f#J	.
 =7	=7
-4e	F#m
+4e	F# minor
 4e	.
+8eL	.
 8e	.
 8e	.
-8e	.
-8f#	.
+8f#J	.
 =8	=8
-4e	Bm
+4e	B minor
 8d	.
 4B	.
 4.r	.
 =9	=9
-4B	G
+4B	G major
 4d	.
 4e	.
 4b	.
 =10	=10
-4a#	F#
+4a#	F# major
 4b	.
 4cc#	.
 4f#	.
 =11	=11
-8.r	Bm7/A
+8.r	B minor-seventh/A
 16f#	.
 4f#	.
 4f#	.
-8e	.
-8d	.
+8eL	.
+8dJ	.
 =12	=12
-8e	Bm
-8d	.
+8eL	B minor
+8dJ	.
 4f#	.
 4f#	.
 8r	.
-8dd[	.
+[8dd	.
 =13	=13
-8.dd]	Bm
-16dd	.
+8.ddL]	B minor
+16ddk	.
 8cc#	.
-8cc#	.
-8b	.
+8cc#J	.
+8bL	.
 8b	.
 8a	.
-8a	.
+8aJ	.
 =14	=14
-4f#	Em
-8e	.
-8d	.
+4f#	E minor
+8eL	.
+8dJ	.
 8r	.
 8d	.
 4f#	.
 =15	=15
-8e	F#m
-8e	.
+8eL	F# minor
+8eJ	.
 4e	.
+8eL	.
 8e	.
 8e	.
-8e	.
-8f#	.
+8f#J	.
 =16	=16
-4e	Bm
+4e	B minor
 8d	.
 4B	.
 4.r	.

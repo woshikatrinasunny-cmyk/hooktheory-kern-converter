@@ -16,70 +16,70 @@
 *E:	*
 *M6/4	*
 =1	=1
-2.r	B
-2f#	B
+2.r	B major
+2f#	B major
 4d#	.
 =2	=2
-2.d#[	B
-2.d#_	B
+[2.d#	B major
+2.d#_	B major
 =3	=3
-4d#]	B
+4d#]	B major
 2r	.
-2r	B
-4d#[	.
+2r	B major
+[4d#	.
 =4	=4
-2d#]	B
+2d#]	B major
 4f#	.
-2f#	B
-4f#[	.
+2f#	B major
+[4f#	.
 =5	=5
-2.f#]	G#m
-2g#	G#m
+2.f#]	G# minor
+2g#	G# minor
 4d#	.
 =6	=6
-2.d#[	G#m
-2d#]	G#m
+[2.d#	G# minor
+2d#]	G# minor
 4r	.
 =7	=7
-2.r	G#m
-2r	G#m
-4d#[	.
+2.r	G# minor
+2r	G# minor
+[4d#	.
 =8	=8
-2d#]	G#m
+2d#]	G# minor
 4f#	.
-2d#	G#m
+2d#	G# minor
 4f#	.
 =9	=9
-2.r	E
-2g#	E
+2.r	E major
+2g#	E major
 4e	.
 =10	=10
-2.e[	E
-2.e]	E
+[2.e	E major
+2.e]	E major
 =11	=11
-2.r	E
-2d#	E
+2.r	E major
+2d#	E major
 4d#	.
 =12	=12
-2d#	E
+2d#	E major
 4d#	.
-2d#	E
+2d#	E major
 4r	.
 =13	=13
-2.r	F#
-2.g#	F#
+2.r	F# major
+2.g#	F# major
 =14	=14
-2.f#	F#
-2d#	F#
+2.f#	F# major
+2d#	F# major
 4f#	.
 =15	=15
-2g#	F#
+2g#	F# major
 4f#	.
-2g#	F#
-4f#[	.
+2g#	F# major
+[4f#	.
 =16	=16
-2f#]	F#
+2f#]	F# major
 4r	.
-2.r	F#
+2.r	F# major
 ==	==
 *-	*-

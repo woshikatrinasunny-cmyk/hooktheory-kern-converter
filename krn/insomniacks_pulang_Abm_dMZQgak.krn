@@ -16,50 +16,50 @@
 *A-:	*
 *M6/4	*
 =1	=1
-2.a-	Fm
-2.g	E-
+2.a-	F minor
+2.g	E- major
 =2	=2
-2.f	D-
+2.f	D- major
 2.r	.
 =3	=3
-1.r	C7
+1.r	C dominant
 =4	=4
 1.r	.
 =5	=5
-1.ee-[	D-maj7
+[1.ee-	D- major-seventh
 =6	=6
 2ee-]	.
 4r	.
 4ee-	.
 4dd-	.
-8cc	.
-8b-	.
+8ccL	.
+8b-J	.
 =7	=7
-1cc[	E-sus4
+[1cc	E- suspended-fourth
 4.cc]	.
-8b-[	.
+[8b-	.
 =8	=8
-8b-]	E-
+8b-]	E- major
 8r	.
 4a-	.
 4a-	.
 4ee-	.
 4dd-	.
-8cc	Edim
-8cc[	.
+8ccL	E diminished
+[8ccJ	.
 =9	=9
-4cc]	Fm
-8b-	.
-8a-	.
+4cc]	F minor
+8b-L	.
+8a-J	.
 2f	.
 2r	.
 =10	=10
-2.r	Fadd(2,3,7)
-4a-	Fm
+2.r	F other-2,3,7
+4a-	F minor
 4b-	.
 4cc	.
 =11	=11
-4.cc	C7
+4.cc	C dominant
 8b-	.
 4r	.
 4.cc	.
@@ -71,14 +71,14 @@
 4a-	.
 4b-	.
 =13	=13
-4cc	D-maj9
+4cc	D- major-ninth
 4b-	.
 8a-	.
 4.cc	.
 4b-	.
 4a-	.
 =14	=14
-4cc	E-
+4cc	E- major
 4b-	.
 8a-	.
 4.cc	.
@@ -86,7 +86,7 @@
 8r	.
 8cc	.
 =15	=15
-4cc	C7
+4cc	C dominant
 8b-	.
 4a-	.
 8r	.
@@ -94,17 +94,17 @@
 4a-	.
 4ee-	.
 =16	=16
-2cc	Fm7
+2cc	F minor-seventh
 8b-	.
 8r	.
-4a-	E-
+4a-	E- major
 4b-	.
-8cc	.
-8b-	.
+8ccL	.
+8b-J	.
 =17	=17
-8cc	D-
-8b-	.
-1a-[	.
+8ccL	D- major
+8b-J	.
+[1a-	.
 4a-_	.
 =18	=18
 4a-]	.
@@ -113,7 +113,7 @@
 4b-	.
 4cc	.
 =19	=19
-1g	D-mMaj7
+1g	D- major-minor
 2r	.
 =20	=20
 1r	.

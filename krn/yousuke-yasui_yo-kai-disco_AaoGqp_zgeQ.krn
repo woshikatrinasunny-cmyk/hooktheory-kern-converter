@@ -16,125 +16,125 @@
 *e:	*
 *M4/4	*
 =1	=1
-4bb	Em
-8aa	.
-8bb	.
-8ddd	Am7
+4bb	E minor
+8aaL	.
+8bbJ	.
+8ddd	A minor-seventh
 8r	.
-8eee	.
-16ddd	.
-16eee	.
+8eeeL	.
+16dddL	.
+16eeeJJ	.
 =2	=2
-8gg	Dadd(2,4,7)
+8gg	D other-2,4,7
 8r	.
 8aa	.
 8r	.
-8bb	Gmaj7
+8bb	G major-seventh
 4r	.
-16ee	.
-16ff#	.
+16eeLL	.
+16ff#JJ	.
 =3	=3
-4gg#	F#m7
-8aa	.
-8bb	.
-4ee	E/G#
-8cc#	.
-8ee	.
+4gg#	F# minor-seventh
+8aaL	.
+8bbJ	.
+4ee	E major/G#
+8cc#L	.
+8eeJ	.
 =4	=4
-4bb	Am7
-4gg	Aadd(2,3,7)
-4.aa	D
-16gg	.
-16aa	.
+4bb	A minor-seventh
+4gg	A other-2,3,7
+4.aa	D major
+16ggLL	.
+16aaJJ	.
 =5	=5
-4bb	Em
-8aa	.
-8bb	.
-8ddd	Am7
+4bb	E minor
+8aaL	.
+8bbJ	.
+8ddd	A minor-seventh
 8r	.
-8eee	.
-16ddd	.
-16eee	.
+8eeeL	.
+16dddL	.
+16eeeJJ	.
 =6	=6
-8gg	Dadd(2,4,7)
+8gg	D other-2,4,7
 8r	.
 8aa	.
 8r	.
-8bb	Gmaj7
+8bb	G major-seventh
 4r	.
-16bb	.
-16ddd	.
+16bbLL	.
+16dddJJ	.
 =7	=7
-4eee	Cmaj7
-8ddd	.
-8eee	.
-8fff#	D
+4eee	C major-seventh
+8dddL	.
+8eeeJ	.
+8fff#L	D major
 8ggg	.
 8fff#	.
-8ddd	.
+8dddJ	.
 =8	=8
-4bb	Bm
-4fff#	Bm7
-2eee	E
+4bb	B minor
+4fff#	B minor-seventh
+2eee	E major
 =9	=9
-4bb	Em
-8aa	.
-8bb	.
-8ddd	Am7
+4bb	E minor
+8aaL	.
+8bbJ	.
+8ddd	A minor-seventh
 8r	.
-8eee	.
-16ddd	.
-16eee	.
+8eeeL	.
+16dddL	.
+16eeeJJ	.
 =10	=10
-8gg	Dadd(2,4,7)
+8gg	D other-2,4,7
 8r	.
 8aa	.
 8r	.
-8bb	Gmaj7
+8bb	G major-seventh
 4r	.
-16ee	.
-16ff#	.
+16eeLL	.
+16ff#JJ	.
 =11	=11
-4gg#	F#m7
-8aa	.
-8bb	.
-4ee	E/G#
-8cc#	.
-8ee	.
+4gg#	F# minor-seventh
+8aaL	.
+8bbJ	.
+4ee	E major/G#
+8cc#L	.
+8eeJ	.
 =12	=12
-4bb	Am7
-4gg	Aadd(2,3,7)
-4.aa	D
-16gg	.
-16aa	.
+4bb	A minor-seventh
+4gg	A other-2,3,7
+4.aa	D major
+16ggLL	.
+16aaJJ	.
 =13	=13
-4bb	Em
-8aa	.
-8bb	.
-8ddd	Am7
+4bb	E minor
+8aaL	.
+8bbJ	.
+8ddd	A minor-seventh
 8r	.
-8eee	.
-16ddd	.
-16eee	.
+8eeeL	.
+16dddL	.
+16eeeJJ	.
 =14	=14
-8gg	Dadd(2,4,7)
+8gg	D other-2,4,7
 8r	.
 8aa	.
 8r	.
-8bb	Gmaj7
+8bb	G major-seventh
 4r	.
-16bb	.
-16ddd	.
+16bbLL	.
+16dddJJ	.
 =15	=15
-4eee	Am7
-8fff#	.
-8ggg	.
-8fff#	Bm7
+4eee	A minor-seventh
+8fff#L	.
+8gggJ	.
+8fff#L	B minor-seventh
 8ddd	.
-8bb	Bm7
-8fff#	.
+8bb	B minor-seventh
+8fff#J	.
 =16	=16
-2eee[	Fmaj7
-2eee]	Fmaj7
+[2eee	F major-seventh
+2eee]	F major-seventh
 ==	==
 *-	*-

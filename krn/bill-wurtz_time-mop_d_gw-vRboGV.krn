@@ -16,126 +16,126 @@
 *B:	*
 *M4/4	*
 =1	=1
-16bb	B
+16bbLK	B major
 8.aa#	.
 8gg#	.
-8ff#	.
-8dd#	.
+8ff#J	.
+8dd#L	.
 8cc#	.
 8b	.
-8a#	F#/A#
+8a#J	F# major/A#
 =2	=2
 8g#	.
 4.f#	.
-8e	.
-8d#	.
+8eL	.
+8d#J	.
 4c#	.
 =3	=3
-4aa#	G#m7
-8gg#	.
-8ff#	.
-8dd#	.
+4aa#	G# minor-seventh
+8gg#L	.
+8ff#J	.
+8dd#L	.
 8cc#	.
 8b	.
-8a#	F#
+8a#J	F# major
 =4	=4
 8g#	.
 4.f#	.
-8c#	.
-8e	E/G#
-16f#	F#/A#
-16g#	.
-8f#[	B
+8c#L	.
+8e	E major/G#
+16f#L	F# major/A#
+16g#J	.
+[8f#J	B major
 =5	=5
 4f#]	.
-16bb	.
-16aa#	.
-8gg#	.
-8ff#	.
+16bbLL	.
+16aa#J	.
+8gg#J	.
+8ff#L	.
 8dd#	.
-8cc#	.
-8r	A#m7
+8cc#J	.
+8r	A# minor-seventh
 =6	=6
-8ffn	.
+8ffnL	.
 8ff#	.
-8cc#	.
-8r	D#m7
-8b	.
+8cc#J	.
+8r	D# minor-seventh
+8bL	.
 8a#	.
 8f#	.
-8g#[	Emaj9
+[8g#J	E major-ninth
 =7	=7
 4.g#]	.
 8g#	.
 8r	.
-8g#	.
+8g#L	.
 8a#	.
-8f#[	B/F#
+[8f#J	B major/F#
 =8	=8
-8f#]	.
-8e	Esus2
-8e	Emaj7sus2/D#
-8c#	Dmaj7
-8B	C#m7
-8F#	F#/A#
+8f#L]	.
+8e	E suspended-second
+8e	E major-seventh-suspended-second/D#
+8c#J	D major-seventh
+8BL	C# minor-seventh
+8F#	F# major/A#
 8G#	.
-8B	B/F#
+8BJ	B major/F#
 =9	=9
-2r	B
-4.bbb[	.
-8bbb]	F#/A#
+2r	B major
+[4.bbb	.
+8bbb]	F# major/A#
 =10	=10
 4ggg#	.
 4aaa#	.
 4fff#	.
 4ggg#	.
 =11	=11
-4eee	F#aug7/A#
+4eee	F# augmented-seventh/A#
 4fff#	.
 4dddn	.
-8ddd#[	.
-8ddd#_	Bmaj7/F#
+[8ddd#L	.
+8ddd#J_	B major-seventh/F#
 =12	=12
 8ddd#_	.
-4ddd#_	Esus2
-8ddd#]	Emaj7sus2/D#
-8eee[	.
-8eee_	C#add(3,5,7,10)
-8eee_	Bsus4
-8eee]	Bsus4/F#
+4ddd#_	E suspended-second
+8ddd#]	E major-seventh-suspended-second/D#
+[8eeeL	.
+8eee_	C# other-3,5,7,10
+8eee_	B suspended-fourth
+8eeeJ]	B suspended-fourth/F#
 =13	=13
 *k[f#c#g#]	*
 *b:	*
-8a	B5
-8b	.
+8aL	B power
+8bJ	.
 8r	.
 8a	.
 4b	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =14	=14
 8r	.
 8a	.
 8r	.
 8c#	.
-8e	.
+8eL	.
 8c#	.
 8e	.
-16e	.
-16f#	.
+16eL	.
+16f#JJ	.
 =15	=15
-8a	.
-8b	.
+8aL	.
+8bJ	.
 8r	.
 4.b	.
-8a	.
-16ccn	C#sus4
-16b[	.
+8aL	.
+16ccnL	C# suspended-fourth
+[16bJJ	.
 =16	=16
-8b]	.
+8bL]	.
 8a	.
 8f#	.
-8e	.
+8eJ	.
 8c#	.
 4B	.
 8c#	.

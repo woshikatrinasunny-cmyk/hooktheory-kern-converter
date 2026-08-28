@@ -16,114 +16,114 @@
 *D-:	*
 *M4/4	*
 =1	=1
-8ddd-	D-
-8ccc	D7
-8dddn	C
-8ddd-	D-
-8eee-	B
-8dddn	C
-8eeen	B-dim
-8eee-	B
+8ddd-L	D- major
+8ccc	D dominant
+8dddn	C major
+8ddd-J	D- major
+8eee-L	B major
+8dddn	C major
+8eeen	B- diminished
+8eee-J	B major
 =2	=2
-8fff	F/A
-8eeen	B-dim
-8ggg-	A-7
-8fff	F/A
-8gggn	G
-8ggg-	A-7
-8aaa-	A-7/G-
-8gggn	G
+8fffL	F major/A
+8eeen	B- diminished
+8ggg-	A- dominant
+8fffJ	F major/A
+8gggnL	G major
+8ggg-	A- dominant
+8aaa-	A- dominant/G-
+8gggnJ	G major
 =3	=3
-8aaan	F
-8aaa-	A-7/G-
-8bbb-	B-dim/E
-8aaan	F
-8bbbn	B/E-
-8bbb-	B-dim/E
-8bbbn	Bm/D
-8cccc	Cm7b5/E-
+8aaanL	F major
+8aaa-	A- dominant/G-
+8bbb-	B- diminished/E
+8aaanJ	F major
+8bbbnL	B major/E-
+8bbb-	B- diminished/E
+8bbbn	B minor/D
+8ccccJ	C half-diminished/E-
 =4	=4
-8dddd-	D-
-8cccc	D7
-8dddd-	D-
-8cccc	D7
-8dddd-	D-
-8cccc	D7
-8dddd-	D-
-8cccc	D7
+8dddd-L	D- major
+8cccc	D dominant
+8dddd-	D- major
+8ccccJ	D dominant
+8dddd-L	D- major
+8cccc	D dominant
+8dddd-	D- major
+8ccccJ	D dominant
 =5	=5
-8dddd-	D-
-8ccc	C
-8ddd-	D-
-8ccc	C
-8ddd-	D-
-8cc	C
-8dd-	D-
-8cc	C
+8dddd-L	D- major
+8ccc	C major
+8ddd-	D- major
+8cccJ	C major
+8ddd-L	D- major
+8cc	C major
+8dd-	D- major
+8ccJ	C major
 =6	=6
-4dd-	D-
-4ff	D-add(2,4,7)/F
-4.bb-	B-m
-8aa-	B-m7/A-
+4dd-	D- major
+4ff	D- other-2,4,7/F
+4.bb-	B- minor
+8aa-	B- minor-seventh/A-
 =7	=7
-8gg-	G-
-8ff	D-/F
-8een	D-m/E
-8ee-	E-m
-8ddn	D
-8dd-	G-add(2,4,7)/D-
-8cc	C
-8dd-	D-
+8gg-L	G- major
+8ff	D- major/F
+8een	D- minor/E
+8ee-J	E- minor
+8ddnL	D major
+8dd-	G- other-2,4,7/D-
+8cc	C major
+8dd-J	D- major
 =8	=8
-4dd-	D-
-4ff	D-/F
-4.bb-	B-m
-8aa-	B-m7/A-
+4dd-	D- major
+4ff	D- major/F
+4.bb-	B- minor
+8aa-	B- minor-seventh/A-
 =9	=9
-8gg-	G-
-8ff	D-/F
-8ee-	E-m
-8dd-	G-add(2,4,7)/D-
-8gg-	G-
+8gg-L	G- major
+8ff	D- major/F
+8ee-	E- minor
+8dd-J	G- other-2,4,7/D-
+8gg-	G- major
 8r	.
-8bb-	G-/B-
+8bb-	G- major/B-
 8r	.
 =10	=10
 *k[f#c#g#d#a#e#]	*
 *F#:	*
-8C#	C#7
+8C#L	C# dominant
 8c#	.
 8E#	.
-8e#	.
+8e#J	.
 8c#	.
 4a#	.
 8g#	.
 =11	=11
-8f#	F#
+8f#L	F# major
 8e#	.
 8en	.
-8d#	.
-8dn	.
+8d#J	.
+8dnL	.
 8c#	.
 8A#	.
-8F#	.
+8F#J	.
 =12	=12
-8C#	C#7
+8C#L	C# dominant
 8c#	.
 8E#	.
-8e#	.
+8e#J	.
 8c#	.
 4a#	.
 8g#	.
 =13	=13
-8f#	F#
+8f#L	F# major
 8e#	.
 8en	.
-8d#	.
-8dn	.
+8d#J	.
+8dnL	.
 8c#	.
 8cn	.
-8c#	.
+8c#J	.
 *k[b-e-a-d-g-]	*
 *D-:	*
 ==	==

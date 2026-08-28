@@ -15,84 +15,84 @@
 *g:	*
 *M4/4	*
 =1	=1
-8GG	Gadd(7,10)
+8GGL	G other-7,10
 8BB-	.
 8GG	.
-8FF	.
+8FFJ	.
 8GG	.
 4r	.
-8GG[	.
+[8GG	.
 =2	=2
-8GG]	.
-8BB-	Gm/B-
+8GGL]	.
+8BB-	G minor/B-
 8GG	.
-16FF	.
+16FFJk	.
 16r	.
-8GG	.
-16FF	.
+8GGL	.
+16FFJk	.
 16r	.
-4DD[	.
+[4DD	.
 =3	=3
-8DD]	Dadd(7,10)
+8DDL]	D other-7,10
 8FF	.
 8DD	.
-8CC	.
+8CCJ	.
 8DD	.
 4r	.
-8DD[	.
+[8DD	.
 =4	=4
-8DD]	.
-8FF	Dm/F
+8DDL]	.
+8FF	D minor/F
 8DD	.
-8CC	.
+8CCJ	.
 4DD	.
 4FF	.
 =5	=5
-8GG	Gadd(7,10)
+8GGL	G other-7,10
 8BB-	.
 8GG	.
-8FF	.
+8FFJ	.
 8GG	.
 4r	.
-8GG[	.
+[8GG	.
 =6	=6
-8GG]	.
-8BB-	Gm/B-
+8GGL]	.
+8BB-	G minor/B-
 8GG	.
-8FF	.
-8GG	.
-16FF	.
+8FFJ	.
+8GGL	.
+16FFJk	.
 16r	.
-4DD[	.
+[4DD	.
 =7	=7
-8DD]	Dadd(7,10)
+8DDL]	D other-7,10
 8FF	.
 8DD	.
-8CC	.
+8CCJ	.
 8DD	.
 4r	.
-8DD[	.
+[8DD	.
 =8	=8
-8DD]	.
-8FF	Dm/F
+8DDL]	.
+8FF	D minor/F
 8DD	.
-8CC	.
-4DD	B-/D
-4DD	Dm
+8CCJ	.
+4DD	B- major/D
+4DD	D minor
 =9	=9
-4.CC	C5
+4.CC	C power
 4.CC	.
 4CC	.
 =10	=10
-4.DD	D5
+4.DD	D power
 4.DD	.
 4DD	.
 =11	=11
-4.EE-	E-add(6,7)
+4.EE-	E- other-6,7
 4.EE-	.
 4EE-	.
 =12	=12
-2FF	F5
-2GG-	D/G-
+2FF	F power
+2GG-	D major/G-
 ==	==
 *-	*-

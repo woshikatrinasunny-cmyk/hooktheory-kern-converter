@@ -16,93 +16,93 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8c#	F#
-8c#	F#
-8cn	G#7/F#
-8cn	G#7/F#
+8c#L	F# major
+8c#	F# major
+8cn	G# dominant/F#
+8cnJ	G# dominant/F#
 4r	.
-4cc#[	.
+[4cc#	.
 =2	=2
 4cc#]	.
-8ccn	.
-8c#	F#
-8c#	F#
-8cn	Cm7b5/F#
-4cn	Cm7b5/F#
+8ccnL	.
+8c#J	F# major
+8c#L	F# major
+8cnJ	C half-diminished/F#
+4cn	C half-diminished/F#
 =3	=3
-8c#	G#7sus4
-8c#	G#7sus4
-8cn	G#7
-8cn	G#7
+8c#L	G# dominant-seventh-suspended-fourth
+8c#	G# dominant-seventh-suspended-fourth
+8cn	G# dominant
+8cnJ	G# dominant
 4r	.
-4cc#[	.
+[4cc#	.
 =4	=4
-8cc#]	.
+8cc#L]	.
 8ccn	.
 8g#	.
-8c#	G#7sus4
-8c#	G#7sus4
-8cn	G#7
-4cn	G#7
+8c#J	G# dominant-seventh-suspended-fourth
+8c#L	G# dominant-seventh-suspended-fourth
+8cnJ	G# dominant
+4cn	G# dominant
 =5	=5
-8c#	A#m7
-8c#	A#m7
-8cn	A#7sus2
-8cn	A#7sus2
+8c#L	A# minor-seventh
+8c#	A# minor-seventh
+8cn	A# dominant-seventh-suspended-second
+8cnJ	A# dominant-seventh-suspended-second
 4r	.
-4ee#[	.
+[4ee#	.
 =6	=6
 4ee#]	.
-8cc#	.
-8c#	A#m7
-8c#	A#m7
-8cn	A#7sus2
-4cn	A#7sus2
+8cc#L	.
+8c#J	A# minor-seventh
+8c#L	A# minor-seventh
+8cnJ	A# dominant-seventh-suspended-second
+4cn	A# dominant-seventh-suspended-second
 =7	=7
-8c#	F#
-8c#	F#
-8cn	G#7/F#
-8ee#[	G#7/F#
-8ee#]	.
+8c#L	F# major
+8c#	F# major
+8cn	G# dominant/F#
+[8ee#J	G# dominant/F#
+8ee#L]	.
 8cc#	.
 8g#	.
-8gg#[	.
+[8gg#J	.
 =8	=8
 4.gg#]	.
-8c#	F#sus2
-8c#	.
-8cn	G#
-8f#	F#/A#
-8ff#	.
+8c#	F# suspended-second
+8c#L	.
+8cn	G# major
+8f#	F# major/A#
+8ff#J	.
 =9	=9
-2..een	Bsus4
-8dd#[	B
+2..een	B suspended-fourth
+[8dd#	B major
 =10	=10
 1dd#]	.
 =11	=11
-2..ff#	C#7sus4
-8ee#[	C#7
+2..ff#	C# dominant-seventh-suspended-fourth
+[8ee#	C# dominant
 =12	=12
 1ee#]	.
 =13	=13
-4.gg#	D#7sus4
-2ggn	D#7
-8aan[	E7sus4
+4.gg#	D# dominant-seventh-suspended-fourth
+2ggn	D# dominant
+[8aan	E dominant-seventh-suspended-fourth
 =14	=14
 4.aan]	.
-2gg#	E7
-8aa#[	E#7sus4
+2gg#	E dominant
+[8aa#	E# dominant-seventh-suspended-fourth
 =15	=15
 4.aa#]	.
-2aan	E#7
-8bb	F#7sus4
+2aan	E# dominant
+8bb	F# dominant-seventh-suspended-fourth
 =16	=16
+8bbL	.
 8bb	.
 8bb	.
-8bb	.
-8aa#	F#7
-8aa#	.
-8dd#	.
+8aa#J	F# dominant
+8aa#L	.
+8dd#J	.
 4dd#	.
 ==	==
 *-	*-

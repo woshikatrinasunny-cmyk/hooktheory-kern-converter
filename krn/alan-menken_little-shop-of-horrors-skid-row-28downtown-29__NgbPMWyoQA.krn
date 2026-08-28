@@ -17,149 +17,149 @@
 *M4/4	*
 =1	=1
 4dd	.
-8dd[	B-
-8dd_	B-
+[8ddL	B- major
+8ddJ_	B- major
 4dd]	.
-8cc	F
-8b-	.
+8ccL	F major
+8b-J	.
 =2	=2
-8cc	.
-8dd[	.
-8dd]	B-
-8dd[	B-
-8dd]	.
-8cc	.
-4dd	B-/F
+8ccL	.
+[8dd	.
+8dd]	B- major
+[8ddJ	B- major
+8ddL]	.
+8ccJ	.
+4dd	B- major/F
 =3	=3
 4ff	.
-8ff[	Dm
-8ff_	Dm
+[8ffL	D minor
+8ffJ_	D minor
 4ff]	.
-8een	A
-8dd	.
+8eenL	A major
+8ddJ	.
 =4	=4
 4een	.
-8ff	Dm
-8ff[	Dm
-8ff]	.
-8dd	.
-4ff	Dm/A
+8ffL	D minor
+[8ffJ	D minor
+8ffL]	.
+8ddJ	.
+4ff	D minor/A
 =5	=5
 4gg	.
-8gg[	E-
-8gg_	E-
+[8ggL	E- major
+8ggJ_	E- major
 4gg]	.
-8ff	B-
-8ee-	.
+8ffL	B- major
+8ee-J	.
 =6	=6
-8ff	.
-8gg[	.
-8gg]	E-
-8gg[	E-
-8gg]	.
-8bb-	.
-4ccc	F
+8ffL	.
+[8gg	.
+8gg]	E- major
+[8ggJ	E- major
+8ggL]	.
+8bb-J	.
+4ccc	F major
 =7	=7
 4ddd	.
-8ccc	Gm
-8bb-[	Gm
+8cccL	G minor
+[8bb-J	G minor
 4bb-_	.
-4bb-]	Gm
+4bb-]	G minor
 =8	=8
-8r	Fsus4
+8r	F suspended-fourth
 8r	.
 4ff	.
 4gg	.
 4bb-	.
 =9	=9
-4gg[	.
-8gg]	B-
-16bb-	B-
-16gg	.
-4ff[	.
-4ff]	F
+[4gg	.
+8ggL]	B- major
+16bb-L	B- major
+16ggJJ	.
+[4ff	.
+4ff]	F major
 =10	=10
 4r	.
-4ff	B-
-4gg	F
-4bb-	G-dim
+4ff	B- major
+4gg	F major
+4bb-	G- diminished
 =11	=11
-4gg[	.
-8gg]	Gm
-16bb-	Gm
-16gg	.
-4ff[	.
-4ff]	Gm
+[4gg	.
+8ggL]	G minor
+16bb-L	G minor
+16ggJJ	.
+[4ff	.
+4ff]	G minor
 =12	=12
-8r	Fsus4
+8r	F suspended-fourth
 8r	.
 4f	.
 4g	.
 4b-	.
 =13	=13
 4dd	.
-8dd[	B-
-8dd_	B-
+[8ddL	B- major
+8ddJ_	B- major
 4dd]	.
-8cc	F
-8b-	.
+8ccL	F major
+8b-J	.
 =14	=14
-8cc	.
-8dd[	.
-8dd]	B-
-8dd[	B-
+8ccL	.
+[8dd	.
+8dd]	B- major
+[8ddJ	B- major
 4dd]	.
-4r	B-/F
+4r	B- major/F
 =15	=15
 4ff	.
-8ff[	Dm
-8ff_	Dm
+[8ffL	D minor
+8ffJ_	D minor
 4ff]	.
-8een	A
-8dd	.
+8eenL	A major
+8ddJ	.
 =16	=16
-8een	.
-8ff[	.
-8ff]	Dm
-8ff[	Dm
+8eenL	.
+[8ff	.
+8ff]	D minor
+[8ffJ	D minor
 4ff]	.
-4r	Dm/A
+4r	D minor/A
 =17	=17
 4gg	.
-8gg[	E-
-8gg_	E-
+[8ggL	E- major
+8ggJ_	E- major
 4gg]	.
-8ff	B-
-8ee-	.
+8ffL	B- major
+8ee-J	.
 =18	=18
-8ff	.
-8gg[	.
-8gg]	E-
-8gg[	E-
-8gg]	.
-8bb-	.
-4ccc	F
+8ffL	.
+[8gg	.
+8gg]	E- major
+[8ggJ	E- major
+8ggL]	.
+8bb-J	.
+4ccc	F major
 =19	=19
 4ddd	.
-8ccc	Gm
-8bb-[	Gm
+8cccL	G minor
+[8bb-J	G minor
 4bb-_	.
-4bb-]	Gm
+4bb-]	G minor
 =20	=20
-8r	Fsus4
+8r	F suspended-fourth
 8r	.
 4ff	.
 4gg	.
 4bb-	.
 =21	=21
-4gg[	.
-8gg]	B-
-16bb-	B-
-16gg	.
-4ff[	.
-4ff]	F
+[4gg	.
+8ggL]	B- major
+16bb-L	B- major
+16ggJJ	.
+[4ff	.
+4ff]	F major
 =22	=22
-8r	B-
+8r	B- major
 2..r	.
 ==	==
 *-	*-

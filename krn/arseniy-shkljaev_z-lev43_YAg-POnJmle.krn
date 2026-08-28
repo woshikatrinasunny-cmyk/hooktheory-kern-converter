@@ -16,73 +16,73 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8.ff#	F#m7
-8.gg#	.
-8.aa	Amaj7
-8.bb	F#sus4
-8aa	F#m
-8bb	Esus2
+8.ff#L	F# minor-seventh
+8.gg#J	.
+8.aa	A major-seventh
+8.bbL	F# suspended-fourth
+8aa	F# minor
+8bbJ	E suspended-second
 =2	=2
-16ccc#	D
+16ccc#LL	D major
 16bb	.
-16aa	.
+16aaJ	.
 8.gg#	.
-16bb	.
-16aa	.
-16gg#	Bm
+16bbL	.
+16aaJJ	.
+16gg#LK	B minor
 8.ff#	.
-16bb	.
+16bbL	.
 16aa	.
 16ff#	.
-16dd	.
+16ddJJ	.
 =3	=3
-8.ff#	F#m7
-8.gg#	.
-8.aa	Amaj7
-8.bb	F#sus4
-8aa	F#m
-8bb	Esus2
+8.ff#L	F# minor-seventh
+8.gg#J	.
+8.aa	A major-seventh
+8.bbL	F# suspended-fourth
+8aa	F# minor
+8bbJ	E suspended-second
 =4	=4
-16dd	D
+16ddLL	D major
 16ccc#	.
-16eee	.
+16eeeJ	.
 8.ccc#	.
-16bb	.
-16aa	.
-16ff#	Bm
+16bbL	.
+16aaJJ	.
+16ff#LK	B minor
 8.bb	.
-16ddd	.
+16dddL	.
 16ccc#	.
 16aa	.
-16ff#	.
+16ff#JJ	.
 =5	=5
-8.ff#	F#m7
-8.gg#	.
-8.aa	Amaj7
-8.bb	F#sus4
-8aa	F#m
-8bb	Esus2
+8.ff#L	F# minor-seventh
+8.gg#J	.
+8.aa	A major-seventh
+8.bbL	F# suspended-fourth
+8aa	F# minor
+8bbJ	E suspended-second
 =6	=6
-16ccc#	D
+16ccc#LL	D major
 16bb	.
-16aa	.
+16aaJ	.
 8.gg#	.
-16bb	.
-16aa	.
-16gg#	Bm
+16bbL	.
+16aaJJ	.
+16gg#LK	B minor
 8.ff#	.
-16bb	.
+16bbL	.
 16aa	.
 16ff#	.
-16dd	.
+16ddJJ	.
 =7	=7
-2..ff#	F#m
-16bb	.
-16ccc#	.
+2..ff#	F# minor
+16bbLL	.
+16ccc#JJ	.
 =8	=8
-4ddd	Dadd(4,7,9,11)
-8.eee	.
-16fff#[	.
-2fff#]	Bm7
+4ddd	D other-4,7,9,11
+8.eeeL	.
+[16fff#Jk	.
+2fff#]	B minor-seventh
 ==	==
 *-	*-

@@ -16,50 +16,50 @@
 *D:	*
 *M4/4	*
 =1	=1
-4d	D
+4d	D major
 4d	.
-8d	.
-8d	C
+8dL	.
+8dJ	C major
 4d	.
 =2	=2
-4d	A#/F
-8A[	.
-8A]	C/G
-8c	.
-8d[	D
+4d	A# major/F
+[8AL	.
+8AJ]	C major/G
+8cL	.
+[8d	D major
 8d]	.
-8e	.
+8eJ	.
 =3	=3
-3...d[	D
-8d_	C
+[3...d	D major
+8d_	C major
 4d_	.
 =4	=4
-4.d_	A#/F
-4d_	C/G
-8d]	D
+4.d_	A# major/F
+4d_	C major/G
+8d]	D major
 4r	.
 =5	=5
-4d	D
+4d	D major
 4d	.
-8d	.
-8d	C
+8dL	.
+8dJ	C major
 4d	.
 =6	=6
-4d	A#/F
-8A[	.
-8A]	C/G
-8c	.
-8d[	D
+4d	A# major/F
+[8AL	.
+8AJ]	C major/G
+8cL	.
+[8d	D major
 8d]	.
-8e	.
+8eJ	.
 =7	=7
-3...d[	D/F#
-8d_	C/G
+[3...d	D major/F#
+8d_	C major/G
 4d_	.
 =8	=8
-4.d_	A#/D
-4d_	Csus2
-8d]	D
+4.d_	A# major/D
+4d_	C suspended-second
+8d]	D major
 4r	.
 ==	==
 *-	*-

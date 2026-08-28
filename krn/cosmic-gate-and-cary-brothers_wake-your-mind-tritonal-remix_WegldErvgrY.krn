@@ -16,76 +16,76 @@
 *g:	*
 *M4/4	*
 =1	=1
-8a	Gm9
-4b-	Gm
-16f	Gm7
+8a	G minor-ninth
+4b-	G minor
+16f	G minor-seventh
 16r	.
-8cc	Gm11
-8cc	Gm11
-8b-	Gm
-8a	F
+8ccL	G minor-11th
+8cc	G minor-11th
+8b-	G minor
+8aJ	F major
 =2	=2
-8g[	E-
-8g_	E-
-8g_	E-
-8g]	E-
-8a[	F
-8a_	F
-8.a]	F
+[8gL	E- major
+8g_	E- major
+8g_	E- major
+8gJ]	E- major
+[8aL	F major
+8a_	F major
+8.aJ]	F major
 16r	.
 =3	=3
-8ff	Gm9
-4dd	Gm
-16f	Gm7
+8ff	G minor-ninth
+4dd	G minor
+16f	G minor-seventh
 16r	.
-8ff	Gm11
-8gg	Gm11
-8ff	Gm7
-8dd	Dm7/F
+8ffL	G minor-11th
+8gg	G minor-11th
+8ff	G minor-seventh
+8ddJ	D minor-seventh/F
 =4	=4
-4gg	E-
-4ff	E-add(2,4,7)
-16ee-	F7
+4gg	E- major
+4ff	E- other-2,4,7
+16ee-	F dominant
 16r	.
-16ee-	F7
+16ee-	F dominant
 16r	.
-8.dd	Dm7/F
+8.dd	D minor-seventh/F
 16r	.
 =5	=5
-8a	Gm9
-4b-	Gm
-16f	Gm7
+8a	G minor-ninth
+4b-	G minor
+16f	G minor-seventh
 16r	.
-8cc	Gm11
-8cc	Gm11
-8b-	Gm
-8a	F
+8ccL	G minor-11th
+8cc	G minor-11th
+8b-	G minor
+8aJ	F major
 =6	=6
-8g[	E-
-8g_	E-
-8g_	E-
-8g]	E-
-8a[	F
-8a_	F
-8.a]	F
+[8gL	E- major
+8g_	E- major
+8g_	E- major
+8gJ]	E- major
+[8aL	F major
+8a_	F major
+8.aJ]	F major
 16r	.
 =7	=7
-8ff	Gm9
-4dd	Gm
-16f	Gm7
+8ff	G minor-ninth
+4dd	G minor
+16f	G minor-seventh
 16r	.
-8ff	Gm11
-8gg	Gm11
-8ff	Gm7
-8dd	Dm7/F
+8ffL	G minor-11th
+8gg	G minor-11th
+8ff	G minor-seventh
+8ddJ	D minor-seventh/F
 =8	=8
-4gg	E-
-4ff	E-add(2,4,7)
-16ee-	F7
+4gg	E- major
+4ff	E- other-2,4,7
+16ee-	F dominant
 16r	.
-16ee-	F7
+16ee-	F dominant
 16r	.
-8.dd	Dm7/F
+8.dd	D minor-seventh/F
 16r	.
 ==	==
 *-	*-

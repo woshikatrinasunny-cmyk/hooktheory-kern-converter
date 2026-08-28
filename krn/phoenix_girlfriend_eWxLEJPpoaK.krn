@@ -15,74 +15,74 @@
 *B:	*
 *M4/4	*
 =1	=1
-4ff#	Eadd(2,4,7)
-8ff#[	.
-8ff#]	G#m7/D#
+4ff#	E other-2,4,7
+[8ff#L	.
+8ff#J]	G# minor-seventh/D#
 4b	.
-4ff#[	F#/C#
+[4ff#	F# major/C#
 =2	=2
 1ff#_	.
 =3	=3
 2ff#]	.
 2r	.
 =4	=4
-8ff#	G#m
+8ff#L	G# minor
 8ff#	.
-8ff#[	.
-8ff#]	F#
+[8ff#	.
+8ff#J]	F# major
 4dd#	.
-8cc#	B
-8b	.
+8cc#L	B major
+8bJ	.
 =5	=5
 4b	.
 4ff#	.
-2dd#[	.
+[2dd#	.
 =6	=6
 2.dd#]	.
 8r	.
 8dd#	.
 =7	=7
-8.dd#	C#m/E
+8.dd#L	C# minor/E
 8.dd#	.
-8dd#	.
+8dd#J	.
+8.dd#L	.
 8.dd#	.
-8.dd#	.
-8dd#	.
+8dd#J	.
 =8	=8
-8dd#	F#/C#
+8dd#L	F# major/C#
 8cc#	.
 8cc#	.
-8b	.
-8.cc#	.
+8bJ	.
+8.cc#L	.
 8.dd#	.
-8dd#[	.
+[8dd#J	.
 =9	=9
-4dd#]	B/D#
+4dd#]	B major/D#
 3...r	.
 8dd#	.
 =10	=10
-8.dd#	C#m/E
+8.dd#L	C# minor/E
 8.dd#	.
-8dd#	.
+8dd#J	.
+8.dd#L	.
 8.dd#	.
-8.dd#	.
-8dd#	.
+8dd#J	.
 =11	=11
-8dd#	F#/C#
+8dd#L	F# major/C#
 8cc#	.
 8cc#	.
-8cc#	.
-8.cc#	.
+8cc#J	.
+8.cc#L	.
 8.ff#	.
-8ff#[	.
+[8ff#J	.
 =12	=12
-1ff#_	Eadd(2,4,7)
+1ff#_	E other-2,4,7
 =13	=13
 2ff#]	.
 2r	.
 =14	=14
 2ff#	.
-2b[	.
+[2b	.
 =15	=15
 2.b]	.
 4r	.

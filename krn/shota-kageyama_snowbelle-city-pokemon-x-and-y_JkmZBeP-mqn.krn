@@ -16,29 +16,29 @@
 *e:	*
 *M3/4	*
 =1	=1
-2.ccc	Am
+2.ccc	A minor
 =2	=2
 4ccc	.
 4bb	.
 4aa	.
 =3	=3
-2gg	Em7
+2gg	E minor-seventh
 4bb	.
 =4	=4
 2.dd	.
 =5	=5
-2.gg	Cmaj7
+2.gg	C major-seventh
 =6	=6
 4gg	.
 4ff#	.
 4ee	.
 =7	=7
-2dd	G
+2dd	G major
 4ff#	.
 =8	=8
 2.b	.
 =9	=9
-4cc	Am7
+4cc	A minor-seventh
 4b	.
 4cc	.
 =10	=10
@@ -46,20 +46,20 @@
 4cc	.
 4ccc	.
 =11	=11
-2.bb	Badd(4,5,7,10)
+2.bb	B other-4,5,7,10
 =12	=12
 4dd#	.
 4bb	.
 4aa	.
 =13	=13
-2.gg	Cmaj7
+2.gg	C major-seventh
 =14	=14
 4aa	.
 4gg	.
 4aa	.
 =15	=15
-2.bb[	B7sus4
+[2.bb	B dominant-seventh-suspended-fourth
 =16	=16
-2.bb]	B7
+2.bb]	B dominant
 ==	==
 *-	*-

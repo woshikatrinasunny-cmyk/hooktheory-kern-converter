@@ -15,34 +15,34 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4.ccc#	C#
+4.ccc#	C# major
 8.gg#	.
 16r	.
 8.ff#	.
 16r	.
-8ffn[	.
+[8ffn	.
 =2	=2
 2.ffn]	.
-4ff#	B
+4ff#	B major
 =3	=3
-4.gg#	Amaj7
+4.gg#	A major-seventh
 8.ee	.
 16r	.
 8.dd#	.
 16r	.
-8cc#[	.
+[8cc#	.
 =4	=4
 2.cc#]	.
 4dd#	.
 =5	=5
-8ee	B
+8eeL	B major
 8ee	.
-8ee	.
+8eeJ	.
 8.dd#	.
 16r	.
 4.cc#	.
 =6	=6
-8.ff#	Cdim
+8.ff#	C diminished
 16r	.
 8ff#	.
 8.dd#	.
@@ -50,46 +50,46 @@
 8ee	.
 4ff#	.
 =7	=7
-4.ee	C#m
+4.ee	C# minor
 3...ccc#	.
 =8	=8
-8gg#	C#
+8gg#L	C# major
 8cc#	.
 8ff#	.
-8gg#	.
-8ee	C#m
+8gg#J	.
+8eeL	C# minor
 8gg#	.
 8dd#	.
-8gg#	.
+8gg#J	.
 =9	=9
-4.ccc#	C#
+4.ccc#	C# major
 8.gg#	.
 16r	.
 8.ff#	.
 16r	.
-8ffn[	.
+[8ffn	.
 =10	=10
 2.ffn]	.
-4ff#	B
+4ff#	B major
 =11	=11
-4.gg#	Amaj7
+4.gg#	A major-seventh
 8.ee	.
 16r	.
 8.dd#	.
 16r	.
-8cc#[	.
+[8cc#	.
 =12	=12
 2.cc#]	.
 4dd#	.
 =13	=13
-8ee	B
+8eeL	B major
 8ee	.
-8ee	.
+8eeJ	.
 8.dd#	.
 16r	.
 4.cc#	.
 =14	=14
-8.ff#	Cdim
+8.ff#	C diminished
 16r	.
 8ff#	.
 8.dd#	.
@@ -97,8 +97,8 @@
 8ee	.
 4ff#	.
 =15	=15
-4.ee	C#m
-3...ccc#[	.
+4.ee	C# minor
+[3...ccc#	.
 =16	=16
 1ccc#]	.
 ==	==

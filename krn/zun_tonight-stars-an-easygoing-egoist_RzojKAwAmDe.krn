@@ -16,104 +16,104 @@
 *c#:	*
 *M4/4	*
 =1	=1
-2g#	Amaj7
+2g#	A major-seventh
 8r	.
-8g#	.
+8g#L	.
 8f#	.
-8e	.
+8eJ	.
 =2	=2
-4d#	B
+4d#	B major
 8e	.
 4d#	.
 4.B	.
 =3	=3
-8c#[	C#m
-8c#_	C#m
+[8c#L	C# minor
+8c#_	C# minor
 8c#_	.
-8c#_	D#add(1,3,5,6,10)
-8c#_	D#add(1,3,5,6,10)
+8c#J_	D# other-1,3,5,6,10
+8c#L_	D# other-1,3,5,6,10
 8c#_	.
-8c#_	C#m/E
-8c#_	C#m/E
+8c#_	C# minor/E
+8c#J_	C# minor/E
 =4	=4
-8c#_	.
-8c#_	F#7sus2
-8c#_	F#7sus2
-8c#]	.
-8c#	C#m/E
+8c#L_	.
+8c#_	F# dominant-seventh-suspended-second
+8c#_	F# dominant-seventh-suspended-second
+8c#J]	.
+8c#L	C# minor/E
 8d#	.
-8e	D#add(1,3,5,6,10)
-8f#	.
+8e	D# other-1,3,5,6,10
+8f#J	.
 =5	=5
-2g#	Amaj7
+2g#	A major-seventh
 8r	.
-8g#	.
+8g#L	.
 8f#	.
-8g#	.
+8g#J	.
 =6	=6
-4b	B
+4b	B major
 4cc#	.
 4g#	.
-8f#	.
-8g#[	.
+8f#L	.
+[8g#J	.
 =7	=7
-8g#_	C#m
-8g#_	C#m
+8g#L_	C# minor
+8g#_	C# minor
 8g#_	.
-8g#_	D#add(1,3,5,6,10)
-8g#_	D#add(1,3,5,6,10)
+8g#J_	D# other-1,3,5,6,10
+8g#L_	D# other-1,3,5,6,10
 8g#_	.
-8g#_	C#m/E
-8g#_	C#m/E
+8g#_	C# minor/E
+8g#J_	C# minor/E
 =8	=8
-8g#_	.
-8g#_	F#7sus2
-8g#_	F#7sus2
-8g#]	.
-4g#	C#m/E
-4b	D#add(1,3,5,6,10)
+8g#L_	.
+8g#_	F# dominant-seventh-suspended-second
+8g#_	F# dominant-seventh-suspended-second
+8g#J]	.
+4g#	C# minor/E
+4b	D# other-1,3,5,6,10
 =9	=9
-2cc#	Amaj7
+2cc#	A major-seventh
 8r	.
-8cc#	.
+8cc#L	.
 8b	.
-8cc#	.
+8cc#J	.
 =10	=10
-4ee	B
+4ee	B major
 4dd#	.
 4cc#	.
 4b	.
 =11	=11
-2.g#	C#m
+2.g#	C# minor
 4b	.
 =12	=12
-2f#	B
+2f#	B major
 4e	.
 4d#	.
 =13	=13
-2.c#	Amaj7
+2.c#	A major-seventh
 4g#	.
 =14	=14
-4d#	B
+4d#	B major
 8e	.
 4d#	.
 8c#	.
 4B	.
 =15	=15
-8B[	C#m
-8B_	C#m
+[8BL	C# minor
+8B_	C# minor
 8B_	.
-8B_	D#add(1,3,5,6,10)
-8B_	D#add(1,3,5,6,10)
+8BJ_	D# other-1,3,5,6,10
+8BL_	D# other-1,3,5,6,10
 8B]	.
-8c#[	C#m/E
-8c#_	C#m/E
+[8c#	C# minor/E
+8c#J_	C# minor/E
 =16	=16
-8c#_	.
-8c#_	F#7sus2
-8c#_	F#7sus2
-8c#_	.
-4c#_	C#m/E
-4c#]	D#add(1,3,5,6,10)
+8c#L_	.
+8c#_	F# dominant-seventh-suspended-second
+8c#_	F# dominant-seventh-suspended-second
+8c#J_	.
+4c#_	C# minor/E
+4c#]	D# other-1,3,5,6,10
 ==	==
 *-	*-

@@ -16,76 +16,76 @@
 *a:	*
 *M3/4	*
 =1	=1
-16aa	Adim
-16aa	.
+16aaLL	A diminished
+16aaJJ	.
 3...r	.
 =2	=2
-4gg	Aadd(4,6,10)
+4gg	A other-4,6,10
 4dd#	.
 4cc	.
 =3	=3
-4a#	Eadd(3,6,11)
+4a#	E other-3,6,11
 4g	.
 4d	.
 =4	=4
-2e	Eaug
-24b	.
+2e	E augmented
+24bLL	.
 24cc#	.
 24dd#	.
 24ee	.
 24ff#	.
-24gg	.
+24ggJJ	.
 =5	=5
-16aa	A/C#
-16aa	.
+16aaLL	A major/C#
+16aaJJ	.
 3...r	.
 =6	=6
-4gg	Gm/D
+4gg	G minor/D
 4ccc	.
 4aa#	.
 =7	=7
 *M4/4	*
-1aa	Am/E
+1aa	A minor/E
 =8	=8
-1cc	A#add(2,4,7)
+1cc	A# other-2,4,7
 =9	=9
 *k[f#c#]	*
 *b:	*
 *M3/4	*
-2.cc#	Badd(2,5,7,10)
+2.cc#	B other-2,5,7,10
 =10	=10
-4aa	Badd(2,5,7,10)
+4aa	B other-2,5,7,10
 4ee	.
 4dd	.
 =11	=11
-4cc#	Amaj7/G#
+4cc#	A major-seventh/G#
 4a	.
 4e	.
 =12	=12
-2f#	G#add(3,5,6,10)
-24b	.
+2f#	G# other-3,5,6,10
+24bLL	.
 24cc#	.
 24dd#	.
 24ee	.
 24ff#	.
-24gg	.
+24ggJJ	.
 =13	=13
 *k[]	*
 *a:	*
-16aa	Am7/G
-16aa	.
+16aaLL	A minor-seventh/G
+16aaJJ	.
 3...r	.
 =14	=14
-4gg	Em7b5
+4gg	E half-diminished
 4ccc	.
 4aa#	.
 =15	=15
-2.aa[	Am
+[2.aa	A minor
 =16	=16
-2.aa]	Am
+2.aa]	A minor
 =17	=17
 *M4/4	*
-1a#[	Aadd(1,4,6,11)
+[1a#	A other-1,4,6,11
 =18	=18
 1a#]	.
 ==	==

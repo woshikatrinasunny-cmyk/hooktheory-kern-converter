@@ -16,7 +16,7 @@
 *d#:	*
 *M4/4	*
 =1	=1
-8dd#	D#m
+8dd#	D# minor
 16r	.
 8dd#	.
 16r	.
@@ -29,7 +29,7 @@
 16ff#	.
 16r	.
 =2	=2
-8dd#	B
+8dd#	B major
 16r	.
 8dd#	.
 16r	.
@@ -42,7 +42,7 @@
 16ff#	.
 16r	.
 =3	=3
-8ee#	C#
+8ee#	C# major
 16r	.
 8ee#	.
 16r	.
@@ -55,12 +55,12 @@
 16cc#	.
 16r	.
 =4	=4
-4..dd#	D#m/A#
+4..dd#	D# minor/A#
 16r	.
-4..ddn	A#
+4..ddn	A# major
 16r	.
 =5	=5
-8dd#	D#m
+8dd#	D# minor
 16r	.
 8dd#	.
 16r	.
@@ -73,7 +73,7 @@
 16ff#	.
 16r	.
 =6	=6
-8dd#	B
+8dd#	B major
 16r	.
 8dd#	.
 16r	.
@@ -86,7 +86,7 @@
 16ff#	.
 16r	.
 =7	=7
-8ee#	C#
+8ee#	C# major
 16r	.
 8ee#	.
 16r	.
@@ -99,36 +99,36 @@
 16gg#	.
 16r	.
 =8	=8
-2aa#	F#
-4gg#	A#/E#
-4ee#	A#
+2aa#	F# major
+4gg#	A# major/E#
+4ee#	A# major
 =9	=9
-16ff#	B
-16ee#	.
-2..dd#[	.
+16ff#LL	B major
+16ee#JJ	.
+[2..dd#	.
 =10	=10
-4..dd#]	C#
+4..dd#]	C# major
 16r	.
 8.cc#	.
 16r	.
 8.ee#	.
 16r	.
 =11	=11
-1dd#[	D#m
+[1dd#	D# minor
 =12	=12
 3...dd#_	.
 16dd#]	.
 16r	.
 4ccc#	.
 =13	=13
-2..bb	B
+2..bb	B major
 8aa#	.
 =14	=14
-2gg#	C#add(2,4,7)
-4ee#	A#
+2gg#	C# other-2,4,7
+4ee#	A# major
 4aa#	.
 =15	=15
-1dd#	D#m
+1dd#	D# minor
 =16	=16
 2..ddd#	.
 8r	.

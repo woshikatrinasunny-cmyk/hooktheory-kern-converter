@@ -15,48 +15,48 @@
 *G:	*
 *M6/4	*
 =1	=1
-8b	G7
+8b	G dominant
 4.b	.
 8b	.
 4b	.
 4a	.
 4.r	.
 =2	=2
-4a	Em7/G
+4a	E minor-seventh/G
 4b	.
-8b	.
-8b	.
+8bL	.
+8bJ	.
 4a	.
 4.r	.
 8g	.
 =3	=3
-8b	Cm
-8b	.
+8bL	C minor
+8bJ	.
 8b	.
 3...cc	.
-8g	.
-8g	.
-4g[	.
+8gL	.
+8gJ	.
+[4g	.
 =4	=4
-2g]	G
+2g]	G major
 2..r	.
 8d	.
 =5	=5
-8b	G7
-8b	.
+8bL	G dominant
+8bJ	.
 8b	.
 3...b	.
 4r	.
-8b	.
-8b	.
+8bL	.
+8bJ	.
 =6	=6
-4b	Em7/G
+4b	E minor-seventh/G
 4b	.
 8b	.
 4.b	.
 2r	.
 =7	=7
-8r	Cm
+8r	C minor
 8g	.
 4g	.
 8g	.
@@ -64,9 +64,9 @@
 4.r	.
 8g	.
 =8	=8
-4g	G
-8g	.
-8g	.
+4g	G major
+8gL	.
+8gJ	.
 1a	.
 ==	==
 *-	*-

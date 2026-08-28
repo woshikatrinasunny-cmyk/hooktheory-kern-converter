@@ -16,105 +16,105 @@
 *g:	*
 *M4/4	*
 =1	=1
-2bb-	Gm
+2bb-	G minor
 4r	.
-8dd	.
-8bb-[	.
+8ddL	.
+[8bb-J	.
 =2	=2
-8bb-]	D/G-
+8bb-L]	D major/G-
 8bb-	.
 8aa	.
-8aa	.
-8gg	.
+8aaJ	.
+8ggL	.
 8ff	.
 8ff	.
-8ff[	.
+[8ffJ	.
 =3	=3
-8ff]	E-maj7
-8gg	.
+8ffL]	E- major-seventh
+8ggJ	.
 2gg	.
 4r	.
 =4	=4
-4.r	Cadd(2,3,7)
+4.r	C other-2,3,7
 8dd	.
-8gg	.
+8ggL	.
 8gg	.
 8aa	.
-8bb-[	.
+[8bb-J	.
 =5	=5
-2bb-]	Gm
+2bb-]	G minor
 4r	.
-8dd	.
-8bb-[	.
+8ddL	.
+[8bb-J	.
 =6	=6
-8bb-]	D/G-
-8bb-	.
+8bb-L]	D major/G-
+8bb-J	.
 4aa	.
-8gg	.
+8ggL	.
 8gg	.
 8ff	.
-8ff[	.
+[8ffJ	.
 =7	=7
-8ff]	E-maj7
-8gg	.
+8ffL]	E- major-seventh
+8ggJ	.
 2gg	.
 8r	.
-8ff[	.
+[8ff	.
 =8	=8
-8ff]	Cadd(2,3,7)
-8gg	.
+8ffL]	C other-2,3,7
+8ggJ	.
 4gg	.
 4.gg	.
 8b-	.
 =9	=9
-4cc	Gm
+4cc	G minor
 4cc	.
+8.ccL	.
 8.cc	.
-8.cc	.
-8b-	.
+8b-J	.
 =10	=10
-4cc	D/G-
+4cc	D major/G-
 4cc	.
+8.ccL	.
 8.cc	.
-8.cc	.
-8b-	.
+8b-J	.
 =11	=11
-4cc	E-maj7
+4cc	E- major-seventh
 4cc	.
-8.cc	.
+8.ccL	.
 8.dd	.
-8b-	.
+8b-J	.
 =12	=12
-8b-	Cadd(2,3,7)
+8b-	C other-2,3,7
 4g	.
 8dd	.
-8gg	.
+8ggL	.
 8gg	.
 8aa	.
-8bb-[	.
+[8bb-J	.
 =13	=13
-2bb-]	Gm
+2bb-]	G minor
 4r	.
-8dd	.
-8bb-[	.
+8ddL	.
+[8bb-J	.
 =14	=14
-8bb-]	D/G-
+8bb-L]	D major/G-
 8bb-	.
 8aa	.
-8aa	.
-8gg	.
+8aaJ	.
+8ggL	.
 8ff	.
 8ff	.
-8ff[	.
+[8ffJ	.
 =15	=15
-8ff]	E-maj7
-8gg	.
+8ffL]	E- major-seventh
+8ggJ	.
 2gg	.
 8r	.
-8ff[	.
+[8ff	.
 =16	=16
-8ff]	Cadd(2,3,7)
-8gg	.
+8ffL]	C other-2,3,7
+8ggJ	.
 4gg	.
 2gg	.
 ==	==

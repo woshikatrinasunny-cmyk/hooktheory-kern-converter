@@ -16,7 +16,7 @@
 *F:	*
 *M4/4	*
 =1	=1
-4cc	F
+4cc	F major
 4cc	.
 4a	.
 4cc	.
@@ -32,24 +32,24 @@
 4cc	.
 =4	=4
 4dd	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 4d	.
-4f[	B-
+[4f	B- major
 =5	=5
 4f]	.
 4f	.
 4d	.
 4f	.
 =6	=6
-8f	Dm7
+8f	D minor-seventh
 8r	.
 8a	.
 8r	.
-4f	Gm7
+4f	G minor-seventh
 4f	.
 =7	=7
-8f	Dm7
+8f	D minor-seventh
 8r	.
 8a	.
 8r	.
@@ -58,52 +58,52 @@
 8f	.
 8r	.
 =8	=8
-8f	Dm7
+8f	D minor-seventh
 8r	.
 8a	.
 8r	.
-4f	Gm7
+4f	G minor-seventh
 4f	.
 =9	=9
-2a	B-maj7
+2a	B- major-seventh
 4a	.
 4a	.
 =10	=10
 4a	.
-4g	Dm7
+4g	D minor-seventh
 4f	.
-4f[	Gm7
+[4f	G minor-seventh
 =11	=11
 4f]	.
 4d	.
 4a	.
-4g[	Cm11
+[4g	C minor-11th
 =12	=12
 4g]	.
 4a	.
-4d	Csus4
+4d	C suspended-fourth
 4c	.
 =13	=13
-4r	E-add(2,4,7,9)
+4r	E- other-2,4,7,9
 4ee-	.
 4r	.
-16g-	.
+16g-LL	.
 16f	.
 16en	.
-16e-	.
+16e-JJ	.
 =14	=14
 4g	.
-4e-	B-sus4
+4e-	B- suspended-fourth
 4r	.
-4f[	F
+[4f	F major
 =15	=15
 4f]	.
 4f	.
 4f	.
 4f	.
 =16	=16
-16A-	.
-8.A	.
+16A-LK	.
+8.AJ	.
 4G	.
 4F	.
 4r	.

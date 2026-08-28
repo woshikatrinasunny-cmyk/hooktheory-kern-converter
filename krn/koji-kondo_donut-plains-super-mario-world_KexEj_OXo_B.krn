@@ -16,71 +16,71 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	Cmaj7
-8cc	.
-16bb	.
-16cc	.
-8bb	.
-4r	Am
+8r	C major-seventh
+8ccL	.
+16bbL	.
+16ccJ	.
+8bbJ	.
+4r	A minor
 4aa	.
 =2	=2
-8r	Dm7
-8dd	.
-16ccc	.
-16dd	.
-8ccc	.
-4r	G
+8r	D minor-seventh
+8ddL	.
+16cccL	.
+16ddJ	.
+8cccJ	.
+4r	G major
 4bb	.
 =3	=3
-8r	Cmaj7
-8cc	.
-16bb	.
-16cc	.
-8bb	.
-4r	Am
+8r	C major-seventh
+8ccL	.
+16bbL	.
+16ccJ	.
+8bbJ	.
+4r	A minor
 4aa	.
 =4	=4
-8ccc	Dm7
-8aa	.
+8cccL	D minor-seventh
+8aaJ	.
 16r	.
 8ff	.
 16r	.
-4ee	C#add(3,4,7,10)
+4ee	C# other-3,4,7,10
 4dd	.
 =5	=5
-8r	Cmaj7
-8cc	.
-16bb	.
-16cc	.
-8bb	.
-4r	Am
+8r	C major-seventh
+8ccL	.
+16bbL	.
+16ccJ	.
+8bbJ	.
+4r	A minor
 4aa	.
 =6	=6
-8r	Dm
-8dd	.
-16ccc	.
-16dd	.
-8ccc	.
-4r	G
+8r	D minor
+8ddL	.
+16cccL	.
+16ddJ	.
+8cccJ	.
+4r	G major
 4bb	.
 =7	=7
-8r	Cmaj7
-8cc	.
-16bb	.
-16cc	.
-8bb	.
-4r	Am
+8r	C major-seventh
+8ccL	.
+16bbL	.
+16ccJ	.
+8bbJ	.
+4r	A minor
 4aa	.
 =8	=8
 16dd	.
 16r	.
-8ee	.
+8eeL	.
 8ff	.
-16gg	.
+16ggJk	.
 8.r	.
-16ggg	.
-16aaa	.
-8.ggg	.
+16gggLL	.
+16aaaJ	.
+8.gggJ	.
 16r	.
 ==	==
 *-	*-

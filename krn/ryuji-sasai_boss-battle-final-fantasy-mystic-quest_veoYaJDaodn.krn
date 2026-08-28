@@ -16,82 +16,82 @@
 *b:	*
 *M4/4	*
 =1	=1
-4b	B5
-4ff#	Bm
-16ee	A
+4b	B power
+4ff#	B minor
+16eeLL	A major
 16ff#	.
 16ee	.
 16dd	.
 16ee	.
 16dd	.
 16cc#	.
-16a	.
+16aJJ	.
 =2	=2
-8g	G
-16dd	.
+8gL	G major
+16ddk	.
 8cc#	.
-16a	.
-8b[	.
-4b]	G
+16ak	.
+[8bJ	.
+4b]	G major
 16r	.
-8.r	A
+8.r	A major
 =3	=3
-8bb	B5
-16ff#	.
-16bb[	.
-16bb]	Bm
+8bbL	B power
+16ff#L	.
+[16bb	.
+16bb]	B minor
 16ff#	.
 16fff#	.
-16eee[	.
-4eee]	A
+[16eeeJJ	.
+4eee]	A major
 4r	.
 =4	=4
-8.b	G
+8.bL	G major
 8f#	.
-16f#	.
+16f#L	.
 16b	.
-16cc#	.
-8dd	G
-16ee	.
-16dd	.
-4cc#	A
+16cc#JJ	.
+8ddL	G major
+16eeL	.
+16ddJJ	.
+4cc#	A major
 =5	=5
-4b	B5
-4ff#	Bm
-16ee	A
+4b	B power
+4ff#	B minor
+16eeLL	A major
 16ff#	.
 16ee	.
 16dd	.
 16cc#	.
 16dd	.
 16cc#	.
-16a	.
+16aJJ	.
 =6	=6
-8g	G
-16dd	.
+8gL	G major
+16ddk	.
 8cc#	.
-16a	.
-8b[	.
-4b]	G
+16ak	.
+[8bJ	.
+4b]	G major
 16r	.
-8.r	A
+8.r	A major
 =7	=7
-16ddd	B5
+16dddLL	B power
 16ccc#	.
 16aa	.
 16bb	.
-16ff#	Bm
+16ff#	B minor
 16b	.
 16dd	.
-16bb	.
-8.aa	A
+16bbJJ	.
+8.aaL	A major
 8.ee	.
-8cc#	.
+8cc#J	.
 =8	=8
-8ccc#	G/D
-16ddd	.
-6...bb[	.
-4bb_	G
-4bb]	A
+8ccc#L	G major/D
+16dddJk	.
+[6...bb	.
+4bb_	G major
+4bb]	A major
 ==	==
 *-	*-

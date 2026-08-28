@@ -16,19 +16,19 @@
 *C:	*
 *M4/4	*
 =1	=1
-8c	C
+8cL	C major
 8B	.
-16c	.
+16cJk	.
 16r	.
 4c	.
 16B	.
 16r	.
 16c	.
 16r	.
-8c[	.
+[8c	.
 =2	=2
-8c]	F
-16B	.
+8cL]	F major
+16BJk	.
 16r	.
 16c	.
 16r	.
@@ -39,23 +39,23 @@
 16r	.
 8c	.
 =3	=3
-8c	C
-16B	.
+8cL	C major
+16BJk	.
 16r	.
 16B	.
 16r	.
 16c	.
 16r	.
-8c	.
-16B	.
+8cL	.
+16BJk	.
 16r	.
 16B	.
 16r	.
 16c	.
 16r	.
 =4	=4
-8c	F
-16B	.
+8cL	F major
+16BJk	.
 16r	.
 16c	.
 16r	.
@@ -63,8 +63,8 @@
 8B	.
 4c	.
 =5	=5
-8c	C
-16B	.
+8cL	C major
+16BJk	.
 16r	.
 16c	.
 16r	.
@@ -73,10 +73,10 @@
 16r	.
 16c	.
 16r	.
-8c[	.
+[8c	.
 =6	=6
-8c]	F
-16B	.
+8cL]	F major
+16BJk	.
 16r	.
 16c	.
 16r	.
@@ -88,23 +88,23 @@
 16c	.
 16r	.
 =7	=7
-8c	C
-16B	.
+8cL	C major
+16BJk	.
 16r	.
 16B	.
 16r	.
 16c	.
 16r	.
-8c	.
-16B	.
+8cL	.
+16BJk	.
 16r	.
 16B	.
 16r	.
 16c	.
 16r	.
 =8	=8
-8c	F
-16B	.
+8cL	F major
+16BJk	.
 16r	.
 16c	.
 16r	.

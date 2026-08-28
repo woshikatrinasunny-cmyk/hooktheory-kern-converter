@@ -16,90 +16,90 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	Am
+4r	A minor
 4..gg	.
 8.r	.
 8ee	.
 =2	=2
-8gg	Am/C
+8gg	A minor/C
 4gg	.
 8gg	.
 8r	.
 4ee	.
 8ff	.
 =3	=3
-8ee	F
-8dd	.
+8eeL	F major
+8ddJ	.
 4..cc	.
 6...r	.
 =4	=4
-3...r	Dm
+3...r	D minor
 4cc	.
-8cc[	.
+[8cc	.
 =5	=5
-8cc]	Am
-8cc	.
+8ccL]	A minor
+8ccJ	.
 4gg	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8cc[	.
+[8ccJ	.
 =6	=6
-8cc]	Am/C
-8cc	.
+8ccL]	A minor/C
+8ccJ	.
 4gg	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8cc[	.
+[8ccJ	.
 =7	=7
-3...cc_	F
+3...cc_	F major
 16cc]	.
 6...r	.
 =8	=8
-1r	Dm
+1r	D minor
 =9	=9
-4r	Am
+4r	A minor
 4..gg	.
 8.r	.
 8ee	.
 =10	=10
-8gg	Am/C
+8gg	A minor/C
 4gg	.
 8gg	.
 8r	.
 4ee	.
 8ff	.
 =11	=11
-8ee	F
-8dd	.
+8eeL	F major
+8ddJ	.
 4..cc	.
 6...r	.
 =12	=12
-3...r	Dm
+3...r	D minor
 4cc	.
-8cc[	.
+[8cc	.
 =13	=13
-8cc]	Am
-8cc	.
+8ccL]	A minor
+8ccJ	.
 4gg	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8cc[	.
+[8ccJ	.
 =14	=14
-8cc]	Am/C
-8cc	.
+8ccL]	A minor/C
+8ccJ	.
 4gg	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8cc[	.
+[8ccJ	.
 =15	=15
-3...cc_	F
+3...cc_	F major
 16cc]	.
 6...r	.
 =16	=16
-1r	Dm/F
+1r	D minor/F
 ==	==
 *-	*-

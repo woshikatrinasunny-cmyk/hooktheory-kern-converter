@@ -15,48 +15,48 @@
 *D:	*
 *M4/4	*
 =1	=1
-2aa	D
-8ddd	.
-8ccc#	.
+2aa	D major
+8dddL	.
+8ccc#J	.
 4bb	.
 =2	=2
 4.ccc#	.
 4.aa	.
 4ddd	.
 =3	=3
-1ccc#	Dmaj7sus2
+1ccc#	D major-seventh-suspended-second
 =4	=4
-4r	Bm7
-8dd	.
-8ee	.
-8ff#	.
+4r	B minor-seventh
+8ddL	.
+8eeJ	.
+8ff#L	.
 8gg	.
 8aa	.
-8bb	.
+8bbJ	.
 =5	=5
-4.fff#	Gadd(4,6,7,11)
+4.fff#	G other-4,6,7,11
 3...ggg	.
 =6	=6
-1r	Gmaj7
+1r	G major-seventh
 =7	=7
-4.fff#	Cadd(2,4,7)
+4.fff#	C other-2,4,7
 3...ggg	.
 =8	=8
-1aa	Aadd(2,4,7)
+1aa	A other-2,4,7
 =9	=9
-1ddd	Dmaj7
+1ddd	D major-seventh
 =10	=10
-1r	Gmaj7sus2
+1r	G major-seventh-suspended-second
 =11	=11
-2r	Em
+2r	E minor
 4.dddd	.
-8dddd[	.
+[8dddd	.
 =12	=12
-16dddd]	E7sus4
+16ddddLK]	E dominant-seventh-suspended-fourth
 8dddd	.
-16cccc#	.
+16cccc#k	.
 8.cccc#	.
-16bbb	.
+16bbbJk	.
 4bbb	.
 4aaa	.
 ==	==

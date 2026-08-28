@@ -15,43 +15,43 @@
 *D:	*
 *M4/4	*
 =1	=1
-2..r	Gmaj7
-8r	Dmaj7
+2..r	G major-seventh
+8r	D major-seventh
 =2	=2
 1r	.
 =3	=3
-2..r	A
-8r	Bm
+2..r	A major
+8r	B minor
 =4	=4
 8r	.
-4r	Badd(2,3,7)
-3...r	Bm
+4r	B other-2,3,7
+3...r	B minor
 =5	=5
-2..r	Gmaj7
-8r	Dmaj7
+2..r	G major-seventh
+8r	D major-seventh
 =6	=6
 1r	.
 =7	=7
-2..r	A
-8r	Bm
+2..r	A major
+8r	B minor
 =8	=8
 8r	.
-4r	Badd(2,3,7)
-3...r	Bm
+4r	B other-2,3,7
+3...r	B minor
 =9	=9
-2..r	Gmaj7
-8r	Dmaj7
+2..r	G major-seventh
+8r	D major-seventh
 =10	=10
 1r	.
 =11	=11
-2..r	A
-8r	Bm
+2..r	A major
+8r	B minor
 =12	=12
 8r	.
-4r	Badd(2,3,7)
-3...r	Bm
+4r	B other-2,3,7
+3...r	B minor
 =13	=13
-1r	Gmaj7
+1r	G major-seventh
 =14	=14
 1r	.
 =15	=15
@@ -59,23 +59,23 @@
 =16	=16
 1r	.
 =17	=17
-1r	D
+1r	D major
 =18	=18
 1r	.
 =19	=19
-1r	A/C#
+1r	A major/C#
 =20	=20
 1r	.
 =21	=21
-1r	Gmaj7
+1r	G major-seventh
 =22	=22
 1r	.
 =23	=23
-1r	Aadd(2,4,7)
+1r	A other-2,4,7
 =24	=24
 1r	.
 =25	=25
-1r	B
+1r	B major
 =26	=26
 1r	.
 =27	=27
@@ -83,73 +83,73 @@
 =28	=28
 1r	.
 =29	=29
-1r	Dmaj7
+1r	D major-seventh
 =30	=30
 1r	.
 =31	=31
-1r	Eadd(2,4,7)
+1r	E other-2,4,7
 =32	=32
 1r	.
 =33	=33
-1r	B
+1r	B major
 =34	=34
 1r	.
 =35	=35
-1r	Badd(2,4,7)
+1r	B other-2,4,7
 =36	=36
 1r	.
 =37	=37
-1r	Dmaj7
+1r	D major-seventh
 =38	=38
 1r	.
 =39	=39
-1r	Eadd(2,4,7)
+1r	E other-2,4,7
 =40	=40
 2..r	.
 8r	.
 =41	=41
-1r	C
+1r	C major
 =42	=42
 1r	.
 =43	=43
-1r	G
+1r	G major
 =44	=44
 1r	.
 =45	=45
-1r	D/A
+1r	D major/A
 =46	=46
 1r	.
 =47	=47
-1r	A
+1r	A major
 =48	=48
-4r	G
+4r	G major
 4r	.
-4r	A
+4r	A major
 4r	.
 =49	=49
-2..r	G
-8r	D
+2..r	G major
+8r	D major
 =50	=50
 1r	.
 =51	=51
-2..r	G
-8r	A
+2..r	G major
+8r	A major
 =52	=52
 1r	.
 =53	=53
-1r	Bm
+1r	B minor
 =54	=54
 1r	.
 =55	=55
-1r	F#7
+1r	F# dominant
 =56	=56
 1r	.
 =57	=57
-1r	Bm7
+1r	B minor-seventh
 =58	=58
 1r	.
 =59	=59
-1r	Eadd(2,4,7)
+1r	E other-2,4,7
 =60	=60
 1r	.
 ==	==

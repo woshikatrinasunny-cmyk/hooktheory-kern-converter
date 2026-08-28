@@ -16,41 +16,41 @@
 *b:	*
 *M4/4	*
 =1	=1
-2ff#	G
+2ff#	G major
 4ee	.
 4aa	.
 =2	=2
-2ff#	D/A
-4ee	A
+2ff#	D major/A
+4ee	A major
 4bb	.
 =3	=3
-2ff#	Bm
-4..ccc#	Bm/D
+2ff#	B minor
+4..ccc#	B minor/D
 16ccc#	.
 =4	=4
-2.ddd	G#dim
-8b	.
-8cc#	.
+2.ddd	G# diminished
+8bL	.
+8cc#J	.
 =5	=5
-2dd	G
+2dd	G major
 4f#	.
-16cc#	.
-8.dd	.
+16cc#LK	.
+8.ddJ	.
 =6	=6
-4.cc#	A
+4.cc#	A major
 4.ee	.
 4ff#	.
 =7	=7
-2b[	Bm
-2b_	G#dim/B
+[2b	B minor
+2b_	G# diminished/B
 =8	=8
-2b_	Bm7
-2b]	G#dim/B
+2b_	B minor-seventh
+2b]	G# diminished/B
 =9	=9
-2bb[	Bm
-2bb_	G#dim/B
+[2bb	B minor
+2bb_	G# diminished/B
 =10	=10
-2bb_	Bm7
-4bb]	G#dim/B
+2bb_	B minor-seventh
+4bb]	G# diminished/B
 ==	==
 *-	*-

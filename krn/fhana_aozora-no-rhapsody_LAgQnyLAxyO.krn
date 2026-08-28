@@ -16,78 +16,78 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8r	B-m7
+8r	B- minor-seventh
+8b-L	.
+16b-k	.
 8b-	.
-16b-	.
-8b-	.
-16dd-[	.
-8dd-]	E-7
+[16dd-Jk	.
+8dd-L]	E- dominant
 8cc	.
 8b-	.
-8a-	.
+8a-J	.
 =2	=2
-8.cc	A-maj7
+8.ccL	A- major-seventh
 8.e-	.
-8g-[	.
-2g-]	A-7
+[8g-J	.
+2g-]	A- dominant
 =3	=3
-8r	A-m7
+8r	A- minor-seventh
+8a-L	.
+16a-k	.
 8a-	.
-16a-	.
-8a-	.
-16a-[	.
-8a-]	D-7
+[16a-Jk	.
+8a-L]	D- dominant
 8b-	.
 8bn	.
-8dd-	.
+8dd-J	.
 =4	=4
-8.b-	G-maj7
+8.b-L	G- major-seventh
 8g-	.
-16g-	.
-8d-[	.
-2d-]	G-7
+16g-k	.
+[8d-J	.
+2d-]	G- dominant
 =5	=5
-8r	G-m7
+8r	G- minor-seventh
+8anL	.
+16ank	.
 8an	.
-16an	.
-8an	.
-16an[	.
-8an]	B7
+[16anJk	.
+8anL]	B dominant
 8a-	.
 8g-	.
-8en	.
+8enJ	.
 =6	=6
-8.e-	Emaj7
-8.en	.
-4a-	D-m7
-8g-	.
+8.e-L	E major-seventh
+8.enJ	.
+4a-	D- minor-seventh
+8g-L	.
 8a-	.
-8an	.
+8anJ	.
 =7	=7
-8r	Amaj7
-16a-	.
-16g-	.
+8r	A major-seventh
+16a-LL	.
+16g-J	.
 8a-	.
-16a-	.
-16g-	.
-8a-	.
+16a-L	.
+16g-JJ	.
+8a-L	.
 8g-	.
 8a-	.
-8an	.
+8anJ	.
 =8	=8
-2bn	B
+2bn	B major
 4r	.
-8a-	.
-8bn	.
+8a-L	.
+8bnJ	.
 =9	=9
-2.dd-	D-
+2.dd-	D- major
 4r	.
 =10	=10
-8ff	E-11
-16ff	.
+8ffL	E- dominant-11th
+16ffk	.
 8ff	.
-16ff	.
-4.ee-	E-
+16ffJk	.
+4.ee-	E- major
 4r	.
 ==	==
 *-	*-

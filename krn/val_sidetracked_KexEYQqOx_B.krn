@@ -17,59 +17,59 @@
 *M4/4	*
 =1	=1
 4r	.
-8d#	D#
-8dd#	.
+8d#L	D# major
+8dd#J	.
 8ee#	.
-4gg#	F#add(2,4,7)
-8ccc#[	.
+4gg#	F# other-2,4,7
+[8ccc#	.
 =2	=2
 8ccc#]	.
-4.ff#	Bmaj9
-4ee#	G#add(2,5,7)
-8ff#	.
-8ee#	.
+4.ff#	B major-ninth
+4ee#	G# other-2,5,7
+8ff#L	.
+8ee#J	.
 =3	=3
 4r	.
-8d#	D#
-8dd#	.
+8d#L	D# major
+8dd#J	.
 8ggn	.
-4gg#	A#m7/C#
+4gg#	A# minor-seventh/C#
 8ff#	.
 =4	=4
 8ee#	.
-4.dd#[	Bmaj9
-2dd#]	G#sus4
+[4.dd#	B major-ninth
+2dd#]	G# suspended-fourth
 =5	=5
 4r	.
-8d#	D#
+8d#L	D# major
+8dd#J	.
+8ee#L	.
+8gg#	F# other-2,4,7
 8dd#	.
-8ee#	.
-8gg#	F#add(2,4,7)
-8dd#	.
-16gg#	.
-16aa#[	.
+16gg#L	.
+[16aa#JJ	.
 =6	=6
-8aa#]	.
-8bb	G#m7/B
+8aa#L]	.
+8bbJ	G# minor-seventh/B
 4aa#	.
-4ff#	G#7sus4
-4gg#	C#add(2,5,7)
+4ff#	G# dominant-seventh-suspended-fourth
+4gg#	C# other-2,5,7
 =7	=7
 4r	.
-8A#	D#
-8a#	.
+8A#L	D# major
+8a#J	.
 8ggn	.
-4gg#	A#m7/C#
+4gg#	A# minor-seventh/C#
 8ff#	.
 =8	=8
 8ee#	.
-4.dd#	Bmaj9
+4.dd#	B major-ninth
 2cc#	.
 =9	=9
-2cc#	A#m7
+2cc#	A# minor-seventh
 2a#	.
 =10	=10
-1gn[	D#
+[1gn	D# major
 =11	=11
 1gn]	.
 ==	==

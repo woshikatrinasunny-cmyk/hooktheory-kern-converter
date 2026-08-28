@@ -16,119 +16,119 @@
 *G:	*
 *M4/4	*
 =1	=1
-4a	G
-8.f#[	.
-16f#]	A
+4a	G major
+[8.f#L	.
+16f#Jk]	A major
 16r	.
-8.r	A
-8.r	Aadd(2,4,7)
+8.r	A major
+8.r	A other-2,4,7
 16d	.
 =2	=2
-16f#	G
+16f#LK	G major
 8.a	.
 8a	.
-16b	.
-8a[	A
-8a_	Aadd(2,4,7)
-16a]	A
-4r	Aadd(2,4,7)
+16bJk	.
+[8a	A major
+8aL_	A other-2,4,7
+16aJk]	A major
+4r	A other-2,4,7
 =3	=3
-4..r	G
-16f#	A
-16a[	.
-16a]	A
+4..r	G major
+16f#	A major
+[16aLL	.
+16a]	A major
 16f#	.
-16a[	.
-16a]	Aadd(2,4,7)
-16f#	.
-8a[	.
+[16a	.
+16a]	A other-2,4,7
+16f#J	.
+[8aJ	.
 =4	=4
-4a]	G
-8.f#[	.
-16f#]	A
+4a]	G major
+[8.f#L	.
+16f#Jk]	A major
 16r	.
-8r	Aadd(2,4,7)
-16r	A
-4r	Aadd(2,4,7)
+8r	A other-2,4,7
+16r	A major
+4r	A other-2,4,7
 =5	=5
-4a	G
-8.f#[	.
-16f#]	A
+4a	G major
+[8.f#L	.
+16f#Jk]	A major
 16r	.
-8r	Aadd(2,4,7)
-16r	A
-4r	Aadd(2,4,7)
+8r	A other-2,4,7
+16r	A major
+4r	A other-2,4,7
 =6	=6
-8a	G
-16a	.
+8aL	G major
+16ak	.
 8.a	.
-16f#[	.
-8f#_	A
-8f#]	Aadd(2,4,7)
-16e	A
-4d	Aadd(2,4,7)
+[16f#Jk	.
+8f#_	A major
+8f#L]	A other-2,4,7
+16eJk	A major
+4d	A other-2,4,7
 =7	=7
-4..r	G
-16f#	A
-16a	.
-8a	Aadd(2,4,7)
-16a[	A
-8a]	Aadd(2,4,7)
-8f#	.
+4..r	G major
+16f#	A major
+16aLK	.
+8a	A other-2,4,7
+[16ak	A major
+8a]	A other-2,4,7
+8f#J	.
 =8	=8
-8g	G
-6...f#[	.
-16f#]	A
-16d[	.
-8d_	Aadd(2,4,7)
-16d]	A
-4r	Aadd(2,4,7)
+8g	G major
+[6...f#	.
+16f#]	A major
+[16dLK	.
+8d_	A other-2,4,7
+16dJk]	A major
+4r	A other-2,4,7
 =9	=9
-4e	G
+4e	G major
 8d	.
 16r	.
-16d	A
-16f#	.
-16g	Aadd(2,4,7)
+16d	A major
+16f#LL	.
+16gJJ	A other-2,4,7
 16r	.
-16f#	A
-16r	Aadd(2,4,7)
-16e	.
-16d	.
+16f#	A major
+16r	A other-2,4,7
+16eLL	.
+16dJJ	.
 16r	.
 =10	=10
-8r	G
-8e	.
-8e	.
+8r	G major
+8eL	.
+8eJ	.
 16r	.
-16d	A
-16f#	.
-16f#	Aadd(2,4,7)
+16d	A major
+16f#LL	.
+16f#JJ	A other-2,4,7
 16r	.
-16f#	A
-16r	Aadd(2,4,7)
-16d	.
-16d	.
+16f#	A major
+16r	A other-2,4,7
+16dLL	.
+16dJJ	.
 16r	.
 =11	=11
-8r	G
+8r	G major
 8fn	.
 8.r	.
-16r	A
-16f#[	.
-16f#]	Aadd(2,4,7)
+16r	A major
+[16f#LL	.
+16f#]	A other-2,4,7
 16g	.
-16d	A
-16r	Aadd(2,4,7)
-16d	.
-8a[	.
+16dJJ	A major
+16r	A other-2,4,7
+16dLK	.
+[8aJ	.
 =12	=12
-4a]	G
-8.f#[	.
-16f#]	A
+4a]	G major
+[8.f#L	.
+16f#Jk]	A major
 16r	.
-8r	Aadd(2,4,7)
-16r	A
-4r	Aadd(2,4,7)
+8r	A other-2,4,7
+16r	A major
+4r	A other-2,4,7
 ==	==
 *-	*-

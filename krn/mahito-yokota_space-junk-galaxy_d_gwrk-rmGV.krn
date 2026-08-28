@@ -16,33 +16,33 @@
 *D-:	*
 *M6/4	*
 =1	=1
-4r	D-add(2,4,7)
+4r	D- other-2,4,7
 4a-	.
 4aa-	.
 4.gg	.
 8ff	.
-8ee-	.
-8dd-	.
+8ee-L	.
+8dd-J	.
 =2	=2
-2.ee-	E-add(2,4,7)
+2.ee-	E- other-2,4,7
 2.b-	.
 =3	=3
-4r	D-add(2,4,7)
+4r	D- other-2,4,7
 4a-	.
 4aa-	.
 4.gg	.
 8ff	.
-8ee-	.
-8dd-	.
+8ee-L	.
+8dd-J	.
 =4	=4
-4ee-	E-add(2,4,7)
+4ee-	E- other-2,4,7
 4f	.
 4g	.
 4b-	.
 4ee-	.
 4ff	.
 =5	=5
-4gg	E-maj9
+4gg	E- major-ninth
 4bb-	.
 4gg	.
 4ddn	.

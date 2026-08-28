@@ -16,82 +16,82 @@
 *D:	*
 *M4/4	*
 =1	=1
-8b	D
-16a	.
+8bL	D major
+16ak	.
 8b	.
-16f#	.
-8a	.
+16f#k	.
+8aJ	.
 4cc#	.
-8f#	.
-8a	.
+8f#L	.
+8aJ	.
 =2	=2
+8ddL	.
+16cc#k	.
 8dd	.
-16cc#	.
-8dd	.
-16f#	.
-8a	.
+16f#k	.
+8aJ	.
 4ee	.
-8dd	B/D#
-8ee	.
+8ddL	B major/D#
+8eeJ	.
 =3	=3
-8ff#	Em
+8ff#L	E minor
 8ff#	.
-16dd	.
-16b	.
+16ddL	.
+16bJJ	.
 16r	.
-2ff#[	.
+[2ff#	.
 16ff#]	.
 =4	=4
 16r	.
-16a	.
+16aLL	.
 16a#	.
 16b	.
 16a	.
 16f#	.
 16d	.
+16eJJ	.
+16f#LL	.
 16e	.
-16f#	.
-16e	.
-16d	.
-8B	.
+16dJ	.
+8BJ	.
 16r	.
-16g	.
-16b	.
+16gLL	.
+16bJJ	.
 =5	=5
-8ee	Em
-16dd	.
+8eeL	E minor
+16ddk	.
 8ee	.
-16g	.
+16gL	.
 16b	.
-16dd	.
-4ee	F#/A#
+16ddJJ	.
+4ee	F# major/A#
 4ff#	.
 =6	=6
-8.dd	D/A
+8.ddL	D major/A
 8dd	.
-16f#	.
+16f#L	.
 16a	.
-16b	.
-4cc#	E7
-4b	E7/G#
+16bJJ	.
+4cc#	E dominant
+4b	E dominant/G#
 =7	=7
-8.aa	D/A
+8.aaL	D major/A
 8aa	.
-16ff#	.
-8gg	.
-8aa	Adim
-16aa	.
+16ff#k	.
+8ggJ	.
+8aaL	A diminished
+16aak	.
 8aa	.
-16gg	.
-8ff#	.
+16ggk	.
+8ff#J	.
 =8	=8
-8gg	A11
+8ggL	A dominant-11th
 8gg	.
 8b	.
-8dd	.
-8.ff#	Aadd(4,7,9,10)
+8ddJ	.
+8.ff#L	A other-4,7,9,10
 8.ee	.
-16f#	.
-16a	.
+16f#L	.
+16aJJ	.
 ==	==
 *-	*-

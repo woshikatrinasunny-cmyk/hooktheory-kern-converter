@@ -16,60 +16,60 @@
 *A:	*
 *M4/4	*
 =1	=1
-8a	F
+8aL	F major
 8a	.
-8a	.
+8aJ	.
 4a	.
 8a	.
 4a	.
 =2	=2
-8a	A/E
+8aL	A major/E
 8a	.
-8a	.
+8aJ	.
 4a	.
 4r	.
-16f#	.
-16g#	.
+16f#LL	.
+16g#JJ	.
 =3	=3
-8a	E7sus4
+8aL	E dominant-seventh-suspended-fourth
 8a	.
-8a	.
+8aJ	.
 4a	.
 8a	.
 4b	.
 =4	=4
-8cc#	A
+8cc#L	A major
 8cc#	.
-8cc#	.
+8cc#J	.
 4cc#	.
 8r	.
-4r	Aadd(2,5,7)
+4r	A other-2,5,7
 =5	=5
-8cc#	A
+8cc#L	A major
 8cc#	.
 8cc#	.
-8cc#[	.
-8cc#]	B7/A
-8cc#	.
+[8cc#J	.
+8cc#L]	B dominant/A
+8cc#J	.
 4dd#	.
 =6	=6
-8ee	E/G#
+8eeL	E major/G#
 8ee	.
 8ee	.
-8ee[	.
-8ee]	Edim/G
+[8eeJ	.
+8ee]	E diminished/G
 8r	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 =7	=7
-4.gg#	F#add(2,3,7)
+4.gg#	F# other-2,3,7
 8aa	.
-4.ff#	B7
+4.ff#	B dominant
 8gg#	.
 =8	=8
-4.ee[	Esus4
-4ee]	E
-8r	D#
-4r	D
+[4.ee	E suspended-fourth
+4ee]	E major
+8r	D# major
+4r	D major
 ==	==
 *-	*-

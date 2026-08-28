@@ -16,85 +16,85 @@
 *C:	*
 *M6/4	*
 =1	=1
-2f	Cm11
+2f	C minor-11th
 4f	.
 2.r	.
 =2	=2
-1.r	C
+1.r	C major
 =3	=3
-2r	Cm11
+2r	C minor-11th
 4f	.
 2e	.
 4c	.
 =4	=4
-4f	C
+4f	C major
 4e	.
-1c[	.
+[1c	.
 =5	=5
-1.c_	Cm11
+1.c_	C minor-11th
 =6	=6
-2c]	C
+2c]	C major
 1r	.
 =7	=7
-2r	Cm11
+2r	C minor-11th
 4c	.
 2f	.
 4a	.
 =8	=8
-2g	C
+2g	C major
 4a#	.
 2a	.
 4c#	.
 =9	=9
-1.c#[	D#11
+[1.c#	D# dominant-11th
 =10	=10
-2.c#]	D#
+2.c#]	D# major
 2.r	.
 =11	=11
-1.r	D#11
+1.r	D# dominant-11th
 =12	=12
-2r	D#
+2r	D# major
 4cc	.
 2g#	.
-4dd#[	.
+[4dd#	.
 =13	=13
-1.dd#_	D#11
+1.dd#_	D# dominant-11th
 =14	=14
-2.dd#]	D#
+2.dd#]	D# major
 2.r	.
 =15	=15
-2.r	D#11
+2.r	D# dominant-11th
 4d#	.
 4f	.
 4g	.
 =16	=16
-4g#	D#
+4g#	D# major
 4a#	.
 4cc	.
 4cc#	.
 4dd#	.
 4ff	.
 =17	=17
-1.gg[	G11
+[1.gg	G dominant-11th
 =18	=18
-2.gg]	G
+2.gg]	G major
 2.r	.
 =19	=19
-2r	G11
+2r	G dominant-11th
 4ccc	.
 2bb	.
 4gg	.
 =20	=20
-4ccc	G
+4ccc	G major
 4bb	.
-1gg[	.
+[1gg	.
 =21	=21
-1.gg]	G11
+1.gg]	G dominant-11th
 =22	=22
-1.r	G
+1.r	G major
 =23	=23
-1.r	G11
+1.r	G dominant-11th
 =24	=24
-1.r	G
+1.r	G major
 ==	==
 *-	*-

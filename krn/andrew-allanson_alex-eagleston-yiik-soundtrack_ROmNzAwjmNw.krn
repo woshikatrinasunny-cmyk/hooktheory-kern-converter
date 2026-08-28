@@ -16,13 +16,13 @@
 *F:	*
 *M4/4	*
 =1	=1
-8.f	Dm9
-16d	.
-8.e	.
+8.fL	D minor-ninth
+16dk	.
+8.eJ	.
 4f	.
-16d	.
+16dLK	.
 8.e	.
-16f[	.
+[16fJk	.
 =2	=2
 8.f]	.
 4g	.
@@ -30,13 +30,13 @@
 4e	.
 4d	.
 =3	=3
-8.f	Gm7
-16d	.
-8.e	.
+8.fL	G minor-seventh
+16dk	.
+8.eJ	.
 4f	.
-16d	.
+16dLK	.
 8.e	.
-16f[	.
+[16fJk	.
 =4	=4
 8.f]	.
 4a	.
@@ -44,31 +44,31 @@
 4f	.
 4e	.
 =5	=5
-8.f	B-maj7
-16d	.
-8.e	.
+8.fL	B- major-seventh
+16dk	.
+8.eJ	.
 4f	.
-16d	.
+16dLK	.
 8.e	.
-16f[	.
+[16fJk	.
 =6	=6
-8.f]	Fmaj7/A
+8.f]	F major-seventh/A
 4a	.
 16g	.
 4f	.
 4e	.
 =7	=7
-8.e	Dm7/F
-16d	.
-8.e	.
+8.eL	D minor-seventh/F
+16dk	.
+8.eJ	.
 4f	.
 4e	.
 16d	.
 =8	=8
-8.c	Am
-16A	.
+8.cL	A minor
+16Ak	.
 8.c	.
-16d[	.
-2d]	Dm7
+[16dJk	.
+2d]	D minor-seventh
 ==	==
 *-	*-

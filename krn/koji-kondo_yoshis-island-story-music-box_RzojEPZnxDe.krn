@@ -16,55 +16,55 @@
 *C:	*
 *M4/4	*
 =1	=1
-4aa	F
-8gg	.
-8ff	.
-4gg	C/E
+4aa	F major
+8ggL	.
+8ffJ	.
+4gg	C major/E
 4cc	.
 =2	=2
-4ff	Dm
-8ee	.
-8dd	.
-4ee	C
+4ff	D minor
+8eeL	.
+8ddJ	.
+4ee	C major
 4gg	.
 =3	=3
-4aa	F
-8gg	.
-8ff	.
-4gg	C/E
+4aa	F major
+8ggL	.
+8ffJ	.
+4gg	C major/E
 4ccc	.
 =4	=4
-4ccc	Dadd(2,4,7)
-8bb	.
-8aa	.
-2bb	E7
+4ccc	D other-2,4,7
+8bbL	.
+8aaJ	.
+2bb	E dominant
 =5	=5
-4ccc	Am
-8bb	.
-8ccc	.
-4bb	G#dim
+4ccc	A minor
+8bbL	.
+8cccJ	.
+4bb	G# diminished
 4ccc	.
 =6	=6
-4ddd	C/G
-8ccc	.
-8bb	.
-4ccc	F#m7b5
+4ddd	C major/G
+8cccL	.
+8bbJ	.
+4ccc	F# half-diminished
 4eee	.
 =7	=7
-4eee	Fmaj7
-8ddd	.
-8ccc	.
-4bb	D7
-8ccc	.
-8ddd	.
+4eee	F major-seventh
+8dddL	.
+8cccJ	.
+4bb	D dominant
+8cccL	.
+8dddJ	.
 =8	=8
-8ddd	G
+8dddL	G major
 8ccc	.
 8bb	.
-8aa	.
-8gg	F/A
+8aaJ	.
+8ggL	F major/A
 8ff	.
-8ee	G/B
-8dd	.
+8ee	G major/B
+8ddJ	.
 ==	==
 *-	*-

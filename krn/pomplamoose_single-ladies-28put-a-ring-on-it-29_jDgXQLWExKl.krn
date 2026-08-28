@@ -16,52 +16,52 @@
 *a:	*
 *M4/4	*
 =1	=1
-4..g	Dadd(3,5,7)
-16g[	.
-16g]	Dadd(2,3,7,9)
+4..g	D other-3,5,7
+[16g	.
+16gLK]	D other-2,3,7,9
 8.f	.
-8e	Dadd(3,5,7,10)
-8d	.
+8e	D other-3,5,7,10
+8dJ	.
 =2	=2
-4d	Fadd(4,6,7)
-8B	.
-16c	.
-16d[	.
-8d]	Fadd(2,4,6,7)
+4d	F other-4,6,7
+8BL	.
+16cL	.
+[16dJJ	.
+8d]	F other-2,4,6,7
 4r	.
-16e	.
-16e[	.
+16eLL	.
+[16eJJ	.
 =3	=3
-16e]	Aadd(2,3,7)
+16eLK]	A other-2,3,7
 8d	.
 8c	.
-8B	.
+8BJ	.
 8.d	.
 8r	.
-8f	.
-16d	.
-16e	.
+8fL	.
+16dL	.
+16eJJ	.
 =4	=4
-8.e	Fmaj7
-16d	.
+8.eL	F major-seventh
+16dk	.
 8f	.
-16d	.
+16dJk	.
 8.e	.
 8r	.
-8f	.
-16d	.
-16e[	.
+8fL	.
+16dL	.
+[16eJJ	.
 =5	=5
 *M3/4	*
-16e]	E7
+16eLL]	E dominant
 16e	.
 16e	.
-16e	.
-16d	.
-8d	.
+16eJJ	.
+16dLK	.
+8dJ	.
 8B	.
 16r	.
-16e	.
-16e	.
+16eLL	.
+16eJJ	.
 ==	==
 *-	*-

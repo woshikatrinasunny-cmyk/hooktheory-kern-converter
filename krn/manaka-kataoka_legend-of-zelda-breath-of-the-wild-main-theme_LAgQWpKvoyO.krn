@@ -16,34 +16,34 @@
 *B:	*
 *M3/4	*
 =1	=1
-8ddd#	E
-8ff#	.
+8ddd#L	E major
+8ff#J	.
 2gg#	.
 =2	=2
-8ddd#	F#
-8aa#	.
+8ddd#L	F# major
+8aa#J	.
 4bb	.
 4ccc#	.
 =3	=3
-8ddd#	D#m7
-8gg#	.
+8ddd#L	D# minor-seventh
+8gg#J	.
 4.ggg#	.
 8fff#	.
 =4	=4
-2ddd#	G#sus2
-8gg#	.
-8fffn	.
+2ddd#	G# suspended-second
+8gg#L	.
+8fffnJ	.
 =5	=5
-2ddd#	Emaj9
-8G#	.
-8fn	.
+2ddd#	E major-ninth
+8G#L	.
+8fnJ	.
 =6	=6
-2d#	F#
-8g#	.
-8ffn[	.
+2d#	F# major
+8g#L	.
+[8ffnJ	.
 =7	=7
-8ffn]	C#add(2,4,7)
-3...dd#[	.
+8ffn]	C# other-2,4,7
+[3...dd#	.
 =8	=8
 2.dd#]	.
 ==	==

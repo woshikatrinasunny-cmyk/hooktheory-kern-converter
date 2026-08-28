@@ -15,140 +15,140 @@
 *c:	*
 *M4/4	*
 =1	=1
-16dd	Csus2
+16ddLL	C suspended-second
 16dd	.
 16dd	.
 16dd	.
 16dd	.
 16dd	.
-16cc	C5
+16cc	C power
+16ccJJ	.
+16ccLL	.
 16cc	.
 16cc	.
 16cc	.
 16cc	.
 16cc	.
 16cc	.
-16cc	.
-16cc	.
-16cc	.
+16ccJJ	.
 =2	=2
-16b-	A-sus2
+16b-LL	A- suspended-second
 16b-	.
 16b-	.
 16b-	.
 16b-	.
 16b-	.
-16a-	A-5
+16a-	A- power
+16a-JJ	.
+16a-LL	.
 16a-	.
 16a-	.
 16a-	.
 16a-	.
 16a-	.
 16a-	.
-16a-	.
-16a-	.
-16a-	.
+16a-JJ	.
 =3	=3
-16g-	Esus2
+16g-LL	E suspended-second
 16g-	.
 16g-	.
 16g-	.
 16g-	.
 16g-	.
-16en	E5
+16en	E power
+16enJJ	.
+16enLL	.
 16en	.
 16en	.
 16en	.
 16en	.
 16en	.
 16en	.
-16en	.
-16en	.
-16en	.
+16enJJ	.
 =4	=4
-16an	Gsus2
+16anLL	G suspended-second
 16an	.
 16an	.
 16an	.
 16an	.
 16an	.
-16g	G5
+16g	G power
+16gJJ	.
+16gLL	.
 16g	.
 16g	.
 16g	.
 16g	.
 16g	.
 16g	.
-16g	.
-16g	.
-16g	.
+16gJJ	.
 =5	=5
-16dd	Csus2
+16ddLL	C suspended-second
 16dd	.
 16dd	.
 16dd	.
 16dd	.
 16dd	.
-16cc	C5
+16cc	C power
+16ccJJ	.
+16ccLL	.
 16cc	.
 16cc	.
 16cc	.
 16cc	.
 16cc	.
 16cc	.
-16cc	.
-16cc	.
-16cc	.
+16ccJJ	.
 =6	=6
-16b-	A-sus2
+16b-LL	A- suspended-second
 16b-	.
 16b-	.
 16b-	.
 16b-	.
 16b-	.
-16a-	A-5
+16a-	A- power
+16a-JJ	.
+16a-LL	.
 16a-	.
 16a-	.
 16a-	.
 16a-	.
 16a-	.
 16a-	.
-16a-	.
-16a-	.
-16a-	.
+16a-JJ	.
 =7	=7
-16an	Gsus2
+16anLL	G suspended-second
 16an	.
 16an	.
 16an	.
 16an	.
 16an	.
-16g	G5
+16g	G power
+16gJJ	.
+16gLL	.
 16g	.
 16g	.
 16g	.
 16g	.
 16g	.
 16g	.
-16g	.
-16g	.
-16g	.
+16gJJ	.
 =8	=8
-16f	E-sus2
+16fLL	E- suspended-second
 16f	.
 16f	.
 16f	.
 16f	.
 16f	.
-16e-	E-5
+16e-	E- power
+16e-JJ	.
+16e-LL	.
 16e-	.
 16e-	.
 16e-	.
-16e-	.
-16e-	.
-16d	E-add(7,11)
+16d	E- other-7,11
 16d	.
 16d	.
-16d	.
+16dJJ	.
 ==	==
 *-	*-

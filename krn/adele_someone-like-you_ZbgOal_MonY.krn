@@ -16,60 +16,60 @@
 *A:	*
 *M4/4	*
 =1	=1
-16B	Eadd(2,4,7)
+16BLL	E other-2,4,7
 16c#	.
-16c#	.
+16c#J	.
 8c#	.
+16BL	.
 16B	.
+16AJJ	.
+8BL	F# minor-seventh
+16BL	.
+16A	.
 16B	.
 16A	.
-8B	F#m7
-16B	.
 16A	.
-16B	.
-16A	.
-16A	.
-16A[	.
+[16AJJ	.
 =2	=2
-8A]	D
-16B	.
+8AL]	D major
+16BL	.
 16A	.
 16B	.
-16A	.
+16AJJ	.
 8.B	.
-16A	.
+16ALL	.
 16B	.
 16A	.
 16B	.
 16A	.
 16A	.
-16A	.
+16AJJ	.
 =3	=3
-16B	Eadd(2,4,7)
+16BLL	E other-2,4,7
 16c#	.
 16c#	.
-16c#	.
+16c#J	.
 8.c#	.
-16B	.
-16B	F#m7
+16BJk	.
+16BLL	F# minor-seventh
 16A	.
 16B	.
 16A	.
 16B	.
 16A	.
 16B	.
-16c#	.
+16c#JJ	.
 =4	=4
-4F#	D
+4F#	D major
 16r	.
-16A	.
+16ALL	.
 16B	.
-16A	.
-4B	Dadd(2,6,7)
-16B	.
-8.c#[	.
+16AJJ	.
+4B	D other-2,6,7
+16BLK	.
+[8.c#J	.
 =5	=5
-4c#]	D
+4c#]	D major
 4r	.
 2r	.
 ==	==

@@ -16,107 +16,107 @@
 *D:	*
 *M6/4	*
 =1	=1
-8f#	D
-8d	.
-8d	.
-8d	.
-8d	.
-8d	.
-4d[	.
+8f#L	D major
+8dJ	.
+8dL	.
+8dJ	.
+8dL	.
+8dJ	.
+[4d	.
 4.d]	.
 8a	.
 =2	=2
-8b	G
-8g	.
-8g	.
-8g	.
-8g	.
-8g	.
-4g[	.
+8bL	G major
+8gJ	.
+8gL	.
+8gJ	.
+8gL	.
+8gJ	.
+[4g	.
 8g]	.
 4dd	.
 8b	.
 =3	=3
-8a	D
-8f#	.
-8f#	.
-8f#	.
-8f#	.
-8f#	.
-4f#[	.
+8aL	D major
+8f#J	.
+8f#L	.
+8f#J	.
+8f#L	.
+8f#J	.
+[4f#	.
 4.f#]	.
 8a	.
 =4	=4
-8g	A7/E
-8a	.
-8g	.
-8f#	D
-8g	.
-8f#	.
-4e[	A
+8gL	A dominant/E
+8aJ	.
+8gL	.
+8f#J	D major
+8gL	.
+8f#J	.
+[4e	A major
 4.e]	.
 8a	.
 =5	=5
-8a	D
-8f#	.
-8a	.
-8a	.
-8b	.
-8a	.
-4a[	.
+8aL	D major
+8f#J	.
+8aL	.
+8aJ	.
+8bL	.
+8aJ	.
+[4a	.
 4.a]	.
 8a	.
 =6	=6
-8b	G
-8g	.
-8a	.
-8b	E/G#
+8bL	G major
+8gJ	.
+8aL	.
+8bJ	E major/G#
 4ee	.
 4dd	.
-4cc#[	A
+[4cc#	A major
 4cc#]	.
 =7	=7
 2r	.
-8b	.
-8cc#	.
-8dd	D
-8ff#	.
-8ee	.
-8ee	Em
-8dd	.
-8cc#	.
+8bL	.
+8cc#J	.
+8ddL	D major
+8ff#J	.
+8eeL	.
+8eeJ	E minor
+8ddL	.
+8cc#J	.
 =8	=8
-4.dd[	D/F#
-8dd]	G
-8cc#	.
-8b	.
-4a	D/A
-8f#	.
-8g	A#dim
-8f#	.
-8e	.
+[4.dd	D major/F#
+8dd]	G major
+8cc#L	.
+8bJ	.
+4a	D major/A
+8f#L	.
+8gJ	A# diminished
+8f#L	.
+8eJ	.
 =9	=9
-4f#	Bm
+4f#	B minor
 8r	.
-4dd	G
+4dd	G major
 8b	.
-4a	D
+4a	D major
 8r	.
-4dd	G
+4dd	G major
 8b	.
 =10	=10
-4a	D
+4a	D major
 4r	.
-4dd[	G
+[4dd	G major
 3...dd]	.
 8b	.
 =11	=11
-4a	D/A
-8f#	.
-8g	A7
-8f#	.
-8e	.
-4d[	D
+4a	D major/A
+8f#L	.
+8gJ	A dominant
+8f#L	.
+8eJ	.
+[4d	D major
 2d]	.
 ==	==
 *-	*-

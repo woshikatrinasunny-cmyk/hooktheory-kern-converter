@@ -16,71 +16,71 @@
 *A-:	*
 *M4/4	*
 =1	=1
-1r	D-add(2,4,7)/F
+1r	D- other-2,4,7/F
 =2	=2
 1r	.
 =3	=3
-4.ddd-	D-add(2,4,7)/F
-16ccc	.
-16ddd-	.
+4.ddd-	D- other-2,4,7/F
+16cccLL	.
+16ddd-JJ	.
 4aaa-	.
 4r	.
 =4	=4
 1r	.
 =5	=5
-4.ddd-	D-add(2,4,7)/F
-16ccc	.
-16ddd-	.
+4.ddd-	D- other-2,4,7/F
+16cccLL	.
+16ddd-JJ	.
 4aaa-	.
 4r	.
 =6	=6
 1r	.
 =7	=7
-1ff	Gm7b5
+1ff	G half-diminished
 =8	=8
 *M5/4	*
-1ff[	Gm7b5
+[1ff	G half-diminished
 4ff]	.
 =9	=9
 *M6/4	*
-1.b-	E-add(2,4,7)
+1.b-	E- other-2,4,7
 =10	=10
 *M4/4	*
-4r	D-add(2,4,7)/F
-8ee-	.
-8aa-	.
-8ddd-	.
+4r	D- other-2,4,7/F
+8ee-L	.
+8aa-J	.
+8ddd-L	.
 8ccc	.
 8ddd-	.
-8aaa-[	.
+[8aaa-J	.
 =11	=11
 2aaa-]	.
 4dd-	.
 4aa-	.
 =12	=12
-8ddd-	D-add(2,4,7)/F
+8ddd-L	D- other-2,4,7/F
 8ccc	.
-8ddd-	.
+8ddd-J	.
 3...aaa-	.
 =13	=13
 *M2/4	*
 2r	.
 =14	=14
 *M4/4	*
-4ggg	Gm7b5
-16bbb-	.
-16fff	.
+4ggg	G half-diminished
+16bbb-LL	.
+16fffJJ	.
 4ggg	.
-4.eee-[	.
+[4.eee-	.
 =15	=15
-8eee-]	Gm7b5
+8eee-L]	G half-diminished
 8.eee-	.
-8ddd-	.
+8ddd-J	.
 8.ccc	.
 4aa-	.
-8gg[	.
+[8gg	.
 =16	=16
-4gg]	Gm7b5
+4gg]	G half-diminished
 8bb-	.
 3...ff	.
 =17	=17
@@ -91,85 +91,85 @@
 4r	.
 =18	=18
 *M2/4	*
-2r	A-/E-
+2r	A- major/E-
 =19	=19
 *M4/4	*
 4a-	.
-8.a-	A-7/E-
+8.a-	A- dominant/E-
 8.b-	.
-16e-	.
-16g-	.
-4a-	A-m7/E-
+16e-LL	.
+16g-JJ	.
+4a-	A- minor-seventh/E-
 =20	=20
 1r	.
 =21	=21
 *k[f#c#g#d#a#]	*
 *B:	*
 *M4/4	*
-2r	Emaj9
+2r	E major-ninth
 4b	.
 4dd#	.
 =22	=22
-2r	Emaj9
+2r	E major-ninth
 4b	.
 4dd#	.
 =23	=23
-2r	C#m11
+2r	C# minor-11th
 4b	.
 4dd#	.
 =24	=24
 1r	.
 =25	=25
-1a#	Bmaj7
+1a#	B major-seventh
 =26	=26
-1g#	G#m7/B
+1g#	G# minor-seventh/B
 =27	=27
 *k[b-e-a-d-]	*
 *A-:	*
-1r	D-add(2,4,7)/F
+1r	D- other-2,4,7/F
 =28	=28
-1r	D-add(2,4,7)/F
+1r	D- other-2,4,7/F
 =29	=29
 *M5/4	*
-1r	D-add(2,4,7)/F
+1r	D- other-2,4,7/F
 4r	.
 =30	=30
 *M4/4	*
-1r	Gm7b5
+1r	G half-diminished
 =31	=31
 1r	.
 =32	=32
-1r	A-add(2,4,7)/E-
+1r	A- other-2,4,7/E-
 =33	=33
-1r	A-m7/E-
+1r	A- minor-seventh/E-
 =34	=34
 *k[f#c#g#d#a#]	*
 *B:	*
-2r	Emaj9
+2r	E major-ninth
 4b	.
 4dd#	.
 =35	=35
-2r	Emaj9
+2r	E major-ninth
 4b	.
 4dd#	.
 =36	=36
 *M5/4	*
-2r	C#m11
+2r	C# minor-11th
 4b	.
 4dd#	.
 4r	.
 =37	=37
 *M5/4	*
-2r	E
-4r	C#m/E
-2r	Eadd(4,6)
+2r	E major
+4r	C# minor/E
+2r	E other-4,6
 =38	=38
 *M3/4	*
-4r	E
-2r	Emaj7
+4r	E major
+2r	E major-seventh
 =39	=39
 *M4/4	*
-1r	Eadd(4,6)
+1r	E other-4,6
 =40	=40
 1r	.
 ==	==

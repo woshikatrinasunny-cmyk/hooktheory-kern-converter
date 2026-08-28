@@ -16,87 +16,87 @@
 *d:	*
 *M6/8	*
 =1	=1
-8dd	Dm
+8ddL	D minor
 8ee	.
-8ff	.
-8ee	D-dim/E
+8ffJ	.
+8eeL	D- diminished/E
 8dd	.
-8dd-	.
+8dd-J	.
 =2	=2
-8dd	Dm/F
+8ddL	D minor/F
 8ee	.
-8ff	.
-8ff	.
+8ffJ	.
+8ffL	.
 8gg	.
-8aa	.
+8aaJ	.
 =3	=3
-8b-	Gm
+8b-L	G minor
 8gg	.
-8b-	.
-8b-	C7
+8b-J	.
+8b-L	C dominant
 8gg	.
-8b-	.
+8b-J	.
 =4	=4
-8a	F
+8aL	F major
 8b-	.
-8cc	.
-8dd	B-
+8ccJ	.
+8ddL	B- major
 8ee	.
-8ff	.
+8ffJ	.
 =5	=5
-8g	Edim
+8gL	E diminished
 8ee	.
-8g	.
-8g	A7
+8gJ	.
+8gL	A dominant
 8ee	.
-8g	.
+8gJ	.
 =6	=6
-8f	Dm
+8fL	D minor
 8e	.
-8d	.
-8dd	.
+8dJ	.
+8ddL	.
 8ee	.
-8ff	.
+8ffJ	.
 =7	=7
-8ee	E/A-
+8eeL	E major/A-
 8G-	.
-8E	.
-8ff	A
+8EJ	.
+8ffL	A major
 8ee	.
-8dd	.
+8ddJ	.
 =8	=8
-8ee	E/A-
+8eeL	E major/A-
 8G-	.
-8E	.
-8ff	A
+8EJ	.
+8ffL	A major
 8ee	.
-8dd	Bdim
+8ddJ	B diminished
 =9	=9
-4aa	Am/C
-8a	F
-8bn	Bdim/D
+4aa	A minor/C
+8a	F major
+8bnL	B diminished/D
 8a	.
-8a-	E
+8a-J	E major
 =10	=10
-8a	A
+8aL	A major
 8aa	.
+8eeJ	.
+8dd-L	.
 8ee	.
-8dd-	.
-8ee	.
-8dd-	.
+8dd-J	.
 =11	=11
-8a	.
+8aL	.
 8e	.
-8d-	.
-8A	.
+8d-J	.
+8AL	.
 8E	.
-8D-	.
+8D-J	.
 =12	=12
-8A	.
+8AL	.
 8d-	.
-8e	.
-8g	.
+8eJ	.
+8gL	.
 8f	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

@@ -16,140 +16,140 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8cc#	C#
+8cc#L	C# major
 8dd#	.
 8ee#	.
-8ff#	.
-8gg#	.
+8ff#J	.
+8gg#L	.
 8ggn	.
 8gg#	.
-8ee#	.
+8ee#J	.
 =2	=2
-8ff#	F#
+8ff#L	F# major
 8gg#	.
 8aa#	.
-8bb	.
-8ccc#	.
+8bbJ	.
+8ccc#L	.
 8cccn	.
 8ccc#	.
-8aa#	.
+8aa#J	.
 =3	=3
-16cc#	C#
+16cc#LL	C# major
 16ccc#	.
 16dd#	.
 16ddd#	.
 16ee#	.
 16eee#	.
 16ff#	.
-16fff#	.
-16gg#	.
+16fff#JJ	.
+16gg#LL	.
 16ggg#	.
 16ggn	.
 16gggn	.
 16gg#	.
 16ggg#	.
 16ee#	.
-16eee#	.
+16eee#JJ	.
 =4	=4
-16ff#	F#
+16ff#LL	F# major
 16fff#	.
 16gg#	.
 16ggg#	.
 16aa#	.
 16aaa#	.
 16bb	.
-16bbb	.
-16ccc#	.
+16bbbJJ	.
+16ccc#LL	.
 16cccc#	.
 16cccn	.
 16ccccn	.
 16ccc#	.
 16cccc#	.
 16aa#	.
-16aaa#	.
+16aaa#JJ	.
 =5	=5
-16bb	B
+16bbLL	B major
 16bbb	.
 16ddd#	.
 16dddd#	.
-16gg#	G#m
+16gg#	G# minor
 16ggg#	.
 16bb	.
-16bbb	.
-16ee#	E#dim
+16bbbJJ	.
+16ee#LL	E# diminished
 16eee#	.
 16gg#	.
 16ggg#	.
-16cc#	C#
+16cc#	C# major
 16ccc#	.
 16ee#	.
-16eee#	.
+16eee#JJ	.
 =6	=6
-16a#	A#m
+16a#LL	A# minor
 16aa#	.
 16cc#	.
 16ccc#	.
-16f#	F#
+16f#	F# major
 16ff#	.
 16a#	.
-16aa#	.
-16d#	D#m
+16aa#JJ	.
+16d#LL	D# minor
 16dd#	.
 16f#	.
 16ff#	.
-16B	B
+16B	B major
 16b	.
 16d#	.
-16dd#	.
+16dd#JJ	.
 =7	=7
-16G#	G#m
+16G#LL	G# minor
 16g#	.
 16B	.
 16b	.
-16E#	E#dim
+16E#	E# diminished
 16e#	.
 16G#	.
-16g#	.
-16C#	C#
+16g#JJ	.
+16C#LL	C# major
 16c#	.
 16E#	.
 16e#	.
-16AA#	A#m
+16AA#	A# minor
 16A#	.
-16C#	.
+16C#JJ	.
 16r	.
 =8	=8
 *M2/4	*
-16FF#	F#
+16FF#LL	F# major
 16F#	.
 16AA#	.
-16A#	.
-16DD#	D#m
+16A#JJ	.
+16DD#LL	D# minor
 16D#	.
 16FF#	.
-16F#	.
+16F#JJ	.
 =9	=9
 *M5/4	*
 2BB	.
-8dd#	B
-3...dd#	B
+8dd#	B major
+3...dd#	B major
 =10	=10
 2C#	.
-8ee#	C#7
-3...ee#	C#7
+8ee#	C# dominant
+3...ee#	C# dominant
 =11	=11
 *M4/4	*
-4ff#	F#
-2ff#	F#
-8ff#	F#
+4ff#	F# major
+2ff#	F# major
+8ff#	F# major
 8r	.
 =12	=12
-8fff#	F#
+8fff#	F# major
 8r	.
-8ffff#	F#
+8ffff#	F# major
 3...r	.
 =13	=13
-1f#[	F#
+[1f#	F# major
 =14	=14
 1f#]	.
 ==	==

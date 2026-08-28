@@ -16,82 +16,82 @@
 *a:	*
 *M4/4	*
 =1	=1
-1r	Am
+1r	A minor
 =2	=2
-4r	C
-8g	.
-16g	.
-16a	.
+4r	C major
+8gL	.
+16gL	.
+16aJJ	.
 4g	.
-8g	.
-16g	.
-16a	.
+8gL	.
+16gL	.
+16aJJ	.
 =3	=3
-1g[	Cadd(2,4,7)
+[1g	C other-2,4,7
 =4	=4
-8g]	G
+8g]	G major
 4.r	.
-8dd	.
+8ddL	.
 8dd	.
 8cc	.
-8dd#	.
+8dd#J	.
 =5	=5
-4dd	Dm7
+4dd	D minor-seventh
 8r	.
 8cc	.
-8dd	.
+8ddL	.
 8dd	.
 8cc	.
-8dd#	.
+8dd#J	.
 =6	=6
-4dd	Dm7/F
+4dd	D minor-seventh/F
 8r	.
 8dd#	.
-8dd	.
+8ddL	.
 8cc	.
 8cc	.
-8dd#	.
+8dd#J	.
 =7	=7
-8dd	Am7
+8dd	A minor-seventh
 4cc	.
 8dd#	.
-8dd	.
+8ddL	.
 8cc	.
 8cc	.
-8dd#	.
+8dd#J	.
 =8	=8
-4dd	G
+4dd	G major
 8r	.
 8cc	.
-8dd	.
+8ddL	.
 8dd	.
 8cc	.
-8dd#	.
+8dd#J	.
 =9	=9
-4dd	Dm7
-8cc	.
-8cc	.
-8dd	.
-8cc	.
+4dd	D minor-seventh
+8ccL	.
+8ccJ	.
+8ddL	.
+8ccJ	.
 4dd	.
 =10	=10
-8dd#	Dm7/F
-8dd	.
+8dd#L	D minor-seventh/F
+8ddJ	.
 8r	.
 8cc	.
-8dd#	.
+8dd#L	.
 8dd	.
 8cc	.
-8dd#	.
+8dd#J	.
 =11	=11
-8dd	Am7
+8ddL	A minor-seventh
 8cc	.
-8cc	.
+8ccJ	.
 4ee	.
 8ee	.
-4dd[	.
+[4dd	.
 =12	=12
-2dd]	G
+2dd]	G major
 2r	.
 ==	==
 *-	*-

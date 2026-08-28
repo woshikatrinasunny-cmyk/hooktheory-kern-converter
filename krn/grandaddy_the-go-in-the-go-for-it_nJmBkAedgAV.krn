@@ -15,7 +15,7 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.r	F
+4.r	F major
 8c	.
 4f	.
 8r	.
@@ -24,23 +24,23 @@
 4g	.
 8r	.
 4a	.
-4.a[	.
+[4.a	.
 =3	=3
 8a]	.
 4r	.
 8f	.
 4dd	.
-8cc	.
-8a	.
+8ccL	.
+8aJ	.
 =4	=4
-8.cc	.
+8.ccL	.
 8.a	.
-8f	.
-8.dd	.
+8fJ	.
+8.ddL	.
 8.cc	.
-8a	.
+8aJ	.
 =5	=5
-4.g	B-
+4.g	B- major
 8f	.
 4.f	.
 8r	.
@@ -48,15 +48,15 @@
 4.r	.
 8c	.
 4cc	.
-8a	B-add(2,4,7)
-8g	.
+8aL	B- other-2,4,7
+8gJ	.
 =7	=7
-4.g	F
+4.g	F major
 8f	.
 4.f	.
 8r	.
 =8	=8
 3...r	.
-4.r	C
+4.r	C major
 ==	==
 *-	*-

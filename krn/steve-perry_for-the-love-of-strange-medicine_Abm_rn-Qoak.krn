@@ -15,54 +15,54 @@
 *F:	*
 *M4/4	*
 =1	=1
-8f	C
+8fL	C major
 8e	.
-8d	.
+8dJ	.
 4d	.
 4.c	.
 =2	=2
-4b-	Gm7
-8a[	.
-8a]	Dm7
-8g	.
+4b-	G minor-seventh
+[8aL	.
+8aJ]	D minor-seventh
+8gL	.
 8f	.
 8d	.
-8f	.
+8fJ	.
 =3	=3
-2.f	B-add(2,4,7)
+2.f	B- other-2,4,7
 8r	.
 8f	.
 =4	=4
-8f	Gm7
+8fL	G minor-seventh
 8e	.
-8f	.
-4a	C
+8fJ	.
+4a	C major
 4.g	.
 =5	=5
-8f	C
+8fL	C major
 8e	.
-8d	.
+8dJ	.
 4d	.
 4c	.
 8c	.
 =6	=6
-4g	Gm7
-8a[	.
-8a]	Dm7
+4g	G minor-seventh
+[8aL	.
+8aJ]	D minor-seventh
 4a	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 =7	=7
-2.f	B-add(2,4,7)
+2.f	B- other-2,4,7
 8r	.
-16d	.
-16e	.
+16dLL	.
+16eJJ	.
 =8	=8
-4f	Gm
+4f	G minor
 8e	.
-4d	C
-8.d	.
-16c	.
-8c	.
+4d	C major
+8.dL	.
+16ck	.
+8cJ	.
 ==	==
 *-	*-

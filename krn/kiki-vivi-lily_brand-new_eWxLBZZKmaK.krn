@@ -16,42 +16,42 @@
 *D:	*
 *M4/4	*
 =1	=1
-1r	D
+1r	D major
 =2	=2
-1r	B
+1r	B major
 =3	=3
-4..r	Em7
-2r	A
+4..r	E minor-seventh
+2r	A major
 16r	.
 =4	=4
-4..r	F#m7b5
-2r	B
+4..r	F# half-diminished
+2r	B major
 16r	.
 =5	=5
-2...r	Eadd(2,3,10)
-16r	A
+2...r	E other-2,3,10
+16r	A major
 =6	=6
 2r	.
 16r	.
-4..r	Aaug
+4..r	A augmented
 =7	=7
-1r	D
+1r	D major
 =8	=8
-1r	B
+1r	B major
 =9	=9
-4..r	Em7
-2r	A
+4..r	E minor-seventh
+2r	A major
 16r	.
 =10	=10
-4..r	F#m7b5
-2r	B
+4..r	F# half-diminished
+2r	B major
 16r	.
 =11	=11
-1r	Eadd(2,3,10)
+1r	E other-2,3,10
 =12	=12
-4r	A
-4r	Bm
-4r	Cdim
-4r	C#dim
+4r	A major
+4r	B minor
+4r	C diminished
+4r	C# diminished
 ==	==
 *-	*-

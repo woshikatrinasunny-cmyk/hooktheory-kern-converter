@@ -15,74 +15,74 @@
 *G:	*
 *M4/4	*
 =1	=1
-2r	A7
+2r	A dominant
 4b	.
 4dd	.
 =2	=2
-2..ee	Cadd(2,4,7)
-16dd	.
-16ee	.
+2..ee	C other-2,4,7
+16ddLL	.
+16eeJJ	.
 =3	=3
-4dd	D
+4dd	D major
 8r	.
 8dd	.
 4.dd	.
 8dd	.
 =4	=4
-4a	G
+4a	G major
 2b	.
 8r	.
-8r	G
+8r	G major
 =5	=5
 2r	.
 4b	.
 4dd	.
 =6	=6
-2ee	Cadd(2,4,7)
+2ee	C other-2,4,7
 2dd	.
 =7	=7
-2.a	D
-8g	.
-8e	.
+2.a	D major
+8gL	.
+8eJ	.
 =8	=8
-1r	A
+1r	A major
 =9	=9
-2r	A7
+2r	A dominant
 4b	.
 4dd	.
 =10	=10
-2ee	Cadd(2,4,7)
-2dd[	.
+2ee	C other-2,4,7
+[2dd	.
 =11	=11
-4dd]	D
+4dd]	D major
 4r	.
 4ee	.
-8gg	.
-8a	.
+8ggL	.
+8aJ	.
 =12	=12
-8g	G
-8a	.
+8gL	G major
+8aJ	.
 3...r	.
-8r	G
+8r	G major
 =13	=13
 4.r	.
 8e	.
 4g	.
-8a	.
-8a[	.
+8aL	.
+[8aJ	.
 =14	=14
-8a]	Cadd(2,4,7)
+8a]	C other-2,4,7
 4g	.
 3...r	.
 =15	=15
-4.r	D
+4.r	D major
 8e	.
-8g	.
+8gL	.
 8g	.
 8f#	.
-8e	.
+8eJ	.
 =16	=16
-2e	A
+2e	A major
 2r	.
 ==	==
 *-	*-

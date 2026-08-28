@@ -16,31 +16,31 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	Fmaj7
+8r	F major-seventh
+8cL	.
 8c	.
-8c	.
-8c[	.
-8c]	C
+[8cJ	.
+8c]	C major
 4c	.
-8c[	Dm
+[8c	D minor
 =2	=2
 8c]	.
 4c	.
-4c	C
-8A	.
+4c	C major
+8AL	.
 8c	.
-8B[	Em
+[8BJ	E minor
 =3	=3
 4B]	.
 4r	.
-8B	.
-8A	.
+8BL	.
+8AJ	.
 4B	.
 =4	=4
-8r	D#
-16B	.
-16B	.
-8B	.
+8r	D# major
+16BLL	.
+16BJ	.
+8BJ	.
 4G	.
 4.r	.
 ==	==

@@ -16,76 +16,76 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	C
-16gg	.
+8r	C major
+16ggLK	.
 8.gg	.
-8gg[	.
-8gg]	Am
+[8ggJ	.
+8gg]	A minor
 4ff	.
 8ee	.
 =2	=2
-8cc	F
-16cc#	.
-8dd	.
+8ccL	F major
+16cc#k	.
+8ddJ	.
 16r	.
-48dd#	.
-18...ee[	.
-8ee]	G
-48ff#	.
-5..gg[	.
+48dd#LLK	.
+[18...eeJJ	.
+8eeL]	G major
+48ff#Jkk	.
+[5..gg	.
 240gg]	.
 =3	=3
-8r	C
-8aa	.
-16gg	.
+8r	C major
+8aaL	.
+16ggk	.
 8ee	.
-16dd[	.
-4dd]	Am
-8g	.
-16a	.
-16cc[	.
+[16ddJk	.
+4dd]	A minor
+8gL	.
+16aL	.
+[16ccJJ	.
 =4	=4
-8cc]	F
+8ccL]	F major
 8a	.
-16cc	.
-16dd	.
-8cc[	.
-2cc]	G
+16ccL	.
+16ddJ	.
+[8ccJ	.
+2cc]	G major
 =5	=5
-8r	C
-16gg	.
+8r	C major
+16ggLK	.
 8.gg	.
-8gg[	.
-8gg]	Am
+[8ggJ	.
+8gg]	A minor
 4ff	.
 8ee	.
 =6	=6
-8cc	F
-16cc#	.
-8dd	.
+8ccL	F major
+16cc#k	.
+8ddJ	.
 16r	.
-48dd#	.
-18...ee[	.
-8ee]	G
-48ff#	.
-5..gg[	.
+48dd#LLK	.
+[18...eeJJ	.
+8eeL]	G major
+48ff#Jkk	.
+[5..gg	.
 240gg]	.
 =7	=7
-8r	C
-8aa	.
-16gg	.
+8r	C major
+8aaL	.
+16ggk	.
 8ee	.
-16dd[	.
-4dd]	Am
-8g	.
-16a	.
-16cc[	.
+[16ddJk	.
+4dd]	A minor
+8gL	.
+16aL	.
+[16ccJJ	.
 =8	=8
-8cc]	F
+8ccL]	F major
 8a	.
-16cc	.
-16dd	.
-8cc[	.
-2cc]	G
+16ccL	.
+16ddJ	.
+[8ccJ	.
+2cc]	G major
 ==	==
 *-	*-

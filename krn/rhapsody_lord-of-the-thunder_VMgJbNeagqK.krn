@@ -16,65 +16,65 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4fn	C#
+4fn	C# major
 4f#	.
 4.g#	.
 8r	.
 =2	=2
-4.cc#	F#m
+4.cc#	F# minor
 8b	.
 4a	.
 4f#	.
 =3	=3
-2a	D
+2a	D major
 2f#	.
 =4	=4
-2d	D
+2d	D major
 2e	.
 =5	=5
-1c#	F#m
+1c#	F# minor
 =6	=6
-1r	F#m
+1r	F# minor
 =7	=7
-2g#	E
+2g#	E major
 2a	.
 =8	=8
-2b	E
+2b	E major
 2dd	.
 =9	=9
-1cc#	A
+1cc#	A major
 =10	=10
-1r	A
+1r	A major
 =11	=11
-8.b	Fdim
+8.bL	F diminished
 8.b	.
-8b	.
-8.b	.
+8bJ	.
+8.bL	.
 8.a	.
-8g#	.
+8g#J	.
 =12	=12
-4a	F#m
+4a	F# minor
 2f#	.
 4r	.
 =13	=13
-8.a	D#dim
+8.aL	D# diminished
 8.a	.
-8a	.
-8.a	.
+8aJ	.
+8.aL	.
 8.b	.
-8a[	.
+[8aJ	.
 =14	=14
-16a]	C#
-2...g#[	.
+16a]	C# major
+[2...g#	.
 =15	=15
-4g#]	C#
+4g#]	C# major
 2.r	.
 =16	=16
-2r	C#
-4r	D
-4r	G#dim
+2r	C# major
+4r	D major
+4r	G# diminished
 =17	=17
-4r	C#
-4r	D/A
+4r	C# major
+4r	D major/A
 ==	==
 *-	*-

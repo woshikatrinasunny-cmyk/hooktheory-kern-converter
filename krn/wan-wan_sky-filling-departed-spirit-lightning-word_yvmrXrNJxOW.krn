@@ -15,67 +15,67 @@
 *f:	*
 *M4/4	*
 =1	=1
-4f	Fm
+4f	F minor
 8r	.
 4.cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =2	=2
 4dd-	.
 4cc	.
 4b-	.
 4cc	.
 =3	=3
-4en	C/E
+4en	C major/E
 8r	.
 4.cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =4	=4
 4dd-	.
 4cc	.
 4b-	.
 4cc	.
 =5	=5
-4e-	A-
+4e-	A- major
 8r	.
 4.cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =6	=6
 4dd-	.
 4cc	.
 4dd-	.
 4ee-	.
 =7	=7
-4ddn	Dm7b5
+4ddn	D half-diminished
 8r	.
 4.a-	.
-4cc[	.
+[4cc	.
 =8	=8
 2.cc]	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =9	=9
-4b-	D-
+4b-	D- major
 4a-	.
 4g	.
 4a-	.
 =10	=10
 2.f	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =11	=11
-4b-	E-
+4b-	E- major
 4a-	.
 4g	.
 4a-	.
 =12	=12
 2.e-	.
-8c	.
-8e-	.
+8cL	.
+8e-J	.
 =13	=13
-4.d-	D-
+4.d-	D- major
 4.e-	.
 4f	.
 =14	=14
@@ -84,76 +84,76 @@
 4a-	.
 4e-	.
 =15	=15
-4.en	C
+4.en	C major
 4.g	.
 4cc	.
 =16	=16
-4b-	C7/E
+4b-	C dominant/E
 4a-	.
 4g	.
 4a-	.
 =17	=17
-4f	Fm
+4f	F minor
 8r	.
 4.cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =18	=18
 4dd-	.
 4cc	.
 4b-	.
 4cc	.
 =19	=19
-4en	C/E
+4en	C major/E
 8r	.
 4.cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =20	=20
 4dd-	.
 4cc	.
 4b-	.
 4cc	.
 =21	=21
-4e-	A-
+4e-	A- major
 8r	.
 4.cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =22	=22
 4dd-	.
 4cc	.
 4dd-	.
 4ee-	.
 =23	=23
-4ddn	Dm7b5
+4ddn	D half-diminished
 8r	.
 4.a-	.
-4cc[	.
+[4cc	.
 =24	=24
 2.cc]	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =25	=25
-4b-	D-
+4b-	D- major
 4a-	.
 4g	.
 4a-	.
 =26	=26
 2.f	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =27	=27
-4b-	E-
+4b-	E- major
 4a-	.
 4g	.
 4a-	.
 =28	=28
 2.e-	.
-8c	.
-8e-	.
+8cL	.
+8e-J	.
 =29	=29
-4.d-	D-
+4.d-	D- major
 4.e-	.
 4f	.
 =30	=30
@@ -162,23 +162,23 @@
 4a-	.
 4e-	.
 =31	=31
-4.en	C
+4.en	C major
 4.g	.
 4cc	.
 =32	=32
-4b-	C7/E
+4b-	C dominant/E
 4a-	.
 4g	.
 4a-	.
 =33	=33
-1f[	Fm
+[1f	F minor
 =34	=34
 2.f]	.
-4r	F
+4r	F major
 =35	=35
 1r	.
 =36	=36
 4r	.
-4r	Cm
+4r	C minor
 ==	==
 *-	*-

@@ -16,7 +16,7 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4.dd-	D-
+4.dd-	D- major
 8ff	.
 8r	.
 8gg	.
@@ -30,10 +30,10 @@
 8r	.
 8b-	.
 =3	=3
+8gL	.
 8g	.
 8g	.
-8g	.
-16a-	.
+16a-Jk	.
 2r	.
 16r	.
 =4	=4
@@ -46,12 +46,12 @@
 16r	.
 16a-	.
 16r	.
-4.bn	D-7/B
+4.bn	D- dominant/B
 =5	=5
-8dd-	D-dim
+8dd-L	D- diminished
 8dd-	.
 8dd-	.
-8dd-	D-
+8dd-J	D- major
 2r	.
 ==	==
 *-	*-

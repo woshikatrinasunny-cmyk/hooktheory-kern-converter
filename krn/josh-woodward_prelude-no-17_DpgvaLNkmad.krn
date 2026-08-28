@@ -16,43 +16,43 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4B-	B-
-8A	.
-8B-	.
+4B-	B- major
+8AL	.
+8B-J	.
 4c	.
-8B-	.
-8c	.
+8B-L	.
+8cJ	.
 =2	=2
 4d	.
 4c	.
 4B-	.
 4F	.
 =3	=3
-4B-	Gm
-8A	.
-8B-	.
+4B-	G minor
+8AL	.
+8B-J	.
 4c	.
-8B-	.
-8c	.
+8B-L	.
+8cJ	.
 =4	=4
-4d	B-/F
+4d	B- major/F
 4c	.
 4B-	.
 4F	.
 =5	=5
-4B-	E-
-8A	.
-8B-	.
+4B-	E- major
+8AL	.
+8B-J	.
 4c	.
-8B-	.
-8c	.
+8B-L	.
+8cJ	.
 =6	=6
 4d	.
 4c	.
 4B-	.
 4F	.
 =7	=7
-4.B-	F
+4.B-	F major
 8A	.
 4.A	.
 8G	.
@@ -61,45 +61,45 @@
 8F	.
 2F	.
 =9	=9
-4B-	B-
-8A	.
-8B-	.
+4B-	B- major
+8AL	.
+8B-J	.
 4c	.
-8B-	.
-8c	.
+8B-L	.
+8cJ	.
 =10	=10
 4d	.
 4f	.
-8d	.
-8c	.
+8dL	.
+8cJ	.
 4B-	.
 =11	=11
-4B-	Gm
-8A	.
-8B-	.
+4B-	G minor
+8AL	.
+8B-J	.
 4c	.
-8B-	.
-8c	.
+8B-L	.
+8cJ	.
 =12	=12
-4d	B-/F
+4d	B- major/F
 4f	.
-8d	.
-8c	.
+8dL	.
+8cJ	.
 4B-	.
 =13	=13
-4B-	E-
-8A	.
-8B-	.
+4B-	E- major
+8AL	.
+8B-J	.
 4c	.
-8B-	.
-8c	.
+8B-L	.
+8cJ	.
 =14	=14
 4d	.
 4c	.
 4B-	.
 4F	.
 =15	=15
-4.B-	F
+4.B-	F major
 8A	.
 4.A	.
 8G	.
@@ -109,6 +109,6 @@
 4F	.
 4E-	.
 =17	=17
-1D	B-
+1D	B- major
 ==	==
 *-	*-

@@ -16,53 +16,53 @@
 *E:	*
 *M4/4	*
 =1	=1
-8.r	A
-16cc#	.
+8.r	A major
+16cc#LK	.
 8ee	.
-16cc#	.
-16ee	.
+16cc#L	.
+16eeJJ	.
 2cc#	.
 =2	=2
-8.r	Am
-16ccn	.
+8.r	A minor
+16ccnLK	.
 8ee	.
-16ff#	.
+16ff#Jk	.
 8ee	.
 4..ccn	.
 =3	=3
-8.r	G#m
-16g#	.
+8.r	G# minor
+16g#LK	.
 8b	.
-16g#	.
-16ccn[	.
-8.ccn]	G#/C
-16g#	.
+16g#L	.
+[16ccnJJ	.
+8.ccnL]	G# major/C
+16g#k	.
 8ccn	.
-16g#	.
-16dd#[	.
+16g#L	.
+[16dd#JJ	.
 =4	=4
-8dd#]	C#m
-16cc#	.
+8dd#L]	C# minor
+16cc#Jk	.
 6...cc#	.
-2r	C#m7/B
+2r	C# minor-seventh/B
 =5	=5
-8.r	A
-16cc#	.
+8.r	A major
+16cc#LK	.
 8ee	.
-16cc#	.
-16ee	.
+16cc#L	.
+16eeJJ	.
 6...cc#	.
-8cc#	.
-16b[	.
+8cc#L	.
+[16bJk	.
 =6	=6
-2.b]	B
-8gg#	.
-8gg#	.
+2.b]	B major
+8gg#L	.
+8gg#J	.
 =7	=7
-4.ee[	E
-3...ee_	A/E
+[4.ee	E major
+3...ee_	A major/E
 =8	=8
-4.ee_	Em7
-3...ee]	A/E
+4.ee_	E minor-seventh
+3...ee]	A major/E
 ==	==
 *-	*-

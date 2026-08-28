@@ -16,30 +16,30 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.cc	C
-16b	.
-16cc	.
+4.cc	C major
+16bLL	.
+16ccJJ	.
 2g	.
 =2	=2
 4r	.
 4c	.
 4.d	.
-16c	.
-16d	.
+16cLL	.
+16dJJ	.
 =3	=3
-8d#	G#
+8d#	G# major
 16r	.
 16d#	.
 4g#	.
 8r	.
-8g	.
+8gL	.
 8f	.
-8d#	.
+8d#J	.
 =4	=4
-16f	A#
+16f	A# major
 16r	.
-16d	.
-16f	.
+16dLL	.
+16fJJ	.
 4a#	.
 4r	.
 16f	.
@@ -47,7 +47,7 @@
 16a#	.
 16r	.
 =5	=5
-16cc	C
+16cc	C major
 2...r	.
 =6	=6
 1r	.

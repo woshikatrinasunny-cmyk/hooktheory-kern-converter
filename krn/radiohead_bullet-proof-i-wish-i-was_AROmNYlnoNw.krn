@@ -16,57 +16,57 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.cc	Am7
+4.cc	A minor-seventh
 4.cc	.
 4r	.
 =2	=2
-4.b	Cmaj7
+4.b	C major-seventh
 4.b	.
 4r	.
 =3	=3
-4f#	Bm
+4f#	B minor
 8f#	.
 4.f#	.
-8f#	.
-8f#[	.
+8f#L	.
+[8f#J	.
 =4	=4
-8f#]	D
+8f#]	D major
 4g	.
 4dd	.
 4.r	.
 =5	=5
-8dd	Am7
+8dd	A minor-seventh
 4cc	.
 4.dd	.
-8cc	.
-8b[	.
+8ccL	.
+[8bJ	.
 =6	=6
-8b]	Cmaj7
+8b]	C major-seventh
 4b	.
 4cc	.
 4r	.
 8d	.
 =7	=7
-8f#	Bm
+8f#	B minor
 4f#	.
 4f#	.
 4.r	.
 =8	=8
-1r	D
+1r	D major
 =9	=9
-4.r	D
+4.r	D major
 8f#	.
 8a	.
 4g	.
-8gg[	.
+[8gg	.
 =10	=10
-1gg]	G
+1gg]	G major
 =11	=11
-3...ff#	Bm
+3...ff#	B minor
 4gg	.
-8ff#[	.
+[8ff#	.
 =12	=12
-8ff#]	Cadd(2,4,7)
+8ff#]	C other-2,4,7
 4ee	.
 3...r	.
 =13	=13
@@ -74,14 +74,14 @@
 8a	.
 4.g	.
 =14	=14
-2..gg	G
-8ff#[	.
+2..gg	G major
+[8ff#	.
 =15	=15
-3...ff#]	Bm
+3...ff#]	B minor
 4gg	.
-8ff#[	.
+[8ff#	.
 =16	=16
-8ff#]	Cadd(2,4,7)
+8ff#]	C other-2,4,7
 4ee	.
 3...r	.
 ==	==

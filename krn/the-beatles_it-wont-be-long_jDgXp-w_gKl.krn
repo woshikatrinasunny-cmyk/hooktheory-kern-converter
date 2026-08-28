@@ -16,44 +16,44 @@
 *E:	*
 *M4/4	*
 =1	=1
-4c#	C#m
+4c#	C# minor
 4c#	.
 4r	.
 4c#	.
 =2	=2
-4r	C#m
+4r	C# minor
 4c#	.
 8r	.
+8f#L	.
 8f#	.
-8f#	.
-8f#	.
+8f#J	.
 =3	=3
-4f#	E
+4f#	E major
 4e	.
 4r	.
 4e	.
 =4	=4
-4r	E
+4r	E major
 4e	.
 8r	.
+8f#L	.
 8f#	.
-8f#	.
-8f#	.
+8f#J	.
 =5	=5
-4c#	C#m
+4c#	C# minor
 4c#	.
 4.r	.
 8c#	.
 =6	=6
-4.c#	A
-8c#[	.
-4c#]	Aadd(1,4,7,10)
-8c#	.
-8c#	.
+4.c#	A major
+[8c#	.
+4c#]	A other-1,4,7,10
+8c#L	.
+8c#J	.
 =7	=7
-4B	E
+4B	E major
 2.r	.
 =8	=8
-1r	E
+1r	E major
 ==	==
 *-	*-

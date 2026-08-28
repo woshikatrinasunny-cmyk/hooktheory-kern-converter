@@ -16,55 +16,55 @@
 *F:	*
 *M4/4	*
 =1	=1
-4f	B-
-8f	.
-8a	.
-4a	F
-8a	.
-8cc	.
+4f	B- major
+8fL	.
+8aJ	.
+4a	F major
+8aL	.
+8ccJ	.
 =2	=2
-8dd	Dm
+8ddL	D minor
 8ee	.
 8dd	.
-8cc	.
-4a	Am
-8g	.
-8a	.
+8ccJ	.
+4a	A minor
+8gL	.
+8aJ	.
 =3	=3
-4g	Gm
-8g	Am
-8a	B-
-4g	C
-8f	.
-8a	.
+4g	G minor
+8gL	A minor
+8aJ	B- major
+4g	C major
+8fL	.
+8aJ	.
 =4	=4
-4a[	Dsus4
-4a]	D
-4b-	Gm
-4a	F/A
+[4a	D suspended-fourth
+4a]	D major
+4b-	G minor
+4a	F major/A
 =5	=5
-4f	B-
-8f	.
-8a	.
-4a	F
-8a	.
-8cc	.
+4f	B- major
+8fL	.
+8aJ	.
+4a	F major
+8aL	.
+8ccJ	.
 =6	=6
-8dd	Dm
+8ddL	D minor
 8ee	.
 8dd	.
-8cc	.
-4a	D
-8b-	.
-8a	.
+8ccJ	.
+4a	D major
+8b-L	.
+8aJ	.
 =7	=7
-4f	B-
-8f	.
-8d	.
-4f	Gm
-4g	C
+4f	B- major
+8fL	.
+8dJ	.
+4f	G minor
+4g	C major
 =8	=8
-2f	F
+2f	F major
 2r	.
 ==	==
 *-	*-

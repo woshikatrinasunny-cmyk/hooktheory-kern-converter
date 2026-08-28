@@ -19,50 +19,50 @@
 2r	.
 4a-	.
 =2	=2
-4.dd-	D-
+4.dd-	D- major
 16cc	.
 16r	.
 4dd-	.
 =3	=3
-4ee-	A-/C
+4ee-	A- major/C
 8ddn	.
 8r	.
 16ee-	.
 8.r	.
 =4	=4
-4ff	B-m7
+4ff	B- minor-seventh
 8r	.
 16een	.
 16r	.
 4ff	.
 =5	=5
-2dd-	A-m7
+2dd-	A- minor-seventh
 16ddd-	.
 16r	.
 16bb-	.
 16r	.
 =6	=6
-2aa-	G-maj9
+2aa-	G- major-ninth
 16bb-	.
 16r	.
 16aa-	.
 16r	.
 =7	=7
-2gg-	D7
+2gg-	D dominant
 16ff	.
 16r	.
 16gg-	.
 16r	.
 =8	=8
-2ee-[	E-/G
-4ee-_	E-7
+[2ee-	E- major/G
+4ee-_	E- dominant
 =9	=9
-4ee-]	A-7/C
+4ee-]	A- dominant/C
 4r	.
-8r	A-7
+8r	A- dominant
 8a-	.
 =10	=10
-4dd-	D-
+4dd-	D- major
 8r	.
 16cc	.
 16r	.
@@ -71,13 +71,13 @@
 16a-	.
 16r	.
 =11	=11
-4ee-	A-7/C
+4ee-	A- dominant/C
 16dd-	.
 8.r	.
 16ee-	.
 8.r	.
 =12	=12
-4ff	D-7/B
+4ff	D- dominant/B
 8r	.
 16ee-	.
 16r	.
@@ -86,7 +86,7 @@
 16ff	.
 16r	.
 =13	=13
-4gg-	B-add(3,7,8,10)
+4gg-	B- other-3,7,8,10
 8r	.
 16aa-	.
 16r	.
@@ -95,7 +95,7 @@
 16aa-	.
 16r	.
 =14	=14
-4.gg-	G-9
+4.gg-	G- dominant-ninth
 16aa-	.
 16r	.
 16gg-	.
@@ -103,16 +103,16 @@
 16een	.
 16r	.
 =15	=15
-4ee-	B7
+4ee-	B dominant
 8r	.
 16dd-	.
 8.r	.
 16bn	.
 16r	.
 =16	=16
-2a-[	D-
-4a-]	A-7sus4
+[2a-	D- major
+4a-]	A- dominant-seventh-suspended-fourth
 =17	=17
-2.r	D-
+2.r	D- major
 ==	==
 *-	*-

@@ -16,92 +16,92 @@
 *D-:	*
 *M4/4	*
 =1	=1
-8c	D-
+8cL	D- major
 8f	.
 8.f	.
-16gn	.
-16a-	Edim
+16gnJk	.
+16a-LL	E diminished
 16f	.
 16f	.
-16f	.
+16fJ	.
 8f	.
-16f	.
-16a-	.
+16fL	.
+16a-JJ	.
 =2	=2
-8gn	Fm
+8gnL	F minor
 8e-	.
 8e-	.
-8gn	.
-8a-	A-7
+8gnJ	.
+8a-L	A- dominant
 8f	.
 8.f	.
-16f	.
+16fJk	.
 =3	=3
-8c	D-
+8cL	D- major
 8f	.
 8.f	.
-16gn	.
-8a-	Edim
+16gnJk	.
+8a-	E diminished
 16r	.
-16f	.
+16fLK	.
 8f	.
-16f	.
-16a-	.
+16fL	.
+16a-JJ	.
 =4	=4
-16cc	Fm
+16ccLL	F minor
 16cc	.
 16b-	.
 16b-	.
 16a-	.
-16a-	.
-8gn	.
-8a-	A-7
-16f	.
+16a-J	.
+8gnJ	.
+8a-L	A- dominant
+16fk	.
 8f	.
+16fL	.
 16f	.
-16f	.
-16a-	.
+16a-JJ	.
 =5	=5
-8cc	D-
+8ccL	D- major
 8cc	.
 8b-	.
-8a-	.
-8gn	Edim
-16e-	.
+8a-J	.
+8gnL	E diminished
+16e-k	.
 8e-	.
+16e-L	.
 16e-	.
-16e-	.
-16gn	.
+16gnJJ	.
 =6	=6
-8cc	Fm
+8ccL	F minor
 8cc	.
 8b-	.
-8a-	.
-8gn	A-7
-16e-	.
+8a-J	.
+8gnL	A- dominant
+16e-k	.
 8e-	.
+16e-L	.
 16e-	.
-16e-	.
-16gn	.
+16gnJJ	.
 =7	=7
-8cc	D-
+8ccL	D- major
 8cc	.
 8b-	.
-8a-	.
-8cc	Edim
+8a-J	.
+8ccL	E diminished
 8cc	.
 8b-	.
-8a-	.
+8a-J	.
 =8	=8
-8cc	Fm
+8ccL	F minor
 8cc	.
 8cc	.
+8ccJ	.
+8ccL	A- dominant
 8cc	.
-8cc	A-7
-8cc	.
+16ccL	.
 16cc	.
-16cc	.
-16cc	.
+16ccJJ	.
 16r	.
 ==	==
 *-	*-

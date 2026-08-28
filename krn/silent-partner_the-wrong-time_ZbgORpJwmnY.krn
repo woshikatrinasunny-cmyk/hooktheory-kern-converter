@@ -16,53 +16,53 @@
 *c:	*
 *M4/4	*
 =1	=1
-1BB-	B-
+1BB-	B- major
 =2	=2
-1FF	F
+1FF	F major
 =3	=3
-8CC	Cadd(2,3,7)
+8CC	C other-2,3,7
 16r	.
-16GG	.
+16GGLK	.
 8D	.
-8E-	.
+8E-J	.
 16r	.
-16GG	.
+16GGLK	.
 8C	.
-16E-	.
-16D	.
-8C	.
+16E-L	.
+16DJ	.
+8CJ	.
 =4	=4
-8CC	Cm7
+8CC	C minor-seventh
 16r	.
-16GG	.
+16GGLK	.
 8D	.
-8E-	.
+8E-J	.
 8r	.
 8GG	.
 4AA-	.
 =5	=5
-1BB-	B-
+1BB-	B- major
 =6	=6
-2FF	F
-2EE-	E-
+2FF	F major
+2EE-	E- major
 =7	=7
-8CC	Cadd(2,3,5,7)
+8CC	C other-2,3,5,7
 16r	.
-16GG	.
+16GGLK	.
 8D	.
-8E-	.
+8E-J	.
 16r	.
-16GG	.
+16GGLK	.
 8C	.
-16E-	.
-16D	.
-8C	.
+16E-L	.
+16DJ	.
+8CJ	.
 =8	=8
-8CC	Cm7
+8CC	C minor-seventh
 16r	.
-16GG	.
+16GGLK	.
 8D	.
-8E-	.
+8E-J	.
 8r	.
 8GG	.
 4AA-	.

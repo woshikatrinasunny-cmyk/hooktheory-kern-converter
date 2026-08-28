@@ -16,69 +16,69 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4.bb-	B-
+4.bb-	B- major
 8ff	.
-8ee-	F/A
+8ee-L	F major/A
 8dd	.
 8cc	.
-8dd	.
+8ddJ	.
 =2	=2
-4.b-	Gm
-16g	.
-16a	.
-8b-	Fsus4
+4.b-	G minor
+16gLL	.
+16aJJ	.
+8b-L	F suspended-fourth
 8cc	.
 8dd	.
-8b-	.
+8b-J	.
 =3	=3
-4.cc	F
+4.cc	F major
+8e-	.
+8dL	.
 8e-	.
 8d	.
-8e-	.
-8d	.
-8B-	.
+8B-J	.
 =4	=4
-4c	F/C
+4c	F major/C
 8r	.
 8ff	.
-8aa	F
+8aaL	F major
 8gg	.
 8aa	.
-8ff	.
+8ffJ	.
 =5	=5
-4.bb-	B-
+4.bb-	B- major
 8ff	.
-8ee-	F/A
+8ee-L	F major/A
 8dd	.
 8cc	.
-8dd	.
+8ddJ	.
 =6	=6
-4.b-	Gm
-16gg	.
-16bb-	.
-8aa	F
+4.b-	G minor
+16ggLL	.
+16bb-JJ	.
+8aaL	F major
 8gg	.
 8ff	.
-8eee-	.
+8eee-J	.
 =7	=7
-4.ddd	B-
+4.ddd	B- major
 8b-	.
-8ff	Bdim
+8ffL	B diminished
 8ee-	.
 8dd	.
-8ee-	.
+8ee-J	.
 =8	=8
-8cc	Cm
+8ccL	C minor
 8g	.
 8ee-	.
-8g	.
-16ff	F7/E-
+8gJ	.
+16ffLL	F dominant/E-
 16ee-	.
 16cc	.
 16a	.
 16aa	.
 16gg	.
 16ee-	.
-16aa	.
+16aaJJ	.
 ==	==
 *-	*-

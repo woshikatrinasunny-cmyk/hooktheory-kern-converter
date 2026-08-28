@@ -16,91 +16,91 @@
 *g#:	*
 *M4/4	*
 =1	=1
-16G#	G#m
+16G#LK	G# minor
 8.G#	.
-16G#	G#m
+16G#k	G# minor
+8.G#J	.
+16G#LK	G# minor
 8.G#	.
-16G#	G#m
-8.G#	.
-16G#	G#m
-8.G#	.
+16G#k	G# minor
+8.G#J	.
 =2	=2
-16e	E
+16eLK	E major
 8.e	.
-16e	E
-8.e	.
-16d	D
+16ek	E major
+8.eJ	.
+16dLK	D major
 8.d	.
-16d	D
-8.d	.
+16dk	D major
+8.dJ	.
 =3	=3
-16G#	G#dim
+16G#LK	G# diminished
 8.G#	.
-16G#	G#dim
+16G#k	G# diminished
+8.G#J	.
+16G#LK	G# diminished
 8.G#	.
-16G#	G#dim
-8.G#	.
-16G#	G#dim
-8.G#	.
+16G#k	G# diminished
+8.G#J	.
 =4	=4
-16e	E
+16eLK	E major
 8.e	.
-16e	E
-8.e	.
-16d	D
+16ek	E major
+8.eJ	.
+16dLK	D major
 8.d	.
-16d	D
+16dJk	D major
 8.r	.
 =5	=5
-16G#	G#dim
+16G#LL	G# diminished
 16G#	.
 16g#	.
 16g#	.
-16G#	G#dim
+16G#	G# diminished
+16G#	.
+16g#	.
+16g#JJ	.
+16G#LL	G# diminished
 16G#	.
 16g#	.
 16g#	.
-16G#	G#dim
+16G#	G# diminished
 16G#	.
 16g#	.
-16g#	.
-16G#	G#dim
-16G#	.
-16g#	.
-16g#	.
+16g#JJ	.
 =6	=6
-16E	E
+16ELL	E major
 16E	.
 16e	.
 16e	.
-16E	E
+16E	E major
 16E	.
 16e	.
-16e	.
-16D	D
+16eJJ	.
+16DLL	D major
 16D	.
 16d	.
 16d	.
-16D	D
+16D	D major
 16D	.
 16d	.
-16d	.
+16dJJ	.
 =7	=7
-8g#	G#dim
+8g#L	G# diminished
 8e	.
-8f#	G#dim
-8d	.
-8g#	G#dim
+8f#	G# diminished
+8dJ	.
+8g#L	G# diminished
 8e	.
-8f#	G#dim
-8d	.
+8f#	G# diminished
+8dJ	.
 =8	=8
-8g#	E
+8g#L	E major
 8e	.
-8f#	E
-8d	.
-8g#	D
-8e	.
-4dd	D
+8f#	E major
+8dJ	.
+8g#L	D major
+8eJ	.
+4dd	D major
 ==	==
 *-	*-

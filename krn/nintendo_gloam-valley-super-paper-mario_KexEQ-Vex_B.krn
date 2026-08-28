@@ -16,82 +16,82 @@
 *D:	*
 *M4/4	*
 =1	=1
-8d	D
+8d	D major
 8r	.
 8d	.
 16r	.
 16A	.
-8c	.
+8cL	.
 8B	.
 8A	.
-8G	.
+8GJ	.
 =2	=2
-8F#	D
+8F#L	D major
 8G	.
 8G#	.
-8A	.
-8.F#	.
-8D	.
+8AJ	.
+8.F#L	.
+8DJ	.
 16r	.
 8AA	.
 =3	=3
-8D	D
+8D	D major
 8r	.
 8D	.
 16r	.
 16D	.
-8A	D
-8G#	C#
-8G	C
-8F#	B
+8AL	D major
+8G#	C# major
+8G	C major
+8F#J	B major
 =4	=4
-8G	Gm/A#
-8G#	Amaj7
-8A	A
-8A#	A#
-4A	A
+8GL	G minor/A#
+8G#	A major-seventh
+8A	A major
+8A#J	A# major
+4A	A major
 8r	.
 8A	.
 =5	=5
-8d	D
+8d	D major
 8r	.
 8d	.
 16r	.
 16A	.
-8c	C
-8B	B
-8A	A
-8G	.
+8cL	C major
+8B	B major
+8A	A major
+8GJ	.
 =6	=6
-8F#	D
+8F#L	D major
 8G	.
 8G#	.
-8A	.
-8.F#	.
-8D	.
+8AJ	.
+8.F#L	.
+8DJ	.
 16r	.
 8AA	.
 =7	=7
-8D	D
+8D	D major
 8r	.
 8D	.
 16r	.
 16D	.
-8A	D
-8G#	C#
-8G	C
-8F#	B
+8AL	D major
+8G#	C# major
+8G	C major
+8F#J	B major
 =8	=8
-8g	Gm/A#
-8g#	Amaj7
-8a	A
-8a#	A#
-16a	A
+8gL	G minor/A#
+8g#	A major-seventh
+8a	A major
+8a#J	A# major
+16aLK	A major
 8b	.
 8.cc	.
-8cc#	.
+8cc#J	.
 =9	=9
-8dd	G
+8dd	G major
 2..r	.
 ==	==
 *-	*-

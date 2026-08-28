@@ -15,23 +15,23 @@
 *D:	*
 *M3/4	*
 =1	=1
-4d	D
+4d	D major
 4f#	.
 4b	.
 =2	=2
-4a	Dmaj7/C#
+4a	D major-seventh/C#
 4f#	.
 4d	.
 =3	=3
-4d	Bm
+4d	B minor
 4f#	.
 4g	.
 =4	=4
-4f#	Bm7/A
+4f#	B minor-seventh/A
 4d	.
 4A	.
 =5	=5
-4B	G
+4B	G major
 4d	.
 4r	.
 =6	=6
@@ -41,15 +41,15 @@
 =8	=8
 2.r	.
 =9	=9
-4B	D
+4B	D major
 4d	.
 4d	.
 =10	=10
-4d	Dmaj7/C#
+4d	D major-seventh/C#
 4f#	.
 4f#	.
 =11	=11
-4f#	Bm
+4f#	B minor
 4dd	.
 4dd	.
 =12	=12
@@ -59,21 +59,21 @@
 =14	=14
 2.r	.
 =15	=15
-2r	F#m
+2r	F# minor
 4cc#	.
 =16	=16
 4cc#	.
 4b	.
 4cc#	.
 =17	=17
-4b	B7
+4b	B dominant
 4a	.
 4f#	.
 =18	=18
 2r	.
 4e	.
 =19	=19
-4f#	F#m
+4f#	F# minor
 4f#	.
 4r	.
 =20	=20
@@ -81,32 +81,32 @@
 4r	.
 4e	.
 =21	=21
-4f#	B7
+4f#	B dominant
 4e	.
 4d#	.
 =22	=22
 2r	.
 4e	.
 =23	=23
-2.e	E
+2.e	E major
 =24	=24
-2.f#	D
+2.f#	D major
 =25	=25
-4e	A
+4e	A major
 4a	.
 4g#	.
 =26	=26
-2.f#[	D
+[2.f#	D major
 =27	=27
-4f#]	Dmaj7/C#
+4f#]	D major-seventh/C#
 4r	.
 4e	.
 =28	=28
-2.d	Bm
+2.d	B minor
 =29	=29
-2.r	Bm7/A
+2.r	B minor-seventh/A
 =30	=30
-2.r	G
+2.r	G major
 =31	=31
 2.r	.
 =32	=32

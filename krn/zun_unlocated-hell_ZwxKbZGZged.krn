@@ -16,164 +16,164 @@
 *d:	*
 *M4/4	*
 =1	=1
-8dd	Dm
-16g	.
-16a	.
+8ddL	D minor
+16gL	.
+16aJ	.
 8cc	.
-16g	.
-16a-	.
-8a	.
-16f	.
-16g-	.
+16gL	.
+16a-JJ	.
+8aL	.
+16fL	.
+16g-J	.
 8g	.
-8e	.
+8eJ	.
 =2	=2
-8c	.
-8dd	Dm
-16g	.
-16a	.
-8cc	.
-8g	.
-8f	Dm/F
+8cL	.
+8dd	D minor
+16gL	.
+16aJ	.
+8ccJ	.
+8gL	.
+8f	D minor/F
 8e	.
-8c	.
+8cJ	.
 =3	=3
-8dd	Dm
-16g	.
-16a	.
+8ddL	D minor
+16gL	.
+16aJ	.
 8cc	.
-16g	.
-16a-	.
-8a	.
-16f	.
-16g-	.
+16gL	.
+16a-JJ	.
+8aL	.
+16fL	.
+16g-J	.
 8g	.
-8e	.
+8eJ	.
 =4	=4
-8c	.
-8dd	Dm/A
-16g	.
-16a	.
-8cc	.
-8g	.
+8cL	.
+8dd	D minor/A
+16gL	.
+16aJ	.
+8ccJ	.
+8gL	.
 8f	.
 8e	.
-8c	.
+8cJ	.
 =5	=5
-8dd	Dm
-16g	.
-16a	.
+8ddL	D minor
+16gL	.
+16aJ	.
 8cc	.
-16g	.
-16a-	.
-8a	.
-16f	.
-16g-	.
+16gL	.
+16a-JJ	.
+8aL	.
+16fL	.
+16g-J	.
 8g	.
-8e	.
+8eJ	.
 =6	=6
-8c	.
-8dd	Dm
-16g	.
-16a	.
-8cc	.
-8g	.
-8f	Dm/F
+8cL	.
+8dd	D minor
+16gL	.
+16aJ	.
+8ccJ	.
+8gL	.
+8f	D minor/F
 8e	.
-8c	.
+8cJ	.
 =7	=7
-8dd	Dm
-16g	.
-16a	.
+8ddL	D minor
+16gL	.
+16aJ	.
 8cc	.
-16g	.
-16a-	.
-8a	.
-16f	.
-16g-	.
+16gL	.
+16a-JJ	.
+8aL	.
+16fL	.
+16g-J	.
 8g	.
-8e	.
+8eJ	.
 =8	=8
-8c	.
-8dd	Dm/A
-16g	.
-16a	.
-8cc	.
-8g	.
+8cL	.
+8dd	D minor/A
+16gL	.
+16aJ	.
+8ccJ	.
+8gL	.
 8f	.
 8e	.
-8c	.
+8cJ	.
 =9	=9
-8dd	Dm
+8ddL	D minor
 8a	.
 8cc	.
-8g	.
-8a	Dm
+8gJ	.
+8aL	D minor
 8f	.
 8g	.
-8e	.
+8eJ	.
 =10	=10
-8d-	D-m
+8d-L	D- minor
 8dd-	.
 8a	.
-8cc	.
-8g	D-dim
+8ccJ	.
+8gL	D- diminished
 8f	.
 8e	.
-8c	.
+8cJ	.
 =11	=11
-8dd	Dm
+8ddL	D minor
 8a	.
 8cc	.
-8g	.
-8a	Dm
+8gJ	.
+8aL	D minor
 8f	.
 8g	.
-8e	.
+8eJ	.
 =12	=12
-8d-	D-dim/E
+8d-L	D- diminished/E
 8dd-	.
 8a	.
-8cc	.
-8g	D-dim/E
+8ccJ	.
+8gL	D- diminished/E
 8f	.
 8e	.
-8c	.
+8cJ	.
 =13	=13
-8ff	Dm/F
+8ffL	D minor/F
 8dd	.
 8ee	.
-8cc	.
-8dd	Dm/F
+8ccJ	.
+8ddL	D minor/F
 8a	.
 8cc	.
-8g	.
+8gJ	.
 =14	=14
-8e	D-dim/G
+8eL	D- diminished/G
 8ee	.
 8dd-	.
-8ee	.
-8dd-	D-dim/G
+8eeJ	.
+8dd-L	D- diminished/G
 8a	.
 8g	.
-8f	.
+8fJ	.
 =15	=15
-8ff	Dm/A
+8ffL	D minor/A
 8dd	.
 8ee	.
-8cc	.
-8dd	Dm/A
+8ccJ	.
+8ddL	D minor/A
 8a	.
 8cc	.
-8g	.
+8gJ	.
 =16	=16
-8e	D-dim
+8eL	D- diminished
 8ee	.
 8dd-	.
-8ee	.
-8dd-	D-dim
+8eeJ	.
+8dd-L	D- diminished
 8a	.
 8g	.
-8f	.
+8fJ	.
 ==	==
 *-	*-

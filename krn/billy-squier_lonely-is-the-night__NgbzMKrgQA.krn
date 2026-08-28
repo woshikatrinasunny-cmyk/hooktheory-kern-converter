@@ -16,84 +16,84 @@
 *E:	*
 *M4/4	*
 =1	=1
-8g#	E
-16g#	E
-8f#	D
-16e	D
-8e	E
+8g#L	E major
+16g#k	E major
+8f#	D major
+16ek	D major
+8eJ	E major
 4.r	.
-16c#	.
-16e	.
+16c#LL	.
+16eJJ	.
 =2	=2
-8g#	E
-16g#	E
-8f#	D
-16e	D
-16e	A
-8.c#[	.
-16c#]	Asus4
+8g#L	E major
+16g#k	E major
+8f#	D major
+16eL	D major
+16eJJ	A major
+[8.c#	.
+16c#]	A suspended-fourth
 16r	.
-16r	Asus4
-8r	A
-16c#	A
+16r	A suspended-fourth
+8r	A major
+16c#	A major
 =3	=3
-8g#	E
-16g#	E
-8f#	D
-16e	D
-8e	E
+8g#L	E major
+16g#k	E major
+8f#	D major
+16ek	D major
+8eJ	E major
 4.r	.
-16c#	.
-16e	.
+16c#LL	.
+16eJJ	.
 =4	=4
-8g#	E
-16g#	E
-8f#	D
-16e	D
-4e	A
-8r	Asus4
-16r	Asus4
-8r	A
-16r	A
+8g#L	E major
+16g#k	E major
+8f#	D major
+16eJk	D major
+4e	A major
+8r	A suspended-fourth
+16r	A suspended-fourth
+8r	A major
+16r	A major
 =5	=5
-8b	E
-16b	E
-8a	D
-16g#	D
-8g#	E
+8bL	E major
+16bk	E major
+8a	D major
+16g#k	D major
+8g#J	E major
 4.r	.
-16e	.
-16g#	.
+16eLL	.
+16g#JJ	.
 =6	=6
-8b	E
-16b	E
-8a	D
-16g#	D
-8.a	A
-16e[	.
-8e]	Asus4
-16r	Asus4
-8r	A
-16r	A
+8bL	E major
+16bk	E major
+8a	D major
+16g#Jk	D major
+8.a	A major
+[16eLK	.
+8eJ]	A suspended-fourth
+16r	A suspended-fourth
+8r	A major
+16r	A major
 =7	=7
-8b	E
-16b	E
-8a	D
-16g#	D
-8g#	E
+8bL	E major
+16bk	E major
+8a	D major
+16g#k	D major
+8g#J	E major
 4.r	.
-16e	.
-16g#	.
+16eLL	.
+16g#JJ	.
 =8	=8
-8b	E
-16b	E
-8a	D
-16g#	D
-4a	A
-8e[	Asus4
-16e]	Asus4
-16c#	A
-16B	.
+8bL	E major
+16bk	E major
+8a	D major
+16g#Jk	D major
+4a	A major
+[8eL	A suspended-fourth
+16eL]	A suspended-fourth
+16c#	A major
+16BJJ	.
 16r	.
 ==	==
 *-	*-

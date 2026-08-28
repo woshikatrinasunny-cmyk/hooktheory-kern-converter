@@ -16,105 +16,105 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8r	C#m
-8r	C#m
-8r	C#m
-3...r	C#m
+8r	C# minor
+8r	C# minor
+8r	C# minor
+3...r	C# minor
 =2	=2
-8r	C#m
-8r	C#m
-8c#	C#m
-8B	.
+8r	C# minor
+8r	C# minor
+8c#L	C# minor
+8BJ	.
 4c#	.
 4e	.
 =3	=3
-8d#[	E
-8d#_	E
-8d#_	E
-8d#]	E
+[8d#L	E major
+8d#_	E major
+8d#_	E major
+8d#J]	E major
 2r	.
 =4	=4
-8r	E
-8c#	E
-8c#	E
-8B	.
+8r	E major
+8c#L	E major
+8c#	E major
+8BJ	.
 4c#	.
 4e	.
 =5	=5
-8d#[	B
-8d#_	B
-8d#_	B
-4.d#]	B
+[8d#L	B major
+8d#_	B major
+8d#J_	B major
+4.d#]	B major
 4r	.
 =6	=6
-8r	B
-8r	B
-4d#	B
+8r	B major
+8r	B major
+4d#	B major
 4d#	.
 4e	.
 =7	=7
-8d#[	A
-8d#_	A
-8d#]	A
-16e	A
-16d#	.
+[8d#L	A major
+8d#_	A major
+8d#]	A major
+16eL	A major
+16d#JJ	.
 2c#	.
 =8	=8
-8r	A
-8r	A
-4r	A
+8r	A major
+8r	A major
+4r	A major
 4c#	.
 4B	.
 =9	=9
-8c#[	C#m
-8c#_	C#m
-8c#_	C#m
-3...c#]	C#m
+[8c#L	C# minor
+8c#_	C# minor
+8c#J_	C# minor
+3...c#]	C# minor
 =10	=10
-8r	C#m
-8r	C#m
-8c#	C#m
-8B	.
+8r	C# minor
+8r	C# minor
+8c#L	C# minor
+8BJ	.
 4c#	.
 4e	.
 =11	=11
-8d#[	E
-8d#_	E
-8d#_	E
-2d#]	E
+[8d#L	E major
+8d#_	E major
+8d#J_	E major
+2d#]	E major
 8r	.
 =12	=12
-8r	E
-8r	E
-8c#	E
-8B	.
+8r	E major
+8r	E major
+8c#L	E major
+8BJ	.
 4c#	.
 4e	.
 =13	=13
-8d#[	B
-8d#_	B
-8d#_	B
-2d#]	B
+[8d#L	B major
+8d#_	B major
+8d#J_	B major
+2d#]	B major
 8r	.
 =14	=14
-8r	B
-8r	B
-8d#	B
-8d#	.
+8r	B major
+8r	B major
+8d#L	B major
+8d#J	.
 4d#	.
 4e	.
 =15	=15
-8d#[	A
-8d#_	A
-8d#]	A
-16e	A
-16d#	.
+[8d#L	A major
+8d#_	A major
+8d#]	A major
+16eL	A major
+16d#JJ	.
 2c#	.
 =16	=16
-8r	A
-8r	A
-8c#	A
-8c#	.
+8r	A major
+8r	A major
+8c#L	A major
+8c#J	.
 4c#	.
 4B	.
 ==	==

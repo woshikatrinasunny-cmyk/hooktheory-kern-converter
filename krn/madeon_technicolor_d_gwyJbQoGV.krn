@@ -16,68 +16,68 @@
 *d:	*
 *M4/4	*
 =1	=1
-4f	Dm
+4f	D minor
 8r	.
-8e	C
-8f	Dm
+8e	C major
+8f	D minor
 16r	.
-8f	Dm
+8f	D minor
 16r	.
-16e[	Dm
-16e]	C
+[16eLL	D minor
+16eJJ]	C major
 =2	=2
-4f	Dm
+4f	D minor
 8r	.
-8e	C
-8c[	Dm
-16c]	.
-8d[	Dm
-16d]	.
-16f[	Dm
-16f]	C
+8e	C major
+[8cL	D minor
+16ck]	.
+[8d	D minor
+16dL]	.
+[16f	D minor
+16fJJ]	C major
 =3	=3
-4f	Dm
+4f	D minor
 8r	.
-8e	C
-8f	Dm
+8e	C major
+8f	D minor
 16r	.
-8f	Dm
+8f	D minor
 16r	.
-16e[	Dm
-16e]	C
+[16eLL	D minor
+16eJJ]	C major
 =4	=4
-4d	Am
-8d[	.
-8d]	B-
+4d	A minor
+[8dL	.
+8dJ]	B- major
 4d	.
-4e	C
+4e	C major
 =5	=5
-4f	Dm
+4f	D minor
 8r	.
-8e	C
-8f	Dm
+8e	C major
+8f	D minor
 16r	.
-8f	Dm
+8f	D minor
 16r	.
-16e[	Dm
-16e]	C
+[16eLL	D minor
+16eJJ]	C major
 =6	=6
-4f	Dm
+4f	D minor
 8r	.
-8e	C
-8c[	Dm
-16c]	.
-8d[	Dm
-16d]	.
-16f[	Dm
-16f]	C
+8e	C major
+[8cL	D minor
+16ck]	.
+[8d	D minor
+16dL]	.
+[16f	D minor
+16fJJ]	C major
 =7	=7
-4.g	Gm
-4.f	F
-4b-[	B-
+4.g	G minor
+4.f	F major
+[4b-	B- major
 =8	=8
 8b-]	.
-4.a	Am
-4g	C
+4.a	A minor
+4g	C major
 ==	==
 *-	*-

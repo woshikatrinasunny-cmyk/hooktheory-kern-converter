@@ -20,212 +20,212 @@
 4g	.
 4a	.
 =2	=2
-4.b-	E-
-16b-	.
-16b-	.
+4.b-	E- major
+16b-LL	.
+16b-JJ	.
 4b-	.
-8a	.
-8b-	.
+8aL	.
+8b-J	.
 =3	=3
-4cc	F
+4cc	F major
 4b-	.
-8a	.
+8aL	.
 8b-	.
 8a	.
-8f	.
+8fJ	.
 =4	=4
-4d	Dm
+4d	D minor
 4b-	.
 4dd	.
 4ff	.
 =5	=5
-4ee-	Gm
+4ee-	G minor
 4dd	.
-2dd[	.
+[2dd	.
 =6	=6
-1dd_	E-
+1dd_	E- major
 =7	=7
-1dd]	F
+1dd]	F major
 =8	=8
-1r	Dm
+1r	D minor
 =9	=9
-2r	Gm
+2r	G minor
 4g	.
 4a	.
 =10	=10
-4.b-	E-
-16b-	.
-16b-	.
+4.b-	E- major
+16b-LL	.
+16b-JJ	.
 4b-	.
-8a	.
-8b-	.
+8aL	.
+8b-J	.
 =11	=11
-4cc	F
+4cc	F major
 4b-	.
-8a	.
+8aL	.
 8b-	.
 8a	.
-8f	.
+8fJ	.
 =12	=12
-4d	Dm
+4d	D minor
 4b-	.
 4dd	.
 4ff	.
 =13	=13
-4ee-	Gm
+4ee-	G minor
 4dd	.
 4dd	.
-8ee-	.
-8ff	.
+8ee-L	.
+8ffJ	.
 =14	=14
-4gg	E-
+4gg	E- major
 4ff	.
 4ee-	.
 4dd	.
 =15	=15
-4cc	F
+4cc	F major
 4b-	.
 4cc	.
 4ee-	.
 =16	=16
-1dd[	Dm
+[1dd	D minor
 =17	=17
-2dd]	Gm
+2dd]	G minor
 4g	.
 4b-	.
 =18	=18
-4.dd	E-
-16dd	.
-16dd	.
-8.dd	.
+4.dd	E- major
+16ddLL	.
+16ddJJ	.
+8.ddL	.
 8.ff	.
-8dd	.
+8ddJ	.
 =19	=19
-4cc	F
+4cc	F major
 4b-	.
 4a	.
 4b-	.
 =20	=20
-4cc	Dm
+4cc	D minor
 4ff	.
 4ccc	.
 4fff	.
 =21	=21
-4eee-	Gm
+4eee-	G minor
 4ddd	.
 4.ddd	.
-16bb-	.
-16ccc	.
+16bb-LL	.
+16cccJJ	.
 =22	=22
-4.ddd	E-
-16eee-	.
-16fff	.
-8ggg	.
+4.ddd	E- major
+16eee-LL	.
+16fffJJ	.
+8gggL	.
 8fff	.
 8eee-	.
-8ddd	.
+8dddJ	.
 =23	=23
-4ccc	F
+4ccc	F major
 4bb-	.
-8ccc	.
+8cccL	.
 8bb-	.
 8aa	.
-8gg	.
+8ggJ	.
 =24	=24
-4ff	Dm
+4ff	D minor
 8dd	.
 4ff	.
 4aa	.
-8aa[	.
+[8aa	.
 =25	=25
-8aa]	Gm
-8bb-	.
+8aaL]	G minor
+8bb-J	.
 4bb-	.
 4gg	.
 4bb-	.
 =26	=26
-4.dd	E-
-16dd	.
-16dd	.
-8.dd	.
+4.dd	E- major
+16ddLL	.
+16ddJJ	.
+8.ddL	.
 8.ff	.
-8dd	.
+8ddJ	.
 =27	=27
-4cc	F
+4cc	F major
 4b-	.
 4a	.
 4b-	.
 =28	=28
-4cc	Dm
+4cc	D minor
 4ff	.
 4ccc	.
 4fff	.
 =29	=29
-4eee-	Gm
+4eee-	G minor
 4ddd	.
 4ddd	.
-8eee-	.
-8fff	.
+8eee-L	.
+8fffJ	.
 =30	=30
-4ggg	E-
+4ggg	E- major
 4fff	.
 4eee-	.
 4ddd	.
 =31	=31
-4ccc	Cm
+4ccc	C minor
 4bb-	.
 4ccc	.
 4eee-	.
 =32	=32
-1ddd	Dm
+1ddd	D minor
 =33	=33
-1ggg-	G-dim
+1ggg-	G- diminished
 =34	=34
-2.gg[	Gm
-4gg_	E-
+[2.gg	G minor
+4gg_	E- major
 =35	=35
 2gg_	.
-2gg_	F
+2gg_	F major
 =36	=36
 4gg_	.
-2.gg]	Dm
+2.gg]	D minor
 =37	=37
-8gg	Gm
+8ggL	G minor
 8dd	.
 8b-	.
-8ff	F
-8cc	.
-8a	.
-4g	E-
+8ffJ	F major
+8ccL	.
+8aJ	.
+4g	E- major
 =38	=38
 4a	.
 4b-	.
-8a	D
+8aL	D major
 8a	.
 8a	.
-8a	.
+8aJ	.
 =39	=39
+8aL	.
 8a	.
-8a	.
-8dd	D
+8dd	D major
+8ddJ	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8dd	.
+8ddJ	.
 =40	=40
-8a-	D-
+8a-L	D- major
 8a-	.
 8a-	.
+8a-J	.
+8a-L	.
 8a-	.
-8a-	.
-8a-	.
-8dd-	D-
-8dd-	.
+8dd-	D- major
+8dd-J	.
 =41	=41
+8dd-L	.
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
+8dd-J	.
 ==	==
 *-	*-

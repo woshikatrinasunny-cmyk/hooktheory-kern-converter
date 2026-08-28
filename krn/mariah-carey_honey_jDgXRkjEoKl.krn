@@ -16,157 +16,157 @@
 *E-:	*
 *M4/4	*
 =1	=1
-2r	B-
-4r	E-
-8g	.
-8a-	.
+2r	B- major
+4r	E- major
+8gL	.
+8a-J	.
 =2	=2
-8b-	Cm
-8g	.
+8b-L	C minor
+8gJ	.
 4r	.
-8b-	Fm
-8g	.
+8b-L	F minor
+8gJ	.
 4r	.
 =3	=3
-4b-	B-
-8cc	.
-8a-	.
-4g	E-
-8b-	.
-8a-	.
+4b-	B- major
+8ccL	.
+8a-J	.
+4g	E- major
+8b-L	.
+8a-J	.
 =4	=4
-4g	Cm
+4g	C minor
 4r	.
-8cc	Fm
-8g	.
+8ccL	F minor
+8gJ	.
 4r	.
 =5	=5
-8b-	B-
+8b-L	B- major
 8a-	.
 8g	.
-8a-	.
-2g	E-
+8a-J	.
+2g	E- major
 =6	=6
-8r	Cm
+8r	C minor
+8ccL	.
 8cc	.
-8cc	.
+8gJ	.
+8b-L	F minor
 8g	.
-8b-	Fm
 8g	.
-8g	.
-8a-	.
+8a-J	.
 =7	=7
-4b-	B-
-8cc	.
-8g[	.
-16g]	E-
+4b-	B- major
+8ccL	.
+[8gJ	.
+16gLL]	E- major
 16f	.
 16e-	.
-16c	.
+16cJ	.
 8g	.
-8g	.
+8gJ	.
 =8	=8
-8g	Cm
+8gL	C minor
 8g	.
 8e-	.
-8f	.
-8g	Fm
+8fJ	.
+8gL	F minor
 8g	.
 8e-	.
-8f	.
+8fJ	.
 =9	=9
-8g	B-
+8gL	B- major
 8f	.
-16f	.
-16g	.
-8f[	.
-8f]	E-
+16fL	.
+16gJ	.
+[8fJ	.
+8fL]	E- major
 8e-	.
 8e-	.
-8e-	.
+8e-J	.
 =10	=10
-16g	Cm
+16gLL	C minor
 16g	.
 16g	.
-16g	.
+16gJ	.
 8g	.
-16f	.
-16f[	.
-16f]	Fm
+16fL	.
+[16fJJ	.
+16fLK]	F minor
 8e-	.
 8f	.
-16c	.
-8e-	.
+16ck	.
+8e-J	.
 =11	=11
-16g	B-
+16gLL	B- major
 16g	.
 16g	.
-16g	.
+16gJ	.
 8g	.
-16f	.
-16f[	.
-16f]	E-
+16fL	.
+[16fJJ	.
+16fLK]	E- major
 8e-	.
 8f	.
-16c	.
-8e-	.
+16ck	.
+8e-J	.
 =12	=12
-8f	Cm
-16g	.
+8fL	C minor
+16gk	.
 8.f	.
-8e-	.
-8f	Fm
-16g	.
+8e-J	.
+8fL	F minor
+16gk	.
 8.f	.
-8e-	.
+8e-J	.
 =13	=13
-8f	B-
-16g	.
+8fL	B- major
+16gk	.
 8.f	.
-8e-	.
-4d	E-
+8e-J	.
+4d	E- major
 4r	.
 =14	=14
-16g	Cm
+16gLL	C minor
 16g	.
 16g	.
-16g	.
+16gJ	.
 8g	.
-16f	.
-16f[	.
-16f]	Fm
+16fL	.
+[16fJJ	.
+16fLK]	F minor
 8e-	.
 8f	.
-16c	.
-8e-	.
+16ck	.
+8e-J	.
 =15	=15
-16g	B-
+16gLL	B- major
 16g	.
 16g	.
-16g	.
+16gJ	.
 8b-	.
-16f	.
-16f[	.
-16f]	E-
+16fL	.
+[16fJJ	.
+16fLK]	E- major
 8e-	.
 8f	.
-16c	.
-8e-	.
+16ck	.
+8e-J	.
 =16	=16
-8f	Cm
-16g	.
+8fL	C minor
+16gk	.
 8.f	.
-8e-	.
-8f	Fm
-16g	.
+8e-J	.
+8fL	F minor
+16gk	.
 8.f	.
-8e-	.
+8e-J	.
 =17	=17
-8f	B-
-16g	.
+8fL	B- major
+16gk	.
 8.f	.
-8e-	.
-4f	E-
+8e-J	.
+4f	E- major
 8.e-	.
 16r	.
 ==	==

@@ -16,31 +16,31 @@
 *b:	*
 *M4/4	*
 =1	=1
-8d	Em7
+8dL	E minor-seventh
 8B	.
-8.e[	F#7
-8.e]	F#7/A#
-8.A[	Bm7
-8.A_	Bm7
+[8.eJ	F# dominant
+8.e]	F# dominant/A#
+[8.AL	B minor-seventh
+8.AJ_	B minor-seventh
 =2	=2
-8.A_	Bm7
-8.A_	Bm7
-8.A_	Bm7
-8.A_	Bm7
-4A]	Bm7
+8.AL_	B minor-seventh
+8.AJ_	B minor-seventh
+8.A_	B minor-seventh
+8.A_	B minor-seventh
+4A]	B minor-seventh
 =3	=3
-8d	Em7
+8dL	E minor-seventh
 8B	.
-8.e[	F#7/A#
-8.e]	F#7
-8.A[	Bm7
-8.A_	Bm7
+[8.eJ	F# dominant/A#
+8.e]	F# dominant
+[8.AL	B minor-seventh
+8.AJ_	B minor-seventh
 =4	=4
-8.A_	Bm7
-8.A_	Bm7
-8.A_	Bm7
-8.A]	Bm/F#
-8e	Bm/F#
-8f#	Bm7
+8.AL_	B minor-seventh
+8.AJ_	B minor-seventh
+8.A_	B minor-seventh
+8.AL]	B minor/F#
+8e	B minor/F#
+8f#J	B minor-seventh
 ==	==
 *-	*-

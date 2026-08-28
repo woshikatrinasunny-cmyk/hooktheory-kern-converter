@@ -16,12 +16,12 @@
 *F:	*
 *M4/4	*
 =1	=1
-4gg	Fadd(2,6,7)
+4gg	F other-2,6,7
 8ff	.
 4gg	.
-8ee	.
+8eeL	.
 8g	.
-8g	.
+8gJ	.
 =2	=2
 4.dd	.
 4.cc	.
@@ -30,15 +30,15 @@
 4cc	.
 8aa	.
 4cc	.
-8gg	.
+8ggL	.
 8g	.
-8g	.
+8gJ	.
 =4	=4
 4.ff	.
 4.ee	.
 4dd	.
 =5	=5
-4b-	B-add(2,6,7)
+4b-	B- other-2,6,7
 4.bb-	.
 4.aa	.
 =6	=6
@@ -54,12 +54,12 @@
 4.aa	.
 4gg	.
 =9	=9
-4gg	Fadd(2,6,7)
+4gg	F other-2,6,7
 8ff	.
 4gg	.
-8ee	.
+8eeL	.
 8g	.
-8g	.
+8gJ	.
 =10	=10
 4.dd	.
 4.cc	.
@@ -68,15 +68,15 @@
 4cc	.
 8aa	.
 4cc	.
-8gg	.
+8ggL	.
 8g	.
-8g	.
+8gJ	.
 =12	=12
 4.ff	.
 4.ee	.
 4dd	.
 =13	=13
-4b-	B-add(2,6,7)
+4b-	B- other-2,6,7
 4.bb-	.
 4.aa	.
 =14	=14

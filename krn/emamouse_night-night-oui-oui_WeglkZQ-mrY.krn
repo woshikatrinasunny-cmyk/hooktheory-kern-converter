@@ -16,43 +16,43 @@
 *G:	*
 *M4/4	*
 =1	=1
-4b	G
+4b	G major
 4g	.
 4r	.
-16b	.
-16a	.
-8g	.
+16bLL	.
+16aJ	.
+8gJ	.
 =2	=2
-2b	Bm/F#
+2b	B minor/F#
 4r	.
-16b	.
-16a	.
-8g	.
+16bLL	.
+16aJ	.
+8gJ	.
 =3	=3
-2fn	Bdim/F
+2fn	B diminished/F
 4r	.
 4fn	.
 =4	=4
-2e	Em
+2e	E minor
 4ee	.
 4dd	.
 =5	=5
-4dd#	D#
+4dd#	D# major
 4gg	.
 4aa	.
 4gg	.
 =6	=6
-2dd	D
-2b	E/B
+2dd	D major
+2b	E major/B
 =7	=7
-8.b	Am
-8.a	.
+8.bL	A minor
+8.aJ	.
 4.cc	.
 4e	.
 =8	=8
-4.b	D
-16cc	.
-16b	.
+4.b	D major
+16ccLL	.
+16bJJ	.
 2a	.
 ==	==
 *-	*-

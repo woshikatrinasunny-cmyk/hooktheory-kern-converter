@@ -16,7 +16,7 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4ff	E-add(2,4,7)
+4ff	E- other-2,4,7
 4dd	.
 4ff	.
 4dd	.
@@ -26,7 +26,7 @@
 4cc	.
 4b-	.
 =3	=3
-4ff	Csus4
+4ff	C suspended-fourth
 4dd	.
 4ff	.
 4dd	.
@@ -36,7 +36,7 @@
 4cc	.
 4b-	.
 =5	=5
-4dd	Dm
+4dd	D minor
 4dd	.
 4dd	.
 4dd	.
@@ -46,7 +46,7 @@
 4dd	.
 4dd	.
 =7	=7
-4cc	F
+4cc	F major
 4cc	.
 4cc	.
 4cc	.

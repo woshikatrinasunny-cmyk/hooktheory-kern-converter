@@ -16,10 +16,10 @@
 *B-:	*
 *M4/4	*
 =1	=1
-16d	B-
+16dLL	B- major
 16f	.
 16b-	.
-16cc	.
+16ccJJ	.
 16r	.
 16dd	.
 16r	.
@@ -33,20 +33,20 @@
 16dd	.
 16r	.
 =2	=2
-16b-	E-m/G-
+16b-	E- minor/G-
 16r	.
-16f	.
-16g-	A-7/E-
+16fLL	.
+16g-JJ	A- dominant/E-
 16r	.
 16a-	.
 16r	.
 16g-	.
-2f	B-
+2f	B- major
 =3	=3
-16d	B-
+16dLL	B- major
 16f	.
 16b-	.
-16cc	.
+16ccJJ	.
 16r	.
 16dd	.
 16r	.
@@ -60,14 +60,14 @@
 16dd	.
 16r	.
 =4	=4
-16b-	E-m/G-
+16b-	E- minor/G-
 16r	.
-16f	.
-16g-	A-7/E-
+16fLL	.
+16g-JJ	A- dominant/E-
 16r	.
 16a-	.
 16r	.
 16a	.
-2b-	B-
+2b-	B- major
 ==	==
 *-	*-

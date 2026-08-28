@@ -16,16 +16,16 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4dd-	G-
+4dd-	G- major
 4dd-	.
 4dd-	.
 4dd-	.
 =2	=2
 4dd-	.
 4dd-	.
-8.ff	B-m7
+8.ffL	B- minor-seventh
 8.ff	.
-8ee-[	A-
+[8ee-J	A- major
 =3	=3
 4ee-]	.
 4ee-	.
@@ -34,9 +34,9 @@
 =4	=4
 4ee-	.
 4ee-	.
-8.ee-	Adim
+8.ee-L	A diminished
 8.ee-	.
-8dd-[	G-
+[8dd-J	G- major
 =5	=5
 4dd-]	.
 4dd-	.
@@ -45,9 +45,9 @@
 =6	=6
 4dd-	.
 4dd-	.
-8.ff	B-m7
+8.ffL	B- minor-seventh
 8.ff	.
-8ee-[	A-
+[8ee-J	A- major
 =7	=7
 4ee-]	.
 4ee-	.
@@ -56,8 +56,8 @@
 =8	=8
 4ee-	.
 4ee-	.
-8.ff	B-m7
+8.ffL	B- minor-seventh
 8.ff	.
-8ff	.
+8ffJ	.
 ==	==
 *-	*-

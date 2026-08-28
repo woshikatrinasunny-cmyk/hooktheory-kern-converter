@@ -16,161 +16,161 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.aa	Am
+4.aa	A minor
 4.ee	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 =2	=2
-4.dd	F
+4.dd	F major
 4cc	.
-8a	.
+8aL	.
 8b	.
-8cc	.
+8ccJ	.
 =3	=3
-4b	G
-8cc	.
-8dd	.
+4b	G major
+8ccL	.
+8ddJ	.
 8r	.
 8f	.
 8r	.
-8f[	.
+[8f	.
 =4	=4
-4.f]	C
+4.f]	C major
 4e	.
-8e	.
+8eL	.
 8f	.
-8g	.
+8gJ	.
 =5	=5
-4f	Dm
+4f	D minor
 8d	.
 3...a	.
 =6	=6
-4e	Am
+4e	A minor
 8c	.
 4A	.
-8G#	.
+8G#L	.
 8A	.
-8B[	.
+[8BJ	.
 =7	=7
-3...B]	Bdim
-8d	.
+3...B]	B diminished
+8dL	.
 8c	.
-8c[	.
+[8cJ	.
 =8	=8
-8c]	E
+8cL]	E major
 8d	.
-8B	.
+8BJ	.
 6...B	.
-8.c	.
-8d	.
+8.cL	.
+8dJ	.
 =9	=9
-3...e	Am
-8a	.
+3...e	A minor
+8aL	.
 8b	.
-8cc[	.
+[8ccJ	.
 =10	=10
-2cc]	F
-8.cc	.
+2cc]	F major
+8.ccL	.
 8.dd	.
-8ee	.
+8eeJ	.
 =11	=11
-2dd	G
+2dd	G major
 4b	.
 4g	.
 =12	=12
-4.f	C
+4.f	C major
 4e	.
-8e	.
+8eL	.
 8f	.
-8g	.
+8gJ	.
 =13	=13
-4f	Dm
+4f	D minor
 8e	.
 4d	.
 4e	.
 8f	.
 =14	=14
-4e	Am/C
+4e	A minor/C
 8c	.
 4A	.
-8A	.
+8AL	.
 8B	.
-8c[	.
+[8cJ	.
 =15	=15
-2c]	Bdim
-8B	E7
+2c]	B diminished
+8BL	E dominant
 8A	.
 8G#	.
-8A[	Am
+[8AJ	A minor
 =16	=16
 4.A]	.
 4.aa	.
-8ee	.
-8ff[	.
+8eeL	.
+[8ffJ	.
 =17	=17
-8ff]	Dm7
+8ffL]	D minor-seventh
 8gg	.
 8ff	.
-8ee	G7
-8dd	.
-8ff	.
+8eeJ	G dominant
+8ddL	.
+8ffJ	.
 8r	.
-8ee	Cmaj7
+8ee	C major-seventh
 =18	=18
 8r	.
 8dd	.
 8r	.
-8cc	Fmaj7
+8cc	F major-seventh
 8r	.
-8b	.
+8bL	.
 8a	.
-8ee[	.
+[8eeJ	.
 =19	=19
-4.ee_	Bm7
-4.ee]	E7
-8a	.
-8ee[	Am7
+4.ee_	B minor-seventh
+4.ee]	E dominant
+8aL	.
+[8eeJ	A minor-seventh
 =20	=20
 6...ee]	.
 16r	.
-4a	Aadd(3,7,9)
-8b	.
+4a	A other-3,7,9
+8bL	.
 8cc	.
-8ee	.
+8eeJ	.
 =21	=21
-8ff	Dm
+8ffL	D minor
 8gg	.
 8ff	.
-8ee	.
-8dd	G7
-8aa	.
+8eeJ	.
+8ddL	G dominant
+8aaJ	.
 8r	.
-8gg	C
+8gg	C major
 =22	=22
 8r	.
-8ee	Dm
+8eeL	D minor
 8dd	.
-8cc	Em
+8ccJ	E minor
 8r	.
-8b	Am
+8bL	A minor
 8a	.
-8b[	Fmaj7
+[8bJ	F major-seventh
 =23	=23
 2b]	.
-8cc	.
+8ccL	.
 8dd	.
 8gg	.
-8ff[	E7
+[8ffJ	E dominant
 =24	=24
 2..ff]	.
-8r	Eadd(3,4,8,10)
+8r	E other-3,4,8,10
 =25	=25
 8r	.
-8r	Eadd(3,4,8,10)
+8r	E other-3,4,8,10
 8r	.
-8r	Eadd(3,4,8,10)
+8r	E other-3,4,8,10
 8r	.
-8r	Eadd(3,4,8,10)
+8r	E other-3,4,8,10
 4r	.
 ==	==
 *-	*-

@@ -16,173 +16,173 @@
 *d:	*
 *M4/4	*
 =1	=1
-4f	Dm
-4a	Am/E
-6...g	B-
-16g	.
-16a	.
+4f	D minor
+4a	A minor/E
+6...g	B- major
+16gLL	.
+16aJJ	.
 16r	.
 =2	=2
-8.d	.
+8.dL	.
 8.e	.
-8f	.
+8fJ	.
 4.a	.
 8r	.
 =3	=3
-8f	B-maj7
+8f	B- major-seventh
 8r	.
-8a	Am7/C
+8a	A minor-seventh/C
 8r	.
-6...g	Dadd(3,5,7)
-16g	.
-16a	.
+6...g	D other-3,5,7
+16gLL	.
+16aJJ	.
 16r	.
 =4	=4
-8.d	.
+8.dL	.
 8.e	.
-8cc	.
+8ccJ	.
 2a	.
 =5	=5
-8a	Dm
+8a	D minor
 8r	.
-8b-	C
+8b-	C major
 8r	.
-4.cc	Gm7
+4.cc	G minor-seventh
 8dd	.
 =6	=6
-8.f	.
+8.fL	.
 8.g	.
-8a	.
-4.cc	Am7
+8aJ	.
+4.cc	A minor-seventh
 8dd	.
 =7	=7
-8.f	.
+8.fL	.
 8.ee	.
-8cc	.
-2a[	B-maj7
+8ccJ	.
+[2a	B- major-seventh
 =8	=8
 4.a]	.
-16b-	.
-16a	.
-4g	Am7
+16b-LL	.
+16aJJ	.
+4g	A minor-seventh
 4r	.
 =9	=9
-4A	Dm
-4c	Am/E
-16BB-	B-
+4A	D minor
+4c	A minor/E
+16BB-LL	B- major
 16BB-	.
 16D	.
 16BB-	.
 16BB-	.
 16E	.
 16BB-	.
-16E	.
+16EJJ	.
 =10	=10
-16BB-	.
+16BB-LL	.
 16BB-	.
 16G	.
 16BB-	.
 16BB-	.
 16F	.
 16BB-	.
-16BB-	.
-16BB-	.
+16BB-JJ	.
+16BB-LL	.
 16BB-	.
 16E	.
 16BB-	.
 16BB-	.
 16F	.
 16BB-	.
-16F	.
+16FJJ	.
 =11	=11
-16BB-	B-maj7
+16BB-LL	B- major-seventh
 16BB-	.
 16F	.
 16BB-	.
-16C	Am7/C
+16C	A minor-seventh/C
 16E	.
 16G	.
-16C	.
-16D	Dadd(3,5,7)
+16CJJ	.
+16DLL	D other-3,5,7
 16D	.
 16A	.
 16D	.
 16D	.
 16G	.
 16F	.
-16C	.
+16CJJ	.
 =12	=12
-16D	.
-16D	.
-16A	.
-16D	.
-16D	.
-16G	.
-16F	.
-16C	.
-16D	.
+16DLL	.
 16D	.
 16A	.
 16D	.
 16D	.
 16G	.
 16F	.
-16C	.
+16CJJ	.
+16DLL	.
+16D	.
+16A	.
+16D	.
+16D	.
+16G	.
+16F	.
+16CJJ	.
 =13	=13
-4D	Dm
-4C	C
-16GG	Gm7
+4D	D minor
+4C	C major
+16GGLL	G minor-seventh
 16GG	.
 16D	.
 16GG	.
 16GG	.
 16GG	.
 16G	.
-16A	.
+16AJJ	.
 =14	=14
-16GG	.
+16GGLL	.
 16GG	.
 16D	.
 16GG	.
 16GG	.
 16GG	.
 16G	.
-16A	.
-16AA	Am7
+16AJJ	.
+16AALL	A minor-seventh
 16AA	.
 16E	.
 16AA	.
 16F	.
 16AA	.
 16A	.
-16c	.
+16cJJ	.
 =15	=15
-16AA	.
+16AALL	.
 16AA	.
 16E	.
 16AA	.
 16F	.
 16AA	.
 16A	.
-16c	.
-16BB-	B-maj7
+16cJJ	.
+16BB-LL	B- major-seventh
 16BB-	.
 16F	.
 16BB-	.
 16G	.
 16BB-	.
 16F	.
-16BB-	.
+16BB-JJ	.
 =16	=16
-16A	.
+16ALL	.
 16BB-	.
 16F	.
 16BB-	.
 16G	.
 16BB-	.
 16G	.
-16F	.
-4AA	Am7
+16FJJ	.
+4AA	A minor-seventh
 4r	.
 ==	==
 *-	*-

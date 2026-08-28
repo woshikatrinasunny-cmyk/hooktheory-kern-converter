@@ -16,68 +16,68 @@
 *G:	*
 *M4/4	*
 =1	=1
-8B	G
+8BL	G major
 8B	.
 8B	.
-16B	.
+16BJk	.
 8.B	.
-16B	.
+16BLK	.
 8.G	.
-8A	.
+8AJ	.
 =2	=2
-8d	.
-8B	.
+8dL	.
+8BJ	.
 2r	.
-8r	Gmaj7
+8r	G major-seventh
 8F#	.
 =3	=3
-8B	Em
+8BL	E minor
 8c	.
 8B	.
-16c	.
+16cJk	.
 8.d	.
-8c	.
+8cL	.
 8B	.
-8G	.
+8GJ	.
 =4	=4
-8c	.
-8B	.
+8cL	.
+8BJ	.
 2r	.
-8r	Em7
+8r	E minor-seventh
 8G	.
 =5	=5
-8c	C
+8cL	C major
 8c	.
-8c	.
+8cJ	.
 4c	.
-8B	.
+8BL	.
 8A	.
-8B	.
+8BJ	.
 =6	=6
-8d	.
-8c	.
+8dL	.
+8cJ	.
 2r	.
-8r	Cadd(2,4,7)
+8r	C other-2,4,7
 8B	.
 =7	=7
-8c	Cm/D#
+8cL	C minor/D#
 8c	.
-8c	.
+8cJ	.
 4c	.
 8B	.
 8r	.
-16B	.
-16e[	.
+16BLL	.
+[16eJJ	.
 =8	=8
-8e]	D
-16d	.
+8eL]	D major
+16dk	.
 8.d	.
-16c	.
-16c[	.
-8c]	Em
-16B	.
-16A[	.
-16A]	F#dim
-8.c	.
+16cL	.
+[16cJJ	.
+8cL]	E minor
+16BL	.
+[16A	.
+16AJ]	F# diminished
+8.cJ	.
 ==	==
 *-	*-

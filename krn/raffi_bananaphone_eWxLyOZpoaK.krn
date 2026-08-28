@@ -16,78 +16,78 @@
 *G:	*
 *M4/4	*
 =1	=1
-4E	G
+4E	G major
 4E	.
-4E	G/D
+4E	G major/D
 4E	.
 =2	=2
-4E	D7
+4E	D dominant
 4E	.
-4E	D7/A
+4E	D dominant/A
 8r	.
 8A	.
 =3	=3
-8B	G
+8B	G major
 4G	.
-8E[	.
-2E]	G/D
+[8E	.
+2E]	G major/D
 =4	=4
-2r	D9
-2r	D7/A
+2r	D dominant-ninth
+2r	D dominant/A
 =5	=5
-4E	G
+4E	G major
 4E	.
-4E	G/D
+4E	G major/D
 4E	.
 =6	=6
-4E	D7
+4E	D dominant
 4E	.
-4E	F#add(3,6,8,10)/A
+4E	F# other-3,6,8,10/A
 8r	.
 8A	.
 =7	=7
-8B	E7
+8B	E dominant
 4B	.
-8B[	.
-2B_	E7/B
+[8B	.
+2B_	E dominant/B
 =8	=8
-2B_	Aadd(3,5,7)/E
-8B]	E7/B
+2B_	A other-3,5,7/E
+8B]	E dominant/B
 4.r	.
 =9	=9
-4r	Am7
+4r	A minor-seventh
 4B	.
-4A	Am7/E
+4A	A minor-seventh/E
 4G	.
 =10	=10
-4.B	Am7
-8A[	.
-2A]	Am7b5/C
+4.B	A minor-seventh
+[8A	.
+2A]	A half-diminished/C
 =11	=11
-2r	G
-4A	G/D
+2r	G major
+4A	G major/D
 4F#	.
 =12	=12
-4.A	Em7
-8G[	.
-2G]	Em7/B
+4.A	E minor-seventh
+[8G	.
+2G]	E minor-seventh/B
 =13	=13
-4r	A7
+4r	A dominant
 4G	.
-4F#	A7/E
+4F#	A dominant/E
 4E	.
 =14	=14
-8G	A7
+8G	A dominant
 8r	.
-8E	.
-8B[	.
-8B]	A7/E
-8E	.
+8EL	.
+[8BJ	.
+8BL]	A dominant/E
+8EJ	.
 4G	.
 =15	=15
-4A	D7
+4A	D dominant
 4r	.
-2e	D9
+2e	D dominant-ninth
 =16	=16
 1r	.
 ==	==

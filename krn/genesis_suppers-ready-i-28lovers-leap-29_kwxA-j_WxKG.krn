@@ -16,42 +16,42 @@
 *g:	*
 *M4/4	*
 =1	=1
-8.B-	Gm
+8.B-L	G minor
 8.B-	.
-8B-	.
-8.A	Fadd(2,4,5,7,9)
+8B-J	.
+8.AL	F other-2,4,5,7,9
 8A	.
-8A	.
+8AJ	.
 16r	.
 =2	=2
-8.A	B-add(4,7,9,11)
+8.AL	B- other-4,7,9,11
 8.A	.
-8A	.
-8.A	Gm/D
-8.G	.
+8AJ	.
+8.AL	G minor/D
+8.GJ	.
 8r	.
 =3	=3
-8.r	Dsus4
-16Bn	.
+8.r	D suspended-fourth
+16BnLK	.
 8g	.
-16g	.
-16g-[	.
-16g-]	D
+16gL	.
+[16g-JJ	.
+16g-LL]	D major
 16en	.
-16d	.
+16dJJ	.
 6...d	.
 =4	=4
-2r	Dsus4
-6...r	D
-16En	.
+2r	D suspended-fourth
+6...r	D major
+16EnLL	.
 16Bn	.
-16Bn	.
+16BnJJ	.
 =5	=5
 *k[]	*
 *d:	*
-16B	Am9
-8G	.
-2.A[	.
+16BLK	A minor-ninth
+8GJ	.
+[2.A	.
 16A]	.
 =6	=6
 1r	.

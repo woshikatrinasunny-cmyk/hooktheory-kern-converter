@@ -17,79 +17,79 @@
 *M4/4	*
 =1	=1
 2.r	.
-8b	.
-16cc#	.
-16dd[	.
+8bL	.
+16cc#L	.
+[16ddJJ	.
 =2	=2
-4dd]	Gadd(2,4,7)
-8b	.
-16cc#	.
+4dd]	G other-2,4,7
+8bL	.
+16cc#Jk	.
 8dd	.
-16b[	.
-16b]	D
+[16bLL	.
+16bJ]	D major
 8b	.
-16a	.
-8a[	.
+16ak	.
+[8aJ	.
 =3	=3
-8a]	A
+8a]	A major
 4r	.
 8a	.
-16ee	.
-16ff#[	.
-16ff#]	Dadd(2,4,7)
-16ee	.
+16eeLL	.
+[16ff#	.
+16ff#]	D other-2,4,7
+16eeJ	.
 8dd	.
-8dd[	.
+[8ddJ	.
 =4	=4
-8.dd]	Gadd(2,4,7)
-16dd	.
+8.ddL]	G other-2,4,7
+16ddk	.
 8b	.
-16cc#	.
+16cc#Jk	.
 8dd	.
-16b[	.
-16b]	Dadd(2,4,7)
-16b	.
+[16bLL	.
+16b]	D other-2,4,7
+16bJ	.
 8a	.
-8e[	.
+[8eJ	.
 =5	=5
-8e]	A
+8e]	A major
 2r	.
-8r	Dadd(2,4,7)
-8b	.
-16cc#	.
-16dd[	.
+8r	D other-2,4,7
+8bL	.
+16cc#L	.
+[16ddJJ	.
 =6	=6
-8dd]	Gadd(2,4,7)
+8ddL]	G other-2,4,7
 8dd	.
-16b	.
-16cc#	.
+16bL	.
+16cc#JJ	.
 4dd	.
-8b	D
+8bL	D major
 8b	.
-16a	.
-16a[	.
+16aL	.
+[16aJJ	.
 =7	=7
-8a]	A
+8a]	A major
 4r	.
 8a	.
-16ee	.
-16ff#[	.
-16ff#]	Dadd(2,4,7)
-16ee	.
+16eeLL	.
+[16ff#	.
+16ff#]	D other-2,4,7
+16eeJ	.
 8dd	.
-8dd[	.
+[8ddJ	.
 =8	=8
-8.dd]	Gadd(2,4,7)
+8.dd]	G other-2,4,7
 8.r	.
 8a	.
-16ee	.
-16ff#[	.
-16ff#]	Dadd(2,4,7)
-16aa	.
+16eeLL	.
+[16ff#	.
+16ff#]	D other-2,4,7
+16aaJ	.
 8ff#	.
-8ee	.
+8eeJ	.
 =9	=9
-3...r	A
-4.r	Dadd(2,4,7)
+3...r	A major
+4.r	D other-2,4,7
 ==	==
 *-	*-

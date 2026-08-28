@@ -15,12 +15,12 @@
 *a:	*
 *M4/4	*
 =1	=1
-2.c	Am
+2.c	A minor
 4A	.
 =2	=2
-4B	G
+4B	G major
 4r	.
-4A	Am
+4A	A minor
 4r	.
 =3	=3
 4c	.
@@ -28,25 +28,25 @@
 4c	.
 4B	.
 =4	=4
-2.B	G
+2.B	G major
 4r	.
 =5	=5
-2.r	A5
-8B	.
-8c	.
+2.r	A power
+8BL	.
+8cJ	.
 =6	=6
-2B	G
-4B	Asus2
+2B	G major
+4B	A suspended-second
 4A	.
 =7	=7
-4e	A5
+4e	A power
 4e	.
 4d	.
 4c	.
 =8	=8
-4c	Gsus4
+4c	G suspended-fourth
 4B	.
-4c	Am
+4c	A minor
 4r	.
 ==	==
 *-	*-

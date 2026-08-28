@@ -16,145 +16,145 @@
 *f#:	*
 *M4/4	*
 =1	=1
-16f#	D
+16f#LL	D major
 16e	.
 16f#	.
 16e	.
-16f#	.
+16f#J	.
 8a	.
-16g#[	.
-8g#]	E
+[16g#Jk	.
+8g#L]	E major
 8f#	.
 8e	.
-8f#	.
+8f#J	.
 =2	=2
-16g#	C#m7
+16g#LL	C# minor-seventh
 16f#	.
 16g#	.
 16f#	.
-16g#	.
+16g#J	.
 8b	.
-16a[	.
-8a]	F#m
+[16aJk	.
+8a]	F# minor
 8r	.
-8e	.
-8c#	.
+8eL	.
+8c#J	.
 =3	=3
-4d	Bm7
+4d	B minor-seventh
 4f#	.
-8.g#	C#7
+8.g#L	C# dominant
 8.a	.
-8b	.
+8bJ	.
 =4	=4
-16cc#[	.
-8.cc#_	F#m
-4cc#]	C#7/F
-8r	E
-16cc#[	.
-16cc#]	A
+[16cc#LK	.
+8.cc#J_	F# minor
+4cc#]	C# dominant/F
+8r	E major
+[16cc#LL	.
+16cc#J]	A major
 8b	.
-8e	.
+8eJ	.
 =5	=5
-16d	D
+16dLL	D major
 16c#	.
 16B	.
-16c#	.
+16c#J	.
 8d	.
-16g#	.
-16f#	.
-16e	E
-16f#	.
+16g#L	.
+16f#JJ	.
+16eLL	E major
+16f#J	.
 8g#	.
-16e	.
+16eL	.
 16d	.
 16c#	.
-16d	.
+16dJJ	.
 =6	=6
-8e	C#m7
-16b	.
+8eL	C# minor-seventh
+16bL	.
 16a	.
 16g#	.
-16b	.
-8.a	F#m
+16bJJ	.
+8.a	F# minor
 16r	.
-8e	.
+8eL	.
 8d	.
-8c#	.
+8c#J	.
 =7	=7
-4d	Bm7
+4d	B minor-seventh
 4e	.
-8.f#	.
+8.f#L	.
 8.g#	.
-8a	.
+8aJ	.
 =8	=8
-4g#	C#7
+4g#	C# dominant
 4a	.
 4.b	.
 8r	.
 =9	=9
-16f#	D
+16f#LL	D major
 16e	.
 16f#	.
 16e	.
-16f#	.
+16f#J	.
 8a	.
-16g#[	.
-8g#]	E
+[16g#Jk	.
+8g#L]	E major
 8f#	.
 8e	.
-8f#	.
+8f#J	.
 =10	=10
-16g#	C#m7
+16g#LL	C# minor-seventh
 16f#	.
 16g#	.
 16f#	.
-16g#	.
+16g#J	.
 8b	.
-16a[	.
-8a]	F#m7
+[16aJk	.
+8a]	F# minor-seventh
 8r	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =11	=11
-4cc#	Bm7
+4cc#	B minor-seventh
 8r	.
 8cc#	.
-8dd	C#7
+8ddL	C# dominant
 8cc#	.
 8gn	.
-8g#	.
+8g#J	.
 =12	=12
-16b[	.
-8.b_	F#m
-8b]	C#7/F
-8a	.
-8.a[	E
-16a]	A
+[16bLK	.
+8.b_	F# minor
+8b]	C# dominant/F
+8aJ	.
+[8.aL	E major
+16ak]	A major
 8c#	.
-8a	.
+8aJ	.
 =13	=13
-4a	Bm9
-8d	.
-8a	.
-4b	E7
-8e	.
-8b	.
+4a	B minor-ninth
+8dL	.
+8aJ	.
+4b	E dominant
+8eL	.
+8bJ	.
 =14	=14
-4b	C#7
-8fn	.
-8b	.
-4cc#	F#m
-8b	E7
-8a	.
+4b	C# dominant
+8fnL	.
+8bJ	.
+4cc#	F# minor
+8bL	E dominant
+8aJ	.
 =15	=15
-6...a	Dmaj7
+6...a	D major-seventh
 16r	.
 8ee	.
-8.a	Esus4
+8.aL	E suspended-fourth
 8.g#	.
-8a	.
+8aJ	.
 =16	=16
-4a[	Dmaj7
+[4a	D major-seventh
 4.a]	.
 4.r	.
 ==	==

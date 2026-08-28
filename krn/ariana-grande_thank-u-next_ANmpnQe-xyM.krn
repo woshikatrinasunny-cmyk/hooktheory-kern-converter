@@ -16,63 +16,63 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4r	G-maj7
+4r	G- major-seventh
 8.ff	.
 8.ee-	.
 8r	.
 4ee-	.
 =2	=2
-8aa-	Fadd(3,4,7,10)
+8aa-	F other-3,4,7,10
 8r	.
 8.ff	.
 8.ee-	.
 8r	.
 4ee-	.
 =3	=3
-8aa-	B-m7
+8aa-	B- minor-seventh
 8r	.
 8.ff	.
 8.ee-	.
 8r	.
 4ee-	.
 =4	=4
-16bb-	D-7
+16bb-LK	D- dominant
 8.aa-	.
-16aa-	.
-8.ff	.
-16ff	.
+16aa-k	.
+8.ffJ	.
+16ffLK	.
 8.ee-	.
-16ff	.
-8.dd-	.
+16ffk	.
+8.dd-J	.
 =5	=5
-8ee-	G-maj7
+8ee-L	G- major-seventh
 8b-	.
-8.ff	.
+8.ffJ	.
 8.ee-	.
 8r	.
 4ee-	.
 =6	=6
-8aa-	Fadd(3,4,7,10)
+8aa-	F other-3,4,7,10
 8r	.
 8.ff	.
 8.ee-	.
 8r	.
 4ee-	.
 =7	=7
-8aa-	B-m7
+8aa-	B- minor-seventh
 8r	.
 8.ff	.
 8.ee-	.
 8r	.
 4ee-	.
 =8	=8
-16bb-	D-7
+16bb-LK	D- dominant
 8.aa-	.
-16aa-	.
+16aa-Jk	.
 4ff	.
-8.aa-	.
-16aa-	.
-16gg-	.
-8ff	.
+8.aa-L	.
+16aa-L	.
+16gg-J	.
+8ffJ	.
 ==	==
 *-	*-

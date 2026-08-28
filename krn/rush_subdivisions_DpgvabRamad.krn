@@ -16,105 +16,105 @@
 *b:	*
 *M6/4	*
 =1	=1
-2.r	G
-4.r	Aadd(2,4,7)
-4r	Bm
-8r	Bm7/A
+2.r	G major
+4.r	A other-2,4,7
+4r	B minor
+8r	B minor-seventh/A
 =2	=2
-2.r	G
-4.r	Aadd(2,4,7)
-4r	Bm
-8r	Bm7/A
+2.r	G major
+4.r	A other-2,4,7
+4r	B minor
+8r	B minor-seventh/A
 =3	=3
-4.r	G
+4.r	G major
 4dd	.
 8dd	.
-8cc#	Aadd(2,4,7)
+8cc#	A other-2,4,7
 4cc#	.
-4b[	Bm
-8b]	Bm7/A
+[4b	B minor
+8b]	B minor-seventh/A
 =4	=4
-4.r	G
+4.r	G major
 4dd	.
 8dd	.
-8ee	Aadd(2,4,7)
+8ee	A other-2,4,7
 4cc#	.
-4b[	Bm
-8b]	Bm7/A
+[4b	B minor
+8b]	B minor-seventh/A
 =5	=5
-8r	G
+8r	G major
 4dd	.
 4dd	.
 8dd	.
-4ee	Aadd(2,4,7)
-8ff#[	.
-8ff#]	Bm
+4ee	A other-2,4,7
+[8ff#L	.
+8ff#J]	B minor
 4ff#	.
 =6	=6
-4.r	G
+4.r	G major
 4dd	.
 8dd	.
-8cc#	Aadd(2,4,7)
+8cc#	A other-2,4,7
 4cc#	.
-4b[	Bm
-8b]	Bm7/A
+[4b	B minor
+8b]	B minor-seventh/A
 =7	=7
-4.r	G
+4.r	G major
 4dd	.
 8dd	.
-8ee	Aadd(2,4,7)
+8ee	A other-2,4,7
 4cc#	.
-4b[	Bm
-8b]	Bm7/A
+[4b	B minor
+8b]	B minor-seventh/A
 =8	=8
-8r	G
+8r	G major
 4dd	.
 4dd	.
 8dd	.
-4ee	Aadd(2,4,7)
-4ff#	Bm
+4ee	A other-2,4,7
+4ff#	B minor
 4ff#	.
 =9	=9
-2.r	G
-4.r	Aadd(2,4,7)
-8.r	Bm
-8.r	Bm7/A
+2.r	G major
+4.r	A other-2,4,7
+8.r	B minor
+8.r	B minor-seventh/A
 =10	=10
-8dd	G
-8dd	.
+8ddL	G major
+8ddJ	.
 8dd	.
 4dd	.
 8dd	.
-4ee	Aadd(2,4,7)
+4ee	A other-2,4,7
 8ee	.
-4ff#	Bm
-8ff#	G
+4ff#	B minor
+8ff#	G major
 =11	=11
-4ee	A
+4ee	A major
 8ee	.
 4ee	.
 8dd	.
-4.ff#	Bm
-8ff#	Bm7/A
+4.ff#	B minor
+8ff#	B minor-seventh/A
 4ee	.
 =12	=12
-8dd	G
+8dd	G major
 4dd	.
 4dd	.
 8dd	.
-4ee	Aadd(2,4,7)
-8ee	.
-8ff#	Bm
-8ff#[	.
-8ff#]	G
+4ee	A other-2,4,7
+8eeL	.
+8ff#J	B minor
+[8ff#L	.
+8ff#J]	G major
 =13	=13
-8ee	A
+8ee	A major
 4ee	.
 4ee	.
-8ff#[	.
-8ff#]	Bm
-4ff#[	.
-8ff#]	A
+[8ff#	.
+8ff#]	B minor
+[4ff#	.
+8ff#]	A major
 4r	.
 ==	==
 *-	*-

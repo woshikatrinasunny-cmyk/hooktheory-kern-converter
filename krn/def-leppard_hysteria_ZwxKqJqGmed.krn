@@ -16,37 +16,37 @@
 *G:	*
 *M4/4	*
 =1	=1
-1r	D
+1r	D major
 =2	=2
 2r	.
-4r	D
-4r	Dsus4
+4r	D major
+4r	D suspended-fourth
 =3	=3
-8r	C
+8r	C major
+8dL	.
 8d	.
-8d	.
-8d	.
+8dJ	.
 4g	.
-8f#	.
-8e	.
+8f#L	.
+8eJ	.
 =4	=4
 2d	.
-4r	D
-4r	Dsus4
+4r	D major
+4r	D suspended-fourth
 =5	=5
-8r	G/B
+8r	G major/B
+8dL	.
 8d	.
-8d	.
-8d	.
+8dJ	.
 4g	.
-8f#	.
-8e	.
+8f#L	.
+8eJ	.
 =6	=6
 2d	.
-4r	D
-4r	Dsus4
+4r	D major
+4r	D suspended-fourth
 =7	=7
-8r	C
+8r	C major
 4d	.
 4d	.
 4d	.
@@ -55,95 +55,95 @@
 8G	.
 4G	.
 8r	.
-4r	C
-4r	G
+4r	C major
+4r	G major
 =9	=9
-8r	D
+8r	D major
 4d	.
 4d	.
 4e	.
-8d[	.
+[8d	.
 =10	=10
 8d]	.
 4r	.
 8f#	.
 8r	.
+8f#L	.
 8f#	.
-8f#	.
-8f#	.
+8f#J	.
 =11	=11
-8g	Em
-8f#	.
+8gL	E minor
+8f#J	.
 2e	.
 8r	.
-8f#	C
+8f#	C major
 =12	=12
-8g	.
-8f#	.
+8gL	.
+8f#J	.
 4e	.
 8r	.
+8dL	.
 8d	.
-8d	.
-8d	D
+8dJ	D major
 =13	=13
 8d	.
 4d	.
 4r	.
+8dL	.
 8d	.
-8d	.
-8d	.
+8dJ	.
 =14	=14
 8f#	.
 4f#	.
 4r	.
+8eL	.
 8e	.
-8e	.
-8f#	.
+8f#J	.
 =15	=15
-8g	Em
-8f#	.
+8gL	E minor
+8f#J	.
 2e	.
 8r	.
-8f#	C
+8f#	C major
 =16	=16
-8g	.
-8f#	.
+8gL	.
+8f#J	.
 4e	.
 8r	.
-16d	.
-16d	.
+16dLL	.
+16dJ	.
 8d	.
-8d	D
+8dJ	D major
 =17	=17
 8d	.
 4d	.
 4r	.
-16d	.
-16d	.
+16dLL	.
+16dJ	.
 8d	.
-8d	.
+8dJ	.
 =18	=18
 8f#	.
 4f#	.
 4r	.
-8d	.
+8dL	.
 8e	.
-8f#	.
+8f#J	.
 =19	=19
-8g	Em
-8f#	.
+8gL	E minor
+8f#J	.
 2e	.
 8r	.
-8f#	C
+8f#	C major
 =20	=20
-8g	.
-8f#	.
+8gL	.
+8f#J	.
 4e	.
 8r	.
 8d	.
-4d[	.
+[4d	.
 =21	=21
-4d]	D
+4d]	D major
 2.r	.
 =22	=22
 1r	.

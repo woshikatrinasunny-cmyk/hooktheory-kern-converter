@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	Cmaj7
+1r	C major-seventh
 =2	=2
 32g	.
 4...g	.
@@ -30,24 +30,24 @@
 32e	.
 4...e	.
 =5	=5
-32cc	Fmaj7
+32ccLKK	F major-seventh
 8..cc	.
-32gg	.
-8..gg	.
-32ee	.
+32ggkk	.
+8..ggJ	.
+32eeLKK	.
 8..ee	.
-32a	.
-8..a	.
+32akk	.
+8..aJ	.
 =6	=6
 32g	.
 4...g	.
 32e	.
 4...e	.
 =7	=7
-32gg	.
+32ggLKK	.
 8..gg	.
-32aa	.
-8..aa	.
+32aakk	.
+8..aaJ	.
 32cc	.
 4...cc	.
 =8	=8
@@ -56,10 +56,10 @@
 32e	.
 4...e	.
 =9	=9
-32bb	Cmaj7
+32bbLKK	C major-seventh
 8..bb	.
-32gg	.
-8..gg	.
+32ggkk	.
+8..ggJ	.
 32dd	.
 4...dd	.
 =10	=10
@@ -68,24 +68,24 @@
 32cc	.
 4...cc	.
 =11	=11
-8bb	Aadd(2,3,7)/C
-16ccc	.
-16ddd	.
+8bbL	A other-2,3,7/C
+16cccL	.
+16dddJ	.
 8eee	.
-8ggg	.
+8gggJ	.
 2r	.
 =12	=12
-32d	.
+32dLKK	.
 8..d	.
-32ddd	.
-8..ddd	.
+32dddkk	.
+8..dddJ	.
 32e	.
 4...e	.
 =13	=13
-32cc	Fmaj7
+32ccLKK	F major-seventh
 8..cc	.
-32gg	.
-8..gg	.
+32ggkk	.
+8..ggJ	.
 32ee	.
 4...ee	.
 =14	=14
@@ -93,10 +93,10 @@
 32e	.
 4...e	.
 =15	=15
-32gg	.
+32ggLKK	.
 8..gg	.
-32aa	.
-8..aa	.
+32aakk	.
+8..aaJ	.
 32cc	.
 4...cc	.
 =16	=16

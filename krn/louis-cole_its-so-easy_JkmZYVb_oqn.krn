@@ -16,67 +16,67 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8r	C#maj7sus2
-8g#	.
+8r	C# major-seventh-suspended-second
+8g#L	.
 8ccn	.
-8dd#	D#add(3,5,7)/F#
-8ff#	.
+8dd#J	D# other-3,5,7/F#
+8ff#L	.
 8ffn	.
 8ff#	.
-8ffn	.
+8ffnJ	.
 =2	=2
-4r	C#m/E
-8ee	.
-8dd#	.
-8ee	.
-8dd#	.
+4r	C# minor/E
+8eeL	.
+8dd#J	.
+8eeL	.
+8dd#J	.
 4r	.
 =3	=3
-8r	G#7sus4/D#
+8r	G# dominant-seventh-suspended-fourth/D#
 8cc#	.
 8r	.
-8ccn	G#7
+8ccn	G# dominant
 4a#	.
 4ccn	.
 =4	=4
-4e	C#maj7sus2
-8c#	.
-8c#	D#add(3,5,7)/F#
+4e	C# major-seventh-suspended-second
+8c#L	.
+8c#J	D# other-3,5,7/F#
 2c#	.
 =5	=5
-4.r	C#m/E
-3...r	Amaj7
+4.r	C# minor/E
+3...r	A major-seventh
 =6	=6
-4.r	G#7sus4/D#
-4.r	G#7
+4.r	G# dominant-seventh-suspended-fourth/D#
+4.r	G# dominant
 4c#	.
 =7	=7
-4e	C#maj7sus2
-8c#	.
-8c#	.
+4e	C# major-seventh-suspended-second
+8c#L	.
+8c#J	.
 2c#	.
 =8	=8
-1r	C#m/E
+1r	C# minor/E
 =9	=9
-2r	Amaj7/G#
-4r	G#7
+2r	A major-seventh/G#
+4r	G# dominant
 4c#	.
 =10	=10
-4e	C#maj7/F
-8c#	.
-8c#	A#m7
+4e	C# major-seventh/F
+8c#L	.
+8c#J	A# minor-seventh
 2c#	.
 =11	=11
-4r	C#m/E
-8ee	.
-8dd#	.
-8ee	.
+4r	C# minor/E
+8eeL	.
+8dd#J	.
+8eeL	.
 8dd#	.
 8B	.
-8A#	.
+8A#J	.
 =12	=12
-8B	G#7sus4
-8G#	.
+8BL	G# dominant-seventh-suspended-fourth
+8G#J	.
 2r	.
 4G#	.
 ==	==

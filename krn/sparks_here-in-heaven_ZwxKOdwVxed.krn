@@ -16,66 +16,66 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.dd	C
+4.dd	C major
 4cc	.
-8dd	.
+8ddL	.
 8b	.
-8cc	.
+8ccJ	.
 =2	=2
-4.g	C
+4.g	C major
 8a	.
 2g	.
 =3	=3
-4.dd	C
+4.dd	C major
 4cc	.
-8dd	.
+8ddL	.
 8b	.
-8cc	.
+8ccJ	.
 =4	=4
-4.g	C7
+4.g	C dominant
 8a	.
 2g	.
 =5	=5
-4.dd	C
+4.dd	C major
 4cc	.
-8dd	.
+8ddL	.
 8b	.
-8cc	.
+8ccJ	.
 =6	=6
-4.g	C7
+4.g	C dominant
 8a	.
 4g	.
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 =7	=7
-4.dd	C
+4.dd	C major
 4cc	.
-8dd	.
+8ddL	.
 8b	.
-8cc	.
+8ccJ	.
 =8	=8
-4.g	C
+4.g	C major
 8a	.
-8g	.
+8gL	.
 8a	.
 8f	.
-8g	.
+8gJ	.
 =9	=9
-4.e	C
+4.e	C major
 8e	.
-8d	.
+8dL	.
 8e	.
 8A#	.
-8d	.
+8dJ	.
 =10	=10
-2c	C
+2c	C major
 2r	.
 =11	=11
-8r	C
-8r	C
-8r	C
-8r	C
-8r	C
+8r	C major
+8r	C major
+8r	C major
+8r	C major
+8r	C major
 4.r	.
 ==	==
 *-	*-

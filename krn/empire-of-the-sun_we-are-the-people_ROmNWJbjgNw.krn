@@ -15,76 +15,76 @@
 *e:	*
 *M4/4	*
 =1	=1
-8bb[	Cmaj7
-8bb]	Cmaj7
-8aa[	.
-8aa]	Cmaj7
-8ff#[	Cmaj7
-8ff#]	Cmaj7
+[8bbL	C major-seventh
+8bb]	C major-seventh
+[8aa	.
+8aaJ]	C major-seventh
+[8ff#L	C major-seventh
+8ff#]	C major-seventh
 8ee	.
-8dd	Cmaj7
+8ddJ	C major-seventh
 =2	=2
-8ee	Em7
-8gg	Em7
-8ee[	.
-8ee]	Em7
-8dd[	Em7
-8dd]	Em7
+8eeL	E minor-seventh
+8gg	E minor-seventh
+[8ee	.
+8eeJ]	E minor-seventh
+[8ddL	E minor-seventh
+8dd]	E minor-seventh
 8b	.
-8a	Em7
+8aJ	E minor-seventh
 =3	=3
-8a	D
-8a	D
-8dd[	.
-8dd_	D
-8dd_	D
-8dd]	D
+8aL	D major
+8a	D major
+[8dd	.
+8ddJ_	D major
+8ddL_	D major
+8ddJ]	D major
 8r	.
-8r	D
+8r	D major
 =4	=4
-8r	D
-8r	D
+8r	D major
+8r	D major
 8r	.
-8r	D
-8b	D
-8b	D
+8r	D major
+8bL	D major
+8b	D major
 8dd	.
-8dd	D
+8ddJ	D major
 =5	=5
-8ee	Cmaj7
-8ee	Cmaj7
-8ee[	.
-8ee]	Cmaj7
-8r	Cmaj7
-8r	Cmaj7
+8eeL	C major-seventh
+8ee	C major-seventh
+[8ee	.
+8eeJ]	C major-seventh
+8r	C major-seventh
+8r	C major-seventh
 8r	.
-8r	Cmaj7
+8r	C major-seventh
 =6	=6
-8r	Em7
-8r	Em7
+8r	E minor-seventh
+8r	E minor-seventh
 8r	.
-8r	Em7
-8b	Em7
-8b	Em7
+8r	E minor-seventh
+8bL	E minor-seventh
+8b	E minor-seventh
 8dd	.
-8dd	Em7
+8ddJ	E minor-seventh
 =7	=7
-8ee	Dmaj7
-8ee	Dmaj7
-8ee[	.
-8ee]	Dmaj7
-8r	Dmaj7
-8r	Dmaj7
+8eeL	D major-seventh
+8ee	D major-seventh
+[8ee	.
+8eeJ]	D major-seventh
+8r	D major-seventh
+8r	D major-seventh
 8r	.
-8r	Dmaj7
+8r	D major-seventh
 =8	=8
-8r	Dmaj7
-8r	Dmaj7
+8r	D major-seventh
+8r	D major-seventh
 8r	.
-8r	Dmaj7
-8r	Dmaj7
-8r	Dmaj7
+8r	D major-seventh
+8r	D major-seventh
+8r	D major-seventh
 8r	.
-8ee	Dmaj7
+8ee	D major-seventh
 ==	==
 *-	*-

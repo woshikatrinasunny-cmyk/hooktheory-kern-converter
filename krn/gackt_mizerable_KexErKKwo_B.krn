@@ -16,14 +16,14 @@
 *C:	*
 *M4/4	*
 =1	=1
-2.r	Cmaj7
+2.r	C major-seventh
 4d	.
 =2	=2
 4.dd	.
 4.cc	.
 4b	.
 =3	=3
-4a	Bm7
+4a	B minor-seventh
 8b	.
 3...f#	.
 =4	=4
@@ -32,7 +32,7 @@
 4e	.
 4f#	.
 =5	=5
-4.g	Am7
+4.g	A minor-seventh
 3...e	.
 =6	=6
 4r	.
@@ -41,38 +41,38 @@
 4a	.
 8a	.
 =7	=7
-4f#	Gmaj7
+4f#	G major-seventh
 8g	.
 4f#	.
 8g	.
-4f#[	.
+[4f#	.
 =8	=8
 2.f#]	.
-8g	.
-8e	.
+8gL	.
+8eJ	.
 =9	=9
-2e	Am7
+2e	A minor-seventh
 8r	.
-8e	.
+8eL	.
 8a	.
-8f#[	.
+[8f#J	.
 =10	=10
-2f#]	Bm7
+2f#]	B minor-seventh
 8r	.
+8dL	.
 8d	.
-8d	.
-8d	.
+8dJ	.
 =11	=11
-4e	Em
+4e	E minor
 8b	.
 2b	.
 8b	.
 =12	=12
-4a	A/C#
+4a	A major/C#
 8g	.
 4f#	.
 4g	.
-8e[	Cmaj7
+[8e	C major-seventh
 =13	=13
 4.e]	.
 8G	.
@@ -80,9 +80,9 @@
 4g	.
 8g	.
 =14	=14
-8f#	Bm7
+8f#L	B minor-seventh
 8f#	.
-8g	.
+8gJ	.
 4.a	.
 8r	.
 8e	.

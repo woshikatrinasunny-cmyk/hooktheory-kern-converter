@@ -16,123 +16,123 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.r	D
+4.r	D major
 8A	.
 8d	.
 4d	.
 8d	.
 =2	=2
-4A	A
+4A	A major
 4.r	.
+8dL	.
 8d	.
-8d	.
-8d	.
+8dJ	.
 =3	=3
-4.e	Em
+4.e	E minor
 8d	.
 8c#	.
 4A	.
-8B[	.
+[8B	.
 =4	=4
-4.B]	Bm
+4.B]	B minor
 4r	.
 8d	.
 4d	.
 =5	=5
-4.e	Em
+4.e	E minor
 8d	.
 4c#	.
-8A	.
-8f#[	.
+8AL	.
+[8f#J	.
 =6	=6
-4f#]	F#m
+4f#]	F# minor
 4.r	.
+8f#L	.
 8f#	.
-8f#	.
-8f#	.
+8f#J	.
 =7	=7
-4.g	G
+4.g	G major
 8f#	.
 8e	.
 4d	.
-8c#	A
+8c#	A major
 =8	=8
 4.A	.
 3...r	.
 =9	=9
-4.r	D
+4.r	D major
 8A	.
+8dL	.
 8d	.
 8d	.
-8d	.
-8A[	.
+[8AJ	.
 =10	=10
-4.A]	A
+4.A]	A major
 3...r	.
 =11	=11
-4.r	Bm
+4.r	B minor
 8F#	.
+8BL	.
 8B	.
 8B	.
-8B	.
-8F#[	.
+[8F#J	.
 =12	=12
-4.F#]	F#m
+4.F#]	F# minor
 2r	.
 8F#	.
 =13	=13
-4G	G
+4G	G major
 8G	.
 3...G	.
 =14	=14
-4d	D
+4d	D major
 8d	.
 4.d	.
-8A	.
-8c#[	.
+8AL	.
+[8c#J	.
 =15	=15
-4c#]	A
+4c#]	A major
 4B	.
-2A[	.
+[2A	.
 =16	=16
 4A]	.
 2.r	.
 =17	=17
-4.r	D
+4.r	D major
 8A	.
+8dL	.
 8d	.
 8d	.
-8d	.
-8A[	.
+[8AJ	.
 =18	=18
-4.A]	A
+4.A]	A major
 3...r	.
 =19	=19
-4.r	Bm
+4.r	B minor
 8F#	.
+8BL	.
 8B	.
 8B	.
-8B	.
-8F#[	.
+[8F#J	.
 =20	=20
-4.F#]	F#m
+4.F#]	F# minor
 2r	.
 8F#	.
 =21	=21
-4G	G
+4G	G major
 8G	.
 4G	.
 4G	.
-8d[	.
+[8d	.
 =22	=22
-8d]	D
+8d]	D major
 4.d	.
 4d	.
 4A	.
 =23	=23
-4.c#	A
+4.c#	A major
 8B	.
-2A[	.
+[2A	.
 =24	=24
 4A]	.
 2.r	.

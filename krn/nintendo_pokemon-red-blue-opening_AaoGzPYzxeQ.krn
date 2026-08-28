@@ -17,96 +17,96 @@
 *M4/4	*
 =1	=1
 2.r	.
-16g	.
+16gLL	.
 16b	.
 16dd	.
-16ff#	.
+16ff#JJ	.
 =2	=2
 4gg	.
 4.gg	.
-16gg	.
-16gg	.
+16ggLL	.
+16ggJJ	.
 4gg	.
 =3	=3
 4gg	.
 4gg	.
-8.ff	F
+8.ffL	F major
 8.ff	.
-8ff#	F#dim
+8ff#J	F# diminished
 =4	=4
-4.gg	G
+4.gg	G major
 8bb	.
-2ddd[	.
+[2ddd	.
 =5	=5
-4.ddd]	F
+4.ddd]	F major
 8ccc	.
 4.fff	.
-16eee	.
-16ddd#	.
+16eeeLL	.
+16ddd#JJ	.
 =6	=6
-2ddd	G
+2ddd	G major
 4.ff	.
-16ee	.
-16dd#	.
+16eeLL	.
+16dd#JJ	.
 =7	=7
 2dd	.
-8.cc	.
+8.ccL	.
 8.b	.
-8cc	.
+8ccJ	.
 =8	=8
-4.gg	G
+4.gg	G major
 8bb	.
-2ddd[	.
+[2ddd	.
 =9	=9
-2ddd]	F
-8.ccc	.
+2ddd]	F major
+8.cccL	.
 8.bb	.
-8ccc	.
+8cccJ	.
 =10	=10
-2ddd	G
-8.ff	.
+2ddd	G major
+8.ffL	.
 8.ee	.
-8cc	.
+8ccJ	.
 =11	=11
 3...dd	.
-8b	.
+8bL	.
 8cc	.
-8dd	.
+8ddJ	.
 =12	=12
-4.gg	G
+4.gg	G major
 8bb	.
-2ddd[	.
+[2ddd	.
 =13	=13
-4.ddd]	F
+4.ddd]	F major
 8ccc	.
 4.fff	.
-16eee	.
-16ddd#	.
+16eeeLL	.
+16ddd#JJ	.
 =14	=14
-2ddd	G
+2ddd	G major
 4.ff	.
-16ee	.
-16dd#	.
+16eeLL	.
+16dd#JJ	.
 =15	=15
 2dd	.
-8.cc	.
+8.ccL	.
 8.b	.
-8cc	.
+8ccJ	.
 =16	=16
-4.gg	G
+4.gg	G major
 8bb	.
-2ddd[	.
+[2ddd	.
 =17	=17
-2ddd]	F
-8.ff	.
+2ddd]	F major
+8.ffL	.
 8.ee	.
-8ff	.
+8ffJ	.
 =18	=18
-4.gg	G
+4.gg	G major
 8aa#	.
-2gg[	.
+[2gg	.
 =19	=19
 2gg]	.
-2aa	F
+2aa	F major
 ==	==
 *-	*-

@@ -15,32 +15,32 @@
 *B:	*
 *M6/4	*
 =1	=1
-8ff#	B
+8ff#	B major
 3...ff#	.
-4.ff#	C#m7/B
+4.ff#	C# minor-seventh/B
 8ee	.
-8ee	.
-8dd#	.
+8eeL	.
+8dd#J	.
 =2	=2
-2cc#	Bmaj7sus4
+2cc#	B major-seventh-suspended-fourth
 4b	.
-2b	B
+2b	B major
 4r	.
 =3	=3
-2b	B
-8cc#	.
-8dd#	.
-2g#	C#m7/B
+2b	B major
+8cc#L	.
+8dd#J	.
+2g#	C# minor-seventh/B
 4f#	.
 =4	=4
-4f#	Bmaj7sus4
+4f#	B major-seventh-suspended-fourth
 4r	.
 4f#	.
-2f#	B
-8f#	.
-8dd#[	.
+2f#	B major
+8f#L	.
+[8dd#J	.
 =5	=5
-8dd#]	C#7/F
+8dd#]	C# dominant/F
 4cc#	.
 4.cc#	.
 2.r	.
@@ -50,9 +50,9 @@
 4.g#	.
 2.r	.
 =7	=7
-4b	F#
-8a#	.
-8g#	.
+4b	F# major
+8a#L	.
+8g#J	.
 4.a#	.
 3...r	.
 =8	=8

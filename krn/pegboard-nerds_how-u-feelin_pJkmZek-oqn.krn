@@ -16,111 +16,111 @@
 *F:	*
 *M4/4	*
 =1	=1
-4cc[	Fsus4
-8cc_	Fsus4
-8cc]	Fsus4
-4ff[	Fsus4
-8ff_	Fsus4
-8ff_	F
+[4cc	F suspended-fourth
+8ccL_	F suspended-fourth
+8ccJ]	F suspended-fourth
+[4ff	F suspended-fourth
+8ffL_	F suspended-fourth
+8ffJ_	F major
 =2	=2
 8ff_	.
-4ff_	F
-8ff]	F
-4r	F
-8ff	F
-8gg	.
+4ff_	F major
+8ff]	F major
+4r	F major
+8ffL	F major
+8ggJ	.
 =3	=3
-4aa-[	D-
-8aa-_	D-
-8aa-]	D-
-4ee-[	D-
-8ee-_	D-
-8ee-]	E-
+[4aa-	D- major
+8aa-L_	D- major
+8aa-J]	D- major
+[4ee-	D- major
+8ee-L_	D- major
+8ee-J]	E- major
 =4	=4
-8bb-[	.
-4bb-_	E-
-8bb-_	E-
-4bb-]	E-
-4ee-	E-
+[8bb-	.
+4bb-_	E- major
+8bb-_	E- major
+4bb-]	E- major
+4ee-	E- major
 =5	=5
-4ccc[	F
-8ccc_	F
-8ccc_	F
-4ccc]	F
-8bb-	F
-8aa[	F
+[4ccc	F major
+8cccL_	F major
+8cccJ_	F major
+4ccc]	F major
+8bb-L	F major
+[8aaJ	F major
 =6	=6
 8aa_	.
-4aa_	F
-8aa]	F
-4r	F
-8r	F
+4aa_	F major
+8aa]	F major
+4r	F major
+8r	F major
 8ff	.
 =7	=7
-4dd-[	D-
-8dd-_	D-
-8dd-]	D-
-4ff[	D-
-8ff_	D-
-8ff]	E-
+[4dd-	D- major
+8dd-L_	D- major
+8dd-J]	D- major
+[4ff	D- major
+8ffL_	D- major
+8ffJ]	E- major
 =8	=8
-8gg[	.
-4gg_	E-
-8gg]	E-
-4ee-[	E-
-4ee-]	E-
+[8gg	.
+4gg_	E- major
+8gg]	E- major
+[4ee-	E- major
+4ee-]	E- major
 =9	=9
-2cc	Fsus4
+2cc	F suspended-fourth
+8ffL	.
 8ff	.
 8ff	.
-8ff	.
-8ff[	F
+[8ffJ	F major
 =10	=10
 8ff]	.
 4ff	.
-16ff	.
-16ff	.
+16ffLL	.
+16ffJJ	.
+8ffL	.
 8ff	.
 8ff	.
-8ff	.
-8gg	.
+8ggJ	.
 =11	=11
-4aa-	D-
+4aa-	D- major
 4aa-	.
+8ee-L	.
 8ee-	.
 8ee-	.
-8ee-	.
-8bb-[	E-
+[8bb-J	E- major
 =12	=12
 8bb-]	.
 4bb-	.
 8bb-	.
+8ee-L	.
 8ee-	.
 8ee-	.
-8ee-	.
-8ee-	.
+8ee-J	.
 =13	=13
-4ccc	F
+4ccc	F major
 4ccc	.
 4ccc	.
-8bb-	.
-8aa[	.
+8bb-L	.
+[8aaJ	.
 =14	=14
 8aa]	.
 4aa	.
-16aa	.
-16aa	.
+16aaLL	.
+16aaJJ	.
+8aaL	.
 8aa	.
 8aa	.
-8aa	.
-8ff	.
+8ffJ	.
 =15	=15
-4dd-	D-
+4dd-	D- major
 4dd-	.
+8ffL	.
 8ff	.
 8ff	.
-8ff	.
-8gg[	E-
+[8ggJ	E- major
 =16	=16
 8gg]	.
 4gg	.

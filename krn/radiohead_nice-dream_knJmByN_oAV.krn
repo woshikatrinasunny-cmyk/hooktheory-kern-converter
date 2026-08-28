@@ -16,88 +16,88 @@
 *A:	*
 *M3/4	*
 =1	=1
-2.dd	Badd(2,3,7)
+2.dd	B other-2,3,7
 =2	=2
-2.r	Bm
+2.r	B minor
 =3	=3
-2.r	Bm
+2.r	B minor
 =4	=4
-4r	Bm
+4r	B minor
 2cc#	.
 =5	=5
-2.dd	E
+2.dd	E major
 =6	=6
-2.r	E7
+2.r	E dominant
 =7	=7
-2.r	E
+2.r	E major
 =8	=8
-4r	E7
+4r	E dominant
 2dd	.
 =9	=9
-2.cc#	A
+2.cc#	A major
 =10	=10
-2.r	A
+2.r	A major
 =11	=11
-2.r	Aadd(2,4,7)
+2.r	A other-2,4,7
 =12	=12
-4r	A
+4r	A major
 2dd	.
 =13	=13
-2.cc#	B7/F#
+2.cc#	B dominant/F#
 =14	=14
-2.r	B7/F#
+2.r	B dominant/F#
 =15	=15
-2.r	B7sus4/F#
+2.r	B dominant-seventh-suspended-fourth/F#
 =16	=16
-4r	B7/F#
+4r	B dominant/F#
 2cc#	.
 =17	=17
-2.dd	Badd(2,3,7)
+2.dd	B other-2,3,7
 =18	=18
-2.r	Bm
+2.r	B minor
 =19	=19
-2.r	Bm
+2.r	B minor
 =20	=20
-4r	Bm
+4r	B minor
 2cc#	.
 =21	=21
-2.dd	E
+2.dd	E major
 =22	=22
-2.r	E7
+2.r	E dominant
 =23	=23
-2.r	E
+2.r	E major
 =24	=24
-4r	E7
+4r	E dominant
 2dd	.
 =25	=25
-4cc#	A
+4cc#	A major
 4B	.
 4B	.
 =26	=26
-4B	A
+4B	A major
 4B	.
 4A	.
 =27	=27
-2c#	Aadd(2,4,7)
-8B	.
-8A[	.
+2c#	A other-2,4,7
+8BL	.
+[8AJ	.
 =28	=28
-4A]	A
+4A]	A major
 2dd	.
 =29	=29
-4cc#	B7/F#
+4cc#	B dominant/F#
 4B	.
 4B	.
 =30	=30
-4B	B7/F#
+4B	B dominant/F#
 4B	.
 4B	.
 =31	=31
-2c#	B7sus4/F#
-8B	.
-8A[	.
+2c#	B dominant-seventh-suspended-fourth/F#
+8BL	.
+[8AJ	.
 =32	=32
-4A]	B7/F#
+4A]	B dominant/F#
 2cc#	.
 ==	==
 *-	*-

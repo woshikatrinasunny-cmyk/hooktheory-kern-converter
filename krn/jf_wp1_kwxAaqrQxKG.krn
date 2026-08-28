@@ -15,143 +15,143 @@
 *C:	*
 *M4/4	*
 =1	=1
-8c[	C
-8c]	C
-8c[	C
-8c]	C
-8a[	Am
-8a]	Am
-8e[	Am
-8e]	G
+[8cL	C major
+8c]	C major
+[8c	C major
+8cJ]	C major
+[8aL	A minor
+8a]	A minor
+[8e	A minor
+8eJ]	G major
 =2	=2
-8d[	G
-8d]	F
-4c	C
-4c	C
-4c	C
+[8dL	G major
+8dJ]	F major
+4c	C major
+4c	C major
+4c	C major
 =3	=3
-4c	C
-4f	F
-4g	G
-4g	G
+4c	C major
+4f	F major
+4g	G major
+4g	G major
 =4	=4
-8c[	C
-8c]	C
-8c	C
-8c	C
-8c	C
-8c	C
-8c[	C
-8c]	Am
+[8cL	C major
+8c]	C major
+8c	C major
+8cJ	C major
+8cL	C major
+8c	C major
+[8c	C major
+8cJ]	A minor
 =5	=5
-8a[	Am
-8a]	Am
-4f	F
-4f	F
-4g[	G
+[8aL	A minor
+8aJ]	A minor
+4f	F major
+4f	F major
+[4g	G major
 =6	=6
 4g]	.
-2g	G
-16c	C
-16c	C
-16c	C
-16c	C
+2g	G major
+16cLL	C major
+16c	C major
+16c	C major
+16cJJ	C major
 =7	=7
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16f	F
-16f	F
-16f	F
-16f	F
-16g	G
-16g	G
-16g	G
+16cLL	C major
+16c	C major
+16c	C major
+16c	C major
+16c	C major
+16c	C major
+16c	C major
+16cJJ	C major
+16cLL	C major
+16f	F major
+16f	F major
+16f	F major
+16f	F major
+16g	G major
+16g	G major
+16gJJ	G major
 =8	=8
-16a	Am
-16a	Am
-16a	Am
-16a	Am
-16a	Am
-16a	Am
-16r	C
-16r	C
-16r	C
-16r	C
-16r	C
-16r	C
-16r	C
-16r	C
-16r	C
-16r	C
+16aLL	A minor
+16a	A minor
+16a	A minor
+16a	A minor
+16a	A minor
+16aJJ	A minor
+16r	C major
+16r	C major
+16r	C major
+16r	C major
+16r	C major
+16r	C major
+16r	C major
+16r	C major
+16r	C major
+16r	C major
 =9	=9
-1r	C
+1r	C major
 =10	=10
 2r	.
-2r	C
+2r	C major
 =11	=11
 1r	.
 =12	=12
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
+16cLL	C major
+16c	C major
+16c	C major
+16c	C major
+16c	C major
+16c	C major
+16c	C major
+16cJJ	C major
+16cLL	C major
+16c	C major
+16c	C major
+16c	C major
+16c	C major
+16c	C major
+16c	C major
+16cJJ	C major
 =13	=13
-16f	F
-16f	F
-16f	F
-16f	F
-16f	F
-16f	F
-16f	F
-16g	G
-16g	G
-16g	G
-16g	G
-16g	G
-16g	G
-16g	G
-16a	Am
-16a	Am
+16fLL	F major
+16f	F major
+16f	F major
+16f	F major
+16f	F major
+16f	F major
+16f	F major
+16gJJ	G major
+16gLL	G major
+16g	G major
+16g	G major
+16g	G major
+16g	G major
+16g	G major
+16a	A minor
+16aJJ	A minor
 =14	=14
-16a	Am
-16a	Am
-16a	Am
-16a	Am
-16a	Am
-16g	G
-16g	G
-16g	G
-16f	F
-16f	F
-16f	F
-16c	C
-16c	C
-16c	C
-16c	C
-16c	C
+16aLL	A minor
+16a	A minor
+16a	A minor
+16a	A minor
+16a	A minor
+16g	G major
+16g	G major
+16gJJ	G major
+16fLL	F major
+16f	F major
+16f	F major
+16c	C major
+16c	C major
+16c	C major
+16c	C major
+16cJJ	C major
 =15	=15
-16c	C
-16c	C
-4c	C
+16cLL	C major
+16cJJ	C major
+4c	C major
 4c	.
 4.r	.
 =16	=16

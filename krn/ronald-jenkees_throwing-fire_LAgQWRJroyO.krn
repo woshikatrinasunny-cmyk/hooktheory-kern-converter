@@ -16,139 +16,139 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4r	G-maj7
+4r	G- major-seventh
 4d-	.
-8.d-	G-maj7
-8.e-	Fm7
-8f[	E-m9
+8.d-L	G- major-seventh
+8.e-	F minor-seventh
+[8fJ	E- minor-ninth
 =2	=2
 4.f]	.
 8B-	.
-8d-	.
+8d-L	.
 8e-	.
 8f	.
-8a-	.
+8a-J	.
 =3	=3
-4.a-[	G-maj9
-2a-]	G-sus2
-8a-[	D-sus2
+[4.a-	G- major-ninth
+2a-]	G- suspended-second
+[8a-	D- suspended-second
 =4	=4
 8a-]	.
-4a-	D-sus2
-4a-	D-sus2
-4.a-	D-sus2
+4a-	D- suspended-second
+4a-	D- suspended-second
+4.a-	D- suspended-second
 =5	=5
-8r	G-maj7sus2
+8r	G- major-seventh-suspended-second
+16a-LL	.
+16f	.
+16en	.
+16fJ	.
+8fJ	.
+16enLL	.
+16f	.
+16en	.
+16f	.
 16a-	.
 16f	.
 16en	.
-16f	.
-8f	.
-16en	.
-16f	.
-16en	.
-16f	.
-16a-	.
-16f	.
-16en	.
-16f	.
+16fJJ	.
 =6	=6
-8r	A-
-16en	.
+8r	A- major
+16enLL	.
 16f	.
 16en	.
-16f	.
-8f	.
-16en	.
+16fJ	.
+8fJ	.
+16enLL	.
 16f	.
 16en	.
 16f	.
 16a-	.
 16f	.
 16en	.
-16f	.
+16fJJ	.
 =7	=7
-8r	D-
-16en	.
+8r	D- major
+16enLL	.
 16f	.
 16en	.
-16f	.
-8f	.
-16en	.
+16fJ	.
+8fJ	.
+16enLL	.
 16f	.
 16en	.
 16f	.
 16a-	.
 16f	.
 16en	.
-16f	.
+16fJJ	.
 =8	=8
 8r	.
-16f	.
+16fLL	.
 16en	.
 16f	.
 16en	.
 16a-	.
-16f	.
-16b-	.
+16fJJ	.
+16b-LL	.
 16f	.
 16dd-	.
 16f	.
 16ee-	.
-16ff	.
-8dd-	.
+16ffJ	.
+8dd-J	.
 =9	=9
-6...BB-	B-m
-16B-	.
+6...BB-	B- minor
+16B-LL	.
 16b-	.
-16B-	.
+16B-JJ	.
 4cc	.
 4f	.
 =10	=10
 6...BB-	.
-16B-	.
+16B-LL	.
 16b-	.
-16B-	.
+16B-JJ	.
 4cc	.
-16dd-	.
+16dd-LL	.
 16cc	.
 16b-	.
-16cc	.
+16ccJJ	.
 =11	=11
-2.ff	G-maj7
+2.ff	G- major-seventh
 8r	.
-8ee-[	.
+[8ee-	.
 =12	=12
-4ee-]	Fm7/A-
+4ee-]	F minor-seventh/A-
 16dd-	.
 16r	.
 4.cc	.
-8a-	.
-8b-	.
+8a-L	.
+8b-J	.
 =13	=13
-6...BB-	B-m
-16B-	.
+6...BB-	B- minor
+16B-LL	.
 16b-	.
-16B-	.
+16B-JJ	.
 4cc	.
 4f	.
 =14	=14
 6...BB-	.
-16B-	.
+16B-LL	.
 16b-	.
-16B-	.
+16B-JJ	.
 4cc	.
-16dd-	.
+16dd-LL	.
 16cc	.
 16b-	.
-16cc	.
+16ccJJ	.
 =15	=15
-2ff	G-maj7
+2ff	G- major-seventh
 4ee-	.
 8r	.
-8ff[	.
+[8ff	.
 =16	=16
-2ff]	Fm7/A-
+2ff]	F minor-seventh/A-
 4ee-	.
 4a-	.
 ==	==

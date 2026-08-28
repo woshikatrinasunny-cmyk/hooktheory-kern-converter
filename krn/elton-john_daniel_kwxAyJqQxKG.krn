@@ -16,31 +16,31 @@
 *C:	*
 *M4/4	*
 =1	=1
-2r	C
+2r	C major
+8cL	.
 8c	.
 8c	.
-8c	.
-8c[	.
+[8cJ	.
 =2	=2
-8c]	.
+8cL]	.
 8c	.
-8c	.
+8cJ	.
 4c	.
-8B	.
+8BL	.
 8A	.
-8F[	.
+[8FJ	.
 =3	=3
-4.F]	Dm7
+4.F]	D minor-seventh
 3...r	.
 =4	=4
 1r	.
 =5	=5
-4r	G
-8B	.
-8B	.
+4r	G major
+8BL	.
+8BJ	.
 4B	.
-8c	.
-8d[	.
+8cL	.
+[8dJ	.
 =6	=6
 8d]	.
 4B	.
@@ -48,56 +48,56 @@
 4G	.
 4r	.
 =7	=7
-8e	E7
+8eL	E dominant
 8f	.
-8e	.
+8eJ	.
 4d	.
-8e	.
+8eL	.
 8d	.
-8c[	Am
+[8cJ	A minor
 =8	=8
 4.c]	.
 4d	.
-4.c	G
+4.c	G major
 =9	=9
-2r	F
-8A	.
+2r	F major
+8AL	.
 8B	.
 8c	.
-8d[	.
+[8dJ	.
 =10	=10
-8d]	G
+8d]	G major
 4B	.
 4A	.
-8A	.
+8AL	.
 8G	.
-8A[	.
+[8AJ	.
 =11	=11
-2A]	Am
+2A]	A minor
 8r	.
-4.r	Am11
+4.r	A minor-11th
 =12	=12
 8r	.
-4r	Am
-4r	Fmaj7
-8A	G
+4r	A minor
+4r	F major-seventh
+8AL	G major
 8B	.
-8c[	.
+[8cJ	.
 =13	=13
-8c]	F
+8c]	F major
 4d	.
 4c	.
 4.A	.
 =14	=14
 1r	.
 =15	=15
-4.r	G7
+4.r	G dominant
 4G	.
+8GL	.
 8G	.
-8G	.
-8f[	.
+[8fJ	.
 =16	=16
-8f]	Dm7
+8f]	D minor-seventh
 4e	.
 4c	.
 4d	.

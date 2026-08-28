@@ -16,7 +16,7 @@
 *E:	*
 *M6/4	*
 =1	=1
-4e	E
+4e	E major
 4B	.
 4e	.
 4B	.
@@ -28,10 +28,10 @@
 4g#	.
 4b	.
 4e	.
-8g#	.
-8b	.
+8g#L	.
+8bJ	.
 =3	=3
-4b	B7/D#
+4b	B dominant/D#
 4f#	.
 4a	.
 4B	.
@@ -43,80 +43,80 @@
 4a	.
 4b	.
 4f#	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =5	=5
-4b	E
+4b	E major
 4e	.
 4g#	.
 4B	.
 4e	.
 4g#	.
 =6	=6
-4ccn	G#7/D#
+4ccn	G# dominant/D#
 4f#	.
 4g#	.
-4cc#	C#m
+4cc#	C# minor
 4e	.
 4g#	.
 =7	=7
-4dd#	G#7/C
+4dd#	G# dominant/C
 4f#	.
 4g#	.
 4d#	.
 4f#	.
 4g#	.
 =8	=8
-4ee	C#m
+4ee	C# minor
 4g#	.
 4cc#	.
 4e	.
 4g#	.
 4cc#	.
 =9	=9
-4ddn	D/F#
+4ddn	D major/F#
 4f#	.
 4a	.
 4dn	.
 4f#	.
 4a	.
 =10	=10
-4ccn	G#7
+4ccn	G# dominant
 4f#	.
 4g#	.
 4cn	.
 4f#	.
 4g#	.
 =11	=11
-4cc#	C#m
+4cc#	C# minor
 4e	.
 4g#	.
 4c#	.
 4e	.
 4g#	.
 =12	=12
-4c#	C#
+4c#	C# major
 4fn	.
 4g#	.
 4cc#	.
 4fn	.
 4g#	.
 =13	=13
-4ddn	F#m/C#
+4ddn	F# minor/C#
 4f#	.
 4a	.
-4c#	F#m
+4c#	F# minor
 4f#	.
 4a	.
 =14	=14
-4c#	F#m/A
+4c#	F# minor/A
 4f#	.
 4a	.
-4ccn	F#m
+4ccn	F# minor
 4f#	.
 4a	.
 =15	=15
-4cc#	C#
+4cc#	C# major
 4fn	.
 4g#	.
 4c#	.
@@ -130,35 +130,35 @@
 4fn	.
 4g#	.
 =17	=17
-4ddn	F#m/C#
+4ddn	F# minor/C#
 4f#	.
 4a	.
-4c#	F#m
+4c#	F# minor
 4f#	.
 4a	.
 =18	=18
-4c#	F#m/A
+4c#	F# minor/A
 4f#	.
 4a	.
-4ccn	F#m
+4ccn	F# minor
 4f#	.
 4a	.
 =19	=19
-4cc#	C#
+4cc#	C# major
 4fn	.
 4g#	.
 4c#	.
 4fn	.
 4g#	.
 =20	=20
-4cc#	F#m
+4cc#	F# minor
 4f#	.
 4a	.
 4c#	.
 4f#	.
 4a	.
 =21	=21
-4b	B7/D#
+4b	B dominant/D#
 4f#	.
 4a	.
 4B	.
@@ -168,39 +168,39 @@
 4B	.
 4f#	.
 4a	.
-4b	E
+4b	E major
 4e	.
 4g#	.
 =23	=23
-4a	Amaj7/C#
+4a	A major-seventh/C#
 4e	.
 4g#	.
-4a	D#dim
+4a	D# diminished
 4d#	.
 4f#	.
 =24	=24
-4g#	G#7/C
+4g#	G# dominant/C
 4d#	.
 4f#	.
-4g#	C#m
+4g#	C# minor
 4c#	.
 4e	.
 =25	=25
-4f#	D#m7b5/A
+4f#	D# half-diminished/A
 4c#	.
 4d#	.
 4F#	.
 4c#	.
 4d#	.
 =26	=26
-4g#	G#sus4
+4g#	G# suspended-fourth
 4c#	.
 4d#	.
-4a	D#m7b5/F#
+4a	D# half-diminished/F#
 4c#	.
 4d#	.
 =27	=27
-4g#	C#m/G#
+4g#	C# minor/G#
 4c#	.
 4e	.
 4G#	.
@@ -208,7 +208,7 @@
 4e	.
 =28	=28
 *M9/4	*
-4g#	G#7
+4g#	G# dominant
 4cn	.
 4d#	.
 4F#	.

@@ -16,39 +16,39 @@
 *d:	*
 *M4/4	*
 =1	=1
-4.r	Dm
+4.r	D minor
 8d	.
-8d	.
+8dL	.
 8f	.
 8a	.
-16f	.
-16a[	.
+16fL	.
+[16aJJ	.
 =2	=2
-8.a]	F
+8.a]	F major
 8.r	.
 8a	.
-8a	.
+8aL	.
 8b	.
 8cc	.
-16a	.
-16cc[	.
+16aL	.
+[16ccJJ	.
 =3	=3
-8.cc]	Am
+8.cc]	A minor
 8.r	.
 8cc	.
-8cc	.
+8ccL	.
 8cc	.
 8dd	.
-16cc	.
-16b[	.
+16ccL	.
+[16bJJ	.
 =4	=4
-8.b]	G
+8.b]	G major
 8.r	.
 8b	.
-8b	.
+8bL	.
 8b	.
 8g	.
-16b	.
-16d	.
+16bL	.
+16dJJ	.
 ==	==
 *-	*-

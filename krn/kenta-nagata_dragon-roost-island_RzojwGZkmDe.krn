@@ -15,56 +15,56 @@
 *g:	*
 *M6/4	*
 =1	=1
-1.r	D
+1.r	D major
 =2	=2
 1.r	.
 =3	=3
-2.r	Gm
-2.r	F
+2.r	G minor
+2.r	F major
 =4	=4
-2.r	Gm
-3...r	F
+2.r	G minor
+3...r	F major
 8d	.
 =5	=5
-4.b-	Gm
+4.b-	G minor
 8a	.
 4b-	.
-4.cc	F
+4.cc	F major
 4.a	.
 =6	=6
-2.g	Gm
-2d	F
-8f	.
-8d	.
+2.g	G minor
+2d	F major
+8fL	.
+8dJ	.
 =7	=7
-4.b-	Gm
+4.b-	G minor
 8a	.
 4b-	.
-4.cc	F
+4.cc	F major
 4.ff	.
 =8	=8
-1dd[	B-
+[1dd	B- major
 4dd]	.
-8b-	.
-8b-	.
+8b-L	.
+8b-J	.
 =9	=9
-6...cc	A-
+6...cc	A- major
 16dd	.
 2..cc	.
-8a-	.
-8cc	.
+8a-L	.
+8ccJ	.
 =10	=10
-4.b-	Gm
+4.b-	G minor
 2..g	.
-8g	.
-8b-	.
+8gL	.
+8b-J	.
 =11	=11
-6...cc	F
+6...cc	F major
 16dd	.
 1cc	.
 8b-	.
 =12	=12
-1.g[	E-
+[1.g	E- major
 =13	=13
 1.g]	.
 ==	==

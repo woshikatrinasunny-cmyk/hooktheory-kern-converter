@@ -16,66 +16,66 @@
 *g:	*
 *M4/4	*
 =1	=1
-8gg	Gm
+8gg	G minor
 4gg	.
 4gg	.
 4gg	.
 8gg	.
 =2	=2
-8dd	Gm
+8dd	G minor
 4dd	.
 4dd	.
 4dd	.
 8dd	.
 =3	=3
-8ee-	Cm
+8ee-	C minor
 4ee-	.
 4ee-	.
 4ee-	.
 8ee-	.
 =4	=4
-8g-	D7/A
+8g-	D dominant/A
 4g-	.
 4g-	.
 4g-	.
 8g-	.
 =5	=5
-1gg	Gm/B-
+1gg	G minor/B-
 =6	=6
-1dd	Gm
+1dd	G minor
 =7	=7
-1ee-	Cm/G
+1ee-	C minor/G
 =8	=8
-1g-	Gadd(2,4,5,7,11)
+1g-	G other-2,4,5,7,11
 =9	=9
-1g	Gm
+1g	G minor
 =10	=10
-1gg	Gm
+1gg	G minor
 =11	=11
-1bb-	E-7
+1bb-	E- dominant
 =12	=12
-1dd-	E-7
+1dd-	E- dominant
 =13	=13
-4.dd	D
+4.dd	D major
+8dd-	.
+8ddL	.
 8dd-	.
 8dd	.
-8dd-	.
-8dd	.
-8dd-	.
+8dd-J	.
 =14	=14
-4.dd	D
+4.dd	D major
+8dd-	.
+8ddL	.
 8dd-	.
 8dd	.
-8dd-	.
-8dd	.
-8dd-	.
+8dd-J	.
 =15	=15
-4dd	D
+4dd	D major
 4r	.
-4dd	D
+4dd	D major
 4r	.
 =16	=16
-4dd	D
+4dd	D major
 2.r	.
 ==	==
 *-	*-

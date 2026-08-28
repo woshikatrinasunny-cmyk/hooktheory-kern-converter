@@ -86,8 +86,13 @@ matched=1717419/1717419
 - Meter and key changes are emitted as Humdrum interpretations at their source
   beat positions.
 - Melody gaps are written as rests. Notes that must be split across barlines,
-  event boundaries, or uncommon durations are tied.
+  event boundaries, or uncommon durations are tied with canonical `**kern`
+  tie ordering.
+- Beam markers are written directly into the `**kern` melody spine using `L`
+  and `J`. The converter groups 4/4 melodies by half-measure, compound eighth
+  meters such as 6/8 by dotted-quarter beat groups, and other meters by the
+  notated beat.
 - Harmony events are converted from Hooktheory root-position interval lists into
-  readable chord symbols in the `**mxhm` spine. Common triads, sevenths, and
-  extensions receive conventional suffixes; uncommon interval sets use an
-  interval fallback.
+  MusicXML-style `**mxhm` chord labels such as `C major`, `G dominant`, and
+  `D minor-seventh`. Inversions are rendered as slash-bass labels such as
+  `D major/F#`; uncommon interval sets use an explicit interval fallback.

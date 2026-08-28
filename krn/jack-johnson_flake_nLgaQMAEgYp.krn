@@ -15,50 +15,50 @@
 *F:	*
 *M4/4	*
 =1	=1
-8r	F
-8c	.
+8r	F major
+8cL	.
 8a	.
-8a	.
-8a	.
-8cc	.
+8aJ	.
+8aL	.
+8ccJ	.
 8r	.
-8cc[	.
+[8cc	.
 =2	=2
-4.cc]	C
+4.cc]	C major
 4a	.
 4.r	.
 =3	=3
-8.r	Dm
+8.r	D minor
+16aLL	.
 16a	.
-16a	.
-16a	.
-8a	.
-8a	.
-8a	.
+16aJ	.
+8aJ	.
+8aL	.
+8aJ	.
 8r	.
-8e[	.
+[8e	.
 =4	=4
-8e]	A
+8e]	A major
 4e	.
 4.r	.
-8e	.
-8f[	.
+8eL	.
+[8fJ	.
 =5	=5
-8f]	B-
+8f]	B- major
 4g	.
 4f	.
 4r	.
 8A	.
 =6	=6
-8g	C
+8g	C major
 4g	.
 4a	.
 4g	.
-8f[	.
+[8f	.
 =7	=7
-8f]	F
+8f]	F major
 2..r	.
 =8	=8
-1r	C7
+1r	C dominant
 ==	==
 *-	*-

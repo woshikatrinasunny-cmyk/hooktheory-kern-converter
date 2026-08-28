@@ -16,63 +16,63 @@
 *A:	*
 *M4/4	*
 =1	=1
-4dd	D
-4cc#	A/C#
-8b	Bm
+4dd	D major
+4cc#	A major/C#
+8bL	B minor
 8a	.
-8a[	.
-8a]	A
+[8a	.
+8aJ]	A major
 =2	=2
-8b	Bm
+8bL	B minor
 8a	.
 8cc#	.
-8b[	F#m
-8b]	F#m/A
-8a	.
+[8bJ	F# minor
+8bL]	F# minor/A
+8aJ	.
 4a	.
 =3	=3
-4dd	D
-4cc#	A/C#
-8b	Bm
+4dd	D major
+4cc#	A major/C#
+8bL	B minor
 8cc#	.
-8cc#[	.
-8cc#]	A
+[8cc#	.
+8cc#J]	A major
 =4	=4
-8b	Bm
+8bL	B minor
 8a	.
-8cc#	.
-8.cc#	A/C#
+8cc#J	.
+8.cc#	A major/C#
 16b	.
 4a	.
 8r	.
 =5	=5
-8dd	D
-8dd	.
-4cc#	A/C#
-8b	Bm
+8ddL	D major
+8ddJ	.
+4cc#	A major/C#
+8bL	B minor
 8a	.
-8a[	.
-8a]	A
+[8a	.
+8aJ]	A major
 =6	=6
-8b	Bm
+8bL	B minor
 8a	.
 8cc#	.
-8b[	F#m
-8b]	F#m/A
+[8bJ	F# minor
+8bL]	F# minor/A
 8a	.
 8a	.
-8b[	.
+[8bJ	.
 =7	=7
-8b]	D
-8a[	.
-4a]	A/C#
-4.r	Bm
-8b[	A
+8bL]	D major
+[8aJ	.
+4a]	A major/C#
+4.r	B minor
+[8b	A major
 =8	=8
-8b]	Bm
-8cc#	.
-4cc#[	.
-4cc#]	F#m
+8bL]	B minor
+8cc#J	.
+[4cc#	.
+4cc#]	F# minor
 4r	.
 ==	==
 *-	*-

@@ -17,76 +17,76 @@
 *M4/4	*
 =1	=1
 2r	.
-8r	F#m7
-8a	.
-8a	F#m7
-8a	.
+8r	F# minor-seventh
+8aL	.
+8a	F# minor-seventh
+8aJ	.
 =2	=2
-4cc#	D
-8b	D
+4cc#	D major
+8bL	D major
+8aJ	.
+[8cc#L	.
+8cc#]	D major
 8a	.
-8cc#[	.
-8cc#]	D
-8a	.
-8b[	C#
+[8bJ	C# major
 =3	=3
-8b_	.
-8b]	C#
+8bL_	.
+8bJ]	C# major
 8r	.
 8r	.
-8.cc#	C#
-16b[	.
-8b]	C#
-8a	.
+8.cc#L	C# major
+[16bk	.
+8b]	C# major
+8aJ	.
 =4	=4
-8cc#	F#m
+8cc#L	F# minor
 8b	.
-8a	F#m
+8a	F# minor
+8aJ	.
+[8cc#L	.
+8cc#]	F# minor
 8a	.
-8cc#[	.
-8cc#]	F#m
-8a	.
-8b[	F#m
+[8bJ	F# minor
 =5	=5
 8b]	.
-4f#[	F#m
+[4f#	F# minor
 8f#]	.
-8cc#	F#m
+8cc#L	F# minor
 8b	.
-8a	F#m
-8a	.
+8a	F# minor
+8aJ	.
 =6	=6
-4b	D
-4cc#	D
-8cc#[	.
-8cc#]	D
+4b	D major
+4cc#	D major
+[8cc#L	.
+8cc#]	D major
 8a	.
-8b[	C#
+[8bJ	C# major
 =7	=7
 8b_	.
-4b]	C#
+4b]	C# major
 8a	.
-8cc#	C#
-8b[	.
-8b]	C#
-8a	.
+8cc#L	C# major
+[8b	.
+8b]	C# major
+8aJ	.
 =8	=8
-4cc#	F#m
-8b	F#m
-8a	.
-8cc#[	.
-8cc#]	F#m
+4cc#	F# minor
+8bL	F# minor
+8aJ	.
+[8cc#L	.
+8cc#]	F# minor
 8b	.
-8a	F#m
+8aJ	F# minor
 =9	=9
-8f#[	.
-8f#]	F#m
+[8f#L	.
+8f#J]	F# minor
 8r	.
 8a	.
-4cc#	F#m7
-8b	F#m7
-8a	.
+4cc#	F# minor-seventh
+8bL	F# minor-seventh
+8aJ	.
 =10	=10
-4a	D
+4a	D major
 ==	==
 *-	*-

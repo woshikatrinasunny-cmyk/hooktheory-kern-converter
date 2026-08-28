@@ -16,52 +16,52 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4.ff	B-
-8ff	B-
-8ff	F7/C
-8ff	F7/C
-8gg	Am7b5/C
-8aa	F7/E-
+4.ff	B- major
+8ff	B- major
+8ffL	F dominant/C
+8ff	F dominant/C
+8gg	A half-diminished/C
+8aaJ	F dominant/E-
 =2	=2
 *k[f#c#]	*
 *D:	*
-4cccn	A#add(2,4,7)/D
-4aa#	A#/D
-4ffn	A#/D
-4gg	C#dim7
+4cccn	A# other-2,4,7/D
+4aa#	A# major/D
+4ffn	A# major/D
+4gg	C# diminished-seventh
 =3	=3
 *k[b-e-]	*
 *B-:	*
-4.aa	Adim/C
-8aa	F7
-8bb-	F7sus4
-8aa	F7
-8gg	F9
-8ff	Fadd(4,10)
+4.aa	A diminished/C
+8aa	F dominant
+8bb-L	F dominant-seventh-suspended-fourth
+8aa	F dominant
+8gg	F dominant-ninth
+8ffJ	F other-4,10
 =4	=4
-2gg	B-sus4
-4ff	B-
-4ddd	B-
+2gg	B- suspended-fourth
+4ff	B- major
+4ddd	B- major
 =5	=5
-4.ddd	B-
-8ddd	B-
-8eee-	E-/B-
-8ddd	B-
-8ccc	Adim/C
-8bb-	B-/D
+4.ddd	B- major
+8ddd	B- major
+8eee-L	E- major/B-
+8ddd	B- major
+8ccc	A diminished/C
+8bb-J	B- major/D
 =6	=6
-4bb-	E-
-4gg	E-
-4bb-	E-
-4ccc	C7/E
+4bb-	E- major
+4gg	E- major
+4bb-	E- major
+4ccc	C dominant/E
 =7	=7
-4.ddd	B-/F
-8ff	B-/F
-8ff	Fadd(4,10)
-8aa	F7
-8gg	F7sus2
-8ff	Fadd(4,10)
+4.ddd	B- major/F
+8ff	B- major/F
+8ffL	F other-4,10
+8aa	F dominant
+8gg	F dominant-seventh-suspended-second
+8ffJ	F other-4,10
 =8	=8
-1bb-	B-
+1bb-	B- major
 ==	==
 *-	*-

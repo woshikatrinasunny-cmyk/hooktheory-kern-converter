@@ -16,55 +16,55 @@
 *G:	*
 *M3/4	*
 =1	=1
-2e	Cadd(2,4,7)
+2e	C other-2,4,7
 4d	.
 =2	=2
-4B	G
+4B	G major
 4r	.
-8g	.
-8f#	.
+8gL	.
+8f#J	.
 =3	=3
-4e	Cadd(2,4,7)
+4e	C other-2,4,7
 8d	.
 4d	.
 8d	.
 =4	=4
-4B	Em7
+4B	E minor-seventh
 4r	.
-8g	.
-8f#	.
+8gL	.
+8f#J	.
 =5	=5
-4e	Cadd(2,4,7)
+4e	C other-2,4,7
 4d	.
 4d	.
 =6	=6
-8d	G/B
-16B	.
-16A	.
+8dL	G major/B
+16BL	.
+16AJJ	.
 4.r	.
 8G	.
 =7	=7
-2.e	A
+2.e	A major
 =8	=8
-4f#	B/D#
+4f#	B major/D#
 8r	.
-16B	.
-16B	.
-8g	.
-8a	.
+16BLL	.
+16BJJ	.
+8gL	.
+8aJ	.
 =9	=9
-4b	Cmaj9
+4b	C major-ninth
 8a	.
 8.a	.
 8.g	.
 =10	=10
 4e	.
 8r	.
-4.g[	.
+[4.g	.
 =11	=11
-8g]	G
-8a	.
-2g[	.
+8gL]	G major
+8aJ	.
+[2g	.
 =12	=12
 8g]	.
 3...r	.

@@ -16,7 +16,7 @@
 *a:	*
 *M4/4	*
 =1	=1
-4a	Am
+4a	A minor
 4cc	.
 4.e	.
 8a	.
@@ -25,49 +25,49 @@
 2.ee	.
 =3	=3
 4.a	.
-16dd	.
-16cc	.
+16ddLL	.
+16ccJJ	.
 4b	.
-4cc	F
+4cc	F major
 =4	=4
-2a	D
+2a	D major
 4r	.
 4a	.
 =5	=5
-4a	Am
+4a	A minor
 4cc	.
 4.a	.
 8ee	.
 =6	=6
-4ff#	D
+4ff#	D major
 2.dd	.
 =7	=7
-3...aa	Dadd(2,3,7)
-8gg	.
+3...aa	D other-2,3,7
+8ggL	.
 8cc	.
-8ff	.
+8ffJ	.
 =8	=8
-2dd[	Gsus4
-2dd]	Gm
+[2dd	G suspended-fourth
+2dd]	G minor
 =9	=9
-3...ff	Aadd(2,3,7)
-8ee	.
+3...ff	A other-2,3,7
+8eeL	.
 8.e	.
-16dd	.
+16ddJk	.
 =10	=10
-2b[	Esus4
-2b]	Em
+[2b	E suspended-fourth
+2b]	E minor
 =11	=11
-2cc[	Fadd(6,7)
-8cc]	F
+[2cc	F other-6,7
+8ccL]	F major
 8b	.
 8d	.
-8b	.
+8bJ	.
 =12	=12
 2a	.
-2g	Em
+2g	E minor
 =13	=13
-1a	Am
+1a	A minor
 =14	=14
 1r	.
 ==	==

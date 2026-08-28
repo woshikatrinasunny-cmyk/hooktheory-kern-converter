@@ -16,76 +16,76 @@
 *c:	*
 *M4/4	*
 =1	=1
-2r	Cm
-16r	Cadd(2,3,7)
-8g	.
+2r	C minor
+16r	C other-2,3,7
+8gL	.
 8cc	.
-16ee-[	.
-16ee-]	Cm/G
-16dd[	.
+[16ee-L	.
+16ee-]	C minor/G
+[16ddJJ	.
 =2	=2
-8dd]	Cm
-16cc	.
+8ddL]	C minor
+16cck	.
 8ee-	.
 8cc	.
-16dd[	.
-8.dd]	Dm7b5/F
-16cc	.
+[16ddJk	.
+8.ddL]	D half-diminished/F
+16cck	.
 8a-	.
-8b-	Cm/G
+8b-J	C minor/G
 =3	=3
-4.g	Cm
+4.g	C minor
 8r	.
-8r	Csus4
-8g	Cm
+8r	C suspended-fourth
+8gL	C minor
 8cc	.
-8ee-	Cm/G
+8ee-J	C minor/G
 =4	=4
-8.dd	Cm
-16cc	.
+8.ddL	C minor
+16cck	.
 8ee-	.
-8cc	.
-8dd	E-
+8ccJ	.
+8ddL	E- major
 8cc	.
 8g	.
-8g-	E-m/B-
+8g-J	E- minor/B-
 =5	=5
-4.f[	Fm
-8f]	Fm/C
-8.r	Fm
-16f	.
+[4.f	F minor
+8f]	F minor/C
+8.r	F minor
+16fLK	.
 8a-	.
-8bn	.
+8bnJ	.
 =6	=6
-2dd	Dm7b5/F
-16r	Dm7b5/F
-16f[	.
-16f]	Dm7b5/F
+2dd	D half-diminished/F
+16r	D half-diminished/F
+[16fLL	.
+16fJ]	D half-diminished/F
 8a-	.
 8bn	.
-16dd[	.
+[16ddJk	.
 =7	=7
-16dd]	Cm
+16dd]	C minor
 4.cc	.
 16r	.
-8r	Cadd(2,3,7)
-8c	Cm
+8r	C other-2,3,7
+8cL	C minor
 8e-	.
-8b-	.
+8b-J	.
 =8	=8
-8.a-	Cm/G
-16g	.
+8.a-L	C minor/G
+16gk	.
 8b-	.
-8a-	.
-8a-	Gsus4
-16g	.
-16g[	.
-16g]	G
+8a-J	.
+8a-L	G suspended-fourth
+16gL	.
+[16g	.
+16gJ]	G major
 8Bn	.
-16c[	.
+[16cJk	.
 =9	=9
-2c]	Cm
-8r	Cm
-4.r	Cm
+2c]	C minor
+8r	C minor
+4.r	C minor
 ==	==
 *-	*-

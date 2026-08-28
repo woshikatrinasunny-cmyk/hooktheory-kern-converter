@@ -16,36 +16,36 @@
 *B:	*
 *M4/4	*
 =1	=1
-8g#	Emaj7
+8g#L	E major-seventh
 8a#	.
-8b	.
-4dd#	Eadd(6,7,11)
-8cc#	.
+8bJ	.
+4dd#	E other-6,7,11
+8cc#L	.
 8a#	.
-8g#	.
+8g#J	.
 =2	=2
-8f#	D#m7
+8f#L	D# minor-seventh
 8g#	.
+8a#J	.
+4cc#	G# suspended-fourth
+8bL	.
 8a#	.
-4cc#	G#sus4
-8b	.
-8a#	.
-8b	.
+8bJ	.
 =3	=3
-8g#	C#m7
+8g#L	C# minor-seventh
 8a#	.
+8bJ	.
+4g#	F diminished-seventh
+8a#L	.
 8b	.
-4g#	Fdim7
-8a#	.
-8b	.
-8cc#	.
+8cc#J	.
 =4	=4
-8dd#	Badd(2,4,7)/F#
+8dd#L	B other-2,4,7/F#
 8f#	.
-8dd#	.
-4cc#	F#/A#
+8dd#J	.
+4cc#	F# major/A#
 4r	.
-16dd#	.
-16ee	.
+16dd#LL	.
+16eeJJ	.
 ==	==
 *-	*-

@@ -16,107 +16,107 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4r	E-maj9
+4r	E- major-ninth
 4g	.
 8g	.
 4b-	.
-8b-[	.
+[8b-	.
 =2	=2
 8b-]	.
 4a-	.
 4g	.
 4a-	.
-8b-[	.
+[8b-	.
 =3	=3
-4.b-]	Am7b5
-3...e-[	.
+4.b-]	A half-diminished
+[3...e-	.
 =4	=4
 3...e-]	.
 4.r	.
 =5	=5
-4r	A-maj7
+4r	A- major-seventh
 4g	.
 8g	.
 4a-	.
-8g[	.
+[8g	.
 =6	=6
-8g]	.
+8gL]	.
 8e-	.
-8f	.
-4e-[	.
-4e-_	E-add(2,4,7)/G
-8e-]	Fm7
+8fJ	.
+[4e-	.
+4e-_	E- other-2,4,7/G
+8e-]	F minor-seventh
 =7	=7
 4r	.
 4g	.
 8g	.
 4a-	.
-8g[	B-11
+[8g	B- dominant-11th
 =8	=8
 8g]	.
-4e-	B-add(1,4,7,10)
-4.f	B-7
-4r	B-aug
+4e-	B- other-1,4,7,10
+4.f	B- dominant
+4r	B- augmented
 =9	=9
-4r	E-maj9
+4r	E- major-ninth
 4g	.
 8g	.
 4b-	.
-8b-[	.
+[8b-	.
 =10	=10
 8b-]	.
 4a-	.
 4g	.
 4a-	.
-8b-[	.
+[8b-	.
 =11	=11
-4.b-]	Am7b5
-3...e-[	.
+4.b-]	A half-diminished
+[3...e-	.
 =12	=12
 2e-]	.
 2r	.
 =13	=13
-4r	A-maj7
+4r	A- major-seventh
 4g	.
 8g	.
 4a-	.
-8g[	.
+[8g	.
 =14	=14
-8g]	.
+8gL]	.
 8e-	.
-8f	.
-4e-[	.
-4e-_	E-add(2,4,7)/G
-8e-]	Fm7
+8fJ	.
+[4e-	.
+4e-_	E- other-2,4,7/G
+8e-]	F minor-seventh
 =15	=15
 4r	.
 4g	.
 8g	.
 4a-	.
-8b-[	B-11
+[8b-	B- dominant-11th
 =16	=16
 8b-]	.
 4e-	.
 4e-	.
 4f	.
-8f[	Gm7
+[8f	G minor-seventh
 =17	=17
 1f_	.
 =18	=18
 2..f_	.
-8f]	Cm11
+8f]	C minor-11th
 =19	=19
 3...r	.
-4r	Cadd(3,6,7,10)
-8r	Cm7
+4r	C other-3,6,7,10
+8r	C minor-seventh
 =20	=20
 4r	.
-8g	.
-8c	.
-8e-	.
-8cc	.
+8gL	.
+8cJ	.
+8e-L	.
+8ccJ	.
 8r	.
-8b-[	Gm7
+[8b-	G minor-seventh
 =21	=21
 2.b-]	.
 4r	.
@@ -126,40 +126,40 @@
 4g	.
 8a-	.
 8r	.
-8g[	A-maj7
+[8g	A- major-seventh
 =23	=23
 8g]	.
 4e-	.
 4e-	.
 4c	.
-8e-[	.
+[8e-	.
 =24	=24
 4.e-]	.
 8r	.
-8c	.
-8e-	.
+8cL	.
+8e-J	.
 8r	.
-8b-[	A-m7
+[8b-	A- minor-seventh
 =25	=25
 1b-_	.
 =26	=26
 2..b-_	.
-8b-_	D-add(2,4,7,9,10)
+8b-_	D- other-2,4,7,9,10
 =27	=27
 1b-]	.
 =28	=28
 2r	.
-8Bn	.
-8e-	.
+8BnL	.
+8e-J	.
 8r	.
-8b-	A-m7
+8b-	A- minor-seventh
 =29	=29
 8r	.
 8a-	.
-2.b-[	A-m7
+[2.b-	A- minor-seventh
 =30	=30
 2..b-_	.
-8b-_	D-add(2,4,7,9,10)
+8b-_	D- other-2,4,7,9,10
 =31	=31
 2..b-]	.
 8r	.

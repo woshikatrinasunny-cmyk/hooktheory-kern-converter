@@ -16,91 +16,91 @@
 *C:	*
 *M3/4	*
 =1	=1
-2.ee	Cmaj7
+2.ee	C major-seventh
 =2	=2
-2.dd#	Gadd(2,4,7)
+2.dd#	G other-2,4,7
 =3	=3
-2.ee	Cmaj7
+2.ee	C major-seventh
 =4	=4
-8r	Em/G
+8r	E minor/G
 8g	.
-8a	.
-8b	.
-8cc	.
-8dd	.
+8aL	.
+8bJ	.
+8ccL	.
+8ddJ	.
 =5	=5
-2.ee	Cmaj7
+2.ee	C major-seventh
 =6	=6
-2dd#	G9
+2dd#	G dominant-ninth
 4ff	.
 =7	=7
-2.ee	Cmaj7
+2.ee	C major-seventh
 =8	=8
-8r	Em/G
+8r	E minor/G
 8g	.
-8a	.
-8b	.
-8cc	.
-8cc#	.
+8aL	.
+8bJ	.
+8ccL	.
+8cc#J	.
 =9	=9
-2.dd	G/B
+2.dd	G major/B
 =10	=10
-2.cc#	Edim/A#
+2.cc#	E diminished/A#
 =11	=11
-2.dd	G7/B
+2.dd	G dominant/B
 =12	=12
-8r	G7
+8r	G dominant
 8g	.
-8a	.
-8b	.
-8cc	.
-8cc#	.
+8aL	.
+8bJ	.
+8ccL	.
+8cc#J	.
 =13	=13
-2.dd	G7/B
+2.dd	G dominant/B
 =14	=14
-2g	G7
+2g	G dominant
 4ff	.
 =15	=15
-2.ee	C
+2.ee	C major
 =16	=16
-4r	G
-8g	.
-8a	.
+4r	G major
+8gL	.
+8aJ	.
 4b	.
 =17	=17
-2.gg	C
+2.gg	C major
 =18	=18
-2.gg	Gadd(2,3,7)/A#
+2.gg	G other-2,3,7/A#
 =19	=19
-2.gg	A7
+2.gg	A dominant
 =20	=20
-4gg	A7/G
+4gg	A dominant/G
 8aa	.
 4r	.
 8gg	.
 =21	=21
-2.ff	Dm7
+2.ff	D minor-seventh
 =22	=22
-2.ff	C#maj7
+2.ff	C# major-seventh
 =23	=23
-2.ff	Dm7/C
+2.ff	D minor-seventh/C
 =24	=24
-4ff	Bdim
+4ff	B diminished
 8gg	.
 4r	.
 8ff	.
 =25	=25
-2.ee	C
+2.ee	C major
 =26	=26
-4a	Fadd(2,4,7)
+4a	F other-2,4,7
 4b	.
 4ff	.
 =27	=27
-8ee	C/G
-8ee	.
-4.ee	Eadd(1,3,7)/G
-8b	G7
+8eeL	C major/G
+8eeJ	.
+4.ee	E other-1,3,7/G
+8b	G dominant
 =28	=28
-2.cc	C
+2.cc	C major
 ==	==
 *-	*-

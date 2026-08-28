@@ -16,136 +16,136 @@
 *b:	*
 *M4/4	*
 =1	=1
-16dd	Bm
+16ddLL	B minor
 16b	.
 16f#	.
 16dd	.
 16b	.
 16f#	.
-16dd	Bm/F#
-16b	.
-16f#	.
+16dd	B minor/F#
+16bJJ	.
+16f#LL	.
 16dd	.
-16b	Bm
-16f#	.
-8.cc#	A/C#
-16cc#[	.
+16b	B minor
+16f#J	.
+8.cc#	A major/C#
+[16cc#Jk	.
 =2	=2
-8cc#]	.
+8cc#L]	.
 8cc#	.
-16dd	Bm
+16ddL	B minor
+16b	.
+16f#	.
+16ddJJ	.
+16bLL	.
+16f#	.
+16dd	B minor/F#
 16b	.
 16f#	.
 16dd	.
-16b	.
-16f#	.
-16dd	Bm/F#
-16b	.
-16f#	.
-16dd	.
-16b	Bm
-16f#	.
+16b	B minor
+16f#JJ	.
 =3	=3
-8.ee	C#dim/E
+8.eeL	C# diminished/E
 8.ee	.
-8ee	.
-16dd	Bm
+8eeJ	.
+16ddLL	B minor
 16b	.
 16f#	.
 16dd	.
 16b	.
 16f#	.
-16dd	Bm/F#
-16b	.
+16dd	B minor/F#
+16bJJ	.
 =4	=4
-16f#	.
+16f#LL	.
 16dd	.
-16b	Bm
-16f#	.
-8.cc#	A/C#
+16b	B minor
+16f#J	.
+8.cc#J	A major/C#
 8.cc#	.
-8cc#	.
-16dd	Bm
+8cc#L	.
+16ddL	B minor
 16b	.
 16f#	.
-16dd	.
+16ddJJ	.
 =5	=5
-16b	.
+16bLL	.
 16f#	.
-16dd	Bm/F#
+16dd	B minor/F#
 16b	.
 16f#	.
 16dd	.
-16b	Bm
-16f#	.
-8.ee	C#dim/E
+16b	B minor
+16f#JJ	.
+8.eeL	C# diminished/E
 8.ee	.
-8ee	.
+8eeJ	.
 =6	=6
-16dd	G
+16ddLL	G major
 16b	.
 16f#	.
 16dd	.
 16b	.
 16f#	.
-16dd	G/D
-16b	.
-16f#	.
+16dd	G major/D
+16bJJ	.
+16f#LL	.
 16dd	.
-16b	G
-16f#	.
-8.cc#	A/C#
-16cc#[	.
+16b	G major
+16f#J	.
+8.cc#	A major/C#
+[16cc#Jk	.
 =7	=7
-8cc#]	.
+8cc#L]	.
 8cc#	.
-16dd	G
+16ddL	G major
+16b	.
+16f#	.
+16ddJJ	.
+16bLL	.
+16f#	.
+16dd	G major/D
 16b	.
 16f#	.
 16dd	.
-16b	.
-16f#	.
-16dd	G/D
-16b	.
-16f#	.
-16dd	.
-16b	G
-16f#	.
+16b	G major
+16f#JJ	.
 =8	=8
-8.ee	A#dim
+8.eeL	A# diminished
 8.ee	.
-8ee	.
-16dd	Bm
+8eeJ	.
+16ddLL	B minor
 16b	.
 16f#	.
 16dd	.
 16b	.
 16f#	.
-16dd	Bm/F#
-16b	.
+16dd	B minor/F#
+16bJJ	.
 =9	=9
-16f#	.
+16f#LL	.
 16dd	.
-16b	Bm
-16f#	.
-8.cc#	A/C#
+16b	B minor
+16f#J	.
+8.cc#J	A major/C#
 8.cc#	.
-8cc#	.
-16dd	Bm
+8cc#L	.
+16ddL	B minor
 16b	.
 16f#	.
-16dd	.
+16ddJJ	.
 =10	=10
-16b	.
+16bLL	.
 16f#	.
-16dd	Bm/F#
+16dd	B minor/F#
 16b	.
 16f#	.
 16dd	.
-16b	Bm
-16f#	.
-8.ee	C#dim/E
-8.ee	C#dim/E
-8ee	C#dim/E
+16b	B minor
+16f#JJ	.
+8.eeL	C# diminished/E
+8.ee	C# diminished/E
+8eeJ	C# diminished/E
 ==	==
 *-	*-

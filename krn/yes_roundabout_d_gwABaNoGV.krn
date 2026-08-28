@@ -16,115 +16,115 @@
 *G:	*
 *M4/4	*
 =1	=1
-8g	.
+8gL	.
 8g	.
 8ee	.
-8dd[	.
-4dd]	G
-8cc	C
-8b	.
+[8ddJ	.
+4dd]	G major
+8ccL	C major
+8bJ	.
 =2	=2
-4r	F
-4r	C
-4r	F
-8r	C
-8r	G
+4r	F major
+4r	C major
+4r	F major
+8r	C major
+8r	G major
 =3	=3
+8gL	.
 8g	.
-8g	.
-8ee	C
-4dd	G
-8dd	.
-8cc	C
-8b	.
+8eeJ	C major
+4dd	G major
+8ddL	.
+8cc	C major
+8bJ	.
 =4	=4
-8r	F
-8gg	.
-8gg	C
-4aa#	A#
+8r	F major
+8ggL	.
+8ggJ	C major
+4aa#	A# major
 4gg	.
-8r	G
+8r	G major
 =5	=5
-4r	G
-4r	C
-4r	F
-4r	C
+4r	G major
+4r	C major
+4r	F major
+4r	C major
 =6	=6
-4r	F
-8r	C
-4.r	G
-8r	C
-8dd[	G
+4r	F major
+8r	C major
+4.r	G major
+8r	C major
+[8dd	G major
 =7	=7
-8dd]	.
+8ddL]	.
 8dd	.
-8ee	C
+8ee	C major
+8ddJ	.
+8ffL	F major
 8dd	.
-8ff	F
-8dd	.
-8ee	C
-8dd	A#
+8ee	C major
+8ddJ	A# major
 =8	=8
 8ff	.
 4gg	.
-8aa#	G
+8aa#	G major
 8gg	.
 8r	.
-4r	C
+4r	C major
 =9	=9
-4r	F
-4r	C
-4r	F
-8r	C
-8r	G
+4r	F major
+4r	C major
+4r	F major
+8r	C major
+8r	G major
 =10	=10
 4r	.
-8r	C
-4dd	G
-8dd	.
-8ee	C
-8dd	.
+8r	C major
+4dd	G major
+8ddL	.
+8ee	C major
+8ddJ	.
 =11	=11
-8ff	F
+8ffL	F major
 8dd	.
-8ee	C
-8dd	A#
+8ee	C major
+8ddJ	A# major
 8ff	.
 4gg	.
-8aa#	G
+8aa#	G major
 =12	=12
 8gg	.
 8r	.
-4r	C
-4r	F
-4r	C
+4r	C major
+4r	F major
+4r	C major
 =13	=13
-4r	F
-8r	C
-4.r	G
-8r	C
-8dd[	G
+4r	F major
+8r	C major
+4.r	G major
+8r	C major
+[8dd	G major
 =14	=14
-8dd]	.
+8ddL]	.
 8dd	.
-8ee	C
+8ee	C major
+8ddJ	.
+8ffL	F major
 8dd	.
-8ff	F
-8dd	.
-8ee	C
-8gg[	A#
+8ee	C major
+[8ggJ	A# major
 =15	=15
 8gg]	.
 4gg	.
-4gg	Am
-8gg[	.
-8gg]	Bm
-8gg[	.
+4gg	A minor
+[8ggL	.
+8gg]	B minor
+[8ggJ	.
 =16	=16
-8gg]	C
-8gg[	.
-8gg]	D
-4.gg[	Em
+8ggL]	C major
+[8gg	.
+8ggJ]	D major
+[4.gg	E minor
 4gg]	.
 ==	==
 *-	*-

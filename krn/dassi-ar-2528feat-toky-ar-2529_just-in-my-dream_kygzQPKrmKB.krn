@@ -16,145 +16,145 @@
 *F:	*
 *M5/4	*
 =1	=1
-1r	Fadd(4,7,9)
+1r	F other-4,7,9
 4r	.
 =2	=2
 *M3/4	*
-4.r	C7sus4
-4r	Cadd(2,5,7,10)
+4.r	C dominant-seventh-suspended-fourth
+4r	C other-2,5,7,10
 8a	.
 =3	=3
 *M4/4	*
-1g	Fmaj7/C
+1g	F major-seventh/C
 =4	=4
 *M3/4	*
-4r	C7sus4
-16cc	.
-16dd	.
-8ee	Cadd(2,5,7,10)
-16ff	.
-16gg	.
-8ff[	.
+4r	C dominant-seventh-suspended-fourth
+16ccLL	.
+16ddJ	.
+8eeJ	C other-2,5,7,10
+16ffLL	.
+16ggJ	.
+[8ffJ	.
 =5	=5
 *M4/4	*
 8ff_	.
-4ff]	Dm11
+4ff]	D minor-11th
 8ee	.
-16dd	.
-16cc	.
+16ddLL	.
+16ccJ	.
 8dd	.
-16a	.
-16cc	.
-8cc	.
+16aL	.
+16ccJ	.
+8ccJ	.
 =6	=6
 *M3/4	*
-16cc	C7sus4
-16cc	.
-8dd	.
-8g	.
-8f	Cadd(2,5,7,10)
+16ccLL	C dominant-seventh-suspended-fourth
+16ccJ	.
+8ddJ	.
+8gL	.
+8fJ	C other-2,5,7,10
 8r	.
-16g	.
-16f	.
+16gLL	.
+16fJJ	.
 =7	=7
 *M4/4	*
-16e	Fmaj7/C
-16f	.
+16eLL	F major-seventh/C
+16fJ	.
 8.g	.
-16g	.
-8f	.
-16g	.
-16a	.
-8g	.
+16gk	.
+8fJ	.
+16gLL	.
+16aJ	.
+8gJ	.
 16r	.
-16g	.
-8f	.
+16gLK	.
+8fJ	.
 =8	=8
 *M3/4	*
-16g	C7sus4
-16g	.
-8g	.
-16g	.
-16cc	.
-4cc	Cadd(2,5,7,10)
+16gLL	C dominant-seventh-suspended-fourth
+16gJ	.
+8gJ	.
+16gLL	.
+16ccJJ	.
+4cc	C other-2,5,7,10
 8r	.
 =9	=9
 *M4/4	*
 8r	.
-4r	Dm11
+4r	D minor-11th
 8cc	.
-16ff	.
-16gg	.
+16ffLL	.
+16ggJJ	.
 6...aa	.
 16gg	.
 =10	=10
 *M3/4	*
-16ff	C7sus4
+16ff	C dominant-seventh-suspended-fourth
 4ee	.
-16dd	.
-8cc	Cadd(2,5,7,10)
-16a	.
-16g	.
-8f	.
+16ddLK	.
+8ccJ	C other-2,5,7,10
+16aLL	.
+16gJ	.
+8fJ	.
 =11	=11
 *M4/4	*
-16e	Fmaj7/C
-16f	.
+16eLL	F major-seventh/C
+16fJ	.
 8e	.
-16f	.
-16e	.
-2d[	.
-16d]	.
-16c	.
+16fL	.
+16eJJ	.
+[2d	.
+16dLL]	.
+16cJJ	.
 =12	=12
 *M3/4	*
-16B-	C7sus4
-16c	.
-8d	.
-16f	.
-16f	.
-8f	Cadd(2,5,7,10)
-16f	.
-8f	.
+16B-LL	C dominant-seventh-suspended-fourth
+16cJ	.
+8dJ	.
+16fLL	.
+16fJ	.
+8fJ	C other-2,5,7,10
+16fLK	.
+8fJ	.
 16r	.
 =13	=13
 *M4/4	*
 8r	.
-4r	Dm11
+4r	D minor-11th
 8f	.
-16a	.
-16cc	.
+16aLL	.
+16ccJ	.
 8cc	.
-16cc	.
-16cc	.
-8cc	.
+16ccL	.
+16ccJ	.
+8ccJ	.
 =14	=14
 *M3/4	*
-16cc	C7sus4
+16cc	C dominant-seventh-suspended-fourth
 6...dd	.
-4.ff	Cadd(2,5,7,10)
+4.ff	C other-2,5,7,10
 =15	=15
 *M4/4	*
-2aa	Fmaj7/C
+2aa	F major-seventh/C
 8r	.
-16b-	.
+16b-LL	.
 16a	.
 16g	.
-16g	.
-8g	.
+16gJ	.
+8gJ	.
 =16	=16
 *M3/4	*
-16g	C7sus4
-16g	.
-8a	.
-8f	.
-8g	Cadd(2,5,7,10)
-16d	.
-16f	.
-8f	.
+16gLL	C dominant-seventh-suspended-fourth
+16gJ	.
+8aJ	.
+8fL	.
+8gJ	C other-2,5,7,10
+16dLL	.
+16fJ	.
+8fJ	.
 =17	=17
 *M4/4	*
 8r	.
-2..r	Dm11
+2..r	D minor-11th
 ==	==
 *-	*-

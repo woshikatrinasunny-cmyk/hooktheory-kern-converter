@@ -15,108 +15,108 @@
 *c:	*
 *M4/4	*
 =1	=1
-8.c	Cm
-16c	.
+8.cL	C minor
+16ck	.
 8c	.
-8c	.
-8c	.
+8cJ	.
+8cL	.
 8e-	.
-8g	.
+8gJ	.
 8r	.
 =2	=2
-4f	B-
-8f	.
-8e-	.
+4f	B- major
+8fL	.
+8e-J	.
+8dL	.
 8d	.
-8d	.
-8B-	.
+8B-J	.
 8r	.
 =3	=3
-4c	A-/C
+4c	A- major/C
 4c	.
-8c	.
+8cL	.
 8e-	.
-8g	.
+8gJ	.
 8r	.
 =4	=4
-8b-	B-add(2,5,7)
+8b-	B- other-2,5,7
 4b-	.
 8cc	.
-4b-	B-
-8f	.
-8a-	.
+4b-	B- major
+8fL	.
+8a-J	.
 =5	=5
-2g	E-
-4r	G
-8g	.
-8g	.
+2g	E- major
+4r	G major
+8gL	.
+8gJ	.
 =6	=6
-3...cc	Cm
-8cc	.
+3...cc	C minor
+8ccL	.
 8dd	.
-8b-	.
+8b-J	.
 =7	=7
 3...cc	.
 8r	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 =8	=8
-3...cc	A-
-8ee-	.
+3...cc	A- major
+8ee-L	.
 8dd	.
-8b-	.
+8b-J	.
 =9	=9
-2cc	A-
+2cc	A- major
 4r	.
-8a-	.
-8g	.
+8a-L	.
+8gJ	.
 =10	=10
-3...f	D-maj7
-8f	.
+3...f	D- major-seventh
+8fL	.
 8a-	.
-8cc	.
+8ccJ	.
 =11	=11
-2g	Cm
+2g	C minor
 4r	.
-8a-	.
-8g	.
+8a-L	.
+8gJ	.
 =12	=12
-4.f	Dm7b5
+4.f	D half-diminished
 8f	.
-8.f	.
+8.fL	.
 8.a-	.
-8cc	.
+8ccJ	.
 =13	=13
-1dd[	Gsus4
+[1dd	G suspended-fourth
 =14	=14
-2dd]	G
+2dd]	G major
 2r	.
 =15	=15
-4c	Cm
-8c	.
-8c	.
-8c	.
+4c	C minor
+8cL	.
+8cJ	.
+8cL	.
 8e-	.
-8g	.
+8gJ	.
 8r	.
 =16	=16
-4f	B-
-8f	.
-8e-	.
+4f	B- major
+8fL	.
+8e-J	.
+8dL	.
 8d	.
-8d	.
-8B-	.
+8B-J	.
 8r	.
 =17	=17
-4c	A-/C
+4c	A- major/C
 4e-	.
 4.e-	.
 8c	.
 =18	=18
-4f	Fm/A-
-8f	.
-8a-	.
-4.g	G
+4f	F minor/A-
+8fL	.
+8a-J	.
+4.g	G major
 8r	.
 =19	=19
 8ee-	.
@@ -127,12 +127,12 @@
 8b-	.
 8r	.
 =20	=20
-4ee-[	.
-4ee-]	A-
-4dd[	.
-4dd]	B-
+[4ee-	.
+4ee-]	A- major
+[4dd	.
+4dd]	B- major
 =21	=21
-1cc[	C
+[1cc	C major
 =22	=22
 1cc]	.
 ==	==

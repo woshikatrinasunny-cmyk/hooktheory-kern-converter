@@ -93,7 +93,7 @@ def beat_to_ticks(beat: Fraction) -> int:
 
 
 def duration_to_beats(token: str, beat_unit: int) -> Fraction:
-    match = re.match(r"^(\d+)(\.*)", token)
+    match = re.match(r"^\[?(\d+)(\.*)", token)
     if not match:
         raise ValueError(f"Missing **kern duration in token: {token}")
 
@@ -104,8 +104,9 @@ def duration_to_beats(token: str, beat_unit: int) -> Fraction:
 
 
 def parse_kern_pitch(token: str) -> tuple[int, int] | None:
-    body = re.sub(r"^\d+\.*", "", token)
+    body = re.sub(r"^\[?\d+\.*", "", token)
     body = body.replace("[", "").replace("]", "").replace("_", "")
+    body = body.replace("L", "").replace("J", "").replace("K", "").replace("k", "")
     if "r" in body:
         return None
 

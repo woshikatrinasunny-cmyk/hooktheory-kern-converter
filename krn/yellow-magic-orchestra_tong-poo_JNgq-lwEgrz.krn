@@ -16,64 +16,70 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4a#	D#m7
+4a#	D# minor-seventh
 16r	.
-16e#	.
-16f#	.
+16e#LL	.
+16f#JJ	.
 16r	.
-2g#	Aadd(2,3,5,7,8,11)
+2g#	A other-2,3,5,7,8,11
 =2	=2
-4a#	G#m9
+4a#	G# minor-ninth
 16r	.
-16e#	.
-16f#	.
+16e#LL	.
+16f#JJ	.
 16r	.
-4.a#	Gm7
+4.a#	G minor-seventh
 8ccn	.
 =3	=3
 *k[f#c#g#]	*
 *f#:	*
-4cc#	F#m7
+4cc#	F# minor-seventh
 16r	.
-16g#	.
-16a	.
+16g#LL	.
+16aJJ	.
 16r	.
-2b	Cadd(2,3,5,7,8,11)
+2b	C other-2,3,5,7,8,11
 =4	=4
-4cc#	Bm9
+4cc#	B minor-ninth
 16r	.
-16g#	.
-16a	.
+16g#LL	.
+16aJJ	.
 16r	.
-4.cc#	A#m7
+4.cc#	A# minor-seventh
 8dd#	.
 =5	=5
 *k[f#]	*
 *a:	*
-4ee	Am7
+4ee	A minor-seventh
 16r	.
-16b	.
-16cc	.
+16bLL	.
+16ccJJ	.
 16r	.
-4.ee	D9
+4.ee	D dominant-ninth
 8ff#	.
 =6	=6
 *k[b-e-]	*
 *c:	*
-4gg	Cm7
+4gg	C minor-seventh
 16r	.
-16dd	.
-16ee-	.
+16ddLL	.
+16ee-JJ	.
 16r	.
-4.gg	F9
+4.gg	F dominant-ninth
 8aa	.
 =7	=7
 *k[b-e-a-d-g-]	*
 *b-:	*
-12bb-	Cm7b5/E-
+12bb-L	C half-diminished/E-
 12ccc	.
 12bb-	.
+24cccL	.
+24bb-	.
 24ccc	.
+24bb-	.
+24ccc	.
+24bb-JJ	.
+24cccLL	.
 24bb-	.
 24ccc	.
 24bb-	.
@@ -84,15 +90,9 @@
 24ccc	.
 24bb-	.
 24ccc	.
-24bb-	.
-24ccc	.
-24bb-	.
-24ccc	.
-24bb-	.
-24ccc	.
-24bb-	.
+24bb-JJ	.
 =8	=8
-24ccc	.
+24cccLL	.
 24bb-	.
 24ccc	.
 24bb-	.
@@ -103,6 +103,8 @@
 24ccc	.
 24bb-	.
 24ccc	.
+24bb-JJ	.
+24cccLL	.
 24bb-	.
 24ccc	.
 24bb-	.
@@ -113,11 +115,9 @@
 24ccc	.
 24bb-	.
 24ccc	.
-24bb-	.
-24ccc	.
-24bb-	.
+24bb-JJ	.
 =9	=9
-24ccc	.
+24cccLL	.
 24bb-	.
 24ccc	.
 24bb-	.
@@ -128,6 +128,8 @@
 24ccc	.
 24bb-	.
 24ccc	.
+24bb-JJ	.
+24cccLL	.
 24bb-	.
 24ccc	.
 24bb-	.
@@ -138,12 +140,10 @@
 24ccc	.
 24bb-	.
 24ccc	.
-24bb-	.
-24ccc	.
-24bb-	.
+24bb-JJ	.
 =10	=10
 *k[b-e-a-d-]	*
 *f:	*
-1r	D-aug7/B
+1r	D- augmented-seventh/B
 ==	==
 *-	*-

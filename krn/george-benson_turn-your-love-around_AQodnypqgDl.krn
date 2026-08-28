@@ -16,58 +16,58 @@
 *a:	*
 *M4/4	*
 =1	=1
-16r	Dm9
-8.A	.
+16r	D minor-ninth
+8.AL	.
 8c	.
-16A	.
+16AJk	.
 8.c	.
-8A	.
+8AL	.
 8c	.
-16c	.
-16d[	.
+16cL	.
+[16dJJ	.
 =2	=2
 8d]	.
 4e	.
 8r	.
-4.r	G
-16c	.
-16d	Dm9
+4.r	G major
+16cLL	.
+16dJJ	D minor-ninth
 =3	=3
 4e	.
 4c	.
 4A	.
-8A	.
-16A#	.
-16A[	.
+8AL	.
+16A#L	.
+[16AJJ	.
 =4	=4
 8A]	.
-4.G[	.
-4G]	G
-8.r	Am11
-16r	Dm9
+[4.G	.
+4G]	G major
+8.r	A minor-11th
+16r	D minor-ninth
 =5	=5
 16r	.
-8.A	.
+8.AL	.
 8c	.
+8AJ	.
+8cL	.
 8A	.
 8c	.
-8A	.
-8c	.
-16c	.
-16d[	.
+16cL	.
+[16dJJ	.
 =6	=6
-8d]	.
-8e	.
+8dL]	.
+8eJ	.
 4r	.
-4G	G11
+4G	G dominant-11th
 4f	.
 =7	=7
-1e	Cmaj7
+1e	C major-seventh
 =8	=8
-4r	Aadd(4,7,8,10)
-4r	A7
-4r	Aaug7
-8.r	Aadd(4,10)
-16r	Dm9
+4r	A other-4,7,8,10
+4r	A dominant
+4r	A augmented-seventh
+8.r	A other-4,10
+16r	D minor-ninth
 ==	==
 *-	*-

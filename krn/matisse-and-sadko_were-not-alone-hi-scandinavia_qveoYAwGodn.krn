@@ -16,60 +16,60 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.b	Em
-8.dd	Eadd(2,3,7)/B
-8.ee	C
-8.ff#	Cadd(6,7)
-8.ee	C
-16dd[	Gadd(2,4,7)
+8.bL	E minor
+8.ddJ	E other-2,3,7/B
+8.ee	C major
+8.ff#L	C other-6,7
+8.ee	C major
+[16ddJk	G other-2,4,7
 =2	=2
-8dd]	.
-8.b	G
-8.g	G
-8.gg	Am7
-8.dd	A7sus4
-8ee	Am
+8ddL]	.
+8.b	G major
+8.gJ	G major
+8.ggL	A minor-seventh
+8.dd	A dominant-seventh-suspended-fourth
+8eeJ	A minor
 =3	=3
-8.b	Em
-8.dd	Eadd(2,3,7)/B
-8.ee	C
-8.ff#	Cadd(6,7)
-8.ee	C
-16dd[	Gadd(2,4,7)
+8.bL	E minor
+8.ddJ	E other-2,3,7/B
+8.ee	C major
+8.ff#L	C other-6,7
+8.ee	C major
+[16ddJk	G other-2,4,7
 =4	=4
-8dd]	.
-8.b	G
-8.g	G
-8.gg	Am7
-8.ff#	F#add(1,3,6)/A
-8dd	Asus4
+8ddL]	.
+8.b	G major
+8.gJ	G major
+8.ggL	A minor-seventh
+8.ff#	F# other-1,3,6/A
+8ddJ	A suspended-fourth
 =5	=5
-8.b	Em
-8.dd	Eadd(2,3,7)/B
-8.ee	C
-8.ff#	Cadd(6,7)
-8.ee	C
-16dd[	Gadd(2,4,7)
+8.bL	E minor
+8.ddJ	E other-2,3,7/B
+8.ee	C major
+8.ff#L	C other-6,7
+8.ee	C major
+[16ddJk	G other-2,4,7
 =6	=6
-8dd]	.
-8.b	G
-8.g	G
-8.gg	Am7
-8.dd	A7sus4
-8ee	Am
+8ddL]	.
+8.b	G major
+8.gJ	G major
+8.ggL	A minor-seventh
+8.dd	A dominant-seventh-suspended-fourth
+8eeJ	A minor
 =7	=7
-8.b	Em
-8.dd	Eadd(2,3,7)/B
-8.ee	C
-8.ff#	Cadd(6,7)
-8.ee	C
-16dd[	Gadd(2,4,7)
+8.bL	E minor
+8.ddJ	E other-2,3,7/B
+8.ee	C major
+8.ff#L	C other-6,7
+8.ee	C major
+[16ddJk	G other-2,4,7
 =8	=8
-8dd]	.
-8.b	G
-8.g	G
-8.gg	Am7
-8.ff#	F#add(1,3,6)/A
-8dd	Asus4
+8ddL]	.
+8.b	G major
+8.gJ	G major
+8.ggL	A minor-seventh
+8.ff#	F# other-1,3,6/A
+8ddJ	A suspended-fourth
 ==	==
 *-	*-

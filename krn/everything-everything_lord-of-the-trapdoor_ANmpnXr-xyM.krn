@@ -16,37 +16,37 @@
 *F#:	*
 *M5/4	*
 =1	=1
-2.ff#[	F#add(2,3,7)/A
-4ff#_	F#m7/C#
-4ff#]	F#m7/A
+[2.ff#	F# other-2,3,7/A
+4ff#_	F# minor-seventh/C#
+4ff#]	F# minor-seventh/A
 =2	=2
-2.gg#	F#7
-2ff#	F#7/C#
+2.gg#	F# dominant
+2ff#	F# dominant/C#
 =3	=3
-2.ff#[	Dmaj7
-4ff#_	Dmaj7/F#
-4ff#]	Dmaj7
+[2.ff#	D major-seventh
+4ff#_	D major-seventh/F#
+4ff#]	D major-seventh
 =4	=4
-4.ee#[	A#m7
-4.ee#]	C#7/B
-4cc#[	F#/C#
-4cc#]	F#/A#
+[4.ee#	A# minor-seventh
+4.ee#]	C# dominant/B
+[4cc#	F# major/C#
+4cc#]	F# major/A#
 =5	=5
-2.ff#[	F#add(2,3,7)/A
-4ff#_	F#m7/C#
-4ff#]	F#m7/A
+[2.ff#	F# other-2,3,7/A
+4ff#_	F# minor-seventh/C#
+4ff#]	F# minor-seventh/A
 =6	=6
-2.gg#	F#7
-2ff#	F#7/C#
+2.gg#	F# dominant
+2ff#	F# dominant/C#
 =7	=7
-2.ff#[	Dmaj7
-4ff#_	Dmaj7/F#
-4ff#]	Dmaj7
+[2.ff#	D major-seventh
+4ff#_	D major-seventh/F#
+4ff#]	D major-seventh
 =8	=8
-4.ee#[	A#m7
-4.ee#_	C#7/B
-4ee#_	F#/C#
-8ee#]	F#/A#
-8ff#	.
+[4.ee#	A# minor-seventh
+4.ee#_	C# dominant/B
+4ee#_	F# major/C#
+8ee#L]	F# major/A#
+8ff#J	.
 ==	==
 *-	*-

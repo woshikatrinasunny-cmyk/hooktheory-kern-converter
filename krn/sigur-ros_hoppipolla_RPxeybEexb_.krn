@@ -56,12 +56,12 @@
 4b	.
 4cc#	.
 =9	=9
-4dd#	B/D#
+4dd#	B major/D#
 4ff#	.
 4bb	.
 4ccc#	.
 =10	=10
-4ee	E
+4ee	E major
 4ff#	.
 4bb	.
 4ddd#	.
@@ -69,10 +69,10 @@
 4ee	.
 4ff#	.
 4bb	.
-8ddd#	.
-8bb	.
+8ddd#L	.
+8bbJ	.
 =12	=12
-4eee	B
+4eee	B major
 4ddd#	.
 4bb	.
 4ff#	.
@@ -80,10 +80,10 @@
 4ee	.
 4ff#	.
 4bb	.
-8ddd#	.
-8bb	.
+8ddd#L	.
+8bbJ	.
 =14	=14
-4eee	G#m
+4eee	G# minor
 4ddd#	.
 4bb	.
 4ff#	.
@@ -93,7 +93,7 @@
 4bb	.
 4ccc#	.
 =16	=16
-4cc#	F#
+4cc#	F# major
 4ff#	.
 4bb	.
 4ccc#	.
@@ -101,16 +101,16 @@
 4cc#	.
 4ff#	.
 4bb	.
-8ddd#	.
-8bb	.
+8ddd#L	.
+8bbJ	.
 =18	=18
-4eee	Esus2
+4eee	E suspended-second
 4ddd#	.
 4bb	.
 4ff#	.
 =19	=19
 4ee	.
-4ff#	E
+4ff#	E major
 4bb	.
 4ccc#	.
 ==	==

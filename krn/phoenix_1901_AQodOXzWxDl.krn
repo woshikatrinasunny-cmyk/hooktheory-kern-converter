@@ -16,108 +16,108 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.r	F/C
-4r	Cmaj7
-8c	.
-8c	F/C
-8c	.
+4.r	F major/C
+4r	C major-seventh
+8cL	.
+8c	F major/C
+8cJ	.
 =2	=2
-8c	.
-8B	Cmaj7
+8cL	.
+8B	C major-seventh
 8B	.
-8B	.
-4B	F/C
-4A[	Cmaj7
+8BJ	.
+4B	F major/C
+[4A	C major-seventh
 =3	=3
-8A]	F/C
+8A]	F major/C
 4r	.
-4.r	Cmaj7
-8G	F/C
-8G	.
+4.r	C major-seventh
+8GL	F major/C
+8GJ	.
 =4	=4
-8g[	.
-16g]	Cmaj7
+[8gL	.
+16gk]	C major-seventh
 8.g	.
-8g	.
-8.g	F/C
-16g[	.
-8g]	C/G
-8g[	.
+8gJ	.
+8.gL	F major/C
+[16gk	.
+8g]	C major/G
+[8gJ	.
 =5	=5
-4g]	G
+4g]	G major
 2r	.
 4g	.
 =6	=6
-8g	.
+8gL	.
 8f	.
 8e	.
-8g	.
+8gJ	.
 4e	.
 4e	.
 =7	=7
 2.r	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 =8	=8
+8eL	.
 8e	.
 8e	.
-8e	.
-8e	.
-8e	.
-8f	.
+8eJ	.
+8eL	.
+8fJ	.
 4e	.
 =9	=9
-4.r	F/C
-4r	Cmaj7
-8G	.
-8c	F/C
-8c	.
+4.r	F major/C
+4r	C major-seventh
+8GL	.
+8c	F major/C
+8cJ	.
 =10	=10
-8c	.
-8B	Cmaj7
+8cL	.
+8B	C major-seventh
 8B	.
-8B	.
-4c	F/C
-8A	Cmaj7
-8e[	.
+8BJ	.
+4c	F major/C
+8AL	C major-seventh
+[8eJ	.
 =11	=11
-4e]	F/C
+4e]	F major/C
 8r	.
-4.r	Cmaj7
-8G	F/C
-8G	.
+4.r	C major-seventh
+8GL	F major/C
+8GJ	.
 =12	=12
-8g[	.
-16g]	Cmaj7
+[8gL	.
+16gk]	C major-seventh
 8.g	.
-8g	.
-8.g	F/C
-16g[	.
-8g]	C/G
-8g	.
+8gJ	.
+8.gL	F major/C
+[16gk	.
+8g]	C major/G
+8gJ	.
 =13	=13
-4g	G
+4g	G major
 4.r	.
+8eL	.
 8e	.
-8e	.
-8e	.
+8eJ	.
 =14	=14
+8eL	.
 8e	.
 8e	.
-8e	.
-8f	.
+8fJ	.
 4e	.
 4d	.
 =15	=15
 3...r	.
+8cL	.
 8c	.
-8c	.
-8c	.
+8cJ	.
 =16	=16
+8cL	.
 8c	.
 8c	.
-8c	.
-8c	.
+8cJ	.
 4c	.
 4e	.
 ==	==

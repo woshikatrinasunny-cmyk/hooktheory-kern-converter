@@ -16,73 +16,73 @@
 *g:	*
 *M4/4	*
 =1	=1
-4..r	G
+4..r	G major
 16g	.
-16ff	E-maj7
+16ffLL	E- major-seventh
 16gg	.
-16ff	.
+16ffJ	.
 8cc	.
 8b-	.
-16cc[	.
+[16ccJk	.
 =2	=2
-4..cc]	Fadd(2,4,7)
+4..cc]	F other-2,4,7
 16b-	.
-16cc	Cm7
+16ccLL	C minor-seventh
 16dd	.
-16ff	.
+16ffJ	.
 8cc	.
 8b-	.
-16g[	.
+[16gJk	.
 =3	=3
-4..g]	G
+4..g]	G major
 16g	.
-16ff	E-maj7
+16ffLL	E- major-seventh
 16gg	.
-16ff	.
+16ffJ	.
 8cc	.
 8b-	.
-16bb-[	.
+[16bb-Jk	.
 =4	=4
-16bb-]	Fadd(2,4,7)
+16bb-LK]	F other-2,4,7
 8aa	.
 8gg	.
-8.ff	.
-4cc	Cm7
+8.ffJ	.
+4cc	C minor-seventh
 4dd	.
 =5	=5
-4..r	G
+4..r	G major
 16g	.
-16ff	E-maj7
+16ffLL	E- major-seventh
 16gg	.
-16ff	.
+16ffJ	.
 8cc	.
 8b-	.
-16cc[	.
+[16ccJk	.
 =6	=6
-4..cc]	Fadd(2,4,7)
+4..cc]	F other-2,4,7
 16b-	.
-16cc	Cm7
+16ccLL	C minor-seventh
 16dd	.
-16ff	.
+16ffJ	.
 8cc	.
 8b-	.
-16g[	.
+[16gJk	.
 =7	=7
-4g]	G
+4g]	G major
 8.r	.
 16g	.
-16ff	E-maj7
+16ffLL	E- major-seventh
 16gg	.
-16ff	.
+16ffJ	.
 8cc	.
 8b-	.
-16bb-[	.
+[16bb-Jk	.
 =8	=8
-16bb-]	.
+16bb-LK]	.
 8aa	.
 8gg	.
-8.ff	.
-4cc	Fadd(2,4,7)
+8.ffJ	.
+4cc	F other-2,4,7
 4dd	.
 ==	==
 *-	*-

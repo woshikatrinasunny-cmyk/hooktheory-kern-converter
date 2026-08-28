@@ -15,43 +15,43 @@
 *D:	*
 *M4/4	*
 =1	=1
-16C	D
+16CLK	D major
 8D	.
-8D	.
+8DJ	.
 8r	.
 16D	.
-16C	D7/C
+16CLL	D dominant/C
 16D	.
-16D	.
+16DJJ	.
 16r	.
 16Fn	.
 16r	.
 16D	.
 16r	.
 =2	=2
-8.B	G/B
+8.BL	G major/B
 8.A	.
-8G[	.
-8G]	G
+[8GJ	.
+8G]	G major
 4.r	.
 =3	=3
-16C	D
+16CLK	D major
 8D	.
-8D	.
+8DJ	.
 8r	.
 16D	.
-16C	D7/C
+16CLL	D dominant/C
 16D	.
-16D	.
+16DJJ	.
 16r	.
-8Fn	.
-16D	.
+8FnL	.
+16DJk	.
 16r	.
 =4	=4
-8.B	G/B
+8.BL	G major/B
 8.A	.
-8G[	.
-8G]	G
+[8GJ	.
+8G]	G major
 4.r	.
 ==	==
 *-	*-

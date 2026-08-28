@@ -16,35 +16,35 @@
 *F#:	*
 *M5/4	*
 =1	=1
-4.b	Aadd(2,4,7)
+4.b	A other-2,4,7
 4.an	.
-2en[	.
+[2en	.
 =2	=2
-2.en]	Aadd(2,4,7)/C#
-4.g#	C#sus4
+2.en]	A other-2,4,7/C#
+4.g#	C# suspended-fourth
 8cc#	.
 =3	=3
-4.a#	F#
+4.a#	F# major
 4.f#	.
-2A#[	.
+[2A#	.
 =4	=4
 2.A#]	.
-2B	Esus2
+2B	E suspended-second
 =5	=5
-4.gg#	Dadd(4,6,7)
+4.gg#	D other-4,6,7
 4.an	.
-2f#[	.
+[2f#	.
 =6	=6
 1f#_	.
-8f#]	.
-8bb	.
+8f#L]	.
+8bbJ	.
 =7	=7
-4.ee#	F#maj7
+4.ee#	F# major-seventh
 4.a#	.
-2f#[	.
+[2f#	.
 =8	=8
 1f#_	.
-8f#]	.
-8een	.
+8f#L]	.
+8eenJ	.
 ==	==
 *-	*-

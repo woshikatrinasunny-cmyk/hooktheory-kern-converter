@@ -16,40 +16,40 @@
 *g#:	*
 *M4/4	*
 =1	=1
-2r	E
-2r	F#add(2,5,7)
+2r	E major
+2r	F# other-2,5,7
 =2	=2
-4r	G#m
-4r	G#sus2
-2r	B
+4r	G# minor
+4r	G# suspended-second
+2r	B major
 =3	=3
-2r	E
-2r	F#add(2,5,7)
+2r	E major
+2r	F# other-2,5,7
 =4	=4
-4r	G#m
-4r	Bmaj7/A#
-2r	B
+4r	G# minor
+4r	B major-seventh/A#
+2r	B major
 =5	=5
-2r	E
-2r	F#add(2,5,7)
+2r	E major
+2r	F# other-2,5,7
 =6	=6
-4r	G#m
-4r	G#7sus2
-2r	B
+4r	G# minor
+4r	G# dominant-seventh-suspended-second
+2r	B major
 =7	=7
-2r	E
-2r	F#add(2,5,7)
+2r	E major
+2r	F# other-2,5,7
 =8	=8
-4r	G#m
-4r	G#sus2
-2r	B
+4r	G# minor
+4r	G# suspended-second
+2r	B major
 =9	=9
-1c#	A
+1c#	A major
 =10	=10
-2.c#[	D#7
-16c#]	.
+[2.c#	D# dominant
+16c#LL]	.
 16d#	.
 16c#	.
-16B	.
+16BJJ	.
 ==	==
 *-	*-

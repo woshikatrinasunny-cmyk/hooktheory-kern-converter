@@ -16,224 +16,224 @@
 *a:	*
 *M4/4	*
 =1	=1
-8b	Em
-8b	Em
-8b	Em
-8b	Em
-8b	Em
-8b	Em
-8a#	D#m
-8b	Em
+8bL	E minor
+8b	E minor
+8b	E minor
+8bJ	E minor
+8bL	E minor
+8b	E minor
+8a#	D# minor
+8bJ	E minor
 =2	=2
-4cc	Fm
-8b	Em
-8a#	D#m
-4b	Em
-4g	Em/B
+4cc	F minor
+8bL	E minor
+8a#J	D# minor
+4b	E minor
+4g	E minor/B
 =3	=3
-4a	Am/C
-8a	Am/C
-8g#	G#m/B
-4a	Am/C
-4c	Am/E
+4a	A minor/C
+8aL	A minor/C
+8g#J	G# minor/B
+4a	A minor/C
+4c	A minor/E
 =4	=4
-8B	Em
+8B	E minor
 8r	.
-8e	Em/G
-8g	Em/B
-2a#	D#m
+8eL	E minor/G
+8gJ	E minor/B
+2a#	D# minor
 =5	=5
-8b	Em
-8b	Em
-8b	Em
-8b	Em
-8b	Em
-8b	Em
-8a#	D#m
-8b	Em
+8bL	E minor
+8b	E minor
+8b	E minor
+8bJ	E minor
+8bL	E minor
+8b	E minor
+8a#	D# minor
+8bJ	E minor
 =6	=6
-4dd	Gm
-8cc	Fm
-8b	Em
-4cc	Fm
-4f	Fm/G#
+4dd	G minor
+8ccL	F minor
+8bJ	E minor
+4cc	F minor
+4f	F minor/G#
 =7	=7
-4cc	Fm
-8b	Em
-8a#	D#m
-4b	Em
-4e	Em/G
+4cc	F minor
+8bL	E minor
+8a#J	D# minor
+4b	E minor
+4e	E minor/G
 =8	=8
-2g	Em/B
-2d#	B7/A
+2g	E minor/B
+2d#	B dominant/A
 =9	=9
-8ee	Am
-8ee	Am
-8ee	Am
-8ee	Am
-8ee	Am
-8ee	Am
-8dd#	G#m
-8ee	Am
+8eeL	A minor
+8ee	A minor
+8ee	A minor
+8eeJ	A minor
+8eeL	A minor
+8ee	A minor
+8dd#	G# minor
+8eeJ	A minor
 =10	=10
-4ff	A#m
-8ee	Am
-8dd#	G#m
-4ee	Am
-4cc	Am/E
+4ff	A# minor
+8eeL	A minor
+8dd#J	G# minor
+4ee	A minor
+4cc	A minor/E
 =11	=11
-4dd	Dm/F
-8dd	Dm/F
-8cc#	C#m/E
-4dd	Dm/F
-4f	Dm/A
+4dd	D minor/F
+8ddL	D minor/F
+8cc#J	C# minor/E
+4dd	D minor/F
+4f	D minor/A
 =12	=12
-8e	Am
+8e	A minor
 8r	.
-8a	Am/C
-8cc	Am/E
-2dd#	G#m
+8aL	A minor/C
+8ccJ	A minor/E
+2dd#	G# minor
 =13	=13
-8ee	Am
-8ee	Am
-8ee	Am
-8ee	Am
-8ee	Am
-8ee	Am
-8dd#	G#m
-8ee	Am
+8eeL	A minor
+8ee	A minor
+8ee	A minor
+8eeJ	A minor
+8eeL	A minor
+8ee	A minor
+8dd#	G# minor
+8eeJ	A minor
 =14	=14
-4gg	Cm
-8ff	A#m
-8ee	Am
-4ff	A#m
-4a#	A#m/C#
+4gg	C minor
+8ffL	A# minor
+8eeJ	A minor
+4ff	A# minor
+4a#	A# minor/C#
 =15	=15
-4ff	A#m
-8ee	Am
-8dd#	G#m
-4ee	Am
-4a	Am/C
+4ff	A# minor
+8eeL	A minor
+8dd#J	G# minor
+4ee	A minor
+4a	A minor/C
 =16	=16
-2cc	Fm
-2e	E/B
+2cc	F minor
+2e	E major/B
 =17	=17
-16a	Am
+16aLL	A minor
 16cc	.
 16ee	.
 16aa	.
 16ccc	.
 16eee	.
 16aaa	.
-16cccc	.
-16eeee	.
+16ccccJJ	.
+16eeeeLL	.
 16cccc	.
 16aaa	.
 16eee	.
 16ccc	.
 16eee	.
 16ccc	.
-16aa	.
+16aaJJ	.
 =18	=18
-16fff	A#m
+16fffLL	A# minor
 16ccc#	.
 16aa#	.
 16ccc#	.
-16eee	A#dim
+16eee	A# diminished
 16ccc#	.
 16aa#	.
-16ccc#	.
-16eee	Am
+16ccc#JJ	.
+16eeeLL	A minor
 16ccc	.
 16aa	.
 16ee	.
 16cc	.
 16ee	.
 16aa	.
-16ccc	.
+16cccJJ	.
 =19	=19
-16ddd	Dm
+16dddLL	D minor
 16aa	.
 16ff	.
 16dd	.
 16a	.
 16dd	.
 16ff	.
-16gg#	.
-16aa	.
+16gg#JJ	.
+16aaLL	.
 16ddd	.
 16aa	.
 16ff	.
 16dd	.
 16aa	.
 16ff	.
-16dd	.
+16ddJJ	.
 =20	=20
-16a	Am
+16aLL	A minor
 16cc	.
 16ee	.
 16aa	.
 16ccc	.
 16eee	.
 16aaa	.
-16cccc	.
-2dddd#	G#m
+16ccccJJ	.
+2dddd#	G# minor
 =21	=21
-16a	Am
+16aLL	A minor
 16cc	.
 16ee	.
 16aa	.
 16ccc	.
 16eee	.
 16aaa	.
-16cccc	.
-16eeee	.
+16ccccJJ	.
+16eeeeLL	.
 16cccc	.
 16aaa	.
 16eee	.
 16ccc	.
 16eee	.
 16ccc	.
-16aa	.
+16aaJJ	.
 =22	=22
-16ggg	Cm
+16gggLL	C minor
 16ddd#	.
 16ccc	.
 16ddd#	.
-16fff	A#m
+16fff	A# minor
 16ccc#	.
 16aa#	.
-16ccc#	.
-16fff	.
+16ccc#JJ	.
+16fffLL	.
 16ccc#	.
 16aa#	.
 16ff	.
 16cc#	.
 16ff	.
 16aa#	.
-16ccc#	.
+16ccc#JJ	.
 =23	=23
-16fff	A#m
+16fffLL	A# minor
 16ccc#	.
 16aa#	.
 16ccc#	.
-16eee	A#dim
+16eee	A# diminished
 16ccc#	.
 16aa#	.
-16ccc#	.
-16eee	Am
+16ccc#JJ	.
+16eeeLL	A minor
 16ccc	.
 16aa	.
 16ee	.
 16cc	.
 16ee	.
 16gg#	.
-16aa	.
+16aaJJ	.
 =24	=24
-2ccc	Am
+2ccc	A minor
 2eee	.
 =25	=25
-2ggg#	Fm
-2eeee	E/B
+2ggg#	F minor
+2eeee	E major/B
 ==	==
 *-	*-

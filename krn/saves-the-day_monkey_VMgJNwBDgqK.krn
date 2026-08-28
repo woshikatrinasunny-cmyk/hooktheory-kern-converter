@@ -15,95 +15,95 @@
 *A:	*
 *M4/4	*
 =1	=1
-2.r	A
-4r	Asus2
+2.r	A major
+4r	A suspended-second
 =2	=2
-4r	A
+4r	A major
 4a	.
 4a	.
-4b	Asus2
+4b	A suspended-second
 =3	=3
-4cc#	A
+4cc#	A major
 4b	.
 4a	.
-4b	Asus2
+4b	A suspended-second
 =4	=4
-4g#	C#m/E
+4g#	C# minor/E
 4a	.
-4f#	F#m
+4f#	F# minor
 4e	.
 =5	=5
-4.a	D
+4.a	D major
 8a	.
 4ff#	.
-4ee	D#dim
+4ee	D# diminished
 =6	=6
-2b	E7
-4cc#[	.
-4cc#]	E/B
+2b	E dominant
+[4cc#	.
+4cc#]	E major/B
 =7	=7
-2r	C#m
+2r	C# minor
 4cc#	.
-4ee	C#/F
+4ee	C# major/F
 =8	=8
-4ff#	F#m
+4ff#	F# minor
 4ee	.
 4cc#	.
 4b	.
 =9	=9
-4a	D
+4a	D major
 4f#	.
 4ff#	.
-4ee[	Dmaj7/C#
+[4ee	D major-seventh/C#
 =10	=10
-8ee]	A
+8ee]	A major
 8r	.
 4cc#	.
 4b	.
 4a	.
 =11	=11
-4a	D
+4a	D major
 4r	.
 4ff#	.
-4ee	D#dim
+4ee	D# diminished
 =12	=12
-2b	E
+2b	E major
 2cc#	.
 =13	=13
-2r	C#m
+2r	C# minor
 4cc#	.
-4ee	C#/F
+4ee	C# major/F
 =14	=14
-4ff#	F#m
+4ff#	F# minor
 4ee	.
 4cc#	.
 4b	.
 =15	=15
-4a	D
+4a	D major
 4f#	.
 4ff#	.
-4ee[	Dmaj7/C#
+[4ee	D major-seventh/C#
 =16	=16
-8ee]	A
+8ee]	A major
 8r	.
 4cc#	.
 4b	.
 4a	.
 =17	=17
-2f#	Bm
+2f#	B minor
 4r	.
 4a	.
 =18	=18
-2g#	C#/F
+2g#	C# major/F
 4r	.
 4b	.
 =19	=19
-2a	D
+2a	D major
 4f#	.
 4a	.
 =20	=20
-2cc#	C#/F
-4dd	E7
+2cc#	C# major/F
+4dd	E dominant
 4ee	.
 ==	==
 *-	*-

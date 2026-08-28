@@ -16,76 +16,76 @@
 *F:	*
 *M4/4	*
 =1	=1
-8r	F
-16f	Gadd(2,5,7)
-16f	.
-8f	F/A
-16f	B-
-16f	.
-8f	.
-8f	F/A
-8f[	F
-8f]	Gm
+8r	F major
+16fLL	G other-2,5,7
+16fJ	.
+8f	F major/A
+16fL	B- major
+16fJJ	.
+8fL	.
+8f	F major/A
+[8f	F major
+8fJ]	G minor
 =2	=2
 8r	.
-8dd	F/A
-16dd	B-
+8ddL	F major/A
+16ddL	B- major
 16dd	.
-16dd	C
-16dd	.
+16dd	C major
+16ddJJ	.
+16ccLL	.
 16cc	.
-16cc	.
-16cc	Dm
-16cc	.
-4a	C
+16cc	D minor
+16ccJJ	.
+4a	C major
 =3	=3
-8r	F
-16f	Gadd(2,5,7)
-16f	.
-8f	F/A
-16f	B-
-16d	.
-8f	.
-8f	F/A
-8f[	F
-8f]	Gm
+8r	F major
+16fLL	G other-2,5,7
+16fJ	.
+8f	F major/A
+16fL	B- major
+16dJJ	.
+8fL	.
+8f	F major/A
+[8f	F major
+8fJ]	G minor
 =4	=4
 8r	.
-16dd	F/A
+16ddLL	F major/A
 16dd	.
-16dd	B-
+16dd	B- major
 16dd	.
-16dd	C
-16dd	.
-8cc	.
-8cc	Dm
-4a	C
+16dd	C major
+16ddJJ	.
+8ccL	.
+8ccJ	D minor
+4a	C major
 =5	=5
-8r	F
-16ff	Gadd(2,5,7)
-16ff	.
-8ff	F/A
-16ff	B-
-16ff	.
-8ff	.
-8ff	F/A
-8dd	F
-8ff[	Gm
+8r	F major
+16ffLL	G other-2,5,7
+16ffJ	.
+8ff	F major/A
+16ffL	B- major
+16ffJJ	.
+8ffL	.
+8ff	F major/A
+8dd	F major
+[8ffJ	G minor
 =6	=6
-8ff_	.
-8ff_	F/A
-8ff_	B-
-8ff]	C
-8dd	.
-8cc[	Dm
-8cc]	C
+8ffL_	.
+8ff_	F major/A
+8ff_	B- major
+8ffJ]	C major
+8ddL	.
+[8cc	D minor
+8ccJ]	C major
 8r	.
 =7	=7
-2dd[	Dm
-8dd]	Dm
-8a	C
-8f	Dm
-8f[	E-
+[2dd	D minor
+8ddL]	D minor
+8a	C major
+8f	D minor
+[8fJ	E- major
 =8	=8
 4f]	.
 2.r	.

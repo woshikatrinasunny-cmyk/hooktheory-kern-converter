@@ -16,56 +16,56 @@
 *D-:	*
 *M4/4	*
 =1	=1
-8F	D-
-16F	.
+8FL	D- major
+16Fk	.
 8F	.
-16G-[	.
-8G-]	E-m11
-8.A-	D-/F
-16A-	.
+[16G-k	.
+8G-J]	E- minor-11th
+8.A-L	D- major/F
+16A-k	.
 8A-	.
-8A-	.
+8A-J	.
 =2	=2
 *M2/4	*
-4B-	G-maj7
+4B-	G- major-seventh
 4c	.
 =3	=3
 *M4/4	*
-2d-	Gdim7
+2d-	G diminished-seventh
 4r	.
-8c	.
-8B-	.
+8cL	.
+8B-J	.
 =4	=4
-8A-	A-
-8A-	.
+8A-L	A- major
+8A-J	.
 8r	.
 8A-	.
+8A-L	.
 8A-	.
 8A-	.
-8A-	.
-8D-	.
+8D-J	.
 =5	=5
-4G-	E-m7
-4F	G-maj7/D-
-4E-	A-/C
+4G-	E- minor-seventh
+4F	G- major-seventh/D-
+4E-	A- major/C
 4E-	.
 =6	=6
-4D-	B-m
+4D-	B- minor
 4r	.
-2r	D-augMaj7/A
+2r	D- augmented-major-seventh/A
 =7	=7
-2r	D-/A-
-4.r	Gm7b5
+2r	D- major/A-
+4.r	G half-diminished
 8D-	.
 =8	=8
-4G-	E-m7
-4F	G-maj7/D-
-4A-	A-/C
+4G-	E- minor-seventh
+4F	G- major-seventh/D-
+4A-	A- major/C
 4D-	.
 =9	=9
-2D-	D-
-2r	G-/D-
+2D-	D- major
+2r	G- major/D-
 =10	=10
-1r	D-
+1r	D- major
 ==	==
 *-	*-

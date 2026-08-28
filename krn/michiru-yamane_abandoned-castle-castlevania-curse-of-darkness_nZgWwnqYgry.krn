@@ -16,65 +16,65 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.ff#	Em/B
-2ee	Em
+4.ff#	E minor/B
+2ee	E minor
 8b	.
 =2	=2
-4.aa	Eadd(3,8)/C
-2gg	Eadd(3,8)
+4.aa	E other-3,8/C
+2gg	E other-3,8
 8cc	.
 =3	=3
-4.bb	C#dim
-2aa#	C#dim/E
+4.bb	C# diminished
+2aa#	C# diminished/E
 8ff#	.
 =4	=4
-4.aa	Eadd(3,8)/C
-3...cc	Eadd(3,8)
+4.aa	E other-3,8/C
+3...cc	E other-3,8
 =5	=5
-4.ff#	Em/B
-2ee	Em
+4.ff#	E minor/B
+2ee	E minor
 8b	.
 =6	=6
-4.aa	Eadd(3,8)/C
-2gg	Eadd(3,8)
+4.aa	E other-3,8/C
+2gg	E other-3,8
 8cc	.
 =7	=7
-4.bb	C#dim
-2aa#	C#dim/E
+4.bb	C# diminished
+2aa#	C# diminished/E
 8ff#	.
 =8	=8
-4.ddd	D
-3...ccc	F#dim/C
+4.ddd	D major
+3...ccc	F# diminished/C
 =9	=9
-4.bb	Am
-2aa	Am/C
+4.bb	A minor
+2aa	A minor/C
 8ee	.
 =10	=10
-4.bb	D/A
-4.aa	D
+4.bb	D major/A
+4.aa	D major
 4ddd	.
 =11	=11
-4.aa	B
-4.ff#	B7
+4.aa	B major
+4.ff#	B dominant
 4b	.
 =12	=12
-4.aa	Em/G
-3...gg	Em
+4.aa	E minor/G
+3...gg	E minor
 =13	=13
-4.ee	Am
-4.ff#	Am/C
+4.ee	A minor
+4.ff#	A minor/C
 4gg	.
 =14	=14
-4.ee	D/A
-4.ff#	D
+4.ee	D major/A
+4.ff#	D major
 4gg	.
 =15	=15
-4.ff#[	F#dim/A
-2ff#]	F#add(3,5,10)/B
-16aa	.
-16aa#	.
+[4.ff#	F# diminished/A
+2ff#]	F# other-3,5,10/B
+16aaLL	.
+16aa#JJ	.
 =16	=16
-2bb[	B
-2bb]	B7
+[2bb	B major
+2bb]	B dominant
 ==	==
 *-	*-

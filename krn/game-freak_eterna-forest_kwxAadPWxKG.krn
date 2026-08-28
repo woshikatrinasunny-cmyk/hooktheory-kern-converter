@@ -16,41 +16,41 @@
 *G:	*
 *M4/4	*
 =1	=1
-1r	Gmaj7
+1r	G major-seventh
 =2	=2
 1r	.
 =3	=3
-1r	F#add(5,6,10)
+1r	F# other-5,6,10
 =4	=4
-8bb	.
-8ccc	.
+8bbL	.
+8cccJ	.
 8r	.
 8bb	.
-8aa	.
-8bb	.
+8aaL	.
+8bbJ	.
 8r	.
 8ccc	.
 =5	=5
-8bb	F#add(5,6,10)
+8bb	F# other-5,6,10
 8r	.
-8ff#	.
-8gg	.
+8ff#L	.
+8ggJ	.
 8r	.
 8aa	.
 8r	.
 8gg	.
 =6	=6
-8ff#	.
-8gg	.
+8ff#L	.
+8ggJ	.
 8r	.
 8aa	.
 8gg	.
 8r	.
-8ee	.
-8gg	.
+8eeL	.
+8ggJ	.
 =7	=7
-8ff#	Gmaj7
-8gg	.
+8ff#L	G major-seventh
+8ggJ	.
 8r	.
 8ff#	.
 8dd	.
@@ -60,9 +60,9 @@
 =8	=8
 1r	.
 =9	=9
-1r	Gmaj7
+1r	G major-seventh
 =10	=10
-3...r	Em7
-4.r	Cdim7
+3...r	E minor-seventh
+4.r	C diminished-seventh
 ==	==
 *-	*-

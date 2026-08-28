@@ -16,7 +16,7 @@
 *F#:	*
 *M6/4	*
 =1	=1
-4C#	C#sus2
+4C#	C# suspended-second
 4D#	.
 4G#	.
 4C#	.
@@ -30,7 +30,7 @@
 4D#	.
 4F#	.
 =3	=3
-4F#	F#
+4F#	F# major
 4G#	.
 4A#	.
 4F#	.
@@ -44,7 +44,7 @@
 4G#	.
 4A#	.
 =5	=5
-4C#	C#sus2
+4C#	C# suspended-second
 4D#	.
 4G#	.
 4C#	.
@@ -54,10 +54,10 @@
 4C#	.
 4D#	.
 4F#	.
-4C#	F#/A#
-4D#	F#
-4F#	F#/C#
+4C#	F# major/A#
+4D#	F# major
+4F#	F# major/C#
 =7	=7
-2.r	F#
+2.r	F# major
 ==	==
 *-	*-

@@ -15,60 +15,60 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	C
+1r	C major
 =2	=2
-1r	Fmaj7
+1r	F major-seventh
 =3	=3
-1r	C
+1r	C major
 =4	=4
-2.r	Fmaj7
-8e	.
-8e	.
+2.r	F major-seventh
+8eL	.
+8eJ	.
 =5	=5
-4e	C
+4e	C major
 8e	.
 4e	.
+8eL	.
 8e	.
-8e	.
-8e	.
+8eJ	.
 =6	=6
-8e	Fmaj7
+8e	F major-seventh
 4e	.
 4e	.
 8r	.
-8c	.
-8c	.
+8cL	.
+8cJ	.
 =7	=7
-8a	Fmaj7
+8a	F major-seventh
 4a	.
 4a	.
 8c	.
 4e	.
 =8	=8
-2.r	C
-8e	.
-8e	.
+2.r	C major
+8eL	.
+8eJ	.
 =9	=9
-4e	C
+4e	C major
 4e	.
 4e	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 =10	=10
-8e	Fmaj7
+8eL	F major-seventh
 8e	.
-8e	.
+8eJ	.
 4e	.
 4r	.
 8c	.
 =11	=11
-4cc	Fmaj7
+4cc	F major-seventh
 8cc	.
 4cc	.
 4e	.
-8a[	.
+[8a	.
 =12	=12
-8a]	Em
+8a]	E minor
 3...g	.
 4r	.
 ==	==

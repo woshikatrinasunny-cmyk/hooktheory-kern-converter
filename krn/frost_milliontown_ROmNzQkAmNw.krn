@@ -15,121 +15,121 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8r	Gm7b5/F
+8r	G half-diminished/F
+8aL	.
 8a	.
-8a	.
-16g	.
-16g[	.
-8g]	Fsus2
+16gL	.
+[16gJJ	.
+8g]	F suspended-second
 6...f	.
 16c	.
 =2	=2
-8e-	D-/F
-16c	.
+8e-L	D- major/F
+16ck	.
 8e-	.
 8c	.
-16e-[	.
-16e-]	Fsus2
-16a	.
+[16e-Jk	.
+16e-LL]	F suspended-second
+16aJ	.
 8g	.
 8f	.
-8f	.
+8fJ	.
 =3	=3
-8r	Gm7b5/F
-8a	.
-16a	.
+8r	G half-diminished/F
+8aL	.
+16ak	.
 8g	.
-16g[	.
-8g]	Fsus2
+[16gJk	.
+8g]	F suspended-second
 4f	.
 8c	.
 =4	=4
-8e-	D-add(2,4,7)
-16c	.
+8e-L	D- other-2,4,7
+16ck	.
 8e-	.
-16c	.
-8e-[	.
-6...e-]	E-
+16ck	.
+[8e-J	.
+6...e-]	E- major
 8.r	.
 =5	=5
-8r	Gm7b5/F
-8a	.
-16a	.
+8r	G half-diminished/F
+8aL	.
+16ak	.
 8g	.
-16g[	.
-8g]	Fsus2
-8.f	.
+[16gJk	.
+8gL]	F suspended-second
+8.fJ	.
 8r	.
 16c	.
 =6	=6
-8e-	D-/F
-16c	.
+8e-L	D- major/F
+16ck	.
 8e-	.
 8c	.
-16e-[	.
-16e-]	Fsus2
-16a	.
+[16e-Jk	.
+16e-LL]	F suspended-second
+16aJ	.
 8g	.
 8f	.
-8f	.
+8fJ	.
 =7	=7
-8r	E-7
-8a	.
-16a	.
+8r	E- dominant
+8aL	.
+16ak	.
 8g	.
+16gJk	.
+16aLL	B- major/D
 16g	.
-16a	B-/D
-16g	.
-16f	.
-8f	.
+16fJ	.
+8fJ	.
 8.r	.
 =8	=8
-8e-	D-add(2,4,7)
-16c	.
+8e-L	D- other-2,4,7
+16ck	.
 8e-	.
-16f	.
-8g[	.
-8g]	F/C
+16fk	.
+[8gJ	.
+8gL]	F major/C
 8f	.
-8f	F
-8cc	.
+8f	F major
+8ccJ	.
 =9	=9
-16cc	D-maj7
+16ccLK	D- major-seventh
 8dd-	.
 8.aa-	.
-16g	A-maj7
+16gJk	A- major-seventh
 8a-	.
-8b-	.
+8b-L	.
 8cc	.
-16b-	.
-8a-	.
+16b-k	.
+8a-J	.
 =10	=10
-16a	B-
+16aLK	B- major
 8b-	.
 8.cc	.
-16f	F
+16fJk	F major
 8g	.
-8.a	.
+8.aL	.
 8f	.
-8cc	.
+8ccJ	.
 =11	=11
-16cc	D-maj7
+16ccLK	D- major-seventh
 8dd-	.
 8.aa-	.
-16g	A-maj7
+16gJk	A- major-seventh
 8a-	.
-8.b-	.
-16cc	.
-16b-	.
-8a-	.
+8.b-L	.
+16ccL	.
+16b-J	.
+8a-J	.
 =12	=12
-16B-	B-sus2
+16B-LL	B- suspended-second
 16c	.
-16f	.
+16fJ	.
 8b-	.
-16ff	.
+16ffL	.
 16bb-	.
-16ccc	.
+16cccJJ	.
 2fff	.
 ==	==
 *-	*-

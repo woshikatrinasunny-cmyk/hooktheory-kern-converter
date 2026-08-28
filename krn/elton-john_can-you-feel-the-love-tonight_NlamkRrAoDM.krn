@@ -16,25 +16,25 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2dd	B-
-4cc	F/A
+2dd	B- major
+4cc	F major/A
 4ff	.
 =2	=2
-2ee-	E-/G
-8ee-	B-/F
+2ee-	E- major/G
+8ee-L	B- major/F
 8dd	.
 8b-	.
-8f	.
+8fJ	.
 =3	=3
-2g	E-
-8f	B-/D
+2g	E- major
+8fL	B- major/D
 8b-	.
 8f	.
-8d	.
+8dJ	.
 =4	=4
-4c	F/A
-4d	B-
-4f	Cm7
-4r	B-/D
+4c	F major/A
+4d	B- major
+4f	C minor-seventh
+4r	B- major/D
 ==	==
 *-	*-

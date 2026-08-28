@@ -16,141 +16,141 @@
 *g:	*
 *M4/4	*
 =1	=1
-8b-	Gm
+8b-L	G minor
 8a	.
 8g	.
-8b-[	.
-8b-]	Gm/D
-8a	.
+[8b-J	.
+8b-L]	G minor/D
+8aJ	.
 4g	.
 =2	=2
-4a	D7/G-
-8g	.
-8g-[	.
-8g-]	D7
-8dd	.
+4a	D dominant/G-
+8gL	.
+[8g-J	.
+8g-L]	D dominant
+8ddJ	.
 6aa	.
-24a	.
-24b-	.
+24aLL	.
+24b-JJ	.
 =3	=3
-8cc	D7/A
+8ccL	D dominant/A
 8b-	.
 8a	.
-8cc[	.
-8cc]	D7
-8b-	.
-4a	D7/G-
+[8ccJ	.
+8ccL]	D dominant
+8b-J	.
+4a	D dominant/G-
 =4	=4
-4b-	Gm
-8a	.
-8g[	.
-8g]	Gm/B-
-8dd	.
-6bb-	Gm/D
-24g	.
-24a	.
+4b-	G minor
+8aL	.
+[8gJ	.
+8gL]	G minor/B-
+8ddJ	.
+6bb-	G minor/D
+24gLL	.
+24aJJ	.
 =5	=5
-8b-	Gm
+8b-L	G minor
 8a	.
 8g	.
-8a	.
-8b-	Gm/D
+8aJ	.
+8b-	G minor/D
 4cc	.
 8dd	.
 =6	=6
-4ee-	Cm
-8dd	.
-8cc[	.
-8cc]	Cm/E-
-8gg	.
+4ee-	C minor
+8ddL	.
+[8ccJ	.
+8ccL]	C minor/E-
+8ggJ	.
 6eee-	.
-24cc	.
-24dd	.
+24ccLL	.
+24ddJJ	.
 =7	=7
-8ee-	Am7b5/C
+8ee-L	A half-diminished/C
 8dd	.
 8cc	.
-8b-	.
-8a	Am7b5/E-
+8b-J	.
+8a	A half-diminished/E-
 4g	.
 8a	.
 =8	=8
-4g-	D
-8a	D7/C
-8dd[	.
-4dd_	B-aug
-6dd]	D/A
-24g	.
-24a	.
+4g-	D major
+8aL	D dominant/C
+[8ddJ	.
+4dd_	B- augmented
+6dd]	D major/A
+24gLL	.
+24aJJ	.
 =9	=9
-8b-	Gm
+8b-L	G minor
 8a	.
 8g	.
-8b-[	.
-8b-]	Gm/D
-8a	.
+[8b-J	.
+8b-L]	G minor/D
+8aJ	.
 4g	.
 =10	=10
-4a	D7/G-
-8g	.
-8g-[	.
-8g-]	D7
-8dd	.
+4a	D dominant/G-
+8gL	.
+[8g-J	.
+8g-L]	D dominant
+8ddJ	.
 6aa	.
-24a	.
-24b-	.
+24aLL	.
+24b-JJ	.
 =11	=11
-8cc	D7/A
+8ccL	D dominant/A
 8b-	.
 8a	.
-8cc[	.
-8cc]	D7
-8b-	.
-4a	D7/G-
+[8ccJ	.
+8ccL]	D dominant
+8b-J	.
+4a	D dominant/G-
 =12	=12
-4b-	Gm
-8a	.
-8g[	.
-8g]	Gm/B-
-8dd	.
-6bb-	Gm/D
-24g	.
-24a	.
+4b-	G minor
+8aL	.
+[8gJ	.
+8gL]	G minor/B-
+8ddJ	.
+6bb-	G minor/D
+24gLL	.
+24aJJ	.
 =13	=13
-8b-	Gm
+8b-L	G minor
 8a	.
 8g	.
-8a	.
-8b-	Gm/D
+8aJ	.
+8b-	G minor/D
 4cc	.
 8dd	.
 =14	=14
-4ee-	Cm
-8dd	.
-8cc[	.
-8cc]	Cm/E-
-8gg	.
+4ee-	C minor
+8ddL	.
+[8ccJ	.
+8ccL]	C minor/E-
+8ggJ	.
 6eee-	.
-24b-	.
-24cc	.
+24b-LL	.
+24ccJJ	.
 =15	=15
-8dd	Gm/D
+8ddL	G minor/D
 8cc	.
 8b-	.
-8a[	.
-8a]	D7
+[8aJ	.
+8aL]	D dominant
 8cc	.
 8b-	.
-8a	.
+8aJ	.
 =16	=16
-8g	Gm
+8gL	G minor
 8dd	.
 8b-	.
-8g	.
-8g-	D7
-8a	.
+8gJ	.
+8g-L	D dominant
+8aJ	.
 6dd	.
-24g	.
-24a	.
+24gLL	.
+24aJJ	.
 ==	==
 *-	*-

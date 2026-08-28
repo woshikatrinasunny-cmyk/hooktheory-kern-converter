@@ -16,87 +16,87 @@
 *C:	*
 *M6/4	*
 =1	=1
-4.cc	C
+4.cc	C major
 4.g	.
 4.cc	.
 4.gg	.
 =2	=2
-4.r	C#dim
+4.r	C# diminished
 4.ff	.
 4.r	.
 4.ee	.
 =3	=3
-2.dd	Dm
+2.dd	D minor
 2.r	.
 =4	=4
-1.r	C#dim
+1.r	C# diminished
 =5	=5
-4.b	G
+4.b	G major
 4.g	.
 4.b	.
 4.ee	.
 =6	=6
-4.r	G#dim
+4.r	G# diminished
 4.dd	.
 4.r	.
 4.b	.
 =7	=7
-4.cc	Am
+4.cc	A minor
 4.r	.
-4r	Am
-4b	G#dim
-4a#	Gm
+4r	A minor
+4b	G# diminished
+4a#	G minor
 =8	=8
-4.a	F
+4.a	F major
 4.r	.
-4.b	G
+4.b	G major
 4.r	.
 =9	=9
-4.cc	C
+4.cc	C major
 4.g	.
 4.cc	.
 4.gg	.
 =10	=10
-4.r	Edim
+4.r	E diminished
 4.ff	.
 4.r	.
 4.ee	.
 =11	=11
-2.dd	F
+2.dd	F major
 2.r	.
 =12	=12
-1.r	Fm
+1.r	F minor
 =13	=13
-4.b	G/D
+4.b	G major/D
 4.g	.
 4.b	.
 4.ee	.
 =14	=14
-4.r	G7
+4.r	G dominant
 4.dd	.
 4.r	.
 4.b	.
 =15	=15
-4cc	C
+4cc	C major
 8E	.
 8r	.
-8G	.
-8c	.
-4f	Dm7
+8GL	.
+8cJ	.
+4f	D minor-seventh
 8F	.
 8r	.
-8A	.
-8c	.
+8AL	.
+8cJ	.
 =16	=16
-4g	G
+4g	G major
 8G	.
 8r	.
-8B	.
-8d	.
-4f	F
+8BL	.
+8dJ	.
+4f	F major
 8F	.
 8r	.
-8A	.
-8c	.
+8AL	.
+8cJ	.
 ==	==
 *-	*-

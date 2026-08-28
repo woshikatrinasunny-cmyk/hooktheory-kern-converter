@@ -16,115 +16,115 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Dm
+8r	D minor
+8fL	.
 8f	.
-8f	.
-8e	.
-4..e	Am/C
+8eJ	.
+4..e	A minor/C
 16d	.
 =2	=2
-2d	Dm
-16c	Dm7/C
+2d	D minor
+16c	D minor-seventh/C
 4..d	.
 =3	=3
-8r	B-maj7/D
+8r	B- major-seventh/D
+8fL	.
 8f	.
-8f	.
-8e	.
-4..e	Dm11
+8eJ	.
+4..e	D minor-11th
 16d	.
 =4	=4
-2d	B-maj9
-16c	.
+2d	B- major-ninth
+16cLK	.
 8.d	.
-16b-	.
-8.a	.
+16b-k	.
+8.aJ	.
 =5	=5
-8r	Dm
+8r	D minor
+8fL	.
 8f	.
-8f	.
-8e	.
-4..e	Fmaj7/C
+8eJ	.
+4..e	F major-seventh/C
 16d	.
 =6	=6
-2d	B-add(2,4,7)
-16c	B-add(6,7)
+2d	B- other-2,4,7
+16c	B- other-6,7
 4..e	.
 =7	=7
-8r	Dm
+8r	D minor
+8fL	.
 8f	.
-8f	.
-8e	.
-4..e	Dadd(2,5,7,8,10)
+8eJ	.
+4..e	D other-2,5,7,8,10
 16d	.
 =8	=8
-4..d	B-add(2,4,7)/D
+4..d	B- other-2,4,7/D
 16c	.
-16c	Gm7/D
+16c	G minor-seventh/D
 4..e	.
 =9	=9
-8r	Dadd(2,3,7)
+8r	D other-2,3,7
+8fL	.
 8f	.
-8f	.
-8e	.
-4..e	Gm7/D
+8eJ	.
+4..e	G minor-seventh/D
 16d	.
 =10	=10
-4..d	B-add(2,4,7)/D
+4..d	B- other-2,4,7/D
 16c	.
-16c	C11
-8.e[	.
-4e]	B-maj7
+16cLK	C dominant-11th
+[8.eJ	.
+4e]	B- major-seventh
 =11	=11
 *k[]	*
 *a:	*
-8r	Am
+8r	A minor
+8ccL	.
 8cc	.
-8cc	.
-8b	.
+8bJ	.
 4.b	.
 8a	.
 =12	=12
-4.a	Fmaj7/A
+4.a	F major-seventh/A
 8g	.
-16g	Am
+16g	A minor
 4..a	.
 =13	=13
-8r	Aadd(2,3,7)
+8r	A other-2,3,7
+8ccL	.
 8cc	.
-8cc	.
-8b	.
-8b	Am
+8bJ	.
+8bL	A minor
 8a	.
 8e	.
-8A	.
+8AJ	.
 =14	=14
 *k[b-]	*
 *d:	*
-8r	Dm
+8r	D minor
+8fL	.
 8f	.
-8f	.
-8e	.
+8eJ	.
 4.e	.
 8d	.
 =15	=15
-2d	B-
-16c	B-add(4,6,7,11)
+2d	B- major
+16c	B- other-4,6,7,11
 4..d	.
 =16	=16
-8r	Dm
+8r	D minor
+8fL	.
 8f	.
-8f	.
-8e	.
-4..e	Dm7/C
+8eJ	.
+4..e	D minor-seventh/C
 16d	.
 =17	=17
-4d	Gadd(3,5,7,10)/B-
-16d	.
-8.e	.
-16c	B-add(4,11)
+4d	G other-3,5,7,10/B-
+16dLK	.
+8.eJ	.
+16cLK	B- other-4,11
 8.d	.
-16f	.
-8.g	.
+16fk	.
+8.gJ	.
 ==	==
 *-	*-

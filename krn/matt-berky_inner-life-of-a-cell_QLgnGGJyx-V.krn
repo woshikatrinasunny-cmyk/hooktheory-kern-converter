@@ -16,40 +16,40 @@
 *d:	*
 *M4/4	*
 =1	=1
-8d	Dm
+8dL	D minor
 8a	.
 8dd	.
-8ff	.
-8d	.
+8ffJ	.
+8dL	.
 8a	.
 8dd	.
-8ff	.
+8ffJ	.
 =2	=2
-8A	Am
+8AL	A minor
 8e	.
 8a	.
-8cc	.
-8A	.
+8ccJ	.
+8AL	.
 8e	.
 8a	.
-8cc	.
+8ccJ	.
 =3	=3
-8B-	B-add(2,4,7)
+8B-L	B- other-2,4,7
 8f	.
 8b-	.
-8dd	.
-8B-	.
+8ddJ	.
+8B-L	.
 8f	.
 8b-	.
-8dd	.
+8ddJ	.
 =4	=4
-8G	Gm
+8GL	G minor
 8d	.
 8g	.
-8b-	.
-8A	A
+8b-J	.
+8AL	A major
 8e	.
 8a	.
-8dd-	.
+8dd-J	.
 ==	==
 *-	*-

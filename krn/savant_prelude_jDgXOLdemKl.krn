@@ -15,86 +15,86 @@
 *b-:	*
 *M4/4	*
 =1	=1
-8ff	B-m
-8ee-	B-add(2,5,7)
-8dd-	B-m
+8ffL	B- minor
+8ee-	B- other-2,5,7
+8dd-J	B- minor
 4.b-	.
-8b-	.
-8a-[	A-
+8b-L	.
+[8a-J	A- major
 =2	=2
 16a-]	.
 16r	.
-8a-	A-
-2.b-[	G-
+8a-	A- major
+[2.b-	G- major
 =3	=3
 4.b-]	.
-16a-	A-7/G-
-16b-	G-maj7
-8cc	G-add(2,6,7)
-8b-	G-maj7
-8a-	A-
-8f	.
+16a-LL	A- dominant/G-
+16b-JJ	G- major-seventh
+8ccL	G- other-2,6,7
+8b-	G- major-seventh
+8a-	A- major
+8fJ	.
 =4	=4
-8ff	B-m
-8ee-	B-add(2,5,7)
-8dd-	B-m
+8ffL	B- minor
+8ee-	B- other-2,5,7
+8dd-J	B- minor
 4.b-	.
-8b-	.
-8a-[	A-
+8b-L	.
+[8a-J	A- major
 =5	=5
 16a-]	.
 16r	.
-8a-	A-
-3...b-	G-
-16b-	.
-16cc	.
+8a-	A- major
+3...b-	G- major
+16b-LL	.
+16ccJJ	.
 =6	=6
-8ff	.
+8ffL	.
 8cc	.
 8b-	.
-16a-	A-7/G-
-16b-	G-maj7
-8cc	G-add(2,6,7)
-8b-	G-maj7
-8a-	A-
-8f	.
+16a-L	A- dominant/G-
+16b-JJ	G- major-seventh
+8ccL	G- other-2,6,7
+8b-	G- major-seventh
+8a-	A- major
+8fJ	.
 =7	=7
-8ff	B-m
-8ee-	B-add(2,5,7)
-8dd-	B-m
+8ffL	B- minor
+8ee-	B- other-2,5,7
+8dd-J	B- minor
 4.b-	.
-8b-	.
-8a-[	A-
+8b-L	.
+[8a-J	A- major
 =8	=8
 16a-]	.
 16r	.
-8a-	A-
-2.b-[	G-
+8a-	A- major
+[2.b-	G- major
 =9	=9
 4.b-]	.
-16a-	A-7/G-
-16b-	G-maj7
-8cc	G-add(2,6,7)
-8b-	G-maj7
-8a-	A-
-8f	.
+16a-LL	A- dominant/G-
+16b-JJ	G- major-seventh
+8ccL	G- other-2,6,7
+8b-	G- major-seventh
+8a-	A- major
+8fJ	.
 =10	=10
-8b-	B-m
+8b-L	B- minor
 8cc	.
-8dd-	.
+8dd-J	.
 2ff	.
-8cc[	A-
+[8cc	A- major
 =11	=11
 4cc]	.
-2.bb-[	G-
+[2.bb-	G- major
 =12	=12
 4bb-]	.
 8r	.
-16aa-	.
-16bb-	.
-8ccc	.
+16aa-LL	.
+16bb-JJ	.
+8cccL	.
 8bb-	.
 8aa-	.
-8ff	.
+8ffJ	.
 ==	==
 *-	*-

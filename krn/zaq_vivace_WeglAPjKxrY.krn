@@ -16,42 +16,42 @@
 *D:	*
 *M4/4	*
 =1	=1
-4A	D7sus4/A
+4A	D dominant-seventh-suspended-fourth/A
 4D	.
-8.g	.
+8.gL	.
 8.ccn	.
-8ee[	Cmaj7/G
+[8eeJ	C major-seventh/G
 =2	=2
 8ee]	.
-4ffn	F#add(3,6,11)
-4ffn	Gadd(4,10)
-6...gg	Edim
-32ff#	.
-32gg	.
+4ffn	F# other-3,6,11
+4ffn	G other-4,10
+6...gg	E diminished
+32ff#LLL	.
+32ggJJJ	.
 =3	=3
-8.aa	D
-8g	.
+8.aaL	D major
+8gJ	.
 16r	.
 8a	.
-4.g	D7sus4/C
+4.g	D dominant-seventh-suspended-fourth/C
 8e	.
 =4	=4
-8.fn	Badd(3,6,8,10)
+8.fnL	B other-3,6,8,10
 8.e	.
-8d	.
-8e	A#maj7
+8dJ	.
+8eL	A# major-seventh
 8a	.
-8dd	Cmaj7
-8ee	.
+8dd	C major-seventh
+8eeJ	.
 =5	=5
-8ff#	D
+8ff#L	D major
 8gg	.
 8aa	.
-16ee	F#m7
+16eeJk	F# minor-seventh
 8.r	.
 8dd	.
 4cc#	.
 =6	=6
-1dd	Gadd(2,5,7,10)
+1dd	G other-2,5,7,10
 ==	==
 *-	*-

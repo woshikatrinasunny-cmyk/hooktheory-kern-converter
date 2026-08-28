@@ -15,52 +15,52 @@
 *a:	*
 *M4/4	*
 =1	=1
-2dd	Bdim
+2dd	B diminished
 2ee	.
 =2	=2
-2ff	E
+2ff	E major
 2dd	.
 =3	=3
-8cc	Am
+8ccL	A minor
 8dd	.
 8ee	.
-8a	.
-8b	AmMaj7
-8cc	.
+8aJ	.
+8bL	A major-minor
+8ccJ	.
 8r	.
 8cc	.
 =4	=4
-8ee	Am7
+8eeL	A minor-seventh
 8a	.
 8b	.
-8cc[	.
-2cc]	F#dim7/A
+[8ccJ	.
+2cc]	F# diminished-seventh/A
 =5	=5
-2dd	Bdim
+2dd	B diminished
 2ee	.
 =6	=6
-2ff	E
+2ff	E major
 2dd	.
 =7	=7
-8a	Am
-8b	.
+8aL	A minor
+8bJ	.
 4cc	.
-8b	G#dim/B
-8cc	.
+8bL	G# diminished/B
+8ccJ	.
 4dd	.
 =8	=8
-8cc	C
-8dd	.
+8ccL	C major
+8ddJ	.
 4ee	.
-8dd	Bm7b5/D
+8ddL	B half-diminished/D
 8ee	.
-8ff	Bm7b5
-8aa	.
+8ff	B half-diminished
+8aaJ	.
 =9	=9
-2gg#[	E
-2gg#]	Bm/D
+[2gg#	E major
+2gg#]	B minor/D
 =10	=10
-2ee[	C
-2ee]	E7/B
+[2ee	C major
+2ee]	E dominant/B
 ==	==
 *-	*-

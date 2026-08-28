@@ -17,150 +17,150 @@
 *M4/4	*
 =1	=1
 16r	.
-16r	E-
-16dd[	Dm
+16r	E- major
+[16ddLL	D minor
 16dd]	.
-16dd[	E-
+[16dd	E- major
 16dd]	.
-16dd[	Dm
-16dd]	.
-16g[	E-
+[16dd	D minor
+16ddJJ]	.
+[16gLK	E- major
 8.g]	.
-16dd[	F
+[16ddk	F major
 8dd]	.
-16f[	Gm
+[16fJk	G minor
 =2	=2
-16f_	.
-16f]	Gm
+16fLL_	.
+16fJ]	G minor
 8ff	.
 8ff	.
-16ff[	.
-16ff]	Dm
-16dd[	.
-8.dd]	Dm
+[16ffL	.
+16ffJJ]	D minor
+[16ddLK	.
+8.dd]	D minor
 8.dd	.
-16cc[	E-
+[16ccJk	E- major
 =3	=3
-16cc_	.
-16cc]	E-
-16ff[	Dm
+16ccLL_	.
+16cc]	E- major
+[16ff	D minor
 16ff]	.
-16ff[	E-
+[16ff	E- major
 16ff]	.
-16ff[	Dm
-16ff]	.
-16b-[	E-
-16b-]	.
+[16ff	D minor
+16ffJJ]	.
+[16b-LL	E- major
+16b-J]	.
 8a	.
-16g[	F
-16g]	Gm11
-16dd[	F/A
-16dd_	B-
+[16gL	F major
+16g]	G minor-11th
+[16dd	F major/A
+16ddJJ_	B- major
 =4	=4
-16dd_	.
-8.dd_	B-
-8dd_	B-maj7/A
-16dd_	B-/F
-16dd_	Dm
-16dd_	.
-8.dd]	F/C
-8r	B-
-16r	B-maj7/A
-16r	E-
+16ddLK_	.
+8.dd_	B- major
+8dd_	B- major-seventh/A
+16ddL_	B- major/F
+16ddJJ_	D minor
+16ddLK_	.
+8.ddJ]	F major/C
+8r	B- major
+16r	B- major-seventh/A
+16r	E- major
 =5	=5
 16r	.
-16r	E-
-16dd[	Dm
+16r	E- major
+[16ddLL	D minor
 16dd]	.
-16dd[	E-
+[16dd	E- major
 16dd]	.
-16dd[	Dm
-16dd]	.
-16g[	E-
+[16dd	D minor
+16ddJJ]	.
+[16gLK	E- major
 8.g]	.
-16dd[	F
+[16ddk	F major
 8dd]	.
-16f[	Gm
+[16fJk	G minor
 =6	=6
-16f_	.
-16f]	Gm
+16fLL_	.
+16fJ]	G minor
 8ff	.
 8ff	.
-16ff[	.
-16ff]	Dm
-16dd[	.
-8.dd]	Dm
+[16ffL	.
+16ffJJ]	D minor
+[16ddLK	.
+8.dd]	D minor
 8.dd	.
-16cc[	E-
+[16ccJk	E- major
 =7	=7
-16cc_	.
-16cc]	E-
-16ff[	Dm
+16ccLL_	.
+16cc]	E- major
+[16ff	D minor
 16ff]	.
-16ff[	E-
+[16ff	E- major
 16ff]	.
-16ff[	Dm
-16ff]	.
-16b-[	E-
-16b-]	.
+[16ff	D minor
+16ffJJ]	.
+[16b-LL	E- major
+16b-J]	.
 8a	.
-8g	Gm/B-
-16dd[	.
-16dd_	Gm
+8g	G minor/B-
+[16ddL	.
+16ddJJ_	G minor
 =8	=8
 4dd_	.
-8.dd_	F/C
-6...dd]	F/A
-16r	Gm
+8.dd_	F major/C
+6...dd]	F major/A
+16r	G minor
 16r	.
-16r	F
-16r	E-
+16r	F major
+16r	E- major
 =9	=9
 16r	.
-16r	E-
-16dd[	Dm
+16r	E- major
+[16ddLL	D minor
 16dd]	.
-16dd[	E-
+[16dd	E- major
 16dd]	.
-16dd[	Dm
-16dd]	.
-16g[	E-
+[16dd	D minor
+16ddJJ]	.
+[16gLK	E- major
 8.g]	.
-16dd[	F
+[16ddk	F major
 8dd]	.
-16f[	Gm
+[16fJk	G minor
 =10	=10
-16f_	.
-16f]	Gm
+16fLL_	.
+16fJ]	G minor
 8ff	.
 8ff	.
-16ff[	.
-16ff]	Dm
-16dd[	.
-8.dd]	Dm
+[16ffL	.
+16ffJJ]	D minor
+[16ddLK	.
+8.dd]	D minor
 8.dd	.
-16cc[	E-
+[16ccJk	E- major
 =11	=11
-16cc_	.
-16cc]	E-
-16ff[	Dm
+16ccLL_	.
+16cc]	E- major
+[16ff	D minor
 16ff]	.
-16ff[	E-
+[16ff	E- major
 16ff]	.
-16ff[	Dm
-16ff]	.
-16b-[	E-
-16b-]	.
+[16ff	D minor
+16ffJJ]	.
+[16b-LL	E- major
+16b-J]	.
 8a	.
-8g	Am7b5
-16dd[	.
-16dd_	F
+8g	A half-diminished
+[16ddL	.
+16ddJJ_	F major
 =12	=12
 16dd_	.
-4.dd_	F
-16dd]	D/G-
-16cc[	.
-6...cc]	D/G-
+4.dd_	F major
+16dd]	D major/G-
+[16cc	.
+6...cc]	D major/G-
 8r	.
 ==	==
 *-	*-

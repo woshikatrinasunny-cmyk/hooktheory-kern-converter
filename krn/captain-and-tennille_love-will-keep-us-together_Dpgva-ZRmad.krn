@@ -16,44 +16,44 @@
 *B:	*
 *M4/4	*
 =1	=1
-4dd#	B
+4dd#	B major
 2r	.
-8ddn	.
-8dd#[	.
+8ddnL	.
+[8dd#J	.
 =2	=2
-8dd#]	Baug
+8dd#L]	B augmented
 8ddn	.
-8dd#	.
+8dd#J	.
 4cc#	.
 4.b	.
 =3	=3
-4dd#	Badd(4,7,9)
+4dd#	B other-4,7,9
 4.r	.
-8cc#	.
+8cc#L	.
 8dd#	.
-8gg#[	.
+[8gg#J	.
 =4	=4
-8gg#]	B7
+8gg#]	B dominant
 4ddn	.
 4cc#	.
 8b	.
 4r	.
 =5	=5
-8.ff#	E
+8.ff#L	E major
 8.ee	.
-8ff#	.
-8.ee	B/D#
+8ff#J	.
+8.eeL	B major/D#
 8.dd#	.
-8ee	.
+8eeJ	.
 =6	=6
-4ff#	C#m7
-4r	F#11
+4ff#	C# minor-seventh
+4r	F# dominant-11th
+8.bL	.
 8.b	.
-8.b	.
-8b	.
+8bJ	.
 =7	=7
-2..cc#	B
-8b[	.
+2..cc#	B major
+[8b	.
 =8	=8
 8b]	.
 2..r	.

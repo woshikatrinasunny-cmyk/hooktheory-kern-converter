@@ -15,106 +15,106 @@
 *G:	*
 *M4/4	*
 =1	=1
-8.dd	G
-16g	.
+8.ddL	G major
+16gk	.
 8.dd	.
-16g	.
+16gJk	.
+8.ddL	.
+16gk	.
 8.dd	.
-16g	.
-8.dd	.
-16g	.
+16gJk	.
 =2	=2
-8.dd	D7sus4
-16g	.
+8.ddL	D dominant-seventh-suspended-fourth
+16gk	.
 8.dd	.
-16g	.
+16gJk	.
+8.ddL	.
+16gk	.
 8.dd	.
-16g	.
-8.dd	.
-16g	.
+16gJk	.
 =3	=3
-8.dd	G
-16g	.
+8.ddL	G major
+16gk	.
 8.dd	.
-16g	.
+16gJk	.
+8.ddL	.
+16gk	.
 8.dd	.
-16g	.
-8.dd	.
-16g	.
+16gJk	.
 =4	=4
-4r	D7sus4
+4r	D dominant-seventh-suspended-fourth
 4b	.
 4b	.
 4b	.
 =5	=5
-2g	G
+2g	G major
 4b	.
 4g	.
 =6	=6
-2a	Am
+2a	A minor
 4g	.
 4a	.
 =7	=7
-4b	Bm
+4b	B minor
 4dd	.
 4b	.
 4g	.
 =8	=8
-2.c	C
+2.c	C major
 8r	.
 8cc	.
 =9	=9
-4dd	G
+4dd	G major
 4dd	.
 4dd	.
 4ee	.
 =10	=10
-4.g	Em
+4.g	E minor
 8g	.
 8a	.
 4.b	.
 =11	=11
-1a[	A7
+[1a	A dominant
 =12	=12
-4a]	D7
+4a]	D dominant
 4r	.
 4b	.
 4b	.
 =13	=13
-2g	G
+2g	G major
 4b	.
 4g	.
 =14	=14
-2a	Am
+2a	A minor
 4g	.
 4a	.
 =15	=15
-4b	Bm
+4b	B minor
 4dd	.
 4b	.
 4g	.
 =16	=16
-2.c	C
+2.c	C major
 8r	.
 8cc	.
 =17	=17
-4b	G
+4b	G major
 4b	.
-8cc	Em
+8cc	E minor
 4.b	.
 =18	=18
-8a	Am7
+8a	A minor-seventh
 4.g	.
-4f#	D7
+4f#	D dominant
 4a	.
 =19	=19
-2g[	G
-4g_	D/F#
-4g]	G/B
+[2g	G major
+4g_	D major/F#
+4g]	G major/B
 =20	=20
-4r	C/E
-4r	G/D
-4r	D7/C
-4r	Gmaj7/F#
+4r	C major/E
+4r	G major/D
+4r	D dominant/C
+4r	G major-seventh/F#
 ==	==
 *-	*-

@@ -16,72 +16,72 @@
 *G:	*
 *M4/4	*
 =1	=1
-4b	G
-8b	G
-8b	.
-8a[	.
-8a]	Gadd(2,4,7)
+4b	G major
+8bL	G major
+8bJ	.
+[8aL	.
+8a]	G other-2,4,7
 8g	.
-16e	.
-16g[	.
+16eL	.
+[16gJJ	.
 =2	=2
-4g]	G
-8g	G
-16e	.
-16a	.
-8b[	.
-8b]	Gadd(2,4,7)
+4g]	G major
+8gL	G major
+16eL	.
+16aJJ	.
+[8bL	.
+8bJ]	G other-2,4,7
 8r	.
 8e	.
 =3	=3
-16a	C
+16aLK	C major
 8.b	.
-16b	Cmaj7
-8b	.
-8.a[	.
-8a]	C
+16bk	C major-seventh
+8bJ	.
+[8.a	.
+8aL]	C major
 8g	.
-8g	.
+8gJ	.
 =4	=4
-4r	C
-8g	Cmaj7
-16d	.
+4r	C major
+8gL	C major-seventh
+16dJk	.
 8.d	.
-4r	C
-16d	.
-16d	.
+4r	C major
+16dLL	.
+16dJJ	.
 =5	=5
-8b	Em
+8bL	E minor
 8b	.
-8b	Esus4
-16dd	.
-8.dd[	.
-8dd]	Esus4
+8b	E suspended-fourth
+16ddJk	.
+[8.dd	.
+8ddL]	E suspended-fourth
 8cc	.
-8b	.
+8bJ	.
 =6	=6
-16a	Dadd(2,4,7)/F#
+16aLK	D other-2,4,7/F#
 8g	.
-16a[	.
-16a]	Dadd(2,4,7)/F#
-16a	.
-8b	.
-8a[	.
-8a]	Dadd(2,4,7)/F#
-16d	.
-8d	.
+[16aL	.
+16a]	D other-2,4,7/F#
+16aJ	.
+8bJ	.
+[8aL	.
+8a]	D other-2,4,7/F#
+16dk	.
+8dJ	.
 16r	.
 =7	=7
-16a	C
+16aLK	C major
 8b	.
-16b[	.
-4b]	Cmaj7
-4.a	Dsus4
-16g	.
-16g[	.
+[16bJk	.
+4b]	C major-seventh
+4.a	D suspended-fourth
+16gLL	.
+[16gJJ	.
 =8	=8
-4g]	G
-4.r	G
-4.r	Gadd(2,4,7)
+4g]	G major
+4.r	G major
+4.r	G other-2,4,7
 ==	==
 *-	*-

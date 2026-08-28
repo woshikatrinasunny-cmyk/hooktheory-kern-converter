@@ -16,29 +16,29 @@
 *C#:	*
 *M4/4	*
 =1	=1
-4r	C#
+4r	C# major
 4cc#	.
 8r	.
 4cc#	.
-8r	C#
+8r	C# major
 =2	=2
-4r	Eadd(2,4,7)
+4r	E other-2,4,7
 4cc#	.
 8r	.
 4cc#	.
-8r	C#
+8r	C# major
 =3	=3
-4r	D#
+4r	D# major
 4cc#	.
 8r	.
 4cc#	.
-8r	C#
+8r	C# major
 =4	=4
-4r	D#
-8cc#[	.
-8cc#]	C#
-8r	D
+4r	D# major
+[8cc#L	.
+8cc#J]	C# major
+8r	D major
 4cc#	.
-8r	D
+8r	D major
 ==	==
 *-	*-

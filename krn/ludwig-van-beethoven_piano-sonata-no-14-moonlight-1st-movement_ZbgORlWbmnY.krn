@@ -16,7 +16,7 @@
 *e:	*
 *M6/4	*
 =1	=1
-4G	Em
+4G	E minor
 4B	.
 4e	.
 4G	.
@@ -28,10 +28,10 @@
 4e	.
 4g	.
 4B	.
-8e	.
-8g	.
+8eL	.
+8gJ	.
 =3	=3
-4g	G7/D
+4g	G dominant/D
 4B	.
 4fn	.
 4G	.
@@ -43,80 +43,80 @@
 4fn	.
 4g	.
 4B	.
-8fn	.
-8g	.
+8fnL	.
+8gJ	.
 =5	=5
-4g	C
+4g	C major
 4c	.
 4e	.
-4G	Em/B
+4G	E minor/B
 4B	.
 4e	.
 =6	=6
-4G	A#dim7
+4G	A# diminished-seventh
 4c#	.
 4e	.
-4f#	F#7/A#
+4f#	F# dominant/A#
 4c#	.
 4e	.
 =7	=7
-4f#	Bm
+4f#	B minor
 4B	.
 4d	.
 4F#	.
 4B	.
 4d	.
 =8	=8
-4g	C#m7b5/E
+4g	C# half-diminished/E
 4B	.
 4c#	.
-4e	C#m7b5/G
+4e	C# half-diminished/G
 4B	.
 4c#	.
 =9	=9
-4f#	Bm/F#
+4f#	B minor/F#
 4B	.
 4d	.
 4F#	.
 4B	.
 4d	.
 =10	=10
-4f#	F#
+4f#	F# major
 4A#	.
 4c#	.
 4F#	.
 4A#	.
 4c#	.
 =11	=11
-4B	Bm
+4B	B minor
 4d	.
 4f#	.
 4B	.
 4d	.
 4f#	.
 =12	=12
-4B	B
+4B	B major
 4d#	.
 4f#	.
 4b	.
 4d#	.
 4f#	.
 =13	=13
-4cc	Em/B
+4cc	E minor/B
 4e	.
 4g	.
-4B	Em
+4B	E minor
 4e	.
 4g	.
 =14	=14
-4B	Em/G
+4B	E minor/G
 4e	.
 4g	.
-4a#	Em
+4a#	E minor
 4e	.
 4g	.
 =15	=15
-4b	B
+4b	B major
 4d#	.
 4f#	.
 4B	.
@@ -130,21 +130,21 @@
 4d#	.
 4f#	.
 =17	=17
-4cc	Em/B
+4cc	E minor/B
 4e	.
 4g	.
-4B	Em
+4B	E minor
 4e	.
 4g	.
 =18	=18
-4B	Em/G
+4B	E minor/G
 4e	.
 4g	.
-4a#	Em
+4a#	E minor
 4e	.
 4g	.
 =19	=19
-4b	B
+4b	B major
 4d#	.
 4f#	.
 4B	.
@@ -153,52 +153,52 @@
 =20	=20
 *k[f#c#g#]	*
 *f#:	*
-4b	Fdim7/G#
+4b	F diminished-seventh/G#
 4d	.
 4fn	.
 4B	.
 4d	.
 4fn	.
 =21	=21
-4b	C#7/F
+4b	C# dominant/F
 4c#	.
 4g#	.
 4B	.
 4c#	.
 4g#	.
 =22	=22
-4a	F#m
+4a	F# minor
 4c#	.
 4f#	.
 4A	.
 4c#	.
 4f#	.
 =23	=23
-4gn	G/B
+4gn	G major/B
 4B	.
 4d	.
 4Gn	.
 4B	.
 4d	.
 =24	=24
-4f#	Cdim7
+4f#	C diminished-seventh
 4A	.
 4d#	.
 4F#	.
 4A	.
 4d#	.
 =25	=25
-4c#	F#m/C#
+4c#	F# minor/C#
 4F#	.
 4A	.
 4C#	.
 4F#	.
 4A	.
 =26	=26
-4c#	C#sus4
+4c#	C# suspended-fourth
 4F#	.
 4G#	.
-4c#	C#
+4c#	C# major
 4Fn	.
 4G#	.
 ==	==

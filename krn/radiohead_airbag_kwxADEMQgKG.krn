@@ -16,39 +16,39 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.fn	Dadd(2,3,7)/F
+4.fn	D other-2,3,7/F
 4.ccn	.
 4b	.
 =2	=2
-4.cc#	Aadd(2,4,7)
+4.cc#	A other-2,4,7
 4.a	.
 4e	.
 =3	=3
-4.fn	Dadd(2,3,7)/F
+4.fn	D other-2,3,7/F
 4.ccn	.
 4b	.
 =4	=4
-4.a	Aadd(2,4,7)
+4.a	A other-2,4,7
 4.cc#	.
 4ee	.
 =5	=5
-4.ffn	Dadd(2,3,7)/F
+4.ffn	D other-2,3,7/F
 4.ccn	.
 4b	.
 =6	=6
-4.cc#	Aadd(2,4,7)
+4.cc#	A other-2,4,7
 4.a	.
 4e	.
 =7	=7
-4.fn	Dadd(2,3,7)/F
+4.fn	D other-2,3,7/F
 4.ccn	.
 4b	.
 =8	=8
-1a	Asus2
+1a	A suspended-second
 =9	=9
-2r	Asus2
-8d	.
-8e	.
+2r	A suspended-second
+8dL	.
+8eJ	.
 4cc#	.
 ==	==
 *-	*-

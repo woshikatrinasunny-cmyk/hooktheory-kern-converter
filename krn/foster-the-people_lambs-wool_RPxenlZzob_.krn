@@ -16,28 +16,28 @@
 *g#:	*
 *M4/4	*
 =1	=1
-2..r	Emaj7
-8r	Eadd(2,4,7)
+2..r	E major-seventh
+8r	E other-2,4,7
 =2	=2
-3...r	Emaj7
+3...r	E major-seventh
 16r	.
-8r	G#m
-8.r	D#m7/F#
+8r	G# minor
+8.r	D# minor-seventh/F#
 =3	=3
-2..r	D#m7
-8r	Badd(2,4,7)/D#
+2..r	D# minor-seventh
+8r	B other-2,4,7/D#
 =4	=4
-3...r	D#m7
+3...r	D# minor-seventh
 16r	.
-8r	G#m
-8.r	F#
+8r	G# minor
+8.r	F# major
 =5	=5
-4.r	C#m
-8r	A#dim/C#
-2r	F#7
+4.r	C# minor
+8r	A# diminished/C#
+2r	F# dominant
 =6	=6
-2r	G#m
-4r	Fadd(3,5,6,10)
-4r	Fm7b5
+2r	G# minor
+4r	F other-3,5,6,10
+4r	F half-diminished
 ==	==
 *-	*-

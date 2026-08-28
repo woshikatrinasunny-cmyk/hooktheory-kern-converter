@@ -16,76 +16,76 @@
 *F:	*
 *M4/4	*
 =1	=1
-4f	Fadd(7,10)
+4f	F other-7,10
 8g	.
 4f	.
 4c	.
 8r	.
 =2	=2
-8f	B-
+8fL	B- major
 8f	.
 8g	.
-8f	F
+8fJ	F major
 4c	.
 4r	.
 =3	=3
-8f	B-
+8fL	B- major
 8f	.
 8g	.
-8f	F
+8fJ	F major
 4c	.
 4r	.
 =4	=4
-8f	B-
+8fL	B- major
 8f	.
 8g	.
-8f	F
+8fJ	F major
 4c	.
 4r	.
 =5	=5
-4f	Fadd(7,10)
+4f	F other-7,10
 8g	.
 4f	.
 4c	.
 8r	.
 =6	=6
-8f	B-
+8fL	B- major
 8f	.
 8g	.
-8f	F
+8fJ	F major
 4c	.
 4r	.
 =7	=7
-8f	B-
+8fL	B- major
 8f	.
-8g	.
-4f	F
+8gJ	.
+4f	F major
 4c	.
 8r	.
 =8	=8
-4G	E-
+4G	E- major
 8A	.
 4B-	.
 4c	.
-8d[	.
+[8d	.
 =9	=9
-2d]	B-
-2r	C
+2d]	B- major
+2r	C major
 =10	=10
-4d	Dm
+4d	D minor
 8e	.
 4.f	.
 4r	.
 =11	=11
-4.f[	F/C
-8f]	C
+[4.f	F major/C
+8f]	C major
 2e	.
 =12	=12
-4.d[	C11
-8d]	C
+[4.d	C dominant-11th
+8d]	C major
 2e	.
 =13	=13
-2..f	F
+2..f	F major
 8r	.
 =14	=14
 1r	.

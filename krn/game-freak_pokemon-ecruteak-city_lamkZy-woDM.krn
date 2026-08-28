@@ -16,62 +16,62 @@
 *C:	*
 *M4/4	*
 =1	=1
-4dd	Cadd(2,4,7)
+4dd	C other-2,4,7
 8r	.
 16cc	.
 16r	.
 2cc	.
 =2	=2
-4ff	Gm7b5/C#
+4ff	G half-diminished/C#
 8r	.
 8ee	.
 8r	.
-8gg	.
+8ggL	.
 8aa	.
-8aa#	.
+8aa#J	.
 =3	=3
-8ee	Dm7
-16cc	.
+8eeL	D minor-seventh
+16ccJk	.
 16r	.
-8cc	.
-16a	.
+8ccL	.
+16aJk	.
 16r	.
-4.cc	Fm
+4.cc	F minor
 8r	.
 =4	=4
-8ee	G7
+8eeL	G dominant
 8gg	.
-8ee	.
+8eeJ	.
 4.dd	.
 4b	.
 =5	=5
-4ddd	Cmaj9
+4ddd	C major-ninth
 8r	.
 16ccc	.
 16r	.
 2ccc	.
 =6	=6
-4.fff	Gm7b5/C#
+4.fff	G half-diminished/C#
 8eee	.
 8r	.
-8eee	.
+8eeeL	.
 8fff	.
-8ggg	.
+8gggJ	.
 =7	=7
-8aaa	F
+8aaaL	F major
 8eee	.
 8eee	.
-8ccc	.
-8ccc	.
+8cccJ	.
+8cccL	.
 8aa	.
 8bb	.
-8ccc	.
+8cccJ	.
 =8	=8
-4.eee	G7
+4.eee	G dominant
 16ddd	.
 16r	.
 4ddd	.
-8ee	.
-8gg	.
+8eeL	.
+8ggJ	.
 ==	==
 *-	*-

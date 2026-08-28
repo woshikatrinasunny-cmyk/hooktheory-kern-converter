@@ -16,62 +16,62 @@
 *e:	*
 *M4/4	*
 =1	=1
-4r	Esus2
-8d	.
-8e	.
-4.d	C
-16c	.
-16B[	.
+4r	E suspended-second
+8dL	.
+8eJ	.
+4.d	C major
+16cLL	.
+[16BJJ	.
 =2	=2
-4B]	A
+4B]	A major
 4r	.
-4r	Am
-8r	Am7
-8r	F#m7b5/A
+4r	A minor
+8r	A minor-seventh
+8r	F# half-diminished/A
 =3	=3
-4r	Esus2
-8d	.
-8e	.
-4.f#	C
-16g	.
-16e[	.
+4r	E suspended-second
+8dL	.
+8eJ	.
+4.f#	C major
+16gLL	.
+[16eJJ	.
 =4	=4
-4e]	A
+4e]	A major
 4r	.
-8r	Aadd(2,3,7)
-8r	Am
-8r	Am7
-8r	F#m7b5/A
+8r	A other-2,3,7
+8r	A minor
+8r	A minor-seventh
+8r	F# half-diminished/A
 =5	=5
-4r	Esus2
-8d	.
-8e	.
-4.d	C
-16c	.
-16B[	.
+4r	E suspended-second
+8dL	.
+8eJ	.
+4.d	C major
+16cLL	.
+[16BJJ	.
 =6	=6
-4B]	A
+4B]	A major
 4r	.
-8r	Am7
-8r	F#m7b5/A
-8B	Am
-16c	Aadd(3,5,7)
-16B[	.
+8r	A minor-seventh
+8r	F# half-diminished/A
+8BL	A minor
+16cL	A other-3,5,7
+[16BJJ	.
 =7	=7
-8B]	C
-16c	.
-16B[	.
-8B]	C/E
-16c	.
-16B[	.
-8B]	F#add(1,6,10)
-16c	.
-16B[	.
-8B]	C/G
-16G	.
-16G	.
+8BL]	C major
+16cL	.
+[16BJ	.
+8B]	C major/E
+16cL	.
+[16BJJ	.
+8BL]	F# other-1,6,10
+16cL	.
+[16BJ	.
+8B]	C major/G
+16GL	.
+16GJJ	.
 =8	=8
-4F#	B
+4F#	B major
 2.r	.
 ==	==
 *-	*-

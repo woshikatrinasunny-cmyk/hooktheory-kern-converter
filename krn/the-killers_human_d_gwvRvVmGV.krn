@@ -16,56 +16,56 @@
 *B-:	*
 *M4/4	*
 =1	=1
-3...r	B-
-8b-	.
+3...r	B- major
+8b-L	.
 8cc	.
-8cc	.
+8ccJ	.
 =2	=2
-4dd	Dm
+4dd	D minor
 2.r	.
 =3	=3
-4.r	E-
+4.r	E- major
 8gg	.
 4gg	.
-8ff	.
-8ff[	.
+8ffL	.
+[8ffJ	.
 =4	=4
-8ff]	B-
+8ff]	B- major
 4b-	.
 3...r	.
 =5	=5
-4.r	F
+4.r	F major
 8dd	.
 4cc	.
-8ff	.
-8ff[	.
+8ffL	.
+[8ffJ	.
 =6	=6
-8ff]	Gm
+8ff]	G minor
 4dd	.
 3...r	.
 =7	=7
-4.r	E-
+4.r	E- major
 8ee-	.
 4ee-	.
-8dd	.
-8cc[	.
+8ddL	.
+[8ccJ	.
 =8	=8
-8cc]	F
+8cc]	F major
 3...r	.
-8dd	.
-8ff	.
+8ddL	.
+8ffJ	.
 =9	=9
-2gg	B-
+2gg	B- major
 4.ff	.
-8dd[	.
+[8dd	.
 =10	=10
-4dd]	Dm7
+4dd]	D minor-seventh
 4r	.
 8dd	.
 4cc	.
 8b-	.
 =11	=11
-8cc	Gm
+8cc	G minor
 4.cc	.
 4g	.
 4r	.
@@ -74,16 +74,16 @@
 4dd	.
 4cc	.
 =13	=13
-4.cc	Cm
+4.cc	C minor
 4.g	.
 4r	.
 =14	=14
-4.r	E-
+4.r	E- major
 8g	.
 4ee-	.
 4dd	.
 =15	=15
-4.cc	B-
+4.cc	B- major
 4.b-	.
 4r	.
 ==	==

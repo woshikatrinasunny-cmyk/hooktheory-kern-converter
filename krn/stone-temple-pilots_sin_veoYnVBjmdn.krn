@@ -16,25 +16,25 @@
 *E:	*
 *M4/4	*
 =1	=1
-2..r	Eadd(6,7)
-8r	E
+2..r	E other-6,7
+8r	E major
 =2	=2
 2..r	.
-8r	Eadd(6,7)
+8r	E other-6,7
 =3	=3
-2..r	Eadd(6,7)
-8r	E
+2..r	E other-6,7
+8r	E major
 =4	=4
 1r	.
 =5	=5
-2..r	Eadd(6,7)
-8r	E
+2..r	E other-6,7
+8r	E major
 =6	=6
 2..r	.
-8r	Eadd(6,7)
+8r	E other-6,7
 =7	=7
-2..r	Eadd(6,7)
-8r	E
+2..r	E other-6,7
+8r	E major
 =8	=8
 1r	.
 ==	==

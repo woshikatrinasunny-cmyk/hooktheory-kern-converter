@@ -16,43 +16,43 @@
 *a:	*
 *M4/4	*
 =1	=1
-2b	C
+2b	C major
 2g	.
 =2	=2
 2e	.
 2d	.
 =3	=3
-8d	E
+8d	E major
 4e	.
 4e	.
 8d	.
-4e[	.
+[4e	.
 =4	=4
 2e]	.
 2r	.
 =5	=5
-4A	A7sus4
-8A	.
-8A	.
-8b	.
-8g	.
+4A	A dominant-seventh-suspended-fourth
+8AL	.
+8AJ	.
+8bL	.
+8gJ	.
 4g	.
 =6	=6
-1a[	.
+[1a	.
 =7	=7
-1a_	A
+1a_	A major
 =8	=8
-4a]	Am7
+4a]	A minor-seventh
 4r	.
-2r	Em7/B
+2r	E minor-seventh/B
 =9	=9
-2b	C
+2b	C major
 2g	.
 =10	=10
 2e	.
 2d	.
 =11	=11
-8d	E
+8d	E major
 4e	.
 4e	.
 8d	.
@@ -61,18 +61,18 @@
 4e	.
 2.r	.
 =13	=13
-4A	A7sus4
-8A	.
-8A	.
-8b	.
-8g	.
+4A	A dominant-seventh-suspended-fourth
+8AL	.
+8AJ	.
+8bL	.
+8gJ	.
 4g	.
 =14	=14
-1a[	.
+[1a	.
 =15	=15
-1a_	A
+1a_	A major
 =16	=16
-4a]	Am7
-2.r	Em7/B
+4a]	A minor-seventh
+2.r	E minor-seventh/B
 ==	==
 *-	*-

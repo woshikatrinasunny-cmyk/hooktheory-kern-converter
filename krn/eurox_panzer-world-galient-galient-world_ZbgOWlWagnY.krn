@@ -16,91 +16,91 @@
 *a:	*
 *M4/4	*
 =1	=1
-4A	Asus2
+4A	A suspended-second
 4r	.
 8B	.
 4c	.
-8A[	.
+[8A	.
 =2	=2
-4A]	Dsus4/A
+4A]	D suspended-fourth/A
 4r	.
 8B	.
 4c	.
-8A[	.
+[8A	.
 =3	=3
-4A]	Fadd(2,4,7)/A
+4A]	F other-2,4,7/A
 4r	.
-8B	.
+8BL	.
 8B	.
 8c	.
-8e[	.
+[8eJ	.
 =4	=4
-4e]	Dsus4/A
+4e]	D suspended-fourth/A
 8d	.
 4c	.
 4.B	.
 =5	=5
-4A	Asus2
+4A	A suspended-second
 4r	.
 8B	.
 4c	.
-8A[	.
+[8A	.
 =6	=6
-4A]	Dsus4/A
+4A]	D suspended-fourth/A
 4r	.
 8B	.
 4c	.
-8A[	.
+[8A	.
 =7	=7
-4A]	Fadd(2,4,7)/A
+4A]	F other-2,4,7/A
 4r	.
 8B	.
 4c	.
-8e[	.
+[8e	.
 =8	=8
-4e]	Dsus4/A
+4e]	D suspended-fourth/A
 8d	.
 4c	.
 4.B	.
 =9	=9
-4r	Asus2
-8e	.
-8e	.
+4r	A suspended-second
+8eL	.
+8eJ	.
 4d	.
-8c	.
-8e[	.
+8cL	.
+[8eJ	.
 =10	=10
-8e]	Dsus4/A
-8g	.
+8eL]	D suspended-fourth/A
+8gJ	.
 4e	.
 8r	.
-8e	.
+8eL	.
 8g	.
-8a[	.
+[8aJ	.
 =11	=11
-4a]	Fadd(2,4,7)/A
+4a]	F other-2,4,7/A
 4e	.
 8d	.
 4c	.
-8d[	.
+[8d	.
 =12	=12
-4d]	B7sus4/A
+4d]	B dominant-seventh-suspended-fourth/A
 8r	.
 8BB	.
 8c	.
 4c	.
-8A[	.
+[8A	.
 =13	=13
-4A]	Badd(5,6,10)/F
+4A]	B other-5,6,10/F
 2.r	.
 =14	=14
 4.r	.
 8AA	.
 8A	.
 4A	.
-8B[	.
+[8B	.
 =15	=15
-1B]	Esus2
+1B]	E suspended-second
 =16	=16
 2..r	.
 ==	==

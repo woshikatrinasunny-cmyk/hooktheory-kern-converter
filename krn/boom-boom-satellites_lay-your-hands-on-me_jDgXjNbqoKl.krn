@@ -16,64 +16,64 @@
 *F:	*
 *M4/4	*
 =1	=1
-2.F[	F
-8F]	Fsus2
-8e[	C7
+[2.F	F major
+8FL]	F suspended-second
+[8eJ	C dominant
 =2	=2
 3...e_	.
-8.e_	C
-8.e]	Am7/C
+8.eL_	C major
+8.eJ]	A minor-seventh/C
 =3	=3
-1f	Gm7
+1f	G minor-seventh
 =4	=4
-8.G[	Gm7/B-
-6...G]	B-
+[8.G	G minor-seventh/B-
+6...G]	B- major
 2F	.
 =5	=5
-8c[	.
-2.c_	F
-8c]	Fsus2
+[8c	.
+2.c_	F major
+8c]	F suspended-second
 =6	=6
-3...B-[	C7
-16B-_	.
-8.B-_	C
-8B-]	Am7/C
+[3...B-	C dominant
+16B-LK_	.
+8.B-_	C major
+8B-J]	A minor-seventh/C
 =7	=7
-16d[	.
-2...d]	Gm7
+[16d	.
+2...d]	G minor-seventh
 =8	=8
-8.G[	Gm7/B-
-6...G]	B-
+[8.G	G minor-seventh/B-
+6...G]	B- major
 2F	.
 =9	=9
-2.F[	Dm7
-8F_	D7sus2
-8F]	C7
+[2.F	D minor-seventh
+8FL_	D dominant-seventh-suspended-second
+8FJ]	C dominant
 =10	=10
-3...e[	.
-8.e_	C
-8.e]	Am7/C
+[3...e	.
+8.eL_	C major
+8.eJ]	A minor-seventh/C
 =11	=11
-1f	Gm7
+1f	G minor-seventh
 =12	=12
-8.g[	Gm7/B-
-6...g]	B-
-2f[	.
+[8.g	G minor-seventh/B-
+6...g]	B- major
+[2f	.
 =13	=13
 8f]	.
-2.b-[	Dm7
-8b-]	D7sus2
+[2.b-	D minor-seventh
+8b-]	D dominant-seventh-suspended-second
 =14	=14
-2.a[	Am7/C
-8.a_	C
-16a_	Am7/C
+[2.a	A minor-seventh/C
+8.aL_	C major
+16aJk_	A minor-seventh/C
 =15	=15
-8a_	.
-8a]	Gm7
-2.b-[	.
+8aL_	.
+8aJ]	G minor-seventh
+[2.b-	.
 =16	=16
-8.b-_	Gm7/B-
-2.b-_	B-
+8.b-_	G minor-seventh/B-
+2.b-_	B- major
 16b-]	.
 ==	==
 *-	*-

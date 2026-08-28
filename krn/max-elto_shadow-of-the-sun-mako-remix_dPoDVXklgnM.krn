@@ -16,55 +16,55 @@
 *b:	*
 *M4/4	*
 =1	=1
-4dd	Bm
+4dd	B minor
 4.d	.
-8ff#	.
+8ff#L	.
 8d	.
-8cc#[	.
+[8cc#J	.
 =2	=2
-4cc#]	A
+4cc#]	A major
 4.d	.
-8cc#	.
+8cc#L	.
 8d	.
-8cc#[	.
+[8cc#J	.
 =3	=3
-4cc#]	Em7
+4cc#]	E minor-seventh
 4.dd	.
-8f#	.
+8f#L	.
 8d	.
-8ff#[	.
+[8ff#J	.
 =4	=4
-4ff#]	Gadd(2,4,7)
+4ff#]	G other-2,4,7
 4dd	.
-8g	.
+8gL	.
 8f#	.
 8aa	.
-8ff#[	.
+[8ff#J	.
 =5	=5
-4ff#]	D
+4ff#]	D major
 4.d	.
-8ff#	.
+8ff#L	.
 8d	.
-8cc#[	.
+[8cc#J	.
 =6	=6
-4cc#]	A
+4cc#]	A major
 4.d	.
-8cc#	.
+8cc#L	.
 8d	.
-8cc#[	.
+[8cc#J	.
 =7	=7
-4cc#]	Em7
+4cc#]	E minor-seventh
 4.dd	.
-8f#	.
+8f#L	.
 8d	.
-8ff#[	.
+[8ff#J	.
 =8	=8
-4ff#]	Gadd(2,4,7)
+4ff#]	G other-2,4,7
 4dd	.
-16ff#	.
-16gg	.
+16ff#LL	.
+16ggJ	.
 8aa	.
 8ee	.
-8ff#	.
+8ff#J	.
 ==	==
 *-	*-

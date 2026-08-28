@@ -16,7 +16,7 @@
 *d#:	*
 *M4/4	*
 =1	=1
-16d#	D#m
+16d#	D# minor
 16r	.
 16e#	.
 6...r	.
@@ -29,13 +29,13 @@
 16r	.
 16e#	.
 8.r	.
-8r	D#m7
+8r	D# minor-seventh
 16f#	.
 16r	.
 16d#	.
 6...r	.
 =3	=3
-16dd#	Emaj7/D#
+16dd#	E major-seventh/D#
 16r	.
 16een	.
 6...r	.
@@ -48,13 +48,13 @@
 16r	.
 16een	.
 8.r	.
-8r	Emaj7/D#
+8r	E major-seventh/D#
 16gg#	.
 16r	.
 16b	.
 6...r	.
 =5	=5
-16d#	E#7/D#
+16d#	E# dominant/D#
 16r	.
 16e#	.
 6...r	.
@@ -67,13 +67,13 @@
 16r	.
 16e#	.
 8.r	.
-8r	E#7/D#
+8r	E# dominant/D#
 16an	.
 16r	.
 16d#	.
 6...r	.
 =7	=7
-16een	Emaj7/D#
+16een	E major-seventh/D#
 16r	.
 16gg#	.
 6...r	.
@@ -86,14 +86,14 @@
 16r	.
 16gg#	.
 8.r	.
-8r	Emaj7/D#
+8r	E major-seventh/D#
 16eeen	.
 16r	.
 16ggg#	.
 16r	.
-4r	Emaj7/D#
+4r	E major-seventh/D#
 =9	=9
-16f#	D#m
+16f#	D# minor
 16r	.
 16g#	.
 6...r	.
@@ -111,11 +111,11 @@
 16f#	.
 6...r	.
 =11	=11
-1r	Emaj7/D#
+1r	E major-seventh/D#
 =12	=12
 1r	.
 =13	=13
-16e#	E#7/D#
+16e#	E# dominant/D#
 16r	.
 16an	.
 6...r	.
@@ -133,22 +133,22 @@
 16e#	.
 6...r	.
 =15	=15
-8r	Emaj7/D#
-16dd#	.
+8r	E major-seventh/D#
+16dd#LL	.
 16ee#	.
 16ff#	.
 16gg#	.
 16aan	.
-16aa#	.
+16aa#JJ	.
 2bb	.
 =16	=16
 8r	.
-16ddd#	.
+16ddd#LL	.
 16eee#	.
 16fff#	.
 16ggg#	.
 16aaan	.
-16aaa#	.
+16aaa#JJ	.
 2bbb	.
 ==	==
 *-	*-

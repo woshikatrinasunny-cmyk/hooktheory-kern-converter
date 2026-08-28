@@ -16,74 +16,74 @@
 *G:	*
 *M4/4	*
 =1	=1
-2g	Am7
+2g	A minor-seventh
 4cc	.
-4b[	.
+[4b	.
 =2	=2
-4b]	Bm7
+4b]	B minor-seventh
 4dd	.
 4aa	.
-4gg[	.
+[4gg	.
 =3	=3
-4gg]	Em7
+4gg]	E minor-seventh
 4gg	.
 4b	.
-4dd[	.
+[4dd	.
 =4	=4
-4dd]	Dm7
+4dd]	D minor-seventh
 4gg	.
 4aa	.
 4gg	.
 =5	=5
-8.bb	Am7
+8.bbL	A minor-seventh
 8.gg	.
-8dd	.
-8.cc	Bm7
+8ddJ	.
+8.ccL	B minor-seventh
 8.b	.
-8d	.
+8dJ	.
 =6	=6
-8.e	Am7
-16g[	.
-8g]	Bm7
-8a	.
-8b[	Cmaj7
-16b]	D7
+8.eL	A minor-seventh
+[16gk	.
+8g]	B minor-seventh
+8aJ	.
+[8bL	C major-seventh
+16bk]	D dominant
 8.dd	.
-8cc	F#add(5,6,10)/C
+8ccJ	F# other-5,6,10/C
 =7	=7
-8.fff#	.
+8.fff#L	.
 8.ggg	.
-8fff#	.
-8.ddd	.
+8fff#J	.
+8.dddL	.
 8.bb	.
-8eee	.
+8eeeJ	.
 =8	=8
 4.gg	.
 4.gg	.
 4r	.
 =9	=9
-8.aa	B7sus4
+8.aaL	B dominant-seventh-suspended-fourth
 8.bb	.
-8aa	.
-8.gg	.
+8aaJ	.
+8.ggL	.
 8.ee	.
-8aa	.
+8aaJ	.
 =10	=10
 4.dd	.
 4.dd	.
 4aa	.
 =11	=11
-2gg	Am7
+2gg	A minor-seventh
 4ee	.
-4aa[	.
+[4aa	.
 =12	=12
-4aa]	Bm7
+4aa]	B minor-seventh
 4gg	.
 4bb	.
 4aa	.
 =13	=13
-1ddd	Cadd(2,4,7,11)
+1ddd	C other-2,4,7,11
 =14	=14
-1ccc	Cadd(1,3,6,9)
+1ccc	C other-1,3,6,9
 ==	==
 *-	*-

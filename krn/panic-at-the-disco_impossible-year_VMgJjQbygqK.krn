@@ -16,74 +16,74 @@
 *F:	*
 *M4/4	*
 =1	=1
-16r	F
+16r	F major
 8A	.
 6...C	.
-4.r	Faug
-16F	.
-16A	.
+4.r	F augmented
+16FLL	.
+16AJJ	.
 =2	=2
-6...G	Dm/F
-16F	.
+6...G	D minor/F
+16FLL	.
 16D	.
-16G[	.
-8G]	Faug
+[16GJJ	.
+8G]	F augmented
 4r	.
-16F	.
-16G	.
+16FLL	.
+16GJJ	.
 =3	=3
-8A	F
+8AL	F major
 8.C	.
-16C	.
-8A	.
-4D-	Faug
+16Ck	.
+8AJ	.
+4D-	F augmented
 8r	.
 8A	.
 =4	=4
-4G	Dm/F
-16F	.
-16D	.
-8G[	.
-4G]	F9
+4G	D minor/F
+16FLL	.
+16DJ	.
+[8GJ	.
+4G]	F dominant-ninth
 8r	.
 8F	.
 =5	=5
-4F	B-
-16c	.
+4F	B- major
+16cLK	.
 8c	.
-16c[	.
-16c]	Dm7/A
+[16cJk	.
+16c]	D minor-seventh/A
 6...F	.
 8A	.
 =6	=6
-4G	Dm
-16F	.
-16D	.
-8G[	.
-4G]	Gadd(4,7,9,10)
+4G	D minor
+16FLL	.
+16DJ	.
+[8GJ	.
+4G]	G other-4,7,9,10
 8r	.
 8F	.
 =7	=7
-8A	F/C
+8A	F major/C
 4C	.
-16C	.
-16A[	.
-16A]	Faug/D-
+16CLL	.
+[16AJJ	.
+16A]	F augmented/D-
 6...D-	.
 16r	.
 16F	.
 =8	=8
 *M2/4	*
-16A	Dm
+16A	D minor
 4G	.
-16F	.
+16FLL	.
 16G	.
-16G[	.
+[16GJJ	.
 =9	=9
 *M4/4	*
-2G_	E-
-8G]	E-add(2,4,7)
+2G_	E- major
+8G]	E- other-2,4,7
 8r	.
-4r	E-
+4r	E- major
 ==	==
 *-	*-

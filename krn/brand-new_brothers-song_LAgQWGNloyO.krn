@@ -16,11 +16,11 @@
 *C:	*
 *M4/4	*
 =1	=1
-4c	C
+4c	C major
 8c	.
-4B	Cmaj7
+4B	C major-seventh
 8B	.
-4G	Em
+4G	E minor
 =2	=2
 8r	.
 8G	.
@@ -28,19 +28,19 @@
 4.G	.
 8E	.
 =3	=3
-4.F	F/A
-4.G	F/A
-4E[	Am
+4.F	F major/A
+4.G	F major/A
+[4E	A minor
 =4	=4
 4E]	.
-4D	G
+4D	G major
 2D	.
 =5	=5
-4c	C
+4c	C major
 8c	.
-4B	Cmaj7
+4B	C major-seventh
 8B	.
-4G	Em
+4G	E minor
 =6	=6
 8r	.
 8G	.
@@ -48,12 +48,12 @@
 4.G	.
 8E	.
 =7	=7
-4.F	F/A
-4.G	F/A
-4E[	Am
+4.F	F major/A
+4.G	F major/A
+[4E	A minor
 =8	=8
 4E]	.
-4D	G
+4D	G major
 2D	.
 ==	==
 *-	*-

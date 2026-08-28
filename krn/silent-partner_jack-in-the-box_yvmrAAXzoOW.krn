@@ -16,7 +16,7 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.dd	Gmaj7
+4.dd	G major-seventh
 4.b	.
 4g	.
 =2	=2
@@ -24,16 +24,16 @@
 4.b	.
 4g	.
 =3	=3
-4.f#	D
+4.f#	D major
 4.a	.
 4f#	.
 =4	=4
-4.e	Cmaj7
+4.e	C major-seventh
 2b	.
-16g	.
-16a	.
+16gLL	.
+16aJJ	.
 =5	=5
-4.dd	Gmaj7
+4.dd	G major-seventh
 4.b	.
 4g	.
 =6	=6
@@ -41,10 +41,10 @@
 4.b	.
 4g	.
 =7	=7
-4.f#	D
+4.f#	D major
 4.a	.
 4f#	.
 =8	=8
-1e	C
+1e	C major
 ==	==
 *-	*-

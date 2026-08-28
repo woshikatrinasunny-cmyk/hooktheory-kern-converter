@@ -16,76 +16,76 @@
 *e:	*
 *M4/4	*
 =1	=1
-8bb	Em
+8bbL	E minor
 8ee	.
 8gg	.
-8bb	.
-8ee	.
+8bbJ	.
+8eeL	.
 8gg	.
 8bb	.
-8ee	Em/B
+8eeJ	E minor/B
 =2	=2
-8gg	Em
-8bb	F#add(1,3,5,6,10)
-8ee	Em/G
-8gg	.
-8bb	.
+8ggL	E minor
+8bb	F# other-1,3,5,6,10
+8ee	E minor/G
+8ggJ	.
+8bbL	.
 8ee	.
 8gg	.
-8bb	.
+8bbJ	.
 =3	=3
-8ddd	Esus2/F#
+8dddL	E suspended-second/F#
 8ee	.
 8gg	.
-8ddd	.
-8ee	F#add(6,10)/E
+8dddJ	.
+8eeL	F# other-6,10/E
 8gg	.
 8ddd	.
-8ee	.
+8eeJ	.
 =4	=4
-8gg	Am
+8ggL	A minor
 8ddd	.
 8ee	.
-8gg	.
-8ddd	.
+8ggJ	.
+8dddL	.
 8ee	.
 8gg	.
-8ddd	.
+8dddJ	.
 =5	=5
-8ee	Em
+8eeL	E minor
 8gg	.
 8bb	.
-8ee	.
-8gg	.
+8eeJ	.
+8ggL	.
 8bb	.
 8ee	.
-8gg	Em/B
+8ggJ	E minor/B
 =6	=6
-8bb	Em
-8ee	F#add(1,3,5,6,10)
-8gg	Em/G
-8bb	.
-8ee	.
+8bbL	E minor
+8ee	F# other-1,3,5,6,10
+8gg	E minor/G
+8bbJ	.
+8eeL	.
 8gg	.
 8bb	.
-8ee	.
+8eeJ	.
 =7	=7
-8gg	Esus2/F#
+8ggL	E suspended-second/F#
 8ddd	.
 8ee	.
-8gg	.
-8ddd	F#add(6,10)/E
+8ggJ	.
+8dddL	F# other-6,10/E
 8ee	.
 8gg	.
-8ddd	.
+8dddJ	.
 =8	=8
-8ee	Am
+8eeL	A minor
 8gg	.
 8ddd	.
-8ee	.
-8gg	.
+8eeJ	.
+8ggL	.
 8ddd	.
 8ee	.
-8gg	.
+8ggJ	.
 ==	==
 *-	*-

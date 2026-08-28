@@ -16,69 +16,69 @@
 *c:	*
 *M4/4	*
 =1	=1
-4cc	Fm
-4g	Fm
-8.e-[	Fm
-16e-]	Fm7
+4cc	F minor
+4g	F minor
+[8.e-L	F minor
+16e-k]	F minor-seventh
 8c	.
-8cc[	Fm7
+[8ccJ	F minor-seventh
 =2	=2
-8cc]	Fm
-8g[	.
-8g]	Fm
-8e-[	.
-8e-]	Fm
-16g[	.
-8.g]	Fm7
-8g	Fm7
+8ccL]	F minor
+[8g	.
+8g]	F minor
+[8e-J	.
+8e-L]	F minor
+[16gk	.
+8.g]	F minor-seventh
+8gJ	F minor-seventh
 =3	=3
-4cc	Fm/A-
-4g	Fm/A-
-8.e-[	Fm/A-
-16e-]	Fm7/A-
+4cc	F minor/A-
+4g	F minor/A-
+[8.e-L	F minor/A-
+16e-k]	F minor-seventh/A-
 8c	.
-8cc[	Fm7/A-
+[8ccJ	F minor-seventh/A-
 =4	=4
-8cc]	Fm/A-
-8g[	.
-8g]	Fm/A-
-8e-[	.
-8e-]	Fm/A-
-16g[	.
-8.g]	Fm7/A-
-8f	Fm7/A-
+8ccL]	F minor/A-
+[8g	.
+8g]	F minor/A-
+[8e-J	.
+8e-L]	F minor/A-
+[16gk	.
+8.g]	F minor-seventh/A-
+8fJ	F minor-seventh/A-
 =5	=5
-8g	Csus4
-8f[	.
-8f]	Csus4
-8g[	.
-8g]	Csus4
-16f[	.
-16f]	Cm
-8g[	.
-8g_	Cm
+8gL	C suspended-fourth
+[8f	.
+8f]	C suspended-fourth
+[8gJ	.
+8gL]	C suspended-fourth
+[16fL	.
+16fJ]	C minor
+[8g	.
+8gJ_	C minor
 =6	=6
-4g_	Csus4
-4g_	Csus4
-8.g_	Csus4
-16g]	Cm
+4g_	C suspended-fourth
+4g_	C suspended-fourth
+8.gL_	C suspended-fourth
+16gJk]	C minor
 8r	.
-8g	Cm
+8g	C minor
 =7	=7
-4g	Gm7/B-
-8f	Gm7/B-
-8f[	.
-8f]	Gm7/B-
-16e-[	.
-16e-]	E-maj7/B-
-8f[	.
-8f_	E-maj7/B-
+4g	G minor-seventh/B-
+8fL	G minor-seventh/B-
+[8fJ	.
+8fL]	G minor-seventh/B-
+[16e-L	.
+16e-J]	E- major-seventh/B-
+[8f	.
+8fJ_	E- major-seventh/B-
 =8	=8
-4f_	Gm7/B-
-4f_	Gm7/B-
-8.f_	Gm7/B-
-16f]	E-maj7/B-
+4f_	G minor-seventh/B-
+4f_	G minor-seventh/B-
+8.fL_	G minor-seventh/B-
+16fJk]	E- major-seventh/B-
 8r	.
-8r	E-maj7/B-
+8r	E- major-seventh/B-
 ==	==
 *-	*-

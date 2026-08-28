@@ -15,101 +15,101 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4dd#[	G#sus4
-4dd#]	G#sus4
-4cc#	G#sus4
-4b	G#sus4
+[4dd#	G# suspended-fourth
+4dd#]	G# suspended-fourth
+4cc#	G# suspended-fourth
+4b	G# suspended-fourth
 =2	=2
-4cc#[	G#sus4
-4cc#_	G#sus4
-4cc#_	G#sus4
-4cc#]	G#sus4
+[4cc#	G# suspended-fourth
+4cc#_	G# suspended-fourth
+4cc#_	G# suspended-fourth
+4cc#]	G# suspended-fourth
 =3	=3
-4b[	D#sus4
-4b_	D#sus4
-8b]	D#sus4
-8an[	.
-8an]	E
-8g#[	.
+[4b	D# suspended-fourth
+4b_	D# suspended-fourth
+8bL]	D# suspended-fourth
+[8an	.
+8an]	E major
+[8g#J	.
 =4	=4
-8g#]	E
-8an[	.
-8an]	E
-8b[	.
-8b]	E
-8b[	.
-4b]	E
+8g#L]	E major
+[8an	.
+8an]	E major
+[8bJ	.
+8bL]	E major
+[8bJ	.
+4b]	E major
 =5	=5
-4dd#[	G#sus4
-4dd#]	G#sus4
-4cc#	G#sus4
-4b	G#sus4
+[4dd#	G# suspended-fourth
+4dd#]	G# suspended-fourth
+4cc#	G# suspended-fourth
+4b	G# suspended-fourth
 =6	=6
-4cc#[	G#sus4
-4cc#_	G#sus4
-4cc#_	G#sus4
-4cc#]	G#sus4
+[4cc#	G# suspended-fourth
+4cc#_	G# suspended-fourth
+4cc#_	G# suspended-fourth
+4cc#]	G# suspended-fourth
 =7	=7
-4b[	D#sus4
-4b_	D#sus4
-8b]	D#sus4
-8an[	.
-8an]	D#sus4
-8g#[	.
+[4b	D# suspended-fourth
+4b_	D# suspended-fourth
+8bL]	D# suspended-fourth
+[8an	.
+8an]	D# suspended-fourth
+[8g#J	.
 =8	=8
-8g#]	D#sus4
-8an[	.
-8an]	D#sus4
-8g#[	.
-4g#_	D#sus4
-4g#]	D#sus4
+8g#L]	D# suspended-fourth
+[8an	.
+8an]	D# suspended-fourth
+[8g#J	.
+4g#_	D# suspended-fourth
+4g#]	D# suspended-fourth
 =9	=9
-4dd#[	G#sus4
-4dd#]	G#sus4
-4ff#	G#sus4
-4ffn[	G#sus4
+[4dd#	G# suspended-fourth
+4dd#]	G# suspended-fourth
+4ff#	G# suspended-fourth
+[4ffn	G# suspended-fourth
 =10	=10
-4ffn_	G#sus4
-8.ffn]	G#sus4
-16b[	.
-4b_	G#sus4
-4b_	G#sus4
+4ffn_	G# suspended-fourth
+8.ffnL]	G# suspended-fourth
+[16bJk	.
+4b_	G# suspended-fourth
+4b_	G# suspended-fourth
 =11	=11
-4b_	D#sus4
-4b_	D#sus4
-8.b]	D#sus4
-16an[	.
-8an]	E
-8g#[	.
+4b_	D# suspended-fourth
+4b_	D# suspended-fourth
+8.bL]	D# suspended-fourth
+[16ank	.
+8an]	E major
+[8g#J	.
 =12	=12
-8g#]	E
-8an[	.
-8an]	E
-8g#[	.
-8g#]	E
-8b[	.
-4b]	E
+8g#L]	E major
+[8an	.
+8an]	E major
+[8g#J	.
+8g#L]	E major
+[8bJ	.
+4b]	E major
 =13	=13
-4dd#[	G#sus4
-4dd#]	G#sus4
-4cc#	G#sus4
-4b	G#sus4
+[4dd#	G# suspended-fourth
+4dd#]	G# suspended-fourth
+4cc#	G# suspended-fourth
+4b	G# suspended-fourth
 =14	=14
-4cc#[	G#sus4
-4cc#_	G#sus4
-4cc#_	G#sus4
-4cc#]	G#sus4
+[4cc#	G# suspended-fourth
+4cc#_	G# suspended-fourth
+4cc#_	G# suspended-fourth
+4cc#]	G# suspended-fourth
 =15	=15
-4ff#[	D#sus4
-4ff#]	D#sus4
-8ff#	D#sus4
-8ffn[	.
-4ffn_	D#sus4
+[4ff#	D# suspended-fourth
+4ff#]	D# suspended-fourth
+8ff#L	D# suspended-fourth
+[8ffnJ	.
+4ffn_	D# suspended-fourth
 =16	=16
-4ffn]	D#sus4
-4gg#[	D#sus4
-8gg#]	D#sus4
-8dd#[	.
-4dd#]	D#sus4
+4ffn]	D# suspended-fourth
+[4gg#	D# suspended-fourth
+8gg#L]	D# suspended-fourth
+[8dd#J	.
+4dd#]	D# suspended-fourth
 ==	==
 *-	*-

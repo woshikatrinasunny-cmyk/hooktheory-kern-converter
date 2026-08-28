@@ -16,41 +16,41 @@
 *C:	*
 *M3/4	*
 =1	=1
-16f	F
+16fLL	F major
 16g	.
 16a	.
-16b	G
-16a	.
-16b	.
-8cc	C
-16g	.
-8.e	C
+16bJJ	G major
+16aLL	.
+16bJ	.
+8ccJ	C major
+16gLK	.
+8.eJ	C major
 =2	=2
-16f	F
+16fLL	F major
 16g	.
 16a	.
-16b	G
-16a	.
-16b	.
-8.cc	C
-8.e	C
+16bJJ	G major
+16aLL	.
+16bJJ	.
+8.cc	C major
+8.e	C major
 =3	=3
-16f	F
+16fLL	F major
 16g	.
 16a	.
-16b	G
-16a	.
-16b	.
-8cc	C
-16g	.
-8e	C
-16gg	.
+16bJJ	G major
+16aLL	.
+16bJ	.
+8ccJ	C major
+16gLK	.
+8e	C major
+16ggJk	.
 =4	=4
-8ff	F
+8ffL	F major
+16eeJk	.
+8dd	G major
 16ee	.
-8dd	G
-16ee	.
-8.cc	C
+8.cc	C major
 8.ccc	.
 ==	==
 *-	*-

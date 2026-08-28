@@ -16,119 +16,119 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2r	F#m/C#
-4ee	F#m7/C#
+2r	F# minor/C#
+4ee	F# minor-seventh/C#
 4r	.
 =2	=2
-2r	F#dim/C
-4ee	F#m7b5/C
+2r	F# diminished/C
+4ee	F# half-diminished/C
 4r	.
 =3	=3
-2r	Fdim/B
+2r	F diminished/B
 4ffn	.
-8f#	.
-8g#	.
+8f#L	.
+8g#J	.
 =4	=4
-8a#	Edim/A#
+8a#L	E diminished/A#
 8f#	.
 8d#	.
-8a#	.
-8a	D#dim/A
+8a#J	.
+8aL	D# diminished/A
 8fn	.
-8d	Ddim/G#
-8cn	.
+8d	D diminished/G#
+8cnJ	.
 =5	=5
-8c#	C#dim/G
+8c#L	C# diminished/G
 8d	.
 8c#	.
-8d	.
-8c#	.
+8dJ	.
+8c#L	.
 8d	.
 8d#	.
-8e	.
+8eJ	.
 =6	=6
-8d	Ddim/G#
+8dL	D diminished/G#
 8d#	.
 8fn	.
-8f#	.
-8g#	.
+8f#J	.
+8g#L	.
 8fn	.
 8f#	.
-8ccn	.
+8ccnJ	.
 =7	=7
-8f#	Cdim
+8f#L	C diminished
 8ccn	.
 8dd#	.
-16ffn	.
-16ff#	.
-8f#	.
+16ffnL	.
+16ff#JJ	.
+8f#L	.
 8dd#	.
 8ccn	.
-8dd#	.
+8dd#J	.
 =8	=8
-8ffn	C#
+8ffnL	C# major
 8gg#	.
 8ffn	.
-8gg#	.
-8ffn	.
+8gg#J	.
+8ffnL	.
 8ffn	.
 8ff#	.
-8gg#	.
+8gg#J	.
 =9	=9
-4.ff#	F#m/C#
+4.ff#	F# minor/C#
 4.aa	.
 4ccc#	.
 =10	=10
-4.cccn	F#dim/C
+4.cccn	F# diminished/C
 4.aa	.
 4gg#	.
 =11	=11
-4bb	Fdim/B
+4bb	F diminished/B
 4gg#	.
 4ffn	.
 4cc#	.
 =12	=12
-2ff#	Edim/A#
-8ff#	D#dim/A
+2ff#	E diminished/A#
+8ff#L	D# diminished/A
 8dd#	.
-8ccn	Ddim/G#
-8g#	.
+8ccn	D diminished/G#
+8g#J	.
 =13	=13
-8c#	C#dim/G
+8c#L	C# diminished/G
 8g#	.
 8c#	.
-8g#	.
-8c#	.
+8g#J	.
+8c#L	.
 8g#	.
 8a	.
-8b	.
+8bJ	.
 =14	=14
-8g#	Ddim/G#
+8g#L	D diminished/G#
 8a	.
 8g#	.
-8a	.
-8g#	.
+8aJ	.
+8g#L	.
 8a	.
 8a#	.
-8b	.
+8bJ	.
 =15	=15
-8ccn	Cdim
+8ccnL	C diminished
 8ff#	.
 8aa	.
-16bb	.
-16cccn	.
-8ccn	.
+16bbL	.
+16cccnJJ	.
+8ccnL	.
 8aa	.
 8ff#	.
-8aa	.
+8aaJ	.
 =16	=16
-8ffn	C#
+8ffnL	C# major
 8ccc#	.
 8ffn	.
-8ccc#	.
-8ffn	.
+8ccc#J	.
+8ffnL	.
 8ffn	.
 8ff#	.
-8gg#	.
+8gg#J	.
 ==	==
 *-	*-

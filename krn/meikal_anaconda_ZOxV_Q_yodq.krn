@@ -15,76 +15,76 @@
 *c:	*
 *M4/4	*
 =1	=1
-8c	C
+8cL	C major
 8c	.
 8c	.
-8c	.
-8c	C/E
+8cJ	.
+8cL	C major/E
 8An	.
 8B-	.
-8Bn	.
+8BnJ	.
 =2	=2
-8c	Fm
+8cL	F minor
 8c	.
 8c	.
+8e-J	.
+8d-L	.
+8d-	.
 8e-	.
-8d-	.
-8d-	.
-8e-	.
-8d-	.
+8d-J	.
 =3	=3
-8c	B-m
+8cL	B- minor
 8c	.
 8c	.
-8c	.
-8c	.
+8cJ	.
+8cL	.
 8An	.
 8B-	.
-8Bn	.
+8BnJ	.
 =4	=4
-8c	A-
+8cL	A- major
 8c	.
 8c	.
+8e-J	.
+8d-L	.
+8d-	.
 8e-	.
-8d-	.
-8d-	.
-8e-	.
-8d-	.
+8d-J	.
 =5	=5
-8c	C/G
+8cL	C major/G
 8c	.
 8c	.
-8c	.
-8c	.
+8cJ	.
+8cL	.
 8An	.
 8B-	.
-8Bn	.
+8BnJ	.
 =6	=6
-8c	Fm
+8cL	F minor
 8c	.
 8c	.
+8e-J	.
+8d-L	.
+8d-	.
 8e-	.
-8d-	.
-8d-	.
-8e-	.
-8d-	.
+8d-J	.
 =7	=7
-8c	B-m
+8cL	B- minor
 8c	.
 8c	.
-8c	.
-8c	.
+8cJ	.
+8cL	.
 8An	.
 8B-	.
-8Bn	.
+8BnJ	.
 =8	=8
-8c	A-
+8cL	A- major
 8d-	.
 8e-	.
-8f	.
-8g	A-sus4
+8fJ	.
+8gL	A- suspended-fourth
 8a-	.
 8b-	.
-8bn	.
+8bnJ	.
 ==	==
 *-	*-

@@ -16,162 +16,162 @@
 *b:	*
 *M4/4	*
 =1	=1
-4dd	G
+4dd	G major
 4r	.
-16dd	G
-16cc#	G
-16a	G
-16d	G
-16a[	G
-16a]	G
-8ee[	D/F#
+16ddLL	G major
+16cc#	G major
+16a	G major
+16d	G major
+[16a	G major
+16aJ]	G major
+[8eeJ	D major/F#
 =2	=2
 4ee]	.
 4r	.
-16ee	D/F#
+16eeLL	D major/F#
 16dd	.
 16ee	.
-16ff#	D
+16ff#J	D major
 8dd	.
-8ee[	A
+[8eeJ	A major
 =3	=3
 4ee]	.
 4r	.
-16ee	A
-16dd	A
-16cc#	A
-16a	A
-16cc#[	A
-16cc#]	A
-8dd[	Bm
+16eeLL	A major
+16dd	A major
+16cc#	A major
+16a	A major
+[16cc#	A major
+16cc#J]	A major
+[8ddJ	B minor
 =4	=4
 4dd]	.
 4r	.
-16dd	A/C#
+16ddLL	A major/C#
 16aa	.
 16ff#	.
-16dd	D
+16dd	D major
 16a	.
-16f#	.
-8d[	D
+16f#J	.
+[8dJ	D major
 =5	=5
 4d]	.
-4dd	G
-16dd	G
-16cc#	G
-16a	G
-16d	G
-16a[	G
-16a]	G
-8ee[	D/F#
+4dd	G major
+16ddLL	G major
+16cc#	G major
+16a	G major
+16d	G major
+[16a	G major
+16aJ]	G major
+[8eeJ	D major/F#
 =6	=6
 4ee]	.
 4r	.
-16ee	D/F#
+16eeLL	D major/F#
 16dd	.
 16ee	.
-16ff#	D
+16ff#J	D major
 8dd	.
-8ee[	A
+[8eeJ	A major
 =7	=7
 4ee]	.
 4r	.
-16ee	A
-16dd	A
-16cc#	A
-16a	A
-16cc#[	A
-16cc#]	A
-8dd[	Bm
+16eeLL	A major
+16dd	A major
+16cc#	A major
+16a	A major
+[16cc#	A major
+16cc#J]	A major
+[8ddJ	B minor
 =8	=8
 4dd]	.
 4r	.
-16f#	.
+16f#LL	.
 16dd	.
 16ff#	.
 16aa	.
 16ddd	.
 16fff#	.
 16aaa	.
-16dddd	.
+16ddddJJ	.
 =9	=9
-4dd	G
+4dd	G major
 4r	.
-16dd	G
-16cc#	G
-16a	G
-16d	G
-16a[	G
-16a]	G
-8ee[	D/F#
+16ddLL	G major
+16cc#	G major
+16a	G major
+16d	G major
+[16a	G major
+16aJ]	G major
+[8eeJ	D major/F#
 =10	=10
 4ee]	.
 4r	.
-16ee	D/F#
+16eeLL	D major/F#
 16dd	.
 16ee	.
-16ff#	D
+16ff#J	D major
 8dd	.
-8ee[	A
+[8eeJ	A major
 =11	=11
 4ee]	.
 4r	.
-16ee	A
-16dd	A
-16cc#	A
-16a	A
-16cc#[	A
-16cc#]	A
-8dd[	Bm
+16eeLL	A major
+16dd	A major
+16cc#	A major
+16a	A major
+[16cc#	A major
+16cc#J]	A major
+[8ddJ	B minor
 =12	=12
 4dd]	.
 4r	.
-16dd	A/C#
+16ddLL	A major/C#
 16aa	.
 16ff#	.
-16dd	D
+16dd	D major
 16a	.
-16f#	.
-8d[	D
+16f#J	.
+[8dJ	D major
 =13	=13
 4d]	.
-4dd	G
-16dd	G
-16cc#	G
-16a	G
-16d	G
-16a[	G
-16a]	G
-8ee[	D/F#
+4dd	G major
+16ddLL	G major
+16cc#	G major
+16a	G major
+16d	G major
+[16a	G major
+16aJ]	G major
+[8eeJ	D major/F#
 =14	=14
 4ee]	.
 4r	.
-16ee	D/F#
+16eeLL	D major/F#
 16dd	.
 16ee	.
-16ff#	D
+16ff#J	D major
 8dd	.
-8ee[	A/C#
+[8eeJ	A major/C#
 =15	=15
 4ee]	.
 4r	.
-16ee	A/C#
-16dd	A/C#
-16cc#	A/C#
-16a	A/C#
-16cc#[	A/C#
-16cc#]	A/C#
-8dd[	Bm
+16eeLL	A major/C#
+16dd	A major/C#
+16cc#	A major/C#
+16a	A major/C#
+[16cc#	A major/C#
+16cc#J]	A major/C#
+[8ddJ	B minor
 =16	=16
 4dd]	.
 4r	.
-16f#	.
+16f#LL	.
 16dd	.
 16ff#	.
 16aa	.
 16ddd	.
 16fff#	.
 16aaa	.
-16dddd	.
+16ddddJJ	.
 ==	==
 *-	*-

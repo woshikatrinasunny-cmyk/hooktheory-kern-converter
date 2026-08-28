@@ -16,51 +16,51 @@
 *D:	*
 *M4/4	*
 =1	=1
-8A	D
+8A	D major
 4.d	.
-8r	D/A
+8r	D major/A
 8c#	.
-4d[	.
+[4d	.
 =2	=2
-8d]	E7
+8dL]	E dominant
 8e	.
 8B	.
-8e[	.
-2e]	E7/B
+[8eJ	.
+2e]	E dominant/B
 =3	=3
-8r	A7
+8r	A dominant
 8d	.
-4c#[	.
-8c#]	A7/E
-8B	.
+[4c#	.
+8c#L]	A dominant/E
+8BJ	.
 4c#	.
 =4	=4
-2d[	D
-4d]	D/A
+[2d	D major
+4d]	D major/A
 4r	.
 =5	=5
-8r	D
+8r	D major
 8A	.
-4d[	.
-8d]	D/A
+[4d	.
+8d]	D major/A
 16r	.
-8c#	.
+8c#L	.
 8d	.
-16e[	.
+[16eJk	.
 =6	=6
-4e]	E7
-8B	.
-8e[	.
-2e]	E7/B
+4e]	E dominant
+8BL	.
+[8eJ	.
+2e]	E dominant/B
 =7	=7
-4.d	A7
+4.d	A dominant
 8c#	.
-8B	A7/E
+8B	A dominant/E
 4c#	.
-8d[	.
+[8d	.
 =8	=8
-2d_	D
-8d]	D/A
+2d_	D major
+8d]	D major/A
 4.r	.
 ==	==
 *-	*-

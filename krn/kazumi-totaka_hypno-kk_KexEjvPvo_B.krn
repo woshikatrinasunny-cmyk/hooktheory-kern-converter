@@ -16,7 +16,7 @@
 *E:	*
 *M3/4	*
 =1	=1
-4.g#	E
+4.g#	E major
 4.r	.
 =2	=2
 4r	.
@@ -25,13 +25,13 @@
 8e	.
 8r	.
 =3	=3
-4.cn	C
+4.cn	C major
 4.r	.
 =4	=4
 2gn	.
 4r	.
 =5	=5
-4.g#	E
+4.g#	E major
 4.r	.
 =6	=6
 4r	.
@@ -40,7 +40,7 @@
 8e	.
 8r	.
 =7	=7
-4cn	Am
+4cn	A minor
 4r	.
 8dn	.
 8r	.
@@ -48,7 +48,7 @@
 4e	.
 2r	.
 =9	=9
-2e	B7/A
+2e	B dominant/A
 4r	.
 =10	=10
 4r	.
@@ -56,32 +56,32 @@
 8f#	.
 8r	.
 =11	=11
-2dn	A#maj7/A
+2dn	A# major-seventh/A
 4r	.
 =12	=12
-4r	A
+4r	A major
 4c#	.
 8dn	.
 8r	.
 =13	=13
-8c#	Asus2
+8c#	A suspended-second
 8r	.
 2e	.
 =14	=14
 2.r	.
 =15	=15
-8AA	Aadd(2,7,9,10)
-8Gn	.
-8F#	.
-8B	.
-8Gn	.
-8F#	.
+8AAL	A other-2,7,9,10
+8GnJ	.
+8F#L	.
+8BJ	.
+8GnL	.
+8F#J	.
 =16	=16
-8AA	.
-8F#	.
-8Gn	.
-8B	.
-8Gn	.
-8F#	.
+8AAL	.
+8F#J	.
+8GnL	.
+8BJ	.
+8GnL	.
+8F#J	.
 ==	==
 *-	*-

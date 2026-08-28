@@ -16,70 +16,70 @@
 *a:	*
 *M4/4	*
 =1	=1
-4r	Dm
+4r	D minor
 4.f	.
-8f	.
+8fL	.
 8e	.
-8d	.
+8dJ	.
 =2	=2
-2f	FaugMaj7/C#
-8f	.
+2f	F augmented-major-seventh/C#
+8fL	.
 8f	.
 8e	.
-8d	.
+8dJ	.
 =3	=3
-1f	Fadd(4,7,9,11)/C
+1f	F other-4,7,9,11/C
 =4	=4
-8f	Bm7b5
+8fL	B half-diminished
 8f	.
 8e	.
-8f	.
-8.a	.
+8fJ	.
+8.aL	.
 8.g	.
-16f	.
-16d	.
+16fL	.
+16dJJ	.
 =5	=5
-3...e	Aadd(2,3,7)
-8e	.
+3...e	A other-2,3,7
+8eL	.
 8a	.
-8cc	.
+8ccJ	.
 =6	=6
-3...b	E7/B
-8g#	.
+3...b	E dominant/B
+8g#L	.
 8e	.
-8d	.
+8dJ	.
 =7	=7
-3...c	Am/C
-8e	.
+3...c	A minor/C
+8eL	.
 8a	.
-8cc	.
+8ccJ	.
 =8	=8
-8.ee	Dm
+8.eeL	D minor
 8.dd	.
-8ee	.
-8.ff	.
+8eeJ	.
+8.ffL	.
 8.ee	.
-16a	.
-16b	.
+16aL	.
+16bJJ	.
 =9	=9
-3...cc	Am/E
-8e	.
+3...cc	A minor/E
+8eL	.
 8d#	.
-8e	.
+8eJ	.
 =10	=10
-3...cc	F
-8f	.
+3...cc	F major
+8fL	.
 8e	.
-8f	.
+8fJ	.
 =11	=11
-3...cc	F#dim
-8cc	.
+3...cc	F# diminished
+8ccL	.
 8b	.
-8a	.
+8aJ	.
 =12	=12
-4.a	E7sus4
-16b	.
-16a	.
-2g#	E7
+4.a	E dominant-seventh-suspended-fourth
+16bLL	.
+16aJJ	.
+2g#	E dominant
 ==	==
 *-	*-

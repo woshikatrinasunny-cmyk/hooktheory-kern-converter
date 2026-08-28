@@ -16,51 +16,51 @@
 *A:	*
 *M3/4	*
 =1	=1
-2.A	A
+2.A	A major
 =2	=2
 4.c#	.
 8B	.
-8c#	.
-8B	.
+8c#L	.
+8BJ	.
 =3	=3
-2.E	E
+2.E	E major
 =4	=4
-8c#	.
-8B	.
-8c#	.
-8B	.
-8c#	.
-8B	.
+8c#L	.
+8BJ	.
+8c#L	.
+8BJ	.
+8c#L	.
+8BJ	.
 =5	=5
-2.F#	F#m
+2.F#	F# minor
 =6	=6
 4F#	.
 4G#	.
 4A	.
 =7	=7
-8D	D
-8C#	.
+8DL	D major
+8C#J	.
 2D	.
 =8	=8
-8BB	.
-8C#	.
-8E	.
-8F#	.
-8A	.
-8B	.
+8BBL	.
+8C#J	.
+8EL	.
+8F#J	.
+8AL	.
+8BJ	.
 =9	=9
-4B	A
+4B	A major
 2c#	.
 =10	=10
 2c#	.
 4B	.
 =11	=11
-2.E[	E
+[2.E	E major
 =12	=12
 2E]	.
 4D#	.
 =13	=13
-4D	D
+4D	D major
 4ee	.
 4dd	.
 =14	=14
@@ -73,9 +73,9 @@
 4dd	.
 =16	=16
 4r	.
-8cc#	.
-8dd	.
-8ee	.
-8cc#	.
+8cc#L	.
+8ddJ	.
+8eeL	.
+8cc#J	.
 ==	==
 *-	*-

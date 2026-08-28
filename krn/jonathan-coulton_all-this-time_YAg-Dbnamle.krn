@@ -20,151 +20,151 @@
 8cc#	.
 4.dd	.
 =2	=2
-4dd	A
+4dd	A major
 2.cc#	.
 =3	=3
-2r	A
+2r	A major
 8cc#	.
 4dd	.
-8cc#[	.
+[8cc#	.
 =4	=4
-8cc#]	G
+8cc#]	G major
 2..b	.
 =5	=5
-2r	G
+2r	G major
 8b	.
 4b	.
-8dd[	.
+[8dd	.
 =6	=6
-2dd]	G
-8b	.
-8a	.
+2dd]	G major
+8bL	.
+8aJ	.
 4a	.
 =7	=7
-4g	G
+4g	G major
 4g	.
 4g	.
 4a	.
 =8	=8
-1f#	D
+1f#	D major
 =9	=9
-2r	D
+2r	D major
 4f#	.
 4e	.
 =10	=10
-8e	A
+8e	A major
 4cc#	.
 3...cc#	.
 =11	=11
-2r	A
+2r	A major
 8cc#	.
 4a	.
-8f#[	.
+[8f#	.
 =12	=12
-4f#]	Bm/D
-2.d[	.
+4f#]	B minor/D
+[2.d	.
 =13	=13
-4d]	Bm/D
+4d]	B minor/D
 2r	.
-8d	.
-8d	.
+8dL	.
+8dJ	.
 =14	=14
-4.b	G
+4.b	G major
 4a	.
 8g	.
 4g	.
 =15	=15
-8f#	G
+8f#	G major
 4.f#	.
 4.f#	.
-8d[	.
+[8d	.
 =16	=16
-4d]	G
+4d]	G major
 2.d	.
 =17	=17
-2r	G
+2r	G major
 2g	.
 =18	=18
-2f#	Bm/F#
+2f#	B minor/F#
 4.b	.
-8a[	.
+[8a	.
 =19	=19
-4a]	G
+4a]	G major
 2d	.
-4B[	.
+[4B	.
 =20	=20
-4B]	A
+4B]	A major
 4r	.
 4.b	.
-8a[	.
+[8a	.
 =21	=21
-4a]	A
-4d[	.
-2d]	A7
+4a]	A major
+[4d	.
+2d]	A dominant
 =22	=22
-2r	Bm/F#
+2r	B minor/F#
 4.b	.
-8a[	.
+[8a	.
 =23	=23
-4a]	G
-4d[	.
-4d]	Gadd(2,4,7)
-4B[	.
+4a]	G major
+[4d	.
+4d]	G other-2,4,7
+[4B	.
 =24	=24
-4B]	Aadd(2,4,7)
+4B]	A other-2,4,7
 4r	.
-4.b	A
-8a[	.
+4.b	A major
+[8a	.
 =25	=25
-4a]	A
+4a]	A major
 2.d	.
 =26	=26
-1r	A
+1r	A major
 =27	=27
-2r	A
+2r	A major
 2g	.
 =28	=28
-4.f#	D
+4.f#	D major
 4.f#	.
+16eeLL	.
 16ee	.
 16ee	.
-16ee	.
-16ee	.
+16eeJJ	.
 =29	=29
-8ee	D
+8ee	D major
 8r	.
 8ee	.
 8r	.
-8ee	D
-8ff#	.
-4cc#[	.
+8eeL	D major
+8ff#J	.
+[4cc#	.
 =30	=30
-2cc#_	Dmaj7
-4cc#]	D
+2cc#_	D major-seventh
+4cc#]	D major
 4f#	.
 =31	=31
-4e	D
+4e	D major
 2.f#	.
 =32	=32
-2.r	D
+2.r	D major
+16eeLL	.
 16ee	.
 16ee	.
-16ee	.
-16ee	.
+16eeJJ	.
 =33	=33
-8ee	D
+8ee	D major
 8r	.
 8ee	.
 8r	.
-8ee	Dsus4
-8ff#	.
-4cc#[	.
+8eeL	D suspended-fourth
+8ff#J	.
+[4cc#	.
 =34	=34
-2cc#_	D
-4cc#]	D
+2cc#_	D major
+4cc#]	D major
 4f#	.
 =35	=35
-4e	D
+4e	D major
 2.f#	.
 ==	==
 *-	*-

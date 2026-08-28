@@ -16,32 +16,32 @@
 *C:	*
 *M4/4	*
 =1	=1
-3...r	C
-4.r	E-add(2,4,7)
+3...r	C major
+4.r	E- other-2,4,7
 =2	=2
-3...r	A-maj7
-4.r	Cm7/B-
+3...r	A- major-seventh
+4.r	C minor-seventh/B-
 =3	=3
-2..r	Fadd(2,4,7)
+2..r	F other-2,4,7
 8f	.
 =4	=4
-8g	.
-8g	.
+8gL	.
+8gJ	.
 4e-	.
 2c	.
 =5	=5
-3...r	C
-4.r	E-
+3...r	C major
+4.r	E- major
 =6	=6
-3...r	A-maj7
-4.r	Cm7/B-
+3...r	A- major-seventh
+4.r	C minor-seventh/B-
 =7	=7
-2.r	Fadd(2,4,7)
-8f	.
-8f	.
+2.r	F other-2,4,7
+8fL	.
+8fJ	.
 =8	=8
-8g	.
-8g	.
+8gL	.
+8gJ	.
 4e-	.
 2c	.
 ==	==

@@ -16,140 +16,140 @@
 *C:	*
 *M4/4	*
 =1	=1
-16ff	Cm
-16c	Gm
-16ccc	Ddim
-16gg	D#
-16bb	G#
-16c	Fm
-16gg	A#
-16c	Ddim
-16c	Cm
-16gg	Fm
-16aa	Ddim
-16aa	G#maj7
-16ee	Gm7
-16bb	D#maj7
-16ee	D#maj7
-16ccc	Dm7b5
+16ffLL	C minor
+16c	G minor
+16ccc	D diminished
+16gg	D# major
+16bb	G# major
+16c	F minor
+16gg	A# major
+16cJJ	D diminished
+16cLL	C minor
+16gg	F minor
+16aa	D diminished
+16aa	G# major-seventh
+16ee	G minor-seventh
+16bb	D# major-seventh
+16ee	D# major-seventh
+16cccJJ	D half-diminished
 =2	=2
-16bb	Cm7
-16ff	Fm7
-16ee	Dm7b5
-16ff	Gm7
-16c	Dm7b5
-16gg	Cm7
-16gg	D#maj7
-16c	Cm7
-16ccc	Fm7
-16gg	Cm7
-16c	Gm7
-16ccc	Cm7
-16gg	Cm
-16ee	Gm
-16ff	Ddim
-16c	D#
+16bbLL	C minor-seventh
+16ff	F minor-seventh
+16ee	D half-diminished
+16ff	G minor-seventh
+16c	D half-diminished
+16gg	C minor-seventh
+16gg	D# major-seventh
+16cJJ	C minor-seventh
+16cccLL	F minor-seventh
+16gg	C minor-seventh
+16c	G minor-seventh
+16ccc	C minor-seventh
+16gg	C minor
+16ee	G minor
+16ff	D diminished
+16cJJ	D# major
 =3	=3
-16bb	G#
-16ff	Fm
-16c	A#
-16ccc	Ddim
-16ff#	Cm
-16gg#	Fm
-16bb	Ddim
-16c	G#
-16aa#	Gm
-16ff	D#
-16ff#	D#
-16bb	Ddim
-16c	Cm
-16aa#	Fm
-16c	Ddim
-16e	Gm
+16bbLL	G# major
+16ff	F minor
+16c	A# major
+16ccc	D diminished
+16ff#	C minor
+16gg#	F minor
+16bb	D diminished
+16cJJ	G# major
+16aa#LL	G minor
+16ff	D# major
+16ff#	D# major
+16bb	D diminished
+16c	C minor
+16aa#	F minor
+16c	D diminished
+16eJJ	G minor
 =4	=4
-16a	Ddim
-16f	Csus4
-16b	D#sus4
-16c	Csus4
-16e	Fsus4
-16a#	Csus4
-16c	Gsus4
-16g#	Csus4
-16d	Csus4
-16a#	Gsus4
-16c	Dadd(5,6)
-16f#	D#sus4
-16c	G#add(6,7)
-16cc	Fm
-16g#	A#
-16a#	Ddim
+16aLL	D diminished
+16f	C suspended-fourth
+16b	D# suspended-fourth
+16c	C suspended-fourth
+16e	F suspended-fourth
+16a#	C suspended-fourth
+16c	G suspended-fourth
+16g#JJ	C suspended-fourth
+16dLL	C suspended-fourth
+16a#	G suspended-fourth
+16c	D other-5,6
+16f#	D# suspended-fourth
+16c	G# other-6,7
+16cc	F minor
+16g#	A# major
+16a#JJ	D diminished
 =5	=5
-16gg	Cm
-16a	Fm
-16ff	Ddim
-16cc	G#
-16a	Gm
-16dd	D#
-16b	D#
-16ff	Ddim
-16gg	Cm
-16a#	Fm
-16ff	Ddim
-16cc#	Gm
-16a#	Ddim
-16dd#	Cm
-16cc	D#
-16ff	Cm
+16ggLL	C minor
+16a	F minor
+16ff	D diminished
+16cc	G# major
+16a	G minor
+16dd	D# major
+16b	D# major
+16ffJJ	D diminished
+16ggLL	C minor
+16a#	F minor
+16ff	D diminished
+16cc#	G minor
+16a#	D diminished
+16dd#	C minor
+16cc	D# major
+16ffJJ	C minor
 =6	=6
-16gg	Fm
-16a	Cm
-16ff	Gm
-16cc	Cm
-16a	Cm
-16dd	Gm
-16cc	Ddim
-16ff	D#
-16gg#	G#
-16a	Fm
-16ff#	A#
-16cc#	Ddim
-16a	Cm
-16dd#	Fm
-16cc	Ddim
-16ff	G#
+16ggLL	F minor
+16a	C minor
+16ff	G minor
+16cc	C minor
+16a	C minor
+16dd	G minor
+16cc	D diminished
+16ffJJ	D# major
+16gg#LL	G# major
+16a	F minor
+16ff#	A# major
+16cc#	D diminished
+16a	C minor
+16dd#	F minor
+16cc	D diminished
+16ffJJ	G# major
 =7	=7
-16gg#	Gm
-16a	D#
-16ff#	D#
-16cc#	Ddim
-16a	Cm
-16dd#	Fm
-16cc	Ddim
-16ff	Gm
-16gg	Ddim
-16g#	Cm
-16ee	D#
-16b	Cm
-16g#	Fm
-16cc#	Cm
-16a#	Gm
-16dd#	Cm
+16gg#LL	G minor
+16a	D# major
+16ff#	D# major
+16cc#	D diminished
+16a	C minor
+16dd#	F minor
+16cc	D diminished
+16ffJJ	G minor
+16ggLL	D diminished
+16g#	C minor
+16ee	D# major
+16b	C minor
+16g#	F minor
+16cc#	C minor
+16a#	G minor
+16dd#JJ	C minor
 =8	=8
-16ff#	Ddim
-16g#	Cm
-16ee	D#
-16b	Cm
-16g#	Fm
-16cc#	Cm
-16a#	Gm
-16dd#	Cm
-16ff#	Gm
-16g#	Ddim
-16ee	Fm
-16b	Ddim
-16g#	Fm
-16cc#	Gm
-16a#	D#
-16ee	G#
+16ff#LL	D diminished
+16g#	C minor
+16ee	D# major
+16b	C minor
+16g#	F minor
+16cc#	C minor
+16a#	G minor
+16dd#JJ	C minor
+16ff#LL	G minor
+16g#	D diminished
+16ee	F minor
+16b	D diminished
+16g#	F minor
+16cc#	G minor
+16a#	D# major
+16eeJJ	G# major
 ==	==
 *-	*-

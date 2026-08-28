@@ -15,142 +15,142 @@
 *C:	*
 *M4/4	*
 =1	=1
-8g	C
-8f#	.
-4g[	.
-2g_	Am
+8gL	C major
+8f#J	.
+[4g	.
+2g_	A minor
 =2	=2
-8g]	F
+8gL]	F major
 8f	.
 8e	.
-8f	.
-8e	G
+8fJ	.
+8eL	G major
 8c	.
 8A	.
-8G[	.
+[8GJ	.
 =3	=3
-2G_	C
-2G_	Am
+2G_	C major
+2G_	A minor
 =4	=4
-4.G]	F
+4.G]	F major
 8c	.
-8B	G
+8BL	G major
 8d	.
 8a	.
-8g[	.
+[8gJ	.
 =5	=5
-2g_	C
-2g_	Am
+2g_	C major
+2g_	A minor
 =6	=6
-8g]	F
+8gL]	F major
 8a	.
 8b	.
-8a	.
-8g	G
+8aJ	.
+8gL	G major
 8f	.
 8e	.
-8d	.
+8dJ	.
 =7	=7
-4e	C
-8c	.
-8G[	.
-2G_	Am
+4e	C major
+8cL	.
+[8GJ	.
+2G_	A minor
 =8	=8
-4.G]	F
+4.G]	F major
 8c	.
-8B	G
+8BL	G major
 8c	.
 8d	.
-8e	.
+8eJ	.
 =9	=9
-4e	Em7
+4e	E minor-seventh
 4g	.
-4c	D#7
+4c	D# dominant
 4e	.
 =10	=10
-8f	Dm7
+8fL	D minor-seventh
 8e	.
 8f	.
-8d[	.
-8d]	G
+[8dJ	.
+8dL]	G major
 8c	.
 8B	.
-8c[	.
+[8cJ	.
 =11	=11
-2c_	Em7
-2c_	D#7
+2c_	E minor-seventh
+2c_	D# dominant
 =12	=12
-2c_	Dm7
-2c]	C#maj7
+2c_	D minor-seventh
+2c]	C# major-seventh
 =13	=13
-8cc	A#add(2,4,7)
-8cc	.
+8ccL	A# other-2,4,7
+8ccJ	.
 4.r	.
 8cc	.
 8r	.
 8cc	.
 =14	=14
-8r	F/A
+8r	F major/A
 8cc	.
 8r	.
 3...cc	.
 =15	=15
-8cc	Fm/G#
-8cc	.
+8ccL	F minor/G#
+8ccJ	.
 4.r	.
 8cc	.
 8r	.
 8cc	.
 =16	=16
-8r	G
+8r	G major
 8cc	.
 8r	.
 3...cc	.
 =17	=17
-8cc	A#add(2,4,7)
-8cc	.
+8ccL	A# other-2,4,7
+8ccJ	.
 4.r	.
 8cc	.
 8r	.
 8cc	.
 =18	=18
-8r	F/A
+8r	F major/A
 8cc	.
 8r	.
 3...cc	.
 =19	=19
-8cc	Fm/G#
-8cc	.
+8ccL	F minor/G#
+8ccJ	.
 4.r	.
 8cc	.
 8r	.
 8cc	.
 =20	=20
-8r	G
+8r	G major
 8cc	.
 8r	.
 3...cc	.
 =21	=21
-8cc	A#add(2,4,7)
-8cc	.
+8ccL	A# other-2,4,7
+8ccJ	.
 4.r	.
 8cc	.
 8r	.
 8cc	.
 =22	=22
-8r	F/A
+8r	F major/A
 8cc	.
 8r	.
 3...cc	.
 =23	=23
-8cc	Fm/G#
-8cc	.
+8ccL	F minor/G#
+8ccJ	.
 4.r	.
 8cc	.
 8r	.
 8cc	.
 =24	=24
-8r	G7
+8r	G dominant
 8cc	.
 8r	.
 4cc	.

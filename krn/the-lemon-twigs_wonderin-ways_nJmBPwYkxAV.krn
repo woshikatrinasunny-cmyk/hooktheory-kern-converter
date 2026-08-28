@@ -16,56 +16,56 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4gg#	G#m7
+4gg#	G# minor-seventh
 8ff#	.
 4dd#	.
 8b	.
-4g#	G#add(2,6,10)
+4g#	G# other-2,6,10
 =2	=2
-4cc#	Bm7
+4cc#	B minor-seventh
 8b	.
 4f#	.
 8dn	.
 4B	.
 =3	=3
-4A#[	F#
-4A#_	C#11
-4A#]	F#
-4r	C#11
+[4A#	F# major
+4A#_	C# dominant-11th
+4A#]	F# major
+4r	C# dominant-11th
 =4	=4
-4r	F#
-4cc#	D#m7/C#
-4ff#	F#
+4r	F# major
+4cc#	D# minor-seventh/C#
+4ff#	F# major
 4aa#	.
 =5	=5
-4gg#	G#m7
+4gg#	G# minor-seventh
 8ff#	.
 4dd#	.
 8b	.
-4g#	G#add(2,6,10)
+4g#	G# other-2,6,10
 =6	=6
-4cc#	Bm7
+4cc#	B minor-seventh
 8b	.
 4f#	.
 8dn	.
 4B	.
 =7	=7
-4.A#	A#m7
+4.A#	A# minor-seventh
 4e#	.
-8.g#	.
-8.a#	.
+8.g#L	.
+8.a#J	.
 =8	=8
-8.an	Am7
+8.an	A minor-seventh
 4..an	.
 8r	.
 4An	.
 =9	=9
-4.G#	G#m7
+4.G#	G# minor-seventh
 4d#	.
-8.f#	.
-8.b	.
+8.f#L	.
+8.bJ	.
 =10	=10
-4a#	C#add(1,4,7,10)
+4a#	C# other-1,4,7,10
 2.g#	.
 ==	==
 *-	*-

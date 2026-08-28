@@ -16,67 +16,67 @@
 *C:	*
 *M4/4	*
 =1	=1
-8g	Cmaj7
-8B	.
+8gL	C major-seventh
+8BJ	.
 8r	.
 8B	.
-8g	C#dim
-8A#	.
+8gL	C# diminished
+8A#J	.
 8r	.
 8A#	.
 =2	=2
-8r	Dm9
-8A	.
+8r	D minor-ninth
+8AL	.
 8c	.
-8g	.
-4.f	G13
-16e	.
-16f	.
+8gJ	.
+4.f	G dominant-13th
+16eLL	.
+16fJJ	.
 =3	=3
-8g	Cmaj7
-8B	.
+8gL	C major-seventh
+8BJ	.
 8r	.
 8B	.
-8g	C#dim
-8A#	.
+8gL	C# diminished
+8A#J	.
 8r	.
 8A#	.
 =4	=4
-8r	Dm9
-8A	.
+8r	D minor-ninth
+8AL	.
 8c	.
-8g	.
-4.f	G13
-16e	.
-16f	.
+8gJ	.
+4.f	G dominant-13th
+16eLL	.
+16fJJ	.
 =5	=5
-3...g	A#
-8g	.
+3...g	A# major
+8gL	.
 8a	.
-8g	.
+8gJ	.
 =6	=6
-8a#	Asus4
+8a#L	A suspended-fourth
 8a	.
 8g	.
-8c#	A
-8d	.
+8c#J	A major
+8dL	.
 8e	.
 8g	.
-8f	.
+8fJ	.
 =7	=7
-4e	Dm9
-8c	.
-16A	.
+4e	D minor-ninth
+8cL	.
+16AJk	.
 8.c	.
-8c	.
+8cL	.
 8d	.
-8c	.
+8cJ	.
 =8	=8
-8d#	Fadd(2,3,7)
+8d#L	F other-2,3,7
 8d	.
 8c	.
-8G#	.
-4a	Gsus2
-4g	Gaug7
+8G#J	.
+4a	G suspended-second
+4g	G augmented-seventh
 ==	==
 *-	*-

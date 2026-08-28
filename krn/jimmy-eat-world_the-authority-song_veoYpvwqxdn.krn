@@ -16,60 +16,60 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	D
-8f#	.
-8f#	D
-8f#	D
-8e	.
-8e	A
-8e[	A
-8e]	A
+8r	D major
+8f#L	.
+8f#	D major
+8f#J	D major
+8eL	.
+8e	A major
+[8e	A major
+8eJ]	A major
 =2	=2
-8r	Bm
+8r	B minor
+8eL	.
 8e	.
-8e	.
-8f#	.
-8e	.
-8d	A
-8d	.
+8f#J	.
+8eL	.
+8d	A major
+8dJ	.
 8r	.
 =3	=3
-4r	D
-8r	D
-8r	D
+4r	D major
+8r	D major
+8r	D major
 8r	.
-8r	A
-8r	A
-8r	A
+8r	A major
+8r	A major
+8r	A major
 =4	=4
-1r	Bm
+1r	B minor
 =5	=5
-8r	D
-8f#	.
-8f#	D
-8f#	D
-8e	.
-8e	A
-8e[	A
-8e]	A
+8r	D major
+8f#L	.
+8f#	D major
+8f#J	D major
+8eL	.
+8e	A major
+[8e	A major
+8eJ]	A major
 =6	=6
-8r	Bm
+8r	B minor
+8eL	.
 8e	.
-8e	.
-8f#	.
-8e	.
-8d	A
+8f#J	.
+8eL	.
+8d	A major
 8d	.
-8d	.
+8dJ	.
 =7	=7
-4r	D
-8r	D
-8r	D
+4r	D major
+8r	D major
+8r	D major
 8r	.
-8r	A
-8r	A
-8r	A
+8r	A major
+8r	A major
+8r	A major
 =8	=8
-1r	Bm
+1r	B minor
 ==	==
 *-	*-

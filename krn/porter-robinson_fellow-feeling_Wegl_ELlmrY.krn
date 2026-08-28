@@ -16,44 +16,44 @@
 *g#:	*
 *M4/4	*
 =1	=1
-2r	G#m
-4r	F#/A#
+2r	G# minor
+4r	F# major/A#
 4G#	.
 =2	=2
-2g#[	Emaj7
-4g#]	C#m7/E
+[2g#	E major-seventh
+4g#]	C# minor-seventh/E
 4b	.
 =3	=3
-4d#[	G#add(2,5,7)
-4d#]	G#m
-4c#	F#/A#
-4f#	B
+[4d#	G# other-2,5,7
+4d#]	G# minor
+4c#	F# major/A#
+4f#	B major
 =4	=4
-2.d#	E
-8f#	D#m
-8b	.
+2.d#	E major
+8f#L	D# minor
+8bJ	.
 =5	=5
-4e[	A#m7b5/C#
-4e]	C#m7
-4d#[	G#sus4
-4d#]	G#m7
+[4e	A# half-diminished/C#
+4e]	C# minor-seventh
+[4d#	G# suspended-fourth
+4d#]	G# minor-seventh
 =6	=6
-2g#[	Emaj7
-4g#]	C#m7/E
+[2g#	E major-seventh
+4g#]	C# minor-seventh/E
 4b	.
 =7	=7
-4d#[	G#add(2,5,7)
-4d#]	G#m
-4dd#	F#/A#
-4ff#	B
+[4d#	G# other-2,5,7
+4d#]	G# minor
+4dd#	F# major/A#
+4ff#	B major
 =8	=8
-2.b	E
-4g#	D#m
+2.b	E major
+4g#	D# minor
 =9	=9
-4c#	A#m7b5/C#
-8d#	C#m7
-8e	.
-4d#	G#sus4
-4G#	G#m7
+4c#	A# half-diminished/C#
+8d#L	C# minor-seventh
+8eJ	.
+4d#	G# suspended-fourth
+4G#	G# minor-seventh
 ==	==
 *-	*-

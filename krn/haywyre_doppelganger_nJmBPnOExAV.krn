@@ -16,112 +16,112 @@
 *g#:	*
 *M4/4	*
 =1	=1
-16ggg#	G#m7
+16ggg#LL	G# minor-seventh
 16ddd#	.
 16ccc#	.
 16gg#	.
 16ccc#	.
 16ddd#	.
-16ggg#	A#m7
-16ddd#	.
-16ccc#	.
-16gg#	.
+16ggg#	A# minor-seventh
+16ddd#JJ	.
+16ccc#LL	.
+16gg#JJ	.
 16r	.
-16ddd#	.
+16ddd#LL	.
 16ggg#	.
 16ccc#	.
 16ddd#	.
-16gg#	.
+16gg#JJ	.
 =2	=2
-16ggg#	Amaj9
+16ggg#LL	A major-ninth
 16ccc#	.
 16ddd#	.
 16gg#	.
 16ccc#	.
 16ddd#	.
-16ggg#	C#add(3,5,7,10)
-16ccc#	.
-16ddd#	.
+16ggg#	C# other-3,5,7,10
+16ccc#JJ	.
+16ddd#LL	.
 16gg#	.
 16ccc#	.
 16ddd#	.
 16ggg#	.
 16ccc#	.
 16ddd#	.
-16gg#	.
+16gg#JJ	.
 =3	=3
-16gggn	Cm7
+16gggnLL	C minor-seventh
 16ddd#	.
 16dddn	.
-16ggn	.
+16ggnJJ	.
 16r	.
-16ddd#[	.
-16ddd#]	Bmaj7
+[16ddd#LL	.
+16ddd#JJ]	B major-seventh
 8eee	.
-16ddd#	.
+16ddd#LL	.
 16dddn	.
 16ccc#	.
 16cccn	.
 16bb	.
 16aa#	.
-16aan	.
+16aanJJ	.
 =4	=4
-16gg#	Emaj7
+16gg#LL	E major-seventh
 16ggn	.
 16ff#	.
 16ffn	.
 16ee	.
 16dd#	.
-16ddn	Amaj9
+16ddn	A major-ninth
+16dd#JJ	.
+16ddnLL	.
 16dd#	.
 16ddn	.
 16dd#	.
 16ddn	.
 16dd#	.
 16ddn	.
-16dd#	.
-16ddn	.
-16dd#	.
+16dd#JJ	.
 =5	=5
-16ee	G#m7
+16eeLL	G# minor-seventh
 16dd#	.
 16b	.
-16dd#	.
+16dd#JJ	.
 8r	.
-8aa#	A#m7
-8aa#	.
-16gg#	.
-16aa#	.
+8aa#	A# minor-seventh
+8aa#L	.
+16gg#L	.
+16aa#JJ	.
 4r	.
 =6	=6
-16bb	Amaj9
+16bbLL	A major-ninth
 16aa#	.
 16aan	.
 16gg#	.
 16ggn	.
 16ff#	.
-16ffn	C#m7
-16ee	.
-8dd#	.
-16ee	.
-8.dd#[	.
-8dd#]	Cm7
+16ffn	C# minor-seventh
+16eeJJ	.
+8dd#L	.
+16eek	.
+[8.dd#	.
+8dd#J]	C minor-seventh
 =7	=7
 16r	.
-16ddn	.
+16ddnLL	.
 16dd#	.
 16ggn	.
 16aa#	.
 16ggn	.
-16dd#	Bmaj9
-16ddn	.
+16dd#	B major-ninth
+16ddnJJ	.
+8aa#L	.
+16gg#k	.
 8aa#	.
-16gg#	.
-8aa#	.
-8.gg#	.
+8.gg#J	.
 =8	=8
-8.aa#	Eadd(2,4,7,9,11)
-8.gg#	.
+8.aa#L	E other-2,4,7,9,11
+8.gg#J	.
 3...dd#	.
 ==	==
 *-	*-

@@ -16,27 +16,27 @@
 *A:	*
 *M4/4	*
 =1	=1
-16b	A
+16bLK	A major
 8.cc#	.
-16b	.
+16bk	.
+8.cc#J	.
+16bLK	C# minor
 8.cc#	.
-16b	C#m
-8.cc#	.
-16cc#	.
+16cc#L	.
 16b	.
 16a	.
-16g#	.
+16g#JJ	.
 =2	=2
-4f#	F#m
+4f#	F# minor
 4r	.
-4r	F#m
-4r	E
+4r	F# minor
+4r	E major
 =3	=3
-2r	A
-2r	C#m
+2r	A major
+2r	C# minor
 =4	=4
-2r	F#m
-4r	F#m
-4r	E
+2r	F# minor
+4r	F# minor
+4r	E major
 ==	==
 *-	*-

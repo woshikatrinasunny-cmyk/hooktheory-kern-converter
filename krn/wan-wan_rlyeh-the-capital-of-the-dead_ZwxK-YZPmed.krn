@@ -16,81 +16,81 @@
 *e:	*
 *M3/4	*
 =1	=1
-4r	Em
+4r	E minor
 4b	.
 4b	.
 =2	=2
-4r	B/D#
+4r	B major/D#
 4b	.
 4b	.
 =3	=3
-4r	Bm/D
+4r	B minor/D
 4b	.
 4b	.
 =4	=4
-4r	A/C#
+4r	A major/C#
 4a	.
 4a	.
 =5	=5
-4r	Am/C
+4r	A minor/C
 4a	.
 4a	.
 =6	=6
-4r	G/B
+4r	G major/B
 4g	.
 4g	.
 =7	=7
-4r	F#/A#
+4r	F# major/A#
 4f#	.
 4e	.
 =8	=8
-4d#	B
+4d#	B major
 4e	.
 4f#	.
 =9	=9
-2b	Em
+2b	E minor
 4ee	.
 =10	=10
-2dd#	B/D#
+2dd#	B major/D#
 4b	.
 =11	=11
-4dd	Bm/D
+4dd	B minor/D
 4b	.
 4dd	.
 =12	=12
-2cc#	A/C#
-8cc#	.
-8dd	.
+2cc#	A major/C#
+8cc#L	.
+8ddJ	.
 =13	=13
-4ee	Am/C
+4ee	A minor/C
 4dd	.
 4cc	.
 =14	=14
-4dd	G/B
+4dd	G major/B
 4b	.
 4g	.
 =15	=15
-4f#	F#/A#
+4f#	F# major/A#
 4a#	.
-8cc#	.
-8ee	.
+8cc#L	.
+8eeJ	.
 =16	=16
-4ff#	B
+4ff#	B major
 4ee	.
 4dd#	.
 =17	=17
-4ee[	Em
-4ee_	Em/B
-4ee_	Edim/A#
+[4ee	E minor
+4ee_	E minor/B
+4ee_	E diminished/A#
 =18	=18
-4ee_	Am
-4ee_	Em/G
-4ee_	Em7/D
+4ee_	A minor
+4ee_	E minor/G
+4ee_	E minor-seventh/D
 =19	=19
-4ee_	Em
-4ee_	Em/B
-4ee_	Em7/D
+4ee_	E minor
+4ee_	E minor/B
+4ee_	E minor-seventh/D
 =20	=20
-2.ee]	Em
+2.ee]	E minor
 ==	==
 *-	*-

@@ -16,50 +16,50 @@
 *F:	*
 *M3/4	*
 =1	=1
-4cc	C
+4cc	C major
 8cc	.
 4cc	.
-8cc[	.
+[8cc	.
 =2	=2
 4cc]	.
 4g	.
 4g	.
 =3	=3
-4b-	B-
+4b-	B- major
 4b-	.
 4b-	.
 =4	=4
-4a	F
+4a	F major
 4g	.
 4f	.
 =5	=5
-4b-	B-sus2
+4b-	B- suspended-second
 4b-	.
 4b-	.
 =6	=6
-8a	F
+8a	F major
 4.g	.
 4f	.
 =7	=7
-2.c	C
+2.c	C major
 =8	=8
 2r	.
-8c	.
-8c	.
+8cL	.
+8cJ	.
 =9	=9
-2d	Dm
-8d	.
-8e[	.
+2d	D minor
+8dL	.
+[8eJ	.
 =10	=10
-2e]	C/E
-8e	.
-8e	.
+2e]	C major/E
+8eL	.
+8eJ	.
 =11	=11
-4a	F
+4a	F major
 8g	.
 4.a	.
 =12	=12
-2.bn[	Bdim
+[2.bn	B diminished
 =13	=13
 2.bn_	.
 =14	=14
@@ -67,20 +67,20 @@
 4r	.
 =15	=15
 2r	.
-8d	.
-8f	.
+8dL	.
+8fJ	.
 =16	=16
-2b-	B-
-8a	.
-8g	.
+2b-	B- major
+8aL	.
+8gJ	.
 =17	=17
-4g	C
+4g	C major
 4a	.
-8g	.
-8f[	.
+8gL	.
+[8fJ	.
 =18	=18
-2.f]	Fsus4
+2.f]	F suspended-fourth
 =19	=19
-2.r	F
+2.r	F major
 ==	==
 *-	*-

@@ -16,110 +16,110 @@
 *D:	*
 *M4/4	*
 =1	=1
-8d	.
+8dL	.
 8c#	.
 8d	.
-8c#	.
+8c#J	.
 4d	.
 4r	.
 =2	=2
-8d	.
+8dL	.
 8c#	.
 8d	.
+8eJ	.
+8f#L	.
 8e	.
 8f#	.
-8e	.
-8f#	.
-8g	.
+8gJ	.
 =3	=3
-8a	.
+8aL	.
 8g#	.
 8a	.
-8g#	.
+8g#J	.
 4a	.
 4r	.
 =4	=4
-8a	.
+8aL	.
 8g#	.
 8a	.
-8a#	.
-8b	.
+8a#J	.
+8bL	.
 8a	.
 8g	.
-8f#	.
+8f#J	.
 =5	=5
-8e	.
+8eL	.
 8d#	.
 8e	.
-8f#	.
-8g	.
+8f#J	.
+8gL	.
 8f#	.
 8e	.
-8d	.
+8dJ	.
 =6	=6
-8c#	.
+8c#L	.
 8d	.
 8e	.
-8d	.
-8c#	.
+8dJ	.
+8c#L	.
 8A	.
 8B	.
-8c#	.
+8c#J	.
 =7	=7
-4d	D
+4d	D major
 2.r	.
 =8	=8
 2.ff#	.
-4ee	Dmaj7sus2
+4ee	D major-seventh-suspended-second
 =9	=9
-4dd	D
+4dd	D major
 4a	.
 4dd	.
 4ff#	.
 =10	=10
-2.aa	D
-4gg	Dadd(2,5,7)
+2.aa	D major
+4gg	D other-2,5,7
 =11	=11
-4ff#	D
+4ff#	D major
 4dd	.
 4ff#	.
 4aa	.
 =12	=12
 1ddd	.
 =13	=13
-2.ccc#	Dmaj7sus2
-8ddd	G/D
-8bb	.
+2.ccc#	D major-seventh-suspended-second
+8dddL	G major/D
+8bbJ	.
 =14	=14
-4aa	D
+4aa	D major
 4ddd	.
-16ddd	Dmaj7sus2
+16dddLL	D major-seventh-suspended-second
 16ccc#	.
 16bb	.
-16ccc#	.
-8ddd	G/D
-8bb	.
+16ccc#J	.
+8ddd	G major/D
+8bbJ	.
 =15	=15
-4aa	D
+4aa	D major
 4ddd	.
-16ddd	Dmaj7sus2
+16dddLL	D major-seventh-suspended-second
 16ccc#	.
 16bb	.
-16ccc#	.
-8ddd	G/D
-8bb	.
+16ccc#J	.
+8ddd	G major/D
+8bbJ	.
 =16	=16
-4aa	D
+4aa	D major
 4r	.
-4gg	G/D
+4gg	G major/D
 4r	.
 =17	=17
-4ff#	D/A
+4ff#	D major/A
 4r	.
-4ee	A
+4ee	A major
 4r	.
 =18	=18
-4dd	D
+4dd	D major
 2.r	.
 ==	==
 *-	*-

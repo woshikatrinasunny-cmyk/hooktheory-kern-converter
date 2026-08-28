@@ -16,55 +16,55 @@
 *G:	*
 *M4/4	*
 =1	=1
-4dd	Am
+4dd	A minor
 4dd	.
 4dd	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 =2	=2
-8dd	G/B
+8ddL	G major/B
 8dd	.
-8dd	.
+8ddJ	.
 4.ee	.
 4dd	.
 =3	=3
-4dd	Cadd(2,4,7)
+4dd	C other-2,4,7
 4dd	.
 4dd	.
-8dd	.
-8dd[	.
+8ddL	.
+[8ddJ	.
 =4	=4
-4.dd]	D
+4.dd]	D major
 4.ee	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 =5	=5
-4dd	Am
-8dd	.
-8dd	.
+4dd	A minor
+8ddL	.
+8ddJ	.
 2dd	.
 =6	=6
-4dd	G/B
+4dd	G major/B
 8dd	.
 4.ee	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 =7	=7
-8dd#	Cm
+8dd#	C minor
 4dd#	.
 3...dd#	.
 =8	=8
-2r	Cm/D#
-8b	.
-8b	.
+2r	C minor/D#
+8bL	.
+8bJ	.
 4b	.
 =9	=9
-4a	G
-2.g[	.
+4a	G major
+[2.g	.
 =10	=10
 1g]	.
 =11	=11
-1r	Cm
+1r	C minor
 =12	=12
 1r	.
 ==	==

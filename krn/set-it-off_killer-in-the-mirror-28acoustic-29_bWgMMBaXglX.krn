@@ -17,20 +17,20 @@
 *M4/4	*
 =1	=1
 2.r	.
-8A	.
-8B	.
+8AL	.
+8BJ	.
 =2	=2
-4c#	F#m
+4c#	F# minor
 4B	.
 4.r	.
 8A	.
 =3	=3
-4.c#	D
+4.c#	D major
 8d	.
 4.c#	.
 8B	.
 =4	=4
-4c#	A
+4c#	A major
 4B	.
 4.r	.
 8A	.
@@ -40,73 +40,73 @@
 4.c#	.
 8B	.
 =6	=6
-4F#	F#m
+4F#	F# minor
 8r	.
 8F#	.
-8c#	.
+8c#L	.
 8B	.
 8A	.
-8B	.
+8BJ	.
 =7	=7
-4F#	D
+4F#	D major
 4.c#	.
 4.r	.
 =8	=8
-4.r	A
+4.r	A major
 8F#	.
-8c#	.
+8c#L	.
 8B	.
 8A	.
-8B	.
+8BJ	.
 =9	=9
 4E	.
-4c#	E
-8B[	.
-8B]	Fdim
+4c#	E major
+[8BL	.
+8B]	F diminished
 8A	.
-8B	.
+8BJ	.
 =10	=10
-4c#	F#m
+4c#	F# minor
 4B	.
 4.r	.
 8A	.
 =11	=11
-4.c#	D
+4.c#	D major
 8d	.
 4.c#	.
 8B	.
 =12	=12
-4c#	A
+4c#	A major
 4B	.
 4.r	.
 8A	.
 =13	=13
 4.c#	.
 8d	.
-4.c#	C#m/G#
+4.c#	C# minor/G#
 8B	.
 =14	=14
-4F#	F#m
+4F#	F# minor
 8r	.
 8F#	.
-8c#	.
+8c#L	.
 8B	.
 8A	.
-8B	.
+8BJ	.
 =15	=15
-4F#	D
+4F#	D major
 2c#	.
 4r	.
 =16	=16
-4.r	A
+4.r	A major
+8c#	.
+8c#L	.
 8c#	.
 8c#	.
-8c#	.
-8c#	.
-8c#	.
+8c#J	.
 =17	=17
 4d	.
-4.c#	E
-4.B	Fdim
+4.c#	E major
+4.B	F diminished
 ==	==
 *-	*-

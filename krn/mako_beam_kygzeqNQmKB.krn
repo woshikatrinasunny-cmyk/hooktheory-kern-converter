@@ -16,37 +16,37 @@
 *E:	*
 *M4/4	*
 =1	=1
-4cc#	A
+4cc#	A major
 8r	.
-8gg#	A
-8ff#	A
-8ee	A
+8gg#	A major
+8ff#L	A major
+8eeJ	A major
 8r	.
-8cc#	Badd(2,4,7)
+8cc#	B other-2,4,7
 =2	=2
 8r	.
-4b	B
-8gg#	G#m/B
-8ff#	Bsus4
-8gg#	G#m/B
-8dd#	B7/F#
-8ee	E
+4b	B major
+8gg#	G# minor/B
+8ff#L	B suspended-fourth
+8gg#	G# minor/B
+8dd#	B dominant/F#
+8eeJ	E major
 =3	=3
-4cc#	C#m
+4cc#	C# minor
 8r	.
-8gg#	C#m
-8bb	F#sus4
-8ccc#	C#m
+8gg#	C# minor
+8bbL	F# suspended-fourth
+8ccc#J	C# minor
 8r	.
-8ff#	Esus2
+8ff#	E suspended-second
 =4	=4
 8r	.
-8ee	E
+8eeL	E major
 8ff#	.
-8gg#	Esus2
-8bb	B
-8gg#	B
-8ff#	B
-8ee	E/B
+8gg#J	E suspended-second
+8bbL	B major
+8gg#	B major
+8ff#	B major
+8eeJ	E major/B
 ==	==
 *-	*-

@@ -16,29 +16,29 @@
 *F:	*
 *M4/4	*
 =1	=1
-4r	F
+4r	F major
 4.a	.
 4dd	.
-8ee[	.
+[8ee	.
 =2	=2
-3...ee_	A
-4.ee]	Aadd(4,6)
+3...ee_	A major
+4.ee]	A other-4,6
 =3	=3
-4r	D-m
-4dd-[	.
-8dd-]	B-m
+4r	D- minor
+[4dd-	.
+8dd-]	B- minor
 4ff	.
-8gg[	.
+[8gg	.
 =4	=4
-2gg_	C/E
-4gg]	E-7
-8ff	.
-8gg[	.
+2gg_	C major/E
+4gg]	E- dominant
+8ffL	.
+[8ggJ	.
 =5	=5
-2.gg]	A-maj7
-8ee-	.
-8ff[	.
+2.gg]	A- major-seventh
+8ee-L	.
+[8ffJ	.
 =6	=6
-1ff]	G-maj7
+1ff]	G- major-seventh
 ==	==
 *-	*-

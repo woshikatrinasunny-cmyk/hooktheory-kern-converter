@@ -16,56 +16,56 @@
 *e:	*
 *M4/4	*
 =1	=1
-4G	Em7
+4G	E minor-seventh
 4B	.
-4d	Bm7
+4d	B minor-seventh
 4g	.
 =2	=2
-8d	Cmaj9
+8d	C major-ninth
 4c	.
-16B	.
-16A	.
-8G	.
-8A[	.
-4A]	B
+16BLL	.
+16AJJ	.
+8GL	.
+[8AJ	.
+4A]	B major
 =3	=3
-4r	Em7
-8G	.
-8B	.
-4d	Bm7
+4r	E minor-seventh
+8GL	.
+8BJ	.
+4d	B minor-seventh
 4g	.
 =4	=4
-8b	A#maj7
+8bL	A# major-seventh
 8dd	.
-8cc	Aadd(1,3,7,10)
-8b	.
-4g	Dm9
-4a	Dadd(2,4,7)
+8cc	A other-1,3,7,10
+8bJ	.
+4g	D minor-ninth
+4a	D other-2,4,7
 =5	=5
-4B	Em7
-8d	.
-8g[	.
-4.g]	Bm7
+4B	E minor-seventh
+8dL	.
+[8gJ	.
+4.g]	B minor-seventh
 8b	.
 =6	=6
-8cc	Cmaj7
+8cc	C major-seventh
 4b	.
-16a	.
-16g	.
-4.f#	Dadd(2,4,7)
+16aLL	.
+16gJJ	.
+4.f#	D other-2,4,7
 8a	.
 =7	=7
-4b	G#m7
+4b	G# minor-seventh
 4d#	.
-8c#	Bmaj9
-8d#	.
+8c#L	B major-ninth
+8d#J	.
 4g#	.
 =8	=8
-4d#	G#m7
+4d#	G# minor-seventh
 4d#	.
-8c#	Bmaj9
+8c#L	B major-ninth
 8d#	.
-8f#[	G#m7
-8f#]	G#m
+[8f#	G# minor-seventh
+8f#J]	G# minor
 ==	==
 *-	*-

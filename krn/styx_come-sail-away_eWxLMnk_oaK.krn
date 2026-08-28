@@ -16,69 +16,69 @@
 *C:	*
 *M4/4	*
 =1	=1
-1c	C
+1c	C major
 =2	=2
-4g	Em/B
+4g	E minor/B
 3...e	.
 8d	.
 =3	=3
-1c	Am
+1c	A minor
 =4	=4
 2r	.
-4r	Am
-4r	G
+4r	A minor
+4r	G major
 =5	=5
-2r	F
-16c	.
-16d	.
+2r	F major
+16cLL	.
+16dJJ	.
 4e	.
 8f	.
 =6	=6
-2e	F
+2e	F major
 4.r	.
-16d	.
-16c	.
+16dLL	.
+16cJJ	.
 =7	=7
-4.d	G
+4.d	G major
 8G	.
-2G[	.
+[2G	.
 =8	=8
-4G]	G
+4G]	G major
 3...r	.
 16r	.
 16G	.
 =9	=9
-1c	C
+1c	C major
 =10	=10
-4g	Em/B
+4g	E minor/B
 4..e	.
-8.d	.
-8d	.
+8.dL	.
+8dJ	.
 =11	=11
-1c[	Am
+[1c	A minor
 =12	=12
 4c]	.
 4r	.
-4r	Am
-4r	G
+4r	A minor
+4r	G major
 =13	=13
-2r	F
-8c	.
-16d	.
+2r	F major
+8cL	.
+16dk	.
 8.e	.
-16f	.
-16e[	.
+16fL	.
+[16eJJ	.
 =14	=14
-4e]	F
+4e]	F major
 3...r	.
-16d	.
-16c	.
+16dLL	.
+16cJJ	.
 =15	=15
-4.d	G
+4.d	G major
 8G	.
-2G[	.
+[2G	.
 =16	=16
-4G]	G
+4G]	G major
 2.r	.
 ==	==
 *-	*-

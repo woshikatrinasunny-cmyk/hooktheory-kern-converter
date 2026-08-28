@@ -16,44 +16,44 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8.r	B/G-
-8.r	F7
+8.r	B major/G-
+8.r	F dominant
 3...r	.
 =2	=2
-4..r	B-
+4..r	B- major
 4r	.
-6...r	D
+6...r	D major
 =3	=3
 3...r	.
-4.r	E-
+4.r	E- major
 =4	=4
 8r	.
-6...r	E5
+6...r	E power
 4r	.
 8r	A
 8.r	A
 =5	=5
 8r	.
-4r	G-dim
+4r	G- diminished
 4r	.
-4r	F
-8r	Fadd(2,5,7,9)
+4r	F major
+8r	F other-2,5,7,9
 =6	=6
 8.r	.
 8.r	.
-4.r	E-
+4.r	E- major
 8.r	.
-16r	Cm7
+16r	C minor-seventh
 =7	=7
 8r	.
 8.r	.
-4.r	B-
+4.r	B- major
 6...r	.
 =8	=8
 *k[]	*
 *C:	*
 16r	.
-2r	C
+2r	C major
 16r	.
 16r	.
 8r	A
@@ -61,22 +61,22 @@
 8r	.
 =9	=9
 4r	.
-8.r	G#dim
+8.r	G# diminished
 8r	.
-8r	G#aug
+8r	G# augmented
 16r	.
-8.r	G
+8.r	G major
 16r	.
 =10	=10
 16r	.
-2r	D7/F#
-8r	Fsus2
+2r	D dominant/F#
+8r	F suspended-second
 6...r	.
 =11	=11
 16r	.
-8r	Dm
+8r	D minor
 6...r	.
-6...r	C
+6...r	C major
 8.r	.
 ==	==
 *-	*-

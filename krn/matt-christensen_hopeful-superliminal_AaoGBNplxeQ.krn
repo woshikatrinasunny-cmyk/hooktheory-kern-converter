@@ -16,44 +16,44 @@
 *A-:	*
 *M3/4	*
 =1	=1
-4f	B-m9
-4ee-	B-m11
-8.b-	.
-16cc	.
+4f	B- minor-ninth
+4ee-	B- minor-11th
+8.b-L	.
+16ccJk	.
 =2	=2
-8dd-	E-7sus2
-8b-[	.
-4b-_	E-add(2,6,10)
-4b-]	E-11
+8dd-L	E- dominant-seventh-suspended-second
+[8b-J	.
+4b-_	E- other-2,6,10
+4b-]	E- dominant-11th
 =3	=3
-4cc[	A-maj7
-4cc_	A-augMaj7
-4cc]	Fm/A-
+[4cc	A- major-seventh
+4cc_	A- augmented-major-seventh
+4cc]	F minor/A-
 =4	=4
-4r	Fadd(1,4,7,10)
-8G-	.
-8A-	.
-8An	.
-8c	.
+4r	F other-1,4,7,10
+8G-L	.
+8A-J	.
+8AnL	.
+8cJ	.
 =5	=5
-4d-	B-m7
+4d-	B- minor-seventh
 4.b-	.
-16cc	.
-16dd-	.
+16ccLL	.
+16dd-JJ	.
 =6	=6
-4dd-	E-7sus2
-8cc[	E-add(2,6,10)
-8cc_	E-11
-8cc]	E-m9
-8b-	E-9
+4dd-	E- dominant-seventh-suspended-second
+[8ccL	E- other-2,6,10
+8ccJ_	E- dominant-11th
+8ccL]	E- minor-ninth
+8b-J	E- dominant-ninth
 =7	=7
-4cc	Gm11
-4an[	.
-8an]	Gm9
-16an	.
-16a-	.
+4cc	G minor-11th
+[4an	.
+8anL]	G minor-ninth
+16anL	.
+16a-JJ	.
 =8	=8
-4an	Cadd(2,7,9,10)
+4an	C other-2,7,9,10
 4g	.
 4r	.
 ==	==

@@ -16,90 +16,90 @@
 *F:	*
 *M12/8	*
 =1	=1
-4.C	C11
+4.C	C dominant-11th
 4.f	.
 4.cc	.
 4.ee	.
 =2	=2
-1.cc[	Fmaj7
+[1.cc	F major-seventh
 =3	=3
-1.cc_	Fadd(2,5,7)
+1.cc_	F other-2,5,7
 =4	=4
-1cc_	Fmaj7
+1cc_	F major-seventh
 8cc]	.
-8aa	.
+8aaL	.
 8ccc	.
-8fff	.
+8fffJ	.
 =5	=5
-2.ggg	Fadd(2,5,7)
+2.ggg	F other-2,5,7
 4.ddd	.
 4.eee	.
 =6	=6
-4.fff	Fmaj7
+4.fff	F major-seventh
 4.ccc	.
 4.r	.
-8ccc	.
+8cccL	.
 8bb-	.
-8aa	.
+8aaJ	.
 =7	=7
-4.bb-	Fadd(2,5,7)
+4.bb-	F other-2,5,7
 4.aaa	.
 4.ggg	.
 4.r	.
 =8	=8
-1r	Fmaj7
+1r	F major-seventh
 8r	.
-8aa	.
+8aaL	.
 8ccc	.
-8fff	.
+8fffJ	.
 =9	=9
-4.ggg	Fadd(2,5,7,11)
+4.ggg	F other-2,5,7,11
 4.ddd	.
 4.eee	.
 4.eeee	.
 =10	=10
-2.cccc	Fmaj7
+2.cccc	F major-seventh
 4.r	.
 4.ccc	.
 =11	=11
-1r	Fadd(2,5,7,11)
+1r	F other-2,5,7,11
 8r	.
-4.ccc[	.
+[4.ccc	.
 =12	=12
-1ccc_	Fmaj7
+1ccc_	F major-seventh
 8ccc]	.
-8aa	.
+8aaL	.
 8ccc	.
-8fff	.
+8fffJ	.
 =13	=13
-2.ggg	Fadd(2,5,7)
+2.ggg	F other-2,5,7
 4.ddd	.
 4.eee	.
 =14	=14
-4.fff	Fmaj7
+4.fff	F major-seventh
 4.ccc	.
 4.r	.
-8ccc	.
+8cccL	.
 8bb-	.
-8aa	.
+8aaJ	.
 =15	=15
-4.bb-	Fadd(2,5,7)
+4.bb-	F other-2,5,7
 4.aaa	.
 2ggg	.
-8aaa	.
-8bbb-	.
+8aaaL	.
+8bbb-J	.
 =16	=16
-2.cccc	Fadd(2,4,7)/A
+2.cccc	F other-2,4,7/A
 2.fff	.
 =17	=17
-2.bbb-	B-add(2,4,7,9)
+2.bbb-	B- other-2,4,7,9
 3...aaa	.
 8ccc	.
 =18	=18
-8ggg	Fmaj7
-1fff[	.
+8ggg	F major-seventh
+[1fff	.
 4.fff]	.
 =19	=19
-1.r	Fadd(2,5,7)
+1.r	F other-2,5,7
 ==	==
 *-	*-

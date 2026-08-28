@@ -15,50 +15,50 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4r	A#m
-8ee#	.
-8ee#	.
+4r	A# minor
+8ee#L	.
+8ee#J	.
 4ee#	.
 4ee#	.
 =2	=2
-4ee#	D#m
-2dd#[	.
-4dd#]	F#
+4ee#	D# minor
+[2dd#	.
+4dd#]	F# major
 =3	=3
-4r	G#m
-8dd#	.
-8dd#	.
+4r	G# minor
+8dd#L	.
+8dd#J	.
 4dd#	.
 4ee#	.
 =4	=4
-4dd#	C#
-2cc#[	.
-4cc#]	F#
+4dd#	C# major
+[2cc#	.
+4cc#]	F# major
 =5	=5
-4r	A#m
-8ee#	.
-8ee#	.
+4r	A# minor
+8ee#L	.
+8ee#J	.
 4ee#	.
 4ee#	.
 =6	=6
-4ee#	D#m
-8dd#[	.
-4.dd#_	D#m
-8dd#_	D#m
-8dd#]	F#
+4ee#	D# minor
+[8dd#	.
+4.dd#_	D# minor
+8dd#L_	D# minor
+8dd#J]	F# major
 =7	=7
-8dd#	G#m
+8dd#L	G# minor
 8dd#	.
 8dd#	.
-8ee#	.
+8ee#J	.
 4dd#	.
 4cc#	.
 =8	=8
-8dd#	C#
+8dd#L	C# major
 8dd#	.
 8dd#	.
-8ee#	.
+8ee#J	.
 4dd#	.
-4cc#	F#
+4cc#	F# major
 ==	==
 *-	*-

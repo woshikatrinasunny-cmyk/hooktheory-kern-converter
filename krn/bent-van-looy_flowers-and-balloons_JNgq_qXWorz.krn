@@ -16,63 +16,63 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2r	B-
-2r	E-/B-
+2r	B- major
+2r	E- major/B-
 =2	=2
-2r	B-
-2r	C7/B-
+2r	B- major
+2r	C dominant/B-
 =3	=3
-2r	Cadd(2,3,7)
-2r	F7
+2r	C other-2,3,7
+2r	F dominant
 =4	=4
-4r	B-
-4r	E-/B-
-4r	B-
-4r	Dm/A
+4r	B- major
+4r	E- major/B-
+4r	B- major
+4r	D minor/A
 =5	=5
-4r	Gm
-4r	B-/F
-2r	C/E
+4r	G minor
+4r	B- major/F
+2r	C major/E
 =6	=6
-2r	Fadd(2,4,7)
-2r	F7/E-
+2r	F other-2,4,7
+2r	F dominant/E-
 =7	=7
-4r	Gm7
-4r	B-/F
-2r	Cadd(2,4,7)/E
+4r	G minor-seventh
+4r	B- major/F
+2r	C other-2,4,7/E
 =8	=8
-2r	Fadd(2,4,7)
-8r	Fadd(2,4,7)
-8r	Fadd(2,4,7)/C
-4r	Fadd(2,4,7)
+2r	F other-2,4,7
+8r	F other-2,4,7
+8r	F other-2,4,7/C
+4r	F other-2,4,7
 =9	=9
-4r	Gm7
-4r	B-/F
-2r	C/E
+4r	G minor-seventh
+4r	B- major/F
+2r	C major/E
 =10	=10
-4r	F
-4r	Em
-4r	Dm
-4r	C
+4r	F major
+4r	E minor
+4r	D minor
+4r	C major
 =11	=11
-1r	E-add(2,4,7)
+1r	E- other-2,4,7
 =12	=12
-1r	C7
+1r	C dominant
 =13	=13
-1r	E-add(2,4,7)
+1r	E- other-2,4,7
 =14	=14
-1r	C7
+1r	C dominant
 =15	=15
-1r	E-add(2,4,7)
+1r	E- other-2,4,7
 =16	=16
-1r	C7
+1r	C dominant
 =17	=17
-2r	G-
-2r	A-sus2
+2r	G- major
+2r	A- suspended-second
 =18	=18
-4r	B-
-4r	E-/B-
-2r	B-
+4r	B- major
+4r	E- major/B-
+2r	B- major
 =19	=19
 1r	.
 ==	==

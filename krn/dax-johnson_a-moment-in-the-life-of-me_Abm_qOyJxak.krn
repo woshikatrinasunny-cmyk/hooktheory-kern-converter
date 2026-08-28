@@ -16,65 +16,65 @@
 *a:	*
 *M4/4	*
 =1	=1
-1F[	F
+[1F	F major
 =2	=2
 4F]	.
-8A	.
-8c	.
-8g	Fadd(2,4,7)
-4.f	F
+8AL	.
+8cJ	.
+8g	F other-2,4,7
+4.f	F major
 =3	=3
-4e	Am/E
-8A	.
-8c	.
-2AA[	Am
+4e	A minor/E
+8AL	.
+8cJ	.
+[2AA	A minor
 =4	=4
 1AA]	.
 =5	=5
-1F[	F
+[1F	F major
 =6	=6
 4F]	.
-8A	.
-8c	.
-8g	Fadd(2,4,7)
-4.f	F
+8AL	.
+8cJ	.
+8g	F other-2,4,7
+4.f	F major
 =7	=7
-4e	Am/E
-8A	.
-8c	.
-2AA[	Am
+4e	A minor/E
+8AL	.
+8cJ	.
+[2AA	A minor
 =8	=8
 2AA]	.
-8a	.
-8b	G/B
+8aL	.
+8b	G major/B
 8cc	.
-8cc	.
+8ccJ	.
 =9	=9
-1F[	F
+[1F	F major
 =10	=10
 2F]	.
-8cc	.
+8ccL	.
 8g	.
 8cc	.
-8f[	.
+[8fJ	.
 =11	=11
-4.f]	Am
+4.f]	A minor
 4e	.
 8c	.
-4E	Am
+4E	A minor
 =12	=12
-2A	Am
-8a	.
-8b	G/B
+2A	A minor
+8aL	.
+8b	G major/B
 8cc	.
-8cc	.
+8ccJ	.
 =13	=13
-1F	F
+1F	F major
 =14	=14
-1A#	A#dim
+1A#	A# diminished
 =15	=15
-1E	Eadd(1,7)
+1E	E other-1,7
 =16	=16
-1G#	G#dim
+1G#	G# diminished
 ==	==
 *-	*-

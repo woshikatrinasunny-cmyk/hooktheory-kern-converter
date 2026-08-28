@@ -16,27 +16,27 @@
 *a:	*
 *M4/4	*
 =1	=1
-1e	Am
+1e	A minor
 =2	=2
 2d	.
-2e[	.
+[2e	.
 =3	=3
-1e]	Eadd(3,5,7)
+1e]	E other-3,5,7
 =4	=4
-2d	Em
-2e[	.
+2d	E minor
+[2e	.
 =5	=5
-1e]	Fadd(2,4,7)
+1e]	F other-2,4,7
 =6	=6
 2e	.
-2f[	.
+[2f	.
 =7	=7
-1f]	Cadd(4,5,7)
+1f]	C other-4,5,7
 =8	=8
 2f	.
-2e[	.
+[2e	.
 =9	=9
-1e]	Dadd(2,3,7)
+1e]	D other-2,3,7
 =10	=10
 2e	.
 2d	.

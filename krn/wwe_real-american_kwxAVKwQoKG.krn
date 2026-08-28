@@ -16,42 +16,42 @@
 *a:	*
 *M4/4	*
 =1	=1
-8gg	Dadd(2,3,7)/F
+8gg	D other-2,3,7/F
 16r	.
 8gg	.
 16r	.
-4gg	G7sus4/F
+4gg	G dominant-seventh-suspended-fourth/F
 8r	.
-8gg	.
-8gg	.
+8ggL	.
+8ggJ	.
 =2	=2
-8ee	A7sus4/G
+8ee	A dominant-seventh-suspended-fourth/G
 16r	.
 8dd	.
 16r	.
-4dd	Gsus4
+4dd	G suspended-fourth
 4r	.
 8ee	.
 =3	=3
-8gg	Dadd(2,3,7)/F
-16ee	.
+8ggL	D other-2,3,7/F
+16eek	.
 8gg	.
-16ee	.
-4gg	G7sus4/F
+16eeJk	.
+4gg	G dominant-seventh-suspended-fourth/F
 8.r	.
 8dd	.
 16r	.
 =4	=4
-8ee	A7sus4/G
+8ee	A dominant-seventh-suspended-fourth/G
 16r	.
-16dd	.
-8cc	.
-4.ee	Gsus4
+16ddLK	.
+8ccJ	.
+4.ee	G suspended-fourth
 4r	.
 =5	=5
-8a	Dm
+8aL	D minor
 8b	.
-8cc	.
+8ccJ	.
 8r	.
 4cc	.
 8b	.
@@ -62,9 +62,9 @@
 4a	.
 4.r	.
 =7	=7
-8a	Am
+8aL	A minor
 8b	.
-8cc	.
+8ccJ	.
 8r	.
 4cc	.
 8b	.
@@ -75,9 +75,9 @@
 4cc	.
 4.r	.
 =9	=9
-8a	Dm
+8aL	D minor
 8b	.
-8cc	.
+8ccJ	.
 8r	.
 4cc	.
 8b	.
@@ -88,18 +88,18 @@
 4a	.
 4.r	.
 =11	=11
-8a	F
+8aL	F major
 8b	.
-8cc	.
+8ccJ	.
 8r	.
 4cc	.
 4r	.
 =12	=12
-8ee	Gsus4
+8ee	G suspended-fourth
 16r	.
 8dd	.
 16r	.
 8cc	.
-2ee	G
+2ee	G major
 ==	==
 *-	*-

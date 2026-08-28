@@ -16,84 +16,84 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	Aadd(4,6,10)
-4A[	.
-8A]	Eadd(3,4,7,9)
+4r	A other-4,6,10
+[4A	.
+8A]	E other-3,4,7,9
 4.A	.
 =2	=2
-4A	Aadd(4,6,10)
+4A	A other-4,6,10
 4r	.
-8cn	Eadd(3,4,7,9)
-8A	.
+8cnL	E other-3,4,7,9
+8AJ	.
 4cn	.
 =3	=3
-2A	Aadd(4,6,10)
-2r	Eadd(3,4,7,9)
+2A	A other-4,6,10
+2r	E other-3,4,7,9
 =4	=4
-2r	Aadd(4,6,10)
-2r	Eadd(3,4,7,9)
+2r	A other-4,6,10
+2r	E other-3,4,7,9
 =5	=5
-4r	Aadd(4,6,10)
+4r	A other-4,6,10
 4A	.
-8A	Eadd(3,4,7,9)
+8A	E other-3,4,7,9
 4A	.
 8Gn	.
 =6	=6
-4A	Aadd(4,6,10)
-8E	.
-8E	.
-4Gn	Eadd(3,4,7,9)
+4A	A other-4,6,10
+8EL	.
+8EJ	.
+4Gn	E other-3,4,7,9
 4A	.
 =7	=7
-2A	Aadd(4,6,10)
-2r	Eadd(3,4,7,9)
+2A	A other-4,6,10
+2r	E other-3,4,7,9
 =8	=8
-2r	Aadd(4,6,10)
-2r	Eadd(3,4,7,9)
+2r	A other-4,6,10
+2r	E other-3,4,7,9
 =9	=9
 *k[f#c#]	*
 *D:	*
-4.r	D7
-8d[	.
-8d]	G#7
+4.r	D dominant
+[8d	.
+8dL]	G# dominant
 8.fn	.
-8.e	.
+8.eJ	.
 =10	=10
-8e	D7
+8e	D dominant
 4.d	.
-4cn	G#7
+4cn	G# dominant
 4B	.
 =11	=11
-8cn	D7
+8cn	D dominant
 4.A	.
-2r	G#7
+2r	G# dominant
 =12	=12
 *k[f#c#g#d#]	*
 *c#:	*
-4.r	D7
+4.r	D dominant
 8cn	.
-8dn	G#7
+8dnL	G# dominant
 8cn	.
 8dn	.
-8A	.
+8AJ	.
 =13	=13
-4r	C#m
-4B[	.
-8B]	G#7
+4r	C# minor
+[4B	.
+8B]	G# dominant
 4.B	.
 =14	=14
-2G#	C#m
-8F#	F#
-8E	.
-4F#[	F#m
+2G#	C# minor
+8F#L	F# major
+8EJ	.
+[4F#	F# minor
 =15	=15
-8F#]	Aadd(4,6,10)
+8F#L]	A other-4,6,10
 8E	.
 8F#	.
-8E	.
-2r	Eadd(3,4,7,9)
+8EJ	.
+2r	E other-3,4,7,9
 =16	=16
-2r	Aadd(4,6,10)
-2r	Eadd(3,4,7,9)
+2r	A other-4,6,10
+2r	E other-3,4,7,9
 ==	==
 *-	*-

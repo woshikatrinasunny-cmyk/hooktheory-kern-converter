@@ -15,70 +15,70 @@
 *e:	*
 *M4/4	*
 =1	=1
-8g	Em
+8gL	E minor
 8a	.
 8.b	.
-16a[	.
-4a]	C
-8.dd	.
-16cc[	.
+[16aJk	.
+4a]	C major
+8.ddL	.
+[16ccJk	.
 =2	=2
-4cc]	Cmaj7/B
-8.cc	.
-16b[	.
-4b]	Em
-8e	.
-8f#	.
+4cc]	C major-seventh/B
+8.ccL	.
+[16bJk	.
+4b]	E minor
+8eL	.
+8f#J	.
 =3	=3
-8g	Am
-16g	.
+8gL	A minor
+16gk	.
 8g	.
-16f#	.
+16f#L	.
 16e	.
-16d[	.
-4d]	G/B
-8d	.
-8f#	.
+[16dJJ	.
+4d]	G major/B
+8dL	.
+8f#J	.
 =4	=4
-8cc	D#dim
+8ccL	D# diminished
 8cc	.
-16b	.
+16bk	.
 8a	.
-16b[	.
-4b]	Em
-8e	.
-8f#	.
+[16bJk	.
+4b]	E minor
+8eL	.
+8f#J	.
 =5	=5
-8g	Em
+8gL	E minor
 8a	.
 8.b	.
-16a[	.
-4a]	C
-8.dd	.
-16cc[	.
+[16aJk	.
+4a]	C major
+8.ddL	.
+[16ccJk	.
 =6	=6
-8cc]	Cmaj7/B
+8ccL]	C major-seventh/B
 8cc	.
 8.ff#	.
-16ee[	.
-4ee]	Em
-8ee	.
-8dd#	.
+[16eeJk	.
+4ee]	E minor
+8eeL	.
+8dd#J	.
 =7	=7
-8a	Am
+8aL	A minor
 8a	.
-16cc	.
+16cck	.
 8b	.
-16g[	.
-4g]	G/B
-8g	.
-8g	.
+[16gJk	.
+4g]	G major/B
+8gL	.
+8gJ	.
 =8	=8
-8f#	D#dim
+8f#L	D# diminished
 8f#	.
 8e	.
-16f#	.
-16g[	.
-2g]	Em
+16f#L	.
+[16gJJ	.
+2g]	E minor
 ==	==
 *-	*-

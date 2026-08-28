@@ -16,40 +16,40 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	Am
+1r	A minor
 =2	=2
-4.r	Am
-3...r	Aadd(2,3,7)
+4.r	A minor
+3...r	A other-2,3,7
 =3	=3
-4.r	Fsus2
-3...r	F
+4.r	F suspended-second
+3...r	F major
 =4	=4
-8r	F
-2..r	Fadd(6,7)
+8r	F major
+2..r	F other-6,7
 =5	=5
-4ee	G
+4ee	G major
 8a	.
 4dd	.
 8a	.
 4ee	.
 =6	=6
-8a	G
+8a	G major
 4dd	.
 8a	.
 4ee	.
 4dd	.
 =7	=7
-8cc	D7sus4
+8ccL	D dominant-seventh-suspended-fourth
 8f	.
-8f	.
+8fJ	.
 4b	.
 8f	.
 4cc	.
 =8	=8
-8f	D7sus4
+8fL	D dominant-seventh-suspended-fourth
 8b	.
 8f	.
-8f	.
+8fJ	.
 4cc	.
 4b	.
 ==	==

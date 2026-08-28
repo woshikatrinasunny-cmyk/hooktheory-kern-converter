@@ -16,92 +16,92 @@
 *G:	*
 *M4/4	*
 =1	=1
-8a	Cadd(2,4,7)
-8g	.
+8aL	C other-2,4,7
+8gJ	.
 4g	.
 2r	.
 =2	=2
-2..r	Em
-8dd[	.
+2..r	E minor
+[8dd	.
 =3	=3
-4.dd]	G
+4.dd]	G major
 2b	.
-8a[	.
+[8a	.
 =4	=4
-4.a]	Am
+4.a]	A minor
 4.r	.
-8a	.
-8a	.
+8aL	.
+8aJ	.
 =5	=5
-8a	Cadd(2,4,7)
-8g	.
+8aL	C other-2,4,7
+8gJ	.
 4g	.
 2r	.
 =6	=6
-2..r	Em
-8dd[	.
+2..r	E minor
+[8dd	.
 =7	=7
-4.dd]	G
+4.dd]	G major
 2b	.
-8a[	.
+[8a	.
 =8	=8
-4.a]	Am
+4.a]	A minor
 4r	.
+8aL	.
 8a	.
-8a	.
-8a	.
+8aJ	.
 =9	=9
-4a	Cadd(2,4,7)
-8g	.
-8g	.
-8g	.
-8g	.
+4a	C other-2,4,7
+8gL	.
+8gJ	.
+8gL	.
+8gJ	.
 4g	.
 =10	=10
-4.g	Em
+4.g	E minor
 4g	.
+8bL	.
 8b	.
-8b	.
-8b	.
+8bJ	.
 =11	=11
-8b	G
+8bL	G major
 8g	.
 8g	.
-8g	.
+8gJ	.
 4g	.
 4e	.
 =12	=12
-4.g	Am
+4.g	A minor
 4g	.
+8gL	.
 8g	.
-8g	.
-8a	.
+8aJ	.
 =13	=13
-8a	Cadd(2,4,7)
+8aL	C other-2,4,7
 8g	.
 8g	.
-8a	.
-8a	.
+8aJ	.
+8aL	.
 8g	.
 8g	.
-8a	.
+8aJ	.
 =14	=14
-4.a	Em
+4.a	E minor
 4.g	.
 8r	.
-8g[	.
+[8g	.
 =15	=15
-8g]	G
+8gL]	G major
 8a	.
 8a	.
-8a	.
+8aJ	.
 8a	.
 4g	.
 8a	.
 =16	=16
-4g	Am
-8a	.
-8b	.
+4g	A minor
+8aL	.
+8bJ	.
 4a	.
 4g	.
 ==	==

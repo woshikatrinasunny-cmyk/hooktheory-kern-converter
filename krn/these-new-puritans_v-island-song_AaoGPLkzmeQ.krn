@@ -16,11 +16,11 @@
 *B:	*
 *M4/4	*
 =1	=1
-2b	Badd(2,4,7)
-2gn	Gadd(6,7)
+2b	B other-2,4,7
+2gn	G other-6,7
 =2	=2
-2f#	F#m
-2ccn[	Csus2
+2f#	F# minor
+[2ccn	C suspended-second
 =3	=3
 4ccn]	.
 4cc#	.
@@ -33,21 +33,21 @@
 8.cc#	.
 6...b	.
 =5	=5
-4r	Bsus4
-4b[	.
-4.b]	G
+4r	B suspended-fourth
+[4b	.
+4.b]	G major
 8b	.
 =6	=6
-2ddn	D/F#
-2an	Am
+2ddn	D major/F#
+2an	A minor
 =7	=7
-4b	Bm
+4b	B minor
 4ddn	.
-4an	Asus4
+4an	A suspended-fourth
 4an	.
 =8	=8
-2gn	Gadd(6,7)
-4f#[	D/F#
-4f#]	Gsus2
+2gn	G other-6,7
+[4f#	D major/F#
+4f#]	G suspended-second
 ==	==
 *-	*-

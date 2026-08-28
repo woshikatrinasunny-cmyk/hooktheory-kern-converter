@@ -16,36 +16,36 @@
 *g:	*
 *M4/4	*
 =1	=1
-2r	Gm
-2r	Aadd(1,3,5,7,10)
+2r	G minor
+2r	A other-1,3,5,7,10
 =2	=2
-2r	B-sus2
-2r	Dm7
+2r	B- suspended-second
+2r	D minor-seventh
 =3	=3
-2r	Am/C
-2r	B-maj11#11
+2r	A minor/C
+2r	B- major-11th
 =4	=4
-1r	Fmaj7sus2
+1r	F major-seventh-suspended-second
 =5	=5
-2b-[	Gm
-2b-]	Aadd(1,3,5,7,10)
+[2b-	G minor
+2b-]	A other-1,3,5,7,10
 =6	=6
-2dd	B-maj9
-2ff	Dm7
+2dd	B- major-ninth
+2ff	D minor-seventh
 =7	=7
-2aa	Am/C
-2ff	B-maj11#11
+2aa	A minor/C
+2ff	B- major-11th
 =8	=8
-1ee	Fmaj7sus2
+1ee	F major-seventh-suspended-second
 =9	=9
-2dd[	Gm
-2dd]	Aadd(1,3,5,7,10)
+[2dd	G minor
+2dd]	A other-1,3,5,7,10
 =10	=10
-2ff[	B-maj7sus2
-4.ff]	Dm7
-16ee	.
-16ff	.
+[2ff	B- major-seventh-suspended-second
+4.ff]	D minor-seventh
+16eeLL	.
+16ffJJ	.
 =11	=11
-1gg	C
+1gg	C major
 ==	==
 *-	*-

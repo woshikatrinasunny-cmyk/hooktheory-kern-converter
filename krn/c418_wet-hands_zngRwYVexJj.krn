@@ -16,71 +16,71 @@
 *A:	*
 *M4/4	*
 =1	=1
-8AA	Aadd(2,4,7)
+8AAL	A other-2,4,7
 8C#	.
 8A	.
-8B	.
-8c#	.
+8BJ	.
+8c#L	.
 8B	.
 8A	.
-8E	.
+8EJ	.
 =2	=2
-8D	Dmaj9
+8DL	D major-ninth
 8F#	.
 8c#	.
-8e	.
+8eJ	.
 8c#	.
 4.A	.
 =3	=3
-8AA	Aadd(2,4,7)
+8AAL	A other-2,4,7
 8C#	.
 8A	.
-8B	.
-8c#	.
+8BJ	.
+8c#L	.
 8B	.
 8A	.
-8E	.
+8EJ	.
 =4	=4
-8D	Dmaj9
+8DL	D major-ninth
 8F#	.
 8c#	.
-8e	.
+8eJ	.
 8c#	.
 4.A	.
 =5	=5
-2.g#	Amaj9
+2.g#	A major-ninth
 4a	.
 =6	=6
-2.f#	Dmaj9
-8e	.
-8f#	.
+2.f#	D major-ninth
+8eL	.
+8f#J	.
 =7	=7
-2.g#	Amaj9
-8b	.
-8cc#[	.
+2.g#	A major-ninth
+8bL	.
+[8cc#J	.
 =8	=8
-8cc#]	Dmaj9
+8cc#]	D major-ninth
 3...f#	.
-8cc#	.
-8ee	.
+8cc#L	.
+8eeJ	.
 =9	=9
-4.ggn	Gmaj9
+4.ggn	G major-ninth
 8ff#	.
 4dd	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =10	=10
-8GGn	.
+8GGnL	.
 8BB	.
 8D	.
-8F#	.
+8F#J	.
 2A	.
 =11	=11
 4ggn	.
 4ff#	.
 4dd	.
-8a	.
-8b[	.
+8aL	.
+[8bJ	.
 =12	=12
 2.b]	.
 4a	.

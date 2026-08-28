@@ -16,60 +16,60 @@
 *d:	*
 *M6/4	*
 =1	=1
-4.r	Dm
-4r	Dm
+4.r	D minor
+4r	D minor
 8A	.
-4d	D7sus2
+4d	D dominant-seventh-suspended-second
 8f	.
-4d	D7sus2
-8g[	.
+4d	D dominant-seventh-suspended-second
+[8g	.
 =2	=2
-4.g]	Gadd(2,4,7)/D
-4f	Gadd(2,4,7)/D
-8e[	.
-4e]	G/D
-8d[	.
-4.d]	G/D
+4.g]	G other-2,4,7/D
+4f	G other-2,4,7/D
+[8e	.
+4e]	G major/D
+[8d	.
+4.d]	G major/D
 =3	=3
-4.r	Dm
-4d	Dm
+4.r	D minor
+4d	D minor
 8A	.
-4d	D7sus2
+4d	D dominant-seventh-suspended-second
 8f	.
-4d	D7sus2
-8g[	.
+4d	D dominant-seventh-suspended-second
+[8g	.
 =4	=4
-4.g_	Gadd(2,4,7)/D
-4.g]	Gadd(2,4,7)/D
-4.r	G/D
-4.r	G/D
+4.g_	G other-2,4,7/D
+4.g]	G other-2,4,7/D
+4.r	G major/D
+4.r	G major/D
 =5	=5
-4.r	Dm
-4r	Dm
+4.r	D minor
+4r	D minor
 8a	.
-4dd	Am/C
+4dd	A minor/C
 8dd	.
-4dd	Am/C
+4dd	A minor/C
 8a-	.
 =6	=6
-4.g	G/B
-4g	G/B
-8g[	.
-4g]	Gm/B-
-8f[	.
-4f]	Gm/B-
-8a[	.
+4.g	G major/B
+4g	G major/B
+[8g	.
+4g]	G minor/B-
+[8f	.
+4f]	G minor/B-
+[8a	.
 =7	=7
-4.a]	Am
-4.a	Am
-4.b-	Am
-4a	Am
-8a[	.
+4.a]	A minor
+4.a	A minor
+4.b-	A minor
+4a	A minor
+[8a	.
 =8	=8
-4.a_	A/D-
-4.a_	A/D-
-4a]	A/D-
+4.a_	A major/D-
+4.a_	A major/D-
+4a]	A major/D-
 8r	.
-4.r	A/D-
+4.r	A major/D-
 ==	==
 *-	*-

@@ -16,57 +16,57 @@
 *a:	*
 *M4/4	*
 =1	=1
-1aa[	Dm
+[1aa	D minor
 =2	=2
-2aa]	Dsus2
+2aa]	D suspended-second
 2eee	.
 =3	=3
-1ddd	Gmaj7
+1ddd	G major-seventh
 =4	=4
-2.bb	G
+2.bb	G major
 4gg	.
 =5	=5
-1aa[	F
+[1aa	F major
 =6	=6
-2aa]	Fmaj7
+2aa]	F major-seventh
 2eee	.
 =7	=7
-1ddd	E7
+1ddd	E dominant
 =8	=8
 1eee	.
 =9	=9
-16E	Eadd(1,7,10)
+16ELL	E other-1,7,10
 16G#	.
 16B	.
 16d	.
 16e	.
 16g#	.
 16b	.
-16dd	.
-16e	.
+16ddJJ	.
+16eLL	.
 16g#	.
 16b	.
 16dd	.
 16ee	.
 16gg#	.
 16bb	.
-16ddd	.
+16dddJJ	.
 =10	=10
-16e	.
+16eLL	.
 16g#	.
 16b	.
 16dd	.
 16ee	.
 16gg#	.
 16bb	.
-16ddd	.
-16ggg#	.
+16dddJJ	.
+16ggg#LL	.
 16eee	.
 16ddd	.
 16bb	.
 16gg#	.
 16ee	.
 16dd	.
-16b	.
+16bJJ	.
 ==	==
 *-	*-

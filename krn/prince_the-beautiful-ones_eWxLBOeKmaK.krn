@@ -16,53 +16,53 @@
 *F:	*
 *M4/4	*
 =1	=1
-2r	Fadd(2,4,7)
-8a	.
-16a	.
-16g[	.
-8g]	C
-16g	.
-16f[	.
+2r	F other-2,4,7
+8aL	.
+16aL	.
+[16gJ	.
+8g]	C major
+16gL	.
+[16fJJ	.
 =2	=2
-4.f]	B-
+4.f]	B- major
 8a	.
 2r	.
 =3	=3
-2r	Fadd(2,4,7)
-8a	.
-16a	.
-16g[	.
-8g]	C
-16g	.
-16f[	.
+2r	F other-2,4,7
+8aL	.
+16aL	.
+[16gJ	.
+8g]	C major
+16gL	.
+[16fJJ	.
 =4	=4
-8f]	B-
+8f]	B- major
 2..r	.
 =5	=5
-2r	Fadd(2,4,7)
-8a	.
-16a	.
-16g[	.
-8g]	C
-16g	.
-16f[	.
+2r	F other-2,4,7
+8aL	.
+16aL	.
+[16gJ	.
+8g]	C major
+16gL	.
+[16fJJ	.
 =6	=6
-4.f]	B-
-16a	.
-16b-	.
+4.f]	B- major
+16aLL	.
+16b-JJ	.
 2r	.
 =7	=7
-6...r	Fadd(2,4,7)
+6...r	F other-2,4,7
+16cLL	.
 16c	.
-16c	.
-16c	.
+16cJJ	.
 4a	.
-16a	C
-16g	.
-8a	.
+16aLL	C major
+16gJ	.
+8aJ	.
 =8	=8
-16a	B-
-16g	.
+16aLL	B- major
+16gJJ	.
 4f	.
 3...r	.
 ==	==

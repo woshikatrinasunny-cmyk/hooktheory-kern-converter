@@ -15,76 +15,76 @@
 *G:	*
 *M4/4	*
 =1	=1
-16a	G
-16b	.
+16aLL	G major
+16bJJ	.
 4gg	.
-16g	Dadd(2,4,7)/F#
-16a	.
+16gLL	D other-2,4,7/F#
+16aJJ	.
 4ee	.
-16d	Cadd(2,4,7)
-16e	.
-8g[	.
+16dLL	C other-2,4,7
+16eJ	.
+[8gJ	.
 =2	=2
-8.g]	.
+8.gL]	.
 8g	.
 8g	.
-16a	.
-8b	.
-16b	.
+16aJk	.
+8bL	.
+16bk	.
 8.b	.
-8a	.
+8aJ	.
 =3	=3
-16a	G
-16b	.
+16aLL	G major
+16bJJ	.
 4gg	.
-16g	Dadd(2,4,7)/F#
-16a	.
+16gLL	D other-2,4,7/F#
+16aJJ	.
 4ee	.
-16d	Cadd(2,4,7)
-16e	.
-8g[	.
+16dLL	C other-2,4,7
+16eJ	.
+[8gJ	.
 =4	=4
-8.g]	.
+8.gL]	.
 8b	.
-16cc	.
-16b	.
+16ccL	.
+16bJJ	.
 8cc	.
-16dd	.
-8ee	.
-4dd[	.
+16ddLK	.
+8eeJ	.
+[4dd	.
 =5	=5
-16dd]	G
-16cc	.
-8b	.
+16ddLL]	G major
+16ccJ	.
+8bJ	.
 8r	.
-16g	Dadd(2,4,7)/F#
-16a	.
+16gLL	D other-2,4,7/F#
+16aJJ	.
 4ee	.
-16d	Cadd(2,4,7)
-16e	.
-8g[	.
+16dLL	C other-2,4,7
+16eJ	.
+[8gJ	.
 =6	=6
-8.g]	.
+8.gL]	.
 8g	.
 8g	.
-16a	.
+16aJk	.
+8bL	.
+16bk	.
 8b	.
-16b	.
-8b	.
-16a	.
-8g[	.
+16ak	.
+[8gJ	.
 =7	=7
-16g]	G
-16e	.
-4d[	.
-8d]	Dadd(2,4,7)/F#
+16gLL]	G major
+16eJJ	.
+[4d	.
+8d]	D other-2,4,7/F#
 8r	.
-8a[	.
-8a]	Cadd(2,4,7)
-8g[	.
+[8aL	.
+8a]	C other-2,4,7
+[8gJ	.
 =8	=8
-8g]	.
-8b	.
+8gL]	.
+8bJ	.
 2a	.
 ==	==
 *-	*-

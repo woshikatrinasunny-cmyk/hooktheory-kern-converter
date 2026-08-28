@@ -16,42 +16,42 @@
 *C:	*
 *M2/4	*
 =1	=1
-8gg	C
-8cc	Gadd(2)
-8b	Gsus4/C
-8a	Dm
+8ggL	C major
+8ccJ	G other-2
+8bL	G suspended-fourth/C
+8aJ	D minor
 =2	=2
-8g	Em
-8f	Dm/F
-8g	Em/G
-8a	F/A
+8gL	E minor
+8fJ	D minor/F
+8gL	E minor/G
+8aJ	F major/A
 =3	=3
-8b	G/B
-8a	F/A
-8b	G/B
-8cc	Am/C
+8bL	G major/B
+8aJ	F major/A
+8bL	G major/B
+8ccJ	A minor/C
 =4	=4
-8dd	Bm/D
-8cc	Am/C
-8dd	Bm/D
-8ee	C/E
+8ddL	B minor/D
+8ccJ	A minor/C
+8ddL	B minor/D
+8eeJ	C major/E
 =5	=5
-8gg	C
-8cc	Gadd(2)
-8b	Gsus4/C
-8a	Dm
+8ggL	C major
+8ccJ	G other-2
+8bL	G suspended-fourth/C
+8aJ	D minor
 =6	=6
-8g	Em
-8f	Dm/F
-8g	Em/G
-8a	F/A
+8gL	E minor
+8fJ	D minor/F
+8gL	E minor/G
+8aJ	F major/A
 =7	=7
-8FF	FmMaj7
-8C	FmMaj7
-8F	FmMaj7
-8c	FmMaj7
+8FFL	F major-minor
+8CJ	F major-minor
+8FL	F major-minor
+8cJ	F major-minor
 =8	=8
-4e	Caug/E
-4d	Ddim
+4e	C augmented/E
+4d	D diminished
 ==	==
 *-	*-

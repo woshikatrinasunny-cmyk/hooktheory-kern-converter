@@ -16,64 +16,64 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.gg#	Eadd(4,7,9)
+4.gg#	E other-4,7,9
 4bb	.
-8gg#	.
+8gg#L	.
 8ee	.
-8b	.
+8bJ	.
 =2	=2
-4.cc#	Aadd(4,7,9)
+4.cc#	A other-4,7,9
 3...b	.
 =3	=3
 1r	.
 =4	=4
 1r	.
 =5	=5
-4.gg#	E
+4.gg#	E major
 4bb	.
-8ee	.
+8eeL	.
 8gg#	.
-8bb	.
+8bbJ	.
 =6	=6
-4.ccc#	Aadd(4,7,9)
+4.ccc#	A other-4,7,9
 3...bb	.
 =7	=7
 1r	.
 =8	=8
 1r	.
 =9	=9
-4.gg#	E/G#
+4.gg#	E major/G#
 4bb	.
-8gg#	.
+8gg#L	.
 8ee	.
-8b	.
+8bJ	.
 =10	=10
-4.cc#	F#m7
+4.cc#	F# minor-seventh
 3...b	.
 =11	=11
 1r	.
 =12	=12
 1r	.
 =13	=13
-8b	E/G#
+8bL	E major/G#
 8cc#	.
-8dd#	.
+8dd#J	.
 4ee	.
-8b	.
+8bL	.
 8ee	.
-8gg#	.
+8gg#J	.
 =14	=14
-4bb	A
+4bb	A major
 4gg#	.
-4ee	Asus2
-8gg#	.
-8ee[	.
+4ee	A suspended-second
+8gg#L	.
+[8eeJ	.
 =15	=15
-1ee]	B11
+1ee]	B dominant-11th
 =16	=16
-4r	E
-4r	F
-4r	F#
-4r	G
+4r	E major
+4r	F major
+4r	F# major
+4r	G major
 ==	==
 *-	*-

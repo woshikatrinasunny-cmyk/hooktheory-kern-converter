@@ -16,28 +16,28 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2.dd	E-maj7/G
+2.dd	E- major-seventh/G
 4cc	.
 =2	=2
-1ff	C7sus4
+1ff	C dominant-seventh-suspended-fourth
 =3	=3
-2.b-	E-add(2,4,7)
+2.b-	E- other-2,4,7
 4g	.
 =4	=4
-2dd	B-7/A-
-2cc	B-7sus2/A-
+2dd	B- dominant/A-
+2cc	B- dominant-seventh-suspended-second/A-
 =5	=5
-4.b-[	Cm7
-8b-]	B-/D
-4dd[	.
-4dd]	E-maj7
+[4.b-	C minor-seventh
+8b-]	B- major/D
+[4dd	.
+4dd]	E- major-seventh
 =6	=6
-2b-	E-/G
-2g	Gm7/F
+2b-	E- major/G
+2g	G minor-seventh/F
 =7	=7
-1f	D-maj7
+1f	D- major-seventh
 =8	=8
-3...c[	Cm/E-
+[3...c	C minor/E-
 16c]	.
 6...B-	.
 ==	==

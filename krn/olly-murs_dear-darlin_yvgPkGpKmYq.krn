@@ -16,117 +16,117 @@
 *b:	*
 *M4/4	*
 =1	=1
-4.r	Bm
-4.r	Bm
-4r	Bm
+4.r	B minor
+4.r	B minor
+4r	B minor
 =2	=2
-4.r	Bm
-4r	Bm
-8dd[	.
-8dd]	Bm
-8dd	.
+4.r	B minor
+4r	B minor
+[8ddL	.
+8dd]	B minor
+8ddJ	.
 =3	=3
-8r	Bm
-4a[	.
-4.a_	Bm
-4a]	Bm
+8r	B minor
+[4a	.
+4.a_	B minor
+4a]	B minor
 =4	=4
-4dd	Bm
+4dd	B minor
 8dd	.
-4dd	Bm
-8ee[	.
-8ee]	Bm
-8ee[	.
+4dd	B minor
+[8eeL	.
+8ee]	B minor
+[8eeJ	.
 =5	=5
-8ee]	A
-4cc#[	.
-4.cc#_	A
-4cc#]	A
+8ee]	A major
+[4cc#	.
+4.cc#_	A major
+4cc#]	A major
 =6	=6
-8dd	A
+8ddL	A major
 8ee	.
 8dd	.
-8ee	A
-8gg	.
+8eeJ	A major
+8ggL	.
 8ff#	.
-8ee	A
-8ee	.
+8ee	A major
+8eeJ	.
 =7	=7
-4.dd[	Em
-4.dd_	Em
-8dd]	Em
-16a	.
-16b	.
+[4.dd	E minor
+4.dd_	E minor
+8ddL]	E minor
+16aL	.
+16bJJ	.
 =8	=8
-4.dd	Em
-16b	Em
-16dd	.
-4ee[	.
-8ee]	Em
-8b	.
+4.dd	E minor
+16bLL	E minor
+16ddJJ	.
+[4ee	.
+8eeL]	E minor
+8bJ	.
 =9	=9
-4.b[	Bm
-8b]	Bm
+[4.b	B minor
+8b]	B minor
 4r	.
-4r	Bm
+4r	B minor
 =10	=10
-4.r	Bm
-4r	Bm
-8a	.
-8dd	Bm
-8dd	.
+4.r	B minor
+4r	B minor
+8aL	.
+8dd	B minor
+8ddJ	.
 =11	=11
-8r	Bm
-4a[	.
-4.a_	Bm
-8a]	Bm
-8dd	.
+8r	B minor
+[4a	.
+4.a_	B minor
+8aL]	B minor
+8ddJ	.
 =12	=12
-8dd	Bm
+8dd	B minor
 4dd	.
-4dd	Bm
-8ee[	.
-8ee]	Bm
-8ee[	.
+4dd	B minor
+[8eeL	.
+8ee]	B minor
+[8eeJ	.
 =13	=13
-8ee]	A
-4cc#[	.
-8cc#]	A
+8ee]	A major
+[4cc#	.
+8cc#]	A major
 4r	.
-8r	A
+8r	A major
 8cc#	.
 =14	=14
-8dd	A
+8ddL	A major
 8ee	.
 8dd	.
-8ee	A
-8gg	.
+8eeJ	A major
+8ggL	.
 8ff#	.
-8ee	A
-8ee	.
+8ee	A major
+8eeJ	.
 =15	=15
-4.dd[	Em
-4.dd_	Em
-8dd]	Em
-16a	.
-16b	.
+[4.dd	E minor
+4.dd_	E minor
+8ddL]	E minor
+16aL	.
+16bJJ	.
 =16	=16
-4.dd	Em
-16b	Em
-16dd	.
-4ee[	.
-8ee]	Em
-16b	.
-16b[	.
+4.dd	E minor
+16bLL	E minor
+16ddJJ	.
+[4ee	.
+8eeL]	E minor
+16bL	.
+[16bJJ	.
 =17	=17
-4.b_	Bm
-8b]	Bm
+4.b_	B minor
+8b]	B minor
 4r	.
-4r	Bm
+4r	B minor
 =18	=18
-4.r	Bm
-8ff#	Bm
+4.r	B minor
+8ff#	B minor
 4ee	.
-4dd	Bm
+4dd	B minor
 ==	==
 *-	*-

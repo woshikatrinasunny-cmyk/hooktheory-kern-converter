@@ -16,62 +16,62 @@
 *B:	*
 *M4/4	*
 =1	=1
-4.b	B/D#
+4.b	B major/D#
 8a#	.
-8.b	.
+8.bL	.
 8.cc#	.
-8dd#	.
+8dd#J	.
 =2	=2
-4.ee	C#m
-16dd#	.
-16ee	.
+4.ee	C# minor
+16dd#LL	.
+16eeJJ	.
 4dd#	.
 4cc#	.
 =3	=3
-4.b	B/F#
+4.b	B major/F#
 8a#	.
-8.b	.
+8.bL	.
 8.cc#	.
-8dd#	.
+8dd#J	.
 =4	=4
-4.ee	C#m7b5/G
-16dd#	.
-16ee	.
+4.ee	C# half-diminished/G
+16dd#LL	.
+16eeJJ	.
 4dd#	.
 4cc#	.
 =5	=5
-8.b	G#m
+8.bL	G# minor
 8b	.
-16b	.
-8a#	.
+16bk	.
+8a#J	.
 8b	.
 4.r	.
 =6	=6
 1r	.
 =7	=7
-8.cc#	A
+8.cc#L	A major
 8cc#	.
-16cc#	.
-8ccn	.
+16cc#k	.
+8ccnJ	.
 8cc#	.
 4.r	.
 =8	=8
 1r	.
 =9	=9
-4r	Bm
+4r	B minor
 4b	.
 4bb	.
-8aan	.
-8ggn	.
+8aanL	.
+8ggnJ	.
 =10	=10
-2ff#	C
+2ff#	C major
 2ee	.
 =11	=11
-1dd#[	B
+[1dd#	B major
 =12	=12
-16dd#_	B
-16dd#]	C
-8r	B
+16dd#LL_	B major
+16dd#JJ]	C major
+8r	B major
 2.r	.
 ==	==
 *-	*-

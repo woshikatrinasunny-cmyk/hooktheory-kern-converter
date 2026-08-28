@@ -16,90 +16,90 @@
 *D:	*
 *M4/4	*
 =1	=1
-4r	D
-4r	D/A
-4r	D
-4r	D/A
+4r	D major
+4r	D major/A
+4r	D major
+4r	D major/A
 =2	=2
-4r	A
-4r	A/E
-4r	D
-4r	D/A
+4r	A major
+4r	A major/E
+4r	D major
+4r	D major/A
 =3	=3
-4r	D
-4r	D/A
-4r	D
-4r	D/A
+4r	D major
+4r	D major/A
+4r	D major
+4r	D major/A
 =4	=4
-4r	A
-4r	A/E
-4r	D
-8r	D/A
-8r	Bm7/A
+4r	A major
+4r	A major/E
+4r	D major
+8r	D major/A
+8r	B minor-seventh/A
 =5	=5
-4r	D
-4r	D/A
-4r	D
-4r	D/A
+4r	D major
+4r	D major/A
+4r	D major
+4r	D major/A
 =6	=6
-4r	A
-4r	A/E
-4r	D
-4r	D/A
+4r	A major
+4r	A major/E
+4r	D major
+4r	D major/A
 =7	=7
-4r	D
-4r	D/A
-4r	D
-4r	D/A
+4r	D major
+4r	D major/A
+4r	D major
+4r	D major/A
 =8	=8
-4r	A
-4r	A/E
-4r	D
-8r	D/A
-8r	Bm7/A
+4r	A major
+4r	A major/E
+4r	D major
+8r	D major/A
+8r	B minor-seventh/A
 =9	=9
-4r	Em
-4r	Em/B
-4r	D/A
-4r	A
+4r	E minor
+4r	E minor/B
+4r	D major/A
+4r	A major
 =10	=10
-4r	F#m
-8r	F#m/C#
-8r	F#m
-4r	Bm
-8r	Bm/F#
-8r	Bm7/A
+4r	F# minor
+8r	F# minor/C#
+8r	F# minor
+4r	B minor
+8r	B minor/F#
+8r	B minor-seventh/A
 =11	=11
-4r	G
-8r	G/D
-8r	G
-4r	D/A
-4r	A
+4r	G major
+8r	G major/D
+8r	G major
+4r	D major/A
+4r	A major
 =12	=12
-8r	D
+8r	D major
 2..r	.
 =13	=13
-4r	Em
-4r	Em/B
-4r	D/A
-4r	A
+4r	E minor
+4r	E minor/B
+4r	D major/A
+4r	A major
 =14	=14
-4r	F#m
-8r	F#m/C#
-8r	F#m
-4r	Bm
-8r	Bm/F#
-8r	Bm7/A
+4r	F# minor
+8r	F# minor/C#
+8r	F# minor
+4r	B minor
+8r	B minor/F#
+8r	B minor-seventh/A
 =15	=15
-4r	Em
-4r	Em/B
-4r	D/F#
-4r	D
+4r	E minor
+4r	E minor/B
+4r	D major/F#
+4r	D major
 =16	=16
-8r	G7
-8r	G
-4r	G7/D
-4r	Dadd(2,4,7)/A
-4r	A
+8r	G dominant
+8r	G major
+4r	G dominant/D
+4r	D other-2,4,7/A
+4r	A major
 ==	==
 *-	*-

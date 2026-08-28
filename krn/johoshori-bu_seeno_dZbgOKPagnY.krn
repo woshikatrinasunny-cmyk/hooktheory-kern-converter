@@ -15,100 +15,100 @@
 *G:	*
 *M4/4	*
 =1	=1
-8.dd	G/B
-16ee[	.
-16ee]	C
+8.ddL	G major/B
+[16eeL	.
+16eeJ]	C major
 8gg	.
-16ff#[	.
-16ff#]	D
-16ee	.
+[16ff#Jk	.
+16ff#LL]	D major
+16eeJ	.
 8ff#	.
-8gg	Em
-8dd	.
+8gg	E minor
+8ddJ	.
 =2	=2
-8.ddd	G/B
-16ccc[	.
-16ccc]	C
+8.dddL	G major/B
+[16cccL	.
+16cccJ]	C major
 8bb	.
-16aa[	.
-16aa]	D
+[16aaJk	.
+16aaLL]	D major
 16bb	.
 16aa	.
-16gg	.
-8.gg	Em
+16ggJ	.
+8.ggJ	E minor
 16r	.
 =3	=3
-8.dd	G/B
-16ee[	.
-16ee]	C
+8.ddL	G major/B
+[16eeL	.
+16eeJ]	C major
 8gg	.
-16ff#[	.
-16ff#]	D
-16ee	.
+[16ff#Jk	.
+16ff#LL]	D major
+16eeJ	.
 8ff#	.
-8gg	Em
-8dd	.
+8gg	E minor
+8ddJ	.
 =4	=4
-8.ddd	G/B
-16ccc[	.
-16ccc]	C
+8.dddL	G major/B
+[16cccL	.
+16cccJ]	C major
 8bb	.
-16aa[	.
-16aa]	D
+[16aaJk	.
+16aaLL]	D major
 16bb	.
 16aa	.
-16gg	.
-8gg	Em
-8dd	.
+16ggJ	.
+8gg	E minor
+8ddJ	.
 =5	=5
-8ddd	G/B
-16ddd	.
-16ddd[	.
-16ddd]	C
+8dddL	G major/B
+16dddL	.
+[16ddd	.
+16dddJ]	C major
 8gg	.
-16ddd[	.
-16ddd]	D
+[16dddJk	.
+16dddLL]	D major
 16ddd	.
 16ddd	.
-16ddd	.
-8ddd	Em
-16bb	.
-16ccc	.
+16dddJ	.
+8ddd	E minor
+16bbL	.
+16cccJJ	.
 =6	=6
-8ddd	G/B
-16ddd	.
-16gg[	.
-16gg]	C
+8dddL	G major/B
+16dddL	.
+[16gg	.
+16ggJ]	C major
 8gg	.
-16aa[	.
-16aa]	D
+[16aaJk	.
+16aaLL]	D major
 16bb	.
 16aa	.
-16gg	.
-8bb	Em
+16ggJ	.
+8bbJ	E minor
 8r	.
 =7	=7
-8.dd	G/B
-16ee[	.
-16ee]	C
+8.ddL	G major/B
+[16eeL	.
+16eeJ]	C major
 8gg	.
-16ff#[	.
-16ff#]	D
-16ee	.
+[16ff#Jk	.
+16ff#LL]	D major
+16eeJ	.
 8ff#	.
-8gg	Em
-8dd	.
+8gg	E minor
+8ddJ	.
 =8	=8
-8.ddd	G/B
-16ccc[	.
-16ccc]	C
+8.dddL	G major/B
+[16cccL	.
+16cccJ]	C major
 8bb	.
-16aa[	.
-16aa]	D
+[16aaJk	.
+16aaLL]	D major
 16bb	.
 16aa	.
-16gg	.
-8.gg	G
+16ggJ	.
+8.ggJ	G major
 16r	.
 ==	==
 *-	*-

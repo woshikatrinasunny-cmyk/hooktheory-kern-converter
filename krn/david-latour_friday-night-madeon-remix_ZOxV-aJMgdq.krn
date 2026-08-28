@@ -16,104 +16,104 @@
 *c:	*
 *M4/4	*
 =1	=1
-8r	A-
+8r	A- major
 16r	.
-16r	A-
-16g	.
-16g[	.
-16g]	A-sus2
-16f[	.
-16f]	.
-16e-[	.
-16e-]	A-
-16d[	.
+16r	A- major
+16gLL	.
+[16g	.
+16g]	A- suspended-second
+[16fJJ	.
+16fLL]	.
+[16e-	.
+16e-]	A- major
+[16d	.
 16d]	.
-16d[	.
-16d]	A-
-16d[	A-sus2
+[16d	.
+16d]	A- major
+[16dJJ	A- suspended-second
 =2	=2
-8d]	Fm7
-16e-[	.
-8e-_	Fm7
-16e-]	.
-8r	F7sus4
-8r	Fm7
+8dL]	F minor-seventh
+[16e-k	.
+8e-_	F minor-seventh
+16e-Jk]	.
+8r	F dominant-seventh-suspended-fourth
+8r	F minor-seventh
 8r	.
-4r	Fm7
+4r	F minor-seventh
 =3	=3
-8r	Cm
+8r	C minor
 16r	.
-16r	Cm
-16d	.
-16d[	.
-16d]	Csus2
-16e-[	.
-8e-]	.
-8d	Cm
+16r	C minor
+16dLL	.
+[16d	.
+16d]	C suspended-second
+[16e-JJ	.
+8e-L]	.
+8d	C minor
 8c	.
-16B-[	Cm
-16B-]	Csus2
+[16B-L	C minor
+16B-JJ]	C suspended-second
 =4	=4
-8d[	Cm
-16d_	.
-16d]	Cm
-16c[	.
+[8dL	C minor
+16dL_	.
+16d]	C minor
+[16c	.
 16c_	.
-16c]	Csus2
-16B-[	.
-8B-_	Cm
-8B-]	.
-4r	Cm
+16c]	C suspended-second
+[16B-JJ	.
+8B-L_	C minor
+8B-J]	.
+4r	C minor
 =5	=5
-8r	A-
+8r	A- major
 16r	.
-16r	A-
-16g	.
-16g[	.
-16g]	A-sus2
-16f[	.
-16f]	.
-16e-[	.
-16e-]	A-
-16d[	.
+16r	A- major
+16gLL	.
+[16g	.
+16g]	A- suspended-second
+[16fJJ	.
+16fLL]	.
+[16e-	.
+16e-]	A- major
+[16d	.
 16d]	.
-16d[	.
-16d]	A-
-16d[	A-sus2
+[16d	.
+16d]	A- major
+[16dJJ	A- suspended-second
 =6	=6
-16d]	Fm7
+16dLL]	F minor-seventh
 16c	.
-16B-[	.
-16B-]	Fm7
+[16B-	.
+16B-JJ]	F minor-seventh
 16r	.
 16r	.
-8r	F7sus4
-8r	Fm7
+8r	F dominant-seventh-suspended-fourth
+8r	F minor-seventh
 8r	.
-4r	Fm7
+4r	F minor-seventh
 =7	=7
-8r	Cm
+8r	C minor
 16r	.
-16r	Cm
-16d	.
-16d[	.
-16d]	Csus2
-16e-[	.
-8e-]	.
-8d	Cm
+16r	C minor
+16dLL	.
+[16d	.
+16d]	C suspended-second
+[16e-JJ	.
+8e-L]	.
+8d	C minor
 8c	.
-16B-[	Cm
-16B-]	Csus2
+[16B-L	C minor
+16B-JJ]	C suspended-second
 =8	=8
-8d[	B-
-16d_	.
-16d]	B-
-16c[	.
+[8dL	B- major
+16dL_	.
+16d]	B- major
+[16c	.
 16c_	.
-16c]	B-sus2
-16B-[	.
-8B-_	B-
-8B-]	.
-4r	B-
+16c]	B- suspended-second
+[16B-JJ	.
+8B-L_	B- major
+8B-J]	.
+4r	B- major
 ==	==
 *-	*-

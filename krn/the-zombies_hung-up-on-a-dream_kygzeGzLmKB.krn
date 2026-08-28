@@ -16,29 +16,29 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	G
+4r	G major
 4B	.
 4B	.
 4B	.
 =2	=2
-4e	C
+4e	C major
 4e	.
 4e	.
 4e	.
 =3	=3
-4B	G
+4B	G major
 4a	.
 4g	.
 4f#	.
 =4	=4
-8g	.
-8f#	.
+8gL	.
+8f#J	.
 4e	.
-8d	.
-8c	.
+8dL	.
+8cJ	.
 4B	.
 =5	=5
-4c	Am
+4c	A minor
 4G	.
 4G	.
 4A	.
@@ -58,33 +58,33 @@
 4G	.
 4A	.
 =9	=9
-1B[	E/B
+[1B	E major/B
 =10	=10
 1B]	.
 =11	=11
-4r	G
+4r	G major
 4B	.
 4B	.
 4B	.
 =12	=12
-4e	C
+4e	C major
 4e	.
 4e	.
 4e	.
 =13	=13
-4B	G
+4B	G major
 4a	.
 4g	.
 4f#	.
 =14	=14
-8g	.
-8f#	.
+8gL	.
+8f#J	.
 4e	.
-8d	.
-8c	.
+8dL	.
+8cJ	.
 4B	.
 =15	=15
-4c	Am
+4c	A minor
 4G	.
 4G	.
 4A	.
@@ -94,7 +94,7 @@
 4B	.
 4A	.
 =17	=17
-4B	Am
+4B	A minor
 4A	.
 4B	.
 4A	.
@@ -104,18 +104,18 @@
 4G	.
 4A	.
 =19	=19
-1B[	E/B
+[1B	E major/B
 =20	=20
 4B]	.
 4B	.
 4e	.
 4g#	.
 =21	=21
-1a	B7sus4
+1a	B dominant-seventh-suspended-fourth
 =22	=22
-4A	F#m7/A
+4A	F# minor-seventh/A
 4e	.
-4a	Eadd(2,5,7)
+4a	E other-2,5,7
 4cc#	.
 ==	==
 *-	*-

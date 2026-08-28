@@ -16,22 +16,22 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4.r	A-
+4.r	A- major
 8b-	.
 4b-	.
 8r	.
 8b-	.
 =2	=2
-4b-	Cm
+4b-	C minor
 8r	.
 8b-	.
-8b-	.
-8ee-	.
+8b-L	.
+8ee-J	.
 4b-	.
 =3	=3
-4r	B-
-8b-	.
-8b-	.
+4r	B- major
+8b-L	.
+8b-J	.
 4b-	.
 4g	.
 =4	=4
@@ -40,69 +40,69 @@
 4f	.
 4e-	.
 =5	=5
-4r	A-
+4r	A- major
 4cc	.
 4g	.
 4g	.
 =6	=6
-4cc	Cm
+4cc	C minor
 4g	.
-8g	.
-8b-	.
+8gL	.
+8b-J	.
 4b-	.
 =7	=7
-2..r	B-
+2..r	B- major
 8g	.
 =8	=8
-8g	E-
+8gL	E- major
 8f	.
 8f	.
+8fJ	.
+8fL	E- major-seventh/D
 8f	.
-8f	E-maj7/D
 8f	.
-8f	.
-8e-	.
+8e-J	.
 =9	=9
-4.r	A-
+4.r	A- major
 8b-	.
 4b-	.
 8r	.
 8b-	.
 =10	=10
-4b-	Cm
+4b-	C minor
 8r	.
 8b-	.
-8b-	.
-8ee-	.
+8b-L	.
+8ee-J	.
 4b-	.
 =11	=11
-4r	B-
-8b-	.
-8b-	.
+4r	B- major
+8b-L	.
+8b-J	.
 4b-	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 =12	=12
 4b-	.
 4g	.
 4f	.
 4e-	.
 =13	=13
-4r	A-
+4r	A- major
 4e-	.
 4e-	.
 4f	.
 =14	=14
-4g	Cm
+4g	C minor
 4c	.
 8c	.
 4B-	.
 8e-	.
 =15	=15
-4d	B-
+4d	B- major
 2.r	.
 =16	=16
-2r	E-
-2r	E-maj7/D
+2r	E- major
+2r	E- major-seventh/D
 ==	==
 *-	*-

@@ -15,12 +15,12 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	A
-8cc#	.
-8b	.
+4r	A major
+8cc#L	.
+8bJ	.
 4a	.
-8cc#	.
-16dd#	B
+8cc#L	.
+16dd#Jk	B major
 16r	.
 =2	=2
 8r	.
@@ -28,38 +28,38 @@
 8.r	.
 16cc#	.
 16r	.
-2b[	.
+[2b	.
 =3	=3
-4b]	G
-8b	.
-8a	.
+4b]	G major
+8bL	.
+8aJ	.
 4gn	.
-8a	.
-8cc#[	A
+8aL	.
+[8cc#J	A major
 =4	=4
 8cc#]	.
-2..a[	.
+[2..a	.
 =5	=5
 4a]	.
-8cc#	.
-8b	.
+8cc#L	.
+8bJ	.
 4a	.
-8cc#	.
-8dd#[	B
+8cc#L	.
+[8dd#J	B major
 =6	=6
 8dd#]	.
 4dd#	.
 8cc#	.
-2b[	.
+[2b	.
 =7	=7
-4b]	G
+4b]	G major
 16b	.
 16r	.
 16a	.
 16r	.
 4gn	.
-8gn	.
-8a[	A
+8gnL	.
+[8aJ	A major
 =8	=8
 1a]	.
 ==	==

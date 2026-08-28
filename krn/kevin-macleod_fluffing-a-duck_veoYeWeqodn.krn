@@ -15,40 +15,40 @@
 *G:	*
 *M4/4	*
 =1	=1
-16GG	G
+16GG	G major
 8.r	.
 16G	.
 16r	.
 8D	.
-16C#	D
+16C#	D major
 16r	.
 16A	.
 8.r	.
 8FF#	.
 =2	=2
-16GG	G
+16GG	G major
 16r	.
 16B	.
 16r	.
 16A	.
 16r	.
 8D	.
-16C#	D
+16C#	D major
 16r	.
 16D	.
 16r	.
-8E	.
-16b	.
+8EL	.
+16bJk	.
 16r	.
 =3	=3
-16GG	G
+16GG	G major
 16r	.
-8b	.
-16a	.
+8bL	.
+16aJk	.
 16r	.
 16g	.
 16r	.
-16e	D
+16e	D major
 16r	.
 16d	.
 16r	.
@@ -57,11 +57,11 @@
 16b	.
 16r	.
 =4	=4
-16GG	G
+16GG	G major
 16r	.
-8b	.
+8bL	.
 8a	.
-16e	.
+16eJk	.
 16r	.
 16g	.
 8.r	.
@@ -73,35 +73,35 @@
 16G	.
 16r	.
 8D	.
-16C#	D
+16C#	D major
 16r	.
 16A	.
 8.r	.
 8FF#	.
 =6	=6
-16GG	G
+16GG	G major
 16r	.
 16B	.
 16r	.
 16A	.
 16r	.
 8D	.
-16C#	D
+16C#	D major
 16r	.
 16D	.
 16r	.
-8E	.
-16b	.
+8EL	.
+16bJk	.
 16r	.
 =7	=7
-16GG	G
+16GG	G major
 16r	.
-8b	.
-16a	.
+8bL	.
+16aJk	.
 16r	.
 16g	.
 16r	.
-16e	D
+16e	D major
 16r	.
 16d	.
 16r	.
@@ -109,7 +109,7 @@
 16r	.
 8b	.
 =8	=8
-16GG	G
+16GG	G major
 16r	.
 16b	.
 16r	.

@@ -15,29 +15,29 @@
 *E:	*
 *M4/4	*
 =1	=1
-4r	E
+4r	E major
 2.r	.
 =2	=2
 4r	.
-4r	D
+4r	D major
 4r	.
-4r	A
+4r	A major
 =3	=3
 4r	.
 2.r	.
 =4	=4
 4r	.
-4r	D
+4r	D major
 4r	.
-4r	E
+4r	E major
 =5	=5
 4r	.
 2.r	.
 =6	=6
 4r	.
-4r	D
+4r	D major
 4r	.
-4r	A
+4r	A major
 =7	=7
 4r	.
 2r	.
@@ -45,179 +45,179 @@
 8r	.
 =8	=8
 4a	.
-4a	D
+4a	D major
 4a	.
-4a	E
+4a	E major
 =9	=9
-4EE	E
+4EE	E major
 4g#	.
 4FF#	.
-8A	.
-8FF#	.
+8AL	.
+8FF#J	.
 =10	=10
-8f#	.
+8f#L	.
 8GGn	.
-8f#	D
-8GG#	.
-8f#	.
-8AA	.
-4f#[	A
+8f#	D major
+8GG#J	.
+8f#L	.
+8AAJ	.
+[4f#	A major
 =11	=11
 4f#]	.
 4e	.
 4BB	.
-8A	.
-8BB	.
+8AL	.
+8BBJ	.
 =12	=12
-8a	.
+8aL	.
 8C#	.
-8a	D
-8D	.
-8a	.
-8E	.
-4a[	E
+8a	D major
+8DJ	.
+8aL	.
+8EJ	.
+[4a	E major
 =13	=13
 4a]	.
 4g#	.
 4FF#	.
-8A	.
-8FF#	.
+8AL	.
+8FF#J	.
 =14	=14
-8f#	.
+8f#L	.
 8GGn	.
-8f#	D
-8GG#	.
-8f#	.
-8AA	.
-4f#[	A
+8f#	D major
+8GG#J	.
+8f#L	.
+8AAJ	.
+[4f#	A major
 =15	=15
 4f#]	.
 4e	.
 4BB	.
-8A	.
-8BB	.
+8AL	.
+8BBJ	.
 =16	=16
-8a	.
+8aL	.
 8C#	.
-8a	D
-8D	.
-8a	.
-8E	.
-4a	E
+8a	D major
+8DJ	.
+8aL	.
+8EJ	.
+4a	E major
 =17	=17
-4EE	E
+4EE	E major
 4g#	.
 4FF#	.
-8A	.
-8FF#	.
+8AL	.
+8FF#J	.
 =18	=18
-8f#	.
+8f#L	.
 8GGn	.
-8f#	D
-8GG#	.
-8f#	.
-8AA	.
-4f#[	A
+8f#	D major
+8GG#J	.
+8f#L	.
+8AAJ	.
+[4f#	A major
 =19	=19
 4f#]	.
 4e	.
 4BB	.
-8A	.
-8BB	.
+8AL	.
+8BBJ	.
 =20	=20
-8a	.
+8aL	.
 8C#	.
-8a	D
-8D	.
-8a	.
-8E	.
-4a[	E
+8a	D major
+8DJ	.
+8aL	.
+8EJ	.
+[4a	E major
 =21	=21
 4a]	.
 4g#	.
 4FF#	.
-8A	.
-8FF#	.
+8AL	.
+8FF#J	.
 =22	=22
-8f#	.
+8f#L	.
 8GGn	.
-8f#	D
-8GG#	.
-8f#	.
-8AA	.
-4f#[	A
+8f#	D major
+8GG#J	.
+8f#L	.
+8AAJ	.
+[4f#	A major
 =23	=23
 4f#]	.
 4e	.
 4BB	.
-8A	.
-8BB	.
+8AL	.
+8BBJ	.
 =24	=24
-8a	.
+8aL	.
 8C#	.
-8a	D
-8D	.
-8a	.
-8E	.
-4a	E7
+8a	D major
+8DJ	.
+8aL	.
+8EJ	.
+4a	E dominant
 =25	=25
-4EE	E7
+4EE	E dominant
 4g#	.
 4FF#	.
-8A	.
-8FF#	.
+8AL	.
+8FF#J	.
 =26	=26
-8f#	.
+8f#L	.
 8GG#	.
-8f#	D/A
-8AA	.
-8f#	.
-8AA	.
-4f#[	A
+8f#	D major/A
+8AAJ	.
+8f#L	.
+8AAJ	.
+[4f#	A major
 =27	=27
 4f#]	.
 4e	.
 4BB	.
-8A	.
-8BB	.
+8AL	.
+8BBJ	.
 =28	=28
-8a	.
+8aL	.
 8C#	.
-8a	D
-8D	.
-8a	.
-8E	.
-4a[	E
+8a	D major
+8DJ	.
+8aL	.
+8EJ	.
+[4a	E major
 =29	=29
 4a]	.
 4g#	.
 4FF#	.
-8A	.
-8FF#	.
+8AL	.
+8FF#J	.
 =30	=30
-8f#	.
+8f#L	.
 8GG#	.
-8f#	D/A
-8AA	.
-8f#	.
-8AA	.
-4f#[	A
+8f#	D major/A
+8AAJ	.
+8f#L	.
+8AAJ	.
+[4f#	A major
 =31	=31
 4f#]	.
 4e	.
 4BB	.
-8A	.
-8BB	.
+8AL	.
+8BBJ	.
 =32	=32
-8a	.
+8aL	.
 8C#	.
-8a	D
-8D	.
-8a	.
-8E	.
-4a	E7
+8a	D major
+8DJ	.
+8aL	.
+8EJ	.
+4a	E dominant
 =33	=33
-4a	E7
+4a	E dominant
 4g#	.
 ==	==
 *-	*-

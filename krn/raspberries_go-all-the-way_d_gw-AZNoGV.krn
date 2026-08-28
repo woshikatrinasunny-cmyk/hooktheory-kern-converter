@@ -16,54 +16,54 @@
 *A:	*
 *M4/4	*
 =1	=1
-8F#	F#add(2,3,7)
+8F#L	F# other-2,3,7
 8A	.
-8c#	.
+8c#J	.
 4g#	.
 4f#	.
 8F#	.
 =2	=2
-8Fn	Aadd(4,8,9,11)/F
+8FnL	A other-4,8,9,11/F
 8A	.
-8c#	.
+8c#J	.
 4g#	.
 4f#	.
 8fn	.
 =3	=3
-8E	Aadd(4,7,9,11)/E
+8EL	A other-4,7,9,11/E
 8A	.
-8c#	.
+8c#J	.
 4g#	.
 4f#	.
 8e	.
 =4	=4
-8D#	D#m7b5
+8D#L	D# half-diminished
 8A	.
-8c#	.
+8c#J	.
 4f#	.
 4c#	.
 8A	.
 =5	=5
-8D	Dsus2
+8DL	D suspended-second
 8A	.
-8d	.
+8dJ	.
 4e	.
 4d	.
 8A	.
 =6	=6
-8C#	A/C#
+8C#L	A major/C#
 8A	.
-8d	.
+8dJ	.
 3...c#	.
 =7	=7
-8Cn	F/C
+8CnL	F major/C
 8cn	.
-8fn	.
+8fnJ	.
 4cn	.
 4.fn	.
 =8	=8
-4d	Bm7
+4d	B minor-seventh
 4fn	.
-2e	E
+2e	E major
 ==	==
 *-	*-

@@ -16,7 +16,7 @@
 *d#:	*
 *M4/4	*
 =1	=1
-16aa#	D#add(2,3,7)
+16aa#	D# other-2,3,7
 4..r	.
 16ee#	.
 4..r	.
@@ -33,11 +33,11 @@
 =4	=4
 16aa#	.
 6...r	.
-8r	Emaj7
+8r	E major-seventh
 16gg#	.
 4..r	.
 =5	=5
-16aa#	D#add(2,3,7)
+16aa#	D# other-2,3,7
 4..r	.
 16ee#	.
 4..r	.
@@ -54,7 +54,7 @@
 =8	=8
 16aa#	.
 6...r	.
-8r	Emaj7
+8r	E major-seventh
 16gg#	.
 4..r	.
 ==	==

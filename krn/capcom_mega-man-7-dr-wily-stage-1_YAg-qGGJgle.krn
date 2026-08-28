@@ -16,105 +16,105 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2...r	G#dim
-16cc#[	F#m
+2...r	G# diminished
+[16cc#	F# minor
 =2	=2
 3...cc#]	.
 4ee	.
-16ff#	.
-16ee[	C#m/G#
+16ff#LL	.
+[16eeJJ	C# minor/G#
 =3	=3
 2.ee_	.
-16ee]	.
+16eeLL]	.
 16dd	.
 16cc#	.
-16dd[	D/A
+[16ddJJ	D major/A
 =4	=4
 2.dd_	.
-16dd]	.
-16cc#	.
+16ddLL]	.
+16cc#JJ	.
 16r	.
-16dd[	G#m7b5
+[16dd	G# half-diminished
 =5	=5
 4dd]	.
 4cc#	.
 4a	.
-8.b	Fdim/G#
-16cc#[	F#m
+8.bL	F diminished/G#
+[16cc#Jk	F# minor
 =6	=6
 3...cc#]	.
 4ee	.
-16ff#	.
-16gg#[	C#m/G#
+16ff#LL	.
+[16gg#JJ	C# minor/G#
 =7	=7
 3...gg#]	.
 4bb	.
-16gg#	.
-16aa[	D/A
+16gg#LL	.
+[16aaJJ	D major/A
 =8	=8
 3...aa]	.
-8.bb	.
-8ccc#	.
+8.bbL	.
+8ccc#J	.
 16r	.
 =9	=9
-4ddd	G#dim
+4ddd	G# diminished
 4ccc#	.
 4bb	.
-8.gg#	.
-16aa[	F#m/A
+8.gg#L	.
+[16aaJk	F# minor/A
 =10	=10
-8aa]	.
-16ff#	.
-2ff#[	.
+8aaL]	.
+16ff#Jk	.
+[2ff#	.
 16ff#]	.
 16r	.
-16ccc#	.
+16ccc#LL	.
 16bb	.
-16ccc#	.
+16ccc#JJ	.
 =11	=11
-8bb	E/G#
-16ee	.
-2ee[	.
+8bbL	E major/G#
+16eeJk	.
+[2ee	.
 16ee]	.
 16r	.
-16bb	.
+16bbLL	.
 16aa	.
-16bb	.
+16bbJJ	.
 =12	=12
-8aa	D
-16dd	.
-2dd[	.
+8aaL	D major
+16ddJk	.
+[2dd	.
 16dd]	.
 16r	.
-16aa	.
+16aaLL	.
 16gg#	.
-16aa	.
+16aaJJ	.
 =13	=13
-4bb	E7
+4bb	E dominant
 4aa	.
-8.gg#	.
-16ee	F#m7/E
+8.gg#L	.
+16eeJk	F# minor-seventh/E
 16r	.
-16ffn	C#m/E
+16ffn	C# minor/E
 16r	.
-16ff#[	F#m
+[16ff#	F# minor
 =14	=14
 2ff#]	.
 16r	.
-16ff#	.
+16ff#LL	.
 16ffn	.
 16ff#	.
 16gg#	.
 16aa	.
 16bb	.
-16eee[	C#m/G#
+[16eeeJJ	C# minor/G#
 =15	=15
 2eee_	.
 16eee]	.
 16r	.
-8.fff#	.
+8.fff#L	.
 8fff#	.
-16ccc#[	F#m/A
+[16ccc#Jk	F# minor/A
 =16	=16
 3...ccc#_	.
 16ccc#]	.
@@ -122,36 +122,36 @@
 8.bb	.
 16r	.
 =17	=17
-16ddd	G#dim
+16dddLL	G# diminished
 16ccc#	.
 16bb	.
 16aa	.
 16gg#	.
 16aa	.
 16bb	.
-16gg#	.
-16ff#	.
+16gg#JJ	.
+16ff#LL	.
 16cc#	.
 16gg#	.
 16cc#	.
 16bb	.
 16aa	.
 16gg#	.
-16ffn	.
+16ffnJJ	.
 =18	=18
-4.dd	F#m
+4.dd	F# minor
 4.cc#	.
 4b	.
 =19	=19
-4.cc#	G#m7b5
+4.cc#	G# half-diminished
 4.b	.
 4g#	.
 =20	=20
-4.a	F#m/A
+4.a	F# minor/A
 4.b	.
 4cc#	.
 =21	=21
-4dd	G#m7b5
+4dd	G# half-diminished
 4cc#	.
 4b	.
 8.g#	.

@@ -16,29 +16,29 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
-8ggg	.
-8ggg	.
-4ggg	Am
+4r	C major
+8gggL	.
+8gggJ	.
+4ggg	A minor
 8r	.
-16ggg	.
-16fff	.
+16gggLL	.
+16fffJJ	.
 =2	=2
-8eee	F
-16eee	.
-16fff	.
+8eeeL	F major
+16eeeL	.
+16fffJ	.
 8ggg	.
-8eee	.
-4ddd	G
-8ccc	.
-8ddd	.
+8eeeJ	.
+4ddd	G major
+8cccL	.
+8dddJ	.
 =3	=3
-8eee	C
-8ccc	.
+8eeeL	C major
+8cccJ	.
 4gg	.
-2r	Am
+2r	A minor
 =4	=4
-2r	Fsus2
-2r	G
+2r	F suspended-second
+2r	G major
 ==	==
 *-	*-

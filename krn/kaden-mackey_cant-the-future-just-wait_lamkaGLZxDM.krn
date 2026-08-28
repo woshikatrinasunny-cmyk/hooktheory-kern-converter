@@ -16,57 +16,57 @@
 *E:	*
 *M4/4	*
 =1	=1
-16g#	E
+16g#	E major
 2r	.
-8g#	.
-16a	.
+8g#L	.
+16aL	.
 16g#	.
-16f#	.
-8e	.
+16f#J	.
+8eJ	.
 =2	=2
-16r	G#
-8g#	.
-16g#	.
-16g#	.
-8a	.
+16r	G# major
+8g#L	.
+16g#L	.
+16g#J	.
+8aJ	.
 8g#	.
 16r	.
-16g#	.
+16g#LL	.
 16g#	.
 16g#	.
 16f#	.
 16g#	.
-16dd#[	.
+[16dd#JJ	.
 =3	=3
-8.dd#]	C#add(2,3,7)
-16cc#[	.
-16cc#]	C#m
+8.dd#L]	C# other-2,3,7
+[16cc#L	.
+16cc#]	C# minor
 16f#	.
 16g#	.
-16b[	.
-8.b]	C#m7
-16a#[	.
-8.a#]	C#add(3,7,9)
+[16bJJ	.
+8.bL]	C# minor-seventh
+[16a#k	.
+8.a#J]	C# other-3,7,9
 16r	.
 =4	=4
-2r	A
-2r	Am
+2r	A major
+2r	A minor
 =5	=5
 *k[f#c#g#]	*
 *E:	*
-1r	E
+1r	E major
 =6	=6
-1r	G#/D#
+1r	G# major/D#
 =7	=7
-1r	Dadd(2,4,7,9)
+1r	D other-2,4,7,9
 =8	=8
-1r	A/C#
+1r	A major/C#
 =9	=9
-1r	C
+1r	C major
 =10	=10
-1r	D
+1r	D major
 =11	=11
-1r	E
+1r	E major
 =12	=12
 1r	.
 =13	=13

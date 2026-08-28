@@ -16,63 +16,63 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2.ccc	B-add(2,4,7)
+2.ccc	B- other-2,4,7
 4bb-	.
 =2	=2
-2.ff	B-
+2.ff	B- major
 4bb-	.
 =3	=3
-2.ccc	Dm7
+2.ccc	D minor-seventh
 4ddd	.
 =4	=4
-2.ff	Dm
+2.ff	D minor
 4ff	.
 =5	=5
-4ff	E-
+4ff	E- major
 4ee-	.
 4dd	.
 4ee-	.
 =6	=6
-2.bb-	E-
+2.bb-	E- major
 4ff	.
 =7	=7
-4ff	E-add(2,3,7)/G-
+4ff	E- other-2,3,7/G-
 4ee-	.
 4dd	.
 4ee-	.
 =8	=8
-2bb-	A-9
+2bb-	A- dominant-ninth
 2ccc	.
 =9	=9
-2.ccc	B-add(2,4,7)
+2.ccc	B- other-2,4,7
 4bb-	.
 =10	=10
-2ff	B-
+2ff	B- major
 4ff	.
 4bb-	.
 =11	=11
-2.ccc	Dm7
+2.ccc	D minor-seventh
 4ff	.
 =12	=12
-2.ddd	G7
+2.ddd	G dominant
 4ff	.
 =13	=13
-4ff	Cm
+4ff	C minor
 4ee-	.
 4dd	.
 4ee-	.
 =14	=14
-2.bb-	Cm7
+2.bb-	C minor-seventh
 4ff	.
 =15	=15
-4ff	E-m
+4ff	E- minor
 4ee-	.
 4dd	.
 4ee-	.
 =16	=16
-2bb-	A-9
+2bb-	A- dominant-ninth
 2ccc	.
 =17	=17
-1bb-	B-
+1bb-	B- major
 ==	==
 *-	*-

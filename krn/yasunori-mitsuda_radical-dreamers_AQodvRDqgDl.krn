@@ -16,86 +16,86 @@
 *b:	*
 *M4/4	*
 =1	=1
-16B	Bm
+16BLL	B minor
 16f#	.
 16b	.
 16dd	.
 16ff#	.
 16f#	.
 16b	.
-16dd	.
-16G	Gmaj7
+16ddJJ	.
+16GLL	G major-seventh
 16f#	.
 16g	.
 16ff#	.
 16G	.
 16dd	.
 16f#	.
-16g	.
+16gJJ	.
 =2	=2
-16d	D
+16dLL	D major
 16a	.
 16dd	.
 16ff#	.
 16d	.
 16dd	.
 16a	.
-16d	.
-16A	Asus4
+16dJJ	.
+16ALL	A suspended-fourth
 16e	.
 16a	.
 16dd	.
-16A	A
+16A	A major
 16cc#	.
 16a	.
-16e	.
+16eJJ	.
 =3	=3
-16B	Bm
+16BLL	B minor
 16f#	.
 16b	.
 16ff#	.
 16B	.
 16dd	.
 16b	.
-16f#	.
-16G	Gmaj7
+16f#JJ	.
+16GLL	G major-seventh
 16f#	.
 16g	.
 16ff#	.
 16G	.
 16dd	.
 16g	.
-16f#	.
+16f#JJ	.
 =4	=4
-16A	Aadd(2,5,7)
+16ALL	A other-2,5,7
 16a	.
 16dd	.
 16b	.
 16A	.
 16ee	.
 16a	.
-16dd	.
-16A	A
+16ddJJ	.
+16ALL	A major
 16b	.
 16cc#	.
 16a	.
 16A	.
 16ee	.
 16a	.
-16cc#	.
+16cc#JJ	.
 =5	=5
-2a[	Bm7
-4a]	Gadd(2,4,7)
+[2a	B minor-seventh
+4a]	G other-2,4,7
 4ee	.
 =6	=6
-2ff#	D
-4ee[	Asus4
-4ee]	A
+2ff#	D major
+[4ee	A suspended-fourth
+4ee]	A major
 =7	=7
-2dd	Bm
-2gg	Gmaj7
+2dd	B minor
+2gg	G major-seventh
 =8	=8
-2ee[	Aadd(2,5,7)
-2ee]	A
+[2ee	A other-2,5,7
+2ee]	A major
 ==	==
 *-	*-

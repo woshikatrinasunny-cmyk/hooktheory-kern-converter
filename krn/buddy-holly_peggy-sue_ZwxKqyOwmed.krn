@@ -16,28 +16,28 @@
 *A:	*
 *M4/4	*
 =1	=1
-8a	A
+8a	A major
 4a	.
 4.cc#	.
 4r	.
 =2	=2
-4f#	D
+4f#	D major
 8f#	.
 4.a	.
 4r	.
 =3	=3
-4e	A
+4e	A major
 4e	.
-4f#	D
+4f#	D major
 4a	.
 =4	=4
-4ccn	A
+4ccn	A major
 4b	.
-8a	.
-8f#	.
+8aL	.
+8f#J	.
 4e	.
 =5	=5
-4f#	D
+4f#	D major
 4a	.
 2r	.
 =6	=6
@@ -45,39 +45,39 @@
 4dd	.
 8dd	.
 4dd	.
-8ee	.
-8cc#[	.
+8eeL	.
+[8cc#J	.
 =7	=7
-8cc#]	A
-8b	.
-4a[	.
-4a]	D
+8cc#L]	A major
+8bJ	.
+[4a	.
+4a]	D major
 4r	.
 =8	=8
-2r	A
-8r	E
+2r	A major
+8r	E major
+8aL	.
 8a	.
-8a	.
-8a	.
+8aJ	.
 =9	=9
-4g#	E
+4g#	E major
 8e	.
 4e	.
 4e	.
 8e	.
 =10	=10
-4a	D
+4a	D major
 4b	.
-8ccn	.
+8ccnL	.
 8b	.
 8a	.
-8a	.
+8aJ	.
 =11	=11
-8f#	A
+8f#	A major
 4.e	.
-2r	D
+2r	D major
 =12	=12
-2r	A
-2r	E
+2r	A major
+2r	E major
 ==	==
 *-	*-

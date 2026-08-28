@@ -16,50 +16,50 @@
 *M4/4	*
 =1	=1
 2r	.
-16ff	B/G-
+16ffLL	B major/G-
 16ee-	.
-16ff	.
+16ffJJ	.
 16r	.
-16Bn	G
+16Bn	G major
 16r	.
-8dd-[	D-/F
+[8dd-	D- major/F
 =2	=2
-8dd-]	.
-16d-	G-m
+8dd-L]	.
+16d-Jk	G- minor
 16r	.
-16Bn	A-m/E-
+16Bn	A- minor/E-
 16r	.
-16d-	G-m
+16d-	G- minor
 16r	.
-16e-	A-m
+16e-	A- minor
 16r	.
-16en	Am
+16en	A minor
 16r	.
-8aa-	D-
-16an	.
-16an	.
+8aa-L	D- major
+16anL	.
+16anJJ	.
 =3	=3
-16a-	.
+16a-LL	.
 16an	.
 16f	.
 16an	.
 16en	.
-16ggn	Cm/G
+16ggn	C minor/G
 16aan	.
-16aan	.
-16aa-	.
+16aanJJ	.
+16aa-LL	.
 16aan	.
 16ff	.
 16aan	.
-16een	.
+16eenJJ	.
 16r	.
-16bn	.
-16dd-	.
+16bnLL	.
+16dd-JJ	.
 =4	=4
-2ee-	A-7sus2
-2ff	Fadd(1,3,7)/A-
+2ee-	A- dominant-seventh-suspended-second
+2ff	F other-1,3,7/A-
 =5	=5
-16gg-	A-7sus2
+16gg-	A- dominant-seventh-suspended-second
 16r	.
 16ff	.
 16r	.
@@ -71,30 +71,30 @@
 16aa-	.
 16r	.
 =6	=6
-8.aan[	A7/G
-8.aan]	A/D-
-16een	A7/G
+[8.aanL	A dominant/G
+8.aan]	A major/D-
+16eenJk	A dominant/G
 16r	.
-16ggn[	.
-6...ggn]	Cm/E-
-16ee-	Cm/G
+[16ggn	.
+6...ggn]	C minor/E-
+16ee-	C minor/G
 16r	.
 =7	=7
-16ggn	Cm
+16ggnLL	C minor
 16ggn	.
-16ggn	.
-16r	G-dim
-8aan[	.
-8aan_	A-7
-8aan]	G7
+16ggnJJ	.
+16r	G- diminished
+[8aanL	.
+8aanJ_	A- dominant
+8aan]	G dominant
 8r	.
-16ee-	A-
+16ee-	A- major
 16r	.
-8ee-[	.
+[8ee-	.
 =8	=8
-8ee-]	.
-16ee-	.
-16ee-	.
-2ff	F
+8ee-L]	.
+16ee-L	.
+16ee-JJ	.
+2ff	F major
 ==	==
 *-	*-

@@ -16,60 +16,60 @@
 *d:	*
 *M6/4	*
 =1	=1
-1r	F
+1r	F major
 8r	.
 4dd	.
 8ee	.
 =2	=2
-4.ff	Dm
+4.ff	D minor
 4.a	.
-4ee	C
+4ee	C major
 8cc	.
 4.g	.
 =3	=3
-3...dd	G
+3...dd	G major
 4.dd	.
 8dd	.
 4aa	.
 8gg	.
 =4	=4
-4ff	Dm
+4ff	D minor
 8dd	.
 4a	.
 8ff	.
-4ee	Am7
+4ee	A minor-seventh
 8cc	.
 4g	.
 8cc	.
 =5	=5
-4.b	G
+4.b	G major
 4.cc	.
 4.dd	.
 4.g	.
 =6	=6
-4ff	Dm
+4ff	D minor
 8dd	.
 4a	.
 8ff	.
-4ee	C
+4ee	C major
 8cc	.
 4g	.
 8cc	.
 =7	=7
-4gg	Em
+4gg	E minor
 8ee	.
 4b	.
 8gg	.
-4ff#	D
+4ff#	D major
 8dd	.
 4a	.
 8dd	.
 =8	=8
-4aa	F#m
+4aa	F# minor
 8ff#	.
 4cc#	.
 8aa	.
-4gg#	E
+4gg#	E major
 8ee	.
 4b	.
 8ee	.
@@ -78,16 +78,16 @@
 4.gg#	.
 4.ee	.
 =10	=10
-4ff	Dm
+4ff	D minor
 8dd	.
 4a	.
 8ff	.
-4ee	C
+4ee	C major
 8cc	.
 4ee	.
 8cc	.
 =11	=11
-4b	G
+4b	G major
 8g	.
 4cc	.
 8g	.
@@ -96,16 +96,16 @@
 4ee	.
 8g	.
 =12	=12
-4ff	Dm
+4ff	D minor
 8dd	.
 4a	.
 8ff	.
-4ee	C
+4ee	C major
 8cc	.
 4ee	.
 8ff	.
 =13	=13
-4dd	G
+4dd	G major
 8g	.
 4cc	.
 8b	.
@@ -114,16 +114,16 @@
 4dd	.
 8gg	.
 =14	=14
-4ff	Dm
+4ff	D minor
 8dd	.
 4a	.
 8ff	.
-4ee	C
+4ee	C major
 8cc	.
 4g	.
 8cc	.
 =15	=15
-4b	G
+4b	G major
 8g	.
 4cc	.
 8g	.
@@ -132,55 +132,55 @@
 4ee	.
 8g	.
 =16	=16
-4ff	Dm
+4ff	D minor
 8dd	.
 4a	.
 8ff	.
-4ee	C
+4ee	C major
 8c	.
 4ff	.
 8cc	.
 =17	=17
-4dd	G
+4dd	G major
 8g	.
 4dd	.
 8g	.
-8dd	.
-8dd	.
-8dd	.
-8ee	.
-8ee	.
-8ee	.
+8ddL	.
+8ddJ	.
+8ddL	.
+8eeJ	.
+8eeL	.
+8eeJ	.
 =18	=18
-4ff	Dm
+4ff	D minor
 8dd	.
 4a	.
 8ff	.
-4ee	C
+4ee	C major
 8cc	.
 4ee	.
 8cc	.
 =19	=19
-4dd	G
+4dd	G major
 8g	.
 4dd	.
 8g	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 8dd	.
 4ee	.
 8ee	.
 =20	=20
-4ff	Dm
+4ff	D minor
 8dd	.
 4a	.
 8ff	.
-4ee	C
+4ee	C major
 8cc	.
 4g	.
 8cc	.
 =21	=21
-4b	G
+4b	G major
 8g	.
 4cc	.
 8g	.
@@ -189,16 +189,16 @@
 4g	.
 8g	.
 =22	=22
-4ff	Dm
+4ff	D minor
 8dd	.
 4a	.
 8ff	.
-4ee	C
+4ee	C major
 8cc	.
 4g	.
 8cc	.
 =23	=23
-4dd	G
+4dd	G major
 8g	.
 4dd	.
 8g	.
@@ -207,16 +207,16 @@
 4ee	.
 8ee	.
 =24	=24
-4ff	Dm
+4ff	D minor
 8dd	.
 4a	.
 8ff	.
-4ee	C
+4ee	C major
 8cc	.
 4g	.
 8cc	.
 =25	=25
-4b	G
+4b	G major
 8g	.
 4cc	.
 8g	.

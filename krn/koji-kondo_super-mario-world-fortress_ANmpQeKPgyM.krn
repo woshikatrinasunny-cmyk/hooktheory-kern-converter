@@ -15,57 +15,57 @@
 *f:	*
 *M4/4	*
 =1	=1
-2A-	Fm
+2A-	F minor
 4F	.
 4C	.
 =2	=2
-4D	G
+4D	G major
 2.F	.
 =3	=3
-4r	A-
+4r	A- major
 4C	.
 4F	.
 4c	.
 =4	=4
-2A-	G
+2A-	G major
 2G	.
 =5	=5
-2.r	Fm
-4ff	Fm
+2.r	F minor
+4ff	F minor
 =6	=6
-4gg	G
-4F	Fm
-4G	G
-4ff	Fm
+4gg	G major
+4F	F minor
+4G	G major
+4ff	F minor
 =7	=7
-4gg	G
-4F	Fm
-4G	G
-4ff	Fm
+4gg	G major
+4F	F minor
+4G	G major
+4ff	F minor
 =8	=8
-4gg	G
-4aa-	A-
-4gg-	G-m
-4gg[	G
+4gg	G major
+4aa-	A- major
+4gg-	G- minor
+[4gg	G major
 =9	=9
 4gg_	.
 2.gg]	.
 =10	=10
-16r	Gadd(1,7,10)
-16fff	.
+16r	G other-1,7,10
+16fffLL	.
 16ddd	.
 16bbn	.
 16aa-	.
 16gg	.
 16ff	.
-16dd	.
-16bn	.
+16ddJJ	.
+16bnLL	.
 16a-	.
 16g	.
 16f	.
 16d	.
 16Bn	.
 16A-	.
-16G	.
+16GJJ	.
 ==	==
 *-	*-

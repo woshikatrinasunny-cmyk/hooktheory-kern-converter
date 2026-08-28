@@ -16,68 +16,68 @@
 *D:	*
 *M4/4	*
 =1	=1
-4r	D
-8d	.
-8d	.
+4r	D major
+8dL	.
+8dJ	.
 4d	.
-8d	.
-8d	.
+8dL	.
+8dJ	.
 =2	=2
-8d	.
-8e	.
-4d[	.
-8d]	D5
-8r	A5
-8r	A#5
-8r	A5
+8dL	.
+8eJ	.
+[4d	.
+8d]	D power
+8r	A power
+8r	A# power
+8r	A power
 =3	=3
-8r	D
+8r	D major
+8dL	.
+8d	.
+8dJ	.
+8dL	.
 8d	.
 8d	.
-8d	.
-8d	.
-8d	.
-8d	.
-8d	.
+8dJ	.
 =4	=4
-8d	.
-8e	.
-4d[	.
-8d]	G
+8dL	.
+8eJ	.
+[4d	.
+8d]	G major
 8r	.
-4r	A
+4r	A major
 =5	=5
-8r	D
+8r	D major
+8ddL	.
 8dd	.
-8dd	.
-8cc#	.
+8cc#J	.
 8cc#	.
 8r	.
-8b	.
-8b	.
+8bL	.
+8bJ	.
 =6	=6
-8b	.
-8a	.
-4a[	.
-8a]	D5
-8r	A5
-8r	A#5
-8r	A5
+8bL	.
+8aJ	.
+[4a	.
+8a]	D power
+8r	A power
+8r	A# power
+8r	A power
 =7	=7
-8r	D
+8r	D major
+8dL	.
+8d	.
+8dJ	.
+8dL	.
 8d	.
 8d	.
-8d	.
-8d	.
-8d	.
-8d	.
-8d	.
+8dJ	.
 =8	=8
-8d	.
-8e	.
-4d[	.
-8d]	G
+8dL	.
+8eJ	.
+[4d	.
+8d]	G major
 8r	.
-4r	A
+4r	A major
 ==	==
 *-	*-

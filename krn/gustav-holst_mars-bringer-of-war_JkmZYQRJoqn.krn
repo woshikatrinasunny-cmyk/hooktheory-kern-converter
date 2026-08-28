@@ -16,13 +16,13 @@
 *g:	*
 *M5/4	*
 =1	=1
-1GG[	Gm
+[1GG	G minor
 4GG_	.
 =2	=2
 2.GG]	.
 2D	.
 =3	=3
-1D-[	Gdim
+[1D-	G diminished
 4D-_	.
 =4	=4
 1D-_	.
@@ -31,25 +31,25 @@
 1r	.
 4r	.
 =6	=6
-1GG[	Gm
+[1GG	G minor
 4GG_	.
 =7	=7
 2.GG]	.
 2D	.
 =8	=8
-2.D-	Gdim
-2A-	A-maj7/G
+2.D-	G diminished
+2A-	A- major-seventh/G
 =9	=9
-2.G	Gm
+2.G	G minor
 2d	.
 =10	=10
-2.d-	Gdim
-2a-	A-maj7/G
+2.d-	G diminished
+2a-	A- major-seventh/G
 =11	=11
-2.g	Gm
+2.g	G minor
 2dd	.
 =12	=12
-1dd-[	Gadd(1,6,10)
+[1dd-	G other-1,6,10
 4dd-_	.
 =13	=13
 1dd-_	.

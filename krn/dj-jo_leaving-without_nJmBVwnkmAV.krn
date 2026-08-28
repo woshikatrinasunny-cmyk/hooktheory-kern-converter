@@ -16,111 +16,111 @@
 *a:	*
 *M4/4	*
 =1	=1
-2f	F
+2f	F major
 4.r	.
-8g[	G
+[8g	G major
 =2	=2
 4g]	.
 8r	.
-4.g#	E/G#
+4.g#	E major/G#
 4r	.
 =3	=3
-2b	Aadd(2,3,7)
+2b	A other-2,3,7
+8.AL	.
 8.A	.
-8.A	.
-8A[	.
+[8AJ	.
 =4	=4
-16A]	.
+16ALK]	.
 8.A	.
+8.AJ	.
 8.A	.
-8.A	.
-8.A	.
-8.A	.
+8.AL	.
+8.AJ	.
 =5	=5
-2f	F
+2f	F major
 4.r	.
-8dd[	E/B
+[8dd	E major/B
 =6	=6
 4dd]	.
 8r	.
-4.ee	E/G#
+4.ee	E major/G#
 4r	.
 =7	=7
-8.ee	Aadd(2,3,7)
-8ee	Aadd(2,3,7)
-16ee	Aadd(2,3,7)
-8ee	Aadd(2,3,7)
-8.A	.
+8.eeL	A other-2,3,7
+8ee	A other-2,3,7
+16eek	A other-2,3,7
+8eeJ	A other-2,3,7
+8.AL	.
+16AL	.
 16A	.
 16A	.
 16A	.
-16A	.
-16A	.
+16AJJ	.
 =8	=8
-16A	.
+16ALK	.
 8.A	.
 8A	.
-8A	.
-8A	.
+8AJ	.
+8AL	.
 8.A	.
-8.A	.
+8.AJ	.
 =9	=9
-2a	F
+2a	F major
 4.r	.
-8g[	G
+[8g	G major
 =10	=10
-8g]	.
-8g	G
-8g	G
-4.g#	E/G#
+8gL]	.
+8g	G major
+8gJ	G major
+4.g#	E major/G#
 4r	.
 =11	=11
-2b	Aadd(2,3,7)
+2b	A other-2,3,7
+8.AL	.
 8.A	.
-8.A	.
-8A[	.
+[8AJ	.
 =12	=12
-16A]	.
+16ALK]	.
 8.A	.
 8A	.
+8AJ	.
+8AL	.
 8A	.
 8A	.
-8A	.
-8A	.
-8A	.
+8AJ	.
 =13	=13
-2f	F
+2f	F major
 8.r	.
-16f	F
-16f	F
-16f	F
-8dd[	E/B
+16fLL	F major
+16f	F major
+16fJ	F major
+[8ddJ	E major/B
 =14	=14
 4dd]	.
 8r	.
-8ee	E/G#
-8ee	E/G#
-16ee	E/G#
-16ee	E/G#
+8ee	E major/G#
+8eeL	E major/G#
+16eeL	E major/G#
+16eeJJ	E major/G#
 4r	.
 =15	=15
-8.ee	Aadd(2,3,7)
-8.ee	Aadd(2,3,7)
-16ee	Aadd(2,3,7)
-16ee	Aadd(2,3,7)
-8.A	.
+8.eeL	A other-2,3,7
+8.ee	A other-2,3,7
+16eeL	A other-2,3,7
+16eeJJ	A other-2,3,7
+8.AL	.
+16AL	.
 16A	.
 16A	.
 16A	.
-16A	.
-16A	.
+16AJJ	.
 =16	=16
-16A	.
+16ALK	.
 8.A	.
 8A	.
-8A	.
-8A	.
+8AJ	.
+8AL	.
 8.A	.
-8.A	.
+8.AJ	.
 ==	==
 *-	*-

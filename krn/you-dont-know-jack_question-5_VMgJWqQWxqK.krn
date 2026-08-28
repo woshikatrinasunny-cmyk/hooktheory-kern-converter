@@ -16,30 +16,30 @@
 *F:	*
 *M4/4	*
 =1	=1
-4r	F
-8a	.
-8a	.
+4r	F major
+8aL	.
+8aJ	.
 4cc	.
 4dd	.
 =2	=2
-4r	C
-8ff	.
+4r	C major
+8ffL	.
+8ddJ	.
+8ccL	.
 8dd	.
-8cc	.
-8dd	.
-16dd	.
-16cc	.
-8a	.
+16ddL	.
+16ccJ	.
+8aJ	.
 =3	=3
-4r	Dm
-16gg	.
+4r	D minor
+16ggLL	.
 16aa	.
 16gg	.
-16dd	.
+16ddJJ	.
 4ff	.
-16dd	.
+16ddLL	.
 16cc	.
 16b-	.
-16a	.
+16aJJ	.
 ==	==
 *-	*-

@@ -15,7 +15,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-16ee	C
+16ee	C major
 16r	.
 16gg	.
 16r	.
@@ -23,16 +23,16 @@
 16r	.
 16gg	.
 16r	.
-16aa	.
+16aaLL	.
 16gg	.
 16aa	.
-16gg	.
+16ggJJ	.
 16r	.
-16cc	GaugMaj7
+16ccLL	G augmented-major-seventh
 16dd	.
-16dd#	.
+16dd#JJ	.
 =2	=2
-16ee	C
+16ee	C major
 16r	.
 16gg	.
 16r	.
@@ -40,16 +40,16 @@
 16r	.
 16gg	.
 16r	.
-16ee	.
+16eeLL	.
 16dd#	.
 16dd	.
-16cc	.
+16ccJJ	.
 16r	.
-16cc	GaugMaj7
+16ccLL	G augmented-major-seventh
 16dd	.
-16dd#	.
+16dd#JJ	.
 =3	=3
-16ee	C
+16ee	C major
 16r	.
 16gg	.
 16r	.
@@ -57,33 +57,33 @@
 16r	.
 16gg	.
 16r	.
-16aa	.
+16aaLL	.
 16gg	.
 16aa	.
-16gg	.
+16ggJJ	.
 16r	.
-16gg	GaugMaj7
+16ggLL	G augmented-major-seventh
 16aa	.
-16bb	.
+16bbJJ	.
 =4	=4
-16ccc	C
+16ccc	C major
 16r	.
 16aa#	.
 16r	.
 16aa	.
 16r	.
-16gg	C
+16gg	C major
 16r	.
-16dd#	.
+16dd#LL	.
 16ee	.
 16gg	.
-16aa	.
+16aaJJ	.
 16r	.
-16gg	.
-16ee	.
+16ggLL	.
+16eeJJ	.
 16r	.
 =5	=5
-16ee	C
+16ee	C major
 16r	.
 16gg	.
 16r	.
@@ -91,16 +91,16 @@
 16r	.
 16gg	.
 16r	.
-16aa	.
+16aaLL	.
 16gg	.
 16aa	.
-16gg	.
+16ggJJ	.
 16r	.
-16cc	GaugMaj7
+16ccLL	G augmented-major-seventh
 16dd	.
-16dd#	.
+16dd#JJ	.
 =6	=6
-16ee	C
+16ee	C major
 16r	.
 16gg	.
 16r	.
@@ -108,16 +108,16 @@
 16r	.
 16gg	.
 16r	.
-16ee	.
+16eeLL	.
 16dd#	.
 16dd	.
-16cc	.
+16ccJJ	.
 16r	.
-16cc	GaugMaj7
+16ccLL	G augmented-major-seventh
 16dd	.
-16dd#	.
+16dd#JJ	.
 =7	=7
-16ee	C
+16ee	C major
 16r	.
 16gg	.
 16r	.
@@ -125,28 +125,28 @@
 16r	.
 16gg	.
 16r	.
-16aa	.
+16aaLL	.
 16gg	.
 16aa	.
-16gg	.
+16ggJJ	.
 16r	.
-16gg	GaugMaj7
+16ggLL	G augmented-major-seventh
 16aa	.
-16bb	.
+16bbJJ	.
 =8	=8
-16ccc	C
+16ccc	C major
 16r	.
 16ccc	.
 16r	.
 16gg	.
 16r	.
-16r	C
+16r	C major
 16eee	.
 16r	.
-16ddd	.
+16dddLL	.
 16ccc	.
-16ccc	.
-8r	C
+16cccJJ	.
+8r	C major
 8r	.
 ==	==
 *-	*-

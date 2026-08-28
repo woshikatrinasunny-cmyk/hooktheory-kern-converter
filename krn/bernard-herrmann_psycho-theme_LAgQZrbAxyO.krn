@@ -16,7 +16,7 @@
 *B:	*
 *M4/4	*
 =1	=1
-4r	Bmaj7
+4r	B major-seventh
 4bb	.
 4ccc#	.
 4bb	.
@@ -26,7 +26,7 @@
 4ff#	.
 4ee#	.
 =3	=3
-4een	Eadd(2,3,7)
+4een	E other-2,3,7
 4ff#	.
 4ggn	.
 4aan	.
@@ -36,15 +36,15 @@
 4ff#	.
 4een	.
 =5	=5
-8ggn[	Eadd(2,3,7)
-8ggn]	Bmaj7
-8ff#	Eadd(2,3,7)
-8r	Bmaj7
-8ggn[	Eadd(2,3,7)
-8ggn]	Bmaj7
-8ff#	Eadd(2,3,7)
-8r	Bmaj7
+[8ggnL	E other-2,3,7
+8ggn]	B major-seventh
+8ff#J	E other-2,3,7
+8r	B major-seventh
+[8ggnL	E other-2,3,7
+8ggn]	B major-seventh
+8ff#J	E other-2,3,7
+8r	B major-seventh
 =6	=6
-1ee#	A#m
+1ee#	A# minor
 ==	==
 *-	*-

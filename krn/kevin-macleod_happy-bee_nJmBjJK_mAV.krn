@@ -15,7 +15,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C7
+4r	C dominant
 8eee	.
 8r	.
 8eee	.
@@ -23,26 +23,26 @@
 8eee	.
 8r	.
 =2	=2
-8eee	.
+8eeeL	.
 8ddd	.
-16ccc	.
+16cccJk	.
 16r	.
 2eee	.
 8r	.
 =3	=3
-4r	B-7
+4r	B- dominant
 8ddd	.
 8r	.
-8ddd	.
+8dddL	.
 8ccc	.
 8bb-	.
-8ddd[	.
+[8dddJ	.
 =4	=4
 2ddd_	.
 16ddd]	.
 4..r	.
 =5	=5
-4r	C7
+4r	C dominant
 8eee	.
 8r	.
 8eee	.
@@ -50,9 +50,9 @@
 8eee	.
 8r	.
 =6	=6
-8eee	.
+8eeeL	.
 8ddd	.
-8ccc	.
+8cccJ	.
 6...eee	.
 16r	.
 16eee	.
@@ -60,16 +60,16 @@
 16eee	.
 16r	.
 =7	=7
-6...ddd	B-7
+6...ddd	B- dominant
 16r	.
 4ddd	.
 8r	.
-4ddd[	.
+[4ddd	.
 =8	=8
 2.ddd]	.
-4r	G-
+4r	G- major
 =9	=9
-4r	C7
+4r	C dominant
 8ggg	.
 8r	.
 8ggg	.
@@ -77,26 +77,26 @@
 8ggg	.
 8r	.
 =10	=10
-8ggg	.
+8gggL	.
 8fff	.
-16eee	.
+16eeeJk	.
 16r	.
 2ggg	.
 8r	.
 =11	=11
-4r	B-7
+4r	B- dominant
 8fff	.
 8r	.
-8fff	.
+8fffL	.
 8eee	.
 8ddd	.
-8fff[	.
+[8fffJ	.
 =12	=12
 2fff_	.
 16fff]	.
 4..r	.
 =13	=13
-4r	C7
+4r	C dominant
 8ggg	.
 8r	.
 8ggg	.
@@ -104,9 +104,9 @@
 8ggg	.
 8r	.
 =14	=14
-8ggg	.
+8gggL	.
 8fff	.
-8eee	.
+8eeeJ	.
 6...ggg	.
 16r	.
 16ggg	.
@@ -114,13 +114,13 @@
 16ggg	.
 16r	.
 =15	=15
-6...fff	B-7
+6...fff	B- dominant
 16r	.
 4fff	.
 8r	.
-4fff[	.
+[4fff	.
 =16	=16
 2.fff]	.
-4ggg-	G-
+4ggg-	G- major
 ==	==
 *-	*-

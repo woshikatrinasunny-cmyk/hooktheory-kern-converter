@@ -16,51 +16,51 @@
 *g#:	*
 *M4/4	*
 =1	=1
-8F#	.
+8F#L	.
 8G#	.
 8D#	.
-8G#	.
-8F#	.
+8G#J	.
+8F#L	.
 8G#	.
 8D#	.
-16G#	.
-16F#	.
+16G#L	.
+16F#JJ	.
 =2	=2
-8F#	.
+8F#L	.
 8G#	.
 8D#	.
-8G#	.
-8F#	.
+8G#J	.
+8F#L	.
 8G#	.
 8D#	.
-16G#	.
-16F#	.
+16G#L	.
+16F#JJ	.
 =3	=3
-8F#	.
+8F#L	.
 8G#	.
 8D#	.
-8G#	.
-8F#	.
+8G#J	.
+8F#L	.
 8G#	.
 8D#	.
-16G#	.
-16F#	.
+16G#L	.
+16F#JJ	.
 =4	=4
-16F#[	G#m
-16F#]	Gdim
-16G#[	F#
-16G#]	E#m
-16D#[	E
-16D#]	D#m
-16G#[	D
-16G#]	C#
-16F#[	Cm
-16F#]	B
-16G#[	A#m
-16G#]	A
-16D#[	G#m
-16D#]	Gdim
-16G#	F#
-16F#	E#m
+[16F#LL	G# minor
+16F#]	G diminished
+[16G#	F# major
+16G#]	E# minor
+[16D#	E major
+16D#]	D# minor
+[16G#	D major
+16G#JJ]	C# major
+[16F#LL	C minor
+16F#]	B major
+[16G#	A# minor
+16G#]	A major
+[16D#	G# minor
+16D#]	G diminished
+16G#	F# major
+16F#JJ	E# minor
 ==	==
 *-	*-

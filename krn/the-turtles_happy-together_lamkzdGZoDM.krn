@@ -16,32 +16,32 @@
 *F#:	*
 *M6/4	*
 =1	=1
-4.ff#	F#
-4.cc#	F#
-4.a#	F#
-4.f#	F#
+4.ff#	F# major
+4.cc#	F# major
+4.a#	F# major
+4.f#	F# major
 =2	=2
-4e	C#m7
+4e	C# minor-seventh
 8g#	.
-4b	C#m7
-8dd#[	.
-4dd#]	C#m7
+4b	C# minor-seventh
+[8dd#	.
+4dd#]	C# minor-seventh
 8ee	.
-4.dd#	C#m7
+4.dd#	C# minor-seventh
 =3	=3
-4.cc#	F#
-4r	F#
+4.cc#	F# major
+4r	F# major
 8a#	.
-4cc#	F#
-8dd#[	.
-4dd#]	F#
-16ee	.
-16ff#	.
+4cc#	F# major
+[8dd#	.
+4dd#]	F# major
+16eeLL	.
+16ff#JJ	.
 =4	=4
-4.ee[	A
-4.ee_	A
-4.ee_	A
-8ee]	A
+[4.ee	A major
+4.ee_	A major
+4.ee_	A major
+8ee]	A major
 4r	.
 ==	==
 *-	*-

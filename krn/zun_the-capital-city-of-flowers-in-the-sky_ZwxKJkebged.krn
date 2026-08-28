@@ -17,82 +17,82 @@
 *M4/4	*
 =1	=1
 2.r	.
-8ff	.
-8ccc	.
+8ffL	.
+8cccJ	.
 =2	=2
-3...ddd-	B-m
-8ff	.
+3...ddd-	B- minor
+8ffL	.
 8bb-	.
-8ccc[	.
+[8cccJ	.
 =3	=3
-3...ccc]	A-
-8ff	.
+3...ccc]	A- major
+8ffL	.
 8aa-	.
-8bb-[	.
+[8bb-J	.
 =4	=4
-1bb-_	G-
+1bb-_	G- major
 =5	=5
 2bb-]	.
 8r	.
-8ff	.
-8ccc	A-
-8ddd-[	.
+8ffL	.
+8ccc	A- major
+[8ddd-J	.
 =6	=6
-3...ddd-]	B-m
-8ff	.
+3...ddd-]	B- minor
+8ffL	.
 8bb-	.
-8ccc[	.
+[8cccJ	.
 =7	=7
-4ccc]	A-
+4ccc]	A- major
 8r	.
 4ccc	.
-8ddd-	.
+8ddd-L	.
 8ccc	.
-8aa-	.
+8aa-J	.
 =8	=8
-1ff[	G-
+[1ff	G- major
 =9	=9
 2ff]	.
 8r	.
-8ff	.
+8ffL	.
 8aa-	.
-8bb-	.
+8bb-J	.
 =10	=10
-3...ee-	E-m
-8ee-	.
+3...ee-	E- minor
+8ee-L	.
 8ff	.
-8aa-	.
+8aa-J	.
 =11	=11
-3...dd-	D-
-8dd-	.
+3...dd-	D- major
+8dd-L	.
 8ee-	.
-8ff	.
+8ffJ	.
 =12	=12
-3...gg-	E-m
-8gg-	.
+3...gg-	E- minor
+8gg-L	.
 8aa-	.
-8bb-	.
+8bb-J	.
 =13	=13
-3...aan	F
-8aan	.
+3...aan	F major
+8aanL	.
 8bb-	.
-8ccc	.
+8cccJ	.
 =14	=14
-4.ccc	G-
+4.ccc	G- major
 8bb-	.
-2ff[	.
+[2ff	.
 =15	=15
-8ff]	A-
+8ffL]	A- major
 8ccc	.
 8bb-	.
-8ddd-	.
-8ccc	.
+8ddd-J	.
+8cccL	.
 8bb-	.
 8aa-	.
-8ee-	.
+8ee-J	.
 =16	=16
-1ff	Adim
+1ff	A diminished
 =17	=17
-1fff	F/A
+1fff	F major/A
 ==	==
 *-	*-

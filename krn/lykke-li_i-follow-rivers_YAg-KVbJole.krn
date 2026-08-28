@@ -15,119 +15,119 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	F
-8d	F
-8d	.
-8d[	.
-8d]	F
-8A[	.
-8A]	F
+4r	F major
+8dL	F major
+8dJ	.
+[8dL	.
+8d]	F major
+[8A	.
+8AJ]	F major
 =2	=2
-4r	F
-4r	F
+4r	F major
+4r	F major
 8r	.
-4r	F
-8r	F
+4r	F major
+8r	F major
 =3	=3
-4r	F
-8c	F
-8d	.
-8A[	.
-8A]	F
-8A[	.
-8A]	F
+4r	F major
+8cL	F major
+8dJ	.
+[8AL	.
+8A]	F major
+[8A	.
+8AJ]	F major
 =4	=4
-4r	F
-4r	F
+4r	F major
+4r	F major
 8r	.
-4r	F
-8r	F
+4r	F major
+8r	F major
 =5	=5
-4r	F
-8d	F
-8d	.
-8d[	.
-8d]	F
-8A[	.
-8A]	F
+4r	F major
+8dL	F major
+8dJ	.
+[8dL	.
+8d]	F major
+[8A	.
+8AJ]	F major
 =6	=6
-4r	F
-4r	F
+4r	F major
+4r	F major
 8r	.
-4r	F
-8r	F
+4r	F major
+8r	F major
 =7	=7
-4r	F
-8c	F
-8c	.
-8d[	.
-8d]	F
-8d[	.
-8d]	F
+4r	F major
+8cL	F major
+8cJ	.
+[8dL	.
+8d]	F major
+[8d	.
+8dJ]	F major
 =8	=8
-4r	F
-4r	F
+4r	F major
+4r	F major
 8r	.
-4r	F
-8r	F
+4r	F major
+8r	F major
 =9	=9
-4r	F
-8e	F
-8e	.
-8c[	.
-8c]	F
-8d[	.
-8d]	F
+4r	F major
+8eL	F major
+8eJ	.
+[8cL	.
+8c]	F major
+[8d	.
+8dJ]	F major
 =10	=10
-4r	G
-4r	G
+4r	G major
+4r	G major
 8r	.
-4r	G
-8r	G
+4r	G major
+8r	G major
 =11	=11
-8r	F
-8c	.
-8c	F
-8c	.
-8d[	.
-8d]	F
-8A[	.
-8A]	F
+8r	F major
+8cL	.
+8c	F major
+8cJ	.
+[8dL	.
+8d]	F major
+[8A	.
+8AJ]	F major
 =12	=12
-4r	F
-4r	F
+4r	F major
+4r	F major
 8r	.
-4r	F
-8r	F
+4r	F major
+8r	F major
 =13	=13
-4r	F
-8e	F
-8c[	.
+4r	F major
+8eL	F major
+[8cJ	.
 8c]	.
-4d[	F
-8d_	F
+[4d	F major
+8d_	F major
 =14	=14
-8d]	G
+8d]	G major
 8r	.
-4r	G
+4r	G major
 8r	.
-4r	G
-8r	G
+4r	G major
+8r	G major
 =15	=15
-4r	F
-8c	F
-8d	.
-8A[	.
-8A]	F
-8A[	.
-8A]	F
+4r	F major
+8cL	F major
+8dJ	.
+[8AL	.
+8A]	F major
+[8A	.
+8AJ]	F major
 =16	=16
-4c[	F
-8c]	F
-8c	.
-8d[	.
-8d]	F
-8e[	.
-8e]	F
+[4c	F major
+8cL]	F major
+8cJ	.
+[8dL	.
+8d]	F major
+[8e	.
+8eJ]	F major
 ==	==
 *-	*-

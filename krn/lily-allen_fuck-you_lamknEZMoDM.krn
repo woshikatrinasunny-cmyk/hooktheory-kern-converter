@@ -16,66 +16,66 @@
 *E:	*
 *M6/4	*
 =1	=1
-8.r	Eadd(2,4,7)
-8.d#[	.
-8.d#]	Eadd(2,4,7)
+8.r	E other-2,4,7
+[8.d#	.
+8.d#]	E other-2,4,7
 8.e	.
-4.B[	E
-4.B_	E
+[4.B	E major
+4.B_	E major
 =2	=2
-4B]	Eadd(2,4,7)
-8d#[	.
-4d#]	Eadd(2,4,7)
+4B]	E other-2,4,7
+[8d#	.
+4d#]	E other-2,4,7
 8e	.
-4d#	E
+4d#	E major
 8e	.
-4d#	E
+4d#	E major
 8e	.
 =3	=3
-4.c#[	C#add(2,3,7)
-4c#]	C#add(2,3,7)
+[4.c#	C# other-2,3,7
+4c#]	C# other-2,3,7
 8B	.
-4c#	C#m
+4c#	C# minor
 8B	.
-4G#	C#m
-8F#[	.
+4G#	C# minor
+[8F#	.
 =4	=4
-4F#]	C#add(2,3,7)
-8G#[	.
-4.G#_	C#add(2,3,7)
-4G#]	C#m
+4F#]	C# other-2,3,7
+[8G#	.
+4.G#_	C# other-2,3,7
+4G#]	C# minor
 8c#	.
-4c#	C#m
+4c#	C# minor
 8B	.
 =5	=5
-4c#	F#add(2,3,7)
+4c#	F# other-2,3,7
 8B	.
-4G#	F#add(2,3,7)
-8F#[	.
-4.F#_	F#m
-4F#]	F#m
+4G#	F# other-2,3,7
+[8F#	.
+4.F#_	F# minor
+4F#]	F# minor
 8B	.
 =6	=6
-4c#	Aaug/F
-8B[	.
-8B]	Aaug/F
+4c#	A augmented/F
+[8BL	.
+8BJ]	A augmented/F
 4G#	.
-4.F#[	F#m
-4.F#_	F#m
+[4.F#	F# minor
+4.F#_	F# minor
 =7	=7
-4F#]	A
+4F#]	A major
 8c#	.
-4c#	A
+4c#	A major
 8B	.
-4c#	F#m/A
+4c#	F# minor/A
 8B	.
-4c#	F#m/A
+4c#	F# minor/A
 8B	.
 =8	=8
-4c#	G#m/B
-8B[	.
-4.B_	B7sus2
-4.B_	G#m/B
-4.B]	B7sus2
+4c#	G# minor/B
+[8B	.
+4.B_	B dominant-seventh-suspended-second
+4.B_	G# minor/B
+4.B]	B dominant-seventh-suspended-second
 ==	==
 *-	*-

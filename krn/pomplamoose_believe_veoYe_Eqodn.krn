@@ -16,52 +16,52 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.r	F
+4.r	F major
 8c	.
 8c	.
 4c	.
 8a	.
 =2	=2
-4g	G7
+4g	G dominant
 8g	.
 4g	.
-8g	.
+8gL	.
 8f	.
-8g[	.
+[8gJ	.
 =3	=3
-8g]	Gm7
+8g]	G minor-seventh
 2..r	.
 =4	=4
-3...r	Aaug7
-8.f	.
-8.f	.
+3...r	A augmented-seventh
+8.fL	.
+8.fJ	.
 =5	=5
-4f	F
+4f	F major
 4f	.
 4f	.
-8c	.
-8g[	.
+8cL	.
+[8gJ	.
 =6	=6
-8.g]	G7
+8.gL]	G dominant
 8.g	.
-8g	.
+8gJ	.
 8f	.
 4r	.
 8c	.
 =7	=7
-8g	Gm7
-8g	.
+8gL	G minor-seventh
+8gJ	.
 4g	.
 4g	.
-8f	.
-8g[	.
+8fL	.
+[8gJ	.
 =8	=8
-8g]	Dm
+8g]	D minor
 4a	.
-8g[	.
-8g]	A-add(2,5,7,9,11)
+[8g	.
+8gL]	A- other-2,5,7,9,11
 8a	.
 8g	.
-8f	.
+8fJ	.
 ==	==
 *-	*-

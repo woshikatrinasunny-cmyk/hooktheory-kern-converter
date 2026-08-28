@@ -16,76 +16,76 @@
 *C:	*
 *M2/4	*
 =1	=1
-16c#	C#add(3,9)
+16c#LL	C# other-3,9
 16e	.
 16a#	.
-16e	.
-16c#	A/C#
+16eJJ	.
+16c#LL	A major/C#
 16e	.
 16a	.
-16e	.
+16eJJ	.
 =2	=2
-16e	C#dim/E
+16eLL	C# diminished/E
 16g	.
 16a	.
-16g	.
-16d	Dm
+16gJJ	.
+16dLL	D minor
 16f	.
-16a	F/C
-16f	.
+16a	F major/C
+16fJJ	.
 =3	=3
-16B	Bdim
+16BLL	B diminished
 16f	.
 16dd	.
-16f	.
-16A	Dm/A
+16fJJ	.
+16ALL	D minor/A
 16f	.
 16dd	.
-16f	.
+16fJJ	.
 =4	=4
-16B	G7
+16BLL	G dominant
 16f	.
 16dd	.
-16f	.
-16d	.
+16fJJ	.
+16dLL	.
 16f	.
 16g	.
-16f	.
+16fJJ	.
 =5	=5
-16c#	C#add(3,9)
+16c#LL	C# other-3,9
 16e	.
 16a#	.
-16e	.
-16c#	A/C#
+16eJJ	.
+16c#LL	A major/C#
 16e	.
 16a	.
-16e	.
+16eJJ	.
 =6	=6
-16e	C#dim/E
+16eLL	C# diminished/E
 16g	.
 16a	.
-16g	.
-16d	Dm
+16gJJ	.
+16dLL	D minor
 16f	.
-16a	F/C
-16f	.
+16a	F major/C
+16fJJ	.
 =7	=7
-16B	Bdim
+16BLL	B diminished
 16f	.
 16dd	.
-16f	.
-16A	F/A
+16fJJ	.
+16ALL	F major/A
 16cc	.
 16ff	.
-16cc	.
+16ccJJ	.
 =8	=8
-16G	G7
+16GLL	G dominant
 16b	.
 16ff	.
-16dd	.
-16b	.
+16ddJJ	.
+16bLL	.
 16a	.
 16g	.
-16f	.
+16fJJ	.
 ==	==
 *-	*-

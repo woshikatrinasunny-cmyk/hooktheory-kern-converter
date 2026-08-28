@@ -16,76 +16,76 @@
 *A:	*
 *M4/4	*
 =1	=1
-4a	A
-8f#	.
-8a[	.
-8a]	Dmaj7
-8f#	.
+4a	A major
+8f#L	.
+[8aJ	.
+8aL]	D major-seventh
+8f#J	.
 8r	.
-8cc#[	.
+[8cc#	.
 =2	=2
-8cc#]	Bm7
+8cc#]	B minor-seventh
 4b	.
 8a	.
-4g#	Eadd(4,7,9)
+4g#	E other-4,7,9
 4e	.
 =3	=3
-4g#	A
-8e	.
-8g#[	.
-8g#]	Dmaj7
-8e	.
+4g#	A major
+8eL	.
+[8g#J	.
+8g#L]	D major-seventh
+8eJ	.
 8r	.
-8g#[	.
+[8g#	.
 =4	=4
-8g#]	Bm7
+8g#]	B minor-seventh
 4a	.
 8g#	.
-4a	Eadd(4,7,9)
+4a	E other-4,7,9
 4b	.
 =5	=5
-4a	A
-8f#	.
-8a[	.
-8a]	Dmaj7
+4a	A major
+8f#L	.
+[8aJ	.
+8aL]	D major-seventh
 8f#	.
 8a	.
-8cc#[	.
+[8cc#J	.
 =6	=6
-8cc#]	Bm7
+8cc#L]	B minor-seventh
 8.b	.
-8.a	.
-4g#	Eadd(4,7,9)
+8.aJ	.
+4g#	E other-4,7,9
 4e	.
 =7	=7
-4g#	A
-8e	.
-8g#[	.
-8g#]	Dmaj7
+4g#	A major
+8eL	.
+[8g#J	.
+8g#L]	D major-seventh
 8e	.
 8f#	.
-8g#[	.
+[8g#J	.
 =8	=8
-8g#]	Bm7
+8g#]	B minor-seventh
 4a	.
 8g#	.
-8f#	Eadd(4,7,9)
-8e	.
+8f#L	E other-4,7,9
+8eJ	.
 4e	.
 =9	=9
-3...r	F#m7
-8e	.
+3...r	F# minor-seventh
+8eL	.
 8fn	.
-8f#[	.
+[8f#J	.
 =10	=10
-1f#]	Bm7
+1f#]	B minor-seventh
 =11	=11
-3...r	Eadd(4,7,9)
-8f#	.
+3...r	E other-4,7,9
+8f#L	.
 8fn	.
-8e[	.
+[8eJ	.
 =12	=12
-4.e]	Amaj9
+4.e]	A major-ninth
 8e	.
 8.f#	.
 6...g#	.

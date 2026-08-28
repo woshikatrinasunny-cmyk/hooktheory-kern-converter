@@ -16,9 +16,9 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.a	Am
+4.a	A minor
 4.cc	.
-4gg[	.
+[4gg	.
 =2	=2
 4gg]	.
 4a	.
@@ -27,13 +27,13 @@
 =3	=3
 4.ff	.
 4.ee	.
-4cc[	.
+[4cc	.
 =4	=4
 1cc]	.
 =5	=5
-4.a	Am
+4.a	A minor
 4.cc	.
-4gg[	.
+[4gg	.
 =6	=6
 4gg]	.
 4a	.
@@ -44,59 +44,59 @@
 4a	.
 8a	.
 4b	.
-8cc[	.
+[8cc	.
 =8	=8
-8cc]	.
-8cc	.
+8ccL]	.
+8ccJ	.
 4b	.
 4g	.
 4e	.
 =9	=9
-4.a	F
+4.a	F major
 4.cc	.
-4gg[	.
+[4gg	.
 =10	=10
-4gg]	G
+4gg]	G major
 4a	.
 4cc	.
 4gg	.
 =11	=11
-4.ff	C
+4.ff	C major
 4.ee	.
-4cc[	.
+[4cc	.
 =12	=12
-1cc]	Am
+1cc]	A minor
 =13	=13
-4.a	F
+4.a	F major
 4.cc	.
-4gg[	.
+[4gg	.
 =14	=14
-4gg]	G
+4gg]	G major
 4a	.
 4cc	.
 4gg	.
 =15	=15
-4.a	Dm
+4.a	D minor
 4.cc	.
-4gg[	.
+[4gg	.
 =16	=16
-4gg]	Em
+4gg]	E minor
 4a	.
 4cc	.
 4ee	.
 =17	=17
-4.a	F
+4.a	F major
 4.cc	.
-4ff[	.
+[4ff	.
 =18	=18
-4ff]	G
+4ff]	G major
 4ee	.
 4cc	.
 4b	.
 =19	=19
-2.a[	Am
-8a_	G
-8a_	Am
+[2.a	A minor
+8aL_	G major
+8aJ_	A minor
 =20	=20
 1a]	.
 ==	==

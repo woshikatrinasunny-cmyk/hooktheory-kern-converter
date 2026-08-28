@@ -15,93 +15,93 @@
 *d:	*
 *M4/4	*
 =1	=1
-2d	Dm
+2d	D minor
 2f	.
 =2	=2
 4e	.
-8f	C
-8e	.
-4d	Dm
+8fL	C major
+8eJ	.
+4d	D minor
 4c	.
 =3	=3
-8d	.
-8e	.
+8dL	.
+8eJ	.
 4f	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 4e	.
 =4	=4
 4e	.
-8f	.
-8e	.
-4e	Am
+8fL	.
+8eJ	.
+4e	A minor
 4c	.
 =5	=5
-4d	Dm
+4d	D minor
 4r	.
 2f	.
 =6	=6
 4e	.
-8f	C
-8e	.
-4d	Dm
+8fL	C major
+8eJ	.
+4d	D minor
 4c	.
 =7	=7
-8c	C
+8cL	C major
 8d	.
 8e	.
-8f	.
+8fJ	.
 4g	.
-8f	.
-8e	.
+8fL	.
+8eJ	.
 =8	=8
-4e[	.
-8e]	Am
-8c	.
-4.d	Dm
+[4e	.
+8eL]	A minor
+8cJ	.
+4.d	D minor
 8r	.
 =9	=9
 2f	.
 2f	.
 =10	=10
-8g	C
+8g	C major
 8r	.
 4g	.
-4a	Dm
-8a	.
-8b	.
+4a	D minor
+8aL	.
+8bJ	.
 =11	=11
 8cc	.
 8r	.
-8cc	.
-8b	.
+8ccL	.
+8bJ	.
 4a	.
 4g	.
 =12	=12
-4g[	.
-4g]	C
-2f	Dm
+[4g	.
+4g]	C major
+2f	D minor
 =13	=13
 2f	.
 2f	.
 =14	=14
-8g	C
+8g	C major
 8r	.
 4g	.
-8a	Dm
+8a	D minor
 8r	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =15	=15
-8cc	.
-8b	.
+8ccL	.
+8bJ	.
 4a	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 4e	.
 =16	=16
-4e	C
+4e	C major
 4c	.
-2d	Dm
+2d	D minor
 ==	==
 *-	*-

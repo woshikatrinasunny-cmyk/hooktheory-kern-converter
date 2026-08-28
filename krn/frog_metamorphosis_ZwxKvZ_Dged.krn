@@ -16,52 +16,52 @@
 *C:	*
 *M4/4	*
 =1	=1
-2r	C
-2r	G7/B
+2r	C major
+2r	G dominant/B
 =2	=2
-2r	Am7
-2r	F#m7b5
+2r	A minor-seventh
+2r	F# half-diminished
 =3	=3
-2r	Gm7
-4r	Cadd(4,6,7,9,10)
-4r	C7
+2r	G minor-seventh
+4r	C other-4,6,7,9,10
+4r	C dominant
 =4	=4
-1r	Fmaj7
+1r	F major-seventh
 =5	=5
-2r	F#m7b5
-2r	G7/F
+2r	F# half-diminished
+2r	G dominant/F
 =6	=6
-2r	C/E
-2r	F7/D#
+2r	C major/E
+2r	F dominant/D#
 =7	=7
-1r	Dm7
+1r	D minor-seventh
 =8	=8
-2r	G7
-2r	Gaug7/F
+2r	G dominant
+2r	G augmented-seventh/F
 =9	=9
-2r	C
-2r	G7/B
+2r	C major
+2r	G dominant/B
 =10	=10
-2r	Am7
-2r	F#m7b5
+2r	A minor-seventh
+2r	F# half-diminished
 =11	=11
-2r	Gm7
-4r	Cadd(4,6,7,9,10)
-4r	C7
+2r	G minor-seventh
+4r	C other-4,6,7,9,10
+4r	C dominant
 =12	=12
-1r	Fmaj7
+1r	F major-seventh
 =13	=13
-2r	F#m7b5
-2r	G7/F
+2r	F# half-diminished
+2r	G dominant/F
 =14	=14
-2r	C/E
-2r	F7/D#
+2r	C major/E
+2r	F dominant/D#
 =15	=15
-1r	Dm7
+1r	D minor-seventh
 =16	=16
-1r	G13
+1r	G dominant-13th
 =17	=17
-1r	Eadd(2,5,7,9,10)
+1r	E other-2,5,7,9,10
 =18	=18
 1r	.
 =19	=19

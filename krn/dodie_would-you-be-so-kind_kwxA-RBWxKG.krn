@@ -16,7 +16,7 @@
 *E:	*
 *M4/4	*
 =1	=1
-8B	E
+8B	E major
 4r	.
 8e	.
 8r	.
@@ -25,55 +25,55 @@
 8B	.
 =2	=2
 4B	.
-8B	.
-8B	.
-8a	.
+8BL	.
+8BJ	.
+8aL	.
 8g#	.
 8f#	.
-8e	.
+8eJ	.
 =3	=3
-8a	Asus2
+8a	A suspended-second
 4r	.
 8B	.
 8B	.
 4r	.
 8G#	.
 =4	=4
-8B	.
-8B	.
+8BL	.
+8BJ	.
 8r	.
 8B	.
-8a	.
+8aL	.
 8g#	.
 8f#	.
-8e	.
+8eJ	.
 =5	=5
-4c#	F#m11
+4c#	F# minor-11th
 4d#	.
 4e	.
-8B	.
-8B[	.
+8BL	.
+[8BJ	.
 =6	=6
-8B]	Emaj7/G#
+8BL]	E major-seventh/G#
 8B	.
 8e	.
-8e	.
+8eJ	.
 4.r	.
 8B	.
 =7	=7
-8c#	Amaj9
+8c#	A major-ninth
 4d#	.
 4e	.
 4r	.
 8B	.
 =8	=8
-4B	B
+4B	B major
 4f#	.
-8f#	.
-8e	.
+8f#L	.
+8eJ	.
 4e	.
 =9	=9
-8B	E
+8B	E major
 4r	.
 8e	.
 8r	.
@@ -82,62 +82,62 @@
 8B	.
 =10	=10
 4B	.
-8B	.
-8B	.
-8a	.
+8BL	.
+8BJ	.
+8aL	.
 8g#	.
 8f#	.
-8e	.
+8eJ	.
 =11	=11
-4g#	Aadd(2,4,7)
+4g#	A other-2,4,7
 8a	.
 4g#	.
+8f#L	.
 8f#	.
-8f#	.
-8e	.
+8eJ	.
 =12	=12
 4e	.
-8c#	.
-8d#	.
+8c#L	.
+8d#J	.
 4e	.
-8d#	.
-8c#	.
+8d#L	.
+8c#J	.
 =13	=13
-4c#	F#m11
-8c#	.
-8e	.
+4c#	F# minor-11th
+8c#L	.
+8eJ	.
 4e	.
-8B	.
-8B[	.
+8BL	.
+[8BJ	.
 =14	=14
-8B]	Emaj7/G#
+8BL]	E major-seventh/G#
 8B	.
 8e	.
-8e	.
+8eJ	.
 4.r	.
 8B	.
 =15	=15
-8c#	Amaj9
+8c#	A major-ninth
 4d#	.
 4e	.
 4r	.
 8B	.
 =16	=16
-4B	B
+4B	B major
 4f#	.
-8f#	.
-8e	.
-4e[	.
+8f#L	.
+8eJ	.
+[4e	.
 =17	=17
-8e]	E
+8e]	E major
 2..r	.
 =18	=18
 4.r	.
-3...r	Eadd(4,5,7)
+3...r	E other-4,5,7
 =19	=19
-1r	E
+1r	E major
 =20	=20
 4.r	.
-3...r	Eadd(4,5,7)
+3...r	E other-4,5,7
 ==	==
 *-	*-

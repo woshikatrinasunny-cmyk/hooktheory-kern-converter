@@ -15,100 +15,100 @@
 *G:	*
 *M6/4	*
 =1	=1
-2b	G
+2b	G major
 4dd	.
 2cc	.
 4b	.
 =2	=2
-2a	F
+2a	F major
 4cc	.
 2b	.
 4a	.
 =3	=3
-2.g	Em
+2.g	E minor
 2.gg	.
 =4	=4
-4ff#	C
+4ff#	C major
 4ee	.
 4dd	.
 2b	.
 4cc	.
 =5	=5
-2.dd	D
-2.b[	B/D#
+2.dd	D major
+[2.b	B major/D#
 =6	=6
-2.b_	Em
-2.b]	G7/F
+2.b_	E minor
+2.b]	G dominant/F
 =7	=7
-4b	C
+4b	C major
 4a	.
 4b	.
-2.g[	.
+[2.g	.
 =8	=8
-2.g]	C/G
+2.g]	C major/G
 4r	.
 4g	.
 4a	.
 =9	=9
-4b	Cm
+4b	C minor
 4a	.
 4b	.
-2.g[	.
+[2.g	.
 =10	=10
-2.g]	Cm/G
+2.g]	C minor/G
 2d#	.
 4dd#	.
 =11	=11
-2dd	G/D
-8cc#	.
-8dd	.
-2dd#	B7/F#
+2dd	G major/D
+8cc#L	.
+8ddJ	.
+2dd#	B dominant/F#
 4ff#	.
 =12	=12
-2ee	Em
-8dd#	.
-8ee	.
-4ffn	G7/F
+2ee	E minor
+8dd#L	.
+8eeJ	.
+4ffn	G dominant/F
 4bb	.
 4aa	.
 =13	=13
-4b	C
+4b	C major
 4a	.
 4b	.
-2.g[	.
+[2.g	.
 =14	=14
-2.g]	C/G
+2.g]	C major/G
 4r	.
 4g	.
 4a	.
 =15	=15
-4a#	Cm
+4a#	C minor
 4a	.
 4a#	.
-2.d#[	.
+[2.d#	.
 =16	=16
-2.d#]	Cm/G
+2.d#]	C minor/G
 4r	.
-4d#	Cm
-4fn	A#/D
+4d#	C minor
+4fn	A# major/D
 =17	=17
-4g	D#
+4g	D# major
 4fn	.
 4g	.
-4.a	F7/D#
+4.a	F dominant/D#
 8g	.
 4a	.
 =18	=18
-4a#	D#
+4a#	D# major
 4a	.
 4a#	.
-4.cc	F7/D#
+4.cc	F dominant/D#
 8dd	.
 4dd#	.
 =19	=19
-2.dd[	Dsus4
-2.dd_	Dsus4/A
+[2.dd	D suspended-fourth
+2.dd_	D suspended-fourth/A
 =20	=20
-1.dd]	D
+1.dd]	D major
 ==	==
 *-	*-

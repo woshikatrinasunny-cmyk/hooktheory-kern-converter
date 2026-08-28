@@ -16,32 +16,32 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8r	B-
-8.ff	.
+8r	B- major
+8.ffL	.
+8.ee-J	.
+8ddL	D minor-seventh
 8.ee-	.
-8dd	Dm7
-8.ee-	.
-8.dd	.
+8.ddJ	.
 =2	=2
-8b-	Cm7
+8b-L	C minor-seventh
 8.ff	.
+8.ee-J	.
+8ddL	F major
 8.ee-	.
-8dd	F
-8.ee-	.
-8.dd	.
+8.ddJ	.
 =3	=3
-8b-	B-
+8b-L	B- major
 8.ff	.
+8.ee-J	.
+8ddL	D minor-seventh
 8.ee-	.
-8dd	Dm7
-8.ee-	.
-8.dd	.
+8.ddJ	.
 =4	=4
-8b-	Cm7
+8b-L	C minor-seventh
 8.ff	.
-8.ee-	.
-8ff	Cm7b5/G-
+8.ee-J	.
+8ffL	C half-diminished/G-
 8.gg-	.
-8.ff	.
+8.ffJ	.
 ==	==
 *-	*-

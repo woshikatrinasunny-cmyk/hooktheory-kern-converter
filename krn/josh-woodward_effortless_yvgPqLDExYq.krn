@@ -16,94 +16,94 @@
 *D-:	*
 *M4/4	*
 =1	=1
-8.c	D-
-8.d-	.
+8.cL	D- major
+8.d-J	.
 4c	.
+8d-L	.
 8d-	.
-8d-	.
-8A-[	.
+[8A-J	.
 =2	=2
-8A-]	G-maj7
+8A-]	G- major-seventh
 2B-	.
 4r	.
 8B-	.
 =3	=3
-8.c	D-maj7
+8.cL	D- major-seventh
 8.d-	.
-8e-	.
+8e-J	.
+8d-L	.
 8d-	.
 8d-	.
-8d-	.
-8d-	.
+8d-J	.
 =4	=4
-2B-	G-maj7
+2B-	G- major-seventh
 8.r	.
-16A-	.
-16B-	.
-8.A-	.
+16A-LL	.
+16B-J	.
+8.A-J	.
 =5	=5
-8.c	A-
-8.c	.
+8.cL	A- major
+8.cJ	.
 2c	.
 8Gn	.
 =6	=6
-8.d-	Gadd(1,3,6)
-8.c	.
+8.d-L	G other-1,3,6
+8.cJ	.
 4B-	.
 4A-	.
 8F	.
 =7	=7
-8E-	G-
+8E-	G- major
 2D-	.
 4.r	.
 =8	=8
-2..r	A-
+2..r	A- major
 8E-	.
 =9	=9
-4c	D-
+4c	D- major
 8d-	.
 4c	.
-8d-	.
+8d-L	.
 8c	.
-8A-[	.
+[8A-J	.
 =10	=10
-8A-]	G-maj7
+8A-]	G- major-seventh
 4B-	.
 2r	.
 8F	.
 =11	=11
-4c	D-maj7
+4c	D- major-seventh
 8d-	.
 4e-	.
+8d-L	.
 8d-	.
-8d-	.
-8c[	.
+[8cJ	.
 =12	=12
-8c]	G-maj7
+8c]	G- major-seventh
 4B-	.
 4r	.
-8A-	.
-16B-	.
-8.A-	.
+8A-L	.
+16B-k	.
+8.A-J	.
 =13	=13
-4c	A-
+4c	A- major
 8c	.
 4c	.
 4c	.
-8d-[	.
+[8d-	.
 =14	=14
-8d-]	Gadd(1,3,6)
+8d-]	G other-1,3,6
 4c	.
 4B-	.
 4A-	.
 8F	.
 =15	=15
-8E-	G-
+8E-	G- major
 2D-	.
 4.r	.
 =16	=16
-4.r	AaugMaj7/F
-3...r	F
+4.r	A augmented-major-seventh/F
+3...r	F major
 =17	=17
 1r	.
 ==	==

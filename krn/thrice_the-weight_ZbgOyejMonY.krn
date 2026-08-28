@@ -16,78 +16,78 @@
 *d:	*
 *M6/4	*
 =1	=1
-4f	Dm
-8f[	Dm
-8f]	Dsus4
+4f	D minor
+[8fL	D minor
+8fJ]	D suspended-fourth
 4e	.
-4f	Dm
-8e[	.
-8e]	Dm
-8d[	.
-8d]	.
+4f	D minor
+[8eL	.
+8eJ]	D minor
+[8dL	.
+8dJ]	.
 =2	=2
-4e	Gm
-8e	Gm
-4.d	Gm
-4d[	Gm7
-8d_	.
-8d]	Gm7
+4e	G minor
+8e	G minor
+4.d	G minor
+[4d	G minor-seventh
+8dL_	.
+8dJ]	G minor-seventh
 8r	.
 8r	.
 =3	=3
-8e	Dm
-8f[	.
-8f]	Dm
-4.f	Dsus4
-4f	Dm
+8eL	D minor
+[8fJ	.
+8f]	D minor
+4.f	D suspended-fourth
+4f	D minor
 8e	.
-4d[	Dm
+[4d	D minor
 8d]	.
 =4	=4
-4d	Gm
-8r	Gm
-4.r	Gm
-4r	Gm7
+4d	G minor
+8r	G minor
+4.r	G minor
+4r	G minor-seventh
 8r	.
-8r	Gm7
-8d[	.
-8d]	.
+8r	G minor-seventh
+[8dL	.
+8dJ]	.
 =5	=5
-4f[	Dm
-8f]	Dm
-4.f	Dsus4
-4e	Dm
-8e[	.
-8e]	Dm
-8e[	.
-8e]	.
+[4f	D minor
+8f]	D minor
+4.f	D suspended-fourth
+4e	D minor
+[8eL	.
+8eJ]	D minor
+[8eL	.
+8eJ]	.
 =6	=6
-4e	Gm
-8e[	Gm
-8e]	Gm
+4e	G minor
+[8eL	G minor
+8eJ]	G minor
 4d	.
-4d	Gm7
+4d	G minor-seventh
 8r	.
-8r	Gm7
-8d[	.
-8d]	.
+8r	G minor-seventh
+[8dL	.
+8dJ]	.
 =7	=7
-4f	Dm
-8f[	Dm
-8f]	Dsus4
+4f	D minor
+[8fL	D minor
+8fJ]	D suspended-fourth
 4f	.
-4e	Dm
-8e[	.
-8e]	Dm
-8d[	.
-8d]	.
+4e	D minor
+[8eL	.
+8eJ]	D minor
+[8dL	.
+8dJ]	.
 =8	=8
-4d	Gm
-8r	Gm
-4.r	Gm
-4r	Gm7
+4d	G minor
+8r	G minor
+4.r	G minor
+4r	G minor-seventh
 8r	.
-4r	Gm7
+4r	G minor-seventh
 8r	.
 ==	==
 *-	*-

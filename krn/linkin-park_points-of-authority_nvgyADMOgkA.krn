@@ -16,118 +16,118 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4r	E-
-4r	E-
-8ee-[	E-
-8ee-]	F-
-8dd-[	.
-8dd-_	F-
+4r	E- major
+4r	E- major
+[8ee-L	E- major
+8ee-]	F- major
+[8dd-	.
+8dd-J_	F- major
 =2	=2
-8dd-_	.
-8dd-_	D-m
-4dd-]	E-
-8c-[	E-
-8c-]	F-
-8b-[	.
-8b-_	D-m
+8dd-L_	.
+8dd-J_	D- minor
+4dd-]	E- major
+[8c-L	E- major
+8c-]	F- major
+[8b-	.
+8b-J_	D- minor
 =3	=3
-4b-_	E-
-4b-]	E-
-8r	E-
-4r	F-
-8e-	F-
+4b-_	E- major
+4b-]	E- major
+8r	E- major
+4r	F- major
+8e-	F- major
 =4	=4
-8a-	E-
-8a-[	.
-8a-_	E-
-8a-]	D-m
-8g[	.
-8g_	D-m
-4g]	F-
+8a-L	E- major
+[8a-	.
+8a-_	E- major
+8a-J]	D- minor
+[8gL	.
+8gJ_	D- minor
+4g]	F- major
 =5	=5
-4r	E-
-4e-	E-
-8g[	E-
-8g]	F-
+4r	E- major
+4e-	E- major
+[8gL	E- major
+8g]	F- major
 8a-	.
-8g[	F-
+[8gJ	F- major
 =6	=6
-8g_	.
-8g]	D-m
-4e-	E-
-8g[	E-
-8g]	F-
+8gL_	.
+8gJ]	D- minor
+4e-	E- major
+[8gL	E- major
+8g]	F- major
 8a-	.
-8g[	D-m
+[8gJ	D- minor
 =7	=7
-4g]	E-
-4e-	E-
-8g[	E-
-8g]	F-
+4g]	E- major
+4e-	E- major
+[8gL	E- major
+8g]	F- major
 8a-	.
-8b-[	F-
+[8b-J	F- major
 =8	=8
-4b-]	E-
-8a-[	E-
-8a-]	D-m
-8g[	.
-8g_	D-m
-4g]	F-
+4b-]	E- major
+[8a-L	E- major
+8a-J]	D- minor
+[8gL	.
+8gJ_	D- minor
+4g]	F- major
 =9	=9
-4r	E-
-4r	E-
-8ee-[	E-
-8ee-]	F-
-8dd-[	.
-8dd-_	F-
+4r	E- major
+4r	E- major
+[8ee-L	E- major
+8ee-]	F- major
+[8dd-	.
+8dd-J_	F- major
 =10	=10
-8dd-_	.
-8dd-_	D-m
-4dd-]	E-
-8c-[	E-
-8c-]	F-
-8b-[	.
-8b-_	D-m
+8dd-L_	.
+8dd-J_	D- minor
+4dd-]	E- major
+[8c-L	E- major
+8c-]	F- major
+[8b-	.
+8b-J_	D- minor
 =11	=11
-4b-_	E-
-4b-]	E-
-8r	E-
-8r	F-
-8B-[	.
-8B-]	F-
+4b-_	E- major
+4b-]	E- major
+8r	E- major
+8r	F- major
+[8B-L	.
+8B-J]	F- major
 =12	=12
-4a-	E-
-8a-[	E-
-4a-]	D-m
-8g[	D-m
-4g]	F-
+4a-	E- major
+[8a-	E- major
+4a-]	D- minor
+[8g	D- minor
+4g]	F- major
 =13	=13
-4r	E-
-4r	E-
-8aa-[	E-
-8aa-]	F-
-8gg[	.
-8gg_	F-
+4r	E- major
+4r	E- major
+[8aa-L	E- major
+8aa-]	F- major
+[8gg	.
+8ggJ_	F- major
 =14	=14
-8gg_	.
-8gg_	D-m
-4gg]	E-
-8aa-[	E-
-8aa-]	F-
-8gg[	.
-8gg_	D-m
+8ggL_	.
+8ggJ_	D- minor
+4gg]	E- major
+[8aa-L	E- major
+8aa-]	F- major
+[8gg	.
+8ggJ_	D- minor
 =15	=15
-4gg_	E-
-4gg]	E-
-8aa-[	E-
-8aa-]	F-
-8gg[	.
-8gg_	F-
+4gg_	E- major
+4gg]	E- major
+[8aa-L	E- major
+8aa-]	F- major
+[8gg	.
+8ggJ_	F- major
 =16	=16
-4gg]	E-
-8ee-[	E-
-4ee-_	D-m
-8ee-_	D-m
-4ee-]	F-
+4gg]	E- major
+[8ee-	E- major
+4ee-_	D- minor
+8ee-_	D- minor
+4ee-]	F- major
 ==	==
 *-	*-

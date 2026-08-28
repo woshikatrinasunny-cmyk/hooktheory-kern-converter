@@ -16,122 +16,122 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.r	C
-4.r	C
-4r	C
+4.r	C major
+4.r	C major
+4r	C major
 =2	=2
-4.r	Fmaj7
-4.r	Fmaj7
-4r	Fmaj7
+4.r	F major-seventh
+4.r	F major-seventh
+4r	F major-seventh
 =3	=3
-4.r	C
-4.r	C
-4r	C
+4.r	C major
+4.r	C major
+4r	C major
 =4	=4
-4.r	G#aug
-4.r	G#aug
-4r	G#aug
+4.r	G# augmented
+4.r	G# augmented
+4r	G# augmented
 =5	=5
-4.r	C
-4.r	C
-4r	C
+4.r	C major
+4.r	C major
+4r	C major
 =6	=6
-4.r	Fmaj7
-4.r	Fmaj7
-4r	Fmaj7
+4.r	F major-seventh
+4.r	F major-seventh
+4r	F major-seventh
 =7	=7
-4.r	C
-4.r	C
-4r	C
+4.r	C major
+4.r	C major
+4r	C major
 =8	=8
-4.r	G#aug
-4.r	G#aug
-4r	G#aug
+4.r	G# augmented
+4.r	G# augmented
+4r	G# augmented
 =9	=9
-8gg	Am
-8ee	.
+8ggL	A minor
+8eeJ	.
 8r	.
-8ee	Am
+8ee	A minor
 8r	.
-8ee[	.
-8ee]	Am
-8dd[	.
+[8eeL	.
+8ee]	A minor
+[8ddJ	.
 =10	=10
-4dd]	C/G
+4dd]	C major/G
 8ee	.
-4.cc	C/G
-8g	C/G
-8cc[	.
+4.cc	C major/G
+8gL	C major/G
+[8ccJ	.
 =11	=11
-4.cc_	Fmaj7
-4.cc_	Fmaj7
-4cc]	Fmaj7
+4.cc_	F major-seventh
+4.cc_	F major-seventh
+4cc]	F major-seventh
 =12	=12
-4.r	C/G
-4.r	C/G
-4r	C/G
+4.r	C major/G
+4.r	C major/G
+4r	C major/G
 =13	=13
-8gg	Am
-8ee	.
+8ggL	A minor
+8eeJ	.
 8r	.
-8ee	Am
+8ee	A minor
 8r	.
-8ee[	.
-8ee]	Am
-8dd[	.
+[8eeL	.
+8ee]	A minor
+[8ddJ	.
 =14	=14
-4dd]	Cmaj7/G
+4dd]	C major-seventh/G
 8ee	.
-4.cc	Cmaj7/G
-8ee	Cmaj7/G
-8ff[	.
+4.cc	C major-seventh/G
+8eeL	C major-seventh/G
+[8ffJ	.
 =15	=15
-4.ff_	Fmaj7sus2
-4.ff]	Fmaj7sus2
-8ee	Fmaj7sus2
-8cc[	.
+4.ff_	F major-seventh-suspended-second
+4.ff]	F major-seventh-suspended-second
+8eeL	F major-seventh-suspended-second
+[8ccJ	.
 =16	=16
-4.cc_	C/G
-4.cc]	C/G
-4b	C/G
+4.cc_	C major/G
+4.cc]	C major/G
+4b	C major/G
 =17	=17
-4cc	C
+4cc	C major
 4.g	.
-8f	.
+8fL	.
 8e	.
-8c[	Fmaj7
+[8cJ	F major-seventh
 =18	=18
 2.c]	.
 4b	.
 =19	=19
-4cc	C
+4cc	C major
 8e	.
 8r	.
-8e	.
-8g	.
+8eL	.
+8gJ	.
 8r	.
-8a#[	Fm/G#
+[8a#	F minor/G#
 =20	=20
 2a#]	.
 4g#	.
 4b	.
 =21	=21
-4cc	C
+4cc	C major
 4.g	.
-8f	.
+8fL	.
 8e	.
-8c[	Fmaj7
+[8cJ	F major-seventh
 =22	=22
 2.c]	.
 4b	.
 =23	=23
-4cc	C
+4cc	C major
 8e	.
 8r	.
-8e	.
-8g	.
+8eL	.
+8gJ	.
 8r	.
-8a#[	Fm/G#
+[8a#	F minor/G#
 =24	=24
 2a#]	.
 2g#	.

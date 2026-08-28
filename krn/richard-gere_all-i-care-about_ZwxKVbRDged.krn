@@ -16,7 +16,7 @@
 *D:	*
 *M6/4	*
 =1	=1
-4.r	Dmaj7
+4.r	D major-seventh
 4a	.
 8b	.
 4dd	.
@@ -24,38 +24,38 @@
 4ff#	.
 8aa	.
 =2	=2
-4bb	F/A
+4bb	F major/A
 4.ccc#	.
 2..bb	.
 =3	=3
-4aa	F#m7
+4aa	F# minor-seventh
 4.bb	.
 2..aa	.
 =4	=4
-4ff#	F#dim7
+4ff#	F# diminished-seventh
 4.bb	.
-8ff#[	.
-2.ff#]	B
+[8ff#	.
+2.ff#]	B major
 =5	=5
-4ee	E9
+4ee	E dominant-ninth
 4ff#	.
 4b	.
 2.ee	.
 =6	=6
-4.r	Gm
+4.r	G minor
 4ee	.
 8dd	.
-4cc#	A7
+4cc#	A dominant
 8dd	.
 4ee	.
 8ff#	.
 =7	=7
-1.aa	Dmaj7
+1.aa	D major-seventh
 =8	=8
-4aa	Em7
+4aa	E minor-seventh
 4aa#	.
 4bb	.
-4.ffn	A7
+4.ffn	A dominant
 4.ff#	.
 ==	==
 *-	*-

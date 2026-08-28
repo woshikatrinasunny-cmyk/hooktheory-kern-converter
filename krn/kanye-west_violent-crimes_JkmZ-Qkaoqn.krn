@@ -15,38 +15,38 @@
 *B:	*
 *M4/4	*
 =1	=1
-8b	B
+8b	B major
 4b	.
 3...r	.
 =2	=2
-8a#	Bmaj7/A#
+8a#	B major-seventh/A#
 4a#	.
 3...r	.
 =3	=3
-8b	B
+8b	B major
 4b	.
 4.r	.
-16b	.
+16bLK	.
 8b	.
-16a#[	.
+[16a#Jk	.
 =4	=4
-8a#]	Bmaj7/A#
+8a#]	B major-seventh/A#
 4.dd#	.
-8dd#	D#/A#
+8dd#L	D# major/A#
 8cc#	.
-8b	Cdim
-8g#	.
+8b	C diminished
+8g#J	.
 =5	=5
-8.cc#	C#m7
-8.dd#	.
+8.cc#L	C# minor-seventh
+8.dd#J	.
 8.dd#	.
 6...cc#	.
 8r	.
 =6	=6
 2.r	.
-4dd#[	.
+[4dd#	.
 =7	=7
-4dd#]	Emaj7
+4dd#]	E major-seventh
 6...cc#	.
 6...dd#	.
 8r	.

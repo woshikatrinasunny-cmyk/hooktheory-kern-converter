@@ -16,7 +16,7 @@
 *F:	*
 *M4/4	*
 =1	=1
-4c	B-add(2,4,7)
+4c	B- other-2,4,7
 4r	.
 8cc	.
 8r	.
@@ -29,36 +29,36 @@
 4e	.
 4f	.
 =3	=3
-4g	Fadd(2,4,7)/A
+4g	F other-2,4,7/A
 4r	.
 4.ee	.
-16ee-	.
-16dd	.
+16ee-LL	.
+16ddJJ	.
 =4	=4
-2.cc	Fm/A-
+2.cc	F minor/A-
 4r	.
 =5	=5
-4d	Gsus4
+4d	G suspended-fourth
 4r	.
 8cc	.
 8r	.
 8a	.
 8r	.
 =6	=6
-8g	Csus4
+8g	C suspended-fourth
 8r	.
 4f	.
 4g	.
 4a	.
 =7	=7
-4e	Am7
+4e	A minor-seventh
 4r	.
 4g	.
 4r	.
 =8	=8
-4g	Dm
+4g	D minor
 4f	.
-4e	C
+4e	C major
 4f	.
 ==	==
 *-	*-

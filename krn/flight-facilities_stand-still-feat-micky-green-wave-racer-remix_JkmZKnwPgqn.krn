@@ -16,50 +16,50 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.r	Gmaj7sus2
-8r	Em7/G
-4b[	.
-4b_	F#m7
+4.r	G major-seventh-suspended-second
+8r	E minor-seventh/G
+[4b	.
+4b_	F# minor-seventh
 =2	=2
 4b]	.
-8a	F#m7
-8b	.
-2a	Dadd(2,4,7)/F#
+8aL	F# minor-seventh
+8bJ	.
+2a	D other-2,4,7/F#
 =3	=3
-4r	Gadd(2,4,7)
-8f#	.
-8g	Gadd(2,4,7)
-4f#[	.
-4f#_	D
+4r	G other-2,4,7
+8f#L	.
+8gJ	G other-2,4,7
+[4f#	.
+4f#_	D major
 =4	=4
-8f#_	.
-8f#]	D
+8f#L_	.
+8f#]	D major
 8e	.
-8d	.
-4e	D7/F#
-4d[	.
+8dJ	.
+4e	D dominant/F#
+[4d	.
 =5	=5
-4.d_	Gadd(2,4,7)
-8d]	Gadd(2,4,7)
-4b[	.
-4b_	F#add(1,7,10)
+4.d_	G other-2,4,7
+8d]	G other-2,4,7
+[4b	.
+4b_	F# other-1,7,10
 =6	=6
 4b]	.
-8a	F#add(1,7,10)
-8b	.
-2a	F#add(1,7,10)
+8aL	F# other-1,7,10
+8bJ	.
+2a	F# other-1,7,10
 =7	=7
-4r	Bm7
-8f#	.
-8g	A#m7
-4f#[	.
-4f#_	Am7
+4r	B minor-seventh
+8f#L	.
+8gJ	A# minor-seventh
+[4f#	.
+4f#_	A minor-seventh
 =8	=8
-8f#_	.
-8f#]	C
+8f#L_	.
+8f#]	C major
 8e	.
-8d	.
-4e	D7
+8dJ	.
+4e	D dominant
 4d	.
 ==	==
 *-	*-

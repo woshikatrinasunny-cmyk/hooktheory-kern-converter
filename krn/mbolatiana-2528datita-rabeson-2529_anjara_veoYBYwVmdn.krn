@@ -16,153 +16,153 @@
 *C:	*
 *M4/4	*
 =1	=1
-4g	Csus2
-8e	.
-16f	.
-16g[	.
-4g]	Am11
-8e	.
-16f	.
-16g[	.
+4g	C suspended-second
+8eL	.
+16fL	.
+[16gJJ	.
+4g]	A minor-11th
+8eL	.
+16fL	.
+[16gJJ	.
 =2	=2
-8.g]	Dm11
-16f	.
+8.gL]	D minor-11th
+16fk	.
 8f	.
-16cc	.
-16cc[	.
-16cc]	Ddim/F
+16ccL	.
+[16ccJJ	.
+16ccLK]	D diminished/F
 8g#	.
 8g	.
-8.f	.
+8.fJ	.
 =3	=3
-16e	C/G
-8.e	.
+16eLK	C major/G
+8.eJ	.
 16r	.
-8c	.
-16d	.
-16e	Fadd(3,6,11)/G#
-8.e	.
+8cL	.
+16dJk	.
+16eLK	F other-3,6,11/G#
+8.eJ	.
 16r	.
-8c	.
-16d	.
+8cL	.
+16dJk	.
 =4	=4
-16e	A7sus4
-8.e	.
+16eLK	A dominant-seventh-suspended-fourth
+8.eJ	.
 4r	.
-8.r	A7
-16e	.
+8.r	A dominant
+16eLL	.
 16e	.
 16f	.
 16g	.
-16a[	.
+[16aJJ	.
 =5	=5
-8a]	Dm7
-16A	.
+8aL]	D minor-seventh
+16Ak	.
 8A	.
 8c	.
-16c[	.
-16c]	G7sus4
+[16cJk	.
+16cLK]	G dominant-seventh-suspended-fourth
 8B	.
 8A	.
-8G	G7
-16g[	.
+8G	G dominant
+[16gJk	.
 =6	=6
-4g_	Em7b5
-4g]	A#13
-8.r	A7
-16e	.
+4g_	E half-diminished
+4g]	A# dominant-13th
+8.r	A dominant
+16eLL	.
 16e	.
 16f	.
 16g	.
-16a[	.
+[16aJJ	.
 =7	=7
-8a]	Dm7
-16A	.
+8aL]	D minor-seventh
+16Ak	.
 8A	.
 8c	.
-16c[	.
-16c]	G7sus4
+[16cJk	.
+16cLK]	G dominant-seventh-suspended-fourth
 8B	.
 8A	.
-8.B	G7
+8.BJ	G dominant
 =8	=8
-4g	Em7
-8e	.
-16f	.
-16g[	.
-8g]	Aadd(1,4,7,10)
+4g	E minor-seventh
+8eL	.
+16fL	.
+[16gJJ	.
+8g]	A other-1,4,7,10
 16r	.
-16e	.
+16eLK	.
 8e	.
-16f	.
-16g	.
+16fL	.
+16gJJ	.
 =9	=9
-16a	Dm7
+16aLK	D minor-seventh
 8g	.
-16f	.
+16fk	.
 8f	.
-16cc	.
-16cc[	.
-16cc]	Ddim/F
+16ccL	.
+[16ccJJ	.
+16ccLK]	D diminished/F
 8g#	.
 8g	.
-8.f	.
+8.fJ	.
 =10	=10
-16e	C/G
-8.e	.
+16eLK	C major/G
+8.eJ	.
 16r	.
-8c	.
-16d	.
-16e	Fadd(3,6,11)/G#
-8.e	.
+8cL	.
+16dJk	.
+16eLK	F other-3,6,11/G#
+8.eJ	.
 16r	.
-8c	.
-16d	.
+8cL	.
+16dJk	.
 =11	=11
-16e	A7sus4
-16g	.
+16eLL	A dominant-seventh-suspended-fourth
+16gJJ	.
 4e	.
 8r	.
-8.r	A7
-16e	.
+8.r	A dominant
+16eLL	.
 16e	.
 16f	.
 16g	.
-16a[	.
+[16aJJ	.
 =12	=12
-8a]	Dm7
-16A	.
+8aL]	D minor-seventh
+16Ak	.
 8A	.
 8c	.
-16c[	.
-16c]	G7sus4
+[16cJk	.
+16cLK]	G dominant-seventh-suspended-fourth
 8B	.
 8A	.
-8G	G7
-16g[	.
+8G	G dominant
+[16gJk	.
 =13	=13
-4g_	Em7b5
-4g]	A#13
-8.r	A7
-16e	.
+4g_	E half-diminished
+4g]	A# dominant-13th
+8.r	A dominant
+16eLL	.
 16e	.
 16f	.
 16g	.
-16a[	.
+[16aJJ	.
 =14	=14
-8a]	Dm7
-16A	.
+8aL]	D minor-seventh
+16Ak	.
 8A	.
 8c	.
-16c[	.
-16c]	G7sus4
+[16cJk	.
+16cLK]	G dominant-seventh-suspended-fourth
 8B	.
 8A	.
-8B	G7
-16c[	.
+8B	G dominant
+[16cJk	.
 =15	=15
-2c]	Cadd(2,4,7,9)
-4r	C11
-4r	C9
+2c]	C other-2,4,7,9
+4r	C dominant-11th
+4r	C dominant-ninth
 ==	==
 *-	*-

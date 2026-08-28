@@ -15,167 +15,167 @@
 *F:	*
 *M4/4	*
 =1	=1
-2.r	F
-16aa	.
+2.r	F major
+16aaLL	.
 16gg	.
 16aa	.
-16bb-	.
+16bb-JJ	.
 =2	=2
-8ccc	C/E
+8cccL	C major/E
 8ccc	.
 8ccc	.
+8cccJ	.
+8cccL	.
 8ccc	.
 8ccc	.
-8ccc	.
-8ccc	.
-8ccc	.
+8cccJ	.
 =3	=3
-2ff	Dm
+2ff	D minor
 4r	.
-16ff	.
+16ffLL	.
 16ee	.
 16ff	.
-16gg	.
+16ggJJ	.
 =4	=4
-8aa	Am/C
+8aaL	A minor/C
 8aa	.
 8aa	.
+8aaJ	.
+8aaL	.
 8aa	.
 8aa	.
-8aa	.
-8aa	.
-8aa	.
+8aaJ	.
 =5	=5
-2dd	B-
+2dd	B- major
 4r	.
-16dd	.
+16ddLL	.
 16cc	.
 16dd	.
-16ee	.
+16eeJJ	.
 =6	=6
-8ff	F/A
+8ffL	F major/A
 8ff	.
 8ff	.
-8cc	.
-8gg	C/E
+8ccJ	.
+8ggL	C major/E
 8gg	.
 8gg	.
-8cc	.
+8ccJ	.
 =7	=7
-8aa	F
+8aaL	F major
 8ff	.
 8aa	.
+8cccJ	.
+8fffL	F major
 8ccc	.
-8fff	F
-8ccc	.
-8ddd	B-/F
-8bb-	.
+8ddd	B- major/F
+8bb-J	.
 =8	=8
-8ccc	F
+8cccL	F major
 8ff	.
 8aa	.
+8cccJ	.
+8fffL	F major
 8ccc	.
-8fff	F
-8ccc	.
-8ddd	B-/F
-8bb-	.
+8ddd	B- major/F
+8bb-J	.
 =9	=9
-4ccc	F
+4ccc	F major
 4r	.
-4.ff	B-
+4.ff	B- major
 8ff	.
 =10	=10
-2gg	Gm/B-
-2bb-	Gm
+2gg	G minor/B-
+2bb-	G minor
 =11	=11
-2.cc	C
-8dd	Dm7/C
-8ee	C7
+2.cc	C major
+8ddL	D minor-seventh/C
+8eeJ	C dominant
 =12	=12
-2ff	F
+2ff	F major
 4r	.
-16aa	.
+16aaLL	.
 16gg	.
 16aa	.
-16bb-	.
+16bb-JJ	.
 =13	=13
-8ccc	C/E
+8cccL	C major/E
 8ccc	.
 8ccc	.
+8cccJ	.
+8cccL	.
 8ccc	.
 8ccc	.
-8ccc	.
-8ccc	.
-8ccc	.
+8cccJ	.
 =14	=14
-2ff	Dm
+2ff	D minor
 4r	.
-16ff	.
+16ffLL	.
 16ee	.
 16ff	.
-16gg	.
+16ggJJ	.
 =15	=15
-8aa	Am/C
+8aaL	A minor/C
 8aa	.
 8aa	.
+8aaJ	.
+8aaL	.
 8aa	.
 8aa	.
-8aa	.
-8aa	.
-8aa	.
+8aaJ	.
 =16	=16
-2dd	B-
+2dd	B- major
 4r	.
-16dd	.
+16ddLL	.
 16cc	.
 16dd	.
-16ee	.
+16eeJJ	.
 =17	=17
-8ff	F/A
+8ffL	F major/A
 8ff	.
 8ff	.
-8cc	.
-8gg	C/E
+8ccJ	.
+8ggL	C major/E
 8gg	.
 8gg	.
-8cc	.
+8ccJ	.
 =18	=18
-8aa	F
+8aaL	F major
 8ff	.
 8aa	.
+8cccJ	.
+8fffL	F major
 8ccc	.
-8fff	F
-8ccc	.
-8ddd	B-/F
-8bb-	.
+8ddd	B- major/F
+8bb-J	.
 =19	=19
-8ccc	F
+8cccL	F major
 8ff	.
 8aa	.
+8cccJ	.
+8fffL	F major
 8ccc	.
-8fff	F
-8ccc	.
-8ddd	B-/F
-8bb-	.
+8ddd	B- major/F
+8bb-J	.
 =20	=20
-4ccc	F
+4ccc	F major
 4r	.
-2ff	F/A
+2ff	F major/A
 =21	=21
-4.gg	Gm/B-
+4.gg	G minor/B-
 8gg	.
-4.aa-	Fdim/B
+4.aa-	F diminished/B
 8aa-	.
 =22	=22
-2aa	F/C
-4ff[	F/A
-4ff]	F
+2aa	F major/C
+[4ff	F major/A
+4ff]	F major
 =23	=23
-2.cc	C
-8dd	.
-8ee	.
+2.cc	C major
+8ddL	.
+8eeJ	.
 =24	=24
-2ff	F
+2ff	F major
 2r	.
 ==	==
 *-	*-

@@ -16,7 +16,7 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	A
+4r	A major
 4a	.
 4ee	.
 16dd	.
@@ -24,16 +24,16 @@
 16cc#	.
 16r	.
 =2	=2
-8b[	.
-8b_	G
+[8bL	.
+8b_	G major
 8b_	.
-8b_	G
+8bJ_	G major
+8bL_	.
+8b_	G major
 8b_	.
-8b_	G
-8b_	.
-8b]	G
+8bJ]	G major
 =3	=3
-4r	A
+4r	A major
 4a	.
 4ee	.
 16dd	.
@@ -41,16 +41,16 @@
 16cc#	.
 16r	.
 =4	=4
-8ggn[	.
-8ggn_	G
+[8ggnL	.
+8ggn_	G major
 8ggn_	.
-8ggn]	G
-8ff#[	.
-8ff#]	Gmaj7
-8ee[	.
-8ee]	Gmaj7
+8ggnJ]	G major
+[8ff#L	.
+8ff#]	G major-seventh
+[8ee	.
+8eeJ]	G major-seventh
 =5	=5
-4r	A
+4r	A major
 4a	.
 4ee	.
 16dd	.
@@ -58,16 +58,16 @@
 16cc#	.
 16r	.
 =6	=6
-8b[	.
-8b]	G
-8gn[	.
-8gn]	G
-8dd[	.
-8dd]	G
-8b[	.
-8b]	G
+[8bL	.
+8b]	G major
+[8gn	.
+8gnJ]	G major
+[8ddL	.
+8dd]	G major
+[8b	.
+8bJ]	G major
 =7	=7
-4r	A
+4r	A major
 4a	.
 4ee	.
 16dd	.
@@ -75,103 +75,103 @@
 16cc#	.
 16r	.
 =8	=8
-8ggn[	.
-8ggn_	Em7
+[8ggnL	.
+8ggn_	E minor-seventh
 8ggn_	.
-8ggn_	Em7
+8ggnJ_	E minor-seventh
+8ggnL_	.
+8ggn_	E minor-seventh
 8ggn_	.
-8ggn_	Em7
-8ggn_	.
-8ggn]	Em7
+8ggnJ]	E minor-seventh
 =9	=9
-2ff#	D
-2cc#[	Dmaj11#11
+2ff#	D major
+[2cc#	D major-11th
 =10	=10
-4cc#]	D
+4cc#]	D major
 4b	.
 4cc#	.
 4dd	.
 =11	=11
-2.ee	C#m
+2.ee	C# minor
 4cc#	.
 =12	=12
-2aa[	F#m
-4aa]	A/E
+[2aa	F# minor
+4aa]	A major/E
 4gg#	.
 =13	=13
-2ff#	Dmaj7
+2ff#	D major-seventh
 2cc#	.
 =14	=14
-4r	E7/D
+4r	E dominant/D
 4b	.
 4ee	.
 4gg#	.
 =15	=15
-2bb[	C#m
-4bb]	C#m7
+[2bb	C# minor
+4bb]	C# minor-seventh
 4gg#	.
 =16	=16
-2aa	Am/C
-2bb	Cmaj7
+2aa	A minor/C
+2bb	C major-seventh
 =17	=17
-2ccc#	Badd(2,3,7)
+2ccc#	B other-2,3,7
 4ff#	.
 4ccc#	.
 =18	=18
-4eee	Gm/A#
+4eee	G minor/A#
 4ddd	.
 4aa	.
 4bb	.
 =19	=19
-1ccc#	A
+1ccc#	A major
 =20	=20
 3...cc#	.
 8r	.
 8c#	.
 8r	.
 =21	=21
-2c#	Gmaj7
+2c#	G major-seventh
 4d	.
 4e	.
 =22	=22
 2f#	.
-8.cc#	.
+8.cc#L	.
 8.b	.
-8a	.
+8aJ	.
 =23	=23
-2b	F#m11
+2b	F# minor-11th
 2g#	.
 =24	=24
 2.e	.
 4r	.
 =25	=25
-2cc#	Gmaj7
+2cc#	G major-seventh
 2b	.
 =26	=26
 2a	.
 2b	.
 =27	=27
-1g#[	F#7sus2
+[1g#	F# dominant-seventh-suspended-second
 =28	=28
 2.g#]	.
 4r	.
 =29	=29
-4.cn	Fmaj7
-16cn	.
-16d	.
+4.cn	F major-seventh
+16cnLL	.
+16dJJ	.
 4.e	.
-16e	.
-16fn	.
+16eLL	.
+16fnJJ	.
 =30	=30
-4.gn	G#maj7
-16gn	.
-16g#	.
+4.gn	G# major-seventh
+16gnLL	.
+16g#JJ	.
 4.a#	.
-16a#	.
-16ccn	.
+16a#LL	.
+16ccnJJ	.
 =31	=31
-1cc#	A
+1cc#	A major
 =32	=32
-1r	A
+1r	A major
 ==	==
 *-	*-

@@ -16,178 +16,178 @@
 *b:	*
 *M3/4	*
 =1	=1
-4d	G
+4d	G major
 4b	.
-4cc#	A
+4cc#	A major
 =2	=2
-2dd	Bm
+2dd	B minor
 4d	.
 =3	=3
-4d	G
+4d	G major
 4b	.
-4cc#	A
+4cc#	A major
 =4	=4
-2dd	Bm
-8b	.
-8cc#	.
+2dd	B minor
+8bL	.
+8cc#J	.
 =5	=5
-4dd	Em
+4dd	E minor
 4dd	.
 4ee	.
 =6	=6
-4b	D
+4b	D major
 4b	.
 4dd	.
 =7	=7
-4ccn	C
+4ccn	C major
 4dd	.
 4ee	.
 =8	=8
-8ff#	Bm
-8b	.
-8b	.
-8f#	.
-8f#	.
-8c#	.
+8ff#L	B minor
+8bJ	.
+8bL	.
+8f#J	.
+8f#L	.
+8c#J	.
 =9	=9
-4d	G
+4d	G major
 4b	.
-4cc#	A
+4cc#	A major
 =10	=10
-2dd	Bm
+2dd	B minor
 4d	.
 =11	=11
-4d	G
+4d	G major
 4b	.
-4cc#	A
+4cc#	A major
 =12	=12
-2dd	Bm
-8b	.
-8cc#	.
+2dd	B minor
+8bL	.
+8cc#J	.
 =13	=13
-4dd	Em
+4dd	E minor
 4dd	.
 4ee	.
 =14	=14
-4b	D
+4b	D major
 4b	.
 4dd	.
 =15	=15
-4ccn	C
+4ccn	C major
 4dd	.
 4ee	.
 =16	=16
-2ff#	Bm
-16ee	.
+2ff#	B minor
+16eeLL	.
 16dd	.
 16ee	.
-16cc#	.
+16cc#JJ	.
 =17	=17
-4B	G
+4B	G major
 4d	.
-4e	A
+4e	A major
 =18	=18
-2f#	Bm
-8b	.
-8cc#	.
+2f#	B minor
+8bL	.
+8cc#J	.
 =19	=19
-4dd	G
+4dd	G major
 4bb	.
-4ccc#	A
+4ccc#	A major
 =20	=20
-2ddd	Bm
-8b	.
-8cc#	.
+2ddd	B minor
+8bL	.
+8cc#J	.
 =21	=21
-8gg	Em
-8dd	.
-8e	.
-8f#	.
-16f#	.
+8ggL	E minor
+8ddJ	.
+8eL	.
+8f#J	.
+16f#LL	.
 16g	.
 16b	.
-16f#	.
+16f#JJ	.
 =22	=22
-8a	D
-8dd	.
-16ee	.
+8aL	D major
+8ddJ	.
+16eeLL	.
 16gg	.
 16aa	.
-16ff#	.
-16dd	.
+16ff#JJ	.
+16ddLL	.
 16a	.
 16f#	.
-16d	.
+16dJJ	.
 =23	=23
-16cn	C
+16cnLL	C major
 16G	.
 16cn	.
-16e	.
-16g	.
+16eJJ	.
+16gLL	.
 16ccn	.
 16ee	.
-16gg	.
-16cccn	.
+16ggJJ	.
+16cccnLL	.
 16ee	.
 16gg	.
-16cccn	.
+16cccnJJ	.
 =24	=24
-8fff#	Bm
-8b	.
-8b	.
-8f#	.
-8f#	.
-8c#	.
+8fff#L	B minor
+8bJ	.
+8bL	.
+8f#J	.
+8f#L	.
+8c#J	.
 =25	=25
-4B	G
+4B	G major
 4d	.
-4e	A
+4e	A major
 =26	=26
-2f#	Bm
-8b	.
-8cc#	.
+2f#	B minor
+8bL	.
+8cc#J	.
 =27	=27
-4dd	G
+4dd	G major
 4bb	.
-4ccc#	A
+4ccc#	A major
 =28	=28
-2ddd	Bm
-8b	.
-8cc#	.
+2ddd	B minor
+8bL	.
+8cc#J	.
 =29	=29
-8gg	Em
-8dd	.
-8e	.
-8f#	.
-16f#	.
+8ggL	E minor
+8ddJ	.
+8eL	.
+8f#J	.
+16f#LL	.
 16g	.
 16b	.
-16f#	.
+16f#JJ	.
 =30	=30
-8a	D
-8dd	.
-16ee	.
+8aL	D major
+8ddJ	.
+16eeLL	.
 16gg	.
 16aa	.
-16ff#	.
-16dd	.
+16ff#JJ	.
+16ddLL	.
 16a	.
 16f#	.
-16d	.
+16dJJ	.
 =31	=31
-16cn	C
+16cnLL	C major
 16G	.
 16cn	.
-16e	.
-16g	.
+16eJJ	.
+16gLL	.
 16ccn	.
 16ee	.
-16gg	.
-16cccn	.
+16ggJJ	.
+16cccnLL	.
 16ee	.
 16gg	.
-16cccn	.
+16cccnJJ	.
 =32	=32
-2.fff#	Bm
+2.fff#	B minor
 ==	==
 *-	*-

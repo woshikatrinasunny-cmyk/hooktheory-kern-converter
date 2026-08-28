@@ -16,45 +16,45 @@
 *C:	*
 *M4/4	*
 =1	=1
-8ccc	C
+8ccc	C major
 2.ccc	.
-16cc	.
-16ee	.
+16ccLL	.
+16eeJJ	.
 =2	=2
 4.ff	.
 4ee	.
 4.cc	.
 =3	=3
-8ccc	A#add(2,4,7)
+8ccc	A# other-2,4,7
 2.ccc	.
-16ccc	.
-16eee	.
+16cccLL	.
+16eeeJJ	.
 =4	=4
 4.fff	.
 4eee	.
 4.ccc	.
 =5	=5
-8ggg	Am
-8ccc	.
+8gggL	A minor
+8cccJ	.
 4.r	.
-8ccc	.
+8cccL	.
 8ggg	.
-8ccc	.
+8cccJ	.
 =6	=6
 8r	.
 8ccc	.
 8r	.
 8ccc	.
-8ggg	.
-8ccc	.
+8gggL	.
+8cccJ	.
 8r	.
 8ccc	.
 =7	=7
-4.aaa#	G#
+4.aaa#	G# major
 4.ggg#	.
-4ggg[	.
+[4ggg	.
 =8	=8
-8ggg]	A#add(2,4,7)
+8ggg]	A# other-2,4,7
 4.fff	.
 4ddd#	.
 4fff	.

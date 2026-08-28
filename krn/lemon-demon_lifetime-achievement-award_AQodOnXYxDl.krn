@@ -16,74 +16,74 @@
 *e:	*
 *M6/4	*
 =1	=1
-4b[	Em
-8b]	Em/B
-8b[	.
-4b]	Em/G
-4b[	Em
-8b]	Bm
-8b[	.
-4b]	Bm
+[4b	E minor
+8bL]	E minor/B
+[8bJ	.
+4b]	E minor/G
+[4b	E minor
+8bL]	B minor
+[8bJ	.
+4b]	B minor
 =2	=2
-4a#[	F#
-8a#]	F#
-8a#[	.
-4a#]	F#
-4a[	D/F#
-8a]	Cadd(2,4,7)
-8g[	.
-4g]	Cmaj7
+[4a#	F# major
+8a#L]	F# major
+[8a#J	.
+4a#]	F# major
+[4a	D major/F#
+8aL]	C other-2,4,7
+[8gJ	.
+4g]	C major-seventh
 =3	=3
-4b[	Em
-8b]	Em/B
-8b[	.
-4b]	Em/G
-4b[	Em
-8b]	Bm
-8b[	.
-4b]	Bm
+[4b	E minor
+8bL]	E minor/B
+[8bJ	.
+4b]	E minor/G
+[4b	E minor
+8bL]	B minor
+[8bJ	.
+4b]	B minor
 =4	=4
-4a#[	F#
-8a#]	F#
-8a#[	.
-4a#]	F#
-4a[	D/F#
-8a]	Cadd(2,4,7)
+[4a#	F# major
+8a#L]	F# major
+[8a#J	.
+4a#]	F# major
+[4a	D major/F#
+8a]	C other-2,4,7
 8r	.
-4g	Cadd(2,4,7)
+4g	C other-2,4,7
 =5	=5
-4r	Em
-8r	Em/B
-8e[	.
-4e]	Em/G
-4g[	Em
-8g]	Bm
-8b[	.
-4b]	Bm
+4r	E minor
+8r	E minor/B
+[8e	.
+4e]	E minor/G
+[4g	E minor
+8gL]	B minor
+[8bJ	.
+4b]	B minor
 =6	=6
-4a#[	F#
-4a#_	F#
-4a#]	F#
-4b[	D/F#
-8b]	Cadd(2,4,7)
+[4a#	F# major
+4a#_	F# major
+4a#]	F# major
+[4b	D major/F#
+8b]	C other-2,4,7
 8r	.
-4r	Cmaj7
+4r	C major-seventh
 =7	=7
-4r	Em
-8r	Em/B
-8b[	.
-4b]	Em/G
-4dd[	Em
-8dd]	Bm
-8ee[	.
-4ee]	Bm
+4r	E minor
+8r	E minor/B
+[8b	.
+4b]	E minor/G
+[4dd	E minor
+8ddL]	B minor
+[8eeJ	.
+4ee]	B minor
 =8	=8
-4cc#[	F#
-4cc#_	F#
-4cc#]	F#
-4cc[	D/F#
-8cc]	Cadd(2,4,7)
+[4cc#	F# major
+4cc#_	F# major
+4cc#]	F# major
+[4cc	D major/F#
+8cc]	C other-2,4,7
 8r	.
-4r	Cadd(2,4,7)
+4r	C other-2,4,7
 ==	==
 *-	*-

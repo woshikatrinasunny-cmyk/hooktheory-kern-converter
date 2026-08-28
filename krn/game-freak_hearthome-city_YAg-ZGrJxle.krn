@@ -16,68 +16,68 @@
 *C:	*
 *M4/4	*
 =1	=1
-8cc	Cmaj7
+8ccL	C major-seventh
 8g	.
 8dd	.
-8cc	.
-8r	Dm11
-8ee	.
+8ccJ	.
+8r	D minor-11th
+8eeL	.
 8ff	.
-8ff#	.
+8ff#J	.
 =2	=2
-8gg	Cmaj7/E
-8aa	.
+8ggL	C major-seventh/E
+8aaJ	.
 8r	.
 8cc	.
 2r	.
 =3	=3
-8gg	Fmaj9
+8gg	F major-ninth
 8r	.
 8cc	.
 8r	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 8r	.
 8cc	.
 =4	=4
-8gg	Fm9
+8ggL	F minor-ninth
 8cc	.
 8dd	.
-8cc	.
+8ccJ	.
 8r	.
-4gg	Gaug
+4gg	G augmented
 8g	.
 =5	=5
-8cc	Cmaj7
+8ccL	C major-seventh
 8g	.
 8dd	.
-8cc	.
-8r	Dm11
-8ee	.
+8ccJ	.
+8r	D minor-11th
+8eeL	.
 8ff	.
-8ff#	.
+8ff#J	.
 =6	=6
-8gg	Eaug
-8aa	.
+8ggL	E augmented
+8aaJ	.
 8r	.
 8cc	.
 2r	.
 =7	=7
-8ee	Fmaj7
+8ee	F major-seventh
 8r	.
 8cc	.
 8r	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 8r	.
 8cc	.
 =8	=8
-8gg	Fadd(2,4,7)
+8ggL	F other-2,4,7
 8ff	.
 8ee	.
-8ff	.
+8ffJ	.
 8r	.
-4gg	G
+4gg	G major
 8r	.
 ==	==
 *-	*-

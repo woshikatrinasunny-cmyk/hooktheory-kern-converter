@@ -16,35 +16,35 @@
 *d:	*
 *M3/4	*
 =1	=1
-2.r	B-add(4,7,9,11)
+2.r	B- other-4,7,9,11
 =2	=2
-2.r	Aadd(3,5,7,10)/C
+2.r	A other-3,5,7,10/C
 =3	=3
-2.r	Dm
+2.r	D minor
 =4	=4
-2.r	Dadd(3,5,7)
+2.r	D other-3,5,7
 =5	=5
-2.r	B-add(4,7,9,11)
+2.r	B- other-4,7,9,11
 =6	=6
-2.r	Aadd(3,5,7,10)/C
+2.r	A other-3,5,7,10/C
 =7	=7
-2.r	Dm
+2.r	D minor
 =8	=8
 2.r	.
 =9	=9
-2.r	B-add(4,7,9,11)
+2.r	B- other-4,7,9,11
 =10	=10
-2.r	Aadd(3,5,7,10)/C
+2.r	A other-3,5,7,10/C
 =11	=11
-2.r	F/A
+2.r	F major/A
 =12	=12
 2.r	.
 =13	=13
-2.r	Gm7
+2.r	G minor-seventh
 =14	=14
-2.r	Gadd(3,5,7,10)
+2.r	G other-3,5,7,10
 =15	=15
-2.r	Dadd(2,4,7)/G-
+2.r	D other-2,4,7/G-
 =16	=16
 2.r	.
 ==	==

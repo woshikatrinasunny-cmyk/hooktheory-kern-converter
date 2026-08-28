@@ -16,136 +16,136 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2ff	E-maj7
+2ff	E- major-seventh
 8r	.
-8f	.
+8fL	.
 8b-	.
-8cc[	.
+[8ccJ	.
 =2	=2
-8.cc]	.
-16dd-	.
+8.ccL]	.
+16dd-Jk	.
 4dd	.
 4cc	.
 4b-	.
 =3	=3
-2a	B-maj7
+2a	B- major-seventh
 4b-	.
-8cc	.
-8f[	.
+8ccL	.
+[8fJ	.
 =4	=4
 2.f]	.
 4r	.
 =5	=5
-2ff	E-maj7
+2ff	E- major-seventh
 8r	.
-8f	.
+8fL	.
 8b-	.
-8cc[	.
+[8ccJ	.
 =6	=6
-8.cc]	Dm7
-16dd-	.
+8.ccL]	D minor-seventh
+16dd-Jk	.
 4dd	.
 4cc	.
 4b-	.
 =7	=7
-2a	D7/G-
+2a	D dominant/G-
 4b-	.
-8cc	.
-8b-[	.
+8ccL	.
+[8b-J	.
 =8	=8
-2.b-]	Gm7
+2.b-]	G minor-seventh
 4r	.
 =9	=9
-2ff	E-maj7
+2ff	E- major-seventh
 8r	.
-8f	.
+8fL	.
 8b-	.
-8cc[	.
+[8ccJ	.
 =10	=10
-8.cc]	.
-16dd-	.
+8.ccL]	.
+16dd-Jk	.
 4dd	.
 4cc	.
 4b-	.
 =11	=11
-2a	B-maj7
+2a	B- major-seventh
 4b-	.
-8cc	.
-8f[	.
+8ccL	.
+[8fJ	.
 =12	=12
 2.f]	.
 4r	.
 =13	=13
-2ff	E-maj7
+2ff	E- major-seventh
 8r	.
-8f	.
+8fL	.
 8b-	.
-8cc[	.
+[8ccJ	.
 =14	=14
-8.cc]	Dm7
-16dd-	.
+8.ccL]	D minor-seventh
+16dd-Jk	.
 4dd	.
 4cc	.
 4b-	.
 =15	=15
-2a	D7/G-
+2a	D dominant/G-
 4b-	.
-8cc	.
-8b-[	.
+8ccL	.
+[8b-J	.
 =16	=16
-2.b-]	Gm7
+2.b-]	G minor-seventh
 4r	.
 =17	=17
-4r	E-maj7
+4r	E- major-seventh
 8ff	.
 8r	.
 4ff	.
 8r	.
-8ff[	.
+[8ff	.
 =18	=18
-8ff]	.
-8ff	.
+8ffL]	.
+8ffJ	.
 4ee-	.
 4dd	.
 4ee-	.
 =19	=19
-4.ff	F7/E-
+4.ff	F dominant/E-
 8r	.
 4.aa	.
-8ff[	.
+[8ff	.
 =20	=20
 2.ff]	.
 4r	.
 =21	=21
-4r	Dm7
+4r	D minor-seventh
 8ff	.
 8r	.
 4ff	.
 8r	.
-8ff[	.
+[8ff	.
 =22	=22
-8ff]	.
-8ff	.
+8ffL]	.
+8ffJ	.
 4ee-	.
 4dd	.
 4ee-	.
 =23	=23
-2ff	G7sus4
+2ff	G dominant-seventh-suspended-fourth
 4cc	.
 4a	.
 =24	=24
-2.bn	G7
-8g	.
-8cc	.
+2.bn	G dominant
+8gL	.
+8ccJ	.
 =25	=25
-8dd	Cm7
+8dd	C minor-seventh
 8r	.
 8dd	.
 8r	.
 8dd	.
 8r	.
-8dd	.
-8dd[	.
+8ddL	.
+[8ddJ	.
 =26	=26
 8dd]	.
 8r	.
@@ -153,9 +153,9 @@
 4b-	.
 4g	.
 =27	=27
-8.r	Dm7
-16dd-	.
-8dd	.
+8.r	D minor-seventh
+16dd-LK	.
+8ddJ	.
 8r	.
 8dd	.
 8r	.
@@ -167,25 +167,25 @@
 4.dd	.
 4ff	.
 =29	=29
-1gg[	E-maj7
+[1gg	E- major-seventh
 =30	=30
 4gg]	.
 4r	.
 4dd	.
 4b-	.
 =31	=31
-1cc[	C7/E
+[1cc	C dominant/E
 =32	=32
 4cc]	.
 4r	.
 4dd	.
 4b-	.
 =33	=33
-1cc[	F
+[1cc	F major
 =34	=34
 1cc]	.
 =35	=35
-1r	Gm7b5/F
+1r	G half-diminished/F
 =36	=36
 1r	.
 ==	==

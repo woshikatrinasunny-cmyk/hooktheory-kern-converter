@@ -15,48 +15,48 @@
 *d:	*
 *M4/4	*
 =1	=1
-4.d	Dm
+4.d	D minor
 8e	.
 4f	.
 4g	.
 =2	=2
-4.a	Am
+4.a	A minor
 8e	.
 4A	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 =3	=3
-4.f	F
+4.f	F major
 8g	.
 4a	.
 4b	.
 =4	=4
-4.cc	C
+4.cc	C major
 8g	.
 4c	.
-8cc	.
-8b	.
+8ccL	.
+8bJ	.
 =5	=5
-4.a	G
+4.a	G major
 8b	.
 4cc	.
 4dd	.
 =6	=6
-4ee	Am
+4ee	A minor
 4cc	.
 2a	.
 =7	=7
-2a#	A#
-4cc	F
-4b	G
+2a#	A# major
+4cc	F major
+4b	G major
 =8	=8
-4a	F
-4g	Em
-4f	F
-4g	G
+4a	F major
+4g	E minor
+4f	F major
+4g	G major
 =9	=9
-1a[	Dm/A
+[1a	D minor/A
 =10	=10
-1a]	A
+1a]	A major
 ==	==
 *-	*-

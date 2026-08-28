@@ -16,99 +16,99 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	Em
-4r	Em
-4r	Em
-4r	Em
+4r	E minor
+4r	E minor
+4r	E minor
+4r	E minor
 =2	=2
-4r	Em
-8B	.
-8B	.
-8.e	.
+4r	E minor
+8BL	.
+8BJ	.
+8.eL	.
 8.f#	.
-8g[	.
+[8gJ	.
 =3	=3
-4g]	C
+4g]	C major
 2b	.
 4g	.
 =4	=4
-3...a	D
-8.a	.
-16g	.
-8e	.
+3...a	D major
+8.aL	.
+16gk	.
+8eJ	.
 =5	=5
-2e	Em
+2e	E minor
 2r	.
 =6	=6
-4.r	Gadd(2,4,7)
+4.r	G other-2,4,7
 8B	.
-8.e	.
+8.eL	.
 8.f#	.
-8g[	.
+[8gJ	.
 =7	=7
-4g]	C
+4g]	C major
 2dd	.
 4g	.
 =8	=8
-2a	D
-8.b	.
-16a	.
+2a	D major
+8.bL	.
+16ak	.
 8g	.
-8f#	.
+8f#J	.
 =9	=9
-8f#	Eadd(2,3,7)
-8g	.
+8f#L	E other-2,3,7
+8gJ	.
 2f#	.
 4r	.
 =10	=10
-4.r	Gadd(2,4,7)
+4.r	G other-2,4,7
 8B	.
-8.e	.
+8.eL	.
 8.f#	.
-8g	.
+8gJ	.
 =11	=11
-2.b	C
-8g	.
-8f#[	.
+2.b	C major
+8gL	.
+[8f#J	.
 =12	=12
-4.f#]	D
+4.f#]	D major
 8r	.
-8.e	.
+8.eL	.
 8.f#	.
-8g[	.
+[8gJ	.
 =13	=13
-4g]	Em7
+4g]	E minor-seventh
 2dd	.
-8g	.
-8a[	.
+8gL	.
+[8aJ	.
 =14	=14
-4.a]	Gadd(2,4,7)
+4.a]	G other-2,4,7
 8r	.
-8.e	.
+8.eL	.
 8.f#	.
-8g	.
+8gJ	.
 =15	=15
-2b	C
+2b	C major
 2g	.
 =16	=16
-4.d	D
+4.d	D major
 4.r	.
-16a	.
-16g	.
-8e	.
+16aLL	.
+16gJ	.
+8eJ	.
 =17	=17
-4e	Esus4
-16a	.
-16g	.
-8e	.
+4e	E suspended-fourth
+16aLL	.
+16gJ	.
+8eJ	.
 4e	.
-16a	.
-16g	.
-8e	.
+16aLL	.
+16gJ	.
+8eJ	.
 =18	=18
-4e	Esus4
-16a	.
-16g	.
+4e	E suspended-fourth
+16aLL	.
+16gJJ	.
 4e	.
 8e	.
 4g	.

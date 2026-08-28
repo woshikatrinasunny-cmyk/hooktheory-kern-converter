@@ -16,93 +16,93 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	Gadd(4,7,9,11)
+4r	G other-4,7,9,11
 4D	.
 4E	.
 4F#	.
 =2	=2
-4G	Em7
+4G	E minor-seventh
 4A	.
 4B	.
 4d	.
 =3	=3
-16B	Am9
-16A	.
+16BLL	A minor-ninth
+16AJJ	.
 2B	.
-8.A	.
-8.G	.
+8.AL	.
+8.GJ	.
 =4	=4
-4F#	D7
+4F#	D dominant
 4E	.
 4.A	.
-16E	.
-16D#	.
+16ELL	.
+16D#JJ	.
 =5	=5
-2D	Gadd(4,7,9,11)
+2D	G other-4,7,9,11
 8r	.
-8D	.
+8DL	.
 8E	.
-8F#	.
+8F#J	.
 =6	=6
-4G	Em7
+4G	E minor-seventh
 4A	.
 4B	.
 4d	.
 =7	=7
-16d#	Am9
+16d#	A minor-ninth
 4..e	.
 8r	.
-8.d	.
-8.c	.
+8.dL	.
+8.cJ	.
 =8	=8
-8.B	F#m7b5
+8.BL	F# half-diminished
 8.A	.
-8E	.
-8.D#	B7
+8EJ	.
+8.D#	B dominant
 6...B	.
 =9	=9
-2G	Em7
+2G	E minor-seventh
 8r	.
 4A	.
-16G	.
-16A	.
+16GLL	.
+16AJJ	.
 =10	=10
-8.G	Cm7
+8.GL	C minor-seventh
 8D#	.
-8.D	.
+8.DJ	.
 2C	.
 =11	=11
-4r	Bm7
+4r	B minor-seventh
 4B	.
 4.A	.
 8G	.
 =12	=12
-8.F#	A#m7
+8.F#	A# minor-seventh
 6...d	.
 8.Fn	.
 6...c#	.
 =13	=13
-2E	Am7
-8.c	.
+2E	A minor-seventh
+8.cL	.
 8.A	.
-8G	.
+8GJ	.
 =14	=14
-2F#	D9
+2F#	D dominant-ninth
 8r	.
-8.e	.
-8.f#	.
+8.eL	.
+8.f#J	.
 =15	=15
-4d	Bm7
+4d	B minor-seventh
 8r	.
 8G	.
-4Fn	A#m7
+4Fn	A# minor-seventh
 8r	.
 8d	.
 =16	=16
-4c	Am7
+4c	A minor-seventh
 8r	.
 8E	.
-4D#	G#7
-4B	D7
+4D#	G# dominant
+4B	D dominant
 ==	==
 *-	*-

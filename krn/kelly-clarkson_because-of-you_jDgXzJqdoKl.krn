@@ -16,93 +16,93 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8r	A-
+8r	A- major
+8cL	.
 8c	.
-8c	.
-8A-	.
-4.e-	Cm
-16B-	.
-16c[	.
+8A-J	.
+4.e-	C minor
+16B-LL	.
+[16cJJ	.
 =2	=2
-8c]	Fadd(2,3,7)
-16B-	.
+8cL]	F other-2,3,7
+16B-k	.
 8.c	.
-16B-	.
-16c	.
-16B-	Fm
+16B-L	.
+16cJJ	.
+16B-LK	F minor
 8.B-	.
-16c	E-
-16d-	.
-8B-	.
+16cL	E- major
+16d-J	.
+8B-J	.
 =3	=3
-8A-	A-
+8A-	A- major
 8r	.
-16c	.
-16B-	.
-8A-	.
-8e-	Cm
+16cLL	.
+16B-J	.
+8A-J	.
+8e-L	C minor
 8B-	.
-8B-	.
+8B-J	.
 8r	.
 =4	=4
-8c	Fadd(2,3,7)
-16B-	.
+8cL	F other-2,3,7
+16B-k	.
 8c	.
+16B-k	.
+8cJ	.
+16cLL	F minor
 16B-	.
-8c	.
-16c	Fm
-16B-	.
-16B-	.
+16B-JJ	.
 16r	.
-4r	E-
+4r	E- major
 =5	=5
-8r	A-
-8a-	.
-16g	.
-16f	.
-8e-	.
-8e-	Cm
+8r	A- major
+8a-L	.
+16gL	.
+16fJ	.
+8e-J	.
+8e-	C minor
 4f	.
-16B-	.
-16c[	.
+16B-LL	.
+[16cJJ	.
 =6	=6
-8c]	Fadd(2,3,7)
-16B-	.
+8cL]	F other-2,3,7
+16B-k	.
 8.c	.
-16B-	.
-16c[	.
-16c]	Fm
+16B-L	.
+[16cJJ	.
+16cLK]	F minor
 8.d-	.
-16B-	E-
-8.c	.
+16B-k	E- major
+8.cJ	.
 =7	=7
-8r	A-
+8r	A- major
+8a-L	.
 8a-	.
-8a-	.
+16a-L	.
+[16b-JJ	.
+16b-LL]	C minor
 16a-	.
-16b-[	.
-16b-]	Cm
-16a-	.
-16g	.
-8e-	.
+16gJ	.
+8e-J	.
 16r	.
 8a-	.
 =8	=8
 *M2/4	*
-16b-	Fadd(2,3,7)
+16b-LL	F other-2,3,7
 16b-	.
 16b-	.
-16b-	.
-16b-	.
+16b-JJ	.
+16b-LK	.
 8a-	.
-16b-[	.
+[16b-Jk	.
 =9	=9
 *M4/4	*
-2b-]	E-add(2,4,7)
-8r	E-sus4
-8cc	.
-16b-	E-
-16a-	.
-8a-	.
+2b-]	E- other-2,4,7
+8r	E- suspended-fourth
+8ccL	.
+16b-L	E- major
+16a-J	.
+8a-J	.
 ==	==
 *-	*-

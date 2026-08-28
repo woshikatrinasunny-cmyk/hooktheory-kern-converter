@@ -16,72 +16,72 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4.e-	E-
+4.e-	E- major
 8e-	.
 2e-	.
 =2	=2
-4f	E-maj7/D
+4f	E- major-seventh/D
 4e-	.
 4d	.
 4e-	.
 =3	=3
-4.e-	Cm
+4.e-	C minor
 8e-	.
 4.e-	.
 8r	.
 =4	=4
-4a-	D-7/B
+4a-	D- dominant/B
 4g	.
 4f	.
 4e-	.
 =5	=5
-4.B-	B-m
+4.B-	B- minor
 8f	.
 2f	.
 =6	=6
-4a-	A-
+4a-	A- major
 4g	.
 4f	.
 4e-	.
 =7	=7
-4.b-	Gm
+4.b-	G minor
 8g	.
-4g[	.
-4g]	Gm/B-
+[4g	.
+4g]	G minor/B-
 =8	=8
-4cc	C7
+4cc	C dominant
 4b-	.
 4a-	.
 4g	.
 =9	=9
-4.a-	Fm
+4.a-	F minor
 8f	.
 4f	.
 8r	.
 8f	.
 =10	=10
-4a-	B-
+4a-	B- major
 4g	.
-4g-	B-/D
+4g-	B- major/D
 4g	.
 =11	=11
-4.f	E-
+4.f	E- major
 8e-	.
-4e-	E-/G
+4e-	E- major/G
 4r	.
 =12	=12
-4.cc	Cdim
+4.cc	C diminished
 8an	.
-4an	E-dim/A
+4an	E- diminished/A
 4d	.
 =13	=13
-4..B-	A-
+4..B-	A- major
 6...f	.
-4f[	.
+[4f	.
 =14	=14
 1f]	.
 =15	=15
-4B-	B-
+4B-	B- major
 4a-	.
 4g	.
 4g	.
@@ -91,16 +91,16 @@
 4d	.
 4e-	.
 =17	=17
-4.e-	E-
+4.e-	E- major
 8e-	.
 2e-	.
 =18	=18
-4f	Ddim
+4f	D diminished
 4e-	.
 4d	.
 4e-	.
 =19	=19
-4.e-	Cm
+4.e-	C minor
 8e-	.
 4.e-	.
 8r	.
@@ -110,51 +110,51 @@
 4f	.
 4e-	.
 =21	=21
-4.B-	B-m
+4.B-	B- minor
 8f	.
 2f	.
 =22	=22
-4a-	A-
+4a-	A- major
 4g	.
 4f	.
 4e-	.
 =23	=23
-4.b-	Gm
+4.b-	G minor
 8g	.
 2g	.
 =24	=24
-4cc	C7
+4cc	C dominant
 4b-	.
-4a-	C7/G
+4a-	C dominant/G
 4g	.
 =25	=25
-4.a-	Fm
+4.a-	F minor
 8f	.
 4f	.
 8r	.
 8f	.
 =26	=26
-4a-	B-
+4a-	B- major
 4g	.
 4g-	.
 4g	.
 =27	=27
-4.f	E-
+4.f	E- major
 8e-	.
-4e-	E-/G
+4e-	E- major/G
 4r	.
 =28	=28
-2r	Cdim
-4r	E-dim/A
+2r	C diminished
+4r	E- diminished/A
 4d	.
 =29	=29
-4.B-	A-
+4.B-	A- major
 4.f	.
-4f[	.
+[4f	.
 =30	=30
 1f]	.
 =31	=31
-4B-	B-
+4B-	B- major
 4a-	.
 4g	.
 4g	.
@@ -165,6 +165,6 @@
 2d	.
 2e-	.
 =34	=34
-1e-	E-
+1e-	E- major
 ==	==
 *-	*-

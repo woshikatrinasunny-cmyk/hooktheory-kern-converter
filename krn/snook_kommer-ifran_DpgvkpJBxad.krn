@@ -16,69 +16,69 @@
 *F:	*
 *M4/4	*
 =1	=1
-4f	Fadd(2,4,7)
+4f	F other-2,4,7
 4g	.
 8a	.
 4g	.
-8f[	B-maj7
+[8f	B- major-seventh
 =2	=2
 4f]	.
-4r	Fadd(2,4,7)
-8a	.
+4r	F other-2,4,7
+8aL	.
 8g	.
 8f	.
-8d	B-maj7
+8dJ	B- major-seventh
 =3	=3
 8f	.
 4r	.
-8d	Dm7
-8f	.
+8d	D minor-seventh
+8fL	.
 8a	.
 8g	.
-8f[	B-maj7
+[8fJ	B- major-seventh
 =4	=4
-8f]	.
+8fL]	.
 8f	.
-8g	.
-4a	Dm7
+8gJ	.
+4a	D minor-seventh
 8r	.
-16c	.
+16cLL	.
 16d	.
 16f	.
-16g	.
+16gJJ	.
 =5	=5
-4f	Fadd(2,4,7)
+4f	F other-2,4,7
 4g	.
 8a	.
 4g	.
-8f[	B-maj7
+[8f	B- major-seventh
 =6	=6
 4f]	.
-4r	Fadd(2,4,7)
-8a	.
+4r	F other-2,4,7
+8aL	.
 8g	.
 8f	.
-8d	B-maj7
+8dJ	B- major-seventh
 =7	=7
 8f	.
 4r	.
-8d	Dm7
-8f	.
+8d	D minor-seventh
+8fL	.
 8a	.
 8g	.
-8f[	B-maj7
+[8fJ	B- major-seventh
 =8	=8
-8f]	.
+8fL]	.
 8f	.
-8g	.
-4a	Dm7
+8gJ	.
+4a	D minor-seventh
 8r	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 =9	=9
-2.a	Bm7b5
+2.a	B half-diminished
 4f	.
 =10	=10
-1d	B-maj7
+1d	B- major-seventh
 ==	==
 *-	*-

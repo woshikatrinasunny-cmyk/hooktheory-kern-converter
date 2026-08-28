@@ -16,62 +16,62 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.gg[	Em7
-8.gg]	Em7
-8.ff#[	Bm7
-8.ff#]	Bm7
-8.ee[	Cmaj7
-16ee_	Cmaj7
+[8.ggL	E minor-seventh
+8.ggJ]	E minor-seventh
+[8.ff#	B minor-seventh
+8.ff#L]	B minor-seventh
+[8.ee	C major-seventh
+16eeJk_	C major-seventh
 =2	=2
-8ee]	.
-8.ee	Gmaj7
-8.gg	Gmaj7
-8.gg	Gmaj7
-8.aa	Gmaj7
-8bb[	E7sus4
+8eeL]	.
+8.ee	G major-seventh
+8.ggJ	G major-seventh
+8.ggL	G major-seventh
+8.aa	G major-seventh
+[8bbJ	E dominant-seventh-suspended-fourth
 =3	=3
-16bb]	.
-8.ee	E7sus4
-8dd	E7sus4
-16cc[	.
-16cc]	E7sus4
-8ee[	.
-8.ee_	Cmaj7
-8.ee]	Cmaj7
+16bbLK]	.
+8.ee	E dominant-seventh-suspended-fourth
+8dd	E dominant-seventh-suspended-fourth
+[16ccL	.
+16ccJJ]	E dominant-seventh-suspended-fourth
+[8eeL	.
+8.ee_	C major-seventh
+8.eeJ]	C major-seventh
 =4	=4
-8.aa[	Cmaj7
-8.aa_	Cadd(2,4,7)
-8.aa_	Cadd(2,4,7)
-8.aa_	Cadd(2,4,7)
-8.aa_	Cadd(2,4,7)
-16aa]	Cadd(2,4,7)
+[8.aaL	C major-seventh
+8.aaJ_	C other-2,4,7
+8.aa_	C other-2,4,7
+8.aaL_	C other-2,4,7
+8.aa_	C other-2,4,7
+16aaJk]	C other-2,4,7
 =5	=5
-8.gg[	Em7
-8.gg]	Em7
-8.ff#[	Bm7
-8.ff#]	Bm7
-8.ee[	Cmaj7
-16ee_	Cmaj7
+[8.ggL	E minor-seventh
+8.ggJ]	E minor-seventh
+[8.ff#	B minor-seventh
+8.ff#L]	B minor-seventh
+[8.ee	C major-seventh
+16eeJk_	C major-seventh
 =6	=6
-8ee_	.
-8.ee_	Gmaj7
-8.ee_	Gmaj7
-8.ee_	Gmaj7
-8.ee]	Gmaj7
-8ff#[	E7sus4
+8eeL_	.
+8.ee_	G major-seventh
+8.eeJ_	G major-seventh
+8.eeL_	G major-seventh
+8.ee]	G major-seventh
+[8ff#J	E dominant-seventh-suspended-fourth
 =7	=7
-16ff#_	.
-8.ff#_	E7sus4
-8.ff#_	E7sus4
-8.ff#]	E7sus4
-8.ee[	Cmaj7
-8.ee_	Cmaj7
+16ff#LK_	.
+8.ff#_	E dominant-seventh-suspended-fourth
+8.ff#J_	E dominant-seventh-suspended-fourth
+8.ff#]	E dominant-seventh-suspended-fourth
+[8.eeL	C major-seventh
+8.eeJ_	C major-seventh
 =8	=8
-8.ee_	Cmaj7
-8.ee_	Cadd(2,4,7)
-8.ee_	Cadd(2,4,7)
-8.ee_	Cadd(2,4,7)
-8.ee_	Cadd(2,4,7)
-16ee]	Cadd(2,4,7)
+8.eeL_	C major-seventh
+8.eeJ_	C other-2,4,7
+8.ee_	C other-2,4,7
+8.eeL_	C other-2,4,7
+8.ee_	C other-2,4,7
+16eeJk]	C other-2,4,7
 ==	==
 *-	*-

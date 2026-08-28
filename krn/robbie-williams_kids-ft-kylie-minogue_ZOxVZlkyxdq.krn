@@ -16,41 +16,41 @@
 *E:	*
 *M4/4	*
 =1	=1
-2.B	E
+2.B	E major
 4d	.
 =2	=2
-2.e	G
-8f#	.
-16d	.
-16e[	.
+2.e	G major
+8f#L	.
+16dL	.
+[16eJJ	.
 =3	=3
-2..e]	D
+2..e]	D major
 8c#	.
 =4	=4
-4..B[	A
-16B]	B
+[4..B	A major
+16B]	B major
 2r	.
 =5	=5
-2.B	G
+2.B	G major
 4d	.
 =6	=6
-2.e	F#
-16f#	.
+2.e	F# major
+16f#LL	.
 16d	.
 16d	.
-16e[	.
+[16eJJ	.
 =7	=7
-2..e]	C
-8e[	.
+2..e]	C major
+[8e	.
 =8	=8
-4e]	Dadd(2,4,7)
+4e]	D other-2,4,7
 8r	.
-16e	.
-16e	B
+16eLL	.
+16eJJ	B major
+8bL	.
+16bk	.
 8b	.
-16b	.
-8b	.
-16d#	.
-8e	.
+16d#k	.
+8eJ	.
 ==	==
 *-	*-

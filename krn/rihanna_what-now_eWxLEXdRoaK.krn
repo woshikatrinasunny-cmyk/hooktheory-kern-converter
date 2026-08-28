@@ -16,33 +16,33 @@
 *F#:	*
 *M6/4	*
 =1	=1
-2.f#	F#
+2.f#	F# major
 2a#	.
 4g#	.
 =2	=2
-2.r	G#m
+2.r	G# minor
 2a#	.
 4g#	.
 =3	=3
-2.r	E
+2.r	E major
 4g#	.
 4a#	.
 4g#	.
 =4	=4
-4b	E
+4b	E major
 8a#	.
 4.f#	.
-2.f#	G#add(2,3,7)
+2.f#	G# other-2,3,7
 =5	=5
-2.r	F#
+2.r	F# major
 2a#	.
 4g#	.
 =6	=6
-2.r	G#m
-2a#	G#m/D#
+2.r	G# minor
+2a#	G# minor/D#
 4g#	.
 =7	=7
-3...r	E
+3...r	E major
 8f#	.
 4g#	.
 4a#	.
@@ -55,31 +55,31 @@
 8a#	.
 4.f#	.
 =9	=9
-2.r	F#
+2.r	F# major
 2.cc#	.
 =10	=10
-2.b[	G#m
-2b]	G#m/D#
-8a#	.
-8g#	.
+[2.b	G# minor
+2b]	G# minor/D#
+8a#L	.
+8g#J	.
 =11	=11
-1.e	E
+1.e	E major
 =12	=12
 2.r	.
 4e	.
 4f#	.
 4g#	.
 =13	=13
-2.f#	F#
+2.f#	F# major
 2.cc#	.
 =14	=14
-2.b[	G#m
-4.b_	A#m
-8b]	B
-8a#	.
-8f#[	.
+[2.b	G# minor
+4.b_	A# minor
+8b]	B major
+8a#L	.
+[8f#J	.
 =15	=15
-1.f#]	E
+1.f#]	E major
 =16	=16
 1.r	.
 ==	==

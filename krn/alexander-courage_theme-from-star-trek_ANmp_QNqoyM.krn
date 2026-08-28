@@ -16,109 +16,109 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2f	B-add(2,4,7)
-2ee-[	.
+2f	B- other-2,4,7
+[2ee-	.
 =2	=2
 4ee-]	.
 4dd	.
-8.cc	.
+8.ccL	.
 8.b-	.
-8a	.
+8aJ	.
 =3	=3
-1a-[	G-7
+[1a-	G- dominant
 =4	=4
 2.a-]	.
 4g-	.
 =5	=5
-2f	B-add(2,4,7)
-2ff[	.
+2f	B- other-2,4,7
+[2ff	.
 =6	=6
 4ff]	.
 4ee-	.
-8.dd	.
+8.ddL	.
 8.cc	.
-8b-	.
+8b-J	.
 =7	=7
-1a[	F7/E-
+[1a	F dominant/E-
 =8	=8
 2.a]	.
 4a-	.
 =9	=9
-2.g	C
+2.g	C major
 4a	.
 =10	=10
 4bn	.
 4cc	.
-8.dd	.
+8.ddL	.
 8.een	.
-8ff	.
+8ffJ	.
 =11	=11
-2gg	B7
-2aa-[	.
+2gg	B dominant
+[2aa-	.
 =12	=12
 1aa-]	.
 =13	=13
-2.a-	B-m7/D-
+2.a-	B- minor-seventh/D-
 4b-	.
 =14	=14
 4cc	.
 4dd-	.
-8.ee-	.
+8.ee-L	.
 8.ff	.
-8gg-	.
+8gg-J	.
 =15	=15
-2aa-	Fm7b5
-2aa[	F7
+2aa-	F half-diminished
+[2aa	F dominant
 =16	=16
 1aa]	.
 =17	=17
-2f	B-add(2,4,7)
-2ee-[	.
+2f	B- other-2,4,7
+[2ee-	.
 =18	=18
 4ee-]	.
 4dd	.
-8.cc	.
+8.ccL	.
 8.b-	.
-8a	.
+8aJ	.
 =19	=19
-1a-[	G-7
+[1a-	G- dominant
 =20	=20
 2.a-]	.
 4g-	.
 =21	=21
-2f	B-add(2,4,7)
-2ff[	.
+2f	B- other-2,4,7
+[2ff	.
 =22	=22
 4ff]	.
 4ee-	.
-8.dd	.
+8.ddL	.
 8.cc	.
-8b-	.
+8b-J	.
 =23	=23
-1a[	D-7
+[1a	D- dominant
 =24	=24
-2.a]	D7
+2.a]	D dominant
 4a-	.
 =25	=25
-2.g	Cm7/E-
+2.g	C minor-seventh/E-
 4a	.
 =26	=26
-4b-	A-7sus2
+4b-	A- dominant-seventh-suspended-second
 4cc	.
-8.dd	.
+8.ddL	.
 8.ee-	.
-8dd	.
+8ddJ	.
 =27	=27
-4ff	B-
-2aa-	Gadd(1,7,10)
-4gg	G7
+4ff	B- major
+2aa-	G other-1,7,10
+4gg	G dominant
 =28	=28
-4ff	Cm7
-4r	F7sus4
-8.cc	.
+4ff	C minor-seventh
+4r	F dominant-seventh-suspended-fourth
+8.ccL	.
 8.ee-	.
-8gg	.
+8ggJ	.
 =29	=29
-2.bb-	B-
+2.bb-	B- major
 ==	==
 *-	*-

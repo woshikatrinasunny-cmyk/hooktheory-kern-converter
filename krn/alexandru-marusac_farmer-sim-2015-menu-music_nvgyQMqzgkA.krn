@@ -16,118 +16,118 @@
 *D:	*
 *M4/4	*
 =1	=1
-8d	D
-8f#	.
+8dL	D major
+8f#J	.
 4.g	.
 8r	.
-4r	Bm7/D
+4r	B minor-seventh/D
 =2	=2
-8r	Cadd(2,4,7)/G
-8f#	.
+8r	C other-2,4,7/G
+8f#L	.
 8d	.
-8d	.
+8dJ	.
 4.c	.
 8r	.
 =3	=3
-4r	D
-8d	.
-8f#	.
+4r	D major
+8dL	.
+8f#J	.
 4g	.
-4a	Bm7
+4a	B minor-seventh
 =4	=4
-4cc	Cadd(2,4,7)/G
-8b	.
-8a	.
-8b	.
-8a	.
-4g	Bm7/D
+4cc	C other-2,4,7/G
+8bL	.
+8aJ	.
+8bL	.
+8aJ	.
+4g	B minor-seventh/D
 =5	=5
-4d	D
-8d	.
-8f#	.
-4g[	.
-8g]	Bm7/D
+4d	D major
+8dL	.
+8f#J	.
+[4g	.
+8g]	B minor-seventh/D
 8r	.
 =6	=6
-8r	Cadd(2,4,7)/G
-8f#	.
+8r	C other-2,4,7/G
+8f#L	.
 8d	.
-8d	.
+8dJ	.
 4.c	.
 8r	.
 =7	=7
-4r	D
-8d	.
-8f#	.
+4r	D major
+8dL	.
+8f#J	.
 4g	.
-4a[	Bm7
+[4a	B minor-seventh
 =8	=8
-8a]	Cadd(2,4,7)/G
+8aL]	C other-2,4,7/G
 8dd	.
 8cc	.
-8b	.
-8cc	.
-8b	.
-4g	Bm7/D
+8bJ	.
+8ccL	.
+8bJ	.
+4g	B minor-seventh/D
 =9	=9
-4.d	D
-16d	.
-16f#	.
-8g	.
+4.d	D major
+16dLL	.
+16f#JJ	.
+8gL	.
 8a	.
-8g	Bm7/D
-8f#	.
+8g	B minor-seventh/D
+8f#J	.
 =10	=10
-4.d	Cadd(2,4,7)/G
-16d	.
-16f#	.
-8g	.
+4.d	C other-2,4,7/G
+16dLL	.
+16f#JJ	.
+8gL	.
 8a	.
 8g	.
-8f#	.
+8f#J	.
 =11	=11
-4.d	D
-16d	.
-16f#	.
-8g	.
-8a	.
-4b	Bm7
+4.d	D major
+16dLL	.
+16f#JJ	.
+8gL	.
+8aJ	.
+4b	B minor-seventh
 =12	=12
-4dd	Cadd(2,4,7)/G
-8cc	.
+4dd	C other-2,4,7/G
+8ccL	.
+8bJ	.
+8ccL	.
 8b	.
-8cc	.
-8b	.
-8g	Em7/G
-8f#	.
+8g	E minor-seventh/G
+8f#J	.
 =13	=13
-4.d	D
-16d	.
-16f#	.
-8g	.
+4.d	D major
+16dLL	.
+16f#JJ	.
+8gL	.
 8a	.
-8g	Bm7/D
-8f#	.
+8g	B minor-seventh/D
+8f#J	.
 =14	=14
-4.d	Cadd(2,4,7)/G
-16d	.
-16f#	.
-8g	.
+4.d	C other-2,4,7/G
+16dLL	.
+16f#JJ	.
+8gL	.
 8a	.
 8cc	.
-8b	.
+8bJ	.
 =15	=15
-4.a	D
-16f#	.
-16a	.
-8cc	.
+4.a	D major
+16f#LL	.
+16aJJ	.
+8ccL	.
 8b	.
-8a	Bm7
-8g	.
+8a	B minor-seventh
+8gJ	.
 =16	=16
-4a	Cadd(2,4,7)/G
+4a	C other-2,4,7/G
 4g	.
 4f#	.
-4d	Bm7/D
+4d	B minor-seventh/D
 ==	==
 *-	*-

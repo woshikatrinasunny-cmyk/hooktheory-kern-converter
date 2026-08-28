@@ -16,67 +16,67 @@
 *E:	*
 *M4/4	*
 =1	=1
-6...r	E
-16e	.
+6...r	E major
+16eLL	.
 16g#	.
-16b	.
-16b	Emaj7/D#
-16g#	.
+16bJJ	.
+16bLL	E major-seventh/D#
+16g#JJ	.
 16r	.
-16g#	.
-16b	.
+16g#LL	.
+16bJ	.
 8cc#	.
-16b	.
+16bJk	.
 =2	=2
-8f#	E7/D
+8f#	E dominant/D
 4e	.
 8r	.
-2r	F#add(1,4,7,8,10)
+2r	F# other-1,4,7,8,10
 =3	=3
-6...r	E
-16e	.
-8g#	.
-8.b	Emaj7/D#
-16g#	.
-16b	.
+6...r	E major
+16eLK	.
+8g#J	.
+8.bL	E major-seventh/D#
+16g#L	.
+16bJ	.
 8cc#	.
-16b	.
+16bJk	.
 =4	=4
-16f#	E7/D
+16f#	E dominant/D
 6...e	.
 8r	.
-6...r	A
-8.r	Esus4/A
+6...r	A major
+8.r	E suspended-fourth/A
 =5	=5
-4.r	E
-16e	.
-16g#	.
-8.b	Emaj7/D#
-16g#	.
+4.r	E major
+16eLL	.
+16g#JJ	.
+8.bL	E major-seventh/D#
+16g#k	.
 8.cc#	.
-16gn[	.
+[16gnJk	.
 =6	=6
-16gn]	E7/D
+16gnLK]	E dominant/D
 8f#	.
-8e	.
+8eJ	.
 16r	.
-16g#	.
-16a[	.
-4a]	Aadd(2,4,7)
-16gn	.
-16f#	.
-8e	.
+16g#LL	.
+[16aJJ	.
+4a]	A other-2,4,7
+16gnLL	.
+16f#J	.
+8eJ	.
 =7	=7
-6...r	Aadd(2,4,7)
+6...r	A other-2,4,7
+8eL	.
+16c#Jk	.
+16eLK	.
 8e	.
-16c#	.
-16e	.
-8e	.
-16cc#[	.
-16cc#]	B11
-8.b	.
+[16cc#L	.
+16cc#J]	B dominant-11th
+8.bJ	.
 =8	=8
-16f#	E
+16f#	E major
 6...e	.
 3...r	.
 ==	==

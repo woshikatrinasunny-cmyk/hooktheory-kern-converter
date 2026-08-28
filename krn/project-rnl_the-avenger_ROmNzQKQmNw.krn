@@ -16,85 +16,85 @@
 *B:	*
 *M4/4	*
 =1	=1
-16b	Badd(2,4,7)
+16bLL	B other-2,4,7
 16cc#	.
 16ff#	.
 16bb	.
-16b	.
+16bJJ	.
 16r	.
-16r	B7sus2
+16r	B dominant-seventh-suspended-second
 16b	.
-16cc#	.
+16cc#LL	.
 16ff#	.
-16aa	.
+16aaJJ	.
 16r	.
-16b	Aadd(2,4,7)
+16b	A other-2,4,7
 16r	.
-16b	.
-16b	.
+16bLL	.
+16bJJ	.
 =2	=2
 8r	.
-16a	F#m7
+16aLL	F# minor-seventh
 16cc#	.
 16ff#	.
 16aa	.
-16a	.
+16aJJ	.
 16r	.
-16r	F#sus4
-16a	.
+16r	F# suspended-fourth
+16aLL	.
 16cc#	.
 16ff#	.
 16aa	.
 16a	.
-16cc#	F#m7
-16ff#	.
+16cc#	F# minor-seventh
+16ff#JJ	.
 =3	=3
-16aa	.
-16ccc#	.
+16aaLL	.
+16ccc#JJ	.
 8r	.
-16f#	F#
+16f#	F# major
 16r	.
-16f#	.
-16f#	.
-16b	Badd(2,4,7)
+16f#LL	.
+16f#JJ	.
+16bLL	B other-2,4,7
 16cc#	.
 16ff#	.
 16bb	.
-16b	.
+16bJJ	.
 16r	.
-16r	B7sus2
+16r	B dominant-seventh-suspended-second
 16b	.
 =4	=4
-16cc#	.
+16cc#LL	.
 16ff#	.
-16aa	.
+16aaJJ	.
 16r	.
-16b	Aadd(2,4,7)
+16b	A other-2,4,7
 16r	.
-16b	.
-16b	.
+16bLL	.
+16bJJ	.
 8r	.
-16a	F#m7
+16aLL	F# minor-seventh
 16cc#	.
 16ff#	.
 16aa	.
-16a	.
+16aJJ	.
 16r	.
 =5	=5
 16r	.
-16a	.
+16aLL	.
 16cc#	.
 16ff#	.
 16aa	.
 16a	.
 16cc#	.
-16ff#	.
-16aa	.
-16ccc#	.
+16ff#JJ	.
+16aaLL	.
+16ccc#JJ	.
 8r	.
 16f#	.
 16r	.
-16f#	.
-16f#	.
+16f#LL	.
+16f#JJ	.
 ==	==
 *-	*-

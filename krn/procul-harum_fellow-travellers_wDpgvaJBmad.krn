@@ -16,31 +16,31 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4a#	F#
-4ff#	D#m
+4a#	F# major
+4ff#	D# minor
 4r	.
-4dd#	F#
+4dd#	F# major
 =2	=2
-4ccn	G#
+4ccn	G# major
 4.ccn	.
 4.r	.
 =3	=3
-4ccn	G#
-4gg#	E#m
+4ccn	G# major
+4gg#	E# minor
 4r	.
-8.gg#	G#
-16ee#	.
+8.gg#L	G# major
+16ee#Jk	.
 =4	=4
-4cc#	A#m
+4cc#	A# minor
 4cc#	.
 4r	.
-4ff#	F#
+4ff#	F# major
 =5	=5
-2.ee#	C#/G#
-8.dd#	G#
-16cc#	.
+2.ee#	C# major/G#
+8.dd#L	G# major
+16cc#Jk	.
 =6	=6
-2cc#	C#
+2cc#	C# major
 2r	.
 ==	==
 *-	*-

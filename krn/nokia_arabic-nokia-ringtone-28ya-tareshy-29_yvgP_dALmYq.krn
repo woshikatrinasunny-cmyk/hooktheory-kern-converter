@@ -17,192 +17,192 @@
 *M4/4	*
 =1	=1
 4e	.
-8g	C
-8f	.
-4g[	.
-8g_	C
-8g]	.
+8gL	C major
+8fJ	.
+[4g	.
+8gL_	C major
+8gJ]	.
 =2	=2
 4e	.
-8e	C
-8f	.
-8g	.
+8eL	C major
+8fJ	.
+8gL	.
 8a	.
-8g	C
-8f	.
+8g	C major
+8fJ	.
 =3	=3
 4e	.
-8dd	C
-8ee	.
+8ddL	C major
+8eeJ	.
 4e	.
-8g	C
-8f	.
+8gL	C major
+8fJ	.
 =4	=4
-4g[	.
-8g_	C
-8g]	.
+[4g	.
+8gL_	C major
+8gJ]	.
 4e	.
-8e	C
-8f	.
+8eL	C major
+8fJ	.
 =5	=5
-8g	.
+8gL	.
 8a	.
-8g	C
-8f	.
+8g	C major
+8fJ	.
 4e	.
-8cc	C
-8dd	.
+8ccL	C major
+8ddJ	.
 =6	=6
 4d	.
-8f	Dm
-8e	.
-4f[	.
-8f_	Dm
-8f]	.
+8fL	D minor
+8eJ	.
+[4f	.
+8fL_	D minor
+8fJ]	.
 =7	=7
 4e	.
-8e	Dm
-8f	.
-8g	.
+8eL	D minor
+8fJ	.
+8gL	.
 8a	.
-8g	Dm
-8f	.
+8g	D minor
+8fJ	.
 =8	=8
 4e	.
-8e[	C
+[8e	C major
 4.e]	.
-8f	C
-8d	.
+8fL	C major
+8dJ	.
 =9	=9
 4e	.
 8r	.
 8ee	.
-8ff	.
+8ffL	.
 8ee	.
 8dd	.
-8cc	.
+8ccJ	.
 =10	=10
-8g	.
+8gL	.
 8f	.
-8f	Dm
-8e	.
-4d[	.
-8d]	Dm
-8c	.
+8f	D minor
+8eJ	.
+[4d	.
+8dL]	D minor
+8cJ	.
 =11	=11
-8f	.
+8fL	.
 8e	.
-8e	C
-8f	.
-8g	.
+8e	C major
+8fJ	.
+8gL	.
 8a	.
-8g	C
-8f	.
+8g	C major
+8fJ	.
 =12	=12
 4e	.
-8dd	C
-8ee	.
-8g	.
+8ddL	C major
+8eeJ	.
+8gL	.
 8f	.
-8f	C
-8e	.
+8f	C major
+8eJ	.
 =13	=13
-4d[	.
-8d]	Dm
-8c	.
-8f	.
+[4d	.
+8dL]	D minor
+8cJ	.
+8fL	.
 8e	.
-8e	Dm
-8f	.
+8e	D minor
+8fJ	.
 =14	=14
-8g	.
+8gL	.
 8a	.
-8g	C
-8f	.
+8g	C major
+8fJ	.
 4e	.
-8e[	C
-8e]	.
+[8eL	C major
+8eJ]	.
 =15	=15
-16e	.
+16eLL	.
 16f	.
 16e	.
 16f	.
-16e	C
+16e	C major
 16f	.
 16e	.
-16f	.
-16e	.
-16f	.
+16fJJ	.
+16eLL	.
+16fJ	.
 8e	.
-8f	C
-8d	.
+8f	C major
+8dJ	.
 =16	=16
 4.e	.
 8ee	.
-8ff	.
+8ffL	.
 8ee	.
 8dd	.
-8cc	.
+8ccJ	.
 =17	=17
 4e	.
-8g	C
-8f	.
-4g[	.
-8g]	C
-8g	.
+8gL	C major
+8fJ	.
+[4g	.
+8gL]	C major
+8gJ	.
 =18	=18
 4e	.
-8g	C
-8f	.
-8e	.
+8gL	C major
+8fJ	.
+8eL	.
 8d	.
-8c[	C
-8c]	.
+[8c	C major
+8cJ]	.
 =19	=19
 4e	.
-8g	C
-8f	.
-4g[	.
-8g]	C
-8g	.
+8gL	C major
+8fJ	.
+[4g	.
+8gL]	C major
+8gJ	.
 =20	=20
 4e	.
-8g	C
-8f	.
-8e	.
+8gL	C major
+8fJ	.
+8eL	.
 8d	.
-8c[	C
-8c]	.
+[8c	C major
+8cJ]	.
 =21	=21
 4d	.
-8f	Dm
-8e	.
-4f[	.
-8f]	Dm
-8f	.
+8fL	D minor
+8eJ	.
+[4f	.
+8fL]	D minor
+8fJ	.
 =22	=22
 4d	.
-8f	Dm
-8e	.
-8d	.
+8fL	D minor
+8eJ	.
+8dL	.
 8c	.
-8c[	Dm
-8c]	.
+[8c	D minor
+8cJ]	.
 =23	=23
 4d	.
-8f	Dm
-8e	.
-4f[	.
-8f]	Dm
-8e	.
+8fL	D minor
+8eJ	.
+[4f	.
+8fL]	D minor
+8eJ	.
 =24	=24
-16f	.
-16g	.
+16fLL	.
+16gJ	.
 8a#	.
-8g	Dm
-8f	.
-4e[	.
-8e_	C
-8e]	.
+8g	D minor
+8fJ	.
+[4e	.
+8eL_	C major
+8eJ]	.
 ==	==
 *-	*-

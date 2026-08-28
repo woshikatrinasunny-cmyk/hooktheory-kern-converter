@@ -17,114 +17,114 @@
 *M4/4	*
 =1	=1
 4.r	.
-8g	C
-8.bb	D
-8.ee	Bm
-8dd[	Em
+8g	C major
+8.bbL	D major
+8.ee	B minor
+[8ddJ	E minor
 =2	=2
-16dd]	.
-8.ddd	Em
-8.b	Em
-8.ee	Em
-8.gg	G
-8.dd	G
+16ddLK]	.
+8.ddd	E minor
+8.bJ	E minor
+8.ee	E minor
+8.ggL	G major
+8.ddJ	G major
 =3	=3
 4r	.
-8aa	Am
-8dd	Am
-8.ee	Bm
-8.gg	G
-8ff#[	C
+8aaL	A minor
+8ddJ	A minor
+8.eeL	B minor
+8.gg	G major
+[8ff#J	C major
 =4	=4
-16ff#]	.
-8.b	C
-8.a	C
-8.dd	C
-8.bb	Bm
-8.g	Bm
+16ff#LK]	.
+8.b	C major
+8.aJ	C major
+8.dd	C major
+8.bbL	B minor
+8.gJ	B minor
 =5	=5
 4r	.
-8fff#	C
-8ee	C
-8.dd	D
-8.aa	Bm
-8gg[	Em
+8fff#L	C major
+8eeJ	C major
+8.ddL	D major
+8.aa	B minor
+[8ggJ	E minor
 =6	=6
-16gg]	.
-8.ee	Em
-8.bb	Em
-8.ff#	Em
-8.b	G
-8.bb	G
+16ggLK]	.
+8.ee	E minor
+8.bbJ	E minor
+8.ff#	E minor
+8.bL	G major
+8.bbJ	G major
 =7	=7
 4r	.
-8aa	Em
-8gg	Em
-8.ee	D/F#
-8.ff#	D
-8ddd[	G
+8aaL	E minor
+8ggJ	E minor
+8.eeL	D major/F#
+8.ff#	D major
+[8dddJ	G major
 =8	=8
-16ddd]	.
-8.aa	G
-8.ff#	G
-8.gg	G
-8.b	Bm
-8.ee	Bm
+16dddLK]	.
+8.aa	G major
+8.ff#J	G major
+8.gg	G major
+8.bL	B minor
+8.eeJ	B minor
 =9	=9
 4r	.
-8r	C
-8r	C
-8.r	D
-8.r	Bm
-8r	Em
+8r	C major
+8r	C major
+8.r	D major
+8.r	B minor
+8r	E minor
 =10	=10
 16r	.
-8.r	Em
-8.r	Em
-8.r	Em
-8.r	G
-8.r	G
+8.r	E minor
+8.r	E minor
+8.r	E minor
+8.r	G major
+8.r	G major
 =11	=11
 4r	.
-8r	Am
-8r	Am
-8.r	Bm
-8.r	G
-8r	C
+8r	A minor
+8r	A minor
+8.r	B minor
+8.r	G major
+8r	C major
 =12	=12
 16r	.
-8.r	C
-8.r	C
-8.r	C
-8.r	Bm
-8.r	Bm
+8.r	C major
+8.r	C major
+8.r	C major
+8.r	B minor
+8.r	B minor
 =13	=13
 4r	.
-8r	C
-8r	C
-8.r	D
-8.r	Bm
-8r	Em
+8r	C major
+8r	C major
+8.r	D major
+8.r	B minor
+8r	E minor
 =14	=14
 16r	.
-8.r	Em
-8.r	Em
-8.r	Em
-8.r	G
-8.r	G
+8.r	E minor
+8.r	E minor
+8.r	E minor
+8.r	G major
+8.r	G major
 =15	=15
 4r	.
-8r	Em
-8r	Em
-8.r	D/F#
-8.r	D
-8r	G
+8r	E minor
+8r	E minor
+8.r	D major/F#
+8.r	D major
+8r	G major
 =16	=16
 16r	.
-8.r	G
-8.r	G
-8.r	G
-8.r	Bm
-8.r	Bm
+8.r	G major
+8.r	G major
+8.r	G major
+8.r	B minor
+8.r	B minor
 ==	==
 *-	*-

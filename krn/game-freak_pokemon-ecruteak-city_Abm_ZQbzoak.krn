@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-2.aa	F
+2.aa	F major
 8ee	.
 8r	.
 =2	=2
@@ -27,17 +27,17 @@
 8ee	.
 8r	.
 =3	=3
-4ee	G7/F
+4ee	G dominant/F
 8dd	.
 8r	.
 4cc#	.
-4dd[	.
+[4dd	.
 =4	=4
 2dd]	.
 4b	.
 4ff	.
 =5	=5
-2.gg	Em7
+2.gg	E minor-seventh
 8dd	.
 8r	.
 =6	=6
@@ -48,28 +48,28 @@
 8dd	.
 8r	.
 =7	=7
-2.bb	Am
+2.bb	A minor
 4ccc	.
 =8	=8
 2aa	.
 4a	.
 4cc	.
 =9	=9
-1ff	Dm7
+1ff	D minor-seventh
 =10	=10
 4r	.
 4gg	.
 4ff	.
 4ee	.
 =11	=11
-1dd	G
+1dd	G major
 =12	=12
 4r	.
 4b	.
 4cc	.
 4dd	.
 =13	=13
-1ee	Cadd(2,4,7)
+1ee	C other-2,4,7
 =14	=14
 1gg	.
 ==	==

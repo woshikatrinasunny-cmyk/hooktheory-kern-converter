@@ -15,7 +15,7 @@
 *D:	*
 *M3/4	*
 =1	=1
-4d	D
+4d	D major
 4a	.
 4dd	.
 =2	=2
@@ -28,10 +28,10 @@
 4dd	.
 =4	=4
 4d	.
-8ccn	.
-8b	.
-8a	.
-8g	.
+8ccnL	.
+8bJ	.
+8aL	.
+8gJ	.
 =5	=5
 4d	.
 4a	.
@@ -46,168 +46,168 @@
 4dd	.
 =8	=8
 4d	.
-8ccn	.
-8b	.
-8a	.
-8g	.
+8ccnL	.
+8bJ	.
+8aL	.
+8gJ	.
 =9	=9
-8d	D
-8a	.
-8dd	.
-8d	.
-8a	.
-8dd	.
+8dL	D major
+8aJ	.
+8ddL	.
+8dJ	.
+8aL	.
+8ddJ	.
 =10	=10
-8d	C
-8a	.
-8dd	.
-8d	.
-8a	.
-8dd	.
+8dL	C major
+8aJ	.
+8ddL	.
+8dJ	.
+8aL	.
+8ddJ	.
 =11	=11
-8d	G
-8a	.
-8dd	.
-8d	.
-8a	.
-8dd	.
+8dL	G major
+8aJ	.
+8ddL	.
+8dJ	.
+8aL	.
+8ddJ	.
 =12	=12
-8d	D
-8a	.
-8dd	.
-8d	.
-8a	.
-8dd	.
+8dL	D major
+8aJ	.
+8ddL	.
+8dJ	.
+8aL	.
+8ddJ	.
 =13	=13
-8d	D
-8a	.
-8dd	.
-8d	.
-8a	.
-8dd	.
+8dL	D major
+8aJ	.
+8ddL	.
+8dJ	.
+8aL	.
+8ddJ	.
 =14	=14
-8d	C
-8a	.
-8dd	.
-8d	.
-8a	.
-8dd	.
+8dL	C major
+8aJ	.
+8ddL	.
+8dJ	.
+8aL	.
+8ddJ	.
 =15	=15
-8d	G
-8a	.
-8dd	.
-8d	.
-8a	.
-8dd	.
+8dL	G major
+8aJ	.
+8ddL	.
+8dJ	.
+8aL	.
+8ddJ	.
 =16	=16
-8d	D
-8a	.
-8dd	.
-8d	.
-8a	.
-8dd	.
+8dL	D major
+8aJ	.
+8ddL	.
+8dJ	.
+8aL	.
+8ddJ	.
 =17	=17
-4a	D
+4a	D major
 4r	.
-8d	.
-8dd	.
+8dL	.
+8ddJ	.
 =18	=18
 4a	.
 4r	.
-8d	.
-8dd	.
+8dL	.
+8ddJ	.
 =19	=19
 4a	.
 4r	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =20	=20
-4ccn	C
+4ccn	C major
 8b	.
 8r	.
-8d	.
-8dd	.
+8dL	.
+8ddJ	.
 =21	=21
-4a	D
+4a	D major
 4r	.
-8d	.
-8dd	.
+8dL	.
+8ddJ	.
 =22	=22
 4a	.
 4r	.
-8d	.
-8dd	.
+8dL	.
+8ddJ	.
 =23	=23
 4a	.
 4r	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =24	=24
-4ccn	C
+4ccn	C major
 8b	.
 4.r	.
 =25	=25
-4d	D
+4d	D major
 4a	.
 4dd	.
 =26	=26
-2.ccn	C
+2.ccn	C major
 =27	=27
-8ccn	G
-8b	.
-8ccn	.
-8b	.
-8a	.
-8g	.
+8ccnL	G major
+8bJ	.
+8ccnL	.
+8bJ	.
+8aL	.
+8gJ	.
 =28	=28
-2.a	D
+2.a	D major
 =29	=29
-4d	D
+4d	D major
 4a	.
 4dd	.
 =30	=30
-2.ccn	C
+2.ccn	C major
 =31	=31
-8ccn	G
-8b	.
-8ccn	.
-8b	.
-8a	.
-8b	.
+8ccnL	G major
+8bJ	.
+8ccnL	.
+8bJ	.
+8aL	.
+8bJ	.
 =32	=32
-2.dd	D
+2.dd	D major
 =33	=33
-4d	D
+4d	D major
 4a	.
 4dd	.
 =34	=34
-2.ccn	C
+2.ccn	C major
 =35	=35
-8ccn	G
-8b	.
-8ccn	.
-8b	.
-8a	.
-8g	.
+8ccnL	G major
+8bJ	.
+8ccnL	.
+8bJ	.
+8aL	.
+8gJ	.
 =36	=36
-2.a	D
+2.a	D major
 =37	=37
-4d	D
+4d	D major
 4a	.
 4dd	.
 =38	=38
-2.ccn	C
+2.ccn	C major
 =39	=39
-8ccn	G
-8b	.
-8ccn	.
-8b	.
-8a	.
-8b	.
+8ccnL	G major
+8bJ	.
+8ccnL	.
+8bJ	.
+8aL	.
+8bJ	.
 =40	=40
-2.dd	D
+2.dd	D major
 =41	=41
-4d	D
+4d	D major
 4a	.
 4dd	.
 =42	=42
@@ -220,10 +220,10 @@
 4dd	.
 =44	=44
 4d	.
-8ccn	.
-8b	.
-8a	.
-8g	.
+8ccnL	.
+8bJ	.
+8aL	.
+8gJ	.
 =45	=45
 4d	.
 4a	.
@@ -237,10 +237,10 @@
 4a	.
 4dd	.
 =48	=48
-4d	C
-8ccn	.
-8b	.
-8a	.
-8g	.
+4d	C major
+8ccnL	.
+8bJ	.
+8aL	.
+8gJ	.
 ==	==
 *-	*-

@@ -16,23 +16,23 @@
 *e:	*
 *M4/4	*
 =1	=1
-16e	.
-16b	E7sus2
+16eLL	.
+16bJJ	E dominant-seventh-suspended-second
 4r	.
-16g	.
-16a	E7sus2
+16gLL	.
+16aJJ	E dominant-seventh-suspended-second
 16b	.
 8r	.
-8r	Cadd(2,4,7)/E
+8r	C other-2,4,7/E
 16d	.
 16r	.
 16d#	.
 =2	=2
 16e	.
-16r	A7sus2
+16r	A dominant-seventh-suspended-second
 16g	.
 4r	.
-16a	Am7
+16a	A minor-seventh
 16r	.
 16g	.
 8.r	.
@@ -40,12 +40,12 @@
 16r	.
 16d#	.
 =3	=3
-16e	.
-16b	.
+16eLL	.
+16bJJ	.
 16r	.
-8.r	Cmaj7sus2
-16g	.
-16a	.
+8.r	C major-seventh-suspended-second
+16gLL	.
+16aJJ	.
 16b	.
 4r	.
 16d	.
@@ -54,34 +54,34 @@
 =4	=4
 16e	.
 16r	.
-16g	A
+16g	A major
 4r	.
 16a	.
 16r	.
 16g	.
 16r	.
-8r	D7
+8r	D dominant
 16d	.
 16r	.
 16d#	.
 =5	=5
-16e	.
-16b	E7sus2
+16eLL	.
+16bJJ	E dominant-seventh-suspended-second
 4r	.
-16g	.
-16a	E7sus2
+16gLL	.
+16aJJ	E dominant-seventh-suspended-second
 16b	.
 8r	.
-8r	Cadd(2,4,7)/E
+8r	C other-2,4,7/E
 16d	.
 16r	.
 16d#	.
 =6	=6
 16e	.
-16r	A7sus2
+16r	A dominant-seventh-suspended-second
 16g	.
 4r	.
-16a	Am7
+16a	A minor-seventh
 16r	.
 16g	.
 8.r	.
@@ -89,12 +89,12 @@
 16r	.
 16d#	.
 =7	=7
-16e	.
-16b	.
+16eLL	.
+16bJJ	.
 16r	.
-8.r	Cmaj7sus2
-16g	.
-16a	.
+8.r	C major-seventh-suspended-second
+16gLL	.
+16aJJ	.
 16b	.
 4r	.
 16d	.
@@ -103,13 +103,13 @@
 =8	=8
 16e	.
 16r	.
-16g	A
+16g	A major
 4r	.
 16a	.
 16r	.
 16g	.
 16r	.
-8r	D7
+8r	D dominant
 16d	.
 16r	.
 16d#	.

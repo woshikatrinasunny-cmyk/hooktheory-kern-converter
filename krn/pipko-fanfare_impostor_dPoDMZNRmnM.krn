@@ -16,13 +16,13 @@
 *a:	*
 *M6/4	*
 =1	=1
-4dd	Am7
+4dd	A minor-seventh
 4cc	.
 8dd#	.
 4.dd	.
 4cc	.
-8dd#	.
-8dd[	.
+8dd#L	.
+[8ddJ	.
 =2	=2
 4dd]	.
 4cc	.
@@ -30,13 +30,13 @@
 4dd#	.
 4dd#	.
 =3	=3
-4dd	Cm7
+4dd	C minor-seventh
 4cc	.
 8dd#	.
 4.dd	.
 4cc	.
-8dd#	.
-8dd[	.
+8dd#L	.
+[8ddJ	.
 =4	=4
 4dd]	.
 4cc	.
@@ -44,20 +44,20 @@
 4dd#	.
 4dd#	.
 =5	=5
-4dd	Am7
+4dd	A minor-seventh
 4cc	.
 8dd#	.
 4.dd	.
 4cc	.
-8dd#	.
-8dd[	.
+8dd#L	.
+[8ddJ	.
 =6	=6
 4dd]	.
 4cc	.
 2.r	.
 4a#	.
 =7	=7
-2cc	Cm7
+2cc	C minor-seventh
 4dd	.
 2dd#	.
 4ff	.

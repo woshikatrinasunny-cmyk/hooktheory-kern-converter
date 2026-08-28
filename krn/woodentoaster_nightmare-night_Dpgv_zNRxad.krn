@@ -16,76 +16,76 @@
 *d:	*
 *M4/4	*
 =1	=1
-8dd	Dm
+8dd	D minor
 8r	.
-8gg	.
-8aa	.
+8ggL	.
+8aaJ	.
 8gg	.
 8r	.
 8dd	.
 8r	.
 =2	=2
-8b-	B-
+8b-L	B- major
 8f	.
 8dd	.
-8b-	.
-8ff	D-dim
+8b-J	.
+8ff	D- diminished
 8r	.
-8gg	.
-8ee	.
+8ggL	.
+8eeJ	.
 =3	=3
-8dd	Dm
+8dd	D minor
 8r	.
-8gg	.
-8aa	.
+8ggL	.
+8aaJ	.
 8gg	.
 8r	.
 8dd	.
 8r	.
 =4	=4
-8bb-	Gm
+8bb-	G minor
 8r	.
-8aa	F
+8aa	F major
 8r	.
-8gg	C/E
+8ggL	C major/E
 8ff	.
-8ee	C
+8eeJ	C major
 8r	.
 =5	=5
-8dd	Dm
+8dd	D minor
 8r	.
-8gg	.
-8aa	.
+8ggL	.
+8aaJ	.
 8gg	.
 8r	.
 8dd	.
 8r	.
 =6	=6
-8b-	B-
+8b-L	B- major
 8f	.
 8dd	.
-8b-	.
-8ff	D-dim
+8b-J	.
+8ff	D- diminished
 8r	.
-8gg	.
-8ee	.
+8ggL	.
+8eeJ	.
 =7	=7
-8dd	Dm
+8dd	D minor
 8r	.
-8gg	.
-8aa	.
+8ggL	.
+8aaJ	.
 8gg	.
 8r	.
 8dd	.
 8r	.
 =8	=8
-8bb-	Gm
+8bb-	G minor
 8r	.
-8aa	F
+8aa	F major
 8r	.
-8gg	C/E
+8ggL	C major/E
 8ff	.
-8ee	C
+8eeJ	C major
 8r	.
 ==	==
 *-	*-

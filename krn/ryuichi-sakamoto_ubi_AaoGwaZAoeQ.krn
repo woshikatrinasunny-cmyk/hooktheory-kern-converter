@@ -16,36 +16,36 @@
 *e:	*
 *M4/4	*
 =1	=1
-1b	Em
+1b	E minor
 =2	=2
-8r	Cm/D#
+8r	C minor/D#
 8dd	.
 4.cc	.
 8g	.
 4cc	.
 =3	=3
-2r	Dadd(5,10)
-4.r	D7
+2r	D other-5,10
+4.r	D dominant
 8f#	.
 =4	=4
-2b[	Bm/D
-4.b]	C#add(3,10)
+[2b	B minor/D
+4.b]	C# other-3,10
 8e	.
 =5	=5
-2.b	Cmaj7
+2.b	C major-seventh
 4a	.
 =6	=6
-4a	Esus4
-4g#	E
-2g	Em
+4a	E suspended-fourth
+4g#	E major
+2g	E minor
 =7	=7
-4.r	Edim
-16f#	.
-16e	.
+4.r	E diminished
+16f#LL	.
+16eJJ	.
 4.d	.
 8c#	.
 =8	=8
-2f#[	Badd(2,5,7)
-2f#]	B
+[2f#	B other-2,5,7
+2f#]	B major
 ==	==
 *-	*-

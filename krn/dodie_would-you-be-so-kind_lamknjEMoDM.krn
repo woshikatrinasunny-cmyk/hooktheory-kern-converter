@@ -16,23 +16,23 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.b	Aadd(2,4,7)
+4.b	A other-2,4,7
 4e	.
 4b	.
-8b[	Badd(4,5,7)
+[8b	B other-4,5,7
 =2	=2
 4.b]	.
-16g#	.
-16f#	.
+16g#LL	.
+16f#JJ	.
 4e	.
 8r	.
-8r	C#m7
+8r	C# minor-seventh
 =3	=3
 4b	.
 8e	.
 4e	.
 4b	.
-8b[	Badd(4,5,7)
+[8b	B other-4,5,7
 =4	=4
 8b]	.
 4a	.
@@ -40,24 +40,24 @@
 4f#	.
 8r	.
 =5	=5
-4r	Aadd(2,4,7)
+4r	A other-2,4,7
 4b	.
 8e	.
 4b	.
-8b[	Badd(4,5,7)
+[8b	B other-4,5,7
 =6	=6
 4.b]	.
-16g#	.
-16f#	.
+16g#LL	.
+16f#JJ	.
 4e	.
 8r	.
-8r	C#m7
+8r	C# minor-seventh
 =7	=7
 4b	.
 8e	.
 4e	.
 4b	.
-8b[	Badd(4,5,7)
+[8b	B other-4,5,7
 =8	=8
 8b]	.
 4a	.

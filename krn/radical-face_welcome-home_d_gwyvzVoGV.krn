@@ -16,67 +16,67 @@
 *F#:	*
 *M4/4	*
 =1	=1
-1f#[	F#
+[1f#	F# major
 =2	=2
 2f#_	.
-2f#_	F#/A#
+2f#_	F# major/A#
 =3	=3
 4f#]	.
-2.e#	A#m
+2.e#	A# minor
 =4	=4
 2r	.
-2f#[	F#
+[2f#	F# major
 =5	=5
 1f#_	.
 =6	=6
-2.f#]	F#/A#
-4e#[	A#m
+2.f#]	F# major/A#
+[4e#	A# minor
 =7	=7
 2e#]	.
 2r	.
 =8	=8
-1f#[	F#
+[1f#	F# major
 =9	=9
 2f#_	.
-2f#_	F#/A#
+2f#_	F# major/A#
 =10	=10
 4f#]	.
-2.e#	A#m
+2.e#	A# minor
 =11	=11
 2r	.
-4.D#	B
-8C#[	F#/A#
+4.D#	B major
+[8C#	F# major/A#
 =12	=12
 4C#]	.
-2.AA#	F#
+2.AA#	F# major
 =13	=13
 2r	.
-4.D#	B
-8C#[	F#/A#
+4.D#	B major
+[8C#	F# major/A#
 =14	=14
 4C#]	.
-2AA#	F#
+2AA#	F# major
 4C#	.
 =15	=15
-4GG#	C#
+4GG#	C# major
 4r	.
-4.D#	B
-8C#[	F#/A#
+4.D#	B major
+[8C#	F# major/A#
 =16	=16
 4C#]	.
-2.AA#	F#
+2.AA#	F# major
 =17	=17
 2r	.
-4.D#	B
-8C#[	F#/A#
+4.D#	B major
+[8C#	F# major/A#
 =18	=18
 4C#]	.
-2AA#	F#
+2AA#	F# major
 4C#	.
 =19	=19
-2GG#	C#
+2GG#	C# major
 4r	.
-4C#[	.
+[4C#	.
 =20	=20
 2C#]	.
 ==	==

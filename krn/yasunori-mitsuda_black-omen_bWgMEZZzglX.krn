@@ -15,58 +15,58 @@
 *c:	*
 *M4/4	*
 =1	=1
-4.dd[	C7sus2
-4.dd_	Cm7
-4dd_	C7sus2
+[4.dd	C dominant-seventh-suspended-second
+4.dd_	C minor-seventh
+4dd_	C dominant-seventh-suspended-second
 =2	=2
-8dd_	.
-8dd]	Cm7
+8ddL_	.
+8ddJ]	C minor-seventh
 4cc	.
-4b-	C7sus2
-4cc	Cm7
+4b-	C dominant-seventh-suspended-second
+4cc	C minor-seventh
 =3	=3
-4.dd-[	E-7sus2
-8dd-]	E-m7
-4ee-[	.
-4ee-]	E-7sus2
+[4.dd-	E- dominant-seventh-suspended-second
+8dd-]	E- minor-seventh
+[4ee-	.
+4ee-]	E- dominant-seventh-suspended-second
 =4	=4
-8ff[	.
-4.ff]	E-m7
-4dd-[	E-7sus2
-4dd-]	E-m7
+[8ff	.
+4.ff]	E- minor-seventh
+[4dd-	E- dominant-seventh-suspended-second
+4dd-]	E- minor-seventh
 =5	=5
-4.dd[	C7sus2
-4.dd_	Cm7
-4dd_	C7sus2
+[4.dd	C dominant-seventh-suspended-second
+4.dd_	C minor-seventh
+4dd_	C dominant-seventh-suspended-second
 =6	=6
-8dd_	.
-8dd]	Cm7
+8ddL_	.
+8ddJ]	C minor-seventh
 4cc	.
-4b-	C7sus2
-4cc	Cm7
+4b-	C dominant-seventh-suspended-second
+4cc	C minor-seventh
 =7	=7
-4.dd-[	E-7sus2
-8dd-]	E-m7
-4ee-[	.
-4ee-]	E-7sus2
+[4.dd-	E- dominant-seventh-suspended-second
+8dd-]	E- minor-seventh
+[4ee-	.
+4ee-]	E- dominant-seventh-suspended-second
 =8	=8
-8ff[	.
-4.ff]	E-m7
-4dd-[	E-7sus2
-4dd-]	E-m7
+[8ff	.
+4.ff]	E- minor-seventh
+[4dd-	E- dominant-seventh-suspended-second
+4dd-]	E- minor-seventh
 =9	=9
-4.ff	Dm7
-4.een	D-m7
-4ee-[	Cm7
+4.ff	D minor-seventh
+4.een	D- minor-seventh
+[4ee-	C minor-seventh
 =10	=10
 1ee-]	.
 =11	=11
-4.ee-	Cm7
-4.dd	Bm7
-4dd-[	B-m7
+4.ee-	C minor-seventh
+4.dd	B minor-seventh
+[4dd-	B- minor-seventh
 =12	=12
 2.dd-]	.
-8dd-	B-m7
-8cc	Am7
+8dd-L	B- minor-seventh
+8ccJ	A minor-seventh
 ==	==
 *-	*-

@@ -19,94 +19,94 @@
 4c	.
 8c	.
 4e	.
-8f	.
+8fL	.
 8cc	.
-8f	.
+8fJ	.
 =2	=2
 4c	.
 8c	.
 4e	.
-8f	.
+8fL	.
 8cc	.
-8f	.
+8fJ	.
 =3	=3
-4c	C/G
+4c	C major/G
 8c	.
-4e	Fmaj7sus2
-8f	.
-8cc	C/G
-8f	.
+4e	F major-seventh-suspended-second
+8fL	.
+8cc	C major/G
+8fJ	.
 =4	=4
-8r	Cmaj7/B
+8r	C major-seventh/B
+8eeL	.
 8ee	.
-8ee	.
-8dd	C
-8dd	.
+8ddJ	C major
+8ddL	.
 8cc	.
 8ee	.
-8cc	.
+8ccJ	.
 =5	=5
 8r	.
-8e	.
+8eL	.
 8d	.
-8c	C/E
-8d	.
-8e	Fmaj7sus2
-8d	C
-8c[	.
+8cJ	C major/E
+8dL	.
+8e	F major-seventh-suspended-second
+8d	C major
+[8cJ	.
 =6	=6
 4.c_	.
-4c_	C/E
-8c_	Fmaj7sus2
-4c]	C
+4c_	C major/E
+8c_	F major-seventh-suspended-second
+4c]	C major
 =7	=7
 8r	.
-8e	.
+8eL	.
 8d	.
-8c	C/E
-8d	.
-8c	Fmaj7sus2
-8A	C
-8G[	.
+8cJ	C major/E
+8dL	.
+8c	F major-seventh-suspended-second
+8A	C major
+[8GJ	.
 =8	=8
-8G]	.
+8GL]	.
 8ee	.
 8ee	.
-8dd	.
-8dd	.
+8ddJ	.
+8ddL	.
 8cc	.
 8ee	.
-8cc	.
+8ccJ	.
 =9	=9
 8r	.
-8e	.
+8eL	.
 8d	.
-8c	C/E
-8d	.
-8e	Fmaj7sus2
-8f	C
-8g[	.
+8cJ	C major/E
+8dL	.
+8e	F major-seventh-suspended-second
+8f	C major
+[8gJ	.
 =10	=10
 4.g]	.
-4f[	C/E
-8f]	Fmaj7sus2
-4e[	C
+[4f	C major/E
+8f]	F major-seventh-suspended-second
+[4e	C major
 =11	=11
-8e]	.
-8e	.
+8eL]	.
+8eJ	.
 8r	.
-8e	C/E
-8d	.
-8e	Fmaj7sus2
-4d	C
+8e	C major/E
+8dL	.
+8eJ	F major-seventh-suspended-second
+4d	C major
 =12	=12
 8r	.
+8eeL	.
 8ee	.
-8ee	.
-8ff	.
-8ff	.
+8ffJ	.
+8ffL	.
 8gg	.
 8gg	.
-8ccc	.
+8cccJ	.
 ==	==
 *-	*-

@@ -15,131 +15,131 @@
 *A:	*
 *M4/4	*
 =1	=1
-2ff#	D
+2ff#	D major
 16r	.
-8.a	.
+8.aL	.
 8g#	.
-8a	.
+8aJ	.
 =2	=2
-2ee	A
+2ee	A major
 16r	.
-8.a	.
+8.aL	.
 8g#	.
-8a	.
+8aJ	.
 =3	=3
-4.dd	Bm7
+4.dd	B minor-seventh
 8cc#	.
-8dd	E7
-16ee	.
-16ff#	.
+8ddL	E dominant
+16eeL	.
+16ff#JJ	.
 16r	.
 16gg#	.
 16r	.
-16aa[	.
+[16aa	.
 =4	=4
-8.aa]	A
-16ee[	.
-4ee]	Fmaj7
-8r	Em7
-8a	.
-8cc#	A7sus2
-16ee	.
-16ff#[	.
+8.aaL]	A major
+[16eeJk	.
+4ee]	F major-seventh
+8r	E minor-seventh
+8aL	.
+8cc#	A dominant-seventh-suspended-second
+16eeL	.
+[16ff#JJ	.
 =5	=5
-2ff#]	D
-8r	E7/D
-8b	.
+2ff#]	D major
+8r	E dominant/D
+8bL	.
 8bb	.
-8gg#	.
+8gg#J	.
 =6	=6
-8.ee	A/C#
-16aa	.
+8.eeL	A major/C#
+16aaJk	.
 8r	.
-8ccc#	F#7
+8ccc#	F# dominant
 16r	.
-8.ccc#	F#
+8.ccc#L	F# major
 8cccn	.
-8ccc#	.
+8ccc#J	.
 =7	=7
-4ddd	Bm7
+4ddd	B minor-seventh
 4ff#	.
-4aa	E
+4aa	E major
 4gg#	.
 =8	=8
-2aa	A
+2aa	A major
 16r	.
-16a[	.
+[16aLK	.
 8a]	.
 8g#	.
-8a	.
+8aJ	.
 =9	=9
-2ff#	D
+2ff#	D major
 16r	.
-8.a	.
+8.aL	.
 8g#	.
-8a	.
+8aJ	.
 =10	=10
-2ee	A
+2ee	A major
 16r	.
-8.a	.
+8.aL	.
 8g#	.
-8a	.
+8aJ	.
 =11	=11
-4.dd	Bm7
+4.dd	B minor-seventh
 8cc#	.
-8dd	E7
-16ee	.
-16ff#	.
+8ddL	E dominant
+16eeL	.
+16ff#JJ	.
 16r	.
 16gg#	.
 16r	.
-16aa[	.
+[16aa	.
 =12	=12
-8.aa]	A
-16ee[	.
-4ee]	Fmaj7
-8r	Em7
-8a	.
-8cc#	A7sus2
-16ee	.
-16ff#[	.
+8.aaL]	A major
+[16eeJk	.
+4ee]	F major-seventh
+8r	E minor-seventh
+8aL	.
+8cc#	A dominant-seventh-suspended-second
+16eeL	.
+[16ff#JJ	.
 =13	=13
-2ff#]	D
-8r	E7/D
-8b	.
+2ff#]	D major
+8r	E dominant/D
+8bL	.
 8bb	.
-8gg#	.
+8gg#J	.
 =14	=14
-8.ee	A/C#
-16aa	.
+8.eeL	A major/C#
+16aaJk	.
 8r	.
-8ccc#	F#7
+8ccc#	F# dominant
 16r	.
-8.ccc#	F#
+8.ccc#L	F# major
 8cccn	.
-8ccc#	.
+8ccc#J	.
 =15	=15
-4ddd	Bm7
+4ddd	B minor-seventh
 4ff#	.
-4aa	E7
-4gg#	E7/D
+4aa	E dominant
+4gg#	E dominant/D
 =16	=16
-8.eee[	C#dim
-8.eee_	A#dim
-8eee]	A#dim
-8r	F#7/A#
-16eee[	.
-16eee]	F#
+[8.eeeL	C# diminished
+8.eee_	A# diminished
+8eeeJ]	A# diminished
+8r	F# dominant/A#
+[16eeeLL	.
+16eee]	F# major
 16fff#	.
-16ccc#[	.
-8ccc#]	F#
+[16ccc#J	.
+8ccc#J]	F# major
 =17	=17
-4ddd	Bm
-4eee	C#m7
-4fff#	Dmaj7
-4ggg#	E
+4ddd	B minor
+4eee	C# minor-seventh
+4fff#	D major-seventh
+4ggg#	E major
 =18	=18
-1aaa[	A
+[1aaa	A major
 =19	=19
 8.aaa]	.
 2.r	.

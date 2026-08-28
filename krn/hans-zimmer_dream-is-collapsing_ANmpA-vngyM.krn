@@ -16,55 +16,55 @@
 *g:	*
 *M3/4	*
 =1	=1
-8g	Gm
-8d	.
-8g	.
-8d	.
+8gL	G minor
+8dJ	.
+8gL	.
+8dJ	.
 4g	.
 =2	=2
-8g	.
-8d	.
-8g	.
-8d	.
+8gL	.
+8dJ	.
+8gL	.
+8dJ	.
 4g	.
 =3	=3
-8g-	G-
-8d-	.
-8g-	.
-8d-	.
+8g-L	G- major
+8d-J	.
+8g-L	.
+8d-J	.
 4g-	.
 =4	=4
-8g-	.
-8d-	.
-8g-	.
-8d-	.
+8g-L	.
+8d-J	.
+8g-L	.
+8d-J	.
 4g-	.
 =5	=5
-8g	E-
-8e-	.
-8g	.
-8e-	.
+8gL	E- major
+8e-J	.
+8gL	.
+8e-J	.
 4g	.
 =6	=6
-8g	.
-8e-	.
-8g	.
-8e-	.
+8gL	.
+8e-J	.
+8gL	.
+8e-J	.
 4g	.
 =7	=7
-8g-	B7
-8Bn	.
-8g-	.
-8Bn	.
+8g-L	B dominant
+8BnJ	.
+8g-L	.
+8BnJ	.
 4g-	.
 =8	=8
-8g-	.
-8Bn	.
-8g-	.
-8Bn	.
+8g-L	.
+8BnJ	.
+8g-L	.
+8BnJ	.
 4g-	.
 =9	=9
-4g	Gm
+4g	G minor
 4g	.
 4g	.
 =10	=10
@@ -72,7 +72,7 @@
 4g	.
 4g	.
 =11	=11
-4g-	G-
+4g-	G- major
 4g-	.
 4g-	.
 =12	=12
@@ -80,7 +80,7 @@
 4g-	.
 4g-	.
 =13	=13
-4g	E-
+4g	E- major
 4g	.
 4g	.
 =14	=14
@@ -88,7 +88,7 @@
 4g	.
 4g	.
 =15	=15
-4a	B7
+4a	B dominant
 4a	.
 4a	.
 =16	=16

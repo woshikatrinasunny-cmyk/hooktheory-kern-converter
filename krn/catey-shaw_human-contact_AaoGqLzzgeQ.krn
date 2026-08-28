@@ -17,19 +17,19 @@
 *M4/4	*
 =1	=1
 2..r	.
-8b	Am
+8b	A minor
 =2	=2
-8r	Am
+8r	A minor
 8g	.
 4g	.
 4g	.
 4g	.
 =3	=3
-4g	Am/C
+4g	A minor/C
 8g	.
-4.a	Am/C
+4.a	A minor/C
 8r	.
-8b	F
+8b	F major
 =4	=4
 8r	.
 8g	.
@@ -37,11 +37,11 @@
 4g	.
 4g	.
 =5	=5
-4g	F/A
+4g	F major/A
 8g	.
-4.a	F/A
+4.a	F major/A
 8r	.
-8b	C/G
+8b	C major/G
 =6	=6
 8r	.
 8g	.
@@ -49,11 +49,11 @@
 4g	.
 4g	.
 =7	=7
-4g	C/G
+4g	C major/G
 8g	.
-4.a	C/G
-8c[	.
-8c]	G
+4.a	C major/G
+[8cL	.
+8cJ]	G major
 =8	=8
 4.g	.
 4.e	.
@@ -62,19 +62,19 @@
 4.a	.
 4.e	.
 8r	.
-8b	Am
+8b	A minor
 =10	=10
-8r	Am
+8r	A minor
 8g	.
 4g	.
 4g	.
 4g	.
 =11	=11
-4g	Am/C
+4g	A minor/C
 8g	.
-4.a	Am/C
+4.a	A minor/C
 8r	.
-8b	F
+8b	F major
 =12	=12
 8r	.
 8g	.
@@ -82,11 +82,11 @@
 4g	.
 4g	.
 =13	=13
-4g	F/A
+4g	F major/A
 8g	.
-4.a	F/A
+4.a	F major/A
 8r	.
-8b	C/G
+8b	C major/G
 =14	=14
 8r	.
 8g	.
@@ -94,11 +94,11 @@
 4g	.
 4g	.
 =15	=15
-4g	C/G
+4g	C major/G
 8g	.
-4.a	C/G
-8c[	.
-8c]	G
+4.a	C major/G
+[8cL	.
+8cJ]	G major
 =16	=16
 4.g	.
 4.e	.

@@ -16,35 +16,35 @@
 *D:	*
 *M4/4	*
 =1	=1
-2..r	D
-8r	Dadd(2,4,7)
+2..r	D major
+8r	D other-2,4,7
 =2	=2
 2..r	.
-8r	A
+8r	A major
 =3	=3
 2..r	.
-8g[	.
+[8g	.
 =4	=4
 8g]	.
 4dd	.
 4g	.
 4dd	.
-8f#[	Bm
+[8f#	B minor
 =5	=5
-8f#]	Bsus2
+8f#]	B suspended-second
 2.r	.
-8r	Bsus4
+8r	B suspended-fourth
 =6	=6
 2..r	.
-8r	Cadd(2,4,7)
+8r	C other-2,4,7
 =7	=7
 2..r	.
-8g[	.
+[8g	.
 =8	=8
-8g]	Am/C
+8g]	A minor/C
 4dd	.
 4g	.
 4dd	.
-8f#	D
+8f#	D major
 ==	==
 *-	*-

@@ -16,49 +16,49 @@
 *F:	*
 *M3/4	*
 =1	=1
-2.r	B-
+2.r	B- major
 =2	=2
-2d	B-/F
+2d	B- major/F
 4B-	.
 =3	=3
-2.f[	B-m
+[2.f	B- minor
 =4	=4
 2f]	.
 4g	.
 =5	=5
-2f	F/A
+2f	F major/A
 4r	.
 =6	=6
-2r	Aadd(3,4,7,10)
-4e	A7
+2r	A other-3,4,7,10
+4e	A dominant
 =7	=7
-2.A[	Dm
+[2.A	D minor
 =8	=8
 3...A_	.
-16A]	.
-16Bn	.
+16ALL]	.
+16BnJJ	.
 =9	=9
-2.Bn	G
+2.Bn	G major
 =10	=10
-4Bn	G7/F
+4Bn	G dominant/F
 4.Bn	.
 8Bn	.
 =11	=11
-4Bn	G7/B
+4Bn	G dominant/B
 8Bn	.
 4c	.
-8d[	.
+[8d	.
 =12	=12
 4.d]	.
 4c	.
 8Bn	.
 =13	=13
-2.c[	C
+[2.c	C major
 =14	=14
 4c]	.
 2r	.
 =15	=15
-8a-	Caug
+8a-	C augmented
 3...e	.
 =16	=16
 2.r	.

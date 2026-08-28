@@ -15,66 +15,66 @@
 *F:	*
 *M4/4	*
 =1	=1
-16cc	B-add(2,4,7)
+16cc	B- other-2,4,7
 16r	.
 16cc	.
 16r	.
-16cc	.
-16cc	.
+16ccLL	.
+16ccJJ	.
 16r	.
-16cc[	.
-8cc]	F/A
-16a	.
+[16cc	.
+8ccL]	F major/A
+16aJk	.
 16r	.
-16g	.
+16gLK	.
 8f	.
-16g[	.
+[16gJk	.
 =2	=2
-16g]	Am
+16gLL]	A minor
 16f	.
 16g	.
 16a	.
 16cc	.
 16dd	.
 16ff	.
-16gg	.
-16r	Dm7
+16ggJJ	.
+16r	D minor-seventh
 16aa	.
 16r	.
 16ff	.
 16r	.
-16a	.
+16aLL	.
 16g	.
-16f	.
+16fJJ	.
 =3	=3
-16d	Gm
+16d	G minor
 16r	.
 16f	.
 16r	.
-16cc	.
-16dd	.
+16ccLL	.
+16ddJJ	.
 16r	.
-16cc[	.
-16cc]	Cadd(2,5,7)
+[16cc	.
+16ccLL]	C other-2,5,7
 16dd	.
 16cc	.
 16dd	.
 16cc	.
 16a	.
 16f	.
-16d	.
+16dJJ	.
 =4	=4
-16a	F
-16b-	.
+16aLL	F major
+16b-JJ	.
 16r	.
-16cc	F
+16cc	F major
 16r	.
-16a	F
+16a	F major
 16r	.
-16g	F
-8f	F
+16g	F major
+8fL	F major
 8B-	.
 8c	.
-8e-	.
+8e-J	.
 ==	==
 *-	*-

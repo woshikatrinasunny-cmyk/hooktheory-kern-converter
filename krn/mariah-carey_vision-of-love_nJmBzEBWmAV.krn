@@ -21,7 +21,7 @@
 4A	.
 4c	.
 =2	=2
-2.d	C
+2.d	C major
 2c	.
 4CC	.
 =3	=3
@@ -30,7 +30,7 @@
 4f	.
 4g	.
 =4	=4
-2.a	C7sus2
+2.a	C dominant-seventh-suspended-second
 2g	.
 4CC	.
 =5	=5
@@ -39,11 +39,11 @@
 4f	.
 4e	.
 =6	=6
-4g	F
+4g	F major
 4e-	.
 4d	.
-8d	.
-8c	.
+8dL	.
+8cJ	.
 2A	.
 =7	=7
 4r	.
@@ -52,23 +52,23 @@
 2c	.
 4f	.
 =8	=8
-2c	E
-8E	.
-8Bn	.
+2c	E major
+8EL	.
+8BnJ	.
 4e-	.
 4d	.
 4c	.
 =9	=9
-4g	E7
+4g	E dominant
 4e-	.
 4d	.
-8c	.
-8B-	.
+8cL	.
+8B-J	.
 4G	.
-8c	.
-8d-	.
+8cL	.
+8d-J	.
 =10	=10
-2.c	C
+2.c	C major
 4G	.
 4A	.
 4c	.
@@ -76,7 +76,7 @@
 2.d	.
 2.c	.
 =12	=12
-2.r	Gm7/B-
+2.r	G minor-seventh/B-
 4e	.
 4f	.
 4g	.
@@ -84,11 +84,11 @@
 4.a	.
 8g	.
 4e	.
-4g	C7/E
+4g	C dominant/E
 4e-	.
 4d	.
 =14	=14
-2.r	F
+2.r	F major
 4g	.
 4f	.
 4e	.
@@ -96,23 +96,23 @@
 4g	.
 4e-	.
 4d	.
-8d	.
-8c	.
+8dL	.
+8cJ	.
 2A	.
 =16	=16
-4c	E
-8G	.
-8A	.
+4c	E major
+8GL	.
+8AJ	.
 4c	.
 4e-	.
 4d	.
 4c	.
 =17	=17
-4g	E7
+4g	E dominant
 4e-	.
 4d	.
-8c	.
-8B-	.
+8cL	.
+8B-J	.
 4G	.
 4r	.
 ==	==

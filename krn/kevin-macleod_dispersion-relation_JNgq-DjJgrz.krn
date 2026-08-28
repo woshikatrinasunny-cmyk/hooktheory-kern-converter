@@ -15,70 +15,70 @@
 *c:	*
 *M4/4	*
 =1	=1
-4ccc	A-maj9
+4ccc	A- major-ninth
 16eee-	.
 16r	.
 4.ccc	.
 8r	.
-16bb-	.
-16aa-	.
+16bb-LL	.
+16aa-JJ	.
 =2	=2
-4gg	Gadd(1,4,7,8,10)
+4gg	G other-1,4,7,8,10
 16bb-	.
 16r	.
 4.gg	.
 8r	.
-16ee-	.
-16ff	.
+16ee-LL	.
+16ffJJ	.
 =3	=3
-4gg	Cm7
+4gg	C minor-seventh
 8.ccc	.
 16r	.
-8eee-	.
-8fff	.
+8eee-L	.
+8fffJ	.
 8r	.
-8eee-[	.
+[8eee-	.
 =4	=4
-2eee-_	B-m7
-8eee-]	E-7
+2eee-_	B- minor-seventh
+8eee-]	E- dominant
 4.r	.
 =5	=5
-8.r	A-maj9
-16cc	.
-16gg	.
+8.r	A- major-ninth
+16ccLL	.
+16ggJJ	.
 16r	.
 16aa-	.
 16r	.
 4gg	.
-8ee-	.
-8cc	.
+8ee-L	.
+8ccJ	.
 =6	=6
-8ee-	Gadd(1,4,7,8,10)
+8ee-L	G other-1,4,7,8,10
 8ff	.
-16.gg	.
-32gg-	.
+16.ggL	.
+32gg-JJk	.
 4.ff	.
-8ee-	.
-8cc	.
+8ee-L	.
+8ccJ	.
 =7	=7
-16CC	Cm7
+16CC	C minor-seventh
 8r	.
-16GGG	.
+16GGGLK	.
 8CC	.
-8EE-	.
-16FFF	F7
+8EE-J	.
+16FFFLL	F dominant
 16FFF	.
-16CC	.
+16CCJJ	.
 16r	.
 8FFF	.
 8r	.
 =8	=8
-8CC	Cm7
+8CC	C minor-seventh
 6...r	.
 16CC	.
-16GGG	Gadd(4,7,8,10)
-16GGG	.
-8GGG	.
+16GGGLL	G other-4,7,8,10
+16GGGJ	.
+8GGGJ	.
 8r	.
 8GGG	.
 ==	==

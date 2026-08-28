@@ -16,52 +16,52 @@
 *C:	*
 *M4/4	*
 =1	=1
-1g	Fadd(2,4,7)
+1g	F other-2,4,7
 =2	=2
-8.G	Dm7b5/F
-8.F	.
+8.GL	D half-diminished/F
+8.FJ	.
 4A#	.
-8G#	.
+8G#L	.
 8G	.
-8F	.
+8FJ	.
 =3	=3
-2E	C/E
+2E	C major/E
 8r	.
-8e	.
+8eL	.
 8g	.
-8b	.
+8bJ	.
 =4	=4
-8.dd	.
+8.ddL	.
 8.cc	.
-8b	.
-8.cc	.
+8bJ	.
+8.ccL	.
 8.dd	.
-8ee	.
+8eeJ	.
 =5	=5
-4ff	Dm7
+4ff	D minor-seventh
 2r	.
-16G	.
+16GLL	.
 16A	.
 16B	.
-16c	.
+16cJJ	.
 =6	=6
-4d	Em7
+4d	E minor-seventh
 4.r	.
-8c	.
-16c	.
+8cL	.
+16cL	.
 16d	.
 16d#	.
-16f	.
+16fJJ	.
 =7	=7
-4.g	G#maj7
+4.g	G# major-seventh
 4f	.
 4c	.
 8f	.
 =8	=8
-8.g	G#
+8.gL	G# major
 8.f	.
-8d#	.
-4g[	.
-4g]	A#
+8d#J	.
+[4g	.
+4g]	A# major
 ==	==
 *-	*-

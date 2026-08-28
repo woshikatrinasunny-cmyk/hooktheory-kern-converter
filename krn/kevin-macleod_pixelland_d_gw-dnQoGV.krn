@@ -15,85 +15,85 @@
 *C:	*
 *M4/4	*
 =1	=1
-2gg#	Fm
-4aa	F/C
+2gg#	F minor
+4aa	F major/C
 4r	.
 =2	=2
 4aa	.
-8gg#	Badd(1,6,9)
-8aa[	Badd(1,6,10)
-8aa]	F/A
-8gg#	.
-4aa	G11
+8gg#L	B other-1,6,9
+[8aaJ	B other-1,6,10
+8aaL]	F major/A
+8gg#J	.
+4aa	G dominant-11th
 =3	=3
-2ff#	Cadd(4,6,7)/G
-8gg	C
+2ff#	C other-4,6,7/G
+8gg	C major
 8r	.
-4ee[	.
+[4ee	.
 =4	=4
 4ee_	.
-4ee_	Cmaj7/B
-4ee]	Am7
-4r	C/G
+4ee_	C major-seventh/B
+4ee]	A minor-seventh
+4r	C major/G
 =5	=5
-2ff#	Gmaj7
-4gg	G/D
+2ff#	G major-seventh
+4gg	G major/D
 4r	.
 =6	=6
-4gg	G
-8ff#	G7/F
-8gg[	.
-8gg]	Em7
-8ff#	.
-4gg	G/D
+4gg	G major
+8ff#L	G dominant/F
+[8ggJ	.
+8ggL]	E minor-seventh
+8ff#J	.
+4gg	G major/D
 =7	=7
-2dd#	C
-8ee	C/E
+2dd#	C major
+8ee	C major/E
 8r	.
-4cc[	.
+[4cc	.
 =8	=8
-4cc_	C/G
-4cc]	C
-4r	C/E
-4r	C/G
+4cc_	C major/G
+4cc]	C major
+4r	C major/E
+4r	C major/G
 =9	=9
-2gg#	Fm
-2aa	F/C
+2gg#	F minor
+2aa	F major/C
 =10	=10
 4aa	.
-8gg#	Badd(1,6,9)
-8aa[	Badd(1,6,10)
-8aa]	F/A
-8gg#	.
-4aa	G11
+8gg#L	B other-1,6,9
+[8aaJ	B other-1,6,10
+8aaL]	F major/A
+8gg#J	.
+4aa	G dominant-11th
 =11	=11
-2ff#	Cadd(4,6,7)/G
-4gg	C
-4ee[	.
+2ff#	C other-4,6,7/G
+4gg	C major
+[4ee	.
 =12	=12
 4ee_	.
-4ee_	Cmaj7/B
-4ee]	Am7
-4r	C/G
+4ee_	C major-seventh/B
+4ee]	A minor-seventh
+4r	C major/G
 =13	=13
-2ff#	D/F#
-4dd	D
+2ff#	D major/F#
+4dd	D major
 4r	.
 =14	=14
-4ff#	D/F#
-8dd	D
-8ff#[	.
-8ff#]	D/F#
-8dd	.
-4aa	D/A
+4ff#	D major/F#
+8ddL	D major
+[8ff#J	.
+8ff#L]	D major/F#
+8ddJ	.
+4aa	D major/A
 =15	=15
-2gg[	G
-6...gg]	G/D
+[2gg	G major
+6...gg]	G major/D
 8.r	.
 =16	=16
-4r	G
-4r	G7/F
-4r	Em7
-4r	G/D
+4r	G major
+4r	G dominant/F
+4r	E minor-seventh
+4r	G major/D
 ==	==
 *-	*-

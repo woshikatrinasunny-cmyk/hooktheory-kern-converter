@@ -16,7 +16,7 @@
 *C:	*
 *M6/4	*
 =1	=1
-4cc	C
+4cc	C major
 8cc	.
 4cc	.
 8e	.
@@ -24,8 +24,8 @@
 4b	.
 4g	.
 =2	=2
-8b	Aadd(2,3,7)
-8cc	.
+8bL	A other-2,3,7
+8ccJ	.
 8cc	.
 4cc	.
 8e	.
@@ -33,7 +33,7 @@
 4b	.
 4a	.
 =3	=3
-4g	C/E
+4g	C major/E
 8g	.
 4g	.
 8e	.
@@ -41,7 +41,7 @@
 4g	.
 8d	.
 =4	=4
-4g	G
+4g	G major
 8g	.
 4g	.
 8d	.
@@ -49,7 +49,7 @@
 4g	.
 4d	.
 =5	=5
-4cc	C
+4cc	C major
 8cc	.
 4cc	.
 8e	.
@@ -57,8 +57,8 @@
 4b	.
 4g	.
 =6	=6
-8b	Aadd(2,3,7)
-8cc	.
+8bL	A other-2,3,7
+8ccJ	.
 8cc	.
 4cc	.
 8e	.
@@ -66,7 +66,7 @@
 4b	.
 4a	.
 =7	=7
-4g	Em
+4g	E minor
 8g	.
 4g	.
 8e	.
@@ -74,13 +74,13 @@
 4g	.
 8d	.
 =8	=8
-4g	G
+4g	G major
 8g	.
 4g	.
 8d	.
 4b	.
 4g	.
-8d	.
-8d	.
+8dL	.
+8dJ	.
 ==	==
 *-	*-

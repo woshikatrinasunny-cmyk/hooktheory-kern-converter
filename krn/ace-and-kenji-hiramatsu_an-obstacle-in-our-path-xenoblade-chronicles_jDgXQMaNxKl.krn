@@ -16,38 +16,38 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4r	D#m
+4r	D# minor
 2dd#	.
-4ddn	A#/D
+4ddn	A# major/D
 =2	=2
-4r	D#m7/C#
+4r	D# minor-seventh/C#
 2cc#	.
-4ccn	E#add(5,7,9)/C
+4ccn	E# other-5,7,9/C
 =3	=3
-4r	Bmaj7
+4r	B major-seventh
 2b	.
-4a#	A#
+4a#	A# major
 =4	=4
-4r	A#/D
+4r	A# major/D
 2a#	.
-8cc#	A#dim/E
-8b	.
+8cc#L	A# diminished/E
+8bJ	.
 =5	=5
-4r	D#m
+4r	D# minor
 2ff#	.
-4dd#	D#m
+4dd#	D# minor
 =6	=6
-4r	D#m7/C#
+4r	D# minor-seventh/C#
 2aa#	.
-4gg#	D#m7/C#
+4gg#	D# minor-seventh/C#
 =7	=7
-4r	BmMaj7
+4r	B major-minor
 2dddn	.
-4bb	BmMaj7
+4bb	B major-minor
 =8	=8
-4dddn	Dm
-4eee#	Dm/E#
-4ccc#	C#
-4dddn	Dm
+4dddn	D minor
+4eee#	D minor/E#
+4ccc#	C# major
+4dddn	D minor
 ==	==
 *-	*-

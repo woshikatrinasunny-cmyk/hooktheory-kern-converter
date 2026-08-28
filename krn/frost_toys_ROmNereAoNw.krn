@@ -16,32 +16,32 @@
 *A:	*
 *M4/4	*
 =1	=1
-4a	A
+4a	A major
 4b	.
 4g#	.
-8e	.
-8fn[	.
+8eL	.
+[8fnJ	.
 =2	=2
 *M3/4	*
-8fn]	A
+8fn]	A major
 4fn	.
 4.e	.
 =3	=3
 *M4/4	*
-4a	F#m7
+4a	F# minor-seventh
 4b	.
 4g#	.
-8e	.
-8ccn[	.
+8eL	.
+[8ccnJ	.
 =4	=4
-8ccn]	F
+8ccn]	F major
 4b	.
 4a	.
 4.fn	.
 =5	=5
 *M4/4	*
-4.e	Dmaj7sus2
-3...b[	.
+4.e	D major-seventh-suspended-second
+[3...b	.
 =6	=6
 *M3/4	*
 4b]	.
@@ -49,40 +49,40 @@
 =7	=7
 *M4/4	*
 4e	.
-4.fn	F
-4.ccn[	.
+4.fn	F major
+[4.ccn	.
 =8	=8
 4ccn_	.
-4.ccn]	G
+4.ccn]	G major
 4.r	.
 =9	=9
 *M4/4	*
-4a	A
+4a	A major
 4b	.
 4g#	.
-8e	.
-8fn[	.
+8eL	.
+[8fnJ	.
 =10	=10
 *M3/4	*
-8fn]	A
+8fn]	A major
 4fn	.
 4.e	.
 =11	=11
 *M4/4	*
-4a	F#m7
+4a	F# minor-seventh
 4b	.
 4g#	.
-8e	.
-8ccn[	.
+8eL	.
+[8ccnJ	.
 =12	=12
-8ccn]	F
+8ccn]	F major
 4b	.
 4a	.
 4.b	.
 =13	=13
 *M4/4	*
-4.e	Dmaj7sus2
-3...b[	.
+4.e	D major-seventh-suspended-second
+[3...b	.
 =14	=14
 *M3/4	*
 4b]	.
@@ -91,19 +91,19 @@
 *M4/4	*
 8r	.
 8e	.
-4ccn	F
+4ccn	F major
 4b	.
 4a	.
 =16	=16
 *M4/4	*
-8b	.
-8b[	.
-8b]	G
+8bL	.
+[8b	.
+8bJ]	G major
 4fn	.
 4e	.
 8e	.
 =17	=17
 *M2/4	*
-2a	A
+2a	A major
 ==	==
 *-	*-

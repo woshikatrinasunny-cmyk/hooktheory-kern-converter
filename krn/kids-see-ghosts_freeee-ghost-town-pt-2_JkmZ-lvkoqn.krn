@@ -16,52 +16,52 @@
 *E:	*
 *M4/4	*
 =1	=1
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-4r	Fadd(6,7)
+4r	F other-6,7
+4r	F other-6,7
+4r	F other-6,7
+4r	F other-6,7
 =2	=2
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-4r	Fadd(6,7)
+4r	F other-6,7
+4r	F other-6,7
+4r	F other-6,7
+4r	F other-6,7
 =3	=3
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-8.r	Fadd(6,7)
-16r	F
+4r	F other-6,7
+4r	F other-6,7
+4r	F other-6,7
+8.r	F other-6,7
+16r	F major
 =4	=4
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-8.r	Fadd(6,7)
-16r	F
-8.r	Fadd(6,7)
-16r	F
+4r	F other-6,7
+4r	F other-6,7
+8.r	F other-6,7
+16r	F major
+8.r	F other-6,7
+16r	F major
 =5	=5
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-8.r	Fadd(6,7)
-16r	F
+4r	F other-6,7
+4r	F other-6,7
+4r	F other-6,7
+8.r	F other-6,7
+16r	F major
 =6	=6
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-8.r	Fadd(6,7)
-16r	F
-8.r	Fadd(6,7)
-16r	F
+4r	F other-6,7
+4r	F other-6,7
+8.r	F other-6,7
+16r	F major
+8.r	F other-6,7
+16r	F major
 =7	=7
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-4r	Fadd(6,7)
+4r	F other-6,7
+4r	F other-6,7
+4r	F other-6,7
+4r	F other-6,7
 =8	=8
-4r	Fadd(6,7)
-4r	Fadd(6,7)
-8.r	Fadd(6,7)
-16r	F
-8.r	Fadd(6,7)
-16r	F
+4r	F other-6,7
+4r	F other-6,7
+8.r	F other-6,7
+16r	F major
+8.r	F other-6,7
+16r	F major
 ==	==
 *-	*-

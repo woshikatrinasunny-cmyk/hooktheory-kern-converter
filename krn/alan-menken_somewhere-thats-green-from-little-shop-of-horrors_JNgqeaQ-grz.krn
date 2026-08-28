@@ -19,92 +19,92 @@
 2..r	.
 8dd	.
 =2	=2
-4dd	Gsus2
+4dd	G suspended-second
 4bb	.
 8aa	.
 4gg	.
-8cc[	.
+[8cc	.
 =3	=3
-8cc]	Csus2
+8cc]	C suspended-second
 2.r	.
 8cc	.
 =4	=4
-4cc	D7sus4
+4cc	D dominant-seventh-suspended-fourth
 4aa	.
-4gg	D7
+4gg	D dominant
 4ff#	.
 =5	=5
-4b	G
+4b	G major
 2r	.
-8r	Gmaj7/F#
+8r	G major-seventh/F#
 8b	.
 =6	=6
-4b	Em
+4b	E minor
 4gg	.
 4ff#	.
-8gg	.
-8b[	.
+8ggL	.
+[8bJ	.
 =7	=7
-8b]	G/D
+8b]	G major/D
 4gg	.
 4.ff#	.
 8r	.
 8gg	.
 =8	=8
-4ee	A7/C#
+4ee	A dominant/C#
 4ff#	.
-4gg	A7
-8ee	.
-8aa[	.
+4gg	A dominant
+8eeL	.
+[8aaJ	.
 =9	=9
-4aa_	D11
-4aa]	D7
-4r	D11
-8r	D7
+4aa_	D dominant-11th
+4aa]	D dominant
+4r	D dominant-11th
+8r	D dominant
 8dd	.
 =10	=10
-4.ccc	G11
-8bb[	.
-8bb]	G7
+4.ccc	G dominant-11th
+[8bb	.
+8bb]	G dominant
 4bb	.
 8aa	.
 =11	=11
-4aa	G11
+4aa	G dominant-11th
 4gg	.
-4r	G7
-8gg	.
-8ffn	.
+4r	G dominant
+8ggL	.
+8ffnJ	.
 =12	=12
-8ffn	F/C
-8ee[	.
-8ee]	C
+8ffnL	F major/C
+[8ee	.
+8eeJ]	C major
 4.ee	.
-8ff#	.
-8gg[	.
+8ff#L	.
+[8ggJ	.
 =13	=13
-2gg]	C#dim7
+2gg]	C# diminished-seventh
 4r	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 =14	=14
-4dd	G/D
+4dd	G major/D
 4bb	.
 8aa	.
 4gg	.
-8cc[	.
+[8cc	.
 =15	=15
-4cc]	D7sus4
+4cc]	D dominant-seventh-suspended-fourth
 4aa	.
-4gg	D7
+4gg	D dominant
 4ff#	.
 =16	=16
-4.gg[	G
-4.gg_	C/G
-4gg_	Dsus4
+[4.gg	G major
+4.gg_	C major/G
+4gg_	D suspended-fourth
 =17	=17
-4.gg_	G
-8gg]	C/G
+4.gg_	G major
+8gg]	C major/G
 4r	.
-4r	D7sus2
+4r	D dominant-seventh-suspended-second
 ==	==
 *-	*-

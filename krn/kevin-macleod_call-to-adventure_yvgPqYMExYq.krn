@@ -15,102 +15,102 @@
 *G:	*
 *M4/4	*
 =1	=1
-2G	G
-2B	Gaug/B
+2G	G major
+2B	G augmented/B
 =2	=2
-2d	G
-2d#	GaugMaj7/B
+2d	G major
+2d#	G augmented-major-seventh/B
 =3	=3
-2B[	G
-2B_	Gaug/B
+[2B	G major
+2B_	G augmented/B
 =4	=4
-4B]	G
+4B]	G major
 4r	.
-4r	Badd(2,4,7)/D#
+4r	B other-2,4,7/D#
 4D	.
 =5	=5
-2G	G
-2B	Gaug/B
+2G	G major
+2B	G augmented/B
 =6	=6
-2d	G
-2f#	GaugMaj7/B
+2d	G major
+2f#	G augmented-major-seventh/B
 =7	=7
-2g[	G
-2g_	Gaug/B
+[2g	G major
+2g_	G augmented/B
 =8	=8
-8g_	A7sus2
-8g_	A7
-8g_	Dadd(3,6,11)/G#
-8g]	G#m7
-8d#[	Dadd(2,4,5,7)/F#
-8d#_	F#add(2,7,9,11)
-8d#_	Fadd(1,4,7,10)
-8d#]	F11
+8gL_	A dominant-seventh-suspended-second
+8g_	A dominant
+8g_	D other-3,6,11/G#
+8gJ]	G# minor-seventh
+[8d#L	D other-2,4,5,7/F#
+8d#_	F# other-2,7,9,11
+8d#_	F other-1,4,7,10
+8d#J]	F dominant-11th
 =9	=9
 *k[f#c#g#d#a#]	*
 *g#:	*
-8e	E
+8eL	E major
 8F#	.
 8G#	.
-8A#	.
-8B	.
+8A#J	.
+8BL	.
 8A#	.
 8G#	.
-8F#	.
+8F#J	.
 =10	=10
-8G#	G#
+8G#L	G# major
 8A#	.
 8cn	.
-8dn	.
+8dnJ	.
 8d#	.
 4.r	.
 =11	=11
-8E	E
+8EL	E major
 8F#	.
 8G#	.
-8A#	.
-8B	.
+8A#J	.
+8BL	.
 8A#	.
 8G#	.
-8F#	.
+8F#J	.
 =12	=12
-8D#	G#
+8D#	G# major
 4r	.
-24gg#	.
+24gg#LL	.
 24cccn	.
-24dddn	.
+24dddnJJ	.
 2ddd#	.
 =13	=13
-8E	E
+8EL	E major
 8F#	.
 8G#	.
-8A#	.
-8B	.
+8A#J	.
+8BL	.
 8A#	.
 8G#	.
-8F#	.
+8F#J	.
 =14	=14
-8G#	G#
+8G#L	G# major
 8A#	.
 8cn	.
-8dn	.
+8dnJ	.
 8d#	.
 4.r	.
 =15	=15
-8E	E
+8EL	E major
 8F#	.
 8G#	.
-8A#	.
-8B	.
+8A#J	.
+8BL	.
 8A#	.
 8G#	.
-8F#	.
+8F#J	.
 =16	=16
-8g#	G#
+8g#	G# major
 8r	.
 8a#	.
 8r	.
-4r	Gadd(3,5,6,9)/C#
-4r	C#maj7
+4r	G other-3,5,6,9/C#
+4r	C# major-seventh
 ==	==
 *-	*-

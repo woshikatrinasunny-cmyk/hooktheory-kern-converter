@@ -16,50 +16,50 @@
 *E-:	*
 *M4/4	*
 =1	=1
-8C	E-add(2,5,7)
-8E-	.
+8CL	E- other-2,5,7
+8E-J	.
 2E-	.
-8C	.
-8BB-	.
+8CL	.
+8BB-J	.
 =2	=2
-8C	.
-8E-	.
+8CL	.
+8E-J	.
 2E-	.
-8C	.
-8BB-	.
+8CL	.
+8BB-J	.
 =3	=3
-8C	E-maj7sus2
-8E-	.
+8CL	E- major-seventh-suspended-second
+8E-J	.
 2E-	.
-8C	.
-8BB-	.
+8CL	.
+8BB-J	.
 =4	=4
-8D	Fsus4
+8DL	F suspended-fourth
 8F	.
-8F	.
+8FJ	.
 4.E-	.
-8E-	.
-8C	.
+8E-L	.
+8CJ	.
 =5	=5
-4E-	C7sus2
+4E-	C dominant-seventh-suspended-second
 8.C	.
 6...C	.
-8E-	.
-8C	.
+8E-L	.
+8CJ	.
 =6	=6
-4E-	A-/C
+4E-	A- major/C
 8.C	.
 6...C	.
-8E-	.
-8C	.
+8E-L	.
+8CJ	.
 =7	=7
-4E-	Cm7
+4E-	C minor-seventh
 8.C	.
 6...C	.
-8E-	.
-8C	.
+8E-L	.
+8CJ	.
 =8	=8
-4E-	Cm
+4E-	C minor
 8.C	.
 6...C	.
 4r	.

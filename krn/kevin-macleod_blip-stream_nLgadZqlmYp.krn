@@ -15,7 +15,7 @@
 *e:	*
 *M4/4	*
 =1	=1
-16bb	Asus2
+16bb	A suspended-second
 6...r	.
 16aa	.
 6...r	.
@@ -36,19 +36,19 @@
 16b	.
 16r	.
 =3	=3
-16cc	Cadd(2,4,7)
+16cc	C other-2,4,7
 16r	.
 16ee	.
 8.r	.
 16bb	.
 16r	.
-8r	C
+8r	C major
 16aa	.
 8.r	.
 16cc	.
 16r	.
 =4	=4
-16gg	Cmaj9
+16gg	C major-ninth
 16r	.
 16bb	.
 16r	.
@@ -56,20 +56,20 @@
 16r	.
 16fff#	.
 16r	.
-8r	Aadd(3,5,7)/C
+8r	A other-3,5,7/C
 16eee	.
 8.r	.
 16ccc	.
 16r	.
 =5	=5
-16bb	Esus2
+16bb	E suspended-second
 6...r	.
 16aa	.
 6...r	.
 16gg	.
 8.r	.
 =6	=6
-8r	Em7
+8r	E minor-seventh
 16ee	.
 8.r	.
 16ff#	.
@@ -83,24 +83,24 @@
 16b	.
 16r	.
 =7	=7
-16cc	Dadd(2,4,7)
+16cc	D other-2,4,7
 16r	.
 16ee	.
 8.r	.
 16bb	.
 16r	.
-8r	Dadd(2,5,7)
+8r	D other-2,5,7
 16aa	.
 8.r	.
 16ccc	.
 16r	.
 =8	=8
-8r	Em7/D
+8r	E minor-seventh/D
 16bb	.
 8.r	.
 16aa	.
 16r	.
-8r	Dadd(2,4,7)
+8r	D other-2,4,7
 16ee	.
 16r	.
 16ff#	.
@@ -108,7 +108,7 @@
 16aa	.
 16r	.
 =9	=9
-16bb	Asus2
+16bb	A suspended-second
 6...r	.
 16aa	.
 6...r	.
@@ -129,19 +129,19 @@
 16b	.
 16r	.
 =11	=11
-16cc	Cadd(2,4,7)
+16cc	C other-2,4,7
 16r	.
 16ee	.
 8.r	.
 16bb	.
 16r	.
-8r	C
+8r	C major
 16aa	.
 8.r	.
 16cc	.
 16r	.
 =12	=12
-16gg	Cmaj9
+16gg	C major-ninth
 16r	.
 16bb	.
 16r	.
@@ -149,13 +149,13 @@
 16r	.
 16fff#	.
 16r	.
-8r	Aadd(3,5,7)/C
+8r	A other-3,5,7/C
 16eee	.
 8.r	.
 16ddd#	.
 16r	.
 =13	=13
-16eee	Esus2
+16eee	E suspended-second
 16r	.
 16bb	.
 16r	.
@@ -168,7 +168,7 @@
 16aa	.
 16r	.
 =14	=14
-16bb	Em7
+16bb	E minor-seventh
 16r	.
 16gg	.
 16r	.
@@ -181,7 +181,7 @@
 16ee	.
 16r	.
 =15	=15
-16ff#	Badd(4,5,7)
+16ff#	B other-4,5,7
 16r	.
 16aa	.
 16r	.
@@ -198,7 +198,7 @@
 16a	.
 16r	.
 =16	=16
-16ff#	Badd(4,5,7,10)
+16ff#	B other-4,5,7,10
 16r	.
 16dd#	.
 16r	.

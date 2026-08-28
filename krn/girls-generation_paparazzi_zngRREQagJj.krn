@@ -16,58 +16,58 @@
 *b:	*
 *M4/4	*
 =1	=1
-4r	Bm
-8ff#	.
-8ff#	.
+4r	B minor
+8ff#L	.
+8ff#J	.
 4ffn	.
 4ff#	.
 =2	=2
-4r	D/A
-8ff#	.
-8ff#	.
-4ffn	Ddim/G#
+4r	D major/A
+8ff#L	.
+8ff#J	.
+4ffn	D diminished/G#
 4dd	.
 =3	=3
-4r	Bm
-8ff#	.
-8ff#	.
+4r	B minor
+8ff#L	.
+8ff#J	.
 4ffn	.
 4ff#	.
 =4	=4
 8r	.
-8a	.
+8aL	.
 8b	.
-8dd	.
+8ddJ	.
 8r	.
-8a	.
+8aL	.
 8b	.
-8dd	.
+8ddJ	.
 =5	=5
-4r	Bm
-8ff#	.
-8ff#	.
+4r	B minor
+8ff#L	.
+8ff#J	.
 4ffn	.
 4ff#	.
 =6	=6
-4r	D/A
-8ff#	.
-8ff#	.
-4ffn	Ddim/G#
+4r	D major/A
+8ff#L	.
+8ff#J	.
+4ffn	D diminished/G#
 4dd	.
 =7	=7
-4r	Bm
-8bb	.
-8bb	.
-8bb	.
+4r	B minor
+8bbL	.
+8bbJ	.
+8bbL	.
 8aa	.
 8bb	.
-8bb	.
+8bbJ	.
 =8	=8
-8bb	Bm/D
+8bbL	B minor/D
 8aa	.
 8aa	.
-8aa	.
-4aa	Bm/F#
+8aaJ	.
+4aa	B minor/F#
 4aa	.
 ==	==
 *-	*-

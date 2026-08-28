@@ -18,56 +18,56 @@
 =1	=1
 2r	.
 16r	.
-8d	.
+8dL	.
 8f	.
 8g	.
-16a[	.
+[16aJk	.
 =2	=2
-2a_	Gadd(2,3,7)
-16a]	Gadd(2,3,7)
+2a_	G other-2,3,7
+16aLK]	G other-2,3,7
 8d	.
 8f	.
 8g	.
-16a[	.
+[16aJk	.
 =3	=3
-8a]	B-add(2,4,7)
-16g[	.
-6...g_	B-
-16g]	B-add(2,4,7)
+8aL]	B- other-2,4,7
+[16gJk	.
+6...g_	B- major
+16gLK]	B- other-2,4,7
 8d	.
 8f	.
 8g	.
-16a[	.
+[16aJk	.
 =4	=4
-16a]	Dm7
+16aLK]	D minor-seventh
 8a	.
 8a	.
 8a	.
-16a[	.
-4a]	Dm9
-16a	.
+[16aJk	.
+4a]	D minor-ninth
+16aLK	.
 8a	.
-16a[	.
+[16aJk	.
 =5	=5
-16a]	G
-8g	.
-6...g[	.
-16g]	G7
+16aLK]	G major
+8gJ	.
+[6...g	.
+16gLK]	G dominant
 8d	.
 8f	.
 8g	.
-16a[	.
+[16aJk	.
 =6	=6
-2a_	Gm9
-8a]	Gadd(2,3,7)
-16cc	.
+2a_	G minor-ninth
+8aL]	G other-2,3,7
+16cck	.
 8ff	.
 8ee	.
-16dd[	.
+[16ddJk	.
 =7	=7
-8.dd]	D7sus2
-6...cc[	.
-16cc]	D7sus4
+8.dd]	D dominant-seventh-suspended-second
+[6...cc	.
+16cc]	D dominant-seventh-suspended-fourth
 4..r	.
 ==	==
 *-	*-

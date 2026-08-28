@@ -16,88 +16,88 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4.cc#[	C#m
-24cc#]	.
-12ee	.
+[4.cc#	C# minor
+24cc#LK]	.
+12eeJ	.
 2gg#	.
 =2	=2
-4.dd#[	B
-24dd#]	.
-12ff#	.
+[4.dd#	B major
+24dd#LK]	.
+12ff#J	.
 4bb	.
 6aa	.
 12ff#	.
 =3	=3
-1gg#	A#m7b5
+1gg#	A# half-diminished
 =4	=4
-12aa	A
+12aa	A major
 12r	.
 12ee	.
 4aa	.
-4bb	B
-24ddd#	.
+4bb	B major
+24ddd#LL	.
 24ccc#	.
 24bb	.
-24aa#	.
-12b	.
+24aa#J	.
+12bJ	.
 =5	=5
-12cc#	C#m
+12cc#L	C# minor
 12ccn	.
-12cc#	.
+12cc#J	.
 6ee	.
 12ff#	.
 2gg#	.
 =6	=6
-12dd#	B
+12dd#L	B major
 12ddn	.
-12dd#	.
+12dd#J	.
 6ff#	.
 12gg#	.
 4bb	.
 6aa	.
 12ff#	.
 =7	=7
-12gg#	A#m7b5
-12ggn	.
+12gg#L	A# half-diminished
+12ggnJ	.
 3gg#	.
 4ee	.
 6ff#	.
 12ee	.
 =8	=8
-12aa	A
+12aaL	A major
 12gg#	.
-12aa	.
+12aaJ	.
 6aa	.
 12aa#	.
-12bb	B
+12bbL	B major
 12aa#	.
 12bb	.
 12ccc#	.
 12ddd#	.
-12fff#	.
+12fff#J	.
 =9	=9
 *k[f#c#g#d#a#]	*
 *g#:	*
-2ggg#	G#m
-2ggg#	G#m
+2ggg#	G# minor
+2ggg#	G# minor
 =10	=10
-8ggg#	G#m
+8ggg#	G# minor
 8r	.
-4ggg#	G#m
-12fff#	G#m7/B
-12fff#	G#m7
-12fff#	G#m7/B
-12fff#	D
+4ggg#	G# minor
+12fff#L	G# minor-seventh/B
+12fff#	G# minor-seventh
+12fff#	G# minor-seventh/B
+12fff#	D major
 12fff#	.
-12gggn	D#
+12gggnJ	D# major
 =11	=11
-2ggg#	G#m
-2ggg#	G#m
+2ggg#	G# minor
+2ggg#	G# minor
 =12	=12
-8ggg#	G#m
+8ggg#	G# minor
 8r	.
-4ggg#	G#m
-24bb	.
+4ggg#	G# minor
+24bbLL	.
 24aa#	.
 24aan	.
 24gg#	.
@@ -108,6 +108,6 @@
 24dd#	.
 24ddn	.
 24cc#	.
-24ccn	.
+24ccnJJ	.
 ==	==
 *-	*-

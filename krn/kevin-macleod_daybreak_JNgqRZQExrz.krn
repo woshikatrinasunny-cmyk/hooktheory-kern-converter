@@ -15,35 +15,35 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4.ff	D-
-4ff	E-
+4.ff	D- major
+4ff	E- major
 4ee-	.
-8cc[	.
+[8cc	.
 =2	=2
-2cc]	A-
+2cc]	A- major
 2e-	.
 =3	=3
-4.b-	B-m/D-
-4b-	E-sus2
+4.b-	B- minor/D-
+4b-	E- suspended-second
 4a-	.
-8cc[	.
+[8cc	.
 =4	=4
-2.cc]	A-
-8dd-	.
-8ee-	.
+2.cc]	A- major
+8dd-L	.
+8ee-J	.
 =5	=5
-4.ff	D-
-4ff	E-sus4
+4.ff	D- major
+4ff	E- suspended-fourth
 4ee-	.
-8cc[	.
+[8cc	.
 =6	=6
-1cc]	Fadd(2,3,7)
+1cc]	F other-2,3,7
 =7	=7
-4a-	D-
+4a-	D- major
 8cc	.
-4b-	E-sus2
-4.a-[	.
+4b-	E- suspended-second
+[4.a-	.
 =8	=8
-1a-]	A-
+1a-]	A- major
 ==	==
 *-	*-

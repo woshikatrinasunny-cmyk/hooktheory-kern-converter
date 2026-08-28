@@ -16,50 +16,50 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.c	C
+4.c	C major
 8e	.
 4f	.
 4e	.
 =2	=2
-4.c	Am7
+4.c	A minor-seventh
 8e	.
 4g	.
 4e	.
 =3	=3
-4.B	Em7
-16c	.
-16d	.
+4.B	E minor-seventh
+16cLL	.
+16dJJ	.
 2c	.
 =4	=4
-8c	F
+8cL	F major
 8d	.
 8e	.
-8A[	.
-8A]	G
-8G	.
+[8AJ	.
+8AL]	G major
+8GJ	.
 4G	.
 =5	=5
-4.c	C
+4.c	C major
 8e	.
 4f	.
 4e	.
 =6	=6
-4.c	Am7
+4.c	A minor-seventh
 8e	.
 4g	.
 4e	.
 =7	=7
-4.B	Em7
-16c	.
-16d	.
+4.B	E minor-seventh
+16cLL	.
+16dJJ	.
 2c	.
 =8	=8
-8c	F
+8cL	F major
 8d	.
 8e	.
-8a[	.
-8a]	G
-8g	.
+[8aJ	.
+8aL]	G major
+8gJ	.
 4g	.
 ==	==
 *-	*-

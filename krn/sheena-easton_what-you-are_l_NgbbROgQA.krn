@@ -15,61 +15,61 @@
 *C:	*
 *M4/4	*
 =1	=1
-8.dd#[	Cm
-6...dd#]	Csus4
+[8.dd#	C minor
+6...dd#]	C suspended-fourth
 2ff	.
 =2	=2
-1ee	C
+1ee	C major
 =3	=3
-8.dd#[	D#
-6...dd#]	D#add(2,4,7)
+[8.dd#	D# major
+6...dd#]	D# other-2,4,7
 2ff	.
 =4	=4
-3...ee	C
-8c	.
+3...ee	C major
+8cL	.
 8B	.
-8c	.
+8cJ	.
 =5	=5
-4.b	Am
+4.b	A minor
 4cc	.
 4g	.
 8e	.
 =6	=6
-1g	Em
+1g	E minor
 =7	=7
-8g	F
-8a	.
-4c[	.
-8c]	G7sus4
+8gL	F major
+8aJ	.
+[4c	.
+8cL]	G dominant-seventh-suspended-fourth
 8c	.
 8d	.
-8c	.
+8cJ	.
 =8	=8
-8d	C
+8d	C major
 2e	.
-8c	.
+8cL	.
 8B	.
-8c	.
+8cJ	.
 =9	=9
-4.b	Am
+4.b	A minor
 4cc	.
 4g	.
 8e	.
 =10	=10
-1g	Em
+1g	E minor
 =11	=11
-8g	Dsus4
+8gL	D suspended-fourth
+8aJ	.
+4.f#	D major
+8dL	.
 8a	.
-4.f#	D
-8d	.
-8a	.
-8cc	.
+8ccJ	.
 =12	=12
-2.cc	G7sus4
-8.dd	.
-16cc	.
+2.cc	G dominant-seventh-suspended-fourth
+8.ddL	.
+16ccJk	.
 =13	=13
-2b[	G
+[2b	G major
 16b]	.
 ==	==
 *-	*-

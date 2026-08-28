@@ -16,52 +16,52 @@
 *A:	*
 *M4/4	*
 =1	=1
-4e	A
+4e	A major
 8e	.
 4e	.
-8c#[	.
-8c#]	Asus2
-8c#	.
+[8c#L	.
+8c#]	A suspended-second
+8c#J	.
 =2	=2
-8.B	Asus4
+8.BL	A suspended-fourth
 8.B	.
-8c#	.
+8c#J	.
 4c#	.
-8r	A
+8r	A major
 8c#	.
 =3	=3
-8.e	C#m7/E
+8.eL	C# minor-seventh/E
 8.e	.
-8e	.
-8.e	.
-16e[	.
-8e]	E
-8c#	.
+8eJ	.
+8.eL	.
+[16ek	.
+8e]	E major
+8c#J	.
 =4	=4
-8B	E7
+8B	E dominant
 4B	.
 8c#	.
 4c#	.
-8r	E
+8r	E major
 8c#	.
 =5	=5
-4e	F#m
+4e	F# minor
 4d	.
 4c#	.
-4e	F#sus4
+4e	F# suspended-fourth
 =6	=6
-8e	Dmaj7/F#
+8e	D major-seventh/F#
 4d	.
-8c#[	.
-4.c#]	F#m
+[8c#	.
+4.c#]	F# minor
 8c#	.
 =7	=7
-2d	D
+2d	D major
 2e	.
 =8	=8
-4f#	Dmaj7
+4f#	D major-seventh
 2e	.
-8e	.
-8c#	.
+8eL	.
+8c#J	.
 ==	==
 *-	*-

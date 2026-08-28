@@ -16,7 +16,7 @@
 *c:	*
 *M4/4	*
 =1	=1
-1c	Cm7
+1c	C minor-seventh
 =2	=2
 8r	.
 8c	.
@@ -24,29 +24,29 @@
 4e-	.
 4g	.
 =3	=3
-4f	F/C
+4f	F major/C
 8g	.
-3...c[	.
+[3...c	.
 =4	=4
 2.c]	.
-8c	.
-8d	.
+8cL	.
+8dJ	.
 =5	=5
-1e-[	Cm7
+[1e-	C minor-seventh
 =6	=6
 4e-]	.
 4d	.
 4c	.
 4B-	.
 =7	=7
-2.G	Dm7
-8F	.
-8G[	G11
+2.G	D minor-seventh
+8FL	.
+[8GJ	G dominant-11th
 =8	=8
 2.G]	.
 4G	.
 =9	=9
-1c	Cm7
+1c	C minor-seventh
 =10	=10
 8r	.
 8c	.
@@ -54,25 +54,25 @@
 4e-	.
 4g	.
 =11	=11
-4f	F/C
+4f	F major/C
 8g	.
-3...c[	.
+[3...c	.
 =12	=12
 2.c]	.
-8c	.
-8d	.
+8cL	.
+8dJ	.
 =13	=13
-1e-[	Cm7
+[1e-	C minor-seventh
 =14	=14
 4e-]	.
 4d	.
 4c	.
 4B-	.
 =15	=15
-4c	Dm9
+4c	D minor-ninth
 8g	.
-2g[	.
-8g_	Gaug7
+[2g	.
+8g_	G augmented-seventh
 =16	=16
 1g]	.
 ==	==

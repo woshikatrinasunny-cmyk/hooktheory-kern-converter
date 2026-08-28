@@ -16,58 +16,58 @@
 *b:	*
 *M4/4	*
 =1	=1
-8.dd	G
-8.a	D/F#
-8dd	G
-8.dd	G
-8.a	D/F#
-8dd	Gadd(2,4,7)
+8.ddL	G major
+8.a	D major/F#
+8ddJ	G major
+8.ddL	G major
+8.a	D major/F#
+8ddJ	G other-2,4,7
 =2	=2
-8.dd	Gadd(2,4,7)
-8.a	D/F#
-8ee	Em/G
-8.ff#	Gmaj7
-8.aa	A
-8dd	Bm
+8.ddL	G other-2,4,7
+8.a	D major/F#
+8eeJ	E minor/G
+8.ff#L	G major-seventh
+8.aa	A major
+8ddJ	B minor
 =3	=3
-8.dd	Bm
-8.cc#	A
-8dd	Bm
-8.dd	Bm
-8.cc#	A
-8a[	D
+8.ddL	B minor
+8.cc#	A major
+8ddJ	B minor
+8.ddL	B minor
+8.cc#	A major
+[8aJ	D major
 =4	=4
 4.a]	.
-8ee	Dadd(2,4,7)
-8.ff#	D
-8.cc#	C#dim/E
-8dd	G
+8ee	D other-2,4,7
+8.ff#L	D major
+8.cc#	C# diminished/E
+8ddJ	G major
 =5	=5
-8.dd	G
-8.a	D/F#
-8dd	G
-8.dd	G
-8.a	D/F#
-8dd	Gadd(2,4,7)
+8.ddL	G major
+8.a	D major/F#
+8ddJ	G major
+8.ddL	G major
+8.a	D major/F#
+8ddJ	G other-2,4,7
 =6	=6
-8.dd	Gadd(2,4,7)
-8.a	D/F#
-8ee	Em/G
-8.ff#	Gmaj7
-8.aa	A
-8dd	Bm
+8.ddL	G other-2,4,7
+8.a	D major/F#
+8eeJ	E minor/G
+8.ff#L	G major-seventh
+8.aa	A major
+8ddJ	B minor
 =7	=7
-8.dd	Bm
-8.cc#	A
-8dd	Bm
-8.dd	Bm
-8.cc#	A
-8cc#[	A
+8.ddL	B minor
+8.cc#	A major
+8ddJ	B minor
+8.ddL	B minor
+8.cc#	A major
+[8cc#J	A major
 =8	=8
 4.cc#]	.
-8ee	A
-8.ff#	F#m/A
-8.cc#	A
-8dd	G
+8ee	A major
+8.ff#L	F# minor/A
+8.cc#	A major
+8ddJ	G major
 ==	==
 *-	*-

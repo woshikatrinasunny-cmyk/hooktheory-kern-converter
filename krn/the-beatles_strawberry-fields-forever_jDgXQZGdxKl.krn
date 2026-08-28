@@ -16,65 +16,65 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8.c	F
+8.cL	F major
 8.c	.
-8c	.
-8.c	Am/E
+8cJ	.
+8.cL	A minor/E
 8.c	.
-8c	.
+8cJ	.
 =2	=2
-6...c	Adim/E-
+6...c	A diminished/E-
 8.c	.
-4r	E-
-4r	E-dim
+4r	E- major
+4r	E- diminished
 =3	=3
-8r	Gm
+8r	G minor
+8B-L	.
 8B-	.
-8B-	.
-8B-	.
-8d	Gm7/F
+8B-J	.
+8dL	G minor-seventh/F
 8c	.
 8B-	.
-8A	.
+8AJ	.
 =4	=4
-16B-	E-
-16A	.
-8G	.
+16B-LL	E- major
+16AJ	.
+8GJ	.
 2.r	.
 =5	=5
 8r	.
+8B-L	.
+16B-k	.
 8B-	.
-16B-	.
-8B-	.
-16A[	.
-8A]	F
-16G	.
+[16AJk	.
+8AL]	F major
+16Gk	.
 8.F	.
-8d	.
+8dJ	.
 =6	=6
-8B-	B-
-16B-	.
-16B-	.
-8c	B-maj7/A
-16B-	.
-16A	.
-8G	Gm
+8B-L	B- major
+16B-L	.
+16B-J	.
+8c	B- major-seventh/A
+16B-L	.
+16AJJ	.
+8G	G minor
 8r	.
-4r	Gm7/F
+4r	G minor-seventh/F
 =7	=7
-8r	E-
-8B-	.
-16B-	.
-8.B-	.
-16c	F
+8r	E- major
+8B-L	.
+16B-k	.
+8.B-J	.
+16cLK	F major
 8B-	.
 8.A	.
-16A	.
-16B-[	.
+16AL	.
+[16B-JJ	.
 =8	=8
-16B-]	E-
-8.B-	.
+16B-LK]	E- major
+8.B-J	.
 4r	.
-2r	B-
+2r	B- major
 ==	==
 *-	*-

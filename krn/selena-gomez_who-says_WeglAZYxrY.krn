@@ -16,170 +16,170 @@
 *E:	*
 *M4/4	*
 =1	=1
-8r	E
-8G#	.
+8r	E major
+8G#L	.
 8B	.
-8G#	.
-8B	Bsus4/E
-16G#	.
+8G#J	.
+8BL	B suspended-fourth/E
+16G#Jk	.
 6...B	.
 =2	=2
-8r	C#m
-8G#	.
+8r	C# minor
+8G#L	.
 8B	.
-8G#	.
-16B	A/C#
+8G#J	.
+16BLK	A major/C#
 8.G#	.
 8B	.
-16A	.
-16G#	.
+16AL	.
+16G#JJ	.
 =3	=3
-8r	Amaj7
-8G#	.
+8r	A major-seventh
+8G#L	.
 8B	.
-8G#	.
-8B	Aadd(2,4,7)
-16G#	.
+8G#J	.
+8BL	A other-2,4,7
+16G#Jk	.
 6...B	.
 =4	=4
-8r	Bsus4
-8G#	.
+8r	B suspended-fourth
+8G#L	.
 8B	.
-8G#	.
-8B	Esus4/B
-16G#	.
+8G#J	.
+8BL	E suspended-fourth/B
+16G#k	.
 8.B	.
-16A	.
-16G#	.
+16AL	.
+16G#JJ	.
 =5	=5
-8r	E
-8G#	.
+8r	E major
+8G#L	.
 8B	.
-8G#	.
-8B	Bsus4/E
-16c#	.
+8G#J	.
+8BL	B suspended-fourth/E
+16c#Jk	.
 4B	.
 16r	.
 =6	=6
-8r	C#m
-8G#	.
+8r	C# minor
+8G#L	.
 8B	.
-8G#	.
-8B	A/C#
-16G#	.
+8G#J	.
+8BL	A major/C#
+16G#k	.
 8.B	.
-16A	.
-16G#	.
+16AL	.
+16G#JJ	.
 =7	=7
-8r	Amaj7
-8G#	.
+8r	A major-seventh
+8G#L	.
 8B	.
-8G#	.
-8B	Aadd(2,4,7)
-16c#	.
+8G#J	.
+8BL	A other-2,4,7
+16c#Jk	.
 4f#	.
 16e	.
 =8	=8
-16r	Bsus4
-16e	.
+16r	B suspended-fourth
+16eLL	.
 16f#	.
 16e	.
 16f#	.
-16e	.
-8f#	.
-16g#	Esus4/B
+16eJ	.
+8f#J	.
+16g#LL	E suspended-fourth/B
 16f#	.
 16e	.
-16f#	.
+16f#JJ	.
 4g#	.
 =9	=9
-16b	E
+16bLL	E major
 16cc#	.
 16b	.
 16cc#	.
 16ee	.
 16ff#	.
 16ee	.
-16ff#	.
-16gg#	.
+16ff#JJ	.
+16gg#LL	.
 16aa	.
 16gg#	.
-16aa	.
+16aaJJ	.
 4gg#	.
 =10	=10
-16b	Bsus4/E
+16bLL	B suspended-fourth/E
 16cc#	.
 16b	.
 16cc#	.
 16ee	.
 16ff#	.
 16ee	.
-16ff#	.
-16gg#	.
+16ff#JJ	.
+16gg#LL	.
 16aa	.
 16gg#	.
-16aa	.
+16aaJJ	.
 4gg#	.
 =11	=11
-4bb	Amaj7
+4bb	A major-seventh
 4gg#	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 4ee	.
 =12	=12
-4bb	Aadd(2,4,7)
+4bb	A other-2,4,7
 4gg#	.
-16ff#	.
-16ee	.
-8ff#	.
+16ff#LL	.
+16eeJ	.
+8ff#J	.
 4ee	.
 =13	=13
-16b	C#m
+16bLL	C# minor
 16cc#	.
 16b	.
 16cc#	.
 16ee	.
 16ff#	.
 16ee	.
-16ff#	.
-16gg#	.
+16ff#JJ	.
+16gg#LL	.
 16aa	.
 16gg#	.
-16aa	.
+16aaJJ	.
 4gg#	.
 =14	=14
-16b	A/C#
+16bLL	A major/C#
 16cc#	.
 16b	.
 16cc#	.
 16ee	.
 16ff#	.
 16ee	.
-16ff#	.
-16gg#	.
+16ff#JJ	.
+16gg#LL	.
 16aa	.
 16gg#	.
-16aa	.
+16aaJJ	.
 4gg#	.
 =15	=15
-4bb	Amaj7
+4bb	A major-seventh
 4gg#	.
-16ff#	.
-16ee	.
-8ff#	.
+16ff#LL	.
+16eeJ	.
+8ff#J	.
 4ee	.
 =16	=16
-8r	Aadd(2,4,7)
-16b	.
+8r	A other-2,4,7
+16bLL	.
 16ee	.
 16ff#	.
 16gg#	.
-16ff#	.
+16ff#JJ	.
 8gg#	.
 8ff#	.
 16r	.
-16bb	.
+16bbLK	.
 8bb	.
-16gg#	.
+16gg#Jk	.
 ==	==
 *-	*-

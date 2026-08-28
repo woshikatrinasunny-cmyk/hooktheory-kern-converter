@@ -16,7 +16,7 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4cc	D-maj7
+4cc	D- major-seventh
 4cc	.
 4b-	.
 4b-	.
@@ -24,11 +24,11 @@
 4cc	.
 8cc	.
 4b-	.
-8an	.
+8anL	.
 8b-	.
-8cc	.
+8ccJ	.
 =3	=3
-4dd-	E-m7
+4dd-	E- minor-seventh
 4dd-	.
 4cc	.
 4cc	.
@@ -36,11 +36,11 @@
 4bn	.
 8b-	.
 4an	.
-8a-	.
+8a-L	.
 8an	.
-8bn	.
+8bnJ	.
 =5	=5
-4cc	D-maj7
+4cc	D- major-seventh
 4cc	.
 4b-	.
 4b-	.
@@ -48,11 +48,11 @@
 4cc	.
 8cc	.
 4b-	.
-8an	.
+8anL	.
 8b-	.
-8cc	.
+8ccJ	.
 =7	=7
-4dd-	E-m7
+4dd-	E- minor-seventh
 4dd-	.
 4cc	.
 4cc	.
@@ -60,11 +60,11 @@
 4dd-	.
 8dd-	.
 4cc	.
-8bn	.
+8bnL	.
 8cc	.
-8dd-	.
+8dd-J	.
 =9	=9
-4ee-	Fm7
+4ee-	F minor-seventh
 4ee-	.
 4ddn	.
 4ddn	.
@@ -75,9 +75,9 @@
 8ee-	.
 4ee-	.
 =11	=11
-4.aa-	A-7
+4.aa-	A- dominant
 4.aa-	.
-4aa-[	.
+[4aa-	.
 =12	=12
 2.aa-]	.
 4r	.

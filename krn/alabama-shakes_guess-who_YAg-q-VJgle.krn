@@ -15,36 +15,36 @@
 *A:	*
 *M4/4	*
 =1	=1
-4aa	D
+4aa	D major
 4a	.
-4aa	E7/D
-16aa	.
-16ee	.
-8ff#	.
+4aa	E dominant/D
+16aaLL	.
+16eeJ	.
+8ff#J	.
 =2	=2
-4aa	Dmaj7
+4aa	D major-seventh
 4ee	.
-4ee	E7/D
-16ee	.
-8.dd	.
+4ee	E dominant/D
+16eeLK	.
+8.ddJ	.
 =3	=3
-16gg#	Amaj7
+16gg#LK	A major-seventh
 8ff#	.
 8ee	.
 8eee	.
-16eee	.
-16eee	.
+16eeeJk	.
+16eeeLK	.
 8gg#	.
-16ee	.
-4bb	Bm7
+16eeJk	.
+4bb	B minor-seventh
 =4	=4
-4r	Amaj7
+4r	A major-seventh
 4bb	.
 4g#	.
-4bb	Bm7
+4bb	B minor-seventh
 =5	=5
-2r	Amaj7
-16bbb	Bm7
+2r	A major-seventh
+16bbb	B minor-seventh
 4..r	.
 ==	==
 *-	*-

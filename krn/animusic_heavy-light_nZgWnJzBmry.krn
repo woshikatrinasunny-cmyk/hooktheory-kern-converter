@@ -16,21 +16,21 @@
 *e:	*
 *M4/4	*
 =1	=1
-4eee	Esus4
-4bb	Em
-4ddd	Em7
-4aa	E7sus4
+4eee	E suspended-fourth
+4bb	E minor
+4ddd	E minor-seventh
+4aa	E dominant-seventh-suspended-fourth
 =2	=2
-4ccc	Eadd(1,7)
-4gg	C/E
-4aa	E7sus4
-4ee	Esus4
+4ccc	E other-1,7
+4gg	C major/E
+4aa	E dominant-seventh-suspended-fourth
+4ee	E suspended-fourth
 =3	=3
-4gg	C/E
-4.dd	Em7
-4.ee	Esus4
+4gg	C major/E
+4.dd	E minor-seventh
+4.ee	E suspended-fourth
 =4	=4
-4.a	E7sus4
-3...b	Em
+4.a	E dominant-seventh-suspended-fourth
+3...b	E minor
 ==	==
 *-	*-

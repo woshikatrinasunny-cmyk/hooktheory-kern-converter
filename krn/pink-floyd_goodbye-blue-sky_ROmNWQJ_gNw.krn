@@ -16,33 +16,33 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.f#	D
-8e	Dmaj7sus2
+4.f#	D major
+8e	D major-seventh-suspended-second
 4.e	.
 8r	.
 =2	=2
-4.g	Dadd(2,5,7)
-4.f#	D
+4.g	D other-2,5,7
+4.f#	D major
 4r	.
 =3	=3
-8r	D
+8r	D major
 4f#	.
-4.e	Dmaj7sus2
+4.e	D major-seventh-suspended-second
 4r	.
 =4	=4
-8g	Dadd(2,5,7)
+8gL	D other-2,5,7
 8f#	.
-8e	.
-4.d	D
-8d	.
-8cn[	D7sus2
+8eJ	.
+4.d	D major
+8dL	.
+[8cnJ	D dominant-seventh-suspended-second
 =5	=5
 4.cn]	.
 3...r	.
 =6	=6
 2.r	.
-8d	D
-8cn[	D7sus2
+8dL	D major
+[8cnJ	D dominant-seventh-suspended-second
 =7	=7
 4.cn]	.
 3...r	.

@@ -16,41 +16,41 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4d#	B/D#
-8e	E
+4d#	B major/D#
+8e	E major
 4e	.
-4.c#[	C#m
+[4.c#	C# minor
 =2	=2
 2.c#]	.
-4B	B
+4B	B major
 =3	=3
-4.d#	B/D#
-8e	E
+4.d#	B major/D#
+8e	E major
 4e	.
-4g#[	C#m
+[4g#	C# minor
 =4	=4
 2.g#]	.
-8g#	.
-8c#	.
+8g#L	.
+8c#J	.
 =5	=5
-8r	B/D#
+8r	B major/D#
 4d#	.
-8e	E
+8e	E major
 4e	.
-4c#[	C#m
+[4c#	C# minor
 =6	=6
 2.c#]	.
-8c#	.
-8B	.
+8c#L	.
+8BJ	.
 =7	=7
-8r	B/D#
+8r	B major/D#
 4d#	.
-8e[	E
-4e]	E
-4g#[	C#m
+[8e	E major
+4e]	E major
+[4g#	C# minor
 =8	=8
 2.g#]	.
-8g#	.
-8c#	.
+8g#L	.
+8c#J	.
 ==	==
 *-	*-

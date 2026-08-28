@@ -16,51 +16,51 @@
 *F:	*
 *M4/4	*
 =1	=1
-1dd[	F/A
+[1dd	F major/A
 =2	=2
 2dd]	.
-4a	Am7
+4a	A minor-seventh
 4cc	.
 =3	=3
-4.dd	Gm7
-4.a	Gm7
-4cc[	Csus2
+4.dd	G minor-seventh
+4.a	G minor-seventh
+[4cc	C suspended-second
 =4	=4
 3...cc]	.
 4.dd	.
 =5	=5
-1dd[	F/A
+[1dd	F major/A
 =6	=6
 2dd]	.
-4a	Am7
+4a	A minor-seventh
 4cc	.
 =7	=7
-4.dd	Gm7
-4.a	Gm7
-4g[	Csus2
+4.dd	G minor-seventh
+4.a	G minor-seventh
+[4g	C suspended-second
 =8	=8
 1g]	.
 =9	=9
-1dd[	F/A
+[1dd	F major/A
 =10	=10
 2dd]	.
-4a	Am7
+4a	A minor-seventh
 4cc	.
 =11	=11
-4.dd	Gm7
-4.a	Gm7
-4cc[	B-
+4.dd	G minor-seventh
+4.a	G minor-seventh
+[4cc	B- major
 =12	=12
 2cc]	.
-2dd	C7/B-
+2dd	C dominant/B-
 =13	=13
-2..cc	Am7
-8ff[	A-maj7
+2..cc	A minor-seventh
+[8ff	A- major-seventh
 =14	=14
 1ff]	.
 =15	=15
-2..cc	Gm7
-8ff[	Csus2
+2..cc	G minor-seventh
+[8ff	C suspended-second
 =16	=16
 4.ff]	.
 8r	.

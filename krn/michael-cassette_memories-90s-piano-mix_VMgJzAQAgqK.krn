@@ -16,61 +16,61 @@
 *g:	*
 *M4/4	*
 =1	=1
-4dd	Gm7
-8.dd	Gm7
-8bb-	E-
-8.ff	E-sus2
-8dd	E-sus2
-8ff	E-sus2
+4dd	G minor-seventh
+8.dd	G minor-seventh
+8bb-	E- major
+8.ffL	E- suspended-second
+8dd	E- suspended-second
+8ffJ	E- suspended-second
 =2	=2
-4dd	Gm7
-8.dd	Gm7
-8bb-	E-
-8.ff	E-sus2
-8dd	E-sus2
-8ff	E-sus2
+4dd	G minor-seventh
+8.dd	G minor-seventh
+8bb-	E- major
+8.ffL	E- suspended-second
+8dd	E- suspended-second
+8ffJ	E- suspended-second
 =3	=3
-4dd	Gm7
-8.dd	Gm7
-8bb-	E-
-8.ff	E-sus2
-8dd	E-sus2
-8ff	E-sus2
+4dd	G minor-seventh
+8.dd	G minor-seventh
+8bb-	E- major
+8.ffL	E- suspended-second
+8dd	E- suspended-second
+8ffJ	E- suspended-second
 =4	=4
-4dd	Gm7
-8.dd	Gm7
-8bb-	E-
-8.ff	E-sus2
-8dd	E-sus2
-8ff	E-sus2
+4dd	G minor-seventh
+8.dd	G minor-seventh
+8bb-	E- major
+8.ffL	E- suspended-second
+8dd	E- suspended-second
+8ffJ	E- suspended-second
 =5	=5
-4dd	Gm7
-8.dd	Gm7
-8bb-	E-
-8.ff	E-sus2
-8dd	E-sus2
-8ff	E-sus2
+4dd	G minor-seventh
+8.dd	G minor-seventh
+8bb-	E- major
+8.ffL	E- suspended-second
+8dd	E- suspended-second
+8ffJ	E- suspended-second
 =6	=6
-4dd	Gm7
-8.dd	Gm7
-8bb-	E-
-8.ff	E-sus2
-8dd	E-sus2
-8ff	E-sus2
+4dd	G minor-seventh
+8.dd	G minor-seventh
+8bb-	E- major
+8.ffL	E- suspended-second
+8dd	E- suspended-second
+8ffJ	E- suspended-second
 =7	=7
-4dd	Gm7
-8.dd	Gm7
-8bb-	E-
-8.ff	E-sus2
-8dd	E-sus2
-16ff	E-sus2
-16gg-	.
+4dd	G minor-seventh
+8.dd	G minor-seventh
+8bb-	E- major
+8.ffL	E- suspended-second
+8dd	E- suspended-second
+16ffL	E- suspended-second
+16gg-JJ	.
 =8	=8
-4gg	Fmaj7sus2
-8.gg	Fmaj7sus2
-8gg	Fmaj7sus2
-8.ff	E-sus2
-8dd	E-maj7sus2
-8ff	B-/F
+4gg	F major-seventh-suspended-second
+8.gg	F major-seventh-suspended-second
+8gg	F major-seventh-suspended-second
+8.ffL	E- suspended-second
+8dd	E- major-seventh-suspended-second
+8ffJ	B- major/F
 ==	==
 *-	*-

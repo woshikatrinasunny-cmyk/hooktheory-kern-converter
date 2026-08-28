@@ -16,64 +16,64 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2..r	F#m
-8r	F#add(2,3,7)
+2..r	F# minor
+8r	F# other-2,3,7
 =2	=2
 1r	.
 =3	=3
-2..r	F#m
-8r	F#add(2,3,7)
+2..r	F# minor
+8r	F# other-2,3,7
 =4	=4
 4.r	.
-3...r	F#m7
+3...r	F# minor-seventh
 =5	=5
-2..r	D
-8r	Dadd(6,7)
+2..r	D major
+8r	D other-6,7
 =6	=6
 1r	.
 =7	=7
-2..r	D
-8r	Dadd(6,7)
+2..r	D major
+8r	D other-6,7
 =8	=8
 4.r	.
-3...r	Dadd(2,4,7)
+3...r	D other-2,4,7
 =9	=9
-2..r	F#m
-8r	F#add(2,3,7)
+2..r	F# minor
+8r	F# other-2,3,7
 =10	=10
 1r	.
 =11	=11
-2..r	F#m
-8r	F#add(2,3,7)
+2..r	F# minor
+8r	F# other-2,3,7
 =12	=12
 4.r	.
-3...r	F#m7
+3...r	F# minor-seventh
 =13	=13
-2..r	D
-8r	Dadd(6,7)
+2..r	D major
+8r	D other-6,7
 =14	=14
 1r	.
 =15	=15
-2..r	D
-8r	Dadd(6,7)
+2..r	D major
+8r	D other-6,7
 =16	=16
 4.r	.
-3...r	Dadd(2,4,7)
+3...r	D other-2,4,7
 =17	=17
-1r	F#m
+1r	F# minor
 =18	=18
-1r	F#add(2,3,7)
+1r	F# other-2,3,7
 =19	=19
-1r	D
+1r	D major
 =20	=20
-1r	Dadd(6,7)
+1r	D other-6,7
 =21	=21
-1r	A
+1r	A major
 =22	=22
-1r	Amaj7
+1r	A major-seventh
 =23	=23
-1r	Esus4
+1r	E suspended-fourth
 =24	=24
-1r	E
+1r	E major
 ==	==
 *-	*-

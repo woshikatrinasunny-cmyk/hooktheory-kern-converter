@@ -16,56 +16,56 @@
 *c:	*
 *M4/4	*
 =1	=1
-1CC	Cadd(2,3,7)
+1CC	C other-2,3,7
 =2	=2
-2..BBBn	Bm
+2..BBBn	B minor
 8r	.
 =3	=3
-1EE-	E-add(2,3,7)
+1EE-	E- other-2,3,7
 =4	=4
-2..DD	Dadd(2,3,7)
+2..DD	D other-2,3,7
 8r	.
 =5	=5
-3...AA-[	A-
+[3...AA-	A- major
 16AA-]	.
 16r	.
-8.GG	Cm/G
+8.GG	C minor/G
 16r	.
 =6	=6
-4..GG-	D7/G-
+4..GG-	D dominant/G-
 16r	.
-4..DD	D7
+4..DD	D dominant
 16r	.
 =7	=7
-4..GG	Gsus4
+4..GG	G suspended-fourth
 16r	.
-4..EE-	Cm7/E-
+4..EE-	C minor-seventh/E-
 16r	.
 =8	=8
-1CC	Cm
+1CC	C minor
 =9	=9
-2...GG-	G-m
+2...GG-	G- minor
 16r	.
 =10	=10
-2...CC	Cm
+2...CC	C minor
 16r	.
 =11	=11
-4..GG-	G-m
+4..GG-	G- minor
 16r	.
-2DD-	G-m/D-
+2DD-	G- minor/D-
 =12	=12
-2...CC	Cm
+2...CC	C minor
 16r	.
 =13	=13
-2...GG-	G-m
+2...GG-	G- minor
 16r	.
 =14	=14
-1DD-	D-m
+1DD-	D- minor
 =15	=15
-2...GG	G
+2...GG	G major
 16r	.
 =16	=16
-2...DD	G/D
+2...DD	G major/D
 16r	.
 ==	==
 *-	*-

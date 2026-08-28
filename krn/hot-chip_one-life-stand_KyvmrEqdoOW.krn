@@ -15,36 +15,36 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2..r	B-
+2..r	B- major
 8f	.
 =2	=2
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8cc	.
-8b-	.
+8ddJ	.
+8ccL	.
+8b-J	.
 4b-	.
 =3	=3
-4.cc	Gm
+4.cc	G minor
 4.dd	.
-8b-	.
-8cc[	.
+8b-L	.
+[8ccJ	.
 =4	=4
 4cc]	.
 2.r	.
 =5	=5
-2.r	G-
-4r	F
+2.r	G- major
+4r	F major
 =6	=6
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
+8ddJ	.
 4cc	.
 4b-	.
 =7	=7
-8g	E-
+8g	E- major
 4b-	.
 8cc	.
 8dd	.
@@ -52,35 +52,35 @@
 =8	=8
 1r	.
 =9	=9
-2..r	B-
+2..r	B- major
 8f	.
 =10	=10
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8cc	.
-8b-	.
+8ddJ	.
+8ccL	.
+8b-J	.
 4b-	.
 =11	=11
-4.cc	G-
+4.cc	G- major
 4.dd	.
-8b-	.
-8cc[	.
+8b-L	.
+[8ccJ	.
 =12	=12
 4cc]	.
 2.r	.
 =13	=13
-1r	F
+1r	F major
 =14	=14
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
+8ddJ	.
 4cc	.
 4b-	.
 =15	=15
-8g	E-
+8g	E- major
 4b-	.
 8cc	.
 8dd	.

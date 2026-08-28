@@ -15,51 +15,51 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	G
+4r	G major
 4g	.
-4g	Fadd(2,4,7)
-4g	E-maj7
+4g	F other-2,4,7
+4g	E- major-seventh
 =2	=2
-4g	Gm7b5/D-
-4cc	Gadd(5,6,10)/D-
-8b-	C7
+4g	G half-diminished/D-
+4cc	G other-5,6,10/D-
+8b-L	C dominant
 8a	.
-8g	D-maj7
-8f	.
+8g	D- major-seventh
+8fJ	.
 =3	=3
-8g	E-maj7
-8cc	G-7
-8b-	G
-8a	.
-8g	Fadd(2,4,7)
-8f	.
-4g[	E-maj7
+8gL	E- major-seventh
+8cc	G- dominant
+8b-	G major
+8aJ	.
+8gL	F other-2,4,7
+8fJ	.
+[4g	E- major-seventh
 =4	=4
 2.g_	.
-4g_	Gadd(5,6,10)/D-
+4g_	G other-5,6,10/D-
 =5	=5
 2.g]	.
-4r	C
+4r	C major
 =6	=6
 4cc	.
-4cc	B-add(2,4,7)
-4cc	A-maj7
-4cc	G-7
+4cc	B- other-2,4,7
+4cc	A- major-seventh
+4cc	G- dominant
 =7	=7
-4ff	F7/E-
-4ee-	E-7/D-
-4dd	E-dim
-4cc	G-7
+4ff	F dominant/E-
+4ee-	E- dominant/D-
+4dd	E- diminished
+4cc	G- dominant
 =8	=8
-4b-	B-7/A-
-4cc	G-7
-4ff	F7/E-
-8ee-	Fm11
-8dd	.
+4b-	B- dominant/A-
+4cc	G- dominant
+4ff	F dominant/E-
+8ee-L	F minor-11th
+8ddJ	.
 =9	=9
-8cc	.
-8b-	Gm7
-2.cc[	C
+8ccL	.
+8b-J	G minor-seventh
+[2.cc	C major
 =10	=10
 2cc]	.
 ==	==

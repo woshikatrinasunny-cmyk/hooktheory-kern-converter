@@ -16,7 +16,7 @@
 *D:	*
 *M4/4	*
 =1	=1
-16ddd	G
+16ddd	G major
 16r	.
 16aaa	.
 16r	.
@@ -33,7 +33,7 @@
 16gg	.
 16r	.
 =2	=2
-16eee	F#
+16eee	F# major
 16r	.
 16aa#	.
 16r	.
@@ -50,7 +50,7 @@
 16ff#	.
 16r	.
 =3	=3
-16bb	Bm7
+16bb	B minor-seventh
 16r	.
 16aaa	.
 16r	.
@@ -58,7 +58,7 @@
 16r	.
 16bb	.
 16r	.
-16ddd	Bm11
+16ddd	B minor-11th
 16r	.
 16bb	.
 16r	.
@@ -67,7 +67,7 @@
 16bb	.
 16r	.
 =4	=4
-16eee	Bm7/A
+16eee	B minor-seventh/A
 16r	.
 16aa	.
 16r	.
@@ -75,7 +75,7 @@
 16r	.
 16aa	.
 16r	.
-16bb	A
+16bb	A major
 16r	.
 16aa	.
 16r	.
@@ -84,7 +84,7 @@
 16aa	.
 16r	.
 =5	=5
-16ddd	G
+16ddd	G major
 16r	.
 16aaa	.
 16r	.
@@ -101,7 +101,7 @@
 16gg	.
 16r	.
 =6	=6
-16eee	F#7
+16eee	F# dominant
 16r	.
 16aa#	.
 16r	.
@@ -118,7 +118,7 @@
 16ff#	.
 16r	.
 =7	=7
-16bb	Bm
+16bb	B minor
 16r	.
 16aaa	.
 16r	.
@@ -126,7 +126,7 @@
 16r	.
 16bb	.
 16r	.
-16ddd	Gmaj7/B
+16ddd	G major-seventh/B
 16r	.
 16bb	.
 16r	.
@@ -135,7 +135,7 @@
 16bb	.
 16r	.
 =8	=8
-16eee	D/A
+16eee	D major/A
 16r	.
 16aa	.
 16r	.

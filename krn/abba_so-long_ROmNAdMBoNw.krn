@@ -15,107 +15,107 @@
 *D:	*
 *M4/4	*
 =1	=1
-8.f#	D
-16e	.
+8.f#L	D major
+16ek	.
 8.f#	.
-16e	.
+16eJk	.
 4f#	.
-8.f#	.
-16e[	.
+8.f#L	.
+[16eJk	.
 =2	=2
-8e]	C
+8eL]	C major
 8e	.
 8.e	.
-16d	.
+16dJk	.
 4e	.
-8e	.
-8d[	.
+8eL	.
+[8dJ	.
 =3	=3
-8.d]	G
+8.d]	G major
 4..r	.
-8d	.
+8dL	.
 8.e	.
-16d[	.
+[16dJk	.
 =4	=4
 8d]	.
 2.r	.
 8d	.
 =5	=5
-8.f#	D
-16e	.
+8.f#L	D major
+16ek	.
 8.f#	.
-16e	.
+16eJk	.
+8.f#L	.
 8.f#	.
-8.f#	.
-8e[	.
+[8eJ	.
 =6	=6
-8.e]	C
-16d	.
+8.eL]	C major
+16dk	.
 8.e	.
-16d	.
+16dJk	.
 8e	.
 4e	.
-8d[	.
+[8d	.
 =7	=7
-8d]	G
+8d]	G major
 2r	.
-8d	.
+8dL	.
 8e	.
-8d[	.
+[8dJ	.
 =8	=8
 8d]	.
 2.r	.
 8fn	.
 =9	=9
-4g	Gm
+4g	G minor
 4a#	.
+8.a#L	.
+16a#k	.
 8.a#	.
-16a#	.
-8.a#	.
-16a#	.
+16a#Jk	.
 =10	=10
-8a	Gm7/F
+8a	G minor-seventh/F
 4g	.
 4g	.
 4r	.
 8fn	.
 =11	=11
-4g	D#
+4g	D# major
 4a#	.
 4a#	.
-8a#	.
-8a#	.
+8a#L	.
+8a#J	.
 =12	=12
-8ccn	.
-8a#	.
+8ccnL	.
+8a#J	.
 8r	.
 16a	.
 8g	.
 6...r	.
 8g	.
 =13	=13
-8.a	Am
+8.a	A minor
 4a	.
 4a	.
-8.a	.
-8a	.
+8.aL	.
+8aJ	.
 =14	=14
-4g	G
+4g	G major
 3...r	.
 8g	.
 =15	=15
-8.f#	D
+8.f#	D major
 4f#	.
-16g[	.
-8g]	Em7b5/D
+[16g	.
+8g]	E half-diminished/D
 4g	.
-8g#[	.
+[8g#	.
 =16	=16
-8g#]	G#dim/D
+8g#]	G# diminished/D
 4g#	.
-8a[	.
-4a]	D
-8b	.
-8b	.
+[8a	.
+4a]	D major
+8bL	.
+8bJ	.
 ==	==
 *-	*-

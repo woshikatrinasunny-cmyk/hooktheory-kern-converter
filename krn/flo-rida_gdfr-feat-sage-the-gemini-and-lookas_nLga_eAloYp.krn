@@ -16,71 +16,71 @@
 *g:	*
 *M4/4	*
 =1	=1
-8dd	Gm
+8ddL	G minor
 8gg	.
 8dd	.
-8dd-	.
-8cc	.
+8dd-J	.
+8ccL	.
 8b-	.
-8dd	Gm
-8gg	.
+8dd	G minor
+8ggJ	.
 =2	=2
-8dd	.
+8ddL	.
 8gg	.
-8dd	Gm/D
-8dd-	.
-8cc	.
-8b-	Gm/B-
+8dd	G minor/D
+8dd-J	.
+8ccL	.
+8b-	G minor/B-
 8B-	.
-8G	Gm/B-
+8GJ	G minor/B-
 =3	=3
-8dd	Gm
+8ddL	G minor
 8gg	.
 8dd	.
-8dd-	.
-8cc	.
+8dd-J	.
+8ccL	.
 8b-	.
-8dd	Gm
-8gg	.
+8dd	G minor
+8ggJ	.
 =4	=4
-8dd	.
+8ddL	.
 8gg	.
-8dd	Gm/D
-8dd-	.
-8cc	.
-8b-	Gm/B-
+8dd	G minor/D
+8dd-J	.
+8ccL	.
+8b-	G minor/B-
 8B-	.
-8G	Gm/B-
+8GJ	G minor/B-
 =5	=5
-8dd	Gm
+8ddL	G minor
 8gg	.
 8dd	.
-8dd-	.
-8cc	.
+8dd-J	.
+8ccL	.
 8b-	.
-8dd	Gm
-8gg	.
+8dd	G minor
+8ggJ	.
 =6	=6
-8dd	.
+8ddL	.
 8gg	.
-8dd	Gm/D
-8dd-	.
-8cc	.
-8b-	Gm/B-
+8dd	G minor/D
+8dd-J	.
+8ccL	.
+8b-	G minor/B-
 8B-	.
-8G	Gm/B-
+8GJ	G minor/B-
 =7	=7
-8g	Gm
+8g	G minor
 4dd	.
 8g	.
 4cc	.
-8r	Gm
-8cc[	.
+8r	G minor
+[8cc	.
 =8	=8
 8cc]	.
 8r	.
-4cc	Gm
-4r	Gm
-4r	Gm
+4cc	G minor
+4r	G minor
+4r	G minor
 ==	==
 *-	*-

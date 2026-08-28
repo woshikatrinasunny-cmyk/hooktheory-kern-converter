@@ -16,43 +16,43 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.r	Fmaj7
+4.r	F major-seventh
 4.a	.
-8g	.
-8d[	.
+8gL	.
+[8dJ	.
 =2	=2
-8d]	G7/F
+8d]	G dominant/F
 4r	.
 8c	.
-8c	.
+8cL	.
 8c	.
 8d	.
-8c	.
+8cJ	.
 =3	=3
-4.r	Fmaj7
+4.r	F major-seventh
 4.a	.
-8g	.
-8d[	.
+8gL	.
+[8dJ	.
 =4	=4
-8d]	G7/F
+8d]	G dominant/F
 4r	.
 8c	.
-8c	.
+8cL	.
 8c	.
 8d	.
-8c	.
+8cJ	.
 =5	=5
-4.r	Fmaj7
+4.r	F major-seventh
 4.a	.
-8g	Am7
-8d[	Cadd(2,4,7)
+8gL	A minor-seventh
+[8dJ	C other-2,4,7
 =6	=6
-8.d]	Dm7
+8.d]	D minor-seventh
 2.r	.
 16r	.
 =7	=7
-2r	A
-4r	Aadd(2,5,7)
-4r	C/G
+2r	A major
+4r	A other-2,5,7
+4r	C major/G
 ==	==
 *-	*-

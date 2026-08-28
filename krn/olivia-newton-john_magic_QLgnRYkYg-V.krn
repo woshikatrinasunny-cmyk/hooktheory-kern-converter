@@ -15,52 +15,52 @@
 *D:	*
 *M4/4	*
 =1	=1
-4r	D
+4r	D major
 8d	.
-4cn	Dm7b5
+4cn	D half-diminished
 4G#	.
 8G#	.
 =2	=2
-4.A	D
-4r	Dm7b5
-8G#	.
+4.A	D major
+4r	D half-diminished
+8G#L	.
 8A	.
-8e[	.
+[8eJ	.
 =3	=3
-4.e]	Dmaj7sus2
-4.f#	D
+4.e]	D major-seventh-suspended-second
+4.f#	D major
 8.r	.
 16A	.
 =4	=4
-8f#	F#m
+8f#L	F# minor
 8f#	.
-8a	.
-4g	Am
-8f#	.
+8aJ	.
+4g	A minor
+8f#L	.
 8g	.
-8g[	.
+[8gJ	.
 =5	=5
-4.g_	Em
-4.g]	Em
+4.g_	E minor
+4.g]	E minor
 4r	.
 =6	=6
-4.r	Am
-8A	Am7
+4.r	A minor
+8A	A minor-seventh
 8b	.
 4a	.
 8g	.
 =7	=7
-8f#	Em
-4g[	.
-8g]	Em
+8f#	E minor
+[4g	.
+8g]	E minor
 8r	.
-8A	.
+8AL	.
 8B	.
-8f#[	.
+[8f#J	.
 =8	=8
-4.f#]	F#m7/A
-16g	A7sus2
-16f#	.
+4.f#]	F# minor-seventh/A
+16gLL	A dominant-seventh-suspended-second
+16f#JJ	.
 4.e	.
 8d	.
 ==	==

@@ -16,137 +16,137 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4dd#	E
-8f#	E/B
+4dd#	E major
+8f#	E major/B
 16r	.
-8f#	E/B
-16ff#	.
-8f#	E/B
+8f#	E major/B
+16ff#LK	.
+8f#J	E major/B
 16r	.
-16c#	F#
+16c#	F# major
 16r	.
-16c#	F#
+16c#	F# major
 =2	=2
-4e	E/G#
-8ee	E/G#
+4e	E major/G#
+8ee	E major/G#
 16r	.
-8ee	E/G#
+8ee	E major/G#
 16r	.
-8dd#	E/B
-4cc#	F#
+8dd#	E major/B
+4cc#	F# major
 =3	=3
-4dd#	E
-8f#	E/B
+4dd#	E major
+8f#	E major/B
 16r	.
-8f#	E/B
-16ff#	.
-8f#	E/B
+8f#	E major/B
+16ff#LK	.
+8f#J	E major/B
 16r	.
-16c#	F#
+16c#	F# major
 16r	.
-16c#	F#
+16c#	F# major
 =4	=4
-4e	E/G#
-8ee	E/G#
+4e	E major/G#
+8ee	E major/G#
 16r	.
-8ee	E/G#
+8ee	E major/G#
 16r	.
-4.dd#	B
+4.dd#	B major
 =5	=5
-4A#	D#m/F#
+4A#	D# minor/F#
 8r	.
 4.f#	.
-4c#	D#m/F#
+4c#	D# minor/F#
 =6	=6
 8r	.
-8f#	B
-16ff#	B
-8f#	B
-16ff#	B
-8f#	B
+8f#L	B major
+16ff#k	B major
+8f#	B major
+16ff#Jk	B major
+8f#	B major
 8r	.
-4c#	B
+4c#	B major
 =7	=7
-8.f#	D#m/F#
-8.g#	D#m
-4.dd#	E
-16aa#	.
+8.f#L	D# minor/F#
+8.g#J	D# minor
+4.dd#	E major
+16aa#LL	.
 16bb	.
 16aa#	.
-16ff#	.
+16ff#JJ	.
 =8	=8
-16cc#	.
-16b	.
-8.gg#	Bsus2
+16cc#LL	.
+16bJ	.
+8.gg#	B suspended-second
 8ff#	.
-16dd#	.
-4cc#	B/F#
+16dd#Jk	.
+4cc#	B major/F#
 8r	.
 8f#	.
 =9	=9
-4dd#	E
-8f#	E/B
-16f#[	.
-16f#]	E/B
-16ff#	.
-16f#[	.
-16f#]	E/B
-16f#[	.
+4dd#	E major
+8f#L	E major/B
+[16f#L	.
+16f#JJ]	E major/B
+16ff#LL	.
+[16f#	.
+16f#]	E major/B
+[16f#	.
 16f#]	.
-16c#[	F#
+[16c#	F# major
 16c#]	.
-16c#	F#
+16c#JJ	F# major
 =10	=10
-4e	E/G#
-8ee	E/G#
+4e	E major/G#
+8ee	E major/G#
 16r	.
-8ee	E/G#
+8ee	E major/G#
 16r	.
-8dd#	E/B
-4cc#	F#
+8dd#	E major/B
+4cc#	F# major
 =11	=11
-4dd#	E
-8f#	E/B
+4dd#	E major
+8f#	E major/B
 16r	.
-8f#	E/B
-16ff#	.
-8f#	E/B
+8f#	E major/B
+16ff#LK	.
+8f#J	E major/B
 16r	.
-16c#	F#
+16c#	F# major
 16r	.
-16c#	F#
+16c#	F# major
 =12	=12
-4g#	E/G#
-8ee	E/G#
+4g#	E major/G#
+8ee	E major/G#
 16r	.
-8ee	E/G#
+8ee	E major/G#
 16r	.
-4.dd#	B
+4.dd#	B major
 =13	=13
-4A#	D#m/F#
+4A#	D# minor/F#
 8r	.
 4.f#	.
-4c#	D#m/F#
+4c#	D# minor/F#
 =14	=14
 8r	.
-8f#	B
-16ff#	B
-8f#	B
-16ff#	B
-8f#	B
+8f#L	B major
+16ff#k	B major
+8f#	B major
+16ff#Jk	B major
+8f#	B major
 8r	.
-4c#	B
+4c#	B major
 =15	=15
-8.f#	D#m/F#
-8.g#	D#m
-4.dd#[	E
+8.f#L	D# minor/F#
+8.g#J	D# minor
+[4.dd#	E major
 16dd#]	.
 8.r	.
 =16	=16
-8.ff#	Bsus2
-8.b	.
-2cc#	B/F#
-16dd#	.
-16ff#	.
+8.ff#L	B suspended-second
+8.bJ	.
+2cc#	B major/F#
+16dd#LL	.
+16ff#JJ	.
 ==	==
 *-	*-

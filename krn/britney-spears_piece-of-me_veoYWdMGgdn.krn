@@ -16,9 +16,9 @@
 *c#:	*
 *M4/4	*
 =1	=1
-16ff#	C#m
+16ff#	C# minor
 16r	.
-16gg#	C#m
+16gg#	C# minor
 16r	.
 16gg#	.
 16r	.
@@ -33,9 +33,9 @@
 16ddd#	.
 16r	.
 =2	=2
-16ccc#	E
+16ccc#	E major
 16r	.
-16ff#	E
+16ff#	E major
 16r	.
 16ff#	.
 16r	.
@@ -50,9 +50,9 @@
 16ee	.
 16r	.
 =3	=3
-16ee	B
+16ee	B major
 16r	.
-16ee	B
+16ee	B major
 16r	.
 16ee	.
 16r	.
@@ -67,9 +67,9 @@
 16b	.
 16r	.
 =4	=4
-16b	B
+16b	B major
 16r	.
-16b	B
+16b	B major
 16r	.
 16b	.
 16r	.
@@ -84,9 +84,9 @@
 16aa	.
 16r	.
 =5	=5
-16aa	C#m
+16aa	C# minor
 16r	.
-16aa	C#m
+16aa	C# minor
 16r	.
 16gg#	.
 16r	.
@@ -105,7 +105,7 @@
 16r	.
 16gg#	.
 16r	.
-16gg#	C#m
+16gg#	C# minor
 16r	.
 16ff#	.
 16r	.
@@ -118,19 +118,19 @@
 16bb	.
 16r	.
 =7	=7
-16eee	C#m
+16eee	C# minor
 16r	.
-16ccc#	C#m
+16ccc#	C# minor
 16r	.
 16eee	.
 16r	.
-8.C#	C#m
-8.C#	C#m
-8C#	C#m
-8C#	C#m
+8.C#	C# minor
+8.C#L	C# minor
+8C#	C# minor
+8C#J	C# minor
 =8	=8
-4.GG#	G#
-8G#	G#
-2g#	G#
+4.GG#	G# major
+8G#	G# major
+2g#	G# major
 ==	==
 *-	*-

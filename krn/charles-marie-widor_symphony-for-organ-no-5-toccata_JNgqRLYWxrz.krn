@@ -16,276 +16,276 @@
 *F:	*
 *M4/4	*
 =1	=1
-16ff	F
+16ffLL	F major
 16ee	.
-16ff	F
+16ff	F major
 16cc	.
 16a	.
 16f	.
-16a	F
-16cc	F
-16ee	Fmaj7
+16a	F major
+16ccJJ	F major
+16eeLL	F major-seventh
 16dd	.
-16ee	Fmaj7
+16ee	F major-seventh
 16cc	.
 16a	.
 16f	.
-16a	Fmaj7
-16cc	.
+16a	F major-seventh
+16ccJJ	.
 =2	=2
-16dd	Dm7/F
+16ddLL	D minor-seventh/F
 16cc	.
-16dd	Dm7/F
+16dd	D minor-seventh/F
 16cc	.
 16a	.
 16f	.
-16a	Dm7/F
-16cc	.
-16ee	Fmaj7
+16a	D minor-seventh/F
+16ccJJ	.
+16eeLL	F major-seventh
 16dd	.
-16ee	Fmaj7
+16ee	F major-seventh
 16cc	.
 16a	.
 16f	.
-16a	Fmaj7
-16cc	.
+16a	F major-seventh
+16ccJJ	.
 =3	=3
-16ff	F
+16ffLL	F major
 16ee	.
-16ff	F
+16ff	F major
 16cc	.
 16a	.
 16f	.
-16a	F
-16cc	F
-16ee	Fmaj7
+16a	F major
+16ccJJ	F major
+16eeLL	F major-seventh
 16dd	.
-16ee	Fmaj7
+16ee	F major-seventh
 16cc	.
 16a	.
 16f	.
-16a	Fmaj7
-16cc	.
+16a	F major-seventh
+16ccJJ	.
 =4	=4
-16dd	Dm7/F
+16ddLL	D minor-seventh/F
 16cc	.
-16dd	Dm7/F
+16dd	D minor-seventh/F
 16cc	.
 16a	.
 16f	.
-16a	Dm7/F
-16cc	.
-16ee	Em
+16a	D minor-seventh/F
+16ccJJ	.
+16eeLL	E minor
 16b	.
-16ee	Em
+16ee	E minor
 16b	.
 16g	.
 16e	.
-16g	Em
-16b	.
+16g	E minor
+16bJJ	.
 =5	=5
-16cc	C
+16ccLL	C major
 16b	.
-16cc	C
+16cc	C major
 16g	.
 16e	.
 16c	.
-16e	C
-16g	C
-16b	Cmaj7
+16e	C major
+16gJJ	C major
+16bLL	C major-seventh
 16a	.
-16b	Cmaj7
+16b	C major-seventh
 16g	.
 16e	.
 16c	.
-16e	Cmaj7
-16g	.
+16e	C major-seventh
+16gJJ	.
 =6	=6
-16a	Am7/C
+16aLL	A minor-seventh/C
 16g	.
-16a	Am7/C
+16a	A minor-seventh/C
 16g	.
 16e	.
 16c	.
-16e	Am7/C
-16g	.
-16b	Cmaj7
+16e	A minor-seventh/C
+16gJJ	.
+16bLL	C major-seventh
 16a	.
-16b	Cmaj7
+16b	C major-seventh
 16g	.
 16e	.
 16c	.
-16e	Cmaj7
-16g	.
+16e	C major-seventh
+16gJJ	.
 =7	=7
-16cc	C
+16ccLL	C major
 16b	.
-16cc	C
+16cc	C major
 16g	.
 16e	.
 16c	.
-16e	C
-16g	C
-16b	Cmaj7
+16e	C major
+16gJJ	C major
+16bLL	C major-seventh
 16a	.
-16b	Cmaj7
+16b	C major-seventh
 16g	.
 16e	.
 16c	.
-16e	Cmaj7
-16g	.
+16e	C major-seventh
+16gJJ	.
 =8	=8
-16a	Am7/C
+16aLL	A minor-seventh/C
 16g	.
-16a	Am7/C
+16a	A minor-seventh/C
 16g	.
 16e	.
 16c	.
-16e	Am7/C
-16g	.
-16b	D
+16e	A minor-seventh/C
+16gJJ	.
+16bLL	D major
 16f#	.
-16b	D
+16b	D major
 16f#	.
 16d	.
 16c	.
-16d	D
-16f#	.
+16d	D major
+16f#JJ	.
 =9	=9
-16g	G
+16gLL	G major
 16f#	.
-16g	G
+16g	G major
 16d	.
 16B	.
 16G	.
-16B	G
-16d	G
-16a	C#dim
+16B	G major
+16dJJ	G major
+16aLL	C# diminished
 16g#	.
-16a	C#dim
+16a	C# diminished
 16e	.
 16c#	.
 16A	.
-16c#	C#dim
-16e	.
+16c#	C# diminished
+16eJJ	.
 =10	=10
-16a	Dm
+16aLL	D minor
 16f	.
-16a	Dm
+16a	D minor
 16f	.
 16d	.
 16A	.
-16d	Dm
-16f	.
-16a	C#dim
+16d	D minor
+16fJJ	.
+16aLL	C# diminished
 16g#	.
-16a	C#dim
+16a	C# diminished
 16e	.
 16c#	.
 16A	.
-16c#	C#dim
-16e	.
+16c#	C# diminished
+16eJJ	.
 =11	=11
-16a	Dm
+16aLL	D minor
 16f	.
-16a	Dm
+16a	D minor
 16f	.
 16d	.
 16A	.
-16d	Dm
-16f	Dm
-16b	D#dim
+16d	D minor
+16fJJ	D minor
+16bLL	D# diminished
 16a#	.
-16b	D#dim
+16b	D# diminished
 16f#	.
 16d#	.
 16B	.
-16d#	D#dim
-16f#	.
+16d#	D# diminished
+16f#JJ	.
 =12	=12
-16b	Em
+16bLL	E minor
 16g	.
-16b	Em
+16b	E minor
 16g	.
 16e	.
 16B	.
-16e	Em
-16g	.
-16b	D#dim
+16e	E minor
+16gJJ	.
+16bLL	D# diminished
 16a#	.
-16b	D#dim
+16b	D# diminished
 16f#	.
 16d#	.
 16B	.
-16d#	D#dim
-16f#	.
+16d#	D# diminished
+16f#JJ	.
 =13	=13
-16b	Em
+16bLL	E minor
 16g	.
-16b	Em
+16b	E minor
 16g	.
 16e	.
 16B	.
-16e	Em
-16g	Em
-16cc	Edim
+16e	E minor
+16gJJ	E minor
+16ccLL	E diminished
 16b	.
-16cc	Edim
+16cc	E diminished
 16g	.
 16e	.
 16c	.
-16e	Edim
-16g	.
+16e	E diminished
+16gJJ	.
 =14	=14
-16cc	A#/D
+16ccLL	A# major/D
 16f	.
-16cc	A#/D
+16cc	A# major/D
 16f	.
 16d	.
 16c	.
-16d	A#/D
-16f	.
-16cc	A#maj7/F
+16d	A# major/D
+16fJJ	.
+16ccLL	A# major-seventh/F
 16a	.
-16cc	A#maj7/F
+16cc	A# major-seventh/F
 16a	.
 16f	.
 16c	.
-16f	A#maj7/F
-16a	.
+16f	A# major-seventh/F
+16aJJ	.
 =15	=15
-16cc	C7/E
+16ccLL	C dominant/E
 16g	.
-16cc	C7/E
+16cc	C dominant/E
 16g	.
 16e	.
 16c	.
-16e	C7/E
+16e	C dominant/E
+16gJJ	.
+16cc#LL	D# dominant
 16g	.
-16cc#	D#7
-16g	.
-16cc#	D#7
+16cc#	D# dominant
 16g	.
 16e	.
 16c#	.
-16e	D#7
-16g	.
+16e	D# dominant
+16gJJ	.
 =16	=16
-16dd	Gm/D
+16ddLL	G minor/D
 16cc#	.
-16dd	Gm/D
+16dd	G minor/D
 16a#	.
 16g	.
 16d	.
-16g	Gm/D
-16a#	.
-16ee	C7
+16g	G minor/D
+16a#JJ	.
+16eeLL	C dominant
 16dd#	.
-16ee	C7
+16ee	C dominant
 16cc	.
 16a#	.
 16g	.
-16a#	C7
-16cc	.
+16a#	C dominant
+16ccJJ	.
 ==	==
 *-	*-

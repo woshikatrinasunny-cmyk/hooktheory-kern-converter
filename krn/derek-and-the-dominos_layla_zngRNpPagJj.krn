@@ -15,210 +15,210 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4.dd-	D-
-4.dd-	D-
-8dd-	D-
-8ee-	E-m11
+4.dd-	D- major
+4.dd-	D- major
+8dd-L	D- major
+8ee-J	E- minor-11th
 =2	=2
-4.ff	D-/F
-8ff	D-/F
-4ff	D-/F
-4dd-	D-
+4.ff	D- major/F
+8ff	D- major/F
+4ff	D- major/F
+4dd-	D- major
 =3	=3
-4aa-	G-sus2
+4aa-	G- suspended-second
 8gg-	.
-4.gg-	G-
-8ff	G-maj7
-8ff[	G-maj7
+4.gg-	G- major
+8ffL	G- major-seventh
+[8ffJ	G- major-seventh
 =4	=4
 4ff]	.
 8ee-	.
-4.ee-	E-m7/G-
-4dd-	E-m7/D-
+4.ee-	E- minor-seventh/G-
+4dd-	E- minor-seventh/D-
 =5	=5
-4.ee-	D-sus2
-4.dd-	D-
-8r	D-
-8r	E-m11
+4.ee-	D- suspended-second
+4.dd-	D- major
+8r	D- major
+8r	E- minor-11th
 =6	=6
-4.r	D-/F
-8ff	D-/F
-8.ff	D-/F
-16gg-[	.
-8gg-]	D-
-8aa-	.
+4.r	D- major/F
+8ff	D- major/F
+8.ffL	D- major/F
+[16gg-k	.
+8gg-]	D- major
+8aa-J	.
 =7	=7
-4aa-	G-sus2
+4aa-	G- suspended-second
 8gg-	.
-4.gg-	G-
-8ff	G-maj7
-8ff[	G-maj7
+4.gg-	G- major
+8ffL	G- major-seventh
+[8ffJ	G- major-seventh
 =8	=8
 4ff]	.
 8ee-	.
-4.ee-	E-m7/G-
-4dd-	E-m7/D-
+4.ee-	E- minor-seventh/G-
+4dd-	E- minor-seventh/D-
 =9	=9
-4.ee-[	B7
-4ee-]	B7
-8an	.
-8dd-	B7
-8ee-	.
+[4.ee-	B dominant
+4ee-]	B dominant
+8anL	.
+8dd-	B dominant
+8ee-J	.
 =10	=10
-4ff	B7
-8ee-[	.
-8ee-]	B7
-8dd-	.
-8an[	.
-8an]	B7
-8dd-[	.
+4ff	B dominant
+[8ee-L	.
+8ee-J]	B dominant
+8dd-L	.
+[8an	.
+8an]	B dominant
+[8dd-J	.
 =11	=11
-4.dd-_	D-
-8dd-]	D-
-8ee-	.
-8ff[	.
-8ff]	D-
-8A-	.
+4.dd-_	D- major
+8dd-]	D- major
+8ee-L	.
+[8ff	.
+8ff]	D- major
+8A-J	.
 =12	=12
-8d-	D-
+8d-	D- major
 4B-	.
-8A-[	D-
-8A-]	D-
-8F	.
-4E-	A-/C
+[8A-	D- major
+8A-L]	D- major
+8FJ	.
+4E-	A- major/C
 =13	=13
-4.dd-	D-sus2
-4.dd-	D-
-8dd-	D-
-8ee-	E-m11
+4.dd-	D- suspended-second
+4.dd-	D- major
+8dd-L	D- major
+8ee-J	E- minor-11th
 =14	=14
-4.ff	D-/F
-8ff	D-/F
-4ff	D-/F
-4dd-	D-
+4.ff	D- major/F
+8ff	D- major/F
+4ff	D- major/F
+4dd-	D- major
 =15	=15
-4.aa-	G-sus2
-4.gg-	G-
-8ff	G-maj7
-8ff[	G-maj7
+4.aa-	G- suspended-second
+4.gg-	G- major
+8ffL	G- major-seventh
+[8ffJ	G- major-seventh
 =16	=16
 4ff]	.
 8ee-	.
-4.ee-	E-m7/G-
-4dd-	E-m7/D-
+4.ee-	E- minor-seventh/G-
+4dd-	E- minor-seventh/D-
 =17	=17
-4.ee-[	B7
-4ee-]	B7
-8an	.
-8dd-	B7
-8ee-	.
+[4.ee-	B dominant
+4ee-]	B dominant
+8anL	.
+8dd-	B dominant
+8ee-J	.
 =18	=18
-4ff	B7
-8ee-[	.
-8ee-]	B7
-8dd-	.
-8an[	.
-8an]	B7
-8dd-[	.
+4ff	B dominant
+[8ee-L	.
+8ee-J]	B dominant
+8dd-L	.
+[8an	.
+8an]	B dominant
+[8dd-J	.
 =19	=19
-4.dd-_	D-
-8dd-]	D-
-8ee-	.
-8ff[	.
-8ff]	D-
-8A-	.
+4.dd-_	D- major
+8dd-]	D- major
+8ee-L	.
+[8ff	.
+8ff]	D- major
+8A-J	.
 =20	=20
-8d-	D-
+8d-	D- major
 4B-	.
-8A-[	D-
-8A-]	D-
-8F	.
-4E-	A-/C
+[8A-	D- major
+8A-L]	D- major
+8FJ	.
+4E-	A- major/C
 =21	=21
-4.ddd-	D-sus2
-4.ccc	D-
-8r	D-
-8r	E-m11
+4.ddd-	D- suspended-second
+4.ccc	D- major
+8r	D- major
+8r	E- minor-11th
 =22	=22
-4.bb-	D-/F
-8aa-[	D-/F
-4aa-]	D-/F
-4r	D-
+4.bb-	D- major/F
+[8aa-	D- major/F
+4aa-]	D- major/F
+4r	D- major
 =23	=23
-4.gg-	G-sus2
-4.ff	G-
-8r	G-maj7
-8ee-[	G-maj7
+4.gg-	G- suspended-second
+4.ff	G- major
+8r	G- major-seventh
+[8ee-	G- major-seventh
 =24	=24
 4ee-]	.
 8r	.
-4.dd-	E-m7/G-
-4r	E-m7/D-
+4.dd-	E- minor-seventh/G-
+4r	E- minor-seventh/D-
 =25	=25
-4.ee-[	B7
-4ee-]	B7
-8an	.
-8dd-	B7
-8ee-	.
+[4.ee-	B dominant
+4ee-]	B dominant
+8anL	.
+8dd-	B dominant
+8ee-J	.
 =26	=26
-4ff	B7
-8ee-[	.
-8ee-]	B7
-8dd-	.
-8an[	.
-8an]	B7
-8dd-[	.
+4ff	B dominant
+[8ee-L	.
+8ee-J]	B dominant
+8dd-L	.
+[8an	.
+8an]	B dominant
+[8dd-J	.
 =27	=27
-4.dd-_	D-
-8dd-]	D-
+4.dd-_	D- major
+8dd-]	D- major
 4r	.
-4r	D-
+4r	D- major
 =28	=28
-4.r	D-
-8r	D-/A-
-4r	D-
-4r	A-/C
+4.r	D- major
+8r	D- major/A-
+4r	D- major
+4r	A- major/C
 =29	=29
-4.ff	B-m
-8ff	B-m
-8ff	B-m
-8gg-	G-/B-
-4aa-	B-m7
+4.ff	B- minor
+8ff	B- minor
+8ffL	B- minor
+8gg-J	G- major/B-
+4aa-	B- minor-seventh
 =30	=30
-4.aa-	E-m11
-4.gg-	E-m
-4ff	E-sus2
+4.aa-	E- minor-11th
+4.gg-	E- minor
+4ff	E- suspended-second
 =31	=31
-4.ee-	A-
-8ee-	A-
-8ee-	.
-8ff	.
-4gg-	A-7
+4.ee-	A- major
+8ee-	A- major
+8ee-L	.
+8ffJ	.
+4gg-	A- dominant
 =32	=32
-4.gg-	D-sus4
-4.ff	D-
-4ee-	D-sus2
+4.gg-	D- suspended-fourth
+4.ff	D- major
+4ee-	D- suspended-second
 =33	=33
-4.dd-	B-m
-8dd-	B-m
-8dd-	.
-8ee-	.
-4ff	B-m/F
+4.dd-	B- minor
+8dd-	B- minor
+8dd-L	.
+8ee-J	.
+4ff	B- minor/F
 =34	=34
-4ee-	E-7
+4ee-	E- dominant
 8b-	.
-4.b-	E-7
-4dd-	E-7
+4.b-	E- dominant
+4dd-	E- dominant
 =35	=35
-4dd-	A-sus4
+4dd-	A- suspended-fourth
 8cc	.
-4.cc	A-sus4
-8b-	A-
-8b-[	.
+4.cc	A- suspended-fourth
+8b-L	A- major
+[8b-J	.
 =36	=36
-4b-]	A-
+4b-]	A- major
 8a-	.
-4.a-	A-
-4r	A-/C
+4.a-	A- major
+4r	A- major/C
 ==	==
 *-	*-

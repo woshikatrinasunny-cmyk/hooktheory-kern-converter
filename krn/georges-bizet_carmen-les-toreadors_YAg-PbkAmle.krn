@@ -16,90 +16,90 @@
 *F:	*
 *M2/4	*
 =1	=1
-4cc	F
-8.dd	Dm7/C
-16cc	.
+4cc	F major
+8.ddL	D minor-seventh/C
+16ccJk	.
 =2	=2
-4a	F
-8..a	F/C
-32b-	.
+4a	F major
+8..aL	F major/C
+32b-Jkk	.
 =3	=3
-8.a	F
-16g	.
-8.a	F/C
-16b-	.
+8.aL	F major
+16gJk	.
+8.aL	F major/C
+16b-Jk	.
 =4	=4
-4a[	F
-8a]	F/C
+[4a	F major
+8a]	F major/C
 8r	.
 =5	=5
-4b-	Gm7
-8.g	C7
-16cc	.
+4b-	G minor-seventh
+8.gL	C dominant
+16ccJk	.
 =6	=6
-4a[	F
-4a]	Fmaj7/E
+[4a	F major
+4a]	F major-seventh/E
 =7	=7
-4f	Dm7
-8.d	G7
-16g	.
+4f	D minor-seventh
+8.dL	G dominant
+16gJk	.
 =8	=8
-4.c	C
+4.c	C major
 8r	.
 =9	=9
-4g[	Gm/B-
-4g_	Gm/D
+[4g	G minor/B-
+4g_	G minor/D
 =10	=10
-8g]	Gm/B-
-8dd	.
-8cc	Gm
-16.b-	.
-32b-	.
+8gL]	G minor/B-
+8ddJ	.
+8ccL	G minor
+16.b-L	.
+32b-JJk	.
 =11	=11
-8a	Dm/F
-8g	.
-8a	Dm/A
-8b-	.
+8aL	D minor/F
+8gJ	.
+8aL	D minor/A
+8b-J	.
 =12	=12
-4a[	Dm
-8a]	Dm/F
+[4a	D minor
+8a]	D minor/F
 8r	.
 =13	=13
-4e	Am/E
-4a	Am/C
+4e	A minor/E
+4a	A minor/C
 =14	=14
-4a	Bm7
-8.a-	E7
-16bn	.
+4a	B minor-seventh
+8.a-L	E dominant
+16bnJk	.
 =15	=15
-4ee[	A
-4ee_	A/E
+[4ee	A major
+4ee_	A major/E
 =16	=16
-4ee_	A/D-
-4ee_	A
+4ee_	A major/D-
+4ee_	A major
 =17	=17
-8ee]	Gm7/B-
-24dd	.
+8eeL]	G minor-seventh/B-
+24ddL	.
 24ee	.
-24dd	.
-8dd-	Gm7/D
-8dd	.
+24ddJJ	.
+8dd-L	G minor-seventh/D
+8ddJ	.
 =18	=18
-8g	Gm7/B-
-8a	.
-4b-[	Gm7
+8gL	G minor-seventh/B-
+8aJ	.
+[4b-	G minor-seventh
 =19	=19
-8b-]	F/C
-24a	.
+8b-L]	F major/C
+24aL	.
 24b-	.
-24a	.
-8f	.
-8dd	.
+24aJJ	.
+8fL	.
+8ddJ	.
 =20	=20
-8cc	.
-24aa	.
+8ccL	.
+24aaL	.
 24bb-	.
-24aa	.
+24aaJJ	.
 16ff	.
 16r	.
 16ddd	.
@@ -107,171 +107,171 @@
 =21	=21
 16ccc	.
 16r	.
-24f	.
+24fLL	.
 24g	.
-24f	.
-8c	.
-8b-	.
+24fJJ	.
+8cL	.
+8b-J	.
 =22	=22
 4a	.
-32g	C7
-32a	.
-8.g	.
+32gLLL	C dominant
+32aJJ	.
+8.gJ	.
 =23	=23
-8f	F
-16c	.
-16d	.
-16e	.
+8fL	F major
+16cL	.
+16dJJ	.
+16eLL	.
 16f	.
 16g	.
-16a	.
+16aJJ	.
 =24	=24
-16b-	.
+16b-LL	.
 16cc	.
 16dd	.
-16ee	.
-16ff	.
+16eeJJ	.
+16ffLL	.
 16gg	.
 16aa	.
-16bb-	.
+16bb-JJ	.
 =25	=25
-8ccc	F
+8ccc	F major
 8r	.
-8ddd	Dm7/C
+8ddd	D minor-seventh/C
 16r	.
 16ccc	.
 =26	=26
-8aa	F
+8aa	F major
 8r	.
-8aa	F/C
+8aa	F major/C
 16.r	.
 32bb-	.
 =27	=27
-8aa	F
+8aa	F major
 16r	.
 16gg	.
-8aa	F/C
+8aa	F major/C
 16r	.
 16bb-	.
 =28	=28
-4aa[	F
-8aa]	F/C
+[4aa	F major
+8aa]	F major/C
 8r	.
 =29	=29
-8bb-	Gm7
+8bb-	G minor-seventh
 8r	.
-8gg	C7
+8gg	C dominant
 16r	.
 16ccc	.
 =30	=30
-4aa[	F
-8aa]	Fmaj7/E
+[4aa	F major
+8aa]	F major-seventh/E
 8r	.
 =31	=31
-8ff	Dm7
+8ff	D minor-seventh
 8r	.
-8dd	G7
+8dd	G dominant
 16r	.
 16gg	.
 =32	=32
-4.cc	C
+4.cc	C major
 8r	.
 =33	=33
-4gg[	Gm/B-
-4gg_	Gm/D
+[4gg	G minor/B-
+4gg_	G minor/D
 =34	=34
-8gg]	Gm/B-
-8ddd	.
-8ccc	Gm
-16.bb-	.
-32bb-	.
+8ggL]	G minor/B-
+8dddJ	.
+8cccL	G minor
+16.bb-L	.
+32bb-JJk	.
 =35	=35
-8aa	Dm/F
-8gg	.
-8aa	Dm/A
-8bb-	.
+8aaL	D minor/F
+8ggJ	.
+8aaL	D minor/A
+8bb-J	.
 =36	=36
-4aa[	Dm/F
-8aa]	Dm
+[4aa	D minor/F
+8aa]	D minor
 8r	.
 =37	=37
-4ee	Am/E
-4aa	Am/C
+4ee	A minor/E
+4aa	A minor/C
 =38	=38
-4aa	E7sus4/B
-8.aa-	E7
-16bbn	.
+4aa	E dominant-seventh-suspended-fourth/B
+8.aa-L	E dominant
+16bbnJk	.
 =39	=39
 *k[f#c#g#]	*
 *A:	*
-32eee	A
+32eeeLLL	A major
 32fff#	.
 32eee	.
 32fff#	.
 32eee	.
 32fff#	.
 32eee	.
-32fff#	.
-32eee	A/E
+32fff#JJJ	.
+32eeeLLL	A major/E
 32fff#	.
 32eee	.
 32fff#	.
 32eee	.
 32fff#	.
 32ddd#	.
-32eee	.
+32eeeJJJ	.
 =40	=40
-32fffn	Aaug/C#
+32fffnLLL	A augmented/C#
 32fff#	.
 32fffn	.
 32fff#	.
 32fffn	.
 32fff#	.
 32fffn	.
-32fff#	.
-32fffn	Aaug
+32fff#JJJ	.
+32fffnLLL	A augmented
 32fff#	.
 32fffn	.
 32fff#	.
 32fffn	.
 32fff#	.
 32eee	.
-32fffn	.
+32fffnJJJ	.
 =41	=41
-8ggg#	D
-24fff#	.
+8ggg#L	D major
+24fff#L	.
 24ggg#	.
-24fff#	.
-8fffn	F#augMaj7
-8fff#	.
+24fff#JJ	.
+8fffnL	F# augmented-major-seventh
+8fff#J	.
 =42	=42
-8bb	Bm7/D
-8ccc#	.
-4ddd[	Bm
+8bbL	B minor-seventh/D
+8ccc#J	.
+[4ddd	B minor
 =43	=43
-16ddd]	A/E
+16ddd]	A major/E
 16r	.
-24ccc#	.
+24ccc#LL	.
 24ddd	.
-24ccc#	.
+24ccc#JJ	.
 16aa	.
 16r	.
 16fff#	.
 16r	.
 =44	=44
-8eee	.
-16cc#	A/E
-16cc#	.
+8eeeL	.
+16cc#L	A major/E
+16cc#JJ	.
 16a	.
 16r	.
-16ff#	E11
+16ff#	E dominant-11th
 16r	.
 =45	=45
-16ee	A/E
+16ee	A major/E
 16r	.
-24aa	.
+24aaLL	.
 24bb	.
-24aa	.
+24aaJJ	.
 16ee	.
 16r	.
 16ddd	.
@@ -279,7 +279,7 @@
 =46	=46
 16ccc#	.
 8.r	.
-16bb	E7
+16bb	E dominant
 8.r	.
 ==	==
 *-	*-

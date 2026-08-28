@@ -16,162 +16,162 @@
 *a:	*
 *M4/4	*
 =1	=1
-4r	Am
+4r	A minor
 4c	.
 8B	.
 4c	.
-8d[	.
+[8d	.
 =2	=2
-4d]	F/A
+4d]	F major/A
 4c	.
 8B	.
 4.A	.
 =3	=3
-4r	Am11
+4r	A minor-11th
 4B	.
 8B	.
 4c	.
-8d[	.
+[8d	.
 =4	=4
-8d]	Am11
+8dL]	A minor-11th
 8e	.
-8d[	.
-4.d]	Am
-4r	Gsus2
+[8dJ	.
+4.d]	A minor
+4r	G suspended-second
 =5	=5
-4r	Fmaj7
+4r	F major-seventh
 8A	.
 8r	.
 4g	.
 4f	.
 =6	=6
-4e	G
+4e	G major
 8d	.
 4c	.
 4.B	.
 =7	=7
-4.d	D/F#
+4.d	D major/F#
 4.A	.
 4d	.
 =8	=8
-4.e	E/G#
+4.e	E major/G#
 4.B	.
 4r	.
 =9	=9
-4r	Am
+4r	A minor
 4c	.
 8B	.
 4c	.
-8d[	F/A
+[8d	F major/A
 =10	=10
 4d]	.
 4c	.
 8B	.
 4.A	.
 =11	=11
-4r	Am11
+4r	A minor-11th
 4B	.
 8B	.
 4c	.
-8d[	Am11
+[8d	A minor-11th
 =12	=12
-8d]	.
-8e	.
-4d[	.
-4d]	Am
-4r	G
+8dL]	.
+8eJ	.
+[4d	.
+4d]	A minor
+4r	G major
 =13	=13
-4r	Fmaj7
+4r	F major-seventh
 4A	.
 4g	.
 4f	.
 =14	=14
-4e	G
+4e	G major
 8d	.
 4c	.
 4.d	.
 =15	=15
-4e	Asus4
+4e	A suspended-fourth
 8r	.
 8a	.
-4.a[	.
-8a_	A
+[4.a	.
+8a_	A major
 =16	=16
 1a]	.
 =17	=17
 *k[f#c#g#]	*
 *f#:	*
-4r	F#m
+4r	F# minor
 4a	.
 4g#	.
 4f#	.
 =18	=18
-4.c#[	E/G#
-8c#]	E
+[4.c#	E major/G#
+8c#]	E major
 4r	.
 4A	.
 =19	=19
-4.f#	D
+4.f#	D major
 4e	.
-8d	.
+8dL	.
 8e	.
-8e[	.
+[8eJ	.
 =20	=20
-2e]	A/C#
+2e]	A major/C#
 2r	.
 =21	=21
-4r	D/F#
+4r	D major/F#
 8.a	.
 16r	.
 4g#	.
 4a	.
 =22	=22
-4.b	E/G#
-8r	E
+4.b	E major/G#
+8r	E major
 2cc#	.
 =23	=23
-2.a	Gsus2
+2.a	G suspended-second
 4r	.
 =24	=24
 4ccn	.
 8ccn	.
 4b	.
-4.a	Esus4
+4.a	E suspended-fourth
 =25	=25
-8r	F#m
-8r	F#m
-4.r	F#m
-4.a	F#m7
+8r	F# minor
+8r	F# minor
+4.r	F# minor
+4.a	F# minor-seventh
 =26	=26
-8r	F#m
-8r	F#m
-4.r	F#m
-4.b	B/F#
+8r	F# minor
+8r	F# minor
+4.r	F# minor
+4.b	B major/F#
 =27	=27
-8r	F#m
-8r	F#m
-4.r	F#m
-4.ccn	F#add(1,6,10)
+8r	F# minor
+8r	F# minor
+4.r	F# minor
+4.ccn	F# other-1,6,10
 =28	=28
 8ee	.
 8r	.
-8ee	.
-8ee	.
+8eeL	.
+8eeJ	.
 8r	.
 4.ee	.
 =29	=29
 *k[f#c#g#d#]	*
 *E:	*
 *M3/4	*
-8ee	E
+8ee	E major
 8r	.
-8dd#	D
+8dd#	D major
 4.r	.
 =30	=30
 *M2/4	*
-8ee	E
+8ee	E major
 8r	.
-8dd#	D
+8dd#	D major
 8r	.
 ==	==
 *-	*-

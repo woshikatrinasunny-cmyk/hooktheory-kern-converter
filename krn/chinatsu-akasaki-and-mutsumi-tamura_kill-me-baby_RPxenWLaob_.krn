@@ -16,54 +16,54 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	Fmaj7
-4cc	Fmaj7/C
-4cc	Fmaj7
-4dd	Fmaj7/C
+4r	F major-seventh
+4cc	F major-seventh/C
+4cc	F major-seventh
+4dd	F major-seventh/C
 =2	=2
-4b	Em7
-8g	Em7/B
-8g[	.
-4g_	Em7
-4g]	Em7/B
+4b	E minor-seventh
+8gL	E minor-seventh/B
+[8gJ	.
+4g_	E minor-seventh
+4g]	E minor-seventh/B
 =3	=3
-4r	Dm7
-4cc	Dm7/A
-4cc	Dm7
-4dd	Dm7/A
+4r	D minor-seventh
+4cc	D minor-seventh/A
+4cc	D minor-seventh
+4dd	D minor-seventh/A
 =4	=4
-4ee	Cmaj7
-4aa	Cmaj7/G
-4gg	Cmaj7
-4ee	Cmaj7/G
+4ee	C major-seventh
+4aa	C major-seventh/G
+4gg	C major-seventh
+4ee	C major-seventh/G
 =5	=5
-4cc[	Fmaj7
-4cc_	Fmaj7/C
-8cc]	Fmaj7
+[4cc	F major-seventh
+4cc_	F major-seventh/C
+8cc]	F major-seventh
 8r	.
-8dd	Fmaj7/C
-8cc[	.
+8ddL	F major-seventh/C
+[8ccJ	.
 =6	=6
-4cc_	Cmaj7
-8cc]	Cmaj7/G
-8cc	.
-8cc	Cmaj7
-8dd	.
-4ee	Cmaj7/G
+4cc_	C major-seventh
+8ccL]	C major-seventh/G
+8ccJ	.
+8ccL	C major-seventh
+8ddJ	.
+4ee	C major-seventh/G
 =7	=7
-4ee	Dm7
-8ff	Dm7/A
-8ee[	.
-8ee]	Dm7
-8dd[	.
-16dd]	Dm7/A
+4ee	D minor-seventh
+8ffL	D minor-seventh/A
+[8eeJ	.
+8eeL]	D minor-seventh
+[8dd	.
+16ddJk]	D minor-seventh/A
 16r	.
-8ee[	.
+[8ee	.
 =8	=8
-4ee_	E7
-4ee_	E7/B
-4ee_	E7
-16ee]	E7/B
+4ee_	E dominant
+4ee_	E dominant/B
+4ee_	E dominant
+16ee]	E dominant/B
 8.r	.
 ==	==
 *-	*-

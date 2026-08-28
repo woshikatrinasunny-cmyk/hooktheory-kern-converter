@@ -16,153 +16,153 @@
 *f:	*
 *M4/4	*
 =1	=1
-8.f	Fm
+8.fL	F minor
+8.fJ	.
 8.f	.
-8.f	.
-8.f	.
+8.fL	.
 8f	.
-8g-	G-
+8g-J	G- major
 =2	=2
-8.f	Fm
+8.fL	F minor
+8.fJ	.
 8.f	.
-8.f	.
-8.f	.
+8.fL	.
 8f	.
-8e-	E-
+8e-J	E- major
 =3	=3
-8.f	Fm
+8.fL	F minor
+8.fJ	.
 8.f	.
-8.f	.
-8.f	.
+8.fL	.
 8f	.
-8g-	G-
+8g-J	G- major
 =4	=4
-8.f	Fadd(2,3,7)
+8.fL	F other-2,3,7
 8.f	.
-8f	.
-4.g[	.
-8g]	E-
+8fJ	.
+[4.g	.
+8g]	E- major
 =5	=5
-2..cc	Fm
-16b-	G-maj7/F
-16cc	.
+2..cc	F minor
+16b-LL	G- major-seventh/F
+16ccJJ	.
 =6	=6
-2.f[	Fm/A-
+[2.f	F minor/A-
 16f]	.
 16r	.
-16f	A-maj7sus2
-16a-	.
+16fLL	A- major-seventh-suspended-second
+16a-JJ	.
 =7	=7
-2..b-[	B-m7/D-
-8b-]	G-/D-
+[2..b-	B- minor-seventh/D-
+8b-]	G- major/D-
 =8	=8
-2g	Cm7/E-
-4.e-[	.
-8e-]	E-
+2g	C minor-seventh/E-
+[4.e-	.
+8e-]	E- major
 =9	=9
-2.f	Fm
-8cc[	.
-8cc]	G-maj7/F
+2.f	F minor
+[8ccL	.
+8ccJ]	G- major-seventh/F
 =10	=10
-2dd-	D-maj7/A-
+2dd-	D- major-seventh/A-
 4cc	.
-8a-[	.
-8a-]	A-maj7sus2
+[8a-L	.
+8a-J]	A- major-seventh-suspended-second
 =11	=11
-2b-	B-m7/D-
-4.ee-[	.
-8ee-]	G-/D-
+2b-	B- minor-seventh/D-
+[4.ee-	.
+8ee-]	G- major/D-
 =12	=12
-2cc	Cm7/E-
+2cc	C minor-seventh/E-
 4b-	.
-8a-[	.
-8a-]	E-
+[8a-L	.
+8a-J]	E- major
 =13	=13
-2g	Fadd(2,3,7)
-4.a-[	.
-8a-]	G-maj7/F
+2g	F other-2,3,7
+[4.a-	.
+8a-]	G- major-seventh/F
 =14	=14
-8.f	Fm/C
+8.fL	F minor/C
+8.fJ	.
 8.f	.
-8.f	.
-8.f	.
+8.fL	.
 8f	.
-8e-	Cm7
+8e-J	C minor-seventh
 =15	=15
-8.f	D-
+8.fL	D- major
+8.fJ	.
 8.f	.
-8.f	.
-8.f	.
+8.fL	.
 8f	.
-8g-	G-/D-
+8g-J	G- major/D-
 =16	=16
-8.f	Cm7/E-
+8.fL	C minor-seventh/E-
+8.fJ	.
 8.f	.
-8.f	.
-8.f	.
+8.fL	.
 8f	.
-8e-	E-
+8e-J	E- major
 =17	=17
-2cc	Fm
+2cc	F minor
 4.ee-	.
-16a-	G-maj7/F
-16b-	.
+16a-LL	G- major-seventh/F
+16b-JJ	.
 =18	=18
-2..a-	Fm/A-
-16b-	A-maj7sus2
-16cc	.
+2..a-	F minor/A-
+16b-LL	A- major-seventh-suspended-second
+16ccJJ	.
 =19	=19
-2..b-[	B-m7/D-
-8b-]	G-/D-
+[2..b-	B- minor-seventh/D-
+8b-]	G- major/D-
 =20	=20
-2g	Cm7/E-
-4.e-[	.
-8e-]	E-
+2g	C minor-seventh/E-
+[4.e-	.
+8e-]	E- major
 =21	=21
-2f	Fm
-4.c[	.
-8c]	G-maj7/F
+2f	F minor
+[4.c	.
+8c]	G- major-seventh/F
 =22	=22
-2d-	D-maj7/A-
+2d-	D- major-seventh/A-
 4e-	.
-8g[	.
-8g]	A-maj7sus2
+[8gL	.
+8gJ]	A- major-seventh-suspended-second
 =23	=23
-2a-	B-m7/D-
-4.f[	.
-8f]	G-/D-
+2a-	B- minor-seventh/D-
+[4.f	.
+8f]	G- major/D-
 =24	=24
-2b-	Cm7/E-
+2b-	C minor-seventh/E-
 4g	.
-8e-[	.
-8e-]	E-
+[8e-L	.
+8e-J]	E- major
 =25	=25
-8.f	Fm
+8.fL	F minor
+8.fJ	.
 8.f	.
-8.f	.
-8.f	.
+8.fL	.
 8f	.
-8g-	G-maj7/F
+8g-J	G- major-seventh/F
 =26	=26
-8.f	Gadd(1,3,5,6,10)
+8.fL	G other-1,3,5,6,10
+8.fJ	.
 8.f	.
-8.f	.
-8.f	.
+8.fL	.
 8f	.
-8e-	E-/G
+8e-J	E- major/G
 =27	=27
-8.f	D-
+8.fL	D- major
+8.fJ	.
 8.f	.
-8.f	.
-8.f	.
+8.fL	.
 8f	.
-8g-	G-/D-
+8g-J	G- major/D-
 =28	=28
-8.f	Cm7/E-
+8.fL	C minor-seventh/E-
+8.fJ	.
 8.f	.
-8.f	.
-8.f	.
+8.fL	.
 8f	.
-8e-	E-
+8e-J	E- major
 ==	==
 *-	*-

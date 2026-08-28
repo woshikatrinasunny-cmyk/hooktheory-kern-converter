@@ -17,125 +17,125 @@
 *M4/4	*
 =1	=1
 2..r	.
-8b-[	E-
+[8b-	E- major
 =2	=2
 4.b-_	.
-3...b-_	E-
+3...b-_	E- major
 =3	=3
-4.b-_	Emaj7/E-
-3...b-_	Emaj7/E-
+4.b-_	E major-seventh/E-
+3...b-_	E major-seventh/E-
 =4	=4
-4.b-_	E-
-3...b-]	E-
+4.b-_	E- major
+3...b-]	E- major
 =5	=5
-8a-	A-m/E-
+8a-L	A- minor/E-
 8b-	.
-8a-	.
-4g	E-
+8a-J	.
+4g	E- major
 8r	.
 4e-	.
 =6	=6
-4.cc[	A-maj7
-4cc]	A-maj7
-8bn	.
+[4.cc	A- major-seventh
+4cc]	A- major-seventh
+8bnL	.
 8cc	.
-8gg[	.
+[8ggJ	.
 =7	=7
-4gg]	Ddim7/A-
-8ff[	.
-8ff]	Ddim7/A-
+4gg]	D diminished-seventh/A-
+[8ffL	.
+8ffJ]	D diminished-seventh/A-
 4een	.
 4ff	.
 =8	=8
-4.b-[	Gm7
-8.b-]	Gm7
+[4.b-	G minor-seventh
+8.b-]	G minor-seventh
 16r	.
-8cc	.
+8ccL	.
 8dd	.
-8ee-[	.
+[8ee-J	.
 =9	=9
-4.ee-_	Cdim/G-
-4ee-]	Cdim/G-
+4.ee-_	C diminished/G-
+4ee-]	C diminished/G-
 8r	.
 4e-	.
 =10	=10
-4.a-[	Fm
-4a-]	Fm
-8g	.
+[4.a-	F minor
+4a-]	F minor
+8gL	.
 8a-	.
-8ee-[	.
+[8ee-J	.
 =11	=11
-4ee-]	B-7
-8dd[	.
-8dd]	B-7
+4ee-]	B- dominant
+[8ddL	.
+8ddJ]	B- dominant
 4ee-	.
 4ff	.
 =12	=12
-4ff	E-
+4ff	E- major
 8r	.
-3...gg[	E-
+[3...gg	E- major
 =13	=13
-4gg]	E-
+4gg]	E- major
 4g	.
 4a-	.
 4b-	.
 =14	=14
-4.cc[	Dm7
-8.cc]	Dm7
+[4.cc	D minor-seventh
+8.cc]	D minor-seventh
 16r	.
-8dd	.
+8ddL	.
 8ee-	.
-8bb-[	E-/G
+[8bb-J	E- major/G
 =15	=15
 4bb-]	.
 4aa-	.
-4gg	E-/G
+4gg	E- major/G
 4ff	.
 =16	=16
-4.ff	Csus4
-4ee-	B-
-8dd	.
+4.ff	C suspended-fourth
+4ee-	B- major
+8ddL	.
 8ee-	.
-8ccc[	F/A
+[8cccJ	F major/A
 =17	=17
 4ccc]	.
 8r	.
-2ff	F/A
+2ff	F major/A
 8r	.
 =18	=18
-4.cc	A-
-6...dd	B-7/A-
+4.cc	A- major
+6...dd	B- dominant/A-
 16r	.
 4ee-	.
 =19	=19
-4r	E-/G
+4r	E- major/G
 4b-	.
-4ee-	E-/G
+4ee-	E- major/G
 4bb-	.
 =20	=20
-4bb-[	.
-8bb-]	G-
-16aa-	.
-16gg-	.
-8aa-[	.
-4.aa-_	G-
+[4bb-	.
+8bb-L]	G- major
+16aa-L	.
+16gg-JJ	.
+[8aa-	.
+4.aa-_	G- major
 =21	=21
-8aa-]	G-
+8aa-]	G- major
 8r	.
-8dd-[	.
-8dd-]	G-
+[8dd-L	.
+8dd-J]	G- major
 4gg-	.
 4ddd-	.
 =22	=22
-4.ddd-	A-sus4
-16ccc	A-
-16bb-	.
+4.ddd-	A- suspended-fourth
+16cccLL	A- major
+16bb-JJ	.
 4.ccc	.
 8r	.
 =23	=23
-4.eee-	B-sus4
-16ddd	B-
-16eee-	.
+4.eee-	B- suspended-fourth
+16dddLL	B- major
+16eee-JJ	.
 4.fff	.
 8r	.
 ==	==

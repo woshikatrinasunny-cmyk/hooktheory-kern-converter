@@ -16,81 +16,81 @@
 *e:	*
 *M4/4	*
 =1	=1
-16ff#	Cadd(4,6,7,11)
+16ff#LL	C other-4,6,7,11
 16ff#	.
 16ff#	.
-16ff#	.
-8ff#	.
+16ff#J	.
+8ff#J	.
 4r	.
-8gg	Fadd(2,4,7)
+8gg	F other-2,4,7
 8r	.
 8gg	.
 =2	=2
-16ff#	Cadd(4,6,7,11)
+16ff#LL	C other-4,6,7,11
 16ff#	.
 16ff#	.
-16ff#	.
-8ff#	.
+16ff#J	.
+8ff#J	.
 4r	.
-8A	.
+8AL	.
 8A#	.
-8B	.
+8BJ	.
 =3	=3
-16ff#	Cadd(4,6,7,11)
+16ff#LL	C other-4,6,7,11
 16ff#	.
 16ff#	.
-16ff#	.
-8ff#	.
+16ff#J	.
+8ff#J	.
 4r	.
-8gg	Fadd(2,4,7)
+8gg	F other-2,4,7
 8r	.
 8gg	.
 =4	=4
-16ff#	Cadd(4,6,7,11)
+16ff#LL	C other-4,6,7,11
 16ff#	.
 16ff#	.
-16ff#	.
-8ff#	.
+16ff#J	.
+8ff#J	.
 4r	.
-8A	.
+8AL	.
 8A#	.
-8B	.
+8BJ	.
 =5	=5
-4r	Cmaj7
+4r	C major-seventh
 4c	.
 4e	.
 4g	.
 =6	=6
 2.b	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 =7	=7
-3...a	Bm7
-8g	.
+3...a	B minor-seventh
+8gL	.
 8f#	.
-8g	.
+8gJ	.
 =8	=8
 4f#	.
 8d	.
 2A	.
 8r	.
 =9	=9
-4r	Cmaj7
-8A	.
-8B	.
-8c	.
+4r	C major-seventh
+8AL	.
+8BJ	.
+8cL	.
 8e	.
 8g	.
-8a	.
+8aJ	.
 =10	=10
-2.b	C#dim7
-8a	.
-8g	.
+2.b	C# diminished-seventh
+8aL	.
+8gJ	.
 =11	=11
-4.a	D7sus4
-3...dd[	.
+4.a	D dominant-seventh-suspended-fourth
+[3...dd	.
 =12	=12
-2.dd]	D7
+2.dd]	D dominant
 4r	.
 ==	==
 *-	*-

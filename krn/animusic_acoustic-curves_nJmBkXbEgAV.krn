@@ -16,186 +16,186 @@
 *c:	*
 *M4/4	*
 =1	=1
-4C	Cm
-8C	.
-16D-	.
-16E-	.
+4C	C minor
+8CL	.
+16D-L	.
+16E-JJ	.
 8G	.
 8r	.
-4D-	D-
+4D-	D- major
 =2	=2
-8D-	.
-16E-	.
-16F	.
-8A-	.
+8D-L	.
+16E-L	.
+16FJ	.
+8A-J	.
 8r	.
-4BB-	B-m
-8E-	.
-16F	.
-16B-	.
+4BB-	B- minor
+8E-L	.
+16FL	.
+16B-JJ	.
 =3	=3
 8c	.
 8r	.
-4C	Cm
-8F	.
-16G	.
-16B-	.
+4C	C minor
+8FL	.
+16GL	.
+16B-JJ	.
 4c	.
 =4	=4
-8D-	D-
+8D-L	D- major
 8A-	.
 8d-	.
-8A-	.
-8E-	E-
+8A-J	.
+8E-L	E- major
 8B-	.
 8e-	.
-8B-	.
+8B-J	.
 =5	=5
-4C	Cm
-8G	.
-16c	.
-16dn	.
+4C	C minor
+8GL	.
+16cL	.
+16dnJJ	.
 8g	.
 8r	.
-4D-	D-
+4D-	D- major
 =6	=6
-8A-	.
-16d-	.
-16e-	.
-8a-	.
+8A-L	.
+16d-L	.
+16e-J	.
+8a-J	.
 8r	.
-4BB-	B-m
-8F	.
-16B-	.
-16c	.
+4BB-	B- minor
+8FL	.
+16B-L	.
+16cJJ	.
 =7	=7
 8f	.
 8r	.
-4C	Cm
-8G	.
-16c	.
-16dn	.
+4C	C minor
+8GL	.
+16cL	.
+16dnJJ	.
 4g	.
 =8	=8
-8AA-	A-
+8AA-L	A- major
 8dn	.
 8e-	.
-8c	.
-8GG	Gm
+8cJ	.
+8GGL	G minor
 8c	.
 8dn	.
-8B-	.
+8B-J	.
 =9	=9
-8FF	Fm
+8FFL	F minor
 8B-	.
 8c	.
-8A-	.
-4C	Cm
-8C	.
-16D-	.
-16E-	.
+8A-J	.
+4C	C minor
+8CL	.
+16D-L	.
+16E-JJ	.
 =10	=10
 8G	.
 8r	.
-4D-	D-
-8D-	.
-16E-	.
-16F	.
-8A-	.
+4D-	D- major
+8D-L	.
+16E-L	.
+16FJ	.
+8A-J	.
 8r	.
 =11	=11
-4BB-	B-m
-8E-	.
-16F	.
-16B-	.
+4BB-	B- minor
+8E-L	.
+16FL	.
+16B-JJ	.
 8c	.
 8r	.
-4C	Cm
+4C	C minor
 =12	=12
-8G	.
-16c	.
-16dn	.
+8GL	.
+16cL	.
+16dnJJ	.
 4g	.
-4E-	E-
-8f	.
-8e-	.
+4E-	E- major
+8fL	.
+8e-J	.
 =13	=13
-8c	Fm
+8cL	F minor
 8B-	.
 8G	.
-8F	.
-4C	Cm
-8G	.
-16c	.
-16dn	.
+8FJ	.
+4C	C minor
+8GL	.
+16cL	.
+16dnJJ	.
 =14	=14
 8g	.
 8r	.
-4D-	D-
-8A-	.
-16d-	.
-16e-	.
-8a-	.
+4D-	D- major
+8A-L	.
+16d-L	.
+16e-J	.
+8a-J	.
 8r	.
 =15	=15
-4BB-	B-m
-8F	.
-16B-	.
-16c	.
+4BB-	B- minor
+8FL	.
+16B-L	.
+16cJJ	.
 8f	.
 8r	.
-4C	Cm
+4C	C minor
 =16	=16
-8G	.
-16c	.
-16dn	.
+8GL	.
+16cL	.
+16dnJJ	.
 4g	.
-8AA-	A-
+8AA-L	A- major
 8F	.
 8c	.
-8F	.
+8FJ	.
 =17	=17
-8GG	Gm
+8GGL	G minor
 8G	.
 8dn	.
-8G	.
-8FF	Fm
+8GJ	.
+8FFL	F minor
 8A-	.
 8e-	.
-8A-	.
+8A-J	.
 =18	=18
-8GG	Gsus4
+8GGL	G suspended-fourth
 8G	.
 8c	.
-8dn	.
+8dnJ	.
 4g	.
-8GG	Gsus4
-8G	.
+8GGL	G suspended-fourth
+8GJ	.
 =19	=19
-8c	.
+8cL	.
 8dn	.
 8g	.
-8g	.
-8GG	Gsus4
+8gJ	.
+8GGL	G suspended-fourth
 8G	.
 8c	.
-8dn	.
+8dnJ	.
 =20	=20
 4g	.
-8GG	Gsus4
-8G	.
-8c	.
+8GGL	G suspended-fourth
+8GJ	.
+8cL	.
 8dn	.
 8g	.
-8g	.
+8gJ	.
 =21	=21
-8G	Gsus4
+8GL	G suspended-fourth
 8F	.
 8G	.
-8An	.
-8B-	Gsus4
+8AnJ	.
+8B-L	G suspended-fourth
 8c	.
 8dn	.
-8f	.
+8fJ	.
 ==	==
 *-	*-

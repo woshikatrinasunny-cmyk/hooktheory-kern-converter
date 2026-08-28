@@ -16,60 +16,60 @@
 *d:	*
 *M4/4	*
 =1	=1
-8.e	Dm9
+8.eL	D minor-ninth
 8c	.
-8c	.
+8cJ	.
 6...A	.
-8f	.
-8f	.
+8fL	.
+8fJ	.
 =2	=2
-8.e	Cadd(2,4,7)
+8.eL	C other-2,4,7
 8c	.
-8c	.
+8cJ	.
 6...A	.
-8f	.
-8f	.
+8fL	.
+8fJ	.
 =3	=3
-8.e	B-maj9
+8.eL	B- major-ninth
 8c	.
-8c	.
+8cJ	.
 6...A	.
-8f	.
-8f	.
+8fL	.
+8fJ	.
 =4	=4
-8.e	Aadd(1,4,7,8,10)
+8.eL	A other-1,4,7,8,10
 8c	.
-8c	.
+8cJ	.
 6...A	.
-8e	.
-8f	.
+8eL	.
+8fJ	.
 =5	=5
-8.e	Dm9
+8.eL	D minor-ninth
 8c	.
-8c	.
+8cJ	.
 6...A	.
-8f	.
-8f	.
+8fL	.
+8fJ	.
 =6	=6
-8.e	Cadd(2,4,7)
+8.eL	C other-2,4,7
 8c	.
-8c	.
+8cJ	.
 6...A	.
-8c	.
-8d	.
+8cL	.
+8dJ	.
 =7	=7
-8.A	B-maj9
+8.AL	B- major-ninth
 8c	.
-8d	.
+8dJ	.
 6...A	.
-8c	.
-8d	.
+8cL	.
+8dJ	.
 =8	=8
-8.A	Aadd(1,4,7,8,10)
+8.AL	A other-1,4,7,8,10
 8c	.
-8d	.
+8dJ	.
 6...A	.
-8c	.
-8d	.
+8cL	.
+8dJ	.
 ==	==
 *-	*-

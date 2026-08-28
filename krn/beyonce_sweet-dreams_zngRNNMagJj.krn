@@ -16,126 +16,126 @@
 *d#:	*
 *M4/4	*
 =1	=1
-8a#	D#m
+8a#L	D# minor
 8a#	.
-8a#	D#m
-8a#	D#m
+8a#	D# minor
+8a#J	D# minor
+8a#L	.
 8a#	.
 8a#	.
-8a#	.
-8g#[	D#m
+[8g#J	D# minor
 =2	=2
-4g#_	D#m11
-8g#_	C#
-4.g#]	C#
+4g#_	D# minor-11th
+8g#_	C# major
+4.g#]	C# major
 8r	.
 8c#	.
 =3	=3
-8g#	A#m
+8g#L	A# minor
 8g#	.
-8g#	A#m
-8g#	A#m
+8g#	A# minor
+8g#J	A# minor
+8g#L	.
 8g#	.
-8g#	.
-8g#	A#m7/G#
-8f#[	A#m
+8g#	A# minor-seventh/G#
+[8f#J	A# minor
 =4	=4
-8f#]	B
+8f#L]	B major
 8d#	.
-8f#	B
-8d#	B
-8f#	G#m7
+8f#	B major
+8d#J	B major
+8f#L	G# minor-seventh
 8d#	.
-8f#	B/F#
-8g#	E#add(1,6,10)
+8f#	B major/F#
+8g#J	E# other-1,6,10
 =5	=5
-8a#	D#m
+8a#L	D# minor
 8a#	.
-8a#	D#m
-8a#	D#m
+8a#	D# minor
+8a#J	D# minor
+8cc#L	.
 8cc#	.
 8cc#	.
-8cc#	.
-8g#[	D#m
+[8g#J	D# minor
 =6	=6
-4g#_	D#m11
-8g#_	C#
-4.g#]	C#
+4g#_	D# minor-11th
+8g#_	C# major
+4.g#]	C# major
 4r	.
 =7	=7
-8g#	F#
+8g#L	F# major
 8g#	.
-8g#	F#
-8g#	F#
-8f#	.
-8f#[	.
-8f#]	F#
-8c#	F#
+8g#	F# major
+8g#J	F# major
+8f#L	.
+[8f#	.
+8f#]	F# major
+8c#J	F# major
 =8	=8
-8g#	G#m
+8g#L	G# minor
 8g#	.
 8g#	.
-8g#[	G#m
-8g#]	G#m
+[8g#J	G# minor
+8g#L]	G# minor
 8f#	.
-8f#	G#m7/F#
-8g#	E#m7b5
+8f#	G# minor-seventh/F#
+8g#J	E# half-diminished
 =9	=9
-8a#	D#m
+8a#	D# minor
 8r	.
-8a#[	D#m
-8a#]	D#m
+[8a#L	D# minor
+8a#J]	D# minor
 4g#	.
-8a#[	.
-8a#]	D#m
+[8a#L	.
+8a#J]	D# minor
 =10	=10
-4cc#	D#m11
-8a#[	C#
-8a#]	C#
+4cc#	D# minor-11th
+[8a#L	C# major
+8a#J]	C# major
 4g#	.
 4f#	.
 =11	=11
-4d#[	A#m
-8d#_	A#m
-4.d#_	A#m
-8d#_	A#m7/G#
-8d#]	A#m
+[4d#	A# minor
+8d#_	A# minor
+4.d#_	A# minor
+8d#L_	A# minor-seventh/G#
+8d#J]	A# minor
 =12	=12
-4r	B
-8r	B
-8c#	B
-8c#	G#m7
+4r	B major
+8r	B major
+8c#	B major
+8c#L	G# minor-seventh
 8d#	.
-8f#	B/F#
-8a#[	E#add(1,6,10)
+8f#	B major/F#
+[8a#J	E# other-1,6,10
 =13	=13
-4a#_	D#m
-8a#_	D#m
-8a#]	D#m
+4a#_	D# minor
+8a#L_	D# minor
+8a#J]	D# minor
 4g#	.
-8a#[	.
-8a#]	D#m
+[8a#L	.
+8a#J]	D# minor
 =14	=14
-4cc#	D#m11
-8a#[	C#
-8a#]	C#
+4cc#	D# minor-11th
+[8a#L	C# major
+8a#J]	C# major
 4g#	.
 4f#	.
 =15	=15
-8f#	F#
-8g#[	.
-8g#_	F#
-4.g#]	F#
-8r	F#
-8r	F#
+8f#L	F# major
+[8g#	.
+8g#J_	F# major
+4.g#]	F# major
+8r	F# major
+8r	F# major
 =16	=16
-8r	G#m
+8r	G# minor
+8f#L	.
 8f#	.
-8f#	.
-8g#	G#m
-8b	G#m
+8g#J	G# minor
+8bL	G# minor
 8a#	.
-8g#[	G#m7/F#
-8g#]	E#m7b5
+[8g#	G# minor-seventh/F#
+8g#J]	E# half-diminished
 ==	==
 *-	*-

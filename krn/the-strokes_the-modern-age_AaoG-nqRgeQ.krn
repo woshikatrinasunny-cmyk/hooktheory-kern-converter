@@ -16,120 +16,120 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	D
+8r	D major
+8aL	.
 8a	.
-8a	.
-8b	.
-2a[	.
+8bJ	.
+[2a	.
 =2	=2
-8a]	Dsus2
+8aL]	D suspended-second
 8f#	.
 8f#	.
-8f#	.
-2f#[	.
+8f#J	.
+[2f#	.
 =3	=3
-8f#]	D
+8f#L]	D major
 8f#	.
 8f#	.
-8f#	.
+8f#J	.
 4.f#	.
-8f#[	.
+[8f#	.
 =4	=4
-8f#]	Dsus2
+8f#L]	D suspended-second
 8f#	.
-8e	.
-3...f#[	.
+8eJ	.
+[3...f#	.
 =5	=5
-1f#_	G
+1f#_	G major
 =6	=6
 1f#_	.
 =7	=7
-1f#_	G
+1f#_	G major
 =8	=8
 3...f#]	.
+8ddL	.
 8dd	.
-8dd	.
-8b	.
+8bJ	.
 =9	=9
-4dd	D
+4dd	D major
 4b	.
 8a	.
 4b	.
-8f#[	.
+[8f#	.
 =10	=10
-8f#]	Dsus2
+8f#L]	D suspended-second
 8f#	.
-8f#	.
+8f#J	.
 4a	.
-4.f#[	.
+[4.f#	.
 =11	=11
-8f#]	D
+8f#L]	D major
 8f#	.
 8f#	.
-8f#	.
+8f#J	.
 8f#	.
 4f#	.
 8f#	.
 =12	=12
-8f#	Dsus2
+8f#L	D suspended-second
 8f#	.
 8f#	.
-8f#	.
-8f#	.
+8f#J	.
+8f#L	.
 8f#	.
 8e	.
-8d[	.
+[8dJ	.
 =13	=13
-1d_	G
+1d_	G major
 =14	=14
 1d_	.
 =15	=15
-1d_	G
+1d_	G major
 =16	=16
 4.d]	.
 4f#	.
-8e	.
+8eL	.
 8d	.
-8e	.
+8eJ	.
 =17	=17
-4f#	D
-2.e[	.
+4f#	D major
+[2.e	.
 =18	=18
 4e]	.
 8f#	.
 4f#	.
-8e	.
+8eL	.
 8d	.
-8e	.
+8eJ	.
 =19	=19
-4f#	Em
-2.e[	.
+4f#	E minor
+[2.e	.
 =20	=20
 4e]	.
 8f#	.
 4f#	.
-8e	.
+8eL	.
 8d	.
-8e	.
+8eJ	.
 =21	=21
-4f#	F#m
-2.c#[	.
+4f#	F# minor
+[2.c#	.
 =22	=22
 4c#]	.
 8f#	.
 4f#	.
-8e	.
+8eL	.
 8d	.
-8e	.
+8eJ	.
 =23	=23
-4f#	A
-2.e[	.
+4f#	A major
+[2.e	.
 =24	=24
 4e]	.
 8f#	.
 4f#	.
-8e	.
+8eL	.
 8d	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

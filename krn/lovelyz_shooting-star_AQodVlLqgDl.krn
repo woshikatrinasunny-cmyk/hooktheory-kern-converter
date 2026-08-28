@@ -16,45 +16,45 @@
 *a:	*
 *M4/4	*
 =1	=1
-8a	F#m7b5
-16a	.
+8aL	F# half-diminished
+16ak	.
 8a	.
 8a	.
-16a[	.
-8a]	B7
+[16aJk	.
+8a]	B dominant
 8r	.
 8b	.
 8r	.
 =2	=2
-8g	Em7
-16g	.
+8gL	E minor-seventh
+16gk	.
 8g	.
 8g	.
-16b[	.
-8b]	D#
-16cc	.
+[16bJk	.
+8bL]	D# major
+16cck	.
 8b	.
 8g	.
-16g	.
+16gJk	.
 =3	=3
-8f	Dm7
+8f	D minor-seventh
 8r	.
-16f	Em7
+16fLK	E minor-seventh
 8e	.
-16f[	.
-16f]	Fadd(2,4,7)
+[16fJk	.
+16fLK]	F other-2,4,7
 8f#	.
 8g	.
 8e	.
-16a	.
+16aJk	.
 =4	=4
-4g	Gsus4
+4g	G suspended-fourth
 16r	.
 8cc	.
 8b	.
-16a	.
-8g[	.
-16g]	A
+16aLK	.
+[8g	.
+16gJk]	A major
 8.r	.
 ==	==
 *-	*-

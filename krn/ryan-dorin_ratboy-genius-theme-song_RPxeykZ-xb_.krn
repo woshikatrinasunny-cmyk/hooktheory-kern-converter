@@ -16,69 +16,69 @@
 *G:	*
 *M4/4	*
 =1	=1
-8b	Em7/G
+8b	E minor-seventh/G
 8r	.
-8b	G/D
+8b	G major/D
 8r	.
-8r	Gm
+8r	G minor
 16g	.
 16r	.
-8b	G/D
+8b	G major/D
 16r	.
 16g	.
 =2	=2
-8cc	C
+8cc	C major
 8r	.
-8cc	C/E
+8cc	C major/E
 8r	.
-8b	G
-8b	.
-4r	G/D
+8bL	G major
+8bJ	.
+4r	G major/D
 =3	=3
-8r	D#
-8dd#	.
-8dd	A#
-8dd	.
-8cc#	C#
+8r	D# major
+8dd#L	.
+8dd	A# major
+8ddJ	.
+8cc#L	C# major
 8cc#	.
-8cc	G#
-8cc	.
+8cc	G# major
+8ccJ	.
 =4	=4
-8b	G
+8b	G major
 8r	.
-4r	G/D
-4r	Em7
-4r	Gmaj7/F#
+4r	G major/D
+4r	E minor-seventh
+4r	G major-seventh/F#
 =5	=5
-4b	Em7/G
-4r	G/D
-8.r	Gm
-16b[	.
-16b]	G/D
-8g	.
+4b	E minor-seventh/G
+4r	G major/D
+8.r	G minor
+[16bLL	.
+16bJ]	G major/D
+8gJ	.
 16r	.
 =6	=6
-8cc	C
+8cc	C major
 8r	.
-8cc	C/E
+8cc	C major/E
 8r	.
-8b	G
-8b	.
-4r	G/D
+8bL	G major
+8bJ	.
+4r	G major/D
 =7	=7
-8r	D#
-8dd#	.
-8dd	A#
-8dd	.
-8cc#	C#
+8r	D# major
+8dd#L	.
+8dd	A# major
+8ddJ	.
+8cc#L	C# major
 8cc#	.
-8cc	G#
-8cc	.
+8cc	G# major
+8ccJ	.
 =8	=8
-8b	G
+8b	G major
 8r	.
-4r	G7/F
-4r	Em7
-4r	G/D
+4r	G dominant/F
+4r	E minor-seventh
+4r	G major/D
 ==	==
 *-	*-

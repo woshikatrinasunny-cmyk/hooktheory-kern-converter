@@ -16,90 +16,90 @@
 *B:	*
 *M4/4	*
 =1	=1
-4.bb	B
+4.bb	B major
 4.ff#	.
-4ee[	.
+[4ee	.
 =2	=2
-4ee]	B
-8ee	.
-8dd#	.
-8ee	.
+4ee]	B major
+8eeL	.
+8dd#J	.
+8eeL	.
 8ff#	.
 8ee	.
-8dd#	.
+8dd#J	.
 =3	=3
-4.bb	B
+4.bb	B major
 4.ff#	.
-4ee[	.
+[4ee	.
 =4	=4
-4ee]	B
-8ee	.
-8dd#	.
-8ee	.
+4ee]	B major
+8eeL	.
+8dd#J	.
+8eeL	.
 8ff#	.
 8ee	.
-8dd#	.
+8dd#J	.
 =5	=5
-4.bb	G#m
+4.bb	G# minor
 4.ff#	.
-4ee[	E
+[4ee	E major
 =6	=6
 4.ee]	.
 8ee	.
-8dd#	.
+8dd#L	.
 8cc#	.
 8b	.
-8cc#	.
+8cc#J	.
 =7	=7
-4.ee	B
+4.ee	B major
 4.dd#	.
-4cc#[	F#
+[4cc#	F# major
 =8	=8
 4.cc#]	.
 4.dd#	.
 8r	.
 8ff#	.
 =9	=9
-4.bb	B
+4.bb	B major
 4.ff#	.
-4ee[	.
+[4ee	.
 =10	=10
-8ee]	B
+8eeL]	B major
 8ee	.
 8ee	.
-8dd#	.
-8ee	.
+8dd#J	.
+8eeL	.
 8ff#	.
 8ee	.
-8dd#	.
+8dd#J	.
 =11	=11
-4.bb	F#/A#
+4.bb	F# major/A#
 4.ff#	.
-4ee[	.
+[4ee	.
 =12	=12
-8ee]	F#/A#
+8eeL]	F# major/A#
 8dd#	.
 8ee	.
-8dd#	.
-8ee	.
+8dd#J	.
+8eeL	.
 8ff#	.
 8ee	.
-8dd#	.
+8dd#J	.
 =13	=13
-4.bb	G#m
+4.bb	G# minor
 4.ff#	.
-4ee[	E
+[4ee	E major
 =14	=14
 4.ee]	.
 8ee	.
-8dd#	.
+8dd#L	.
 8cc#	.
 8b	.
-8cc#	.
+8cc#J	.
 =15	=15
-4.ee	B
+4.ee	B major
 4.ff#	.
-4ff#[	F#
+[4ff#	F# major
 =16	=16
 2.ff#]	.
 4r	.

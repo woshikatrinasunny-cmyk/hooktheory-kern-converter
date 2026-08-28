@@ -16,199 +16,199 @@
 *g:	*
 *M4/4	*
 =1	=1
-8d	G
+8d	G major
 4dd	.
 8d	.
 4bn	.
-8d	.
-8ee-[	.
+8dL	.
+[8ee-J	.
 =2	=2
-8ee-]	.
-8d	.
+8ee-L]	.
+8dJ	.
 4dd	.
 8d	.
 4dd	.
 8d	.
 =3	=3
-8c	Cm
+8c	C minor
 4ee-	.
 8c	.
 4cc	.
-8c	.
-8gg[	.
+8cL	.
+[8ggJ	.
 =4	=4
-8gg]	.
-8c	.
+8ggL]	.
+8cJ	.
 4ff	.
 8c	.
 4ee-	.
 8c	.
 =5	=5
-8d	E-
+8d	E- major
 4dd	.
 8d	.
 4g	.
-8d	.
-8dd[	.
+8dL	.
+[8ddJ	.
 =6	=6
-8dd]	.
-8d	.
+8ddL]	.
+8dJ	.
 4g	.
 8d	.
 4ff	.
 8g	.
 =7	=7
-8d	G
+8d	G major
 4dd	.
 8f	.
 4g	.
-8d	.
-8dd[	.
+8dL	.
+[8ddJ	.
 =8	=8
-8dd]	.
-8f	.
+8ddL]	.
+8fJ	.
 4g	.
 8d	.
 4.dd	.
 =9	=9
-8d	G
+8d	G major
 4dd	.
 8d	.
 4bn	.
-8d	.
-8ee-[	.
+8dL	.
+[8ee-J	.
 =10	=10
-8ee-]	.
-8d	.
+8ee-L]	.
+8dJ	.
 4dd	.
 8d	.
 4dd	.
 8d	.
 =11	=11
-8c	Cm
+8c	C minor
 4ee-	.
 8c	.
 4cc	.
-8c	.
-8gg[	.
+8cL	.
+[8ggJ	.
 =12	=12
-8gg]	.
-8c	.
+8ggL]	.
+8cJ	.
 4ff	.
 8c	.
 4ee-	.
 8c	.
 =13	=13
-8d	E-
+8d	E- major
 4dd	.
 8d	.
 4g	.
-8d	.
-8dd[	.
+8dL	.
+[8ddJ	.
 =14	=14
-8dd]	.
-8d	.
+8ddL]	.
+8dJ	.
 4g	.
 8d	.
 4ff	.
 8g	.
 =15	=15
-8d	G
+8d	G major
 4dd	.
 8f	.
 4g	.
-8d	.
-8dd[	.
+8dL	.
+[8ddJ	.
 =16	=16
-8dd]	.
-8f	.
+8ddL]	.
+8fJ	.
 4g	.
 8d	.
 4.dd	.
 =17	=17
-1dd[	.
+[1dd	.
 =18	=18
 1dd]	.
 =19	=19
-4bn	G
-4bn	G
+4bn	G major
+4bn	G major
 2r	.
 =20	=20
-4bn	G
-4bn	G
-4dd	F
-4dd	F
+4bn	G major
+4bn	G major
+4dd	F major
+4dd	F major
 =21	=21
-4ee-	E-
-4ee-	E-
+4ee-	E- major
+4ee-	E- major
 4r	.
-8ee-	.
-8e-	.
+8ee-L	.
+8e-J	.
 =22	=22
-4dd	E-
-4dd	E-
-4cc	F
-4cc	F
+4dd	E- major
+4dd	E- major
+4cc	F major
+4cc	F major
 =23	=23
-4bn	G
-4bn	G
+4bn	G major
+4bn	G major
 2r	.
 =24	=24
-8g	G
+8gL	G major
 8bn	.
-8cc	G
-8dd	.
-8.gg	F
-16ff[	.
-8ff]	F
-8cc	.
+8cc	G major
+8ddJ	.
+8.ggL	F major
+[16ffk	.
+8ff]	F major
+8ccJ	.
 =25	=25
-4b-[	E-
-4b-]	E-
+[4b-	E- major
+4b-]	E- major
 2r	.
 =26	=26
-4dd[	E-
-4dd]	E-
-4cc[	F
-4cc]	F
+[4dd	E- major
+4dd]	E- major
+[4cc	F major
+4cc]	F major
 =27	=27
-4bn	G
-4bn	G
+4bn	G major
+4bn	G major
 2r	.
 =28	=28
-4bn	G
-4bn	G
-4dd	F
-4dd	F
+4bn	G major
+4bn	G major
+4dd	F major
+4dd	F major
 =29	=29
-4ee-	E-
-4ee-	E-
+4ee-	E- major
+4ee-	E- major
 4r	.
-8ee-	.
-8e-	.
+8ee-L	.
+8e-J	.
 =30	=30
-4dd	E-
-4dd	E-
-4cc	F
-4cc	F
+4dd	E- major
+4dd	E- major
+4cc	F major
+4cc	F major
 =31	=31
-2g	G
+2g	G major
+16GGLL	.
 16GG	.
 16GG	.
 16GG	.
 16GG	.
 16GG	.
 16GG	.
-16GG	.
-16GG	.
+16GGJJ	.
 =32	=32
-2g	G
-2dd	F
+2g	G major
+2dd	F major
 =33	=33
-2ee-	E-
+2ee-	E- major
 2r	.
 =34	=34
-2dd	E-
-2cc	F
+2dd	E- major
+2cc	F major
 ==	==
 *-	*-

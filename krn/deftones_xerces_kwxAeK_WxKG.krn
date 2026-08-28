@@ -16,54 +16,54 @@
 *F:	*
 *M4/4	*
 =1	=1
-2f	C#
-4r	D#
-8a#	.
-8a#[	.
+2f	C# major
+4r	D# major
+8a#L	.
+[8a#J	.
 =2	=2
-8a#]	F
+8a#L]	F major
 8a	.
 8f	.
-8f	.
-8f	.
+8fJ	.
+8fL	.
 8g	.
-8f	F/C
-8cc#[	.
+8f	F major/C
+[8cc#J	.
 =3	=3
-4.cc#]	C#
+4.cc#]	C# major
 8r	.
-4r	D#
-8a#	.
-8a#[	.
+4r	D# major
+8a#L	.
+[8a#J	.
 =4	=4
-8.a#]	F
-16f	.
+8.a#L]	F major
+16fk	.
 8.d#	.
-16f	.
-8.cc	.
-16f[	.
-8f]	F/C
-8g[	.
+16fJk	.
+8.ccL	.
+[16fk	.
+8f]	F major/C
+[8gJ	.
 =5	=5
-4g]	C#
+4g]	C# major
 4r	.
-4r	D#
-8g	.
-8g[	.
+4r	D# major
+8gL	.
+[8gJ	.
 =6	=6
-8g]	F
+8gL]	F major
 8f	.
-8f	.
+8fJ	.
 8.f	.
-8.g	.
-8f	F/C
-8cc#[	.
+8.gL	.
+8f	F major/C
+[8cc#J	.
 =7	=7
-4.cc#]	C#
+4.cc#]	C# major
 8r	.
-2cc[	D#
+[2cc	D# major
 =8	=8
-8.cc]	F
+8.cc]	F major
 2.r	.
 16r	.
 ==	==

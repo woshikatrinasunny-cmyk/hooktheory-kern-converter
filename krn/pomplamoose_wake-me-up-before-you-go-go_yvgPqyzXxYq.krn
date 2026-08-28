@@ -16,115 +16,115 @@
 *F:	*
 *M4/4	*
 =1	=1
-4dd	F
+4dd	F major
 8r	.
 8a	.
 4cc	.
-8dd	.
-8a[	.
+8ddL	.
+[8aJ	.
 =2	=2
-8a]	Fdim
+8a]	F diminished
 4f	.
 8f	.
 8g	.
 4a	.
-8b-[	.
+[8b-	.
 =3	=3
-8b-]	F11
-8a	.
+8b-L]	F dominant-11th
+8aJ	.
 4g	.
 4a	.
-8cc	.
-8a[	.
+8ccL	.
+[8aJ	.
 =4	=4
-8a]	Dm/F
+8a]	D minor/F
 4.f	.
 8a	.
 4cc	.
 8cc	.
 =5	=5
-4dd	F
+4dd	F major
 8r	.
 8a	.
 4cc	.
-8dd	.
-8a[	.
+8ddL	.
+[8aJ	.
 =6	=6
-8a]	Fdim
+8a]	F diminished
 4f	.
 8f	.
-8g	.
+8gL	.
 8a	.
 8a	.
-8b-[	.
+[8b-J	.
 =7	=7
-8b-]	E-add(6,7)
+8b-L]	E- other-6,7
 8a	.
 8f	.
-8d	.
-8f	Cm11
+8dJ	.
+8f	C minor-11th
 4f	.
 8d	.
 =8	=8
-2.c	Fadd(2,3,5,7)/A-
+2.c	F other-2,3,5,7/A-
 4r	.
 =9	=9
 2r	.
-8ff	Cm11
+8ff	C minor-11th
 4dd	.
-8cc[	.
+[8cc	.
 =10	=10
-8cc]	F
+8cc]	F major
 4r	.
 8a	.
 4cc	.
-8dd	.
-8a[	.
+8ddL	.
+[8aJ	.
 =11	=11
-8a]	Fdim
+8a]	F diminished
 4f	.
 8f	.
 8g	.
 4a	.
-8b-[	.
+[8b-	.
 =12	=12
-8b-]	F11
-8a	.
+8b-L]	F dominant-11th
+8aJ	.
 4g	.
 4a	.
-8cc	.
-8a[	.
+8ccL	.
+[8aJ	.
 =13	=13
-8a]	Dm/F
+8a]	D minor/F
 4f	.
 4a	.
 4cc	.
 8cc	.
 =14	=14
-4dd	F
+4dd	F major
 8a	.
 4.cc	.
-8dd	.
-8a[	.
+8ddL	.
+[8aJ	.
 =15	=15
-8a]	Fdim
+8a]	F diminished
 4.f	.
 2r	.
 =16	=16
-4a	E-add(6,7)
-8f	.
-8g[	.
-8g]	Cm11
+4a	E- other-6,7
+8fL	.
+[8gJ	.
+8gL]	C minor-11th
 8a	.
 8g	.
-8g[	.
+[8gJ	.
 =17	=17
-4g]	Fadd(2,3,5,7)/A-
-2.f[	.
+4g]	F other-2,3,5,7/A-
+[2.f	.
 =18	=18
 2f_	.
-2f_	Cm11
+2f_	C minor-11th
 =19	=19
-1f]	F
+1f]	F major
 ==	==
 *-	*-

@@ -16,96 +16,96 @@
 *C:	*
 *M6/4	*
 =1	=1
-4.f[	F
-4f]	F
-8cc[	.
-4cc]	F
-8cc[	.
-8cc]	F
+[4.f	F major
+4f]	F major
+[8cc	.
+4cc]	F major
+[8ccL	.
+8ccJ]	F major
 4a	.
 =2	=2
-4.dd	G
-4.dd	G
-4r	G
-8dd[	.
-8dd]	G
+4.dd	G major
+4.dd	G major
+4r	G major
+[8ddL	.
+8ddJ]	G major
 4cc	.
 =3	=3
-8ee	C
+8ee	C major
 4dd	.
-4.cc[	C
-4cc]	C
-8gg[	.
-8gg]	C
+[4.cc	C major
+4cc]	C major
+[8ggL	.
+8ggJ]	C major
 4aa	.
 =4	=4
-8ee	Dm/F
+8ee	D minor/F
 4dd	.
-4.cc[	Dm/F
-4.cc_	Dm/F
-4.cc_	Dm/F
+[4.cc	D minor/F
+4.cc_	D minor/F
+4.cc_	D minor/F
 =5	=5
-8cc]	Dm/F
+8cc]	D minor/F
 4r	.
-4.r	Dm/F
-4.r	Dm/F
-4.r	Dm/F
+4.r	D minor/F
+4.r	D minor/F
+4.r	D minor/F
 =6	=6
-4.r	Dm/F
-4.r	Dm/F
-4.r	Dm/F
-4.r	Dm/F
+4.r	D minor/F
+4.r	D minor/F
+4.r	D minor/F
+4.r	D minor/F
 =7	=7
-4.r	Dm/F
-4.r	Dm/F
-4.r	Dm/F
-4.r	Dm/F
+4.r	D minor/F
+4.r	D minor/F
+4.r	D minor/F
+4.r	D minor/F
 =8	=8
-4.f[	F
-4f]	F
-8cc[	.
-4cc]	F
-8cc[	.
-8cc]	F
+[4.f	F major
+4f]	F major
+[8cc	.
+4cc]	F major
+[8ccL	.
+8ccJ]	F major
 4a	.
 =9	=9
-4.dd	G
-4.dd	G
-4r	G
-8dd[	.
-8dd]	G
+4.dd	G major
+4.dd	G major
+4r	G major
+[8ddL	.
+8ddJ]	G major
 4cc	.
 =10	=10
-8ee	C
-8dd	.
-8cc[	.
-8cc]	C
+8eeL	C major
+8ddJ	.
+[8ccL	.
+8ccJ]	C major
 4cc	.
-4cc	C
-8gg[	.
-8gg]	C
+4cc	C major
+[8ggL	.
+8ggJ]	C major
 4aa	.
 =11	=11
-8ee	Dm/F
+8ee	D minor/F
 4dd	.
-4.cc[	Dm/F
-4.cc_	Dm/F
-4.cc_	Dm/F
+[4.cc	D minor/F
+4.cc_	D minor/F
+4.cc_	D minor/F
 =12	=12
-4cc]	Dm/F
+4cc]	D minor/F
 8r	.
-4.r	Dm/F
-4.r	Dm/F
-4.r	Dm/F
+4.r	D minor/F
+4.r	D minor/F
+4.r	D minor/F
 =13	=13
-4.r	Dm/F
-4.r	Dm/F
-4.r	Dm/F
-4.r	Dm/F
+4.r	D minor/F
+4.r	D minor/F
+4.r	D minor/F
+4.r	D minor/F
 =14	=14
-4.r	Dm/F
-4.r	Dm/F
-4.r	Dm/F
-4.r	Dm/F
+4.r	D minor/F
+4.r	D minor/F
+4.r	D minor/F
+4.r	D minor/F
 ==	==
 *-	*-

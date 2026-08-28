@@ -15,13 +15,13 @@
 *B:	*
 *M4/4	*
 =1	=1
-4ff#	B
+4ff#	B major
 4gg#	.
 4bb	.
-8ddd#	.
-8ccc#[	.
+8ddd#L	.
+[8ccc#J	.
 =2	=2
-8ccc#]	C#m7
+8ccc#]	C# minor-seventh
 4bb	.
 8gg#	.
 8ff#	.
@@ -30,13 +30,13 @@
 =3	=3
 *k[f#c#g#]	*
 *A:	*
-4cc#	A
+4cc#	A major
 4dd	.
 4ee	.
-8ff#	.
-8ee[	.
+8ff#L	.
+[8eeJ	.
 =4	=4
-8ee]	Bm7
+8ee]	B minor-seventh
 4cc#	.
 8b	.
 8a	.
@@ -45,24 +45,24 @@
 =5	=5
 *k[f#]	*
 *G:	*
-4dd	G
+4dd	G major
 4ee	.
 4gg	.
-8bb	.
-8aa[	.
+8bbL	.
+[8aaJ	.
 =6	=6
-8aa]	Am7
+8aa]	A minor-seventh
 4gg	.
 8ee	.
 8dd	.
 4ee	.
-8ff#[	.
+[8ff#	.
 =7	=7
 *k[f#c#g#d#a#]	*
 *B:	*
-1ff#]	B
+1ff#]	B major
 =8	=8
-2..r	B
+2..r	B major
 8dd#	.
 ==	==
 *-	*-

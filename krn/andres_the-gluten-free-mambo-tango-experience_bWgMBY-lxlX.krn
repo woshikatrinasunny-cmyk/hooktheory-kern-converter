@@ -16,44 +16,44 @@
 *F:	*
 *M4/4	*
 =1	=1
-8ee	Fmaj7
+8eeL	F major-seventh
 8g	.
-8a	.
-8.b-	E-m7
-8.dd-	A-7
+8aJ	.
+8.b-	E- minor-seventh
+8.dd-L	A- dominant
 8ff	.
-8ee-[	D-maj7
+[8ee-J	D- major-seventh
 =2	=2
-16ee-]	.
+16ee-LL]	.
 16dd-	.
 16cc	.
 16dd-	.
-16ff	.
-8aa-	.
-8ccc	Gm7
-8bb-	.
-8aa	C7
-8.ddd	.
+16ffJ	.
+8aa-J	.
+8ccc	G minor-seventh
+8bb-L	.
+8aa	C dominant
+8.dddJ	.
 =3	=3
-16gg	Fmaj7
+16ggLL	F major-seventh
 16ff	.
 16ee	.
 16ff	.
-16aa	.
-8ccc	.
-8eee	Bm7
-8ddd	.
-16ddd-[	.
-16ddd-]	E7
-8.ggg-	.
+16aaJ	.
+8cccJ	.
+8eee	B minor-seventh
+8dddL	.
+[16ddd-L	.
+16ddd-J]	E dominant
+8.ggg-J	.
 =4	=4
-8bbn	Amaj7
-16ee	.
+8bbnL	A major-seventh
+16eeJk	.
 4gg-	.
-8.aa	Dm7
-16gg	.
-16ff	.
-8ee	G7
-8dd	.
+8.aa	D minor-seventh
+16ggLL	.
+16ffJ	.
+8ee	G dominant
+8ddJ	.
 ==	==
 *-	*-

@@ -16,37 +16,37 @@
 *e:	*
 *M4/4	*
 =1	=1
-16E	Em
+16ELL	E minor
 16B	.
 16E	.
 16B	.
-16E	.
+16EJJ	.
 16r	.
 8B	.
 8c	.
 4B	.
 8A	.
 =2	=2
-16G	Em/G
+16GLL	E minor/G
 16B	.
 16G	.
 16B	.
-16G	.
+16GJJ	.
 16r	.
 8B	.
-16F#	F#add(1,3,5,6,10)
+16F#LL	F# other-1,3,5,6,10
 16B	.
 16F#	.
 16B	.
-16F#	.
+16F#JJ	.
 16r	.
 8D	.
 =3	=3
-16E	Em
+16ELL	E minor
 16B	.
 16E	.
 16B	.
-16E	.
+16EJJ	.
 16r	.
 8B	.
 8c	.
@@ -54,97 +54,97 @@
 16A	.
 16r	.
 =4	=4
-8r	Fmaj11#11
-8Fn	.
+8r	F major-11th
+8FnL	.
 8A	.
-8G	.
-8F#	.
+8GJ	.
+8F#L	.
 8Fn	.
 8E	.
-8D	.
+8DJ	.
 =5	=5
-16E	Em
+16ELL	E minor
 16B	.
 16E	.
 16B	.
-16E	.
+16EJJ	.
 16r	.
 8B	.
 8c	.
 4B	.
 8A	.
 =6	=6
-16G	Em/G
+16GLL	E minor/G
 16B	.
 16G	.
 16B	.
-16G	.
+16GJJ	.
 16r	.
 8B	.
-16F#	F#add(1,3,5,6,10)
+16F#LL	F# other-1,3,5,6,10
 16B	.
 16F#	.
 16B	.
-16F#	.
+16F#JJ	.
 16r	.
 8D	.
 =7	=7
-16E	Em
+16ELL	E minor
 16B	.
 16E	.
-16B	.
+16BJ	.
 8E	.
-8B	.
+8BJ	.
 8c	.
 4B	.
 16A	.
 16r	.
 =8	=8
-8r	Fmaj11#11
-8Fn	.
+8r	F major-11th
+8FnL	.
 8A	.
-8G	.
-8F#	.
+8GJ	.
+8F#L	.
 8Fn	.
 8E	.
-8D	.
+8DJ	.
 =9	=9
-16B	Em
+16B	E minor
 16r	.
-8b	.
+8bL	.
 8e	.
-8b	.
+8bJ	.
 16B	.
 16r	.
-8b	.
+8bL	.
 8e	.
-8f#	.
+8f#J	.
 =10	=10
-16g	Em/G
+16g	E minor/G
 16r	.
-8f#	.
+8f#L	.
 8g	.
-8a[	.
-8a]	F#add(1,3,5,6,10)
+[8aJ	.
+8aL]	F# other-1,3,5,6,10
 8g	.
 8f#	.
-8d	.
+8dJ	.
 =11	=11
-8A	Em
+8AL	E minor
 8G	.
 8F#	.
-8D	.
-16E	.
+8DJ	.
+16ELL	.
 16F#	.
 16G	.
 16B	.
 16e	.
 16g	.
 16a	.
-16b	.
+16bJJ	.
 =12	=12
-8cc	Fmaj11#11
-16b	.
+8ccL	F major-11th
+16bJk	.
 16r	.
 16b	.
 16r	.
@@ -156,10 +156,10 @@
 16b	.
 16r	.
 =13	=13
-16BB	Em
+16BBLL	E minor
 16E	.
 16A	.
-16B	.
+16BJJ	.
 4.e	.
 16e	.
 16r	.
@@ -168,13 +168,13 @@
 16e	.
 16r	.
 =14	=14
-8e	Em/G
-16d#	.
+8eL	E minor/G
+16d#Jk	.
 16r	.
 16d#	.
 16r	.
 8d#	.
-16d	F#add(1,3,5,6,10)
+16d	F# other-1,3,5,6,10
 16r	.
 16d	.
 16r	.
@@ -183,10 +183,10 @@
 16B	.
 16r	.
 =15	=15
-16BB	Em
+16BBLL	E minor
 16E	.
 16A	.
-16B	.
+16BJJ	.
 4.e	.
 16e	.
 16r	.
@@ -195,8 +195,8 @@
 16e	.
 16r	.
 =16	=16
-8e	Fmaj11#11
-16d#	.
+8eL	F major-11th
+16d#Jk	.
 16r	.
 16d#	.
 16r	.

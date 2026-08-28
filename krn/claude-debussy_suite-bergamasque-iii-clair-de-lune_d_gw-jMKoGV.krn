@@ -16,25 +16,25 @@
 *c#:	*
 *M9/4	*
 =1	=1
-2.ccc#	C#m7/B
-2.eee	C#m7
-2.ggg#	C#m7/E
+2.ccc#	C# minor-seventh/B
+2.eee	C# minor-seventh
+2.ggg#	C# minor-seventh/E
 =2	=2
-2.ggg#	Amaj7/G#
-2.fff#[	F#m
-2.fff#]	F#mMaj7/F
+2.ggg#	A major-seventh/G#
+[2.fff#	F# minor
+2.fff#]	F# major-minor/F
 =3	=3
-2.fff#[	F#m7/E
-2.fff#]	D#m7b5
-2aaa	A/C#
+[2.fff#	F# minor-seventh/E
+2.fff#]	D# half-diminished
+2aaa	A major/C#
 4cccc#	.
 =4	=4
-2.ff#[	B9
-2.ff#]	F#m7/A
-2aa	Amaj7/G#
+[2.ff#	B dominant-ninth
+2.ff#]	F# minor-seventh/A
+2aa	A major-seventh/G#
 4ccc#	.
 =5	=5
-4eee	F#m7
+4eee	F# minor-seventh
 4ddd#	.
 4ccc#	.
 4.bb	.
@@ -53,60 +53,60 @@
 =7	=7
 *k[b-e-a-d-g-]	*
 *D-:	*
-2e-	A-7sus4
+2e-	A- dominant-seventh-suspended-fourth
 4A-	.
 2B-	.
 4d-	.
-2g-	A-7
+2g-	A- dominant
 4b-	.
 =8	=8
-2e-	A-7sus4
+2e-	A- dominant-seventh-suspended-fourth
 4A-	.
 2B-	.
 4d-	.
-2g-	A-7
+2g-	A- dominant
 4b-	.
 =9	=9
-4d-	A-11
-4ff	Fm7/A-
-4ee-	A-7sus2
-4b-	A-11
+4d-	A- dominant-11th
+4ff	F minor-seventh/A-
+4ee-	A- dominant-seventh-suspended-second
+4b-	A- dominant-11th
 4B-	.
 4d-	.
-4a-	A-7sus2
-4c	A-7
+4a-	A- dominant-seventh-suspended-second
+4c	A- dominant
 4e-	.
 =10	=10
-4b-	A-11
-4ff	Fm7/A-
-4ee-	A-7sus2
-4b-	A-11
+4b-	A- dominant-11th
+4ff	F minor-seventh/A-
+4ee-	A- dominant-seventh-suspended-second
+4b-	A- dominant-11th
 4B-	.
 4d-	.
-4a-	A-7sus2
-4c	A-7
+4a-	A- dominant-seventh-suspended-second
+4c	A- dominant
 4e-	.
 =11	=11
-2ee-[	E-m7/G-
-4ee-_	A-7sus4
-2ee-_	E-m/B-
-4ee-]	E-m7/D-
-2gg-	Cm7b5
+[2ee-	E- minor-seventh/G-
+4ee-_	A- dominant-seventh-suspended-fourth
+2ee-_	E- minor/B-
+4ee-]	E- minor-seventh/D-
+2gg-	C half-diminished
 4bb-	.
 =12	=12
-2ee-[	E-m7/G-
-4ee-_	A-7sus4
-2ee-_	E-m/B-
-4ee-]	E-m7/D-
-2gg-	Cm7b5
+[2ee-	E- minor-seventh/G-
+4ee-_	A- dominant-seventh-suspended-fourth
+2ee-_	E- minor/B-
+4ee-]	E- minor-seventh/D-
+2gg-	C half-diminished
 4bb-	.
 =13	=13
-2.eee-[	E-m7/G-
-2.eee-_	E-add(3,7,9,10)/G-
-2.eee-_	E-m7/G-
+[2.eee-	E- minor-seventh/G-
+2.eee-_	E- other-3,7,9,10/G-
+2.eee-_	E- minor-seventh/G-
 =14	=14
-2.eee-]	E-m7b5/G-
-2.ddd-	E-add(3,6,8,10)/G-
-2.eee-	E-m7b5/G-
+2.eee-]	E- half-diminished/G-
+2.ddd-	E- other-3,6,8,10/G-
+2.eee-	E- half-diminished/G-
 ==	==
 *-	*-

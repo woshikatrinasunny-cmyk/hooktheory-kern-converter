@@ -15,64 +15,64 @@
 *e:	*
 *M4/4	*
 =1	=1
-2g	C
+2g	C major
 8r	.
-8e	.
+8eL	.
 8dd	.
-8cc	.
+8ccJ	.
 =2	=2
-4.b	D
-16a	.
-16g	.
+4.b	D major
+16aLL	.
+16gJJ	.
 4.a	.
 8g	.
 =3	=3
-8.a	Em
+8.aL	E minor
 8.a	.
-16b	.
+16bJk	.
 8.g	.
-8f#	.
+8f#L	.
 8g	.
-16a	.
-16d[	.
+16aL	.
+[16dJJ	.
 =4	=4
-4.d]	F#dim
+4.d]	F# diminished
 8r	.
-8.d	G
+8.dL	G major
 8.c	.
-8d	.
+8dJ	.
 =5	=5
-4.e	Am
+4.e	A minor
 8r	.
-8.e	.
+8.eL	.
 8.f#	.
-8g	.
+8gJ	.
 =6	=6
-4.g	Bm
-16f#	.
-16e	.
+4.g	B minor
+16f#LL	.
+16eJJ	.
 4.f#	.
 8g	.
 =7	=7
-8.a	Bm/F#
+8.aL	B minor/F#
 8.a	.
-8e	.
-8e	.
-8e	.
+8eJ	.
+8eL	.
+8eJ	.
 4e	.
 =8	=8
-8.d#	B
+8.d#L	B major
 8.e	.
-8g	.
-8.dd	C
+8gJ	.
+8.ddL	C major
 8.cc	.
-8a	.
+8aJ	.
 =9	=9
-8b[	Bm/D
-16b_	.
-8b_	Bm/D
-16b_	.
-8b_	D
+[8bL	B minor/D
+16bk_	.
+8b_	B minor/D
+16bk_	.
+8bJ_	D major
 4b]	.
 ==	==
 *-	*-

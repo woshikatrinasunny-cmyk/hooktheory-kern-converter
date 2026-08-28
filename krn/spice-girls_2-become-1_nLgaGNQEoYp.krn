@@ -16,24 +16,24 @@
 *d#:	*
 *M4/4	*
 =1	=1
-2ee#	D#add(2,3,7)
-2cc#	C#/E#
+2ee#	D# other-2,3,7
+2cc#	C# major/E#
 =2	=2
-2a#	F#
-2c#	G#7sus4
+2a#	F# major
+2c#	G# dominant-seventh-suspended-fourth
 =3	=3
-8e#	D#add(2,3,7)
-8f#	.
+8e#L	D# other-2,3,7
+8f#J	.
 4cc#	.
-2g#	C#/E#
+2g#	C# major/E#
 =4	=4
-8e#	F#
+8e#L	F# major
 8f#	.
 8g#	.
-8a#	.
-8b	G#7sus4
+8a#J	.
+8bL	G# dominant-seventh-suspended-fourth
 8cc#	.
 8dd#	.
-8ff#	.
+8ff#J	.
 ==	==
 *-	*-

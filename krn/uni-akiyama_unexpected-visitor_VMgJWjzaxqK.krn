@@ -16,88 +16,88 @@
 *a:	*
 *M3/4	*
 =1	=1
-2a	F
-8g	.
-8a	.
+2a	F major
+8gL	.
+8aJ	.
 =2	=2
-4b	G
+4b	G major
 4cc	.
 4dd	.
 =3	=3
-8dd	Am7
-8cc	.
-8dd	.
-8ee	.
-8cc	.
-8b	.
+8ddL	A minor-seventh
+8ccJ	.
+8ddL	.
+8eeJ	.
+8ccL	.
+8bJ	.
 =4	=4
-8b	Am
-8cc	.
-8a	Am/E
-8g	.
-8e	Em
-8g	.
+8bL	A minor
+8ccJ	.
+8aL	A minor/E
+8gJ	.
+8eL	E minor
+8gJ	.
 =5	=5
-2a	F
-8g	.
-8a	.
+2a	F major
+8gL	.
+8aJ	.
 =6	=6
-4b	G
+4b	G major
 4cc	.
 4g	.
 =7	=7
-8a	Am
-8g	.
-8a	.
-8ee	.
-8a	.
-8g	.
+8aL	A minor
+8gJ	.
+8aL	.
+8eeJ	.
+8aL	.
+8gJ	.
 =8	=8
-8a	.
-8ee	.
-8a	Em
-8ee	.
-8ff	.
-8gg	.
+8aL	.
+8eeJ	.
+8aL	E minor
+8eeJ	.
+8ffL	.
+8ggJ	.
 =9	=9
-2aa	F
-8gg	.
-8aa	.
+2aa	F major
+8ggL	.
+8aaJ	.
 =10	=10
-4bb	G
+4bb	G major
 4ccc	.
 4ddd	.
 =11	=11
-8ddd	Am7
-8ccc	.
-8ddd	.
-8eee	.
-8ccc	.
-8bb	.
+8dddL	A minor-seventh
+8cccJ	.
+8dddL	.
+8eeeJ	.
+8cccL	.
+8bbJ	.
 =12	=12
-8bb	Am
-8ccc	.
-8aa	Am/E
-8gg	.
-8ee	Em
-8gg	.
+8bbL	A minor
+8cccJ	.
+8aaL	A minor/E
+8ggJ	.
+8eeL	E minor
+8ggJ	.
 =13	=13
-2aa	F
-8gg	.
-8aa	.
+2aa	F major
+8ggL	.
+8aaJ	.
 =14	=14
-4bb	G
+4bb	G major
 4ccc	.
 4gg	.
 =15	=15
-8aa	Fmaj7
-8eee	.
-4aa[	.
-8aa]	G
-8gg	.
+8aaL	F major-seventh
+8eeeJ	.
+[4aa	.
+8aaL]	G major
+8ggJ	.
 =16	=16
-4aa[	Dm/A
-4aa]	A
+[4aa	D minor/A
+4aa]	A major
 4r	.
 ==	==
 *-	*-

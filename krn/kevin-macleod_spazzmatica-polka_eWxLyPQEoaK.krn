@@ -15,7 +15,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	C
+8r	C major
 4ee	.
 16dd#	.
 16r	.
@@ -24,12 +24,12 @@
 =2	=2
 16ee	.
 16r	.
-8ee	.
-16dd	.
+8eeL	.
+16ddJk	.
 16r	.
 16cc	.
 16r	.
-4dd	G7
+4dd	G dominant
 4b	.
 =3	=3
 8r	.
@@ -41,12 +41,12 @@
 =4	=4
 16ff	.
 16r	.
-8ff	.
-16ee	.
+8ffL	.
+16eeJk	.
 16r	.
 16dd	.
 16r	.
-4ee	C
+4ee	C major
 4cc	.
 =5	=5
 16g	.
@@ -59,12 +59,12 @@
 =6	=6
 16ee	.
 16r	.
-8ee	.
-16dd	.
+8eeL	.
+16ddJk	.
 16r	.
 16cc	.
 16r	.
-4dd	G7
+4dd	G dominant
 4b	.
 =7	=7
 8r	.
@@ -76,12 +76,12 @@
 =8	=8
 16g	.
 16r	.
-8g	.
-16a	.
+8gL	.
+16aJk	.
 16r	.
 16b	.
 16r	.
-4cc	C
+4cc	C major
 4ee	.
 ==	==
 *-	*-

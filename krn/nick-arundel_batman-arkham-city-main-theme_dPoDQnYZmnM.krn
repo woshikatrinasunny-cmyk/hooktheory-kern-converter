@@ -16,38 +16,38 @@
 *c#:	*
 *M4/4	*
 =1	=1
-1c#	C#m
+1c#	C# minor
 =2	=2
-1e	C#m/E
+1e	C# minor/E
 =3	=3
-1cn	G#/C
+1cn	G# major/C
 =4	=4
-1d#	G#/D#
+1d#	G# major/D#
 =5	=5
-1c#	C#m
+1c#	C# minor
 =6	=6
-1e	C#m/E
+1e	C# minor/E
 =7	=7
-1cn	G#/C
+1cn	G# major/C
 =8	=8
-16ee	G#
+16eeLL	G# major
 16ee	.
 16dd#	.
 16dd#	.
 16ee	.
 16ee	.
 16cc#	.
-16cc#	.
-16dd#	.
+16cc#JJ	.
+16dd#LL	.
 16dd#	.
 16ccn	.
 16ccn	.
 16cc#	.
 16cc#	.
 16dd#	.
-16dd#	.
+16dd#JJ	.
 =9	=9
-2g#	C#m
+2g#	C# minor
 4a	.
 4g#	.
 =10	=10
@@ -56,7 +56,7 @@
 4f#	.
 4e	.
 =11	=11
-2g#	E/B
+2g#	E major/B
 4a	.
 4g#	.
 =12	=12
@@ -65,7 +65,7 @@
 4f#	.
 4e	.
 =13	=13
-2g#	A
+2g#	A major
 4a	.
 4g#	.
 =14	=14
@@ -74,11 +74,11 @@
 4f#	.
 4e	.
 =15	=15
-1d#	G#sus4
+1d#	G# suspended-fourth
 =16	=16
-1r	G#
+1r	G# major
 =17	=17
-4r	D#m7b5/F#
+4r	D# half-diminished/F#
 4g#	.
 4a	.
 4g#	.
@@ -88,7 +88,7 @@
 4e	.
 4d#	.
 =19	=19
-4g#	E
+4g#	E major
 4g#	.
 4a	.
 4g#	.
@@ -98,7 +98,7 @@
 4f#	.
 4e	.
 =21	=21
-4d#	D#dim
+4d#	D# diminished
 4dd#	.
 4ee	.
 4dd#	.
@@ -108,8 +108,8 @@
 4f#	.
 4e	.
 =23	=23
-1d#	D#m7b5/F#
+1d#	D# half-diminished/F#
 =24	=24
-1g#	G#
+1g#	G# major
 ==	==
 *-	*-

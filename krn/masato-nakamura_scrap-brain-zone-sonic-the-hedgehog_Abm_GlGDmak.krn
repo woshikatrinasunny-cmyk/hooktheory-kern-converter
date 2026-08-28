@@ -16,64 +16,64 @@
 *a:	*
 *M4/4	*
 =1	=1
-16a	Am
-16b	.
+16aLL	A minor
+16bJJ	.
 16r	.
 16cc	.
 16r	.
-16dd	.
-16ee	.
-6...gg	G
-16ee	.
+16ddLL	.
+16eeJJ	.
+6...gg	G major
+16eeLL	.
 16dd	.
 16cc	.
-16b	.
+16bJJ	.
 =2	=2
-16ff	G7
+16ffLL	G dominant
 16ee	.
 16dd	.
 16cc	.
 16gg	.
 16ff	.
 16ee	.
-16dd	.
-16aa	.
+16ddJJ	.
+16aaLL	.
 16gg	.
 16ff	.
 16ee	.
 16bb	.
 16aa	.
 16gg	.
-16ff	.
+16ffJJ	.
 =3	=3
-3...aa	Am7
-8gg	.
+3...aa	A minor-seventh
+8ggL	.
 8ff	.
-8gg	.
+8ggJ	.
 =4	=4
-1ee	Am7
+1ee	A minor-seventh
 =5	=5
-3...gg	G7
-8ff	.
+3...gg	G dominant
+8ffL	.
 8ee	.
-8ff	.
+8ffJ	.
 =6	=6
-1dd	G7
+1dd	G dominant
 =7	=7
-3...ff	F7
-8dd#	.
+3...ff	F dominant
+8dd#L	.
 8dd	.
-8dd#	.
+8dd#J	.
 =8	=8
-2cc	F7
+2cc	F dominant
 2dd	.
 =9	=9
-16ee	Am7
-16ff	.
+16eeLL	A minor-seventh
+16ffJJ	.
 4.ee	.
 2ff#	.
 =10	=10
-2gg	Am7
+2gg	A minor-seventh
 2gg#	.
 ==	==
 *-	*-

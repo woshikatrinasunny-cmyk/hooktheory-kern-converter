@@ -16,87 +16,87 @@
 *G:	*
 *M4/4	*
 =1	=1
-2.d	Gsus2
-8e	.
-8d[	.
+2.d	G suspended-second
+8eL	.
+[8dJ	.
 =2	=2
 4d]	.
 2G	.
 4r	.
 =3	=3
-1d#	G#add(2,4,7)
+1d#	G# other-2,4,7
 =4	=4
-1fn	A#sus2
+1fn	A# suspended-second
 =5	=5
-4.r	Gadd(2,4,7)
+4.r	G other-2,4,7
 8a	.
 4g	.
-8ee	.
-8dd[	.
+8eeL	.
+[8ddJ	.
 =6	=6
-4.dd]	G
+4.dd]	G major
 8cc	.
 8b	.
 4.a	.
 =7	=7
-2.g	Csus2
-8d	.
-8g[	.
+2.g	C suspended-second
+8dL	.
+[8gJ	.
 =8	=8
-2g_	Gadd(2,4,7)/D
-2g]	F#dim/C
+2g_	G other-2,4,7/D
+2g]	F# diminished/C
 =9	=9
-4.r	G/B
+4.r	G major/B
 8cc	.
 4b	.
-8ee	.
-8dd[	.
+8eeL	.
+[8ddJ	.
 =10	=10
-4.dd]	Gdim/A#
+4.dd]	G diminished/A#
 8cc	.
 8b	.
 4.a	.
 =11	=11
-2.g	D7sus4
-8a	.
-8g[	.
+2.g	D dominant-seventh-suspended-fourth
+8aL	.
+[8gJ	.
 =12	=12
 1g]	.
 =13	=13
-3...r	B7
-8d	.
+3...r	B dominant
+8dL	.
 8e	.
-8f#	.
+8f#J	.
 =14	=14
-2g	G7
-8.b	G#dim
+2g	G dominant
+8.bL	G# diminished
 8.cc	.
-8dd	.
+8ddJ	.
 =15	=15
-2g	Am9
+2g	A minor-ninth
 8r	.
-8d	.
+8dL	.
 8e	.
-8f#	.
+8f#J	.
 =16	=16
-2g	G7/F
-8.b	Em7
+2g	G dominant/F
+8.bL	E minor-seventh
 8.cc	.
-8dd	.
+8ddJ	.
 =17	=17
-1gg[	G/D
+[1gg	G major/D
 =18	=18
-4.gg]	Em7
+4.gg]	E minor-seventh
 4a	.
-16a#	.
+16a#LK	.
 8.b	.
-8d[	.
+[8dJ	.
 =19	=19
-4.d]	Dsus4
+4.d]	D suspended-fourth
 4r	.
-8d	.
+8dL	.
 8cc	.
-8b[	.
+[8bJ	.
 =20	=20
 4b]	.
 8cc	.

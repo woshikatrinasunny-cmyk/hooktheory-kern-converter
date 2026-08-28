@@ -16,43 +16,43 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.f#[	F#m
-8f#]	C
-4.e	Bm
-8f#[	F#m
+[4.f#	F# minor
+8f#]	C major
+4.e	B minor
+[8f#	F# minor
 =2	=2
 4f#]	.
 8r	.
-8r	C
-4.r	Bm
-8r	F#m
+8r	C major
+4.r	B minor
+8r	F# minor
 =3	=3
 4.f#	.
-8e	C
-4.e	Bm
-8g	Em
+8e	C major
+4.e	B minor
+8g	E minor
 =4	=4
 2e	.
 2r	.
 =5	=5
-4f#	F#m
-8e[	.
-8e_	C
-8e]	Bm
+4f#	F# minor
+[8eL	.
+8eJ_	C major
+8e]	B minor
 4e	.
-8e[	Em
+[8e	E minor
 =6	=6
 2e]	.
 4..r	.
 16B	.
 =7	=7
-8d	Em
+8dL	E minor
 8e	.
 8e	.
-8B	.
-8d	.
+8BJ	.
+8dL	.
 8e	.
-8e[	.
-8e]	Em
+[8e	.
+8eJ]	E minor
 ==	==
 *-	*-

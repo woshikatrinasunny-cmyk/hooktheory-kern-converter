@@ -16,22 +16,22 @@
 *D:	*
 *M3/4	*
 =1	=1
-8d	.
-8e	.
-8f#	.
-8f#	.
+8dL	.
+8eJ	.
+8f#L	.
+8f#J	.
 4e	.
 =2	=2
-8d	.
-8e	.
-8f#	.
-8f#	.
-8e	.
-8g	D
+8dL	.
+8eJ	.
+8f#L	.
+8f#J	.
+8eL	.
+8gJ	D major
 =3	=3
 *M3/4	*
-8a	D
-8g	Bm
+8aL	D major
+8gJ	B minor
 2r	.
 =4	=4
 *M2/4	*
@@ -40,13 +40,13 @@
 *k[f#]	*
 *G:	*
 8r	.
-8aa#	A#m/C#
-8bb	Bm/D
+8aa#	A# minor/C#
+8bb	B minor/D
 8r	.
 =6	=6
 8bb	.
 8r	.
-8ddd	Gmaj7/D
+8ddd	G major-seventh/D
 16r	.
 16r	.
 *k[f#c#]	*

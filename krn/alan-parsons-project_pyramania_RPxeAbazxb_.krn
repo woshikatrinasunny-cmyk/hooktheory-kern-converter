@@ -16,80 +16,80 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4f	D-
+4f	D- major
 4g-	.
-2a-	D-
+2a-	D- major
 =2	=2
-8a-	D-/A-
+8a-L	D- major/A-
 8b-	.
 8a-	.
-8g-	.
-4f	D-
-8f	.
-8g-	.
+8g-J	.
+4f	D- major
+8fL	.
+8g-J	.
 =3	=3
-4a-	D-/A-
-8a-	.
-8g-	.
-4f	D-
-8f	.
-8e-	.
+4a-	D- major/A-
+8a-L	.
+8g-J	.
+4f	D- major
+8fL	.
+8e-J	.
 =4	=4
 *k[b-e-]	*
 *B-:	*
-4d	B-
+4d	B- major
 4e-	.
-4.f	B-
+4.f	B- major
 8d	.
 =5	=5
-8f	B-/F
+8fL	B- major/F
 8g	.
 8f	.
-8e-	.
-4d	B-
-8d	.
-8e-	.
+8e-J	.
+4d	B- major
+8dL	.
+8e-J	.
 =6	=6
-4f	B-/F
-8f	.
-8e-	.
-4d	B-
-8d	.
-8c	.
+4f	B- major/F
+8fL	.
+8e-J	.
+4d	B- major
+8dL	.
+8cJ	.
 =7	=7
 *k[f#]	*
 *G:	*
-4B	G
+4B	G major
 4c	.
-4d	G
+4d	G major
 4r	.
 =8	=8
-8d	G/D
+8dL	G major/D
 8e	.
 8d	.
-8c	.
-4B	G
-8B	.
-8c	.
+8cJ	.
+4B	G major
+8BL	.
+8cJ	.
 =9	=9
-4d	G/D
-8d	.
-8c	.
-4B	G
-8B	.
-8A	.
+4d	G major/D
+8dL	.
+8cJ	.
+4B	G major
+8BL	.
+8AJ	.
 =10	=10
 *k[f#c#g#d#]	*
 *E:	*
-8B	B
+8BL	B major
 8B	.
 8B	.
+8BJ	.
+8BL	.
 8B	.
 8B	.
-8B	.
-8B	.
-8B	.
+8BJ	.
 =11	=11
-1r	B
+1r	B major
 ==	==
 *-	*-

@@ -16,132 +16,132 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8g#[	F#m
-4g#]	F#m
-8f#	F#m
-8g#[	.
-4g#]	F#m
-8f#	F#m/C#
+[8g#	F# minor
+4g#]	F# minor
+8f#	F# minor
+[8g#	.
+4g#]	F# minor
+8f#	F# minor/C#
 =2	=2
-8c#[	C#m
-4c#]	C#m
-8B	C#m
-8c#[	.
-4c#_	C#m
-16c#]	C#m/G#
-16d	.
+[8c#	C# minor
+4c#]	C# minor
+8B	C# minor
+[8c#	.
+4c#_	C# minor
+16c#LL]	C# minor/G#
+16dJJ	.
 =3	=3
-8e[	Bm
-4e]	Bm
-8d	Bm
-8e[	.
-4e]	Bm
-8d	Bm/F#
+[8e	B minor
+4e]	B minor
+8d	B minor
+[8e	.
+4e]	B minor
+8d	B minor/F#
 =4	=4
-8B[	E
-4B]	E
-8A	E
-8B[	.
-4B]	C#/F
-16c#	C#
-16B	.
+[8B	E major
+4B]	E major
+8A	E major
+[8B	.
+4B]	C# major/F
+16c#LL	C# major
+16BJJ	.
 =5	=5
-8A[	F#m
-8A]	F#m
-8c#[	.
-8c#]	F#m
-8g#[	.
-8g#]	F#m
-8a[	.
-8a]	F#m/C#
+[8AL	F# minor
+8A]	F# minor
+[8c#	.
+8c#J]	F# minor
+[8g#L	.
+8g#]	F# minor
+[8a	.
+8aJ]	F# minor/C#
 =6	=6
-8b[	E
-8b]	E
-8f#[	.
-8f#]	E
-8g#[	.
-8g#]	E
-8a[	.
-8a]	E/B
+[8bL	E major
+8b]	E major
+[8f#	.
+8f#J]	E major
+[8g#L	.
+8g#]	E major
+[8a	.
+8aJ]	E major/B
 =7	=7
-8cc#[	D#dim
-4cc#_	D#dim
-4cc#_	D#dim
-4cc#]	D#dim
-16a	B
-16b	.
+[8cc#	D# diminished
+4cc#_	D# diminished
+4cc#_	D# diminished
+4cc#]	D# diminished
+16aLL	B major
+16bJJ	.
 =8	=8
-8cc#[	D
-4cc#]	D
-16b	D/A
-16a	.
-8cc#[	.
-4cc#_	C#/F
-8cc#]	C#
+[8cc#	D major
+4cc#]	D major
+16bLL	D major/A
+16aJJ	.
+[8cc#	.
+4cc#_	C# major/F
+8cc#]	C# major
 =9	=9
-8g#[	F#m
-4g#]	F#m
-8f#	F#m
-8g#[	.
-4g#]	F#m
-8f#	F#m/C#
+[8g#	F# minor
+4g#]	F# minor
+8f#	F# minor
+[8g#	.
+4g#]	F# minor
+8f#	F# minor/C#
 =10	=10
-8c#[	C#m
-4c#]	C#m
-8B	C#m
-8c#[	.
-4c#_	C#m
-16c#]	C#m/G#
-16d	.
+[8c#	C# minor
+4c#]	C# minor
+8B	C# minor
+[8c#	.
+4c#_	C# minor
+16c#LL]	C# minor/G#
+16dJJ	.
 =11	=11
-8e[	Bm
-4e]	Bm
-8f#	Bm
-8e	.
-8d	Bm
+[8e	B minor
+4e]	B minor
+8f#	B minor
+8eL	.
+8d	B minor
 8c#	.
-8d	Bm/F#
+8dJ	B minor/F#
 =12	=12
-8B	E
-8A	E
+8BL	E major
+8A	E major
 8B	.
-8c#	E
-8B[	.
-4B]	C#/F
-16c#	C#
-16B	.
+8c#J	E major
+[8B	.
+4B]	C# major/F
+16c#LL	C# major
+16BJJ	.
 =13	=13
-8A[	F#m
-8A]	F#m
-8c#[	.
-8c#]	F#m
-8g#[	.
-8g#]	F#m
-8a[	.
-8a]	F#m/C#
+[8AL	F# minor
+8A]	F# minor
+[8c#	.
+8c#J]	F# minor
+[8g#L	.
+8g#]	F# minor
+[8a	.
+8aJ]	F# minor/C#
 =14	=14
-8b[	E
-8b]	E
-8cc#[	.
-8cc#]	E
-8ee[	.
-8ee]	E
-8ff#[	.
-8ff#]	E/B
+[8bL	E major
+8b]	E major
+[8cc#	.
+8cc#J]	E major
+[8eeL	.
+8ee]	E major
+[8ff#	.
+8ff#J]	E major/B
 =15	=15
-8cc#[	D#dim
-4cc#_	D#dim
-4cc#_	D#dim
-4cc#]	D#dim
-16a	B
-16b	.
+[8cc#	D# diminished
+4cc#_	D# diminished
+4cc#_	D# diminished
+4cc#]	D# diminished
+16aLL	B major
+16bJJ	.
 =16	=16
-8cc#[	D
-4cc#]	D
-16b	D/A
-16a	.
-8cc#[	.
-4cc#_	C#/F
-8cc#]	C#
+[8cc#	D major
+4cc#]	D major
+16bLL	D major/A
+16aJJ	.
+[8cc#	.
+4cc#_	C# major/F
+8cc#]	C# major
 ==	==
 *-	*-

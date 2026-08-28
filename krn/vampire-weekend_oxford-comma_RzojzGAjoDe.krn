@@ -16,86 +16,86 @@
 *G:	*
 *M4/4	*
 =1	=1
-8r	C5
+8r	C power
+8gL	.
 8g	.
-8g	.
-8g	C5
+8gJ	C power
 4g	.
-8r	C5
+8r	C power
 8d	.
 =2	=2
-8f#	D
+8f#	D major
 4e	.
-4d	D
+4d	D major
 8r	.
-8r	D
-8d[	.
+8r	D major
+[8d	.
 =3	=3
-8d]	G/D
+8dL]	G major/D
 8cc	.
-8b	.
-4g	G/D
+8bJ	.
+4g	G major/D
 8r	.
-8d	G/D
-8d	.
+8dL	G major/D
+8dJ	.
 =4	=4
-8r	Am/E
-8cc	.
+8r	A minor/E
+8ccL	.
 8b	.
-8a	Am/E
-8b	.
-8g[	.
-8g]	Am/E
+8aJ	A minor/E
+8bL	.
+[8g	.
+8gJ]	A minor/E
 8r	.
 =5	=5
-4r	Csus2
-8g	.
-8g	Csus2
+4r	C suspended-second
+8gL	.
+8gJ	C suspended-second
 4g	.
-8r	Csus2
+8r	C suspended-second
 8d	.
 =6	=6
-8f#	Dsus2
+8f#	D suspended-second
 4e	.
-4d	Dsus2
+4d	D suspended-second
 8r	.
-4r	Dsus2
+4r	D suspended-second
 =7	=7
-8r	G5
+8r	G power
 4cc	.
-8b	G5
+8b	G power
 4g	.
-4d	G5
+4d	G power
 =8	=8
-8r	Am
-8cc	.
+8r	A minor
+8ccL	.
 8b	.
-8a	Am
-8b	.
-8g[	.
-8g]	Am
+8aJ	A minor
+8bL	.
+[8g	.
+8gJ]	A minor
 8r	.
 =9	=9
-8r	C5
-8g	.
-8g	.
-4g	C5
+8r	C power
+8gL	.
+8gJ	.
+4g	C power
 8r	.
-8r	C5
+8r	C power
 8g	.
 =10	=10
-8f#	Bm/D
+8f#	B minor/D
 4g	.
-4.a	Bm/D
-8f#	Bm/D
-8g	.
+4.a	B minor/D
+8f#L	B minor/D
+8gJ	.
 =11	=11
-4.r	G5
-4.r	G5
-4r	G5
+4.r	G power
+4.r	G power
+4r	G power
 =12	=12
-4.r	G5
-4.r	G5
-4r	G5
+4.r	G power
+4.r	G power
+4r	G power
 ==	==
 *-	*-

@@ -16,27 +16,27 @@
 *E:	*
 *M6/4	*
 =1	=1
-1e[	C
+[1e	C major
 4e]	.
-8dn	.
-8e	.
+8dnL	.
+8eJ	.
 =2	=2
-1f#[	Cmaj7/B
+[1f#	C major-seventh/B
 4f#]	.
-8e	.
-8f#	.
+8eL	.
+8f#J	.
 =3	=3
-1gn[	Am7
+[1gn	A minor-seventh
 4gn]	.
-8f#	.
-8gn	.
+8f#L	.
+8gnJ	.
 =4	=4
-1a[	F#m7b5/A
+[1a	F# half-diminished/A
 4a]	.
-8g#	.
-8a	.
+8g#L	.
+8aJ	.
 =5	=5
-1.b	E
+1.b	E major
 =6	=6
 1.r	.
 ==	==

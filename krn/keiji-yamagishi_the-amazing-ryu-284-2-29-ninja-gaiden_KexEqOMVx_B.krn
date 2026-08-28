@@ -16,82 +16,82 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8f#	F#m
+8f#L	F# minor
 8a	.
 8f#	.
-8b	.
-16e	.
+8bJ	.
+16eLK	.
 8f#	.
-16e	.
+16ek	.
 8f#	.
-8cc#	.
+8cc#J	.
 =2	=2
-4.f#	D
+4.f#	D major
 8g#	.
-8a	.
-8g#	.
+8aL	.
+8g#J	.
 4f#	.
 =3	=3
-8g#	Eadd(2,4,7)
+8g#L	E other-2,4,7
 8f#	.
 8b	.
+8g#J	.
+16f#LK	.
 8g#	.
-16f#	.
+16f#k	.
 8g#	.
-16f#	.
-8g#	.
-8cc#	.
+8cc#J	.
 =4	=4
-4.g#	C#sus4
+4.g#	C# suspended-fourth
 8a	.
-8b	.
-8a	.
-4g#	C#
+8bL	.
+8aJ	.
+4g#	C# major
 =5	=5
-8f#	F#m
+8f#L	F# minor
 8a	.
 8f#	.
-8b	.
-16e	.
+8bJ	.
+16eLK	.
 8f#	.
-16e	.
+16ek	.
 8f#	.
-8cc#	.
+8cc#J	.
 =6	=6
-4.f#	D
+4.f#	D major
 8g#	.
-8a	.
-8g#	.
+8aL	.
+8g#J	.
 4f#	.
 =7	=7
-8g#	Eadd(2,4,7)
+8g#L	E other-2,4,7
 8f#	.
 8b	.
+8g#J	.
+16f#LK	.
 8g#	.
-16f#	.
+16f#k	.
 8g#	.
-16f#	.
-8g#	.
-8cc#	.
+8cc#J	.
 =8	=8
-4.g#	C#sus4
+4.g#	C# suspended-fourth
 8a	.
-8b	.
-8a	.
-4g#	C#
+8bL	.
+8aJ	.
+4g#	C# major
 =9	=9
-4f#	F#5
-4e	E5
-4d	D
-4c#	C#5
+4f#	F# power
+4e	E power
+4d	D major
+4c#	C# power
 =10	=10
-8r	C#5
-8c#	C#5
-8c#	C#5
-8c#[	C#5
-8c#]	C#5
+8r	C# power
+8c#L	C# power
+8c#	C# power
+[8c#J	C# power
+8c#L]	C# power
 8c#	.
 8f#	.
-8g#	.
+8g#J	.
 ==	==
 *-	*-

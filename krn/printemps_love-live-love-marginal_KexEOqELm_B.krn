@@ -16,135 +16,135 @@
 *d#:	*
 *M4/4	*
 =1	=1
-8r	D#m
+8r	D# minor
+8f#L	.
 8f#	.
-8f#	.
-16f#	.
+16f#Jk	.
 8.f#	.
-8f#	.
+8f#L	.
 8e#	.
-8d#	.
+8d#J	.
 =2	=2
-8e#	C#
+8e#L	C# major
 8e#	.
 8e#	.
-16f#	.
-2e#[	.
+16f#Jk	.
+[2e#	.
 16e#]	.
 =3	=3
-8r	B
+8r	B major
+8d#L	.
 8d#	.
-8d#	.
-16d#	.
-16d#[	.
-8d#]	C#7
+16d#L	.
+[16d#JJ	.
+8d#L]	C# dominant
 8d#	.
 8c#	.
-8B	.
+8BJ	.
 =4	=4
-3...c#	F#
+3...c#	F# major
 4r	.
-16A#	.
-16A#	.
+16A#LL	.
+16A#JJ	.
 =5	=5
-8B	G#m
+8BL	G# minor
 8B	.
 8B	.
-16f#	.
-16e#[	.
-4.e#]	C#
-16c#	.
-16d#	.
+16f#L	.
+[16e#JJ	.
+4.e#]	C# major
+16c#LL	.
+16d#JJ	.
 =6	=6
-8e#	A#m
+8e#L	A# minor
 8e#	.
 8e#	.
-16g#	.
-16f#[	.
-4.f#]	D#m
-16e#	.
-16f#	.
+16g#L	.
+[16f#JJ	.
+4.f#]	D# minor
+16e#LL	.
+16f#JJ	.
 =7	=7
-4g#	Badd(2,4,7,9)
-8d#	.
-8d#	.
+4g#	B other-2,4,7,9
+8d#L	.
+8d#J	.
 8r	.
-8d#	.
+8d#L	.
 8g#	.
-8f#	.
+8f#J	.
 =8	=8
-8e#	C#7
-16f#	.
-2e#[	.
+8e#L	C# dominant
+16f#Jk	.
+[2e#	.
 16e#]	.
 4r	.
 =9	=9
-8r	D#m
+8r	D# minor
+8f#L	.
 8f#	.
-8f#	.
-16f#	.
+16f#Jk	.
 8.f#	.
-8f#	.
+8f#L	.
 8e#	.
-8d#	.
+8d#J	.
 =10	=10
-8e#	C#
+8e#L	C# major
 8e#	.
 8e#	.
-16f#	.
-2e#[	.
+16f#Jk	.
+[2e#	.
 16e#]	.
 =11	=11
-8r	B
+8r	B major
+8d#L	.
 8d#	.
-8d#	.
-16d#	.
-16d#[	.
-8d#]	C#7
+16d#L	.
+[16d#JJ	.
+8d#L]	C# dominant
 8d#	.
 8c#	.
-8B	.
+8BJ	.
 =12	=12
-3...c#	F#
+3...c#	F# major
 4r	.
-16A#	.
-16A#	.
+16A#LL	.
+16A#JJ	.
 =13	=13
-8B	G#m
+8BL	G# minor
 8B	.
 8B	.
-16f#	.
-16e#[	.
-4.e#]	C#
-16c#	.
-16d#	.
+16f#L	.
+[16e#JJ	.
+4.e#]	C# major
+16c#LL	.
+16d#JJ	.
 =14	=14
-8e#	A#m
+8e#L	A# minor
 8e#	.
 8e#	.
-16g#	.
-16f#[	.
-4.f#]	D#m
-16e#	.
-16f#	.
+16g#L	.
+[16f#JJ	.
+4.f#]	D# minor
+16e#LL	.
+16f#JJ	.
 =15	=15
-4.g#	E
+4.g#	E major
 8g#	.
-8.g#	.
+8.g#L	.
 8.f#	.
-8g#	.
+8g#J	.
 =16	=16
-8a#	A#/E#
-16b	.
-2a#[	.
+8a#L	A# major/E#
+16bJk	.
+[2a#	.
 16a#]	.
 4r	.
 =17	=17
-8r	D#m
+8r	D# minor
 16r	.
-8r	D#m/F#
+8r	D# minor/F#
 16r	.
-4r	D#m/A#
+4r	D# minor/A#
 4.r	.
 ==	==
 *-	*-

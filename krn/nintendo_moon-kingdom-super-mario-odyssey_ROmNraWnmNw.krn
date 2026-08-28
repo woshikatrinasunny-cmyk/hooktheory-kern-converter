@@ -16,40 +16,40 @@
 *C:	*
 *M4/4	*
 =1	=1
-2gg	Cadd(4,5,7)
+2gg	C other-4,5,7
 2ccc	.
 =2	=2
-2ggg	F#/C#
+2ggg	F# major/C#
 2fff	.
 =3	=3
-1r	Csus4
+1r	C suspended-fourth
 =4	=4
-2gg	Cadd(4,5,7)
+2gg	C other-4,5,7
 2ccc	.
 =5	=5
-2aaa#	F#/C#
+2aaa#	F# major/C#
 2ggg#	.
 =6	=6
-1r	Csus4
+1r	C suspended-fourth
 =7	=7
-2ggg	Cadd(4,5,7)
+2ggg	C other-4,5,7
 2ccc	.
 =8	=8
-2.fff	D#add(2,4,7)
+2.fff	D# other-2,4,7
 4aaa#	.
 =9	=9
-2.cccc	C#maj7/C
+2.cccc	C# major-seventh/C
 4fff	.
 =10	=10
-2aaa#	Eadd(4,6,7)
-2r	Csus4
+2aaa#	E other-4,6,7
+2r	C suspended-fourth
 =11	=11
-2ggg	G#maj7sus2
+2ggg	G# major-seventh-suspended-second
 2ccc	.
 =12	=12
-2ggg	C#add(2,6,7)
-2fff	C#add(2,4,7)
+2ggg	C# other-2,6,7
+2fff	C# other-2,4,7
 =13	=13
-1r	Csus4
+1r	C suspended-fourth
 ==	==
 *-	*-

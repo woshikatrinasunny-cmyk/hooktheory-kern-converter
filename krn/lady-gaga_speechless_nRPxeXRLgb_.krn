@@ -16,80 +16,80 @@
 *C:	*
 *M4/4	*
 =1	=1
-8e	Am
-16A	.
+8eL	A minor
+16Ak	.
 8.A	.
-16e	.
-16e	.
-8e	.
-16A	.
+16eL	.
+16eJJ	.
+8eL	.
+16Ak	.
 8.A	.
-8A	.
+8AJ	.
 =2	=2
-8B	G
+8BL	G major
 8B	.
 8B	.
-16c	.
+16cJk	.
 8d	.
 8e	.
 8r	.
-16c	.
-16c	D7/F#
-16c	.
+16cLL	.
+16c	D dominant/F#
+16cJJ	.
 =3	=3
-8c	F
+8c	F major
 4.A	.
 8r	.
-8A	.
+8AL	.
 8B	.
-8c	F#dim
+8cJ	F# diminished
 =4	=4
-8e	Gsus4
+8e	G suspended-fourth
 4d	.
-16d	.
-16e[	.
-16e]	G
-16f[	.
-8f]	.
-16r	G
-16r	Dsus4/A
-8e	G/B
+16dLL	.
+[16eJJ	.
+16eLL]	G major
+[16fJ	.
+8fJ]	.
+16r	G major
+16r	D suspended-fourth/A
+8e	G major/B
 =5	=5
-8e	Am
-16A	.
+8eL	A minor
+16Ak	.
 8.A	.
-16e	.
-16e	.
-8e	.
-16A	.
+16eL	.
+16eJJ	.
+8eL	.
+16Ak	.
 8.A	.
-16A	.
-16A	.
+16AL	.
+16AJJ	.
 =6	=6
-8B	G
+8BL	G major
 8B	.
 8B	.
-16c	.
+16cJk	.
 4d	.
 8.r	.
-16c	D7/F#
-16c	.
+16cLL	D dominant/F#
+16cJJ	.
 =7	=7
-8c	F
+8c	F major
 4A	.
-16c	.
-16c	.
-8c	.
-8A	.
+16cLL	.
+16cJJ	.
+8cL	.
+8AJ	.
 8r	.
-16A	F#dim
-16c	.
+16ALL	F# diminished
+16cJJ	.
 =8	=8
-4e	Gsus4
+4e	G suspended-fourth
 4d	.
-8g[	G
-16g]	.
+[8gL	G major
+16gk]	.
 8.a	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

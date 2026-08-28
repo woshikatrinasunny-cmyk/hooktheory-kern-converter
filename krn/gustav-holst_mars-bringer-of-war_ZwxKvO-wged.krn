@@ -16,7 +16,7 @@
 *C:	*
 *M5/4	*
 =1	=1
-1aa-[	D-maj7/C
+[1aa-	D- major-seventh/C
 4aa-_	.
 =2	=2
 1aa-_	.
@@ -26,155 +26,155 @@
 4aa-]	.
 =4	=4
 4.A-	.
-8G	C
-4.G-	Cadd(3,4,6,7,11)
-8G	C
-4A-[	D-maj7/C
+8G	C major
+4.G-	C other-3,4,6,7,11
+8G	C major
+[4A-	D- major-seventh/C
 =5	=5
-8A-]	.
-8B-	Cm7
-4.c	F/C
-8dn	Cmaj7sus2
-4.e-	A-/C
-8dn	Cmaj7sus2
+8A-L]	.
+8B-J	C minor-seventh
+4.c	F major/C
+8dn	C major-seventh-suspended-second
+4.e-	A- major/C
+8dn	C major-seventh-suspended-second
 =6	=6
-4.a-	D-maj7/C
-8g	C
-4.g-	Cadd(3,4,6,7,11)
-8g	C
-4a-[	D-maj7/C
+4.a-	D- major-seventh/C
+8g	C major
+4.g-	C other-3,4,6,7,11
+8g	C major
+[4a-	D- major-seventh/C
 =7	=7
-8a-]	.
-8b-	Cm7
-4.cc	F/C
-8ddn	Cmaj7sus2
-4.ee-	A-/C
-8ddn	Cmaj7sus2
+8a-L]	.
+8b-J	C minor-seventh
+4.cc	F major/C
+8ddn	C major-seventh-suspended-second
+4.ee-	A- major/C
+8ddn	C major-seventh-suspended-second
 =8	=8
-4.gg	C
-8gg-	Cadd(3,6,7,11)
-4.gg	C
-8ee	Cadd(1,3,4,6,9)
-8gg-	Cadd(3,4,6,7,11)
+4.gg	C major
+8gg-	C other-3,6,7,11
+4.gg	C major
+8ee	C other-1,3,4,6,9
+8gg-	C other-3,4,6,7,11
 8r	.
 =9	=9
-4.gg	C
-8gg-	Cadd(3,6,7,11)
-4.gg	C
-8ee	Am/C
-4ee-[	A-add(3,4,7)/C
+4.gg	C major
+8gg-	C other-3,6,7,11
+4.gg	C major
+8ee	A minor/C
+[4ee-	A- other-3,4,7/C
 =10	=10
-8ee-]	.
-8ee	C
-4.bn	CaugMaj7
-8cc	Cm
-4.g-	Cadd(3,4,6,7,11)
-8g	C
+8ee-L]	.
+8eeJ	C major
+4.bn	C augmented-major-seventh
+8cc	C minor
+4.g-	C other-3,4,6,7,11
+8g	C major
 =11	=11
-4.ddd-[	D-maj7/C
-8ddd-]	C
-4.eee-[	Cadd(3,4,6,7,11)
-8eee-]	C
-4ddd-[	D-maj7/C
+[4.ddd-	D- major-seventh/C
+8ddd-]	C major
+[4.eee-	C other-3,4,6,7,11
+8eee-]	C major
+[4ddd-	D- major-seventh/C
 =12	=12
-8ddd-_	.
-8ddd-]	Cm7
-4.ccc	F/C
-8dn	Cmaj7sus2
-4.e-	A-/C
-8dn	Cmaj7sus2
+8ddd-L_	.
+8ddd-J]	C minor-seventh
+4.ccc	F major/C
+8dn	C major-seventh-suspended-second
+4.e-	A- major/C
+8dn	C major-seventh-suspended-second
 =13	=13
-4.ddd-[	D-maj7/C
-8ddd-]	C
-4.eee-[	Cadd(3,4,6,7,11)
-8eee-]	C
-4ddd-[	D-maj7/C
+[4.ddd-	D- major-seventh/C
+8ddd-]	C major
+[4.eee-	C other-3,4,6,7,11
+8eee-]	C major
+[4ddd-	D- major-seventh/C
 =14	=14
-8ddd-_	.
-8ddd-]	Cm7
-4.ccc	F/C
-8ddn	Cmaj7sus2
-4.ee-	A-/C
-8ddn	Cmaj7sus2
+8ddd-L_	.
+8ddd-J]	C minor-seventh
+4.ccc	F major/C
+8ddn	C major-seventh-suspended-second
+4.ee-	A- major/C
+8ddn	C major-seventh-suspended-second
 =15	=15
-4.gg	C
-8gg-	Cadd(3,6,7,11)
-4.gg	C
-8ee	Cadd(1,3,4,6,9)
-8gg-	Cadd(3,4,6,7,11)
+4.gg	C major
+8gg-	C other-3,6,7,11
+4.gg	C major
+8ee	C other-1,3,4,6,9
+8gg-	C other-3,4,6,7,11
 8r	.
 =16	=16
-4.aan	D7/C
-8aa-	D-maj7/C
-4.aan	D7/C
-8gg-	Cadd(3,6,7,11)
-8gg	C
+4.aan	D dominant/C
+8aa-	D- major-seventh/C
+4.aan	D dominant/C
+8gg-	C other-3,6,7,11
+8gg	C major
 8r	.
 =17	=17
-4.ddd-	Cadd(1,6,10)
-8ccc	F/C
-4.ddd-	Cadd(1,6,10)
-8bbn	CaugMaj7
-4ccc[	F/C
+4.ddd-	C other-1,6,10
+8ccc	F major/C
+4.ddd-	C other-1,6,10
+8bbn	C augmented-major-seventh
+[4ccc	F major/C
 =18	=18
-8ccc]	.
-8aan	D7/C
-4.bb-	Cm7
-8gg	C
-4.ddd-	D-/F
-8ccc	Fmaj7sus2
+8cccL]	.
+8aanJ	D dominant/C
+4.bb-	C minor-seventh
+8gg	C major
+4.ddd-	D- major/F
+8ccc	F major-seventh-suspended-second
 =19	=19
-4.bbn	GaugMaj7
-8gg	C/G
-4.aa-	Gadd(1,6,10)
-8bb-	E-/G
-4ccc[	G11
+4.bbn	G augmented-major-seventh
+8gg	C major/G
+4.aa-	G other-1,6,10
+8bb-	E- major/G
+[4ccc	G dominant-11th
 =20	=20
-8ccc]	.
-8dddn	G
-4.eee-	A-maj7/G
-8dddn	G
-4.eee-	E-/G
-8dddn	Gmaj7sus2
+8cccL]	.
+8dddnJ	G major
+4.eee-	A- major-seventh/G
+8dddn	G major
+4.eee-	E- major/G
+8dddn	G major-seventh-suspended-second
 =21	=21
-4.ddd-	AaugMaj7
-8aan	D/A
-4.bb-	Aadd(1,6,10)
-8ccc	F/A
-4dddn[	Am11
+4.ddd-	A augmented-major-seventh
+8aan	D major/A
+4.bb-	A other-1,6,10
+8ccc	F major/A
+[4dddn	A minor-11th
 =22	=22
-8dddn]	.
-8eee	A
-4.fff	B-maj7/A
-8eee	A
-4.gg-	G-/B-
-8ff	B-maj7sus2
+8dddnL]	.
+8eeeJ	A major
+4.fff	B- major-seventh/A
+8eee	A major
+4.gg-	G- major/B-
+8ff	B- major-seventh-suspended-second
 =23	=23
-4.ee	CaugMaj7
-8ee-	Cm7
-8ee	CaugMaj7
-8ff	F/C
-4.gg-	G-/B-
-8ff	B-maj7sus2
+4.ee	C augmented-major-seventh
+8ee-	C minor-seventh
+8eeL	C augmented-major-seventh
+8ffJ	F major/C
+4.gg-	G- major/B-
+8ff	B- major-seventh-suspended-second
 =24	=24
-4.ee	CaugMaj7
-8ee-	Cm7
-8ee	CaugMaj7
-8ff	F/C
-4.gg-	G-/B-
-8ff	B-maj7sus2
+4.ee	C augmented-major-seventh
+8ee-	C minor-seventh
+8eeL	C augmented-major-seventh
+8ffJ	F major/C
+4.gg-	G- major/B-
+8ff	B- major-seventh-suspended-second
 =25	=25
-4.ee	CaugMaj7
-8b-	Cadd(3,4,7,10)
-4.bn	CaugMaj7
-8cc	Fmaj7/C
-4dd-[	Cadd(1,4,6,10)
+4.ee	C augmented-major-seventh
+8b-	C other-3,4,7,10
+4.bn	C augmented-major-seventh
+8cc	F major-seventh/C
+[4dd-	C other-1,4,6,10
 =26	=26
-8dd-]	.
-8ee-	A-/C
-4.ff	Cadd(1,4,5,7,10)
-8gg	Cm
-4.aa-	D-mMaj7/C
-8gg	C
+8dd-L]	.
+8ee-J	A- major/C
+4.ff	C other-1,4,5,7,10
+8gg	C minor
+4.aa-	D- major-minor/C
+8gg	C major
 ==	==
 *-	*-

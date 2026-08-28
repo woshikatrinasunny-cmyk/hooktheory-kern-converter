@@ -16,9 +16,9 @@
 *f:	*
 *M3/4	*
 =1	=1
-2.c	Fadd(2,3,7,9)
+2.c	F other-2,3,7,9
 =2	=2
-2.a-[	.
+[2.a-	.
 =3	=3
 2.a-]	.
 =4	=4
@@ -26,18 +26,18 @@
 4g	.
 4f	.
 =5	=5
-2.cc	B-m7
+2.cc	B- minor-seventh
 =6	=6
-2.d-[	.
+[2.d-	.
 =7	=7
 2.d-]	.
 =8	=8
 4cc	.
 4dd-	.
-8cc	.
-8b-	.
+8ccL	.
+8b-J	.
 =9	=9
-2.cc[	E-13
+[2.cc	E- dominant-13th
 =10	=10
 2.cc_	.
 =11	=11
@@ -46,16 +46,16 @@
 =12	=12
 4cc	.
 4dd-	.
-8cc	.
-8b-	.
+8ccL	.
+8b-J	.
 =13	=13
-2.cc[	A-maj7
+[2.cc	A- major-seventh
 =14	=14
 2.cc_	.
 =15	=15
-2.cc]	C7sus4
+2.cc]	C dominant-seventh-suspended-fourth
 =16	=16
-4r	C7
+4r	C dominant
 4cc	.
 4c	.
 ==	==

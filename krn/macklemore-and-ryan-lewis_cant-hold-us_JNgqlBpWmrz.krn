@@ -16,178 +16,178 @@
 *e:	*
 *M4/4	*
 =1	=1
-4r	Em
-8d	.
-8e	.
+4r	E minor
+8dL	.
+8eJ	.
 8g	.
 8r	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 =2	=2
-8g	D
+8g	D major
 8r	.
 4.e	.
 8r	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 =3	=3
-8g	Bm
+8g	B minor
 8r	.
 4.e	.
-8d	.
+8dL	.
 8e	.
-8e	.
+8eJ	.
 =4	=4
-4r	Em
+4r	E minor
 4B	.
 4A	.
 4G	.
 =5	=5
-4E	Em
-8d	.
-8e	.
+4E	E minor
+8dL	.
+8eJ	.
 8g	.
 8r	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 =6	=6
-8g	D
+8g	D major
 8r	.
 4.e	.
 8r	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 =7	=7
-8g	Bm
+8g	B minor
 8r	.
 4.e	.
-8d	.
+8dL	.
 8e	.
-8e	.
+8eJ	.
 =8	=8
-4r	Em
+4r	E minor
 4B	.
 4A	.
 4G	.
 =9	=9
-4E	Em
+4E	E minor
 8r	.
 8G	.
-8B	.
+8BL	.
 8A	.
 8G	.
-8A	.
+8AJ	.
 =10	=10
-4E	D
+4E	D major
 8r	.
 8G	.
-8B	.
+8BL	.
 8A	.
 8G	.
-8A	.
+8AJ	.
 =11	=11
-4E	Bm
+4E	B minor
 8r	.
 8G	.
-8B	.
+8BL	.
 8A	.
 8G	.
-8E	.
+8EJ	.
 =12	=12
-8G	Em
+8GL	E minor
 8E	.
 8G	.
-8E	.
-8G	.
-8A	.
+8EJ	.
+8GL	.
+8AJ	.
 4E	.
 =13	=13
-4.r	Em
+4.r	E minor
 8G	.
-8B	.
+8BL	.
 8A	.
 8G	.
-8A	.
+8AJ	.
 =14	=14
-4B	D
+4B	D major
 8r	.
 8G	.
-8B	.
+8BL	.
 8A	.
 8G	.
-8A	.
+8AJ	.
 =15	=15
-4.d	Bm
+4.d	B minor
 8d	.
 4.d	.
 8e	.
 =16	=16
-8e	Em
+8eL	E minor
 8e	.
 8e	.
-8d	.
-8d	.
-8e	.
+8dJ	.
+8dL	.
+8eJ	.
 4e	.
 =17	=17
-8ee[	.
-8ee_	Em
-4ee_	Em
+[8eeL	.
+8eeJ_	E minor
+4ee_	E minor
 8ee_	.
-4ee_	Em
-8ee]	Em
+4ee_	E minor
+8ee]	E minor
 =18	=18
-8dd[	.
-8dd_	D
-4dd_	Dsus4
+[8ddL	.
+8ddJ_	D major
+4dd_	D suspended-fourth
 8dd_	.
-4dd_	Dsus4
-8dd]	Dsus4
+4dd_	D suspended-fourth
+8dd]	D suspended-fourth
 =19	=19
-8dd[	.
-8dd_	Bm
-4dd_	Bm
+[8ddL	.
+8ddJ_	B minor
+4dd_	B minor
 8dd_	.
-4dd_	Bm
-8dd]	Bm
+4dd_	B minor
+8dd]	B minor
 =20	=20
-8ee[	.
-8ee_	C
-4ee_	C
+[8eeL	.
+8eeJ_	C major
+4ee_	C major
 8ee_	.
-4ee_	C
-8ee]	C
+4ee_	C major
+8ee]	C major
 =21	=21
-8ee[	.
-8ee]	Em
-4ee	Em
-8ee[	.
-8ee]	Em
-8ee[	.
-8ee]	Em
+[8eeL	.
+8eeJ]	E minor
+4ee	E minor
+[8eeL	.
+8ee]	E minor
+[8ee	.
+8eeJ]	E minor
 =22	=22
-8dd[	.
-8dd]	D
-4dd	Dsus4
-8dd[	.
-8dd]	Dsus4
-8dd[	.
-8dd]	Dsus4
+[8ddL	.
+8ddJ]	D major
+4dd	D suspended-fourth
+[8ddL	.
+8dd]	D suspended-fourth
+[8dd	.
+8ddJ]	D suspended-fourth
 =23	=23
-8dd[	.
-8dd]	Bm
-4dd	Bm
-8dd[	.
-8dd]	Bm
-8dd[	.
-8dd]	Bm
+[8ddL	.
+8ddJ]	B minor
+4dd	B minor
+[8ddL	.
+8dd]	B minor
+[8dd	.
+8ddJ]	B minor
 =24	=24
-8ee[	.
-8ee]	C
-4ee	C
-8ee[	.
-8ee]	C
-8ee[	.
-8ee]	C
+[8eeL	.
+8eeJ]	C major
+4ee	C major
+[8eeL	.
+8ee]	C major
+[8ee	.
+8eeJ]	C major
 ==	==
 *-	*-

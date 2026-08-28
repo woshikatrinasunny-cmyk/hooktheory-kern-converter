@@ -16,140 +16,140 @@
 *f#:	*
 *M4/4	*
 =1	=1
-16d	D
+16dLL	D major
 16f#	.
 16a	.
 16dd	.
-16d	D
-16f#	D
-16a	D
-16dd	.
-16a	.
+16d	D major
+16f#	D major
+16a	D major
+16ddJJ	.
+16aLL	.
 16f#	.
 16a	.
 16dd	.
-16d	D
+16d	D major
 16f#	.
-16a	D
-16dd	D
+16a	D major
+16ddJJ	D major
 =2	=2
-16d	D
+16dLL	D major
 16f#	.
 16a	.
 16dd	.
-16d	D
-16f#	D
-16a	D
-16dd	.
-16a	.
+16d	D major
+16f#	D major
+16a	D major
+16ddJJ	.
+16aLL	.
 16f#	.
 16a	.
 16dd	.
-16d	D
-16f#	D
-16a	D
-16dd	.
+16d	D major
+16f#	D major
+16a	D major
+16ddJJ	.
 =3	=3
-16f#	F#m
+16f#LL	F# minor
 16a	.
-16cc#	F#m
+16cc#	F# minor
 16ff#	.
-16f#	F#m
-16a	F#m
-16cc#	F#m
-16ff#	.
-16cc#	.
+16f#	F# minor
+16a	F# minor
+16cc#	F# minor
+16ff#JJ	.
+16cc#LL	.
 16a	.
-16cc#	F#m
+16cc#	F# minor
 16ff#	.
-16f#	F#m
+16f#	F# minor
 16a	.
-16cc#	F#m
-16ff#	F#m
+16cc#	F# minor
+16ff#JJ	F# minor
 =4	=4
-16f#	F#m
+16f#LL	F# minor
 16a	.
 16cc#	.
 16ff#	.
-16f#	F#m
-16a	F#m
+16f#	F# minor
+16a	F# minor
 16cc#	.
-16ff#	F#m
-16cc#	F#m
+16ff#JJ	F# minor
+16cc#LL	F# minor
 16a	.
-16cc#	F#m
+16cc#	F# minor
 16ff#	.
-16f#	F#m
+16f#	F# minor
 16a	.
-16cc#	F#m
-16ff#	F#m
+16cc#	F# minor
+16ff#JJ	F# minor
 =5	=5
-16a	A
+16aLL	A major
 16cc#	.
 16ee	.
 16aa	.
-16a	A
-16cc#	A
-16ee	A
-16aa	.
-16ee	.
+16a	A major
+16cc#	A major
+16ee	A major
+16aaJJ	.
+16eeLL	.
 16cc#	.
 16ee	.
-16aa	A
-16a	A
+16aa	A major
+16a	A major
 16cc#	.
-16ee	A
-16aa	A
+16ee	A major
+16aaJJ	A major
 =6	=6
-16a	A
+16aLL	A major
 16cc#	.
 16ee	.
 16aa	.
-16a	A
-16cc#	A
-16ee	A
-16aa	.
-16ee	.
+16a	A major
+16cc#	A major
+16ee	A major
+16aaJJ	.
+16eeLL	.
 16cc#	.
 16ee	.
-16aa	A
-16a	A
+16aa	A major
+16a	A major
 16cc#	.
-16ee	A
-16aa	A
+16ee	A major
+16aaJJ	A major
 =7	=7
-16e	E
+16eLL	E major
 16g#	.
-16b	E
+16b	E major
 16ee	.
-16e	E
-16g#	E
-16b	E
-16ee	.
+16e	E major
+16g#	E major
+16b	E major
+16eeJJ	.
+16bLL	.
+16g#	.
 16b	.
-16g#	.
-16b	.
 16ee	.
-16e	E
+16e	E major
 16g#	.
-16b	E
-16ee	E
+16b	E major
+16eeJJ	E major
 =8	=8
-16e	E
+16eLL	E major
 16g#	.
 16b	.
 16ee	.
 16e	.
 16g#	.
-16b	E
-16ee	E
-16b	E
+16b	E major
+16eeJJ	E major
+16bLL	E major
 16g#	.
-16b	E
+16b	E major
 16ee	.
-16e	E
+16e	E major
 16g#	.
-16b	E
-16ee	E
+16b	E major
+16eeJJ	E major
 ==	==
 *-	*-

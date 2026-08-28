@@ -16,8 +16,8 @@
 *f:	*
 *M4/4	*
 =1	=1
-8GG-	G-
-8FF	Fm
+8GG-L	G- major
+8FFJ	F minor
 8r	.
 8bn	.
 8cc	.
@@ -25,15 +25,15 @@
 8G-	.
 =2	=2
 4r	.
-8F	.
-8E-	.
+8FL	.
+8E-J	.
 8r	.
-8F	.
+8FL	.
 8G-	.
-8F	.
+8FJ	.
 =3	=3
-8EE-	E-m
-8FF	Fm
+8EE-L	E- minor
+8FFJ	F minor
 8r	.
 8bn	.
 8cc	.
@@ -41,42 +41,42 @@
 8G-	.
 =4	=4
 4r	.
-8F	.
-8A-	.
+8FL	.
+8A-J	.
 4r	.
-8G-	.
-8F	.
+8G-L	.
+8FJ	.
 =5	=5
-8GG-	G-
-8FF	Fm
+8GG-L	G- major
+8FFJ	F minor
 8r	.
 8een	.
-8ff	.
+8ffL	.
 8ccc	.
 8bb-	.
-8G-	.
+8G-J	.
 =6	=6
 4r	.
-8F	.
-8E-	.
+8FL	.
+8E-J	.
 8r	.
-8F	.
+8FL	.
 8G-	.
-8F	.
+8FJ	.
 =7	=7
-8EE-	E-m
-8FF	Fm
+8EE-L	E- minor
+8FFJ	F minor
 8r	.
 8ggn	.
 8aa-	.
 4ddd-	.
-8F	Fm
+8F	F minor
 =8	=8
-8G-	G-
+8G-L	G- major
 8F	.
-8A-	A-
-8F	.
-8B-	B-m
-8B-	.
+8A-	A- major
+8FJ	.
+8B-L	B- minor
+8B-J	.
 ==	==
 *-	*-

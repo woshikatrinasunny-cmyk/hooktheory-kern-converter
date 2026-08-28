@@ -15,11 +15,11 @@
 *a:	*
 *M6/4	*
 =1	=1
-1.r	C
+1.r	C major
 =2	=2
-1.r	C
+1.r	C major
 =3	=3
-4.r	C
+4.r	C major
 8.eee	.
 8.r	.
 8.fff	.
@@ -27,14 +27,14 @@
 8.ggg	.
 8.r	.
 =4	=4
-8.cccc	C
+8.cccc	C major
 4..r	.
 8.ggg	.
 6...r	.
 8.fff	.
 8.r	.
 =5	=5
-8.eee	F
+8.eee	F major
 2r	.
 16r	.
 8.ccc	.
@@ -42,9 +42,9 @@
 8.ccc	.
 8.r	.
 =6	=6
-1.r	F
+1.r	F major
 =7	=7
-4.r	F
+4.r	F major
 8.eee	.
 8.r	.
 8.fff	.
@@ -52,14 +52,14 @@
 8.ggg	.
 8.r	.
 =8	=8
-8.cccc	F
+8.cccc	F major
 4..r	.
 8.ggg	.
 6...r	.
 8.fff	.
 8.r	.
 =9	=9
-8.eee	Dm
+8.eee	D minor
 2r	.
 16r	.
 8.fff	.
@@ -67,11 +67,11 @@
 8.eee	.
 8.r	.
 =10	=10
-4.r	Dm
+4.r	D minor
 8.ccc	.
 2...r	.
 =11	=11
-4.r	Dm
+4.r	D minor
 8.eee	.
 8.r	.
 8.fff	.
@@ -79,75 +79,75 @@
 8.ggg	.
 8.r	.
 =12	=12
-8.cccc	Dm
+8.cccc	D minor
 4..r	.
 8.cccc	.
 6...r	.
 8.dddd	.
 8.r	.
 =13	=13
-4.dddd	G
+4.dddd	G major
 1r	.
 8r	.
 =14	=14
-1.r	G
+1.r	G major
 =15	=15
-1.r	G
+1.r	G major
 =16	=16
-1.r	G
+1.r	G major
 =17	=17
-1.r	Am
+1.r	A minor
 =18	=18
-1.r	Am
+1.r	A minor
 =19	=19
-4.r	Am
+4.r	A minor
 4.ee	.
 4.ff	.
 4.gg	.
 =20	=20
-3...gg	Am
+3...gg	A minor
 2ff	.
 4.ee	.
 =21	=21
-1.ee	F
+1.ee	F major
 =22	=22
-1.r	F
+1.r	F major
 =23	=23
-4.r	F
+4.r	F major
 4.ee	.
 4.ff	.
 4.gg	.
 =24	=24
-3...gg	F
+3...gg	F major
 2ff	.
 4.ee	.
 =25	=25
-2.ee	Dm
+2.ee	D minor
 4.cc	.
-4.cc[	.
+[4.cc	.
 =26	=26
-2.cc]	Dm
+2.cc]	D minor
 2.r	.
 =27	=27
-4.r	Dm
+4.r	D minor
 4.ee	.
 4.ff	.
 4.gg	.
 =28	=28
-3...gg	Dm
+3...gg	D minor
 2ff	.
 4.ee	.
 =29	=29
-1.dd	E7
+1.dd	E dominant
 =30	=30
-1.r	E7
+1.r	E dominant
 =31	=31
-4.r	E7
+4.r	E dominant
 4.dd	.
 4.dd	.
 4.ee	.
 =32	=32
-4.ff	E7
+4.ff	E dominant
 4.ee	.
 2.dd	.
 ==	==

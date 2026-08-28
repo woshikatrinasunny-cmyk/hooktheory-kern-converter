@@ -16,12 +16,12 @@
 *B:	*
 *M6/4	*
 =1	=1
-2.dd#	B
+2.dd#	B major
 2f#	.
 8r	.
 8f#	.
 =2	=2
-4b	B
+4b	B major
 8cc#	.
 4dd#	.
 4dd#	.
@@ -29,12 +29,12 @@
 8r	.
 8b	.
 =3	=3
-2.dd#	D#m7b5/F#
+2.dd#	D# half-diminished/F#
 2f#	.
 8r	.
 8g#	.
 =4	=4
-4b	Emaj7
+4b	E major-seventh
 8cc#	.
 4dd#	.
 4dd#	.
@@ -42,12 +42,12 @@
 8r	.
 8b	.
 =5	=5
-2.dd#	B
+2.dd#	B major
 2f#	.
 8r	.
 8f#	.
 =6	=6
-4b	B
+4b	B major
 8cc#	.
 4dd#	.
 4dd#	.
@@ -55,12 +55,12 @@
 8r	.
 8b	.
 =7	=7
-2.dd#	D#m7b5/F#
+2.dd#	D# half-diminished/F#
 2b	.
 8r	.
 8g#	.
 =8	=8
-4b	Emaj7
+4b	E major-seventh
 8cc#	.
 4dd#	.
 4dd#	.

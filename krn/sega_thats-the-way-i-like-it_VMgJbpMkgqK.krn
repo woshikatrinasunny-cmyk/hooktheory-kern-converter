@@ -16,57 +16,57 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	C
+1r	C major
 =2	=2
 4.gg	.
 4.ff	.
 4ee	.
 =3	=3
-2dd	Am
+2dd	A minor
 2cc	.
 =4	=4
 4.gg	.
 4.ff	.
 4ee	.
 =5	=5
-2dd	A#
+2dd	A# major
 2cc	.
 =6	=6
 2a	.
 2cc	.
 =7	=7
-4.cc[	G
-4.cc]	F
-8dd	F#dim
-8cc	.
+[4.cc	G major
+4.cc]	F major
+8ddL	F# diminished
+8ccJ	.
 =8	=8
-8b[	.
-4.b]	G
-4dd[	.
-8dd_	Am11
-8dd]	G/B
+[8b	.
+4.b]	G major
+[4dd	.
+8ddL_	A minor-11th
+8ddJ]	G major/B
 =9	=9
-1cc	C
+1cc	C major
 =10	=10
 4.gg	.
 4.ff	.
 4ee	.
 =11	=11
-2dd	Am
+2dd	A minor
 2cc	.
 =12	=12
 4.gg	.
 4.aa	.
 4ee	.
 =13	=13
-2dd	A#
+2dd	A# major
 2cc	.
 =14	=14
 2cc	.
 2ee	.
 =15	=15
-1gg	F
+1gg	F major
 =16	=16
-1ff	G
+1ff	G major
 ==	==
 *-	*-

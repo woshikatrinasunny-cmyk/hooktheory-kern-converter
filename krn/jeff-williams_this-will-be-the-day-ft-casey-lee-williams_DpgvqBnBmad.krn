@@ -16,93 +16,93 @@
 *d:	*
 *M4/4	*
 =1	=1
-4r	Dm
+4r	D minor
 8a	.
 4a	.
 4g	.
 8f	.
 =2	=2
-4e	Dm
+4e	D minor
 4f	.
 4e	.
 4d	.
 =3	=3
-4r	Dm
+4r	D minor
 8a	.
 4a	.
 4g	.
 8f	.
 =4	=4
-4e	Dm
+4e	D minor
 4f	.
 4f	.
 4r	.
 =5	=5
-4r	B-
+4r	B- major
 8a	.
 4a	.
 4g	.
 8f	.
 =6	=6
-4e	B-
+4e	B- major
 4f	.
 4f	.
 4f	.
 =7	=7
-4dd	B-
+4dd	B- major
 8a	.
 4g	.
 4f	.
-8g[	.
+[8g	.
 =8	=8
-8g]	B-
+8g]	B- major
 4.a	.
 2a	.
 =9	=9
-4r	Dm
+4r	D minor
 8a	.
-4.a	Dadd(2,3,7)
-8g	Dm
-8f	.
+4.a	D other-2,3,7
+8gL	D minor
+8fJ	.
 =10	=10
-4e	Dm
-8f[	.
-8f]	Dadd(2,3,7)
+4e	D minor
+[8fL	.
+8fJ]	D other-2,3,7
 4e	.
-4d	Dm
+4d	D minor
 =11	=11
-4r	Dm
+4r	D minor
 8a	.
-4.a	Dadd(2,3,7)
-8g	Dm
-8f	.
+4.a	D other-2,3,7
+8gL	D minor
+8fJ	.
 =12	=12
-4e	Dm
-8f[	.
-8f]	Dadd(2,3,7)
-4f[	.
-4f]	Dm
+4e	D minor
+[8fL	.
+8fJ]	D other-2,3,7
+[4f	.
+4f]	D minor
 =13	=13
-4r	B-add(6,7)
+4r	B- other-6,7
 8a	.
-4a	B-
-8g[	.
-8g]	B-add(6,7)
-8f	.
+4a	B- major
+[8gL	.
+8g]	B- other-6,7
+8fJ	.
 =14	=14
-8g[	.
-8g]	B-
+[8gL	.
+8gJ]	B- major
 4f	.
-4f	B-add(6,7)
-4a	B-
+4f	B- other-6,7
+4a	B- major
 =15	=15
-8dd	B-add(6,7)
+8dd	B- other-6,7
 4dd	.
-4dd	B-
+4dd	B- major
 4cc	.
-8cc[	.
+[8cc	.
 =16	=16
-8cc]	C7/E
+8cc]	C dominant/E
 4g	.
 4g	.
 4.f	.

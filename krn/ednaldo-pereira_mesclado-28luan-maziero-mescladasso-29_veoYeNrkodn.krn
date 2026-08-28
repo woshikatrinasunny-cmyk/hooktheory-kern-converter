@@ -16,19 +16,19 @@
 *F#:	*
 *M4/4	*
 =1	=1
-2r	F#
+2r	F# major
 2f#	.
 =2	=2
 2a#	.
 2cc#	.
 =3	=3
-2r	A#m
+2r	A# minor
 2g#	.
 =4	=4
 2a#	.
 2cc#	.
 =5	=5
-2r	A#dim
+2r	A# diminished
 4a#	.
 4a#	.
 =6	=6
@@ -37,33 +37,33 @@
 4cc#	.
 4cc#	.
 =7	=7
-4f#	D#m
+4f#	D# minor
 4f#	.
 2g#	.
 =8	=8
 2a#	.
 2cc#	.
 =9	=9
-2f#	G#m7
+2f#	G# minor-seventh
 2g#	.
 =10	=10
 2a#	.
 4cc#	.
 4f#	.
 =11	=11
-1r	Bm
+1r	B minor
 =12	=12
 2a#	.
 4cc#	.
 4f#	.
 =13	=13
-1r	A#m
+1r	A# minor
 =14	=14
 2a#	.
 4cc#	.
 4f#	.
 =15	=15
-4f#	D#m
+4f#	D# minor
 4r	.
 2g#	.
 =16	=16
@@ -72,13 +72,13 @@
 4cc#	.
 4cc#	.
 =17	=17
-2f#	G#m7
+2f#	G# minor-seventh
 4g#	.
 4g#	.
 =18	=18
-2a#	C#
+2a#	C# major
 4cc#	.
-4f#	F#
+4f#	F# major
 =19	=19
 1r	.
 =20	=20

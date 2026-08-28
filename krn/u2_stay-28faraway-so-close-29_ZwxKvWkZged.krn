@@ -16,59 +16,59 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4.r	E-add(7,11)
-4.r	E-5
+4.r	E- other-7,11
+4.r	E- power
 4a-	.
 =2	=2
-4.g[	E-add(7,11)
-8g]	E-5
+[4.g	E- other-7,11
+8g]	E- power
 8r	.
-8g	E-sus2
+8gL	E- suspended-second
 8g	.
-8g	.
+8gJ	.
 =3	=3
-8g	Gm7/F
-4f[	.
-8f]	F7sus4
+8g	G minor-seventh/F
+[4f	.
+8f]	F dominant-seventh-suspended-fourth
 8r	.
-8B-	.
+8B-L	.
 8a-	.
-8a-[	.
+[8a-J	.
 =4	=4
-8a-_	B-7/A-
-4.a-]	A-sus2
+8a-_	B- dominant/A-
+4.a-]	A- suspended-second
 8r	.
+8a-L	.
 8a-	.
-8a-	.
-8a-	.
+8a-J	.
 =5	=5
-8a-	E-add(7,11)
-16g	.
-16f	.
-8g[	.
-8g]	E-5
+8a-L	E- other-7,11
+16gL	.
+16fJ	.
+[8g	.
+8gJ]	E- power
 8r	.
-8B-	E-sus2
+8B-	E- suspended-second
 4a-	.
 =6	=6
-4.g[	E-add(7,11)
-8g]	E-5
+[4.g	E- other-7,11
+8g]	E- power
 8r	.
-8g	E-sus2
+8gL	E- suspended-second
 8g	.
-8g	.
+8gJ	.
 =7	=7
-8g	Gm7/F
-4f[	.
-8f]	F7sus4
+8g	G minor-seventh/F
+[4f	.
+8f]	F dominant-seventh-suspended-fourth
 8r	.
-4r	Fm11
-8g[	.
+4r	F minor-11th
+[8g	.
 =8	=8
-8g]	B-7/A-
-4.e-	A-sus2
-8g-	.
-8.f	B-add(7,10)
-8.e-	.
+8g]	B- dominant/A-
+4.e-	A- suspended-second
+8g-L	.
+8.f	B- other-7,10
+8.e-J	.
 ==	==
 *-	*-

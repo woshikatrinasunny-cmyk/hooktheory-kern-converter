@@ -16,56 +16,56 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	D
-8a	.
-16a	.
-16a[	.
-4a]	Dm7
+4r	D major
+8aL	.
+16aL	.
+[16aJJ	.
+4a]	D minor-seventh
 4r	.
 =2	=2
-8g	G/D
+8gL	G major/D
 8g	.
 8g	.
-16f#	.
-16g[	.
-16g]	D
-16f#	.
+16f#L	.
+[16gJJ	.
+16gLL]	D major
+16f#J	.
 8d	.
-16d	.
-8.e	.
+16dk	.
+8.eJ	.
 =3	=3
-4fn	F
+4fn	F major
 8r	.
 8a	.
-8g	G
+8gL	G major
 8.d	.
-16d	.
-8d	.
+16dk	.
+8dJ	.
 =4	=4
-8e	C
-16fn	.
-16e[	.
-8e]	G/B
-16c	.
-16d[	.
-16d]	Am7
-16c	.
-8A	.
-4r	C/G
+8eL	C major
+16fnL	.
+[16eJ	.
+8e]	G major/B
+16cL	.
+[16dJJ	.
+16dLL]	A minor-seventh
+16cJ	.
+8AJ	.
+4r	C major/G
 =5	=5
-4r	D
+4r	D major
+8dL	.
+8eJ	.
+8f#L	B minor-seventh
 8d	.
 8e	.
-8f#	Bm7
-8d	.
-8e	.
-8f#	.
+8f#J	.
 =6	=6
-4.a	F/C
+4.a	F major/C
 8g	.
-2g	C
+2g	C major
 =7	=7
-2.a[	Dsus2
-4a]	D
+[2.a	D suspended-second
+4a]	D major
 ==	==
 *-	*-

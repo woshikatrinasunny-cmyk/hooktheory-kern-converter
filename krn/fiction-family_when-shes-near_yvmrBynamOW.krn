@@ -16,71 +16,71 @@
 *G:	*
 *M4/4	*
 =1	=1
-8b	C#dim
+8bL	C# diminished
 8g	.
 8a	.
-8e[	.
-4e]	C
+[8eJ	.
+4e]	C major
 8r	.
 8e	.
 =2	=2
-8g	C#dim
+8gL	C# diminished
 8a	.
 8b	.
-8dd[	.
-8dd]	Cm/D#
+[8ddJ	.
+8ddL]	C minor/D#
 8cc	.
 8g	.
-8a	.
+8aJ	.
 =3	=3
-8b	G7/D
+8bL	G dominant/D
 8g	.
 8a	.
-8e[	.
-4e]	C#dim
+[8eJ	.
+4e]	C# diminished
 8r	.
 8a	.
 =4	=4
-8b	Cm
+8bL	C minor
 8g	.
 8a	.
-8g[	.
-8g]	G
+[8gJ	.
+8g]	G major
 8r	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 =5	=5
-8b	C#dim
+8bL	C# diminished
 8g	.
 8a	.
-8e[	.
-4e]	C
+[8eJ	.
+4e]	C major
 8r	.
 8e	.
 =6	=6
-8g	C#dim
+8gL	C# diminished
 8a	.
 8b	.
-8dd[	.
-8dd]	Cm/D#
+[8ddJ	.
+8dd]	C minor/D#
 4cc	.
 8b	.
 =7	=7
-8b	G7/D
+8bL	G dominant/D
 8g	.
 8a	.
-8a[	.
-16a]	C#dim
-16g	.
+[8aJ	.
+16aLL]	C# diminished
+16gJ	.
 8e	.
 8g	.
-8a	.
+8aJ	.
 =8	=8
-8b	Cm
+8bL	C minor
 8g	.
 8a	.
-8g[	.
-8g]	G
+[8gJ	.
+8g]	G major
 4.r	.
 ==	==
 *-	*-

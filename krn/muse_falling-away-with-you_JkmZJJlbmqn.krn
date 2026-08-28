@@ -16,69 +16,69 @@
 *C:	*
 *M4/4	*
 =1	=1
-1c#	Aadd(2,4,7)
+1c#	A other-2,4,7
 =2	=2
-2e	A
-2g	Aadd(2,4,7)
+2e	A major
+2g	A other-2,4,7
 =3	=3
-1g	Bm7b5/D
+1g	B half-diminished/D
 =4	=4
-2f	Bm7b5/D
+2f	B half-diminished/D
 4e	.
 4d	.
 =5	=5
-1c#	Aadd(2,4,7)
+1c#	A other-2,4,7
 =6	=6
-2e	A
-2g	Aadd(2,4,7)
+2e	A major
+2g	A other-2,4,7
 =7	=7
-1g	Bm7b5/D
+1g	B half-diminished/D
 =8	=8
-2f	Bm7b5/D
+2f	B half-diminished/D
 4e	.
 4d	.
 =9	=9
-1c#	Aadd(2,4,7)
+1c#	A other-2,4,7
 =10	=10
-2e	Aadd(2,4,7)
+2e	A other-2,4,7
 2g	.
 =11	=11
-1g	Bm7b5/D
+1g	B half-diminished/D
 =12	=12
-2f	Dm7
+2f	D minor-seventh
 4e	.
 4d	.
 =13	=13
-1c#[	A
+[1c#	A major
 =14	=14
-4.c#]	A
+4.c#]	A major
 8c#	.
 4.e	.
-16e	.
-16e	.
+16eLL	.
+16eJJ	.
 =15	=15
-2e	Am
+2e	A minor
 2r	.
 =16	=16
-2r	Am
+2r	A minor
 8.e	.
 6...d	.
 =17	=17
-8e	F
+8e	F major
 4.f	.
 2r	.
 =18	=18
-1r	F
+1r	F major
 =19	=19
-1r	G7
+1r	G dominant
 =20	=20
-2.r	G7
-8e	.
-8e[	.
+2.r	G dominant
+8eL	.
+[8eJ	.
 =21	=21
-2e]	C
+2e]	C major
 2r	.
 =22	=22
-1r	C
+1r	C major
 ==	==
 *-	*-

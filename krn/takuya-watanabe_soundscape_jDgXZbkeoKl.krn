@@ -16,57 +16,57 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4r	Bmaj7
+4r	B major-seventh
 4a#	.
 4g#	.
-8f#	.
-8g#[	C#
+8f#L	.
+[8g#J	C# major
 =2	=2
 4g#]	.
 4g#	.
 4f#	.
-8e#	.
-8c#[	.
+8e#L	.
+[8c#J	.
 =3	=3
-4c#]	A#m7
+4c#]	A# minor-seventh
 4c#	.
 4d#	.
-8e#	.
-8g#[	G#m7/D#
+8e#L	.
+[8g#J	G# minor-seventh/D#
 =4	=4
-8g#]	.
+8g#L]	.
 8f#	.
-8e#	.
-3...f#	D#m
+8e#J	.
+3...f#	D# minor
 =5	=5
-4r	G#m7
+4r	G# minor-seventh
 4d#	.
 4d#	.
 4f#	.
 =6	=6
-4e#	A#m7
+4e#	A# minor-seventh
 4f#	.
 4g#	.
 4f#	.
 =7	=7
-2an	Bm7
+2an	B minor-seventh
 4.f#	.
-8cc#[	C#
+[8cc#	C# major
 =8	=8
 1cc#]	.
 =9	=9
-3...r	C#
-8f#	.
+3...r	C# major
+8f#L	.
 8dd#	.
-8cc#[	.
+[8cc#J	.
 =10	=10
-8cc#]	.
-8.c#	F#
-8.d#	G#m
-8.e#	A#m
-8.f#	B
-8g#	C#
+8cc#L]	.
+8.c#	F# major
+8.d#J	G# minor
+8.e#L	A# minor
+8.f#	B major
+8g#J	C# major
 =11	=11
-1cc#	C#
+1cc#	C# major
 ==	==
 *-	*-

@@ -16,43 +16,43 @@
 *C:	*
 *M6/4	*
 =1	=1
-2r	C
+2r	C major
 4G	.
 2c	.
 4c	.
 =2	=2
-2B	Am
+2B	A minor
 2A	.
 4r	.
-4f[	.
+[4f	.
 =3	=3
-2.f]	Dm7
+2.f]	D minor-seventh
 2A	.
 4f	.
 =4	=4
-2e	G7
+2e	G dominant
 4G	.
-2d#	Gaug/D#
-4e[	.
+2d#	G augmented/D#
+[4e	.
 =5	=5
-4e]	C
+4e]	C major
 4r	.
 4G	.
 2c	.
 4c	.
 =6	=6
-2B	Am
+2B	A minor
 2A	.
 4r	.
-4f[	.
+[4f	.
 =7	=7
-2.f]	Dm7
+2.f]	D minor-seventh
 2A	.
 4f	.
 =8	=8
-2e	G7
+2e	G dominant
 4G	.
-2d#	G#add(3,4,8,11)
+2d#	G# other-3,4,8,11
 4e	.
 =9	=9
 4c	.

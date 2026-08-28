@@ -16,69 +16,69 @@
 *e-:	*
 *M4/4	*
 =1	=1
-2.EE-	E-m
-8BB-	B-m
-8GG-[	G-
+2.EE-	E- minor
+8BB-L	B- minor
+[8GG-J	G- major
 =2	=2
 4GG-]	.
-8D-	D-
-4.BB-	B-m
-8D-	D-
-8EE-[	E-m
+8D-	D- major
+4.BB-	B- minor
+8D-L	D- major
+[8EE-J	E- minor
 =3	=3
 1EE-_	.
 =4	=4
 2.EE-]	.
-8F	B-m/F
-8E-	A-/E-
+8FL	B- minor/F
+8E-J	A- major/E-
 =5	=5
-2.GG-	G-
-8D-	D-
-8BB-[	B-m
+2.GG-	G- major
+8D-L	D- major
+[8BB-J	B- minor
 =6	=6
 4BB-]	.
-8G-	B
-4.D-	D-
-8D-	D-
-8E-[	E-
+8G-	B major
+4.D-	D- major
+8D-L	D- major
+[8E-J	E- major
 =7	=7
 1E-_	.
 =8	=8
 3...E-]	.
-16ee-	.
+16ee-LL	.
 16ff	.
-16gg-	B-m/F
-16ff	.
-8dd-	A-/E-
+16gg-	B- minor/F
+16ffJ	.
+8dd-J	A- major/E-
 =9	=9
-2.a-	A-m7
-8ee-	E-m
-8bn[	B
+2.a-	A- minor-seventh
+8ee-L	E- minor
+[8bnJ	B major
 =10	=10
 4bn]	.
-8gg-	G-
-4.ee-	E-m
-8gg-	G-
-8aa-[	A-
+8gg-	G- major
+4.ee-	E- minor
+8gg-L	G- major
+[8aa-J	A- major
 =11	=11
 1aa-_	.
 =12	=12
 3...aa-]	.
-16aa-	.
+16aa-LL	.
 16bb-	.
 16bbn	.
-16bb-	.
-8gg-	.
+16bb-J	.
+8gg-J	.
 =13	=13
-2.dd-	D-m
-8aa-	A-
-8een[	D-m9
+2.dd-	D- minor
+8aa-L	A- major
+[8eenJ	D- minor-ninth
 =14	=14
 4een]	.
-8bbn	G-sus4
-4.gg-	E-m7/G-
-8bbn	G-sus4
-8ddd-[	A-sus4
+8bbn	G- suspended-fourth
+4.gg-	E- minor-seventh/G-
+8bbnL	G- suspended-fourth
+[8ddd-J	A- suspended-fourth
 =15	=15
 1ddd-_	.
 =16	=16

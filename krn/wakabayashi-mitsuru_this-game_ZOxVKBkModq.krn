@@ -15,146 +15,146 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8.e	.
-8.d#	.
-4f#	C#m
-8e	.
+8.eL	.
+8.d#J	.
+4f#	C# minor
+8eL	.
 8d#	.
-16e	.
-16B[	.
+16eL	.
+[16BJJ	.
 =2	=2
-2..B]	A
-16c#	.
-16d#	.
+2..B]	A major
+16c#LL	.
+16d#JJ	.
 =3	=3
-8.e	B
-8.d#	.
+8.eL	B major
+8.d#J	.
 4f#	.
-8e	.
+8eL	.
 8d#	.
-8e	.
+8eJ	.
 =4	=4
-8.g#	C#m7
-8.a	.
+8.g#L	C# minor-seventh
+8.aJ	.
 4f#	.
 8e	.
 4B	.
 =5	=5
-8.e	G#m7
-8.d#	.
+8.eL	G# minor-seventh
+8.d#J	.
 4f#	.
-8e	.
+8eL	.
 8d#	.
-16e	.
-16B[	.
+16eL	.
+[16BJJ	.
 =6	=6
-2..B]	A
+2..B]	A major
 8B	.
 =7	=7
-8.e	B
-8.d#	.
-4f#	Bsus4
-8e	.
+8.eL	B major
+8.d#J	.
+4f#	B suspended-fourth
+8eL	.
 8d#	.
-8e	.
+8eJ	.
 =8	=8
-8g#	G#m7
+8g#	G# minor-seventh
 16r	.
-8a	G#m
+8a	G# minor
 16r	.
-4f#	G#m7/B
-8e	G#m7/B
-4e	G#m
+4f#	G# minor-seventh/B
+8e	G# minor-seventh/B
+4e	G# minor
 =9	=9
-8r	C#7sus4
+8r	C# dominant-seventh-suspended-fourth
 16f#	.
 16r	.
-8f#	.
-16f#	.
-16f#	.
+8f#L	.
+16f#L	.
+16f#JJ	.
 16r	.
-8f#	.
-16f#	.
+8f#L	.
+16f#k	.
 8g#	.
-8e	.
+8eJ	.
 =10	=10
-8r	C#7sus4
+8r	C# dominant-seventh-suspended-fourth
 16f#	.
 16r	.
-8f#	.
-16f#	.
-16f#	.
+8f#L	.
+16f#L	.
+16f#JJ	.
 16r	.
+8f#L	.
+16ek	.
 8f#	.
-16e	.
-8f#	.
-8b	.
+8bJ	.
 =11	=11
-8r	C#7sus4
+8r	C# dominant-seventh-suspended-fourth
 16f#	.
 16r	.
 8e	.
 8.f#	.
+8f#L	.
+16f#k	.
 8f#	.
-16f#	.
-8f#	.
-8e	.
+8eJ	.
 =12	=12
-8e	C#m7
+8e	C# minor-seventh
 16r	.
-8e	C#m
+8e	C# minor
 16r	.
-8e	C#m7/E
+8e	C# minor-seventh/E
 16r	.
-8e	C#m
+8e	C# minor
 16r	.
-8f#	C#add(2,5,7)
-8g#	C#m7
+8f#L	C# other-2,5,7
+8g#J	C# minor-seventh
 =13	=13
-8r	C#m
+8r	C# minor
 16f#	.
 16r	.
-8f#	.
-16f#	.
-16f#	.
+8f#L	.
+16f#L	.
+16f#JJ	.
 16r	.
-8f#	.
-16f#	.
+8f#L	.
+16f#k	.
 8g#	.
-8e	.
+8eJ	.
 =14	=14
-8r	C#m
+8r	C# minor
 16f#	.
 16r	.
-8f#	.
-16f#	.
-16f#	.
+8f#L	.
+16f#L	.
+16f#JJ	.
 16r	.
+8f#L	.
+16ek	.
 8f#	.
-16e	.
-8f#	.
-8b	.
+8bJ	.
 =15	=15
-8r	C#7sus4
+8r	C# dominant-seventh-suspended-fourth
 16f#	.
 16r	.
-8f#	.
-16g#	.
-16f#	.
+8f#L	.
+16g#L	.
+16f#JJ	.
 16r	.
-8g#	.
-16e	.
+8g#L	.
+16ek	.
 8f#	.
-8e	.
+8eJ	.
 =16	=16
-8c#	A
+8c#	A major
 16r	.
 8c#	.
 16r	.
 8c#	.
-8c#	B
+8c#L	B major
 8d#	.
 8e	.
-8f#	.
+8f#J	.
 ==	==
 *-	*-

@@ -16,14 +16,14 @@
 *E:	*
 *M4/4	*
 =1	=1
-1r	E
+1r	E major
 =2	=2
 4e	.
 4f#	.
 4g#	.
 4b	.
 =3	=3
-4ee	C#m
+4ee	C# minor
 3...r	.
 8dd#	.
 =4	=4
@@ -31,7 +31,7 @@
 3...r	.
 8b	.
 =5	=5
-4a	A
+4a	A major
 3...r	.
 8g#	.
 =6	=6
@@ -39,26 +39,26 @@
 3...r	.
 8e	.
 =7	=7
-4d#	B7
+4d#	B dominant
 4e	.
 4f#	.
 4g#	.
 =8	=8
-2a	Esus4
-4.g#	E
+2a	E suspended-fourth
+4.g#	E major
 8g#	.
 =9	=9
-4g#	E7/G#
+4g#	E dominant/G#
 4a	.
 4b	.
 4cc#	.
 =10	=10
-2ddn	Asus4
-2cc#	A
+2ddn	A suspended-fourth
+2cc#	A major
 =11	=11
-4b	E/G#
+4b	E major/G#
 4r	.
-4.a	B/F#
+4.a	B major/F#
 8g#	.
 ==	==
 *-	*-

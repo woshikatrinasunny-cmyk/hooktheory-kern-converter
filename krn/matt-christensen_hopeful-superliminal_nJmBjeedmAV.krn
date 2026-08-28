@@ -16,21 +16,21 @@
 *F:	*
 *M3/4	*
 =1	=1
-4r	Fmaj9
+4r	F major-ninth
 4aa	.
 4r	.
 =2	=2
-4r	Fadd(3,6,11)/A-
-8ee	.
-8eee	.
+4r	F other-3,6,11/A-
+8eeL	.
+8eeeJ	.
 4eee	.
 =3	=3
-4r	D-add(4,11)
+4r	D- other-4,11
 4cc	.
 4ccc	.
 =4	=4
-8aa	Cadd(2,4,7,9,10)
-8aa-	.
+8aaL	C other-2,4,7,9,10
+8aa-J	.
 2gg	.
 ==	==
 *-	*-

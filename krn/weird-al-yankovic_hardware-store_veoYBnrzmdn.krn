@@ -16,32 +16,32 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8r	F
+8r	F major
+8.ccL	.
+8.ccJ	.
+8.dd-L	E- dominant
 8.cc	.
-8.cc	.
-8.dd-	E-7
-8.cc	.
-8b-	.
+8b-J	.
 =2	=2
-8r	B-
+8r	B- major
+8.b-L	.
+8.fJ	.
+8.gL	E- major
 8.b-	.
-8.f	.
-8.g	E-
-8.b-	.
-8g	.
+8gJ	.
 =3	=3
-8r	F
+8r	F major
+8ccL	.
+16cck	.
+8.ccJ	.
+8dd-L	E- dominant
+16dd-k	.
 8cc	.
-16cc	.
-8.cc	.
-8dd-	E-7
-16dd-	.
-8cc	.
-8.b-	.
+8.b-J	.
 =4	=4
-8.b-	B-
-8.f	B-/D
-2g	E-
+8.b-L	B- major
+8.fJ	B- major/D
+2g	E- major
 8r	.
 ==	==
 *-	*-

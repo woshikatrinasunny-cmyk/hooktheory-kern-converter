@@ -16,14 +16,14 @@
 *C:	*
 *M4/4	*
 =1	=1
-16b	Badd(2,6,10)/C#
+16bLL	B other-2,6,10/C#
 16a	.
-16f	.
+16fJ	.
 8.b	.
-16a	.
-16f	.
-8e	E7
-8ee	.
+16aL	.
+16fJJ	.
+8eL	E dominant
+8eeJ	.
 4ee	.
 ==	==
 *-	*-

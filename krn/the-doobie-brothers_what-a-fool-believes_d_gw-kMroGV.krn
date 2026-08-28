@@ -16,76 +16,76 @@
 *D-:	*
 *M4/4	*
 =1	=1
-8A-	D-add(4,5,7)/A-
+8A-	D- other-4,5,7/A-
 8r	.
-8r	Cdim/G-
+8r	C diminished/G-
 8r	.
-8G-	G-add(2,4,7)
+8G-	G- other-2,4,7
 8r	.
-8r	A-7/G-
-8F	D-/F
+8r	A- dominant/G-
+8F	D- major/F
 =2	=2
 8r	.
-8r	D-/A-
-8r	A-
+8r	D- major/A-
+8r	A- major
 8r	.
-8r	B-m7/A-
-8f	.
-8d-	D-add(2,4,7)
-8F	.
+8r	B- minor-seventh/A-
+8fL	.
+8d-	D- other-2,4,7
+8FJ	.
 =3	=3
-8E-	E-m7
+8E-	E- minor-seventh
 8r	.
-8F	Fadd(1,3,7,10)
-8G-	.
-8A-	A-11
+8FL	F other-1,3,7,10
+8G-J	.
+8A-	A- dominant-11th
 8r	.
-8An	Adim
-8B-	B-m7
+8AnL	A diminished
+8B-J	B- minor-seventh
 =4	=4
 8r	.
-8r	D-/A-
-8r	A-
+8r	D- major/A-
+8r	A- major
 8r	.
-8An	A9
-8An	.
-8r	Baug7/A
+8AnL	A dominant-ninth
+8AnJ	.
+8r	B augmented-seventh/A
 8r	.
 =5	=5
-8A-	D-add(4,5,7)/A-
+8A-L	D- other-4,5,7/A-
 8aa-	.
-8gg-	A-7
+8gg-	A- dominant
+8a-J	.
+8ffL	G- other-2,4,7
 8a-	.
-8ff	G-add(2,4,7)
-8a-	.
-8ee-	A-7/G-
-8dd-	D-/F
+8ee-	A- dominant/G-
+8dd-J	D- major/F
 =6	=6
-8a-	.
-8ee-	D-/A-
-8ff	A-
+8a-L	.
+8ee-	D- major/A-
+8ffJ	A- major
 8r	.
-8a-	B-m7/A-
+8a-L	B- minor-seventh/A-
 8dd-	.
-8ee-	D-add(2,4,7)
+8ee-J	D- other-2,4,7
 8r	.
 =7	=7
-8a-	E-m9
+8a-L	E- minor-ninth
 8aa-	.
-8gg-	Fadd(1,3,7,10)
-8ff	.
-8ee-	A-11
+8gg-	F other-1,3,7,10
+8ffJ	.
+8ee-L	A- dominant-11th
 8a-	.
-8ff	Adim
-8dd-	B-m7
+8ff	A diminished
+8dd-J	B- minor-seventh
 =8	=8
 8r	.
-8ee-	D-/A-
-8ff	A-
+8ee-L	D- major/A-
+8ffJ	A- major
 8r	.
-8dd-	A9
+8dd-L	A dominant-ninth
 8dd-	.
-8ee-	Baug7/A
+8ee-J	B augmented-seventh/A
 8r	.
 ==	==
 *-	*-

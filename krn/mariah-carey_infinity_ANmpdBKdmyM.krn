@@ -16,139 +16,139 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4.ff	G-maj7
+4.ff	G- major-seventh
 8ee-	.
-4ee-[	.
-4ee-]	G-maj7
+[4ee-	.
+4ee-]	G- major-seventh
 =2	=2
-4.dd-	Fm7
+4.dd-	F minor-seventh
 8b-	.
 4b-	.
-4r	B-7sus4
+4r	B- dominant-seventh-suspended-fourth
 =3	=3
-4.b-	E-7sus4
+4.b-	E- dominant-seventh-suspended-fourth
 8a-	.
-4f[	.
-8f]	E-7sus4
-16e-	.
-16d-	.
+[4f	.
+8fL]	E- dominant-seventh-suspended-fourth
+16e-L	.
+16d-JJ	.
 =4	=4
-8e-[	E-7sus4
-8e-]	E-7sus4
-8e-[	E-7sus4
-8e-]	E-7sus4
-8d-[	E-7sus4
-8d-]	E-7sus4
-8r	E-7sus4
-8r	E-7sus4
+[8e-L	E- dominant-seventh-suspended-fourth
+8e-]	E- dominant-seventh-suspended-fourth
+[8e-	E- dominant-seventh-suspended-fourth
+8e-J]	E- dominant-seventh-suspended-fourth
+[8d-L	E- dominant-seventh-suspended-fourth
+8d-J]	E- dominant-seventh-suspended-fourth
+8r	E- dominant-seventh-suspended-fourth
+8r	E- dominant-seventh-suspended-fourth
 =5	=5
-4.ff	G-maj7
+4.ff	G- major-seventh
 8ee-	.
-4ee-[	.
-8ee-]	G-maj7
-8dd-	.
+[4ee-	.
+8ee-L]	G- major-seventh
+8dd-J	.
 =6	=6
-4.dd-	Fm7
+4.dd-	F minor-seventh
 8a-	.
 4b-	.
-4r	B-7sus4
+4r	B- dominant-seventh-suspended-fourth
 =7	=7
-4.b-	E-7sus4
+4.b-	E- dominant-seventh-suspended-fourth
 8a-	.
-4f[	.
-8f]	E-7sus4
-16e-	.
-16d-	.
+[4f	.
+8fL]	E- dominant-seventh-suspended-fourth
+16e-L	.
+16d-JJ	.
 =8	=8
-8e-[	E-7sus4
-8e-]	E-7sus4
-8e-	E-7sus4
-8d-	E-7sus4
-8a-	E-7sus4
-8b-	E-7sus4
-8dd-	E-7sus4
-8ee-	E-7sus4
+[8e-L	E- dominant-seventh-suspended-fourth
+8e-]	E- dominant-seventh-suspended-fourth
+8e-	E- dominant-seventh-suspended-fourth
+8d-J	E- dominant-seventh-suspended-fourth
+8a-L	E- dominant-seventh-suspended-fourth
+8b-	E- dominant-seventh-suspended-fourth
+8dd-	E- dominant-seventh-suspended-fourth
+8ee-J	E- dominant-seventh-suspended-fourth
 =9	=9
-4ff[	G-maj7
-8ff_	G-maj7
-8ff]	B-m7/A-
-8gg-	B-m7
-8ff	D-maj7/C
-8ee-[	B-m7/D-
-8ee-_	E-7sus4
+[4ff	G- major-seventh
+8ffL_	G- major-seventh
+8ffJ]	B- minor-seventh/A-
+8gg-L	B- minor-seventh
+8ff	D- major-seventh/C
+[8ee-	B- minor-seventh/D-
+8ee-J_	E- dominant-seventh-suspended-fourth
 =10	=10
-4ee-]	Fm7
-8ff	.
-8ee-	.
-4dd-[	.
-8dd-]	B-7sus4
+4ee-]	F minor-seventh
+8ffL	.
+8ee-J	.
+[4dd-	.
+8dd-]	B- dominant-seventh-suspended-fourth
 8r	.
 =11	=11
-16dd-	E-7sus4
+16dd-LL	E- dominant-seventh-suspended-fourth
 16ee-	.
-16ff	.
+16ffJ	.
 8.ee-	.
-16b-	.
-16a-	.
-16b-	.
-16dd-	.
-8b-[	.
-16b-]	E-7sus4
+16b-L	.
+16a-JJ	.
+16b-LL	.
+16dd-J	.
+[8b-	.
+16b-L]	E- dominant-seventh-suspended-fourth
 16f	.
 16e-	.
-16d-	.
+16d-JJ	.
 =12	=12
-16f	E-7sus4
-16a-	.
-8f[	E-7sus4
-16f]	E-7sus4
+16fLL	E- dominant-seventh-suspended-fourth
+16a-J	.
+[8f	E- dominant-seventh-suspended-fourth
+16fL]	E- dominant-seventh-suspended-fourth
 16e-	.
-16d-	E-7sus4
-16B-	.
-8a-	E-7sus4
-8b-	E-7sus4
-8dd-	E-7sus4
-8ee-	E-7sus4
+16d-	E- dominant-seventh-suspended-fourth
+16B-JJ	.
+8a-L	E- dominant-seventh-suspended-fourth
+8b-	E- dominant-seventh-suspended-fourth
+8dd-	E- dominant-seventh-suspended-fourth
+8ee-J	E- dominant-seventh-suspended-fourth
 =13	=13
-2ff	G-maj7
-8gg-	.
-8ff	.
-4ee-[	G-maj7
+2ff	G- major-seventh
+8gg-L	.
+8ffJ	.
+[4ee-	G- major-seventh
 =14	=14
-4ee-]	Fm7
-8ff	A-
-8ee-	F/A
-8dd-[	B-m7
-8dd-_	B-m7/F
-8dd-]	B-m7/D-
-8r	B-m7
+4ee-]	F minor-seventh
+8ffL	A- major
+8ee-J	F major/A
+[8dd-L	B- minor-seventh
+8dd-_	B- minor-seventh/F
+8dd-J]	B- minor-seventh/D-
+8r	B- minor-seventh
 =15	=15
-16dd-	E-7sus4
+16dd-LL	E- dominant-seventh-suspended-fourth
 16ee-	.
-16ff	.
+16ffJ	.
 8.ee-	.
-16b-	.
-16a-	.
-16b-	.
-16dd-	.
-8b-[	.
-16b-]	E-7sus4
+16b-L	.
+16a-JJ	.
+16b-LL	.
+16dd-J	.
+[8b-	.
+16b-L]	E- dominant-seventh-suspended-fourth
 16f	.
 16e-	.
-16d-	.
+16d-JJ	.
 =16	=16
-16f	E-7sus4
-16a-	.
-8f[	E-7sus4
-16f]	E-7sus4
+16fLL	E- dominant-seventh-suspended-fourth
+16a-J	.
+[8f	E- dominant-seventh-suspended-fourth
+16fL]	E- dominant-seventh-suspended-fourth
 16e-	.
-16d-	E-7sus4
-16B-	.
-16d-	E-7sus4
+16d-	E- dominant-seventh-suspended-fourth
+16B-JJ	.
+16d-LL	E- dominant-seventh-suspended-fourth
 16e-	.
-16f	E-7sus4
-16e-	.
-8d-[	E-7sus4
-8d-]	E-7sus4
+16f	E- dominant-seventh-suspended-fourth
+16e-J	.
+[8d-	E- dominant-seventh-suspended-fourth
+8d-J]	E- dominant-seventh-suspended-fourth
 ==	==
 *-	*-

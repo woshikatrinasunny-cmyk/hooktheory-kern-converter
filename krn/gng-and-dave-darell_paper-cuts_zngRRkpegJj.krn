@@ -16,140 +16,140 @@
 *c:	*
 *M4/4	*
 =1	=1
-16b-	A-sus2
+16b-LL	A- suspended-second
 16gg	.
-16ff	A-sus2
+16ff	A- suspended-second
 16ee-	.
-16gg	A-sus2
+16gg	A- suspended-second
 16ff	.
-16dd	A-add(2,6,7)
+16dd	A- other-2,6,7
+16ffJJ	.
+16ccLL	C minor-seventh
 16ff	.
-16cc	Cm7
-16ff	.
-16bb-	Cm7
+16bb-	C minor-seventh
 16ee-	.
-16gg	Cm7
+16gg	C minor-seventh
 16ff	.
-16dd	Cm7
-16ee-	.
+16dd	C minor-seventh
+16ee-JJ	.
 =2	=2
-16b-	B-sus4
+16b-LL	B- suspended-fourth
 16gg	.
-16ff	B-sus4
+16ff	B- suspended-fourth
 16ee-	.
-16gg	B-sus4
+16gg	B- suspended-fourth
 16ff	.
-16dd	B-
-16ff	.
-16b-	B-add(2,4,7)
+16dd	B- major
+16ffJJ	.
+16b-LL	B- other-2,4,7
 16gg	.
-16ff	B-add(2,4,7)
+16ff	B- other-2,4,7
 16ee-	.
-16gg	B-add(2,4,7)
+16gg	B- other-2,4,7
 16ff	.
-16b-	B-add(2,4,7)
-16ee-	.
+16b-	B- other-2,4,7
+16ee-JJ	.
 =3	=3
-16b-	E-/G
+16b-LL	E- major/G
 16gg	.
-16ff	E-/G
+16ff	E- major/G
 16ee-	.
-16gg	E-/G
+16gg	E- major/G
 16ff	.
-16dd	A-sus2
+16dd	A- suspended-second
+16ffJJ	.
+16ccLL	A- suspended-second
 16ff	.
-16cc	A-sus2
-16ff	.
-16bb-	A-sus2
+16bb-	A- suspended-second
 16ee-	.
-16gg	A-sus2
+16gg	A- suspended-second
 16ff	.
-16dd	A-sus2
-16ee-	.
+16dd	A- suspended-second
+16ee-JJ	.
 =4	=4
-16b-	C7sus2
+16b-LL	C dominant-seventh-suspended-second
 16gg	.
-16ff	Cm7
+16ff	C minor-seventh
 16ee-	.
-16gg	Cm7
+16gg	C minor-seventh
 16ff	.
-16dd	Gm/B-
-16ff	.
-16b-	Gm/B-
+16dd	G minor/B-
+16ffJJ	.
+16b-LL	G minor/B-
 16gg	.
-16ff	Gm/B-
+16ff	G minor/B-
 16ee-	.
-16gg	Gm/B-
-16ff	Gm/B-
-16b-	Gm/B-
-16ee-	Gm/B-
+16gg	G minor/B-
+16ff	G minor/B-
+16b-	G minor/B-
+16ee-JJ	G minor/B-
 =5	=5
-16b-	A-sus2
+16b-LL	A- suspended-second
 16gg	.
-16ff	A-sus2
+16ff	A- suspended-second
 16ee-	.
-16gg	A-sus2
+16gg	A- suspended-second
 16ff	.
-16dd	A-add(2,6,7)
+16dd	A- other-2,6,7
+16ffJJ	.
+16ccLL	C minor-seventh
 16ff	.
-16cc	Cm7
-16ff	.
-16bb-	Cm7
+16bb-	C minor-seventh
 16ee-	.
-16gg	Cm7
+16gg	C minor-seventh
 16ff	.
-16dd	Cm7
-16ee-	.
+16dd	C minor-seventh
+16ee-JJ	.
 =6	=6
-16b-	B-sus4
+16b-LL	B- suspended-fourth
 16gg	.
-16ff	B-sus4
+16ff	B- suspended-fourth
 16ee-	.
-16gg	B-sus4
+16gg	B- suspended-fourth
 16ff	.
-16dd	B-
-16ff	.
-16b-	B-add(2,4,7)
+16dd	B- major
+16ffJJ	.
+16b-LL	B- other-2,4,7
 16gg	.
-16ff	B-add(2,4,7)
+16ff	B- other-2,4,7
 16ee-	.
-16gg	B-add(2,4,7)
+16gg	B- other-2,4,7
 16ff	.
-16b-	B-add(2,4,7)
-16ee-	.
+16b-	B- other-2,4,7
+16ee-JJ	.
 =7	=7
-16b-	E-/G
+16b-LL	E- major/G
 16gg	.
-16ff	E-/G
+16ff	E- major/G
 16ee-	.
-16gg	E-/G
+16gg	E- major/G
 16ff	.
-16dd	A-sus2
+16dd	A- suspended-second
+16ffJJ	.
+16ccLL	A- suspended-second
 16ff	.
-16cc	A-sus2
-16ff	.
-16bb-	A-sus2
+16bb-	A- suspended-second
 16ee-	.
-16gg	A-sus2
+16gg	A- suspended-second
 16ff	.
-16dd	A-sus2
-16ee-	.
+16dd	A- suspended-second
+16ee-JJ	.
 =8	=8
-16b-	C7sus2
+16b-LL	C dominant-seventh-suspended-second
 16gg	.
-16ff	Cm7
+16ff	C minor-seventh
 16ee-	.
-16gg	Cm7
+16gg	C minor-seventh
 16ff	.
-16dd	Gm/B-
-16ff	.
-16b-	Gm/B-
+16dd	G minor/B-
+16ffJJ	.
+16b-LL	G minor/B-
 16gg	.
-16ff	Gm/B-
+16ff	G minor/B-
 16ee-	.
-16gg	Gm/B-
-16ff	Gm/B-
-16b-	Gm/B-
-16ee-	Gm/B-
+16gg	G minor/B-
+16ff	G minor/B-
+16b-	G minor/B-
+16ee-JJ	G minor/B-
 ==	==
 *-	*-

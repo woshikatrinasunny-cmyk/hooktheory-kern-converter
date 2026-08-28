@@ -15,74 +15,74 @@
 *d#:	*
 *M4/4	*
 =1	=1
-8.cc#	D#m
-8.a#	D#dim/A
-4g#[	D#m/A#
-8g#]	D#m
-8r	D#dim/A
-8d#	D#m/A#
+8.cc#L	D# minor
+8.a#J	D# diminished/A
+[4g#	D# minor/A#
+8g#]	D# minor
+8r	D# diminished/A
+8d#	D# minor/A#
 =2	=2
-8.g#	D#m
-8.a#	D#dim/A
-8.b	D#m/A#
-16a#	.
-8f#[	D#m
-8f#]	D#dim/A
-8d#	D#m/A#
+8.g#L	D# minor
+8.a#J	D# diminished/A
+8.b	D# minor/A#
+16a#LK	.
+[8f#	D# minor
+8f#]	D# diminished/A
+8d#J	D# minor/A#
 =3	=3
-8.cc#	D#m
-8.a#	D#dim/A
-4g#	D#m/A#
-8d#	D#m
-8f#[	D#dim/A
-8f#]	D#m/A#
+8.cc#L	D# minor
+8.a#J	D# diminished/A
+4g#	D# minor/A#
+8d#L	D# minor
+[8f#	D# diminished/A
+8f#J]	D# minor/A#
 =4	=4
-8r	D#m
+8r	D# minor
+16ff#LL	.
+16dd#	D# diminished/A
 16ff#	.
-16dd#	D#dim/A
-16ff#	.
-16dd#	.
-8ff#	D#m/A#
-16ff#	.
-16dd#	.
-8f#	D#m
-8f#	D#dim/A
-8f#	D#m/A#
+16dd#J	.
+8ff#J	D# minor/A#
+16ff#LL	.
+16dd#J	.
+8f#	D# minor
+8f#	D# diminished/A
+8f#J	D# minor/A#
 =5	=5
-8.cc#	D#m
-8.a#	D#dim/A
-4g#[	D#m/A#
-8g#]	D#m
-8r	D#dim/A
-8d#	D#m/A#
+8.cc#L	D# minor
+8.a#J	D# diminished/A
+[4g#	D# minor/A#
+8g#]	D# minor
+8r	D# diminished/A
+8d#	D# minor/A#
 =6	=6
-8.g#	D#m
-8.a#	D#dim/A
-8.b	D#m/A#
-16a#	.
-8f#[	D#m
-8f#]	D#dim/A
-8d#	D#m/A#
+8.g#L	D# minor
+8.a#J	D# diminished/A
+8.b	D# minor/A#
+16a#LK	.
+[8f#	D# minor
+8f#]	D# diminished/A
+8d#J	D# minor/A#
 =7	=7
-8.cc#	D#m
-8.a#	D#dim/A
-4g#	D#m/A#
-8d#	D#m
-8f#[	D#dim/A
-8f#]	D#m/A#
+8.cc#L	D# minor
+8.a#J	D# diminished/A
+4g#	D# minor/A#
+8d#L	D# minor
+[8f#	D# diminished/A
+8f#J]	D# minor/A#
 =8	=8
-8r	D#m
+8r	D# minor
+16ff#LL	.
+16dd#	D# diminished/A
 16ff#	.
-16dd#	D#dim/A
-16ff#	.
+16dd#J	.
+8ff#J	D# minor/A#
+16ff#LL	.
 16dd#	.
-8ff#	D#m/A#
-16ff#	.
-16dd#	.
-16ff#	D#m
-16dd#	.
-8ff#	D#dim/A
-16dd#	D#m/A#
-16dd#	.
+16ff#	D# minor
+16dd#J	.
+8ff#	D# diminished/A
+16dd#L	D# minor/A#
+16dd#JJ	.
 ==	==
 *-	*-

@@ -16,14 +16,14 @@
 *b:	*
 *M4/4	*
 =1	=1
-2a	Bm
+2a	B minor
 2d	.
 =2	=2
 2a	.
 4d	.
-4e[	.
+[4e	.
 =3	=3
-2e]	Gadd(2,4,7)
+2e]	G other-2,4,7
 4r	.
 4d	.
 =4	=4
@@ -31,53 +31,53 @@
 4g	.
 8g	.
 4f#	.
-8f#[	.
+[8f#	.
 =5	=5
-2f#]	D
+2f#]	D major
 4r	.
-8d	.
-8e[	.
+8dL	.
+[8eJ	.
 =6	=6
-2e]	A
+2e]	A major
 8d	.
 4.B	.
 =7	=7
-2B	G
+2B	G major
 2r	.
 =8	=8
 1r	.
 =9	=9
-2a	Bm
+2a	B minor
 2d	.
 =10	=10
 2a	.
 4d	.
-4e[	.
+[4e	.
 =11	=11
-2e]	Gadd(2,4,7)
+2e]	G other-2,4,7
 4r	.
 4d	.
 =12	=12
 4.g	.
 4g	.
 4f#	.
-8f#[	.
+[8f#	.
 =13	=13
-2f#]	D
+2f#]	D major
 4r	.
-8d	.
-8e[	.
+8dL	.
+[8eJ	.
 =14	=14
-2e]	A
+2e]	A major
 4d	.
-4d[	.
+[4d	.
 =15	=15
-4d]	Em
-4d[	.
-2d]	D/F#
+4d]	E minor
+[4d	.
+2d]	D major/F#
 =16	=16
-2r	G
-4c#	A
+2r	G major
+4c#	A major
 4c#	.
 ==	==
 *-	*-

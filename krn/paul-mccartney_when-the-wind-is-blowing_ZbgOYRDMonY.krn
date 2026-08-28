@@ -16,25 +16,25 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.e	Am9
+4.e	A minor-ninth
 3...b	.
 =2	=2
 4cc	.
 8b	.
 4.a	.
-8g	.
-8a[	.
+8gL	.
+[8aJ	.
 =3	=3
-3...a]	E7sus4
-8g	.
+3...a]	E dominant-seventh-suspended-fourth
+8gL	.
 8a	.
-8b	.
+8bJ	.
 =4	=4
-4e	E7
+4e	E dominant
 3...r	.
 8d	.
 =5	=5
-4.e	Am9
+4.e	A minor-ninth
 3...b	.
 =6	=6
 4ee	.
@@ -42,40 +42,40 @@
 4.b	.
 4a	.
 =7	=7
-4.b	Gmaj7
+4.b	G major-seventh
 3...g	.
 =8	=8
-4.r	Cmaj7
-3...r	G
+4.r	C major-seventh
+3...r	G major
 =9	=9
 *k[]	*
 *C:	*
-2cc#	A7
+2cc#	A dominant
 2cc#	.
 =10	=10
-8cc#	.
+8cc#L	.
 8b	.
-8cc#	.
-3...dd	Dm
+8cc#J	.
+3...dd	D minor
 =11	=11
-2cc#	A7
+2cc#	A dominant
 2ee	.
 =12	=12
-8ee	.
+8eeL	.
 8dd	.
-8ee	.
-3...ff	Dm
+8eeJ	.
+3...ff	D minor
 =13	=13
-8ff	.
+8ffL	.
 8aa	.
-8ff	.
-4dd	G
+8ffJ	.
+4dd	G major
 4.r	.
 =14	=14
-8g	.
-8a	F#dim/A
-8b	Bdim
-3...cc[	C
+8gL	.
+8a	F# diminished/A
+8bJ	B diminished
+[3...cc	C major
 =15	=15
 6...cc]	.
 3...r	.

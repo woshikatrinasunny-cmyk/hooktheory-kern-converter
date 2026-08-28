@@ -15,28 +15,28 @@
 *D:	*
 *M4/4	*
 =1	=1
-1f#	D
+1f#	D major
 =2	=2
 2d	.
 2A	.
 =3	=3
-2f#	D/A
+2f#	D major/A
 2a	.
 =4	=4
-2.e	A
+2.e	A major
 4r	.
 =5	=5
-1f#	D
+1f#	D major
 =6	=6
 2d	.
 2A	.
 =7	=7
-1G#[	G#add(1,6,9)
+[1G#	G# other-1,6,9
 =8	=8
-2G#]	G#add(1,5,7,8,11)
-2r	A7
+2G#]	G# other-1,5,7,8,11
+2r	A dominant
 =9	=9
-1f#	D
+1f#	D major
 =10	=10
 2d	.
 2A	.
@@ -44,21 +44,21 @@
 2f#	.
 2a	.
 =12	=12
-2.e	A
+2.e	A major
 4r	.
 =13	=13
-1f#	D
+1f#	D major
 =14	=14
-2.g#	E
+2.g#	E major
 4r	.
 =15	=15
-2a[	F#
-8a_	Daug/F#
-4.a_	F#
+[2a	F# major
+8a_	D augmented/F#
+4.a_	F# major
 =16	=16
-8a_	Dadd(4,5,8)/F#
-4.a_	F#
-8a_	Dadd(4,5,8)/F#
-4.a]	F#
+8a_	D other-4,5,8/F#
+4.a_	F# major
+8a_	D other-4,5,8/F#
+4.a]	F# major
 ==	==
 *-	*-

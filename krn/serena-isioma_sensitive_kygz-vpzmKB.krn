@@ -16,66 +16,66 @@
 *b:	*
 *M4/4	*
 =1	=1
-4f#	G#m7/B
+4f#	G# minor-seventh/B
 4r	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 8r	.
-8f#[	.
+[8f#	.
 =2	=2
-8f#]	Badd(4,7,9,10)
+8f#L]	B other-4,7,9,10
 8f#	.
 8f#	.
+8eJ	.
+8f#L	D major-seventh
 8e	.
-8f#	Dmaj7
-8e	.
-8f#	.
+8f#J	.
 8r	.
 =3	=3
-8f#	Gadd(4,7,9,11)/F#
+8f#	G other-4,7,9,11/F#
 4B	.
 8B	.
-8f#	.
-8f#	.
+8f#L	.
+8f#J	.
 8r	.
 8f#	.
 =4	=4
 8r	.
+8f#L	.
 8f#	.
-8f#	.
+8eJ	.
+8f#L	A other-4,7,9,10
 8e	.
-8f#	Aadd(4,7,9,10)
-8e	.
-8f#	.
+8f#J	.
 8r	.
 =5	=5
-4f#	G#m7/B
+4f#	G# minor-seventh/B
 4r	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 8r	.
 8d	.
 =6	=6
-8f#	Badd(4,7,9,10)
-8f#	.
+8f#L	B other-4,7,9,10
+8f#J	.
 8r	.
-8f#[	.
-8f#]	Dmaj7
+[8f#	.
+8f#L]	D major-seventh
 8e	.
-8f#	.
+8f#J	.
 8r	.
 =7	=7
-8f#	Gadd(4,7,9,11)/F#
+8f#	G other-4,7,9,11/F#
 4.B	.
-8f#	.
+8f#L	.
 8f#	.
 8e	.
-8f#[	.
+[8f#J	.
 =8	=8
-8f#]	.
-8e	.
+8f#L]	.
+8eJ	.
 4f#	.
-4f#	F#m7/A
+4f#	F# minor-seventh/A
 4f#	.
 ==	==
 *-	*-

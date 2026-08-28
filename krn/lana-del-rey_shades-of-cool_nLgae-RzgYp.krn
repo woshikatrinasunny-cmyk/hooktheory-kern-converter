@@ -16,71 +16,71 @@
 *d:	*
 *M6/4	*
 =1	=1
-4.r	Dm
+4.r	D minor
 8e	.
 8e	.
 4d	.
 2f	.
 8d	.
 =2	=2
-2e	B-
+2e	B- major
 4d	.
 2f	.
 8r	.
 8B-	.
 =3	=3
-4Bn	Bm
+4Bn	B minor
 4d	.
 4Bn	.
-2B-	B-
+2B-	B- major
 4e	.
 =4	=4
-4r	Dm
+4r	D minor
 8e	.
 8.d	.
 4..d	.
 4.r	.
 8d	.
 =5	=5
-2e	Dm
+2e	D minor
 4d	.
 2f	.
 8r	.
 8d	.
 =6	=6
-2e	B-
+2e	B- major
 4d	.
 2f	.
 8r	.
 8B-	.
 =7	=7
-2Bn	Bm
+2Bn	B minor
 4d	.
-2B-	B-
+2B-	B- major
 4e	.
 =8	=8
-4r	Dm
+4r	D minor
 4e	.
 4d	.
 4.d	.
 8c	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 =9	=9
-3...Bn	G
+3...Bn	G major
 8Bn	.
 2d	.
-8d	.
-8B-[	.
+8dL	.
+[8B-J	.
 =10	=10
-4.B-]	Gm
+4.B-]	G minor
 4r	.
 8B-	.
 2d	.
-8e	.
-8e[	.
+8eL	.
+[8eJ	.
 =11	=11
-2..e]	Dm
+2..e]	D minor
 3...d	.
 =12	=12
 2r	.
@@ -88,20 +88,20 @@
 2d	.
 4e	.
 =13	=13
-2Bn	G
+2Bn	G major
 4Bn	.
 2d	.
 4Bn	.
 =14	=14
-4.B-	Gm
+4.B-	G minor
 8B-	.
 8B-	.
 4.B-	.
 4d	.
-8e	.
-8e[	.
+8eL	.
+[8eJ	.
 =15	=15
-1.e]	Dm
+1.e]	D minor
 =16	=16
 1.r	.
 ==	==

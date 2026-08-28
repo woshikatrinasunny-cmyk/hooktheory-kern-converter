@@ -15,7 +15,7 @@
 *F:	*
 *M4/4	*
 =1	=1
-1r	F
+1r	F major
 =2	=2
 1r	.
 =3	=3
@@ -31,20 +31,20 @@
 16r	.
 16aa	.
 16r	.
-8aa	.
+8aaL	.
 8bb-	.
-16aa	.
+16aaJk	.
 16r	.
 16gg	.
 16r	.
 =6	=6
-4gg-	D
+4gg-	D major
 4dd	.
 4gg-	.
-8gg	.
-8aa-	.
+8ggL	.
+8aa-J	.
 =7	=7
-16aa	F
+16aa	F major
 16r	.
 16aa	.
 16r	.
@@ -52,19 +52,19 @@
 16r	.
 16aa	.
 16r	.
-8aa	.
+8aaL	.
 8bb-	.
-16aa	.
+16aaJk	.
 16r	.
 16gg	.
 16r	.
 =8	=8
-4ff	Dm
+4ff	D minor
 4dd	.
 4ff	.
 4dd	.
 =9	=9
-16aa	F
+16aa	F major
 16r	.
 16aa	.
 16r	.
@@ -72,19 +72,19 @@
 16r	.
 16aa	.
 16r	.
-8aa	.
+8aaL	.
 8bb-	.
-16aa	.
+16aaJk	.
 16r	.
 16aa-	.
 16r	.
 =10	=10
-4gg-	D
+4gg-	D major
 4dd	.
 4gg-	.
 4dd	.
 =11	=11
-16aa	F
+16aa	F major
 16r	.
 16aa	.
 16r	.
@@ -92,12 +92,12 @@
 16r	.
 16aa	.
 16r	.
-8aa	.
+8aaL	.
 8bb-	.
 8aa	.
-8aa-	.
+8aa-J	.
 =12	=12
-16aa	G-dim
+16aa	G- diminished
 16r	.
 16aa	.
 16r	.
@@ -105,12 +105,12 @@
 16r	.
 16aa	.
 16r	.
-8aa	.
+8aaL	.
 8bb-	.
 8aa	.
-8aa-	.
+8aa-J	.
 =13	=13
-16aa	G
+16aa	G major
 16r	.
 16aa	.
 16r	.
@@ -118,10 +118,10 @@
 16r	.
 16aa	.
 16r	.
-8aa	.
+8aaL	.
 8bb-	.
 8aa	.
-8aa-	.
+8aa-J	.
 =14	=14
 4gg	.
 4ddd	.

@@ -16,49 +16,49 @@
 *B:	*
 *M4/4	*
 =1	=1
-4.r	B
+4.r	B major
 8B	.
 8e	.
 4d#	.
-8c#[	.
+[8c#	.
 =2	=2
-8c#]	Gdim
+8c#]	G diminished
 4d#	.
 3...r	.
 =3	=3
-8r	G#m
+8r	G# minor
 8B	.
 4B	.
 8c#	.
 4d#	.
-8c#[	.
+[8c#	.
 =4	=4
-8c#]	E
+8c#]	E major
 4B	.
 4B	.
 4.r	.
 =5	=5
-8r	B
+8r	B major
+8BL	.
 8B	.
-8B	.
-8B	.
+8BJ	.
 8e	.
 4d#	.
-8c#[	.
+[8c#	.
 =6	=6
-8c#]	Gdim
+8c#]	G diminished
 4d#	.
 3...r	.
 =7	=7
-8r	G#m
+8r	G# minor
+8BL	.
 8B	.
-8B	.
-8B	.
+8BJ	.
 8c#	.
 4d#	.
-8c#[	.
+[8c#	.
 =8	=8
-8c#]	E
+8c#]	E major
 4B	.
 8B	.
 8r	.
@@ -69,28 +69,28 @@
 16B	.
 16r	.
 =9	=9
-8r	B
+8r	B major
+8BL	.
 8B	.
-8B	.
-8B	.
+8BJ	.
 8g#	.
 4f#	.
-8e[	.
+[8e	.
 =10	=10
-8e]	Gdim
+8e]	G diminished
 4d#	.
 3...r	.
 =11	=11
-8r	G#m
+8r	G# minor
+8d#L	.
 8d#	.
-8d#	.
-8d#	.
+8d#J	.
 4e	.
-8f#	.
-8e[	.
+8f#L	.
+[8eJ	.
 =12	=12
-8e]	E
-8d#	.
+8eL]	E major
+8d#J	.
 4.d#	.
 4.r	.
 ==	==

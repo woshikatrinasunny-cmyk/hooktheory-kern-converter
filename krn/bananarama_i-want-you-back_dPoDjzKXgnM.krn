@@ -16,63 +16,63 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	C
+8r	C major
+8cL	.
 8c	.
-8c	.
-8c	.
+8cJ	.
 4c	.
-8c	.
-8B	.
+8cL	.
+8BJ	.
 =2	=2
-8r	Am7
+8r	A minor-seventh
 8c	.
 8r	.
 8c	.
 8r	.
 4c	.
-8d[	.
+[8d	.
 =3	=3
-8d]	Dm7
-8d	.
+8dL]	D minor-seventh
+8dJ	.
 4r	.
 4d	.
-8c	.
-8d[	.
+8cL	.
+[8dJ	.
 =4	=4
-8d]	Fm
+8d]	F minor
 8r	.
-8c	.
-8d	.
-4e	G
-8d	.
-8c	.
+8cL	.
+8dJ	.
+4e	G major
+8dL	.
+8cJ	.
 =5	=5
-8r	C
+8r	C major
+8cL	.
 8c	.
-8c	.
-8c	.
+8cJ	.
 4c	.
-8c	.
-8B[	.
+8cL	.
+[8BJ	.
 =6	=6
-8B]	Am7
+8B]	A minor-seventh
 4c	.
 4c	.
 4.r	.
 =7	=7
-8r	Dm7
+8r	D minor-seventh
+8dL	.
 8d	.
-8d	.
-8d	.
+8dJ	.
 4d	.
-8c	.
-8d[	.
+8cL	.
+[8dJ	.
 =8	=8
-8d]	Fm
+8d]	F minor
 4c	.
-8e[	.
-4e]	Fadd(4,7,9)
-8d	.
-8c	.
+[8e	.
+4e]	F other-4,7,9
+8dL	.
+8cJ	.
 ==	==
 *-	*-

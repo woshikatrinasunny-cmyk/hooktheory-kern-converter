@@ -16,45 +16,45 @@
 *c:	*
 *M6/4	*
 =1	=1
-2.ee-	E-
-2.dd	F5
+2.ee-	E- major
+2.dd	F power
 =2	=2
-2.cc	Cadd(2,3,7)
-2r	Cm
-8cc	.
-8dd	.
+2.cc	C other-2,3,7
+2r	C minor
+8ccL	.
+8ddJ	.
 =3	=3
-4ee-	E-
+4ee-	E- major
 4ff	.
-8ee-	.
-16dd	.
-16ee-	.
-4dd	B-
+8ee-L	.
+16ddL	.
+16ee-JJ	.
+4dd	B- major
 4cc	.
 4b-	.
 =4	=4
-2.cc	Cadd(2,3,7)
-3...r	Cm
+2.cc	C other-2,3,7
+3...r	C minor
 8e-	.
 =5	=5
-2.ee-	E-
-2.cc	Fsus4
+2.ee-	E- major
+2.cc	F suspended-fourth
 =6	=6
-2.cc	Cadd(2,3,7)
-2r	Cm
-8cc	.
-8dd	.
+2.cc	C other-2,3,7
+2r	C minor
+8ccL	.
+8ddJ	.
 =7	=7
-4ee-	E-
+4ee-	E- major
 4ff	.
-8ee-	.
-16dd	.
-16ee-	.
-4dd	B-
+8ee-L	.
+16ddL	.
+16ee-JJ	.
+4dd	B- major
 4cc	.
 4b-	.
 =8	=8
-2.cc	Fadd(2,4,7)
+2.cc	F other-2,4,7
 2.r	.
 ==	==
 *-	*-

@@ -15,52 +15,52 @@
 *C:	*
 *M4/4	*
 =1	=1
-8CC[	C
-8CC_	C
-8CC_	C
-8CC]	C
-16EE	C
-16DD	.
-16r	C
-16CC[	.
-16CC]	C
-16DD	.
-8EE	C
+[8CCL	C major
+8CC_	C major
+8CC_	C major
+8CCJ]	C major
+16EELL	C major
+16DDJJ	.
+16r	C major
+[16CCLL	.
+16CC]	C major
+16DDJ	.
+8EEJ	C major
 =2	=2
-8FF[	F
-8FF_	F
-8FF_	F
-8FF]	F
-16FF	F
-16EE	.
-16r	F
-16DD[	.
-16DD]	F
-16EE	.
-8FF	F
+[8FFL	F major
+8FF_	F major
+8FF_	F major
+8FFJ]	F major
+16FFLL	F major
+16EEJJ	.
+16r	F major
+[16DDLL	.
+16DD]	F major
+16EEJ	.
+8FFJ	F major
 =3	=3
-8FF[	Dm/F
-8FF_	Dm/F
-8FF_	Dm/F
-8FF]	Dm/F
-16FF	Dm/F
-16EE	.
-16r	Dm/F
-16DD[	.
-16DD]	Dm/F
-16EE	.
-8FF	Dm/F
+[8FFL	D minor/F
+8FF_	D minor/F
+8FF_	D minor/F
+8FFJ]	D minor/F
+16FFLL	D minor/F
+16EEJJ	.
+16r	D minor/F
+[16DDLL	.
+16DD]	D minor/F
+16EEJ	.
+8FFJ	D minor/F
 =4	=4
-8GG[	G7
-8GG_	G7
-8GG_	G7
-8GG]	G7
-16GG	G7
-16FF	.
-16r	G7
-16EE[	.
-16EE]	G7
-16DD	.
-8EE	G7
+[8GGL	G dominant
+8GG_	G dominant
+8GG_	G dominant
+8GGJ]	G dominant
+16GGLL	G dominant
+16FFJJ	.
+16r	G dominant
+[16EELL	.
+16EE]	G dominant
+16DDJ	.
+8EEJ	G dominant
 ==	==
 *-	*-

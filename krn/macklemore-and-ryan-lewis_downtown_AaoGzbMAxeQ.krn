@@ -16,83 +16,83 @@
 *A-:	*
 *M4/4	*
 =1	=1
-1r	A-
+1r	A- major
 =2	=2
-1r	B-m7/A-
+1r	B- minor-seventh/A-
 =3	=3
-2..r	A-7
-8c	A-7
+2..r	A- dominant
+8c	A- dominant
 =4	=4
-8c	A-7
-8d-	A-7
-8d-	A-7
-8e-	A-7
-8e-	A-7
-8f	A-7
-8f	A-7
-8g-	A-7
+8cL	A- dominant
+8d-	A- dominant
+8d-	A- dominant
+8e-J	A- dominant
+8e-L	A- dominant
+8f	A- dominant
+8f	A- dominant
+8g-J	A- dominant
 =5	=5
-8ff	.
+8ffL	.
 8ff	.
 8ccc	.
-16ccc	.
+16cccJk	.
 8ff	.
-8ff	.
-16ff	.
+8ffL	.
+16ffk	.
 8ccc	.
-8ccc	.
+8cccJ	.
 =6	=6
-8ff	.
+8ffL	.
 8ff	.
 8ccc	.
-16ccc	.
+16cccJk	.
 8ff	.
-8ff	.
-16ff	.
+8ffL	.
+16ffk	.
 8ccc	.
-8ccc	.
+8cccJ	.
 =7	=7
-8ff	.
+8ffL	.
 8ff	.
 8ccc	.
-16ccc	.
+16cccJk	.
 8ff	.
-8ff	.
-16ff	.
+8ffL	.
+16ffk	.
 8ccc	.
-8ccc	.
+8cccJ	.
 =8	=8
-16ff[	.
-16ff]	A-7
-16ff[	B-7
+[16ffLL	.
+16ff]	A- dominant
+[16ff	B- dominant
+16ffJ]	.
+8ccc	.
+16cccL	.
+[16ffJJ	.
+16ffLL]	B- dominant
+[16ff	B- dominant
 16ff]	.
+16ffJ	.
 8ccc	.
-16ccc	.
-16ff[	.
-16ff]	B-7
-16ff[	B-7
-16ff]	.
-16ff	.
-8ccc	.
-8ccc	.
+8cccJ	.
 =9	=9
-16BB-	.
-8BB-	.
+16BB-LK	.
+8BB-J	.
 8.r	.
 8BB-	.
-16BB-	.
-16BB-	.
+16BB-LL	.
+16BB-JJ	.
 6...r	.
-16B-[	.
+[16B-	.
 =10	=10
-16B-]	.
-16B-	.
+16B-LL]	.
+16B-J	.
 8A-	.
 8F	.
-8E-	.
-16BB-	.
-16BB-	.
+8E-J	.
+16BB-LL	.
+16BB-JJ	.
 8r	.
-4r	D-7sus2
+4r	D- dominant-seventh-suspended-second
 ==	==
 *-	*-

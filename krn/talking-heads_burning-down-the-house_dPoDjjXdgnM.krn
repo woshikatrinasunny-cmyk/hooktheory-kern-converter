@@ -16,42 +16,42 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	G
+4r	G major
 4g	.
 4G	.
 4r	.
 =2	=2
-8r	F
+8r	F major
+8gL	.
 8g	.
-8g	.
-8f	.
-8g	.
+8fJ	.
+8gL	.
 8a	.
 8f	.
-8f	.
+8fJ	.
 =3	=3
-4r	G
+4r	G major
 4g	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 4r	.
 =4	=4
-4r	F
-8g	.
-8g	.
-8g	.
+4r	F major
+8gL	.
+8gJ	.
+8gL	.
 8a	.
-16g	.
-16f	.
-8f	.
+16gL	.
+16fJ	.
+8fJ	.
 =5	=5
-2r	G
+2r	G major
 8.g	.
 16r	.
 8.g	.
 16r	.
 =6	=6
-8.g	F
+8.g	F major
 16r	.
 8.g	.
 16r	.
@@ -60,15 +60,15 @@
 8.g	.
 16r	.
 =7	=7
-8.g	G
+8.g	G major
 6...r	.
-8g	A7
+8gL	A dominant
 8g	.
 8g	.
-16a	.
-16g[	.
+16aL	.
+[16gJJ	.
 =8	=8
-8g]	F
+8g]	F major
 2..r	.
 ==	==
 *-	*-

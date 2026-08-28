@@ -15,66 +15,66 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4f	B-
-4f	B-
-4d	Gm
-8d	Gm
-8d[	Gm
+4f	B- major
+4f	B- major
+4d	G minor
+8dL	G minor
+[8dJ	G minor
 =2	=2
 8d]	.
-4d	Gm
-8d[	Gm
-4d]	Gm
-16d	Gm
+4d	G minor
+[8d	G minor
+4d]	G minor
+16dLL	G minor
 16B-	.
 16d	.
-16B-	.
+16B-JJ	.
 =3	=3
-4f	B-
-4f	B-
-4d	Gm
-8d	Gm
-8d[	Gm
+4f	B- major
+4f	B- major
+4d	G minor
+8dL	G minor
+[8dJ	G minor
 =4	=4
 8d]	.
-4d	Gm
-8d[	Gm
-4d]	Gm
-16d	Gm
+4d	G minor
+[8d	G minor
+4d]	G minor
+16dLL	G minor
 16B-	.
 16d	.
-16B-	.
+16B-JJ	.
 =5	=5
-8b-	B-
+8b-L	B- major
 8b-	.
-8f	B-
-8f[	.
-8f]	Gm
-8d[	.
-8d_	Gm
-8d_	Gm
+8f	B- major
+[8fJ	.
+8fL]	G minor
+[8d	.
+8d_	G minor
+8dJ_	G minor
 =6	=6
-8d_	.
-8d]	Gm
+8dL_	.
+8d]	G minor
 8f	.
-8f[	Gm
-8f]	Gm
-8d[	.
-4d]	Gm
+[8fJ	G minor
+8fL]	G minor
+[8dJ	.
+4d]	G minor
 =7	=7
-8b-	B-
+8b-L	B- major
 8b-	.
-8f	B-
-8f[	.
-8f]	Gm
-8d[	.
-8d_	Gm
-8d]	Gm
+8f	B- major
+[8fJ	.
+8fL]	G minor
+[8d	.
+8d_	G minor
+8dJ]	G minor
 =8	=8
-8B-[	.
-4B-_	Gm
-8B-_	Gm
-4B-_	Gm
-4B-]	Gm
+[8B-	.
+4B-_	G minor
+8B-_	G minor
+4B-_	G minor
+4B-]	G minor
 ==	==
 *-	*-

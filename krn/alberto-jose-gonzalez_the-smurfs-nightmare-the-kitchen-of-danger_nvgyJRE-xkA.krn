@@ -16,81 +16,81 @@
 *F:	*
 *M4/4	*
 =1	=1
-4cc	F
+4cc	F major
 4cc	.
 4cc	.
 8r	.
 8a	.
 =2	=2
-4dd	Fadd(4,7,9)
+4dd	F other-4,7,9
 4dd	.
 4dd	.
 8r	.
 8a	.
 =3	=3
-4ee	Fmaj7
+4ee	F major-seventh
+8eeL	.
+8ffJ	.
+8ggL	.
+8ff	.
 8ee	.
-8ff	.
-8gg	.
-8ff	.
-8ee	.
-8ff	.
+8ffJ	.
 =4	=4
-4ee	Fadd(4,7,9)
+4ee	F other-4,7,9
 4dd	.
 4dd	.
 8r	.
 8ee	.
 =5	=5
-4cc	F
+4cc	F major
 4cc	.
 4cc	.
 8r	.
 8a	.
 =6	=6
-4dd	Fadd(4,7,9)
+4dd	F other-4,7,9
 4dd	.
 4dd	.
 8r	.
 8a	.
 =7	=7
-4ee	Fmaj7
+4ee	F major-seventh
+8eeL	.
+8ffJ	.
+8ggL	.
+8ff	.
 8ee	.
-8ff	.
-8gg	.
-8ff	.
-8ee	.
-8ff	.
+8ffJ	.
 =8	=8
-4aa	F
+4aa	F major
 4ff	.
 4cc	.
 4bn	.
 =9	=9
-4b-	Gm
+4b-	G minor
 4gg	.
 4gg	.
 4aa	.
 =10	=10
-4gg	Gm7
+4gg	G minor-seventh
 4r	.
 4cc	.
 4bn	.
 =11	=11
-4b-	Gm
+4b-	G minor
 4gg	.
 4gg	.
 4aa	.
 =12	=12
-4gg	Gm7
-8aa	.
-8gg	.
+4gg	G minor-seventh
+8aaL	.
+8ggJ	.
 4ff	.
 4gg	.
 =13	=13
-4aa	Fmaj7
-8aa	.
-8ff	.
+4aa	F major-seventh
+8aaL	.
+8ffJ	.
 2cc	.
 =14	=14
 4.r	.
@@ -98,7 +98,7 @@
 4dd	.
 4ee	.
 =15	=15
-4ff	F
+4ff	F major
 4ee	.
 4gg	.
 4ff	.

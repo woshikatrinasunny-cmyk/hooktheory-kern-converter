@@ -16,73 +16,73 @@
 *f:	*
 *M4/4	*
 =1	=1
-4r	Fm7
+4r	F minor-seventh
 4a-	.
-2g	E-add(2,4,7)
+2g	E- other-2,4,7
 =2	=2
-4.b-	D-
-8a-[	.
-2a-]	A-
+4.b-	D- major
+[8a-	.
+2a-]	A- major
 =3	=3
-4r	Fm7
+4r	F minor-seventh
 4a-	.
-4g	E-add(2,4,7)
+4g	E- other-2,4,7
 4e-	.
 =4	=4
-4f	D-
-8g	.
-8e-[	.
-2e-]	A-
+4f	D- major
+8gL	.
+[8e-J	.
+2e-]	A- major
 =5	=5
-4r	Fm7
+4r	F minor-seventh
 4a-	.
-4ee-	E-add(2,4,7)
+4ee-	E- other-2,4,7
 4f	.
 =6	=6
-4.b-	D-
-8a-[	.
-4a-]	A-
+4.b-	D- major
+[8a-	.
+4a-]	A- major
 4f	.
 =7	=7
-4r	Fm7
+4r	F minor-seventh
 4cc	.
-4a-	E-sus4
+4a-	E- suspended-fourth
 8f	.
 8r	.
 =8	=8
-4.ee-	D-
-8cc[	.
-2cc]	A-
+4.ee-	D- major
+[8cc	.
+2cc]	A- major
 =9	=9
-4.b-	D-
-8a-[	.
-2a-]	A-
+4.b-	D- major
+[8a-	.
+2a-]	A- major
 =10	=10
-4.cc	E-
-8a-[	.
-2a-]	Fm
+4.cc	E- major
+[8a-	.
+2a-]	F minor
 =11	=11
-4.b-	D-
-8a-[	.
-2a-]	A-
+4.b-	D- major
+[8a-	.
+2a-]	A- major
 =12	=12
-4.ee-	E-
+4.ee-	E- major
 8dd-	.
-8cc	Fm7
+8ccL	F minor-seventh
 8dd-	.
 8cc	.
-8dd-	.
+8dd-J	.
 =13	=13
 2cc	.
-2r	E-
+2r	E- major
 =14	=14
-2r	D-/F
-2r	Fm
+2r	D- major/F
+2r	F minor
 =15	=15
-2r	Fm7
-2r	E-
+2r	F minor-seventh
+2r	E- major
 =16	=16
-2r	D-/F
-2r	Fm
+2r	D- major/F
+2r	F minor
 ==	==
 *-	*-

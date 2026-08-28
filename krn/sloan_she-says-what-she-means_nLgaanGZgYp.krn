@@ -21,8 +21,8 @@
 8r	.
 8FF#	.
 =2	=2
-8GGn	.
-8GGn	.
+8GGnL	.
+8GGnJ	.
 8r	.
 8GG#	.
 8r	.
@@ -36,8 +36,8 @@
 8r	.
 8BB	.
 =4	=4
-8C#	.
-8C#	.
+8C#L	.
+8C#J	.
 8r	.
 8D	.
 8r	.
@@ -51,8 +51,8 @@
 8r	.
 8FF#	.
 =6	=6
-8GGn	.
-8GGn	.
+8GGnL	.
+8GGnJ	.
 8r	.
 8GG#	.
 8r	.
@@ -66,8 +66,8 @@
 8r	.
 8BB	.
 =8	=8
-8C#	.
-8C#	.
+8C#L	.
+8C#J	.
 8r	.
 8D	.
 8r	.
@@ -75,10 +75,10 @@
 8r	.
 8EE	.
 =9	=9
-4c#	A7
-4B	Gmaj7
-4A	Am/E
-4a[	A7
+4c#	A dominant
+4B	G major-seventh
+4A	A minor/E
+[4a	A dominant
 =10	=10
 1a_	.
 =11	=11
@@ -90,7 +90,7 @@
 4a	.
 4a	.
 4a	.
-4a[	E
+[4a	E major
 =13	=13
 4a]	.
 4g#	.
@@ -98,8 +98,8 @@
 8r	.
 8FF#	.
 =14	=14
-8GGn	.
-8GGn	.
+8GGnL	.
+8GGnJ	.
 8r	.
 8GG#	.
 8r	.
@@ -113,8 +113,8 @@
 8r	.
 8BB	.
 =16	=16
-8C#	.
-8C#	.
+8C#L	.
+8C#J	.
 8r	.
 8D	.
 8r	.
@@ -122,10 +122,10 @@
 8r	.
 8EE	.
 =17	=17
-4c#	A7
-4B	Gmaj7
-4A	Am/E
-4a[	A7
+4c#	A dominant
+4B	G major-seventh
+4A	A minor/E
+[4a	A dominant
 =18	=18
 1a_	.
 =19	=19
@@ -137,7 +137,7 @@
 4a	.
 4a	.
 4a	.
-4a[	E
+[4a	E major
 =21	=21
 4a]	.
 4g#	.
@@ -145,8 +145,8 @@
 8r	.
 8FF#	.
 =22	=22
-8GGn	.
-8GGn	.
+8GGnL	.
+8GGnJ	.
 8r	.
 8GG#	.
 8r	.

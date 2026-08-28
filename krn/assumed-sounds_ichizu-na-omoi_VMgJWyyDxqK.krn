@@ -16,64 +16,64 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2.dd	B-
-8cc	.
-8dd	.
+2.dd	B- major
+8ccL	.
+8ddJ	.
 =2	=2
-4.ee-	A-maj7sus2
+4.ee-	A- major-seventh-suspended-second
 4.ff	.
 4ee-	.
 =3	=3
-2.dd	B-
-8cc	.
-8dd	.
+2.dd	B- major
+8ccL	.
+8ddJ	.
 =4	=4
-4.ee-	Cm7/B-
-4.ff	Cm7/B-
-4ee-	G-dim/A
+4.ee-	C minor-seventh/B-
+4.ff	C minor-seventh/B-
+4ee-	G- diminished/A
 =5	=5
-4dd	Gm
+4dd	G minor
 4gg	.
-4aa	B-maj7/F
+4aa	B- major-seventh/F
 4bb-	.
 =6	=6
-4.aa	Eadd(5,6,10)
+4.aa	E other-5,6,10
 8gg	.
-4.gg	Em7b5
+4.gg	E half-diminished
 8dd	.
 =7	=7
-1dd	B-/F
+1dd	B- major/F
 =8	=8
-2cc	F
-4b-	Edim
-4cc	Adim/E-
+2cc	F major
+4b-	E diminished
+4cc	A diminished/E-
 =9	=9
-2.dd	B-
-8cc	.
-8dd	.
+2.dd	B- major
+8ccL	.
+8ddJ	.
 =10	=10
-4.ee-	A-maj7sus2
+4.ee-	A- major-seventh-suspended-second
 4.ff	.
 4ee-	.
 =11	=11
-2.dd	Aadd(5,6,10)
-8cc	.
-8dd	.
+2.dd	A other-5,6,10
+8ccL	.
+8ddJ	.
 =12	=12
-4.ee-	Cm7b5
-4.ff	G-dim
-4ee-	G-dim
+4.ee-	C half-diminished
+4.ff	G- diminished
+4ee-	G- diminished
 =13	=13
-4dd	Gm
+4dd	G minor
 4gg	.
-4aa	Em7b5/G
-4bb-	Gm
+4aa	E half-diminished/G
+4bb-	G minor
 =14	=14
-4.ddd	B-/F
+4.ddd	B- major/F
 8ccc	.
-4.ccc	F7
+4.ccc	F dominant
 8bb-	.
 =15	=15
-1bb-	B-
+1bb-	B- major
 ==	==
 *-	*-

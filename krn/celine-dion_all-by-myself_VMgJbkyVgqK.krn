@@ -15,59 +15,59 @@
 *E:	*
 *M4/4	*
 =1	=1
-2r	E/G#
-2ddn	G#dim7
+2r	E major/G#
+2ddn	G# diminished-seventh
 =2	=2
-2cc#	C#7
+2cc#	C# dominant
 2b	.
 =3	=3
-2a#	F#7
-2a	Am/C
+2a#	F# dominant
+2a	A minor/C
 =4	=4
-2a[	B7sus4
-4a]	B7
-4r	G#m7/B
+[2a	B dominant-seventh-suspended-fourth
+4a]	B dominant
+4r	G# minor-seventh/B
 =5	=5
-4r	E
+4r	E major
 2B	.
-4f#[	.
+[4f#	.
 =6	=6
-4f#]	Eadd(2,4,7)
-4g#[	.
-4g#]	E
-4B[	.
+4f#]	E other-2,4,7
+[4g#	.
+4g#]	E major
+[4B	.
 =7	=7
-8B]	G#m7
-8c#	.
+8BL]	G# minor-seventh
+8c#J	.
 2.B	.
 =8	=8
-4.r	G#7sus4
+4.r	G# dominant-seventh-suspended-fourth
 8G#	.
-8G#	G#m
-8A	.
+8G#L	G# minor
+8AJ	.
 4B	.
 =9	=9
-4r	G#m7b5/D
+4r	G# half-diminished/D
 2B	.
-4f#[	.
+[4f#	.
 =10	=10
-4f#]	C#7sus4
-4g#[	.
-8g#]	C#7
-16a	.
-16g#	.
+4f#]	C# dominant-seventh-suspended-fourth
+[4g#	.
+8g#L]	C# dominant
+16aL	.
+16g#J	.
 8f#	.
-8A[	.
+[8AJ	.
 =11	=11
-4A]	F#m
+4A]	F# minor
 2r	.
-16A	.
-16G#	.
-8F#	.
+16ALL	.
+16G#J	.
+8F#J	.
 =12	=12
-8F#	Am/C
+8F#	A minor/C
 4.F#	.
-4r	B7
-4r	G#m7/B
+4r	B dominant
+4r	G# minor-seventh/B
 ==	==
 *-	*-

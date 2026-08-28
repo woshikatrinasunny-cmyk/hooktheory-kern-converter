@@ -16,111 +16,111 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4ccc	A-
-4ccc[	.
-8ccc]	A-/E-
+4ccc	A- major
+[4ccc	.
+8cccL]	A- major/E-
 8ee-	.
 8aa-	.
-8bb-	.
+8bb-J	.
 =2	=2
-8ccc	A-
+8ccc	A- major
 4ccc	.
-8ccc[	.
-8ccc]	A-/E-
+[8ccc	.
+8cccL]	A- major/E-
 8ccc	.
 8ddd-	.
-8eee-	.
+8eee-J	.
 =3	=3
-4fff	D-
+4fff	D- major
 4.fff	.
-8fff	.
+8fffL	.
 8eee-	.
-8ddd-	.
+8ddd-J	.
 =4	=4
-8ccc	A-
+8ccc	A- major
 4ccc	.
-8ccc[	.
-8ccc]	A-/E-
+[8ccc	.
+8cccL]	A- major/E-
 8ccc	.
 8bb-	.
-8aa-	.
+8aa-J	.
 =5	=5
-4gg	E-7/B-
-4gg[	.
-8gg]	E-7
+4gg	E- dominant/B-
+[4gg	.
+8ggL]	E- dominant
 8ee-	.
 8ff	.
-8gg	.
+8ggJ	.
 =6	=6
-8aa-	A-
+8aa-	A- major
 4aa-	.
-8aa-[	.
-8aa-]	A-/E-
+[8aa-	.
+8aa-L]	A- major/E-
 8ccc	.
 8bb-	.
-8aa-	.
+8aa-J	.
 =7	=7
-4ff	B-m/D-
-4ddd-[	B-m
-8ddd-]	E-7
+4ff	B- minor/D-
+[4ddd-	B- minor
+8ddd-L]	E- dominant
 8ddd-	.
 8ccc	.
-8bb-	.
+8bb-J	.
 =8	=8
-4aa-	A-
-8aa-	.
-8aa-	.
+4aa-	A- major
+8aa-L	.
+8aa-J	.
 4aa-	.
 4bb-	.
 =9	=9
-4bbn	E
+4bbn	E major
 4.bbn	.
-8een	.
+8eenL	.
 8gg-	.
-8bbn	.
+8bbnJ	.
 =10	=10
-8gg-	B/E-
+8gg-	B major/E-
 4gg-	.
-8gg-[	.
-8gg-]	B
+[8gg-	.
+8gg-L]	B major
 8ff	.
 8bbn	.
-8eee-	.
+8eee-J	.
 =11	=11
-4ddd-	G-7
+4ddd-	G- dominant
 4.ddd-	.
-8gg-	.
+8gg-L	.
 8aa-	.
-8bb-	.
+8bb-J	.
 =12	=12
-4bbn	B
-8bbn	.
-8bbn	.
+4bbn	B major
+8bbnL	.
+8bbnJ	.
 4bbn	.
 4bbn	.
 =13	=13
-4bbn	E
+4bbn	E major
 4.bbn	.
-8een	.
+8eenL	.
 8gg-	.
-8bbn	.
+8bbnJ	.
 =14	=14
-8ccc	A-/E-
+8ccc	A- major/E-
 4ccc	.
 4ccc	.
-8ccc	.
+8cccL	.
 8bb-	.
-8aa-	.
+8aa-J	.
 =15	=15
-4gg	E-7
+4gg	E- dominant
 4.eee-	.
-8ddd-	.
+8ddd-L	.
 8ccc	.
-8bb-	.
+8bb-J	.
 =16	=16
-4aa-	A-
-8ee-	.
-8ee-	.
+4aa-	A- major
+8ee-L	.
+8ee-J	.
 4ee-	.
 4ee-	.
 ==	==

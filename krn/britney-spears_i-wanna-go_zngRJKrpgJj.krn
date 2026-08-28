@@ -16,64 +16,64 @@
 *d:	*
 *M4/4	*
 =1	=1
-16dd[	Dm
-16dd_	.
-8dd]	Dm
-16dd[	.
-8dd_	Dm
-16dd]	.
-8dd	Dm
+[16ddLL	D minor
+16ddJ_	.
+8dd]	D minor
+[16ddk	.
+8dd_	D minor
+16ddJk]	.
+8ddL	D minor
 8ff	.
 8dd	.
-8cc	.
+8ccJ	.
 =2	=2
-8a	.
-8a[	F
-16a_	.
-16a]	F
-16a[	.
-16a_	.
-8a]	F
+8aL	.
+[8a	F major
+16aL_	.
+16a]	F major
+[16a	.
+16aJJ_	.
+8a]	F major
 8r	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 =3	=3
-16dd[	Dm
-16dd_	.
-8dd]	Dm
-16dd[	.
-8dd_	Dm
-16dd]	.
-8dd	Dm
+[16ddLL	D minor
+16ddJ_	.
+8dd]	D minor
+[16ddk	.
+8dd_	D minor
+16ddJk]	.
+8ddL	D minor
 8ff	.
 8dd	.
-8cc	.
+8ccJ	.
 =4	=4
-8a	.
-8a[	F
-16a_	.
-16a]	F
-16a[	.
-16a_	.
-8a]	F
+8aL	.
+[8a	F major
+16aL_	.
+16a]	F major
+[16a	.
+16aJJ_	.
+8aL]	F major
 8f	.
 8a	.
-8g[	.
+[8gJ	.
 =5	=5
-16g_	Am
-16g]	.
-16r	Am
+16gLL_	A minor
+16gJJ]	.
+16r	A minor
 16r	.
-16r	Am
+16r	A minor
 16r	.
-16r	Am
+16r	A minor
 16r	.
-16e[	Am
-16e_	Am
-16e_	Am
-16e]	Am
-16r	Am
-16r	Am
-8r	Am
+[16eLL	A minor
+16e_	A minor
+16e_	A minor
+16eJJ]	A minor
+16r	A minor
+16r	A minor
+8r	A minor
 ==	==
 *-	*-

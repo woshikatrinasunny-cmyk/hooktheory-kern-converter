@@ -16,40 +16,40 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4r	B-m
+4r	B- minor
 4ff	.
 4ff	.
 4ff	.
 =2	=2
 4ff	.
 4ff	.
-4aa-	B-m/D-
-4gg-	Cm7b5
+4aa-	B- minor/D-
+4gg-	C half-diminished
 =3	=3
-4een	B-dim
+4een	B- diminished
 4ff	.
 4gg-	.
 4aa-	.
 =4	=4
 4gg-	.
 4ff	.
-16aa-	Fdim
+16aa-LL	F diminished
 16ggn	.
 16gg-	.
-16ff	.
+16ffJJ	.
 4een	.
 =5	=5
-4r	G-
+4r	G- major
 4b-	.
 4b-	.
 4b-	.
 =6	=6
 4b-	.
 4b-	.
-4dd-	G-/D-
-4cc	G-m/A
+4dd-	G- major/D-
+4cc	G- minor/A
 =7	=7
-4an	G-m
+4an	G- minor
 4b-	.
 4cc	.
 4dd-	.
@@ -59,22 +59,22 @@
 4an	.
 4b-	.
 =9	=9
-4ff[	B-m/F
-8ff]	.
-8cc	Cm7b5
-8dd-	D-
-8b-[	B-m
+[4ff	B- minor/F
+8ffL]	.
+8ccJ	C half-diminished
+8dd-L	D- major
+[8b-	B- minor
 8b-]	.
-8dd-	D-
+8dd-J	D- major
 =10	=10
-8ee-[	E-m
+[8ee-L	E- minor
 8ee-]	.
-8ee-[	E-m
-8ee-]	.
-16dd-	D-
+[8ee-	E- minor
+8ee-J]	.
+16dd-LL	D- major
 16ee-	.
 16dd-	.
-16ee-	.
-4an	Adim
+16ee-JJ	.
+4an	A diminished
 ==	==
 *-	*-

@@ -16,166 +16,166 @@
 *d:	*
 *M4/4	*
 =1	=1
-4f	Dm
-8f	.
-8e	.
-8f	.
+4f	D minor
+8fL	.
+8eJ	.
+8fL	.
 8g	.
 8a	.
-8g	.
+8gJ	.
 =2	=2
 4f	.
-8f	.
-8e	.
-8f	.
+8fL	.
+8eJ	.
+8fL	.
 8g	.
 8a	.
-8g	.
+8gJ	.
 =3	=3
-4g-	D
-8g-	.
-8f	.
-8g-	.
+4g-	D major
+8g-L	.
+8fJ	.
+8g-L	.
 8g	.
 8a	.
-8g	.
+8gJ	.
 =4	=4
 4g-	.
-8g-	.
-8f	.
-8g-	.
+8g-L	.
+8fJ	.
+8g-L	.
 8g	.
 8a	.
-8d	.
+8dJ	.
 =5	=5
-4b-	Gm
-8b-	.
-8a	.
-8b-	.
+4b-	G minor
+8b-L	.
+8aJ	.
+8b-L	.
 8cc	.
 8dd	.
-8cc	.
+8ccJ	.
 =6	=6
 4b-	.
-8b-	.
-8a	.
-8b-	.
+8b-L	.
+8aJ	.
+8b-L	.
 8cc	.
 8dd	.
-8cc	.
+8ccJ	.
 =7	=7
-4bn	A-dim7
-8bn	.
-8b-	.
-8bn	.
+4bn	A- diminished-seventh
+8bnL	.
+8b-J	.
+8bnL	.
 8dd-	.
 8dd	.
-8dd-	.
+8dd-J	.
 =8	=8
 4bn	.
-8bn	.
-8b-	.
-8bn	.
+8bnL	.
+8b-J	.
+8bnL	.
 8dd-	.
 8dd	.
-8bn	.
+8bnJ	.
 =9	=9
-4r	Dm/A
-4a	Dm/F
-4a-	D-m/E
-4g	Cm/E-
+4r	D minor/A
+4a	D minor/F
+4a-	D- minor/E
+4g	C minor/E-
 =10	=10
-4f	Dm
-4e	A/D-
-4e-	A-/C
-4e	A/D-
+4f	D minor
+4e	A major/D-
+4e-	A- major/C
+4e	A major/D-
 =11	=11
-4r	Dm/A
-4a	Dm/F
-4a-	D-m/E
-4g	Cm/E-
+4r	D minor/A
+4a	D minor/F
+4a-	D- minor/E
+4g	C minor/E-
 =12	=12
-4f	Dm
-4e	A/D-
-4e-	A-/C
-4e	A/D-
+4f	D minor
+4e	A major/D-
+4e-	A- major/C
+4e	A major/D-
 =13	=13
-4.r	Dm
-8r	Dm/A
-4a-[	E/A-
-8a-]	E
-8e	.
+4.r	D minor
+8r	D minor/A
+[4a-	E major/A-
+8a-L]	E major
+8eJ	.
 =14	=14
-4g[	Gm
-8g]	Gm/D
-8dd	.
-4dd-[	A/D-
-8dd-]	A
-8ee	.
+[4g	G minor
+8gL]	G minor/D
+8ddJ	.
+[4dd-	A major/D-
+8dd-L]	A major
+8eeJ	.
 =15	=15
 4.d	.
 8a	.
-4a-[	E
-8a-]	E/B
-8e	.
+[4a-	E major
+8a-L]	E major/B
+8eJ	.
 =16	=16
-4g[	Gm/B-
-8g]	Gm
-8dd	.
-4dd-	A
+[4g	G minor/B-
+8gL]	G minor
+8ddJ	.
+4dd-	A major
 4a	.
 =17	=17
-4r	Aadd(1,4,7,10)
+4r	A other-1,4,7,10
 2.bb-	.
 =18	=18
-4r	Aadd(1,4,7,10)
+4r	A other-1,4,7,10
 2.bb-	.
 =19	=19
-4r	Aadd(1,4,7,10)
+4r	A other-1,4,7,10
 2.bb-	.
 =20	=20
 8r	.
-16ee	.
+16eeLL	.
 16gg	.
 16dd-	.
 16ee	.
 16b-	.
-16dd-	.
-16g	.
+16dd-JJ	.
+16gLL	.
 16b-	.
 16e	.
 16g	.
 16d-	.
 16e	.
 16B-	.
-16d-	.
+16d-JJ	.
 =21	=21
-4r	Bm7b5/A
+4r	B half-diminished/A
 2.bbn	.
 =22	=22
 8r	.
-16ff	.
+16ffLL	.
 16aa-	.
 16dd	.
 16ff	.
 16bn	.
-16dd	.
-16a-	.
+16ddJJ	.
+16a-LL	.
 16bn	.
 16f	.
 16a-	.
 16d	.
 16f	.
 16Bn	.
-16d	.
+16dJJ	.
 =23	=23
-8aa	A
-2..bb-	B-
+8aa	A major
+2..bb-	B- major
 =24	=24
-8aa	A
-2..bb-	B-
+8aa	A major
+2..bb-	B- major
 =25	=25
-8aa	A
-2..bb-	B-
+8aa	A major
+2..bb-	B- major
 ==	==
 *-	*-

@@ -16,96 +16,96 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8g#	F#add(2,4,7)
+8g#	F# other-2,4,7
 16r	.
-8a#	F#
+8a#	F# major
 16r	.
-8a#	F#
+8a#	F# major
 16r	.
-8a#	F#
+8a#	F# major
 16r	.
-8a#	F#
+8a#	F# major
 16r	.
-16a#[	F#
+[16a#	F# major
 =2	=2
 16a#]	.
 16r	.
-8e#	C#
+8e#	C# major
 16r	.
-8e#	C#
+8e#	C# major
 16r	.
-8e#	A#m
-8f#	F#
-8g#	D#m/F#
-8e#	D#add(2,3,7)
+8e#L	A# minor
+8f#	F# major
+8g#	D# minor/F#
+8e#J	D# other-2,3,7
 =3	=3
 16r	.
-8f#	D#m7
+8f#	D# minor-seventh
 16r	.
-8f#	D#m7
+8f#	D# minor-seventh
 16r	.
-8f#	D#m7
+8f#	D# minor-seventh
 16r	.
-8f#	D#m7
+8f#	D# minor-seventh
 16r	.
-8f#	Bsus2
-16f#[	Bsus2
+8f#L	B suspended-second
+[16f#Jk	B suspended-second
 =4	=4
 16f#]	.
 16r	.
-8f#	Bsus2
+8f#	B suspended-second
 16r	.
-8f#	Bsus2
+8f#	B suspended-second
 16r	.
-8f#	Bsus2
-8g#	C#sus2
-8b	C#7sus2
-8g#	C#sus2
+8f#L	B suspended-second
+8g#	C# suspended-second
+8b	C# dominant-seventh-suspended-second
+8g#J	C# suspended-second
 =5	=5
-8g#	F#add(2,4,7)
+8g#	F# other-2,4,7
 16r	.
-8a#	F#
+8a#	F# major
 16r	.
-8a#	F#
+8a#	F# major
 16r	.
-8a#	F#
+8a#	F# major
 16r	.
-8a#	F#
+8a#	F# major
 16r	.
-16a#[	F#
+[16a#	F# major
 =6	=6
 16a#]	.
 16r	.
-8e#	C#
+8e#	C# major
 16r	.
-8e#	C#
+8e#	C# major
 16r	.
-8e#	A#m
-8f#	F#
-8g#	D#m/F#
-8e#	D#add(2,3,7)
+8e#L	A# minor
+8f#	F# major
+8g#	D# minor/F#
+8e#J	D# other-2,3,7
 =7	=7
 16r	.
-8f#	D#m7
+8f#	D# minor-seventh
 16r	.
-8f#	D#m7
+8f#	D# minor-seventh
 16r	.
-8f#	D#m7
+8f#	D# minor-seventh
 16r	.
-8f#	D#m7
+8f#	D# minor-seventh
 16r	.
-8f#	Bsus2
-16f#[	Bsus2
+8f#L	B suspended-second
+[16f#Jk	B suspended-second
 =8	=8
 16f#]	.
 16r	.
-8f#	Bsus2
+8f#	B suspended-second
 16r	.
-8f#	Bsus2
+8f#	B suspended-second
 16r	.
-8f#	Bsus2
-8g#	C#sus2
-8b	C#7sus2
-8g#	C#sus2
+8f#L	B suspended-second
+8g#	C# suspended-second
+8b	C# dominant-seventh-suspended-second
+8g#J	C# suspended-second
 ==	==
 *-	*-

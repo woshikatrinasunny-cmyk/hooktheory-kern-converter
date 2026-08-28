@@ -16,125 +16,125 @@
 *b-:	*
 *M4/4	*
 =1	=1
-8r	B-m
-16b-	.
-16f	.
+8r	B- minor
+16b-LL	.
+16fJJ	.
 4..ff	.
 16r	.
-16ee-	.
+16ee-LL	.
 16dd-	.
 16cc	.
-16b-	.
+16b-JJ	.
 =2	=2
-16dd-	E-sus4/B-
+16dd-	E- suspended-fourth/B-
 8r	.
 16cc	.
 2cc	.
 4r	.
 =3	=3
-8r	G-/B-
-16b-	.
-16f	.
+8r	G- major/B-
+16b-LL	.
+16fJJ	.
 4..ee-	.
 16r	.
-16dd-	.
+16dd-LL	.
 16cc	.
 16b-	.
-16a-	.
+16a-JJ	.
 =4	=4
-16aa-	E-sus4/B-
+16aa-	E- suspended-fourth/B-
 8r	.
 16a-	.
 2a-	.
 4r	.
 =5	=5
-8r	B-m
-16bb-	.
-16ff	.
+8r	B- minor
+16bb-LL	.
+16ffJJ	.
 4..fff	.
 16r	.
-16eee-	.
+16eee-LL	.
 16ddd-	.
 16ccc	.
-16bb-	.
+16bb-JJ	.
 =6	=6
-16ddd-	B-m7/A-
+16ddd-	B- minor-seventh/A-
 8r	.
 16ccc	.
 2ccc	.
 4r	.
 =7	=7
-8r	G-maj7
-16bb-	.
-16ff	.
+8r	G- major-seventh
+16bb-LL	.
+16ffJJ	.
 4..eee-	.
 16r	.
-16ddd-	.
+16ddd-LL	.
 16ccc	.
 16bb-	.
-16aa-	.
+16aa-JJ	.
 =8	=8
-16aaa-	Fm7
+16aaa-	F minor-seventh
 8r	.
 16aa-	.
 2aa-	.
-8d-	.
-16e-	.
-16f	.
+8d-L	.
+16e-L	.
+16fJJ	.
 =9	=9
-4a-	G-maj7sus2
+4a-	G- major-seventh-suspended-second
 8r	.
-16a-	.
-16a-	.
-4b-	A-maj7sus2
+16a-LL	.
+16a-JJ	.
+4b-	A- major-seventh-suspended-second
 8r	.
-16b-	.
-16b-	.
+16b-LL	.
+16b-JJ	.
 =10	=10
-4dd-	Bmaj7sus2
+4dd-	B major-seventh-suspended-second
 8r	.
-16dd-	.
-16dd-	.
-8ee-	D-maj7sus2
-16ee-	.
-16ee-	.
-4cc	Fm7
+16dd-LL	.
+16dd-JJ	.
+8ee-L	D- major-seventh-suspended-second
+16ee-L	.
+16ee-JJ	.
+4cc	F minor-seventh
 =11	=11
-4b-	B-
+4b-	B- major
 8r	.
-16B-	.
-16dn	.
-8g-	G-
-16B-	.
-16g-	.
-8a-	A-
-16c	.
-16a-	.
+16B-LL	.
+16dnJJ	.
+8g-L	G- major
+16B-L	.
+16g-J	.
+8a-	A- major
+16cL	.
+16a-JJ	.
 =12	=12
-4b-	B-
+4b-	B- major
 2.r	.
 =13	=13
-1f	D-maj7
+1f	D- major-seventh
 =14	=14
-1e-	A-/C
+1e-	A- major/C
 =15	=15
-1d-	Bsus2
+1d-	B suspended-second
 =16	=16
-1g-	G-7/E
+1g-	G- dominant/E
 =17	=17
-1a-	Emaj7
+1a-	E major-seventh
 =18	=18
-1g-	E-m7
+1g-	E- minor-seventh
 =19	=19
-1en	E7sus4/D
+1en	E dominant-seventh-suspended-fourth/D
 =20	=20
-4.an[	A7/G
-3...an_	Em/G
+[4.an	A dominant/G
+3...an_	E minor/G
 =21	=21
 1an_	.
 =22	=22
 1an_	.
 =23	=23
-1an]	A7/G
+1an]	A dominant/G
 ==	==
 *-	*-

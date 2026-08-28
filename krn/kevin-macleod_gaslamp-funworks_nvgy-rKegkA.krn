@@ -15,37 +15,37 @@
 *C:	*
 *M4/4	*
 =1	=1
-16ff	F
+16ff	F major
 16r	.
 16ff	.
 16r	.
-16dd	.
+16ddLL	.
 16dd#	.
 16ee	.
-16ff	.
+16ffJJ	.
 2r	.
 =2	=2
-16ee	C
+16ee	C major
 16r	.
 16ee	.
 16r	.
-16cc	.
+16ccLL	.
 16cc#	.
 16dd	.
-16ee	.
+16eeJJ	.
 2r	.
 =3	=3
-16dd	G
+16dd	G major
 16r	.
 16dd	.
 16r	.
-16b	.
+16bLL	.
 16cc	.
 16cc#	.
-16dd	.
+16ddJJ	.
 2r	.
 =4	=4
-16cc	C
+16cc	C major
 8r	.
 16cc	.
 8r	.

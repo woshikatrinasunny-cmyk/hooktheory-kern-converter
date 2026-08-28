@@ -16,80 +16,80 @@
 *D:	*
 *M6/4	*
 =1	=1
-4ff#	D
-1aa[	.
+4ff#	D major
+[1aa	.
 8aa]	.
 8r	.
 =2	=2
-2bb	Bm
+2bb	B minor
 4aa	.
-2gg	Badd(4,7,8,10)
+2gg	B other-4,7,8,10
 4ff#	.
 =3	=3
-3...ee	Em
+3...ee	E minor
 8r	.
 4e	.
 4f#	.
 4d	.
 =4	=4
-2.e	A
-4f#	A/C#
+2.e	A major
+4f#	A major/C#
 4e	.
 4c#	.
 =5	=5
-4ff#	D
+4ff#	D major
 1aa	.
 4r	.
 =6	=6
-2bb	Bm
+2bb	B minor
 4aa	.
-2gg	Badd(4,7,8,10)
+2gg	B other-4,7,8,10
 4ff#	.
 =7	=7
-3...ee	Em
+3...ee	E minor
 8r	.
 4e	.
 4f#	.
 4d	.
 =8	=8
-2.a[	Am7
-8a]	D7
+[2.a	A minor-seventh
+8a]	D dominant
 8r	.
 4aa	.
-8aa#	D7sus2
+8aa#	D dominant-seventh-suspended-second
 8r	.
 =9	=9
-4bb	G
+4bb	G major
 2..ddd	.
 8g	.
 4a	.
 =10	=10
-4a#	Gm
+4a#	G minor
 2..dd	.
 8.aa	.
 8.aa#	.
 =11	=11
-6...bb	C7
-2.eee[	.
-16eee]	.
-8a	.
+6...bb	C dominant
+[2.eee	.
+16eeeLK]	.
+8aJ	.
 4a#	.
 =12	=12
-4b	B9
-1ff#[	.
+4b	B dominant-ninth
+[1ff#	.
 4ff#]	.
 =13	=13
-4eee	Em7
+4eee	E minor-seventh
 4bb	.
 2..ddd	.
 8r	.
 =14	=14
-8.ee	G
+8.ee	G major
 6...b	.
 2..dd	.
 8r	.
 =15	=15
-4eee	Em7b5/G
+4eee	E half-diminished/G
 4aa#	.
 2..ddd	.
 8r	.

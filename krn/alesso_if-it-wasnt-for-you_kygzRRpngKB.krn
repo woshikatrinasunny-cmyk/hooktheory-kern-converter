@@ -15,7 +15,7 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.r	Am
+4.r	A minor
 8b	.
 8.cc	.
 8.r	.
@@ -24,11 +24,11 @@
 8.cc	.
 8.r	.
 8b	.
-8.cc	.
+8.ccL	.
 8.dd	.
-8cc	.
+8ccJ	.
 =3	=3
-4.r	F
+4.r	F major
 8b	.
 8.cc	.
 8.r	.
@@ -37,11 +37,11 @@
 8.cc	.
 8.r	.
 8b	.
-8.cc	.
+8.ccL	.
 8.gg	.
-8ee	.
+8eeJ	.
 =5	=5
-4.r	C
+4.r	C major
 8dd	.
 8.ee	.
 8.r	.
@@ -50,21 +50,21 @@
 8.ee	.
 8.r	.
 8dd	.
-8.ee	.
+8.eeL	.
 8.cc	.
-8b	.
+8bJ	.
 =7	=7
-4.r	Em
+4.r	E minor
 8g	.
 8.b	.
 8.r	.
 8g	.
 =8	=8
-8.dd	G
+8.dd	G major
 8.r	.
 8g	.
-8.dd	.
+8.ddL	.
 8.ee	.
-8cc	.
+8ccJ	.
 ==	==
 *-	*-

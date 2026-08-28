@@ -16,7 +16,7 @@
 *a:	*
 *M4/4	*
 =1	=1
-4e	Am
+4e	A minor
 4a	.
 4cc	.
 4ee	.
@@ -26,7 +26,7 @@
 4cc	.
 4a	.
 =3	=3
-4f	F/A
+4f	F major/A
 4a	.
 4cc	.
 4dd#	.
@@ -36,7 +36,7 @@
 4cc	.
 4a	.
 =5	=5
-4e	Am
+4e	A minor
 4a	.
 4cc	.
 4ee	.
@@ -46,7 +46,7 @@
 4cc	.
 4a	.
 =7	=7
-4d#	G#m
+4d#	G# minor
 4g#	.
 4b	.
 4dd#	.
@@ -56,7 +56,7 @@
 4b	.
 4g#	.
 =9	=9
-4r	Am
+4r	A minor
 4ee	.
 4dd#	.
 4ee	.
@@ -64,11 +64,11 @@
 2ff	.
 2ee	.
 =11	=11
-1dd#	F/A
+1dd#	F major/A
 =12	=12
 1cc	.
 =13	=13
-4r	Am
+4r	A minor
 4ee	.
 4dd#	.
 4ee	.
@@ -76,13 +76,13 @@
 2ff	.
 2ee	.
 =15	=15
-2dd#	G#m
+2dd#	G# minor
 2gg#	.
 =16	=16
 2dd#	.
 2b	.
 =17	=17
-4r	Am
+4r	A minor
 4ee	.
 4dd#	.
 4ee	.
@@ -90,44 +90,44 @@
 2ff	.
 2ee	.
 =19	=19
-1dd#	F/A
+1dd#	F major/A
 =20	=20
 1cc	.
 =21	=21
-4r	Dm
+4r	D minor
 4dd	.
 4cc	.
 4dd	.
 =22	=22
-2cc	E
+2cc	E major
 2b	.
 =23	=23
-1a[	Am
+[1a	A minor
 =24	=24
 1a]	.
 =25	=25
-2r	Dm/A
+2r	D minor/A
 2ff	.
 =26	=26
 1aa	.
 =27	=27
-2r	Bm
+2r	B minor
 2dd	.
 =28	=28
 1ff#	.
 =29	=29
-2r	Dm/A
+2r	D minor/A
 2ff	.
 =30	=30
 1aa	.
 =31	=31
-2r	Cm
+2r	C minor
 2gg	.
 =32	=32
 2dd#	.
 2cc	.
 =33	=33
-4ee	Am/E
+4ee	A minor/E
 4dd#	.
 4ee	.
 4dd#	.
@@ -137,7 +137,7 @@
 4ee	.
 4dd#	.
 =35	=35
-4ee	E7sus4/A
+4ee	E dominant-seventh-suspended-fourth/A
 4dd#	.
 4ee	.
 4dd#	.

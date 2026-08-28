@@ -16,57 +16,57 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2r	C#
-8.cc#	.
-8dd#	.
+2r	C# major
+8.cc#L	.
+8dd#J	.
 16r	.
 8ffn	.
 =2	=2
-4.ff#	D
+4.ff#	D major
 8r	.
-4ee	C#m
+4ee	C# minor
 4a	.
 =3	=3
-8.dd	C
-8cc#	.
+8.ddL	C major
+8cc#J	.
 16r	.
-16cc#	.
-16dd	.
-4b	G/B
+16cc#LL	.
+16ddJJ	.
+4b	G major/B
 8r	.
-16b	.
-16cc#	.
+16bLL	.
+16cc#JJ	.
 =4	=4
-8.dd	A#
-8cc#	.
+8.ddL	A# major
+8cc#J	.
 16r	.
 8dd	.
-2dd	Gm
+2dd	G minor
 =5	=5
-4.dd	G#dim
+4.dd	G# diminished
 8cc#	.
-4cc#	A
-8d	.
-8e	.
+4cc#	A major
+8dL	.
+8eJ	.
 =6	=6
-4.f#	F#m
-16e	.
-16f#	.
-8.g#	Fadd(1,3,6)
+4.f#	F# minor
+16eLL	.
+16f#JJ	.
+8.g#L	F other-1,3,6
 8.f#	.
-8fn	.
+8fnJ	.
 =7	=7
-4f#	Eadd(2,4,7)
+4f#	E other-2,4,7
 4g#	.
-4a	B7/D#
+4a	B dominant/D#
 4b	.
 =8	=8
-4.dd	D
+4.dd	D major
 8ee	.
-8.ff#	Bm
+8.ff#L	B minor
 8.ee	.
-8ff#	.
+8ff#J	.
 =9	=9
-1gg#	C#7sus4
+1gg#	C# dominant-seventh-suspended-fourth
 ==	==
 *-	*-

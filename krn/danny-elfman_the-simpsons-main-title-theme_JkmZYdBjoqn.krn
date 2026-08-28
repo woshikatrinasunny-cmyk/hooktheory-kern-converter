@@ -16,84 +16,84 @@
 *C:	*
 *M4/4	*
 =1	=1
-8cccc	C
+8ccccL	C major
 8bbb	.
 8aaa	.
-8ggg	.
-8aaa	.
+8gggJ	.
+8aaaL	.
 8ggg	.
 8fff#	.
-8eee	.
+8eeeJ	.
 =2	=2
-8aaa	.
+8aaaL	.
 8ggg	.
 8fff#	.
-8eee	.
-8dd	.
+8eeeJ	.
+8ddL	.
 8ee	.
 8ff#	.
-8dd	.
+8ddJ	.
 =3	=3
-8g	C7
-8f#	.
+8gL	C dominant
+8f#J	.
 2.g	.
 =4	=4
-16c	.
+16cLL	.
 16B	.
 16c	.
 16d	.
 16e	.
 16d	.
 16e	.
-16f#	.
-16g	.
+16f#JJ	.
+16gLL	.
 16f#	.
 16g	.
 16a	.
 16a#	.
 16g	.
 16e	.
-16c	.
+16cJJ	.
 =5	=5
 *k[b-e-]	*
 *E-:	*
-4e-[	E-
-4e-]	Aadd(1,6,10)
-4g[	E-7
-4g_	Aadd(1,4,6,10)
+[4e-	E- major
+4e-]	A other-1,6,10
+[4g	E- dominant
+4g_	A other-1,4,6,10
 =6	=6
-4g_	E-7
-4g]	Aadd(1,4,6,10)
-4a	F7/E-
-4cc	F7/A
+4g_	E- dominant
+4g]	A other-1,4,6,10
+4a	F dominant/E-
+4cc	F dominant/A
 =7	=7
-4b-[	E-
-4b-]	Aadd(1,6,10)
-4g	E-
-4e-	Aadd(1,6,10)
+[4b-	E- major
+4b-]	A other-1,6,10
+4g	E- major
+4e-	A other-1,6,10
 =8	=8
-16aaa	E-add(6,7,10)
+16aaaLL	E- other-6,7,10
 16ggg	.
 16fff	.
 16eee-	.
-16ggg	Aadd(1,4,6,10)
+16ggg	A other-1,4,6,10
 16fff	.
 16eee-	.
-16ddd-	.
-16fff	E-7
+16ddd-JJ	.
+16fffLL	E- dominant
 16eee-	.
 16ddd-	.
 16aa	.
-16eee-	Aadd(1,4,6,10)
+16eee-	A other-1,4,6,10
 16ddd-	.
 16aa	.
-16gg	.
+16ggJJ	.
 =9	=9
-4e-	E-7
+4e-	E- dominant
 4G	.
 4A	.
 4c	.
 =10	=10
-1d-	Gadd(1,3,6,10)
+1d-	G other-1,3,6,10
 ==	==
 *-	*-

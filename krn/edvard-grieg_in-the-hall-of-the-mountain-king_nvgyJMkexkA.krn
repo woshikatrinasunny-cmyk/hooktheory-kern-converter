@@ -16,60 +16,60 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8ff#	F#
+8ff#L	F# major
 8gg#	.
 8aa#	.
-8bb	.
-8ccc#	.
-8aa#	.
+8bbJ	.
+8ccc#L	.
+8aa#J	.
 4ccc#	.
 =2	=2
-8dddn	F#augMaj7/D
-8aa#	.
+8dddnL	F# augmented-major-seventh/D
+8aa#J	.
 4dddn	.
-8ccc#	F#
-8aa#	.
+8ccc#L	F# major
+8aa#J	.
 4ccc#	.
 =3	=3
-8ff#	.
+8ff#L	.
 8gg#	.
 8aa#	.
-8bb	.
-8ccc#	.
-8aa#	.
+8bbJ	.
+8ccc#L	.
+8aa#J	.
 4ccc#	.
 =4	=4
-8dddn	F#aug/D
-8aa#	.
+8dddnL	F# augmented/D
+8aa#J	.
 4dddn	.
-2ccc#	F#
+2ccc#	F# major
 =5	=5
-8ff#	.
+8ff#L	.
 8gg#	.
 8aa#	.
-8bb	.
-8ccc#	.
-8aa#	.
+8bbJ	.
+8ccc#L	.
+8aa#J	.
 4ccc#	.
 =6	=6
-8ddd#	D#m
-8aa#	.
+8ddd#L	D# minor
+8aa#J	.
 4ddd#	.
-8ccc#	F#
-8aa#	.
+8ccc#L	F# major
+8aa#J	.
 4ccc#	.
 =7	=7
-8ff#	.
+8ff#L	.
 8gg#	.
 8aa#	.
-8bb	.
-8ccc#	.
-8aa#	.
+8bbJ	.
+8ccc#L	.
+8aa#J	.
 4ccc#	.
 =8	=8
-8ddd#	D#m
-8aa#	.
+8ddd#L	D# minor
+8aa#J	.
 4ddd#	.
-2ccc#	F#
+2ccc#	F# major
 ==	==
 *-	*-

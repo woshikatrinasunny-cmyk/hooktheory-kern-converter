@@ -16,60 +16,60 @@
 *D-:	*
 *M4/4	*
 =1	=1
-2r	G-
-8f	.
-8e-	D-add(2,4,7)
+2r	G- major
+8fL	.
+8e-	D- other-2,4,7
 8e-	.
-8e-[	A-
+[8e-J	A- major
 =2	=2
 2e-]	.
-8f	.
+8fL	.
 8a-	.
 8b-	.
-8b-[	.
+[8b-J	.
 =3	=3
-3...b-]	G-
-8a-	D-add(2,4,7)
+3...b-]	G- major
+8a-L	D- other-2,4,7
 8f	.
-8f	A-
+8fJ	A- major
 =4	=4
 8e-	.
 4e-	.
 8r	.
-8f	.
+8fL	.
 8e-	.
 8d-	.
-8e-[	.
+[8e-J	.
 =5	=5
-8e-]	G-
-8B-	.
+8e-L]	G- major
+8B-J	.
 4B-	.
-8f	.
-8e-	D-add(2,4,7)
+8fL	.
+8e-	D- other-2,4,7
 8d-	.
-8e-[	A-
+[8e-J	A- major
 =6	=6
-8e-]	.
-8A-	.
+8e-L]	.
+8A-J	.
 4A-	.
-8f	.
-8a-	D-/F
+8fL	.
+8a-	D- major/F
 8b-	.
-8b-[	.
+[8b-J	.
 =7	=7
-3...b-]	G-
-4a-	D-add(2,4,7)
-8e-[	A-
+3...b-]	G- major
+4a-	D- other-2,4,7
+[8e-	A- major
 =8	=8
 2e-]	.
-8f	.
+8fL	.
 8a-	.
 8b-	.
-8b-	.
+8b-J	.
 =9	=9
-3...b-	G-
-4a-	D-add(2,4,7)
-8e-[	A-
+3...b-	G- major
+4a-	D- other-2,4,7
+[8e-	A- major
 =10	=10
 4.e-]	.
 3...r	.

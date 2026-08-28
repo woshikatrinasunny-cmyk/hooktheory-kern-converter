@@ -15,60 +15,60 @@
 *B:	*
 *M6/4	*
 =1	=1
-4.r	D#7sus4
-4.d#	D#7sus4
-4.dd#	D#7/G
-4.cc#	D#7/G
+4.r	D# dominant-seventh-suspended-fourth
+4.d#	D# dominant-seventh-suspended-fourth
+4.dd#	D# dominant/G
+4.cc#	D# dominant/G
 =2	=2
-4cc#	G#m
-8b[	.
-4b]	G#add(2,3,7)
-8b[	.
-4.b]	G#m
-4.b	G#m
+4cc#	G# minor
+[8b	.
+4b]	G# other-2,3,7
+[8b	.
+4.b]	G# minor
+4.b	G# minor
 =3	=3
-4.a#	D#7sus4
-4.d#	D#7sus4
-4dd#	D#7/G
-8cc#[	.
-4cc#]	D#7/G
-8cc#[	.
+4.a#	D# dominant-seventh-suspended-fourth
+4.d#	D# dominant-seventh-suspended-fourth
+4dd#	D# dominant/G
+[8cc#	.
+4cc#]	D# dominant/G
+[8cc#	.
 =4	=4
-4cc#]	G#m
-8b[	.
-4.b_	G#add(2,3,7)
-8b]	G#m
+4cc#]	G# minor
+[8b	.
+4.b_	G# other-2,3,7
+8b]	G# minor
 4r	.
-4cc#	G#m
+4cc#	G# minor
 8cc#	.
 =5	=5
-4cc#	A
-4.b	A
-4.b	E
+4cc#	A major
+4.b	A major
+4.b	E major
 8cc#	.
-4cc#	E
+4cc#	E major
 8cc#	.
 =6	=6
-4cc#	A
-4.b	A
-4.b	E
+4cc#	A major
+4.b	A major
+4.b	E major
 8dd#	.
-4dd#	E
+4dd#	E major
 8dd#	.
 =7	=7
-4dd#[	B
-8dd#]	B
+[4dd#	B major
+8dd#]	B major
 4cc#	.
-8cc#	F#
+8cc#	F# major
 4cc#	.
 8cc#	.
-4cc#	F#
+4cc#	F# major
 8cc#	.
 =8	=8
-4gg#	B
-4.dd#	B
-4.ff#	F#
+4gg#	B major
+4.dd#	B major
+4.ff#	F# major
 8gg#	.
-4.f#	F#
+4.f#	F# major
 ==	==
 *-	*-

@@ -16,32 +16,32 @@
 *A:	*
 *M4/4	*
 =1	=1
-4ff#	D
+4ff#	D major
 4ff#	.
-8ff#	.
+8ff#L	.
 8ee	.
 8b	.
-8cc#[	.
+[8cc#J	.
 =2	=2
-8cc#]	A
+8cc#]	A major
 4cc#	.
 8b	.
-8cc#	.
-8ee	.
+8cc#L	.
+8eeJ	.
 4cc#	.
 =3	=3
-4gg#	E
+4gg#	E major
 4gg#	.
-8gg#	.
+8gg#L	.
 8ff#	.
 8gg#	.
-8aa[	.
+[8aaJ	.
 =4	=4
-8aa]	F#m
+8aa]	F# minor
 4aa	.
 8gg#	.
-8aa	.
-8gg#	.
+8aaL	.
+8gg#J	.
 4ff#	.
 ==	==
 *-	*-

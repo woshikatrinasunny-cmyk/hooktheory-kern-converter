@@ -16,64 +16,64 @@
 *E:	*
 *M4/4	*
 =1	=1
-1f#	C#m
+1f#	C# minor
 =2	=2
-2.e	E/B
+2.e	E major/B
 4r	.
 =3	=3
-4d#	A
-4d#[	C#m/G#
-4d#]	C#m/E
-4e[	F#
+4d#	A major
+[4d#	C# minor/G#
+4d#]	C# minor/E
+[4e	F# major
 =4	=4
 4e]	.
 2.r	.
 =5	=5
-4r	C
+4r	C major
 4e	.
 4e	.
-8e	.
-8dn[	.
+8eL	.
+[8dnJ	.
 =6	=6
-16dn]	C#m7b5
-8.B	.
+16dnLK]	C# half-diminished
+8.BJ	.
 4.A	.
 8r	.
 4Gn	.
 =7	=7
-4A	D
-2Gn	D7
-4B[	B7/D#
+4A	D major
+2Gn	D dominant
+[4B	B dominant/D#
 =8	=8
 4B]	.
 4B	.
 4c#	.
 4e	.
 =9	=9
-1f#	C#m
+1f#	C# minor
 =10	=10
-2.e	E/B
+2.e	E major/B
 4r	.
 =11	=11
-4d#	F#7/A#
+4d#	F# dominant/A#
 2d#	.
-4e[	Am
+[4e	A minor
 =12	=12
 2e]	.
 4r	.
 8e	.
 8r	.
 =13	=13
-4gn	Dadd(2,4,7,9,10)
+4gn	D other-2,4,7,9,10
 4gn	.
 4gn	.
-4f#[	.
+[4f#	.
 =14	=14
 4f#]	.
 2f#	.
-4e[	.
+[4e	.
 =15	=15
-1e_	E
+1e_	E major
 =16	=16
 2e]	.
 2r	.

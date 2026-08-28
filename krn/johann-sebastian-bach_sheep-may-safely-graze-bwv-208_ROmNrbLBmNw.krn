@@ -16,18 +16,18 @@
 *g:	*
 *M4/4	*
 =1	=1
-2dd	Gm/B-
+2dd	G minor/B-
 2gg	.
 =2	=2
-2gg-[	G-dim/A
-4gg-]	Gm/B-
+[2gg-	G- diminished/A
+4gg-]	G minor/B-
 4gg	.
 =3	=3
-2ee-	Cm
-2dd	D
+2ee-	C minor
+2dd	D major
 =4	=4
-8cc	Gm
-32b-	.
+8ccL	G minor
+32b-LL	.
 32cc	.
 32b-	.
 32cc	.
@@ -38,104 +38,104 @@
 32b-	.
 32cc	.
 32b-	.
-32cc	.
-4a	G7sus2/F
+32ccJJJ	.
+4a	G dominant-seventh-suspended-second/F
 4g	.
 =5	=5
 *k[b-e-a-]	*
 *c:	*
-2cc	Cm/E-
-4dd	G7/D
+2cc	C minor/E-
+4dd	G dominant/D
 4bn	.
 =6	=6
-2cc[	Cm/E-
-4cc]	G7/B
+[2cc	C minor/E-
+4cc]	G dominant/B
 4dd	.
 =7	=7
-2ee-	Cm
-4ff	G7/B
+2ee-	C minor
+4ff	G dominant/B
 4dd	.
 =8	=8
-2ee-	Cm
-4gg	Dm7b5
+2ee-	C minor
+4gg	D half-diminished
 4ff	.
 =9	=9
-2gg	Cm/E-
-4aa-[	Ddim/F
-4aa-]	Fm
+2gg	C minor/E-
+[4aa-	D diminished/F
+4aa-]	F minor
 =10	=10
-4cc	G7/F
+4cc	G dominant/F
 4bn	.
-4cc	Cm/E-
-4dd	Bdim7/F
+4cc	C minor/E-
+4dd	B diminished-seventh/F
 =11	=11
-2ee-	Cm/G
-32dd	G
+2ee-	C minor/G
+32ddLLL	G major
 32ee-	.
 32dd	.
 32ee-	.
 32dd	.
 32ee-	.
 32dd	.
-32ee-	.
+32ee-JJJ	.
 4cc	.
 =12	=12
-4gg	Cm
-8gg	.
-8ee-	.
+4gg	C minor
+8ggL	.
+8ee-J	.
 4gg	.
-8gg	.
-8ee-	.
+8ggL	.
+8ee-J	.
 =13	=13
 4gg	.
-4aa-	Fm/C
+4aa-	F minor/C
 4aa-	.
 4ccc	.
 =14	=14
-4ff	Cadd(2,5,7,11)
-8ff	.
-8dd	.
+4ff	C other-2,5,7,11
+8ffL	.
+8ddJ	.
 4ff	.
-8ff	.
-8dd	.
+8ffL	.
+8ddJ	.
 =15	=15
 4ff	.
 4bbn	.
 4bbn	.
 4ddd	.
 =16	=16
-6...ccc	Cm
-16ddd	.
-8eee-	.
-8ccc	Cm7/B-
+6...ccc	C minor
+16dddLK	.
+8eee-J	.
+8cccL	C minor-seventh/B-
 8eee-	.
 8ddd	.
-8gg	.
+8ggJ	.
 =17	=17
-6...ccc	A-maj7
-16ddd	.
+6...ccc	A- major-seventh
+16dddLK	.
+8eee-J	.
+8cccL	C minor/G
 8eee-	.
-8ccc	Cm/G
-8eee-	.
-8ddd	G7
-8gg	.
+8ddd	G dominant
+8ggJ	.
 =18	=18
-4ccc	Fm9
-16ee-	.
-16ff	.
-8gg	.
-8ee-	Cm/G
+4ccc	F minor-ninth
+16ee-LL	.
+16ffJ	.
+8ggJ	.
+8ee-L	C minor/G
 8cc	.
-8dd	G7
-8bn	.
+8dd	G dominant
+8bnJ	.
 =19	=19
-4cc	A-maj7
-16ee-	Cm/G
-16ff	.
-8gg	F7sus2
-8ee-	Cm/G
+4cc	A- major-seventh
+16ee-LL	C minor/G
+16ffJ	.
+8ggJ	F dominant-seventh-suspended-second
+8ee-L	C minor/G
 8cc	.
-8dd	G7
-8bn	.
+8dd	G dominant
+8bnJ	.
 ==	==
 *-	*-

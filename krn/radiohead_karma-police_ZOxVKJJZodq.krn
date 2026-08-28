@@ -15,59 +15,59 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4cc	.
 4cc	.
-4dd[	.
+[4dd	.
 =2	=2
-4dd]	D
+4dd]	D major
 2ff#	.
-4gg[	.
+[4gg	.
 =3	=3
-4gg]	G
+4gg]	G major
 2.r	.
 =4	=4
-1r	F#7
+1r	F# dominant
 =5	=5
-4r	C
+4r	C major
 4cc	.
 4cc	.
-4dd[	.
+[4dd	.
 =6	=6
-4dd]	D
+4dd]	D major
 2ff#	.
-4gg[	.
+[4gg	.
 =7	=7
-4gg]	G
+4gg]	G major
 2.r	.
 =8	=8
-1r	F#7
+1r	F# dominant
 =9	=9
-4r	C
+4r	C major
 4cc	.
 4cc	.
-4dd[	.
+[4dd	.
 =10	=10
-4dd]	D
+4dd]	D major
 2ff#	.
-4gg[	.
+[4gg	.
 =11	=11
-4gg]	G
+4gg]	G major
 4.r	.
+8ddL	.
 8dd	.
-8dd	.
-8bb[	.
+[8bbJ	.
 =12	=12
-2.bb]	Bm
-8aa	.
-8gg[	.
+2.bb]	B minor
+8aaL	.
+[8ggJ	.
 =13	=13
-1gg]	C
+1gg]	C major
 =14	=14
 1r	.
 =15	=15
-1r	Bm
+1r	B minor
 =16	=16
-1r	D
+1r	D major
 ==	==
 *-	*-

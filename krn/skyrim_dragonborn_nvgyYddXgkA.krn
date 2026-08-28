@@ -16,59 +16,59 @@
 *b:	*
 *M6/4	*
 =1	=1
-2dd	Bm
-8dd	.
-8cc#	.
-2dd	Bm
-8cc#	.
-8dd	.
+2dd	B minor
+8ddL	.
+8cc#J	.
+2dd	B minor
+8cc#L	.
+8ddJ	.
 =2	=2
-4ee	A
+4ee	A major
 4dd	.
 4cc#	.
-2b	Bm
-8b	.
-8a	.
+2b	B minor
+8bL	.
+8aJ	.
 =3	=3
-2b	G
-8b	.
-8a	.
-2b	Em
-8a	.
-8b	.
+2b	G major
+8bL	.
+8aJ	.
+2b	E minor
+8aL	.
+8bJ	.
 =4	=4
-4cc#	A
+4cc#	A major
 4dd	.
 4a	.
-2b	Bm
-8dd	.
-8cc#	.
+2b	B minor
+8ddL	.
+8cc#J	.
 =5	=5
-4dd	Bm
+4dd	B minor
 4dd	.
-8dd	.
-8ee	.
-2ff#	G
-8cc#	.
-8dd	.
+8ddL	.
+8eeJ	.
+2ff#	G major
+8cc#L	.
+8ddJ	.
 =6	=6
-4ee	A
+4ee	A major
 4dd	.
 4cc#	.
-2b	Bm
-8b	.
-8a	.
+2b	B minor
+8bL	.
+8aJ	.
 =7	=7
-2b	G
-8b	.
-8a	.
-2b	Em
-8a	.
-8b	.
+2b	G major
+8bL	.
+8aJ	.
+2b	E minor
+8aL	.
+8bJ	.
 =8	=8
-4cc#	A
+4cc#	A major
 4dd	.
 4a	.
-2.b	Bm
+2.b	B minor
 ==	==
 *-	*-

@@ -16,64 +16,64 @@
 *F:	*
 *M6/4	*
 =1	=1
-4.f	F
+4.f	F major
 8e	.
-8f	.
-8g	.
-4f	F/C
+8fL	.
+8gJ	.
+4f	F major/C
 4e	.
 4f	.
 =2	=2
-4g	B-
-8a	.
-8g	.
-8f	.
-8e	.
-2.d	B-/F
+4g	B- major
+8aL	.
+8gJ	.
+8fL	.
+8eJ	.
+2.d	B- major/F
 =3	=3
-4.g	G/B
+4.g	G major/B
 8g-	.
-8g	.
-8a	.
-4g	G
+8gL	.
+8aJ	.
+4g	G major
 4g-	.
 4g	.
 =4	=4
-4a	C
-8b-	.
-8a	.
-8g	.
-8f	.
-4e	Edim/B-
-4g-	B
-4g	C
+4a	C major
+8b-L	.
+8aJ	.
+8gL	.
+8fJ	.
+4e	E diminished/B-
+4g-	B major
+4g	C major
 =5	=5
-2cc	F/A
+2cc	F major/A
 4a	.
-2ee	Edim/B-
+2ee	E diminished/B-
 4dd	.
 =6	=6
-2cc	C
-4dd	D-dim
-2f[	Dm7
-4f]	F/A
+2cc	C major
+4dd	D- diminished
+[2f	D minor-seventh
+4f]	F major/A
 =7	=7
-8b-	Gm7
-8a	.
-8g	.
-8f	.
-8e	.
-8d	.
-4c	C7
-8ee	.
-8dd	.
-8cc	.
-8b-	.
+8b-L	G minor-seventh
+8aJ	.
+8gL	.
+8fJ	.
+8eL	.
+8dJ	.
+4c	C dominant
+8eeL	.
+8ddJ	.
+8ccL	.
+8b-J	.
 =8	=8
-2.a	F
-4r	F
-8c	.
-8Bn	.
+2.a	F major
+4r	F major
+8cL	.
+8BnJ	.
 4c	.
 ==	==
 *-	*-

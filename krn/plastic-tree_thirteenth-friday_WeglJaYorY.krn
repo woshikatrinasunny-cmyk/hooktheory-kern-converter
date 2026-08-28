@@ -16,168 +16,168 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =2	=2
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =3	=3
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =4	=4
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =5	=5
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =6	=6
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =7	=7
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =8	=8
-4.dd-	A-
-4.cc	A-sus4
-8a-	A-
-8cc	.
+4.dd-	A- major
+4.cc	A- suspended-fourth
+8a-L	A- major
+8ccJ	.
 =9	=9
-4ee-	A-
-8ee-[	.
-8ee-]	A-sus4
-8ee-	.
-8ee-[	.
-8ee-]	A-
-8ee-[	.
+4ee-	A- major
+[8ee-L	.
+8ee-J]	A- suspended-fourth
+8ee-L	.
+[8ee-	.
+8ee-]	A- major
+[8ee-J	.
 =10	=10
-8ee-]	A-
+8ee-]	A- major
 4dd-	.
-4cc	A-sus4
-8dd-[	.
-8dd-]	A-
-8cc	.
+4cc	A- suspended-fourth
+[8dd-L	.
+8dd-]	A- major
+8ccJ	.
 =11	=11
-4ee-	A-
-8ee-[	.
-8ee-]	A-sus4
-8ee-	.
-8ee-[	.
-8ee-]	A-
-8ee-[	.
+4ee-	A- major
+[8ee-L	.
+8ee-J]	A- suspended-fourth
+8ee-L	.
+[8ee-	.
+8ee-]	A- major
+[8ee-J	.
 =12	=12
-8ee-]	A-
+8ee-]	A- major
 4dd-	.
-4cc	A-sus4
-8dd-[	.
-8dd-]	A-
+4cc	A- suspended-fourth
+[8dd-L	.
+8dd-J]	A- major
 8r	.
 =13	=13
-4.cc	A-
-4.a-	A-sus4
-4r	A-
+4.cc	A- major
+4.a-	A- suspended-fourth
+4r	A- major
 =14	=14
-4dd-	A-
+4dd-	A- major
 8cc	.
-4.a-	A-sus4
-8b-	A-
-8a-[	.
+4.a-	A- suspended-fourth
+8b-L	A- major
+[8a-J	.
 =15	=15
-4.a-]	A-
-4.r	A-sus4
-4r	A-
+4.a-]	A- major
+4.r	A- suspended-fourth
+4r	A- major
 =16	=16
-4.r	A-
-4.r	A-sus4
-8r	A-
+4.r	A- major
+4.r	A- suspended-fourth
+8r	A- major
 8cc	.
 =17	=17
-4ee-	A-
-8ee-[	.
-8ee-]	A-sus4
-8ee-	.
-8ee-[	.
-8ee-]	A-
-8ee-[	.
+4ee-	A- major
+[8ee-L	.
+8ee-J]	A- suspended-fourth
+8ee-L	.
+[8ee-	.
+8ee-]	A- major
+[8ee-J	.
 =18	=18
-8ee-]	A-
+8ee-]	A- major
 4dd-	.
-4cc	A-sus4
-8dd-[	.
-8dd-]	A-
-8cc	.
+4cc	A- suspended-fourth
+[8dd-L	.
+8dd-]	A- major
+8ccJ	.
 =19	=19
-4ee-	A-
-8ee-[	.
-8ee-]	A-sus4
-8ee-	.
-8ee-[	.
-8ee-]	A-
-8ee-[	.
+4ee-	A- major
+[8ee-L	.
+8ee-J]	A- suspended-fourth
+8ee-L	.
+[8ee-	.
+8ee-]	A- major
+[8ee-J	.
 =20	=20
-8ee-]	A-
+8ee-]	A- major
 4dd-	.
-4cc	A-sus4
-8dd-[	.
-8dd-]	A-
+4cc	A- suspended-fourth
+[8dd-L	.
+8dd-J]	A- major
 8r	.
 =21	=21
-4.cc	A-
-4.a-	A-sus4
-4r	A-
+4.cc	A- major
+4.a-	A- suspended-fourth
+4r	A- major
 =22	=22
-4dd-	A-
+4dd-	A- major
 8cc	.
-4.a-	A-sus4
-8b-	A-
-8a-[	.
+4.a-	A- suspended-fourth
+8b-L	A- major
+[8a-J	.
 =23	=23
-4.a-]	A-
-4.r	A-sus4
-4r	A-
+4.a-]	A- major
+4.r	A- suspended-fourth
+4r	A- major
 =24	=24
-4dd-	A-
+4dd-	A- major
 8cc	.
-4.a-	A-sus4
-8b-	A-
-8a-	.
+4.a-	A- suspended-fourth
+8b-L	A- major
+8a-J	.
 =25	=25
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =26	=26
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =27	=27
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =28	=28
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =29	=29
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =30	=30
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =31	=31
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 =32	=32
-4.dd-	A-
-4.cc	A-sus4
-4a-	A-
+4.dd-	A- major
+4.cc	A- suspended-fourth
+4a-	A- major
 ==	==
 *-	*-

@@ -15,60 +15,60 @@
 *g:	*
 *M3/4	*
 =1	=1
-8D	Gm/D
-8G	.
-8d	Gsus2
-8G	.
-8d	Gm
-8G	.
+8DL	G minor/D
+8GJ	.
+8dL	G suspended-second
+8GJ	.
+8dL	G minor
+8GJ	.
 =2	=2
-8D	Gm/D
-8G	.
-8d	Gsus2
-8G	.
-8d	Gm
-8F	.
+8DL	G minor/D
+8GJ	.
+8dL	G suspended-second
+8GJ	.
+8dL	G minor
+8FJ	.
 =3	=3
-8BB-	B-
-8F	.
-8d	B-maj7
-8F	.
-8d	B-
-8F	.
+8BB-L	B- major
+8FJ	.
+8dL	B- major-seventh
+8FJ	.
+8dL	B- major
+8FJ	.
 =4	=4
-8D	Dm
-8F	.
-8d	Dm
-8F	.
-8d	B-/D
-8F	.
+8DL	D minor
+8FJ	.
+8dL	D minor
+8FJ	.
+8dL	B- major/D
+8FJ	.
 =5	=5
-8GG	Gm
-8G	.
-8d	Gsus2
-8G	.
-8d	Gm
-8G	.
+8GGL	G minor
+8GJ	.
+8dL	G suspended-second
+8GJ	.
+8dL	G minor
+8GJ	.
 =6	=6
-8GG	Gm
-8G	.
-8d	Gsus2
-8G	.
-8d	Gm
-8F	.
+8GGL	G minor
+8GJ	.
+8dL	G suspended-second
+8GJ	.
+8dL	G minor
+8FJ	.
 =7	=7
-8BB-	B-
-8F	.
-8d	B-maj7
-8F	.
-8d	B-
-8F	.
+8BB-L	B- major
+8FJ	.
+8dL	B- major-seventh
+8FJ	.
+8dL	B- major
+8FJ	.
 =8	=8
-8D	Dm
-8F	.
-8d	Dm
-8F	.
-8d	B-/D
-8F	.
+8DL	D minor
+8FJ	.
+8dL	D minor
+8FJ	.
+8dL	B- major/D
+8FJ	.
 ==	==
 *-	*-

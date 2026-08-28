@@ -16,7 +16,7 @@
 *D-:	*
 *M4/4	*
 =1	=1
-2F	D-
+2F	D- major
 4G-	.
 4Gn	.
 =2	=2
@@ -24,33 +24,33 @@
 4B-	.
 4c	.
 =3	=3
-2d-	A
+2d-	A major
 4Bn	.
 4An	.
 =4	=4
-2A-	D-
+2A-	D- major
 4A-	.
 4A-	.
 =5	=5
-2B-	G-
-4g-[	.
-4g-]	G-m
+2B-	G- major
+[4g-	.
+4g-]	G- minor
 =6	=6
-2f	D-/A-
+2f	D- major/A-
 4e-	.
 4d-	.
 =7	=7
-2f	E-9
+2f	E- dominant-ninth
 4e-	.
 4dn	.
 =8	=8
-4f	A-7
+4f	A- dominant
 4e-	.
 4c	.
-8B-	.
-8An	.
+8B-L	.
+8AnJ	.
 =9	=9
-2f	D-
+2f	D- major
 4g-	.
 4gn	.
 =10	=10
@@ -58,32 +58,32 @@
 4b-	.
 4cc	.
 =11	=11
-2dd-	A
+2dd-	A major
 4ee-	.
 4een	.
 =12	=12
-2ff	D-
+2ff	D- major
 4dd-	.
 4dd-	.
 =13	=13
-2een	Gdim7
+2een	G diminished-seventh
 4ee-	.
 4dd-	.
 =14	=14
-4bb-	D-/A-
+4bb-	D- major/A-
 4aa-	.
 4ff	.
 4dd-	.
 =15	=15
-4ee-	E-7
+4ee-	E- dominant
 4b-	.
-4cc	A-7
+4cc	A- dominant
 4ee-	.
 =16	=16
-3...dd-	D-
+3...dd-	D- major
+16fLL	.
 16f	.
-16f	.
-16f	.
+16fJJ	.
 16r	.
 16f	.
 16r	.

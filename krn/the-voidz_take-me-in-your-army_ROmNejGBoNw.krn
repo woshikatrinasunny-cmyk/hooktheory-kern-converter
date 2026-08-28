@@ -16,110 +16,110 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8f	B-add(4,6,7)
+8fL	B- other-4,6,7
 8g	.
-8a	.
-4f	B-
+8aJ	.
+4f	B- major
 4.r	.
 =2	=2
-8f	B-add(4,6,7)
+8fL	B- other-4,6,7
 8g	.
-8a	.
-4f	B-
+8aJ	.
+4f	B- major
 4r	.
 8d	.
 =3	=3
-4e	Gm
+4e	G minor
 8r	.
-4f	Edim/G
+4f	E diminished/G
 4r	.
 8d	.
 =4	=4
-8f	Gm
+8fL	G minor
 8g	.
-8a	.
-4f	Edim/G
+8aJ	.
+4f	E diminished/G
 4.r	.
 =5	=5
-4g-	B
+4g-	B major
 8r	.
-4a-	A-m/B
+4a-	A- minor/B
 4.r	.
 =6	=6
-8g-	B
+8g-L	B major
 8a-	.
-8b-	.
-4g-	A-m/B
+8b-J	.
+4g-	A- minor/B
 4r	.
 8e-	.
 =7	=7
-8g-	E-sus2
+8g-L	E- suspended-second
 8a-	.
-8b-	.
-4g-	E-m
+8b-J	.
+4g-	E- minor
 4.r	.
 =8	=8
-4f	E-sus2
+4f	E- suspended-second
 8r	.
-4g-	E-m
+4g-	E- minor
 8r	.
-8g-	.
-8e-	.
+8g-L	.
+8e-J	.
 =9	=9
-4.r	B-add(4,6,7)
-8f	B-
-8f	.
-8f	.
+4.r	B- other-4,6,7
+8f	B- major
+8fL	.
+8fJ	.
 4f	.
 =10	=10
-4r	B-add(4,6,7)
-8a[	.
-8a]	B-
-8f	.
+4r	B- other-4,6,7
+[8aL	.
+8aJ]	B- major
+8fL	.
 8f	.
 8d	.
-8d	.
+8dJ	.
 =11	=11
-8r	Gm
+8r	G minor
+8fL	.
 8f	.
-8f	.
-8f	Edim/G
-8f	.
+8fJ	E diminished/G
+8fL	.
 8e	.
 8e	.
-8f[	.
+[8fJ	.
 =12	=12
-8f]	Gm
+8fL]	G minor
 8d	.
-8a[	.
-8a]	Edim/G
+[8a	.
+8aJ]	E diminished/G
+8fL	.
 8f	.
-8f	.
 8d	.
-8d	.
+8dJ	.
 =13	=13
-4.r	B
-8a-	A-m/B
+4.r	B major
+8a-	A- minor/B
+8a-L	.
 8a-	.
 8a-	.
-8a-	.
-8a-	.
+8a-J	.
 =14	=14
-4r	B
-8b-[	.
-8b-]	A-m/B
+4r	B major
+[8b-L	.
+8b-J]	A- minor/B
 4g-	.
 4e-	.
 =15	=15
-4.r	E-sus2
-8g-	E-m
+4.r	E- suspended-second
+8g-	E- minor
 8g-	.
 4g-	.
 8f	.
 =16	=16
-4f	E-sus2
-8e-	.
-8f	E-m
+4f	E- suspended-second
+8e-L	.
+8fJ	E- minor
 4e-	.
 4r	.
 ==	==

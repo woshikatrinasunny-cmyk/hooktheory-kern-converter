@@ -15,31 +15,31 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.r	G
+4.r	G major
 8g	.
-8.a#	G7/B
+8.a#	G dominant/B
 16r	.
 8.a	.
 16r	.
 =2	=2
-4.g	C
+4.g	C major
 8r	.
-2r	C#dim7
+2r	C# diminished-seventh
 =3	=3
-2r	G/D
-8dd	D#dim7
+2r	G major/D
+8ddL	D# diminished-seventh
 8cc	.
 8b	.
-8a	.
+8aJ	.
 =4	=4
-16a	Em
+16aLK	E minor
 8.b	.
 8g	.
-8fn[	.
-4fn]	G7
+[8fnJ	.
+4fn]	G dominant
 4r	.
 =5	=5
-8r	Am
+8r	A minor
 8a	.
 8r	.
 8b	.
@@ -47,23 +47,23 @@
 8cc	.
 4r	.
 =6	=6
-8b	Bm7
+8b	B minor-seventh
 8r	.
 8cc	.
 2dd	.
-8cc[	C
+[8cc	C major
 =7	=7
 4cc]	.
 8ee	.
 8r	.
-8dd	D
+8dd	D major
 4dd	.
 8dd	.
 =8	=8
-8dd	Bm7
+8ddL	B minor-seventh
 8dd	.
-8ee	.
+8eeJ	.
 2ff#	.
-8r	G
+8r	G major
 ==	==
 *-	*-

@@ -16,38 +16,38 @@
 *a:	*
 *M4/4	*
 =1	=1
-2r	Aadd(2,3,7)
-8.cc	Fadd(6,7,11)
+2r	A other-2,3,7
+8.ccL	F other-6,7,11
 8.b	.
-8g	.
+8gJ	.
 =2	=2
-2cc	A#
-2a#	Eadd(1,6,9)
+2cc	A# major
+2a#	E other-1,6,9
 =3	=3
-8.r	Am
-6...r	Am/C
-8.cc	Aadd(2,3,7)
-8.b	Am/C
-8g	Am
+8.r	A minor
+6...r	A minor/C
+8.ccL	A other-2,3,7
+8.b	A minor/C
+8gJ	A minor
 =4	=4
-8.cc	Aadd(2,3,7)
-8.b	Am/C
-8g	.
-8.e[	Aadd(2,3,7)
-8.e_	Am/C
-8e]	Am
+8.ccL	A other-2,3,7
+8.b	A minor/C
+8gJ	.
+[8.eL	A other-2,3,7
+8.e_	A minor/C
+8eJ]	A minor
 =5	=5
-4.r	Fadd(6,7,11)
+4.r	F other-6,7,11
 8ee	.
-8.ee	Fadd(6,7,11)
+8.eeL	F other-6,7,11
 8.ee	.
-8dd	.
+8ddJ	.
 =6	=6
-2dd	Em7/D
-2g	Em7/D
+2dd	E minor-seventh/D
+2g	E minor-seventh/D
 =7	=7
-1a	Dm7/A
+1a	D minor-seventh/A
 =8	=8
-1r	Dm7/A
+1r	D minor-seventh/A
 ==	==
 *-	*-

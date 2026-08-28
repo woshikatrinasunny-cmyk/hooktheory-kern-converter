@@ -15,120 +15,120 @@
 *E:	*
 *M4/4	*
 =1	=1
-4r	F#m7/A
-8e[	.
-8e]	F#m7/A
-8B[	.
-8B]	Aadd(2,4,7)
+4r	F# minor-seventh/A
+[8eL	.
+8eJ]	F# minor-seventh/A
+[8BL	.
+8B]	A other-2,4,7
 8e	.
-8e	.
+8eJ	.
 =2	=2
-4B	G#m/B
-8e	.
-8e	G#m/B
-8B	.
-8e	G#m7/B
+4B	G# minor/B
+8eL	.
+8eJ	G# minor/B
+8BL	.
+8e	G# minor-seventh/B
 8f#	.
-8g#	.
+8g#J	.
 =3	=3
-8f#	C#m
+8f#L	C# minor
 8g#	.
+8f#J	.
+4e	C# minor
+8BL	C# minor-seventh
 8f#	.
-4e	C#m
-8B	C#m7
-8f#	.
-8g#	.
+8g#J	.
 =4	=4
-8f#	E
+8f#L	E major
 8g#	.
-8f#	.
-4e	E/B
-4.r	E/B
+8f#J	.
+4e	E major/B
+4.r	E major/B
 =5	=5
-4r	F#m7/A
-8e	.
-8e	F#m7/A
-8B[	.
-8B]	Aadd(2,4,7)
+4r	F# minor-seventh/A
+8eL	.
+8eJ	F# minor-seventh/A
+[8BL	.
+8BJ]	A other-2,4,7
 4e	.
 =6	=6
-4B	G#m/B
-8e	.
-8e	G#m/B
-8B	.
-8e	G#m7/B
+4B	G# minor/B
+8eL	.
+8eJ	G# minor/B
+8BL	.
+8e	G# minor-seventh/B
 8f#	.
-8g#	.
+8g#J	.
 =7	=7
-8f#	C#m
+8f#L	C# minor
 8g#	.
-8f#	.
-4e	G#/C
-4b	G#/C
+8f#J	.
+4e	G# major/C
+4b	G# major/C
 8g#	.
 =8	=8
-8a	Bm7
+8aL	B minor-seventh
 8g#	.
-8f#	.
-4e	E
-4.r	E
+8f#J	.
+4e	E major
+4.r	E major
 =9	=9
-4r	F#m7/A
-8e[	.
-8e]	F#m7/A
-8B[	.
-8B]	Aadd(2,4,7)
+4r	F# minor-seventh/A
+[8eL	.
+8eJ]	F# minor-seventh/A
+[8BL	.
+8B]	A other-2,4,7
 8e	.
-8e	.
+8eJ	.
 =10	=10
-4B	G#m/B
-8e	.
-8e	G#m/B
-8B	.
-8e	G#m7/B
+4B	G# minor/B
+8eL	.
+8eJ	G# minor/B
+8BL	.
+8e	G# minor-seventh/B
 8f#	.
-8g#	.
+8g#J	.
 =11	=11
-8f#	C#m
+8f#L	C# minor
 8g#	.
+8f#J	.
+4e	C# minor
+8BL	C# minor-seventh
 8f#	.
-4e	C#m
-8B	C#m7
-8f#	.
-8g#	.
+8g#J	.
 =12	=12
-8f#	E
+8f#L	E major
 8g#	.
-8f#	.
-4e	E/B
-4.r	E/B
+8f#J	.
+4e	E major/B
+4.r	E major/B
 =13	=13
-4r	F#m7/A
-8e	.
-8e	F#m7/A
-8B[	.
-8B]	Aadd(2,4,7)
+4r	F# minor-seventh/A
+8eL	.
+8eJ	F# minor-seventh/A
+[8BL	.
+8BJ]	A other-2,4,7
 4e	.
 =14	=14
-4B	G#m/B
-8e	.
-8e	G#m/B
-8B	.
-8e	G#m7/B
+4B	G# minor/B
+8eL	.
+8eJ	G# minor/B
+8BL	.
+8e	G# minor-seventh/B
 8f#	.
-8g#	.
+8g#J	.
 =15	=15
-8f#	C#m
+8f#L	C# minor
 8g#	.
-8f#	.
-4e	G#/C
-4b	G#/C
+8f#J	.
+4e	G# major/C
+4b	G# major/C
 8g#	.
 =16	=16
-8a	Bm7
+8aL	B minor-seventh
 8g#	.
-8f#	.
-4e	E
-4.r	E
+8f#J	.
+4e	E major
+4.r	E major
 ==	==
 *-	*-

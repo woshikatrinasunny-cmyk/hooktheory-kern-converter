@@ -15,71 +15,71 @@
 *G:	*
 *M4/4	*
 =1	=1
-2.r	G
-8.g	.
-16g	.
+2.r	G major
+8.gL	.
+16gJk	.
 =2	=2
-4b[	.
-4b]	B
+[4b	.
+4b]	B major
 4r	.
-8.b	.
-16b	.
+8.bL	.
+16bJk	.
 =3	=3
-8.ee	.
-16b[	.
-4.b]	Em
+8.eeL	.
+[16bJk	.
+4.b]	E minor
 8r	.
-8b	.
-16a#	.
-16b	.
+8bL	.
+16a#L	.
+16bJJ	.
 =4	=4
-8.e	C#dim
-16e	.
-8.f#	C#dim/G
-16f#	.
-8.g	C#dim
-16g	.
-8.b	C#dim/G
-16b	.
+8.eL	C# diminished
+16ek	.
+8.f#	C# diminished/G
+16f#Jk	.
+8.gL	C# diminished
+16gk	.
+8.b	C# diminished/G
+16bJk	.
 =5	=5
-4dd	D
-8.dd	D
-16dd	D
-8ffn	D#sus2
-4ffn	D#sus2
-8dd[	D
+4dd	D major
+8.ddL	D major
+16ddJk	D major
+8ffn	D# suspended-second
+4ffn	D# suspended-second
+[8dd	D major
 =6	=6
 8dd_	.
-4dd_	D#sus2
-8dd_	D
-4dd_	D#sus2
-8dd_	D
-8dd_	D#sus2
+4dd_	D# suspended-second
+8dd_	D major
+4dd_	D# suspended-second
+8ddL_	D major
+8ddJ_	D# suspended-second
 =7	=7
-8dd_	D
-4dd]	D#dim/A
-8r	Dsus2
-8r	F#7/E
-4r	Am
-8r	D7
+8dd_	D major
+4dd]	D# diminished/A
+8r	D suspended-second
+8r	F# dominant/E
+4r	A minor
+8r	D dominant
 =8	=8
-8dd	D7/C
-4.dd	G/B
-8cc	C/E
-4.b	Em
+8dd	D dominant/C
+4.dd	G major/B
+8cc	C major/E
+4.b	E minor
 =9	=9
-4cc	Am
-4b	G/B
-4a	Am/C
-4r	C#dim
+4cc	A minor
+4b	G major/B
+4a	A minor/C
+4r	C# diminished
 =10	=10
-4b	G/D
+4b	G major/D
 4dd	.
-4r	D
+4r	D major
 4f#	.
 =11	=11
-4g[	G
-4g]	G/D
-4r	G
+[4g	G major
+4g]	G major/D
+4r	G major
 ==	==
 *-	*-

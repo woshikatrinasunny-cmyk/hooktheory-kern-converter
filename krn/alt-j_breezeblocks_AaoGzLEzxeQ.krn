@@ -16,85 +16,85 @@
 *F:	*
 *M4/4	*
 =1	=1
-8r	F
-8a	.
+8r	F major
+8aL	.
 8g	.
-8f	.
-8g	.
+8fJ	.
+8gL	.
 8d	.
 8d	.
-8f	.
+8fJ	.
 =2	=2
-8a	Am
+8a	A minor
 4cc	.
 8a	.
 8g	.
 4.a	.
 =3	=3
-8r	Dm
-8a	.
+8r	D minor
+8aL	.
 8g	.
-8f	.
-8g	.
+8fJ	.
+8gL	.
 8d	.
 8d	.
-8d[	.
+[8dJ	.
 =4	=4
-8d]	Dm/F
+8dL]	D minor/F
 8f	.
 8d	.
-8c	.
+8cJ	.
 4d	.
 4r	.
 =5	=5
-8r	F
-8a	.
+8r	F major
+8aL	.
 8g	.
-8f	.
-8g	.
-8d	.
+8fJ	.
+8gL	.
+8dJ	.
 4d	.
 =6	=6
-8b-	Am
+8b-	A minor
 4cc	.
 8a	.
 8g	.
 4.a	.
 =7	=7
-8r	Dm
+8r	D minor
+8aL	.
 8a	.
-8a	.
-8a	.
+8aJ	.
 4a	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 =8	=8
-8f	Dm/F
+8fL	D minor/F
 8g	.
-8a	.
+8aJ	.
 4g	.
 8f	.
 4d	.
 =9	=9
-1f	F
+1f	F major
 =10	=10
-1a	Am
+1a	A minor
 =11	=11
-2.d	Dm
+2.d	D minor
 4e	.
 =12	=12
-4f	F
+4f	F major
 2.r	.
 =13	=13
-1f	F
+1f	F major
 =14	=14
-1a	Am
+1a	A minor
 =15	=15
-2.d	Dm
-8a	.
-8g	.
+2.d	D minor
+8aL	.
+8gJ	.
 =16	=16
-4f	F
+4f	F major
 4r	.
 4f	.
 4r	.

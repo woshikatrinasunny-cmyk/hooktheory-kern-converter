@@ -16,115 +16,115 @@
 *e:	*
 *M4/4	*
 =1	=1
-2.r	Em
+2.r	E minor
 4r	.
 =2	=2
-2r	G
-2r	G
+2r	G major
+2r	G major
 =3	=3
-2.r	Em
+2.r	E minor
 4r	.
 =4	=4
-2r	G
-8r	G
-8.e	.
-8.e	.
+2r	G major
+8r	G major
+8.eL	.
+8.eJ	.
 =5	=5
-4.dd	Em
+4.dd	E minor
 4.b	.
 4r	.
 =6	=6
-2r	G
-8r	G
-8.e	.
-8.e	.
+2r	G major
+8r	G major
+8.eL	.
+8.eJ	.
 =7	=7
-4.dd	Em
+4.dd	E minor
 4.b	.
 4r	.
 =8	=8
-2r	G
-8r	G
-8.e	.
-8.e	.
+2r	G major
+8r	G major
+8.eL	.
+8.eJ	.
 =9	=9
-4.dd	Em
+4.dd	E minor
 4.ee	.
-8b	.
-8a[	.
+8bL	.
+[8aJ	.
 =10	=10
-4.a]	G
+4.a]	G major
 8e	.
-4b	G
-4a[	.
+4b	G major
+[4a	.
 =11	=11
-4a]	Em
-8a	.
-8b	.
-8a	.
+4a]	E minor
+8aL	.
+8bJ	.
+8aL	.
 8g	.
 8e	.
-8e	.
+8eJ	.
 =12	=12
-8e	G
+8eL	G major
 8e	.
 8d	.
-8e	.
-8r	G
-8.e	.
-8.e	.
+8eJ	.
+8r	G major
+8.eL	.
+8.eJ	.
 =13	=13
-4.dd	Em
+4.dd	E minor
 4.ee	.
 4r	.
 =14	=14
-2r	Em/G
-8r	Em/G
+2r	E minor/G
+8r	E minor/G
 4dd	.
 8ee	.
 =15	=15
-8gg	Em
-8ff#	.
+8ggL	E minor
+8ff#J	.
 2dd	.
 4r	.
 =16	=16
-2r	G
-8r	G
-8.e	.
-8.e	.
+2r	G major
+8r	G major
+8.eL	.
+8.eJ	.
 =17	=17
-4.dd	Em
+4.dd	E minor
 4.b	.
-8b	.
-8a[	.
+8bL	.
+[8aJ	.
 =18	=18
-4.a]	G
+4.a]	G major
 8e	.
-4b	G
+4b	G major
 4a	.
 =19	=19
-4a	Em
-8a	.
-8b	.
-8a	.
+4a	E minor
+8aL	.
+8bJ	.
+8aL	.
 8g	.
 8e	.
-8e	.
+8eJ	.
 =20	=20
-8e	G
+8eL	G major
 8e	.
 8d	.
-8e[	.
-4e_	G
+[8eJ	.
+4e_	G major
 8.e]	.
 16r	.
 =21	=21
-1r	Em7/G
+1r	E minor-seventh/G
 =22	=22
-1r	Esus2
+1r	E suspended-second
 =23	=23
-1r	D/F#
+1r	D major/F#
 =24	=24
-1r	Eadd(2,3,7)/G
+1r	E other-2,3,7/G
 ==	==
 *-	*-

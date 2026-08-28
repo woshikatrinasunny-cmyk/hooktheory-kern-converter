@@ -16,31 +16,31 @@
 *C:	*
 *M3/4	*
 =1	=1
-4dd	G
-4cc	Gadd(2,5,7)
-4dd	G
+4dd	G major
+4cc	G other-2,5,7
+4dd	G major
 =2	=2
-2ee	C/G
+2ee	C major/G
 4cc	.
 =3	=3
-2ff	G7
+2ff	G dominant
 4dd	.
 =4	=4
-2gg	C
+2gg	C major
 4ee	.
 =5	=5
-4cc	C/E
-4b	G7/D
-4cc	C
+4cc	C major/E
+4b	G dominant/D
+4cc	C major
 =6	=6
-2dd	G/B
-4ee[	C
+2dd	G major/B
+[4ee	C major
 =7	=7
-4ee]	Am
-4ff	Dm/F
-4dd	G7
+4ee]	A minor
+4ff	D minor/F
+4dd	G dominant
 =8	=8
-2cc	C
+2cc	C major
 4r	.
 ==	==
 *-	*-

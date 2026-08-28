@@ -16,73 +16,73 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	Dadd(2,4,7)
-8ee[	.
-8ee]	Dadd(2,4,7)
+4r	D other-2,4,7
+[8eeL	.
+8eeJ]	D other-2,4,7
+16eeLL	.
 16ee	.
 16ee	.
-16ee	.
-16ee	.
-4r	Dadd(2,4,7)
+16eeJJ	.
+4r	D other-2,4,7
 =2	=2
-8ff#[	.
-8ff#]	Dadd(2,4,7)
+[8ff#L	.
+8ff#]	D other-2,4,7
 8ff#	.
-8ff#	.
-4r	Dadd(2,4,7)
+8ff#J	.
+4r	D other-2,4,7
 8aa	.
-8r	D
+8r	D major
 =3	=3
-8bb	F#m7
-8aa	.
+8bbL	F# minor-seventh
+8aaJ	.
 8r	.
-4.r	F#m7
-4r	Esus2
+4.r	F# minor-seventh
+4r	E suspended-second
 =4	=4
-8ff#[	.
-8ff#]	Esus2
+[8ff#L	.
+8ff#]	E suspended-second
 8ff#	.
-8ff#	.
-4r	Esus2
+8ff#J	.
+4r	E suspended-second
 8aa	.
-8r	Amaj7
+8r	A major-seventh
 =5	=5
-8ff#	Dadd(2,4,7)
+8ff#L	D other-2,4,7
 8ff#	.
-8ee[	.
-8ee]	Dadd(2,4,7)
+[8ee	.
+8eeJ]	D other-2,4,7
+16eeLL	.
 16ee	.
 16ee	.
-16ee	.
-16ee	.
-8ff#	Dadd(2,4,7)
-8ff#	.
+16eeJ	.
+8ff#	D other-2,4,7
+8ff#J	.
 =6	=6
-8ff#[	.
-8ff#]	Dadd(2,4,7)
+[8ff#L	.
+8ff#]	D other-2,4,7
 8ff#	.
-8ff#	.
-8ff#	Dadd(2,4,7)
+8ff#J	.
+8ff#L	D other-2,4,7
 8ff#	.
 8aa	.
-8ff#	D
+8ff#J	D major
 =7	=7
-8bb	F#m7
+8bbL	F# minor-seventh
 8aa	.
 8ff#	.
-8ff#	F#m7
+8ff#J	F# minor-seventh
+8ff#L	.
 8ff#	.
-8ff#	.
-8ff#	Esus2
-8ff#	.
+8ff#	E suspended-second
+8ff#J	.
 =8	=8
-8ff#[	.
-8ff#]	Esus2
+[8ff#L	.
+8ff#]	E suspended-second
 8ff#	.
-8ff#	.
-8ff#	Esus2
+8ff#J	.
+8ff#L	E suspended-second
 8ff#	.
 8aa	.
-8ff#	Amaj7
+8ff#J	A major-seventh
 ==	==
 *-	*-

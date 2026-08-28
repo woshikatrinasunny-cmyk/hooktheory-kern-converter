@@ -15,28 +15,28 @@
 *c:	*
 *M4/4	*
 =1	=1
-8.C	Cm
-8.EE-	.
-8.FF[	Fsus2
-16FF]	Fm
+8.CL	C minor
+8.EE-J	.
+[8.FF	F suspended-second
+16FF]	F minor
 4r	.
 8GG-	.
 =2	=2
-8.GG	G
-8.BBB-	.
-4CC	Cm
+8.GGL	G major
+8.BBB-J	.
+4CC	C minor
 4r	.
 8GG	.
 =3	=3
-8.C	.
-8.EE-	.
-4FF	Fm
+8.CL	.
+8.EE-J	.
+4FF	F minor
 4r	.
 8GG-	.
 =4	=4
-8.GG	G
-8.BBB-	.
-4CC	Cm
+8.GGL	G major
+8.BBB-J	.
+4CC	C minor
 4.r	.
 ==	==
 *-	*-

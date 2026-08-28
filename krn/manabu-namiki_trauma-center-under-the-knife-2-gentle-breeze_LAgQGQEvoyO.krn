@@ -16,9 +16,9 @@
 *c:	*
 *M4/4	*
 =1	=1
-2g	Fm9
-4.f	Gm7
-8e-[	A-maj7
+2g	F minor-ninth
+4.f	G minor-seventh
+[8e-	A- major-seventh
 =2	=2
 8e-]	.
 4r	.
@@ -26,9 +26,9 @@
 4e-	.
 8f	.
 =3	=3
-2cc	A-maj7
-4.b-	Gm7
-8e-[	Cadd(2,3,7)
+2cc	A- major-seventh
+4.b-	G minor-seventh
+[8e-	C other-2,3,7
 =4	=4
 8e-]	.
 4r	.
@@ -36,30 +36,30 @@
 4g	.
 4a-	.
 =5	=5
-2b-	F7sus4
-4.a-	Gadd(1,3,7,10)
-8g[	A-maj7
+2b-	F dominant-seventh-suspended-fourth
+4.a-	G other-1,3,7,10
+[8g	A- major-seventh
 =6	=6
 8g]	.
 4r	.
-8g[	.
-8g]	B-13
-8f	.
+[8g	.
+8gL]	B- dominant-13th
+8fJ	.
 4e-	.
 =7	=7
-2f	E-maj9
+2f	E- major-ninth
 4.g	.
-8g[	E-7
+[8g	E- dominant
 =8	=8
 2g]	.
-8c	.
+8cL	.
 8d-	.
 8e-	.
-8f	.
+8fJ	.
 =9	=9
-2g	Fm9
-4.f	Gm7
-8e-[	A-maj7
+2g	F minor-ninth
+4.f	G minor-seventh
+[8e-	A- major-seventh
 =10	=10
 8e-]	.
 4r	.
@@ -67,9 +67,9 @@
 4e-	.
 8f	.
 =11	=11
-2cc	A-maj7
-4.b-	Gm7
-8e-[	Cadd(2,3,7)
+2cc	A- major-seventh
+4.b-	G minor-seventh
+[8e-	C other-2,3,7
 =12	=12
 8e-]	.
 4r	.
@@ -77,129 +77,129 @@
 4g	.
 4a-	.
 =13	=13
-2b-	Fm7
-4.a-	Gm7
-8g[	A-maj7
+2b-	F minor-seventh
+4.a-	G minor-seventh
+[8g	A- major-seventh
 =14	=14
 8g]	.
 4r	.
-8g[	.
-8g]	B-13
-8f	.
+[8g	.
+8gL]	B- dominant-13th
+8fJ	.
 4e-	.
 =15	=15
-2.f	E-maj9
-8e-	.
-8e-[	E-7sus4
+2.f	E- major-ninth
+8e-L	.
+[8e-J	E- dominant-seventh-suspended-fourth
 =16	=16
 2e-]	.
-4.r	E-7
-16f	.
-16g-	.
+4.r	E- dominant
+16fLL	.
+16g-JJ	.
 =17	=17
-1g[	A-maj7
+[1g	A- major-seventh
 =18	=18
 4g]	.
-8f	.
+8fL	.
+8e-J	.
+8dL	.
 8e-	.
-8d	.
-8e-	.
 8f	.
-8Bn[	Gaug7
+[8BnJ	G augmented-seventh
 =19	=19
 4Bn]	.
 4c	.
 8d	.
 4f	.
-16an	.
-16b-[	.
+16anLL	.
+[16b-JJ	.
 =20	=20
 4b-]	.
 4a-	.
 8g	.
 4.f	.
 =21	=21
-16g-	Cm9
-2...g[	.
+16g-	C minor-ninth
+[2...g	.
 =22	=22
 4g]	.
-8f	.
-8e-	.
-8e-	.
+8fL	.
+8e-J	.
+8e-L	.
 8d	.
 8e-	.
-8B-[	E-7
+[8B-J	E- dominant
 =23	=23
 1B-_	.
 =24	=24
 3...B-]	.
-8c	.
+8cL	.
 8e-	.
-8f	.
+8fJ	.
 =25	=25
-16g-	A-maj7
-2...g[	.
+16g-	A- major-seventh
+[2...g	.
 =26	=26
 4g]	.
-8b-	.
-8g	.
-16cc	.
-16b-	.
+8b-L	.
+8gJ	.
+16ccLL	.
+16b-J	.
 8g	.
 8g-	.
-8g[	Gadd(4,6,10)
+[8gJ	G other-4,6,10
 =27	=27
-8g]	.
+8gL]	.
 8e-	.
 8d	.
-8f	.
-8b-	.
-16a-	.
-16b-	.
+8fJ	.
+8b-L	.
+16a-L	.
+16b-J	.
 8a-	.
-8g	.
+8gJ	.
 =28	=28
-8f	.
+8fL	.
 8d	.
 8e-	.
-8c	.
-8e-	.
+8cJ	.
+8e-L	.
 8d	.
 8e-	.
-8f	.
+8fJ	.
 =29	=29
-1g[	Cm9
+[1g	C minor-ninth
 =30	=30
-4g_	Cm9
-4g_	Cm9
-4g_	D-m9
-4g_	Dm9
+4g_	C minor-ninth
+4g_	C minor-ninth
+4g_	D- minor-ninth
+4g_	D minor-ninth
 =31	=31
 2g]	.
-4.c[	.
-8c]	Gadd(3,4,8,10)
+[4.c	.
+8c]	G other-3,4,8,10
 =32	=32
 4c	.
 4d	.
-4e-	Gadd(1,4,8,10)
+4e-	G other-1,4,8,10
 4f	.
 =33	=33
-1g[	A-maj7
+[1g	A- major-seventh
 =34	=34
 4g]	.
-8f	.
+8fL	.
+8e-J	.
+8dL	.
 8e-	.
-8d	.
-8e-	.
 8f	.
-8Bn[	Gaug7
+[8BnJ	G augmented-seventh
 =35	=35
 4Bn]	.
 4c	.
 8d	.
 4f	.
-16an	.
-16b-[	.
+16anLL	.
+[16b-JJ	.
 =36	=36
 4b-]	.
 4a-	.
@@ -207,36 +207,36 @@
 6...cc	.
 16dd-	.
 =37	=37
-8dd	Cm9
+8dd	C minor-ninth
 4ee-	.
 4dd	.
 4b-	.
-8g[	.
+[8g	.
 =38	=38
 8g]	.
 4g	.
 8g	.
-8cc	.
+8ccL	.
 8b-	.
 8f	.
-8g[	E-7
+[8gJ	E- dominant
 =39	=39
 1g_	.
 =40	=40
 4g]	.
-8f	.
+8fL	.
+8e-J	.
+8dL	.
 8e-	.
-8d	.
-8e-	.
 8f	.
-8B-	.
+8B-J	.
 =41	=41
-1c[	A-maj7
+[1c	A- major-seventh
 =42	=42
 4c]	.
 4.e-	.
 4f	.
-8g[	Gadd(4,6,10)
+[8g	G other-4,6,10
 =43	=43
 2g]	.
 2f	.
@@ -244,24 +244,24 @@
 2e-	.
 2Bn	.
 =45	=45
-1d[	Cm9
+[1d	C minor-ninth
 =46	=46
 2.d_	.
-16d]	.
+16dLL]	.
 16d	.
 16e-	.
-16d	.
+16dJJ	.
 =47	=47
-4c[	Cm9
-8c_	Cm9
-4c_	D-m9
-4c_	D-m9
-8c_	Cm9
+[4c	C minor-ninth
+8c_	C minor-ninth
+4c_	D- minor-ninth
+4c_	D- minor-ninth
+8c_	C minor-ninth
 =48	=48
 2c]	.
-8c	.
+8cL	.
 8d	.
 8e-	.
-8f	.
+8fJ	.
 ==	==
 *-	*-

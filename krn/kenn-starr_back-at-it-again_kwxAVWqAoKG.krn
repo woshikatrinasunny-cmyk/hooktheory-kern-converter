@@ -16,63 +16,63 @@
 *c:	*
 *M4/4	*
 =1	=1
-8AA	F/A
-8GG	Gm
+8AAL	F major/A
+8GGJ	G minor
 16r	.
-8.FF	F
-4C	Cm
+8.FF	F major
+4C	C minor
 4r	.
 =2	=2
 8C	.
 4.r	.
 8C	.
 8r	.
-8F	B-/F
-8E-	Cm/E-
+8FL	B- major/F
+8E-J	C minor/E-
 =3	=3
-4D	Dsus2
+4D	D suspended-second
 4.r	.
-8C	.
+8CL	.
 8D	.
-8D	.
+8DJ	.
 =4	=4
-8C	Dm7b5
+8CL	D half-diminished
 8BBn	.
 8A-	.
-8F	.
-8D	.
-8BB-	E-/B-
-8C	Cm7
-8E-	Cm7/E-
+8FJ	.
+8DL	.
+8BB-	E- major/B-
+8C	C minor-seventh
+8E-J	C minor-seventh/E-
 =5	=5
-8AA	F/A
-8.GG	Gm
-8.FF	F
-4C	Cm
+8AAL	F major/A
+8.GG	G minor
+8.FFJ	F major
+4C	C minor
 4CC	.
 =6	=6
-16C	.
-16C	.
-8C	.
+16CLL	.
+16CJ	.
+8CJ	.
 4r	.
-8BB-	.
+8BB-L	.
 8C	.
-8F	B-/F
-8E-	Cm/E-
+8F	B- major/F
+8E-J	C minor/E-
 =7	=7
-4D	Dsus2
+4D	D suspended-second
 4r	.
 4DD	.
 8r	.
 8DD	.
 =8	=8
-8C	Dm7b5
+8CL	D half-diminished
 8BBn	.
 8A-	.
-8F	.
-8D	.
-8BB-	E-/B-
-8C	Cm7
+8FJ	.
+8DL	.
+8BB-	E- major/B-
+8CJ	C minor-seventh
 8r	.
 ==	==
 *-	*-

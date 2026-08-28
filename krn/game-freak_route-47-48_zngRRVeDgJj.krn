@@ -16,55 +16,55 @@
 *F:	*
 *M4/4	*
 =1	=1
-16c	F
+16cLL	F major
 16F	.
 16G	.
 16B-	.
 16A	.
-16c	.
-4.f[	.
-16f]	Am
+16cJJ	.
+[4.f	.
+16fLL]	A minor
 16e	.
 16f	.
-16g	.
+16gJJ	.
 =2	=2
-4f	B-sus2
+4f	B- suspended-second
 6...c	.
-16b-	.
+16b-LL	.
 16a	.
 16b-	.
 16a	.
 16g	.
 16f	.
-16e	.
+16eJJ	.
 =3	=3
-16f	Dm7
+16fLL	D minor-seventh
 16g	.
-16f	.
+16fJJ	.
 6...c	.
-16f	Dm
+16fLL	D minor
 16e	.
 16d	.
-16e	.
-8f	C
-8c	.
+16eJ	.
+8f	C major
+8cJ	.
 =4	=4
-16B-	Fm/A-
-16c	.
+16B-LL	F minor/A-
+16cJ	.
 8.f	.
-16e	.
+16eL	.
 16f	.
-16g	.
-4f	Gm7
-4g	C7
+16gJJ	.
+4f	G minor-seventh
+4g	C dominant
 =5	=5
-16a	F
+16aLL	F major
 16g	.
 16f	.
 16e	.
 16f	.
 16c	.
-16B-	.
+16B-JJ	.
 6...A	.
 4cc	.
 ==	==

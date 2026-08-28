@@ -16,161 +16,161 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	D
-8r	D
+8r	D major
+8r	D major
 8r	.
-8dd[	D
-8dd]	D
-8cc[	D
+[8dd	D major
+8ddL]	D major
+[8cc	D major
 8cc]	.
-8b-	B-
+8b-J	B- major
 =2	=2
-8r	B-
-8r	B-
+8r	B- major
+8r	B- major
 8r	.
-8r	B-
-8r	B-
-8r	B-
+8r	B- major
+8r	B- major
+8r	B- major
 8r	.
-8ff[	B-
+[8ff	B- major
 =3	=3
-8ff_	B-
-8ff_	B-
+8ffL_	B- major
+8ff_	B- major
 8ff_	.
-8ff_	B-
-8ff_	B-
-8ff_	B-
+8ffJ_	B- major
+8ffL_	B- major
+8ff_	B- major
 8ff_	.
-8ff]	B-
+8ffJ]	B- major
 =4	=4
-8gg[	B-
-8gg_	B-
+[8ggL	B- major
+8gg_	B- major
 8gg]	.
-8ff	B-
-8gg	B-
-8ff[	B-
+8ffJ	B- major
+8ggL	B- major
+[8ff	B- major
 8ff]	.
-8dd[	B-
+[8ddJ	B- major
 =5	=5
-8dd_	B-
-8dd_	B-
+8ddL_	B- major
+8dd_	B- major
 8dd_	.
-8dd_	B-
-8dd_	B-
-8dd_	B-
+8ddJ_	B- major
+8ddL_	B- major
+8dd_	B- major
 8dd_	.
-8dd]	B-
+8ddJ]	B- major
 =6	=6
-1aa[	Gadd(2,3,7)
+[1aa	G other-2,3,7
 =7	=7
 1aa]	.
 =8	=8
-1ff[	Dm
+[1ff	D minor
 =9	=9
 2ff]	.
 2gg	.
 =10	=10
-1aa[	Am7/C
+[1aa	A minor-seventh/C
 =11	=11
 4.aa]	.
 4bb-	.
 4.aa	.
 =12	=12
-1dd[	Gm7
+[1dd	G minor-seventh
 =13	=13
 3...dd]	.
+8ffL	.
 8ff	.
-8ff	.
-8ff	.
+8ffJ	.
 =14	=14
-4r	Gadd(2,3,7)
+4r	G other-2,3,7
 8ff	.
 4.ff	.
-8ff	.
-8ff[	.
+8ffL	.
+[8ffJ	.
 =15	=15
 3...ff]	.
+8ffL	.
 8ff	.
-8ff	.
-8ff	.
+8ffJ	.
 =16	=16
-4ff	Dm
+4ff	D minor
 8ff	.
 4.ff	.
-8ff	.
-8ff	.
+8ffL	.
+8ffJ	.
 =17	=17
 3...dd	.
+8ffL	.
 8ff	.
-8ff	.
-8ff	.
+8ffJ	.
 =18	=18
-8ff	Am7/C
-8ff	.
+8ffL	A minor-seventh/C
+8ffJ	.
 4ff	.
 4ff	.
-8ff	.
-8ff[	.
+8ffL	.
+[8ffJ	.
 =19	=19
 8ff]	.
 2ee	.
+8ffL	.
 8ff	.
-8ff	.
-8ff	.
+8ffJ	.
 =20	=20
-8ff	Gm7
-8ff	.
+8ffL	G minor-seventh
+8ffJ	.
 4ff	.
 4ff	.
-8ff	.
-8ff	.
+8ffL	.
+8ffJ	.
 =21	=21
 8ee	.
 2dd	.
+8ffL	.
 8ff	.
-8ff	.
-8ff	.
+8ffJ	.
 =22	=22
-8r	Gadd(2,3,7)
-8ff	.
-8dd	.
+8r	G other-2,3,7
+8ffL	.
+8ddJ	.
 4.ff	.
-8ff	.
-8aa[	.
+8ffL	.
+[8aaJ	.
 =23	=23
 3...aa]	.
 4ff	.
-8ff[	.
+[8ff	.
 =24	=24
-8ff]	Dm
+8ff]	D minor
 4ff	.
 4ff	.
 4ff	.
-8aa[	.
+[8aa	.
 =25	=25
 3...aa]	.
+8ffL	.
 8ff	.
-8ff	.
-8ff	.
+8ffJ	.
 =26	=26
-4ff	Am7/C
-8ff	.
-8ff	.
+4ff	A minor-seventh/C
+8ffL	.
+8ffJ	.
 8ff	.
 4ff	.
-8aa[	.
+[8aa	.
 =27	=27
 3...aa]	.
+8ffL	.
 8ff	.
-8ff	.
-8ff	.
+8ffJ	.
 =28	=28
-4ff	Gm7
-8ff	.
-8ff	.
+4ff	G minor-seventh
+8ffL	.
+8ffJ	.
 4ff	.
-8ff	.
-8ff	.
+8ffL	.
+8ffJ	.
 =29	=29
 8ee	.
 4dd	.

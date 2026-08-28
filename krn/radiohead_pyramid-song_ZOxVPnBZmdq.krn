@@ -15,42 +15,42 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4.ff#[	F#
-4.ff#_	F#
-4ff#_	Gmaj7
+[4.ff#	F# major
+4.ff#_	F# major
+4ff#_	G major-seventh
 =2	=2
 4ff#_	.
-4.ff#_	A
-4.ff#_	A
+4.ff#_	A major
+4.ff#_	A major
 =3	=3
-4.ff#_	A
-4.ff#]	Gmaj7
-4ee	Gmaj7
+4.ff#_	A major
+4.ff#]	G major-seventh
+4ee	G major-seventh
 =4	=4
 4gg#	.
-4ee	F#
-8ff#[	.
-8ff#]	F#
+4ee	F# major
+[8ff#L	.
+8ff#]	F# major
 8gg#	.
-8ee	.
+8eeJ	.
 =5	=5
-4.ff#[	F#
-4.ff#_	F#
-4ff#]	Gmaj7
+[4.ff#	F# major
+4.ff#_	F# major
+4ff#]	G major-seventh
 =6	=6
 4gg#	.
-4ff#	F#m7/A
-8ee[	.
-8ee]	F#m7/A
+4ff#	F# minor-seventh/A
+[8eeL	.
+8eeJ]	F# minor-seventh/A
 4dd	.
 =7	=7
-4.cc#[	F#m7/A
-4.cc#_	Gmaj7
-8.cc#]	Gmaj7
+[4.cc#	F# minor-seventh/A
+4.cc#_	G major-seventh
+8.cc#]	G major-seventh
 16r	.
 =8	=8
 4r	.
-4.r	Gmaj7
-4.r	Gmaj7
+4.r	G major-seventh
+4.r	G major-seventh
 ==	==
 *-	*-

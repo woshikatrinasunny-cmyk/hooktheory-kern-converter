@@ -22,63 +22,63 @@
 4dd	.
 4dd	.
 =2	=2
-8cc	B-add(2,4,7)
+8ccL	B- other-2,4,7
 8b-	.
 8b-	.
+8b-J	.
+8b-L	.
 8b-	.
 8b-	.
-8b-	.
-8b-	.
-8b-	.
+8b-J	.
 =3	=3
-8cc	Dm7
+8ccL	D minor-seventh
 8cc	.
-8cc	.
+8ccJ	.
 8r	.
-8cc	.
+8ccL	.
 8a	.
 8g	.
-8f	.
+8fJ	.
 =4	=4
 4r	.
-4r	F/A
-4.r	E-/B-
+4r	F major/A
+4.r	E- major/B-
 8r	.
 =5	=5
-4r	F/C
-8.r	E-/B-
-16r	F/A
-16dd[	.
-8.dd]	.
+4r	F major/C
+8.r	E- major/B-
+16r	F major/A
+[16ddLK	.
+8.ddJ]	.
 4dd	.
 =6	=6
-8cc	B-add(2,4,7)
+8ccL	B- other-2,4,7
 8b-	.
 8b-	.
+8b-J	.
+8b-L	.
 8b-	.
 8b-	.
-8b-	.
-8b-	.
-8b-	.
+8b-J	.
 =7	=7
-8cc	Dm7
+8cc	D minor-seventh
 8r	.
 8cc	.
 8r	.
 8cc	.
 8r	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 =8	=8
 8f	.
 8r	.
-4r	F/A
-4.r	E-/B-
+4r	F major/A
+4.r	E- major/B-
 8r	.
 =9	=9
-4r	F/C
-8.r	E-/B-
-8r	F/A
+4r	F major/C
+8.r	E- major/B-
+8r	F major/A
 4..r	.
 ==	==
 *-	*-

@@ -16,74 +16,74 @@
 *a:	*
 *M4/4	*
 =1	=1
-4cc	Fmaj7/A
+4cc	F major-seventh/A
 8r	.
-16a	.
-16cc	.
-8.ee	.
+16aLL	.
+16ccJJ	.
+8.eeL	.
 8.dd	.
-8a	.
+8aJ	.
 =2	=2
-4cc	F#m7b5
-16cc	.
+4cc	F# half-diminished
+16ccLL	.
 16b	.
 16a	.
-16f#	.
-8cc	F#m7b5/A
-8cc	.
+16f#JJ	.
+8ccL	F# half-diminished/A
+8ccJ	.
 4dd	.
 =3	=3
-4b	G7
+4b	G dominant
 8cc	.
 4b	.
-8d	.
+8dL	.
 8g	.
-8b	.
+8bJ	.
 =4	=4
-8.dd	G#dim7
+8.ddL	G# diminished-seventh
 8.cc	.
-8b	.
-16b	E7
+8bJ	.
+16bLL	E dominant
 16g#	.
 16cc	.
 16a	.
-16dd	.
+16ddJJ	.
 16r	.
 16ee	.
 16r	.
 =5	=5
 *k[b-]	*
 *d:	*
-4ff	B-maj9
-16ee	.
+4ff	B- major-ninth
+16eeLL	.
 16ff	.
 16dd	.
-16b-	.
-8.ff	.
+16b-JJ	.
+8.ffL	.
 8.gg	.
-8ff	.
+8ffJ	.
 =6	=6
-4ff	Dm/A
-16ee	.
+4ff	D minor/A
+16eeLL	.
 16ff	.
 16ee	.
-16b-	.
-8.gg	.
+16b-JJ	.
+8.ggL	.
 8.ff	.
-8dd	.
+8ddJ	.
 =7	=7
-4ee	E7/A-
-16ee	.
+4ee	E dominant/A-
+16eeLL	.
 16dd	.
 16dd-	.
-16bn	.
-8.dd	Eadd(1,4,7,10)
+16bnJJ	.
+8.ddL	E other-1,4,7,10
 8.ff	.
-8aa-	.
+8aa-J	.
 =8	=8
-8.aa	Asus4
+8.aa	A suspended-fourth
 16r	.
 4aa	.
-2aa	A7
+2aa	A dominant
 ==	==
 *-	*-

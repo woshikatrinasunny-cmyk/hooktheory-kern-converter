@@ -16,53 +16,53 @@
 *d:	*
 *M3/4	*
 =1	=1
-8a	Dm
-8dd	.
-8a	.
-8dd	.
-8a	.
-8dd	.
+8aL	D minor
+8ddJ	.
+8aL	.
+8ddJ	.
+8aL	.
+8ddJ	.
 =2	=2
-8a	DmMaj7/D-
-8dd-	.
-8a	.
-8dd-	.
-8a	.
-8dd-	.
+8aL	D major-minor/D-
+8dd-J	.
+8aL	.
+8dd-J	.
+8aL	.
+8dd-J	.
 =3	=3
-8a	Dm7/C
-8cc	.
-8a	.
-8cc	.
-8a	.
-8cc	.
+8aL	D minor-seventh/C
+8ccJ	.
+8aL	.
+8ccJ	.
+8aL	.
+8ccJ	.
 =4	=4
-8g	G7/B
-8bn	.
-8g	.
-8bn	.
-8g	.
-8bn	.
+8gL	G dominant/B
+8bnJ	.
+8gL	.
+8bnJ	.
+8gL	.
+8bnJ	.
 =5	=5
-8g	Gm/B-
-8b-	.
-8e	.
-8b-	.
-8f	.
-8b-	.
+8gL	G minor/B-
+8b-J	.
+8eL	.
+8b-J	.
+8fL	.
+8b-J	.
 =6	=6
-8g	.
-8b-	.
-8f	Fadd(4,5,8)/A
-8b-	.
-4e	Edim/G
+8gL	.
+8b-J	.
+8fL	F other-4,5,8/A
+8b-J	.
+4e	E diminished/G
 =7	=7
-4a	A
-4bn	G/B
-4dd-	A/D-
+4a	A major
+4bn	G major/B
+4dd-	A major/D-
 =8	=8
-4ee	Edim/B-
-4dd	Dm/A
-4dd-	A7
+4ee	E diminished/B-
+4dd	D minor/A
+4dd-	A dominant
 ==	==
 *-	*-

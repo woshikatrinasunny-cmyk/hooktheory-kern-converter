@@ -15,7 +15,7 @@
 *F:	*
 *M6/4	*
 =1	=1
-4ff	F
+4ff	F major
 8ee	.
 4cc	.
 8b-	.
@@ -24,11 +24,11 @@
 4a	.
 8b-	.
 =2	=2
-2.cc[	F
-4cc]	C
+[2.cc	F major
+4cc]	C major
 2r	.
 =3	=3
-4f	F
+4f	F major
 8a	.
 4b-	.
 4.cc	.
@@ -36,20 +36,20 @@
 4ee	.
 8ff	.
 =4	=4
-3...gg	B-
+3...gg	B- major
 2ff	.
 4.r	.
 =5	=5
-3...gg	B-m
+3...gg	B- minor
 4.ff	.
 8dd-	.
 4ee-	.
 8dd-	.
 =6	=6
-1cc	F
+1cc	F major
 2r	.
 =7	=7
-4b-	Gm
+4b-	G minor
 8a	.
 4b-	.
 4.g	.
@@ -57,13 +57,13 @@
 4a	.
 8b-	.
 =8	=8
-4cc	Am
+4cc	A minor
 8cc	.
 4a	.
 2cc	.
 4.r	.
 =9	=9
-4dd	B-
+4dd	B- major
 8cc	.
 4dd	.
 4b-	.
@@ -72,11 +72,11 @@
 4gg	.
 8ff	.
 =10	=10
-1ee[	C
+[1ee	C major
 8ee]	.
 4.r	.
 =11	=11
-4f	F
+4f	F major
 8a	.
 4b-	.
 4.cc	.
@@ -84,22 +84,22 @@
 4ee	.
 8ff	.
 =12	=12
-3...gg	B-
+3...gg	B- major
 2ff	.
 4.r	.
 =13	=13
-3...gg	B-m
+3...gg	B- minor
 4ff	.
 8r	.
 8ee	.
 4ff	.
 8gg	.
 =14	=14
-1aa[	F
+[1aa	F major
 8aa]	.
 4.r	.
 =15	=15
-4bb-	Gm
+4bb-	G minor
 8aa	.
 4bb-	.
 4.dd	.
@@ -107,17 +107,17 @@
 4aa	.
 8bb-	.
 =16	=16
-4.aa	Dm
-4.gg	C/E
-4.ff	F
+4.aa	D minor
+4.gg	C major/E
+4.ff	F major
 4a	.
 8b-	.
 =17	=17
-1cc[	Csus4
+[1cc	C suspended-fourth
 8cc]	.
 4cc	.
 8dd	.
 =18	=18
-1.ee	C
+1.ee	C major
 ==	==
 *-	*-

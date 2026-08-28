@@ -16,73 +16,73 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8a#	Badd(2,4,7)
+8a#L	B other-2,4,7
 8a#	.
 8a#	.
-8b	.
-8a#	.
+8bJ	.
+8a#L	.
 8g#	.
 8f#	.
-8f#[	.
+[8f#J	.
 =2	=2
-4f#]	F#/A#
+4f#]	F# major/A#
 2.r	.
 =3	=3
-4r	G#m
-8f#	.
-8f#	.
-8cc#	B
+4r	G# minor
+8f#L	.
+8f#J	.
+8cc#L	B major
 8b	.
 8a#	.
-8a#[	.
+[8a#J	.
 =4	=4
-8a#]	F#
+8a#L]	F# major
 8g#	.
 8f#	.
-8e#[	.
-8e#]	C#
-8f#	.
+[8e#J	.
+8e#L]	C# major
+8f#J	.
 4e#	.
 =5	=5
-4d#	G#m
-8f#	.
-8f#	.
-8cc#	B
+4d#	G# minor
+8f#L	.
+8f#J	.
+8cc#L	B major
 8b	.
 8a#	.
-8a#[	.
+[8a#J	.
 =6	=6
-8a#]	D#m7
+8a#L]	D# minor-seventh
 8g#	.
 8f#	.
-8f#	.
-8e#	C#
+8f#J	.
+8e#L	C# major
 8f#	.
 8e#	.
-8d#[	.
+[8d#J	.
 =7	=7
-4d#]	G#m
-8f#	.
-8f#	.
-8cc#	B
+4d#]	G# minor
+8f#L	.
+8f#J	.
+8cc#L	B major
 8b	.
 8a#	.
-8a#[	.
+[8a#J	.
 =8	=8
-8a#]	D#m7
+8a#L]	D# minor-seventh
 8g#	.
-8f#	.
+8f#J	.
 8r	.
-8r	C#
+8r	C# major
 8f#	.
 4f#	.
 =9	=9
-3...cc#	Badd(2,4,7)
-8.a#	.
-16g#	.
-8f#[	.
+3...cc#	B other-2,4,7
+8.a#L	.
+16g#k	.
+[8f#J	.
 =10	=10
-4f#]	Bsus2
+4f#]	B suspended-second
 2.r	.
 ==	==
 *-	*-

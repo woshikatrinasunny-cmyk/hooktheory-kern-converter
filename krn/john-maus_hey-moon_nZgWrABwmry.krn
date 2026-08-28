@@ -16,40 +16,40 @@
 *C:	*
 *M4/4	*
 =1	=1
-8FF	F
+8FFL	F major
 8F	.
 8A	.
-8c	.
-8CC	C
+8cJ	.
+8CCL	C major
 8C	.
 8E	.
-8G	.
+8GJ	.
 =2	=2
-8GG	G
+8GGL	G major
 8G	.
 8B	.
-8d	.
-8FF	Dm/F
+8dJ	.
+8FFL	D minor/F
 8F	.
 8A	.
-8c	.
+8cJ	.
 =3	=3
-8FF	F
+8FFL	F major
 8F	.
 8A	.
-8c	.
-8CC	C
+8cJ	.
+8CCL	C major
 8C	.
 8E	.
-8G	.
+8GJ	.
 =4	=4
-8GG	G
+8GGL	G major
 8G	.
 8B	.
-8d	.
-8FF	Dm/F
+8dJ	.
+8FFL	D minor/F
 8F	.
 8A	.
-8c	.
+8cJ	.
 ==	==
 *-	*-

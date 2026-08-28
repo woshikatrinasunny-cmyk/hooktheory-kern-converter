@@ -16,70 +16,70 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.a	Am
-16g	.
-16a	.
-4.b	Em
-16a	.
-16b	.
+4.a	A minor
+16gLL	.
+16aJJ	.
+4.b	E minor
+16aLL	.
+16bJJ	.
 =2	=2
-4.cc	Dm7
-16b	.
-16cc	.
-4dd	Em
-8cc	.
-8dd	.
+4.cc	D minor-seventh
+16bLL	.
+16ccJJ	.
+4dd	E minor
+8ccL	.
+8ddJ	.
 =3	=3
-8ee	C
+8eeL	C major
 8ee	.
 8dd	.
-8dd	.
-4cc	Am
-4b	G
+8ddJ	.
+4cc	A minor
+4b	G major
 =4	=4
-4.a	F
+4.a	F major
 8g	.
-4.g	G
+4.g	G major
 8d	.
 =5	=5
-8d	Am
+8dL	A minor
 8d	.
 8d	.
-8d	.
-4.d	Em
-16a	.
-16a	.
+8dJ	.
+4.d	E minor
+16aLL	.
+16aJJ	.
 =6	=6
-8a	Dm
-8a	.
+8aL	D minor
+8aJ	.
 4a	.
-4.b	Em
-16b	.
-16b	.
+4.b	E minor
+16bLL	.
+16bJJ	.
 =7	=7
-8cc	Am
+8ccL	A minor
 8cc	.
 8cc	.
-8cc	.
-8dd	G
+8ccJ	.
+8ddL	G major
 8dd	.
 8cc	.
-8dd	.
+8ddJ	.
 =8	=8
-8ee	C
+8eeL	C major
 8ee	.
 8dd	.
-8dd	.
-4cc	Am
-4b	G
+8ddJ	.
+4cc	A minor
+4b	G major
 =9	=9
-4.a	F
+4.a	F major
 8a	.
-2g	G
+2g	G major
 =10	=10
-2e	Fmaj7
-4d	G
-8a	.
-8g	.
+2e	F major-seventh
+4d	G major
+8aL	.
+8gJ	.
 ==	==
 *-	*-

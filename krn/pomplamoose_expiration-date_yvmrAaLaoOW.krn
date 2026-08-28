@@ -16,88 +16,88 @@
 *G:	*
 *M6/4	*
 =1	=1
-4g	G
+4g	G major
 4g	.
 4g	.
 4g	.
 4f	.
 4d	.
 =2	=2
-4.c	C#dim
+4.c	C# diminished
 4.r	.
 4g	.
 4f	.
 4d	.
 =3	=3
-4.G	C
+4.G	C major
 4.r	.
 4g	.
 4f	.
 4d	.
 =4	=4
-4G	C#dim
+4G	C# diminished
 4A	.
 4A#	.
-4c	Cm
+4c	C minor
 4d	.
 4d#	.
 =5	=5
-4g	G
+4g	G major
 4g	.
 4g	.
 4g	.
 4f	.
 4d	.
 =6	=6
-4.c	C#dim
+4.c	C# diminished
 4.r	.
 4g	.
 4f	.
-4d[	.
+[4d	.
 =7	=7
-4d]	C
+4d]	C major
 4.G	.
 8r	.
 4g	.
 4f	.
 4d	.
 =8	=8
-4G	A7
+4G	A dominant
 4A	.
 4A#	.
-4c	Am7b5
+4c	A half-diminished
 4d	.
 4d#	.
 =9	=9
-2g	G
+2g	G major
 4g	.
 2.a#	.
 =10	=10
-2a	C#dim
+2a	C# diminished
 2f	.
 4r	.
 4f	.
 =11	=11
-4.g	C
+4.g	C major
 8r	.
 4g	.
 2.f	.
 =12	=12
-2c	A7
-4A#	C#dim
-2c	Dm11
-4B[	.
+2c	A dominant
+4A#	C# diminished
+2c	D minor-11th
+[4B	.
 =13	=13
-1B]	G
+1B]	G major
 4r	.
 4B	.
 =14	=14
-2c	G#add(4,6,7,11)
+2c	G# other-4,6,7,11
 4d	.
 2c	.
 4d	.
 =15	=15
-1B	G
+1B	G major
 2r	.
 =16	=16
 1.r	.

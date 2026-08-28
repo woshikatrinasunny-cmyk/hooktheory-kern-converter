@@ -16,86 +16,86 @@
 *g#:	*
 *M4/4	*
 =1	=1
-2.g#	G#m
+2.g#	G# minor
 4a#	.
 =2	=2
-1f#	F#
+1f#	F# major
 =3	=3
-2.e	E
+2.e	E major
 4f#	.
 =4	=4
-1d#	G#m/D#
+1d#	G# minor/D#
 =5	=5
-2.c#	F#/C#
+2.c#	F# major/C#
 4d#	.
 =6	=6
-4B	B
+4B	B major
 4d#	.
 4f#	.
 4b	.
 =7	=7
-2a#	Gdim
+2a#	G diminished
 4gn	.
 4a#	.
 =8	=8
-1ccn	G#
+1ccn	G# major
 =9	=9
-2.g#	G#m
+2.g#	G# minor
 4a#	.
 =10	=10
-1f#	F#
+1f#	F# major
 =11	=11
-2.e	E
+2.e	E major
 4f#	.
 =12	=12
-1d#	G#m/D#
+1d#	G# minor/D#
 =13	=13
-2.c#	F#/C#
+2.c#	F# major/C#
 4d#	.
 =14	=14
-4B	B
+4B	B major
 4d#	.
 4f#	.
 4b	.
 =15	=15
-2a#	Gdim
+2a#	G diminished
 4gn	.
 4a#	.
 =16	=16
-2ccn	G#
+2ccn	G# major
+8ccnL	.
 8ccn	.
-8ccn	.
-8cc#	Cdim/D#
-8dd#	.
+8cc#	C diminished/D#
+8dd#J	.
 =17	=17
-2ee	C#m/E
-4dd#	B/D#
+2ee	C# minor/E
+4dd#	B major/D#
 4b	.
 =18	=18
-4g#	C#m
+4g#	C# minor
 4cc#	.
-4b	D#m/F#
+4b	D# minor/F#
 4f#	.
 =19	=19
-1e[	E
+[1e	E major
 =20	=20
-2.e]	E
-8cc#	.
-8dd#	.
+2.e]	E major
+8cc#L	.
+8dd#J	.
 =21	=21
-2ee	C#m/E
-4dd#	B/D#
+2ee	C# minor/E
+4dd#	B major/D#
 4b	.
 =22	=22
-4g#	C#m
+4g#	C# minor
 4cc#	.
-4b	D#m/F#
+4b	D# minor/F#
 4f#	.
 =23	=23
-1e[	E
+[1e	E major
 =24	=24
-2.e]	E
-8e	.
-8f#	.
+2.e]	E major
+8eL	.
+8f#J	.
 ==	==
 *-	*-

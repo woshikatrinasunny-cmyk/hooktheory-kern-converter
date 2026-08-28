@@ -16,28 +16,28 @@
 *B-:	*
 *M6/4	*
 =1	=1
-2.dd	B-
+2.dd	B- major
 2.dd	.
 =2	=2
 2.dd	.
-2.cc	F/A
+2.cc	F major/A
 =3	=3
-2.dd	Gm7
+2.dd	G minor-seventh
 2.dd	.
 =4	=4
 2.dd	.
-2.cc	B-add(2,4,7)/F
+2.cc	B- other-2,4,7/F
 =5	=5
-2.ee-	E-add(2,4,7)
+2.ee-	E- other-2,4,7
 2.ee-	.
 =6	=6
 2.ee-	.
 2.b-	.
 =7	=7
-2.dd	B-/F
+2.dd	B- major/F
 2.dd	.
 =8	=8
-2.cc	Fsus4
+2.cc	F suspended-fourth
 4b-	.
 4a	.
 4f	.

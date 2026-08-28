@@ -16,127 +16,127 @@
 *B:	*
 *M6/4	*
 =1	=1
-4r	B
+4r	B major
 8f#	.
 4dd#	.
 8cc#	.
-8b	A
+8b	A major
 4b	.
 4.r	.
 =2	=2
-4r	B
-8f#	.
-8dd#	.
-8cc#	.
-8b	.
-8b	A
-8f#	.
+4r	B major
+8f#L	.
+8dd#J	.
+8cc#L	.
+8bJ	.
+8bL	A major
+8f#J	.
 2r	.
 =3	=3
-4r	B
-8f#	.
-8f#	.
+4r	B major
+8f#L	.
+8f#J	.
 4dd#	.
-8cc#	A
+8cc#	A major
 4b	.
 8b	.
 4f#	.
 =4	=4
-4a	B
+4a	B major
 2r	.
-2.r	A
+2.r	A major
 =5	=5
-4r	B
-8f#	.
-8dd#	.
-8cc#	.
-8b	.
-8b	A
+4r	B major
+8f#L	.
+8dd#J	.
+8cc#L	.
+8bJ	.
+8b	A major
 4f#	.
 4.r	.
 =6	=6
-4.r	B
-16dd#	.
-16dd#	.
-8cc#	.
-8b[	.
-8b]	A
+4.r	B major
+16dd#LL	.
+16dd#JJ	.
+8cc#L	.
+[8bJ	.
+8b]	A major
 8.cc#	.
 4..r	.
 =7	=7
-8f#	B
-8f#	.
+8f#L	B major
+8f#J	.
 8dd#	.
 6...cc#	.
-16b[	.
-8b]	A
-8b	.
+[16b	.
+8bL]	A major
+8bJ	.
 8f#	.
 4a	.
 8r	.
 =8	=8
-2.r	B
-2.r	A
+2.r	B major
+2.r	A major
 =9	=9
-2r	C#m
-8dd#	.
-8dd#[	.
-4.dd#]	A
+2r	C# minor
+8dd#L	.
+[8dd#J	.
+4.dd#]	A major
 8cc#	.
-8b	.
-8cc#[	.
+8bL	.
+[8cc#J	.
 =10	=10
-4cc#]	F#add(2,4,7)/C#
+4cc#]	F# other-2,4,7/C#
 4r	.
-8dd#	.
-8cc#	.
+8dd#L	.
+8cc#J	.
 8dd#	.
 4cc#	.
 4.r	.
 =11	=11
-4r	B
-8f#	.
-8f#	.
-8dd#	.
-8cc#	.
-3...b	A
+4r	B major
+8f#L	.
+8f#J	.
+8dd#L	.
+8cc#J	.
+3...b	A major
 8f#	.
 =12	=12
-8f#	B
-8bb	.
-8bb	.
-8bb	.
-8bb	.
-8bb	.
-8aa	A
-8ee	.
-8aa	.
-8dd#	.
-8aa	.
-8aa	.
+8f#L	B major
+8bbJ	.
+8bbL	.
+8bbJ	.
+8bbL	.
+8bbJ	.
+8aaL	A major
+8eeJ	.
+8aaL	.
+8dd#J	.
+8aaL	.
+8aaJ	.
 =13	=13
-8bb	B
-8bb	.
-8bb	.
-8bb	.
-8bb	.
-8bb	.
-8aa	A
-8aa	.
-8aa	.
-8aa	.
-8aa	.
-8aa	.
+8bbL	B major
+8bbJ	.
+8bbL	.
+8bbJ	.
+8bbL	.
+8bbJ	.
+8aaL	A major
+8aaJ	.
+8aaL	.
+8aaJ	.
+8aaL	.
+8aaJ	.
 =14	=14
-8bb	B
-8bb	.
-8bb	.
-8bb	.
-8bb	.
-8bb	.
-4.fff#[	A
-16fff#]	.
-16ggg#	.
+8bbL	B major
+8bbJ	.
+8bbL	.
+8bbJ	.
+8bbL	.
+8bbJ	.
+[4.fff#	A major
+16fff#LL]	.
+16ggg#JJ	.
 4fff#	.
 ==	==
 *-	*-

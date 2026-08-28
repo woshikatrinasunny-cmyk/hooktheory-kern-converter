@@ -16,16 +16,16 @@
 *E-:	*
 *M4/4	*
 =1	=1
-2r	Fadd(2,3,7)
+2r	F other-2,3,7
 2g	.
 =2	=2
-4f	Cm
+4f	C minor
 8r	.
 8e-	.
 4.g	.
 8e-	.
 =3	=3
-2d	B-
+2d	B- major
 4.r	.
 8c	.
 =4	=4
@@ -34,19 +34,19 @@
 8G	.
 4.B-	.
 =5	=5
-2r	A-
+2r	A- major
 2g	.
 =6	=6
 4f	.
 8r	.
 8e-	.
-2g	B-
+2g	B- major
 =7	=7
-2d	Fadd(2,3,7)
+2d	F other-2,3,7
 4.r	.
 8c	.
 =8	=8
-6...d	Fadd(2,3,7)
+6...d	F other-2,3,7
 8.c	.
 8d	.
 4.e-	.

@@ -16,108 +16,108 @@
 *C:	*
 *M4/4	*
 =1	=1
-2..r	E
+2..r	E major
 8e	.
 =2	=2
-8g	C
+8gL	C major
 8g	.
 8g	.
-8e	.
+8eJ	.
 8g	.
 4g	.
-8g[	.
+[8g	.
 =3	=3
-4g]	Asus2
+4g]	A suspended-second
 8r	.
-8g	A
+8g	A major
 8a	.
 4b	.
-16g	.
-16a	.
+16gLL	.
+16aJJ	.
 =4	=4
-2g	E
+2g	E major
 2r	.
 =5	=5
-2..r	E
+2..r	E major
 8e	.
 =6	=6
-8g	C
-16g	.
+8gL	C major
+16gk	.
 8e	.
-16e	.
-8g	.
-16g	.
-8.e	.
+16ek	.
+8gJ	.
+16gLK	.
+8.eJ	.
 4d	.
 =7	=7
-6...r	Asus2
-16g[	.
-16g]	A
+6...r	A suspended-second
+[16gLL	.
+16gJJ]	A major
 8a	.
 4b	.
-16g	.
-8a[	.
+16gLK	.
+[8aJ	.
 =8	=8
-8a]	E
+8a]	E major
 4.g	.
 2r	.
 =9	=9
-2..r	E
+2..r	E major
 8e	.
 =10	=10
-8g	C
+8gL	C major
 8g	.
-8g	.
+8gJ	.
 4g	.
-8e	.
+8eL	.
+16gL	.
 16g	.
 16g	.
-16g	.
-16e[	.
+[16eJJ	.
 =11	=11
-4e]	Asus2
+4e]	A suspended-second
 8r	.
-16r	A
+16r	A major
 16e	.
+16gLL	.
 16g	.
-16g	.
-16g	.
+16gJ	.
 8g	.
-8.g	.
+8.gJ	.
 =12	=12
-2e	E
+2e	E major
 2r	.
 =13	=13
-2..r	E
+2..r	E major
 8e	.
 =14	=14
-8g	C
+8gL	C major
 8g	.
 8e	.
-8g	.
+8gJ	.
 4e	.
 8r	.
 8e	.
 =15	=15
-8g	Asus2
+8gL	A suspended-second
 8g	.
-8g[	.
-8g]	A
+[8g	.
+8gJ]	A major
 8g	.
 4g	.
-8e[	.
+[8e	.
 =16	=16
-2e]	E
+2e]	E major
 4..r	.
 16d	.
 =17	=17
-16e	E
+16eLL	E major
 16e	.
-16e	.
+16eJJ	.
 4d	.
 8A	.
-16A	.
-16A	.
+16ALL	.
+16AJJ	.
 6...G	.
 ==	==
 *-	*-

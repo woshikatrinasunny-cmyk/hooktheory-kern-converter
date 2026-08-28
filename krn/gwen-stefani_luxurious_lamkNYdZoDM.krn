@@ -16,83 +16,83 @@
 *a:	*
 *M4/4	*
 =1	=1
-8f	Fmaj9
+8fL	F major-ninth
 8g	.
 8g	.
-8f	.
-8g	Eadd(1,3,7,10)
+8fJ	.
+8gL	E other-1,3,7,10
 8g	.
 8g	.
-8f	.
+8fJ	.
 =2	=2
-8g	Am9
-16g[	.
-16g]	Am7
+8gL	A minor-ninth
+[16gL	.
+16gJ]	A minor-seventh
 8g	.
-16a	.
-16f	.
-4g	Gm9
-8.r	Gm7/A#
+16aL	.
+16fJJ	.
+4g	G minor-ninth
+8.r	G minor-seventh/A#
 16f	.
 =3	=3
-16f	Fmaj9
+16fLL	F major-ninth
 16g	.
 16g	.
-16g	.
+16gJ	.
 8g	.
-8f	.
-8g	Eadd(1,3,7,10)
+8fJ	.
+8gL	E other-1,3,7,10
 8f	.
 8g	.
-8a	.
+8aJ	.
 =4	=4
-8g	Am9
-16g[	.
-16g]	Am7
+8gL	A minor-ninth
+[16gL	.
+16gJ]	A minor-seventh
 8g	.
-16a	.
-16f	.
-4g	Gm9
-8r	Gm7/A#
+16aL	.
+16fJJ	.
+4g	G minor-ninth
+8r	G minor-seventh/A#
 8c	.
 =5	=5
-8cc	Fmaj9
+8ccL	F major-ninth
 8b	.
-16a	.
-16g	.
-8g	.
-8f	Eadd(1,3,7,10)
+16aL	.
+16gJ	.
+8gJ	.
+8fL	E other-1,3,7,10
 8e	.
 8d	.
-8c	.
+8cJ	.
 =6	=6
-8cc	Am9
-16b[	.
-16b]	Am7
+8ccL	A minor-ninth
+[16bL	.
+16b]	A minor-seventh
 16a	.
-16g	.
-8g	.
-8f	Gm9
+16gJ	.
+8gJ	.
+8fL	G minor-ninth
 8e	.
-8d	Gm7/A#
-8c	.
+8d	G minor-seventh/A#
+8cJ	.
 =7	=7
-8cc	Fmaj9
+8ccL	F major-ninth
 8b	.
-16a	.
-16g	.
-8g	.
-8f	Eadd(1,3,7,10)
-8e	.
+16aL	.
+16gJ	.
+8gJ	.
+8fL	E other-1,3,7,10
+8eJ	.
 4d	.
 =8	=8
-16g	Am9
+16gLL	A minor-ninth
 16g	.
 16g	.
-16e	Am7
+16eJ	A minor-seventh
 8g	.
-8a	.
-4g	Gm9
-4r	Gm7/A#
+8aJ	.
+4g	G minor-ninth
+4r	G minor-seventh/A#
 ==	==
 *-	*-

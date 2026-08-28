@@ -15,12 +15,12 @@
 *B-:	*
 *M3/4	*
 =1	=1
-8d	B-
+8d	B- major
 8r	.
-8d	.
-8e-	.
-8en	.
-8f	.
+8dL	.
+8e-J	.
+8enL	.
+8fJ	.
 =2	=2
 8g	.
 8r	.
@@ -29,21 +29,21 @@
 8d	.
 8r	.
 =3	=3
-8g	E-
+8g	E- major
 8r	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 8b-	.
 8r	.
 =4	=4
-2.f	B-
+2.f	B- major
 =5	=5
 8d	.
 8r	.
-8d	.
-8e-	.
-8en	.
-8f	.
+8dL	.
+8e-J	.
+8enL	.
+8fJ	.
 =6	=6
 8g	.
 8r	.
@@ -52,25 +52,25 @@
 8d	.
 8r	.
 =7	=7
-8en	C
+8en	C major
 8r	.
 8en	.
 8r	.
 8cc	.
 8r	.
 =8	=8
-4a	F
+4a	F major
 8E-	.
 8r	.
 8D	.
 8r	.
 =9	=9
-8d	B-
+8d	B- major
 8r	.
-8d	.
-8e-	.
-8en	.
-8f	.
+8dL	.
+8e-J	.
+8enL	.
+8fJ	.
 =10	=10
 8g	.
 8r	.
@@ -79,18 +79,18 @@
 8d	.
 8r	.
 =11	=11
-8g	E-
+8g	E- major
 8r	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 8b-	.
 8r	.
 =12	=12
-2cc	Cdim/E-
-8b-	.
-8cc	.
+2cc	C diminished/E-
+8b-L	.
+8ccJ	.
 =13	=13
-8dd	B-
+8dd	B- major
 8r	.
 8b-	.
 8r	.
@@ -101,15 +101,15 @@
 8r	.
 2f	.
 =15	=15
-8a	F
+8a	F major
 8r	.
-8a	.
-8b-	.
-8cc	F
+8aL	.
+8b-J	.
+8cc	F major
 8r	.
 =16	=16
-4b-[	B-
-4b-_	B-/F
-4b-]	B-maj7/A
+[4b-	B- major
+4b-_	B- major/F
+4b-]	B- major-seventh/A
 ==	==
 *-	*-

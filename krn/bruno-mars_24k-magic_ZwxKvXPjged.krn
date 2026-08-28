@@ -16,80 +16,80 @@
 *f:	*
 *M4/4	*
 =1	=1
-4FF	Fm11
+4FF	F minor-11th
 8.r	.
 16EE-	.
+16FFLL	.
 16FF	.
-16FF	.
-16AA-	.
+16AA-JJ	.
 16r	.
-32BB-	.
+32BB-LLK	.
 16.C	.
-16AA-	.
+16AA-JJ	.
 16r	.
 =2	=2
-8.BB-	B-m7
-16BB-	.
+8.BB-L	B- minor-seventh
+16BB-Jk	.
 8.r	.
 16AA-	.
-16C	.
-16C	.
+16CLL	.
+16CJ	.
 8AA-	.
-16BB-	.
-16BB-	.
-8EE-	.
+16BB-L	.
+16BB-J	.
+8EE-J	.
 =3	=3
-4FF	Fm11
+4FF	F minor-11th
 8.r	.
 16EE-	.
+16FFLL	.
 16FF	.
-16FF	.
-16AA-	.
+16AA-JJ	.
 16r	.
-32BB-	.
+32BB-LLK	.
 16.C	.
-16AA-	.
+16AA-JJ	.
 16r	.
 =4	=4
-16e-	B-m7
-16e-	.
+16e-LL	B- minor-seventh
+16e-J	.
 8e-	.
 8e-	.
+8e-J	.
+8e-L	.
 8e-	.
 8e-	.
-8e-	.
-8e-	.
-8f	.
+8fJ	.
 =5	=5
-2.g	Fm11
-16f	.
-16g	.
-8f[	.
+2.g	F minor-11th
+16fLL	.
+16gJ	.
+[8fJ	.
 =6	=6
-8f]	B-m7
+8f]	B- minor-seventh
 4.r	.
-8cc	D-maj7
-16cc	.
-16a-[	.
-8a-]	A-aug/C
-8a-	.
+8ccL	D- major-seventh
+16ccL	.
+[16a-J	.
+8a-]	A- augmented/C
+8a-J	.
 =7	=7
-8b-	Fm11
-16b-	.
+8b-L	F minor-11th
+16b-Jk	.
 4r	.
 16EE-	.
+16FFLL	.
 16FF	.
-16FF	.
-16AA-	.
+16AA-JJ	.
 16r	.
-32BB-	.
+32BB-LLK	.
 16.C	.
 16E-	.
-16F	.
+16FJJ	.
 =8	=8
-8FF	Fadd(3,5,7,10)
+8FF	F other-3,5,7,10
 4.r	.
-8FF	Fm11
+8FF	F minor-11th
 8r	.
 8FF	.
 8r	.

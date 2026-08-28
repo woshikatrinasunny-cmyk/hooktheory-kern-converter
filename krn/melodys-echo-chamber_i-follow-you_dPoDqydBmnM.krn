@@ -16,66 +16,66 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	Am
-8a	.
-8a	.
+8r	A minor
+8aL	.
+8aJ	.
 4a	.
 8a	.
 8r	.
-8a[	.
+[8a	.
 =2	=2
-8a]	Em/G
+8a]	E minor/G
 4g	.
-8g[	.
-4.g]	Dm/F
+[8g	.
+4.g]	D minor/F
 8r	.
 =3	=3
-8r	Em/G
+8r	E minor/G
+8gL	.
 8g	.
-8g	.
-8g[	.
-8g]	Dm/F
-8g	.
+[8gJ	.
+8gL]	D minor/F
+8gJ	.
 8r	.
-8g[	.
+[8g	.
 =4	=4
-8g]	Em
+8g]	E minor
 4e	.
-8e[	.
-8e]	Eadd(1,3,7,10)
+[8e	.
+8eL]	E other-1,3,7,10
 8d	.
 8f	.
-8e	.
+8eJ	.
 =5	=5
-8r	Am
-8a	.
-8a	.
+8r	A minor
+8aL	.
+8aJ	.
 4a	.
 8a	.
 8r	.
-8a[	.
+[8a	.
 =6	=6
-8a]	Em/G
+8a]	E minor/G
 4g	.
-8g[	.
-4.g]	Dm/F
+[8g	.
+4.g]	D minor/F
 8r	.
 =7	=7
-8r	Em/G
+8r	E minor/G
+8gL	.
 8g	.
-8g	.
-8g[	.
-8g]	Dm/F
-8g	.
+[8gJ	.
+8gL]	D minor/F
+8gJ	.
 8r	.
-8g[	.
+[8g	.
 =8	=8
-8g]	Em
+8g]	E minor
 4e	.
-8e[	.
-8e]	Eadd(1,3,7,10)
+[8e	.
+8eL]	E other-1,3,7,10
 8d	.
 8f	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

@@ -16,14 +16,14 @@
 *d:	*
 *M4/4	*
 =1	=1
-8c	Gadd(3,5,7,10)/B-
+8c	G other-3,5,7,10/B-
 4c	.
 8f	.
 2f	.
 =2	=2
 1r	.
 =3	=3
-8c	Csus4
+8c	C suspended-fourth
 4c	.
 8g	.
 2g	.
@@ -31,7 +31,7 @@
 2..r	.
 8c	.
 =5	=5
-4.c	Dm
+4.c	D minor
 8f	.
 4.f	.
 8g	.
@@ -41,7 +41,7 @@
 4a	.
 4c	.
 =7	=7
-1r	Csus4
+1r	C suspended-fourth
 =8	=8
 1r	.
 ==	==

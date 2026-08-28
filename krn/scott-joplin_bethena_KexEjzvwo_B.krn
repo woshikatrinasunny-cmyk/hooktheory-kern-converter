@@ -16,88 +16,88 @@
 *G:	*
 *M3/4	*
 =1	=1
-8a	G
+8a	G major
 4g	.
 8b	.
 4a	.
 =2	=2
-8a	A7/E
+8a	A dominant/E
 4g	.
 8b	.
 4a	.
 =3	=3
-8a	D7
+8a	D dominant
 4cc	.
 8b	.
-4a	D#dim7
+4a	D# diminished-seventh
 =4	=4
-2.g	Em
+2.g	E minor
 =5	=5
-8ee	C
+8ee	C major
 4aa	.
 8ee	.
 4gg	.
 =6	=6
-8b	G/D
+8b	G major/D
 4ee	.
 8b	.
 4dd	.
 =7	=7
-8g	A7
+8g	A dominant
 4b	.
 8g	.
 4b	.
 =8	=8
-2.a	D7
+2.a	D dominant
 =9	=9
-8a	G
+8a	G major
 4g	.
 8b	.
 4a	.
 =10	=10
-8a	A7/E
+8a	A dominant/E
 4g	.
 8b	.
 4a	.
 =11	=11
-8a	D7
+8a	D dominant
 4cc	.
 8b	.
-4a	D#dim7
+4a	D# diminished-seventh
 =12	=12
-2.g	Em
+2.g	E minor
 =13	=13
-8ee	C
+8ee	C major
 4aa	.
 8ee	.
 4gg	.
 =14	=14
-8b	G/D
+8b	G major/D
 4ee	.
 8b	.
-8dd	.
-8d	.
+8ddL	.
+8dJ	.
 =15	=15
-8c#	C#m7b5/E
-8b[	.
-8b]	Am
-8c	.
-4a	D7
+8c#L	C# half-diminished/E
+[8bJ	.
+8bL]	A minor
+8cJ	.
+4a	D dominant
 =16	=16
-2g	G
+2g	G major
 4b	.
 =17	=17
-4b	B/F#
-4a[	.
-4a]	Badd(4,6,10)/F
+4b	B major/F#
+[4a	.
+4a]	B other-4,6,10/F
 =18	=18
-2g[	Edim7
-4g]	Aadd(4,6,10)/D#
+[2g	E diminished-seventh
+4g]	A other-4,6,10/D#
 =19	=19
-4f#	D
-4fn	Dm
-4d#	F7/C
+4f#	D major
+4fn	D minor
+4d#	F dominant/C
 =20	=20
-2.ffn	F7
+2.ffn	F dominant
 ==	==
 *-	*-

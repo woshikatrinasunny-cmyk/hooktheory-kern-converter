@@ -16,86 +16,86 @@
 *E:	*
 *M4/4	*
 =1	=1
-1r	Esus2
+1r	E suspended-second
 =2	=2
-1r	Esus2
+1r	E suspended-second
 =3	=3
-1r	Esus2
+1r	E suspended-second
 =4	=4
-1r	Esus2
+1r	E suspended-second
 =5	=5
-1r	Bsus4
+1r	B suspended-fourth
 =6	=6
-1r	Bsus4
+1r	B suspended-fourth
 =7	=7
-1r	Bsus4
+1r	B suspended-fourth
 =8	=8
-1r	Bsus4
+1r	B suspended-fourth
 =9	=9
-1r	C#add(2,5,7)
+1r	C# other-2,5,7
 =10	=10
-1r	C#add(2,5,7)
+1r	C# other-2,5,7
 =11	=11
-1r	C#add(2,5,7)
+1r	C# other-2,5,7
 =12	=12
-1r	C#add(2,5,7)
+1r	C# other-2,5,7
 =13	=13
-1r	F#m7/A
+1r	F# minor-seventh/A
 =14	=14
-1r	F#m7/A
+1r	F# minor-seventh/A
 =15	=15
-1r	F#m7/A
+1r	F# minor-seventh/A
 =16	=16
-1r	F#m7/A
+1r	F# minor-seventh/A
 =17	=17
-1r	Esus2
+1r	E suspended-second
 =18	=18
-1r	Esus2
+1r	E suspended-second
 =19	=19
-1r	Esus2
+1r	E suspended-second
 =20	=20
-2.r	Esus2
-8f#	.
-8d#[	.
+2.r	E suspended-second
+8f#L	.
+[8d#J	.
 =21	=21
-2.d#]	Bsus4
-8c#	.
-8B[	.
+2.d#]	B suspended-fourth
+8c#L	.
+[8BJ	.
 =22	=22
-2.B]	Bsus4
-8f#	.
-8d#[	.
+2.B]	B suspended-fourth
+8f#L	.
+[8d#J	.
 =23	=23
-2.d#]	Bsus4
-8c#	.
-8B[	.
+2.d#]	B suspended-fourth
+8c#L	.
+[8BJ	.
 =24	=24
-1B]	Bsus4
+1B]	B suspended-fourth
 =25	=25
-4c#	C#add(2,5,7)
+4c#	C# other-2,5,7
 2.r	.
 =26	=26
-1r	C#add(2,5,7)
+1r	C# other-2,5,7
 =27	=27
-1r	C#add(2,5,7)
+1r	C# other-2,5,7
 =28	=28
-2.r	C#add(2,5,7)
-8f#	.
-8d#[	.
+2.r	C# other-2,5,7
+8f#L	.
+[8d#J	.
 =29	=29
-2.d#]	F#m7/A
-8c#	.
-8B[	.
+2.d#]	F# minor-seventh/A
+8c#L	.
+[8BJ	.
 =30	=30
-2.B]	F#m7/A
-8f#	.
-8d#[	.
+2.B]	F# minor-seventh/A
+8f#L	.
+[8d#J	.
 =31	=31
-2.d#]	F#m7/A
-8c#	.
-8B[	.
+2.d#]	F# minor-seventh/A
+8c#L	.
+[8BJ	.
 =32	=32
-2.B]	F#m7/A
+2.B]	F# minor-seventh/A
 4r	.
 ==	==
 *-	*-

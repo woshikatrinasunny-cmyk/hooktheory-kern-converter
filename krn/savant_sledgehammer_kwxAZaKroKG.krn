@@ -15,141 +15,141 @@
 *c:	*
 *M4/4	*
 =1	=1
-4cc	Cm
+4cc	C minor
 4c	.
-4cc	A-/C
+4cc	A- major/C
 4EE-	.
 =2	=2
-16dd	Ddim
+16ddLL	D diminished
 16ee-	.
 16cc	.
-16dd	.
+16ddJ	.
 8ee-	.
-16dd	.
-16cc	.
-4dd	G
-8cc	.
-8dd	.
+16ddL	.
+16ccJJ	.
+4dd	G major
+8ccL	.
+8ddJ	.
 =3	=3
-16ee-	Cm
-16cc	.
+16ee-LL	C minor
+16ccJ	.
 8dd	.
 8ee-	.
-8dd	.
-8cc	Cm/G
+8ddJ	.
+8ccL	C minor/G
 8g	.
-8cc	Cm
-8ee-	.
+8cc	C minor
+8ee-J	.
 =4	=4
-8aa-	Bdim/D
+8aa-L	B diminished/D
 8ff	.
-8Bn	Bdim
-8ff	.
-16ee-	Cm
-16ff	.
+8Bn	B diminished
+8ffJ	.
+16ee-LL	C minor
+16ffJ	.
 8dd	.
-8ff	Cm7/G
-8dd	.
+8ff	C minor-seventh/G
+8ddJ	.
 =5	=5
-8ee-	A-
+8ee-L	A- major
 8dd	.
-8ee-	Fm7
-8dd	.
-16aa-	Gmaj7
+8ee-	F minor-seventh
+8ddJ	.
+16aa-	G major-seventh
 16r	.
-16ff	G
-16ee-	.
-8ff	Gsus2
-8Bn	G
+16ffLL	G major
+16ee-J	.
+8ff	G suspended-second
+8BnJ	G major
 =6	=6
-8ee-	Cm
+8ee-L	C minor
 8E-	.
 8G	.
-8c	.
-8e-	.
+8cJ	.
+8e-L	.
 8g	.
 8cc	.
-8ee-	.
+8ee-J	.
 =7	=7
-4C	Cm
-16ee-	.
+4C	C minor
+16ee-LL	.
 16cc	.
 16g	.
-16e-	.
+16e-JJ	.
 4c	.
-8bb-	Cm/E-
-16aa-	.
-16ff	.
+8bb-L	C minor/E-
+16aa-L	.
+16ffJJ	.
 =8	=8
-16aan	D
-16gg-	.
+16aanLL	D major
+16gg-J	.
 8dd	.
-16an	.
-16g-	.
+16anL	.
+16g-JJ	.
 3...d	.
 =9	=9
-16ccc	Fm
-16aa-	.
+16cccLL	F minor
+16aa-J	.
 8ff	.
-16cc	.
-16a-	.
+16ccL	.
+16a-JJ	.
 4.f	.
-8A-	Fm/A-
-8D-	.
+8A-L	F minor/A-
+8D-J	.
 =10	=10
-16ddd	G
+16dddLK	G major
 8.bbn	.
-16dd	.
-16bn	.
-8g	.
-16f	Ddim/F
-16g	.
+16ddL	.
+16bnJ	.
+8gJ	.
+16fLL	D diminished/F
+16gJ	.
 8a-	.
-16g	Ddim/A-
-16f	.
-8a-	.
+16gL	D diminished/A-
+16fJ	.
+8a-J	.
 =11	=11
-16g	Cm
-16e-	.
-8c	.
+16gLL	C minor
+16e-J	.
+8cJ	.
 4C	.
 4CC	.
 4dd	.
 =12	=12
-8ee-	E-m
-16g-	.
-16e-	.
+8ee-L	E- minor
+16g-L	.
+16e-JJ	.
 4ff	.
 4gg-	.
 4aa-	.
 =13	=13
-8bb-	B-m
-16d-	.
-16B-	.
+8bb-L	B- minor
+16d-L	.
+16B-JJ	.
 4B-	.
 4BB-	.
 4F	.
 =14	=14
-16aa-	Fm
-16a-	.
-8ff	.
+16aa-LL	F minor
+16a-J	.
+8ffJ	.
 4cc	.
 4FF	.
-8een	.
-8ff	.
+8eenL	.
+8ffJ	.
 =15	=15
-2en	B-dim/D-
-4d-	E-7sus4
+2en	B- diminished/D-
+4d-	E- dominant-seventh-suspended-fourth
 4D-	.
 =16	=16
-2c	C7
+2c	C dominant
 2f	.
 =17	=17
 2en	.
-2d-[	.
+[2d-	.
 =18	=18
 4..d-]	.
-2c[	.
+[2c	.
 16c_	.
 =19	=19
 1c]	.

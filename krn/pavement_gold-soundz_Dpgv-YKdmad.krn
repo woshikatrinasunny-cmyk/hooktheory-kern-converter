@@ -16,53 +16,53 @@
 *A:	*
 *M4/4	*
 =1	=1
-1r	Aadd(2,4,7)
+1r	A other-2,4,7
 =2	=2
 3...r	.
+8AL	.
 8A	.
-8A	.
-8A	.
+8AJ	.
 =3	=3
-8f#	B9
+8f#L	B dominant-ninth
 8f#	.
 8f#	.
-8f#	.
+8f#J	.
 8f#	.
 4e	.
-8c#[	Badd(3,5,7,10)/D
+[8c#	B other-3,5,7,10/D
 =4	=4
 *M2/4	*
-8c#]	.
-8A	.
-8c#	.
-8c#	.
+8c#L]	.
+8AJ	.
+8c#L	.
+8c#J	.
 =5	=5
 *M4/4	*
-4B	Aadd(2,4,7)
+4B	A other-2,4,7
 4c#	.
 8r	.
+8BL	.
 8B	.
-8B	.
-8B[	.
+[8BJ	.
 =6	=6
 8B]	.
 4A	.
 8E	.
 8r	.
-8A	.
+8AL	.
 8f#	.
-8e	.
+8eJ	.
 =7	=7
-4f#	B9
+4f#	B dominant-ninth
 4d#	.
 8e	.
 4B	.
-8c#[	Badd(3,5,7,10)/D
+[8c#	B other-3,5,7,10/D
 =8	=8
 *M2/4	*
-8c#]	.
-8A	.
-8c#	.
-8c#	.
+8c#L]	.
+8AJ	.
+8c#L	.
+8c#J	.
 ==	==
 *-	*-

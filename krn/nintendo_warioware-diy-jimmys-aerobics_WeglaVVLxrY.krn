@@ -16,101 +16,101 @@
 *e:	*
 *M4/4	*
 =1	=1
-8d	Em
-16d	.
-8e	.
+8dL	E minor
+16dk	.
+8eJ	.
 4..r	.
-8d	.
-8d	.
+8dL	.
+8dJ	.
 =2	=2
-8d	C
-16d	.
-8e	.
+8dL	C major
+16dk	.
+8eJ	.
 2r	.
 16r	.
 8a	.
 =3	=3
-8a#	Am
+8a#L	A minor
 8a	.
 8a	.
-8g	.
-16g	.
+8gJ	.
+16gLK	.
 8e	.
 8.e	.
-8d[	.
+[8dJ	.
 =4	=4
-4d]	Bm
+4d]	B minor
 2.r	.
 =5	=5
-8d	Em
-16d	.
-8e	.
+8dL	E minor
+16dk	.
+8eJ	.
 4..r	.
-8d	.
-8d	.
+8dL	.
+8dJ	.
 =6	=6
-8d	C
-16d	.
-8e	.
+8dL	C major
+16dk	.
+8eJ	.
 2r	.
 16r	.
 8a	.
 =7	=7
-8a#	Am
+8a#L	A minor
 8a	.
 8a	.
-8g	.
+8gJ	.
 8g	.
 4e	.
-8d[	.
+[8d	.
 =8	=8
-4d]	Bm
+4d]	B minor
 2.r	.
 =9	=9
-4a	C
+4a	C major
 8g	.
 4e	.
 8r	.
-8g	.
-8e	.
+8gL	.
+8eJ	.
 =10	=10
-4a	Em
+4a	E minor
 8g	.
 4e	.
 4r	.
 8f#	.
 =11	=11
-4g	C
+4g	C major
 4g	.
-4f#	D
+4f#	D major
 4d	.
 =12	=12
-4e	Em
-4f#	F#dim
-4g	G
-4a	D/A
+4e	E minor
+4f#	F# diminished
+4g	G major
+4a	D major/A
 =13	=13
-4a	C
+4a	C major
 8g	.
 4e	.
 8r	.
-8g	.
-8e	.
+8gL	.
+8eJ	.
 =14	=14
-4a	Em
+4a	E minor
 8g	.
 4e	.
 4.r	.
 =15	=15
-8r	C
+8r	C major
+8gL	.
 8g	.
-8g	.
-8g	.
-8.a	.
+8gJ	.
+8.aL	.
 8.g	.
-8a	.
+8aJ	.
 =16	=16
-8a	B
+8a	B major
 2b	.
 4.r	.
 ==	==

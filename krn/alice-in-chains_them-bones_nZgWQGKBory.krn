@@ -16,70 +16,70 @@
 *c#:	*
 *M4/4	*
 =1	=1
-2c#[	C#
-2c#_	D
+[2c#	C# major
+2c#_	D major
 =2	=2
-4.c#_	D#
-4c#]	E
-8B	.
-8d#	C#
-8c#[	.
+4.c#_	D# major
+4c#]	E major
+8BL	.
+8d#	C# major
+[8c#J	.
 =3	=3
 4c#_	.
-2c#_	D
-4c#_	D#
+2c#_	D major
+4c#_	D# major
 =4	=4
 8c#_	.
-4.c#]	E
-4f#	C#
-8f#	.
-8e[	.
+4.c#]	E major
+4f#	C# major
+8f#L	.
+[8eJ	.
 =5	=5
-2e_	D
-4.e_	D#
-8e_	E
+2e_	D major
+4.e_	D# major
+8e_	E major
 =6	=6
 4e]	.
-4f#	C#
-8e	.
-8c#[	.
-4c#]	D
+4f#	C# major
+8eL	.
+[8c#J	.
+4c#]	D major
 =7	=7
 4r	.
-4.r	D#
-4.r	E
+4.r	D# major
+4.r	E major
 =8	=8
-2g#[	C#
-2g#_	D
+[2g#	C# major
+2g#_	D major
 =9	=9
-4.g#_	D#
-4.g#]	E
-8b	C#
-8f#	.
+4.g#_	D# major
+4.g#]	E major
+8bL	C# major
+8f#J	.
 =10	=10
-4g#[	.
-2g#_	D
-4g#_	D#
+[4g#	.
+2g#_	D major
+4g#_	D# major
 =11	=11
 8g#_	.
-4.g#]	E
-4f#	C#
-8f#	.
-8e[	.
+4.g#]	E major
+4f#	C# major
+8f#L	.
+[8eJ	.
 =12	=12
-2e_	D
-4.e]	D#
-8f#[	E
+2e_	D major
+4.e]	D# major
+[8f#	E major
 =13	=13
-8f#]	.
+8f#L]	.
 8f#	.
-8f#	C#
-8e	.
-4c#[	.
-4c#]	D
+8f#	C# major
+8eJ	.
+[4c#	.
+4c#]	D major
 =14	=14
 4r	.
-4.r	D#
-4.r	E
+4.r	D# major
+4.r	E major
 ==	==
 *-	*-

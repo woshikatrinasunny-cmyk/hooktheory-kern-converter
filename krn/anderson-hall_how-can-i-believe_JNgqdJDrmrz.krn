@@ -15,14 +15,14 @@
 *G:	*
 *M3/4	*
 =1	=1
-2dd	G
+2dd	G major
 4dd	.
 =2	=2
-2dd	G/B
-8cc	.
-8b	.
+2dd	G major/B
+8ccL	.
+8bJ	.
 =3	=3
-3...g	C
+3...g	C major
 8g	.
 =4	=4
 4cc	.
@@ -36,8 +36,8 @@
 4b	.
 4g	.
 =7	=7
-8g	D7
-8a	.
+8gL	D dominant
+8aJ	.
 4.a	.
 8g	.
 =8	=8
@@ -45,14 +45,14 @@
 4a	.
 4g	.
 =9	=9
-2dd	G
+2dd	G major
 4dd	.
 =10	=10
-2dd	G/B
-8cc	.
-8b	.
+2dd	G major/B
+8ccL	.
+8bJ	.
 =11	=11
-3...g	C
+3...g	C major
 8g	.
 =12	=12
 4cc	.
@@ -66,58 +66,58 @@
 4b	.
 4g	.
 =15	=15
-8g	D7
-8a	.
+8gL	D dominant
+8aJ	.
 4a	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 =16	=16
 4b	.
 4a	.
 4g	.
 =17	=17
-2.e	Em
+2.e	E minor
 =18	=18
 2.r	.
 =19	=19
-2r	Em7
-8g	.
-8a	.
+2r	E minor-seventh
+8gL	.
+8aJ	.
 =20	=20
 4b	.
 4a	.
-8g	.
-8a[	.
+8gL	.
+[8aJ	.
 =21	=21
-4a]	A7
+4a]	A dominant
 4a	.
 4r	.
 =22	=22
 2.r	.
 =23	=23
-2r	Am7
+2r	A minor-seventh
 4A	.
 =24	=24
 4g	.
 4g	.
 4f#	.
 =25	=25
-4g	G
+4g	G major
 2r	.
 =26	=26
-2.r	D/F#
+2.r	D major/F#
 =27	=27
-2.r	Em
+2.r	E minor
 =28	=28
-2.r	Em7
+2.r	E minor-seventh
 =29	=29
-2.r	C
+2.r	C major
 =30	=30
 4g	.
 4g	.
 4f#	.
 =31	=31
-2.g[	G
+[2.g	G major
 =32	=32
 4..g]	.
 6...r	.

@@ -16,14 +16,14 @@
 *e:	*
 *M3/4	*
 =1	=1
-2a	D
-4g#[	E
+2a	D major
+[4g#	E major
 =2	=2
 2g#]	.
 4e	.
 =3	=3
-2a	D
-4g#[	E
+2a	D major
+[4g#	E major
 =4	=4
 2.g#_	.
 =5	=5
@@ -32,43 +32,43 @@
 2g#]	.
 4e	.
 =7	=7
-2a	D
-4g#[	E
+2a	D major
+[4g#	E major
 =8	=8
 2g#]	.
 4e	.
 =9	=9
-2d	Bm
-4e[	Cadd(2,4,7)
+2d	B minor
+[4e	C other-2,4,7
 =10	=10
 4e]	.
-2a	D
+2a	D major
 =11	=11
-2.g#[	E
+[2.g#	E major
 =12	=12
 2.g#_	.
 =13	=13
 2g#]	.
 4e	.
 =14	=14
-2cc	Fsus2
-4b[	G
+2cc	F suspended-second
+[4b	G major
 =15	=15
 2b]	.
 4e	.
 =16	=16
-2a	Amaj7/C#
-4a[	Am/C
+2a	A major-seventh/C#
+[4a	A minor/C
 =17	=17
 2a]	.
 4g	.
 =18	=18
-2e	C
-4e[	Bm
+2e	C major
+[4e	B minor
 =19	=19
 2.e_	.
 =20	=20
 2e]	.
-4A	D
+4A	D major
 ==	==
 *-	*-

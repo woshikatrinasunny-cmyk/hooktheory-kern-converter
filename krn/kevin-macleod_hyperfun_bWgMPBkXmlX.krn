@@ -15,121 +15,121 @@
 *E:	*
 *M4/4	*
 =1	=1
-4r	E
-8bb	.
-8gg#	.
-8ccc#	E/B
+4r	E major
+8bbL	.
+8gg#J	.
+8ccc#L	E major/B
 8ddd#	.
 8bb	.
-8gg#	.
+8gg#J	.
 =2	=2
-4ccc#	C#7
+4ccc#	C# dominant
 4ddd#	.
-4eee	C#7/G#
+4eee	C# dominant/G#
 4fffn	.
 =3	=3
-8fff#	F#7
-16fff#	.
-16ddd#	.
+8fff#L	F# dominant
+16fff#L	.
+16ddd#J	.
 8ccc#	.
-8ff#	.
-8gg#	F#7/C#
+8ff#J	.
+8gg#L	F# dominant/C#
 8aa	.
 8aa#	.
-8ccc#[	.
+[8ccc#J	.
 =4	=4
-8ccc#]	F#7
+8ccc#L]	F# dominant
 8a	.
 8g#	.
-8gn	.
-8f#	F#7/C#
+8gnJ	.
+8f#L	F# dominant/C#
 8fn	.
 8e	.
-8dn	.
+8dnJ	.
 =5	=5
-4d#	B7
-8b	.
-8a#[	.
-8a#]	B7/F#
-8a#	.
+4d#	B dominant
+8bL	.
+[8a#J	.
+8a#L]	B dominant/F#
+8a#J	.
 4a	.
 =6	=6
-8a	B7
+8a	B dominant
 4g#	.
 8g#	.
-4gn	B7/F#
+4gn	B dominant/F#
 4f#	.
 =7	=7
-4r	E
-8gg#	.
-8bb[	.
-8bb]	E/B
-8gg#	.
+4r	E major
+8gg#L	.
+[8bbJ	.
+8bbL]	E major/B
+8gg#J	.
 4ccc#	.
 =8	=8
-8gg#	E
+8gg#	E major
 4bb	.
 8gg#	.
-4ccc#	E/B
+4ccc#	E major/B
 4gg#	.
 =9	=9
-4r	C#m
-8ccc#	.
-8ddd#	.
-8ccc#	C#m/G#
+4r	C# minor
+8ccc#L	.
+8ddd#J	.
+8ccc#L	C# minor/G#
 8bb	.
 8gg#	.
-8ff#	.
+8ff#J	.
 =10	=10
-8ffn	C#m
+8ffnL	C# minor
 8ee	.
 8cc#	.
-8b	.
-8ee	C#m/G#
+8bJ	.
+8eeL	C# minor/G#
 8ff#	.
 8ee	.
-8b	.
+8bJ	.
 =11	=11
-4a#	F#7
-8ff#	.
-8ffn	.
-8ff#	F#7/C#
+4a#	F# dominant
+8ff#L	.
+8ffnJ	.
+8ff#L	F# dominant/C#
 8aa#	.
 8ff#	.
-8ffn	.
+8ffnJ	.
 =12	=12
-8ff#	F#7
+8ff#L	F# dominant
 8ffn	.
 8cc#	.
-8ccn	.
-8cc#	F#7/C#
+8ccnJ	.
+8cc#L	F# dominant/C#
 8ee	.
 8cc#	.
-8a	.
+8aJ	.
 =13	=13
-4cc#	B7
+4cc#	B dominant
 4ddn	.
-4dd#	B7/F#
-8ddn	.
-8cc#[	.
+4dd#	B dominant/F#
+8ddnL	.
+[8cc#J	.
 =14	=14
-8cc#]	B7
+8cc#]	B dominant
 4.bb	.
-8ccc#	B7/F#
-8dddn	.
+8ccc#L	B dominant/F#
+8dddnJ	.
 4ddd#	.
 =15	=15
-8eee	E
-16ddd#	.
-16ccc#	.
+8eeeL	E major
+16ddd#L	.
+16ccc#J	.
 8bb	.
-8eee	.
-16ddd#	E/B
-16ccc#	.
-8bb	.
+8eeeJ	.
+16ddd#LL	E major/B
+16ccc#J	.
+8bbJ	.
 4eee	.
 =16	=16
-2r	D#
-2r	G#m7/B
+2r	D# major
+2r	G# minor-seventh/B
 ==	==
 *-	*-

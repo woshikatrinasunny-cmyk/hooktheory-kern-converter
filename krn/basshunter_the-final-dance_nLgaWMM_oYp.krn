@@ -16,140 +16,140 @@
 *b-:	*
 *M4/4	*
 =1	=1
-16b-	B-m
+16b-	B- minor
 16r	.
 16ff	.
 16r	.
-16b-	B-m
+16b-LL	B- minor
+16ffJJ	.
+16r	.
+16b-	B- minor
 16ff	.
 16r	.
-16b-	B-m
-16ff	.
+16b-LL	B- minor
+16ffJJ	.
 16r	.
-16b-	B-m
+16b-LL	B- minor
 16ff	.
-16r	.
-16b-	B-m
-16ff	.
-16gg-	.
+16gg-JJ	.
 =2	=2
-16g-	G-
+16g-	G- major
 16r	.
 16gg-	.
 16r	.
-16g-	G-
-16gg-	.
+16g-LL	G- major
+16gg-JJ	.
 16r	.
-16g-	G-
+16g-	G- major
 16aa-	.
 16r	.
-16g-	G-
-16aa-	.
+16g-LL	G- major
+16aa-JJ	.
 16r	.
-16g-	G-
+16g-LL	G- major
 16aa-	.
-16bb-	.
+16bb-JJ	.
 =3	=3
-16a-	A-
+16a-	A- major
 16r	.
 16aa-	.
 16r	.
-16a-	A-
+16a-LL	A- major
+16aa-JJ	.
+16r	.
+16a-	A- major
 16aa-	.
 16r	.
-16a-	A-
-16aa-	.
+16a-LL	A- major
+16aa-JJ	.
 16r	.
-16a-	A-
-16aa-	.
-16r	.
-16a-	A-
-16ccc	.
+16a-LL	A- major
+16cccJJ	.
 16r	.
 =4	=4
-16a-	A-
+16a-	A- major
 16r	.
 16ccc	.
 16r	.
-16a-	A-
+16a-LL	A- major
+16cccJJ	.
+16r	.
+16a-	A- major
 16ccc	.
 16r	.
-16a-	A-
-16ccc	.
+16a-LL	A- major/C
+16cccJJ	.
 16r	.
-16a-	A-/C
-16ccc	.
-16r	.
-16a-	A-/C
+16a-LL	A- major/C
 16eee-	.
-16ccc	.
+16cccJJ	.
 =5	=5
-16b-	B-m
+16b-	B- minor
 16r	.
 16ddd-	.
 16r	.
-16b-	B-m
+16b-LL	B- minor
+16ddd-JJ	.
+16r	.
+16b-	B- minor
 16ddd-	.
 16r	.
-16b-	B-m
-16ddd-	.
+16b-LL	B- minor
+16ddd-JJ	.
 16r	.
-16b-	B-m
-16ddd-	.
-16r	.
-16b-	B-m
-16ddd-	.
+16b-LL	B- minor
+16ddd-JJ	.
 16r	.
 =6	=6
-16b-	B-m
+16b-	B- minor
 16r	.
 16ddd-	.
 16r	.
-16b-	B-m
+16b-LL	B- minor
+16ddd-JJ	.
+16r	.
+16b-	B- minor
 16ddd-	.
 16r	.
-16b-	B-m
-16ddd-	.
+16b-LL	B- minor
+16aa-JJ	.
 16r	.
-16b-	B-m
-16aa-	.
-16r	.
-16b-	B-m
-16bb-	.
+16b-LL	B- minor
+16bb-JJ	.
 16r	.
 =7	=7
-16g-	G-
+16g-	G- major
 16r	.
 16bb-	.
 16r	.
-16g-	G-
+16g-LL	G- major
+16bb-JJ	.
+16r	.
+16g-	G- major
 16bb-	.
 16r	.
-16g-	G-
-16bb-	.
+16g-LL	G- major
+16bb-JJ	.
 16r	.
-16g-	G-
+16g-LL	G- major
 16bb-	.
-16r	.
-16g-	G-
-16bb-	.
-16ccc	.
+16cccJJ	.
 =8	=8
-16a-	A-
+16a-	A- major
 16r	.
 16ccc	.
 16r	.
-16a-	A-
-16ccc	.
+16a-LL	A- major
+16cccJJ	.
 16r	.
-16a-	A-
+16a-	A- major
 16eee-	.
 16r	.
-16a-	A-
-16eee-	.
+16a-LL	A- major
+16eee-JJ	.
 16r	.
-16a-	A-
+16a-LL	A- major
 16fff	.
-16aaa-	.
+16aaa-JJ	.
 ==	==
 *-	*-

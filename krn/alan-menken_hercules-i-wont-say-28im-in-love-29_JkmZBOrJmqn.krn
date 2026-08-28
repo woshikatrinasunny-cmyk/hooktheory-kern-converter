@@ -16,57 +16,57 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	C/G
+8r	C major/G
+8eL	.
 8e	.
-8e	.
-8e	.
+8eJ	.
 4.g	.
 8f	.
 =2	=2
-8e	Gadd(2,5,7,9,10)
+8eL	G other-2,5,7,9,10
 8f	.
 8e	.
-8d[	.
-2d]	G7sus4
+[8dJ	.
+2d]	G dominant-seventh-suspended-fourth
 =3	=3
-8r	Cadd(2,4,7)/G
+8r	C other-2,4,7/G
+8dL	.
 8d	.
-8d	.
-8d	.
-8d	C/G
+8dJ	.
+8dL	C major/G
 8c	.
 8c	.
-8A[	.
+[8AJ	.
 =4	=4
-4.A]	G11
-2G	G7
+4.A]	G dominant-11th
+2G	G dominant
 8r	.
 =5	=5
-8r	Am
+8r	A minor
+8eL	.
 8e	.
+8eJ	.
+8.gL	.
+16fk	.
 8e	.
-8e	.
-8.g	.
-16f	.
-8e	.
-8f	.
+8fJ	.
 =6	=6
-4.e	Dm11
-4.d	D7
+4.e	D minor-11th
+4.d	D dominant
 4r	.
 =7	=7
-8r	G7sus4
+8r	G dominant-seventh-suspended-fourth
+8AL	.
 8A	.
-8A	.
-8B	.
-8A	.
+8BJ	.
+8AL	.
 8G	.
 8G	.
-8c[	G11
+[8cJ	G dominant-11th
 =8	=8
 8c]	.
-4.B	G7
-4c	G11
-4d	G
+4.B	G dominant
+4c	G dominant-11th
+4d	G major
 ==	==
 *-	*-

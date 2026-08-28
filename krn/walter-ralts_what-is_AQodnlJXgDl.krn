@@ -16,13 +16,13 @@
 *c:	*
 *M4/4	*
 =1	=1
-8.C	Cm
-8.C	.
+8.CL	C minor
+8.CJ	.
 8.C	.
 8.C	.
 4C	.
 =2	=2
-8r	Cm
+8r	C minor
 16E-	.
 4C	.
 16C	.
@@ -30,13 +30,13 @@
 4C	.
 8.G	.
 =3	=3
-8.C	Cm9
-8.C	.
+8.CL	C minor-ninth
+8.CJ	.
 8.C	.
 8.C	.
 4C	.
 =4	=4
-8r	Cm9
+8r	C minor-ninth
 16E-	.
 4C	.
 16C	.
@@ -44,44 +44,44 @@
 4C	.
 8.G	.
 =5	=5
-8.F	F7
-8.F	.
+8.FL	F dominant
+8.FJ	.
 8.F	.
 8.F	.
 4E-	.
 =6	=6
-16r	F7
-16F	.
+16r	F dominant
+16FLK	.
 8F	.
-16F	.
+16Fk	.
+8FJ	.
 8F	.
-8F	.
-8F	.
+8FL	.
 8E-	.
-8E-	.
+8E-J	.
 16r	.
 =7	=7
-8.A-	Fm7
-8.A-	.
+8.A-L	F minor-seventh
+8.A-J	.
 8.A-	.
 8.A-	.
 4F	.
 =8	=8
-4r	Fm7
+4r	F minor-seventh
+8FL	.
+8GJ	.
+8FL	.
 8F	.
-8G	.
 8F	.
-8F	.
-8F	.
-8G	.
+8GJ	.
 =9	=9
-8.C	Cm
-8.C	.
+8.CL	C minor
+8.CJ	.
 8.C	.
 8.C	.
 4C	.
 =10	=10
-8r	Cm
+8r	C minor
 16E-	.
 4C	.
 16C	.
@@ -89,13 +89,13 @@
 4C	.
 8.G	.
 =11	=11
-8.C	Cm9
-8.C	.
+8.CL	C minor-ninth
+8.CJ	.
 8.C	.
 8.C	.
 4C	.
 =12	=12
-8r	Cm9
+8r	C minor-ninth
 16E-	.
 4C	.
 16C	.
@@ -103,35 +103,35 @@
 4C	.
 8.G	.
 =13	=13
-8.F	F7
-8.F	.
+8.FL	F dominant
+8.FJ	.
 8.F	.
 8.F	.
 4E-	.
 =14	=14
-16r	F7
-16F	.
+16r	F dominant
+16FLK	.
 8F	.
-16F	.
+16Fk	.
+8FJ	.
 8F	.
-8F	.
-8F	.
+8FL	.
 8E-	.
-8E-	.
+8E-J	.
 16r	.
 =15	=15
-8.A-	Fm7
-8.A-	.
+8.A-L	F minor-seventh
+8.A-J	.
 8.A-	.
 8.A-	.
 4F	.
 =16	=16
-4r	Fm7
+4r	F minor-seventh
+8FL	.
+8GJ	.
+8FL	.
 8F	.
-8G	.
 8F	.
-8F	.
-8F	.
-8G	.
+8GJ	.
 ==	==
 *-	*-

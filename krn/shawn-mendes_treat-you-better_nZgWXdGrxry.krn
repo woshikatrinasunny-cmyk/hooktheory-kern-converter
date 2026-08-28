@@ -15,78 +15,78 @@
 *D-:	*
 *M4/4	*
 =1	=1
-2dd-	B-m
+2dd-	B- minor
 2ff	.
 =2	=2
-2cc	A-
+2cc	A- major
 2dd-	.
 =3	=3
-4r	G-
+4r	G- major
 4dd-	.
 4ee-	.
 4dd-	.
 =4	=4
-4.r	D-
+4.r	D- major
+8dd-	.
+8dd-L	.
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
-8dd-	.
+8dd-J	.
 =5	=5
-2dd-	B-m
+2dd-	B- minor
 2ff	.
 =6	=6
-2cc	A-
+2cc	A- major
 2dd-	.
 =7	=7
-4r	G-
+4r	G- major
 4dd-	.
 4ee-	.
 4dd-	.
 =8	=8
-4.r	D-
+4.r	D- major
+8dd-	.
+8dd-L	.
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
-8dd-	.
+8dd-J	.
 =9	=9
-8ee-	B-m
+8ee-	B- minor
 4ff	.
 4ee-	.
+8dd-L	.
 8dd-	.
-8dd-	.
-8dd-	.
+8dd-J	.
 =10	=10
-8ee-	A-
+8ee-	A- major
 4ff	.
 4ee-	.
+8dd-L	.
 8dd-	.
-8dd-	.
-8dd-	.
+8dd-J	.
 =11	=11
-8dd-	G-
+8dd-	G- major
 4dd-	.
 4dd-	.
 4ff	.
-8ff[	.
+[8ff	.
 =12	=12
-8ff]	D-
+8ff]	D- major
 4.r	.
+8dd-L	.
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
+8dd-J	.
 =13	=13
-2dd-	B-m
+2dd-	B- minor
 2ff	.
 =14	=14
-2cc	A-
+2cc	A- major
 2dd-	.
 =15	=15
-1r	G-
+1r	G- major
 =16	=16
-8aa-	D-
+8aa-	D- major
 4gg-	.
 4ff	.
 4gg-	.

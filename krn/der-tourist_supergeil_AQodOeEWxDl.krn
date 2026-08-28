@@ -15,31 +15,31 @@
 *c:	*
 *M4/4	*
 =1	=1
-4.r	Cm7
+4.r	C minor-seventh
 8b-	.
-8g	.
-8e-	.
+8gL	.
+8e-J	.
 4r	.
 =2	=2
-4.r	G
+4.r	G major
 8g	.
-8d	.
-8Bn	.
+8dL	.
+8BnJ	.
 4r	.
 =3	=3
-4.r	Cadd(2,3,7)
+4.r	C other-2,3,7
 8e-	.
-8c	.
-8G	.
+8cL	.
+8GJ	.
 4r	.
 =4	=4
-4.r	Cm
+4.r	C minor
 8c	.
-8G	.
-8E-	.
+8GL	.
+8E-J	.
 4r	.
 =5	=5
-16ee-	Cm7
+16ee-	C minor-seventh
 16r	.
 16ccc	.
 16r	.
@@ -56,7 +56,7 @@
 16ccc	.
 16r	.
 =6	=6
-16ee-	G
+16ee-	G major
 16r	.
 16ccc	.
 16r	.
@@ -73,21 +73,21 @@
 16ccc	.
 16r	.
 =7	=7
-16ee-	Cadd(2,3,7)
+16ee-	C other-2,3,7
 16r	.
 16ccc	.
 16r	.
 16bb-	.
 16r	.
 8e-	.
-8c	.
-8G	.
+8cL	.
+8GJ	.
 4r	.
 =8	=8
-4.r	Cm
+4.r	C minor
 8c	.
-8G	.
-8E-	.
+8GL	.
+8E-J	.
 4r	.
 ==	==
 *-	*-

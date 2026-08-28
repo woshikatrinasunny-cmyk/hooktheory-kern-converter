@@ -16,157 +16,157 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4.gg	D-
+4.gg	D- major
 4ff	.
 4ee-	.
 8dd-	.
 =2	=2
-4cc	Cm
+4cc	C minor
 8dd-	.
-3...a-	Fm
+3...a-	F minor
 =3	=3
-8ff	D-
+8ffL	D- major
 8ff	.
 8gg	.
-8gg	.
-8aa-	.
+8ggJ	.
+8aa-L	.
 8aa-	.
 8bb-	.
-8bb-	.
+8bb-J	.
 =4	=4
-6...bb-	Cm
+6...bb-	C minor
 16aa-	.
-4aa-	Fm
-16ee-	.
+4aa-	F minor
+16ee-LL	.
 16ff	.
 16aa-	.
 16aa-	.
 16ff	.
-16ee-	.
+16ee-JJ	.
 =5	=5
-4ccc	D-
+4ccc	D- major
 8bb-	.
 4aa-	.
-16ee-	.
+16ee-LL	.
 16ff	.
 16aa-	.
 16aa-	.
 16ff	.
-16ee-	.
+16ee-JJ	.
 =6	=6
-16ccc	D-m
+16cccLK	D- minor
 8.ddd-	.
-8ccc	.
+8cccJ	.
 4aa-	.
-16b-	.
+16b-LL	.
 16cc	.
 16ee-	.
 16ff	.
 16aa-	.
-16bb-	.
+16bb-JJ	.
 =7	=7
-16ccc	.
+16cccLL	.
 16ddd-	.
 16ccc	.
 16ddd-	.
 16ccc	.
 16ddd-	.
 16ccc	.
+16ddd-JJ	.
+16cccLL	.
 16ddd-	.
 16ccc	.
 16ddd-	.
 16ccc	.
 16ddd-	.
 16ccc	.
-16ddd-	.
-16ccc	.
-16ddd-	.
+16ddd-JJ	.
 =8	=8
-8aaa-	.
+8aaa-L	.
 8eeen	.
 8aaa-	.
-8bbb-	.
-8cccc	.
+8bbb-J	.
+8ccccL	.
 8bbb-	.
 8aaa-	.
-8eeen	.
+8eeenJ	.
 =9	=9
-4eee-	A-
+4eee-	A- major
 4ff	.
 4ee-	.
-8cc	.
-8a-	.
+8ccL	.
+8a-J	.
 =10	=10
-8b-	D-
+8b-L	D- major
 8cc	.
 8b-	.
-8a-	.
-4f	E-
+8a-J	.
+4f	E- major
 4e-	.
 =11	=11
-4r	A-
+4r	A- major
 4ff	.
 4ee-	.
-8cc	.
-8a-	.
+8ccL	.
+8a-J	.
 =12	=12
-8b-	D-
+8b-L	D- major
 8cc	.
 8b-	.
-8a-	.
-2b-	E-
+8a-J	.
+2b-	E- major
 =13	=13
-4f	Fm
+4f	F minor
 4g	.
 4a-	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 =14	=14
-8cc	D-
+8ccL	D- major
 8cc	.
-8b-	E-
-8b-	.
-16b-	A-
-16a-	.
+8b-	E- major
+8b-J	.
+16b-LL	A- major
+16a-JJ	.
 4.a-	.
 =15	=15
-4a-	A-
-4ff	D-
-8ee-	E-
+4a-	A- major
+4ff	D- major
+8ee-	E- major
 4cc	.
-8a-[	.
+[8a-	.
 =16	=16
-1a-]	A-
+1a-]	A- major
 =17	=17
-4a-	A-
-4ff	D-
-8ee-	E-
+4a-	A- major
+4ff	D- major
+8ee-	E- major
 4cc	.
-8a-[	.
+[8a-	.
 =18	=18
-1a-]	A-
+1a-]	A- major
 =19	=19
-4a-	A-
-4ff	D-
-8ee-	E-
+4a-	A- major
+4ff	D- major
+8ee-	E- major
 4cc	.
-8a-[	.
+[8a-	.
 =20	=20
-1a-]	A-
+1a-]	A- major
 =21	=21
-4a-	A-
-4ff	D-
-8ee-	E-
+4a-	A- major
+4ff	D- major
+8ee-	E- major
 4cc	.
-8a-[	.
+[8a-	.
 =22	=22
-8a-_	A-
-8a-_	A-
-8a-_	A-
-8a-_	A-/E-
-8a-_	Fm
-8a-_	A-/E-
-8a-]	Fm
+8a-L_	A- major
+8a-_	A- major
+8a-_	A- major
+8a-J_	A- major/E-
+8a-L_	F minor
+8a-_	A- major/E-
+8a-J]	F minor
 8r	.
 =23	=23
 1r	.

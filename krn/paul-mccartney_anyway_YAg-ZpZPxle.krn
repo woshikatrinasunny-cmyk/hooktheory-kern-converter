@@ -16,69 +16,69 @@
 *G:	*
 *M4/4	*
 =1	=1
-8r	G
-8B	.
+8r	G major
+8BL	.
 8d	.
-8A[	.
-8A]	Em7
+[8AJ	.
+8A]	E minor-seventh
 4G	.
 8r	.
 =2	=2
-8r	C
-8E	.
+8r	C major
+8EL	.
 8G	.
-8A[	.
-8A]	G
-8B	.
+[8AJ	.
+8AL]	G major
+8BJ	.
 4r	.
 =3	=3
-8r	G
-8B	.
+8r	G major
+8BL	.
 8d	.
-8A[	.
-8A]	Em7
+[8AJ	.
+8A]	E minor-seventh
 4G	.
 8r	.
 =4	=4
-8E	C
+8EL	C major
 8G	.
-16G	.
-16A	.
-8G[	.
-8G]	G
+16GL	.
+16AJ	.
+[8GJ	.
+8G]	G major
 4.r	.
 =5	=5
-8r	G
-8B	.
+8r	G major
+8BL	.
 8d	.
-8A[	.
-8A]	Em7
+[8AJ	.
+8A]	E minor-seventh
 4G	.
 8r	.
 =6	=6
-8r	C
-8E	.
+8r	C major
+8EL	.
 8G	.
-8A[	.
-8A]	G
+[8AJ	.
+8A]	G major
 4B	.
 8r	.
 =7	=7
-8r	G
-8e	.
+8r	G major
+8eL	.
 8.d	.
-16A[	.
-16A]	Em7
-8.G	.
+[16AJk	.
+16ALK]	E minor-seventh
+8.GJ	.
 4r	.
 =8	=8
 *M6/4	*
-8E	C
-8G	.
-16G	.
-16A	.
-8G[	.
-8G]	G
+8EL	C major
+8GJ	.
+16GLL	.
+16AJ	.
+[8GJ	.
+8G]	G major
 2..r	.
 =9	=9
 1.r	.

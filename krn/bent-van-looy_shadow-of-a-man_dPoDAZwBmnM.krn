@@ -16,41 +16,41 @@
 *f:	*
 *M4/4	*
 =1	=1
-6...r	B-m7
-8.r	B-m7
-6...r	Gdim/B-
-8.r	Gdim/B-
+6...r	B- minor-seventh
+8.r	B- minor-seventh
+6...r	G diminished/B-
+8.r	G diminished/B-
 =2	=2
-6...r	F
-8.r	Fadd(2,4,7)
-4r	F
-16r	F
-8.r	Fadd(2,4,7)
+6...r	F major
+8.r	F other-2,4,7
+4r	F major
+16r	F major
+8.r	F other-2,4,7
 =3	=3
-6...r	B-m7
-8.r	B-m7
-6...r	Gdim/B-
-8.r	Gdim/B-
+6...r	B- minor-seventh
+8.r	B- minor-seventh
+6...r	G diminished/B-
+8.r	G diminished/B-
 =4	=4
-6...r	F
-8.r	Fadd(2,4,7)
-6...r	Fm/A-
-8.r	B-sus2
+6...r	F major
+8.r	F other-2,4,7
+6...r	F minor/A-
+8.r	B- suspended-second
 =5	=5
-6...r	C7sus4
-8.r	C7sus4
-6...r	C7
-8.r	C7sus4
+6...r	C dominant-seventh-suspended-fourth
+8.r	C dominant-seventh-suspended-fourth
+6...r	C dominant
+8.r	C dominant-seventh-suspended-fourth
 =6	=6
-6...r	Fm/A-
-8.r	Fadd(2,3,7)/A-
-6...r	Fm
-8.r	Fm
+6...r	F minor/A-
+8.r	F other-2,3,7/A-
+6...r	F minor
+8.r	F minor
 =7	=7
-6...r	C7sus4
-8.r	C7sus4
-4r	C7
-8C	.
-8BBn	.
+6...r	C dominant-seventh-suspended-fourth
+8.r	C dominant-seventh-suspended-fourth
+4r	C dominant
+8CL	.
+8BBnJ	.
 ==	==
 *-	*-

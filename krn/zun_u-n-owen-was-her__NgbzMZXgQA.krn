@@ -16,136 +16,136 @@
 *b-:	*
 *M4/4	*
 =1	=1
-16dd-	B-m
+16dd-LL	B- minor
 16b-	.
 16f	.
 16dd-	.
 16b-	.
 16f	.
 16dd-	.
-16b-	.
-16f	.
+16b-JJ	.
+16fLL	.
 16dd-	.
 16b-	.
-16f	.
-8.cc	A-/C
-16cc[	A-/C
+16fJ	.
+8.cc	A- major/C
+[16ccJk	A- major/C
 =2	=2
-8cc]	.
-8cc	A-/C
-16dd-	B-m
+8ccL]	.
+8cc	A- major/C
+16dd-L	B- minor
 16b-	.
+16f	.
+16dd-JJ	.
+16b-LL	.
 16f	.
 16dd-	.
 16b-	.
 16f	.
 16dd-	.
 16b-	.
-16f	.
-16dd-	.
-16b-	.
-16f	.
+16fJJ	.
 =3	=3
-8.ee-	Cdim
-8.ee-	Cdim
-8ee-	Cdim
-16dd-	B-m
+8.ee-L	C diminished
+8.ee-	C diminished
+8ee-J	C diminished
+16dd-LL	B- minor
 16b-	.
 16f	.
 16dd-	.
 16b-	.
 16f	.
 16dd-	.
-16b-	.
+16b-JJ	.
 =4	=4
-16f	.
+16fLL	.
 16dd-	.
 16b-	.
-16f	.
-8.cc	A-/C
-8.cc	A-/C
-8cc	A-/C
-16dd-	B-m
+16fJ	.
+8.ccJ	A- major/C
+8.cc	A- major/C
+8ccL	A- major/C
+16dd-L	B- minor
 16b-	.
 16f	.
-16dd-	.
+16dd-JJ	.
 =5	=5
-16b-	.
+16b-LL	.
 16f	.
 16dd-	.
 16b-	.
 16f	.
 16dd-	.
 16b-	.
-16f	.
-8.ee-	Cdim
-8.ee-	Cdim
-8ee-	Cdim
+16fJJ	.
+8.ee-L	C diminished
+8.ee-	C diminished
+8ee-J	C diminished
 =6	=6
-16dd-	G-maj7
+16dd-LL	G- major-seventh
 16b-	.
 16f	.
 16dd-	.
 16b-	.
 16f	.
 16dd-	.
-16b-	.
-16f	.
+16b-JJ	.
+16fLL	.
 16dd-	.
 16b-	.
-16f	.
-8.cc	A-/C
-16cc[	A-/C
+16fJ	.
+8.cc	A- major/C
+[16ccJk	A- major/C
 =7	=7
-8cc]	.
-8cc	A-/C
-16dd-	G-maj7
+8ccL]	.
+8cc	A- major/C
+16dd-L	G- major-seventh
 16b-	.
+16f	.
+16dd-JJ	.
+16b-LL	.
 16f	.
 16dd-	.
 16b-	.
 16f	.
 16dd-	.
 16b-	.
-16f	.
-16dd-	.
-16b-	.
-16f	.
+16fJJ	.
 =8	=8
-8.ee-	Adim
-8.ee-	Adim
-8ee-	Adim
-16dd-	B-m
+8.ee-L	A diminished
+8.ee-	A diminished
+8ee-J	A diminished
+16dd-LL	B- minor
 16b-	.
 16f	.
 16dd-	.
 16b-	.
 16f	.
 16dd-	.
-16b-	.
+16b-JJ	.
 =9	=9
-16f	.
+16fLL	.
 16dd-	.
 16b-	.
-16f	.
-8.cc	A-/C
-8.cc	A-/C
-8cc	A-/C
-16dd-	B-m
+16fJ	.
+8.ccJ	A- major/C
+8.cc	A- major/C
+8ccL	A- major/C
+16dd-L	B- minor
 16b-	.
 16f	.
-16dd-	.
+16dd-JJ	.
 =10	=10
-16b-	.
+16b-LL	.
 16f	.
 16dd-	.
 16b-	.
 16f	.
 16dd-	.
 16b-	.
-16f	.
-8.ee-	Cdim
-8.ee-	Cdim
-8ee-	Cdim
+16fJJ	.
+8.ee-L	C diminished
+8.ee-	C diminished
+8ee-J	C diminished
 ==	==
 *-	*-

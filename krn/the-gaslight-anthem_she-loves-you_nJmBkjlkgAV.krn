@@ -16,76 +16,76 @@
 *B-:	*
 *M6/4	*
 =1	=1
-4.r	Fsus4
-4.r	Fsus4
-4.r	Fsus4
-4d	Fsus4
+4.r	F suspended-fourth
+4.r	F suspended-fourth
+4.r	F suspended-fourth
+4d	F suspended-fourth
 8f	.
 =2	=2
-4.g[	B-
-4g]	B-
+[4.g	B- major
+4g]	B- major
 8f	.
-4.f[	B-maj7/A
-8f]	B-maj7/A
-8g	.
-8g	.
+[4.f	B- major-seventh/A
+8f]	B- major-seventh/A
+8gL	.
+8gJ	.
 =3	=3
-4g	Gm
+4g	G minor
 8f	.
-4d	Gm
+4d	G minor
 8c	.
-4.B-	E-
-4.r	E-
+4.B-	E- major
+4.r	E- major
 =4	=4
-4g	B-
+4g	B- major
 8f	.
-4g	B-
+4g	B- major
 8f	.
-8g	B-maj7/A
-8f	.
-8f[	.
-4f]	B-maj7/A
+8gL	B- major-seventh/A
+8fJ	.
+[8f	.
+4f]	B- major-seventh/A
 8c	.
 =5	=5
-4d	Gm
+4d	G minor
 8c	.
-4d	Gm
+4d	G minor
 8c	.
-4.B-	E-
-4r	E-
+4.B-	E- major
+4r	E- major
 8F	.
 =6	=6
-4.B-[	B-
-4B-]	B-
+[4.B-	B- major
+4B-]	B- major
 8B-	.
-8d	B-maj7/A
-8c	.
-8c[	.
-4c]	B-maj7/A
+8dL	B- major-seventh/A
+8cJ	.
+[8c	.
+4c]	B- major-seventh/A
 8c	.
 =7	=7
-4d	Gm
+4d	G minor
 8c	.
-4d	Gm
+4d	G minor
 8c	.
-4.B-[	E-
-16B-]	E-
+[4.B-	E- major
+16B-]	E- major
 6...r	.
 =8	=8
-4.B-[	E-
-4B-]	E-
+[4.B-	E- major
+4B-]	E- major
 8B-	.
-4.c	B-
-4c	B-
-8d[	.
+4.c	B- major
+4c	B- major
+[8d	.
 =9	=9
-4d]	F
-8c[	.
-4c]	F
+4d]	F major
+[8c	.
+4c]	F major
 8r	.
-4d	F
+4d	F major
 8c	.
-4B-	F
+4B-	F major
 8c	.
 ==	==
 *-	*-

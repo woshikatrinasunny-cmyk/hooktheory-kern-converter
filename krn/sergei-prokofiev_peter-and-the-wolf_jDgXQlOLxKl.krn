@@ -15,24 +15,24 @@
 *C:	*
 *M4/4	*
 =1	=1
-4g	C
-8.cc	.
-16ee	.
-16gg	C/G
+4g	C major
+8.ccL	.
+16eeJk	.
+16gg	C major/G
 16r	.
 16aa	.
 16r	.
-8.gg	.
-16ee	.
+8.ggL	.
+16eeJk	.
 =2	=2
-16gg	C
+16gg	C major
 16r	.
 16aa	.
 16r	.
-8.bb	.
-16ccc	.
-8gg	C/G
-16ee	.
+8.bbL	.
+16cccJk	.
+8ggL	C major/G
+16eeJk	.
 16r	.
 16cc	.
 16r	.
@@ -41,36 +41,36 @@
 =3	=3
 *k[b-e-a-]	*
 *E-:	*
-4ee-	A-
-8ee-	.
-8bbn	.
-4ee-	A-/E-
-8ee-	.
-8bbn	.
+4ee-	A- major
+8ee-L	.
+8bbnJ	.
+4ee-	A- major/E-
+8ee-L	.
+8bbnJ	.
 =4	=4
-4ee-	Cm7/E-
+4ee-	C minor-seventh/E-
 4b-	.
-4.b-	E-/B-
+4.b-	E- major/B-
 8an	.
 =5	=5
-4b-	E-
-8.ee-	.
-16gg	.
-16bb-	E-/B-
+4b-	E- major
+8.ee-L	.
+16ggJk	.
+16bb-	E- major/B-
 16r	.
 16ccc	.
 16r	.
-8.bb-	.
-16gg	.
+8.bb-L	.
+16ggJk	.
 =6	=6
-16bb-	E-
+16bb-	E- major
 16r	.
 16ccc	.
 16r	.
-8.ddd	.
-16eee-	.
-8bb-	E-/B-
-16gg	.
+8.dddL	.
+16eee-Jk	.
+8bb-L	E- major/B-
+16ggJk	.
 16r	.
 16ee-	.
 16r	.
@@ -79,14 +79,14 @@
 =7	=7
 *k[f#]	*
 *G:	*
-4ff#	Bm
-8ff#	.
-8ddd	.
-4ff#	D7/A
-8ff#	.
-8ddd	.
+4ff#	B minor
+8ff#L	.
+8dddJ	.
+4ff#	D dominant/A
+8ff#L	.
+8dddJ	.
 =8	=8
-4gg	G
+4gg	G major
 4g	.
 2g	.
 ==	==

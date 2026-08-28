@@ -16,7 +16,7 @@
 *g:	*
 *M4/4	*
 =1	=1
-4G	G
+4G	G major
 4r	.
 4G	.
 4r	.
@@ -25,48 +25,48 @@
 4r	.
 2f	.
 =3	=3
-1f	E-add(2,4,7)
+1f	E- other-2,4,7
 =4	=4
-1e-	Cm
+1e-	C minor
 =5	=5
-8r	G
+8r	G major
+8gL	.
 8g	.
-8g	.
-16g	.
-16g	.
-8g	.
+16gL	.
+16gJJ	.
+8gL	.
 8g	.
 8bn	.
-8g	G/B
+8gJ	G major/B
 =6	=6
-8r	G
+8r	G major
+8gL	.
 8g	.
+16gL	.
+16gJJ	.
+8gL	.
 8g	.
-16g	.
-16g	.
-8g	.
-8g	.
-8f	Fm
-8g	.
+8f	F minor
+8gJ	.
 =7	=7
-8r	G
+8r	G major
+8gL	.
 8g	.
-8g	.
-16g	.
-16g	.
-8g	.
+16gL	.
+16gJJ	.
+8gL	.
 8g	.
 8bn	.
-8g	G/B
+8gJ	G major/B
 =8	=8
-8r	G
+8r	G major
+8gL	.
 8g	.
+16gL	.
+16gJJ	.
+8gL	.
 8g	.
-16g	.
-16g	.
-8g	.
-8g	.
-8f	Fm
-8g	.
+8f	F minor
+8gJ	.
 ==	==
 *-	*-

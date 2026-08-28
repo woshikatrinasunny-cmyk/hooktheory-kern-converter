@@ -16,108 +16,108 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
-4r	C
-4r	C
-4r	C
+4r	C major
+4r	C major
+4r	C major
+4r	C major
 =2	=2
-4r	C
-4r	C
-4r	C
-8c	C
-8d	.
+4r	C major
+4r	C major
+4r	C major
+8cL	C major
+8dJ	.
 =3	=3
-2e	C
+2e	C major
 8r	.
-8e	.
+8eL	.
 8.f	.
-16e	.
+16eJk	.
 =4	=4
-8.e	G
+8.e	G major
 6...d	.
 4.r	.
 8d	.
 =5	=5
-2c	F
+2c	F major
 8r	.
-8c	.
+8cL	.
 8.d	.
-16e	.
+16eJk	.
 =6	=6
-2e	C
+2e	C major
 4r	.
-8c	.
-16d	.
-16c	.
+8cL	.
+16dL	.
+16cJJ	.
 =7	=7
-2e	C
+2e	C major
 8r	.
-8e	.
+8eL	.
 8.f	.
-16e	.
+16eJk	.
 =8	=8
-8.e	G
+8.e	G major
 6...d	.
 4.r	.
 8d	.
 =9	=9
-2c	F
+2c	F major
 8r	.
-8c	.
+8cL	.
 8.d	.
-16e	.
+16eJk	.
 =10	=10
-2e	C
+2e	C major
 4r	.
-8e	.
-8f	.
+8eL	.
+8fJ	.
 =11	=11
-3...g	Em
-8g	.
+3...g	E minor
+8gL	.
 8.g	.
-16g	.
+16gJk	.
 =12	=12
-8.g	Am
-2c[	.
+8.g	A minor
+[2c	.
 16c]	.
 8r	.
 8e	.
 =13	=13
-3...f	F
-8e	.
+3...f	F major
+8eL	.
 8.d	.
-16c	.
+16cJk	.
 =14	=14
-8A	G/B
-16G	.
-16A	.
+8AL	G major/B
+16GL	.
+16AJJ	.
 2G	.
-8c	.
-16d	.
-16c	.
+8cL	.
+16dL	.
+16cJJ	.
 =15	=15
-2e	C
+2e	C major
 8r	.
-8e	.
+8eL	.
 8.f	.
-16e	.
+16eJk	.
 =16	=16
-8.e	G
+8.e	G major
 6...d	.
 4.r	.
 8d	.
 =17	=17
-2c	F
+2c	F major
 8r	.
-8c	.
+8cL	.
 8.d	.
-16c	.
+16cJk	.
 =18	=18
-1c	C
+1c	C major
 =19	=19
-2.r	C
-8c	.
-16d	.
-16c	.
+2.r	C major
+8cL	.
+16dL	.
+16cJJ	.
 ==	==
 *-	*-

@@ -16,52 +16,52 @@
 *E:	*
 *M4/4	*
 =1	=1
-8e	E
-16B	.
-16e	.
-2.f#[	Eadd(2,5,7)
+8eL	E major
+16BL	.
+16eJJ	.
+[2.f#	E other-2,5,7
 =2	=2
-8f#]	.
+8f#L]	.
 8f#	.
 8g#	.
-8a	.
-4.b	Emaj7sus2
-16cc#	.
-16dd#	.
+8aJ	.
+4.b	E major-seventh-suspended-second
+16cc#LL	.
+16dd#JJ	.
 =3	=3
-8ee	E
-16b	.
-16ee	.
-2.ff#[	Eadd(2,5,7)
+8eeL	E major
+16bL	.
+16eeJJ	.
+[2.ff#	E other-2,5,7
 =4	=4
-8ff#]	.
+8ff#L]	.
 8ff#	.
 8gg#	.
-8aa	.
-4.bb	G#m/D#
-16ccc#	.
-16ddd#	.
+8aaJ	.
+4.bb	G# minor/D#
+16ccc#LL	.
+16ddd#JJ	.
 =5	=5
-8eee	C#m
-16gg#	.
-16eee	.
-2ddd#	G#m
+8eeeL	C# minor
+16gg#L	.
+16eeeJJ	.
+2ddd#	G# minor
 4gg#	.
 =6	=6
-8ccc#	A
-16ee	.
-16ccc#	.
-2bb	E
+8ccc#L	A major
+16eeL	.
+16ccc#JJ	.
+2bb	E major
 4ee	.
 =7	=7
-8gg#	D
-16ff#	.
-16ee	.
+8gg#L	D major
+16ff#L	.
+16eeJJ	.
 2.ff#	.
 =8	=8
-8ee	Bsus4
-16dd#	.
-16cc#	.
-2.dd#	B
+8eeL	B suspended-fourth
+16dd#L	.
+16cc#JJ	.
+2.dd#	B major
 ==	==
 *-	*-

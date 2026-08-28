@@ -16,23 +16,23 @@
 *A:	*
 *M4/4	*
 =1	=1
-3...bb	Badd(3,5,7)
-8ccc#	.
+3...bb	B other-3,5,7
+8ccc#L	.
 8bb	.
-8aa[	Dadd(2,4,7)
+[8aaJ	D other-2,4,7
 =2	=2
 4aa]	.
 4r	.
 4dd	.
-8dd	.
-8dd[	.
+8ddL	.
+[8ddJ	.
 =3	=3
-8dd]	A
+8dd]	A major
 4.cc#	.
 8r	.
-8a	.
+8aL	.
 8cc#	.
-8cc#[	E
+[8cc#J	E major
 =4	=4
 8cc#]	.
 4b	.
@@ -41,44 +41,44 @@
 4ee	.
 8aa	.
 =5	=5
-3...bb	Badd(3,5,7)
-8ccc#	.
+3...bb	B other-3,5,7
+8ccc#L	.
 8bb	.
-8aa[	Dadd(2,4,7)
+[8aaJ	D other-2,4,7
 =6	=6
 4aa]	.
 8r	.
 8a	.
 8dd	.
 4ee	.
-8dd[	.
+[8dd	.
 =7	=7
-8dd]	A
+8dd]	A major
 4cc#	.
 8r	.
 4cc#	.
-8dd	.
-8cc#	E
+8ddL	.
+8cc#J	E major
 =8	=8
 4b	.
 8b	.
 4.dd	.
-8cc#	.
-8a	.
+8cc#L	.
+8aJ	.
 =9	=9
-3...b	Badd(3,5,7,10)
-4a[	.
-8a_	Dadd(2,4,7,9)
+3...b	B other-3,5,7,10
+[4a	.
+8a_	D other-2,4,7,9
 =10	=10
 4a]	.
 2.r	.
 =11	=11
-8r	A
-8ee	.
-8aa	.
+8r	A major
+8eeL	.
+8aaJ	.
 4gg#	.
 4aa	.
-8gg#[	E
+[8gg#	E major
 =12	=12
 4gg#]	.
 4r	.
@@ -86,15 +86,15 @@
 4ee	.
 8aa	.
 =13	=13
-3...bb	Badd(3,5,7,10)
-8ccc#	.
+3...bb	B other-3,5,7,10
+8ccc#L	.
 8bb	.
-8aa[	Dadd(2,4,7)
+[8aaJ	D other-2,4,7
 =14	=14
 4aa]	.
 4r	.
 4dd	.
-8dd	.
-8cc#	.
+8ddL	.
+8cc#J	.
 ==	==
 *-	*-

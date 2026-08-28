@@ -16,7 +16,7 @@
 *A:	*
 *M4/4	*
 =1	=1
-2e	D
+2e	D major
 4ee	.
 4cc#	.
 =2	=2
@@ -25,30 +25,30 @@
 4g#	.
 4a	.
 =3	=3
-2b	C#m7
+2b	C# minor-seventh
 4.gg#	.
-16ggn	.
-16ff#	.
+16ggnLL	.
+16ff#JJ	.
 =4	=4
-1ee	C
+1ee	C major
 =5	=5
-2f#	Bm
+2f#	B minor
 4ee	.
 4cc#	.
 =6	=6
-4b	C#m/E
+4b	C# minor/E
 4a	.
 4g#	.
 4a	.
 =7	=7
-4.g#	C#/F
-16a	.
-16a#	.
+4.g#	C# major/F
+16aLL	.
+16a#JJ	.
 2b	.
 =8	=8
-4b	F#m
+4b	F# minor
 4a	.
-4g#	E
+4g#	E major
 4a	.
 ==	==
 *-	*-

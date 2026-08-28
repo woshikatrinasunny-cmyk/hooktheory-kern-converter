@@ -16,42 +16,42 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.c	C
+4.c	C major
 8d	.
 4.e	.
 8d	.
 =2	=2
-2c	Am
+2c	A minor
 4r	.
-8c	.
-8e	.
+8cL	.
+8eJ	.
 =3	=3
-4.d	A#
+4.d	A# major
 4.c	.
 4e	.
 =4	=4
-4.d	F
-8c[	.
-4c]	D#
-4r	C#
+4.d	F major
+[8c	.
+4c]	D# major
+4r	C# major
 =5	=5
-4.c	C
+4.c	C major
 8d	.
 4.e	.
 8d	.
 =6	=6
-2c	F
+2c	F major
 4r	.
-8c	.
-8e	.
+8cL	.
+8eJ	.
 =7	=7
-4.d	A#
+4.d	A# major
 4.c	.
 4e	.
 =8	=8
-4.d	F
-8c[	.
-4c]	D#
-4r	C#
+4.d	F major
+[8c	.
+4c]	D# major
+4r	C# major
 ==	==
 *-	*-

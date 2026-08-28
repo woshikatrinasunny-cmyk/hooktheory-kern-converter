@@ -15,27 +15,27 @@
 *D:	*
 *M4/4	*
 =1	=1
-4f#	D
+4f#	D major
 4f#	.
 8.r	.
 16d	.
-4g	Em
+4g	E minor
 =2	=2
 4g	.
 4r	.
-8r	F#m
-16f#	.
+8r	F# minor
+16f#LK	.
 8.f#	.
-8f#	.
+8f#J	.
 =3	=3
-8g	.
-16a	.
-16b	.
-8r	Dsus4
+8gL	.
+16aL	.
+16bJJ	.
+8r	D suspended-fourth
 8a	.
-8g	.
-8f#	.
-4a[	Am
+8gL	.
+8f#J	.
+[4a	A minor
 =4	=4
 8a]	.
 2..a	.
@@ -43,28 +43,28 @@
 3...r	.
 16r	.
 16d	.
-4f#	D/F#
+4f#	D major/F#
 =6	=6
 4f#	.
 8.r	.
 16d	.
-4g	Em/G
+4g	E minor/G
 4g	.
 =7	=7
 4r	.
-8r	F#m/A
+8r	F# minor/A
 16f#	.
 8.f#	.
-8f#	.
+8f#L	.
 8g	.
-16a	.
-16b	.
+16aL	.
+16bJJ	.
 =8	=8
 8r	.
-8a	.
+8aL	.
 8g	.
-8f#	.
-6...a	Em
+8f#J	.
+6...a	E minor
 8.b	.
 ==	==
 *-	*-

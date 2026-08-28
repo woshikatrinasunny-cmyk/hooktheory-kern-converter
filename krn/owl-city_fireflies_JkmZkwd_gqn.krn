@@ -16,85 +16,85 @@
 *E-:	*
 *M4/4	*
 =1	=1
-8r	B-
-8b-	.
+8r	B- major
+8b-L	.
 8ff	.
-8ee-	.
-16ff	.
-16ee-[	.
-8ee-]	E-
+8ee-J	.
+16ffLL	.
+[16ee-J	.
+8ee-]	E- major
 8ff	.
-8ee-	.
+8ee-J	.
 =2	=2
-8.cc	A-
+8.cc	A- major
 16r	.
 8.b-	.
 8cc	.
-8ee-	.
-16b-	.
+8ee-L	.
+16b-k	.
 8cc	.
-8ee-	.
+8ee-J	.
 =3	=3
-16b-	B-
+16b-LL	B- major
 16b-	.
-16ff[	.
-16ff]	B-
+[16ff	.
+16ffJ]	B- major
 8ff	.
-8ee-	.
-16ff	.
-16ee-[	.
-16ee-]	E-
+8ee-J	.
+16ffLL	.
+[16ee-	.
+16ee-]	E- major
 16b-	.
-16ff[	.
-16ff]	E-
+[16ff	.
+16ff]	E- major
 16gg	.
-16ee-[	.
+[16ee-JJ	.
 =4	=4
-8.ee-]	A-
+8.ee-]	A- major
 16r	.
 8.b-	.
-8a-	A-
-16cc[	A-/E-
-16cc]	A-
-16b-	.
+8a-	A- major
+[16ccLL	A- major/E-
+16cc]	A- major
+16b-J	.
 8ee-	.
-8ff	A-/C
+8ffJ	A- major/C
 =5	=5
-8b-	B-
+8b-L	B- major
 8ff	.
-16ff	.
-8ee-	.
+16ffk	.
+8ee-J	.
 8ff	.
-16ee-[	.
-16ee-]	E-
-16b-	.
+[16ee-LL	.
+16ee-]	E- major
+16b-J	.
 8ff	.
-8ee-	.
+8ee-J	.
 =6	=6
-8.cc	A-
+8.cc	A- major
 16r	.
 8.b-	.
 8cc	.
-8ee-	.
-16b-	.
+8ee-L	.
+16b-k	.
 8cc	.
-16ee-[	.
-16ee-]	A-/C
+[16ee-L	.
+16ee-JJ]	A- major/C
 =7	=7
-16b-	B-
-16b-	.
+16b-LL	B- major
+16b-J	.
 8ff	.
 8ff	.
-8ee-	.
-16ff	.
-16ee-[	.
-16ee-]	E-
+8ee-J	.
+16ffLL	.
+[16ee-	.
+16ee-]	E- major
 16b-	.
-16ff[	.
-16ff]	E-/B-
-8gg	.
+[16ff	.
+16ffJ]	E- major/B-
+8ggJ	.
 =8	=8
-8.ee-	A-
+8.ee-	A- major
 2.r	.
 16r	.
 ==	==

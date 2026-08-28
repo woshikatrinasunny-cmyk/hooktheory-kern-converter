@@ -16,53 +16,53 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.r	C
+4.r	C major
 4g	.
 8f	.
 4e	.
 =2	=2
-4.r	E7
+4.r	E dominant
 4d	.
 8c	.
-4e[	.
+[4e	.
 =3	=3
-4e]	Am
+4e]	A minor
 8c	.
 4g	.
 8f	.
 4e	.
 =4	=4
-4r	F
+4r	F major
 8c	.
 4g	.
 8f	.
 4e	.
 =5	=5
-4.r	C
+4.r	C major
 4g	.
 4g	.
 8f	.
 =6	=6
-4e	E7
+4e	E dominant
 4r	.
-8e	.
-8d	.
+8eL	.
+8dJ	.
 4c	.
 =7	=7
-4r	Am
+4r	A minor
 8c	.
 4g	.
-8f	.
+8fL	.
 8e	.
-8d	.
+8dJ	.
 =8	=8
-8d	F
+8dL	F major
 8c	.
 8c	.
-8d	.
+8dJ	.
 8c	.
 8r	.
-8e	.
-8d	.
+8eL	.
+8dJ	.
 ==	==
 *-	*-

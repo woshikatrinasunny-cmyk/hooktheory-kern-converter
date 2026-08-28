@@ -15,225 +15,225 @@
 *G:	*
 *M2/4	*
 =1	=1
-16r	Aadd(3,5,7,10)
-8r	Aadd(3,5,7,10)
-8r	G#add(4,6,10)
-8dd	G#add(4,6,10)
-16aa[	.
+16r	A other-3,5,7,10
+8r	A other-3,5,7,10
+8r	G# other-4,6,10
+8ddL	G# other-4,6,10
+[16aaJk	.
 =2	=2
-16aa]	Gadd(2,7,9)
-16gg[	.
-16gg]	Gadd(2,7,9)
-16b	.
-8dd	Gadd(2,7,9)
-8ff#[	Gadd(2,7,9)
+16aaLL]	G other-2,7,9
+[16gg	.
+16gg]	G other-2,7,9
+16bJJ	.
+8ddL	G other-2,7,9
+[8ff#J	G other-2,7,9
 =3	=3
-8ff#_	Gadd(3,6,11)/A#
-8ff#]	Gadd(3,6,11)/A#
+8ff#L_	G other-3,6,11/A#
+8ff#J]	G other-3,6,11/A#
 16r	.
-8ee	Gadd(3,6,11)/A#
-16dd[	Am7
+8eeL	G other-3,6,11/A#
+[16ddJk	A minor-seventh
 =4	=4
-16dd]	.
-8cc	Am7
-16e	Am7
-8g	.
-8b	Am7
+16ddLK]	.
+8cc	A minor-seventh
+16eJk	A minor-seventh
+8gL	.
+8bJ	A minor-seventh
 =5	=5
-8r	Dadd(1,4,7,10)
-16a	Dadd(1,4,7,10)
+8r	D other-1,4,7,10
+16a	D other-1,4,7,10
 8dd	.
-8b	Dadd(1,4,7,10)
-16a[	Gadd(2,7,9)
+8bL	D other-1,4,7,10
+[16aJk	G other-2,7,9
 =6	=6
-16a]	.
-8g	Gadd(2,7,9)
-16f#	Gadd(2,7,9)
-16g	.
+16aLK]	.
+8g	G other-2,7,9
+16f#Jk	G other-2,7,9
+16gLL	.
 16b	.
-16dd	Gadd(2,7,9)
-16f#[	.
+16dd	G other-2,7,9
+[16f#JJ	.
 =7	=7
-8f#_	Gadd(3,6,11)/A#
-8f#]	Gadd(3,6,11)/A#
+8f#L_	G other-3,6,11/A#
+8f#J]	G other-3,6,11/A#
 16r	.
-8e	Gadd(3,6,11)/A#
-16dd[	Am7
+8eL	G other-3,6,11/A#
+[16ddJk	A minor-seventh
 =8	=8
-16dd]	.
-8cc	Am7
-8.a[	Am7
-8a]	Am7
+16ddLK]	.
+8ccJ	A minor-seventh
+[8.a	A minor-seventh
+8a]	A minor-seventh
 =9	=9
-8r	C/G
-8.r	C/G
-8r	C/G
-16b[	F#add(3,5,7,10)
+8r	C major/G
+8.r	C major/G
+8r	C major/G
+[16b	F# other-3,5,7,10
 =10	=10
-16b]	.
-8cc	F#add(3,5,7,10)
-16a	F#add(3,5,7,10)
-16b	.
+16bLK]	.
+8cc	F# other-3,5,7,10
+16aJk	F# other-3,5,7,10
+16bLL	.
 16cc	.
-16a	F#add(3,5,7,10)
-16b[	.
+16a	F# other-3,5,7,10
+[16bJJ	.
 =11	=11
-8b_	Badd(1,4,7,10)
-8b]	Badd(1,4,7,10)
+8bL_	B other-1,4,7,10
+8bJ]	B other-1,4,7,10
 16r	.
-16a#	Badd(1,4,7,10)
+16a#LL	B other-1,4,7,10
 16b	.
-16ff#[	Em9
+[16ff#JJ	E minor-ninth
 =12	=12
-16ff#]	.
-8ee	Em9
-16dd#	Em9
-16ee	.
+16ff#LK]	.
+8ee	E minor-ninth
+16dd#Jk	E minor-ninth
+16eeLL	.
 16b	.
-16g	Em9
-16ff#[	.
+16g	E minor-ninth
+[16ff#JJ	.
 =13	=13
-8ff#_	Em9
-16ff#]	Em9
-8ee[	.
-8ee]	Em9
-16g[	A13
+8ff#L_	E minor-ninth
+16ff#Jk]	E minor-ninth
+[8ee	.
+8eeL]	E minor-ninth
+[16gJk	A dominant-13th
 =14	=14
-16g]	.
-16a[	.
-16a]	A13
-16b	.
-16cc#	.
-16b	A13
+16gLL]	.
+[16a	.
+16a]	A dominant-13th
+16bJJ	.
+16cc#LL	.
+16b	A dominant-13th
 16a	.
-16g[	A13
+[16gJJ	A dominant-13th
 =15	=15
-16g]	.
-16a[	.
-16a]	A13
-16b	.
-16cc#	.
-16b	A13
+16gLL]	.
+[16a	.
+16a]	A dominant-13th
+16bJJ	.
+16cc#LL	.
+16b	A dominant-13th
 16a	.
-16ee[	Am7
+[16eeJJ	A minor-seventh
 =16	=16
 8ee_	.
-8.ee]	Am7
-8ff#	Am7
-16dd[	.
+8.ee]	A minor-seventh
+8ff#L	A minor-seventh
+[16ddJk	.
 =17	=17
-8dd_	Dadd(1,4,6,10)
-8dd]	Dadd(1,6,10)
+8ddL_	D other-1,4,6,10
+8ddJ]	D other-1,6,10
 16r	.
-8dd	Dadd(1,6,10)
-16aa[	Gadd(2,7,9)
+8ddL	D other-1,6,10
+[16aaJk	G other-2,7,9
 =18	=18
-16aa]	.
-8gg	Gadd(2,7,9)
-16b	Gadd(2,7,9)
-8dd	.
-8ff#[	Gadd(2,7,9)
+16aaLK]	.
+8gg	G other-2,7,9
+16bJk	G other-2,7,9
+8ddL	.
+[8ff#J	G other-2,7,9
 =19	=19
-8ff#_	Gadd(3,6,11)/A#
-8ff#]	Gadd(3,6,11)/A#
+8ff#L_	G other-3,6,11/A#
+8ff#J]	G other-3,6,11/A#
 16r	.
-8ee	Gadd(3,6,11)/A#
-16dd[	Am7
+8eeL	G other-3,6,11/A#
+[16ddJk	A minor-seventh
 =20	=20
-16dd]	.
-8cc	Am7
-16e	Am7
-8g	.
-8b	Am7
+16ddLK]	.
+8cc	A minor-seventh
+16eJk	A minor-seventh
+8gL	.
+8bJ	A minor-seventh
 =21	=21
-8r	Dadd(1,4,7,10)
-16a	Dadd(1,4,7,10)
+8r	D other-1,4,7,10
+16a	D other-1,4,7,10
 8dd	.
-8b	Dadd(1,4,7,10)
-16a[	Gadd(2,7,9)
+8bL	D other-1,4,7,10
+[16aJk	G other-2,7,9
 =22	=22
-16a]	.
-8g	Gadd(2,7,9)
-16f#	Gadd(2,7,9)
-16g	.
+16aLK]	.
+8g	G other-2,7,9
+16f#Jk	G other-2,7,9
+16gLL	.
 16b	.
-16dd	Gadd(2,7,9)
-16gg[	.
+16dd	G other-2,7,9
+[16ggJJ	.
 =23	=23
-8gg_	Gaug7
-8gg]	Gaug7
+8ggL_	G augmented-seventh
+8ggJ]	G augmented-seventh
 16r	.
-8bb	Gaug7
-16aa[	Cmaj9
+8bbL	G augmented-seventh
+[16aaJk	C major-ninth
 =24	=24
-16aa]	.
-8gg	Cmaj9
-16ee	Cmaj9
-8aa	Gadd(4,7,9)
-8gg[	Gadd(4,7,9)
+16aaLK]	.
+8gg	C major-ninth
+16eeJk	C major-ninth
+8aaL	G other-4,7,9
+[8ggJ	G other-4,7,9
 =25	=25
-8gg_	Cmaj9
-8gg]	Cmaj9
-8.r	Gadd(4,7,9)
-16r	Cadd(3,7,9)
+8ggL_	C major-ninth
+8ggJ]	C major-ninth
+8.r	G other-4,7,9
+16r	C other-3,7,9
 =26	=26
 16r	.
-16gg[	.
-16gg]	Cadd(3,7,9)
-16dd#	.
-16dd	.
-16cc	Cadd(3,7,9)
+[16ggLL	.
+16gg]	C other-3,7,9
+16dd#JJ	.
+16ddLL	.
+16ccJJ	C other-3,7,9
 16r	.
-16gg	Cadd(3,7,9)
+16gg	C other-3,7,9
 =27	=27
 16r	.
-16dd#	.
-16dd	Cadd(3,7,9)
-16cc	.
-16gg	.
-16dd#	Cadd(3,7,9)
+16dd#LL	.
+16dd	C other-3,7,9
+16ccJJ	.
+16ggLL	.
+16dd#JJ	C other-3,7,9
 16r	.
-16r	Bm7
+16r	B minor-seventh
 =28	=28
 16r	.
-16ff#[	.
-16ff#]	Bm7
-16dd	.
-16cc#	.
-16b	Bm7
+[16ff#LL	.
+16ff#]	B minor-seventh
+16ddJJ	.
+16cc#LL	.
+16bJJ	B minor-seventh
 16r	.
-16ffn	Eadd(1,4,7,10)
+16ffn	E other-1,4,7,10
 =29	=29
 16r	.
-16dd	.
-16cc	Eadd(1,4,7,10)
-16b	.
-16ffn	.
-16ee	Eadd(1,4,7,10)
+16ddLL	.
+16cc	E other-1,4,7,10
+16bJJ	.
+16ffnLL	.
+16eeJJ	E other-1,4,7,10
 16r	.
-16r	Am7
+16r	A minor-seventh
 =30	=30
 16r	.
-16a[	.
-16a]	Am7
-16b	.
-16cc	.
-8dd	Am7
-16dd#[	Dadd(1,4,7,10)
+[16aLL	.
+16a]	A minor-seventh
+16bJJ	.
+16ccLK	.
+8dd	A minor-seventh
+[16dd#Jk	D other-1,4,7,10
 =31	=31
 8dd#_	.
-8.dd#]	Dadd(1,4,7,10)
-8dd	Dadd(1,4,7,10)
-16g[	Gadd(2,7,9)
+8.dd#]	D other-1,4,7,10
+8ddL	D other-1,4,7,10
+[16gJk	G other-2,7,9
 =32	=32
 8g_	.
-8.g_	Gadd(2,7,9)
-8g_	Gadd(2,7,9)
-16g]	F#add(3,5,7,10)
+8.g_	G other-2,7,9
+8gL_	G other-2,7,9
+16gJk]	F# other-3,5,7,10
 =33	=33
 16r	.
-8r	F#add(3,5,7,10)
-8r	Badd(1,4,7,10)
-8.r	Badd(1,4,7,10)
+8r	F# other-3,5,7,10
+8r	B other-1,4,7,10
+8.r	B other-1,4,7,10
 ==	==
 *-	*-

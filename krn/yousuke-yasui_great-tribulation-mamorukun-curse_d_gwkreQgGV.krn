@@ -16,82 +16,82 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.a	Am
+4.a	A minor
 8e	.
 4a	.
 4cc	.
 =2	=2
-4b	Em7
-8a	.
-16b	.
-16a	.
+4b	E minor-seventh
+8aL	.
+16bL	.
+16aJJ	.
 4.g	.
 8r	.
 =3	=3
-4f	Dm7
+4f	D minor-seventh
 4cc	.
-4b	G
-8a	.
-16b	.
-16a	.
+4b	G major
+8aL	.
+16bL	.
+16aJJ	.
 =4	=4
-1g	Cmaj7
+1g	C major-seventh
 =5	=5
-4.d	Bm7
+4.d	B minor-seventh
 8e	.
-4f	E7sus4
-4d	E7
+4f	E dominant-seventh-suspended-fourth
+4d	E dominant
 =6	=6
-4c	Am
+4c	A minor
 4e	.
-4.a	Am7/G
-16b	.
-16cc	.
+4.a	A minor-seventh/G
+16bLL	.
+16ccJJ	.
 =7	=7
-4.b	F
+4.b	F major
 8a	.
-4g#	G#dim7/D
+4g#	G# diminished-seventh/D
 4a	.
 =8	=8
-1b	E7
+1b	E dominant
 =9	=9
-4.a	Am
+4.a	A minor
 8e	.
 4a	.
 4cc	.
 =10	=10
-4b	Em7
-8a	.
-16b	.
-16a	.
+4b	E minor-seventh
+8aL	.
+16bL	.
+16aJJ	.
 4.g	.
 8r	.
 =11	=11
-4f	Dm7
+4f	D minor-seventh
 4cc	.
-4b	G
-8dd	.
-16ee	.
-16dd	.
+4b	G major
+8ddL	.
+16eeL	.
+16ddJJ	.
 =12	=12
-1ee	Cmaj7
+1ee	C major-seventh
 =13	=13
-4.ff	Bm7
+4.ff	B minor-seventh
 8dd	.
-4cc	E7sus4
-4dd	E7
+4cc	E dominant-seventh-suspended-fourth
+4dd	E dominant
 =14	=14
-4ee	Am
+4ee	A minor
 4a	.
-4.cc	Am7/G
-16b	.
-16cc	.
+4.cc	A minor-seventh/G
+16bLL	.
+16ccJJ	.
 =15	=15
-4b	Dm7/F
+4b	D minor-seventh/F
 4e	.
-4g#	G7
-4g#	G
+4g#	G dominant
+4g#	G major
 =16	=16
-1a	Am
+1a	A minor
 ==	==
 *-	*-

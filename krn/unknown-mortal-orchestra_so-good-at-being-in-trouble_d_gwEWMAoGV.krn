@@ -16,112 +16,112 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.r	Cadd(2,4,7)
+4.r	C other-2,4,7
 4g	.
-8a	.
+8aL	.
 8b	.
-8b	.
+8bJ	.
 =2	=2
-8a	.
-8g	.
+8aL	.
+8gJ	.
 4a	.
 4e	.
-8d	.
-8c[	.
+8dL	.
+[8cJ	.
 =3	=3
-4c]	Aadd(2,3,7)
+4c]	A other-2,3,7
 8r	.
 4c	.
-8d	.
+8dL	.
 8e	.
-8e	.
+8eJ	.
 =4	=4
-8d	F
-8c	.
+8dL	F major
+8cJ	.
 4d	.
-4e	Gadd(2,4,7)
-8g	.
-8a	.
+4e	G other-2,4,7
+8gL	.
+8aJ	.
 =5	=5
-4.r	Cadd(2,4,7)
+4.r	C other-2,4,7
 4g	.
-8a	.
+8aL	.
 8b	.
-8b	.
+8bJ	.
 =6	=6
-8a	.
-8g	.
+8aL	.
+8gJ	.
 4a	.
 4e	.
-8d	.
-8c[	.
+8dL	.
+[8cJ	.
 =7	=7
-4c]	Aadd(2,3,7)
+4c]	A other-2,3,7
 8r	.
 4c	.
-8d	.
+8dL	.
 8e	.
-8e	.
+8eJ	.
 =8	=8
-8d	F
-8c	.
+8dL	F major
+8cJ	.
 4d	.
-4e	Gadd(2,4,7)
-8g	.
-8a	.
+4e	G other-2,4,7
+8gL	.
+8aJ	.
 =9	=9
-4.r	Cadd(2,4,7)
+4.r	C other-2,4,7
 4g	.
-8a	.
+8aL	.
 8b	.
-8b	.
+8bJ	.
 =10	=10
-8a	.
-8g	.
+8aL	.
+8gJ	.
 4a	.
 4e	.
-8d	.
-8c[	.
+8dL	.
+[8cJ	.
 =11	=11
-4c]	Aadd(2,3,7)
+4c]	A other-2,3,7
 8r	.
 4c	.
-8d	.
+8dL	.
 8e	.
-8e	.
+8eJ	.
 =12	=12
-8d	F
-8c	.
+8dL	F major
+8cJ	.
 4d	.
-4e	Gadd(2,4,7)
-8g	.
-8a	.
+4e	G other-2,4,7
+8gL	.
+8aJ	.
 =13	=13
-4.r	Cadd(2,4,7)
+4.r	C other-2,4,7
 4g	.
-8a	.
+8aL	.
 8b	.
-8b	.
+8bJ	.
 =14	=14
-8a	.
-8g	.
+8aL	.
+8gJ	.
 4a	.
 4e	.
-8d	.
-8c[	.
+8dL	.
+[8cJ	.
 =15	=15
-4c]	A#add(2,4,7)
+4c]	A# other-2,4,7
 8r	.
 4c	.
-8d	.
+8dL	.
 8e	.
-8e	.
+8eJ	.
 =16	=16
-8d	Aadd(2,3,7)
-8c	.
+8dL	A other-2,3,7
+8cJ	.
 4d	.
 2A	.
 =17	=17
-1r	A7
+1r	A dominant
 ==	==
 *-	*-

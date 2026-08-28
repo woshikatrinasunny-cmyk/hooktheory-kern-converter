@@ -16,33 +16,33 @@
 *g:	*
 *M4/4	*
 =1	=1
-8.r	Gm9
-8.r	Gm9
-4dd[	Gm9
-8.dd_	Gm9
-16dd]	G-m9
-8dd-	.
+8.r	G minor-ninth
+8.r	G minor-ninth
+[4dd	G minor-ninth
+8.ddL_	G minor-ninth
+16ddk]	G- minor-ninth
+8dd-J	.
 =2	=2
-8.cc[	Fm9
-8.cc_	Fm9
-4cc_	Fm9
-8.cc_	Fm9
-16cc]	G-m9
-8ff	.
+[8.ccL	F minor-ninth
+8.ccJ_	F minor-ninth
+4cc_	F minor-ninth
+8.ccL_	F minor-ninth
+16cck]	G- minor-ninth
+8ffJ	.
 =3	=3
-8.dd[	Gm9
-8.dd_	Gm9
-4dd_	Gm9
-8.dd_	Gm9
-16dd]	G-m9
-8dd-	.
+[8.ddL	G minor-ninth
+8.ddJ_	G minor-ninth
+4dd_	G minor-ninth
+8.ddL_	G minor-ninth
+16ddk]	G- minor-ninth
+8dd-J	.
 =4	=4
-8.cc	Fm7
-8.dd-	G-m7
-8dd	Gm7
+8.ccL	F minor-seventh
+8.dd-	G- minor-seventh
+8ddJ	G minor-seventh
 8r	.
-8g	.
+8gL	.
 8b-	.
-8cc	.
+8ccJ	.
 ==	==
 *-	*-

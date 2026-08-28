@@ -16,38 +16,38 @@
 *A:	*
 *M4/4	*
 =1	=1
-2.cc#	A
+2.cc#	A major
 4b	.
 =2	=2
-2.dd	D/A
-16cc#	.
+2.dd	D major/A
+16cc#LK	.
 8b	.
-16a	.
+16aJk	.
 =3	=3
-8.b	A
+8.b	A major
 2cc#	.
-16aa	.
+16aaLK	.
 8.aa	.
-16gg#	.
+16gg#Jk	.
 =4	=4
-8.gg#	D/A
-16ff#	.
+8.gg#L	D major/A
+16ff#Jk	.
 2.ff#	.
 =5	=5
-2.cc#	A
+2.cc#	A major
 4b	.
 =6	=6
-2.dd	D/A
-16cc#	.
+2.dd	D major/A
+16cc#LK	.
 8b	.
-16a	.
+16aJk	.
 =7	=7
-8.b	Amaj7sus2
-4cc#[	.
-6...cc#]	A
-4b	E/G#
+8.b	A major-seventh-suspended-second
+[4cc#	.
+6...cc#]	A major
+4b	E major/G#
 =8	=8
-4.a	D/F#
-3...a	A/E
+4.a	D major/F#
+3...a	A major/E
 ==	==
 *-	*-

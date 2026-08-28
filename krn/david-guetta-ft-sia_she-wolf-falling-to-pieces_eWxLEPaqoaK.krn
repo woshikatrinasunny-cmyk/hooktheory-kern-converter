@@ -16,127 +16,127 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	Am
+4r	A minor
 8r	.
-8e	Esus4
-8e	.
+8e	E suspended-fourth
+8eL	.
 8f#	.
-8a	Am
-8g[	.
+8a	A minor
+[8gJ	.
 =2	=2
-4g_	Em
-8g]	.
-8e	Esus4
+4g_	E minor
+8gL]	.
+8eJ	E suspended-fourth
 8r	.
 8r	.
-8g	Em
-8g[	.
+8gL	E minor
+[8gJ	.
 =3	=3
-4g_	G
-8g]	.
-8e	G
+4g_	G major
+8gL]	.
+8eJ	G major
 8r	.
 8r	.
-16r	G
-16g	.
-8f#[	.
+16r	G major
+16gLK	.
+[8f#J	.
 =4	=4
-8f#]	Dsus4
-8a[	.
-8a]	.
-4a[	D
+8f#L]	D suspended-fourth
+[8a	.
+8aJ]	.
+[4a	D major
 8a_	.
-4a_	D
+4a_	D major
 =5	=5
-8a]	Am
+8a]	A minor
 8r	.
 8r	.
-4e	Esus4
+4e	E suspended-fourth
 8g	.
-4a	Am
+4a	A minor
 =6	=6
-4g[	Em
-8g]	.
-8e	Esus4
+[4g	E minor
+8gL]	.
+8eJ	E suspended-fourth
 8r	.
 8r	.
-8g	Em
-8g[	.
+8gL	E minor
+[8gJ	.
 =7	=7
-4g_	G
-8g]	.
-8e	G
+4g_	G major
+8gL]	.
+8eJ	G major
 8r	.
-16g	.
-16g	.
-8f#	G
-8f#[	.
+16gLL	.
+16gJ	.
+8f#	G major
+[8f#J	.
 =8	=8
-4f#]	Dsus4
+4f#]	D suspended-fourth
 8a	.
-4a[	D
+[4a	D major
 8a_	.
-4a]	D
+4a]	D major
 =9	=9
-4r	Am
+4r	A minor
 8r	.
-8a	Esus4
-8a	.
+8a	E suspended-fourth
+8aL	.
 8b	.
-8cc	Am
-8b[	.
+8cc	A minor
+[8bJ	.
 =10	=10
-4b_	Em
-8b]	.
-8g	Esus4
+4b_	E minor
+8bL]	.
+8gJ	E suspended-fourth
 8r	.
-8b	.
-8b	Em
-8b[	.
+8bL	.
+8b	E minor
+[8bJ	.
 =11	=11
-4b_	G
-8b]	.
-8g	G
+4b_	G major
+8bL]	.
+8gJ	G major
 8r	.
 8r	.
-8a	G
-8b[	.
+8aL	G major
+[8bJ	.
 =12	=12
-8b]	Dsus4
-8a[	.
-8a]	.
-4f#[	D
-8f#_	.
-8f#]	D
-8e	.
+8bL]	D suspended-fourth
+[8a	.
+8aJ]	.
+[4f#	D major
+8f#L_	.
+8f#]	D major
+8eJ	.
 =13	=13
-4r	Am
+4r	A minor
 8r	.
-8e	Esus4
-8a	.
+8e	E suspended-fourth
+8aL	.
 8b	.
-8cc	Am
-8b[	.
+8cc	A minor
+[8bJ	.
 =14	=14
-4b_	Em
-8b_	.
-8b]	Esus4
-8g[	.
-8g]	.
-4d	Em
+4b_	E minor
+8bL_	.
+8bJ]	E suspended-fourth
+[8gL	.
+8gJ]	.
+4d	E minor
 =15	=15
-4d[	G
+[4d	G major
 8d_	.
-4d_	G
-8d_	.
-8d]	G
-8e[	.
+4d_	G major
+8dL_	.
+8d]	G major
+[8eJ	.
 =16	=16
-8e]	Dsus4
+8e]	D suspended-fourth
 8r	.
 8r	.
-4r	D
+4r	D major
 8r	.
-4r	D
+4r	D major
 ==	==
 *-	*-

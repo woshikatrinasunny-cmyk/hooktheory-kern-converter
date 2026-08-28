@@ -16,50 +16,50 @@
 *d#:	*
 *M4/4	*
 =1	=1
-2B	B/D#
-2A#[	D#sus2
+2B	B major/D#
+[2A#	D# suspended-second
 =2	=2
-2A#]	Bmaj7
-2c#	Bsus2
+2A#]	B major-seventh
+2c#	B suspended-second
 =3	=3
-2An	F#m
-2A#[	F#
+2An	F# minor
+[2A#	F# major
 =4	=4
-1A#]	G#sus2
+1A#]	G# suspended-second
 =5	=5
-2B	B/D#
-2A#[	D#sus2
+2B	B major/D#
+[2A#	D# suspended-second
 =6	=6
-2A#]	Bmaj7
+2A#]	B major-seventh
 2d#	.
 =7	=7
-2An	E#
-2A#[	E#sus4
+2An	E# major
+[2A#	E# suspended-fourth
 =8	=8
-1A#]	E
+1A#]	E major
 =9	=9
-2B	B/D#
-2A#[	D#sus2
+2B	B major/D#
+[2A#	D# suspended-second
 =10	=10
-2A#]	Bmaj7
-2d#	G#m7/B
+2A#]	B major-seventh
+2d#	G# minor-seventh/B
 =11	=11
-2e#	F#m
-2f#[	F#
+2e#	F# minor
+[2f#	F# major
 =12	=12
-2f#_	G#m7
-2f#]	G#7
+2f#_	G# minor-seventh
+2f#]	G# dominant
 =13	=13
-2G#	D#sus4
-2A#[	D#sus2
+2G#	D# suspended-fourth
+[2A#	D# suspended-second
 =14	=14
-2A#]	Bmaj7
-2d#	G#m7/B
+2A#]	B major-seventh
+2d#	G# minor-seventh/B
 =15	=15
-2An	E#7
-2A#	E#7sus4
+2An	E# dominant
+2A#	E# dominant-seventh-suspended-fourth
 =16	=16
-2c#	C#m7/E
-2dn	E7
+2c#	C# minor-seventh/E
+2dn	E dominant
 ==	==
 *-	*-

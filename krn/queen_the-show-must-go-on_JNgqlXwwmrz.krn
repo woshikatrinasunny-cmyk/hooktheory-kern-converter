@@ -16,114 +16,114 @@
 *b:	*
 *M4/4	*
 =1	=1
-8r	Bm
-8r	Bm
-8r	Bm
-8r	Bm
-8r	Bsus2
-8r	Bsus2
-8r	Bsus2
-8r	Bsus2
+8r	B minor
+8r	B minor
+8r	B minor
+8r	B minor
+8r	B suspended-second
+8r	B suspended-second
+8r	B suspended-second
+8r	B suspended-second
 =2	=2
-8r	Bsus4
-8r	Bsus4
-8r	Bsus4
-8r	Bsus4
-8r	Bm
-8r	Bm
-8r	Bm7/A
-8r	Bm7/A
+8r	B suspended-fourth
+8r	B suspended-fourth
+8r	B suspended-fourth
+8r	B suspended-fourth
+8r	B minor
+8r	B minor
+8r	B minor-seventh/A
+8r	B minor-seventh/A
 =3	=3
-8r	G
-8r	G
-8r	G
-8r	G
-8r	C#add(6,10)/B
-8r	C#add(6,10)/B
-8r	C#add(6,10)/B
-8r	C#add(6,10)/B
+8r	G major
+8r	G major
+8r	G major
+8r	G major
+8r	C# other-6,10/B
+8r	C# other-6,10/B
+8r	C# other-6,10/B
+8r	C# other-6,10/B
 =4	=4
-8r	Em/G
-8r	Em/G
-8r	Em/G
-8r	Em/G
-8r	G
-8r	G
-8r	Gmaj7/F#
-8r	Gmaj7/F#
+8r	E minor/G
+8r	E minor/G
+8r	E minor/G
+8r	E minor/G
+8r	G major
+8r	G major
+8r	G major-seventh/F#
+8r	G major-seventh/F#
 =5	=5
-8r	Em7
-8r	Em7
-8r	Em7
-8r	Em7
-8r	C#m7b5/E
-8r	C#m7b5/E
-8r	C#m7b5/E
-8r	C#m7b5/E
+8r	E minor-seventh
+8r	E minor-seventh
+8r	E minor-seventh
+8r	E minor-seventh
+8r	C# half-diminished/E
+8r	C# half-diminished/E
+8r	C# half-diminished/E
+8r	C# half-diminished/E
 =6	=6
-8r	F#sus4
-8r	F#sus4
-8r	F#sus4
-8r	F#sus4
-8r	F#
-8r	F#
-8r	F#
-8r	F#
+8r	F# suspended-fourth
+8r	F# suspended-fourth
+8r	F# suspended-fourth
+8r	F# suspended-fourth
+8r	F# major
+8r	F# major
+8r	F# major
+8r	F# major
 =7	=7
-2r	Em
-4r	Edim
-8dd	.
-8cc#	.
+2r	E minor
+4r	E diminished
+8ddL	.
+8cc#J	.
 =8	=8
-8cc#	Bm
+8cc#	B minor
 4.dd	.
-8r	Bsus2
+8r	B suspended-second
+8ddL	.
 8dd	.
-8dd	.
-8cc#	.
+8cc#J	.
 =9	=9
-4cc#	Bsus4
-8b	.
-8b[	.
-8b]	Bm
-16dd	.
+4cc#	B suspended-fourth
+8bL	.
+[8bJ	.
+8bL]	B minor
+16ddk	.
 8.dd	.
-8cc#	.
+8cc#J	.
 =10	=10
-8cc#	G
+8cc#	G major
 4.dd	.
-4r	C#add(6,10)/B
-8dd	.
-8ee	.
+4r	C# other-6,10/B
+8ddL	.
+8eeJ	.
 =11	=11
-4ff#	Em/G
-8gg	.
-8ee[	.
-8ee]	G
+4ff#	E minor/G
+8ggL	.
+[8eeJ	.
+8ee]	G major
 4.r	.
 =12	=12
-4aa	Em7
-8gg	.
-8ff#[	.
-8ff#]	C#m7b5/E
+4aa	E minor-seventh
+8ggL	.
+[8ff#J	.
+8ff#]	C# half-diminished/E
 6...r	.
 16ee	.
 =13	=13
-16ff#	F#sus4
+16ff#LL	F# suspended-fourth
 16gg	.
 16ff#	.
-16gg	.
-4ff#[	.
-8ff#]	F#
+16ggJJ	.
+[4ff#	.
+8ff#L]	F# major
 8ee	.
 8dd	.
-8cc#	.
+8cc#J	.
 =14	=14
-16cc#	Em
-16b	.
+16cc#LL	E minor
+16bJJ	.
 4b	.
 8r	.
-2r	Edim
+2r	E diminished
 =15	=15
 1r	.
 =16	=16

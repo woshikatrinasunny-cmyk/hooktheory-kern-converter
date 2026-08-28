@@ -16,58 +16,58 @@
 *c#:	*
 *M4/4	*
 =1	=1
-1r	C#m7
+1r	C# minor-seventh
 =2	=2
-4.r	C#m7/E
-3...r	D#m/F#
+4.r	C# minor-seventh/E
+3...r	D# minor/F#
 =3	=3
-1r	C#m7
+1r	C# minor-seventh
 =4	=4
-4.r	F#sus4
-3...r	G#7
+4.r	F# suspended-fourth
+3...r	G# dominant
 =5	=5
-8.cc#	C#m7
+8.cc#L	C# minor-seventh
 8ee	.
-8b	.
+8bJ	.
 8.cc#	.
-16g#	.
+16g#LL	.
 16G#	.
 16c#	.
 16f#	.
 16g#	.
-16b	.
+16bJJ	.
 =6	=6
-8.ee	C#m7/E
+8.eeL	C# minor-seventh/E
 8cc#	.
-16b	.
-16r	D#m/F#
+16bJk	.
+16r	D# minor/F#
 8dd#	.
-8ee	.
+8eeL	.
 8dd#	.
-16cc#	.
+16cc#L	.
 16g#	.
-16b	.
+16bJJ	.
 =7	=7
-8.cc#	C#m7
+8.cc#L	C# minor-seventh
 8ee	.
-8b	.
+8bJ	.
 8.cc#	.
-16g#	.
+16g#LL	.
 16G#	.
 16c#	.
 16f#	.
 16g#	.
-16b	.
+16bJJ	.
 =8	=8
-8.cc#	F#sus4
+8.cc#L	F# suspended-fourth
 8dd#	.
-16ee	.
-16r	G#7
+16eeJk	.
+16r	G# dominant
 8ff#	.
-8dd#	.
+8dd#L	.
 8ff#	.
-16ccn	.
+16ccnL	.
 16ee	.
-16ccn	.
+16ccnJJ	.
 ==	==
 *-	*-

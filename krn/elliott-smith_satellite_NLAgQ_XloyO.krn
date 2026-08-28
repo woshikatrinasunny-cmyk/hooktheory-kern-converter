@@ -16,31 +16,31 @@
 *D:	*
 *M3/4	*
 =1	=1
-2.r	D
+2.r	D major
 =2	=2
 2.r	.
 =3	=3
-2.r	A#add(6,7)
+2.r	A# other-6,7
 =4	=4
 2.r	.
 =5	=5
-2r	Am
-8e	.
-8d	.
+2r	A minor
+8eL	.
+8dJ	.
 =6	=6
 2e	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 =7	=7
 2.d	.
 =8	=8
-2.g	Gm/A#
+2.g	G minor/A#
 =9	=9
-2.f#	F#m/A
+2.f#	F# minor/A
 =10	=10
-2.e	Em/G
+2.e	E minor/G
 =11	=11
-2.d	G
+2.d	G major
 =12	=12
 2.r	.
 ==	==

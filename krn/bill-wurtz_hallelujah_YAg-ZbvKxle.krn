@@ -16,75 +16,75 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.b	A
+4.b	A major
 4.a	.
 8r	.
-8r	Amaj7/G#
+8r	A major-seventh/G#
 =2	=2
 2r	.
 4dd	.
 4cc#	.
 =3	=3
-4.b	F#m7
+4.b	F# minor-seventh
 4.a	.
 8r	.
-8r	Amaj7/E
+8r	A major-seventh/E
 =4	=4
 2r	.
 4dd	.
 4cc#	.
 =5	=5
-4.b	D
+4.b	D major
 4.a	.
 8r	.
-8f#	A/C#
+8f#	A major/C#
 =6	=6
+8aL	.
 8a	.
-8a	.
-8f#	.
+8f#J	.
 4a	.
 4.cc#	.
 =7	=7
-8a	Bm
+8a	B minor
 4b	.
 2r	.
-8r	Esus4
+8r	E suspended-fourth
 =8	=8
 2r	.
 4dd	.
 4cc#	.
 =9	=9
-4.b	A
+4.b	A major
 4.a	.
 8r	.
-8r	A7sus4/G
+8r	A dominant-seventh-suspended-fourth/G
 =10	=10
 2r	.
 4dd	.
 4cc#	.
 =11	=11
-4.b	Dmaj7/F#
+4.b	D major-seventh/F#
 4.a	.
 8r	.
-8r	Dm7/F
+8r	D minor-seventh/F
 =12	=12
 2r	.
 4dd	.
 4cc#	.
 =13	=13
-4.b	A/E
+4.b	A major/E
 4.a	.
 4r	.
 =14	=14
-4f#	E7sus2
+4f#	E dominant-seventh-suspended-second
 8a	.
-4b	E7
+4b	E dominant
 4cc#	.
-8b	A
+8b	A major
 =15	=15
 4.a	.
-3...r	Dadd(2,4,7)/A
+3...r	D other-2,4,7/A
 =16	=16
-1r	A
+1r	A major
 ==	==
 *-	*-

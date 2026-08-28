@@ -16,83 +16,83 @@
 *A:	*
 *M4/4	*
 =1	=1
-8r	D
+8r	D major
 4.a	.
 2r	.
 =2	=2
 2r	.
-4.e	E
-8c#[	.
+4.e	E major
+[8c#	.
 =3	=3
-4c#]	A
+4c#]	A major
 2.r	.
 =4	=4
-4.r	F#m
+4.r	F# minor
 8e	.
-8a	E
+8aL	E major
 8f#	.
 8a	.
-8f#[	.
+[8f#J	.
 =5	=5
-8f#]	D
+8f#]	D major
 4.a	.
 2r	.
 =6	=6
 4.r	.
-16c#	.
-16B	.
-8e	E
-16c#	.
+16c#LL	.
+16BJJ	.
+8eL	E major
+16c#k	.
 8.e	.
-8c#[	.
+[8c#J	.
 =7	=7
-4c#]	A
+4c#]	A major
 2.r	.
 =8	=8
-4.r	F#m
+4.r	F# minor
 8c#	.
-8c#	E
+8c#	E major
 4B	.
 8e	.
 =9	=9
-8e	D
-8d	.
+8eL	D major
+8dJ	.
 4c#	.
 2r	.
 =10	=10
 4.r	.
 8c#	.
-8c#	E
-16B	.
+8c#L	E major
+16Bk	.
 8.e	.
-8c#[	.
+[8c#J	.
 =11	=11
-4c#]	A
+4c#]	A major
 2.r	.
 =12	=12
-4.r	F#m
+4.r	F# minor
 8c#	.
-8c#	E
+8c#L	E major
 8c#	.
 8B	.
-8e[	.
+[8eJ	.
 =13	=13
-8e]	D
-8d	.
+8eL]	D major
+8dJ	.
 4c#	.
 2r	.
 =14	=14
 4.r	.
-16c#	.
-16B	.
-8c#	E
-16B	.
+16c#LL	.
+16BJJ	.
+8c#L	E major
+16BJk	.
 6...A	.
 =15	=15
-1r	A
+1r	A major
 =16	=16
-2r	F#m
-4.r	F#m
+2r	F# minor
+4.r	F# minor
 8B	.
 ==	==
 *-	*-

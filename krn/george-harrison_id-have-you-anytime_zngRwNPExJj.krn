@@ -16,52 +16,52 @@
 *A:	*
 *M3/4	*
 =1	=1
-4r	A
-8cc#	.
-8cc#	.
-8b	E
-8b	.
+4r	A major
+8cc#L	.
+8cc#J	.
+8bL	E major
+8bJ	.
 =2	=2
 *M4/4	*
-4a	D
+4a	D major
 2.r	.
 =3	=3
 *M3/4	*
-4r	C
-8ee	.
-8ee	.
-8dd	G
-16ee	.
-16dd	.
+4r	C major
+8eeL	.
+8eeJ	.
+8ddL	G major
+16eeL	.
+16ddJJ	.
 =4	=4
 *M4/4	*
-4.ccn	F
-4cc#	A7
+4.ccn	F major
+4cc#	A dominant
 8r	.
-16b	.
-16cc#	.
-8dd	.
+16bLL	.
+16cc#J	.
+8ddJ	.
 =5	=5
-8dd	D
-16dd	.
+8ddL	D major
+16ddk	.
 8dd	.
 8dd	.
-16dd[	.
-8dd]	D7/C
+[16ddJk	.
+8ddL]	D dominant/C
 8.dd	.
-8.dd[	.
+[8.ddJ	.
 =6	=6
-8dd]	G/B
+8ddL]	G major/B
 8dd	.
 8dd	.
-8dd	.
-8dd	Gm/A#
+8ddJ	.
+8dd	G minor/A#
 4ff#	.
-8a[	.
+[8a	.
 =7	=7
-8a]	A
+8a]	A major
 8.r	.
-8.r	Asus4
-2r	A
+8.r	A suspended-fourth
+2r	A major
 ==	==
 *-	*-

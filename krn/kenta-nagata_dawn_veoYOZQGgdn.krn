@@ -16,22 +16,22 @@
 *D:	*
 *M4/4	*
 =1	=1
-2dd	D
+2dd	D major
 4a	.
-8aa	.
-8ff#[	.
+8aaL	.
+[8ff#J	.
 =2	=2
-1ff#]	Dm7/C
+1ff#]	D minor-seventh/C
 =3	=3
-2dd	Bm
+2dd	B minor
 4a	.
-8aa	.
-8ff#[	.
+8aaL	.
+[8ff#J	.
 =4	=4
-1ff#]	A#
+1ff#]	A# major
 =5	=5
-1dd	Dsus4
+1dd	D suspended-fourth
 =6	=6
-1ee	A7
+1ee	A dominant
 ==	==
 *-	*-

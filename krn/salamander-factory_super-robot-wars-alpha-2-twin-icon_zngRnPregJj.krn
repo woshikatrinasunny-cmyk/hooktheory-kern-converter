@@ -16,99 +16,99 @@
 *d:	*
 *M4/4	*
 =1	=1
-4dd	Dm
+4dd	D minor
 4r	.
-2dd-[	Em7b5/D
+[2dd-	E half-diminished/D
 =2	=2
 2dd-]	.
-2dd	Dm
+2dd	D minor
 =3	=3
-4ee	A/D-
+4ee	A major/D-
 4r	.
-2gg-[	D7/C
+[2gg-	D dominant/C
 =4	=4
 2gg-]	.
-4gg	Gm/B-
-4aa	D/A
+4gg	G minor/B-
+4aa	D major/A
 =5	=5
-4bb-[	E-/G
+[4bb-	E- major/G
 4bb-_	.
-2bb-_	E-/G
+2bb-_	E- major/G
 =6	=6
 4bb-]	.
 8aa	.
 8r	.
-8gg	E-/G
+8gg	E- major/G
 8r	.
 8ff	.
 8r	.
 =7	=7
 8gg	.
 8r	.
-8ff	E-/G
+8ff	E- major/G
 8r	.
 8ee-	.
 8r	.
-8dd	E-/G
+8dd	E- major/G
 8r	.
 =8	=8
 8ee-	.
 8r	.
-8dd	E-/G
+8dd	E- major/G
 8r	.
 8cc	.
 8r	.
-8b-	E-/G
+8b-	E- major/G
 8r	.
 =9	=9
-8r	A
-8a	.
+8r	A major
+8aL	.
 8b-	.
-8a	.
-8dd-	.
+8aJ	.
+8dd-L	.
 8a	.
 8dd	.
-8a	.
+8aJ	.
 =10	=10
-8ee	.
+8eeL	.
 8a	.
 8ff	.
-8a	.
-8gg	.
+8aJ	.
+8ggL	.
 8a	.
 8aa	.
-8a	.
+8aJ	.
 =11	=11
-8r	A
-8a	.
+8r	A major
+8aL	.
 8b-	.
-8a	.
-8dd-	.
+8aJ	.
+8dd-L	.
 8a	.
 8dd	.
-8a	.
+8aJ	.
 =12	=12
-8ee	.
+8eeL	.
 8a	.
 8ff	.
-8a	.
-8gg	.
+8aJ	.
+8ggL	.
 8a	.
 8aa	.
-8a	.
+8aJ	.
 =13	=13
 4bb-	.
-8aa	A
+8aa	A major
 8r	.
 4bb-	.
-8aa	A
+8aa	A major
 8r	.
 =14	=14
 4ddd-	.
-8aa	A7
+8aa	A dominant
 8r	.
 4ddd-	.
-8aa	A7
+8aa	A dominant
 8r	.
 ==	==
 *-	*-

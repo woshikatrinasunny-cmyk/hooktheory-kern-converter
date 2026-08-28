@@ -16,51 +16,51 @@
 *G:	*
 *M4/4	*
 =1	=1
-2r	Am7/C
+2r	A minor-seventh/C
 8d	.
 4e	.
-8b[	.
+[8b	.
 =2	=2
-2.b]	Gmaj7
+2.b]	G major-seventh
 8r	.
-8r	C
+8r	C major
 =3	=3
 2r	.
 8g	.
 4a	.
-8d[	.
+[8d	.
 =4	=4
-2.d]	Gmaj7
+2.d]	G major-seventh
 8r	.
-8r	Am7/C
+8r	A minor-seventh/C
 =5	=5
 2r	.
 8d	.
 4e	.
-8b[	.
+[8b	.
 =6	=6
-2.b]	Gmaj7
+2.b]	G major-seventh
 8r	.
-8r	C
+8r	C major
 =7	=7
 4.r	.
 8b	.
 4cc	.
-8b	.
-8dd[	.
+8bL	.
+[8ddJ	.
 =8	=8
-1dd]	Gmaj7
+1dd]	G major-seventh
 =9	=9
-2r	E
+2r	E major
 4b	.
-8cc	.
-8dd[	.
+8ccL	.
+[8ddJ	.
 =10	=10
-4.dd]	C
+4.dd]	C major
 8cc	.
 4b	.
-8a	.
-8cc[	Cm
+8aL	.
+[8ccJ	C minor
 =11	=11
 8cc]	.
 4cc	.
@@ -68,33 +68,33 @@
 4a	.
 4g	.
 =12	=12
-4.b	Bm
+4.b	B minor
 8a	.
 8g	.
 4f#	.
-8e[	A#dim
+[8e	A# diminished
 =13	=13
 2e]	.
 4e	.
-8f#	.
-8b[	.
+8f#L	.
+[8bJ	.
 =14	=14
-2b]	Am
+2b]	A minor
 4.r	.
-8r	D
+8r	D major
 =15	=15
 2r	.
 8g	.
 4.a	.
 =16	=16
-4r	Gmaj7
-3...d[	.
-8d]	C
+4r	G major-seventh
+[3...d	.
+8d]	C major
 =17	=17
 1r	.
 =18	=18
-2..r	Gmaj7
-8r	Am7/C
+2..r	G major-seventh
+8r	A minor-seventh/C
 =19	=19
 1r	.
 ==	==

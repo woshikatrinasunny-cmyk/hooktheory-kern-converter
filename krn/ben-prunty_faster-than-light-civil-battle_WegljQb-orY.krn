@@ -16,8 +16,8 @@
 *d:	*
 *M6/4	*
 =1	=1
-8d	.
-8f	.
+8dL	.
+8fJ	.
 8r	.
 8.a	.
 16r	.
@@ -26,8 +26,8 @@
 4f	.
 4a	.
 =2	=2
-8e	.
-8a	.
+8eL	.
+8aJ	.
 8r	.
 8.cc	.
 16r	.
@@ -36,8 +36,8 @@
 4e	.
 4b	.
 =3	=3
-8d	.
-8f	.
+8dL	.
+8fJ	.
 8r	.
 8.a	.
 16r	.
@@ -46,8 +46,8 @@
 4f	.
 4a	.
 =4	=4
-8e	.
-8a	.
+8eL	.
+8aJ	.
 8r	.
 8.cc	.
 16r	.
@@ -56,8 +56,8 @@
 4e	.
 4b	.
 =5	=5
-8d	.
-8f	.
+8dL	.
+8fJ	.
 8r	.
 8.a	.
 16r	.
@@ -66,8 +66,8 @@
 4f	.
 4a	.
 =6	=6
-8e	.
-8a	.
+8eL	.
+8aJ	.
 8r	.
 8.cc	.
 16r	.
@@ -76,8 +76,8 @@
 4e	.
 4b	.
 =7	=7
-8d	.
-8f	.
+8dL	.
+8fJ	.
 8r	.
 8.a	.
 16r	.
@@ -86,8 +86,8 @@
 4f	.
 4a	.
 =8	=8
-8e	.
-8a	.
+8eL	.
+8aJ	.
 8r	.
 8.cc	.
 16r	.
@@ -96,8 +96,8 @@
 4e	.
 4b	.
 =9	=9
-8dd	Dm
-8d	.
+8ddL	D minor
+8dJ	.
 8r	.
 8d	.
 8r	.
@@ -106,18 +106,18 @@
 4a	.
 4b	.
 =10	=10
-4cc	Am7
-8b	.
-8a	.
+4cc	A minor-seventh
+8bL	.
+8aJ	.
 8r	.
 8b	.
-8a	G
+8a	G major
 8r	.
 4g	.
 4f	.
 =11	=11
-8g	Dm
-8a	.
+8gL	D minor
+8aJ	.
 8r	.
 8a	.
 8r	.
@@ -129,49 +129,49 @@
 8a	.
 8r	.
 =12	=12
-4aa	Am7
+4aa	A minor-seventh
 4gg	.
 4ff	.
-16dd	G
-16dd	.
-8dd	.
+16ddLL	G major
+16ddJ	.
+8ddJ	.
 4ff	.
 4cc	.
 =13	=13
-4dd	Dm
+4dd	D minor
 8r	.
 4dd	.
 8dd	.
 2dd	.
-16d	.
+16dLL	.
 16a	.
 16b	.
-16cc	.
+16ccJJ	.
 =14	=14
-4dd	Am7
+4dd	A minor-seventh
 4cc	.
 4b	.
-8cc	G
-8b	.
+8ccL	G major
+8bJ	.
 8r	.
 8a	.
 8r	.
 8g	.
 =15	=15
-8a	Dm
-8bb	.
-8aa	.
-8gg	.
-8bb	.
-8aa	.
+8aL	D minor
+8bbJ	.
+8aaL	.
+8ggJ	.
+8bbL	.
+8aaJ	.
 4aa	.
 4bb	.
 4gg	.
 =16	=16
-4ddd	Am7
+4ddd	A minor-seventh
 4ccc	.
 4bb	.
-4aa	G
+4aa	G major
 4bb	.
 4gg	.
 ==	==

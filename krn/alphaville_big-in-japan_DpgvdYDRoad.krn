@@ -17,99 +17,99 @@
 *M4/4	*
 =1	=1
 2.r	.
-8a	A
-8a	A
+8aL	A major
+8aJ	A major
 =2	=2
-16a	A
-8d	Dm
+16aLK	A major
+8dJ	D minor
 6...r	.
-16b-	B-
-8f	F
+16b-LK	B- major
+8fJ	F major
 6...r	.
 =3	=3
-16cc	C
-8g	G
+16ccLK	C major
+8gJ	G major
 6...r	.
-2a	A
+2a	A major
 =4	=4
-8.a	A
-8.g	G
-8.dd	Dm
+8.aL	A major
+8.gJ	G major
+8.dd	D minor
 16r	.
-8.cc	C
+8.cc	C major
 16r	.
-8g	G
+8g	G major
 =5	=5
-4a	A
+4a	A major
 8r	.
 4.r	.
-8a	A
-8a	A
+8aL	A major
+8aJ	A major
 =6	=6
-16a	A
-8d	Dm
+16aLK	A major
+8dJ	D minor
 8r	.
 8.r	.
-16d	Dm
-8b-	B-
+16dLK	D minor
+8b-J	B- major
 8r	.
 8.r	.
 =7	=7
-16cc	C
-8g	G
+16ccLK	C major
+8gJ	G major
 8r	.
 8.r	.
-4a	A
-8a	A
-8a	A
+4a	A major
+8aL	A major
+8aJ	A major
 =8	=8
-8.a	A
-8.g	G
-8.dd	Dm
+8.aL	A major
+8.gJ	G major
+8.dd	D minor
 16r	.
-8.cc	C
+8.cc	C major
 16r	.
-8g	G
+8g	G major
 =9	=9
-8.a	A
-8.cc	C
-8.dd	Dm
+8.aL	A major
+8.ccJ	C major
+8.dd	D minor
 16r	.
-8ff	F
-8a	A
-8a	A
+8ffL	F major
+8a	A major
+8aJ	A major
 =10	=10
-16f[	A
-16f]	Dm
+[16fLL	A major
+16fJ]	D minor
 8d	.
+16cL	.
 16c	.
-16c	.
-16d	.
+16dJJ	.
 8f	.
 4..r	.
 =11	=11
-8f	B-
+8fL	B- major
 8d	.
+16cL	.
 16c	.
-16c	.
-16d	.
+16dJJ	.
 8g	.
 8.r	.
-8f	.
-8f	.
+8fL	.
+8fJ	.
 =12	=12
-8f	C
+8fL	C major
 8d	.
+16cL	.
 16c	.
-16c	.
-16d	.
+16dJJ	.
 8f	.
-8d	.
-16d	.
+8dL	.
+16dk	.
 8c	.
-8d	.
+8dJ	.
 =13	=13
-8a	A
+8a	A major
 16r	.
 8a	.
 16r	.
@@ -120,48 +120,48 @@
 16r	.
 8cc	.
 =14	=14
-8f	Dm
+8fL	D minor
 8d	.
+16cL	.
 16c	.
-16c	.
-16d	.
+16dJJ	.
 8f	.
-8d	.
-16d	.
+8dL	.
+16dk	.
 8c	.
-8d	.
+8dJ	.
 =15	=15
-8f	B-
+8fL	B- major
 8d	.
+16cL	.
 16c	.
-16c	.
-16d	.
+16dJJ	.
 8g	.
-8g	.
-16g	.
+8gL	.
+16gk	.
 8f	.
-8f	.
+8fJ	.
 =16	=16
-8f	C
+8fL	C major
 8d	.
+16cL	.
 16c	.
-16c	.
-16d	.
+16dJJ	.
 8f	.
-8d	.
-16d	.
+8dL	.
+16dk	.
 8c	.
-8d	.
+8dJ	.
 =17	=17
-8a	A
+8a	A major
 16r	.
 8a	.
 16r	.
 8a	.
-8a	.
-16g	.
+8aL	.
+16gk	.
 8cc	.
-16g	.
-8a	.
+16gk	.
+8aJ	.
 ==	==
 *-	*-

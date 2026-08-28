@@ -16,47 +16,47 @@
 *a:	*
 *M4/4	*
 =1	=1
-2r	Fmaj9
-8ee	.
-16dd	.
+2r	F major-ninth
+8eeL	.
+16ddJk	.
 16r	.
 16cc	.
 16r	.
-8g[	.
+[8g	.
 =2	=2
 8g_	.
-4.g]	Eadd(3,4,7,8,10)
-8e	.
-16d	.
+4.g]	E other-3,4,7,8,10
+8eL	.
+16dJk	.
 16r	.
 16e	.
 16r	.
 16g	.
 16r	.
 =3	=3
-16cc	Am7
+16cc	A minor-seventh
 16r	.
-8b	.
-16a	.
+8bL	.
+16aJk	.
 16r	.
 4.g	.
-8d	.
-16e	.
+8dL	.
+16eJk	.
 16r	.
 =4	=4
 8r	.
-4dd	C7
+4dd	C dominant
 16cc	.
 16r	.
 16dd	.
 16r	.
-8ee	.
-16dd	.
+8eeL	.
+16ddJk	.
 16r	.
 8cc	.
 =5	=5
-8a	Dm9
-16g	.
+8aL	D minor-ninth
+16gJk	.
 16r	.
 4cc	.
 16g	.
@@ -67,116 +67,116 @@
 16r	.
 =6	=6
 8r	.
-4dd	Eadd(3,4,7,8,10)
+4dd	E other-3,4,7,8,10
 16cc	.
 16r	.
-8gg	.
-16cc	.
+8ggL	.
+16ccJk	.
 16r	.
 16dd	.
 16r	.
 16g	.
 16r	.
 =7	=7
-8r	Am9
+8r	A minor-ninth
 16g	.
 16r	.
 16cc	.
 16r	.
-4dd	G#m9
+4dd	G# minor-ninth
 16cc	.
 16r	.
-4gg	Gm9
+4gg	G minor-ninth
 =8	=8
 8r	.
 4aa	.
 16gg	.
 16r	.
-8dd#	.
-16dd	Cadd(1,4,7,10)
+8dd#L	.
+16ddJk	C other-1,4,7,10
 16r	.
 16cc	.
 16r	.
 16g	.
 16r	.
 =9	=9
-2r	Fmaj9
-8ee	.
-16dd	.
+2r	F major-ninth
+8eeL	.
+16ddJk	.
 16r	.
 16cc	.
 16r	.
-8g[	.
+[8g	.
 =10	=10
 8g_	.
-4.g]	Eadd(3,4,7,8,10)
-8e	.
-16d	.
+4.g]	E other-3,4,7,8,10
+8eL	.
+16dJk	.
 16r	.
 16e	.
 16r	.
 16g	.
 16r	.
 =11	=11
-16cc	Am7
+16cc	A minor-seventh
 16r	.
-8b	.
-16a	.
+8bL	.
+16aJk	.
 16r	.
 4.g	.
-8gg	.
-8ee[	.
+8ggL	.
+[8eeJ	.
 =12	=12
 8ee_	.
-4.ee]	C7
+4.ee]	C dominant
 16dd	.
 16r	.
-8ee	.
-16dd	.
+8eeL	.
+16ddJk	.
 16r	.
 16cc	.
 16r	.
 =13	=13
-8a	Dm7
-16g	.
+8aL	D minor-seventh
+16gJk	.
 16r	.
-8cc[	.
-8cc]	Cadd(2,4,7)/E
+[8ccL	.
+8ccJ]	C other-2,4,7/E
 16g	.
 16r	.
 16cc	.
 16r	.
-8r	Fmaj9
-8dd[	.
+8r	F major-ninth
+[8dd	.
 =14	=14
-8dd]	.
-16cc	.
+8ddL]	.
+16ccJk	.
 8.r	.
 8dd	.
-8gg	.
-16cc	.
+8ggL	.
+16ccJk	.
 16r	.
 16dd	.
 16r	.
 16g	.
 16r	.
 =15	=15
-8r	Dm7
+8r	D minor-seventh
 16g	.
 16r	.
 16cc	.
 16r	.
-4dd	Cadd(2,4,7)/E
+4dd	C other-2,4,7/E
 16cc	.
 16r	.
-4gg	D7sus4
+4gg	D dominant-seventh-suspended-fourth
 =16	=16
 8r	.
 4aa	.
 16gg	.
 16r	.
-8dd#	.
-16dd	.
+8dd#L	.
+16ddJk	.
 16r	.
 16cc	.
 16r	.

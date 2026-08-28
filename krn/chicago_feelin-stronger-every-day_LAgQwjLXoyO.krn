@@ -15,11 +15,11 @@
 *d:	*
 *M4/4	*
 =1	=1
-4.r	Am
+4.r	A minor
 8A	.
 4a	.
-8a#	.
-8a[	.
+8a#L	.
+[8aJ	.
 =2	=2
 8a]	.
 4g	.
@@ -27,22 +27,22 @@
 4e	.
 8r	.
 =3	=3
-8f	Dm
+8f	D minor
 8r	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 8r	.
 4e	.
-8d[	.
+[8d	.
 =4	=4
 8d]	.
 2..r	.
 =5	=5
-4.r	Am
+4.r	A minor
 8A	.
 4a	.
-8a#	.
-8a[	.
+8a#L	.
+[8aJ	.
 =6	=6
 8a]	.
 4g	.
@@ -51,13 +51,13 @@
 8e	.
 6...r	.
 =7	=7
-4f	Dm
-8g	.
-8f	F
-8e	.
-8e[	.
-8e]	G
-8d[	.
+4f	D minor
+8gL	.
+8fJ	F major
+8eL	.
+[8e	.
+8e]	G major
+[8dJ	.
 =8	=8
 4d]	.
 2.r	.

@@ -16,64 +16,64 @@
 *E:	*
 *M6/4	*
 =1	=1
-1.r	Eadd(2,4,7)
+1.r	E other-2,4,7
 =2	=2
-2.r	Eadd(2,4,7)
-2.r	Eadd(2,4,7)/B
+2.r	E other-2,4,7
+2.r	E other-2,4,7/B
 =3	=3
-1.r	Eadd(2,4,7)
+1.r	E other-2,4,7
 =4	=4
-2.r	E
-4r	E/G#
-4r	F#m7
-4r	Emaj7/G#
+2.r	E major
+4r	E major/G#
+4r	F# minor-seventh
+4r	E major-seventh/G#
 =5	=5
-2.r	Aadd(2,3,7)
-2.r	Am7
+2.r	A other-2,3,7
+2.r	A minor-seventh
 =6	=6
-2.r	D
-2r	D7/A
-4r	D
+2.r	D major
+2r	D dominant/A
+4r	D major
 =7	=7
-2.r	Gmaj7
-2.r	Gmaj7/D
+2.r	G major-seventh
+2.r	G major-seventh/D
 =8	=8
-2.r	Gmaj7
-4r	Gmaj7/B
-4r	G
-4r	E7/G#
+2.r	G major-seventh
+4r	G major-seventh/B
+4r	G major
+4r	E dominant/G#
 =9	=9
-2.r	Am7
-2.r	Aadd(2,3,7)
+2.r	A minor-seventh
+2.r	A other-2,3,7
 =10	=10
-2.r	Dadd(2,4,7)
-2.r	D7
+2.r	D other-2,4,7
+2.r	D dominant
 =11	=11
-2.r	Gmaj7
-2.r	Gmaj7/D
+2.r	G major-seventh
+2.r	G major-seventh/D
 =12	=12
-2.r	Gmaj7
-4r	Gmaj7
-4r	D/F#
-4r	G7/F
+2.r	G major-seventh
+4r	G major-seventh
+4r	D major/F#
+4r	G dominant/F
 =13	=13
-1.r	Em7
+1.r	E minor-seventh
 =14	=14
-1.r	Asus2
+1.r	A suspended-second
 =15	=15
-1.r	Am7/C
+1.r	A minor-seventh/C
 =16	=16
-2.r	Dsus2
-2.r	Badd(2,4,7)
+2.r	D suspended-second
+2.r	B other-2,4,7
 =17	=17
-2.r	Esus4
-2.r	E
+2.r	E suspended-fourth
+2.r	E major
 =18	=18
-2.r	B7/D#
-2.r	B
+2.r	B dominant/D#
+2.r	B major
 =19	=19
-1.r	Dadd(2,4,7)
+1.r	D other-2,4,7
 =20	=20
-1.r	C#sus4
+1.r	C# suspended-fourth
 ==	==
 *-	*-

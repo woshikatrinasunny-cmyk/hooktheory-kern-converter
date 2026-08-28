@@ -16,25 +16,25 @@
 *d:	*
 *M6/4	*
 =1	=1
-4f	Dm
+4f	D minor
 4e	.
 4d	.
 4e	.
 4f	.
 4a	.
 =2	=2
-8g	.
-8f	.
+8gL	.
+8fJ	.
 4e	.
 4d	.
-3...c[	C
+[3...c	C major
 16c]	.
 16r	.
 =3	=3
-8e	C
-8d	.
-8c	.
-8B	.
+8eL	C major
+8dJ	.
+8cL	.
+8BJ	.
 4c	.
 4d	.
 4e	.
@@ -43,41 +43,41 @@
 4e	.
 4d	.
 4c	.
-2d	Dm
+2d	D minor
 8r	.
-16ee	.
-16ff	.
+16eeLL	.
+16ffJJ	.
 =5	=5
-4ee	Dm
+4ee	D minor
 4dd	.
 4cc	.
 4dd	.
 4ee	.
 4a	.
 =6	=6
-8ff	Dm
-8ee	.
-8dd	.
-8cc	.
+8ffL	D minor
+8eeJ	.
+8ddL	.
+8ccJ	.
 4a	.
-2g	C
+2g	C major
 4r	.
 =7	=7
-8d	C
-8e	.
-8f	.
-8e	.
-8f	.
-8g	.
+8dL	C major
+8eJ	.
+8fL	.
+8eJ	.
+8fL	.
+8gJ	.
 4cc	.
 4b	.
-8a[	.
-8a]	.
+[8aL	.
+8aJ]	.
 =8	=8
-4g	C
+4g	C major
 4cc	.
 4b	.
-2dd	Dm
+2dd	D minor
 4r	.
 ==	==
 *-	*-

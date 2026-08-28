@@ -16,43 +16,43 @@
 *A:	*
 *M4/4	*
 =1	=1
-8r	F#m
+8r	F# minor
+8cc#L	.
 8cc#	.
-8cc#	.
-8cc#	.
-4.ff#	D
+8cc#J	.
+4.ff#	D major
 8ff#	.
 =2	=2
-8ee	A
+8eeL	A major
 8ee	.
 8ee	.
-8cc#[	.
-8cc#]	E
+[8cc#J	.
+8cc#]	E major
 4b	.
 8r	.
 =3	=3
-8r	F#m
+8r	F# minor
+8cc#L	.
 8cc#	.
-8cc#	.
-8cc#	.
-8ff#	D
+8cc#J	.
+8ff#L	D major
 8ff#	.
-8ff#	.
+8ff#J	.
 8r	.
 =4	=4
-8cc#	A
-16ee	.
+8cc#L	A major
+16eek	.
 8.ee	.
-8ee	.
-8ee	.
-16ee	.
+8eeJ	.
+8eeL	.
+16eek	.
 8.ee	.
-8ee	.
+8eeJ	.
 =5	=5
-8ff#	E7
+8ff#L	E dominant
 8ee	.
 8ee	.
-8cc#	.
+8cc#J	.
 4ee	.
 4r	.
 ==	==

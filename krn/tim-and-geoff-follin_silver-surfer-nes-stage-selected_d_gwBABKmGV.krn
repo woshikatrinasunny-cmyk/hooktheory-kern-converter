@@ -16,33 +16,33 @@
 *d:	*
 *M4/4	*
 =1	=1
-1r	Am
+1r	A minor
 =2	=2
-2b-	E-m
-2dd	D
+2b-	E- minor
+2dd	D major
 =3	=3
-2ee-	Dmaj7
-2bb-	Bdim/D
+2ee-	D major-seventh
+2bb-	B diminished/D
 =4	=4
-4aa	Dm7
-8ff	.
-8ee	.
-8ff	.
+4aa	D minor-seventh
+8ffL	.
+8eeJ	.
+8ffL	.
 8gg	.
 8ff	.
-8dd	.
+8ddJ	.
 =5	=5
-8ee	Bm7b5/D
+8eeL	B half-diminished/D
 8ff	.
 8ee	.
-8ff[	.
-8ff]	Dadd(2,3,7)
-8dd	.
-4eee[	.
+[8ffJ	.
+8ffL]	D other-2,3,7
+8ddJ	.
+[4eee	.
 =6	=6
-1eee]	Dm7
+1eee]	D minor-seventh
 =7	=7
-2r	Bm7b5/D
-2r	Dadd(2,3,7)
+2r	B half-diminished/D
+2r	D other-2,3,7
 ==	==
 *-	*-

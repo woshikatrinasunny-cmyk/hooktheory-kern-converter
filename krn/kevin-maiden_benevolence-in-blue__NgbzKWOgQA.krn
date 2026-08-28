@@ -16,80 +16,80 @@
 *E-:	*
 *M4/4	*
 =1	=1
-2r	A-maj7
-4.r	Fm7/A-
-8gg[	.
+2r	A- major-seventh
+4.r	F minor-seventh/A-
+[8gg	.
 =2	=2
-2gg_	A-maj7
-8gg]	Fm7/A-
+2gg_	A- major-seventh
+8gg]	F minor-seventh/A-
 4bb-	.
-8gg[	.
+[8gg	.
 =3	=3
-2gg_	A-maj7
-8gg]	Fm7/A-
+2gg_	A- major-seventh
+8gg]	F minor-seventh/A-
 4ff	.
-8gg[	.
+[8gg	.
 =4	=4
-2gg_	A-maj7
-8gg]	Fm7/A-
+2gg_	A- major-seventh
+8gg]	F minor-seventh/A-
 4ff	.
-8dd[	.
+[8dd	.
 =5	=5
-2dd_	E-add(2,4,7)
-2dd]	E-maj7
+2dd_	E- other-2,4,7
+2dd]	E- major-seventh
 =6	=6
-2r	E-add(2,4,7)
-2r	E-maj7
+2r	E- other-2,4,7
+2r	E- major-seventh
 =7	=7
-2r	E-add(2,4,7)
-2r	E-maj7
+2r	E- other-2,4,7
+2r	E- major-seventh
 =8	=8
-4.r	E-add(2,4,7)
-8ff[	.
-8ff]	E-maj7
+4.r	E- other-2,4,7
+[8ff	.
+8ff]	E- major-seventh
 4ff	.
 8ff	.
 =9	=9
-2ff[	A-maj7
-4.ff]	Fm7/A-
-8ff[	.
+[2ff	A- major-seventh
+4.ff]	F minor-seventh/A-
+[8ff	.
 =10	=10
-2ff_	A-maj7
-8ff]	Fm7/A-
+2ff_	A- major-seventh
+8ff]	F minor-seventh/A-
 4ee-	.
-8ff[	.
+[8ff	.
 =11	=11
-2ff_	A-maj7
-8ff]	Fm7/A-
+2ff_	A- major-seventh
+8ff]	F minor-seventh/A-
 4dd	.
-8ff[	.
+[8ff	.
 =12	=12
-2ff_	A-maj7
-8ff]	Fm7/A-
+2ff_	A- major-seventh
+8ffL]	F minor-seventh/A-
 8ee-	.
 8ee-	.
-8ff[	.
+[8ffJ	.
 =13	=13
-8ff]	E-add(2,4,7)
-4.dd[	.
-2dd]	E-maj7
+8ff]	E- other-2,4,7
+[4.dd	.
+2dd]	E- major-seventh
 =14	=14
-2r	E-add(2,4,7)
-2r	E-maj7
+2r	E- other-2,4,7
+2r	E- major-seventh
 =15	=15
-2r	E-add(2,4,7)
-2r	E-maj7
+2r	E- other-2,4,7
+2r	E- major-seventh
 =16	=16
-8r	E-add(2,4,7)
-16E-	.
-16B-	.
+8r	E- other-2,4,7
+16E-LL	.
+16B-JJ	.
 16r	.
-16G	.
+16GLL	.
 16F	.
-16E-	.
-16F	.
-16E-	.
-8C	.
+16E-JJ	.
+16FLL	.
+16E-J	.
+8CJ	.
 4c	.
 ==	==
 *-	*-

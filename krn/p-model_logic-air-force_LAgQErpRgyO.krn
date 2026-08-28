@@ -16,7 +16,7 @@
 *F#:	*
 *M4/4	*
 =1	=1
-2.f#	F#
+2.f#	F# major
 4c#	.
 =2	=2
 2.a#	.
@@ -24,21 +24,21 @@
 =3	=3
 1f#	.
 =4	=4
-2dn	D
-2en	E
+2dn	D major
+2en	E major
 =5	=5
-2.f#	F#
+2.f#	F# major
 4c#	.
 =6	=6
 2.a#	.
 4c#	.
 =7	=7
-1cn	Gadd(5,9,11)/E
+1cn	G other-5,9,11/E
 =8	=8
-2dn	D
-2en	E
+2dn	D major
+2en	E major
 =9	=9
-2.f#	F#
+2.f#	F# major
 4c#	.
 =10	=10
 2.a#	.
@@ -46,18 +46,18 @@
 =11	=11
 1f#	.
 =12	=12
-2dn	D
-2en	E
+2dn	D major
+2en	E major
 =13	=13
-2.f#	F#
+2.f#	F# major
 4c#	.
 =14	=14
 2.a#	.
 4c#	.
 =15	=15
-1cn	Gadd(5,9,11)/E
+1cn	G other-5,9,11/E
 =16	=16
-2dn	D
-2en	E
+2dn	D major
+2en	E major
 ==	==
 *-	*-

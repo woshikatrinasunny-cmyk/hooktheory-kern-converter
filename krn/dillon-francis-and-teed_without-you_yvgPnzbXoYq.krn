@@ -16,60 +16,60 @@
 *f:	*
 *M4/4	*
 =1	=1
-8.e-	Fm7
-8.e-	A-maj7/G
-8.d	Dm7b5/F
-8.d	Dm7b5/F
-8.B-	Fsus4
-16B-[	E-/B-
+8.e-L	F minor-seventh
+8.e-J	A- major-seventh/G
+8.d	D half-diminished/F
+8.dL	D half-diminished/F
+8.B-	F suspended-fourth
+[16B-Jk	E- major/B-
 =2	=2
-8B-]	.
-8.B-	E-/B-
-8.E-	E-/B-
-8.F	B-
-8.F	B-
-8E-[	E-/G
+8B-L]	.
+8.B-	E- major/B-
+8.E-J	E- major/B-
+8.FL	B- major
+8.F	B- major
+[8E-J	E- major/G
 =3	=3
-16E-]	.
-8.B-	Cm7
-8.B-	Cm7
-8.c	Cm
-8.c	Cm
-8.D	Cadd(2,3,7)
+16E-LK]	.
+8.B-	C minor-seventh
+8.B-J	C minor-seventh
+8.c	C minor
+8.cL	C minor
+8.DJ	C other-2,3,7
 =4	=4
-8.D	Gm7
-8.D	Gm7
-8.D	Gm7
-8.E-	E-/G
-8.G	E-maj7/D
-16B-[	Gm7/B-
+8.DL	G minor-seventh
+8.DJ	G minor-seventh
+8.D	G minor-seventh
+8.E-L	E- major/G
+8.G	E- major-seventh/D
+[16B-Jk	G minor-seventh/B-
 =5	=5
-8B-]	.
-8.d	Dm7b5/F
-8.e-	A-maj7/G
-8.d	Dm7b5/F
-8.B-	Fsus4
-8G[	Fadd(2,3,7)
+8B-L]	.
+8.d	D half-diminished/F
+8.e-J	A- major-seventh/G
+8.dL	D half-diminished/F
+8.B-	F suspended-fourth
+[8GJ	F other-2,3,7
 =6	=6
-16G]	.
-8.F	B-sus4
-8.G	E-/B-
-8.F	B-sus4
-8.G	E-/B-
-8.B-	B-
+16GLK]	.
+8.F	B- suspended-fourth
+8.GJ	E- major/B-
+8.F	B- suspended-fourth
+8.GL	E- major/B-
+8.B-J	B- major
 =7	=7
-8.E-	Cm7
-8.B-	Cm7
-8.B-	Cm7
-8.c	Cm
-8.c	Cm
-16D[	Cadd(2,3,7)
+8.E-L	C minor-seventh
+8.B-J	C minor-seventh
+8.B-	C minor-seventh
+8.cL	C minor
+8.c	C minor
+[16DJk	C other-2,3,7
 =8	=8
-8D]	.
-8.D	Cadd(2,3,7)
-8.G	Cm
-8.B-	Cm7
-8.c	Cm
-8B-	Cm7
+8DL]	.
+8.D	C other-2,3,7
+8.GJ	C minor
+8.B-L	C minor-seventh
+8.c	C minor
+8B-J	C minor-seventh
 ==	==
 *-	*-

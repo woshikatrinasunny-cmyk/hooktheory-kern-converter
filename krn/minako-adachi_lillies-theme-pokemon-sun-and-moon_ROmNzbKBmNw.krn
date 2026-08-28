@@ -16,55 +16,55 @@
 *E-:	*
 *M3/4	*
 =1	=1
-2.dd[	E-
+[2.dd	E- major
 =2	=2
-4dd]	E-m
-8cc	.
-8dd	.
-8ee-	.
-8ff	.
+4dd]	E- minor
+8ccL	.
+8ddJ	.
+8ee-L	.
+8ffJ	.
 =3	=3
-4dd	Gm
+4dd	G minor
 4..an	.
 16g	.
 =4	=4
-2an	G-add(3,8)
+2an	G- other-3,8
 8r	.
 8an	.
 =5	=5
-4f	Fm7
+4f	F minor-seventh
 4g	.
 4a-	.
 =6	=6
-8g	G7
-8a-	.
-8b-	.
-8cc	.
-8dd	.
-8ee-	.
+8gL	G dominant
+8a-J	.
+8b-L	.
+8ccJ	.
+8ddL	.
+8ee-J	.
 =7	=7
-4ff	D-m7
-2a-[	.
+4ff	D- minor-seventh
+[2a-	.
 =8	=8
-4a-]	B7
-8bn	.
-8b-	.
-8bn	.
-8dd-	.
+4a-]	B dominant
+8bnL	.
+8b-J	.
+8bnL	.
+8dd-J	.
 =9	=9
-2.dd[	E-
+[2.dd	E- major
 =10	=10
-4dd]	E-m
-8cc	.
-8dd	.
-8ee-	.
-8ff	.
+4dd]	E- minor
+8ccL	.
+8ddJ	.
+8ee-L	.
+8ffJ	.
 =11	=11
-8g	Gm
-8an	.
+8gL	G minor
+8anJ	.
 4b-	.
 4dd	.
 =12	=12
-2.aan	G-add(3,8)
+2.aan	G- other-3,8
 ==	==
 *-	*-

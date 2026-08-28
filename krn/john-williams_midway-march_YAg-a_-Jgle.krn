@@ -16,10 +16,10 @@
 *B-:	*
 *M6/4	*
 =1	=1
-2.f	B-
+2.f	B- major
 2.b-	.
 =2	=2
-1f[	.
+[1f	.
 4f]	.
 4b-	.
 =3	=3
@@ -35,35 +35,35 @@
 2.f	.
 2.b-	.
 =6	=6
-2.b-	E-/B-
+2.b-	E- major/B-
 2.g	.
 =7	=7
-2f	B-
+2f	B- major
 4e-	.
-2.d[	.
+[2.d	.
 =8	=8
 2.d]	.
-4f	F/C
+4f	F major/C
 4f	.
 4f	.
 =9	=9
-2.f	B-
+2.f	B- major
 2.b-	.
 =10	=10
-1f[	.
+[1f	.
 4f]	.
 4b-	.
 =11	=11
-2dd	B-/F
+2dd	B- major/F
 4ee-	.
 2dd	.
 4cc	.
 =12	=12
-2.b-	E-/B-
+2.b-	E- major/B-
 2f	.
 4e-	.
 =13	=13
-2.d	B-
+2.d	B- major
 2.f	.
 =14	=14
 2.dd	.
@@ -71,7 +71,7 @@
 4cc	.
 4b-	.
 =15	=15
-2cc	F
+2cc	F major
 4a	.
 2.f	.
 =16	=16

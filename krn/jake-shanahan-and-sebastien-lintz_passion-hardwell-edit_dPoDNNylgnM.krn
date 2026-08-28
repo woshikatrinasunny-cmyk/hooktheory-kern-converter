@@ -16,166 +16,166 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.d	Bm
-8.d	Bm
-8.e	C
-8.e	C
-8.e	C
-16e[	C
+8.dL	B minor
+8.dJ	B minor
+8.e	C major
+8.eL	C major
+8.e	C major
+[16eJk	C major
 =2	=2
-8e]	.
-8.e	C
-8.e	C
-8.e	C
-8.e	C
-8e	C
+8eL]	.
+8.e	C major
+8.eJ	C major
+8.eL	C major
+8.e	C major
+8eJ	C major
 =3	=3
-4g	Em
-4g	Em
-4g	Em
-8.a	Gadd(2,4,7)
-16e[	C
+4g	E minor
+4g	E minor
+4g	E minor
+8.aL	G other-2,4,7
+[16eJk	C major
 =4	=4
-8e]	.
-8.e	C
-8.g	G/D
-8.g	G/D
-8.a	Gadd(2,4,7)
-8b	G/D
+8eL]	.
+8.e	C major
+8.gJ	G major/D
+8.gL	G major/D
+8.a	G other-2,4,7
+8bJ	G major/D
 =5	=5
-8.d	Bm
-8.d	Bm
-8.e	C
-8.e	C
-8.e	C
-16e[	C
+8.dL	B minor
+8.dJ	B minor
+8.e	C major
+8.eL	C major
+8.e	C major
+[16eJk	C major
 =6	=6
-8e]	.
-8.e	C
-8.e	C
-8.e	C
-8.e	C
-8e	C
+8eL]	.
+8.e	C major
+8.eJ	C major
+8.eL	C major
+8.e	C major
+8eJ	C major
 =7	=7
-4g	Em
-4g	Em
-4g	Em
-8.a	Gadd(2,4,7)
-16e[	C
+4g	E minor
+4g	E minor
+4g	E minor
+8.aL	G other-2,4,7
+[16eJk	C major
 =8	=8
-8e]	.
-8.e	C
-8.g	G/D
-8.g	G/D
-8.a	Gadd(2,4,7)
-8b	G/D
+8eL]	.
+8.e	C major
+8.gJ	G major/D
+8.gL	G major/D
+8.a	G other-2,4,7
+8bJ	G major/D
 =9	=9
-8.d	Bm
-8.d	Bm
-8.e	C
-8.e	C
-8.e	C
-16e[	C
+8.dL	B minor
+8.dJ	B minor
+8.e	C major
+8.eL	C major
+8.e	C major
+[16eJk	C major
 =10	=10
-8e]	.
-8.e	C
-8.e	C
-8.e	C
-8.e	C
-8e	C
+8eL]	.
+8.e	C major
+8.eJ	C major
+8.eL	C major
+8.e	C major
+8eJ	C major
 =11	=11
-4g	Em
-4g	Em
-4g	Em
-8.a	Gadd(2,4,7)
-16e[	C
+4g	E minor
+4g	E minor
+4g	E minor
+8.aL	G other-2,4,7
+[16eJk	C major
 =12	=12
-8e]	.
-8.e	C
-8.g	G/D
-8.g	G/D
-8.a	Gadd(2,4,7)
-8b	G/D
+8eL]	.
+8.e	C major
+8.gJ	G major/D
+8.gL	G major/D
+8.a	G other-2,4,7
+8bJ	G major/D
 =13	=13
-8.d	Bm
-8.d	Bm
-8.e	C
-8.e	C
-8.e	C
-16e[	C
+8.dL	B minor
+8.dJ	B minor
+8.e	C major
+8.eL	C major
+8.e	C major
+[16eJk	C major
 =14	=14
-8e]	.
-8.e	C
-8.e	C
-8.e	C
-8.e	C
-8e	C
+8eL]	.
+8.e	C major
+8.eJ	C major
+8.eL	C major
+8.e	C major
+8eJ	C major
 =15	=15
-4g	Em
-4g	Em
-4g	Em
-8.a	Gadd(2,4,7)
-16e[	C
+4g	E minor
+4g	E minor
+4g	E minor
+8.aL	G other-2,4,7
+[16eJk	C major
 =16	=16
-8e]	.
-8.e	C
-8.g	G/D
-8.g	G/D
-8.a	Gadd(2,4,7)
-8b	G/D
+8eL]	.
+8.e	C major
+8.gJ	G major/D
+8.gL	G major/D
+8.a	G other-2,4,7
+8bJ	G major/D
 =17	=17
-8.d	Bm
-8.d	Bm
-8.e	Cadd(2,4,7)
-8.e	Cadd(2,4,7)
-8.e	C
-16e[	C
+8.dL	B minor
+8.dJ	B minor
+8.e	C other-2,4,7
+8.eL	C other-2,4,7
+8.e	C major
+[16eJk	C major
 =18	=18
-8e]	.
-8.e	Cmaj7
-8.e	Cmaj7
-8.e	Cmaj7
-8.e	Cmaj7
-8e	Cmaj7
+8eL]	.
+8.e	C major-seventh
+8.eJ	C major-seventh
+8.eL	C major-seventh
+8.e	C major-seventh
+8eJ	C major-seventh
 =19	=19
-4g	Em7
-4g	Em7
-4g	Em7
-8.a	Em/G
-16e[	Cmaj7
+4g	E minor-seventh
+4g	E minor-seventh
+4g	E minor-seventh
+8.aL	E minor/G
+[16eJk	C major-seventh
 =20	=20
-8e]	.
-8.e	Cmaj7
-8.g	G/D
-8.g	G/D
-8.a	Em/G
-8b	Gmaj7/D
+8eL]	.
+8.e	C major-seventh
+8.gJ	G major/D
+8.gL	G major/D
+8.a	E minor/G
+8bJ	G major-seventh/D
 =21	=21
-8.d	Bm
-8.d	Bm
-8.e	Cadd(2,4,7)
-8.e	Cadd(2,4,7)
-8.e	C
-16e[	C
+8.dL	B minor
+8.dJ	B minor
+8.e	C other-2,4,7
+8.eL	C other-2,4,7
+8.e	C major
+[16eJk	C major
 =22	=22
-8e]	.
-8.e	Cmaj7
-8.e	Cmaj7
-8.e	Cmaj7
-8.e	Cmaj7
-8e	Cmaj7
+8eL]	.
+8.e	C major-seventh
+8.eJ	C major-seventh
+8.eL	C major-seventh
+8.e	C major-seventh
+8eJ	C major-seventh
 =23	=23
-4g	Em7
-4g	Em7
-4g	Em7
-8.a	Em/G
-16e[	Cmaj7
+4g	E minor-seventh
+4g	E minor-seventh
+4g	E minor-seventh
+8.aL	E minor/G
+[16eJk	C major-seventh
 =24	=24
-8e]	.
-8.e	Cmaj7
-8.g	G/D
-8.g	G/D
-8.a	Em/G
-8b	Gmaj7/D
+8eL]	.
+8.e	C major-seventh
+8.gJ	G major/D
+8.gL	G major/D
+8.a	E minor/G
+8bJ	G major-seventh/D
 ==	==
 *-	*-

@@ -16,72 +16,72 @@
 *F:	*
 *M4/4	*
 =1	=1
-8f	F
-16a	.
+8fL	F major
+16ak	.
 8a	.
 8a	.
-16a	.
-8b-	F
-16a	.
+16aJk	.
+8b-L	F major
+16ak	.
 8g	.
-8.f[	.
+[8.fJ	.
 =2	=2
-8f]	Em7b5
+8fL]	E half-diminished
 8a	.
 8g	.
-8g[	.
-2g]	A7
+[8gJ	.
+2g]	A dominant
 =3	=3
-8r	B-maj7
-16f	.
+8r	B- major-seventh
+16fLK	.
 8e	.
 8f	.
-16e	.
-8.g	C7/B-
-16f	.
-4e[	.
+16eJk	.
+8.gL	C dominant/B-
+16fJk	.
+[4e	.
 =4	=4
-8e]	Am7
-16d	.
+8eL]	A minor-seventh
+16dk	.
 8e	.
-8.c[	.
-4c_	D7sus2
-4c]	D7
+[8.cJ	.
+4c_	D dominant-seventh-suspended-second
+4c]	D dominant
 =5	=5
-8r	Gm7
-16b-	.
+8r	G minor-seventh
+16b-LK	.
 8b-	.
 8b-	.
-16a	.
-8g	C7
-16e	.
+16aJk	.
+8gL	C dominant
+16eJk	.
 4f	.
 16g	.
 =6	=6
-8g	Fadd(2,4,7)
-16a	.
+8gL	F other-2,4,7
+16ak	.
 8a	.
 8b-	.
-16a[	.
-8a]	B-maj7
-16g	.
+[16aJk	.
+8aL]	B- major-seventh
+16gL	.
 16f	.
-16e	.
-8.d[	.
+16eJ	.
+[8.dJ	.
 =7	=7
-8d]	Gm7
+8dL]	G minor-seventh
 8d	.
-16e	.
+16eL	.
 16f	.
 16d	.
-16f[	.
-8.f]	B-
-16d	.
-16f	C
+[16fJJ	.
+8.fL]	B- major
+16dL	.
+16fJ	C major
 8g	.
-16a[	.
+[16aJk	.
 =8	=8
-2a_	D7sus2
-2a]	D7
+2a_	D dominant-seventh-suspended-second
+2a]	D dominant
 ==	==
 *-	*-

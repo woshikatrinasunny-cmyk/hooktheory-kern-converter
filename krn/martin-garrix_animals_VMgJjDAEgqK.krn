@@ -16,232 +16,232 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8b-	E-m
-16f	.
-16g-	.
-8b-	Fdim
-16f	.
-16g-	.
-16b-	Ddim
+8b-L	E- minor
+16fL	.
+16g-J	.
+8b-	F diminished
+16fL	.
+16g-JJ	.
+16b-LL	D diminished
 16c-	.
 16dd	.
 16b-	.
-16ee-	G-aug
+16ee-	G- augmented
 16dd	.
 16ee-	.
-16ff	.
+16ffJJ	.
 =2	=2
-8b-	C-
+8b-L	C- major
 8b-	.
-16f	Fdim
+16fL	F diminished
 16g-	.
 16b-	.
-16f	.
-16ee-	B-
+16fJJ	.
+16ee-LL	B- major
 16dd	.
-16c-	B-
+16c-	B- major
 16b-	.
-16f	C-
+16f	C- major
 16d	.
-16e-	Ddim
-16f	.
+16e-	D diminished
+16fJJ	.
 =3	=3
-8b-	E-m
-16f	.
-16g-	.
-8b-	Fdim
-16f	.
-16g-	.
-16b-	Ddim
+8b-L	E- minor
+16fL	.
+16g-J	.
+8b-	F diminished
+16fL	.
+16g-JJ	.
+16b-LL	D diminished
 16b-	.
 16c-	.
 16dd	.
-16b-	G-aug
+16b-	G- augmented
 16f	.
 16g-	.
-16f	.
+16fJJ	.
 =4	=4
-8b-	C-
-16b-	.
+8b-L	C- major
+16b-L	.
 16a-	.
-16b-	Fdim
+16b-	F diminished
 16f	.
 16g-	.
-16b-	.
-16ee-	B-
+16b-JJ	.
+16ee-LL	B- major
 16dd	.
-16ee-	B-
-16ff	.
-8b-	C-
-8a-	Ddim
+16ee-	B- major
+16ffJ	.
+8b-	C- major
+8a-J	D diminished
 =5	=5
-8b-	E-m
-16f	.
-16g-	.
-8b-	Fdim
-16f	.
-16g-	.
-16b-	Ddim
+8b-L	E- minor
+16fL	.
+16g-J	.
+8b-	F diminished
+16fL	.
+16g-JJ	.
+16b-LL	D diminished
 16c-	.
 16dd	.
 16b-	.
-16ee-	G-aug
+16ee-	G- augmented
 16dd	.
 16ee-	.
-16ff	.
+16ffJJ	.
 =6	=6
-8b-	C-
+8b-L	C- major
 8b-	.
-16f	Fdim
+16fL	F diminished
 16g-	.
 16b-	.
-16f	.
-16ee-	B-
+16fJJ	.
+16ee-LL	B- major
 16dd	.
-16c-	B-
+16c-	B- major
 16b-	.
-16f	C-
+16f	C- major
 16d	.
-16e-	Ddim
-16f	.
+16e-	D diminished
+16fJJ	.
 =7	=7
-8b-	E-m
-16f	.
-16g-	.
-8b-	Fdim
-16f	.
-16g-	.
-16b-	Ddim
+8b-L	E- minor
+16fL	.
+16g-J	.
+8b-	F diminished
+16fL	.
+16g-JJ	.
+16b-LL	D diminished
 16b-	.
 16c-	.
 16dd	.
-16b-	G-aug
+16b-	G- augmented
 16f	.
 16g-	.
-16f	.
+16fJJ	.
 =8	=8
-8b-	C-
-16b-	.
+8b-L	C- major
+16b-L	.
 16a-	.
-16b-	Fdim
+16b-	F diminished
 16f	.
 16g-	.
-16b-	.
-16ee-	B-
+16b-JJ	.
+16ee-LL	B- major
 16dd	.
-16ee-	B-
-16ff	.
-8b-	C-
-8c-	Ddim
+16ee-	B- major
+16ffJ	.
+8b-	C- major
+8c-J	D diminished
 =9	=9
-8ff	E-m
+8ffL	E- minor
 8gg-	.
-16dd-	Fdim
+16dd-k	F diminished
 8dd	.
-16b-	.
-16dd-	Ddim
-16c-	.
+16b-Jk	.
+16dd-LL	D diminished
+16c-J	.
 8b-	.
-8b-	G-aug
-8c-	.
+8b-	G- augmented
+8c-J	.
 =10	=10
-8dd-	C-
-16dd-	.
+8dd-L	C- major
+16dd-L	.
 16c-	.
-16b-	Fdim
+16b-	F diminished
 16c-	.
 16dd	.
-16ff	.
-16gg-	B-
+16ffJJ	.
+16gg-LL	B- major
 16dd	.
-16ff	B-
+16ff	B- major
 16c-	.
-16dd-	C-
+16dd-	C- major
 16b-	.
-16c-	Ddim
-16b-	.
+16c-	D diminished
+16b-JJ	.
 =11	=11
-8dd	E-m
+8ddL	E- minor
 8ff	.
-16gg-	Fdim
+16gg-L	F diminished
 16dd	.
 16ff	.
-16c-	.
-16dd	Ddim
+16c-JJ	.
+16ddLL	D diminished
 16b-	.
 16ccn	.
 16dd	.
-16dd-	G-aug
+16dd-	G- augmented
 16c-	.
 16b-	.
-16c-	.
+16c-JJ	.
 =12	=12
-8dd-	C-
-16b-	.
+8dd-L	C- major
+16b-L	.
 16c-	.
-16dd	Fdim
+16dd	F diminished
 16ff	.
 16c-	.
-16dd-	.
-16c-	B-
-16b-	.
-8c-	B-
-8b-	C-
-8c-	Ddim
+16dd-JJ	.
+16c-LL	B- major
+16b-J	.
+8c-	B- major
+8b-	C- major
+8c-J	D diminished
 =13	=13
-8ff	E-m
+8ffL	E- minor
 8gg-	.
-16dd-	Fdim
+16dd-k	F diminished
 8dd	.
-16b-	.
-16dd-	Ddim
-16c-	.
+16b-Jk	.
+16dd-LL	D diminished
+16c-J	.
 8b-	.
-8b-	G-aug
-8c-	.
+8b-	G- augmented
+8c-J	.
 =14	=14
-8dd-	C-
-16dd-	.
+8dd-L	C- major
+16dd-L	.
 16c-	.
-16b-	Fdim
+16b-	F diminished
 16c-	.
 16dd	.
-16ff	.
-16gg-	B-
+16ffJJ	.
+16gg-LL	B- major
 16dd	.
-16ff	B-
+16ff	B- major
 16c-	.
-16dd-	C-
+16dd-	C- major
 16b-	.
-16c-	Ddim
-16b-	.
+16c-	D diminished
+16b-JJ	.
 =15	=15
-8dd	E-m
+8ddL	E- minor
 8ff	.
-16gg-	Fdim
+16gg-L	F diminished
 16dd	.
 16ff	.
-16c-	.
-16dd	Ddim
+16c-JJ	.
+16ddLL	D diminished
 16b-	.
 16ccn	.
 16dd	.
-16dd-	G-aug
+16dd-	G- augmented
 16c-	.
 16b-	.
-16c-	.
+16c-JJ	.
 =16	=16
-8dd-	C-
-16b-	.
+8dd-L	C- major
+16b-L	.
 16c-	.
-16dd	Fdim
+16dd	F diminished
 16ff	.
 16c-	.
-16dd-	.
-16c-	B-
-16b-	.
-8c-	B-
-8b-	B-
-8b-	.
+16dd-JJ	.
+16c-LL	B- major
+16b-J	.
+8c-	B- major
+8b-	B- major
+8b-J	.
 ==	==
 *-	*-

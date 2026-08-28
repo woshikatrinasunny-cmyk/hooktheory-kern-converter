@@ -16,12 +16,12 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.g#	E
+4.g#	E major
 8f#	.
+8eL	.
 8e	.
-8e	.
 8f#	.
-8f#	.
+8f#J	.
 =2	=2
 4g#	.
 4f#	.
@@ -30,58 +30,58 @@
 =3	=3
 4.g#	.
 8f#	.
-8e	.
+8eL	.
 8e	.
 8f#	.
-8f#	.
+8f#J	.
 =4	=4
 4g#	.
 4f#	.
 4g#	.
 4b	.
 =5	=5
-4.a	F#m
+4.a	F# minor
 8g#	.
+8f#L	.
 8f#	.
-8f#	.
 8g#	.
-8g#	.
+8g#J	.
 =6	=6
-4.a	F#m7
+4.a	F# minor-seventh
 8g#	.
+8f#L	.
 8f#	.
-8f#	.
 8g#	.
-8g#	.
+8g#J	.
 =7	=7
-4.a	F#m
+4.a	F# minor
 8g#	.
 4f#	.
 4g#	.
 =8	=8
-4a	F#m7
+4a	F# minor-seventh
 4b	.
 4cc#	.
 4dd#	.
 =9	=9
-4.ee	A
+4.ee	A major
 8dd#	.
+8cc#L	.
 8cc#	.
-8cc#	.
 8dd#	.
-8dd#	.
+8dd#J	.
 =10	=10
-4.ee	Amaj7
+4.ee	A major-seventh
 8dd#	.
 4cc#	.
 4dd#	.
 =11	=11
-4ee	B9
+4ee	B dominant-ninth
 4dd#	.
 4dd#	.
 4cc#	.
 =12	=12
-4cc#	B7
+4cc#	B dominant
 4b	.
 4b	.
 4a	.

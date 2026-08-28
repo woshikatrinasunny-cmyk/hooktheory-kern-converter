@@ -19,90 +19,90 @@
 2...r	.
 16c#	.
 =2	=2
-8e	A
+8e	A major
 8r	.
-4r	A
-4r	A
-8r	A
+4r	A major
+4r	A major
+8r	A major
 8c#	.
 =3	=3
-8.f#	C#m
-16e	.
-16f#	C#m
+8.f#L	C# minor
+16eL	.
+16f#JJ	C# minor
 8.r	.
-4r	C#m
-8r	C#m
-16c#	.
-16e	.
+4r	C# minor
+8r	C# minor
+16c#LL	.
+16eJJ	.
 =4	=4
-16f#	C#dim
+16f#LL	C# diminished
 16e	.
 16c#	.
-16e[	.
-16e]	C#dim
+[16e	.
+16eJJ]	C# diminished
 8.r	.
-8.r	C#dim
-16A[	.
-16A]	C#dim
+8.r	C# diminished
+[16ALL	.
+16A]	C# diminished
 16c#	.
 16e	.
-16c#	.
+16c#JJ	.
 =5	=5
-8f#	A7
-16e	.
-16e[	.
-16e]	A7
-16d	.
-8d	.
-16c#	A#dim
+8f#L	A dominant
+16eL	.
+[16e	.
+16e]	A dominant
+16dJ	.
+8dJ	.
+16c#LK	A# diminished
 8c#	.
-16B	.
-8B	A#dim
-16A#	.
-16B[	.
+16Bk	.
+8B	A# diminished
+16A#L	.
+[16BJJ	.
 =6	=6
-16B]	Bm
+16B]	B minor
 8.r	.
-16r	Bm
+16r	B minor
+16BLL	.
 16B	.
-16B	.
-16c#	.
-8e	E
+16c#JJ	.
+8e	E major
 8r	.
-4r	E
+4r	E major
 =7	=7
-8r	Bm
+8r	B minor
 8B	.
-16r	Bm
-16B	.
+16r	B minor
+16BLL	.
 16c#	.
-16e[	.
-16e]	C#m
+[16eJJ	.
+16eLL]	C# minor
 16f#	.
 16e	.
-16c#[	.
-8c#]	C#m
+[16c#J	.
+8c#J]	C# minor
 8r	.
 =8	=8
-8.r	D
-16A	.
-8c#	D
-16e	.
-16f#[	.
-8f#]	E
-8e[	.
-16e]	E
-16A	.
-8c#	.
+8.r	D major
+16ALK	.
+8c#	D major
+16eL	.
+[16f#JJ	.
+8f#L]	E major
+[8e	.
+16eL]	E major
+16AJ	.
+8c#J	.
 =9	=9
-4.c#[	Amaj7
-4c#]	Amaj7
+[4.c#	A major-seventh
+4c#]	A major-seventh
 4r	.
 8c#	.
 =10	=10
-8c#	Dmaj7
-16B	.
-8.A	.
-3...r	Dmaj7
+8c#L	D major-seventh
+16Bk	.
+8.AJ	.
+3...r	D major-seventh
 ==	==
 *-	*-

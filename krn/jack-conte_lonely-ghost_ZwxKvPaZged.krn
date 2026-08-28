@@ -16,58 +16,58 @@
 *b:	*
 *M4/4	*
 =1	=1
-4b	B
-4.a[	.
-4a_	Badd(2,4,7)
-8a]	Gadd(2,4,7)
+4b	B major
+[4.a	.
+4a_	B other-2,4,7
+8a]	G other-2,4,7
 =2	=2
 8r	.
 4fn	.
 4fn	.
+8fnL	.
 8fn	.
-8fn	.
-8f#	.
+8f#J	.
 =3	=3
-8r	D
-8e	.
+8r	D major
+8eL	.
 8f#	.
-8e	.
-8f#	.
-8f#	.
+8eJ	.
+8f#L	.
+8f#J	.
 8r	.
-8b[	Cadd(2,4,7)
+[8b	C other-2,4,7
 =4	=4
-8b]	.
-8a	.
+8bL]	.
+8aJ	.
 8r	.
 4e	.
+8eL	.
 8e	.
-8e	.
-8b[	.
+[8bJ	.
 =5	=5
-4b]	B
-4.a[	Badd(4,5,7)
-4a]	Badd(2,4,7)
-8r	Gadd(2,4,7)
+4b]	B major
+[4.a	B other-4,5,7
+4a]	B other-2,4,7
+8r	G other-2,4,7
 =6	=6
 8r	.
 4fn	.
 8.fn	.
-8.fn	.
+8.fnL	.
 8fn	.
-8f#	.
+8f#J	.
 =7	=7
-8r	D
-8e	.
+8r	D major
+8eL	.
 8f#	.
-8e	.
-8f#	.
-8f#	Dadd(2,4,7)
+8eJ	.
+8f#L	.
+8f#J	D other-2,4,7
 8r	.
-8b[	Cadd(2,4,7,9,11)
+[8b	C other-2,4,7,9,11
 =8	=8
-8b]	.
-8a	.
+8bL]	.
+8aJ	.
 8r	.
 4e	.
 8e	.

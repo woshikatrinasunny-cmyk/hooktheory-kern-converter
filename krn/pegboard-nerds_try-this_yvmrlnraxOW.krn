@@ -16,25 +16,25 @@
 *g#:	*
 *M4/4	*
 =1	=1
-2g#	G#m
-8b	.
+2g#	G# minor
+8bL	.
 8g#	.
 8dd#	.
-8ddn[	A#/D
+[8ddnJ	A# major/D
 =2	=2
 8ddn]	.
 4ddn	.
 8ddn	.
-8cc#	.
+8cc#L	.
 8d#	.
 8e#	.
-8f#	.
+8f#J	.
 =3	=3
-2g#	G#m
-8b	.
+2g#	G# minor
+8bL	.
 8g#	.
 8dd#	.
-8ddn[	A#/D
+[8ddnJ	A# major/D
 =4	=4
 8ddn]	.
 4ddn	.
@@ -42,27 +42,27 @@
 8cc#	.
 4.E#	.
 =5	=5
-2g#	G#m
-8b	.
-8g#	.
+2g#	G# minor
+8bL	.
+8g#J	.
 4dd#	.
 =6	=6
-4ddn	A#/D
-8ddn	.
-8ddn	.
-8cc#	.
+4ddn	A# major/D
+8ddnL	.
+8ddnJ	.
+8cc#L	.
 8d#	.
 8e#	.
-8f#	.
+8f#J	.
 =7	=7
-8r	D
+8r	D major
 8dn	.
 8r	.
 8dn	.
 8dn	.
 4.dn	.
 =8	=8
-8r	C#
+8r	C# major
 8c#	.
 8r	.
 8c#	.

@@ -15,133 +15,133 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4r	E-add(2,4,7)
+4r	E- other-2,4,7
 8g	.
 16r	.
-16a-[	.
-8a-]	E-
-16g	.
+[16a-	.
+8a-L]	E- major
+16gk	.
 8f	.
-8.e-	.
+8.e-J	.
 =2	=2
-4r	Gm7/D
-8g	.
-16g	.
-16a-[	.
-16a-]	B-/D
-8g	.
+4r	G minor-seventh/D
+8gL	.
+16gL	.
+[16a-JJ	.
+16a-LK]	B- major/D
+8gJ	.
 4g	.
 16r	.
 =3	=3
-8.r	B-m/D-
-16B-	.
+8.r	B- minor/D-
+16B-LK	.
 8g	.
-16g	.
-16a-[	.
-8a-]	E-7/D-
-16g	.
+16gL	.
+[16a-JJ	.
+8a-L]	E- dominant/D-
+16gk	.
 8f	.
-8.e-	.
+8.e-J	.
 =4	=4
-8f	C7sus4
-16f	.
+8fL	C dominant-seventh-suspended-fourth
+16fk	.
 8f	.
-16g	.
-8f	.
-4en	C
-4r	C/E
+16gk	.
+8fJ	.
+4en	C major
+4r	C major/E
 =5	=5
-4r	Fadd(2,3,7)
-8a-	.
-8a-	.
-8a-	Fm
+4r	F other-2,3,7
+8a-L	.
+8a-J	.
+8a-L	F minor
 8g	.
 8f	.
-8e-	.
+8e-J	.
 =6	=6
-8e-	B-sus4
+8e-L	B- suspended-fourth
 8f	.
 8g	.
-8f[	.
-4f]	B-
+[8fJ	.
+4f]	B- major
 4r	.
 =7	=7
-8.r	Fadd(2,3,7)
-16c	.
-16a-	.
+8.r	F other-2,3,7
+16cLL	.
+16a-J	.
 8a-	.
-16a-[	.
-8a-]	Fm
+[16a-Jk	.
+8a-L]	F minor
 8g	.
 8f	.
-16e-	.
-16f[	.
+16e-L	.
+[16fJJ	.
 =8	=8
-4.f]	B-sus4
-3...r	B-
+4.f]	B- suspended-fourth
+3...r	B- major
 =9	=9
-4r	E-add(2,4,7)
+4r	E- other-2,4,7
 8g	.
 16r	.
-16a-[	.
-8a-]	E-
-16g	.
+[16a-	.
+8a-L]	E- major
+16gk	.
 8f	.
-8.e-	.
+8.e-J	.
 =10	=10
-8.r	Gm7/D
-16B-	.
+8.r	G minor-seventh/D
+16B-LK	.
 8g	.
-16g	.
-16a-[	.
-16a-]	B-/D
-8g	.
+16gL	.
+[16a-JJ	.
+16a-LK]	B- major/D
+8gJ	.
 4g	.
 16r	.
 =11	=11
-4r	E-7/D-
-8e-	.
-16e-	.
+4r	E- dominant/D-
+8e-L	.
+16e-Jk	.
 8.ee-	.
-16cc	.
+16ccLK	.
 8b-	.
 8g	.
-16g	.
+16gJk	.
 =12	=12
-8f	A-maj9
-16g	.
+8fL	A- major-ninth
+16gk	.
 8f	.
 8e-	.
-16e-	.
-4c	A-
+16e-Jk	.
+4c	A- major
 8r	.
 8e-	.
 =13	=13
-4.b-	Fm7b5/A-
-16a-	.
-16b-	.
-4a-	A-m
+4.b-	F half-diminished/A-
+16a-LL	.
+16b-JJ	.
+4a-	A- minor
 8r	.
 8e-	.
 =14	=14
-8g	E-
+8gL	E- major
 8b-	.
-8ff	B-
-8ee-	.
-8r	Cm7
-8b-[	.
-8b-]	Gm
-8bn[	.
+8ff	B- major
+8ee-J	.
+8r	C minor-seventh
+[8b-L	.
+8b-]	G minor
+[8bnJ	.
 =15	=15
-4.bn_	Fm7b5/A-
-4bn]	A-m
+4.bn_	F half-diminished/A-
+4bn]	A- minor
 8r	.
-8f	.
-8b-[	.
+8fL	.
+[8b-J	.
 =16	=16
-1b-]	B-sus4
+1b-]	B- suspended-fourth
 =17	=17
-2r	B-
+2r	B- major
 2r	.
 ==	==
 *-	*-

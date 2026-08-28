@@ -16,60 +16,60 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.d	D
-8.d	D
-8.e	Em
-8.e	Em
-8.e	Em
-16e[	Em
+8.dL	D major
+8.dJ	D major
+8.e	E minor
+8.eL	E minor
+8.e	E minor
+[16eJk	E minor
 =2	=2
-8e]	.
-8.e	Em
-8.e	Em
-8.e	Em
-8.e	Em
-8e	Em
+8eL]	.
+8.e	E minor
+8.eJ	E minor
+8.eL	E minor
+8.e	E minor
+8eJ	E minor
 =3	=3
-8.cc	C
-8.cc	C
-8.c	C
-8.c	C
-8.c	C
-16c	C
+8.ccL	C major
+8.ccJ	C major
+8.c	C major
+8.cL	C major
+8.c	C major
+16cJk	C major
 =4	=4
-8.g	G
-8.g	G
-8.G	G
-8.G	G
-8.G	G
-16G	G
+8.gL	G major
+8.gJ	G major
+8.G	G major
+8.GL	G major
+8.G	G major
+16GJk	G major
 =5	=5
-8.d	D
-8.d	D
-8.e	Em
-8.e	Em
-8.e	Em
-16e[	Em
+8.dL	D major
+8.dJ	D major
+8.e	E minor
+8.eL	E minor
+8.e	E minor
+[16eJk	E minor
 =6	=6
-8e]	.
-8.e	Em
-8.e	Em
-8.e	Em
-8.e	Em
-8e	Em
+8eL]	.
+8.e	E minor
+8.eJ	E minor
+8.eL	E minor
+8.e	E minor
+8eJ	E minor
 =7	=7
-8.cc	C
-8.cc	C
-8.c	C
-8.c	C
-8.c	C
-16c	C
+8.ccL	C major
+8.ccJ	C major
+8.c	C major
+8.cL	C major
+8.c	C major
+16cJk	C major
 =8	=8
-8.g	G
-8.g	G
-8.G	G
-8.G	G
-8.G	G
-16G	G
+8.gL	G major
+8.gJ	G major
+8.G	G major
+8.GL	G major
+8.G	G major
+16GJk	G major
 ==	==
 *-	*-

@@ -16,43 +16,43 @@
 *C:	*
 *M4/4	*
 =1	=1
-8.cc	F
-16b	.
+8.ccL	F major
+16bk	.
 8.a	.
-16g	.
-8e	.
-8d	.
-8r	Am
-16c	.
-16d	.
+16gJk	.
+8eL	.
+8dJ	.
+8r	A minor
+16cLL	.
+16dJJ	.
 =2	=2
-8.e	C
-16g	.
-8d	.
+8.eL	C major
+16gk	.
+8dJ	.
 8r	.
-4r	Dm7
-16c	.
+4r	D minor-seventh
+16cLK	.
 8c	.
-16c	.
+16cJk	.
 =3	=3
-8.cc	F
-16b	.
+8.ccL	F major
+16bk	.
 8.a	.
-16g	.
-8e	.
-8d	.
-8r	Am
-16c	.
-16d	.
+16gJk	.
+8eL	.
+8dJ	.
+8r	A minor
+16cLL	.
+16dJJ	.
 =4	=4
-16e	C
+16eLK	C major
 8g	.
-8.d	.
+8.dJ	.
 8r	.
-4r	Dm7
-16d	.
+4r	D minor-seventh
+16dLK	.
 8d	.
-16c	.
+16cJk	.
 =5	=5
 8.d	.
 6...A	.

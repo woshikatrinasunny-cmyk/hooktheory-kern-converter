@@ -16,15 +16,15 @@
 *G:	*
 *M6/4	*
 =1	=1
-1.b	G/D
+1.b	G major/D
 =2	=2
-1.b	B/D#
+1.b	B major/D#
 =3	=3
-2.b	Em
+2.b	E minor
 4.a	.
 4.g	.
 =4	=4
-1g[	C/E
+[1g	C major/E
 8g]	.
 4.e	.
 =5	=5
@@ -32,18 +32,18 @@
 4.dd	.
 4.cc	.
 =6	=6
-4..b	G/D
+4..b	G major/D
 16g	.
 3...d	.
 4.g	.
 =7	=7
-4.a[	D
-4.a_	D7
-4.a]	Bm7/D
+[4.a	D major
+4.a_	D dominant
+4.a]	B minor-seventh/D
 8e	.
-8f#	.
-8g	.
+8f#L	.
+8gJ	.
 =8	=8
-1.g	G/D
+1.g	G major/D
 ==	==
 *-	*-

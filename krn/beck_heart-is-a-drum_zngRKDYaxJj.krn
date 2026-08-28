@@ -16,12 +16,12 @@
 *C:	*
 *M4/4	*
 =1	=1
-1g[	C
+[1g	C major
 =2	=2
 2g]	.
 4r	.
-8g	.
-8e	.
+8gL	.
+8eJ	.
 =3	=3
 8a	.
 4g	.
@@ -30,32 +30,32 @@
 8r	.
 =4	=4
 2r	.
-2r	C/G
+2r	C major/G
 =5	=5
-2r	Dm7
+2r	D minor-seventh
 8d	.
 4e	.
-8f[	.
+[8f	.
 =6	=6
 8f]	.
 4a	.
 4dd	.
 4cc	.
-8e[	.
+[8e	.
 =7	=7
-8e]	C
+8e]	C major
 4g	.
 4.e	.
 4r	.
 =8	=8
 1r	.
 =9	=9
-1g[	C
+[1g	C major
 =10	=10
 2g]	.
 4r	.
-8g	.
-8e	.
+8gL	.
+8eJ	.
 =11	=11
 8a	.
 4g	.
@@ -64,31 +64,31 @@
 8r	.
 =12	=12
 2r	.
-2r	C/G
+2r	C major/G
 =13	=13
-2r	Dm7
+2r	D minor-seventh
 8d	.
 4e	.
-8f[	.
+[8f	.
 =14	=14
 8f]	.
 4a	.
 4dd	.
 4cc	.
-8e[	.
+[8e	.
 =15	=15
-8e]	C
+8e]	C major
 4g	.
 4.e	.
 4r	.
 =16	=16
 1r	.
 =17	=17
-4.r	G
+4.r	G major
 8g	.
 4b	.
-8b	.
-8b[	.
+8bL	.
+[8bJ	.
 =18	=18
 8b]	.
 4g	.
@@ -96,30 +96,30 @@
 4d	.
 8d	.
 =19	=19
-8e	Dm7
+8e	D minor-seventh
 4.c	.
 4.r	.
-8r	Em7/G
+8r	E minor-seventh/G
 =20	=20
-4.r	F
+4.r	F major
 8c	.
-8a	.
+8aL	.
 8g	.
 8g	.
-8g	.
+8gJ	.
 =21	=21
-8f	C
+8f	C major
 4e	.
 3...r	.
 =22	=22
-4r	F
-8f	.
-8f	.
+4r	F major
+8fL	.
+8fJ	.
 4f	.
-8f	.
-8f	.
+8fL	.
+8fJ	.
 =23	=23
-8e	C
+8e	C major
 4e	.
 3...r	.
 =24	=24

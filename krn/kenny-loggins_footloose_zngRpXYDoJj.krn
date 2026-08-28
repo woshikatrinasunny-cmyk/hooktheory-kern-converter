@@ -16,7 +16,7 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	D
+4r	D major
 4a	.
 4a	.
 4b	.
@@ -25,7 +25,7 @@
 8b	.
 4.a	.
 =3	=3
-4r	D#dim
+4r	D# diminished
 4f#	.
 4a	.
 4b	.
@@ -33,17 +33,17 @@
 4cc#	.
 4ee	.
 4ee	.
-8ff#	.
-8ee	.
+8ff#L	.
+8eeJ	.
 =5	=5
-8ff#	E
+8ff#	E major
 2..ee	.
 =6	=6
-1r	F#
+1r	F# major
 =7	=7
-1r	Gdim
+1r	G diminished
 =8	=8
-8r	E/G#
+8r	E major/G#
 2..r	.
 ==	==
 *-	*-

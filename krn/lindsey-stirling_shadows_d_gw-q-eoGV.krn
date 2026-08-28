@@ -16,214 +16,214 @@
 *c:	*
 *M6/4	*
 =1	=1
-8G	Cm
-8B-	.
-8c	.
-8d	Cm
-8c	.
-8B-	.
-8G	Cm
-8B-	.
-8c	.
-8e-	Cm
-8d	.
-8c	.
+8GL	C minor
+8B-J	.
+8cL	.
+8dJ	C minor
+8cL	.
+8B-J	.
+8GL	C minor
+8B-J	.
+8cL	.
+8e-J	C minor
+8dL	.
+8cJ	.
 =2	=2
-8G	Cm
-8B-	.
-8c	.
-8e-	Cm
-8f	.
-8e-	.
-8d	Cm
-8g	.
-8an	.
-8b-	Cm
-8an	.
-8g	.
+8GL	C minor
+8B-J	.
+8cL	.
+8e-J	C minor
+8fL	.
+8e-J	.
+8dL	C minor
+8gJ	.
+8anL	.
+8b-J	C minor
+8anL	.
+8gJ	.
 =3	=3
-8d	Cm
-8g	.
-8an	.
-8b-	Cm
-8an	.
-8g	.
-8d	Cm
-8g	.
-8an	.
-8cc	Cm
-8b-	.
-8an	.
+8dL	C minor
+8gJ	.
+8anL	.
+8b-J	C minor
+8anL	.
+8gJ	.
+8dL	C minor
+8gJ	.
+8anL	.
+8ccJ	C minor
+8b-L	.
+8anJ	.
 =4	=4
-8g	Cm
-8b-	.
+8gL	C minor
+8b-J	.
+8ddL	.
+8ggJ	C minor
+8ddL	.
+8b-J	.
+8ddL	C minor
+8b-J	.
 8dd	.
-8gg	Cm
-8dd	.
-8b-	.
-8dd	Cm
-8b-	.
-8dd	.
-4.gg	Cm
+4.gg	C minor
 =5	=5
-4.gg[	Cm
-4.gg]	Cm
-8gg	Cm
-8ff	.
-8gg	.
-8aa-	Cm
-8gg	.
-8ff	.
+[4.gg	C minor
+4.gg]	C minor
+8ggL	C minor
+8ffJ	.
+8ggL	.
+8aa-J	C minor
+8ggL	.
+8ffJ	.
 =6	=6
-4.gg	A-maj7
-4.ff	A-maj7
-16ff	A-maj7
+4.gg	A- major-seventh
+4.ff	A- major-seventh
+16ffLL	A- major-seventh
 16gg	.
 16ff	.
-16dd	.
-16cc	.
-16b-	.
-4.d	A-maj7
+16ddJJ	.
+16ccLL	.
+16b-JJ	.
+4.d	A- major-seventh
 =7	=7
-8e-	E-
-8B-	.
-8G	.
-8e-	E-
-8B-	.
-8G	.
-8e-	E-
-8b-	.
+8e-L	E- major
+8B-J	.
+8GL	.
+8e-J	E- major
+8B-L	.
+8GJ	.
+8e-L	E- major
+8b-J	.
 8g	.
-4.gg	E-
+4.gg	E- major
 =8	=8
-8gg	Gm7
-8ff	.
-8gg	.
-8ff	Gm7
-8dd	.
-8cc	.
-4.b-	Gm7
-4.g	Gm7
+8ggL	G minor-seventh
+8ffJ	.
+8ggL	.
+8ffJ	G minor-seventh
+8ddL	.
+8ccJ	.
+4.b-	G minor-seventh
+4.g	G minor-seventh
 =9	=9
-4.cc[	Cm
-8cc]	Cm
-8b-	.
+[4.cc	C minor
+8cc]	C minor
+8b-L	.
+8ccJ	.
+8ee-L	C minor
+8ddJ	.
 8cc	.
-8ee-	Cm
-8dd	.
-8cc	.
-4b-	Cm
+4b-	C minor
 8g	.
 =10	=10
-8g	A-maj7
-8e-	.
-8B-	.
-8G	A-maj7
-8B-	.
-8e-	.
-8g	A-maj7
-8b-	.
+8gL	A- major-seventh
+8e-J	.
+8B-L	.
+8GJ	A- major-seventh
+8B-L	.
+8e-J	.
+8gL	A- major-seventh
+8b-J	.
 8ee-	.
-4.gg	A-maj7
+4.gg	A- major-seventh
 =11	=11
-4.ee-[	E-
-8ee-]	E-
+[4.ee-	E- major
+8ee-]	E- major
+8b-L	.
+8b-J	.
+8e-L	E- major
+8gJ	.
 8b-	.
-8b-	.
-8e-	E-
-8g	.
-8b-	.
-4.bb-	E-
+4.bb-	E- major
 =12	=12
-8bb-	B-
-8ff	.
-8gg	.
-8aa-	B-
-8gg	.
-8ff	.
-4.ee-	B-
-4.cc	B-
+8bb-L	B- major
+8ffJ	.
+8ggL	.
+8aa-J	B- major
+8ggL	.
+8ffJ	.
+4.ee-	B- major
+4.cc	B- major
 =13	=13
-8ee-	Cm
+8ee-L	C minor
+8ddJ	.
+[8ccL	.
+8ccJ]	C minor
+8b-L	.
+8ccJ	.
+8ddL	C minor
+8ee-J	.
 8dd	.
-8cc[	.
-8cc]	Cm
-8b-	.
-8cc	.
-8dd	Cm
-8ee-	.
-8dd	.
-4g	Cm
+4g	C minor
 8cc	.
 =14	=14
-8ee-	A-maj7
-8dd	.
-8b-[	.
-8b-]	A-maj7
-8cc	.
-8dd	.
-8ee-	A-maj7
-8b-	.
+8ee-L	A- major-seventh
+8ddJ	.
+[8b-L	.
+8b-J]	A- major-seventh
+8ccL	.
+8ddJ	.
+8ee-L	A- major-seventh
+8b-J	.
 8gg	.
-4.gg	A-maj7
+4.gg	A- major-seventh
 =15	=15
-8ee-	E-
-8dd	.
-8ee-	.
-8g	E-
-8ee-	.
-8dd	.
-4.f	E-
-8ee-	E-
-8dd	.
-16ee-	.
-16e-[	.
+8ee-L	E- major
+8ddJ	.
+8ee-L	.
+8gJ	E- major
+8ee-L	.
+8ddJ	.
+4.f	E- major
+8ee-	E- major
+8ddL	.
+16ee-L	.
+[16e-JJ	.
 =16	=16
-8e-]	Gm7
-8ee-	.
-8dd	.
-8cc	Gm7
-8b-	.
-8g	.
-4.b-	Gm7
-4.cc	Gm7
+8e-L]	G minor-seventh
+8ee-J	.
+8ddL	.
+8ccJ	G minor-seventh
+8b-L	.
+8gJ	.
+4.b-	G minor-seventh
+4.cc	G minor-seventh
 =17	=17
-4.cc[	Cm
-4.cc]	Cm
-8cc	Cm
-8b-	.
-8cc	.
-8ee-	Cm
-8dd	.
-8cc	.
+[4.cc	C minor
+4.cc]	C minor
+8ccL	C minor
+8b-J	.
+8ccL	.
+8ee-J	C minor
+8ddL	.
+8ccJ	.
 =18	=18
-8g	A-maj7
-8e-	.
-8B-	.
-8G	A-maj7
-8B-	.
-8e-	.
-8g	A-maj7
-8b-	.
+8gL	A- major-seventh
+8e-J	.
+8B-L	.
+8GJ	A- major-seventh
+8B-L	.
+8e-J	.
+8gL	A- major-seventh
+8b-J	.
 8ee-	.
-4.gg	A-maj7
+4.gg	A- major-seventh
 =19	=19
-4.ee-[	E-
-8ee-]	E-
+[4.ee-	E- major
+8ee-]	E- major
+8b-L	.
+8b-J	.
+8e-L	E- major
+8gJ	.
 8b-	.
-8b-	.
-8e-	E-
-8g	.
-8b-	.
-4.bb-	E-
+4.bb-	E- major
 =20	=20
-8bb-	B-
-8ff	.
-8gg	.
-8aa-	B-
-8gg	.
-8ff	.
-4.ee-	B-
-4.cc	B-
+8bb-L	B- major
+8ffJ	.
+8ggL	.
+8aa-J	B- major
+8ggL	.
+8ffJ	.
+4.ee-	B- major
+4.cc	B- major
 ==	==
 *-	*-

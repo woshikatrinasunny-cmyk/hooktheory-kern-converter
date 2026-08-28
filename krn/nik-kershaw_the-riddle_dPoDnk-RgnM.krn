@@ -16,65 +16,65 @@
 *G:	*
 *M4/4	*
 =1	=1
-2r	G
-8r	C
-8G	.
-8G	.
+2r	G major
+8r	C major
+8GL	.
+8GJ	.
 8r	.
 =2	=2
-4.A	F
+4.A	F major
 8G	.
-4Fn	A#
+4Fn	A# major
 4r	.
 =3	=3
-8r	Am
+8r	A minor
+8GL	.
 8G	.
+8AJ	.
+8F#L	D major/F#
 8G	.
 8A	.
-8F#	D/F#
-8G	.
-8A	.
-8F#	.
+8F#J	.
 =4	=4
-8G	G
+8G	G major
 8r	.
 8A	.
 8r	.
-8B	F
+8BL	F major
 8A	.
 8G	.
-8Fn	.
+8FnJ	.
 =5	=5
-8E	Esus4
+8E	E suspended-fourth
 8r	.
 8A	.
 8r	.
-4G#	E
+4G#	E major
 4B	.
 =6	=6
-4c	Am
-8B	G/B
-8A	.
-4G	C
+4c	A minor
+8BL	G major/B
+8AJ	.
+4G	C major
 4r	.
 =7	=7
-6...A	D
+6...A	D major
 16r	.
-16A	.
-16A	.
-8A	D7/C
+16ALL	.
+16AJJ	.
+8AL	D dominant/C
 8A	.
 8A	.
-8A	.
+8AJ	.
 =8	=8
 *k[b-e-]	*
 *g:	*
-2B-	B-
-2r	E-
+2B-	B- major
+2r	E- major
 =9	=9
-4B-	Cm7
-4c	Dadd(3,7,8,10)
-4B-[	E-
-4B-]	F
+4B-	C minor-seventh
+4c	D other-3,7,8,10
+[4B-	E- major
+4B-]	F major
 ==	==
 *-	*-

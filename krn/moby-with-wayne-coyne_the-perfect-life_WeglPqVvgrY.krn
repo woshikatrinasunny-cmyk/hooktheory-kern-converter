@@ -16,55 +16,55 @@
 *F:	*
 *M4/4	*
 =1	=1
-4..ff[	F
-8.ff_	F
-4.ff]	F
+[4..ff	F major
+8.ff_	F major
+4.ff]	F major
 =2	=2
-4..r	F
-8.r	F
-16ff	F
+4..r	F major
+8.r	F major
+16ffLK	F major
 8.ff	.
-16ff	.
-16ff[	.
+16ffL	.
+[16ffJJ	.
 =3	=3
-16ff]	C
-4.gg[	.
-8.gg_	C
-4.gg]	C
+16ff]	C major
+[4.gg	.
+8.gg_	C major
+4.gg]	C major
 =4	=4
-4..r	C
-8.r	C
-16gg	C
+4..r	C major
+8.r	C major
+16ggLK	C major
 8.gg	.
-8gg	.
+8ggJ	.
 =5	=5
-6...bb-	B-
-16bb-	.
-16aa[	.
-16aa]	B-
-8ff[	.
-4ff]	B-
+6...bb-	B- major
+16bb-LL	.
+[16aa	.
+16aaJJ]	B- major
+[8ff	.
+4ff]	B- major
 8r	.
 =6	=6
-6...bb-	B-
-16bb-	.
-16aa[	.
-16aa]	B-
-8ff[	.
-16ff]	B-
+6...bb-	B- major
+16bb-LL	.
+[16aa	.
+16aaJJ]	B- major
+[8ffL	.
+16ffL]	B- major
 16ff	.
 16ff	.
-16ff	.
-8aa[	.
+16ffJ	.
+[8aaJ	.
 =7	=7
-8aa]	F
-6...ff[	.
-8.ff_	F
-6...ff]	F
+8aa]	F major
+[6...ff	.
+8.ff_	F major
+6...ff]	F major
 16r	.
 =8	=8
-4..r	F
-8.r	F
-4.r	F
+4..r	F major
+8.r	F major
+4.r	F major
 ==	==
 *-	*-

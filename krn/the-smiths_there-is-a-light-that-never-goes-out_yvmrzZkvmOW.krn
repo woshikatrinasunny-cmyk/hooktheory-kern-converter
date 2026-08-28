@@ -15,107 +15,107 @@
 *E:	*
 *M4/4	*
 =1	=1
-2..r	C#m7
+2..r	C# minor-seventh
 8r	.
 =2	=2
-8r	Amaj7
-8r	Amaj7
-8r	Amaj7
-8r	Amaj7
+8r	A major-seventh
+8r	A major-seventh
+8r	A major-seventh
+8r	A major-seventh
 8r	.
-8r	B
-8r	B
-8r	B
+8r	B major
+8r	B major
+8r	B major
 =3	=3
-2r	C#m7
-4e	C#m7/B
-8g#	.
-8g#[	.
+2r	C# minor-seventh
+4e	C# minor-seventh/B
+8g#L	.
+[8g#J	.
 =4	=4
-4.g#_	C#m7
-4.g#]	C#m7/B
-8e	.
-8e[	.
+4.g#_	C# minor-seventh
+4.g#]	C# minor-seventh/B
+8eL	.
+[8eJ	.
 =5	=5
-16e]	A
-16f#	.
-4.g#[	.
-2g#_	Amaj7
+16eLL]	A major
+16f#JJ	.
+[4.g#	.
+2g#_	A major-seventh
 =6	=6
-4.g#]	E
-4.r	B7
-8e	.
-8e	.
+4.g#]	E major
+4.r	B dominant
+8eL	.
+8eJ	.
 =7	=7
-8g#	C#m7
+8g#L	C# minor-seventh
 8g#	.
 8e	.
-8e	.
-8g#	C#m7/B
+8eJ	.
+8g#L	C# minor-seventh/B
 8g#	.
 8e	.
-8e	.
+8eJ	.
 =8	=8
-8g#	C#m7
+8g#L	C# minor-seventh
 8g#	.
-8g#	.
-2a	C#m7/B
-16g#	.
-16f#	.
+8g#J	.
+2a	C# minor-seventh/B
+16g#LL	.
+16f#JJ	.
 =9	=9
-2e	A
+2e	A major
 2r	.
 =10	=10
-4.r	E
-2r	B7
+4.r	E major
+2r	B dominant
 8g#	.
 =11	=11
-4b	C#m7
+4b	C# minor-seventh
 4g#	.
-8g#	C#m7/B
+8g#	C# minor-seventh/B
 4b	.
-8g#[	.
+[8g#	.
 =12	=12
-4.g#_	C#m7
-4g#]	C#m7/B
+4.g#_	C# minor-seventh
+4g#]	C# minor-seventh/B
 4b	.
-8b[	.
+[8b	.
 =13	=13
-8b]	A
+8bL]	A major
 8b	.
 8b	.
-8b	.
-8b	Amaj7
+8bJ	.
+8bL	A major-seventh
 8a	.
 8g#	.
-8g#[	.
+[8g#J	.
 =14	=14
-4.g#]	E
-8e	B7
+4.g#]	E major
+8e	B dominant
+8eL	.
 8e	.
 8e	.
-8e	.
-8f#	.
+8f#J	.
 =15	=15
-8a	C#m7
+8a	C# minor-seventh
 8r	.
-4g#[	.
-4g#]	C#m7/B
+[4g#	.
+4g#]	C# minor-seventh/B
 4r	.
 =16	=16
-4.r	C#m7
-4r	C#m7/B
+4.r	C# minor-seventh
+4r	C# minor-seventh/B
+8eL	.
 8e	.
-8e	.
-8e[	.
+[8eJ	.
 =17	=17
-8e]	A
-16f#	.
-16e	.
+8eL]	A major
+16f#L	.
+16eJJ	.
 2c#	.
 4r	.
 =18	=18
-4.r	E
-3...r	B7
+4.r	E major
+3...r	B dominant
 ==	==
 *-	*-

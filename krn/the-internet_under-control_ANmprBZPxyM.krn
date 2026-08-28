@@ -16,78 +16,78 @@
 *E:	*
 *M4/4	*
 =1	=1
-8r	Cmaj7sus2
+8r	C major-seventh-suspended-second
+8BL	.
 8B	.
-8B	.
-8A	B7sus4
-8B	.
+8AJ	B dominant-seventh-suspended-fourth
+8BL	.
 8A	.
 8B	.
-8B	Emaj7
+8BJ	E major-seventh
 =2	=2
 8A	.
 8r	.
-8B	.
-8A	D7sus2
-8B	.
+8BL	.
+8AJ	D dominant-seventh-suspended-second
+8BL	.
 8A	.
 8B	.
-8B	.
+8BJ	.
 =3	=3
-8r	Cmaj7sus2
+8r	C major-seventh-suspended-second
+8AL	.
+8B	.
+8AJ	B dominant-seventh-suspended-fourth
+8BL	.
 8A	.
 8B	.
-8A	B7sus4
-8B	.
-8A	.
-8B	.
-8B	Emaj7
+8BJ	E major-seventh
 =4	=4
 8A	.
 8r	.
-8B	.
-8A	Am11
-8B	.
+8BL	.
+8AJ	A minor-11th
+8BL	.
 8A	.
 8B	.
-8B	.
+8BJ	.
 =5	=5
-8r	Cmaj7sus2
-8A	.
+8r	C major-seventh-suspended-second
+8AL	.
 8B	.
-8A	B7sus4
-8B	.
+8AJ	B dominant-seventh-suspended-fourth
+8BL	.
 8A	.
 8Gn	.
-8B	Emaj7
+8BJ	E major-seventh
 =6	=6
 8A	.
 8r	.
-8B	.
-8A	D7sus2
-8B	.
+8BL	.
+8AJ	D dominant-seventh-suspended-second
+8BL	.
 8A	.
 8B	.
-8B	.
+8BJ	.
 =7	=7
-8r	Cmaj7sus2
+8r	C major-seventh-suspended-second
+8AL	.
+8B	.
+8AJ	B dominant-seventh-suspended-fourth
+8BL	.
 8A	.
 8B	.
-8A	B7sus4
-8B	.
-8A	.
-8B	.
-8B	Emaj7
+8BJ	E major-seventh
 =8	=8
 8A	.
 8r	.
-8B	.
-8A	G7sus4/F
-8B	.
-16A	.
-16dn	.
+8BL	.
+8AJ	G dominant-seventh-suspended-fourth/F
+8BL	.
+16AL	.
+16dnJ	.
 8e	.
-16e	.
-16gn	.
+16eL	.
+16gnJJ	.
 ==	==
 *-	*-

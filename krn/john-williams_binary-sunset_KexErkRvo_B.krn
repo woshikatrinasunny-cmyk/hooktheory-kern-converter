@@ -15,10 +15,10 @@
 *c#:	*
 *M4/4	*
 =1	=1
-2c#	C#m
+2c#	C# minor
 4.d#	.
-16e	.
-16f#	.
+16eLL	.
+16f#JJ	.
 =2	=2
 2e	.
 4.G#	.
@@ -26,35 +26,35 @@
 =3	=3
 4.c#	.
 8d#	.
-8e	.
+8eL	.
 8G#	.
-16e	.
-16c#	.
-8g#	.
+16eL	.
+16c#J	.
+8g#J	.
 =4	=4
-2f#	F#
-4r	G#
+2f#	F# major
+4r	G# major
 4G#	.
 =5	=5
-4.c#	C#m
+4.c#	C# minor
 8d#	.
-8.e	.
-16c#	.
-8.g#	C#m7/B
-16e	.
+8.eL	.
+16c#k	.
+8.g#	C# minor-seventh/B
+16eJk	.
 =6	=6
-2cc#	A
-4c#	F#m
-16e	.
-16d#	.
-8c#	.
+2cc#	A major
+4c#	F# minor
+16eLL	.
+16d#J	.
+8c#J	.
 =7	=7
-4.g#	C#m/G#
-16e	.
-16c#	.
-4G#	G#sus2
-4G#	G#
+4.g#	C# minor/G#
+16eLL	.
+16c#JJ	.
+4G#	G# suspended-second
+4G#	G# major
 =8	=8
-1c#	C#m
+1c#	C# minor
 ==	==
 *-	*-

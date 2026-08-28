@@ -16,106 +16,106 @@
 *E:	*
 *M4/4	*
 =1	=1
-2.r	A
-4r	A/E
+2.r	A major
+4r	A major/E
 =2	=2
-2.r	E
-4r	E/B
+2.r	E major
+4r	E major/B
 =3	=3
-2.r	C#m
-4r	C#m/E
+2.r	C# minor
+4r	C# minor/E
 =4	=4
-2.r	B
-4r	B/F#
+2.r	B major
+4r	B major/F#
 =5	=5
-2.r	F#
-4r	F#/C#
+2.r	F# major
+4r	F# major/C#
 =6	=6
-2.r	A
-4r	A/E
+2.r	A major
+4r	A major/E
 =7	=7
-2.r	E
-4r	E/B
+2.r	E major
+4r	E major/B
 =8	=8
-2..r	B
-8r	B/F#
+2..r	B major
+8r	B major/F#
 =9	=9
-2F#	F#
-4E[	.
-4E]	F#/C#
+2F#	F# major
+[4E	.
+4E]	F# major/C#
 =10	=10
-3...A	A
-8G#[	.
-4G#]	A/E
+3...A	A major
+[8G#	.
+4G#]	A major/E
 =11	=11
-2G#	E
-4E[	.
-4E]	E/B
+2G#	E major
+[4E	.
+4E]	E major/B
 =12	=12
-2B	B
+2B	B major
 4c#	.
-8d#	.
-8e	B/F#
+8d#L	.
+8eJ	B major/F#
 =13	=13
-2g#	C#m
-2b	C#m/E
+2g#	C# minor
+2b	C# minor/E
 =14	=14
-2.f#	Aadd(4,7,9)
-8r	A
-16e	.
-16f#	.
+2.f#	A other-4,7,9
+8r	A major
+16eLL	.
+16f#JJ	.
 =15	=15
-2g#	Eadd(2,4,7)
-4b[	.
-4b]	Eadd(2,4,7)/B
+2g#	E other-2,4,7
+[4b	.
+4b]	E other-2,4,7/B
 =16	=16
-2f#	B
+2f#	B major
 4e	.
-16d#[	.
-8.d#]	B/F#
+[16d#LK	.
+8.d#J]	B major/F#
 =17	=17
-2c#	F#
+2c#	F# major
 4d#	.
-4e	F#/C#
+4e	F# major/C#
 =18	=18
-2.g#	Amaj7
-4e	Amaj7/E
+2.g#	A major-seventh
+4e	A major-seventh/E
 =19	=19
-2.b	E
-4e	E/B
+2.b	E major
+4e	E major/B
 =20	=20
-2.cc#	B
-8b[	.
-8b]	B/F#
+2.cc#	B major
+[8bL	.
+8bJ]	B major/F#
 =21	=21
-2.cc#[	F#
-4cc#]	F#/C#
+[2.cc#	F# major
+4cc#]	F# major/C#
 =22	=22
-2.b	A
-8r	A
-16g#	.
-16f#	.
+2.b	A major
+8r	A major
+16g#LL	.
+16f#JJ	.
 =23	=23
-2g#	Eadd(2,4,7)
+2g#	E other-2,4,7
 4f#	.
-4b	Eadd(2,4,7)/B
+4b	E other-2,4,7/B
 =24	=24
-2g#	Badd(4,7,9)
-4f#[	.
-4f#]	B/F#
+2g#	B other-4,7,9
+[4f#	.
+4f#]	B major/F#
 =25	=25
-2.e[	C#m
-4e]	C#m/E
+[2.e	C# minor
+4e]	C# minor/E
 =26	=26
-2c#	A
+2c#	A major
 4B	.
-4e	A/E
+4e	A major/E
 =27	=27
-2.e[	E
-4e]	E/B
+[2.e	E major
+4e]	E major/B
 =28	=28
-2f#	B
-4B[	.
-4B]	B/F#
+2f#	B major
+[4B	.
+4B]	B major/F#
 ==	==
 *-	*-

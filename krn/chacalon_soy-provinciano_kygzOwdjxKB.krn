@@ -16,55 +16,55 @@
 *G:	*
 *M4/4	*
 =1	=1
-4g	G
-4d	G
-8g	G
+4g	G major
+4d	G major
+8gL	G major
 8d	.
-8g	G
-8a	.
+8g	G major
+8aJ	.
 =2	=2
-4b	Em
-4a	Em
-4g	Em
-4r	Em
+4b	E minor
+4a	E minor
+4g	E minor
+4r	E minor
 =3	=3
-4g	G
-4d	G
-8g	G
+4g	G major
+4d	G major
+8gL	G major
 8d	.
-8g	G
-8a	.
+8g	G major
+8aJ	.
 =4	=4
-4b	Em
-4a	Em
-4g	Em
-4r	Em
+4b	E minor
+4a	E minor
+4g	E minor
+4r	E minor
 =5	=5
-4cc	C
-4g	C
-8cc	C
+4cc	C major
+4g	C major
+8ccL	C major
 8g	.
-8cc	C
-8ee	.
+8cc	C major
+8eeJ	.
 =6	=6
-4ff#	D
-4ee	D
-8dd	D
+4ff#	D major
+4ee	D major
+8ddL	D major
 8ff#	.
-8ff#	D
-8dd	.
+8ff#	D major
+8ddJ	.
 =7	=7
-4ee[	Em
-8.ee]	Em
+[4ee	E minor
+8.ee]	E minor
 16r	.
-8r	Em
-8b	.
-8ee	Em
-8b	.
+8r	E minor
+8bL	.
+8ee	E minor
+8bJ	.
 =8	=8
-4dd[	Bm
-4dd]	Bm
-4r	Bm
-4r	Bm
+[4dd	B minor
+4dd]	B minor
+4r	B minor
+4r	B minor
 ==	==
 *-	*-

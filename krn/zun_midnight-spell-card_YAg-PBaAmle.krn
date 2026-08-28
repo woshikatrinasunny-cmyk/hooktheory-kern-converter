@@ -16,48 +16,48 @@
 *b:	*
 *M4/4	*
 =1	=1
-2b	Bm
-2dd	D
+2b	B minor
+2dd	D major
 =2	=2
-2cc#	A#m/C#
-4ccn	C
-16ccn	F#m7b5/C
+2cc#	A# minor/C#
+4ccn	C major
+16ccnLL	F# half-diminished/C
 16a	.
 16f#	.
-16ccn	.
+16ccnJJ	.
 =3	=3
-16b	Bm
+16bLL	B minor
 16f#	.
 16d	.
 16b	.
 16f#	.
 16d	.
 16b	.
-16f#	.
-16dd	Dadd(4,7,9)
+16f#JJ	.
+16ddLL	D other-4,7,9
 16b	.
 16f#	.
 16dd	.
 16b	.
 16f#	.
 16dd	.
-16b	.
+16bJJ	.
 =4	=4
-16cc#	A#m/C#
+16cc#LL	A# minor/C#
 16a#	.
 16fn	.
 16cc#	.
 16a#	.
 16fn	.
 16cc#	.
-16a#	.
-16ccn	C
+16a#JJ	.
+16ccnLL	C major
 16g	.
 16e	.
 16ccn	.
 16g	.
 16e	.
 16ccn	.
-16g	.
+16gJJ	.
 ==	==
 *-	*-

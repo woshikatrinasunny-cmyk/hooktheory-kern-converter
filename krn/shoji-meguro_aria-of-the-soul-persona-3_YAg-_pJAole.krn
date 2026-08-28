@@ -16,76 +16,76 @@
 *b:	*
 *M4/4	*
 =1	=1
-2dd	D
-4cc#	F#m7/C#
+2dd	D major
+4cc#	F# minor-seventh/C#
 4dd	.
 =2	=2
-3...b	Bm
+3...b	B minor
 4r	.
-16b	.
-16cc#	.
+16bLL	.
+16cc#JJ	.
 =3	=3
-2dd	D
-4cc#	F#m7/A
+2dd	D major
+4cc#	F# minor-seventh/A
 4ff#	.
 =4	=4
-2.b[	G
-8b]	Gmaj7/F#
+[2.b	G major
+8b]	G major-seventh/F#
 8r	.
 =5	=5
-2r	Em
+2r	E minor
 4.ff#	.
-16ee	.
-16dd	.
+16eeLL	.
+16ddJJ	.
 =6	=6
-1cc#	A7
+1cc#	A dominant
 =7	=7
-2r	F#m7
+2r	F# minor-seventh
 4.ee	.
-16dd	.
-16cc#	.
+16ddLL	.
+16cc#JJ	.
 =8	=8
-2b	Bm
-4cc#	A
+2b	B minor
+4cc#	A major
 4dd	.
 =9	=9
-4g	G
+4g	G major
 4dd	.
-4cc#	A7
+4cc#	A dominant
 4dd	.
 =10	=10
-2dd	D
-4cc#	F#m7/C#
+2dd	D major
+4cc#	F# minor-seventh/C#
 4dd	.
 =11	=11
-3...b	Bm
+3...b	B minor
 4r	.
-16b	.
-16cc#	.
+16bLL	.
+16cc#JJ	.
 =12	=12
-2dd	Bm
-4cc#	F#m7/A
+2dd	B minor
+4cc#	F# minor-seventh/A
 4ff#	.
 =13	=13
-3...b	Gmaj7
+3...b	G major-seventh
 4r	.
-16b	.
-16cc#	.
+16bLL	.
+16cc#JJ	.
 =14	=14
-2dd	G
-4cc#	F#7
+2dd	G major
+4cc#	F# dominant
 4ff#	.
 =15	=15
-2b	Bm
-4cc#	F#m/A
+2b	B minor
+4cc#	F# minor/A
 4dd	.
 =16	=16
-4g	Gmaj7
+4g	G major-seventh
 4ff#	.
-4ee	G#dim
+4ee	G# diminished
 4dd	.
 =17	=17
-2.cc#	A
+2.cc#	A major
 4r	.
 ==	==
 *-	*-

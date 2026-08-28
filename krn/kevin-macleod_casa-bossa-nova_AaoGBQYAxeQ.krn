@@ -15,61 +15,61 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	Cmaj9
+4r	C major-ninth
 8ee	.
 8r	.
-8ee	Cmaj9/G
-8ff	.
+8eeL	C major-ninth/G
+8ffJ	.
 8r	.
-8gg[	Cmaj9
+[8gg	C major-ninth
 =2	=2
 6...gg]	.
 16r	.
 8gg	.
-8aa	Cmaj9/G
+8aaL	C major-ninth/G
 8gg	.
-8.dd	Cmaj9
+8.ddJ	C major-ninth
 16r	.
 =3	=3
-4r	Dm9
+4r	D minor-ninth
 8.ff	.
 16r	.
-8r	Dm9/A
+8r	D minor-ninth/A
 8gg	.
 8r	.
-8aa[	Dm9
+[8aa	D minor-ninth
 =4	=4
 2...aa]	.
 16r	.
 =5	=5
-4r	G7
+4r	G dominant
 8dd	.
 8r	.
-8dd	G7/D
-8ee	.
+8ddL	G dominant/D
+8eeJ	.
 8r	.
-8ff[	G9
+[8ff	G dominant-ninth
 =6	=6
 6...ff]	.
 16r	.
 8ff	.
-8gg	.
+8ggL	.
 8ff	.
-8ee	G7/B
+8eeJ	G dominant/B
 8r	.
 =7	=7
-4r	Cmaj9
+4r	C major-ninth
 8ee	.
 8r	.
-8ee	.
-8dd	.
+8eeL	.
+8ddJ	.
 8r	.
-8cc[	.
+[8cc	.
 =8	=8
-8cc]	Badd(1,3,6,10)
+8cc]	B other-1,3,6,10
 4b	.
-8g[	G11
-4.g]	G7
+[8g	G dominant-11th
+4.g]	G dominant
 8r	.
 ==	==
 *-	*-

@@ -16,88 +16,88 @@
 *a:	*
 *M6/4	*
 =1	=1
-8e	Am
-8a	.
+8eL	A minor
+8aJ	.
 2ee	.
-8ee	.
-8aa	.
+8eeL	.
+8aaJ	.
 2eee	.
 =2	=2
-8dd#	D#/A#
+8dd#	D# major/A#
 8r	.
 8a#	.
 4.a#	.
-8aa#	.
-8ddd#	.
-8aa#	.
-8ddd	.
-8aa#	.
-8ccc#	.
+8aa#L	.
+8ddd#J	.
+8aa#L	.
+8dddJ	.
+8aa#L	.
+8ccc#J	.
 =3	=3
-8a	Am
-8e	.
+8aL	A minor
+8eJ	.
 8a	.
 4.ee	.
-8aa	.
-8ee	.
+8aaL	.
+8eeJ	.
 8aa	.
 4.eee	.
 =4	=4
-8dd#	D#/A#
+8dd#	D# major/A#
 8r	.
 8a#	.
 4.a#	.
-8aa#	.
-8ddd#	.
-8aa#	.
-8ddd	.
-8aa#	.
-8ccc#	.
+8aa#L	.
+8ddd#J	.
+8aa#L	.
+8dddJ	.
+8aa#L	.
+8ccc#J	.
 =5	=5
-8r	Fm7
+8r	F minor-seventh
 8gg#	.
-8gg#	.
-8gg#	.
-8gg#	.
-8gg#	.
-4gg	Em7
-4gg#	Fm7
-4aa	F#m7
+8gg#L	.
+8gg#J	.
+8gg#L	.
+8gg#J	.
+4gg	E minor-seventh
+4gg#	F minor-seventh
+4aa	F# minor-seventh
 =6	=6
-8dd#	A#add(5,6)/E
-8a#	.
-8e	.
-8dd#	.
-8a#	.
-8e	.
-8ddd#	.
-8aa#	.
-8ee	.
-8ddd#	.
-8aa#	.
-8ee	.
+8dd#L	A# other-5,6/E
+8a#J	.
+8eL	.
+8dd#J	.
+8a#L	.
+8eJ	.
+8ddd#L	.
+8aa#J	.
+8eeL	.
+8ddd#J	.
+8aa#L	.
+8eeJ	.
 =7	=7
-8r	Fm7
+8r	F minor-seventh
 8gg#	.
-8gg#	.
-8gg#	.
-8gg#	.
-8gg#	.
-4gg	Em7
-4gg#	Fm7
-4aa	F#m7
+8gg#L	.
+8gg#J	.
+8gg#L	.
+8gg#J	.
+4gg	E minor-seventh
+4gg#	F minor-seventh
+4aa	F# minor-seventh
 =8	=8
-8ee	Badd(5,6)/F
-8b	.
-8f	.
-8ee	.
-8b	.
-8f	.
-8eee	.
-8bb	.
-8ff	.
-8eee	.
-8bb	.
-8ff	.
+8eeL	B other-5,6/F
+8bJ	.
+8fL	.
+8eeJ	.
+8bL	.
+8fJ	.
+8eeeL	.
+8bbJ	.
+8ffL	.
+8eeeJ	.
+8bbL	.
+8ffJ	.
 ==	==
 *-	*-

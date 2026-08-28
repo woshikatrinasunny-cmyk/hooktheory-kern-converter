@@ -16,93 +16,93 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.r	G
-3...r	Gsus4
+4.r	G major
+3...r	G suspended-fourth
 =2	=2
-4r	G
+4r	G major
+8gL	.
+8gJ	G suspended-fourth
+8gL	.
 8g	.
-8g	Gsus4
 8g	.
-8g	.
-8g	.
-8g	.
+8gJ	.
 =3	=3
-4a	Am
+4a	A minor
 4e	.
-4a	C
+4a	C major
 4e	.
 =4	=4
-4a	F
+4a	F major
 4e	.
-8d	Am
-8c	.
-4d[	.
+8dL	A minor
+8cJ	.
+[4d	.
 =5	=5
-8d]	G
+8d]	G major
 4r	.
-3...r	Gsus4
+3...r	G suspended-fourth
 =6	=6
-4r	G
-8g	.
-8g	Gsus4
-8g	.
-8g	.
+4r	G major
+8gL	.
+8gJ	G suspended-fourth
+8gL	.
+8gJ	.
 4g	.
 =7	=7
-4a	Am
+4a	A minor
 4e	.
-4a	C
+4a	C major
 4e	.
 =8	=8
-4a	F
+4a	F major
 4e	.
-8d	Am
-8c	.
+8dL	A minor
+8cJ	.
 4d	.
 =9	=9
-4.r	G
-8r	Gsus4
+4.r	G major
+8r	G suspended-fourth
 2b	.
 =10	=10
-4a	G
+4a	G major
 8r	.
-8r	Gsus4
-8.g	.
+8r	G suspended-fourth
+8.gL	.
 8.a	.
-8b	.
+8bJ	.
 =11	=11
-4cc	Am
+4cc	A minor
 4e	.
-2a[	C
+[2a	C major
 =12	=12
-4.a]	F
+4.a]	F major
 8g	.
-8f	Am
+8fL	A minor
 8e	.
 8d	.
-8c	.
+8cJ	.
 =13	=13
-4B	G
+4B	G major
 8r	.
-8r	Gsus4
+8r	G suspended-fourth
 2b	.
 =14	=14
-4a	G
+4a	G major
 8r	.
-8r	Gsus4
-8.g	.
+8r	G suspended-fourth
+8.gL	.
 8.a	.
-8b	.
+8bJ	.
 =15	=15
-4cc	Am
+4cc	A minor
 4e	.
-2a[	C
+[2a	C major
 =16	=16
-4.a]	F
+4.a]	F major
 8g	.
-8f	Am
+8fL	A minor
 8e	.
 8d	.
-8c	.
+8cJ	.
 ==	==
 *-	*-

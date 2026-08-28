@@ -17,48 +17,48 @@
 *M4/4	*
 =1	=1
 2.r	.
-8.dd	.
-16cc	.
+8.ddL	.
+16ccJk	.
 =2	=2
-4b	G
+4b	G major
 4dd	.
-4.gg	G/B
+4.gg	G major/B
 8ff#	.
 =3	=3
-4dd#	C
+4dd#	C major
 4ee	.
-4.aa	A7/C#
+4.aa	A dominant/C#
 8gg	.
 =4	=4
-4fff#	D
+4fff#	D major
 4ggg	.
-4aaa	D7/A
+4aaa	D dominant/A
 4cccc	.
 =5	=5
-2bbb	G/B
-4r	G
-8.dd	.
-16cc	.
+2bbb	G major/B
+4r	G major
+8.ddL	.
+16ccJk	.
 =6	=6
 4b	.
 4dd	.
-4.gg	G7/B
+4.gg	G dominant/B
 8ff#	.
 =7	=7
-4dd#	C
+4dd#	C major
 4ee	.
-4.aa	A7/C#
+4.aa	A dominant/C#
 8gg	.
 =8	=8
-4fff#	D
-8fffn	.
-8fff#	.
-4.cccc	D7/F#
+4fff#	D major
+8fffnL	.
+8fff#J	.
+4.cccc	D dominant/F#
 8fff#	.
 =9	=9
-4ggg[	G
-4ggg]	Gadd(2,4,7)
-4.r	G
+[4ggg	G major
+4ggg]	G other-2,4,7
+4.r	G major
 8r	.
 ==	==
 *-	*-

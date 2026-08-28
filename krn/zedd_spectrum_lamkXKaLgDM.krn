@@ -16,95 +16,95 @@
 *c:	*
 *M4/4	*
 =1	=1
-2r	A-add(2,4,7)
-8B-	A-maj7
-8c	.
+2r	A- other-2,4,7
+8B-L	A- major-seventh
+8cJ	.
 4c	.
 =2	=2
-4c	A-add(2,4,7)
-8B-	.
-8B-	.
-4B-	Cm7/B-
+4c	A- other-2,4,7
+8B-L	.
+8B-J	.
+4B-	C minor-seventh/B-
 4G	.
 =3	=3
-2c	Cm7
-8B-	.
-8c	.
+2c	C minor-seventh
+8B-L	.
+8cJ	.
 4c	.
 =4	=4
 4c	.
-8B-	.
-8B-	.
-4B-	E-
+8B-L	.
+8B-J	.
+4B-	E- major
 4G	.
 =5	=5
-2c	Fm7
-8B-	.
+2c	F minor-seventh
+8B-L	.
 8c	.
-8c[	.
-8c]	A-
+[8c	.
+8cJ]	A- major
 =6	=6
 4c	.
 8B-	.
-8r	B-add(2,4,7)
+8r	B- other-2,4,7
 4B-	.
-8A-	.
-8G[	Cadd(2,4,7)
+8A-L	.
+[8GJ	C other-2,4,7
 =7	=7
 8G]	.
 4f	.
 4en	.
 4c	.
-8e-[	Fm7
+[8e-	F minor-seventh
 =8	=8
 4.e-]	.
-3...r	Gm7
+3...r	G minor-seventh
 =9	=9
-4.r	A-add(2,4,7)
-8r	A-maj7
-8B-	.
+4.r	A- other-2,4,7
+8r	A- major-seventh
+8B-L	.
 8c	.
-8c[	.
-8c]	A-add(2,4,7)
+[8c	.
+8cJ]	A- other-2,4,7
 =10	=10
 4c	.
 8B-	.
-8r	Cm7/B-
+8r	C minor-seventh/B-
 4B-	.
 4G	.
 =11	=11
-2c	Cm7
-8B-	.
-8c	.
+2c	C minor-seventh
+8B-L	.
+8cJ	.
 4c	.
 =12	=12
 4c	.
-8B-	.
-8B-	E-maj7
+8B-L	.
+8B-J	E- major-seventh
 4B-	.
 4G	.
 =13	=13
-2c	Fm7
-8B-	.
+2c	F minor-seventh
+8B-L	.
 8c	.
-8c[	.
-8c]	A-
+[8c	.
+8cJ]	A- major
 =14	=14
 4c	.
-8B-	.
-8B-	B-add(2,4,7)
+8B-L	.
+8B-J	B- other-2,4,7
 4B-	.
-8A-	.
-8G[	.
+8A-L	.
+[8GJ	.
 =15	=15
-8G]	Cadd(2,4,7)
+8G]	C other-2,4,7
 4f	.
 4en	.
 4c	.
-8e-[	Fm7
+[8e-	F minor-seventh
 =16	=16
 4.e-_	.
-8e-]	Gm7
+8e-]	G minor-seventh
 2r	.
 ==	==
 *-	*-

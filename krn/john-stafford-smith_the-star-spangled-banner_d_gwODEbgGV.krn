@@ -17,38 +17,38 @@
 *M3/4	*
 =1	=1
 2r	.
-8.dd	.
-16dd	.
+8.ddL	.
+16ddJk	.
 =2	=2
-4dd	B-
+4dd	B- major
 4ee-	.
 4ff	.
 =3	=3
-2ff	B-
-8ee-	B-/D
-8dd	.
+2ff	B- major
+8ee-L	B- major/D
+8ddJ	.
 =4	=4
-4cc	F
+4cc	F major
 4dd	.
 4ee-	.
 =5	=5
-2ee-	F
-4ee-	B-/D
+2ee-	F major
+4ee-	B- major/D
 =6	=6
-4.dd	B-
-8cc	F/A
-8b-[	Gm
-8b-]	E-/G
+4.dd	B- major
+8cc	F major/A
+[8b-L	G minor
+8b-J]	E- major/G
 =7	=7
-2a	F7
-8g	F7/E-
-8a	.
+2a	F dominant
+8gL	F dominant/E-
+8aJ	.
 =8	=8
-4b-	B-/D
-4d	Gm/B-
-4en	C
+4b-	B- major/D
+4d	G minor/B-
+4en	C major
 =9	=9
-2f	F
+2f	F major
 4r	.
 ==	==
 *-	*-

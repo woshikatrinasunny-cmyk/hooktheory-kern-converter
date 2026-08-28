@@ -16,92 +16,92 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.r	G
+4.r	G major
 8d	.
 4d	.
-4g[	.
+[4g	.
 =2	=2
-4.g]	Em
+4.g]	E minor
 8g	.
 4g	.
-4b[	.
+[4b	.
 =3	=3
-8b]	Bm
+8b]	B minor
 4f#	.
-3...f#[	.
+[3...f#	.
 =4	=4
-2.f#]	D
+2.f#]	D major
 4r	.
 =5	=5
-2r	G
+2r	G major
 4d	.
-4g[	.
+[4g	.
 =6	=6
-4.g]	Em
+4.g]	E minor
 8g	.
 4g	.
-4b[	.
+[4b	.
 =7	=7
-8b]	Bm
-8f#	.
+8bL]	B minor
+8f#J	.
 3...f#	.
 8cc	.
 =8	=8
-8b	D
-8a	.
+8bL	D major
+8aJ	.
 4g	.
 4.b	.
 8a	.
 =9	=9
-4.r	G
+4.r	G major
 8b	.
+8.bL	.
 8.b	.
-8.b	.
-8b	.
+8bJ	.
 =10	=10
-4.dd	Em
+4.dd	E minor
 4.b	.
-16b	.
+16bLK	.
 8b	.
-16b[	.
+[16bJk	.
 =11	=11
-8.b]	Bm
-8.f#	.
+8.bL]	B minor
+8.f#J	.
 4f#	.
 4f#	.
-8f#[	.
+[8f#	.
 =12	=12
-8f#]	D
+8f#]	D major
 4f#	.
 4f#	.
 4g	.
-8g[	.
+[8g	.
 =13	=13
-4g]	G
+4g]	G major
 8.r	.
 16b	.
-8b	.
+8bL	.
 8b	.
 8dd	.
-8b[	.
+[8bJ	.
 =14	=14
-8b]	Em
-8b	.
+8bL]	E minor
+8bJ	.
 4b	.
-8b	.
-8g	.
-4f#[	.
+8bL	.
+8gJ	.
+[4f#	.
 =15	=15
-4f#]	Bm
+4f#]	B minor
 8e	.
 4r	.
+8f#L	.
 8f#	.
-8f#	.
-8f#[	.
+[8f#J	.
 =16	=16
-8f#]	D
+8f#L]	D major
 8f#	.
-8f#	.
+8f#J	.
 4f#	.
 4g	.
 8e	.

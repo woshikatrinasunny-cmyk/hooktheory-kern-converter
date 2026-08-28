@@ -16,129 +16,129 @@
 *b-:	*
 *M4/4	*
 =1	=1
-16r	B-add(3,5,7,10)
+16r	B- other-3,5,7,10
 16r	.
-8r	B-add(3,5,7,10)
+8r	B- other-3,5,7,10
 16r	.
-16r	B-add(3,5,7,10)
+16r	B- other-3,5,7,10
 16r	.
-8.r	E-add(4,10)
+8.r	E- other-4,10
 16r	.
-8r	E-add(4,10)
+8r	E- other-4,10
 16r	.
-8r	E-add(4,10)
+8r	E- other-4,10
 =2	=2
-16r	B-add(3,5,7,10)
+16r	B- other-3,5,7,10
 16r	.
-8r	B-add(3,5,7,10)
+8r	B- other-3,5,7,10
 16r	.
-16r	B-add(3,5,7,10)
+16r	B- other-3,5,7,10
 16r	.
-8.r	E-add(4,10)
+8.r	E- other-4,10
 16r	.
-6...r	E-add(4,10)
+6...r	E- other-4,10
 =3	=3
-16b-[	B-add(3,5,7,10)
-16b-_	.
-8b-]	B-add(3,5,7,10)
+[16b-LL	B- other-3,5,7,10
+16b-J_	.
+8b-J]	B- other-3,5,7,10
 16r	.
-16bn[	B-add(3,5,7,10)
-16bn]	.
-8.cc[	E-add(4,10)
-16cc_	.
-16cc]	E-add(4,10)
+[16bnLL	B- other-3,5,7,10
+16bnJJ]	.
+[8.cc	E- other-4,10
+16ccLL_	.
+16ccJJ]	E- other-4,10
 16r	.
 16cc	.
-24r	E-add(4,10)
+24r	E- other-4,10
 16bn	.
 48r	.
 =4	=4
-16b-[	B-add(3,5,7,10)
+[16b-LL	B- other-3,5,7,10
 16b-_	.
-24b-]	B-add(3,5,7,10)
+24b-JJ]	B- other-3,5,7,10
 48r	.
 16b-	.
 16r	.
-16bn	B-add(3,5,7,10)
+16bn	B- other-3,5,7,10
 16r	.
-16cc	E-add(4,10)
+16cc	E- other-4,10
 16r	.
 16g	.
 16r	.
-4f	E-add(4,10)
+4f	E- other-4,10
 16r	.
 =5	=5
 *k[f#c#g#d#a#e#]	*
 *g#:	*
-16g#[	G#add(3,5,7,10)
-16g#_	.
-8g#]	G#add(3,5,7,10)
+[16g#LL	G# other-3,5,7,10
+16g#J_	.
+8g#J]	G# other-3,5,7,10
 16r	.
-16an[	G#add(3,5,7,10)
-16an]	.
-8.a#[	C#add(4,9)
-16a#_	.
-16a#]	C#add(4,9)
+[16anLL	G# other-3,5,7,10
+16anJJ]	.
+[8.a#	C# other-4,9
+16a#LL_	.
+16a#JJ]	C# other-4,9
 16r	.
-16a#	C#add(2,4,9)
+16a#	C# other-2,4,9
 24r	.
 16an	.
 48r	.
 =6	=6
-16g#[	G#add(3,5,7,10)
+[16g#LL	G# other-3,5,7,10
 16g#_	.
-24g#]	G#add(3,5,7,10)
+24g#JJ]	G# other-3,5,7,10
 48r	.
 16g#	.
 16r	.
-16an	G#m7
+16an	G# minor-seventh
 16r	.
-16a#[	C#add(4,9)
-16a#_	.
-16a#_	C#add(4,9)
-16a#]	.
-16r	C#add(5,10)
-16g#[	.
-48g#]	C#add(4,9)
+[16a#	C# other-4,9
+16a#LL_	.
+16a#_	C# other-4,9
+16a#JJ]	.
+16r	C# other-5,10
+[16g#LL	.
+48g#k]	C# other-4,9
 18...c#	.
-16d#	.
+16d#JJ	.
 =7	=7
 *k[f#c#g#d#a#e#]	*
 *F#:	*
-48r	F#maj7
-6a#[	.
-4a#_	F#maj9
-16a#]	F#maj7
+48r	F# major-seventh
+[6a#	.
+4a#_	F# major-ninth
+16a#]	F# major-seventh
 4r	.
-4an	E#maj7
+4an	E# major-seventh
 =8	=8
-8.a#[	F#maj7
-16a#]	F#maj7
+[8.a#L	F# major-seventh
+16a#Jk]	F# major-seventh
 4r	.
-8.r	G#add(3,5,7,10)
-18...g#	C#add(4,9)
+8.r	G# other-3,5,7,10
+18...g#	C# other-4,9
 48r	.
-18...c#	.
-12d#	.
+18...c#LK	.
+12d#J	.
 =9	=9
-8.f#[	F#add(4,9)
-4f#_	F#add(4,9)
-16f#]	F#add(4,9)
+[8.f#	F# other-4,9
+4f#_	F# other-4,9
+16f#]	F# other-4,9
 8.r	.
-16r	F#add(4,9)
+16r	F# other-4,9
 16r	.
-8.r	F#add(4,9)
+8.r	F# other-4,9
 =10	=10
 *k[b-e-]	*
 *B-:	*
-16r	Faug7
+16r	F augmented-seventh
 16r	.
-16r	Faug7
-16r	Faug7
+16r	F augmented-seventh
+16r	F augmented-seventh
 16r	.
-16r	Faug7
+16r	F augmented-seventh
 16r	.
-16r	Faug7
+16r	F augmented-seventh
 2r	.
 ==	==
 *-	*-

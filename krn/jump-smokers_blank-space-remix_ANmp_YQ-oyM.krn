@@ -15,85 +15,85 @@
 *d:	*
 *M4/4	*
 =1	=1
-8f	Dadd(2,3,7)
+8f	D other-2,3,7
 16r	.
-8.r	Dadd(2,3,7)
-8.r	Eadd(1,3,6)
-8.r	Eadd(1,3,6)
-8.r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
+8.r	D other-2,3,7
+8.r	E other-1,3,6
+8.r	E other-1,3,6
+8.r	E other-1,3,6
+16r	E other-1,3,6
 =2	=2
 8r	.
-8.r	Eadd(1,3,6)
-8.r	Eadd(1,3,6)
-8r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
+8.r	E other-1,3,6
+8.r	E other-1,3,6
+8r	E other-1,3,6
+16r	E other-1,3,6
+16r	E other-1,3,6
+16r	E other-1,3,6
+16r	E other-1,3,6
+16r	E other-1,3,6
+16r	E other-1,3,6
 =3	=3
-8.r	Fadd(2,4,7)/A
-8.r	Fadd(2,4,7)/A
-8.r	Gadd(2,3,7)
-8.r	Gadd(2,3,7)
-8.r	Gadd(2,3,7)
+8.r	F other-2,4,7/A
+8.r	F other-2,4,7/A
+8.r	G other-2,3,7
+8.r	G other-2,3,7
+8.r	G other-2,3,7
 16r	.
 =4	=4
-8r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-8r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
+8r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+8r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
 =5	=5
-8.r	Dadd(2,3,7)
-8.r	Dadd(2,3,7)
-8.r	Eadd(1,3,6)
-8.r	Eadd(1,3,6)
-8.r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
+8.r	D other-2,3,7
+8.r	D other-2,3,7
+8.r	E other-1,3,6
+8.r	E other-1,3,6
+8.r	E other-1,3,6
+16r	E other-1,3,6
 =6	=6
 8r	.
-8.r	Eadd(1,3,6)
-8.r	Eadd(1,3,6)
-8r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
-16r	Eadd(1,3,6)
+8.r	E other-1,3,6
+8.r	E other-1,3,6
+8r	E other-1,3,6
+16r	E other-1,3,6
+16r	E other-1,3,6
+16r	E other-1,3,6
+16r	E other-1,3,6
+16r	E other-1,3,6
+16r	E other-1,3,6
 =7	=7
-8.r	Fadd(2,4,7)/A
-8.r	Fadd(2,4,7)/A
-8.r	Gadd(2,3,7)
-8.r	Gadd(2,3,7)
-8.r	Gadd(2,3,7)
+8.r	F other-2,4,7/A
+8.r	F other-2,4,7/A
+8.r	G other-2,3,7
+8.r	G other-2,3,7
+8.r	G other-2,3,7
 16r	.
 =8	=8
-8r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16r	Gadd(2,3,7)
-16c	Gadd(2,3,7)
-16a[	Gadd(2,3,7)
-16a]	Gadd(2,3,7)
-8f	Gadd(2,3,7)
-16f	Gadd(2,3,7)
-16f	Gadd(2,3,7)
+8r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16r	G other-2,3,7
+16cLL	G other-2,3,7
+[16a	G other-2,3,7
+16aJ]	G other-2,3,7
+8f	G other-2,3,7
+16fL	G other-2,3,7
+16fJJ	G other-2,3,7
 ==	==
 *-	*-

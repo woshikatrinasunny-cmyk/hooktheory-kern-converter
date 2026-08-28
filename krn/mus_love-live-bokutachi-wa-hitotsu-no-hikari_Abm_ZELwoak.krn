@@ -16,101 +16,101 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.f#	D
+4.f#	D major
 8r	.
-8f#	.
+8f#L	.
 8e	.
 8f#	.
-8e[	.
+[8eJ	.
 =2	=2
-4e_	F#m7
+4e_	F# minor-seventh
 4e]	.
-4r	F#m7
+4r	F# minor-seventh
 4e	.
 =3	=3
-4d	Gmaj7
-8c#	.
-8d[	.
+4d	G major-seventh
+8c#L	.
+[8dJ	.
 4d]	.
 4r	.
 =4	=4
-4d	A#
+4d	A# major
 4e	.
-4d	C
+4d	C major
 4e	.
 =5	=5
-4.f#	D
+4.f#	D major
 8r	.
-8f#	.
+8f#L	.
 8e	.
 8f#	.
-8e[	.
+[8eJ	.
 =6	=6
-4e_	F#m7
+4e_	F# minor-seventh
 4e]	.
-4r	F#m7
+4r	F# minor-seventh
 4e	.
 =7	=7
-4d	Gmaj7
-8e	.
-8d[	.
+4d	G major-seventh
+8eL	.
+[8dJ	.
 4d]	.
 8r	.
-8fn[	.
+[8fn	.
 =8	=8
-4fn]	A#
+4fn]	A# major
 4e	.
-4d	C
+4d	C major
 4r	.
 =9	=9
 *k[b-]	*
 *F:	*
-4c	F
-8f	.
-8f[	.
+4c	F major
+8fL	.
+[8fJ	.
 4f]	.
 8r	.
-8c[	.
+[8c	.
 =10	=10
-8c]	Fadd(2,4,7)/A
-8c	.
+8cL]	F other-2,4,7/A
+8cJ	.
 4g	.
-4f	Fadd(2,4,7)/A
+4f	F other-2,4,7/A
 4r	.
 =11	=11
-4f	B-maj7
+4f	B- major-seventh
 4r	.
 4f	.
-8g	.
-8a-[	.
+8gL	.
+[8a-J	.
 =12	=12
-8a-]	D-
-8a-	.
+8a-L]	D- major
+8a-J	.
 4g	.
-4f	E-
+4f	E- major
 4r	.
 =13	=13
-4.a	F
+4.a	F major
 8r	.
 4f	.
 8r	.
-8a[	.
+[8a	.
 =14	=14
-4a]	Fadd(2,4,7)/A
-8a	.
-8g	.
-4f	Fadd(2,4,7)/A
+4a]	F other-2,4,7/A
+8aL	.
+8gJ	.
+4f	F other-2,4,7/A
 8r	.
 8c	.
 =15	=15
-4d	B-
+4d	B- major
 4e	.
 4f	.
 4g	.
 =16	=16
-4a-	D-
+4a-	D- major
 4g	.
-4f	E-
+4f	E- major
 4r	.
 ==	==
 *-	*-

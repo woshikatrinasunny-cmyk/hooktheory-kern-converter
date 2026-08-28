@@ -16,155 +16,155 @@
 *b:	*
 *M6/4	*
 =1	=1
-4b	Bm
+4b	B minor
 8b	.
-4r	Bm
+4r	B minor
 8b	.
-4b	Bm
+4b	B minor
 8b	.
-4dd	Bm
+4dd	B minor
 8dd	.
 =2	=2
-4b	Bm
+4b	B minor
 8b	.
-4r	Bm
+4r	B minor
 8b	.
-4b	Bm
+4b	B minor
 8b	.
-4dd	Bm
+4dd	B minor
 8dd	.
 =3	=3
-4g	G
+4g	G major
 8g	.
-4r	G
+4r	G major
 8g	.
-4g	G
+4g	G major
 8g	.
-4dd	G
+4dd	G major
 8dd	.
 =4	=4
-4f#	F#
+4f#	F# major
 8f#	.
-4r	F#
+4r	F# major
 8f#	.
-4f#	F#
+4f#	F# major
 8f#	.
-4a#	F#
+4a#	F# major
 8a#	.
 =5	=5
-4.r	Bm
-4cc#	Bm
-8dd[	.
-4.dd]	Bm
-4cc#	Bm
-8dd[	.
+4.r	B minor
+4cc#	B minor
+[8dd	.
+4.dd]	B minor
+4cc#	B minor
+[8dd	.
 =6	=6
-4.dd]	Bm
-4cc#	Bm
-8b[	.
-4b]	Bm
-8a[	.
-4a]	Bm
-8b[	.
+4.dd]	B minor
+4cc#	B minor
+[8b	.
+4b]	B minor
+[8a	.
+4a]	B minor
+[8b	.
 =7	=7
-4.b]	G
-4cc#	G
-8dd[	.
-4.dd]	G
-4cc#	G
-8dd[	.
+4.b]	G major
+4cc#	G major
+[8dd	.
+4.dd]	G major
+4cc#	G major
+[8dd	.
 =8	=8
-4.dd]	F#
-4cc#	F#
-8ee[	.
-4ee]	F#
-8dd[	.
-4dd]	F#
-8b[	.
+4.dd]	F# major
+4cc#	F# major
+[8ee	.
+4ee]	F# major
+[8dd	.
+4dd]	F# major
+[8b	.
 =9	=9
-4.b]	Bm
-4cc#	Bm
-8dd[	.
-4.dd]	Bm
-4cc#	Bm
-8b[	.
+4.b]	B minor
+4cc#	B minor
+[8dd	.
+4.dd]	B minor
+4cc#	B minor
+[8b	.
 =10	=10
-4b]	Bm
-8a[	.
-4a]	Bm
-8b[	.
-4.b]	Bm
-4f#	Bm
+4b]	B minor
+[8a	.
+4a]	B minor
+[8b	.
+4.b]	B minor
+4f#	B minor
 8f#	.
 =11	=11
-4b	G
-8b[	.
-8b]	G
+4b	G major
+[8bL	.
+8bJ]	G major
 4dd	.
-4cc#	G
-8b[	.
-8b]	G
+4cc#	G major
+[8bL	.
+8bJ]	G major
 4f#	.
 =12	=12
-4b	F#
-8cc#[	.
-8cc#]	.
+4b	F# major
+[8cc#L	.
+8cc#J]	.
 4dd	.
 4ee	.
 4dd	.
 4cc#	.
 =13	=13
-4.ff#	Bm
-4.ff#	Bm
-4.ff#	Bm
-4.ff#	Bm
+4.ff#	B minor
+4.ff#	B minor
+4.ff#	B minor
+4.ff#	B minor
 =14	=14
-4ff#	Bm
+4ff#	B minor
 8gg	.
-4ff#	Bm
+4ff#	B minor
 8ee	.
-4.ff#[	Bm
-4.ff#]	Bm
+[4.ff#	B minor
+4.ff#]	B minor
 =15	=15
-4.ff#	G
-4.ff#	G
-4ff#	G
+4.ff#	G major
+4.ff#	G major
+4ff#	G major
 8ee	.
-4.ff#	G
+4.ff#	G major
 =16	=16
-4ff#	F#
+4ff#	F# major
 8ee	.
-4dd	F#
+4dd	F# major
 8ff#	.
-4.ee	F#
-4.dd	F#
+4.ee	F# major
+4.dd	F# major
 =17	=17
-4.ff#	Bm
-4.ff#	Bm
-4.ff#	Bm
-4.ff#	Bm
+4.ff#	B minor
+4.ff#	B minor
+4.ff#	B minor
+4.ff#	B minor
 =18	=18
-4.ff#	Bm
-4.gg	Bm
-4.ff#	Bm
-4.r	Bm
+4.ff#	B minor
+4.gg	B minor
+4.ff#	B minor
+4.r	B minor
 =19	=19
-4ff#	G
+4ff#	G major
 8ee	.
-4dd	G
+4dd	G major
 8ff#	.
-4.ee	G
-4b	G
+4.ee	G major
+4b	G major
 8b	.
 =20	=20
-4ff#	F#
+4ff#	F# major
 8ee	.
-4dd	F#
+4dd	F# major
 8dd	.
-4.ee	F#
-4.dd	F#
+4.ee	F# major
+4.dd	F# major
 =21	=21
-4.b	G
+4.b	G major
 1r	.
 8r	.
 ==	==

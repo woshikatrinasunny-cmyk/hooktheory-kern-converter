@@ -16,79 +16,79 @@
 *A:	*
 *M4/4	*
 =1	=1
-1r	A
+1r	A major
 =2	=2
-4cc#	A
+4cc#	A major
 8cc#	.
 4cc#	.
-8dd	.
+8ddL	.
 8cc#	.
-8b	.
+8bJ	.
 =3	=3
-1r	Amaj7sus2
+1r	A major-seventh-suspended-second
 =4	=4
-3...r	Amaj7sus2
+3...r	A major-seventh-suspended-second
 4b	.
-8b[	.
+[8b	.
 =5	=5
-8b]	Bm7/A
+8b]	B minor-seventh/A
 4cc#	.
 4a	.
 4f#	.
-8a[	.
+[8a	.
 =6	=6
-8a]	Bm7/A
+8a]	B minor-seventh/A
 2f#	.
 4a	.
-8a[	.
+[8a	.
 =7	=7
-8a]	Dm/A
+8a]	D minor/A
 4fn	.
 4.fn	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 =8	=8
-1r	Dm/A
+1r	D minor/A
 =9	=9
-2..r	A
+2..r	A major
 8e	.
 =10	=10
-8cc#	A
+8cc#	A major
 4cc#	.
 4cc#	.
 4a	.
-8b[	.
+[8b	.
 =11	=11
-8b]	E
-8a	.
+8bL]	E major
+8aJ	.
 4g#	.
 2r	.
 =12	=12
-3...r	E
+3...r	E major
+8bL	.
 8b	.
-8b	.
-8b	.
+8bJ	.
 =13	=13
-8a	Bm
+8a	B minor
 4f#	.
 4a	.
 4f#	.
 8a	.
 =14	=14
-8f#	Bm
-8f#	.
+8f#L	B minor
+8f#J	.
 4.r	.
+8aL	.
 8a	.
-8a	.
-8a[	.
+[8aJ	.
 =15	=15
-4.a]	Dm
+4.a]	D minor
 8b	.
 4b	.
-8ccn	.
-8ccn[	.
+8ccnL	.
+[8ccnJ	.
 =16	=16
-4ccn]	Dm
+4ccn]	D minor
 2.r	.
 ==	==
 *-	*-

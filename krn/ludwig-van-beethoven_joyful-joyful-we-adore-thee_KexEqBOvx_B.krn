@@ -16,85 +16,85 @@
 *F:	*
 *M4/4	*
 =1	=1
-4a	F
+4a	F major
 4a	.
-4b-	Fadd(2,4,5,7,11)
-4cc	F
+4b-	F other-2,4,5,7,11
+4cc	F major
 =2	=2
-4cc	F/C
-8b-[	C7sus2
-8b-]	C7
-4a	F/C
-4g	C7/B-
+4cc	F major/C
+[8b-L	C dominant-seventh-suspended-second
+8b-J]	C dominant
+4a	F major/C
+4g	C dominant/B-
 =3	=3
-4f	F/A
+4f	F major/A
 4f	.
-4g	Edim/G
-4a	F
+4g	E diminished/G
+4a	F major
 =4	=4
-4.a	F/C
-8g	C
+4.a	F major/C
+8g	C major
 2g	.
 =5	=5
-4a	F
+4a	F major
 4a	.
-4b-	B-/F
-4cc	F7
+4b-	B- major/F
+4cc	F dominant
 =6	=6
-4cc	B-add(2,5,7)
-4b-	Gm7/B-
-4a	B-maj7sus2
-4g	Gm7/B-
+4cc	B- other-2,5,7
+4b-	G minor-seventh/B-
+4a	B- major-seventh-suspended-second
+4g	G minor-seventh/B-
 =7	=7
-4f	F/C
+4f	F major/C
 4f	.
-4g	C7
-4a	F/C
+4g	C dominant
+4a	F major/C
 =8	=8
-4.g	C7
-8f	F
+4.g	C dominant
+8f	F major
 2f	.
 =9	=9
-4g	C
+4g	C major
 4g	.
-4a	F/C
+4a	F major/C
 4f	.
 =10	=10
-4g	C7
-8a	F/C
-8b-	C7
-4a	F/C
+4g	C dominant
+8aL	F major/C
+8b-J	C dominant
+4a	F major/C
 4f	.
 =11	=11
-4g	C7
-8a	Am/C
-8b-	C7
-4a	A/D-
-4g	A7
+4g	C dominant
+8aL	A minor/C
+8b-J	C dominant
+4a	A major/D-
+4g	A dominant
 =12	=12
-8f[	Dm
-8f]	Dm7
-8g[	G
-8g]	G7
-2c	C
+[8fL	D minor
+8f]	D minor-seventh
+[8g	G major
+8gJ]	G dominant
+2c	C major
 =13	=13
-4a	F
+4a	F major
 4a	.
-4b-	B-/F
-4cc	F7
+4b-	B- major/F
+4cc	F dominant
 =14	=14
-4cc	B-add(2,5,7)
-4b-	Gm7/B-
-4a	B-maj7sus2
-4g	Gm7/B-
+4cc	B- other-2,5,7
+4b-	G minor-seventh/B-
+4a	B- major-seventh-suspended-second
+4g	G minor-seventh/B-
 =15	=15
-4f	F/C
+4f	F major/C
 4f	.
-4g	C7
-4a	F/C
+4g	C dominant
+4a	F major/C
 =16	=16
-4.g	C7
-8f	F
+4.g	C dominant
+8f	F major
 2f	.
 ==	==
 *-	*-

@@ -15,140 +15,140 @@
 *a:	*
 *M4/4	*
 =1	=1
-2ee[	Am
-4ee_	Am/E
-16ee]	Am
-8.ee	.
+[2ee	A minor
+4ee_	A minor/E
+16eeLK]	A minor
+8.eeJ	.
 =2	=2
-4dd	E/B
-8.dd	.
-16ff[	.
-4ff]	E
-8ee	E/G#
-8dd	.
+4dd	E major/B
+8.ddL	.
+[16ffJk	.
+4ff]	E major
+8eeL	E major/G#
+8ddJ	.
 =3	=3
-2cc[	Am
-16cc]	Am/E
+[2cc	A minor
+16cc]	A minor/E
 16r	.
-8ee	.
-8dd	Am
-8cc	.
+8eeL	.
+8dd	A minor
+8ccJ	.
 =4	=4
-4b	Dm/F
+4b	D minor/F
 16r	.
 8.b	.
-4dd	E
-8cc	E/G#
-8b	.
+4dd	E major
+8ccL	E major/G#
+8bJ	.
 =5	=5
-4a	Am
+4a	A minor
 4b	.
-4cc[	Am/E
-16cc]	Am
+[4cc	A minor/E
+16cc]	A minor
 16r	.
 8ee	.
 =6	=6
-4dd	E/B
+4dd	E major/B
 16r	.
-16dd[	.
-8dd]	E
+[16ddLK	.
+8ddJ]	E major
 4gg	.
-8gg	E/G#
-8ff	.
+8ggL	E major/G#
+8ffJ	.
 =7	=7
-2ee[	Am
+[2ee	A minor
 16ee]	.
 16r	.
-8ee	Am/E
+8eeL	A minor/E
 8dd	.
-8cc	.
+8ccJ	.
 =8	=8
-8dd	E/B
+8ddL	E major/B
 8cc	.
 8b	.
-8cc	Dm/F
-8dd	E
+8ccJ	D minor/F
+8ddL	E major
 8ff	.
-8ee	E/G#
-8dd	.
+8ee	E major/G#
+8ddJ	.
 =9	=9
-8cc	Am
+8ccL	A minor
 8b	.
-8a	C/G
-8b	.
-8cc	F
+8a	C major/G
+8bJ	.
+8ccL	F major
 8dd	.
-8ee	Am/E
-8ff	.
+8ee	A minor/E
+8ffJ	.
 =10	=10
-4.gg	Dm
+4.gg	D minor
 8ff	.
-8ee	E
+8ee	E major
 16r	.
-16dd[	.
-4dd]	E/G#
+[16dd	.
+4dd]	E major/G#
 =11	=11
-8.ff	Am
-8ee	.
+8.ffL	A minor
+8eeJ	.
 16r	.
 8ee	.
-4ccc[	Am/E
-8ccc]	Am/E
-8bb	.
+[4ccc	A minor/E
+8cccL]	A minor/E
+8bbJ	.
 =12	=12
-8.dd[	Bdim
-8.dd_	Dm/A
-8.dd]	E/G#
+[8.ddL	B diminished
+8.ddJ_	D minor/A
+8.dd]	E major/G#
 16r	.
-8dd	E/G#
-8bb	E
-8aa	.
+8ddL	E major/G#
+8bb	E major
+8aaJ	.
 =13	=13
-4.cc[	Am
-8.cc]	C/G
+[4.cc	A minor
+8.cc]	C major/G
 16r	.
-8cc	B/F#
+8ccL	B major/F#
 8aa	.
-8gg	.
+8ggJ	.
 =14	=14
-8.b	Bdim/F
+8.bL	B diminished/F
 8.b	.
-8b	E
-8.b	.
-16gg[	.
-8gg]	E/G#
-8ff	.
+8bJ	E major
+8.bL	.
+[16ggk	.
+8gg]	E major/G#
+8ffJ	.
 =15	=15
-2ee[	Am
-16ee]	Am
+[2ee	A minor
+16ee]	A minor
 16r	.
-8ee	.
-8dd	Am/C
-8cc	.
+8eeL	.
+8dd	A minor/C
+8ccJ	.
 =16	=16
-4b	Dm
+4b	D minor
 16r	.
-16b[	.
-16b]	E
+[16bLL	.
+16bJJ]	E major
 6...dd	.
-8cc	E/G#
-8b	.
+8ccL	E major/G#
+8bJ	.
 =17	=17
-4a	Am
+4a	A minor
 4b	.
-6...cc	C/G
+6...cc	C major/G
 16r	.
 8cc	.
 =18	=18
-4b	B/F#
+4b	B major/F#
 16r	.
-16b[	.
-16b]	Bdim/F
+[16bLL	.
+16bJJ]	B diminished/F
 6...dd	.
-8cc	E
-8b	.
+8ccL	E major
+8bJ	.
 =19	=19
-4.a	Am
+4.a	A minor
 4.r	.
 ==	==
 *-	*-

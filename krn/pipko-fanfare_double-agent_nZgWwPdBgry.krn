@@ -16,90 +16,90 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	G
-8dd	.
-8b	.
-8dd	.
-8ee	.
+4r	G major
+8ddL	.
+8bJ	.
+8ddL	.
+8eeJ	.
 4r	.
 =2	=2
+8ddL	.
 8dd	.
-8dd	.
-8b	.
+8bJ	.
 4dd	.
 4ee	.
-8b[	.
+[8b	.
 =3	=3
-2.b]	E
-8a	.
-8g#[	.
+2.b]	E major
+8aL	.
+[8g#J	.
 =4	=4
 2g#]	.
 4r	.
-8dd	.
-8b	.
+8ddL	.
+8bJ	.
 =5	=5
-4r	G
-8dd	.
-8b	.
-8dd	.
-8ee	.
+4r	G major
+8ddL	.
+8bJ	.
+8ddL	.
+8eeJ	.
 4r	.
 =6	=6
+8ddL	.
 8dd	.
-8dd	.
-8b	.
+8bJ	.
 4dd	.
 4ee	.
-8b[	.
+[8b	.
 =7	=7
-2.b]	E
-8a	.
-8g#[	.
+2.b]	E major
+8aL	.
+[8g#J	.
 =8	=8
 2g#]	.
 4r	.
 4g#	.
 =9	=9
-4a	Am
-8a	.
-8a	.
+4a	A minor
+8aL	.
+8aJ	.
 4a	.
-8g	.
-8f#[	.
+8gL	.
+[8f#J	.
 =10	=10
-8f#]	D
+8f#]	D major
 4f#	.
 4f#	.
 4.f#	.
 =11	=11
-4.g	G
-8g[	.
-8g]	Gmaj7/F#
+4.g	G major
+[8g	.
+8g]	G major-seventh/F#
 4f#	.
-8f#[	.
+[8f#	.
 =12	=12
-8f#]	Em
+8f#]	E minor
 3...e	.
 4r	.
 =13	=13
-4r	C
-8dd	.
-8b	.
-8dd	.
-8ee	.
+4r	C major
+8ddL	.
+8bJ	.
+8ddL	.
+8eeJ	.
 4r	.
 =14	=14
-8dd	Cm
+8ddL	C minor
 8dd	.
-8b	.
+8bJ	.
 4dd	.
 4ee	.
-8gg[	.
+[8gg	.
 =15	=15
-1gg]	G
+1gg]	G major
 =16	=16
-2.r	Gadd(2,3,7,11)
+2.r	G other-2,3,7,11
 4fn	.
 ==	==
 *-	*-

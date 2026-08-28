@@ -16,61 +16,61 @@
 *F#:	*
 *M4/4	*
 =1	=1
-16b	B
-8b	.
+16bLK	B major
+8bJ	.
 16r	.
 8r	.
 16f#	.
-8.an	A
+8.an	A major
 8f#	.
 8r	.
-16b	.
-16cc#[	C#
+16bLL	.
+[16cc#JJ	C# major
 =2	=2
 4cc#]	.
 8.r	.
 16f#	.
-16b	.
-16b	.
-8b	B
-8b	B
-16an	A
-16an[	A
+16bLL	.
+16bJ	.
+8b	B major
+8b	B major
+16anL	A major
+[16anJJ	A major
 =3	=3
-16an]	.
-16b	B
-8b	B
+16anLL]	.
+16bJ	B major
+8bJ	B major
 8r	.
 16f#	.
-8.an	A
+8.an	A major
 8f#	.
 8r	.
-16b	.
-16cc#[	C#
+16bLL	.
+[16cc#JJ	C# major
 =4	=4
 4cc#]	.
 8r	.
-16an	.
-16b	.
-8cc#	.
-8b	B
-8b	B
-16an	A
-16an[	B
+16anLL	.
+16bJJ	.
+8cc#L	.
+8b	B major
+8b	B major
+16anL	A major
+[16anJJ	B major
 =5	=5
-16an]	.
-8.b	.
+16anLK]	.
+8.bJ	.
 16r	.
+16anLL	.
 16an	.
-16an	.
-16b	.
-8cc#	.
-8b	B
-8b	B
-16an	A
-16b	B
+16bJJ	.
+8cc#L	.
+8b	B major
+8b	B major
+16anL	A major
+16bJJ	B major
 =6	=6
-4..an	A
+4..an	A major
 16f#	.
 2r	.
 ==	==

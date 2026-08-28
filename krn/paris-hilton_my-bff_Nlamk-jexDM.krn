@@ -16,17 +16,17 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2r	F#m
+2r	F# minor
 8f#	.
 4.f#	.
 =2	=2
-4a	D
+4a	D major
 8g#	.
 4f#	.
 4e	.
-8e[	.
+[8e	.
 =3	=3
-1e]	E
+1e]	E major
 =4	=4
 4r	.
 8B	.
@@ -34,18 +34,18 @@
 8A	.
 4F#	.
 =5	=5
-4.r	F#m
+4.r	F# minor
 8f#	.
 8f#	.
 4.f#	.
 =6	=6
-4a	D
+4a	D major
 8g#	.
 4f#	.
 4e	.
-8e[	.
+[8e	.
 =7	=7
-1e]	E
+1e]	E major
 =8	=8
 4r	.
 8B	.
@@ -53,46 +53,46 @@
 8A	.
 4F#	.
 =9	=9
-2r	F#m
+2r	F# minor
+8f#L	.
 8f#	.
 8f#	.
-8f#	.
-8f#[	.
+[8f#J	.
 =10	=10
-8f#]	D
+8f#L]	D major
 8f#	.
-8f#	.
+8f#J	.
 4f#	.
-8e	.
+8eL	.
 8d	.
-8e[	.
+[8eJ	.
 =11	=11
-8e]	E
+8e]	E major
 3...f#	.
 4r	.
 =12	=12
 8r	.
-8B	.
-8A	.
+8BL	.
+8AJ	.
 4c#	.
 8A	.
 4F#	.
 =13	=13
-2r	F#m
+2r	F# minor
 8f#	.
 4.f#	.
 =14	=14
-4a	D
+4a	D major
 8g#	.
 4f#	.
 4e	.
-8e[	.
+[8e	.
 =15	=15
-1e]	E
+1e]	E major
 =16	=16
 8r	.
-8B	.
-8A	.
+8BL	.
+8AJ	.
 4c#	.
 8A	.
 4F#	.

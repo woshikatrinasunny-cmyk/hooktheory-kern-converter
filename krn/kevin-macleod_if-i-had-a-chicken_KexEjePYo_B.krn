@@ -16,7 +16,7 @@
 *C:	*
 *M4/4	*
 =1	=1
-16ee	C
+16ee	C major
 16r	.
 16dd#	.
 16r	.
@@ -26,11 +26,11 @@
 16r	.
 16ee	.
 16r	.
-16dd#	.
+16dd#LK	.
 8.dd	.
-8g#	.
+8g#J	.
 =2	=2
-16a	F
+16a	F major
 16r	.
 16cc	.
 16r	.
@@ -39,7 +39,7 @@
 2cc	.
 8dd#	.
 =3	=3
-16ee	C
+16ee	C major
 16r	.
 16ee	.
 16r	.
@@ -49,11 +49,11 @@
 16r	.
 16ee	.
 16r	.
-16dd#	.
+16dd#LK	.
 8.dd	.
-8a#	.
+8a#J	.
 =4	=4
-16b	G
+16b	G major
 16r	.
 16dd	.
 16r	.
@@ -63,7 +63,7 @@
 4dd	.
 8dd#	.
 =5	=5
-16ee	C
+16ee	C major
 16r	.
 16dd#	.
 16r	.
@@ -73,40 +73,40 @@
 16r	.
 16ee	.
 16r	.
-16dd#	.
+16dd#LK	.
 8.dd	.
-8g#	.
+8g#J	.
 =6	=6
-16a	F
+16a	F major
 16r	.
 16cc	.
 16r	.
 16dd	.
 16r	.
 4cc	.
-8cc	.
-16dd	.
+8ccL	.
+16ddJk	.
 16r	.
 8dd#	.
 =7	=7
-16ee	C
+16ee	C major
 16r	.
 16ee	.
 8.r	.
 8ee	.
-16dd	G
+16dd	G major
 16r	.
 16dd	.
 8.r	.
 16dd	.
 16r	.
 =8	=8
-4cc[	C
-4cc]	G
-8r	C
-8ccc	Cadd(2,4,7)/G
-16ddd	Dadd(3,5,7,10)/A
+[4cc	C major
+4cc]	G major
+8r	C major
+8cccL	C other-2,4,7/G
+16dddJk	D other-3,5,7,10/A
 16r	.
-8ddd#	B
+8ddd#	B major
 ==	==
 *-	*-

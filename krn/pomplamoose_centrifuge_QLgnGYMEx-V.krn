@@ -16,52 +16,52 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	Gadd(2,7,9)
+4r	G other-2,7,9
 8d	.
 4d	.
-4.e[	.
+[4.e	.
 =2	=2
-8e]	A7sus4
+8e]	A dominant-seventh-suspended-fourth
 8r	.
 8e	.
 4e	.
-4.g[	.
+[4.g	.
 =3	=3
-8g]	F#7
+8g]	F# dominant
 8r	.
 8g	.
 4g	.
 4a	.
-8b[	.
+[8b	.
 =4	=4
-8b]	Dadd(2,5,7)
+8b]	D other-2,5,7
 4dd	.
 4b	.
 8a	.
 4g	.
 =5	=5
-4r	Gadd(2,7,9)
+4r	G other-2,7,9
 8d	.
 4d	.
-4.e[	.
+[4.e	.
 =6	=6
-8e]	A7sus4
+8e]	A dominant-seventh-suspended-fourth
 8r	.
 8e	.
 4e	.
-4.g[	.
+[4.g	.
 =7	=7
-8g]	F#7
+8g]	F# dominant
 8r	.
 8g	.
 4g	.
 4a	.
-8b[	.
+[8b	.
 =8	=8
-8b]	Cadd(2,4,7,9)
+8b]	C other-2,4,7,9
 4dd	.
-8ee[	.
-8ee]	Dadd(2,5,7)
+[8ee	.
+8ee]	D other-2,5,7
 4.gg	.
 ==	==
 *-	*-

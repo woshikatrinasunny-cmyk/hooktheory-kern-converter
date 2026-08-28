@@ -16,53 +16,53 @@
 *a:	*
 *M4/4	*
 =1	=1
-8e	E7
+8eL	E dominant
 8g#	.
 8b	.
-8cc	.
-4a	Am
-8ee	.
-8dd#	.
+8ccJ	.
+4a	A minor
+8eeL	.
+8dd#J	.
 =2	=2
-4b	B7
-8dd	A#7
-8cc#	.
-4a[	A
-8a]	Am7b5/D#
-8a	.
+4b	B dominant
+8ddL	A# dominant
+8cc#J	.
+[4a	A major
+8aL]	A half-diminished/D#
+8aJ	.
 =3	=3
-8cc	D7
+8ccL	D dominant
 8b	.
-8b	Dm7
-8a	.
-4.ee	E
+8b	D minor-seventh
+8aJ	.
+4.ee	E major
 8e	.
 =4	=4
-8e	E7/D
+8eL	E dominant/D
 8g#	.
 8b	.
-8cc	.
-8a	Am/C
+8ccJ	.
+8aL	A minor/C
 8ee	.
 8ee	.
-8dd#	.
+8dd#J	.
 =5	=5
-8b	F7
+8bL	F dominant
 8b	.
 8dd	.
-8cc#	.
-4a[	A/E
-8a]	Am/C
-8a	.
+8cc#J	.
+[4a	A major/E
+8aL]	A minor/C
+8aJ	.
 =6	=6
-4.cc	Eadd(1,3,5,7,10)
-16b	.
-16cc	.
-4b[	E7
-8b]	E11
-16a	.
-16b	.
+4.cc	E other-1,3,5,7,10
+16bLL	.
+16ccJJ	.
+[4b	E dominant
+8bL]	E dominant-11th
+16aL	.
+16bJJ	.
 =7	=7
-1a	Am
+1a	A minor
 ==	==
 *-	*-

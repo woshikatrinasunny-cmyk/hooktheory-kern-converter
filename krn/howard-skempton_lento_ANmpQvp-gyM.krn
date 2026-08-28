@@ -16,78 +16,78 @@
 *g:	*
 *M4/4	*
 =1	=1
-2gg	Gm/D
-2gg	E-
+2gg	G minor/D
+2gg	E- major
 =2	=2
-2gg	Gm/D
-2dd	B-/D
+2gg	G minor/D
+2dd	B- major/D
 =3	=3
-2dd	Dm
-4ff	Dm
-4ee-[	Cm
+2dd	D minor
+4ff	D minor
+[4ee-	C minor
 =4	=4
 4ee-]	.
-2dd	Gm/D
-4gg[	Gm/D
+2dd	G minor/D
+[4gg	G minor/D
 =5	=5
 4gg]	.
-2gg	E-
-4gg[	Cm/E-
+2gg	E- major
+[4gg	C minor/E-
 =6	=6
 4gg]	.
-2gg	Gm/D
-4dd[	B-
+2gg	G minor/D
+[4dd	B- major
 =7	=7
 4dd]	.
-2dd	Dm/A
-4ff	Dm
+2dd	D minor/A
+4ff	D minor
 =8	=8
-2ee-	Cm
-2dd	Gm/D
+2ee-	C minor
+2dd	G minor/D
 =9	=9
-2dd	B-/D
-2dd	Dm
+2dd	B- major/D
+2dd	D minor
 =10	=10
-4ff	Dm
-2ee-	Cm
-4dd[	Gm/D
+4ff	D minor
+2ee-	C minor
+[4dd	G minor/D
 =11	=11
 4dd]	.
-2gg	Gm/D
-4gg[	E-
+2gg	G minor/D
+[4gg	E- major
 =12	=12
 4gg]	.
-2gg	Gm
-4dd[	B-
+2gg	G minor
+[4dd	B- major
 =13	=13
 4dd]	.
-2dd	Dm
-4ff	Dm
+2dd	D minor
+4ff	D minor
 =14	=14
-2ee-	Cm
-2dd	Gm
+2ee-	C minor
+2dd	G minor
 =15	=15
-2gg	Gm
-2gg	E-
+2gg	G minor
+2gg	E- major
 =16	=16
-2gg	Cm
-2gg	Gm
+2gg	C minor
+2gg	G minor
 =17	=17
-2dd	B-
-2dd	Dm
+2dd	B- major
+2dd	D minor
 =18	=18
-4ff	Dm
-2ee-	Cm
-4dd[	Gm
+4ff	D minor
+2ee-	C minor
+[4dd	G minor
 =19	=19
 4dd]	.
-2dd	B-
-4dd[	Dm
+2dd	B- major
+[4dd	D minor
 =20	=20
 4dd]	.
-4ff	Dm
-2ee-	Cm
+4ff	D minor
+2ee-	C minor
 =21	=21
-2dd	Gm
+2dd	G minor
 ==	==
 *-	*-

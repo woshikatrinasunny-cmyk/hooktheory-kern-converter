@@ -16,89 +16,89 @@
 *c#:	*
 *M4/4	*
 =1	=1
-16ee	C#m
+16eeLL	C# minor
 16cc#	.
-16ccn	G#/D#
+16ccn	G# major/D#
 16cc#	.
-16g#	C#m/E
+16g#	C# minor/E
 16cc#	.
-16ccn	F#m
+16ccn	F# minor
+16cc#JJ	.
+16eeLL	C# minor/G#
 16cc#	.
-16ee	C#m/G#
+16ccn	C# minor/E
 16cc#	.
-16ccn	C#m/E
+16ff#	F# minor/A
 16cc#	.
-16ff#	F#m/A
-16cc#	.
-16ccn	F#m
-16cc#	.
+16ccn	F# minor
+16cc#JJ	.
 =2	=2
-16ee	C#m/G#
+16eeLL	C# minor/G#
 16cc#	.
-16ccn	C#m/E
+16ccn	C# minor/E
 16cc#	.
-16ff#	D#dim
+16ff#	D# diminished
 16cc#	.
-16ccn	D#dim/F#
+16ccn	D# diminished/F#
+16cc#JJ	.
+16gg#LL	C# minor/E
 16cc#	.
-16gg#	C#m/E
+16g#	C# minor
 16cc#	.
-16g#	C#m
-16cc#	.
-16ff#	G#/C
+16ff#	G# major/C
 16dd#	.
-16g#	G#/D#
-16ccn	.
+16g#	G# major/D#
+16ccnJJ	.
 =3	=3
-16ee	C#m
+16eeLL	C# minor
 16cc#	.
 16ccn	.
 16cc#	.
 16g#	.
 16cc#	.
 16ccn	.
+16cc#JJ	.
+16ff#LL	F# minor/C#
 16cc#	.
-16ff#	F#m/C#
+16ccn	G# major/C
 16cc#	.
-16ccn	G#/C
+16a	A major
 16cc#	.
-16a	A
-16cc#	.
-16ccn	G#/C
-16cc#	.
+16ccn	G# major/C
+16cc#JJ	.
 =4	=4
-16gg#	C#m
+16gg#LL	C# minor
 16cc#	.
 16ccn	.
 16cc#	.
 16g#	.
 16cc#	.
 16ccn	.
-16cc#	.
-16aa	.
+16cc#JJ	.
+16aaLL	.
 16cc#	.
 16ccn	.
 16cc#	.
 16a	.
 16cc#	.
 16ccn	.
-16cc#	.
+16cc#JJ	.
 =5	=5
-16ee	C#m
+16eeLL	C# minor
 16cc#	.
 16b	.
 16cc#	.
-16ff#	G#/C
+16ff#	G# major/C
 16dd#	.
 16ee	.
-16ff#	.
-16gg#	E/B
+16ff#JJ	.
+16gg#LL	E major/B
 16ee	.
 16dd#	.
 16ee	.
-16aa	F#m/A
+16aa	F# minor/A
 16ff#	.
 16gg#	.
-16aa	.
+16aaJJ	.
 ==	==
 *-	*-

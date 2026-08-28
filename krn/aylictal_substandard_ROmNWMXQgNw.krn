@@ -16,68 +16,68 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.b	Eadd(2,3,7)
-8.e	.
+8.bL	E other-2,3,7
+8.eJ	.
 8.f#	.
-8.g	.
+8.gL	.
 8f#	.
-8e	.
+8eJ	.
 =2	=2
-8.c	Am
-8.e	.
+8.cL	A minor
+8.eJ	.
 8.c	.
-8.e	.
+8.eL	.
 8c	.
-16B	.
-16G	.
+16BL	.
+16GJJ	.
 =3	=3
-8.d	Cadd(2,4,7)
-8.e	.
+8.dL	C other-2,4,7
+8.eJ	.
 8.f#	.
-8.g	.
+8.gL	.
 8f#	.
-8e	.
+8eJ	.
 =4	=4
-8.a	Dadd(2,4,7)
+8.aL	D other-2,4,7
 8.e	.
-8a[	.
-16a]	D#dim
-16d#	.
+[8aJ	.
+16aLL]	D# diminished
+16d#J	.
 8f#	.
 8f#	.
-16g	.
-16e	.
+16gL	.
+16eJJ	.
 =5	=5
-8.b	Eadd(2,3,7)
-8.e	.
+8.bL	E other-2,3,7
+8.eJ	.
 8.f#	.
-8.g	.
+8.gL	.
 8f#	.
-8e	.
+8eJ	.
 =6	=6
-8.c	Am
-8.e	.
+8.cL	A minor
+8.eJ	.
 8.c	.
-8.e	.
+8.eL	.
 8c	.
-16B	.
-16G	.
+16BL	.
+16GJJ	.
 =7	=7
-8.d	Cadd(2,4,7)
-8.e	.
+8.dL	C other-2,4,7
+8.eJ	.
 8.f#	.
-8.g	.
+8.gL	.
 8f#	.
-8e	.
+8eJ	.
 =8	=8
-8.a	Dadd(2,4,7)
+8.aL	D other-2,4,7
 8.e	.
-8a[	.
-16a]	D#dim
-16d#	.
+[8aJ	.
+16aLL]	D# diminished
+16d#J	.
 8f#	.
 8f#	.
-16g	.
-16e	.
+16gL	.
+16eJJ	.
 ==	==
 *-	*-

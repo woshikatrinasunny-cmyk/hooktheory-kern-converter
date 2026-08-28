@@ -16,99 +16,99 @@
 *C:	*
 *M4/4	*
 =1	=1
-4cc	Cadd(4,7,9)
+4cc	C other-4,7,9
 4cc	.
-2cc	Aadd(3,4,7,8,10)
+2cc	A other-3,4,7,8,10
 =2	=2
-8r	Dadd(3,7,9,10)
+8r	D other-3,7,9,10
 8cc	.
 16r	.
-16b	.
-8a	.
-8b	Gadd(1,4,5,7,9,10)
+16bLK	.
+8aJ	.
+8bL	G other-1,4,5,7,9,10
 8.cc	.
-8.dd	.
+8.ddJ	.
 =3	=3
-4ee	Em7
+4ee	E minor-seventh
 4ee	.
-2ee	Aaug7
+2ee	A augmented-seventh
 =4	=4
-8r	Dm9
+8r	D minor-ninth
 8ee	.
 16r	.
-16dd	.
-8cc	.
-8dd	Gadd(1,4,5,7,9,10)
+16ddLK	.
+8ccJ	.
+8ddL	G other-1,4,5,7,9,10
 8.ee	.
-8.ff	.
+8.ffJ	.
 =5	=5
-2gg	Em7
-2cc	Aadd(3,4,7,8,10)
+2gg	E minor-seventh
+2cc	A other-3,4,7,8,10
 =6	=6
-8r	Dm7
+8r	D minor-seventh
 8aa	.
 16r	.
-16gg	.
-8ff	.
-4ee	Gadd(1,4,5,7,9,10)
+16ggLK	.
+8ffJ	.
+4ee	G other-1,4,5,7,9,10
 4dd	.
 =7	=7
-4cc	Cadd(2,4,7,9)
-8d	A#7
-8c	.
-4c#	A7
-8G	D#7
-8E	.
+4cc	C other-2,4,7,9
+8dL	A# dominant
+8cJ	.
+4c#	A dominant
+8GL	D# dominant
+8EJ	.
 =8	=8
-8F	Dm7
+8FL	D minor-seventh
 8A	.
 8c	.
-8e[	.
-2e]	Gadd(1,4,5,6,9,10)
+[8eJ	.
+2e]	G other-1,4,5,6,9,10
 =9	=9
-4cc	Cadd(4,7,9)
+4cc	C other-4,7,9
 4cc	.
-2cc	Aadd(3,4,7,10)
+2cc	A other-3,4,7,10
 =10	=10
-8r	Dm7
+8r	D minor-seventh
 8cc	.
 16r	.
-16b	.
-8a	.
-8b	Gadd(1,4,5,7,9,10)
+16bLK	.
+8aJ	.
+8bL	G other-1,4,5,7,9,10
 8.cc	.
-8.dd	.
+8.ddJ	.
 =11	=11
-4ee	Eadd(3,5,7,10)
+4ee	E other-3,5,7,10
 4ee	.
-2ee	Aaug7
+2ee	A augmented-seventh
 =12	=12
-8r	Dm9
+8r	D minor-ninth
+8.eeL	.
+16ddk	.
+8ccJ	.
+8ddL	G other-1,4,5,7,9,10
 8.ee	.
-16dd	.
-8cc	.
-8dd	Gadd(1,4,5,7,9,10)
-8.ee	.
-8.ff	.
+8.ffJ	.
 =13	=13
-2gg	Em7
-2cc	Aadd(3,4,7,8,10)
+2gg	E minor-seventh
+2cc	A other-3,4,7,8,10
 =14	=14
-8r	Dm7
+8r	D minor-seventh
 8aa	.
 16r	.
-16gg	.
-8ff	.
-4ee	Gadd(1,4,5,7,9,10)
+16ggLK	.
+8ffJ	.
+4ee	G other-1,4,5,7,9,10
 4dd	.
 =15	=15
-2cc	Cadd(2,4,7,9)/G
-4.cc	G#add(4,7,9,11)/G
-8cc[	Fmaj7
+2cc	C other-2,4,7,9/G
+4.cc	G# other-4,7,9,11/G
+[8cc	F major-seventh
 =16	=16
 4cc]	.
-4d#	G#m7
-4d	Gm7
-4c#	Cadd(1,4,5,6,9,10)
+4d#	G# minor-seventh
+4d	G minor-seventh
+4c#	C other-1,4,5,6,9,10
 ==	==
 *-	*-

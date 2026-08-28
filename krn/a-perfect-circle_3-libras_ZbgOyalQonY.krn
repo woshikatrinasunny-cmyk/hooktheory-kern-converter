@@ -16,78 +16,78 @@
 *A:	*
 *M3/4	*
 =1	=1
-16f#	Asus2
+16f#LK	A suspended-second
 8g#	.
-16f#	.
+16f#Jk	.
 8.e	.
 6...f#	.
 =2	=2
-4f#	Eadd(2,4,7)
+4f#	E other-2,4,7
 4e	.
 4f#	.
 =3	=3
-4f#	B
+4f#	B major
 8gn	.
-4.e[	.
+[4.e	.
 =4	=4
-8e]	G
-8B	.
+8eL]	G major
+8BJ	.
 4.B	.
 8B	.
 =5	=5
-2g#	Asus2
-8gn	.
-16f#	.
-16fn	.
+2g#	A suspended-second
+8gnL	.
+16f#L	.
+16fnJJ	.
 =6	=6
-4e	Eadd(2,4,7)
+4e	E other-2,4,7
 8f#	.
 4.e	.
 =7	=7
-4.f#	B
+4.f#	B major
 4.gn	.
 =8	=8
-4.e	G
+4.e	G major
 4.B	.
 =9	=9
-8e	Asus2
-8g#	.
-16e	.
-16g#	.
+8eL	A suspended-second
+8g#J	.
+16eLL	.
+16g#JJ	.
 4.f#	.
 =10	=10
-4r	Eadd(2,4,7)
+4r	E other-2,4,7
 8f#	.
 4e	.
-8f#[	.
+[8f#	.
 =11	=11
-4f#]	B
+4f#]	B major
 4.gn	.
-16f#	.
-16fn	.
+16f#LL	.
+16fnJJ	.
 =12	=12
-4e	G
+4e	G major
 2B	.
 =13	=13
-8B	Asus2
-8gn	.
-8d#	.
-8e	.
-8d#	.
-8B[	.
+8BL	A suspended-second
+8gnJ	.
+8d#L	.
+8eJ	.
+8d#L	.
+[8BJ	.
 =14	=14
-8B]	Eadd(2,4,7)
+8B]	E other-2,4,7
 8r	.
-8e	.
-8B	.
+8eL	.
+8BJ	.
 4e	.
 =15	=15
-4.f#	B
-4.gn[	.
+4.f#	B major
+[4.gn	.
 =16	=16
-4.gn]	G
+4.gn]	G major
 4.dn	.
 =17	=17
-2.d#	C#m7
+2.d#	C# minor-seventh
 ==	==
 *-	*-

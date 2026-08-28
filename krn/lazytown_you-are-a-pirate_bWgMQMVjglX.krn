@@ -16,75 +16,75 @@
 *F#:	*
 *M6/4	*
 =1	=1
-4.a#	F#
-8a#	F#
-8g#	.
-8f#	.
-4.a#[	F#
-8a#]	F#
+4.a#	F# major
+8a#	F# major
+8g#L	.
+8f#J	.
+[4.a#	F# major
+8a#]	F# major
 8r	.
 8f#	.
 =2	=2
-4g#	B
+4g#	B major
 8g#	.
-8.g#	C#
+8.g#	C# major
 8.cc#	.
-4cc#	F#/C#
+4cc#	F# major/C#
 8b	.
-4a#	F#/C#
+4a#	F# major/C#
 8cc#	.
 =3	=3
-4.ff#	F#
-8ff#	F#
-8dd#	.
-8cc#	.
-4.f#[	F#/C#
-8f#]	F#/C#
+4.ff#	F# major
+8ff#	F# major
+8dd#L	.
+8cc#J	.
+[4.f#	F# major/C#
+8f#]	F# major/C#
 8r	.
 8g#	.
 =4	=4
-8cc#	B
-8cc#	.
+8cc#L	B major
+8cc#J	.
 8r	.
-4cc#	C#
+4cc#	C# major
 8a#	.
-4.f#[	F#
-8f#]	F#
+[4.f#	F# major
+8f#]	F# major
 4r	.
 =5	=5
-4.a#	F#
-8a#	F#
-8g#	.
-8f#	.
-4.a#[	F#
-8a#]	F#
+4.a#	F# major
+8a#	F# major
+8g#L	.
+8f#J	.
+[4.a#	F# major
+8a#]	F# major
 8r	.
 8g#	.
 =6	=6
-8.g#	Badd(2,4,7)
+8.g#	B other-2,4,7
 8.g#	.
-8.g#	Badd(2,4,7)
+8.g#	B other-2,4,7
 8.cc#	.
-8.cc#	C#sus4
+8.cc#	C# suspended-fourth
 8.a#	.
-8g#	C#sus4
+8g#	C# suspended-fourth
 4c#	.
 =7	=7
-4.a#	F#
-8ff#	F#
-8ee#	.
-8ee#	.
-4cc#	F#
+4.a#	F# major
+8ff#	F# major
+8ee#L	.
+8ee#J	.
+4cc#	F# major
 8r	.
-4r	F#
+4r	F# major
 8ff#	.
 =8	=8
-4ff#	Badd(2,4,7)
+4ff#	B other-2,4,7
 8ff#	.
-4ff#	C#
+4ff#	C# major
 8ff#	.
-4.ff#[	F#
-8ff#]	F#
+[4.ff#	F# major
+8ff#]	F# major
 4r	.
 ==	==
 *-	*-

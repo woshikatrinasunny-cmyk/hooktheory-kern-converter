@@ -16,118 +16,118 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8f#	D#m7
+8f#L	D# minor-seventh
 8f#	.
-8f#	D#m7
-8f#	.
-4f#	D#m7
-8f#	D#m7
-8f#	.
+8f#	D# minor-seventh
+8f#J	.
+4f#	D# minor-seventh
+8f#L	D# minor-seventh
+8f#J	.
 =2	=2
-8g#	D#m7
-8a#[	.
-8a#]	D#m7
-8a#[	.
-4a#_	D#m7
-4a#]	D#m7
+8g#L	D# minor-seventh
+[8a#	.
+8a#]	D# minor-seventh
+[8a#J	.
+4a#_	D# minor-seventh
+4a#]	D# minor-seventh
 =3	=3
-8cc#	Eadd(2,4,7)
+8cc#L	E other-2,4,7
 8f#	.
-8f#	Eadd(2,4,7)
-8f#	.
-4f#	Eadd(2,4,7)
-8f#	Eadd(2,4,7)
-8f#	.
+8f#	E other-2,4,7
+8f#J	.
+4f#	E other-2,4,7
+8f#L	E other-2,4,7
+8f#J	.
 =4	=4
-8a#	Eadd(2,4,7)
-8g#[	.
-8g#]	Eadd(2,4,7)
-8f#[	.
-4f#_	Eadd(2,4,7)
-4f#]	Eadd(2,4,7)
+8a#L	E other-2,4,7
+[8g#	.
+8g#]	E other-2,4,7
+[8f#J	.
+4f#_	E other-2,4,7
+4f#]	E other-2,4,7
 =5	=5
-4e#	A#m7
-8d#	A#m7
-8c#[	.
-4c#_	A#m7
-4c#_	A#m7
+4e#	A# minor-seventh
+8d#L	A# minor-seventh
+[8c#J	.
+4c#_	A# minor-seventh
+4c#_	A# minor-seventh
 =6	=6
-8c#]	A#m7
+8c#L]	A# minor-seventh
 8c#	.
-8c#	A#m7
+8c#	A# minor-seventh
+8c#J	.
+8c#L	A# minor-seventh
 8c#	.
-8c#	A#m7
-8c#	.
-8d#	A#m7
-8e#	.
+8d#	A# minor-seventh
+8e#J	.
 =7	=7
-4f#	Badd(2,4,7)
-8d#	Badd(2,4,7)
-8c#[	.
-4c#_	Badd(2,4,7)
-4c#]	Badd(2,4,7)
+4f#	B other-2,4,7
+8d#L	B other-2,4,7
+[8c#J	.
+4c#_	B other-2,4,7
+4c#]	B other-2,4,7
 =8	=8
-4ff#	Badd(2,4,7)
-8dd#	Badd(2,4,7)
-8cc#[	.
-4cc#_	Badd(2,4,7)
-4cc#]	Badd(2,4,7)
+4ff#	B other-2,4,7
+8dd#L	B other-2,4,7
+[8cc#J	.
+4cc#_	B other-2,4,7
+4cc#]	B other-2,4,7
 =9	=9
-8f#	A
+8f#L	A major
 8f#	.
-8f#	A
-8f#	.
-4f#	A
-8f#	A
-8f#	.
+8f#	A major
+8f#J	.
+4f#	A major
+8f#L	A major
+8f#J	.
 =10	=10
-8g#	A
-8a#[	.
-8a#]	A
-8a#[	.
-4a#_	A
-4a#]	A
+8g#L	A major
+[8a#	.
+8a#]	A major
+[8a#J	.
+4a#_	A major
+4a#]	A major
 =11	=11
-8f#	D
+8f#L	D major
 8f#	.
-8f#	D
-8f#	.
-4f#	D
-8f#	D
-8f#	.
+8f#	D major
+8f#J	.
+4f#	D major
+8f#L	D major
+8f#J	.
 =12	=12
-8cc#	D
-8b[	.
-8b]	D
-8a#[	.
-4a#_	D
-4a#]	D
+8cc#L	D major
+[8b	.
+8b]	D major
+[8a#J	.
+4a#_	D major
+4a#]	D major
 =13	=13
-4e#	C#
-8d#	C#
-8c#[	.
-4c#_	C#
-4c#_	C#
+4e#	C# major
+8d#L	C# major
+[8c#J	.
+4c#_	C# major
+4c#_	C# major
 =14	=14
-8c#]	C#
+8c#L]	C# major
 8c#	.
-8c#	C#
+8c#	C# major
+8c#J	.
+8c#L	C# major
 8c#	.
-8c#	C#
-8c#	.
-8d#	C#
-8e#	.
+8d#	C# major
+8e#J	.
 =15	=15
-4f#	Badd(2,4,7)
-8d#	Badd(2,4,7)
-8c#[	.
-4c#_	Badd(2,4,7)
-4c#]	Badd(2,4,7)
+4f#	B other-2,4,7
+8d#L	B other-2,4,7
+[8c#J	.
+4c#_	B other-2,4,7
+4c#]	B other-2,4,7
 =16	=16
-4ff#	Badd(2,4,7)
-8dd#	Cadd(2,6,7)
-8cc#[	.
-4cc#_	C#add(2,5,7)
-4cc#]	Dadd(2,4,7)
+4ff#	B other-2,4,7
+8dd#L	C other-2,6,7
+[8cc#J	.
+4cc#_	C# other-2,5,7
+4cc#]	D other-2,4,7
 ==	==
 *-	*-

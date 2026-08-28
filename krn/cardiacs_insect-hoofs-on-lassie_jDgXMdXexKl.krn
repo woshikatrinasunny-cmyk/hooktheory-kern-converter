@@ -16,79 +16,79 @@
 *A:	*
 *M3/4	*
 =1	=1
-4.ff#	D
-4.dd	D
+4.ff#	D major
+4.dd	D major
 =2	=2
-8cc#	A
+8cc#	A major
 4cc#	.
-8r	A
-8b	.
-8a	.
+8r	A major
+8bL	.
+8aJ	.
 =3	=3
-4.ff#	D
-4.dd	D
+4.ff#	D major
+4.dd	D major
 =4	=4
-4dd#	Esus2
+4dd#	E suspended-second
 8cc#	.
-4.b	B/D#
+4.b	B major/D#
 =5	=5
-4g#	E
+4g#	E major
 8b	.
-4.ee	E
+4.ee	E major
 =6	=6
-4.cc#	A
-4.a	A
+4.cc#	A major
+4.a	A major
 =7	=7
-8g#	E/B
+8g#	E major/B
 4b	.
-8r	Asus2
+8r	A suspended-second
 4ee	.
 =8	=8
-4.ffn[	C#/F
-4ffn]	C#
+[4.ffn	C# major/F
+4ffn]	C# major
 8ee	.
 =9	=9
-4.ff#	D/A
-4.dd	D/A
+4.ff#	D major/A
+4.dd	D major/A
 =10	=10
-4.cc#	A/C#
-4r	A
+4.cc#	A major/C#
+4r	A major
 8a	.
 =11	=11
-4.ff#	D/A
-4.dd	D/A
+4.ff#	D major/A
+4.dd	D major/A
 =12	=12
-4dd#	B/D#
+4dd#	B major/D#
 8cc#	.
-4.b	B/D#
+4.b	B major/D#
 =13	=13
-4g#	E/B
+4g#	E major/B
 8b	.
-4.ee	E/G#
+4.ee	E major/G#
 =14	=14
-4.cc#	A/E
-4.a	A
+4.cc#	A major/E
+4.a	A major
 =15	=15
-4g#	E
-8b[	.
-8b]	.
+4g#	E major
+[8bL	.
+8bJ]	.
 4ee	.
 =16	=16
-2.ffn	C#
+2.ffn	C# major
 =17	=17
-8cc#[	A
-8cc#_	A
-4cc#_	A
-4cc#]	A
+[8cc#L	A major
+8cc#J_	A major
+4cc#_	A major
+4cc#]	A major
 =18	=18
-8r	E
-8r	E
-4r	E
-4r	E
+8r	E major
+8r	E major
+4r	E major
+4r	E major
 =19	=19
-8r	B
-8r	B
-4r	B
-4r	B
+8r	B major
+8r	B major
+4r	B major
+4r	B major
 ==	==
 *-	*-

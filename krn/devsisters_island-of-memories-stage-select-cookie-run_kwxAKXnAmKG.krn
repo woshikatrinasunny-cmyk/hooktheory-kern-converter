@@ -16,58 +16,58 @@
 *G:	*
 *M6/4	*
 =1	=1
-4cc	Cadd(2,4,7)
+4cc	C other-2,4,7
 4dd	.
-4bb[	.
-4bb]	D/A
+[4bb	.
+4bb]	D major/A
 4aa	.
 4ff#	.
 =2	=2
-4b	G/B
+4b	G major/B
 4dd	.
-4aa[	.
-4aa]	Am7
+[4aa	.
+4aa]	A minor-seventh
 4gg	.
 4dd	.
 =3	=3
-4cc	Cadd(2,4,7)
+4cc	C other-2,4,7
 4dd	.
-4bb[	.
-4bb]	D/A
+[4bb	.
+4bb]	D major/A
 4aa	.
 4ff#	.
 =4	=4
-4.ddd	G/B
+4.ddd	G major/B
 8ccc	.
-8bb	.
-8aa	.
-4gg	Am
+8bbL	.
+8aaJ	.
+4gg	A minor
 2dd	.
 =5	=5
-4cc	Cadd(2,4,7)
+4cc	C other-2,4,7
 4dd	.
-4bb[	.
-4bb]	D/A
+[4bb	.
+4bb]	D major/A
 4aa	.
 4ff#	.
 =6	=6
-4b	G/B
+4b	G major/B
 4dd	.
-4aa[	.
-4aa]	Am
+[4aa	.
+4aa]	A minor
 4gg	.
 4dd	.
 =7	=7
-4.gg	C
+4.gg	C major
 8aa	.
-8bb	.
+8bbL	.
+8cccJ	.
+4.ddd	D major/A
 8ccc	.
-4.ddd	D/A
-8ccc	.
-8bb	.
-8aa	.
+8bbL	.
+8aaJ	.
 =8	=8
-2gg	G/B
+2gg	G major/B
 4dd	.
 2.g	.
 ==	==

@@ -16,19 +16,19 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4.F	E-add(2,5,7)
-16E-	.
-16F	.
-4G	Fadd(2,5,7)
+4.F	E- other-2,5,7
+16E-LL	.
+16FJJ	.
+4G	F other-2,5,7
 4B-	.
 =2	=2
-4A-	A-m7/G-
+4A-	A- minor-seventh/G-
 2Bn	.
-16Bn	.
+16BnLK	.
 8A-	.
-16Bn	.
+16BnJk	.
 =3	=3
-1d-	D-/A-
+1d-	D- major/A-
 =4	=4
 1f	.
 ==	==

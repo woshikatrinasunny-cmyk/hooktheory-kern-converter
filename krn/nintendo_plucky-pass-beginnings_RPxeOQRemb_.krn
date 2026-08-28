@@ -16,88 +16,88 @@
 *F:	*
 *M4/4	*
 =1	=1
-8a	F
+8a	F major
 8r	.
 8a	.
 16r	.
 16a	.
 2cc	.
 =2	=2
-8b-	B-/F
-16b-	.
-16b-	.
+8b-L	B- major/F
+16b-L	.
+16b-JJ	.
 2.dd	.
 =3	=3
-8cc	Fmaj7
+8cc	F major-seventh
 8r	.
 8cc	.
 16r	.
 16cc	.
 2ee	.
 =4	=4
-8dd	B-/F
-16dd	.
-16dd	.
+8ddL	B- major/F
+16ddL	.
+16ddJJ	.
 2.ff	.
 =5	=5
-8r	F
-16f	.
-16g	.
+8r	F major
+16fLL	.
+16gJ	.
 8a	.
-16f	.
-16g	.
+16fL	.
+16gJJ	.
 8a	.
 4cc	.
 8a	.
 =6	=6
-8.bn	G7/F
-16bn	.
-8a	.
+8.bnL	G dominant/F
+16bnk	.
+8aJ	.
 3...g	.
 =7	=7
-8r	F
-16f	.
-16g	.
+8r	F major
+16fLL	.
+16gJ	.
 8a	.
-16f	.
-16g	.
+16fL	.
+16gJJ	.
 8a	.
 4cc	.
 8a	.
 =8	=8
-8.bn	G7/F
-16bn	.
-8cc	.
+8.bnL	G dominant/F
+16bnk	.
+8ccJ	.
 3...dd	.
 =9	=9
-8r	B-
-16dd	.
-16ee	.
+8r	B- major
+16ddLL	.
+16eeJ	.
 8ff	.
-16dd	.
-16ee	.
+16ddL	.
+16eeJJ	.
 8ff	.
 4gg	.
 8ff	.
 =10	=10
-8.ee	Am
-16ee	.
-8dd	.
+8.eeL	A minor
+16eek	.
+8ddJ	.
 3...cc	.
 =11	=11
-8r	Gm
-16b-	.
-16cc	.
+8r	G minor
+16b-LL	.
+16ccJ	.
 8dd	.
-16b-	.
-16cc	.
+16b-L	.
+16ccJJ	.
 8dd	.
 4ff	.
 8aa	.
 =12	=12
-8.gg	E-
-16gg	.
-8ff	.
-3...ee	C
+8.ggL	E- major
+16ggk	.
+8ffJ	.
+3...ee	C major
 ==	==
 *-	*-

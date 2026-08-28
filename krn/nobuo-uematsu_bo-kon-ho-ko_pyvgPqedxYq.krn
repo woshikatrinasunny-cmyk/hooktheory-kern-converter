@@ -15,7 +15,7 @@
 *A-:	*
 *M6/4	*
 =1	=1
-2.dd-	G-m
+2.dd-	G- minor
 4bn	.
 4an	.
 4a-	.
@@ -27,13 +27,13 @@
 4dd-	.
 4ddn	.
 =3	=3
-2.dd-[	G-m
-2.dd-_	D/G-
+[2.dd-	G- minor
+2.dd-_	D major/G-
 =4	=4
-2.dd-_	E-dim/G-
-2.dd-]	D/G-
+2.dd-_	E- diminished/G-
+2.dd-]	D major/G-
 =5	=5
-2.dd-	G-m
+2.dd-	G- minor
 4bn	.
 4an	.
 4a-	.
@@ -45,48 +45,48 @@
 4dd-	.
 4ddn	.
 =7	=7
-1.dd-[	D-m
+[1.dd-	D- minor
 =8	=8
-1.dd-]	D-m7
+1.dd-]	D- minor-seventh
 =9	=9
-2.een	A
+2.een	A major
 4een	.
 4ddn	.
 4dd-	.
 =10	=10
-1bn[	E
+[1bn	E major
 4bn]	.
 4r	.
 =11	=11
-2.ddn	G
+2.ddn	G major
 4ddn	.
 4dd-	.
 4bn	.
 =12	=12
-1an[	D
+[1an	D major
 4an]	.
 4r	.
 =13	=13
-2.cc	F
+2.cc	F major
 4cc	.
 4bn	.
 4an	.
 =14	=14
-2g	Esus4
+2g	E suspended-fourth
 4an	.
-2g-	D
+2g-	D major
 4dn	.
 =15	=15
-1.en	Esus4
+1.en	E suspended-fourth
 =16	=16
-4c	C
+4c	C major
 4g	.
 4f	.
 4en	.
 4b-	.
 4en	.
 =17	=17
-2.cc	Fm
+2.cc	F minor
 4b-	.
 4a-	.
 4g	.
@@ -98,13 +98,13 @@
 4cc	.
 4dd-	.
 =19	=19
-2.cc[	Fm
-2.cc_	D-/F
+[2.cc	F minor
+2.cc_	D- major/F
 =20	=20
-2.cc_	Ddim/F
-2.cc]	D-/F
+2.cc_	D diminished/F
+2.cc]	D- major/F
 =21	=21
-2.cc	Fm
+2.cc	F minor
 4b-	.
 4a-	.
 4g	.
@@ -116,41 +116,41 @@
 4cc	.
 4dd-	.
 =23	=23
-1.ee-[	Cm
+[1.ee-	C minor
 =24	=24
-1.ee-]	Cm7
+1.ee-]	C minor-seventh
 =25	=25
-2.ee-	A-
+2.ee-	A- major
 4ee-	.
 4dd-	.
 4cc	.
 =26	=26
-1b-[	E-
+[1b-	E- major
 4b-]	.
 4r	.
 =27	=27
-2.dd-	G-
+2.dd-	G- major
 4dd-	.
 4cc	.
 4b-	.
 =28	=28
-1a-[	D-
+[1a-	D- major
 4a-]	.
 4r	.
 =29	=29
-2.bn	E
+2.bn	E major
 4bn	.
 4b-	.
 4a-	.
 =30	=30
-2g-	E-m
+2g-	E- minor
 4a-	.
-2f	D-
+2f	D- major
 4d-	.
 =31	=31
-1.e-	E-sus4
+1.e-	E- suspended-fourth
 =32	=32
-4a-	A-
+4a-	A- major
 4g-	.
 4f	.
 4e-	.

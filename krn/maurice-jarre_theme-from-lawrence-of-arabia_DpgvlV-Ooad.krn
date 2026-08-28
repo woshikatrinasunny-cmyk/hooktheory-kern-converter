@@ -16,36 +16,36 @@
 *D:	*
 *M4/4	*
 =1	=1
-2dd	D
-2a[	.
+2dd	D major
+[2a	.
 =2	=2
 4a]	.
 4f#	.
-8.g	Edim
+8.gL	E diminished
 8.a#	.
-8cc#	.
+8cc#J	.
 =3	=3
-2dd	D
-2a[	.
+2dd	D major
+[2a	.
 =4	=4
 4a]	.
 4f#	.
-8.g	Cm
+8.gL	C minor
 8.d#	.
-8cn	.
+8cnJ	.
 =5	=5
-2d	D
+2d	D major
 2a	.
 =6	=6
-2g	D#
+2g	D# major
 2ccn	.
 =7	=7
-2a#	Edim
-2a[	D
+2a#	E diminished
+[2a	D major
 =8	=8
 4a]	.
 4a	.
-4b	A7
+4b	A dominant
 4cc#	.
 ==	==
 *-	*-

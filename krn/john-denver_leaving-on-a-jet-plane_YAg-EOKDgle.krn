@@ -16,80 +16,80 @@
 *G:	*
 *M4/4	*
 =1	=1
-2.r	D
+2.r	D major
 4dd	.
 =2	=2
-2dd	G
+2dd	G major
 4b	.
 4dd	.
 =3	=3
-4cc	C
+4cc	C major
 8b	.
 4.g	.
 4r	.
 =4	=4
-4dd	G
+4dd	G major
 8cc	.
 4b	.
 4.dd	.
 =5	=5
-4cc	C
+4cc	C major
 8b	.
 4.g	.
 4r	.
 =6	=6
-4dd	G
+4dd	G major
 8cc	.
 4b	.
 4.dd	.
 =7	=7
-8cc	C
+8cc	C major
 4.b	.
 8r	.
 8a	.
 4g	.
 =8	=8
-1a	D
+1a	D major
 =9	=9
-2a	D
+2a	D major
 4r	.
 4dd	.
 =10	=10
-2dd	G
+2dd	G major
 2b	.
 =11	=11
-4ee	C
+4ee	C major
 8dd	.
 4cc	.
 8cc	.
 4dd	.
 =12	=12
-4r	G
+4r	G major
 4dd	.
 4b	.
-8dd	.
-8cc[	.
+8ddL	.
+[8ccJ	.
 =13	=13
-4cc]	C
+4cc]	C major
 8dd	.
 4cc	.
 8b	.
 4g	.
 =14	=14
-2.r	G
+2.r	G major
 4dd	.
 =15	=15
-2cc	C
-8.b	.
+2cc	C major
+8.bL	.
 8.a	.
-8g	.
+8gJ	.
 =16	=16
-2..a	D
+2..a	D major
 8g	.
 =17	=17
-2..f#	D
+2..f#	D major
 8e	.
 =18	=18
-1d	D
+1d	D major
 ==	==
 *-	*-

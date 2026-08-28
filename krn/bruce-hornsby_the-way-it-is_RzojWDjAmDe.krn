@@ -16,30 +16,30 @@
 *G:	*
 *M4/4	*
 =1	=1
-8cc	Am
-8cc	.
+8ccL	A minor
+8ccJ	.
 4cc	.
-16b	Em
-8.b	.
+16bLK	E minor
+8.bJ	.
 4b	.
 =2	=2
-8a	D
+8aL	D major
 8a	.
 8.b	.
-16b	.
-8a	Cadd(2,4,7)
+16bJk	.
+8aL	C other-2,4,7
 8.g	.
-8.g[	.
+[8.gJ	.
 =3	=3
-16g]	G
+16g]	G major
 4.r	.
-16cc[	.
-8cc]	D
+[16cc	.
+8ccL]	D major
 8.b	.
 8a	.
-16g[	.
+[16gJk	.
 =4	=4
-16g]	C
+16g]	C major
 4g	.
 3...r	.
 16r	.

@@ -16,123 +16,123 @@
 *G:	*
 *M4/4	*
 =1	=1
-8.G	Dsus4
+8.GL	D suspended-fourth
 8.G	.
-8G	D7sus4/C
-8A	.
-8G	Gadd(2,4,7)/B
-8G	D7sus4/C
-8r	Dsus4
+8GJ	D dominant-seventh-suspended-fourth/C
+8AL	.
+8G	G other-2,4,7/B
+8GJ	D dominant-seventh-suspended-fourth/C
+8r	D suspended-fourth
 =2	=2
-8G	D7sus4/C
+8GL	D dominant-seventh-suspended-fourth/C
 8A	.
-8A	Dsus4
-8B	.
+8A	D suspended-fourth
+8BJ	.
 8G	.
 4.A	.
 =3	=3
 8r	.
-8A	.
+8AL	.
 8B	.
-8A	.
-8B	.
-16A	.
+8AJ	.
+8BL	.
+16Ak	.
 8.G	.
-8A	.
+8AJ	.
 =4	=4
 4E	.
 8G	.
 8r	.
-8G	.
+8GL	.
 8G	.
 8A	.
-8D	.
+8DJ	.
 =5	=5
-8E	.
-8G	.
-4A[	.
-4.A_	Dsus4
-8A_	Dsus4
+8EL	.
+8GJ	.
+[4A	.
+4.A_	D suspended-fourth
+8A_	D suspended-fourth
 =6	=6
 4A]	.
-8r	Dsus4
+8r	D suspended-fourth
 8r	.
-8.G	Dsus4
-16G[	.
-8G]	Gadd(2,4,7)/D
-8G	D7sus4/C
+8.GL	D suspended-fourth
+[16Gk	.
+8G]	G other-2,4,7/D
+8GJ	D dominant-seventh-suspended-fourth/C
 =7	=7
+8AL	.
+8G	G other-2,4,7/B
+8GJ	G major-seventh-suspended-fourth/C
+8r	G major-seventh/D
+8GL	D dominant-seventh-suspended-fourth/C
 8A	.
-8G	Gadd(2,4,7)/B
-8G	Gmaj7sus4/C
-8r	Gmaj7/D
-8G	D7sus4/C
-8A	.
-8A	Dsus4
-8B	.
+8A	D suspended-fourth
+8BJ	.
 =8	=8
 8G	.
 4.A	.
 8r	.
-8A	.
+8AL	.
 8B	.
-8A	.
+8AJ	.
 =9	=9
-8B	Dsus4
-16A	.
+8BL	D suspended-fourth
+16Ak	.
 8.G	.
-8A	.
-4E	G/D
-8G	Gsus4/D
+8AJ	.
+4E	G major/D
+8G	G suspended-fourth/D
 8r	.
 =10	=10
+8GL	.
 8G	.
-8G	.
-8A	D7sus4/C
-8D	Dsus4
-8E	Cmaj7
-8G	.
-4A[	D7sus4
+8A	D dominant-seventh-suspended-fourth/C
+8DJ	D suspended-fourth
+8EL	C major-seventh
+8GJ	.
+[4A	D dominant-seventh-suspended-fourth
 =11	=11
 2.A]	.
 4r	.
 =12	=12
-8.G	Dsus4
+8.GL	D suspended-fourth
 8.G	.
-8G	D7sus4/C
-8A	.
-8G	G/B
-8G	Cadd(6,7)
-8r	Gmaj7sus4/D
+8GJ	D dominant-seventh-suspended-fourth/C
+8AL	.
+8G	G major/B
+8GJ	C other-6,7
+8r	G major-seventh-suspended-fourth/D
 =13	=13
-8G	Cadd(6,7)
+8GL	C other-6,7
 8A	.
-8A	D7sus4/C
-8B	.
-8G	A7sus4/D
+8A	D dominant-seventh-suspended-fourth/C
+8BJ	.
+8G	A dominant-seventh-suspended-fourth/D
 4.A	.
 =14	=14
-8r	G/D
-8A	.
+8r	G major/D
+8AL	.
 8B	.
-8A	.
-8B	.
-16A	.
-16G[	.
-8G]	Em
-8A	.
+8AJ	.
+8BL	.
+16AL	.
+[16GJ	.
+8G]	E minor
+8AJ	.
 =15	=15
-4E	D/F#
-8G	G
+4E	D major/F#
+8G	G major
 8r	.
-8G	Cmaj7
+8GL	C major-seventh
 8G	.
 8A	.
-8D	.
+8DJ	.
 =16	=16
-8E	A7
-8G	.
-4A[	.
-2A]	Dsus4
+8EL	A dominant
+8GJ	.
+[4A	.
+2A]	D suspended-fourth
 ==	==
 *-	*-

@@ -15,24 +15,24 @@
 *D:	*
 *M4/4	*
 =1	=1
-1r	Dadd(2,4,7)
+1r	D other-2,4,7
 =2	=2
-1ddd	D7/C
+1ddd	D dominant/C
 =3	=3
-1bb	Bm7
+1bb	B minor-seventh
 =4	=4
-1aa#	Em7b5/A#
+1aa#	E half-diminished/A#
 =5	=5
-2r	Dadd(2,4,7)/A
+2r	D other-2,4,7/A
 2aa	.
 =6	=6
-1bb	G#dim7
+1bb	G# diminished-seventh
 =7	=7
-2.bb	Gmaj7
-8ccc#	.
-8ddd	.
+2.bb	G major-seventh
+8ccc#L	.
+8dddJ	.
 =8	=8
-2ddd	Aadd(2,4,7)
+2ddd	A other-2,4,7
 2ccc#	.
 ==	==
 *-	*-

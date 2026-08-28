@@ -16,12 +16,12 @@
 *F:	*
 *M4/4	*
 =1	=1
-4r	B-maj7
-8d	.
-8d	.
+4r	B- major-seventh
+8dL	.
+8dJ	.
 8d	.
 4e	.
-8f[	.
+[8f	.
 =2	=2
 4f]	.
 8r	.
@@ -29,21 +29,21 @@
 4a	.
 4b-	.
 =3	=3
-4.cc	Am7
+4.cc	A minor-seventh
 8c	.
 8c	.
 4d	.
-8c[	.
+[8c	.
 =4	=4
 3...c]	.
 4.r	.
 =5	=5
-4r	A-maj7
-8c	.
-8c	.
+4r	A- major-seventh
+8cL	.
+8cJ	.
 8c	.
 4d	.
-8e-[	.
+[8e-	.
 =6	=6
 4e-]	.
 8r	.
@@ -51,47 +51,47 @@
 4g	.
 4a-	.
 =7	=7
-4.b-	Gm7
+4.b-	G minor-seventh
 8B-	.
 8B-	.
 4c	.
-8B-[	.
+[8B-	.
 =8	=8
 2.B-]	.
 4r	.
 =9	=9
-4r	G-maj7
-8f	.
-8f	.
+4r	G- major-seventh
+8fL	.
+8fJ	.
 8e-	.
 4f	.
-8a-[	Fm7
+[8a-	F minor-seventh
 =10	=10
 8a-]	.
 2..e-	.
 =11	=11
-4r	G-maj7
-8f	.
-8f	.
+4r	G- major-seventh
+8fL	.
+8fJ	.
 8e-	.
 4f	.
-8a-[	Fm7
+[8a-	F minor-seventh
 =12	=12
 8a-]	.
 8r	.
-2.c	Fm7
+2.c	F minor-seventh
 =13	=13
-4r	Amaj7
-8a-	.
-8a-	.
+4r	A major-seventh
+8a-L	.
+8a-J	.
 8g-	.
 4a-	.
-8bn[	A-m7
+[8bn	A- minor-seventh
 =14	=14
 8bn]	.
 2..g-	.
 =15	=15
-4r	Amaj7
+4r	A major-seventh
 4a-	.
 8g-	.
 4.a-	.

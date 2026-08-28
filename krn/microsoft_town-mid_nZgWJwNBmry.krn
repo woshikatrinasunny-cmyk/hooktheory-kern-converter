@@ -16,136 +16,136 @@
 *B:	*
 *M4/4	*
 =1	=1
-2cc#[	Badd(2,4,7)
-4cc#]	C#m7/E
-16dd#	.
-16ee	.
-8dd#[	.
+[2cc#	B other-2,4,7
+4cc#]	C# minor-seventh/E
+16dd#LL	.
+16eeJ	.
+[8dd#J	.
 =2	=2
-8dd#]	B/F#
-24cc#	.
+8dd#L]	B major/F#
+24cc#L	.
 24dd#	.
-24cc#	.
+24cc#JJ	.
 4b	.
-8a#	C#add(3,5,7,10)
+8a#L	C# other-3,5,7,10
 8cc#	.
-24b	.
+24bL	.
 24cc#	.
-24b	.
-8a#	.
+24bJ	.
+8a#J	.
 =3	=3
-4.b	Badd(2,4,7)
-24an	.
+4.b	B other-2,4,7
+24anLL	.
 24b	.
-24an	.
-4.g#	Eadd(4,7,9,11)
-8f#[	.
+24anJJ	.
+4.g#	E other-4,7,9,11
+[8f#	.
 =4	=4
-2f#_	Badd(2,4,7)/F#
-2f#]	C#add(3,5,7,10)
+2f#_	B other-2,4,7/F#
+2f#]	C# other-3,5,7,10
 =5	=5
-2cc#[	Badd(2,4,7)
-4cc#]	C#m7/E
-16dd#	.
-16ee	.
-8dd#[	.
+[2cc#	B other-2,4,7
+4cc#]	C# minor-seventh/E
+16dd#LL	.
+16eeJ	.
+[8dd#J	.
 =6	=6
-8dd#]	B/F#
-24cc#	.
+8dd#L]	B major/F#
+24cc#L	.
 24dd#	.
-24cc#	.
+24cc#JJ	.
 4b	.
-8a#	C#add(3,5,7,10)
+8a#L	C# other-3,5,7,10
 8cc#	.
-24b	.
+24bL	.
 24cc#	.
-24b	.
-8a#	.
+24bJ	.
+8a#J	.
 =7	=7
-8b	B
-16d#	.
+8bL	B major
+16d#L	.
 16c#	.
 16d#	.
 16f#	.
-16g#	.
+16g#JJ	.
 16r	.
-16b	C#m7/E
+16b	C# minor-seventh/E
 16r	.
-16b	.
-16g#	.
+16bLL	.
+16g#JJ	.
 8r	.
-16g#	.
-16f#[	.
+16g#LL	.
+[16f#JJ	.
 =8	=8
-16f#]	Badd(2,4,7)/F#
-16f#	.
+16f#LL]	B other-2,4,7/F#
+16f#JJ	.
 8r	.
-16f#	.
-16g#	.
+16f#LL	.
+16g#JJ	.
 8r	.
-16ff#	B/F#
+16ff#LL	B major/F#
 16ff#	.
-16ff#	.
+16ff#JJ	.
 6...r	.
 =9	=9
-8r	G#m
+8r	G# minor
 16F#	.
 16r	.
 16G#	.
 16r	.
-16D#	.
-16F#	.
-16G#	.
-16F#	.
+16D#LL	.
+16F#JJ	.
+16G#LL	.
+16F#JJ	.
 16r	.
 16G#	.
 16r	.
-16B	.
-8c#[	C#m7
+16BLK	.
+[8c#J	C# minor-seventh
 =10	=10
-8c#]	.
-16B	.
+8c#L]	.
+16BJk	.
 16r	.
 16G#	.
 16r	.
+16d#LL	.
+16f#JJ	.
+16g#LL	.
+16f#	.
 16d#	.
-16f#	.
-16g#	.
-16f#	.
-16d#	.
-16f#	.
+16f#JJ	.
 16r	.
-16cc#	F#/C#
-16dd#	G#m/B
+16cc#LL	F# major/C#
+16dd#JJ	G# minor/B
 16r	.
 =11	=11
-8r	G#m
-16b	.
+8r	G# minor
+16bLL	.
 16a#	.
-16b	.
+16bJJ	.
 16r	.
 16a#	.
 16r	.
 16b	.
 16r	.
-16a#	.
-16dd#	.
+16a#LL	.
+16dd#JJ	.
 16r	.
-16a#	.
-8ff#[	C#m7
+16a#LK	.
+[8ff#J	C# minor-seventh
 =12	=12
-16ff#]	.
-16dd#	.
+16ff#LL]	.
+16dd#JJ	.
 8r	.
 16cc#	.
 16r	.
-16dd#	.
-16cc#	.
-16dd#	Badd(4,7,9,11)/F#
-16ff#	Bmaj9
+16dd#LL	.
+16cc#JJ	.
+16dd#LL	B other-4,7,9,11/F#
+16ff#JJ	B major-ninth
 8r	.
-16ff#	F#
-16gg#	D#add(3,5,7,10)
+16ff#LL	F# major
+16gg#JJ	D# other-3,5,7,10
 8r	.
 ==	==
 *-	*-

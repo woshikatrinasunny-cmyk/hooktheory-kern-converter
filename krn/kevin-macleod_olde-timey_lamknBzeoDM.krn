@@ -15,62 +15,62 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	C
-16ccc	.
+8r	C major
+16cccLL	.
 16bb	.
-16aa	Am
-8gg	.
+16aaJ	A minor
+8ggJ	.
 16r	.
-16ff	Dm
+16ffLL	D minor
 16gg	.
 16aa	.
-16ee[	.
-16ee]	G7
-8dd	.
+[16ee	.
+16eeJ]	G dominant
+8ddJ	.
 16r	.
 =2	=2
-16r	C
-16aa	.
+16r	C major
+16aaLL	.
 16aa	.
 16gg	.
-16aa	Am
+16aa	A minor
 16gg	.
 16ee	.
-16cc	.
-8dd	Dm
-16ee	.
-16dd[	.
-4dd]	G
+16ccJJ	.
+8ddL	D minor
+16eeL	.
+[16ddJJ	.
+4dd]	G major
 =3	=3
-8r	C
-16gg	.
-16ff#	.
+8r	C major
+16ggLL	.
+16ff#J	.
 8.gg	.
-16cc	.
-4.ddd	Am
+16ccJk	.
+4.ddd	A minor
 8ccc	.
 =4	=4
-8r	F
-16aa	.
-16gg#	.
+8r	F major
+16aaLL	.
+16gg#J	.
 8aa	.
-8ccc	.
-4dd	G11
+8cccJ	.
+4dd	G dominant-11th
 4r	.
 =5	=5
 *k[f#c#g#d#]	*
 *E:	*
-8r	E
+8r	E major
 4bb	.
 8eee	.
-4.ddd#	C#add(2,3,7)
+4.ddd#	C# other-2,3,7
 8bb	.
 =6	=6
-8ccc#	F#m
+8ccc#L	F# minor
 8bb	.
 8aa	.
-8gg#	.
-4ff#	B11
+8gg#J	.
+4ff#	B dominant-11th
 8r	.
 8gg#	.
 ==	==

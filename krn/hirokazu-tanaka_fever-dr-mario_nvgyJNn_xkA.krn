@@ -16,70 +16,70 @@
 *C:	*
 *M4/4	*
 =1	=1
-8dd#	C
+8dd#L	C major
 8ee	.
 8dd#	.
-8ee	.
-8dd	F
+8eeJ	.
+8ddL	F major
 8cc	.
 8cc	.
-8a	.
+8aJ	.
 =2	=2
-8dd#	C
+8dd#L	C major
 8ee	.
 8dd	.
-8cc	.
-8cc	F
+8ccJ	.
+8cc	F major
 4.r	.
 =3	=3
-8dd#	C
+8dd#L	C major
 8ee	.
 8dd#	.
-8ee	.
-8dd	F
+8eeJ	.
+8ddL	F major
 8cc	.
 8cc	.
-8a	.
+8aJ	.
 =4	=4
-8f#	D
+8f#L	D major
 8a	.
 8b	.
-8dd	.
-8cc	Gsus4
+8ddJ	.
+8cc	G suspended-fourth
 8r	.
-8b	G7
+8b	G dominant
 8r	.
 =5	=5
-8dd#	C
+8dd#L	C major
 8ee	.
 8dd	.
-8cc	.
-8cc	F
+8ccJ	.
+8cc	F major
 8r	.
 4F	.
 =6	=6
-8dd#	C
+8dd#L	C major
 8ee	.
 8dd	.
-8cc	.
-8cc	F
+8ccJ	.
+8cc	F major
 8r	.
 4F#	.
 =7	=7
-8dd#	C/E
+8dd#L	C major/E
 8ee	.
 8dd#	.
-8ee	.
-8dd	Dm
+8eeJ	.
+8ddL	D minor
 8cc	.
 8cc	.
-8a	.
+8aJ	.
 =8	=8
-8cc	G7sus4
+8cc	G dominant-seventh-suspended-fourth
 8r	.
-8dd	G7sus4
+8dd	G dominant-seventh-suspended-fourth
 8r	.
-8cc	C
+8cc	C major
 8r	.
 8C	.
 8r	.

@@ -16,278 +16,278 @@
 *f#:	*
 *M2/4	*
 =1	=1
-16aa	F#m
+16aaLL	F# minor
 16bb	.
 16aa	.
-16gg#	.
-16ff#	.
+16gg#JJ	.
+16ff#LL	.
 16aa	.
 16gg#	.
-16ff#	.
+16ff#JJ	.
 =2	=2
-16ffn	C#7/G#
+16ffnLL	C# dominant/G#
 16ff#	.
 16gg#	.
-16ffn	.
-16cc#	.
+16ffnJJ	.
+16cc#LL	.
 16dd#	.
 16ffn	.
-16cc#	.
+16cc#JJ	.
 =3	=3
-16ff#	F#m
+16ff#LL	F# minor
 16ffn	.
 16ff#	.
+16gg#JJ	.
+16aaLL	.
 16gg#	.
 16aa	.
-16gg#	.
-16aa	.
-16bb	.
+16bbJJ	.
 =4	=4
-16ccc#	C#/F
+16ccc#LL	C# major/F
 16cccn	.
 16ccc#	.
-16cccn	.
-16ccc#	.
+16cccnJJ	.
+16ccc#LL	.
 16ddd	.
 16ccc#	.
-16bb	.
+16bbJJ	.
 =5	=5
-16aa	F#m
+16aaLL	F# minor
 16bb	.
 16aa	.
-16gg#	.
-16ff#	.
+16gg#JJ	.
+16ff#LL	.
 16aa	.
 16gg#	.
-16ff#	.
+16ff#JJ	.
 =6	=6
-16ee	C#m/G#
+16eeLL	C# minor/G#
 16ff#	.
 16gg#	.
-16ee	.
-16cc#	.
+16eeJJ	.
+16cc#LL	.
 16dd#	.
 16ee	.
-16cc#	.
+16cc#JJ	.
 =7	=7
-16dd#	G#7
+16dd#LL	G# dominant
 16ee	.
 16ff#	.
-16dd#	.
-16ccn	.
+16dd#JJ	.
+16ccnLL	.
 16cc#	.
 16dd#	.
-16ccn	.
+16ccnJJ	.
 =8	=8
-4cc#	C#m
-16ccc#	.
+4cc#	C# minor
+16ccc#LL	.
 16ddd	.
 16ccc#	.
-16bb	.
+16bbJJ	.
 =9	=9
-16aa	F#m
+16aaLL	F# minor
 16bb	.
 16aa	.
-16gg#	.
-16ff#	.
+16gg#JJ	.
+16ff#LL	.
 16aa	.
 16gg#	.
-16ff#	.
+16ff#JJ	.
 =10	=10
-16ffn	C#7/G#
+16ffnLL	C# dominant/G#
 16ff#	.
 16gg#	.
-16ffn	.
-16cc#	.
+16ffnJJ	.
+16cc#LL	.
 16dd#	.
 16ffn	.
-16cc#	.
+16cc#JJ	.
 =11	=11
-16ff#	F#m
+16ff#LL	F# minor
 16ffn	.
 16ff#	.
+16gg#JJ	.
+16aaLL	.
 16gg#	.
 16aa	.
-16gg#	.
-16aa	.
-16bb	.
+16bbJJ	.
 =12	=12
-16ccc#	C#/F
+16ccc#LL	C# major/F
 16cccn	.
 16ccc#	.
-16cccn	.
-16ccc#	.
+16cccnJJ	.
+16ccc#LL	.
 16ddd	.
 16ccc#	.
-16bb	.
+16bbJJ	.
 =13	=13
-16aa	F#m
+16aaLL	F# minor
 16bb	.
 16aa	.
-16gg#	.
-16ff#	.
+16gg#JJ	.
+16ff#LL	.
 16aa	.
 16gg#	.
-16ff#	.
+16ff#JJ	.
 =14	=14
-16ee	C#m/G#
+16eeLL	C# minor/G#
 16ff#	.
 16gg#	.
-16ee	.
-16cc#	.
+16eeJJ	.
+16cc#LL	.
 16dd#	.
 16ee	.
-16cc#	.
+16cc#JJ	.
 =15	=15
-16dd#	G#7
+16dd#LL	G# dominant
 16ee	.
 16ff#	.
-16dd#	.
-16ccn	.
+16dd#JJ	.
+16ccnLL	.
 16cc#	.
 16dd#	.
-16ccn	.
+16ccnJJ	.
 =16	=16
-4cc#	C#m
-16ee	.
+4cc#	C# minor
+16eeLL	.
 16dd	.
 16cc#	.
-16b	.
+16bJJ	.
 =17	=17
-16a	A
+16aLL	A major
 16b	.
 16cc#	.
-16dd	.
-16ee	.
+16ddJJ	.
+16eeLL	.
 16ff#	.
 16gg#	.
-16aa	.
+16aaJJ	.
 =18	=18
-16aa	E7sus4/B
+16aaLL	E dominant-seventh-suspended-fourth/B
 16gg#	.
 16ff#	.
-16ee	.
-16ee	E7/G#
+16eeJJ	.
+16eeLL	E dominant/G#
 16dd	.
 16cc#	.
-16b	.
+16bJJ	.
 =19	=19
-16a	A
+16aLL	A major
 16b	.
 16cc#	.
-16dd	.
-16ee	.
+16ddJJ	.
+16eeLL	.
 16ff#	.
 16gg#	.
-16aa	.
+16aaJJ	.
 =20	=20
-8aa#	E7
-8bb	.
-16ee	.
+8aa#L	E dominant
+8bbJ	.
+16eeLL	.
 16dd	.
 16cc#	.
-16b	.
+16bJJ	.
 =21	=21
-16a	A
+16aLL	A major
 16b	.
 16cc#	.
-16dd	.
-16ee	.
+16ddJJ	.
+16eeLL	.
 16ff#	.
 16gg#	.
-16aa	.
+16aaJJ	.
 =22	=22
-16aa	E7sus4/B
+16aaLL	E dominant-seventh-suspended-fourth/B
 16gg#	.
 16ff#	.
-16ee	.
-16ee	E7/G#
+16eeJJ	.
+16eeLL	E dominant/G#
 16dd	.
 16cc#	.
-16b	.
+16bJJ	.
 =23	=23
-16cc#	A
+16cc#LL	A major
 16ee	.
-16a	F#m
-16cc#	.
-16b	Bm/D
+16a	F# minor
+16cc#JJ	.
+16bLL	B minor/D
 16dd	.
-16g#	E
-16b	.
+16g#	E major
+16bJJ	.
 =24	=24
-4a	A
-16ccc#	.
+4a	A major
+16ccc#LL	.
 16ddd	.
 16ccc#	.
-16bb	.
+16bbJJ	.
 =25	=25
-16aa	F#m
+16aaLL	F# minor
 16bb	.
 16aa	.
-16gg#	.
-16ff#	.
+16gg#JJ	.
+16ff#LL	.
 16aa	.
 16gg#	.
-16ff#	.
+16ff#JJ	.
 =26	=26
-16ffn	C#7/G#
+16ffnLL	C# dominant/G#
 16ff#	.
 16gg#	.
-16ffn	.
-16cc#	.
+16ffnJJ	.
+16cc#LL	.
 16dd#	.
 16ffn	.
-16cc#	.
+16cc#JJ	.
 =27	=27
-16ff#	F#m
+16ff#LL	F# minor
 16ffn	.
 16ff#	.
+16gg#JJ	.
+16aaLL	.
 16gg#	.
 16aa	.
-16gg#	.
-16aa	.
-16bb	.
+16bbJJ	.
 =28	=28
-16ccc#	C#
+16ccc#LL	C# major
 16cccn	.
 16ccc#	.
+16cccnJJ	.
+16ccc#LL	C# diminished
 16cccn	.
-16ccc#	C#dim
-16cccn	.
-16ccc#	F#/C#
-16aa#	.
+16ccc#	F# major/C#
+16aa#JJ	.
 =29	=29
-16ddd	Bm
+16dddLL	B minor
 16ccc#	.
 16ddd	.
+16ccc#JJ	.
+16dddLL	.
 16ccc#	.
 16ddd	.
-16ccc#	.
-16ddd	.
-16ccc#	.
+16ccc#JJ	.
 =30	=30
-16ddd	G#dim/B
+16dddLL	G# diminished/B
 16ccc#	.
 16bb	.
-16aa	.
-16gg#	.
+16aaJJ	.
+16gg#LL	.
 16aa	.
 16bb	.
-16gg#	.
+16gg#JJ	.
 =31	=31
-16aa	F#m/C#
+16aaLL	F# minor/C#
 16bb	.
 16ccc#	.
-16ff#	.
-16ffn	C#7
+16ff#JJ	.
+16ffnLL	C# dominant
 16ff#	.
 16gg#	.
-16ffn	.
+16ffnJJ	.
 =32	=32
-4ff#	F#m
-16ee	.
+4ff#	F# minor
+16eeLL	.
 16dd	.
 16cc#	.
-16b	.
+16bJJ	.
 ==	==
 *-	*-

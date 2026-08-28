@@ -16,103 +16,103 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4fn	C#
+4fn	C# major
 4fn	.
 4fn	.
 4fn	.
 =2	=2
 4fn	.
 4fn	.
-8.fn	.
-16fn	.
+8.fnL	.
+16fnk	.
 8fn	.
-8fn	.
+8fnJ	.
 =3	=3
-4f#	D#m/A#
+4f#	D# minor/A#
 8r	.
-4d#	B
+4d#	B major
 8r	.
-4c#	C#
+4c#	C# major
 =4	=4
 1r	.
 =5	=5
-4A#	F#
+4A#	F# major
 4A#	.
-2B	F#sus4
+2B	F# suspended-fourth
 =6	=6
-4F#	Bmaj7
+4F#	B major-seventh
 8r	.
-3...r	C#m7
+3...r	C# minor-seventh
 =7	=7
-4A#	F#
+4A#	F# major
 4A#	.
-2B	F#sus4
+2B	F# suspended-fourth
 =8	=8
-4.r	Bmaj7
-2r	C#m7
+4.r	B major-seventh
+2r	C# minor-seventh
 8G#	.
 =9	=9
-4A#	F#
-8A#	.
-8A#	.
-4B	F#sus4
-8.B	.
-16B	.
+4A#	F# major
+8A#L	.
+8A#J	.
+4B	F# suspended-fourth
+8.BL	.
+16BJk	.
 =10	=10
-4c#	Bmaj7
-8B[	.
-8B]	C#m7
+4c#	B major-seventh
+[8BL	.
+8BJ]	C# minor-seventh
 4B	.
 4B	.
 =11	=11
-4A#	F#
+4A#	F# major
 4A#	.
-4B	F#sus4
-8B	.
-8G#	.
+4B	F# suspended-fourth
+8BL	.
+8G#J	.
 =12	=12
-4F#	Bmaj7
+4F#	B major-seventh
 8r	.
-3...r	C#m7
+3...r	C# minor-seventh
 =13	=13
-4a#	F#
-4b	G#m
-4ff#	B
-4a#	Caug
+4a#	F# major
+4b	G# minor
+4ff#	B major
+4a#	C augmented
 =14	=14
-4b	C#m7
+4b	C# minor-seventh
 4gg#	.
-4a#	E
+4a#	E major
 4ff#	.
 =15	=15
-4a#	F#
-4b	G#m
-4ff#	B
-4a#	Caug
+4a#	F# major
+4b	G# minor
+4ff#	B major
+4a#	C augmented
 =16	=16
-4b	C#m7
+4b	C# minor-seventh
 4gg#	.
-4a#	E
+4a#	E major
 4ff#	.
 =17	=17
-4a#	F#
-4b	G#m
-4ff#	B
-4a#	Caug
+4a#	F# major
+4b	G# minor
+4ff#	B major
+4a#	C augmented
 =18	=18
-4b	C#m7
+4b	C# minor-seventh
 4gg#	.
-4a#	E
+4a#	E major
 4ff#	.
 =19	=19
-4a#	F#
-4b	G#m
-4ff#	B
-4a#	Caug
+4a#	F# major
+4b	G# minor
+4ff#	B major
+4a#	C augmented
 =20	=20
-4b	C#m7
+4b	C# minor-seventh
 4gg#	.
-4a#	E
+4a#	E major
 4ff#	.
 ==	==
 *-	*-

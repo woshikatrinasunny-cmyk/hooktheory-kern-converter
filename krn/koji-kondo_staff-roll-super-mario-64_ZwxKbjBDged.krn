@@ -15,61 +15,61 @@
 *C:	*
 *M4/4	*
 =1	=1
-8ee	C
+8eeL	C major
 8dd	.
 8ee	.
-8ff	.
-4gg	Em7/B
-8ee	.
-8dd	.
+8ffJ	.
+4gg	E minor-seventh/B
+8eeL	.
+8ddJ	.
 =2	=2
-4.dd	Aadd(2,3,7)
+4.dd	A other-2,3,7
 8cc	.
-4cc	C/G
-8ee	.
-8gg	.
+4cc	C major/G
+8eeL	.
+8ggJ	.
 =3	=3
-8aa	F
+8aaL	F major
 8gg	.
 8aa	.
-8bb	.
-4ccc	C/E
-8gg	.
-8ff	.
+8bbJ	.
+4ccc	C major/E
+8ggL	.
+8ffJ	.
 =4	=4
-4ee	Dm7
-8ee	.
-8ff	.
-4.dd	G7
+4ee	D minor-seventh
+8eeL	.
+8ffJ	.
+4.dd	G dominant
 8g	.
 =5	=5
-8ee	C
+8eeL	C major
 8dd	.
 8ee	.
-8ff	.
-4gg	Em7/B
-8ee	.
-8dd	.
+8ffJ	.
+4gg	E minor-seventh/B
+8eeL	.
+8ddJ	.
 =6	=6
-4.dd	Aadd(2,3,7)
+4.dd	A other-2,3,7
 8cc	.
-4cc	C/G
-8ee	.
-8gg	.
+4cc	C major/G
+8eeL	.
+8ggJ	.
 =7	=7
-8aa	F
+8aaL	F major
 8gg	.
 8aa	.
-8bb	.
-4ccc	C/E
-8gg	.
-8ff	.
+8bbJ	.
+4ccc	C major/E
+8ggL	.
+8ffJ	.
 =8	=8
-8ff	Dm7
+8ffL	D minor-seventh
 8ee	.
 8dd	.
-8cc	.
-4gg	G7
+8ccJ	.
+4gg	G dominant
 4g	.
 ==	==
 *-	*-

@@ -15,77 +15,77 @@
 *d:	*
 *M3/4	*
 =1	=1
-4.r	Dm
-4.r	Em
+4.r	D minor
+4.r	E minor
 =2	=2
-4.r	F
-4.r	Em
+4.r	F major
+4.r	E minor
 =3	=3
-4.r	Dm
-4.r	Em
+4.r	D minor
+4.r	E minor
 =4	=4
-4.r	F
-4.r	Em
+4.r	F major
+4.r	E minor
 =5	=5
-16d	Dm
-16f	.
+16dLL	D minor
+16fJJ	.
 4dd	.
-16d	Em
-16f	.
+16dLL	E minor
+16fJJ	.
 4dd	.
 =6	=6
-8.ee	F
+8.eeL	F major
+16ffJk	.
+16eeLL	.
 16ff	.
-16ee	.
-16ff	.
-16ee	Em
-16cc	.
+16ee	E minor
+16ccJJ	.
 4a	.
 =7	=7
-8a	A#
-8d	.
-16f	.
-16g	.
-4.a	F
+8aL	A# major
+8dJ	.
+16fLL	.
+16gJJ	.
+4.a	F major
 =8	=8
-8a	A#
-8d	.
-16f	.
-16g	.
-4.e	A
+8aL	A# major
+8dJ	.
+16fLL	.
+16gJJ	.
+4.e	A major
 =9	=9
-16d	Dm
-16f	.
+16dLL	D minor
+16fJJ	.
 4dd	.
-16d	Em
-16f	.
+16dLL	E minor
+16fJJ	.
 4dd	.
 =10	=10
-8.ee	F
+8.eeL	F major
+16ffJk	.
+16eeLL	.
 16ff	.
-16ee	.
-16ff	.
-16ee	Em
-16cc	.
+16ee	E minor
+16ccJJ	.
 4a	.
 =11	=11
-8a	A#
-8d	.
-16f	.
-16g	.
-4a	A
+8aL	A# major
+8dJ	.
+16fLL	.
+16gJJ	.
+4a	A major
 8a	.
 =12	=12
-4.d[	Dm
-4.d]	Em
+[4.d	D minor
+4.d]	E minor
 =13	=13
-4.r	F
-4.r	Em
+4.r	F major
+4.r	E minor
 =14	=14
-4.r	Dm
-4.r	Em
+4.r	D minor
+4.r	E minor
 =15	=15
-4.r	F
-4.r	Em
+4.r	F major
+4.r	E minor
 ==	==
 *-	*-

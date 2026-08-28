@@ -15,7 +15,7 @@
 *G:	*
 *M4/4	*
 =1	=1
-16dd	G
+16dd	G major
 16r	.
 16dd	.
 16r	.
@@ -32,21 +32,21 @@
 16b	.
 16r	.
 =2	=2
-4cc	Cadd(2,4,7)
+4cc	C other-2,4,7
 4b	.
 4g	.
 16a	.
 8.r	.
 =3	=3
-16a	G
+16a	G major
 16r	.
 2..b	.
 =4	=4
-2.r	Cadd(2,4,7)
-8b	.
-8cc	.
+2.r	C other-2,4,7
+8bL	.
+8ccJ	.
 =5	=5
-16dd	G
+16dd	G major
 16r	.
 16dd	.
 16r	.
@@ -63,19 +63,19 @@
 16b	.
 16r	.
 =6	=6
-4cc	Cadd(2,4,7)
+4cc	C other-2,4,7
 4b	.
 4g	.
 16a	.
 8.r	.
 =7	=7
-16a	G
+16a	G major
 16r	.
 2..g	.
 =8	=8
-2r	C
-4r	D7
-8b	D7/F#
-8cc	.
+2r	C major
+4r	D dominant
+8bL	D dominant/F#
+8ccJ	.
 ==	==
 *-	*-

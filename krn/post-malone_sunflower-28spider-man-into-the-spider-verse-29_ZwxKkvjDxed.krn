@@ -21,61 +21,61 @@
 4b	.
 4dd	.
 =2	=2
-4dd	D
+4dd	D major
 8r	.
-8r	D
-8.r	Dmaj7
-8.r	Dmaj7
-8r	Dmaj7
+8r	D major
+8.r	D major-seventh
+8.r	D major-seventh
+8r	D major-seventh
 =3	=3
-4.r	D
-8dd	D
-8aa[	.
-8aa]	D
-16bb[	.
-8.bb]	D
+4.r	D major
+8dd	D major
+[8aaL	.
+8aa]	D major
+[16bbk	.
+8.bbJ]	D major
 =4	=4
-4ff#	G
-16ee	.
-16dd[	.
-8dd_	G
-8dd]	Gmaj7
+4ff#	G major
+16eeLL	.
+[16ddJ	.
+8ddJ_	G major
+8dd]	G major-seventh
 16r	.
-8.r	Gmaj7
-8r	Gmaj7
+8.r	G major-seventh
+8r	G major-seventh
 =5	=5
-4.r	G
-4r	G
-8r	Gmaj7
-16dd[	.
-8.dd]	Gmaj7
+4.r	G major
+4r	G major
+8r	G major-seventh
+[16ddLK	.
+8.ddJ]	G major-seventh
 =6	=6
-4dd	Em
+4dd	E minor
 8r	.
-8r	Em
-8.r	Eadd(2,3,7)
-8.r	Eadd(2,3,7)
-8r	Eadd(2,3,7)
+8r	E minor
+8.r	E other-2,3,7
+8.r	E other-2,3,7
+8r	E other-2,3,7
 =7	=7
-4.r	Em
-8dd	Em
-8aa[	.
-8aa]	Eadd(2,3,7)
-16bb[	.
-8.bb]	Eadd(2,3,7)
+4.r	E minor
+8dd	E minor
+[8aaL	.
+8aa]	E other-2,3,7
+[16bbk	.
+8.bbJ]	E other-2,3,7
 =8	=8
-8.ff#	G
-16ee	.
-8dd[	.
-8dd_	G
-8dd]	Gmaj7
+8.ff#L	G major
+16eek	.
+[8dd	.
+8ddJ_	G major
+8dd]	G major-seventh
 16r	.
-8.r	Gmaj7
-8r	Gmaj7
+8.r	G major-seventh
+8r	G major-seventh
 =9	=9
-4.r	G
-4r	G
-8.r	Gmaj7
-8.r	Gmaj7
+4.r	G major
+4r	G major
+8.r	G major-seventh
+8.r	G major-seventh
 ==	==
 *-	*-

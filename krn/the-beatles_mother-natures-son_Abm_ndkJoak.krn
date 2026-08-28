@@ -16,47 +16,47 @@
 *D:	*
 *M4/4	*
 =1	=1
-4A	D
+4A	D major
 4A	.
-4B	G/D
+4B	G major/D
 4B	.
 =2	=2
 4.B	.
 8A	.
-4.A	D
+4.A	D major
 8r	.
 =3	=3
-4d	Bm
+4d	B minor
 4d	.
-4c#	D/A
-16d	.
-8.c#	.
+4c#	D major/A
+16dLK	.
+8.c#J	.
 =4	=4
-2B	G#add(6,10)
-2r	E9
+2B	G# other-6,10
+2r	E dominant-ninth
 =5	=5
-4c#	A
-8B	Asus4
-16F#	.
-16A[	.
-4A]	A
-4F#	Asus4
+4c#	A major
+8BL	A suspended-fourth
+16F#L	.
+[16AJJ	.
+4A]	A major
+4F#	A suspended-fourth
 =6	=6
-16E	A
+16ELK	A major
 8.F#	.
-16A	Asus4
+16Ak	A suspended-fourth
 8B	.
-16A[	.
-8A]	A
+[16AJk	.
+8AL]	A major
 8B	.
-16d	Asus4
+16dk	A suspended-fourth
 8B	.
-16d[	.
+[16dJk	.
 =7	=7
-2d]	D
-2r	Dm7
+2d]	D major
+2r	D minor-seventh
 =8	=8
-2r	G/D
-2r	D
+2r	G major/D
+2r	D major
 ==	==
 *-	*-

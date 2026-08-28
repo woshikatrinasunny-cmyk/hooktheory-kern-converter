@@ -16,68 +16,68 @@
 *A-:	*
 *M6/4	*
 =1	=1
-8A-	A-
-8A-	.
-8A-	.
-8c	A-
+8A-L	A- major
+8A-J	.
+8A-L	.
+8cJ	A- major
 8r	.
 8E-	.
-4.A-	A-
-8A-	A-
-8c	.
-8e-	.
+4.A-	A- major
+8A-	A- major
+8cL	.
+8e-J	.
 =2	=2
-4.g[	A-add(3,6,7,11)
-4.g]	A-add(3,6,7,11)
-4.f[	A-add(3,6,7,11)
-4.f]	A-add(3,6,7,11)
+[4.g	A- other-3,6,7,11
+4.g]	A- other-3,6,7,11
+[4.f	A- other-3,6,7,11
+4.f]	A- other-3,6,7,11
 =3	=3
-8e-	A-
-8e-	.
-8e-	.
-8a-	A-
+8e-L	A- major
+8e-J	.
+8e-L	.
+8a-J	A- major
 8r	.
 8c	.
-4.e-	A-
-8e-	A-
-8a-	.
-8c	.
+4.e-	A- major
+8e-	A- major
+8a-L	.
+8cJ	.
 =4	=4
-4.b-[	A-11
-4.b-]	A-11
-4.dd-[	D-/A-
-4.dd-]	D-/A-
+[4.b-	A- dominant-11th
+4.b-]	A- dominant-11th
+[4.dd-	D- major/A-
+4.dd-]	D- major/A-
 =5	=5
-8A-	A-
-8A-	.
-8A-	.
-8c	A-
+8A-L	A- major
+8A-J	.
+8A-L	.
+8cJ	A- major
 8r	.
 8E-	.
-4.A-	A-
-8A-	A-
-8c	.
-8e-	.
+4.A-	A- major
+8A-	A- major
+8cL	.
+8e-J	.
 =6	=6
-4.g[	A-add(3,6,7,11)
-4.g]	A-add(3,6,7,11)
-4.f[	A-add(3,6,7,11)
-4.f]	A-add(3,6,7,11)
+[4.g	A- other-3,6,7,11
+4.g]	A- other-3,6,7,11
+[4.f	A- other-3,6,7,11
+4.f]	A- other-3,6,7,11
 =7	=7
-8e-	A-
-8e-	.
-8e-	.
-8a-	A-
+8e-L	A- major
+8e-J	.
+8e-L	.
+8a-J	A- major
 8r	.
 8c	.
-4.e-	A-
-8e-	A-
-8a-	.
-8c	.
+4.e-	A- major
+8e-	A- major
+8a-L	.
+8cJ	.
 =8	=8
-4.b-[	A-11
-4.b-]	A-11
-4.dd-[	D-/A-
-4.dd-]	D-/A-
+[4.b-	A- dominant-11th
+4.b-]	A- dominant-11th
+[4.dd-	D- major/A-
+4.dd-]	D- major/A-
 ==	==
 *-	*-

@@ -17,125 +17,125 @@
 *M4/4	*
 =1	=1
 2.r	.
-16b-	.
+16b-LL	.
 16cc	.
 16dd-	.
-16ee-	.
+16ee-JJ	.
 =2	=2
-4.ff	G-maj7
+4.ff	G- major-seventh
 4.b-	.
 4ff	.
 =3	=3
-4.ee-	A-
+4.ee-	A- major
 4.dd-	.
 4cc	.
 =4	=4
-4cc	B-m
+4cc	B- minor
 8dd-	.
-3...b-[	.
+[3...b-	.
 =5	=5
 2.b-]	.
-16b-	.
+16b-LL	.
 16cc	.
 16dd-	.
-16ee-	.
+16ee-JJ	.
 =6	=6
-4.ff	G-maj7
+4.ff	G- major-seventh
 4.b-	.
 4ff	.
 =7	=7
-4.aa-	A-
+4.aa-	A- major
 4.dd-	.
 4cc	.
 =8	=8
-4cc	B-m
+4cc	B- minor
 8dd-	.
-3...b-[	.
+[3...b-	.
 =9	=9
 2.b-_	.
-16b-]	.
+16b-LL]	.
 16cc	.
 16dd-	.
-16ee-	.
+16ee-JJ	.
 =10	=10
-4.aa-	G-add(2,4,7)
+4.aa-	G- other-2,4,7
 4.b-	.
 4aa-	.
 =11	=11
-4.gg-	A-7
+4.gg-	A- dominant
 4.ff	.
 4ee-	.
 =12	=12
-4ff	B-m
+4ff	B- minor
 8bb-	.
-3...ff[	.
+[3...ff	.
 =13	=13
 2.ff]	.
-16b-	.
+16b-LL	.
 16cc	.
 16dd-	.
-16ee-	.
+16ee-JJ	.
 =14	=14
-4.ff	G-maj7
+4.ff	G- major-seventh
 4.b-	.
 4ff	.
 =15	=15
-4.aa-	A-
+4.aa-	A- major
 4.dd-	.
 4cc	.
 =16	=16
-4cc	B-m
+4cc	B- minor
 8dd-	.
-3...b-[	.
+[3...b-	.
 =17	=17
 2.b-_	.
-16b-]	.
+16b-LL]	.
 16cc	.
 16dd-	.
-16ee-	.
+16ee-JJ	.
 =18	=18
-1ff	G-maj7
+1ff	G- major-seventh
 =19	=19
-1ee-	A-
+1ee-	A- major
 =20	=20
-1dd-[	B-m
+[1dd-	B- minor
 =21	=21
 1dd-]	.
 =22	=22
-1ff	G-maj7
+1ff	G- major-seventh
 =23	=23
-1ee-	A-
+1ee-	A- major
 =24	=24
-4ee-	B-sus4
-8ee-	.
-8bb-	.
+4ee-	B- suspended-fourth
+8ee-L	.
+8bb-J	.
 8ff	.
 4ee-	.
 8bb-	.
 =25	=25
-8ff	.
+8ffL	.
 8ee-	.
 8bb-	.
-8ff	.
-8ee-	.
+8ffJ	.
+8ee-L	.
 8bb-	.
 8ff	.
-8ee-	.
+8ee-J	.
 =26	=26
-4ddn	B-
-8ddn	.
-8bb-	.
+4ddn	B- major
+8ddnL	.
+8bb-J	.
 8ff	.
 4ddn	.
 8bb-	.
 =27	=27
-8ff	.
+8ffL	.
 8ddn	.
 8bb-	.
-8ff	.
-8ddn	.
+8ffJ	.
+8ddnL	.
 8bb-	.
 8ff	.
-8ddn	.
+8ddnJ	.
 ==	==
 *-	*-

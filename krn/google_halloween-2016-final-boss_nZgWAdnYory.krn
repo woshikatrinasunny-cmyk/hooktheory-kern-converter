@@ -16,7 +16,7 @@
 *c:	*
 *M4/4	*
 =1	=1
-4c	Cm
+4c	C minor
 4e-	.
 4g	.
 4e-	.
@@ -24,17 +24,17 @@
 2dd	.
 2cc	.
 =3	=3
-4Bn	E-aug/G
+4Bn	E- augmented/G
 4e-	.
 4g	.
 4e-	.
 =4	=4
-4B-	E-/B-
+4B-	E- major/B-
 4e-	.
 4g	.
 4e-	.
 =5	=5
-4c	Cm
+4c	C minor
 4e-	.
 4g	.
 4e-	.
@@ -42,41 +42,41 @@
 2dd	.
 2ee-	.
 =7	=7
-4Bn	E-aug/G
+4Bn	E- augmented/G
 4e-	.
 4g	.
 4e-	.
 =8	=8
-4B-	E-/B-
+4B-	E- major/B-
 4e-	.
 4g	.
 4e-	.
 =9	=9
-2.a-	Fm
+2.a-	F minor
 4g	.
 =10	=10
 2.f	.
 4g	.
 =11	=11
-2.a-	A-m
+2.a-	A- minor
 4g	.
 =12	=12
-1d	Bdim7
+1d	B diminished-seventh
 =13	=13
-1e-[	Cm
+[1e-	C minor
 =14	=14
 1e-]	.
 =15	=15
-1d	G
+1d	G major
 =16	=16
-1f	G7/B
+1f	G dominant/B
 =17	=17
-1g[	Cm
+[1g	C minor
 =18	=18
 1g]	.
 =19	=19
-1f	Gadd(4,7,8,10)
+1f	G other-4,7,8,10
 =20	=20
-1a-	Badd(4,6)
+1a-	B other-4,6
 ==	==
 *-	*-

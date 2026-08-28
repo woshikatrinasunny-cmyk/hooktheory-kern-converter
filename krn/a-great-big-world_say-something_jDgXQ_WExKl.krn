@@ -22,83 +22,83 @@
 4d	.
 8d	.
 =2	=2
-4.d	Bm
-4.d	Bm
-4.d	G
-4.d	G
+4.d	B minor
+4.d	B minor
+4.d	G major
+4.d	G major
 =3	=3
-4.d	D
-4.d	D
-4.d	Aadd(4,5,7)
-4.d	Aadd(4,5,7)
+4.d	D major
+4.d	D major
+4.d	A other-4,5,7
+4.d	A other-4,5,7
 =4	=4
-4.r	Bm
-8f#	Bm
-8e	.
-8e	.
-8e	G
-8e	.
-8f#	.
-8e	G
-8d	.
-8d	.
+4.r	B minor
+8f#	B minor
+8eL	.
+8eJ	.
+8eL	G major
+8eJ	.
+8f#L	.
+8eJ	G major
+8dL	.
+8dJ	.
 =5	=5
-4.r	D
-4.r	D
-4.r	Aadd(4,5,7)
-4.r	Aadd(4,5,7)
+4.r	D major
+4.r	D major
+4.r	A other-4,5,7
+4.r	A other-4,5,7
 =6	=6
-4.r	Bm
-8f#	Bm
-16e	.
-16e	.
+4.r	B minor
+8f#	B minor
+16eLL	.
+16eJ	.
+8eJ	.
+8r	G major
 8e	.
-8r	G
-8e	.
-16f#	.
-16e[	.
-16e]	G
+16f#LL	.
+[16e	.
+16eJJ]	G major
 8d	.
 8d	.
 16r	.
 =7	=7
-4.r	D
-4.r	D
-4.r	Aadd(4,5,7)
-4.r	Aadd(4,5,7)
+4.r	D major
+4.r	D major
+4.r	A other-4,5,7
+4.r	A other-4,5,7
 =8	=8
-4.r	Bm
-16b	Bm
+4.r	B minor
+16b	B minor
 8cc#	.
 8.dd	.
-8g	G
+8g	G major
 8r	.
-16g	.
-16g	.
-8g	G
-8a	.
-16g	.
-16f#	.
+16gLL	.
+16gJ	.
+8gJ	G major
+8aL	.
+16gL	.
+16f#JJ	.
 =9	=9
-4.r	D
-4.r	D
-4.r	Aadd(4,5,7)
-4.r	Aadd(4,5,7)
+4.r	D major
+4.r	D major
+4.r	A other-4,5,7
+4.r	A other-4,5,7
 =10	=10
-4.r	Bm
-8ff#	Bm
-8ee	.
-8ee	.
-8ee	G
-8ee	.
-8ff#	.
-8ee	G
-8dd	.
-8dd	.
+4.r	B minor
+8ff#	B minor
+8eeL	.
+8eeJ	.
+8eeL	G major
+8eeJ	.
+8ff#L	.
+8eeJ	G major
+8ddL	.
+8ddJ	.
 =11	=11
-4.r	D
-4.r	D
-4.r	Aadd(4,5,7)
-4.r	Aadd(4,5,7)
+4.r	D major
+4.r	D major
+4.r	A other-4,5,7
+4.r	A other-4,5,7
 ==	==
 *-	*-

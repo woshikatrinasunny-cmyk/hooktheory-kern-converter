@@ -15,76 +15,76 @@
 *A:	*
 *M4/4	*
 =1	=1
-8.r	A
-16a	.
+8.r	A major
+16aLL	.
 16ccn	.
-16dd	.
+16ddJJ	.
 16r	.
 16dd#	.
 16r	.
-8.dd#	.
-8dd	Gm7
-16ccn	.
+8.dd#L	.
+8dd	G minor-seventh
+16ccnJk	.
 16r	.
 =2	=2
-16ccn	A
-16dd	.
+16ccnLL	A major
+16ddJ	.
 8ccn	.
-16a	.
+16aJk	.
 16r	.
-16g	.
-16a	.
+16gLL	.
+16aJJ	.
 4r	.
-4r	Dadd(1,6,10)
+4r	D other-1,6,10
 =3	=3
-8.r	A
-16g	.
+8.r	A major
+16gLL	.
 16a	.
 16ccn	.
 16dd	.
-16dd#	.
+16dd#JJ	.
 16r	.
-8.dd#	.
-16dd	Gm7
-8.ccn	.
+8.dd#L	.
+16ddk	G minor-seventh
+8.ccnJ	.
 =4	=4
-2.a[	A
-8a]	Dadd(1,6,10)
-8g	.
+[2.a	A major
+8aL]	D other-1,6,10
+8gJ	.
 =5	=5
-8.r	A
-16a	.
+8.r	A major
+16aLL	.
 16ccn	.
-16dd	.
+16ddJJ	.
 16r	.
 16dd#	.
 16r	.
-8.dd#	.
-8dd	Gm7
-16ccn	.
+8.dd#L	.
+8dd	G minor-seventh
+16ccnJk	.
 16r	.
 =6	=6
-16dd	A
-16dd#	.
+16ddLL	A major
+16dd#J	.
 8ccn	.
 8a	.
-16g	.
-16a	.
+16gL	.
+16aJJ	.
 4r	.
-4r	Dadd(1,6,10)
+4r	D other-1,6,10
 =7	=7
-4r	A
-16a	.
+4r	A major
+16aLL	.
 16ccn	.
 16dd	.
-16dd#	.
+16dd#JJ	.
 16r	.
-8.dd#	.
-16dd	Gm7
-8.ccn	.
+8.dd#L	.
+16ddk	G minor-seventh
+8.ccnJ	.
 =8	=8
-3...a	A
-8ee[	.
-4ee]	Dadd(1,6,10)
+3...a	A major
+[8ee	.
+4ee]	D other-1,6,10
 ==	==
 *-	*-

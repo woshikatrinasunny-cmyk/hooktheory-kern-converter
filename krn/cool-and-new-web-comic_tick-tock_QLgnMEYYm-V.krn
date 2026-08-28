@@ -16,75 +16,75 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Dm
-8D	.
+8r	D minor
+8DL	.
 8D-	.
-8D	.
+8DJ	.
 8r	.
 8E	.
 4AA	.
 =2	=2
-8r	Edim
-8F	.
+8r	E diminished
+8FL	.
 8E	.
-8F	.
-8r	Aadd(3,4,7,10)
-8G	.
+8FJ	.
+8r	A other-3,4,7,10
+8GL	.
 8c	.
-16Bn	.
-16B-	.
+16BnL	.
+16B-JJ	.
 =3	=3
-4A-	E
-8E	.
-8F	.
-8r	A7
-8G	.
+4A-	E major
+8EL	.
+8FJ	.
+8r	A dominant
+8GL	.
 8A	.
-16G	.
-16E	.
+16GL	.
+16EJJ	.
 =4	=4
-8.F	Dm/F
+8.FL	D minor/F
 8.G	.
-16F	.
-16D	.
-8r	A
-16E	.
-16F	.
+16FL	.
+16DJJ	.
+8r	A major
+16ELL	.
+16FJ	.
 8E	.
-8D-	.
+8D-J	.
 =5	=5
-8r	Dm
-8D	.
+8r	D minor
+8DL	.
 8D-	.
-8D	.
+8DJ	.
 8r	.
 8E	.
 4AA	.
 =6	=6
-8r	Edim
-8F	.
+8r	E diminished
+8FL	.
 8E	.
-8F	.
-8r	Aadd(3,4,7,10)
-8G	.
+8FJ	.
+8r	A other-3,4,7,10
+8GL	.
 8c	.
-16Bn	.
-16B-	.
+16BnL	.
+16B-JJ	.
 =7	=7
-8.A-	E
+8.A-L	E major
 8.F	.
-8D-	.
-8r	A7
-8A	.
+8D-J	.
+8r	A dominant
+8AL	.
 8G	.
-8F	.
+8FJ	.
 =8	=8
-8.G	A7
+8.GL	A dominant
 8.E	.
-8D	.
+8DJ	.
 8r	.
-8E	.
+8EL	.
 8F	.
-8E	.
+8EJ	.
 ==	==
 *-	*-

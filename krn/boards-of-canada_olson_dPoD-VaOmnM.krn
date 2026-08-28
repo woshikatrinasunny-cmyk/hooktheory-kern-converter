@@ -16,51 +16,51 @@
 *E:	*
 *M4/4	*
 =1	=1
-1r	E
+1r	E major
 =2	=2
 2r	.
-2r	F#
+2r	F# major
 =3	=3
-1r	C#
+1r	C# major
 =4	=4
 1r	.
 =5	=5
-1r	E
+1r	E major
 =6	=6
 2r	.
-2r	F#
+2r	F# major
 =7	=7
-1r	C#
+1r	C# major
 =8	=8
 2.r	.
-8dd#	.
-8ff#	.
+8dd#L	.
+8ff#J	.
 =9	=9
-2.ff#	E
-8dd#	.
-8cc#[	.
+2.ff#	E major
+8dd#L	.
+[8cc#J	.
 =10	=10
 2cc#_	.
-4cc#]	F#
-8a#	.
-8g#[	.
+4cc#]	F# major
+8a#L	.
+[8g#J	.
 =11	=11
-1g#_	C#
+1g#_	C# major
 =12	=12
 2.g#]	.
-8dd#	.
-8cc#[	.
+8dd#L	.
+[8cc#J	.
 =13	=13
-2.cc#]	E
-8dd#	.
-8cc#[	.
+2.cc#]	E major
+8dd#L	.
+[8cc#J	.
 =14	=14
 2cc#_	.
-4cc#]	F#
-8a#	.
-8g#[	.
+4cc#]	F# major
+8a#L	.
+[8g#J	.
 =15	=15
-1g#_	C#
+1g#_	C# major
 =16	=16
 2.g#]	.
 4r	.

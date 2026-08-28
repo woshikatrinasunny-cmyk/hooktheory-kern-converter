@@ -16,32 +16,32 @@
 *e:	*
 *M4/4	*
 =1	=1
-4E	Em
-8F#	Em/B
-8G	.
-8r	Em
-8F#[	.
-4F#]	Em/B
+4E	E minor
+8F#L	E minor/B
+8GJ	.
+8r	E minor
+[8F#	.
+4F#]	E minor/B
 =2	=2
-4E	Em
-8F#	Em/B
-8G	.
-8r	Em
-8F#[	.
-4F#]	Em/B
+4E	E minor
+8F#L	E minor/B
+8GJ	.
+8r	E minor
+[8F#	.
+4F#]	E minor/B
 =3	=3
-4A	F/A
-8B	Badd(1,6,10)
-8c	.
-8r	F/A
-8B[	.
-4B]	Badd(1,6,10)
+4A	F major/A
+8BL	B other-1,6,10
+8cJ	.
+8r	F major/A
+[8B	.
+4B]	B other-1,6,10
 =4	=4
-4A	F/A
-8B	Badd(1,6,10)
-8c	.
-8r	Dm7/A
-8B[	.
-4B]	Badd(1,6,10)
+4A	F major/A
+8BL	B other-1,6,10
+8cJ	.
+8r	D minor-seventh/A
+[8B	.
+4B]	B other-1,6,10
 ==	==
 *-	*-

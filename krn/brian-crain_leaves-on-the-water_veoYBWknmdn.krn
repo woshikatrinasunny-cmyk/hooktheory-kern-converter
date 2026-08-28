@@ -16,11 +16,11 @@
 *C:	*
 *M4/4	*
 =1	=1
-4gg	Cadd(2,4,7)
+4gg	C other-2,4,7
 4ee	.
 4gg	.
-8ccc	.
-8bb[	.
+8cccL	.
+[8bbJ	.
 =2	=2
 8bb]	.
 4gg	.
@@ -28,41 +28,41 @@
 8ff	.
 4gg	.
 =3	=3
-4aa	Aadd(2,3,7)
+4aa	A other-2,3,7
 4gg	.
 4cc	.
-8dd	.
-8ee[	.
+8ddL	.
+[8eeJ	.
 =4	=4
 4.ee]	.
 4ee	.
 8dd	.
 4cc	.
 =5	=5
-4ff	Fadd(2,4,7)
+4ff	F other-2,4,7
 4ee	.
 4cc	.
-8a	.
-8ff[	.
+8aL	.
+[8ffJ	.
 =6	=6
-4ff]	Gadd(2,4,7)
+4ff]	G other-2,4,7
 4.ee	.
-8cc	.
+8ccL	.
 8dd	.
-8ee[	.
+[8eeJ	.
 =7	=7
-3...ee]	Cadd(2,4,7)
-8ee	.
+3...ee]	C other-2,4,7
+8eeL	.
 8ff	.
-8ee[	.
+[8eeJ	.
 =8	=8
 1ee]	.
 =9	=9
 4gg	.
 4ee	.
 4gg	.
-8ccc	.
-8bb[	.
+8cccL	.
+[8bbJ	.
 =10	=10
 8bb]	.
 4gg	.
@@ -70,30 +70,30 @@
 8ff	.
 4gg	.
 =11	=11
-4aa	Aadd(2,3,7)
+4aa	A other-2,3,7
 4gg	.
 4cc	.
-8dd	.
-8ee[	.
+8ddL	.
+[8eeJ	.
 =12	=12
 4.ee]	.
 4ee	.
 8dd	.
 4cc	.
 =13	=13
-4ff	Fadd(2,4,7)
+4ff	F other-2,4,7
 4ee	.
 4cc	.
-8a	.
-8ff[	.
+8aL	.
+[8ffJ	.
 =14	=14
-4ff]	Gadd(2,4,7)
+4ff]	G other-2,4,7
 4.ee	.
-8cc	.
+8ccL	.
 8dd	.
-8cc[	.
+[8ccJ	.
 =15	=15
-3...cc]	Cadd(2,4,7)
+3...cc]	C other-2,4,7
 4.ee	.
 =16	=16
 1gg	.

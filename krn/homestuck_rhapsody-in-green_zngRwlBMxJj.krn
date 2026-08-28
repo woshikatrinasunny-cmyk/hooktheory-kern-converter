@@ -16,40 +16,40 @@
 *g:	*
 *M4/4	*
 =1	=1
-8g	Gm
+8gL	G minor
 8dd	.
 8b-	.
-8g	.
-8dd	.
+8gJ	.
+8ddL	.
 8b-	.
 8ff	.
-8dd	.
+8ddJ	.
 =2	=2
-8g	.
+8gL	.
 8dd	.
 8b-	.
-8g	.
-8a	Fadd(2,4,7)/A
+8gJ	.
+8aL	F other-2,4,7/A
 8f	.
-8d	Gm7/B-
-8f	.
+8d	G minor-seventh/B-
+8fJ	.
 =3	=3
-8g	E-maj7
+8gL	E- major-seventh
 8dd	.
 8b-	.
-8g	.
-8dd	Aadd(1,3,5,6,10)
+8gJ	.
+8ddL	A other-1,3,5,6,10
 8b-	.
-8ff	Gm7/B-
-8dd	.
+8ff	G minor-seventh/B-
+8ddJ	.
 =4	=4
-8g	Gm7/F
+8gL	G minor-seventh/F
 8dd	.
 8b-	.
-8g	.
-8a	Fadd(2,4,7)/A
+8gJ	.
+8aL	F other-2,4,7/A
 8f	.
-8d	Gm7/B-
-8f	.
+8d	G minor-seventh/B-
+8fJ	.
 ==	==
 *-	*-

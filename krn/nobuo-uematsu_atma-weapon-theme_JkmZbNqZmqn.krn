@@ -15,62 +15,62 @@
 *a:	*
 *M4/4	*
 =1	=1
-8A	Am
+8AL	A minor
 8c	.
-8e	G
-8g	.
-8f	Dm/F
+8e	G major
+8gJ	.
+8fL	D minor/F
 8d	.
-8d#	D#maj7
-8g	.
+8d#	D# major-seventh
+8gJ	.
 =2	=2
-8f	C#maj7
+8fL	C# major-seventh
 8g#	.
-8cc#	F#maj7
-8cc	.
-8a#	D#7sus4
+8cc#	F# major-seventh
+8ccJ	.
+8a#L	D# dominant-seventh-suspended-fourth
 8g#	.
-8f#	G#
-8f	.
+8f#	G# major
+8fJ	.
 =3	=3
-16e	Am
+16eLL	A minor
 16d#	.
 16d	.
-16c#	.
+16c#J	.
 8c	.
-8A	Bsus4
+8AJ	B suspended-fourth
 8r	.
-8A	.
-8G	Am/E
-8A	.
+8AL	.
+8G	A minor/E
+8AJ	.
 =4	=4
-8r	Adim
-8A	.
+8r	A diminished
+8AL	.
 8G	.
-8A	A7sus4
+8AJ	A dominant-seventh-suspended-fourth
 8r	.
-8A	.
-8G	Am/E
-8A	.
+8AL	.
+8G	A minor/E
+8AJ	.
 =5	=5
-16d#	Am
+16d#LL	A minor
 16d#	.
 16d	.
-16c#	.
+16c#J	.
 8c	.
-8A	Bsus4
+8AJ	B suspended-fourth
 8r	.
-8A	.
-8G	Am/E
-8A	.
+8AL	.
+8G	A minor/E
+8AJ	.
 =6	=6
-8r	Adim
-8A	.
+8r	A diminished
+8AL	.
 8G	.
-8A	A7sus4
+8AJ	A dominant-seventh-suspended-fourth
 8r	.
-8A	.
-8G	Am/E
-8A	.
+8AL	.
+8G	A minor/E
+8AJ	.
 ==	==
 *-	*-

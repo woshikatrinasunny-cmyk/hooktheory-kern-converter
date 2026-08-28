@@ -16,122 +16,122 @@
 *f:	*
 *M4/4	*
 =1	=1
-2dd-	Edim7
-16cc	.
+2dd-	E diminished-seventh
+16ccLK	.
 8dd-	.
-16cc	.
-16dd-	.
+16ccL	.
+16dd-J	.
 8ee-	.
-16dd-	.
+16dd-Jk	.
 =2	=2
-4cc	Fm
+4cc	F minor
 4ff	.
-4ff[	Fadd(2,3,7)/A-
-4ff]	Fm/A-
+[4ff	F other-2,3,7/A-
+4ff]	F minor/A-
 =3	=3
-2dd-	Gm7b5
-16cc	Edim7/G
+2dd-	G half-diminished
+16ccLK	E diminished-seventh/G
 8dd-	.
-16cc	.
-16dd-	.
+16ccL	.
+16dd-J	.
 8ee-	.
-16dd-	.
+16dd-Jk	.
 =4	=4
-4cc	Fadd(2,3,7)/A-
+4cc	F other-2,3,7/A-
 4ff	.
-2ff	Fm/A-
+2ff	F minor/A-
 =5	=5
-2gg-	Adim7
-16ff	.
+2gg-	A diminished-seventh
+16ffLK	.
 8gg-	.
-16ff	.
-16gg-	.
+16ffL	.
+16gg-J	.
 8aa-	.
-16gg-	.
+16gg-Jk	.
 =6	=6
-4ff	B-m
+4ff	B- minor
 4bb-	.
-2bb-	B-m/D-
+2bb-	B- minor/D-
 =7	=7
-2gg-	Cm7b5
-16ff	F7/C
+2gg-	C half-diminished
+16ffLK	F dominant/C
 8gg-	.
-16ff	.
-16gg-	.
+16ffL	.
+16gg-J	.
 8aa-	.
-16gg-	.
+16gg-Jk	.
 =8	=8
-4ff	B-add(2,3,7)/D-
+4ff	B- other-2,3,7/D-
 4bb-	.
-2bb-	B-m/D-
+2bb-	B- minor/D-
 =9	=9
-2bb-	G-/D-
+2bb-	G- major/D-
 4.aa-	.
 8gg-	.
 =10	=10
 2gg-	.
 2ff	.
 =11	=11
-2ff	Gdim/D-
-2een[	.
+2ff	G diminished/D-
+[2een	.
 =12	=12
-2een]	Gdim/D-
+2een]	G diminished/D-
 4.een	.
 8ff	.
 =13	=13
-4ff	D-7
+4ff	D- dominant
 8.fff	.
 8.eee-	.
-8ddd-	.
-16ccc	.
+8ddd-L	.
+16cccL	.
 16bbn	.
 16aa-	.
-16gg	.
+16ggJJ	.
 =14	=14
-8ff	.
-16een	.
+8ffL	.
+16eenL	.
 16ff	.
 16ee-	.
 16dd-	.
 16cc	.
-16bn	.
-16a-	.
+16bnJJ	.
+16a-LK	.
 8g	.
-16b-	.
+16b-L	.
 16a-	.
-16g	.
-8f	.
+16gJ	.
+8fJ	.
 =15	=15
-8en	.
+8enL	.
 8f	.
 8e-	.
-8d-	.
-8c	.
+8d-J	.
+8cL	.
 8d-	.
 8A-	.
-8B-	.
+8B-J	.
 =16	=16
-4c[	.
-4c]	C
-4d-[	.
-4d-]	D-7/B
+[4c	.
+4c]	C major
+[4d-	.
+4d-]	D- dominant/B
 =17	=17
-4f[	.
-4f]	B-7
-4en[	.
-4en]	E7
+[4f	.
+4f]	B- dominant
+[4en	.
+4en]	E dominant
 =18	=18
-4en[	.
-4en]	A7
-4f[	.
-4f_	Fm/A-
+[4en	.
+4en]	A dominant
+[4f	.
+4f_	F minor/A-
 =19	=19
 4f]	.
-4a-[	.
-2a-]	G7
+[4a-	.
+2a-]	G dominant
 =20	=20
 1g	.
 =21	=21
-1r	C7
+1r	C dominant
 ==	==
 *-	*-

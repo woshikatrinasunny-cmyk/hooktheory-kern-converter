@@ -15,146 +15,146 @@
 *G:	*
 *M6/4	*
 =1	=1
-4.g	G
-4.d[	G
-4d]	G
-8g	.
-8g	G
-16a	.
+4.g	G major
+[4.d	G major
+4d]	G major
+8gL	.
+8gJ	G major
+16aLK	.
 8b	.
-16cc	.
+16ccJk	.
 =2	=2
-4.dd[	Dm7
-4.dd_	Dm7
-4dd]	Dm7
-8dd	.
-8dd	Dm7
-8dd#	.
-8ffn	.
+[4.dd	D minor-seventh
+4.dd_	D minor-seventh
+4dd]	D minor-seventh
+8ddL	.
+8ddJ	D minor-seventh
+8dd#L	.
+8ffnJ	.
 =3	=3
-4.gg[	D#
-4.gg_	D#
-4gg]	D#
-8gg	.
-8gg	D#
-8ffn	.
-8dd#	.
+[4.gg	D# major
+4.gg_	D# major
+4gg]	D# major
+8ggL	.
+8ggJ	D# major
+8ffnL	.
+8dd#J	.
 =4	=4
-8ffn	A#
+8ffn	A# major
 8r	.
 8dd#	.
-4.dd[	A#
-4.dd]	A#
-8dd	A#
-8dd#	.
-8dd	.
+[4.dd	A# major
+4.dd]	A# major
+8dd	A# major
+8dd#L	.
+8ddJ	.
 =5	=5
-8cc	G#
+8cc	G# major
 8r	.
-16cc	.
-16dd	.
-4.dd#[	G#
-4.dd#]	G#
-8.dd	G#
+16ccLL	.
+16ddJJ	.
+[4.dd#	G# major
+4.dd#]	G# major
+8.dd	G# major
 8.cc	.
 =6	=6
-8.a#	Gm
+8.a#	G minor
 16r	.
-16a#	.
-16cc	.
-4.dd[	Gm
-4.dd]	Gm
-8.cc	Gm
+16a#LL	.
+16ccJJ	.
+[4.dd	G minor
+4.dd]	G minor
+8.cc	G minor
 8.a#	.
 =7	=7
-8.a	A
+8.a	A major
 16r	.
-16a	.
-16b	.
-4.cc#[	A
-4.cc#]	A
-4.ee	A
+16aLL	.
+16bJJ	.
+[4.cc#	A major
+4.cc#]	A major
+4.ee	A major
 =8	=8
-4dd	D
-16dd	.
-16dd	.
-8ee	D
-8ee	.
-8ee	.
-4.ff#[	D
-8ff#]	D
+4dd	D major
+16ddLL	.
+16ddJ	.
+8eeJ	D major
+8eeL	.
+8eeJ	.
+[4.ff#	D major
+8ff#]	D major
 4r	.
 =9	=9
-4.g	G
-4.d[	G
-4d]	G
-8g	.
-8g	G
-16a	.
+4.g	G major
+[4.d	G major
+4d]	G major
+8gL	.
+8gJ	G major
+16aLK	.
 8b	.
-16cc	.
+16ccJk	.
 =10	=10
-4.dd[	Dm7
-4.dd_	Dm7
-4dd]	Dm7
-8dd	.
-8dd	Dm7
-8dd#	.
-8ffn	.
+[4.dd	D minor-seventh
+4.dd_	D minor-seventh
+4dd]	D minor-seventh
+8ddL	.
+8ddJ	D minor-seventh
+8dd#L	.
+8ffnJ	.
 =11	=11
-4.gg[	D#
-4.gg_	D#
-4gg]	D#
-8gg	.
-8gg	D#
-8ffn	.
-8dd#	.
+[4.gg	D# major
+4.gg_	D# major
+4gg]	D# major
+8ggL	.
+8ggJ	D# major
+8ffnL	.
+8dd#J	.
 =12	=12
-8ffn	A#
+8ffn	A# major
 8r	.
 8dd#	.
-4.dd[	A#
-4.dd]	A#
-8dd	A#
-8dd#	.
-8dd	.
+[4.dd	A# major
+4.dd]	A# major
+8dd	A# major
+8dd#L	.
+8ddJ	.
 =13	=13
-8cc	G#
+8cc	G# major
 8r	.
-16cc	.
-16dd	.
-4.dd#[	G#
-4.dd#]	G#
-8.dd	G#
+16ccLL	.
+16ddJJ	.
+[4.dd#	G# major
+4.dd#]	G# major
+8.dd	G# major
 8.cc	.
 =14	=14
-8a#	Gm
-8a	.
-8a#	.
-8cc	F#dim/A
-8a#	.
-8cc	.
-4dd	A#/F
-8dd	.
-8dd	A#/F
-8cc	.
-8a#	.
+8a#L	G minor
+8aJ	.
+8a#L	.
+8ccJ	F# diminished/A
+8a#L	.
+8ccJ	.
+4dd	A# major/F
+8ddL	.
+8ddJ	A# major/F
+8ccL	.
+8a#J	.
 =15	=15
-4dd	Em7b5
-8a#[	.
-8a#]	Em7b5
+4dd	E half-diminished
+[8a#L	.
+8a#J]	E half-diminished
 4g	.
-4.f#	D
-8f#	D
-8e	.
-8f#	.
+4.f#	D major
+8f#	D major
+8eL	.
+8f#J	.
 =16	=16
-4.g[	Gm
-4.g_	Gm
-4g]	Gm
-8dd	.
-8dd	Gm
-8dd#	.
-8ffn	.
+[4.g	G minor
+4.g_	G minor
+4g]	G minor
+8ddL	.
+8ddJ	G minor
+8dd#L	.
+8ffnJ	.
 ==	==
 *-	*-

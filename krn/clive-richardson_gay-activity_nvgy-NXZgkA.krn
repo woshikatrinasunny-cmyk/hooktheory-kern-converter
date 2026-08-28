@@ -16,153 +16,153 @@
 *D:	*
 *M4/4	*
 =1	=1
-8a	D
+8aL	D major
 8b	.
 8cc#	.
-8dd	.
-8ee	.
+8ddJ	.
+8eeL	.
 8ff#	.
 8gg	.
-8aa	.
+8aaJ	.
 =2	=2
-8aa#	A7
-8bb	.
+8aa#L	A dominant
+8bbJ	.
 4gg	.
 2r	.
 =3	=3
-8aa#	.
-8bb	.
+8aa#L	.
+8bbJ	.
 8r	.
 8ee	.
 8gg	.
 8r	.
-8ff#	.
-8gg	.
+8ff#L	.
+8ggJ	.
 =4	=4
-8gg#	D
-8aa	.
+8gg#L	D major
+8aaJ	.
 8r	.
 8a	.
 8dd	.
 8r	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =5	=5
-8cc#	.
+8cc#L	.
 8dd	.
 8ee	.
-8ff#	.
-8gg	A7
+8ff#J	.
+8ggL	A dominant
 8aa	.
 8bb	.
-8ccc#	.
+8ccc#J	.
 =6	=6
-8ddd	G#dim7/B
+8dddL	G# diminished-seventh/B
 8bb	.
-8gg#	G#dim7/D
-8ffn	.
-8dd	G#dim7/F
+8gg#	G# diminished-seventh/D
+8ffnJ	.
+8dd	G# diminished-seventh/F
 8r	.
-8cc#	G#add(3,5,6,9)
-8b	.
+8cc#L	G# other-3,5,6,9
+8bJ	.
 =7	=7
-8a	D/A
+8aL	D major/A
 8b	.
 8cc#	.
-8dd	.
-8ee	F
+8ddJ	.
+8eeL	F major
 8ffn	.
 8gg	.
-8gg#	.
+8gg#J	.
 =8	=8
-8aa	A7/E
+8aaL	A dominant/E
 8aa#	.
-8bb	A7
-8ccc#	.
-8ddd	D
+8bb	A dominant
+8ccc#J	.
+8ddd	D major
 8r	.
-8ffn	F7/C
+8ffn	F dominant/C
 8r	.
 =9	=9
 *k[b-e-]	*
 *B-:	*
-2.a	B-maj7
-8g	.
-8a-	.
+2.a	B- major-seventh
+8gL	.
+8a-J	.
 =10	=10
-2.a	B-add(3,4,6,7,11)
-8g	.
-8a-	.
+2.a	B- other-3,4,6,7,11
+8gL	.
+8a-J	.
 =11	=11
-4.a	B-maj7
+4.a	B- major-seventh
 8b-	.
 4.dd	.
 8ff	.
 =12	=12
-4aa	Dm
+4aa	D minor
 2ccc	.
 4bb-	.
 =13	=13
-2.aa	G9
-8gg	.
-8aa-	.
+2.aa	G dominant-ninth
+8ggL	.
+8aa-J	.
 =14	=14
 2.aa	.
-4gg	Gadd(4,7,8,10)/B
+4gg	G other-4,7,8,10/B
 =15	=15
-4.ff	Cadd(2,5,7)
-8ee-	Cm
-4.ff	E-add(2,3,7,11)
-8ee-	Cm7b5/E-
+4.ff	C other-2,5,7
+8ee-	C minor
+4.ff	E- other-2,3,7,11
+8ee-	C half-diminished/E-
 =16	=16
-4.dd	Fadd(4,7,9,10)
+4.dd	F other-4,7,9,10
 8cc	.
-4.dd	Fadd(1,4,5,7,9,10)
+4.dd	F other-1,4,5,7,9,10
 8cc	.
 =17	=17
-2.a	B-maj7
-8g	.
-8a-	.
+2.a	B- major-seventh
+8gL	.
+8a-J	.
 =18	=18
-2.a	B-add(3,4,6,7,11)
-8g	.
-8a-	.
+2.a	B- other-3,4,6,7,11
+8gL	.
+8a-J	.
 =19	=19
-4.a	B-maj7
+4.a	B- major-seventh
 8b-	.
 4.dd	.
 8ff	.
 =20	=20
-4aa	Dm
+4aa	D minor
 2ccc	.
 4bb-	.
 =21	=21
-2.aa-	G-9
-8gg-	.
-8gg	.
+2.aa-	G- dominant-ninth
+8gg-L	.
+8ggJ	.
 =22	=22
 2.aa-	.
-8gg	.
-8aa-	.
+8ggL	.
+8aa-J	.
 =23	=23
-2.aa	G9
-8gg	.
-8aa-	.
+2.aa	G dominant-ninth
+8ggL	.
+8aa-J	.
 =24	=24
 2.aa	.
 4gg	.
 =25	=25
-4.ff	Cadd(3,5,7,10)
+4.ff	C other-3,5,7,10
 8ee-	.
-8dd	Cm7
+8ddL	C minor-seventh
 8ee-	.
 8gg	.
-8bb-	.
+8bb-J	.
 =26	=26
-2ddd	G-aug
-2fff	F7
+2ddd	G- augmented
+2fff	F dominant
 =27	=27
-4fff	Gm7/B-
+4fff	G minor-seventh/B-
 4f	.
 4g	.
 4f	.

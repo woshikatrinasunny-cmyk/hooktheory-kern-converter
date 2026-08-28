@@ -16,25 +16,25 @@
 *g:	*
 *M4/4	*
 =1	=1
-1r	Gm
+1r	G minor
 =2	=2
-1r	Fadd(2,4,7)
+1r	F other-2,4,7
 =3	=3
-1r	E-maj7
+1r	E- major-seventh
 =4	=4
-2r	D7sus2
-8a[	.
-8a_	Dm7
-4a]	D7sus2
+2r	D dominant-seventh-suspended-second
+[8aL	.
+8aJ_	D minor-seventh
+4a]	D dominant-seventh-suspended-second
 =5	=5
-1dd[	Gm
+[1dd	G minor
 =6	=6
-1dd_	Fadd(2,4,7)
+1dd_	F other-2,4,7
 =7	=7
-1dd_	E-maj7
+1dd_	E- major-seventh
 =8	=8
-3...dd_	D7sus2
-8dd_	Dm7
-4dd]	D7sus2
+3...dd_	D dominant-seventh-suspended-second
+8dd_	D minor-seventh
+4dd]	D dominant-seventh-suspended-second
 ==	==
 *-	*-

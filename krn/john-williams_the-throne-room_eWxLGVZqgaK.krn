@@ -17,33 +17,33 @@
 *M4/4	*
 =1	=1
 4.f	.
-16f	.
-16f	.
+16fLL	.
+16fJJ	.
 4.f	.
-16f	.
-16f	.
+16fLL	.
+16fJJ	.
 =2	=2
 4f	.
 4f	.
+8fL	.
 8f	.
 8f	.
-8f	.
-16f	.
-16f	.
+16fL	.
+16fJJ	.
 =3	=3
-4.a	F
-16a	.
-16a	.
-4.a	F
-16a	.
-16a	.
+4.a	F major
+16aLL	.
+16aJJ	.
+4.a	F major
+16aLL	.
+16aJJ	.
 =4	=4
-4cc	F
-4cc	F
-8dd	Dsus4
+4cc	F major
+4cc	F major
+8ddL	D suspended-fourth
 8dd	.
-8dd	D
-16dd	.
-16dd	.
+8dd	D major
+16ddL	.
+16ddJJ	.
 ==	==
 *-	*-

@@ -16,12 +16,12 @@
 *A:	*
 *M4/4	*
 =1	=1
-1r	Aadd(2,4,7)
+1r	A other-2,4,7
 =2	=2
 4r	.
 4ddd	.
-8ccc#	.
-8aa	.
+8ccc#L	.
+8aaJ	.
 4dd	.
 =3	=3
 4cc#	.
@@ -29,8 +29,8 @@
 =4	=4
 4r	.
 4ddd	.
-8ccc#	.
-8aa	.
+8ccc#L	.
+8aaJ	.
 4dd	.
 =5	=5
 4cc#	.
@@ -38,8 +38,8 @@
 =6	=6
 4r	.
 4ddd	.
-8ccc#	.
-8aa	.
+8ccc#L	.
+8aaJ	.
 4dd	.
 =7	=7
 4cc#	.

@@ -16,121 +16,121 @@
 *G:	*
 *M4/4	*
 =1	=1
-4cc	C
+4cc	C major
 4ee	.
 4ff#	.
 4gg	.
 =2	=2
 2cc	.
-8cc	.
+8ccL	.
 8ee	.
 8ff#	.
-8gg	.
+8ggJ	.
 =3	=3
-4b	Em/B
+4b	E minor/B
 4ee	.
 4ff#	.
 4gg	.
 =4	=4
 2b	.
-8b	.
+8bL	.
 8ee	.
 8ff#	.
-8gg	.
+8ggJ	.
 =5	=5
-4cc	C
+4cc	C major
 4ee	.
 4ff#	.
 4gg	.
 =6	=6
-2aa	A7/C#
-4ff#	D
+2aa	A dominant/C#
+4ff#	D major
 4aa	.
 =7	=7
-2.bb	G
+2.bb	G major
 4eee	.
 =8	=8
 *k[f#c#]	*
 *D:	*
-2ccc#	A
+2ccc#	A major
 4bb	.
 4ccc#	.
 =9	=9
-2ddd	A#maj7
+2ddd	A# major-seventh
 2ggg	.
 =10	=10
-2.eee	C
+2.eee	C major
 4cccn	.
 =11	=11
-1ddd[	D
+[1ddd	D major
 =12	=12
 1ddd]	.
 =13	=13
 *k[b-e-]	*
 *g:	*
-2.dd	E-maj7
-8cc	.
-8dd	.
+2.dd	E- major-seventh
+8ccL	.
+8ddJ	.
 =14	=14
-4.g	Fadd(2,4,7)
+4.g	F other-2,4,7
 8r	.
-8g	.
+8gL	.
 8a	.
 8b-	.
-8cc	.
+8ccJ	.
 =15	=15
-2dd	Gm
+2dd	G minor
 2aa	.
 =16	=16
 2.gg	.
 8.dd	.
 16r	.
 =17	=17
-2.dd	E-maj7
-8dd	.
-8gg	.
+2.dd	E- major-seventh
+8ddL	.
+8ggJ	.
 =18	=18
-4aa	F
+4aa	F major
 4bb-	.
 4aa	.
 4ff	.
 =19	=19
-4.cc	G-dim
+4.cc	G- diminished
 6...b-	.
 16r	.
 8.b-	.
 16r	.
 =20	=20
-1gg	Gm
+1gg	G minor
 =21	=21
-1dd	E-maj7
+1dd	E- major-seventh
 =22	=22
-2cc	F
+2cc	F major
 2ff	.
 =23	=23
-4.gg-	G-dim
+4.gg-	G- diminished
 4.gg	.
 8.aa	.
 16r	.
 =24	=24
-4.aa	Gm
+4.aa	G minor
 8bb-	.
 8.bb-	.
 16r	.
-8bb-	.
-8ccc	.
+8bb-L	.
+8cccJ	.
 =25	=25
-4.ddd	E-maj7
+4.ddd	E- major-seventh
 4.gg	.
 8.ddd	.
 16r	.
 =26	=26
-4ccc	F
+4ccc	F major
 4bb-	.
 4aa	.
 4ff	.
 =27	=27
-1gg[	G
+[1gg	G major
 =28	=28
 1gg]	.
 ==	==

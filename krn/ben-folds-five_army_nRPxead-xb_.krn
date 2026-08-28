@@ -16,7 +16,7 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4ee-	A-
+4ee-	A- major
 4ee-	.
 8dd-	.
 4cc	.
@@ -26,20 +26,20 @@
 4r	.
 8ee-	.
 4ff	.
-8gg-[	.
+[8gg-	.
 =3	=3
-4gg-]	E-m7
+4gg-]	E- minor-seventh
 4gg-	.
 4ff	.
-8ee-	.
-8ee-[	.
+8ee-L	.
+[8ee-J	.
 =4	=4
 4ee-]	.
 4r	.
 8dd-	.
 4.ee-	.
 =5	=5
-4r	D-add(2,4,7)
+4r	D- other-2,4,7
 4ff	.
 4ee-	.
 4dd-	.
@@ -47,14 +47,14 @@
 4dd-	.
 8a-	.
 4.cc	.
-8dd-	.
-8ee-[	.
+8dd-L	.
+[8ee-J	.
 =7	=7
-4ee-]	A-
+4ee-]	A- major
 4ee-	.
 8dd-	.
 4cc	.
-8cc[	.
+[8cc	.
 =8	=8
 4cc]	.
 4r	.
@@ -62,33 +62,33 @@
 4dd-	.
 8ee-	.
 =9	=9
-4ee-	Fm7
+4ee-	F minor-seventh
 4ee-	.
 4dd-	.
-8cc	.
-8cc[	.
+8ccL	.
+[8ccJ	.
 =10	=10
 8cc]	.
 4.a-	.
 8r	.
-8ee-	.
+8ee-L	.
 8ff	.
-8gg-[	.
+[8gg-J	.
 =11	=11
-4gg-]	E-m7
+4gg-]	E- minor-seventh
 4gg-	.
 8ff	.
 4ee-	.
-8ee-[	.
+[8ee-	.
 =12	=12
 4ee-]	.
 8r	.
 8b-	.
 8dd-	.
 4ee-	.
-8ff[	.
+[8ff	.
 =13	=13
-4ff]	D-add(2,4,7)
+4ff]	D- other-2,4,7
 8ff	.
 4ee-	.
 4.dd-	.
@@ -99,12 +99,12 @@
 4dd-	.
 8r	.
 =15	=15
-8ee-	A-
+8ee-	A- major
 4ee-	.
 4dd-	.
 4.cc	.
 =16	=16
-4cc	Fm7
+4cc	F minor-seventh
 8a-	.
 4dd-	.
 8cc	.

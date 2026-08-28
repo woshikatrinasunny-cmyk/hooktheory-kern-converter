@@ -16,153 +16,153 @@
 *b-:	*
 *M4/4	*
 =1	=1
-16r	B-add(2,3,7)
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
+16r	B- other-2,3,7
 4r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8.r	.
-16r	B-m7
+16r	B- minor-seventh
 16r	.
 16f	.
 =2	=2
-16e-	B-add(2,3,7)
-16f	B-add(2,3,7)
+16e-LL	B- other-2,3,7
+16f	B- other-2,3,7
 16e-	.
 16f	.
-16e-	.
+16e-JJ	.
 16r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8.r	.
-16r	B-m7
+16r	B- minor-seventh
 16r	.
 16ee-	.
 =3	=3
-16ff	B-add(2,3,7)
-16ff	B-add(2,3,7)
+16ffLL	B- other-2,3,7
+16ffJ	B- other-2,3,7
 8ee-	.
-8ff	.
-16r	B-add(2,3,7)
+8ffJ	.
+16r	B- other-2,3,7
 16ee-	.
-16ff	.
-16ff	B-add(2,3,7)
-16ee-	.
+16ffLL	.
+16ff	B- other-2,3,7
+16ee-J	.
 8ff	.
-16ff[	B-m7
-16ff]	.
+[16ffL	B- minor-seventh
+16ffJJ]	.
 16r	.
 =4	=4
-16r	B-add(2,3,7)
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
+16r	B- other-2,3,7
 4r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8.r	.
-16r	B-m7
+16r	B- minor-seventh
 8r	.
 =5	=5
-16r	B-add(2,3,7)
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
+16r	B- other-2,3,7
 8r	.
-16aa-	.
-16bb-[	.
-16bb-]	B-add(2,3,7)
+16aa-LL	.
+[16bb-	.
+16bb-JJ]	B- other-2,3,7
 8ccc	.
-16bb-[	B-add(2,3,7)
-16bb-]	.
+[16bb-LL	B- other-2,3,7
+16bb-J]	.
 8aa-	.
-16ff[	B-m7
+[16ffL	B- minor-seventh
 16ff]	.
-16bb-[	.
+[16bb-JJ	.
 =6	=6
-16bb-]	B-add(2,3,7)
-16aa-	B-add(2,3,7)
-16bb-	.
+16bb-LL]	B- other-2,3,7
+16aa-	B- other-2,3,7
+16bb-JJ	.
 8.r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8.r	.
-16r	B-m7
+16r	B- minor-seventh
 8r	.
 =7	=7
-16r	B-add(2,3,7)
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
+16r	B- other-2,3,7
 16r	.
-16ff	.
+16ffLK	.
 8aa-	.
-16bb-	B-add(2,3,7)
+16bb-Jk	B- other-2,3,7
 8ccc	.
-16bb-[	B-add(2,3,7)
-16bb-]	.
+[16bb-LL	B- other-2,3,7
+16bb-J]	.
 8aa-	.
-16ff[	B-m7
+[16ffL	B- minor-seventh
 16ff]	.
-16ff[	.
+[16ffJJ	.
 =8	=8
-16ff_	B-add(2,3,7)
-16ff_	B-add(2,3,7)
-8ff]	.
+16ffLL_	B- other-2,3,7
+16ffJ_	B- other-2,3,7
+8ffJ]	.
 8r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8.r	.
-16r	B-m7
+16r	B- minor-seventh
 8r	.
 =9	=9
-16r	B-add(2,3,7)
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
+16r	B- other-2,3,7
 8r	.
-16aa-	.
-16bb-[	.
-16bb-]	B-add(2,3,7)
+16aa-LL	.
+[16bb-	.
+16bb-JJ]	B- other-2,3,7
 8ccc	.
-16bb-[	B-add(2,3,7)
-16bb-]	.
+[16bb-LL	B- other-2,3,7
+16bb-J]	.
 8aa-	.
-16ff[	B-m7
+[16ffL	B- minor-seventh
 16ff]	.
-16bb-[	.
+[16bb-JJ	.
 =10	=10
-16bb-]	B-add(2,3,7)
-16aa-	B-add(2,3,7)
-16bb-	.
+16bb-LL]	B- other-2,3,7
+16aa-	B- other-2,3,7
+16bb-JJ	.
 8.r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8.r	.
-16r	B-m7
+16r	B- minor-seventh
 8r	.
 =11	=11
-16r	B-add(2,3,7)
-16r	B-add(2,3,7)
-8ff	.
-16aa-	.
-16bb-[	.
-16bb-]	B-add(2,3,7)
+16r	B- other-2,3,7
+16r	B- other-2,3,7
+8ffL	.
+16aa-L	.
+[16bb-	.
+16bb-JJ]	B- other-2,3,7
 8ccc	.
-16bb-[	B-add(2,3,7)
-16bb-]	.
+[16bb-LL	B- other-2,3,7
+16bb-J]	.
 8aa-	.
-16ff[	B-m7
+[16ffL	B- minor-seventh
 16ff]	.
-16ff[	.
+[16ffJJ	.
 =12	=12
-16ff_	B-add(2,3,7)
-16ff_	B-add(2,3,7)
-8.ff]	.
+16ffLL_	B- other-2,3,7
+16ffJ_	B- other-2,3,7
+8.ffJ]	.
 16r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8r	.
-16r	B-add(2,3,7)
+16r	B- other-2,3,7
 8.r	.
-16r	B-m7
+16r	B- minor-seventh
 8r	.
 ==	==
 *-	*-

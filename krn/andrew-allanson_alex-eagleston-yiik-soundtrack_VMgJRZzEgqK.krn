@@ -16,13 +16,13 @@
 *F:	*
 *M4/4	*
 =1	=1
-8.ff	Fmaj7
-16dd	.
-8.ee	.
+8.ffL	F major-seventh
+16ddk	.
+8.eeJ	.
 4ff	.
-16dd	.
+16ddLK	.
 8.ee	.
-16ff[	.
+[16ffJk	.
 =2	=2
 8.ff]	.
 4gg	.
@@ -30,13 +30,13 @@
 4ee	.
 4dd	.
 =3	=3
-8.ff	Gm7
-16dd	.
-8.ee	.
+8.ffL	G minor-seventh
+16ddk	.
+8.eeJ	.
 4ff	.
-16dd	.
+16ddLK	.
 8.ee	.
-16ff[	.
+[16ffJk	.
 =4	=4
 8.ff]	.
 4aa	.
@@ -44,38 +44,38 @@
 4ff	.
 4ee	.
 =5	=5
-8.ff	Dm
-16dd	.
-8.ee	.
+8.ffL	D minor
+16ddk	.
+8.eeJ	.
 4ff	.
-16dd	.
+16ddLK	.
 8.ee	.
-16ff[	.
+[16ffJk	.
 =6	=6
-8.ff]	Fmaj7
+8.ff]	F major-seventh
 4aa	.
 16gg	.
 4ff	.
 4ee	.
 =7	=7
-8.ee	Dm7
-16dd	.
-8.ee	.
+8.eeL	D minor-seventh
+16ddk	.
+8.eeJ	.
 4ff	.
-16ee[	.
-8.ee]	Dm7
-16dd	.
+[16eeLK	.
+8.ee]	D minor-seventh
+16ddJk	.
 =8	=8
-8.cc	Am
-16a	.
-8.cc	.
-2dd[	Dm7
+8.ccL	A minor
+16ak	.
+8.ccJ	.
+[2dd	D minor-seventh
 16dd]	.
 =9	=9
-2r	Dm7
-2r	Fmaj7
+2r	D minor-seventh
+2r	F major-seventh
 =10	=10
-2r	A7
-2r	Dm7
+2r	A dominant
+2r	D minor-seventh
 ==	==
 *-	*-

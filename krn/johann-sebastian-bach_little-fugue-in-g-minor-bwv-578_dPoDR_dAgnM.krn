@@ -37,143 +37,143 @@
 4d	.
 =6	=6
 4b-	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 4a	.
 4d	.
 =7	=7
 4g	.
-8d	.
-8g	.
+8dL	.
+8gJ	.
 4a	.
-8d	.
-8a	.
+8dL	.
+8aJ	.
 =8	=8
 4b-	.
-8a	.
-8g	.
-8a	.
+8aL	.
+8gJ	.
+8aL	.
 8d	.
 8dd	.
-8cc	.
+8ccJ	.
 =9	=9
-8b-	.
+8b-L	.
 8a	.
 8g	.
-8b-	.
-8a	.
+8b-J	.
+8aL	.
 8g	.
 8g-	.
-8a	.
+8aJ	.
 =10	=10
-8g	.
+8gL	.
 8d	.
 8g	.
-8a	.
-8b-	.
+8aJ	.
+8b-L	.
 8cc	.
 8dd	.
-8een	.
+8eenJ	.
 =11	=11
-8ff	Dm
+8ffL	D minor
 8een	.
 8dd	.
-8ff	.
-8een	A
+8ffJ	.
+8eenL	A major
 8dd	.
 8dd-	.
-8een	.
+8eenJ	.
 =12	=12
-4dd	Dm/F
+4dd	D minor/F
 4a	.
 4dd	.
-4een	A/E
+4een	A major/E
 =13	=13
-8ff	Dm
+8ffL	D minor
 8gg	.
-8ff	Dm/F
-8gg	.
-16aa	Edim
+8ff	D minor/F
+8ggJ	.
+16aaLL	E diminished
 16gg	.
 16aa	.
 16gg	.
-16aa	Dm
+16aa	D minor
 16gg	.
 16ff	.
-16gg	.
+16ggJJ	.
 =14	=14
-8aa	A/D-
+8aaL	A major/D-
 8gg	.
-8aa	A/E
-8bb-	.
-8aa	A
+8aa	A major/E
+8bb-J	.
+8aaL	A major
 8gg	.
 8ff	.
-8een	.
+8eenJ	.
 =15	=15
-8ff	Dm
+8ffL	D minor
 8aa	.
-8gg	Dm/A
+8gg	D minor/A
+8aaJ	.
+8dd-L	A major/E
 8aa	.
-8dd-	A/E
-8aa	.
-8gg	A7
-8aa	.
+8gg	A dominant
+8aaJ	.
 =16	=16
-8dd	Dm/F
+8ddL	D minor/F
 8aa	.
-8gg	Edim
-8aa	Dm
-8dd-	A/E
+8gg	E diminished
+8aaJ	D minor
+8dd-L	A major/E
 8aa	.
-8gg	A7
-8aa	.
+8gg	A dominant
+8aaJ	.
 =17	=17
-8ff	Dm
+8ffL	D minor
 8dd	.
-8dd-	A
-8dd	Dm
-8gg	A7sus4/E
+8dd-	A major
+8ddJ	D minor
+8ggL	A dominant-seventh-suspended-fourth/E
 8dd	.
-8dd-	A
-8dd	.
+8dd-	A major
+8ddJ	.
 =18	=18
-8aa	Dm/F
+8aaL	D minor/F
 8dd	.
-8dd-	A/E
-8dd	Dm
-8gg	Edim
-8dd	Dm/A
-8dd-	A
-8dd	Gm
+8dd-	A major/E
+8ddJ	D minor
+8ggL	E diminished
+8dd	D minor/A
+8dd-	A major
+8ddJ	G minor
 =19	=19
-4a	Dm/F
-4ff	Dm
-4g	Edim
-4een	A/D-
+4a	D minor/F
+4ff	D minor
+4g	E diminished
+4een	A major/D-
 =20	=20
-4f	Dm
+4f	D minor
 4a	.
 4dd	.
-4ff	G7/B
+4ff	G dominant/B
 =21	=21
-4ee-	Adim/C
+4ee-	A diminished/C
 4aa	.
 4r	.
 4ee-	.
 =22	=22
-4dd	Gm/B-
+4dd	G minor/B-
 4gg	.
 4r	.
 4dd	.
 =23	=23
-8cc	Adim
+8ccL	A diminished
 8b-	.
-8cc	Gm
-8dd	.
-8cc	D7/G-
+8cc	G minor
+8ddJ	.
+8ccL	D dominant/G-
 8aa	.
-8gg	D7
-8aa	.
+8gg	D dominant
+8aaJ	.
 ==	==
 *-	*-

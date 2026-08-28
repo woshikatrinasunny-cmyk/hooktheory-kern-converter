@@ -15,28 +15,28 @@
 *C:	*
 *M6/8	*
 =1	=1
-8eee	C
+8eeeL	C major
 8fff	.
-8ggg	.
-8ggg	D#
+8gggJ	.
+8gggL	D# major
 8ggg#	.
-8aaa#	.
+8aaa#J	.
 =2	=2
-8eee	C
+8eeeL	C major
 8fff	.
-8ggg	.
-8aaa#	D#
+8gggJ	.
+8aaa#L	D# major
 8ggg#	.
-8ggg	.
+8gggJ	.
 =3	=3
-8eee	C
+8eeeL	C major
 8fff	.
-8ggg	.
-8ccc	G#
+8gggJ	.
+8cccL	G# major
 8ccc#	.
-8ddd#	.
+8ddd#J	.
 =4	=4
-4.eee	C
-4.r	D#
+4.eee	C major
+4.r	D# major
 ==	==
 *-	*-

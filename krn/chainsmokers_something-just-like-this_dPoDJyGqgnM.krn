@@ -16,76 +16,76 @@
 *D:	*
 *M4/4	*
 =1	=1
-8dd	Gadd(2,4,7)
+8dd	G other-2,4,7
 8r	.
-8r	Gadd(2,4,7)
-8r	Gadd(2,4,7)
-8r	Asus4
+8r	G other-2,4,7
+8r	G other-2,4,7
+8r	A suspended-fourth
 8r	.
-8r	Asus4
-8r	Asus4
+8r	A suspended-fourth
+8r	A suspended-fourth
 =2	=2
-8r	Bm7
+8r	B minor-seventh
 8r	.
-8r	Bm7
-8r	Bm7
-8r	Bm7
-8r	Asus4
-8r	Asus4
-8r	Asus4
+8r	B minor-seventh
+8r	B minor-seventh
+8r	B minor-seventh
+8r	A suspended-fourth
+8r	A suspended-fourth
+8r	A suspended-fourth
 =3	=3
-8r	Gadd(2,4,7)
+8r	G other-2,4,7
 8r	.
-8r	Gadd(2,4,7)
-8r	Gadd(2,4,7)
-8r	Asus4
+8r	G other-2,4,7
+8r	G other-2,4,7
+8r	A suspended-fourth
 8r	.
-8r	Asus4
-8r	Asus4
+8r	A suspended-fourth
+8r	A suspended-fourth
 =4	=4
-8r	Bm7
+8r	B minor-seventh
 8r	.
-8dd	Bm7
-8ff#	Bm7
-8ff#	Bm7
-8ee	Asus4
-8ee	Asus4
-8ee[	Asus4
+8ddL	B minor-seventh
+8ff#J	B minor-seventh
+8ff#L	B minor-seventh
+8ee	A suspended-fourth
+8ee	A suspended-fourth
+[8eeJ	A suspended-fourth
 =5	=5
-8ee]	Gadd(2,4,7)
+8eeL]	G other-2,4,7
 8dd	.
-8a	Gadd(2,4,7)
-8a	Gadd(2,4,7)
-8e	Asus4
+8a	G other-2,4,7
+8aJ	G other-2,4,7
+8e	A suspended-fourth
 8r	.
-8e	Asus4
-8a	Asus4
+8eL	A suspended-fourth
+8aJ	A suspended-fourth
 =6	=6
-8f#	Bm7
+8f#	B minor-seventh
 8r	.
-8r	Bm7
-8r	Bm7
-8r	Bm7
-8r	Asus4
-8r	Asus4
-8r	Asus4
+8r	B minor-seventh
+8r	B minor-seventh
+8r	B minor-seventh
+8r	A suspended-fourth
+8r	A suspended-fourth
+8r	A suspended-fourth
 =7	=7
-8d	Gadd(2,4,7)
+8d	G other-2,4,7
 8r	.
-8d	Gadd(2,4,7)
-8a	Gadd(2,4,7)
-8e	Asus4
+8dL	G other-2,4,7
+8aJ	G other-2,4,7
+8e	A suspended-fourth
 8r	.
-8e	Asus4
-8e	Asus4
+8eL	A suspended-fourth
+8eJ	A suspended-fourth
 =8	=8
-8d	Bm7
+8d	B minor-seventh
 8r	.
-8d	Bm7
-8d	Bm7
-8d	Bm7
-8d	Asus4
-8c#	Asus4
-8d	Asus4
+8dL	B minor-seventh
+8dJ	B minor-seventh
+8dL	B minor-seventh
+8d	A suspended-fourth
+8c#	A suspended-fourth
+8dJ	A suspended-fourth
 ==	==
 *-	*-

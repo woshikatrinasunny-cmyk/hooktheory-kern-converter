@@ -16,147 +16,147 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4.r	D#m9
+4.r	D# minor-ninth
 4d#	.
-8e#	.
+8e#L	.
 8f#	.
-8g#	.
+8g#J	.
 =2	=2
 *k[f#c#g#d#a#]	*
 *B:	*
-4.a#	C#m7
+4.a#	C# minor-seventh
 8a#	.
-8cc#	F#
+8cc#L	F# major
 8dd#	.
-16a#	C#add(3,7,9)
+16a#k	C# other-3,7,9
 8g#	.
-16f#[	.
+[16f#Jk	.
 =3	=3
-4.f#]	Bmaj7
+4.f#]	B major-seventh
+8d#	.
+8f#L	.
 8d#	.
 8f#	.
-8d#	.
-8f#	.
-8a#	.
+8a#J	.
 =4	=4
 *k[f#c#g#d#a#e#]	*
 *d#:	*
-4.g#	E#m7
+4.g#	E# minor-seventh
 8g#	.
-16an	.
-16g#	.
-8f#	E9
+16anLL	.
+16g#J	.
+8f#	E dominant-ninth
 8g#	.
-16f#	.
-16d#[	.
+16f#L	.
+[16d#JJ	.
 =5	=5
-4.d#]	D#m9
-8dd#[	.
-8dd#]	Dm9
+4.d#]	D# minor-ninth
+[8dd#	.
+8dd#L]	D minor-ninth
 8cc#	.
 8a#	.
-8g#	.
+8g#J	.
 =6	=6
 *k[f#c#g#d#a#]	*
 *B:	*
-8f#	C#m7
+8f#L	C# minor-seventh
 8d#	.
-16c#	.
+16c#k	.
 8d#	.
-16a#[	.
-8a#]	F#7
+[16a#Jk	.
+8a#L]	F# dominant
 8g#	.
 8f#	.
-8g#	.
+8g#J	.
 =7	=7
-16f#	Bmaj7
+16f#	B major-seventh
 4..d#	.
 4.r	.
 8A#	.
 =8	=8
 *k[f#c#g#d#a#e#]	*
 *d#:	*
-8c#	A#m7
+8c#L	A# minor-seventh
 8d#	.
 8f#	.
-8g#	.
-8a#	E9
+8g#J	.
+8a#L	E dominant-ninth
 8g#	.
 8f#	.
-16g#	.
-16f#	.
+16g#L	.
+16f#JJ	.
 =9	=9
-4f#	D#m9
+4f#	D# minor-ninth
 8r	.
 4d#	.
-8e#	.
+8e#L	.
 8f#	.
-8g#	.
+8g#J	.
 =10	=10
 *k[f#c#g#d#a#]	*
 *B:	*
-4.a#	C#m7
+4.a#	C# minor-seventh
 8c#	.
-8d#	F#
+8d#L	F# major
 8f#	.
-16a#	C#add(3,7,9)
+16a#k	C# other-3,7,9
 8g#	.
-16f#[	.
+[16f#Jk	.
 =11	=11
-16f#]	Bmaj7
-16c#	.
-8d#	.
+16f#LL]	B major-seventh
+16c#J	.
+8d#J	.
 8r	.
 4d#	.
-8fn	.
+8fnL	.
 8f#	.
-8g#	.
+8g#J	.
 =12	=12
 *k[f#c#g#d#a#e#]	*
 *d#:	*
-8.a#	E#m7
-16b	.
+8.a#L	E# minor-seventh
+16bk	.
 8.a#	.
-16b	.
-8a#	.
-8b	E9
-16cc#	.
+16bJk	.
+8a#L	.
+8b	E dominant-ninth
+16cc#k	.
 8g#	.
-16f#[	.
+[16f#Jk	.
 =13	=13
-4.f#]	D#m9
-8dd#[	.
-8dd#]	Dm9
+4.f#]	D# minor-ninth
+[8dd#	.
+8dd#L]	D minor-ninth
 8cc#	.
 8dd#	.
-8a#	.
+8a#J	.
 =14	=14
 *k[f#c#g#d#a#]	*
 *B:	*
-8r	C#m7
-8g#	.
+8r	C# minor-seventh
+8g#L	.
 8f#	.
-8f#[	.
-8f#]	F#7
+[8f#J	.
+8f#]	F# dominant
 4f#	.
-8cc#[	.
+[8cc#	.
 =15	=15
-16cc#]	Bmaj7
-16g#	.
+16cc#LL]	B major-seventh
+16g#JJ	.
 4.a#	.
 4.r	.
 8f#	.
 =16	=16
 *k[f#c#g#d#a#e#]	*
 *d#:	*
-8an	A#7
+8anL	A# dominant
 8an	.
 8an	.
-8an	.
-16an	D#m9
-16g#	.
+8anJ	.
+16anLL	D# minor-ninth
+16g#J	.
 8f#	.
-16g#	.
-8.f#	.
+16g#k	.
+8.f#J	.
 ==	==
 *-	*-

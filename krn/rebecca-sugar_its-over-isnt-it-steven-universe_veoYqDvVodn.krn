@@ -17,93 +17,93 @@
 *M4/4	*
 =1	=1
 2.r	.
-8G	.
-8B	.
+8GL	.
+8BJ	.
 =2	=2
-2.A	C
-8G	.
-8B	.
+2.A	C major
+8GL	.
+8BJ	.
 =3	=3
-2.A	Dm7
-8G	.
-8B	.
+2.A	D minor-seventh
+8GL	.
+8BJ	.
 =4	=4
-4A	Cmaj7
-8E	.
-16E	.
-16E	.
-8.B	G9
-16d	.
+4A	C major-seventh
+8EL	.
+16EL	.
+16EJJ	.
+8.BL	G dominant-ninth
+16dk	.
 8c	.
-8B	.
+8BJ	.
 =5	=5
-2A	Cmaj7
+2A	C major-seventh
 4c	.
 4e	.
 =6	=6
-2.d	Dm7
-8c	.
-8e	.
+2.d	D minor-seventh
+8cL	.
+8eJ	.
 =7	=7
-2.d	D7
-8c	.
-8A	.
+2.d	D dominant
+8cL	.
+8AJ	.
 =8	=8
-8B	G7
+8BL	G dominant
 8G	.
-16A	.
-16F	.
-8G	.
-8E	G7
+16AL	.
+16FJ	.
+8GJ	.
+8E	G dominant
 4F	.
-8A[	.
+[8A	.
 =9	=9
-4A]	Cmaj7
-4E[	.
-4E]	Gaug7
-8G	.
-8B	.
+4A]	C major-seventh
+[4E	.
+4E]	G augmented-seventh
+8GL	.
+8BJ	.
 =10	=10
-2.A	Cmaj7
-8G	.
-8B	.
+2.A	C major-seventh
+8GL	.
+8BJ	.
 =11	=11
-2.A	Dm7
-8G	.
-8B	.
+2.A	D minor-seventh
+8GL	.
+8BJ	.
 =12	=12
-8A	Cmaj9
+8AL	C major-ninth
 8E	.
 8E	.
-8E	.
-8B	G7
+8EJ	.
+8B	G dominant
 4d	.
-16c	.
-16B	.
+16cLL	.
+16BJJ	.
 =13	=13
-2A	Cmaj7
+2A	C major-seventh
 4c	.
-4e	C7
+4e	C dominant
 =14	=14
-2.d	Dm7
-8c	.
-8e	.
+2.d	D minor-seventh
+8cL	.
+8eJ	.
 =15	=15
-2.d	Gaug7
-8G	.
-8G	.
+2.d	G augmented-seventh
+8GL	.
+8GJ	.
 =16	=16
-8e	Dm9
+8eL	D minor-ninth
 8e	.
 8e	.
-8e	.
-16e	G7
-16e	.
+8eJ	.
+16eLL	G dominant
+16eJJ	.
 4e	.
 8e	.
 =17	=17
-4.c[	.
-6...c]	Cmaj9
+[4.c	.
+6...c]	C major-ninth
 6...r	.
 ==	==
 *-	*-

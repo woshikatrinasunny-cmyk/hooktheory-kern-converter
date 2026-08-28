@@ -15,95 +15,95 @@
 *F:	*
 *M4/4	*
 =1	=1
-8.b-	B-
-16a	.
+8.b-L	B- major
+16ak	.
 8b-	.
-8cc	.
-8.dd	Dm
-16cc	.
+8ccJ	.
+8.ddL	D minor
+16cck	.
 8dd	.
-8ee	.
+8eeJ	.
 =2	=2
-8ff	Edim
+8ffL	E diminished
 8ee-	.
-8dd	Am/C
-8cc	.
-8b-	B-
-8a	.
+8dd	A minor/C
+8ccJ	.
+8b-L	B- major
+8aJ	.
 4b-	.
 =3	=3
-8.b-	B-
-16cc	.
+8.b-L	B- major
+16cck	.
 8dd	.
-8ee	.
-8.cc	Am/C
-16b-	.
+8eeJ	.
+8.ccL	A minor/C
+16b-k	.
 8a	.
-8a-	.
+8a-J	.
 =4	=4
-4a	Am
-8dd-	.
-8ee	.
-2aa	Am/C
+4a	A minor
+8dd-L	.
+8eeJ	.
+2aa	A minor/C
 =5	=5
-16b-	F
+16b-LL	F major
 16a	.
 16b-	.
 16a	.
 16b-	.
 16a	.
 16b-	.
-16a	.
-16bn	G-
+16aJJ	.
+16bnLL	G- major
 16b-	.
 16bn	.
 16b-	.
 16bn	.
 16b-	.
 16bn	.
-16b-	.
+16b-JJ	.
 =6	=6
-16cc	Am
+16ccLL	A minor
 16bn	.
 16cc	.
 16bn	.
 16bn	.
 16cc	.
 16dd	.
-16ee	.
-4ff[	B-
-4ff]	B-/D
+16eeJJ	.
+[4ff	B- major
+4ff]	B- major/D
 =7	=7
-8.ff	B-/D
-16ee	.
+8.ffL	B- major/D
+16eek	.
 8ff	.
-8gg	.
-8.aa	B-/D
-16gg	.
+8ggJ	.
+8.aaL	B- major/D
+16ggk	.
 8aa	.
-8bb-	.
+8bb-J	.
 =8	=8
-4ccc[	C/E
-4ccc_	C/G
-2ccc]	C/E
+[4ccc	C major/E
+4ccc_	C major/G
+2ccc]	C major/E
 =9	=9
-8ccc	Am/C
+8cccL	A minor/C
 8aa	.
-8bb-	Gm/B-
-8gg	.
-8aa	B-
-16gg	.
+8bb-	G minor/B-
+8ggJ	.
+8aaL	B- major
+16ggL	.
 16ff	.
 16ee	.
-16ff	.
-8aa	.
+16ffJ	.
+8aaJ	.
 =10	=10
-16aa	Am
+16aaLL	A minor
 16gg	.
 16ff	.
-16ee	.
+16eeJ	.
 8dd	.
-8ff	B-
-2ff	B-
+8ffJ	B- major
+2ff	B- major
 ==	==
 *-	*-

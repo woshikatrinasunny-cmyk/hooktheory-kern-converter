@@ -15,63 +15,63 @@
 *C:	*
 *M4/4	*
 =1	=1
-2c	C
+2c	C major
 4G	.
 4E	.
 =2	=2
-2.A#	D#
-8A#	.
-8B	.
+2.A#	D# major
+8A#L	.
+8BJ	.
 =3	=3
-2c	C
+2c	C major
 4G	.
 4E	.
 =4	=4
-16A#	D#
+16A#	D# major
+16r	.
+16A#LL	.
+16A	.
+16A#JJ	.
 16r	.
 16A#	.
+16r	.
+16A#LL	.
+16A	.
+16A#JJ	.
+16r	.
+16A#LL	.
 16A	.
 16A#	.
-16r	.
-16A#	.
-16r	.
-16A#	.
-16A	.
-16A#	.
-16r	.
-16A#	.
-16A	.
-16A#	.
-16B	.
+16BJJ	.
 =5	=5
-2c	C
+2c	C major
 8G	.
 8r	.
 4E	.
 =6	=6
-2.A#	D#
-8A#	.
-8B	.
+2.A#	D# major
+8A#L	.
+8BJ	.
 =7	=7
-2c	C
+2c	C major
 4G	.
 4E	.
 =8	=8
-16A#	D#
+16A#	D# major
+16r	.
+16A#LL	.
+16A	.
+16A#JJ	.
 16r	.
 16A#	.
+16r	.
+16A#LL	.
 16A	.
 16A#	.
+16A#	.
+16A#JJ	.
 16r	.
-16A#	.
-16r	.
-16A#	.
-16A	.
-16A#	.
-16A#	.
-16A#	.
-16r	.
-16A#	.
-16B	.
+16A#LL	.
+16BJJ	.
 ==	==
 *-	*-

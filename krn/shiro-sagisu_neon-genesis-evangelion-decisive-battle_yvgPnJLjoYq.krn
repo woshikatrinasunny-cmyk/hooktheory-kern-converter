@@ -15,56 +15,56 @@
 *e:	*
 *M4/4	*
 =1	=1
-4r	E
+4r	E major
 4E	.
 4B	.
-8A	.
-8B	.
+8AL	.
+8BJ	.
 =2	=2
 4d	.
-8c	.
-8B	.
-8r	Badd(1,6,10)
+8cL	.
+8BJ	.
+8r	B other-1,6,10
 8A	.
 8r	.
-8B[	.
+[8B	.
 =3	=3
-4.B]	Em7
+4.B]	E minor-seventh
 4e	.
 4d	.
 8e	.
 =4	=4
 4g	.
-8f	.
-8e	.
-8r	Badd(1,6,10)
+8fL	.
+8eJ	.
+8r	B other-1,6,10
 8d	.
 8r	.
-8B[	.
+[8B	.
 =5	=5
-4B]	E
+4B]	E major
 4e	.
 4b	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 =6	=6
 4dd	.
-8cc	.
-8b[	.
-8b]	Badd(1,6,10)
+8ccL	.
+[8bJ	.
+8b]	B other-1,6,10
 4a	.
-8b[	.
+[8b	.
 =7	=7
-4.b]	Em7
+4.b]	E minor-seventh
 4ee	.
 4dd	.
-8ee[	.
+[8ee	.
 =8	=8
-8ee]	.
+8eeL]	.
 8.aa	.
-8.bb	.
-8.ccc	Badd(1,6,10)
+8.bbJ	.
+8.cccL	B other-1,6,10
 8.ddd	.
-8eee	.
+8eeeJ	.
 ==	==
 *-	*-

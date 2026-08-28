@@ -16,49 +16,49 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	Cmaj7sus2
+1r	C major-seventh-suspended-second
 =2	=2
-1r	Dm7
+1r	D minor-seventh
 =3	=3
-16e	Cmaj7sus2
-16e	.
+16eLL	C major-seventh-suspended-second
+16eJ	.
 8e	.
-8f	.
+8fJ	.
 2g	.
 8e	.
 =4	=4
-8f	Dm7
+8f	D minor-seventh
 4g	.
 4c	.
-8.c	.
-8.d	.
+8.cL	.
+8.dJ	.
 =5	=5
-4e	Cmaj7sus2
+4e	C major-seventh-suspended-second
 3...g	.
 8c	.
 =6	=6
-4B	Dm7
+4B	D minor-seventh
 2.G	.
 =7	=7
-16e	Cmaj7sus2
-16e	.
+16eLL	C major-seventh-suspended-second
+16eJ	.
 8e	.
-8f	.
+8fJ	.
 2g	.
 8e	.
 =8	=8
-16f	Dm7
-16f	.
+16fLL	D minor-seventh
+16fJJ	.
 4g	.
 4c	.
-8.c	.
-8.d	.
+8.cL	.
+8.dJ	.
 =9	=9
-4e	Eadd(1,7,10)
+4e	E other-1,7,10
 3...g	.
 8B	.
 =10	=10
-4B	Fmaj7sus2
+4B	F major-seventh-suspended-second
 2.G	.
 ==	==
 *-	*-

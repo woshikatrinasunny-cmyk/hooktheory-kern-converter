@@ -16,50 +16,50 @@
 *D-:	*
 *M9/4	*
 =1	=1
-4.r	E-add(2,3,7)
+4.r	E- other-2,3,7
 3...fff	.
-4eee-	E-m
+4eee-	E- minor
 4eee-	.
 4eee-	.
-4ddd-	E-m7
+4ddd-	E- minor-seventh
 4ddd-	.
 =2	=2
 4ddd-	.
-4ccc	Cm7b5/E-
+4ccc	C half-diminished/E-
 4ccc	.
 4.ccc	.
-4.ddd-	E-m7
+4.ddd-	E- minor-seventh
 2.bb-	.
 =3	=3
-4.r	E-add(2,3,7)
+4.r	E- other-2,3,7
 3...fff	.
-4ggg-	E-m
-4fff	E-add(2,3,7)
-4eee-	E-m
-4fff	E-add(2,3,7)
-4eee-	E-m
+4ggg-	E- minor
+4fff	E- other-2,3,7
+4eee-	E- minor
+4fff	E- other-2,3,7
+4eee-	E- minor
 =4	=4
-4ddd-	E-m7
-4eee-	E-m
-4ddd-	E-m7
-3ccc[	Cm7b5/E-
-288...ccc_	.
-1920ccc]	.
-64..eee-[	.
-3840eee-]	.
+4ddd-	E- minor-seventh
+4eee-	E- minor
+4ddd-	E- minor-seventh
+[3ccc	C half-diminished/E-
+288...cccLLLLLL_	.
+1920cccJJkk]	.
+[64..eee-	.
+3840eee-JJJJkkkkk]	.
 288...r	.
 1920r	.
-4.ddd-	E-m7
-2.bb-	E-m
+4.ddd-	E- minor-seventh
+2.bb-	E- minor
 =5	=5
-4.r	A-7
+4.r	A- dominant
 4.gg-	.
 4.aa-	.
 4.ccc	.
-4.bb-	A-7sus2
+4.bb-	A- dominant-seventh-suspended-second
 4.gg-	.
 =6	=6
-4r	Adim7
+4r	A diminished-seventh
 4gg-	.
 4gg-	.
 4gg-	.
@@ -67,104 +67,104 @@
 4aa-	.
 2.gg-	.
 =7	=7
-4.r	G-/B-
+4.r	G- major/B-
 4.gg-	.
 4.aa-	.
 4.ddd-	.
 4.bb-	.
 4.gg-	.
 =8	=8
-4r	Cm7b5
+4r	C half-diminished
 4gg-	.
 4gg-	.
 4gg-	.
 4gg-	.
-4aa-	Fm/C
-2.gg-	Cm7b5
+4aa-	F minor/C
+2.gg-	C half-diminished
 =9	=9
-4.r	G-/D-
+4.r	G- major/D-
 4.gg-	.
 4.aa-	.
 4.eee-	.
 4.ddd-	.
 4.bb-	.
 =10	=10
-4r	E-m7
+4r	E- minor-seventh
 4bb-	.
 4bb-	.
 4bb-	.
 4bb-	.
-4ccc	A-/E-
-4bb-	E-m7
+4ccc	A- major/E-
+4bb-	E- minor-seventh
 4ddd-	.
-4eee-	E-m
+4eee-	E- minor
 =11	=11
-64..f[	D-/F
-1920f]	.
-64..a-[	.
-3840a-]	.
-64..dd-[	.
-1920dd-]	.
-64..ff[	.
-1920ff]	.
-64..aa-[	.
-3840aa-]	.
-64..ddd-[	.
-1920ddd-]	.
-1aaa-[	.
+[64..fLLLL	D- major/F
+1920fkkkk]	.
+[64..a-	.
+3840a-kkkkk]	.
+[64..dd-	.
+1920dd-kkkk]	.
+[64..ff	.
+1920ffkkkk]	.
+[64..aa-	.
+3840aa-kkkkk]	.
+[64..ddd-	.
+1920ddd-JJJJkkkk]	.
+[1aaa-	.
 3aaa-]	.
-64..en[	B-m7b5/E
-1920en]	.
-64..a-[	.
-3840a-]	.
-64..b-[	.
-1920b-]	.
-64..dd-[	.
-1920dd-]	.
-64..een[	.
-3840een]	.
-64..aa-[	.
-1920aa-]	.
-64..ddd-[	.
-1920ddd-]	.
-2aaa-[	.
-32..aaa-_	.
-1280aaa-]	.
+[64..enLLLL	B- half-diminished/E
+1920enkkkk]	.
+[64..a-	.
+3840a-kkkkk]	.
+[64..b-	.
+1920b-kkkk]	.
+[64..dd-	.
+1920dd-kkkk]	.
+[64..een	.
+3840eenkkkkk]	.
+[64..aa-	.
+1920aa-kkkk]	.
+[64..ddd-	.
+1920ddd-JJJJkkkk]	.
+[2aaa-	.
+32..aaa-LLL_	.
+1280aaa-JJJkkkkk]	.
 =12	=12
-64..e-[	A-7sus4/E-
-1920e-]	.
-64..g-[	.
-3840g-]	.
-64..a-[	.
-1920a-]	.
-64..dd-[	.
-1920dd-]	.
-64..ee-[	.
-3840ee-]	.
-64..aa-[	.
-1920aa-]	.
-64..ddd-[	.
-1920ddd-]	.
-1aaa-[	.
+[64..e-LLLL	A- dominant-seventh-suspended-fourth/E-
+1920e-kkkk]	.
+[64..g-	.
+3840g-kkkkk]	.
+[64..a-	.
+1920a-kkkk]	.
+[64..dd-	.
+1920dd-kkkk]	.
+[64..ee-	.
+3840ee-kkkkk]	.
+[64..aa-	.
+1920aa-kkkk]	.
+[64..ddd-	.
+1920ddd-JJJJkkkk]	.
+[1aaa-	.
 5.aaa-_	.
 320..aaa-]	.
-18...A-[	A-7
-384A-_	.
-3840A-]	.
-18...e-[	.
-320e-]	.
-18...g-[	.
-384g-_	.
-3840g-]	.
-18...cc[	.
-320cc]	.
-18...a-[	.
-384a-_	.
-3840a-]	.
-18...ee-[	.
-320ee-]	.
-18...aa-[	.
-384aa-_	.
-3840aa-]	.
+[18...A-LL	A- dominant
+384A-LLLL_	.
+3840A-JJJJkkk]	.
+[18...e-	.
+320e-JJkkkk]	.
+[18...g-	.
+384g-LLLLLL_	.
+3840g-JJJJkkk]	.
+[18...cc	.
+320ccJJkkkk]	.
+[18...a-	.
+384a-LLLLLL_	.
+3840a-JJJJkkk]	.
+[18...ee-	.
+320ee-kkkk]	.
+[18...aa-	.
+384aa-LLLL_	.
+3840aa-JJJJJJkkk]	.
 ==	==
 *-	*-

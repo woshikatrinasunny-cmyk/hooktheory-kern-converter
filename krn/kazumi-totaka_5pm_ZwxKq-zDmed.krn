@@ -16,99 +16,99 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	Fmaj7
+4r	F major-seventh
 4ee	.
-8ee	Fmaj7/C
+8ee	F major-seventh/C
 4dd	.
-8ee[	.
+[8ee	.
 =2	=2
-8ee]	Fmaj7
+8ee]	F major-seventh
 4dd	.
-8ff[	.
-8ff]	Fmaj7/C
-8ee	.
+[8ff	.
+8ffL]	F major-seventh/C
+8eeJ	.
 4cc	.
 =3	=3
-4r	Fm
+4r	F minor
 4ee	.
-8ee	Fm/C
+8ee	F minor/C
 4dd	.
-8ee[	.
+[8ee	.
 =4	=4
-8ee]	Fm
-8dd	.
-4gg[	.
-4gg]	Fm/C
-8g	.
-8a	.
+8eeL]	F minor
+8ddJ	.
+[4gg	.
+4gg]	F minor/C
+8gL	.
+8aJ	.
 =5	=5
-16a#	Em7
-4..b[	.
-8b]	Em7/B
+16a#	E minor-seventh
+[4..b	.
+8bL]	E minor-seventh/B
 8b	.
 8cc	.
-8dd[	.
+[8ddJ	.
 =6	=6
-4dd]	Em7
-4g[	.
-4g]	Em7/B
-8dd	.
-8cc[	.
+4dd]	E minor-seventh
+[4g	.
+4g]	E minor-seventh/B
+8ddL	.
+[8ccJ	.
 =7	=7
-4cc]	D#maj7
-8gg	.
-8g[	.
-2g]	D#maj7/A#
+4cc]	D# major-seventh
+8ggL	.
+[8gJ	.
+2g]	D# major-seventh/A#
 =8	=8
-2r	D#maj7
-8f	D#maj7/A#
+2r	D# major-seventh
+8fL	D# major-seventh/A#
 8g	.
 8a	.
-8b	.
+8bJ	.
 =9	=9
-4r	Dm7
-4cc[	.
-8cc]	Dm7/A
+4r	D minor-seventh
+[4cc	.
+8ccL]	D minor-seventh/A
 8cc	.
 8b	.
-8gg[	.
+[8ggJ	.
 =10	=10
-4gg]	Dm7
+4gg]	D minor-seventh
 4r	.
-2r	Dm7/A
+2r	D minor-seventh/A
 =11	=11
-2r	C#maj7
-8r	C#maj7/G#
-8cc	.
+2r	C# major-seventh
+8r	C# major-seventh/G#
+8ccL	.
 8a#	.
-8gg[	.
+[8ggJ	.
 =12	=12
-4.gg]	C#maj7
+4.gg]	C# major-seventh
 8cc	.
-8.a#	C#maj7/G#
+8.a#L	C# major-seventh/G#
 8.gg	.
-8ccc	.
+8cccJ	.
 =13	=13
-4bb	Cmaj7
-8ccc	.
-8gg[	.
-8gg]	Cmaj7/G
+4bb	C major-seventh
+8cccL	.
+[8ggJ	.
+8gg]	C major-seventh/G
 4ee	.
-8cc[	.
+[8cc	.
 =14	=14
-2cc]	Cmaj7
-2r	Cmaj7/G
+2cc]	C major-seventh
+2r	C major-seventh/G
 =15	=15
-8r	Cmaj7
-8bb	.
+8r	C major-seventh
+8bbL	.
 8ccc	.
-8gg[	.
-8gg]	Cmaj7/G
+[8ggJ	.
+8gg]	C major-seventh/G
 4ee	.
-8cc[	.
+[8cc	.
 =16	=16
-8cc]	Cmaj7
+8cc]	C major-seventh
 4.r	.
-2r	Cmaj7/G
+2r	C major-seventh/G
 ==	==
 *-	*-

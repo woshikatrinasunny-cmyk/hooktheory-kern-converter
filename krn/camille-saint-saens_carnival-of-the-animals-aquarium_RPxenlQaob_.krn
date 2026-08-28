@@ -16,37 +16,37 @@
 *a:	*
 *M4/4	*
 =1	=1
-4eee	Am
-4ddd#	Fadd(4,6,7,10)/A
-4eee	Am
-4ddd#	Fadd(4,6,7,10)/A
+4eee	A minor
+4ddd#	F other-4,6,7,10/A
+4eee	A minor
+4ddd#	F other-4,6,7,10/A
 =2	=2
-4eee	Am
-2.aa	Dadd(2,3,7)
+4eee	A minor
+2.aa	D other-2,3,7
 =3	=3
-4eee	Am
-4ddd#	Fadd(4,6,7,10)/A
-4eee	Am
-4ddd#	Fadd(4,6,7,10)/A
+4eee	A minor
+4ddd#	F other-4,6,7,10/A
+4eee	A minor
+4ddd#	F other-4,6,7,10/A
 =4	=4
-4eee	Am
-2.aa	Dadd(2,4,7)
+4eee	A minor
+2.aa	D other-2,4,7
 =5	=5
-4eee	Am
-4ddd#	Fadd(4,6,7,10)/A
-4eee	Am
-4fff	Fm/G#
+4eee	A minor
+4ddd#	F other-4,6,7,10/A
+4eee	A minor
+4fff	F minor/G#
 =6	=6
-4ddd	G
-4ccc#	D#add(4,6,7,10)/G
-4ddd	G
-4eee	E
+4ddd	G major
+4ccc#	D# other-4,6,7,10/G
+4ddd	G major
+4eee	E major
 =7	=7
-4ccc	Am
-4bb	B7/A
-4ccc	Am
-4ddd	D
+4ccc	A minor
+4bb	B dominant/A
+4ccc	A minor
+4ddd	D major
 =8	=8
-1bb	E
+1bb	E major
 ==	==
 *-	*-

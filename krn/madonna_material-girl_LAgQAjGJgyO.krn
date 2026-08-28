@@ -15,63 +15,63 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.c	F
-8d[	.
-8d]	G
+4.c	F major
+[8d	.
+8dL]	G major
 8d	.
 8d	.
-8d	.
+8dJ	.
 =2	=2
-8.d	G
-16e	.
-8d	.
-4e	Am
+8.dL	G major
+16ek	.
+8dJ	.
+4e	A minor
 8r	.
-8c	.
-8c[	.
+8cL	.
+[8cJ	.
 =3	=3
-8c]	F
+8cL]	F major
 8c	.
 8c	.
-8c	.
-8.d	G
-16e	.
+8cJ	.
+8.dL	G major
+16ek	.
 8d	.
-8e[	.
+[8eJ	.
 =4	=4
-8e]	Am11
+8e]	A minor-11th
 8r	.
 8g	.
-4g	G
-8g	.
+4g	G major
+8gL	.
 8e	.
-8d	.
+8dJ	.
 =5	=5
-4.c	F
-8d[	.
-8d]	G
+4.c	F major
+[8d	.
+8dL]	G major
 8d	.
 8d	.
-8d	.
+8dJ	.
 =6	=6
-8.d	G
-16e	.
-8d	.
-4e	Am
+8.dL	G major
+16ek	.
+8dJ	.
+4e	A minor
 8r	.
-8c	.
-8c[	.
+8cL	.
+[8cJ	.
 =7	=7
-8c]	F
+8cL]	F major
 8c	.
 8c	.
-8c	.
-8.d	G
-16e	.
+8cJ	.
+8.dL	G major
+16ek	.
 8d	.
-8c[	.
+[8cJ	.
 =8	=8
-4c]	C7sus4
+4c]	C dominant-seventh-suspended-fourth
 2.r	.
 ==	==
 *-	*-

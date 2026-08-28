@@ -15,56 +15,56 @@
 *e:	*
 *M6/4	*
 =1	=1
-2r	Em
+2r	E minor
 4e	.
 4.e	.
 8e	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 =2	=2
-8f#	D
-8e	.
-2e[	.
-2e]	Cadd(2,4,7)
+8f#L	D major
+8eJ	.
+[2e	.
+2e]	C other-2,4,7
 4r	.
 =3	=3
-2r	Em
-8e	.
-8e	.
+2r	E minor
+8eL	.
+8eJ	.
 4e	.
 4e	.
 4e	.
 =4	=4
-4d	D
-8d	.
-8d	.
-4e[	.
-2.e]	Cadd(2,4,7)
+4d	D major
+8dL	.
+8dJ	.
+[4e	.
+2.e]	C other-2,4,7
 =5	=5
-3...r	Em
+3...r	E minor
 8f#	.
-8g	.
-8f#	.
+8gL	.
+8f#J	.
 8r	.
 4e	.
 8d	.
 =6	=6
-4d	D
-8d	.
-8d	.
-4e[	.
-4e]	Cadd(2,4,7)
+4d	D major
+8dL	.
+8dJ	.
+[4e	.
+4e]	C other-2,4,7
 2B	.
 =7	=7
-2r	G
+2r	G major
 8g	.
 8r	.
-4f#	B
+4f#	B major
 8f#	.
 4.g	.
 =8	=8
-8f#	Em
-1e[	.
+8f#	E minor
+[1e	.
 4.e]	.
 ==	==
 *-	*-

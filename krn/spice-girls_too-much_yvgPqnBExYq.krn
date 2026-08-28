@@ -16,28 +16,28 @@
 *A:	*
 *M6/4	*
 =1	=1
-1e[	A
+[1e	A major
 4e]	.
-4b[	.
+[4b	.
 =2	=2
 2.b]	.
 2.a	.
 =3	=3
-1fn[	Aaug
+[1fn	A augmented
 4fn]	.
-4b[	.
+[4b	.
 =4	=4
 2.b]	.
 2.a	.
 =5	=5
-1f#[	Dmaj7
+[1f#	D major-seventh
 4f#]	.
-4b[	.
+[4b	.
 =6	=6
 2.b]	.
 2.a	.
 =7	=7
-4fn	Dm
+4fn	D minor
 4dd	.
 4ee	.
 4dd	.
@@ -51,28 +51,28 @@
 4d	.
 4e	.
 =9	=9
-1e[	A
+[1e	A major
 4e]	.
-4b[	.
+[4b	.
 =10	=10
 2.b]	.
 2.a	.
 =11	=11
-1fn[	Aaug/F
+[1fn	A augmented/F
 4fn]	.
-4b[	.
+[4b	.
 =12	=12
 2.b]	.
 2.a	.
 =13	=13
-1f#[	Dmaj7
+[1f#	D major-seventh
 4f#]	.
-4b[	.
+[4b	.
 =14	=14
 2.b]	.
 2.a	.
 =15	=15
-4fn	G7sus2
+4fn	G dominant-seventh-suspended-second
 4dd	.
 4ee	.
 4dd	.

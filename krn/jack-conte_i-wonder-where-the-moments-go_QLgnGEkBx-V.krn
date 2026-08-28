@@ -16,78 +16,78 @@
 *C:	*
 *M4/4	*
 =1	=1
-2..r	C
+2..r	C major
 8D#	.
 =2	=2
-8E	.
+8EL	.
 8G	.
-8A	Cadd(4,7,9,11)
-8B	.
-8A	F#add(3,5,7)
-8D#[	.
-8D#]	Am7b5/C
-8G[	.
+8A	C other-4,7,9,11
+8BJ	.
+8AL	F# other-3,5,7
+[8D#	.
+8D#]	A half-diminished/C
+[8GJ	.
 =3	=3
-8G]	G
+8G]	G major
 4r	.
-2r	G7
+2r	G dominant
 8D#	.
 =4	=4
-8E	C
+8EL	C major
 8G	.
-8A	Cadd(4,7,9,11)
-8B	.
-4A	F#add(3,5,7)
-8A	Am7/C
-8B[	.
+8A	C other-4,7,9,11
+8BJ	.
+4A	F# other-3,5,7
+8AL	A minor-seventh/C
+[8BJ	.
 =5	=5
-8B]	B7
+8B]	B dominant
 2..r	.
 =6	=6
-8B	E9
+8B	E dominant-ninth
 4G#	.
 8F#	.
-8E	.
+8EL	.
 8F#	.
 8E	.
-8D	.
+8DJ	.
 =7	=7
 8r	.
 4.E	.
 4.r	.
 8BB	.
 =8	=8
-8C	Am
+8C	A minor
 4E	.
 4G	.
 4d	.
-8B[	.
+[8B	.
 =9	=9
-8B]	Fadd(4,6,7,10)
+8B]	F other-4,6,7,10
 2r	.
-8B	.
+8BL	.
 8A	.
-8c[	.
+[8cJ	.
 =10	=10
-8c]	Dm7
+8c]	D minor-seventh
 4A	.
 4F	.
 4D	.
-8D#[	.
+[8D#	.
 =11	=11
-4D#]	Gaug7
+4D#]	G augmented-seventh
 8r	.
 4G	.
 8r	.
-8A	.
-8E[	.
+8AL	.
+[8EJ	.
 =12	=12
-8E]	C
+8E]	C major
 2..r	.
 =13	=13
 8r	.
-4r	Fm7/G#
-2r	G7
+4r	F minor-seventh/G#
+2r	G dominant
 8D#	.
 ==	==
 *-	*-

@@ -16,79 +16,79 @@
 *D:	*
 *M4/4	*
 =1	=1
-4f#	D
+4f#	D major
 4f#	.
 4f#	.
-4f#[	.
+[4f#	.
 =2	=2
 4.f#]	.
 8e	.
-8g	D7/C
+8gL	D dominant/C
 8f#	.
 8f#	.
-8f#	.
+8f#J	.
 =3	=3
 1f#	.
 =4	=4
-4fn	A#maj7
+4fn	A# major-seventh
 4fn	.
 4fn	.
-4fn[	.
+[4fn	.
 =5	=5
 4.fn]	.
 8d	.
-8e	A7
+8eL	A dominant
 8e	.
 8e	.
-8d	.
+8dJ	.
 =6	=6
 2.e	.
 8r	.
 8A	.
 =7	=7
-4d	D
+4d	D major
 8d	.
 4.e	.
-4d[	.
+[4d	.
 =8	=8
 4d]	.
 8r	.
 8A	.
-4d	D7/C
-8d	.
-8e	.
+4d	D dominant/C
+8dL	.
+8eJ	.
 =9	=9
-4e	D7/C
+4e	D dominant/C
 2d	.
 8r	.
 8d	.
 =10	=10
-4d	A#maj7
+4d	A# major-seventh
 4d	.
 8d	.
-4.d[	.
+[4.d	.
 =11	=11
 4d]	.
 8r	.
 8d	.
-4c#	A7
-8c#	.
-8c#[	.
+4c#	A dominant
+8c#L	.
+[8c#J	.
 =12	=12
 4c#]	.
 4c#	.
 8d	.
 4.e	.
 =13	=13
-4d	D
+4d	D major
 8d	.
 4.e	.
-4d[	.
+[4d	.
 =14	=14
 4d]	.
-8A	.
-8A	.
-4cn	D7/C
+8AL	.
+8AJ	.
+4cn	D dominant/C
 4cn	.
 =15	=15
 4cn	.
@@ -96,15 +96,15 @@
 4cn	.
 4cn	.
 =16	=16
-1fn	A#maj7
+1fn	A# major-seventh
 =17	=17
-4d	A#maj7
+4d	A# major-seventh
 4d	.
-4.a	D
-8f#[	.
+4.a	D major
+[8f#	.
 =18	=18
 8f#]	.
-2..f#[	.
+[2..f#	.
 =19	=19
 1f#_	.
 =20	=20
@@ -118,7 +118,7 @@
 =24	=24
 1f#]	.
 =25	=25
-1r	D
+1r	D major
 =26	=26
 1r	.
 ==	==

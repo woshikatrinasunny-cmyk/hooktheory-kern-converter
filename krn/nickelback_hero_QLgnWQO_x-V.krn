@@ -16,17 +16,17 @@
 *B:	*
 *M3/4	*
 =1	=1
-4r	B
+4r	B major
 4b	.
 4b	.
 =2	=2
 4b	.
 4b	.
-8b	.
-16ee	.
-16ff#	.
+8bL	.
+16eeL	.
+16ff#JJ	.
 =3	=3
-4ee	G
+4ee	G major
 8ee	.
 4ddn	.
 8ddn	.
@@ -37,32 +37,32 @@
 8r	.
 8b	.
 =5	=5
-4ff#	A
-8ee	.
-8ddn	.
-8ddn	.
-8cc#[	.
+4ff#	A major
+8eeL	.
+8ddnJ	.
+8ddnL	.
+[8cc#J	.
 =6	=6
 4cc#]	.
 4ddn	.
-8cc#	.
-8cc#	.
+8cc#L	.
+8cc#J	.
 =7	=7
-2.b[	B
+[2.b	B major
 =8	=8
 2.b]	.
 =9	=9
-4r	B
+4r	B major
 4b	.
 4b	.
 =10	=10
 4b	.
 4b	.
-8b	.
-16ee	.
-16ff#	.
+8bL	.
+16eeL	.
+16ff#JJ	.
 =11	=11
-4ee	G
+4ee	G major
 8ee	.
 4ddn	.
 8ddn	.
@@ -72,22 +72,22 @@
 8cc#	.
 4r	.
 =13	=13
-4ff#	A
-8ee	.
-8ddn	.
-8ddn	.
-8cc#[	.
+4ff#	A major
+8eeL	.
+8ddnJ	.
+8ddnL	.
+[8cc#J	.
 =14	=14
 4cc#]	.
 4ddn	.
-8cc#	.
-8cc#	.
+8cc#L	.
+8cc#J	.
 =15	=15
-2.b[	Esus2
+[2.b	E suspended-second
 =16	=16
 2.b]	.
 =17	=17
-2.r	Esus2
+2.r	E suspended-second
 =18	=18
 4r	.
 2r	.

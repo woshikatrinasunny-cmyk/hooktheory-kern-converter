@@ -16,141 +16,141 @@
 *g:	*
 *M4/4	*
 =1	=1
-8.dd	Gm
+8.ddL	G minor
 8.dd	.
-8dd	.
-16.dd-	E-7
+8ddJ	.
+16.dd-LL	E- dominant
 16.dd-	.
-16dd-	.
-12cc	F
+16dd-J	.
+12cc	F major
 12b-	.
-12a	.
+12aJ	.
 =2	=2
-16dd	Gm
+16ddLL	G minor
 16g	.
 16d	.
 16dd	.
 16g	.
-16d	.
-8dd	.
-12dd-	E-7
-18...dd	.
-16gg	.
-4dd	F
+16dJ	.
+8ddJ	.
+12dd-L	E- dominant
+18...ddL	.
+16ggJJ	.
+4dd	F major
 =3	=3
-16dd	Gm
+16ddLL	G minor
 16g	.
 16d	.
 16dd	.
 16g	.
-16d	.
-8dd	.
-16.dd-	E-7
+16dJ	.
+8ddJ	.
+16.dd-LL	E- dominant
 16.dd-	.
-16dd-	.
-12cc	F
+16dd-J	.
+12cc	F major
 12b-	.
-12a	.
+12aJ	.
 =4	=4
-16dd	Gm
+16ddLL	G minor
 16g	.
 16d	.
 16dd	.
 16g	.
-16d	.
-8dd	.
-12dd-	E-7
-18...dd	.
+16dJ	.
+8ddJ	.
+12dd-L	E- dominant
+18...ddL	.
 16ff	.
-16gg	F
+16gg	F major
 16dd	.
 16cc	.
-16b-	.
+16b-JJ	.
 =5	=5
-16dd	Gm
+16ddLL	G minor
 16b-	.
 16g	.
 16dd	.
 16b-	.
-16g	.
-8dd	.
-16.dd-	E-7
+16gJ	.
+8ddJ	.
+16.dd-LL	E- dominant
 16.dd-	.
-16dd-	.
-12cc	F
+16dd-J	.
+12cc	F major
 12b-	.
-12a	.
+12aJ	.
 =6	=6
-16dd	Gm
+16ddLL	G minor
 16b-	.
 16g	.
 16dd	.
 16b-	.
-16g	.
-8dd	.
-12dd-	E-7
-18...dd	.
-16gg	.
-4dd	F
+16gJ	.
+8ddJ	.
+12dd-L	E- dominant
+18...ddL	.
+16ggJJ	.
+4dd	F major
 =7	=7
-16dd	Gm
+16ddLL	G minor
 16b-	.
 16g	.
 16dd	.
 16b-	.
-16g	.
-8dd	.
-16.dd-	E-7
+16gJ	.
+8ddJ	.
+16.dd-LL	E- dominant
 16.dd-	.
-16dd-	.
-12cc	F
+16dd-J	.
+12cc	F major
 12b-	.
-12a	.
+12aJ	.
 =8	=8
-16dd	Gm
+16ddLL	G minor
 16b-	.
 16g	.
 16dd	.
 16b-	.
-16g	.
-8dd	.
-12dd-	E-7
-18...dd	.
-16ff	.
-4gg	F
+16gJ	.
+8ddJ	.
+12dd-L	E- dominant
+18...ddL	.
+16ffJJ	.
+4gg	F major
 =9	=9
-4g	E-
+4g	E- major
 4dd	.
-8.cc	F
+8.ccL	F major
 8.dd	.
-16ff	.
+16ffJk	.
 16r	.
 =10	=10
-8.cc	Dm7
+8.ccL	D minor-seventh
 8.b-	.
-16a	.
+16aJk	.
 16r	.
-4g	Gm
-8g	.
-8a	.
+4g	G minor
+8gL	.
+8aJ	.
 =11	=11
-4b-	Cm7
-8a	.
-8b-	.
-8cc	Adim
-16dd	.
+4b-	C minor-seventh
+8aL	.
+8b-J	.
+8ccL	A diminished
+16ddk	.
 8ee-	.
-16ff	.
-8ee-	.
+16ffk	.
+8ee-J	.
 =12	=12
-8dd	D7
+8dd	D dominant
 4.r	.
-8dd	.
-16cc	.
+8ddL	.
+16ccL	.
 16dd	.
 16b-	.
 16cc	.
 16a	.
-16b-	.
+16b-JJ	.
 ==	==
 *-	*-

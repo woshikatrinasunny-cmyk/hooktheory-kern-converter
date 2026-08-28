@@ -16,107 +16,107 @@
 *f#:	*
 *M6/4	*
 =1	=1
-8g#	D
-8f#	.
+8g#L	D major
+8f#J	.
 8g#	.
-4.a	D
-4.b	Dadd(6,7)
-8b	Dadd(6,7)
-8a	.
-8g#	.
+4.a	D major
+4.b	D other-6,7
+8b	D other-6,7
+8aL	.
+8g#J	.
 =2	=2
-4.f#[	D
-4.f#]	D
-4.ee	E
-4.b	E
+[4.f#	D major
+4.f#]	D major
+4.ee	E major
+4.b	E major
 =3	=3
-4ccn	F
-8b	.
-8a	F
+4ccn	F major
+8bL	.
+8aJ	F major
 8r	.
 8gn	.
-4.gn[	Fadd(6,7)
-4.gn]	Fadd(6,7)
+[4.gn	F other-6,7
+4.gn]	F other-6,7
 =4	=4
-4.a[	F
-4.a]	F
-8b	G
-8a	.
-8b	.
-8ccn	G
-8b	.
-8ccn	.
+[4.a	F major
+4.a]	F major
+8bL	G major
+8aJ	.
+8bL	.
+8ccnJ	G major
+8bL	.
+8ccnJ	.
 =5	=5
-8dd#	G#
-8dd	.
-8ccn	.
-8a#	G#
-8g#	.
-8a#	.
-4.ccn[	G#
-4.ccn]	G#
+8dd#L	G# major
+8ddJ	.
+8ccnL	.
+8a#J	G# major
+8g#L	.
+8a#J	.
+[4.ccn	G# major
+4.ccn]	G# major
 =6	=6
-8dd#	G#
-8dd	.
-8ccn	.
-8ffn	G#
-8dd#	.
-8dd	.
-16gg#	A#
+8dd#L	G# major
+8ddJ	.
+8ccnL	.
+8ffnJ	G# major
+8dd#L	.
+8ddJ	.
+16gg#LL	A# major
 16ggn	.
 16ffn	.
-16dd#	.
-16dd	.
+16dd#JJ	.
+16ddLL	.
 16ccn	.
-16a#	A#
-16ccn	.
-16dd	.
+16a#	A# major
+16ccnJJ	.
+16ddLL	.
 16dd#	.
 16ee	.
-16ffn	.
+16ffnJJ	.
 =7	=7
-4.ff#[	Bm
-4.ff#_	Bm
-4.ff#]	Bm
-8cc#	Bm
-8dd	.
-8b	.
+[4.ff#	B minor
+4.ff#_	B minor
+4.ff#]	B minor
+8cc#	B minor
+8ddL	.
+8bJ	.
 =8	=8
-4.a#[	Em7b5/G
-4.a#]	Em7b5/G
-4.ggn[	Gm/A#
-4.ggn]	Gm/A#
+[4.a#	E half-diminished/G
+4.a#]	E half-diminished/G
+[4.ggn	G minor/A#
+4.ggn]	G minor/A#
 =9	=9
-4.aa#[	A#m
-4.aa#_	A#m
-4.aa#]	A#m
-8aa	A#m
-8gg#	.
-8ggn	.
+[4.aa#	A# minor
+4.aa#_	A# minor
+4.aa#]	A# minor
+8aa	A# minor
+8gg#L	.
+8ggnJ	.
 =10	=10
-4.ff#[	F#
-4.ff#_	F#
-4.ff#]	F#
-4.cc#	F#
+[4.ff#	F# major
+4.ff#_	F# major
+4.ff#]	F# major
+4.cc#	F# major
 =11	=11
-4.ee[	A
-4.ee_	A
-4.ee]	A
-4.a	A
+[4.ee	A major
+4.ee_	A major
+4.ee]	A major
+4.a	A major
 =12	=12
-8g#	C#m/G#
-8ee	.
-8dd#	.
-8cc#	F#m
-8g#	.
-8cc#	.
-8dd#	D#dim
-8cc#	.
-8ccn	.
-8dd#	C#add(2,3,7)
-8ccn	.
-8ccn	G#/C
+8g#L	C# minor/G#
+8eeJ	.
+8dd#L	.
+8cc#J	F# minor
+8g#L	.
+8cc#J	.
+8dd#L	D# diminished
+8cc#J	.
+8ccnL	.
+8dd#J	C# other-2,3,7
+8ccnL	.
+8ccnJ	G# major/C
 =13	=13
-1.cc#	C#m
+1.cc#	C# minor
 ==	==
 *-	*-

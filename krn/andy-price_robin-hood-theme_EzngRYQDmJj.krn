@@ -16,58 +16,58 @@
 *g:	*
 *M3/4	*
 =1	=1
-2g	Gm
-8d	.
-8g	.
+2g	G minor
+8dL	.
+8gJ	.
 =2	=2
-2.dd[	G
+[2.dd	G major
 =3	=3
 2.dd]	.
 =4	=4
-4g	Gm
-4b-	Gm/B-
-4dd	Gm/D
+4g	G minor
+4b-	G minor/B-
+4dd	G minor/D
 =5	=5
-2ee-	E-
-8dd	.
-8ee-	.
+2ee-	E- major
+8ddL	.
+8ee-J	.
 =6	=6
-4dd	Gm/B-
+4dd	G minor/B-
 4b-	.
 4g	.
 =7	=7
-2cc	C
-8b-	.
-8a	.
+2cc	C major
+8b-L	.
+8aJ	.
 =8	=8
-2g	Gm
+2g	G minor
 4d	.
 =9	=9
-2g	Gm
-8d	.
-8g	.
+2g	G minor
+8dL	.
+8gJ	.
 =10	=10
-2.dd[	G
+[2.dd	G major
 =11	=11
 2.dd]	.
 =12	=12
-4g	Gm
-4b-	Gm/B-
-4dd	Gm/D
+4g	G minor
+4b-	G minor/B-
+4dd	G minor/D
 =13	=13
-2ff	F
-8ff	.
-8ee-	.
+2ff	F major
+8ffL	.
+8ee-J	.
 =14	=14
-4dd	Gm/B-
+4dd	G minor/B-
 4b-	.
 4cc	.
 =15	=15
-4b-	F
+4b-	F major
 4a	.
 4f	.
 =16	=16
-2g	Gm
+2g	G minor
 4r	.
 ==	==
 *-	*-

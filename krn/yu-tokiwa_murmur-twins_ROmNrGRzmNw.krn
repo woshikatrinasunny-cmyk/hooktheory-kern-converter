@@ -16,146 +16,146 @@
 *D:	*
 *M4/4	*
 =1	=1
-2f#	Dmaj9
-8f#	.
+2f#	D major-ninth
+8f#L	.
 8g	.
 8a	.
-8a[	.
+[8aJ	.
 =2	=2
-4a]	Em7b5/D
+4a]	E half-diminished/D
 4g	.
 4d	.
-4e	D7/C
+4e	D dominant/C
 =3	=3
-2f#	Badd(3,5,7,10)
-8f#	.
+2f#	B other-3,5,7,10
+8f#L	.
 8g	.
 8a	.
-8g#[	E7
+[8g#J	E dominant
 =4	=4
 4.g#]	.
 4a	.
 4b	.
-8a#[	Gm7
+[8a#	G minor-seventh
 =5	=5
 4a#]	.
 4r	.
-8a#	.
+8a#L	.
 8ccn	.
 8dd	.
-8dd[	C11
+[8ddJ	C dominant-11th
 =6	=6
 4dd]	.
 4ccn	.
 4g	.
 4a#	.
 =7	=7
-2a	Fmaj7
-8a	.
+2a	F major-seventh
+8aL	.
 8g	.
 8fn	.
-8a[	.
+[8aJ	.
 =8	=8
-4a]	Em7
+4a]	E minor-seventh
 8r	.
-8r	A9
-8d	.
+8r	A dominant-ninth
+8dL	.
 8e	.
 8d	.
-8a[	.
+[8aJ	.
 =9	=9
-4a]	Dmaj9
+4a]	D major-ninth
 4r	.
-8f#	.
+8f#L	.
 8g	.
 8a	.
-8a[	.
+[8aJ	.
 =10	=10
-4a]	Em7b5/G
+4a]	E half-diminished/G
 4g	.
 4d	.
-4e	D7/C
+4e	D dominant/C
 =11	=11
-2f#	Badd(3,5,7,10)
-8f#	.
+2f#	B other-3,5,7,10
+8f#L	.
 8g	.
 8a	.
-8g#[	E7
+[8g#J	E dominant
 =12	=12
 4.g#]	.
 4a	.
 4b	.
-8a#[	Gm7
+[8a#	G minor-seventh
 =13	=13
 4a#]	.
 4r	.
-8a#	.
+8a#L	.
 8ccn	.
 8dd	.
-8dd[	C11
+[8ddJ	C dominant-11th
 =14	=14
 4dd]	.
 4ccn	.
 4dd	.
 4ee	.
 =15	=15
-3...a	Fmaj7
-8g	.
+3...a	F major-seventh
+8gL	.
 8fn	.
-8a[	.
+[8aJ	.
 =16	=16
-4a]	Em7
+4a]	E minor-seventh
 8r	.
-8r	A9
-8a	.
+8r	A dominant-ninth
+8aL	.
 8b	.
 8cc#	.
-8cc#[	.
+[8cc#J	.
 =17	=17
-1cc#_	Dmaj7
+1cc#_	D major-seventh
 =18	=18
-2..cc#]	Gmaj7/D
-8ccn[	.
+2..cc#]	G major-seventh/D
+[8ccn	.
 =19	=19
-1ccn_	Fmaj7
+1ccn_	F major-seventh
 =20	=20
-4.ccn_	Em7
-2ccn]	A9
-8cc#[	.
+4.ccn_	E minor-seventh
+2ccn]	A dominant-ninth
+[8cc#	.
 =21	=21
-1cc#_	Dmaj7
+1cc#_	D major-seventh
 =22	=22
-2.cc#]	Gmaj7/D
-16a	.
+2.cc#]	G major-seventh/D
+16aLL	.
 16b	.
 16cc#	.
-16dd	.
+16ddJJ	.
 =23	=23
-16ee	Dm7/F
+16eeLL	D minor-seventh/F
 16dd	.
 16ccn	.
 16dd	.
 16ccn	.
-16b	.
-8a	.
+16bJ	.
+8aJ	.
 8r	.
-8e	.
+8eL	.
 8a	.
-8b	.
+8bJ	.
 =24	=24
-16b	Em7
+16bLL	E minor-seventh
 16ccn	.
 16dd	.
-16g	.
+16gJ	.
 8gg	.
-16b	A9
-16ccn	.
-16dd	.
+16bL	A dominant-ninth
+16ccnJJ	.
+16ddLL	.
 16g	.
 16gg	.
 16dd	.
 16ccn	.
-16g	.
-8D	.
+16gJ	.
+8DJ	.
 ==	==
 *-	*-

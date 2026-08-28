@@ -16,69 +16,69 @@
 *a:	*
 *M4/4	*
 =1	=1
-8ff	Dm7
+8ffL	D minor-seventh
 8gg	.
 8aa	.
-8aa#	.
-8bb	G7
-8ccc	.
+8aa#J	.
+8bbL	G dominant
+8cccJ	.
 4ddd	.
 =2	=2
-8ee	Cmaj7
+8eeL	C major-seventh
 8ff	.
 8gg	.
-8gg#	.
-8aa	Fmaj7
-8bb	.
-4ccc	Fmaj7/A
+8gg#J	.
+8aaL	F major-seventh
+8bbJ	.
+4ccc	F major-seventh/A
 =3	=3
-8ddd	Bm7b5
+8dddL	B half-diminished
 8eee	.
 8fff	.
-8ddd	Bm7b5/D
-8bb	Eadd(1,4,7,10)
+8dddJ	B half-diminished/D
+8bbL	E other-1,4,7,10
 8ccc	.
-8ddd	Eadd(1,4,7,10)/B
-8bb	.
+8ddd	E other-1,4,7,10/B
+8bbJ	.
 =4	=4
-8ccc	Am
+8cccL	A minor
 8bb	.
 8ccc	.
-8ddd	.
-8eee	.
+8dddJ	.
+8eeeL	.
 8ddd	.
 8ccc	.
-8aa	.
+8aaJ	.
 =5	=5
-8ff	Dm7
+8ffL	D minor-seventh
 8gg	.
 8aa	.
-8aa#	.
-8bb	G7
-8ccc	.
+8aa#J	.
+8bbL	G dominant
+8cccJ	.
 4ddd	.
 =6	=6
-8ee	Cmaj7
+8eeL	C major-seventh
 8ff	.
 8gg	.
-8gg#	.
-8aa	Fmaj7
-8bb	.
-4ccc	Fmaj7/A
+8gg#J	.
+8aaL	F major-seventh
+8bbJ	.
+4ccc	F major-seventh/A
 =7	=7
-8ddd	Bm7b5
+8dddL	B half-diminished
 8eee	.
 8fff	.
-8ddd	Bm7b5/D
-8bb	Eadd(1,4,7,10)
+8dddJ	B half-diminished/D
+8bbL	E other-1,4,7,10
 8ccc	.
-8ddd	Eadd(1,4,7,10)/B
-8bb	.
+8ddd	E other-1,4,7,10/B
+8bbJ	.
 =8	=8
-8ccc	Am
+8cccL	A minor
 8bb	.
-8ccc	Am/E
-8bb	.
-2ccc	Am
+8ccc	A minor/E
+8bbJ	.
+2ccc	A minor
 ==	==
 *-	*-

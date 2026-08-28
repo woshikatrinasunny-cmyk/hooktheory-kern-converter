@@ -16,31 +16,31 @@
 *F:	*
 *M4/4	*
 =1	=1
-8f	F
-8f	.
+8fL	F major
+8fJ	.
 8r	.
-4f[	.
-8f_	F
-16f_	.
-16f]	F
-8e	.
+[4f	.
+8fL_	F major
+16fL_	.
+16fJ]	F major
+8eJ	.
 =2	=2
-8d	B-
+8d	B- major
 4b-	.
-4a	C
-4g	C
-8a[	.
+4a	C major
+4g	C major
+[8a	.
 =3	=3
-8a]	F
+8a]	F major
 2r	.
-8f	F
-16f[	.
-16f]	F
-8e	.
+8fL	F major
+[16fL	.
+16fJ]	F major
+8eJ	.
 =4	=4
-8d	B-
+8d	B- major
 4b-	.
-4a	C
+4a	C major
 4g	.
 8a	.
 ==	==

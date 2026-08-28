@@ -16,25 +16,25 @@
 *C:	*
 *M4/4	*
 =1	=1
-1e[	C
+[1e	C major
 =2	=2
 1e]	.
 =3	=3
-1d[	Cadd(2,4,7)
+[1d	C other-2,4,7
 =4	=4
 1d]	.
 =5	=5
-1f[	Csus4
+[1f	C suspended-fourth
 =6	=6
 2.f]	.
-8g	.
-8f	.
+8gL	.
+8fJ	.
 =7	=7
-1e[	C
+[1e	C major
 =8	=8
 1e]	.
 =9	=9
-1d[	Cadd(2,4,7)
+[1d	C other-2,4,7
 =10	=10
 1d_	.
 =11	=11

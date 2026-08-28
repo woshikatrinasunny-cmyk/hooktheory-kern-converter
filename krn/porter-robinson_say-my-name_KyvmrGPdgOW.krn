@@ -16,32 +16,32 @@
 *B:	*
 *M4/4	*
 =1	=1
-8.dd#	G#m7
+8.dd#L	G# minor-seventh
+8.dd#J	.
 8.dd#	.
+8.dd#L	.
 8.dd#	.
-8.dd#	.
-8.dd#	.
-16dd#[	.
+[16dd#Jk	.
 =2	=2
-8dd#]	.
-8.cc#	C#m7/E
+8dd#L]	.
+8.cc#	C# minor-seventh/E
+8.cc#J	.
+8.cc#L	.
 8.cc#	.
-8.cc#	.
-8.cc#	.
-8dd#	.
+8dd#J	.
 =3	=3
-8.cc#	F#add(2,4,7)
+8.cc#L	F# other-2,4,7
+8.cc#J	.
 8.cc#	.
+8.cc#L	.
 8.cc#	.
-8.cc#	.
-8.cc#	.
-16b[	C#7sus4
+[16bJk	C# dominant-seventh-suspended-fourth
 =4	=4
-8b]	.
+8bL]	.
 8.b	.
+8.bJ	.
+8.bL	.
 8.b	.
-8.b	.
-8.b	.
-8b	.
+8bJ	.
 ==	==
 *-	*-

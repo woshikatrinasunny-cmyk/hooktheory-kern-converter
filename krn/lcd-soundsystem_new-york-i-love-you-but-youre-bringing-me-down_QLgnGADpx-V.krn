@@ -16,51 +16,51 @@
 *F:	*
 *M6/4	*
 =1	=1
-2r	F
+2r	F major
 4a	.
 4a	.
 8.f	.
 8.a	.
-8f[	.
+[8f	.
 =2	=2
 2f]	.
-8f	.
-8f	.
-8a	.
-8a	.
+8fL	.
+8fJ	.
+8aL	.
+8aJ	.
 4a	.
-8f	.
-8d[	.
+8fL	.
+[8dJ	.
 =3	=3
-4d]	Dm
+4d]	D minor
 1r	.
 4r	.
 =4	=4
-1.r	D-aug
+1.r	D- augmented
 =5	=5
-3...r	F
+3...r	F major
 8a	.
 4a	.
 8.f	.
 6...a	.
 =6	=6
 2cc	.
-8f	.
-8f	.
-8a	.
-8a	.
+8fL	.
+8fJ	.
+8aL	.
+8aJ	.
 4.a	.
-8f[	.
+[8f	.
 =7	=7
-8f]	Dm
+8f]	D minor
 4.d	.
 1r	.
 =8	=8
-1r	D-aug
+1r	D- augmented
 4f	.
 4g	.
 =9	=9
-4a	F
+4a	F major
 4g	.
 4f	.
 2.cc	.
@@ -69,20 +69,20 @@
 8f	.
 4.g	.
 =11	=11
-4a	Dm
+4a	D minor
 4g	.
 4f	.
 2.dd	.
 =12	=12
-1.r	D-aug
+1.r	D- augmented
 =13	=13
-4.r	F
+4.r	F major
 8a	.
 4a	.
 4a	.
 8a	.
 4a	.
-8a[	.
+[8a	.
 =14	=14
 4.a]	.
 8f	.
@@ -90,12 +90,12 @@
 4a	.
 8a	.
 4a	.
-8f[	.
+[8f	.
 =15	=15
-2f]	Dm
+2f]	D minor
 1r	.
 =16	=16
-1r	D-aug
+1r	D- augmented
 4cc	.
 4r	.
 ==	==

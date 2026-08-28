@@ -16,84 +16,84 @@
 *G:	*
 *M3/4	*
 =1	=1
-8b	G
-8a	D/F#
-8g	Em
-8g	Em
-8f#	D
-8e	C
+8bL	G major
+8aJ	D major/F#
+8gL	E minor
+8gJ	E minor
+8f#L	D major
+8eJ	C major
 =2	=2
-8d	G/B
-8G	.
+8dL	G major/B
+8GJ	.
 8d	.
-4c	Am
+4c	A minor
 8B	.
 =3	=3
-8b	G
-8a	D/F#
-8g	Em
-8g	Em
-8f#	D
-8e	C
+8bL	G major
+8aJ	D major/F#
+8gL	E minor
+8gJ	E minor
+8f#L	D major
+8eJ	C major
 =4	=4
-8d	G/B
-8G	.
+8dL	G major/B
+8GJ	.
 8d	.
-4.c	Am
+4.c	A minor
 =5	=5
-8dd	G
-8b	.
+8ddL	G major
+8bJ	.
 8a	.
 4.b	.
 =6	=6
-8dd	G
-8b	.
-8a	.
-8g[	.
-4g]	G/D
+8ddL	G major
+8bJ	.
+8aL	.
+[8gJ	.
+4g]	G major/D
 =7	=7
-8dd	G
-8b	.
-8a	.
-8g	G/D
-8a	.
-8b	.
+8ddL	G major
+8bJ	.
+8aL	.
+8gJ	G major/D
+8aL	.
+8bJ	.
 =8	=8
-2.a	D#add(2,4,7)
+2.a	D# other-2,4,7
 =9	=9
-8dd	G
-8b	.
+8ddL	G major
+8bJ	.
 8a	.
 4.b	.
 =10	=10
-8dd	G
-8b	.
+8ddL	G major
+8bJ	.
 8a	.
 4.g	.
 =11	=11
-8dd	G
-8b	.
+8ddL	G major
+8bJ	.
 8dd	.
 4gg	.
 8bb	.
 =12	=12
-3...bb	Fadd(2,4,7)
+3...bb	F other-2,4,7
 8ccc	.
 =13	=13
-8ccc	D#
-8aa#	.
+8cccL	D# major
+8aa#J	.
 8aa	.
 4.aa#	.
 =14	=14
-8aa#	F
-8aa	.
+8aa#L	F major
+8aaJ	.
 8gg	.
 4ffn	.
 8cc	.
 =15	=15
-2.dd	Gadd(2,4,7)
+2.dd	G other-2,4,7
 =16	=16
-4.r	Gsus2
-4.r	G
+4.r	G suspended-second
+4.r	G major
 ==	==
 *-	*-

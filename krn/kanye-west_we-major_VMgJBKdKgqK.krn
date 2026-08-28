@@ -15,43 +15,43 @@
 *B:	*
 *M4/4	*
 =1	=1
-4..r	Bmaj9
+4..r	B major-ninth
 8ddd#	.
 16r	.
 8gg#	.
-4ccc#[	.
+[4ccc#	.
 =2	=2
 2.ccc#_	.
-16ccc#]	.
+16ccc#LK]	.
 8bb	.
-16ccc#	.
+16ccc#Jk	.
 =3	=3
-1dddn[	Dadd(2,4,7)
+[1dddn	D other-2,4,7
 =4	=4
 2.dddn_	.
-16dddn]	.
+16dddnLK]	.
 8ccc#	.
-16bb	.
+16bbJk	.
 =5	=5
-8.bb	Amaj9
-8.eee	.
-3...ccc#[	.
+8.bbL	A major-ninth
+8.eeeJ	.
+[3...ccc#	.
 =6	=6
-2.ccc#_	C#m7
-16ccc#]	.
+2.ccc#_	C# minor-seventh
+16ccc#LK]	.
 8aa	.
-16bb	.
+16bbJk	.
 =7	=7
-8cccn	Cmaj7
-16dddn	.
+8cccnL	C major-seventh
+16dddnk	.
 8eee	.
-8cccn	.
-2aa[	.
+8cccnJ	.
+[2aa	.
 16aa_	.
 =8	=8
-2.aa_	Cmaj9
-16aa]	.
+2.aa_	C major-ninth
+16aaLK]	.
 8bb	.
-16cccn	.
+16cccnJk	.
 ==	==
 *-	*-

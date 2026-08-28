@@ -16,54 +16,54 @@
 *a:	*
 *M4/4	*
 =1	=1
-8.cc	Am
-16cc	.
-16dd	Am
-8.cc	.
-4cc	Am
-16dd	Am
-8.cc	.
+8.ccL	A minor
+16ccL	.
+16ddJ	A minor
+8.ccJ	.
+4cc	A minor
+16ddLK	A minor
+8.ccJ	.
 =2	=2
-8.cc	Em/G
-16cc	.
-16dd	Em/G
-8.cc	.
-8.cc	Em/G
-16cc	.
-16dd	Em/G
-8.cc	.
+8.ccL	E minor/G
+16ccL	.
+16ddJ	E minor/G
+8.ccJ	.
+8.ccL	E minor/G
+16ccL	.
+16ddJ	E minor/G
+8.ccJ	.
 =3	=3
-8cc	F
-8a[	.
-4a_	F
-4a_	F
-4a]	F
+8ccL	F major
+[8aJ	.
+4a_	F major
+4a_	F major
+4a]	F major
 =4	=4
-4r	F
-4r	F
-8.r	F
-16cc	.
-16dd	F
-8.cc	.
+4r	F major
+4r	F major
+8.r	F major
+16ccLL	.
+16ddJ	F major
+8.ccJ	.
 =5	=5
-8.ee	Am
-16cc	.
-16dd	Am
-8.cc	.
-4ee	Am
-8dd	Am
-8cc	.
+8.eeL	A minor
+16ccL	.
+16ddJ	A minor
+8.ccJ	.
+4ee	A minor
+8ddL	A minor
+8ccJ	.
 =6	=6
-8ee	Em/G
+8eeL	E minor/G
 8ee	.
-16ff	Em/G
-8.ee	.
-4ee	Em/G
-16cc	Em/G
-16dd	.
-8cc	.
+16ffk	E minor/G
+8.eeJ	.
+4ee	E minor/G
+16ccLL	E minor/G
+16ddJ	.
+8ccJ	.
 =7	=7
-4ee[	Em/G
+[4ee	E minor/G
 2.ee]	.
 ==	==
 *-	*-

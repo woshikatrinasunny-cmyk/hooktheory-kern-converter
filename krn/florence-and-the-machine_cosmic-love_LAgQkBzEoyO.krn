@@ -16,47 +16,47 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.r	Fadd(2,4,7)
+4.r	F other-2,4,7
 4e	.
-4.g[	.
+[4.g	.
 =2	=2
-4.g]	C
+4.g]	C major
 8e	.
-2g[	.
+[2g	.
 =3	=3
-2g]	Am
+2g]	A minor
 4a	.
 4a	.
 =4	=4
 4a	.
 4a	.
 4a	.
-4g[	.
+[4g	.
 =5	=5
-8g]	Fadd(2,4,7)
+8g]	F other-2,4,7
 4.g	.
-2g[	.
+[2g	.
 =6	=6
-4.g]	C
+4.g]	C major
 8e	.
 4.d	.
 8c	.
 =7	=7
-2.d	Am
+2.d	A minor
 4r	.
 =8	=8
 1r	.
 =9	=9
-4.r	Fadd(2,4,7)
+4.r	F other-2,4,7
 4e	.
-4.g[	.
+[4.g	.
 =10	=10
-4.g]	C
+4.g]	C major
 4e	.
 8g	.
-4a[	.
+[4a	.
 =11	=11
-4.a]	Am
+4.a]	A minor
 8a	.
 4a	.
 4a	.
@@ -64,19 +64,19 @@
 4a	.
 4a	.
 4a	.
-4g[	.
+[4g	.
 =13	=13
-8g]	Fadd(2,4,7)
+8g]	F other-2,4,7
 4g	.
 8g	.
 8g	.
-4.e[	.
+[4.e	.
 =14	=14
-2e]	C
+2e]	C major
 4d	.
-4f[	.
+[4f	.
 =15	=15
-4f]	Am
+4f]	A minor
 2.f	.
 =16	=16
 1r	.

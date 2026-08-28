@@ -16,39 +16,39 @@
 *d#:	*
 *M12/8	*
 =1	=1
-2.d#	D#add(7,10)
+2.d#	D# other-7,10
 2.d#	.
 =2	=2
-2f#[	G#m/D#
-16f#]	.
-8.g#	.
+[2f#	G# minor/D#
+16f#LK]	.
+8.g#J	.
 4.a#	.
 4.cc#	.
 =3	=3
-2.dd#	D#m
+2.dd#	D# minor
 2.cc#	.
 =4	=4
-4a#	C#sus4
+4a#	C# suspended-fourth
 2g#	.
-3...g#	C#
+3...g#	C# major
 8a#	.
 =5	=5
-2.g#	G#/D#
+2.g#	G# major/D#
 2.d#	.
 =6	=6
-2f#[	D#m
-16f#]	.
-8.d#	.
-2f#[	.
-16f#]	.
-8.a#	.
+[2f#	D# minor
+16f#LK]	.
+8.d#J	.
+[2f#	.
+16f#LK]	.
+8.a#J	.
 =7	=7
-4.g#	C#sus4
+4.g#	C# suspended-fourth
 4.f#	.
-4.d#	C#
+4.d#	C# major
 4.c#	.
 =8	=8
-1.d#	D#add(7,10)
+1.d#	D# other-7,10
 =9	=9
 1.r	.
 ==	==

@@ -16,82 +16,82 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.cc	Am
+4.cc	A minor
 3...a	.
 =2	=2
-4r	Am
+4r	A minor
 4cc	.
 4a	.
 4cc	.
 =3	=3
-4.b-	B-
+4.b-	B- major
 3...ff	.
 =4	=4
-4r	B-
+4r	B- major
 4b-	.
 4ff	.
 4dd	.
 =5	=5
-4.cc	Am
+4.cc	A minor
 3...a	.
 =6	=6
-4r	Am
+4r	A minor
 4cc	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8ee	.
+8eeJ	.
 =7	=7
-8dd	B-
+8dd	B- major
 4b-	.
 3...ff	.
 =8	=8
-4.gg	B-
+4.gg	B- major
 4.ff	.
 4dd	.
 =9	=9
-1ff	B-
+1ff	B- major
 =10	=10
-1ee	B-add(2,6,7)
+1ee	B- other-2,6,7
 =11	=11
-1dd	B-
+1dd	B- major
 =12	=12
-1ee	Em7b5/B-
+1ee	E half-diminished/B-
 =13	=13
-1ff	B-
+1ff	B- major
 =14	=14
-1ee	Edim/B-
+1ee	E diminished/B-
 =15	=15
-1gg	Gm/B-
+1gg	G minor/B-
 =16	=16
-1ff	B-add(6,7)
+1ff	B- other-6,7
 =17	=17
-8ee	Aadd(1,7)
+8ee	A other-1,7
 4r	.
 8ee	.
 4r	.
 8ee	.
 8r	.
 =18	=18
-8ee	Am
+8ee	A minor
 4r	.
 8ee	.
 4r	.
 8ee	.
 8r	.
 =19	=19
-8ee	Am
+8ee	A minor
 4r	.
 8ee	.
 4r	.
 8ee	.
 8r	.
 =20	=20
-8ee	Aadd(1,7)
+8ee	A other-1,7
 4r	.
 8ee	.
 4r	.
-8ee	Am
+8ee	A minor
 8r	.
 ==	==
 *-	*-

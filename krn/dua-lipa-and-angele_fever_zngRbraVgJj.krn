@@ -16,125 +16,125 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2r	Badd(2,3,7)
-8r	E
-16e	.
+2r	B other-2,3,7
+8r	E major
+16eLK	.
 8cc#	.
 8g#	.
-16a[	.
+[16aJk	.
 =2	=2
-8.a]	F#m
-8.f#	.
+8.aL]	F# minor
+8.f#J	.
 4r	.
-16e	.
+16eLK	.
 8cc#	.
 8a	.
-16g#[	.
+[16g#Jk	.
 =3	=3
-4g#]	Eadd(4,7,9)
+4g#]	E other-4,7,9
 4.r	.
-16cc#	.
+16cc#LK	.
 8g#	.
 8a	.
-16a[	.
+[16aJk	.
 =4	=4
-8.a]	Badd(2,3,7)
-8.f#	.
+8.aL]	B other-2,3,7
+8.f#J	.
 6...r	.
-8cc#	.
+8cc#L	.
 8a	.
-16g#[	.
+[16g#Jk	.
 =5	=5
-4g#]	D
+4g#]	D major
 4r	.
-8r	E
-8e	.
+8r	E major
+8eL	.
 8f#	.
-8g#	.
+8g#J	.
 =6	=6
-4a	F#m
-8b	.
-8f#	.
-8f#	.
+4a	F# minor
+8bL	.
+8f#J	.
+8f#L	.
 8f#	.
 8a	.
-16f#	.
-16g#[	.
+16f#L	.
+[16g#JJ	.
 =7	=7
-8g#]	Eadd(4,7,9)
+8g#]	E other-4,7,9
 2r	.
-16f#	.
+16f#LK	.
 8cc#	.
 8g#	.
-16a[	.
+[16aJk	.
 =8	=8
-8.a]	Badd(2,3,7)
-8.f#	.
+8.aL]	B other-2,3,7
+8.f#J	.
 4r	.
-16f#	.
+16f#LK	.
 8cc#	.
-8.a	.
+8.aJ	.
 =9	=9
-4g#	D
+4g#	D major
 4r	.
-8r	E
-16B	.
+8r	E major
+16BLK	.
 8c#	.
 8B	.
-16B	.
+16BJk	.
 =10	=10
-4c#	F#m
+4c#	F# minor
 2r	.
-8B	.
-8G#	.
+8BL	.
+8G#J	.
 =11	=11
-4G#	Eadd(4,7,9)
+4G#	E other-4,7,9
 2.r	.
 =12	=12
-16B	Badd(2,3,7)
+16BLL	B other-2,3,7
 16c#	.
 16B	.
-16B	.
+16BJ	.
 8c#	.
+8BJ	.
+8c#L	.
 8B	.
-8c#	.
 8B	.
-8B	.
-8G#	.
+8G#J	.
 =13	=13
-4G#	D
+4G#	D major
 4r	.
-2r	E
+2r	E major
 =14	=14
-16B	F#m
+16BLK	F# minor
 8c#	.
-16B	.
+16Bk	.
 8c#	.
+8BJ	.
+8c#L	.
 8B	.
-8c#	.
 8B	.
-8B	.
-8G#	.
+8G#J	.
 =15	=15
-4G#	Eadd(4,7,9)
+4G#	E other-4,7,9
 2.r	.
 =16	=16
-16B	Badd(2,3,7)
+16BLK	B other-2,3,7
 8c#	.
-16B	.
+16Bk	.
 8c#	.
+8BJ	.
+8c#L	.
 8B	.
-8c#	.
 8B	.
-8B	.
-8G#	.
+8G#J	.
 =17	=17
-4G#	D
+4G#	D major
 4r	.
-8r	E
-16g#	.
+8r	E major
+16g#LK	.
 8cc#	.
 8g#	.
-16a	.
+16aJk	.
 ==	==
 *-	*-

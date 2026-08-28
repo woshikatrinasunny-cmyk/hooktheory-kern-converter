@@ -16,172 +16,172 @@
 *D:	*
 *M4/4	*
 =1	=1
-8A	Am
+8AL	A minor
 8B	.
-8A[	.
-16A]	Esus4
+[8A	.
+16AJk]	E suspended-fourth
 8B	.
-16A	.
+16ALK	.
 8A	.
-8B	Am
-8A	.
+8B	A minor
+8AJ	.
 =2	=2
-8E	Em
+8EL	E minor
 8A	.
-8G[	.
-16G]	Esus4
+[8G	.
+16GJk]	E suspended-fourth
 8A	.
-16G	.
+16GLK	.
 8G	.
-8A	Em
-8G	.
+8A	E minor
+8GJ	.
 =3	=3
-8G	G
+8GL	G major
 8A	.
-8G[	.
-16G]	G
+[8G	.
+16GJk]	G major
 8A	.
-16G	.
+16GLK	.
 8G	.
-8A	G
-8G	.
+8A	G major
+8GJ	.
 =4	=4
-8D	Dsus4
+8DL	D suspended-fourth
 8G	.
-8F#[	.
-16F#]	D
+[8F#	.
+16F#Jk]	D major
 8G	.
-16F#	.
+16F#LK	.
 8F#	.
-8G	D
-8F#	.
+8G	D major
+8F#J	.
 =5	=5
-8A	Am
+8AL	A minor
 8B	.
-8A[	.
-16A]	Esus4
+[8A	.
+16AJk]	E suspended-fourth
 8B	.
-16A	.
+16ALK	.
 8A	.
-8B	Am
-8A	.
+8B	A minor
+8AJ	.
 =6	=6
-8E	Em
+8EL	E minor
 8A	.
-8G[	.
-16G]	Esus4
+[8G	.
+16GJk]	E suspended-fourth
 8A	.
-16G	.
+16GLK	.
 8G	.
-8A	Em
-8G	.
+8A	E minor
+8GJ	.
 =7	=7
-8G	G
-8A	G
-8G[	G
-16G]	G
-16A[	.
-16A]	G
-16G	.
-8G	G
-8A	G
-8G	G
+8GL	G major
+8A	G major
+[8G	G major
+16GL]	G major
+[16AJJ	.
+16ALL]	G major
+16GJ	.
+8G	G major
+8A	G major
+8GJ	G major
 =8	=8
-16D[	D
-16D]	D
-16G[	D
-16G]	D
-16F#[	D
-16F#_	D
-16F#]	D
-16G[	D
-16G]	D
-16F#	D
-16F#[	D
-16F#]	D
-16G[	D
-16G]	D
-16F#[	D
-16F#]	D
+[16DLL	D major
+16D]	D major
+[16G	D major
+16G]	D major
+[16F#	D major
+16F#_	D major
+16F#]	D major
+[16GJJ	D major
+16GLL]	D major
+16F#	D major
+[16F#	D major
+16F#]	D major
+[16G	D major
+16G]	D major
+[16F#	D major
+16F#JJ]	D major
 =9	=9
-8A	Am
+8AL	A minor
 8b	.
-8a[	Am
-16a]	Esus4
+[8a	A minor
+16aJk]	E suspended-fourth
 8b	.
-16a	.
-8a	Am
+16aLK	.
+8a	A minor
 8b	.
-8a	Am/E
+8aJ	A minor/E
 =10	=10
-8e	Em
+8eL	E minor
 8a	.
-8g[	Em
-16g]	Esus4
+[8g	E minor
+16gJk]	E suspended-fourth
 8a	.
-16g	.
-8g	Em
+16gLK	.
+8g	E minor
 8a	.
-8g	Em/G
+8gJ	E minor/G
 =11	=11
-8G	G
+8GL	G major
 8a	.
-8g[	G
-16g]	G
+[8g	G major
+16gJk]	G major
 8a	.
-16g	.
-8g	G
-8a	G
-8g	G/D
+16gLK	.
+8g	G major
+8a	G major
+8gJ	G major/D
 =12	=12
-8d	Dsus4
+8dL	D suspended-fourth
 8g	.
-8f#[	D
-16f#]	D
+[8f#	D major
+16f#Jk]	D major
 8g	.
-16f#	.
-8f#	D
+16f#LK	.
+8f#	D major
 8g	.
-8f#	D/A
+8f#J	D major/A
 =13	=13
-8A	Am
+8AL	A minor
 8b	.
-8a[	Am
-16a]	Esus4
+[8a	A minor
+16aJk]	E suspended-fourth
 8b	.
-16a	.
-8a	Am
+16aLK	.
+8a	A minor
 8b	.
-8a	Am/E
+8aJ	A minor/E
 =14	=14
-8e	Em
+8eL	E minor
 8a	.
-8g[	Em
-16g]	Esus4
+[8g	E minor
+16gJk]	E suspended-fourth
 8a	.
-16g	.
-8g	Em
+16gLK	.
+8g	E minor
 8a	.
-8g	Em/G
+8gJ	E minor/G
 =15	=15
-8G	G
+8GL	G major
 8a	.
-8g[	G
-16g]	G
+[8g	G major
+16gJk]	G major
 8a	.
-16g	.
-8g	G
-8a	G
-8g	G/D
+16gLK	.
+8g	G major
+8a	G major
+8gJ	G major/D
 =16	=16
-8d	Dsus4
+8dL	D suspended-fourth
 8g	.
-8f#[	D
-16f#]	D
+[8f#	D major
+16f#Jk]	D major
 8g	.
-16f#	.
-8f#	D
+16f#LK	.
+8f#	D major
 8g	.
-8f#	D/A
+8f#J	D major/A
 ==	==
 *-	*-

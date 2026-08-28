@@ -15,26 +15,26 @@
 *A:	*
 *M4/4	*
 =1	=1
-1bb	Eadd(2,4,7)
+1bb	E other-2,4,7
 =2	=2
-1aa	Amaj7
+1aa	A major-seventh
 =3	=3
-1gg#	C#m7
+1gg#	C# minor-seventh
 =4	=4
-1ee[	Amaj7
+[1ee	A major-seventh
 =5	=5
 1ee_	.
 =6	=6
 1ee]	.
 =7	=7
-1aa	F#m7
+1aa	F# minor-seventh
 =8	=8
-1gg#	C#7sus4
+1gg#	C# dominant-seventh-suspended-fourth
 =9	=9
-1ee[	C#m7/E
+[1ee	C# minor-seventh/E
 =10	=10
 2ee]	.
-2ee[	Fmaj7
+[2ee	F major-seventh
 =11	=11
 1ee_	.
 =12	=12

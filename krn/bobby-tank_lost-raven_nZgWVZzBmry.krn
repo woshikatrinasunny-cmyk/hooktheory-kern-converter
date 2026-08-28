@@ -16,42 +16,42 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4.cc#	G#7sus4
-4.gg#	Badd(2,4,7)
-4dd#[	C#7sus4
+4.cc#	G# dominant-seventh-suspended-fourth
+4.gg#	B other-2,4,7
+[4dd#	C# dominant-seventh-suspended-fourth
 =2	=2
 2..dd#]	.
-8bb[	B/D#
+[8bb	B major/D#
 =3	=3
 4.bb]	.
-4.ccc#	Emaj7
-4ff#[	G#m7
+4.ccc#	E major-seventh
+[4ff#	G# minor-seventh
 =4	=4
 4ff#]	.
-2.gg#	B
+2.gg#	B major
 =5	=5
-4.ddd#	C#m7
+4.ddd#	C# minor-seventh
 4.bb	.
-4cc#[	D#m7
+[4cc#	D# minor-seventh
 =6	=6
 4cc#]	.
-2.dd#[	Emaj7
+[2.dd#	E major-seventh
 =7	=7
 2dd#]	.
-16bb	B
+16bbLL	B major
 16ccc#	.
 16ddd#	.
-16fff#	.
+16fff#JJ	.
 8r	.
-16bb	.
-16gg#	.
+16bbLL	.
+16gg#JJ	.
 =8	=8
 16ff#	.
 8.r	.
-16ggg#	.
+16ggg#LL	.
 16fff#	.
 16ddd#	.
-16ccc#	.
+16ccc#JJ	.
 2r	.
 ==	==
 *-	*-

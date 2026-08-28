@@ -18,165 +18,165 @@
 =1	=1
 4.r	.
 8a	.
-8ff	.
-8ee	.
+8ffL	.
+8eeJ	.
 =2	=2
-4.dd	Dm
+4.dd	D minor
 8a	.
-8ff	.
-8ee	.
+8ffL	.
+8eeJ	.
 =3	=3
 4.dd	.
 8a	.
-8ff	.
-8ee	.
+8ffL	.
+8eeJ	.
 =4	=4
 4.dd	.
 8a	.
-8ff	.
-8dd	.
+8ffL	.
+8ddJ	.
 =5	=5
-4.ee	A
+4.ee	A major
 8a	.
-8gg	.
-8ff	.
+8ggL	.
+8ffJ	.
 =6	=6
 4.ee	.
 8a	.
-8gg	.
-8ff	.
+8ggL	.
+8ffJ	.
 =7	=7
 4.ee	.
 8a	.
-8gg	.
-8ff	.
+8ggL	.
+8ffJ	.
 =8	=8
 4.ee	.
 8a	.
-8gg	.
-8ee	.
+8ggL	.
+8eeJ	.
 =9	=9
-4.ff	Dm
+4.ff	D minor
 8dd	.
-8aa	.
-8ddd	.
+8aaL	.
+8dddJ	.
 =10	=10
-4.bb-	Gm
+4.bb-	G minor
 8b-	.
-8dd	.
-8bb-	.
+8ddL	.
+8bb-J	.
 =11	=11
-4.gg	E-
+4.gg	E- major
 8g	.
-8b-	.
-8gg	.
+8b-L	.
+8ggJ	.
 =12	=12
-4.ee	A/D-
+4.ee	A major/D-
 8e	.
-8a	.
-8ee	.
+8aL	.
+8eeJ	.
 =13	=13
-4.ff	Dm
+4.ff	D minor
 8f	.
-8a	.
-8ff	.
+8aL	.
+8ffJ	.
 =14	=14
-4.dd	Dm/A
+4.dd	D minor/A
 8d	.
-8a	.
-8dd	.
+8aL	.
+8ddJ	.
 =15	=15
-4.dd-	A
+4.dd-	A major
 8d-	.
-8a	.
-8dd-	.
+8aL	.
+8dd-J	.
 =16	=16
-8dd	Dm
-8D	.
-8F	.
-8A	.
-8f	Dm
-8a	.
+8ddL	D minor
+8DJ	.
+8FL	.
+8AJ	.
+8fL	D minor
+8aJ	.
 =17	=17
-8dd	.
-8ff	.
-8aa	.
-8ff	.
-8ddd	.
-8aa	.
+8ddL	.
+8ffJ	.
+8aaL	.
+8ffJ	.
+8dddL	.
+8aaJ	.
 =18	=18
-4.bb-	Gm
+4.bb-	G minor
 8b-	.
-8dd	.
-8bb-	.
+8ddL	.
+8bb-J	.
 =19	=19
-4.gg	E-
+4.gg	E- major
 8g	.
-8b-	.
-8gg	.
+8b-L	.
+8ggJ	.
 =20	=20
-4.ee	A/D-
+4.ee	A major/D-
 8e	.
-8a	.
-8ee	.
+8aL	.
+8eeJ	.
 =21	=21
-4.ff	Dm
+4.ff	D minor
 8f	.
-8a	.
-8ff	.
+8aL	.
+8ffJ	.
 =22	=22
-4.dd	Dm/A
+4.dd	D minor/A
 8d	.
-8a	.
-8dd	.
+8aL	.
+8ddJ	.
 =23	=23
-4.dd-	A
+4.dd-	A major
 8d-	.
-8a	.
-8dd-	.
+8aL	.
+8dd-J	.
 =24	=24
-8dd	Dm
+8dd	D minor
 16r	.
 16a	.
-2aa	Dm
+2aa	D minor
 =25	=25
-8aa-	.
-8gg	.
-8gg-	.
-8ff	.
-8ee	.
-8ee-	.
+8aa-L	.
+8ggJ	.
+8gg-L	.
+8ffJ	.
+8eeL	.
+8ee-J	.
 =26	=26
-4.dd	Dm/A
+4.dd	D minor/A
 8d	.
-8a	.
-8dd	.
+8aL	.
+8ddJ	.
 =27	=27
-4.dd-	A
+4.dd-	A major
 8d-	.
-8a	.
-8dd-	.
+8aL	.
+8dd-J	.
 =28	=28
-8dd	Dm
+8dd	D minor
 16r	.
 16dd	.
-2ddd	Dm
+2ddd	D minor
 =29	=29
-8ddd-	.
-8ccc	.
-8bbn	.
-8bb-	.
-8aa	.
-8aa-	.
+8ddd-L	.
+8cccJ	.
+8bbnL	.
+8bb-J	.
+8aaL	.
+8aa-J	.
 =30	=30
-4.aa	Dm/A
+4.aa	D minor/A
 8d	.
-8a	.
-8dd	.
+8aL	.
+8ddJ	.
 =31	=31
-4.dd-	A
+4.dd-	A major
 8dd-	.
-8aa	.
-8ddd-	.
+8aaL	.
+8ddd-J	.
 ==	==
 *-	*-

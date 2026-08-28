@@ -16,132 +16,132 @@
 *b-:	*
 *M4/4	*
 =1	=1
-16b-	B-m
+16b-LL	B- minor
 16dd-	.
 16ff	.
 16b-	.
-16dd-	B-m/D-
+16dd-	B- minor/D-
 16ff	.
 16b-	.
-16an	.
-16a-	A-7
+16anJJ	.
+16a-LL	A- dominant
 16cc	.
 16gg-	.
 16a-	.
-16cc	A-7/C
+16cc	A- dominant/C
 16gg-	.
 16ee-	.
-16cc	.
+16ccJJ	.
 =2	=2
-16dd-	D-
+16dd-LL	D- major
 16ff	.
 16aa-	.
 16dd-	.
-16ff	D-/F
+16ff	D- major/F
 16aa-	.
 16ee-	.
-16dd-	.
-16cc	Cdim/E-
+16dd-JJ	.
+16ccLL	C diminished/E-
 16ee-	.
-16aa-	Cdim
-16cc	.
-8bb-	F
-16aa-	F/A
-16ff	.
+16aa-	C diminished
+16ccJ	.
+8bb-	F major
+16aa-L	F major/A
+16ffJJ	.
 =3	=3
-16b-	B-m
+16b-LL	B- minor
 16dd-	.
 16ff	.
 16b-	.
-16dd-	B-m/D-
+16dd-	B- minor/D-
 16ff	.
 16b-	.
-16an	.
-16a-	A-7
+16anJJ	.
+16a-LL	A- dominant
 16cc	.
 16gg-	.
 16a-	.
-16cc	A-7/C
+16cc	A- dominant/C
 16gg-	.
 16ee-	.
-16cc	.
+16ccJJ	.
 =4	=4
-16dd-	D-
+16dd-LL	D- major
 16ff	.
 16aa-	.
 16dd-	.
-16ff	D-/F
+16ff	D- major/F
 16aa-	.
 16ee-	.
-16dd-	.
-16cc	Cdim/E-
+16dd-JJ	.
+16ccLL	C diminished/E-
 16ee-	.
-16aa-	Cdim
+16aa-	C diminished
 16cc	.
-16ee-	F/A
+16ee-	F major/A
 16aa-	.
-16ff	F7/E-
-16ee-	.
+16ff	F dominant/E-
+16ee-JJ	.
 =5	=5
-16b-	B-m
+16b-LL	B- minor
 16dd-	.
 16ff	.
 16b-	.
-16dd-	B-m/D-
+16dd-	B- minor/D-
 16ff	.
 16b-	.
-16an	.
-16a-	A-7
+16anJJ	.
+16a-LL	A- dominant
 16cc	.
 16gg-	.
 16a-	.
-16cc	A-7/C
+16cc	A- dominant/C
 16gg-	.
 16ee-	.
-16cc	.
+16ccJJ	.
 =6	=6
-16dd-	D-
+16dd-LL	D- major
 16ff	.
 16aa-	.
 16dd-	.
-16ff	D-/F
+16ff	D- major/F
 16aa-	.
 16ee-	.
-16dd-	.
-16cc	Cdim/E-
+16dd-JJ	.
+16ccLL	C diminished/E-
 16ee-	.
-16aa-	Cdim
+16aa-	C diminished
 16ccc	.
-16ddd-	F
+16ddd-	F major
 16ccc	.
-16aa-	F/A
-16ff	.
+16aa-	F major/A
+16ffJJ	.
 =7	=7
-16b-	B-m
+16b-LL	B- minor
 16dd-	.
 16ff	.
 16b-	.
-16dd-	B-m/D-
+16dd-	B- minor/D-
 16ff	.
 16b-	.
-16an	.
-16a-	A-7
+16anJJ	.
+16a-LL	A- dominant
 16cc	.
 16gg-	.
 16a-	.
-16cc	A-7/C
+16cc	A- dominant/C
 16gg-	.
 16ee-	.
-16cc	.
+16ccJJ	.
 =8	=8
-16dd-	D-
+16dd-LL	D- major
 16ff	.
 16aa-	.
 16dd-	.
-16ff	D-/F
+16ff	D- major/F
 16aa-	.
 16ee-	.
-16dd-	.
+16dd-JJ	.
 4cc	.
 4f	.
 ==	==

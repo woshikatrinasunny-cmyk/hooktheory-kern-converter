@@ -16,28 +16,28 @@
 *a:	*
 *M4/4	*
 =1	=1
-2.b	Am9
+2.b	A minor-ninth
 4a	.
 =2	=2
-2g	Fmaj9
+2g	F major-ninth
 2e	.
 =3	=3
-2.b	Am9
+2.b	A minor-ninth
 4a	.
 =4	=4
-2g	Fadd(2,4,7)
+2g	F other-2,4,7
 2e	.
 =5	=5
-2.dd	Am11
+2.dd	A minor-11th
 4cc	.
 =6	=6
-2b	Fadd(4,6,7)
+2b	F other-4,6,7
 2a	.
 =7	=7
-2.g	Am7
-16g	.
-8.a	.
+2.g	A minor-seventh
+16gLK	.
+8.aJ	.
 =8	=8
-1e	Fmaj7
+1e	F major-seventh
 ==	==
 *-	*-

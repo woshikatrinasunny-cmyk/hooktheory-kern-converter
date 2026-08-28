@@ -16,75 +16,75 @@
 *B:	*
 *M4/4	*
 =1	=1
-2dd#	G#m
+2dd#	G# minor
 4b	.
 4cc#	.
 =2	=2
-4dd#	B
+4dd#	B major
 4r	.
 4dd#	.
 4ff#	.
 =3	=3
-4ee	E
+4ee	E major
 4dd#	.
 8cc#	.
 4b	.
-8cc#[	.
+[8cc#	.
 =4	=4
-2cc#]	F#
-8b	.
+2cc#]	F# major
+8bL	.
 8b	.
 8cc#	.
-8b	.
+8bJ	.
 =5	=5
-8ee	D#m
+8ee	D# minor
 8r	.
-8dd#	D#m
-8r	D#m
-8cc#	D#m
-8b[	D#m
+8dd#	D# minor
+8r	D# minor
+8cc#L	D# minor
+[8b	D# minor
 8b]	.
-8b	D#m
+8bJ	D# minor
 =6	=6
-8gg#[	G#m
+[8gg#L	G# minor
 8gg#]	.
-8dd#[	G#m
-8dd#]	G#m
-8cc#	G#m
-8b	G#m
+[8dd#	G# minor
+8dd#J]	G# minor
+8cc#L	G# minor
+8bJ	G# minor
 8r	.
-8b	G#m
+8b	G# minor
 =7	=7
-4ee	C#m
+4ee	C# minor
 4dd#	.
 8cc#	.
 4b	.
 8b	.
 =8	=8
-4a#	F#
+4a#	F# major
 8a#	.
 4b	.
 4cc#	.
 8b	.
 =9	=9
-2.dd#[	B
-8dd#_	B
-8dd#]	B
+[2.dd#	B major
+8dd#L_	B major
+8dd#J]	B major
 =10	=10
 8r	.
-8r	B
-4r	B
-4ee	E
-4ee	E
+8r	B major
+4r	B major
+4ee	E major
+4ee	E major
 =11	=11
-2.r	B
-8r	B
-8r	B
+2.r	B major
+8r	B major
+8r	B major
 =12	=12
 8r	.
-8r	B
-4r	B
-4ee	E
-4ee	E
+8r	B major
+4r	B major
+4ee	E major
+4ee	E major
 ==	==
 *-	*-

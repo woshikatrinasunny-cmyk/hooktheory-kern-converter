@@ -16,105 +16,105 @@
 *D:	*
 *M4/4	*
 =1	=1
-8b	.
-8a	Bm
-8b	Bm
-8dd	Bm
+8bL	.
+8a	B minor
+8b	B minor
+8ddJ	B minor
 8r	.
-8a	A
-8b	A
-8a	A
+8aL	A major
+8b	A major
+8aJ	A major
 =2	=2
-8b	.
-8dd	G
-8r	G
-8a	G
-8b	.
-8gg	A
-8ff#	A
-8dd	A
+8bL	.
+8ddJ	G major
+8r	G major
+8a	G major
+8bL	.
+8gg	A major
+8ff#	A major
+8ddJ	A major
 =3	=3
-8b	.
-8a	Bm
-8b	Bm
-8dd	Bm
+8bL	.
+8a	B minor
+8b	B minor
+8ddJ	B minor
 8r	.
-8a	A
-8b	A
-8a	A
+8aL	A major
+8b	A major
+8aJ	A major
 =4	=4
-8b	.
-8dd	G
-8r	G
-8a	G
-8b	.
-8bb	A
-8gg	A
-8dd	A
+8bL	.
+8ddJ	G major
+8r	G major
+8a	G major
+8bL	.
+8bb	A major
+8gg	A major
+8ddJ	A major
 =5	=5
-8b	.
-8a	Bm
-8b	Bm
-8dd	Bm
+8bL	.
+8a	B minor
+8b	B minor
+8ddJ	B minor
 8r	.
-8a	A
-8b	A
-8a	A
+8aL	A major
+8b	A major
+8aJ	A major
 =6	=6
-8b	.
-8dd	G
-8r	G
-8a	G
-8b	.
-8gg	A
-8ff#	A
-8dd	A
+8bL	.
+8ddJ	G major
+8r	G major
+8a	G major
+8bL	.
+8gg	A major
+8ff#	A major
+8ddJ	A major
 =7	=7
-8b	.
-8a	Bm
-8b	Bm
-8dd	Bm
+8bL	.
+8a	B minor
+8b	B minor
+8ddJ	B minor
 8r	.
-8a	A
-8b	A
-8a	A
+8aL	A major
+8b	A major
+8aJ	A major
 =8	=8
-8b	G
-8dd	G
-8r	G
-8a	G
-8bb[	A
-8bb]	.
+8bL	G major
+8ddJ	G major
+8r	G major
+8a	G major
+[8bbL	A major
+8bbJ]	.
 4r	.
 =9	=9
-4.d	F#m
+4.d	F# minor
 4.A	.
 4d	.
 =10	=10
-4.e	G
+4.e	G major
 4.A	.
 4e	.
 =11	=11
-4.f#	A
+4.f#	A major
 4.g	.
-8f#	.
-8e	.
+8f#L	.
+8eJ	.
 =12	=12
-4.d	Bm
+4.d	B minor
 4.gg	.
 4ff#	.
 =13	=13
-4.dd	D
+4.dd	D major
 4.gg	.
 4ff#	.
 =14	=14
-1dd	F#m
+1dd	F# minor
 =15	=15
-4.gg	G
+4.gg	G major
 4.ff#	.
 4dd	.
 =16	=16
-4.ee	A
+4.ee	A major
 4.ff#	.
 4cc#	.
 ==	==

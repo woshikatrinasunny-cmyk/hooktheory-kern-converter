@@ -16,19 +16,19 @@
 *b:	*
 *M4/4	*
 =1	=1
-4r	Bm
+4r	B minor
 4dd	.
 8r	.
-8b	.
+8bL	.
 8cc#	.
-8dd	.
+8ddJ	.
 =2	=2
 4ff#	.
 4ccc#	.
 8b	.
 4.dd	.
 =3	=3
-4r	D/A
+4r	D major/A
 4dd	.
 8r	.
 4a	.
@@ -39,19 +39,19 @@
 4cc#	.
 4dd	.
 =5	=5
-4r	Bm
+4r	B minor
 4dd	.
 8r	.
-8b	.
+8bL	.
 8cc#	.
-8dd	.
+8ddJ	.
 =6	=6
 4ff#	.
 4ccc#	.
 8b	.
 4.dd	.
 =7	=7
-4r	D/A
+4r	D major/A
 4dd	.
 8r	.
 4a	.
@@ -62,7 +62,7 @@
 4cc#	.
 4dd	.
 =9	=9
-4r	Bm
+4r	B minor
 4aa	.
 8r	.
 8.ff#	.
@@ -76,7 +76,7 @@
 8ff#	.
 4.aa	.
 =11	=11
-4r	D/A
+4r	D major/A
 4aa	.
 8r	.
 4ee	.
@@ -87,7 +87,7 @@
 8cc#	.
 4.dd	.
 =13	=13
-4r	Bm
+4r	B minor
 4aa	.
 8r	.
 8.ff#	.
@@ -101,7 +101,7 @@
 8ff#	.
 4.aa	.
 =15	=15
-4r	D/A
+4r	D major/A
 4aa	.
 8r	.
 4ee	.

@@ -16,64 +16,64 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8r	C#m
-8c#	.
+8r	C# minor
+8c#L	.
 8g#	.
-8f#	.
-8.g#	.
+8f#J	.
+8.g#L	.
 8.f#	.
-8g#	.
+8g#J	.
 =2	=2
-2r	G#m/B
-4.r	F#m/A
-8r	B7sus2
+2r	G# minor/B
+4.r	F# minor/A
+8r	B dominant-seventh-suspended-second
 =3	=3
-8r	C#m
-8c#	.
+8r	C# minor
+8c#L	.
 8g#	.
-8f#	.
-8.g#	.
+8f#J	.
+8.g#L	.
 8.f#	.
-8g#	.
+8g#J	.
 =4	=4
-2r	G#m
-8r	F#m
+2r	G# minor
+8r	F# minor
+16cc#LL	.
 16cc#	.
 16cc#	.
 16cc#	.
 16cc#	.
-16cc#	.
-16cc#	.
+16cc#JJ	.
 =5	=5
-2.r	C#m
-8g#	.
-8a	.
+2.r	C# minor
+8g#L	.
+8aJ	.
 =6	=6
-8b	G#m
-16d#	.
+8bL	G# minor
+16d#k	.
 8d#	.
-16d#	.
-8e	.
-8f#	F#m
+16d#k	.
+8eJ	.
+8f#L	F# minor
+16cc#L	.
 16cc#	.
 16cc#	.
 16cc#	.
 16cc#	.
-16cc#	.
-16cc#	.
+16cc#JJ	.
 =7	=7
-2.r	C#m
-8g#	.
-8a	.
+2.r	C# minor
+8g#L	.
+8aJ	.
 =8	=8
-8b	G#m
-16d#	.
+8bL	G# minor
+16d#k	.
 8d#	.
-16d#	.
-8g#	.
-4f#	F#m
+16d#k	.
+8g#J	.
+4f#	F# minor
 8r	.
-16g#	.
-16g#	.
+16g#LL	.
+16g#JJ	.
 ==	==
 *-	*-

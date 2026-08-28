@@ -16,32 +16,32 @@
 *c:	*
 *M4/4	*
 =1	=1
-1C	Cm
+1C	C minor
 =2	=2
 2G	.
 2c	.
 =3	=3
-8e-	A-
+8e-	A- major
 2..A-	.
 =4	=4
 2A-	.
 2c	.
 =5	=5
-16d	D/G-
-16c	.
+16dLL	D major/G-
+16cJJ	.
 3...d	.
 4An	.
 =6	=6
-2.c	D7
+2.c	D dominant
 4An	.
 =7	=7
-16Bn	G
-16An	.
+16BnLL	G major
+16AnJJ	.
 2..Bn	.
 =8	=8
-1G	G7/B
+1G	G dominant/B
 =9	=9
-4C	Cm
+4C	C minor
 4E-	.
 4G	.
 4c	.
@@ -51,7 +51,7 @@
 4G	.
 4E-	.
 =11	=11
-4C	A-
+4C	A- major
 4E-	.
 4A-	.
 4c	.
@@ -61,22 +61,22 @@
 4A-	.
 4G	.
 =13	=13
-4G-	D/G-
+4G-	D major/G-
 4An	.
 4d	.
 4An	.
 =14	=14
-4g-	D7
+4g-	D dominant
 4d	.
 4an	.
 4cc	.
 =15	=15
-4bn	G
+4bn	G major
 4an	.
 4g	.
 4f	.
 =16	=16
-4e-	G7/B
+4e-	G dominant/B
 4d	.
 4c	.
 4Bn	.

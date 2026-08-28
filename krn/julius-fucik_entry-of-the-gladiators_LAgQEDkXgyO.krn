@@ -16,37 +16,37 @@
 *A-:	*
 *M4/4	*
 =1	=1
-4.AA-	A-
+4.AA-	A- major
 16EE-	.
 16r	.
 16AA-	.
 16r	.
-16GG	.
+16GGLL	.
 16AA-	.
 16AAn	.
 16BB-	.
 16BBn	.
-16C	.
+16CJJ	.
 =2	=2
-4.D-	E-7/D-
+4.D-	E- dominant/D-
 16C	.
 16r	.
 4.BB-	.
 8r	.
 =3	=3
-4.F	Fadd(2,5,7,8,10)
+4.F	F other-2,5,7,8,10
 16E-	.
 16r	.
-16D-	.
+16D-LL	.
 16E-	.
 16D-	.
 16C	.
 16BB-	.
 16C	.
 16D-	.
-16BB-	.
+16BB-JJ	.
 =4	=4
-4.AA-	A-
+4.AA-	A- major
 16C	.
 16r	.
 4.EE-	.
@@ -57,34 +57,34 @@
 16r	.
 16AA-	.
 16r	.
-16GG	.
+16GGLL	.
 16AA-	.
 16BB-	.
 16C	.
 16D-	.
-16E-	.
+16E-JJ	.
 =6	=6
-4.Dn	Bdim7/D
+4.Dn	B diminished-seventh/D
 16F	.
 16r	.
 4AA-	.
-8GG	.
-16AA-	.
+8GGL	.
+16AA-Jk	.
 16r	.
 =7	=7
-4C	Cm
+4C	C minor
 4AA-	.
-4BB-	E-7/B-
+4BB-	E- dominant/B-
 4EE-	.
 =8	=8
-16aa-	A-
+16aa-	A- major
 16r	.
-16gg	.
+16ggLL	.
 16ff	.
 16ee-	.
 16dd-	.
 16cc	.
-16b-	.
+16b-JJ	.
 16a-	.
 16r	.
 8r	.

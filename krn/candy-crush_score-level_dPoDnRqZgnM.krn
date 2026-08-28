@@ -16,23 +16,23 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	C
+1r	C major
 =2	=2
-1r	C/E
+1r	C major/E
 =3	=3
-1r	C
+1r	C major
 =4	=4
 2.r	.
-4r	C/E
+4r	C major/E
 =5	=5
-1r	Cadd(2,5,7,9)
+1r	C other-2,5,7,9
 =6	=6
 1r	.
 =7	=7
-1r	Cadd(2,5,7,9)
+1r	C other-2,5,7,9
 =8	=8
 2r	.
-4r	Aadd(3,5,8,10)/G
-4r	Fadd(2,4,7,9)/A
+4r	A other-3,5,8,10/G
+4r	F other-2,4,7,9/A
 ==	==
 *-	*-

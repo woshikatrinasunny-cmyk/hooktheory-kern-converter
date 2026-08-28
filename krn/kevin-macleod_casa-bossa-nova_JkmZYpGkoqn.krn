@@ -15,79 +15,79 @@
 *C:	*
 *M4/4	*
 =1	=1
-16aa	Fmaj7
+16aa	F major-seventh
 16r	.
 16aa	.
 16r	.
-8aa	.
-8gg	.
-8aa	Fmaj7/C
+8aaL	.
+8ggJ	.
+8aaL	F major-seventh/C
 8bb	.
-16ccc	.
+16cccJk	.
 16r	.
-16ccc	Fmaj7
+16ccc	F major-seventh
 16r	.
 =2	=2
 16ccc	.
 16r	.
-8ccc	.
+8cccL	.
 8bb	.
-8aa	.
-8bb	.
+8aaJ	.
+8bbL	.
 8ccc	.
-16ddd	Fmaj7/C
+16dddJk	F major-seventh/C
 16r	.
 16ddd	.
 16r	.
 =3	=3
-8ddd	Gadd(2,4,7)
-16ccc	.
+8dddL	G other-2,4,7
+16cccJk	.
 16r	.
-8ccc	.
-8bb	.
-8bb	Gadd(2,4,7)/D
+8cccL	.
+8bbJ	.
+8bbL	G other-2,4,7/D
 8aa	.
 8gg	.
-8aa	Gadd(2,4,7)
+8aaJ	G other-2,4,7
 =4	=4
-8gg	.
-16ff	.
+8ggL	.
+16ffJk	.
 16r	.
 8ff	.
 4ee	.
-8dd	.
+8ddL	.
 8cc	.
-8b	.
+8bJ	.
 =5	=5
-8b	Fmaj7
+8bL	F major-seventh
 8b	.
 8b	.
-8cc	.
-8cc	Fmaj7/C
-16dd	.
+8ccJ	.
+8ccL	F major-seventh/C
+16ddJk	.
 16r	.
-8dd	.
-8ee	Fmaj7
+8ddL	.
+8eeJ	F major-seventh
 =6	=6
-8ee	.
+8eeL	.
 8ff	.
 8ff	.
-8gg	Fmaj7/C
-8gg	.
+8ggJ	F major-seventh/C
+8ggL	.
 8aa	.
-8aa	Fmaj7
-8aa	.
+8aa	F major-seventh
+8aaJ	.
 =7	=7
-8aa	Gadd(2,4,7)
+8aaL	G other-2,4,7
 8gg	.
 8gg	.
-8gg	.
-8gg	.
+8ggJ	.
+8ggL	.
 8bb	.
-8bb	Gadd(2,4,7)/D
-8bb	.
+8bb	G other-2,4,7/D
+8bbJ	.
 =8	=8
-16bb	Gadd(2,4,7)
+16bb	G other-2,4,7
 16r	.
 4bb	.
 4bb	.

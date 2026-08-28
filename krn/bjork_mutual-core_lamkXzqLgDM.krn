@@ -16,104 +16,104 @@
 *d#:	*
 *M6/4	*
 =1	=1
-2.F#	C#sus4
-2.D#	D#m
+2.F#	C# suspended-fourth
+2.D#	D# minor
 =2	=2
 *M4/4	*
-4G#	G#sus2
-8A#[	D#m/F#
-8A#]	.
-8G#	G#sus2
-8A#	D#m
-4G#	G#sus2
+4G#	G# suspended-second
+[8A#L	D# minor/F#
+8A#J]	.
+8G#L	G# suspended-second
+8A#J	D# minor
+4G#	G# suspended-second
 =3	=3
 *M6/4	*
-2F#	C#sus4
+2F#	C# suspended-fourth
 4e#	.
-8f#	D#m
+8f#	D# minor
 4e#	.
 8d#	.
 4c#	.
 =4	=4
 *M4/4	*
-4G#	G#sus2
-8A#[	D#m/F#
-8A#]	.
-8G#	G#sus2
-8A#	D#m
-4G#	G#sus2
+4G#	G# suspended-second
+[8A#L	D# minor/F#
+8A#J]	.
+8G#L	G# suspended-second
+8A#J	D# minor
+4G#	G# suspended-second
 =5	=5
 *M6/4	*
-4F#	C#sus4
+4F#	C# suspended-fourth
 8.d#	.
 8.e#	.
-8f#[	.
-16f#]	D#m
-8e#	.
+[8f#	.
+16f#LK]	D# minor
+8e#J	.
 8.d#	.
 4.c#	.
 =6	=6
 *M4/4	*
-4G#	G#sus2
-8A#[	D#m/F#
-8A#]	.
-8G#	G#sus2
-8A#	D#m
-4G#	G#sus2
+4G#	G# suspended-second
+[8A#L	D# minor/F#
+8A#J]	.
+8G#L	G# suspended-second
+8A#J	D# minor
+4G#	G# suspended-second
 =7	=7
 *M6/4	*
-8F#	C#sus4
+8F#	C# suspended-fourth
 6...f#	.
 4e#	.
-16d#[	.
-8d#]	D#m
-8c#	.
+[16d#	.
+8d#L]	D# minor
+8c#J	.
 4c#	.
 4r	.
 =8	=8
 *M4/4	*
-4G#	G#sus2
-8A#[	D#m/F#
-8A#]	.
-8G#	G#sus2
-8A#	D#m
-4G#	G#sus2
+4G#	G# suspended-second
+[8A#L	D# minor/F#
+8A#J]	.
+8G#L	G# suspended-second
+8A#J	D# minor
+4G#	G# suspended-second
 =9	=9
 *M6/4	*
-8.F#	C#sus4
+8.F#	C# suspended-fourth
 4a#	.
-6...g#[	.
-8.g#]	D#m
+[6...g#	.
+8.g#]	D# minor
 8f#	.
 4e#	.
 8.d#	.
 =10	=10
 *M5/4	*
-8d#	G#m/B
-8c#[	D#
-8c#]	G#m/B
+8d#L	G# minor/B
+[8c#J	D# major
+8c#]	G# minor/B
 8r	.
-2.r	A#
+2.r	A# major
 =11	=11
 *M6/4	*
-8r	B/D#
+8r	B major/D#
 4f#	.
 8e#	.
 4d#	.
 4.d#	.
 8d#	.
-8f#	.
-8g#[	.
+8f#L	.
+[8g#J	.
 =12	=12
 *M5/4	*
-8g#]	G#m/B
-8gn	D#
-4d#	G#m/B
-4e#	A#
+8g#L]	G# minor/B
+8gnJ	D# major
+4d#	G# minor/B
+4e#	A# major
 2r	.
 =13	=13
 *M6/4	*
-4r	B/D#
+4r	B major/D#
 4f#	.
 4e#	.
 4.d#	.
@@ -121,16 +121,16 @@
 4g#	.
 =14	=14
 *M5/4	*
-8f#	G#m/B
-8d#[	D#
-8d#]	G#m/B
+8f#L	G# minor/B
+[8d#J	D# major
+8d#]	G# minor/B
 8r	.
-4d#	A#
+4d#	A# major
 4e#	.
 4r	.
 =15	=15
 *M6/4	*
-4r	B/D#
+4r	B major/D#
 8d#	.
 4.f#	.
 8e#	.
@@ -143,11 +143,11 @@
 4a#	.
 8g#	.
 4g#	.
-8gn[	.
-4gn_	GaugMaj7/D#
+[8gn	.
+4gn_	G augmented-major-seventh/D#
 =17	=17
 *M4/4	*
-4gn]	D#
+4gn]	D# major
 16g#	.
 6...a#	.
 8r	.

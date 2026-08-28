@@ -16,22 +16,22 @@
 *A-:	*
 *M6/4	*
 =1	=1
-1.cc	D-maj7
+1.cc	D- major-seventh
 =2	=2
 2.r	.
 4a-	.
 4b-	.
 4cc	.
 =3	=3
-1.cc[	D-m
+[1.cc	D- minor
 =4	=4
 4cc]	.
 2r	.
 2a-	.
 4ee-	.
 =5	=5
-2.ee-	Cm7
-2.cc[	.
+2.ee-	C minor-seventh
+[2.cc	.
 =6	=6
 2cc]	.
 4r	.
@@ -39,15 +39,15 @@
 4b-	.
 4cc	.
 =7	=7
-2a-	B-m7
+2a-	B- minor-seventh
 4r	.
 4a-	.
 4b-	.
 4cc	.
 =8	=8
-4cc	E-
-8dd-	.
-8cc	.
+4cc	E- major
+8dd-L	.
+8ccJ	.
 4b-	.
 4.a-	.
 8r	.

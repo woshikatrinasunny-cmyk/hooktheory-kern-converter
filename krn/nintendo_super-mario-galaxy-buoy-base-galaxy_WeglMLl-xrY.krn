@@ -16,96 +16,96 @@
 *e:	*
 *M6/4	*
 =1	=1
-4.e[	Am
-4.e]	D/A
-4.A[	Am
-4.A]	D/A
+[4.e	A minor
+4.e]	D major/A
+[4.A	A minor
+4.A]	D major/A
 =2	=2
-4.g[	Am
-4.g]	D/A
-4f#	Am
-8g[	.
-8g]	D/A
+[4.g	A minor
+4.g]	D major/A
+4f#	A minor
+[8gL	.
+8gJ]	D major/A
 4f#	.
 =3	=3
-4.e[	Am
-4.e]	D/A
-4.A[	Am
-4.A_	D/A
+[4.e	A minor
+4.e]	D major/A
+[4.A	A minor
+4.A_	D major/A
 =4	=4
-4.A_	Am
-4.A]	D/A
-4.r	Am
-4.r	Bm
+4.A_	A minor
+4.A]	D major/A
+4.r	A minor
+4.r	B minor
 =5	=5
-4.e[	C
-4.e]	C
-4.c[	C
-4.c]	C
+[4.e	C major
+4.e]	C major
+[4.c	C major
+4.c]	C major
 =6	=6
-4.g[	D11
-4.g]	D11
-4f#	D11
-8g[	.
-8g]	D11
+[4.g	D dominant-11th
+4.g]	D dominant-11th
+4f#	D dominant-11th
+[8gL	.
+8gJ]	D dominant-11th
 4a	.
 =7	=7
-4.b[	Em
-4.b]	E7sus2
-4.e[	Em
-4.e_	E7sus2
+[4.b	E minor
+4.b]	E dominant-seventh-suspended-second
+[4.e	E minor
+4.e_	E dominant-seventh-suspended-second
 =8	=8
-4.e_	Em
-4.e]	E7sus2
-4.r	Em
-4.r	Bm7
+4.e_	E minor
+4.e]	E dominant-seventh-suspended-second
+4.r	E minor
+4.r	B minor-seventh
 =9	=9
-4.ee[	Em
-4.ee]	E7sus2
-4.b[	Em
-4.b]	E7sus2
+[4.ee	E minor
+4.ee]	E dominant-seventh-suspended-second
+[4.b	E minor
+4.b]	E dominant-seventh-suspended-second
 =10	=10
-4.gg[	Em
-4.gg]	E7sus2
-4ff#	Em
-8gg[	.
-8gg]	E7sus2
+[4.gg	E minor
+4.gg]	E dominant-seventh-suspended-second
+4ff#	E minor
+[8ggL	.
+8ggJ]	E dominant-seventh-suspended-second
 4ff#	.
 =11	=11
-4.ee[	Fmaj7
-4.ee]	Fmaj7
-4.a[	Fmaj7
-4.a_	Fmaj7
+[4.ee	F major-seventh
+4.ee]	F major-seventh
+[4.a	F major-seventh
+4.a_	F major-seventh
 =12	=12
-4.a_	Fmaj7
-4.a]	Fmaj7
-4.r	Fmaj7
-4.r	Em7
+4.a_	F major-seventh
+4.a]	F major-seventh
+4.r	F major-seventh
+4.r	E minor-seventh
 =13	=13
-4.ee[	Dm7
-4.ee]	Dm7
-4.a[	Dm7
-4.a]	Am7/C
+[4.ee	D minor-seventh
+4.ee]	D minor-seventh
+[4.a	D minor-seventh
+4.a]	A minor-seventh/C
 =14	=14
-4.gg[	Gm/A#
-4.gg]	Gm/A#
-4ffn	Gm/A#
-8gg[	.
-8gg]	Gm/A#
+[4.gg	G minor/A#
+4.gg]	G minor/A#
+4ffn	G minor/A#
+[8ggL	.
+8ggJ]	G minor/A#
 4aa	.
 =15	=15
-4.bb[	B7sus4
-4.bb_	B7sus4
-4bb]	B7sus4
-8aa[	.
-8aa]	B7sus4
+[4.bb	B dominant-seventh-suspended-fourth
+4.bb_	B dominant-seventh-suspended-fourth
+4bb]	B dominant-seventh-suspended-fourth
+[8aaL	.
+8aaJ]	B dominant-seventh-suspended-fourth
 4bb	.
 =16	=16
-4.aa[	E7sus4
-4.aa]	E7sus4
-4gg#	E7
-8bb[	.
-8bb]	E7/B
+[4.aa	E dominant-seventh-suspended-fourth
+4.aa]	E dominant-seventh-suspended-fourth
+4gg#	E dominant
+[8bbL	.
+8bbJ]	E dominant/B
 4ddd	.
 ==	==
 *-	*-

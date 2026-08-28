@@ -17,90 +17,90 @@
 *M4/4	*
 =1	=1
 2..r	.
-16d	.
-16e	.
+16dLL	.
+16eJJ	.
 =2	=2
-8f#	Gmaj9
-8g	.
+8f#L	G major-ninth
+8gJ	.
 3...a	.
-16g	.
-16f#	.
+16gLL	.
+16f#JJ	.
 =3	=3
-2..e	Gmaj9
-16d	.
-16e	.
+2..e	G major-ninth
+16dLL	.
+16eJJ	.
 =4	=4
-8f#	Gmaj9
-8g	.
+8f#L	G major-ninth
+8gJ	.
 3...a	.
 8dd	.
 =5	=5
-4.a	Gmaj9
-16g	.
-16f#	.
+4.a	G major-ninth
+16gLL	.
+16f#JJ	.
 4.e	.
 8d	.
 =6	=6
-1f#	Dmaj9
+1f#	D major-ninth
 =7	=7
-2r	Dmaj7
-2r	Gmaj7/D
+2r	D major-seventh
+2r	G major-seventh/D
 =8	=8
-1r	D
+1r	D major
 =9	=9
-2..r	D
-16dd	.
-16ee	.
+2..r	D major
+16ddLL	.
+16eeJJ	.
 =10	=10
-8ff#	Gmaj9
+8ff#L	G major-ninth
 8gg	.
 8aa	.
-16gg	.
-16ff#	.
+16ggL	.
+16ff#JJ	.
 4.ee	.
-16dd	.
-16ee	.
+16ddLL	.
+16eeJJ	.
 =11	=11
-8ff#	A7sus4
+8ff#L	A dominant-seventh-suspended-fourth
 8gg	.
 8aa	.
-8bb	.
-8cccn	.
-16bb	.
-16aa	.
+8bbJ	.
+8cccnL	.
+16bbL	.
+16aaJJ	.
 4gg	.
 =12	=12
-8g	Em7
-16f#	.
-16e	.
+8gL	E minor-seventh
+16f#L	.
+16eJ	.
 8f#	.
-8a	.
-4e	D/F#
-8d	.
-8f#	.
+8aJ	.
+4e	D major/F#
+8dL	.
+8f#J	.
 =13	=13
-2a	Gmaj7
+2a	G major-seventh
 2r	.
 =14	=14
-8gg	Em7
-16ff#	.
-16ee	.
+8ggL	E minor-seventh
+16ff#L	.
+16eeJ	.
 8ff#	.
-8aa	.
-4ee	D/F#
-8dd	.
-8ff#	.
+8aaJ	.
+4ee	D major/F#
+8ddL	.
+8ff#J	.
 =15	=15
-4.aa	G
+4.aa	G major
 8ddd	.
-8aa	Am7
-16gg	.
-16ff#	.
+8aaL	A minor-seventh
+16ggL	.
+16ff#J	.
 8gg	.
-8ee	.
+8eeJ	.
 =16	=16
-1dd	Dmaj7sus4
+1dd	D major-seventh-suspended-fourth
 =17	=17
-1r	G/D
+1r	G major/D
 ==	==
 *-	*-

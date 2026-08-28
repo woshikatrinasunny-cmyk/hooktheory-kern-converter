@@ -16,37 +16,37 @@
 *E-:	*
 *M4/4	*
 =1	=1
-2..ff	E-maj7
-16een	.
-16ee-	.
+2..ff	E- major-seventh
+16eenLL	.
+16ee-JJ	.
 =2	=2
 8dd	.
 4ff	.
 4.b-	.
-8an	.
-8b-	.
+8anL	.
+8b-J	.
 =3	=3
-2..dd	G-dim
+2..dd	G- diminished
 8ee-	.
 =4	=4
-8dd	.
+8ddL	.
 8cc	.
-8bn	.
+8bnJ	.
 4cc	.
 4dd	.
 8ee-	.
 =5	=5
-2..gg	A-maj7
-16gg-	.
-16ff	.
+2..gg	A- major-seventh
+16gg-LL	.
+16ffJJ	.
 =6	=6
 8ee-	.
 4gg	.
 4.cc	.
-8bn	.
-8cc	.
+8bnL	.
+8ccJ	.
 =7	=7
-2..dd	B-7
+2..dd	B- dominant
 8ee-	.
 =8	=8
 4ff	.
@@ -54,13 +54,13 @@
 4dd	.
 4.cc	.
 =9	=9
-1gg[	E-maj7
+[1gg	E- major-seventh
 =10	=10
 2.gg]	.
-8bb-	.
-8aa-	.
+8bb-L	.
+8aa-J	.
 =11	=11
-2.gg	Gdim
+2.gg	G diminished
 4ff	.
 =12	=12
 8een	.
@@ -68,14 +68,14 @@
 4.dd-	.
 4cc	.
 =13	=13
-1aa-[	A-
+[1aa-	A- major
 =14	=14
 2.aa-]	.
-8ccc	.
-8bb-	.
+8cccL	.
+8bb-J	.
 =15	=15
-1aa-	Fm7b5
+1aa-	F half-diminished
 =16	=16
-1bb-	B-
+1bb-	B- major
 ==	==
 *-	*-

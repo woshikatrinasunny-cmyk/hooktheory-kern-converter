@@ -16,71 +16,71 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Dm
+8r	D minor
 4r	.
-8r	Dm/A
-4dd	Dm/F
-4dd-	Dm/A
+8r	D minor/A
+4dd	D minor/F
+4dd-	D minor/A
 =2	=2
-8cc[	Dm
-24cc]	.
+[8ccL	D minor
+24ccJk]	.
 6cc	.
-24cc[	.
-8cc]	Dm/A
-4bn	Dm/F
-4b-	Dm/A
+[24ccLK	.
+8ccJ]	D minor/A
+4bn	D minor/F
+4b-	D minor/A
 =3	=3
-8a[	Dm
-24a]	.
+[8aL	D minor
+24ak]	.
 9...a	.
-8a	Dm/A
-4a-	Dm/F
-4g	Dm/A
+8aJ	D minor/A
+4a-	D minor/F
+4g	D minor/A
 =4	=4
-8f	Dm
-16g	.
-16f	.
+8fL	D minor
+16gL	.
+16fJ	.
 8e	.
-8f	Dm/A
-4g	Dm/F
-4f	Dm/A
+8fJ	D minor/A
+4g	D minor/F
+4f	D minor/A
 =5	=5
-8e[	Em7b5/D
-8e]	.
+[8eL	E half-diminished/D
+8eJ]	.
 8r	.
-8r	Em7b5/B-
-4dd	Em7b5/G
-4dd-	Em7b5/B-
+8r	E half-diminished/B-
+4dd	E half-diminished/G
+4dd-	E half-diminished/B-
 =6	=6
-8cc[	Em7b5/D
-24cc]	.
+[8ccL	E half-diminished/D
+24ccJk]	.
 6cc	.
-24cc[	.
-8cc]	Em7b5/B-
-4bn	Em7b5/G
-4b-	Em7b5/B-
+[24ccLK	.
+8ccJ]	E half-diminished/B-
+4bn	E half-diminished/G
+4b-	E half-diminished/B-
 =7	=7
-8a[	Dsus2
-24a]	.
+[8aL	D suspended-second
+24ak]	.
 9...a	.
-8a	Em7b5/B-
-4g	Gm
-4f	B-
+8aJ	E half-diminished/B-
+4g	G minor
+4f	B- major
 =8	=8
-8e	Dadd(2,4,5,7,11)
-16f	.
-16e	.
+8eL	D other-2,4,5,7,11
+16fL	.
+16eJ	.
 8d	.
-8e	A7sus4
-4f	Gdim
-4e	A7
+8eJ	A dominant-seventh-suspended-fourth
+4f	G diminished
+4e	A dominant
 =9	=9
-8d[	Dm
+[8dL	D minor
 8.d]	.
-16b-	.
-16dd-	Dm/A
-16dd	.
-4dd	Dm/F
-4dd-	Dm/A
+16b-L	.
+16dd-	D minor/A
+16ddJJ	.
+4dd	D minor/F
+4dd-	D minor/A
 ==	==
 *-	*-

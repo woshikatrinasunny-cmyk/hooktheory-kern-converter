@@ -15,29 +15,29 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4.C#	C#m
+4.C#	C# minor
 8E	.
 4e	.
 4c#	.
 =2	=2
 4.C#	.
 8E	.
-4e	C#m/E
-4c#	F#m
+4e	C# minor/E
+4c#	F# minor
 =3	=3
-4.C#	C#m
+4.C#	C# minor
 8E	.
 4e	.
 4c#	.
 =4	=4
 4.C#	.
 8c#	.
-4a	A
-4g#	G#
+4a	A major
+4g#	G# major
 =5	=5
-4c#	C#m
-8c#	.
-8d#	.
+4c#	C# minor
+8c#L	.
+8d#J	.
 4e	.
 4c#	.
 =6	=6
@@ -46,20 +46,20 @@
 4d#	.
 4B	.
 =7	=7
-4e	E
-8e	.
-8f#	.
+4e	E major
+8eL	.
+8f#J	.
 4g#	.
 4f#	.
 =8	=8
-4a	F#m
+4a	F# minor
 4g#	.
-4f#	G#
+4f#	G# major
 4e	.
 =9	=9
-4c#	C#m
-8c#	.
-8d#	.
+4c#	C# minor
+8c#L	.
+8d#J	.
 4e	.
 4c#	.
 =10	=10
@@ -68,15 +68,15 @@
 4d#	.
 4B	.
 =11	=11
-4e	E
-8e	.
-8f#	.
+4e	E major
+8eL	.
+8f#J	.
 4g#	.
 4f#	.
 =12	=12
-4a	F#m
+4a	F# minor
 4g#	.
-4f#	G#
+4f#	G# major
 4e	.
 ==	==
 *-	*-

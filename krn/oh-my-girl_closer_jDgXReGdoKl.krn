@@ -16,52 +16,52 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.b	Aadd(2,4,7)
+4.b	A other-2,4,7
 4.g#	.
-8f#	.
-8g#[	.
+8f#L	.
+[8g#J	.
 =2	=2
-4.g#]	E/G#
+4.g#]	E major/G#
 4r	.
+8BL	.
 8B	.
-8B	.
-8ccn[	.
+[8ccnJ	.
 =3	=3
-4.ccn]	G#7
+4.ccn]	G# dominant
 4.g#	.
-8f#	.
-8f#	.
+8f#L	.
+8f#J	.
 =4	=4
-2e	C#m
-8B	B
+2e	C# minor
+8BL	B major
 8B	.
 8B	.
-8b[	.
+[8bJ	.
 =5	=5
-4b]	Aadd(2,4,7)
+4b]	A other-2,4,7
 8b	.
 4.g#	.
-8f#	.
-16g#	.
-16a	.
+8f#L	.
+16g#L	.
+16aJJ	.
 =6	=6
-4.g#	E/G#
+4.g#	E major/G#
 8r	.
+8BL	.
 8B	.
 8B	.
-8B	.
-8ccn[	.
+[8ccnJ	.
 =7	=7
-4ccn]	G#7
+4ccn]	G# dominant
 8g#	.
 4ccn	.
-8cc#	.
+8cc#L	.
 8dd#	.
-8ee[	.
+[8eeJ	.
 =8	=8
-8ee]	C#m
-4.cc#[	.
-4cc#]	B
+8ee]	C# minor
+[4.cc#	.
+4cc#]	B major
 4r	.
 ==	==
 *-	*-

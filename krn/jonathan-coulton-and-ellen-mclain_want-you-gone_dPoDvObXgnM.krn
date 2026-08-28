@@ -16,79 +16,79 @@
 *A:	*
 *M4/4	*
 =1	=1
-2r	A
-2r	D#m7b5/A
+2r	A major
+2r	D# half-diminished/A
 =2	=2
-2r	D/A
-2r	Dm/A
+2r	D major/A
+2r	D minor/A
 =3	=3
-8r	A
-8e	.
+8r	A major
+8eL	.
 8a	.
-16b	.
-16cc#[	.
-16cc#]	D#m7b5/A
-16dd	.
-8cc#	.
+16bL	.
+[16cc#JJ	.
+16cc#LL]	D# half-diminished/A
+16ddJ	.
+8cc#J	.
 4r	.
 =4	=4
-8r	D/A
+8r	D major/A
+8aL	.
 8a	.
-8a	.
-8e	.
-8b	Dm/A
-16a	.
+8eJ	.
+8bL	D minor/A
+16ak	.
 8g#	.
-8.a	.
+8.aJ	.
 =5	=5
-4r	A
-16e	.
+4r	A major
+16eLL	.
 16a	.
 16b	.
-16cc#[	.
-8cc#]	D#m7b5/A
-16dd	.
+[16cc#JJ	.
+8cc#L]	D# half-diminished/A
+16ddk	.
 8.cc#	.
-8b	.
+8bJ	.
 =6	=6
-4a	D/A
-8b	.
-8g#[	.
-4g#]	E
+4a	D major/A
+8bL	.
+[8g#J	.
+4g#]	E major
 4r	.
 =7	=7
-8r	A
-8e	.
+8r	A major
+8eL	.
 8a	.
-8b	.
-8cc#	D#m7b5/A
+8bJ	.
+8cc#L	D# half-diminished/A
 8dd	.
-8cc#	.
+8cc#J	.
 8r	.
 =8	=8
-8r	D/A
+8r	D major/A
+8aL	.
 8a	.
-8a	.
-8e	.
-8b	Dm/A
+8eJ	.
+8bL	D minor/A
 8a	.
 8g#	.
-8a	.
+8aJ	.
 =9	=9
-8r	A
-8e	.
+8r	A major
+8eL	.
 8a	.
-8b	.
-8cc#	D#m7b5/A
+8bJ	.
+8cc#L	D# half-diminished/A
 8dd	.
 8cc#	.
-8b	.
+8bJ	.
 =10	=10
-4a	D/A
+4a	D major/A
 4ff#	.
-8ffn	C#
+8ffnL	C# major
 8cc#	.
 8b	.
-8a#	.
+8a#J	.
 ==	==
 *-	*-

@@ -15,88 +15,88 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	D
-16fn	Dm
-16e	.
-8fn	.
-16gn	A#
-16a#	.
+4r	D major
+16fnLL	D minor
+16eJ	.
+8fnJ	.
+16gnLL	A# major
+16a#J	.
 8a#	.
-16a#	C/G
-16a	.
-8gn	.
+16a#L	C major/G
+16aJ	.
+8gnJ	.
 =2	=2
-2a[	Dsus2
-2a]	D
+[2a	D suspended-second
+2a]	D major
 =3	=3
-2.ff#	D
-8ff#	.
-8aa	.
+2.ff#	D major
+8ff#L	.
+8aaJ	.
 =4	=4
-4aa	A
+4aa	A major
 2ee	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 =5	=5
-2.ggn	G
-8ggn	.
-8bb	.
+2.ggn	G major
+8ggnL	.
+8bbJ	.
 =6	=6
-4bb	Bm
+4bb	B minor
 2ff#	.
-8ff#	.
-8gg#	.
+8ff#L	.
+8gg#J	.
 =7	=7
-2aa	F#m
+2aa	F# minor
 4bb	.
 4ccc#	.
 =8	=8
-4ccc#	Bm/F#
+4ccc#	B minor/F#
 4bb	.
 4dd	.
 4aa	.
 =9	=9
-2aa	E/G#
+2aa	E major/G#
 4.gg#	.
-16ff#	.
-16gg#	.
+16ff#LL	.
+16gg#JJ	.
 =10	=10
-1aa	A
+1aa	A major
 =11	=11
-16b	D
-16cc#	.
+16bLL	D major
+16cc#JJ	.
 4.dd	.
 4cc#	.
 4a	.
 =12	=12
-1b	Bm
+1b	B minor
 =13	=13
-16b	D
-16cc#	.
+16bLL	D major
+16cc#JJ	.
 4.dd	.
 4cc#	.
 4a	.
 =14	=14
-16dd	F#m
-16ee	.
+16ddLL	F# minor
+16eeJJ	.
 2..ff#	.
 =15	=15
-4r	D/F#
+4r	D major/F#
 4ff#	.
 4aa	.
 4ff#	.
 =16	=16
-3...ee	A/E
+3...ee	A major/E
 4cc#	.
 8a	.
 =17	=17
-8dd	D
-8cc#	.
-4b[	.
-8b]	E7/B
+8ddL	D major
+8cc#J	.
+[4b	.
+8b]	E dominant/B
 4a	.
 8f#	.
 =18	=18
-1b	B
+1b	B major
 ==	==
 *-	*-

@@ -16,57 +16,57 @@
 *a:	*
 *M4/4	*
 =1	=1
-8AA	Am
+8AAL	A minor
 8c	.
 8e	.
-8a	.
-8b	.
+8aJ	.
+8bL	.
 8a	.
 8e	.
-8c	.
+8cJ	.
 =2	=2
-8AA	.
-8BB	G/B
+8AAL	.
+8BB	G major/B
 8e	.
-8C	C
+8CJ	C major
+8eL	.
+8AA	A minor
 8e	.
-8AA	Am
-8e	.
-8F#[	D/F#
+[8F#J	D major/F#
 =3	=3
-8F#]	.
+8F#L]	.
 8c	.
 8e	.
-8a	.
-8F#	.
+8aJ	.
+8F#L	.
 8G	.
 8F#	.
-8F[	Fmaj7
+[8FJ	F major-seventh
 =4	=4
-8F]	.
+8FL]	.
 8c	.
 8e	.
+8aJ	.
+8eL	.
 8a	.
 8e	.
-8a	.
-8e	.
-8c	.
+8cJ	.
 =5	=5
-8ee	Am
+8ee	A minor
 4dd	.
 4cc	.
 4dd	.
-8a[	.
+[8a	.
 =6	=6
 8a]	.
-4b	G/B
-4cc	C
-4a	Am
-8dd[	D/F#
+4b	G major/B
+4cc	C major
+4a	A minor
+[8dd	D major/F#
 =7	=7
 2.dd]	.
-8ee	.
-8cc[	Fmaj7
+8eeL	.
+[8ccJ	F major-seventh
 =8	=8
 1cc]	.
 ==	==

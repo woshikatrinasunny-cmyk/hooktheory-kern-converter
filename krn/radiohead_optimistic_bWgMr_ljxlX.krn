@@ -16,99 +16,99 @@
 *D:	*
 *M4/4	*
 =1	=1
-8cn	.
+8cnL	.
 8d	.
-8d	Dm
-16d	Dm
-8d	Dm
-8cn	D7sus2
-8cn[	D7sus2
-16cn_	D7sus2
-16cn_	D7sus2
-16cn]	D7sus2
+8d	D minor
+16dJk	D minor
+8d	D minor
+8cnL	D dominant-seventh-suspended-second
+[8cn	D dominant-seventh-suspended-second
+16cnL_	D dominant-seventh-suspended-second
+16cn_	D dominant-seventh-suspended-second
+16cnJJ]	D dominant-seventh-suspended-second
 =2	=2
-8d	.
+8dL	.
 8e	.
-8e	Em7/D
-16e	Em7/D
-8e	Em7/D
-8d	D
-16d[	D
-16d_	D
-16d_	D
-16d_	D
-16d]	D
+8e	E minor-seventh/D
+16eJk	E minor-seventh/D
+8e	E minor-seventh/D
+8dL	D major
+[16dL	D major
+16d_	D major
+16d_	D major
+16d_	D major
+16dJJ]	D major
 =3	=3
-8cn	.
+8cnL	.
 8d	.
-8d[	Dm
-16d_	Dm
-16d]	Dm
-16cn[	.
-16cn]	D7sus2
-16cn[	.
-16cn]	D7sus2
-16d[	.
-16d_	D7sus2
-16d_	D7sus2
-16d]	D7sus2
+[8d	D minor
+16dL_	D minor
+16dJJ]	D minor
+[16cnLL	.
+16cn]	D dominant-seventh-suspended-second
+[16cn	.
+16cn]	D dominant-seventh-suspended-second
+[16d	.
+16d_	D dominant-seventh-suspended-second
+16d_	D dominant-seventh-suspended-second
+16dJJ]	D dominant-seventh-suspended-second
 =4	=4
-4A[	.
-8A_	Em7/D
-16A_	Em7/D
-8A_	Em7/D
-8A_	D
-16A]	D
-16r	D
-16r	D
-16r	D
-16r	D
+[4A	.
+8AL_	E minor-seventh/D
+16AJk_	E minor-seventh/D
+8A_	E minor-seventh/D
+8AL_	D major
+16AJk]	D major
+16r	D major
+16r	D major
+16r	D major
+16r	D major
 =5	=5
-8cn	.
+8cnL	.
 8d	.
-8d	Dm
-16d	Dm
-8d	Dm
-8cn	D7sus2
-8cn[	D7sus2
-16cn_	D7sus2
-16cn]	D7sus2
-16d	D7sus2
+8d	D minor
+16dJk	D minor
+8d	D minor
+8cnL	D dominant-seventh-suspended-second
+[8cn	D dominant-seventh-suspended-second
+16cnL_	D dominant-seventh-suspended-second
+16cn]	D dominant-seventh-suspended-second
+16dJJ	D dominant-seventh-suspended-second
 =6	=6
-8d	.
+8dL	.
 8e	.
-8e	Em7/D
-16e	Em7/D
-8e	Em7/D
-8d	D
-16d[	D
-16d_	D
-16d_	D
-16d_	D
-16d]	D
+8e	E minor-seventh/D
+16eJk	E minor-seventh/D
+8e	E minor-seventh/D
+8dL	D major
+[16dL	D major
+16d_	D major
+16d_	D major
+16d_	D major
+16dJJ]	D major
 =7	=7
-8cn	.
+8cnL	.
 8d	.
-8d	Dm
-16cn[	Dm
-16cn]	Dm
-16cn[	.
-8cn_	D7sus2
-16cn]	D7sus2
-16e[	.
-16e]	D7sus2
-16d[	D7sus2
-16d_	D7sus2
+8d	D minor
+[16cnL	D minor
+16cnJJ]	D minor
+[16cnLK	.
+8cn_	D dominant-seventh-suspended-second
+16cnL]	D dominant-seventh-suspended-second
+[16e	.
+16e]	D dominant-seventh-suspended-second
+[16d	D dominant-seventh-suspended-second
+16dJJ_	D dominant-seventh-suspended-second
 =8	=8
 4d_	.
-8d_	Em7/D
-16d_	Em7/D
-8d_	Em7/D
-8d_	D
-16d]	D
-16r	D
-16d	D
-16d	D
-16a	D
+8dL_	E minor-seventh/D
+16dJk_	E minor-seventh/D
+8d_	E minor-seventh/D
+8dL_	D major
+16dJk]	D major
+16r	D major
+16dLL	D major
+16d	D major
+16aJJ	D major
 ==	==
 *-	*-

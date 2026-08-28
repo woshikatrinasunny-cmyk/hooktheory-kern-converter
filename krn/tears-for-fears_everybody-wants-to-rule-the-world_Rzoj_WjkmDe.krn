@@ -16,80 +16,80 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.r	Dadd(7,11)
-3...r	G/D
+4.r	D other-7,11
+3...r	G major/D
 =2	=2
 4B	.
 4B	.
 4f#	.
-8B	.
-8A	.
+8BL	.
+8AJ	.
 =3	=3
-8A	Dadd(7,11)
-4B[	.
-8B]	G/D
+8A	D other-7,11
+[4B	.
+8B]	G major/D
 2r	.
 =4	=4
 4B	.
 4B	.
 4f#	.
-8B	.
-8A	.
+8BL	.
+8AJ	.
 =5	=5
-4.A[	Dadd(7,11)
-8A]	G/D
+[4.A	D other-7,11
+8A]	G major/D
 2r	.
 =6	=6
 4B	.
 4B	.
 4f#	.
-8B	.
-8A	.
+8BL	.
+8AJ	.
 =7	=7
-8A	Dadd(7,11)
-4B[	.
-8B]	G/D
+8A	D other-7,11
+[4B	.
+8B]	G major/D
 2r	.
 =8	=8
 4B	.
 4B	.
 4f#	.
-8B	.
-8A	.
+8BL	.
+8AJ	.
 =9	=9
-4B	Em7
+4B	E minor-seventh
 4f#	.
 4B	.
 4A	.
 =10	=10
-4B	F#m
+4B	F# minor
 4f#	.
 4B	.
 4A	.
 =11	=11
-4B	G
+4B	G major
 4f#	.
 4e	.
 4d	.
 =12	=12
-4B	F#m
+4B	F# minor
 4A	.
 4F#	.
 4A	.
 =13	=13
-4B	Em7
+4B	E minor-seventh
 4f#	.
-4B	F#m
+4B	F# minor
 4A	.
 =14	=14
-4B	G
+4B	G major
 4A	.
-4F#	A
-8E	.
-8D	.
+4F#	A major
+8EL	.
+8DJ	.
 =15	=15
-4.D[	Dadd(7,11)
-8D]	G/D
+[4.D	D other-7,11
+8D]	G major/D
 2r	.
 =16	=16
 1r	.

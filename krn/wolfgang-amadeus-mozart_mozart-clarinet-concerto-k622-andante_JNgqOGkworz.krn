@@ -16,45 +16,45 @@
 *D:	*
 *M3/4	*
 =1	=1
-4.ff#	D
+4.ff#	D major
 8ee	.
-8dd	.
-8cc#	.
+8ddL	.
+8cc#J	.
 =2	=2
-4b	G
-4r	F#dim/A
-4r	B7
+4b	G major
+4r	F# diminished/A
+4r	B dominant
 =3	=3
-4.gg	Em
+4.gg	E minor
 8ff#	.
-8ee	.
-8dd	.
+8eeL	.
+8ddJ	.
 =4	=4
-4cc#	A
-4r	G#dim/B
-4r	C#7
+4cc#	A major
+4r	G# diminished/B
+4r	C# dominant
 =5	=5
-4aa[	F#m
-8aa]	Em/G
-8gg	.
-8ff#	A7
-8ee	.
+[4aa	F# minor
+8aaL]	E minor/G
+8ggJ	.
+8ff#L	A dominant
+8eeJ	.
 =6	=6
-8dd	Bm
-8gg	.
-4gg[	A/C#
-8gg]	D
-8ff#	.
+8ddL	B minor
+8ggJ	.
+[4gg	A major/C#
+8ggL]	D major
+8ff#J	.
 =7	=7
-16ff#	Em/G
+16ff#LL	E minor/G
 16ee	.
 16gg	.
-16ee	.
-4dd	D/A
-16ff#	A7
+16eeJJ	.
+4dd	D major/A
+16ff#LK	A dominant
 8ee	.
-16dd	.
+16ddJk	.
 =8	=8
-4dd	D
+4dd	D major
 ==	==
 *-	*-

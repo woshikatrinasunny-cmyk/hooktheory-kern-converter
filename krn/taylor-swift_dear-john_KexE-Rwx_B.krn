@@ -15,11 +15,11 @@
 *E:	*
 *M3/4	*
 =1	=1
-4g#	Asus2
+4g#	A suspended-second
 4f#	.
 4e	.
 =2	=2
-4d#	C#m
+4d#	C# minor
 4e	.
 8r	.
 8B	.
@@ -29,7 +29,7 @@
 8r	.
 8B	.
 =4	=4
-4d#	B
+4d#	B major
 4e	.
 4B	.
 =5	=5
@@ -38,7 +38,7 @@
 8r	.
 8f#	.
 =6	=6
-4f#	A
+4f#	A major
 4g#	.
 4e	.
 =7	=7
@@ -52,29 +52,29 @@
 =9	=9
 4f#	.
 4e	.
-8d#	.
-8d#	.
+8d#L	.
+8d#J	.
 =10	=10
-4d#	C#m
+4d#	C# minor
 4e	.
-8B	.
-8d#[	.
+8BL	.
+[8d#J	.
 =11	=11
 8d#]	.
 4.e	.
 8r	.
 8B	.
 =12	=12
-4d#	B
+4d#	B major
 4e	.
-8B	.
-8d#[	.
+8BL	.
+[8d#J	.
 =13	=13
 4d#]	.
 8e	.
 4.B	.
 =14	=14
-4A	Asus2
+4A	A suspended-second
 2r	.
 =15	=15
 4B	.
@@ -86,26 +86,26 @@
 8r	.
 8B	.
 =18	=18
-4g#	B
+4g#	B major
 4f#	.
-8e	.
-8f#[	.
+8eL	.
+[8f#J	.
 =19	=19
 4f#]	.
 4e	.
-8B	.
-8g#[	.
+8BL	.
+[8g#J	.
 =20	=20
-4g#]	C#m
+4g#]	C# minor
 4a	.
-8g#	.
-8f#[	.
+8g#L	.
+[8f#J	.
 =21	=21
-4f#]	B
+4f#]	B major
 4e	.
 4d#	.
 =22	=22
-4A	Asus2
+4A	A suspended-second
 2r	.
 =23	=23
 4G#	.
@@ -116,7 +116,7 @@
 3...r	.
 8B	.
 =26	=26
-4d#	B
+4d#	B major
 4e	.
 4B	.
 =27	=27
@@ -124,18 +124,18 @@
 4e	.
 4B	.
 =28	=28
-4a	A
+4a	A major
 4g#	.
 4g#	.
 =29	=29
 4g#	.
 4g#	.
-8f#	.
-8g#[	.
+8f#L	.
+[8g#J	.
 =30	=30
-8g#]	E
-8f#	.
-2e[	.
+8g#L]	E major
+8f#J	.
+[2e	.
 =31	=31
 2.e]	.
 ==	==

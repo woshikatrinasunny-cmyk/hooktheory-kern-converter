@@ -16,45 +16,45 @@
 *b:	*
 *M4/4	*
 =1	=1
-4f#	Bm
-4b	Bm/D
-2cc#	F#
+4f#	B minor
+4b	B minor/D
+2cc#	F# major
 =2	=2
-4f#	Bm
-4b	Bm/D
-2cc#	F#
+4f#	B minor
+4b	B minor/D
+2cc#	F# major
 =3	=3
-4dd	Bm
-8cc#[	C#add(3,10)
-8cc#]	Badd(2,3,7)/D
-4b	Em
-8cc#	Bm/D
-8dd	.
+4dd	B minor
+[8cc#L	C# other-3,10
+8cc#J]	B other-2,3,7/D
+4b	E minor
+8cc#L	B minor/D
+8ddJ	.
 =4	=4
-4ee	C#add(3,10)
-8dd[	Bm/D
-8dd]	E7
-4.cc#	F#
+4ee	C# other-3,10
+[8ddL	B minor/D
+8ddJ]	E dominant
+4.cc#	F# major
 8r	.
 =5	=5
-4f#	Bm
-4b	Bm/D
-2cc#	Gadd(4,6,7,10)
+4f#	B minor
+4b	B minor/D
+2cc#	G other-4,6,7,10
 =6	=6
-4f#	Bm
-4b	Bm/D
-2cc#	Gadd(4,6,7,10)
+4f#	B minor
+4b	B minor/D
+2cc#	G other-4,6,7,10
 =7	=7
-4ee	C#add(3,10)
-8dd[	Bm/D
-8dd]	E7
-4cc#	F#
-8dd	E7
-8ee	C#dim/E
+4ee	C# other-3,10
+[8ddL	B minor/D
+8ddJ]	E dominant
+4cc#	F# major
+8ddL	E dominant
+8eeJ	C# diminished/E
 =8	=8
-8a#[	Daug
-8a#]	F#7/C#
-2b	Bm
+[8a#L	D augmented
+8a#J]	F# dominant/C#
+2b	B minor
 4r	.
 ==	==
 *-	*-

@@ -16,125 +16,125 @@
 *F:	*
 *M4/4	*
 =1	=1
-4a	Fadd(2,4,7)
-16a-	.
-16a	.
+4a	F other-2,4,7
+16a-LL	.
+16aJJ	.
 16r	.
-2f[	.
+[2f	.
 16f]	.
 =2	=2
-8r	B-maj7
-8d	.
-16d-	.
-16d	.
+8r	B- major-seventh
+8dL	.
+16d-L	.
+16dJJ	.
 16r	.
 16g	.
-8a-	B-m7
+8a-L	B- minor-seventh
 8g	.
-16f	.
+16fk	.
 8d-	.
-16d-	.
+16d-Jk	.
 =3	=3
-2.c	Am7
-16A	.
-16c	.
+2.c	A minor-seventh
+16ALL	.
+16cJJ	.
 16r	.
 16d	.
 =4	=4
-4e-	Am7b5
+4e-	A half-diminished
 4d	.
-8r	D7
-8d	.
+8r	D dominant
+8dL	.
 8d-	.
-8d	.
+8dJ	.
 =5	=5
-16b-	Gm7
+16b-	G minor-seventh
 16r	.
-16b-	.
-16b-	.
+16b-LL	.
+16b-JJ	.
 16r	.
-16cc	.
-16dd	.
+16ccLL	.
+16ddJJ	.
 6...f	.
-8d	.
-8f	.
+8dL	.
+8fJ	.
 =6	=6
-16b-	B-m/D-
+16b-	B- minor/D-
 16r	.
-16b-	.
-16b-	.
+16b-LL	.
+16b-JJ	.
 16r	.
 8dd-	.
 6...f	.
-16f	.
+16fLK	.
 8g	.
-16f	.
+16fJk	.
 =7	=7
-1f[	Fadd(2,4,7)
+[1f	F other-2,4,7
 =8	=8
 2f]	.
 2r	.
 =9	=9
-4a	Fadd(2,4,7)
-16a-	.
-16a	.
+4a	F other-2,4,7
+16a-LL	.
+16aJJ	.
 16r	.
-2f[	.
+[2f	.
 16f]	.
 =10	=10
-8r	B-maj7
-8d	.
-16d-	.
-16d	.
+8r	B- major-seventh
+8dL	.
+16d-L	.
+16dJJ	.
 16r	.
 16g	.
-8a-	B-m7
+8a-L	B- minor-seventh
 8g	.
-16f	.
+16fk	.
 8d	.
-16d	.
+16dJk	.
 =11	=11
-2d-[	A7
-16d-]	.
+[2d-	A dominant
+16d-LL]	.
 16e	.
 16g-	.
-16g	.
+16gJJ	.
 16r	.
 16e	.
 16r	.
 16e	.
 =12	=12
-2e-	Am7b5
-8d	D7
+2e-	A half-diminished
+8dL	D dominant
 8d	.
 8d-	.
-8d	.
+8dJ	.
 =13	=13
-16b-	Gm7
+16b-	G minor-seventh
 16r	.
-16b-	.
-16b-	.
+16b-LL	.
+16b-JJ	.
 16r	.
-16cc	.
-16dd	.
+16ccLL	.
+16ddJJ	.
 6...f	.
-8d	.
-8f	.
+8dL	.
+8fJ	.
 =14	=14
-16b-	B-m/D-
+16b-	B- minor/D-
 16r	.
-16b-	.
-16b-	.
+16b-LL	.
+16b-JJ	.
 16r	.
 8dd-	.
 6...f	.
-16f	.
+16fLK	.
 8g	.
-16f	.
+16fJk	.
 =15	=15
-1f[	Fadd(2,4,7)
+[1f	F other-2,4,7
 =16	=16
-2f]	F7
+2f]	F dominant
 2r	.
 ==	==
 *-	*-

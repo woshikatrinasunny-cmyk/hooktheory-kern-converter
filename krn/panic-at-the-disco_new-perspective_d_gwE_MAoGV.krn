@@ -16,47 +16,47 @@
 *G:	*
 *M4/4	*
 =1	=1
-2r	Em
+2r	E minor
+8bL	.
 8b	.
 8b	.
-8b	.
-8ee[	.
+[8eeJ	.
 =2	=2
 8ee]	.
 4ff#	.
 4ff#	.
 4gg	.
-8cc[	C
+[8cc	C major
 =3	=3
 4cc]	.
 4r	.
 8cc	.
 4ee	.
-8dd[	.
+[8dd	.
 =4	=4
 8dd]	.
 4ee	.
 4dd	.
 4cc	.
-8b[	G
+[8b	G major
 =5	=5
 4b]	.
 4r	.
 8b	.
 4a	.
-8b[	.
+[8b	.
 =6	=6
 8b]	.
 4ee	.
 4.dd	.
 8r	.
-8dd	D
+8dd	D major
 =7	=7
 8dd	.
 4b	.
 4dd	.
 4ee	.
-8dd[	.
+[8dd	.
 =8	=8
 8dd]	.
 4a	.
@@ -64,43 +64,43 @@
 4g	.
 8b	.
 =9	=9
-4b	Em
+4b	E minor
 4r	.
 8b	.
 4b	.
-8ee[	.
+[8ee	.
 =10	=10
 8ee]	.
 4ff#	.
 4ff#	.
 4gg	.
-8gg[	C
+[8gg	C major
 =11	=11
 8gg]	.
 4ee	.
 8r	.
 8ee	.
 4ee	.
-8ee[	.
+[8ee	.
 =12	=12
 8ee]	.
 4gg	.
 4ff#	.
-8ee	.
+8eeL	.
 8dd	.
-8dd[	G
+[8ddJ	G major
 =13	=13
 4dd]	.
 4r	.
 8dd	.
 4b	.
-8ee[	.
+[8ee	.
 =14	=14
 8ee]	.
 4dd	.
 4dd	.
 4b	.
-8b[	B
+[8b	B major
 =15	=15
 8b]	.
 4a	.
@@ -110,19 +110,19 @@
 =16	=16
 1b	.
 =17	=17
-1r	C
+1r	C major
 =18	=18
-1r	Cmaj7
+1r	C major-seventh
 =19	=19
-1r	B7
+1r	B dominant
 =20	=20
 1r	.
 =21	=21
-1r	C
+1r	C major
 =22	=22
 1r	.
 =23	=23
-1r	Cm/D#
+1r	C minor/D#
 =24	=24
 1r	.
 ==	==

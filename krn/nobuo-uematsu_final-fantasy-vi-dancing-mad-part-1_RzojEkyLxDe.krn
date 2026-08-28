@@ -16,44 +16,44 @@
 *c:	*
 *M4/4	*
 =1	=1
-4cc	Cm
+4cc	C minor
 4ee-	.
-4dd	Fm/C
+4dd	F minor/C
 4cc	.
 =2	=2
-4bn	Csus2
-8cc	.
-8dd	.
-2cc	Cm
+4bn	C suspended-second
+8ccL	.
+8ddJ	.
+2cc	C minor
 =3	=3
-4b-[	E-
-4b-]	E-/G
-4cc[	Fm
-4cc]	A-/E-
+[4b-	E- major
+4b-]	E- major/G
+[4cc	F minor
+4cc]	A- major/E-
 =4	=4
-4bn[	G/D
-8bn_	E-
-8bn]	G7/F
-2cc	Cm/E-
+[4bn	G major/D
+8bnL_	E- major
+8bnJ]	G dominant/F
+2cc	C minor/E-
 =5	=5
-4cc	Cm
+4cc	C minor
 4ee-	.
-4dd	Fm/C
+4dd	F minor/C
 4cc	.
 =6	=6
-4bn	Csus2
-8cc	.
-8dd	.
-8cc[	Cm
-8cc_	Cm/G
-8cc_	Cm
-8cc]	E-/B-
+4bn	C suspended-second
+8ccL	.
+8ddJ	.
+[8ccL	C minor
+8cc_	C minor/G
+8cc_	C minor
+8ccJ]	E- major/B-
 =7	=7
-8cc[	A-
-8cc_	A-maj7/G
-8cc_	Fm7
-8cc]	A-/E-
-4bn[	G7/D
-4bn]	G7
+[8ccL	A- major
+8cc_	A- major-seventh/G
+8cc_	F minor-seventh
+8ccJ]	A- major/E-
+[4bn	G dominant/D
+4bn]	G dominant
 ==	==
 *-	*-

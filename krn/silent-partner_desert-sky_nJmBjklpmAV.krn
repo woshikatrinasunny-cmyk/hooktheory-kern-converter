@@ -16,32 +16,32 @@
 *d:	*
 *M4/4	*
 =1	=1
-8d	Dm
-8c	.
+8dL	D minor
+8cJ	.
 2d	.
-8A	.
-8d	.
+8AL	.
+8dJ	.
 =2	=2
-2c	C
+2c	C major
 2C	.
 =3	=3
-2A	A
+2A	A major
 2B	.
 =4	=4
-2..G	Gadd(2,4,7)
+2..G	G other-2,4,7
 8c	.
 =5	=5
-8d	Dm
-8c	.
+8dL	D minor
+8cJ	.
 4d	.
 4D	.
-8A	.
-8d	.
+8AL	.
+8dJ	.
 =6	=6
-2..c	C
+2..c	C major
 8G	.
 =7	=7
-1F#	D
+1F#	D major
 =8	=8
 1f#	.
 ==	==

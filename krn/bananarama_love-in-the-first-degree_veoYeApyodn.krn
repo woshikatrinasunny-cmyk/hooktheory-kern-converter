@@ -16,59 +16,59 @@
 *C:	*
 *M4/4	*
 =1	=1
-4g	Cadd(2,4,7,9)
+4g	C other-2,4,7,9
 4c	.
 8r	.
+8cL	.
 8c	.
-8c	.
-8d[	.
+[8dJ	.
 =2	=2
-8d]	Em7
-8e	.
+8dL]	E minor-seventh
+8eJ	.
 4.r	.
-8e	.
+8eL	.
 8g	.
-8f	.
+8fJ	.
 =3	=3
-4r	Fmaj7
-8e	.
-8e	.
+4r	F major-seventh
+8eL	.
+8eJ	.
 8d	.
 4c	.
-8e[	.
+[8e	.
 =4	=4
-8e]	Gadd(2,5,7,9,10)
-8d	.
+8eL]	G other-2,5,7,9,10
+8dJ	.
 4.r	.
+8cL	.
 8c	.
-8c	.
-8g	.
+8gJ	.
 =5	=5
-4r	C
+4r	C major
 8c	.
 4r	.
+8cL	.
 8c	.
-8c	.
-8d[	.
+[8dJ	.
 =6	=6
-8d]	Em7/G
-8e	.
+8dL]	E minor-seventh/G
+8eJ	.
 3...r	.
 8e	.
 =7	=7
-8f	Fmaj7
+8fL	F major-seventh
 8e	.
-8e	.
+8eJ	.
 4d	.
 4c	.
-8d[	.
+[8d	.
 =8	=8
-8d]	Eadd(4,7,8,10)
-8e	.
+8dL]	E other-4,7,8,10
+8eJ	.
 4r	.
-8r	E7
-8e	.
+8r	E dominant
+8eL	.
 8d	.
-8c	.
+8cJ	.
 ==	==
 *-	*-

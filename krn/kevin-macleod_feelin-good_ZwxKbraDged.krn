@@ -15,59 +15,59 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.r	E
-8r	A7/G
-8r	A7
-8r	Eadd(3,5,6,9)/A#
-8r	Badd(2,3,5,7,8,10)
-8r	E
+4.r	E major
+8r	A dominant/G
+8r	A dominant
+8r	E other-3,5,6,9/A#
+8r	B other-2,3,5,7,8,10
+8r	E major
 =2	=2
 4.r	.
-8r	Badd(2,3,5,7,8,10)
-8r	Eadd(3,5,6,9)/A#
-8r	A7
-8r	A7/G
-8r	Gadd(1,3,4,6,9)
+8r	B other-2,3,5,7,8,10
+8r	E other-3,5,6,9/A#
+8r	A dominant
+8r	A dominant/G
+8r	G other-1,3,4,6,9
 =3	=3
-4.r	E
-8r	A7/G
-8r	A7
-8r	Eadd(3,5,6,9)/A#
-8r	Badd(2,3,5,7,8,10)
-8r	E
+4.r	E major
+8r	A dominant/G
+8r	A dominant
+8r	E other-3,5,6,9/A#
+8r	B other-2,3,5,7,8,10
+8r	E major
 =4	=4
 8r	.
-4r	E7/D
-4r	E/B
-8r	A#add(1,6,10)
-8r	Amaj7sus2
-8r	Gadd(1,3,4,6,9)
+4r	E dominant/D
+4r	E major/B
+8r	A# other-1,6,10
+8r	A major-seventh-suspended-second
+8r	G other-1,3,4,6,9
 =5	=5
-4.r	E
-8r	A7/G
-8r	A7
-8r	Eadd(3,5,6,9)/A#
-8r	Badd(2,3,5,7,8,10)
-8r	E
+4.r	E major
+8r	A dominant/G
+8r	A dominant
+8r	E other-3,5,6,9/A#
+8r	B other-2,3,5,7,8,10
+8r	E major
 =6	=6
 4.r	.
-8r	Badd(2,3,5,7,8,10)
-8r	Eadd(3,5,6,9)/A#
-8r	A7
-8r	A7/G
-8r	Gadd(1,3,4,6,9)
+8r	B other-2,3,5,7,8,10
+8r	E other-3,5,6,9/A#
+8r	A dominant
+8r	A dominant/G
+8r	G other-1,3,4,6,9
 =7	=7
-4.r	E
-8r	A7/G
-8r	A7
-8r	Eadd(3,5,6,9)/A#
-8r	Badd(2,3,5,7,8,10)
-8r	E
+4.r	E major
+8r	A dominant/G
+8r	A dominant
+8r	E other-3,5,6,9/A#
+8r	B other-2,3,5,7,8,10
+8r	E major
 =8	=8
 4.r	.
-8r	E/B
-8r	A#add(1,6,10)
-4r	Amaj7sus2
-8r	Gadd(1,3,4,6,9)
+8r	E major/B
+8r	A# other-1,6,10
+4r	A major-seventh-suspended-second
+8r	G other-1,3,4,6,9
 ==	==
 *-	*-

@@ -15,56 +15,56 @@
 *D:	*
 *M4/4	*
 =1	=1
-4a	D/A
-4b	G#m7b5
-4dd	G
-4ee	Dmaj7/F#
+4a	D major/A
+4b	G# half-diminished
+4dd	G major
+4ee	D major-seventh/F#
 =2	=2
-2ff#	Em9
-16c#	A
+2ff#	E minor-ninth
+16c#LL	A major
 16d	.
 16c#	.
 16d	.
 16c#	.
 16d	.
 16c#	.
-16d	.
+16dJJ	.
 =3	=3
-4e	E/G#
-4d	E7/G#
-4d	G
-4d	D/F#
+4e	E major/G#
+4d	E dominant/G#
+4d	G major
+4d	D major/F#
 =4	=4
-4d	Em7
+4d	E minor-seventh
 16r	.
-16B	.
+16BLL	.
 16c#	.
-16d	.
-8d	A11
-16c#	.
-16d	.
-8e	A
-16d	.
-16e	.
+16dJJ	.
+8dL	A dominant-11th
+16c#L	.
+16dJ	.
+8e	A major
+16dL	.
+16eJJ	.
 =5	=5
-4f#	Bm7
-4a	Bm7/A
-4b	Gmaj7
-4dd	D/F#
+4f#	B minor-seventh
+4a	B minor-seventh/A
+4b	G major-seventh
+4dd	D major/F#
 =6	=6
-4ee	Em7
-4ff#	Em9
-4aa	Aadd(5,7,9,10)
-4b	Bm7/A
+4ee	E minor-seventh
+4ff#	E minor-ninth
+4aa	A other-5,7,9,10
+4b	B minor-seventh/A
 =7	=7
-4f#	D/A
-4f#	G#m7b5
-4d	G
-4d	D/F#
+4f#	D major/A
+4f#	G# half-diminished
+4d	G major
+4d	D major/F#
 =8	=8
-4d	Em7
+4d	E minor-seventh
 4d	.
-4d	A11
+4d	A dominant-11th
 4d	.
 ==	==
 *-	*-

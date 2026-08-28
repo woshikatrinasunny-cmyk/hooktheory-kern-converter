@@ -16,108 +16,108 @@
 *e:	*
 *M4/4	*
 =1	=1
-3e	C
-12d	.
-12e	.
-3f#	D
-12e	.
-12f#	.
+3e	C major
+12dL	.
+12eJ	.
+3f#	D major
+12eL	.
+12f#J	.
 =2	=2
-3g	Em
-12f#	.
-12e	.
-4d	Bm
+3g	E minor
+12f#L	.
+12eJ	.
+4d	B minor
 4B	.
 =3	=3
-3e	C
-12d	.
+3e	C major
+12dL	.
+12eJ	.
+4f#	D major
+12f#L	.
 12e	.
-4f#	D
-12f#	.
-12e	.
-12f#	.
+12f#J	.
 =4	=4
-4g	Em
-12f#	.
+4g	E minor
+12f#L	.
 12g	.
-12a	.
-2b	G
+12aJ	.
+2b	G major
 =5	=5
-3b	Am
-12a	.
-12b	.
+3b	A minor
+12aL	.
+12bJ	.
 2e	.
 =6	=6
-3b	Bm
-12a	.
-12b	.
+3b	B minor
+12aL	.
+12bJ	.
 4f#	.
 4d	.
 =7	=7
-3e	C
-12f#	.
-12g	.
+3e	C major
+12f#L	.
+12gJ	.
 4d	.
 4a	.
 =8	=8
-2g	Dsus4
-2f#	B
+2g	D suspended-fourth
+2f#	B major
 =9	=9
-3e	C
-12d	.
-12e	.
-3f#	D
-12e	.
-12f#	.
+3e	C major
+12dL	.
+12eJ	.
+3f#	D major
+12eL	.
+12f#J	.
 =10	=10
-3g	Em
-12f#	.
-12e	.
-4d	Bm
+3g	E minor
+12f#L	.
+12eJ	.
+4d	B minor
 4B	.
 =11	=11
-3e	C
-12d	.
+3e	C major
+12dL	.
+12eJ	.
+4f#	D major
+12f#L	.
 12e	.
-4f#	D
-12f#	.
-12e	.
-12f#	.
+12f#J	.
 =12	=12
-4g	Em
-12f#	.
+4g	E minor
+12f#L	.
 12g	.
-12a	.
-2b	G
+12aJ	.
+2b	G major
 =13	=13
-3b	Am
-12a	.
-12b	.
+3b	A minor
+12aL	.
+12bJ	.
 2e	.
 =14	=14
-3b	Bm
-12a	.
-12b	.
+3b	B minor
+12aL	.
+12bJ	.
 4f#	.
 4d	.
 =15	=15
-3e	C
-12f#	.
-12g	.
+3e	C major
+12f#L	.
+12gJ	.
 4d	.
 4a	.
 =16	=16
-4f#	D
+4f#	D major
 4b	.
-4f#	Bm
+4f#	B minor
 4d	.
 =17	=17
-2.e	Em
-12e	Em
-12e	Em
-12e	Em
+2.e	E minor
+12eL	E minor
+12e	E minor
+12eJ	E minor
 =18	=18
-4e	Em
+4e	E minor
 2.r	.
 ==	==
 *-	*-

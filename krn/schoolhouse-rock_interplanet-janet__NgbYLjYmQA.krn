@@ -15,110 +15,110 @@
 *C:	*
 *M4/4	*
 =1	=1
-3...r	C
+3...r	C major
+8gL	.
 8g	.
-8g	.
-8a[	F
+[8aJ	F major
 =2	=2
 4a]	.
 4.r	.
+8aL	.
 8a	.
-8a	.
-8g	G
+8gJ	G major
 =3	=3
 8a	.
 4g	.
 2r	.
 8g	.
 =4	=4
-8a	F
+8aL	F major
 8g	.
 8a	.
-8g	.
-8cc	G#
+8gJ	.
+8cc	G# major
 4cc	.
-8cc[	C
+[8cc	C major
 =5	=5
 8cc]	.
 4r	.
 8cc	.
-4a	F
-4g	G
+4a	F major
+4g	G major
 =6	=6
-8e	C
+8eL	C major
 8g	.
 8a	.
-8e	.
-8g	.
+8eJ	.
+8gL	.
 8a	.
 8e	.
-8g	.
+8gJ	.
 =7	=7
-8a	D
+8aL	D major
 8g	.
 8a	.
-8cc	.
+8ccJ	.
 4a	.
 8r	.
 8g	.
 =8	=8
-8a	F
+8aL	F major
 8a	.
 8a	.
-8a	.
+8aJ	.
 4a	.
-8a	.
-8a	.
+8aL	.
+8aJ	.
 =9	=9
-8b	G
-4a	Fadd(2,4,7)
-4g	Em
-4f	G7sus2
+8b	G major
+4a	F other-2,4,7
+4g	E minor
+4f	G dominant-seventh-suspended-second
 8d	.
 =10	=10
-8e	C
+8eL	C major
 8g	.
 8a	.
-8e	.
-8g	.
+8eJ	.
+8gL	.
 8a	.
 8e	.
-8g	.
+8gJ	.
 =11	=11
-8a	F/C
+8a	F major/C
 4a	.
 4cc	.
 8r	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 =12	=12
-8b	G
+8bL	G major
 8b	.
-8a	Fadd(2,4,7)
-8a	.
-8g	Em
+8a	F other-2,4,7
+8aJ	.
+8gL	E minor
 8g	.
-8f	G7sus2
-8f	.
+8f	G dominant-seventh-suspended-second
+8fJ	.
 =13	=13
-8A	F
-4B	G
-4c	C
+8A	F major
+4B	G major
+4c	C major
 4g	.
 8g	.
 =14	=14
-8b	G
+8bL	G major
 8b	.
-8a	Fadd(2,4,7)
-8a	.
-8g	Em
+8a	F other-2,4,7
+8aJ	.
+8gL	E minor
 8g	.
-8f	G7sus2
-8f	.
+8f	G dominant-seventh-suspended-second
+8fJ	.
 =15	=15
-8A	F
-4B	G
-4.c	C
+8A	F major
+4B	G major
+4.c	C major
 4r	.
 ==	==
 *-	*-

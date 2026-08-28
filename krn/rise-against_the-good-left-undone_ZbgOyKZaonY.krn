@@ -17,7 +17,7 @@
 *M4/4	*
 =1	=1
 8r	.
-4r	C#m
+4r	C# minor
 8c#	.
 4g#	.
 4e	.
@@ -26,10 +26,10 @@
 4e	.
 4f#	.
 4e	.
-8e[	.
+[8e	.
 =3	=3
 8e]	.
-4r	A
+4r	A major
 8c#	.
 4g#	.
 4e	.
@@ -37,32 +37,32 @@
 4e	.
 8c#	.
 4e	.
-4g#	Asus2
-8g#[	.
+4g#	A suspended-second
+[8g#	.
 =5	=5
 8g#]	.
-4.r	E
+4.r	E major
 8e	.
 4e	.
-8f#[	.
+[8f#	.
 =6	=6
 8f#]	.
-4e	B
+4e	B major
 4e	.
 4f#	.
-8e[	.
+[8e	.
 =7	=7
 8e_	.
-4e]	F#m
+4e]	F# minor
 4c#	.
 4B	.
 8r	.
 =8	=8
-8r	B
+8r	B major
 8r	.
-8r	B
+8r	B major
 8r	.
-8r	Bsus4
-4.r	B
+8r	B suspended-fourth
+4.r	B major
 ==	==
 *-	*-

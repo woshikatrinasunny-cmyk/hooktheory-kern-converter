@@ -16,53 +16,53 @@
 *a:	*
 *M4/4	*
 =1	=1
-8.a	Am
+8.aL	A minor
 8.e	.
-8a	.
-8.g#	E
+8aJ	.
+8.g#L	E major
 8.e	.
-8g#	.
+8g#J	.
 =2	=2
-4.g	C
+4.g	C major
 8g	.
-8.g	D
+8.g	D major
 6...f#	.
 =3	=3
-8.f	Dm
+8.fL	D minor
 8.d	.
-8f	.
-8.e	Am
+8fJ	.
+8.eL	A minor
 8.c	.
-8A	.
+8AJ	.
 =4	=4
-8.c	F#dim
+8.cL	F# diminished
 8.c	.
-8c	.
-2B	E
+8cJ	.
+2B	E major
 =5	=5
-8.a	Am
+8.aL	A minor
 8.e	.
-8a	.
-8.g#	E
+8aJ	.
+8.g#L	E major
 8.e	.
-8g#	.
+8g#J	.
 =6	=6
-4g	C
-8a	.
-8g	.
-4f#	D
-8a	.
-8a	.
+4g	C major
+8aL	.
+8gJ	.
+4f#	D major
+8aL	.
+8aJ	.
 =7	=7
-8.a	Dm
+8.aL	D minor
 8.a	.
-8a	.
-4.cc	Fmaj7
-8a[	.
+8aJ	.
+4.cc	F major-seventh
+[8a	.
 =8	=8
-16a]	.
-8.f	.
-3...d[	G
+16aLK]	.
+8.fJ	.
+[3...d	G major
 16d]	.
 16r	.
 ==	==

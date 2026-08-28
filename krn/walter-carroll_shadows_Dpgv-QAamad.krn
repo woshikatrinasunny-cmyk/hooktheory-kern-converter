@@ -16,50 +16,50 @@
 *G:	*
 *M6/8	*
 =1	=1
-8B	G
+8BL	G major
 8d	.
-8g	.
-4.c	C/G
+8gJ	.
+4.c	C major/G
 =2	=2
-8B	G
+8BL	G major
 8d	.
-8g	.
-4.A	Am7/G
+8gJ	.
+4.A	A minor-seventh/G
 =3	=3
-8B	G
+8BL	G major
 8d	.
-8g	.
-8c	Am7/G
+8gJ	.
+8cL	A minor-seventh/G
 8e	.
-8a	.
+8aJ	.
 =4	=4
-8B	G
+8BL	G major
 8d	.
-8g	.
-4.A	Am7/G
+8gJ	.
+4.A	A minor-seventh/G
 =5	=5
-8B	G
+8BL	G major
 8d	.
-8g	.
-4.d	G7
+8gJ	.
+4.d	G dominant
 =6	=6
-8c	Am7/G
+8cL	A minor-seventh/G
 8e	.
-8a	.
-4.e	C/G
+8aJ	.
+4.e	C major/G
 =7	=7
-8d	G7
+8dL	G dominant
 8fn	.
+8bJ	.
+8fnL	.
 8b	.
-8fn	.
-8b	.
-8dd	.
+8ddJ	.
 =8	=8
-8g	.
+8gL	.
 8b	.
-8dd	.
-8fn	.
+8ddJ	.
+8fnL	.
 8b	.
-8dd	.
+8ddJ	.
 ==	==
 *-	*-

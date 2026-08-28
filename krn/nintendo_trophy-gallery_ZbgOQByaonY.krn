@@ -15,53 +15,53 @@
 *C:	*
 *M4/4	*
 =1	=1
-2dd	G
+2dd	G major
 4ee	.
 4ff	.
 =2	=2
-4ff	G
+4ff	G major
 4ee	.
 2dd	.
 =3	=3
-2ee	C
+2ee	C major
 4ff	.
 4gg	.
 =4	=4
-4gg	C
+4gg	C major
 4ff	.
 2ee	.
 =5	=5
-2ff#	B
+2ff#	B major
 4gg	.
 4aa	.
 =6	=6
-4aa	B7
+4aa	B dominant
 4gg	.
 4gg	.
 4ff#	.
 =7	=7
-2..bb[	E
-8bb_	E7
+[2..bb	E major
+8bb_	E dominant
 =8	=8
 1bb]	.
 =9	=9
-1ccc	Dm7
+1ccc	D minor-seventh
 =10	=10
-16ccc	G7
+16cccLL	G dominant
 16aa	.
 16ff	.
 16dd	.
 16aa	.
 16ff	.
 16dd	.
-16cc	.
-16dd	.
+16ccJJ	.
+16ddLL	.
 16b	.
 16g	.
 16f	.
 16g	.
 16f	.
 16g	.
-16f	.
+16fJJ	.
 ==	==
 *-	*-

@@ -16,60 +16,60 @@
 *D:	*
 *M4/4	*
 =1	=1
-8B	G
+8BL	G major
 8G	.
-8f#	.
-4e	A
-8c#	.
+8f#J	.
+4e	A major
+8c#L	.
 8B	.
-8A[	.
+[8AJ	.
 =2	=2
-8A]	.
+8AL]	.
 8F#	.
-8e	.
-4.d	Bm7
+8eJ	.
+4.d	B minor-seventh
 8r	.
-8A	F#m7/A
+8A	F# minor-seventh/A
 =3	=3
-8B	G
+8BL	G major
 8G	.
-8f#	.
-4e	A
-8c#	.
+8f#J	.
+4e	A major
+8c#L	.
 8B	.
-8c#	.
+8c#J	.
 =4	=4
-16B	F#m7
-8.A[	.
-4.A]	Bm7
+16BLK	F# minor-seventh
+[8.AJ	.
+4.A]	B minor-seventh
 4r	.
-8A	F#m7/A
+8A	F# minor-seventh/A
 =5	=5
-8B	G
+8BL	G major
 8G	.
-8f#	.
-4e	A
-8c#	.
+8f#J	.
+4e	A major
+8c#L	.
 8B	.
-8A[	.
+[8AJ	.
 =6	=6
-8A]	.
+8AL]	.
 8B	.
-8c#	.
-4d	Bm
-8d	.
+8c#J	.
+4d	B minor
+8dL	.
 8e	.
-8f#	.
+8f#J	.
 =7	=7
-8g	G
+8gL	G major
 8f#	.
+8eJ	.
+4c#	A major
+8dL	.
 8e	.
-4c#	A
-8d	.
-8e	.
-8d	.
+8dJ	.
 =8	=8
-8e	Dadd(4,7,9)
+8e	D other-4,7,9
 2..d	.
 ==	==
 *-	*-

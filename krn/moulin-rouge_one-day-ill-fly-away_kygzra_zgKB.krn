@@ -15,69 +15,69 @@
 *B:	*
 *M4/4	*
 =1	=1
-8r	B
-8f#	.
+8r	B major
+8f#L	.
 8b	.
-8dd#	.
-4.ee	Em/B
+8dd#J	.
+4.ee	E minor/B
 8dd#	.
 =2	=2
-2dd#	B
+2dd#	B major
 2r	.
 =3	=3
-4r	G#m
-8cc#	.
-8b	.
+4r	G# minor
+8cc#L	.
+8bJ	.
 4cc#	.
 4dd#	.
 =4	=4
-8g#	C#m7
-8f#	.
-4f#[	.
-2f#]	F#
+8g#L	C# minor-seventh
+8f#J	.
+[4f#	.
+2f#]	F# major
 =5	=5
-8r	Bm
-8f#	.
+8r	B minor
+8f#L	.
 8b	.
-8ddn	.
-4ff#	Bm7/A
+8ddnJ	.
+4ff#	B minor-seventh/A
 4ff#	.
 =6	=6
-4.ff#	Em7
+4.ff#	E minor-seventh
 8ee	.
 2ee	.
 =7	=7
-4ddn	A
+4ddn	A major
 4cc#	.
 4ccn	.
 4cc#	.
 =8	=8
-4.ggn	A#dim
+4.ggn	A# diminished
 8ff#	.
-2ff#	D
+2ff#	D major
 =9	=9
-4r	Bm
-8b	.
-8ddn	.
+4r	B minor
+8bL	.
+8ddnJ	.
 4ff#	.
 4bb	.
 =10	=10
-4.bb	Em9
+4.bb	E minor-ninth
 8aan	.
-4.aan	A
-16ee	.
-16ff#	.
+4.aan	A major
+16eeLL	.
+16ff#JJ	.
 =11	=11
-4.ggn	A#dim
+4.ggn	A# diminished
 8ff#	.
-4.ddn	Bm
-16b	.
-16ddn	.
+4.ddn	B minor
+16bLL	.
+16ddnJJ	.
 =12	=12
-1ddn	G
+1ddn	G major
 =13	=13
-1cc#	F#
+1cc#	F# major
 =14	=14
-1b	Em7
+1b	E minor-seventh
 ==	==
 *-	*-

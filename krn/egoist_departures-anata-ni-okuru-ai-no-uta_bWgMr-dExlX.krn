@@ -16,127 +16,127 @@
 *D:	*
 *M4/4	*
 =1	=1
-8e	Dadd(2,4,7)
-16d	.
+8eL	D other-2,4,7
+16dk	.
+8e	.
+8dJ	.
+8e	.
+8dL	.
 8e	.
 8d	.
-8e	.
-8d	.
-8e	.
-8d	.
-16d	.
+16dJk	.
 =2	=2
-6...e	A/C#
-16d	.
-16d	.
+6...e	A major/C#
+16dLL	.
+16dJJ	.
 2A	.
 16A	.
 =3	=3
-8f#	F#dim7/C
-16e	.
+8f#L	F# diminished-seventh/C
+16ek	.
 8f#	.
 8e	.
-16f#[	.
-16f#]	B7
+[16f#Jk	.
+16f#LK]	B dominant
 8g	.
 8f#	.
 8f#	.
-16a	.
+16aJk	.
 =4	=4
-6...f#	Em7
-16e	.
-16e	.
+6...f#	E minor-seventh
+16eLL	.
+16eJJ	.
 4..d	.
-16f#	.
-16g	.
+16f#LL	.
+16gJJ	.
 =5	=5
-8a	Gm
-16a	.
+8aL	G minor
+16ak	.
 8a	.
-8a	.
+8aJ	.
 4..a	.
 8a	.
 =6	=6
-8a	D/A
-16b	.
+8aL	D major/A
+16bk	.
 8g	.
 8f#	.
-16d[	.
-4..d]	Bm7
+[16dJk	.
+4..d]	B minor-seventh
 16g	.
 =7	=7
-16f#	Em7
-16d	.
-4.d[	.
-4..d]	A
+16f#LL	E minor-seventh
+16dJJ	.
+[4.d	.
+4..d]	A major
 16d	.
 =8	=8
-8e	Dadd(2,4,7)
-16d	.
+8eL	D other-2,4,7
+16dk	.
+8e	.
+8dJ	.
+8e	.
+8dL	.
 8e	.
 8d	.
-8e	.
-8d	.
-8e	.
-8d	.
-16d	.
+16dJk	.
 =9	=9
-6...e	A/C#
-16d	.
-16d	.
+6...e	A major/C#
+16dLL	.
+16dJJ	.
 2A	.
 16A	.
 =10	=10
-8f#	F#dim7/C
-16e	.
+8f#L	F# diminished-seventh/C
+16ek	.
 8.f#	.
-16e	.
-16f#[	.
-16f#]	B7
+16eL	.
+[16f#JJ	.
+16f#LK]	B dominant
 8g	.
 8f#	.
 8a	.
-16a	.
+16aJk	.
 =11	=11
-6...f#	Em7
-16e	.
-16e	.
+6...f#	E minor-seventh
+16eLL	.
+16eJJ	.
 4..d	.
-16f#	.
-16g	.
+16f#LL	.
+16gJJ	.
 =12	=12
-8a	Gm
-16a	.
+8aL	G minor
+16ak	.
 8a	.
-8a	.
+8aJ	.
 4..a	.
 8a	.
 =13	=13
-8a	D/A
-16b	.
+8aL	D major/A
+16bk	.
 8g	.
 8f#	.
-16d[	.
-4..d]	Bm7
+[16dJk	.
+4..d]	B minor-seventh
 16g	.
 =14	=14
-16f#	Em7
-16d	.
+16f#LL	E minor-seventh
+16dJJ	.
 6...d	.
 16d	.
-4d	A
-8.c#	.
-16d	.
+4d	A major
+8.c#L	.
+16dJk	.
 =15	=15
-1d[	Dsus4
+[1d	D suspended-fourth
 =16	=16
-2d_	D
-16d_	.
+2d_	D major
+16dLK_	.
 8d]	.
-16f#	.
+16f#L	.
 16g	.
 16f#	.
 16g	.
-16a	.
+16aJJ	.
 ==	==
 *-	*-

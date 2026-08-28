@@ -16,44 +16,44 @@
 *a:	*
 *M4/4	*
 =1	=1
-4A	Am
-8c	.
-8e	.
+4A	A minor
+8cL	.
+8eJ	.
 4cc	.
 4b	.
 =2	=2
-4g	G
+4g	G major
 4d	.
 2e	.
 =3	=3
-4e	F
-8f	.
-8g	.
+4e	F major
+8fL	.
+8gJ	.
 4f	.
 4e	.
 =4	=4
-4d	C/E
+4d	C major/E
 4c	.
 2e	.
 =5	=5
-4A	Dadd(2,5,7)
-8c	.
-8e	.
+4A	D other-2,5,7
+8cL	.
+8eJ	.
 4cc	.
 4b	.
 =6	=6
-4g	Cmaj7
+4g	C major-seventh
 4d	.
 2e	.
 =7	=7
-4e	A#add(2,6,7)
-8f	.
-8g	.
+4e	A# other-2,6,7
+8fL	.
+8gJ	.
 4f	.
 4e	.
 =8	=8
-4d	Bm7b5
+4d	B half-diminished
 4c	.
-2e	E
+2e	E major
 ==	==
 *-	*-

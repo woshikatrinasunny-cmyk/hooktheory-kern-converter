@@ -15,66 +15,66 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Dm
-16a	.
+8r	D minor
+16aLL	.
 16bn	.
-16a	Dm7
+16aJJ	D minor-seventh
 16r	.
 16g	.
 16r	.
-4a[	Dm
-8a]	Dm/F
-16bn	.
+[4a	D minor
+8aL]	D minor/F
+16bnJk	.
 16r	.
 =2	=2
-8cc	Dm7
+8ccL	D minor-seventh
 8bn	.
 8a	.
-8g	Dadd(2,5,7)
-8g	Dadd(3,5,7)
-8a[	.
-8a]	F
-8f[	.
+8gJ	D other-2,5,7
+8gL	D other-3,5,7
+[8a	.
+8a]	F major
+[8fJ	.
 =3	=3
-8f]	Dm
-16a	.
+8fL]	D minor
+16aL	.
 16bn	.
-16a	Dm7
+16aJJ	D minor-seventh
 16r	.
 16g	.
 16r	.
-4a[	Dm
-8a]	Dm/F
-8bn	G7/F
+[4a	D minor
+8aL]	D minor/F
+8bnJ	G dominant/F
 =4	=4
-8cc	Dm
-8bn	G/D
-8a	Dm
-8g	Dadd(2,5,7)
+8ccL	D minor
+8bn	G major/D
+8a	D minor
+8gJ	D other-2,5,7
 4g	.
-4f	F
+4f	F major
 =5	=5
-8.a	Dm
-16g	.
+8.aL	D minor
+16gk	.
 8a	.
-8f	.
-8f	.
-8g	.
-4d	Dm/F
+8fJ	.
+8fL	.
+8gJ	.
+4d	D minor/F
 =6	=6
-4.d	Dm
-8e	Em7b5/D
-8e	D7sus2
+4.d	D minor
+8e	E half-diminished/D
+8eL	D dominant-seventh-suspended-second
 8d	.
-8d	Dm/F
-8c	.
+8d	D minor/F
+8cJ	.
 =7	=7
-2d	Dm
-4e[	Em7b5/D
-4e]	Fmaj7sus4
+2d	D minor
+[4e	E half-diminished/D
+4e]	F major-seventh-suspended-fourth
 =8	=8
-4d	Dm
-2A[	.
-4A]	Dm/F
+4d	D minor
+[2A	.
+4A]	D minor/F
 ==	==
 *-	*-

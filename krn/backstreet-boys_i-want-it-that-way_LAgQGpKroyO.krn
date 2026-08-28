@@ -16,59 +16,59 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	Dadd(2,4,7)
-8e	.
-8d	.
-8d	.
+4r	D other-2,4,7
+8eL	.
+8dJ	.
+8dL	.
 8c#	.
 8B	.
-8A	.
+8AJ	.
 =2	=2
-4.G#	E
-4.A	F#m
-8c#	.
-8e	.
+4.G#	E major
+4.A	F# minor
+8c#L	.
+8eJ	.
 =3	=3
-8e	Dadd(2,4,7)
+8eL	D other-2,4,7
 8f#	.
 8e	.
-8d	.
-8d	.
+8dJ	.
+8dL	.
 8c#	.
 8B	.
-8A	.
+8AJ	.
 =4	=4
-4.G#	E
-4.A	F#m
-8G#	.
-8F#	.
+4.G#	E major
+4.A	F# minor
+8G#L	.
+8F#J	.
 =5	=5
-8F#	Dadd(2,4,7)
-16E	.
+8F#L	D other-2,4,7
+16EJk	.
 16r	.
-8e	.
-8d	.
-8d	.
+8eL	.
+8dJ	.
+8dL	.
 8c#	.
 8B	.
-8A	.
+8AJ	.
 =6	=6
-4B	E
+4B	E major
 8A	.
-8.c#	A
-16B	.
-8A	.
+8.c#	A major
+16BLK	.
+8AJ	.
 4r	.
 =7	=7
-4.F#	F#m
+4.F#	F# minor
 4.A	.
 8c#	.
 8r	.
 =8	=8
-4B	E
+4B	E major
 8A	.
-4.A	A
-8F#	.
-8A	.
+4.A	A major
+8F#L	.
+8AJ	.
 ==	==
 *-	*-

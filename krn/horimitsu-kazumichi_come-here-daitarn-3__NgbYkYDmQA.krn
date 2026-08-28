@@ -16,73 +16,73 @@
 *G:	*
 *M4/4	*
 =1	=1
-8dd	D
-8ee	Em
+8ddL	D major
+8eeJ	E minor
 8r	.
-8gg	G
+8gg	G major
 8r	.
-8aa	Am
+8aa	A minor
 8r	.
-8ccc	C
+8ccc	C major
 =2	=2
 4r	.
-2.ddd	A#
+2.ddd	A# major
 =3	=3
-8ddd	D
+8ddd	D major
 2r	.
-8B	.
+8BL	.
 8d	.
-8b	.
+8bJ	.
 =4	=4
-4.a	G
+4.a	G major
 8g	.
-8g	.
+8gL	.
 8B	.
 8d	.
-8g	.
+8gJ	.
 =5	=5
-4.f#	Em
+4.f#	E minor
 8e	.
 8e	.
 8r	.
 8B	.
 8r	.
 =6	=6
-8c	Am
+8c	A minor
 4c	.
 8r	.
-8c	.
+8cL	.
 8c	.
 8d	.
-8e	.
+8eJ	.
 =7	=7
-4g	D
-4f#	D
-4e	Em
-8d	D/F#
+4g	D major
+4f#	D major
+4e	E minor
+8d	D major/F#
 8r	.
 =8	=8
-8.b	G
-16b	.
+8.bL	G major
+16bJk	.
 4.b	.
 8r	.
-8b	.
-8b	.
+8bL	.
+8bJ	.
 =9	=9
-2cc#	A
+2cc#	A major
 4r	.
-8a	.
-8a	.
+8aL	.
+8aJ	.
 =10	=10
-4dd[	D
+[4dd	D major
 8dd_	.
-4dd_	Em
+4dd_	E minor
 8dd_	.
-4dd_	F
+4dd_	F major
 =11	=11
 4.dd]	.
 8r	.
 8r	.
-4.r	Dm7
+4.r	D minor-seventh
 ==	==
 *-	*-

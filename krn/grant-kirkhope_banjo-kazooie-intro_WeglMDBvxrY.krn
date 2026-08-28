@@ -16,71 +16,71 @@
 *C:	*
 *M4/4	*
 =1	=1
-8aa-	A-
-16aa-	.
-16bb-	.
+8aa-L	A- major
+16aa-L	.
+16bb-J	.
 8ccc	.
-8bb-	.
-16aa-	.
+8bb-J	.
+16aa-LL	.
 16ee-	.
 16cc	.
 16ee-	.
 16aa-	.
 16ccc	.
 16eee-	.
-16ccc	.
+16cccJJ	.
 =2	=2
-8bb-	B-
-16b-	.
-16cc	.
+8bb-L	B- major
+16b-L	.
+16ccJ	.
 8dd	.
-8cc	.
-16b-	.
+8ccJ	.
+16b-LL	.
 16f	.
 16d	.
 16f	.
 16b-	.
 16dd	.
 16ff	.
-16dd	.
+16ddJJ	.
 =3	=3
-8dd-	D-
-16dd-	.
-16ee-	.
+8dd-L	D- major
+16dd-L	.
+16ee-J	.
 8ff	.
-8ee-	.
-16dd-	.
+8ee-J	.
+16dd-LL	.
 16a-	.
 16f	.
 16a-	.
 16dd-	.
 16ff	.
 16aa-	.
-16ff	.
+16ffJJ	.
 =4	=4
-4dd	G7
-8.bn	.
-16ee	.
+4dd	G dominant
+8.bnL	.
+16eeJk	.
 4dd	.
 4bn	.
 =5	=5
-4g[	C
-8g]	A-7
-8g-	.
-4g[	C
-8g]	A-7
-8g-	.
+[4g	C major
+8gL]	A- dominant
+8g-J	.
+[4g	C major
+8gL]	A- dominant
+8g-J	.
 =6	=6
-8cc	C
-16g	.
-16g	.
+8ccL	C major
+16gL	.
+16gJ	.
 8a	.
-8g	.
-16e	.
+8gJ	.
+16eLL	.
 16g	.
 16e	.
-16d	.
-8c	.
-8r	C7
+16dJ	.
+8cJ	.
+8r	C dominant
 ==	==
 *-	*-

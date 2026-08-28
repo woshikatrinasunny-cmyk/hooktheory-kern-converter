@@ -16,22 +16,22 @@
 *D:	*
 *M4/4	*
 =1	=1
-4f#	D
+4f#	D major
 4e	.
 4d	.
 4e	.
 =2	=2
-4.e	E7
+4.e	E dominant
 4.B	.
 4r	.
 =3	=3
-4B	G
+4B	G major
 4d	.
 4g	.
-8g	.
-8f#[	.
+8gL	.
+[8f#J	.
 =4	=4
-8f#]	D
+8f#]	D major
 2..r	.
 =5	=5
 8f#	.
@@ -40,56 +40,56 @@
 4d	.
 4e	.
 =6	=6
-4.e	E7
+4.e	E dominant
 4.B	.
 4r	.
 =7	=7
-4B	G
+4B	G major
 4d	.
 4g	.
-8g	.
-8f#[	.
+8gL	.
+[8f#J	.
 =8	=8
-8f#]	D
+8f#]	D major
 2..r	.
 =9	=9
-4.f#	Bm
+4.f#	B minor
 4.d	.
 4r	.
 =10	=10
-4.e	Gadd(4,7,9)
+4.e	G other-4,7,9
 4.B	.
 4r	.
 =11	=11
-4.f#	Bm
+4.f#	B minor
 4.d	.
 4r	.
 =12	=12
-4.e	E7
+4.e	E dominant
 4.B	.
 8r	.
 8e	.
 =13	=13
-8f#	D
+8f#	D major
 8r	.
 4e	.
-8d	.
-8d	.
+8dL	.
+8dJ	.
 4e	.
 =14	=14
-4.e	E7
+4.e	E dominant
 4.B	.
 4r	.
 =15	=15
-4r	G
+4r	G major
 8g	.
 8r	.
 4g	.
-8g	.
-8f#	.
+8gL	.
+8f#J	.
 =16	=16
-16e	D
-8.d	.
+16eLK	D major
+8.dJ	.
 2.r	.
 ==	==
 *-	*-

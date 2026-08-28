@@ -22,77 +22,77 @@
 8ee	.
 8r	.
 =2	=2
-4.ee	C
+4.ee	C major
 8gg	.
-8ff	Cadd(2,5,7,9,11)
+8ffL	C other-2,5,7,9,11
 8dd	.
 8ff	.
-8aa	.
+8aaJ	.
 =3	=3
-8.gg	C
-16ee	.
-8gg	.
+8.ggL	C major
+16eek	.
+8ggJ	.
 8r	.
 16ccc	.
 16r	.
-8ccc[	.
-8ccc]	Am/C
-16bb	.
+[8cccL	.
+8ccc]	A minor/C
+16bbJk	.
 16r	.
 =4	=4
 16aa	.
 16r	.
-8aa[	.
-8aa]	F/C
-16gg	C
+[8aaL	.
+8aa]	F major/C
+16ggJk	C major
 16r	.
-8gg	Em/B
-16ff	Bdim
+8ggL	E minor/B
+16ffJk	B diminished
 16r	.
-8ff	Cadd(2,5,7)
-16ee	C
+8ffL	C other-2,5,7
+16eeJk	C major
 16r	.
 =5	=5
-8.gg	C/G
-16ee	.
-8dd	G
+8.ggL	C major/G
+16eek	.
+8ddJ	G major
 8r	.
-8ee	.
+8eeL	.
 8G	.
 8ee	.
-8G	.
+8GJ	.
 =6	=6
-4.ee	C
+4.ee	C major
 8gg	.
-8ff	Cadd(2,5,7,9,11)
+8ffL	C other-2,5,7,9,11
 8dd	.
 8ff	.
-8aa	.
+8aaJ	.
 =7	=7
-8.gg	C
-16ee	.
-8gg	.
+8.ggL	C major
+16eek	.
+8ggJ	.
 8r	.
-8ccc	C/E
-16gg	.
+8cccL	C major/E
+16ggJk	.
 16r	.
-8gg	.
-16ee	.
+8ggL	.
+16eeJk	.
 16r	.
 =8	=8
-8dd	Dm7/F
+8ddL	D minor-seventh/F
 8aa	.
-16gg	.
+16ggL	.
 16ff	.
 16ee	.
-16dd	.
-4cc	C/G
-16ee	G7
+16ddJJ	.
+4cc	C major/G
+16eeLL	G dominant
 16dd	.
 16cc	.
-16dd	.
+16ddJJ	.
 =9	=9
-4cc	C
+4cc	C major
 2.r	.
 ==	==
 *-	*-

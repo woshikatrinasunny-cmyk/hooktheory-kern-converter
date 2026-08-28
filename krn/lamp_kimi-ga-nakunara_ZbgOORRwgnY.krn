@@ -16,56 +16,56 @@
 *D:	*
 *M4/4	*
 =1	=1
-1r	Badd(2,3,7)
+1r	B other-2,3,7
 =2	=2
-1r	Fadd(3,6,8)
+1r	F other-3,6,8
 =3	=3
-4..r	Em7
-2r	A7
+4..r	E minor-seventh
+2r	A dominant
 16r	.
 =4	=4
-1r	Dmaj7
+1r	D major-seventh
 =5	=5
 *k[]	*
 *C:	*
-4..r	Dm7
-2r	G9
+4..r	D minor-seventh
+2r	G dominant-ninth
 16r	.
 =6	=6
-2r	Cmaj7
-2r	F9
+2r	C major-seventh
+2r	F dominant-ninth
 =7	=7
-4..r	Em7
-6...r	Aadd(1,4,8,10)
-4r	Aaug7
+4..r	E minor-seventh
+6...r	A other-1,4,8,10
+4r	A augmented-seventh
 =8	=8
-2r	Dm7
-2r	Gadd(1,4,7,10)
+2r	D minor-seventh
+2r	G other-1,4,7,10
 =9	=9
-4..r	Gm7
-2r	C7
+4..r	G minor-seventh
+2r	C dominant
 16r	.
 =10	=10
-2r	Fmaj7
-2r	A#9
+2r	F major-seventh
+2r	A# dominant-ninth
 =11	=11
-2r	D#9
-2r	G#maj7
+2r	D# dominant-ninth
+2r	G# major-seventh
 =12	=12
 *M6/4	*
-8.r	C#maj7
-8.r	G9
-1r	Cmaj7
+8.r	C# major-seventh
+8.r	G dominant-ninth
+1r	C major-seventh
 8r	.
 =13	=13
 *M4/4	*
-1r	A#maj7
+1r	A# major-seventh
 =14	=14
-1r	D#maj7
+1r	D# major-seventh
 =15	=15
 *k[f#c#]	*
 *D:	*
 *M2/4	*
-2r	Dmaj7
+2r	D major-seventh
 ==	==
 *-	*-

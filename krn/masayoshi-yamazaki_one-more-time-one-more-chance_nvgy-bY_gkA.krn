@@ -16,28 +16,28 @@
 *A:	*
 *M4/4	*
 =1	=1
-2r	Aadd(2,4,7)
-2r	Aadd(2,4,8)
+2r	A other-2,4,7
+2r	A other-2,4,8
 =2	=2
-2r	Dadd(4,11)
-2r	Bm7b5/D
+2r	D other-4,11
+2r	B half-diminished/D
 =3	=3
-2r	Aadd(2,4,7)
-2r	Aadd(2,4,8)
+2r	A other-2,4,7
+2r	A other-2,4,8
 =4	=4
-2r	Dadd(4,11)
-2r	Bm7b5/D
+2r	D other-4,11
+2r	B half-diminished/D
 =5	=5
-2r	C#m
-2r	F#m
+2r	C# minor
+2r	F# minor
 =6	=6
-2r	Bm
-2r	F
+2r	B minor
+2r	F major
 =7	=7
-2r	C#m
-2r	F#m
+2r	C# minor
+2r	F# minor
 =8	=8
-2r	Bm
-2r	F
+2r	B minor
+2r	F major
 ==	==
 *-	*-

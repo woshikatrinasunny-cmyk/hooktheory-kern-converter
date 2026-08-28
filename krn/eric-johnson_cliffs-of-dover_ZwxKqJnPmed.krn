@@ -16,125 +16,125 @@
 *G:	*
 *M6/4	*
 =1	=1
-2G[	.
+[2G	.
 16G]	.
-2B[	.
+[2B	.
 16B]	.
 4.d	.
 =2	=2
-4.g[	G
-4.g_	G
-4.g]	G
-4r	G
+[4.g	G major
+4.g_	G major
+4.g]	G major
+4r	G major
 8B	.
 =3	=3
-4d	G
+4d	G major
 8g	.
-4b	G
-8dd[	.
-4.dd_	G
-4.dd]	G
+4b	G major
+[8dd	.
+4.dd_	G major
+4.dd]	G major
 =4	=4
-4.cc[	C
-4.cc_	C
-4cc]	C
+[4.cc	C major
+4.cc_	C major
+4cc]	C major
 8r	.
-4.cc	C
+4.cc	C major
 =5	=5
-4.b	D
-4a	D
-8g[	.
-4.g_	D
-8g]	D
+4.b	D major
+4a	D major
+[8g	.
+4.g_	D major
+8g]	D major
 8r	.
 8G	.
 =6	=6
-4g	G
+4g	G major
 8d	.
-4G	G
+4G	G major
 8G	.
-4g	G
+4g	G major
 8e	.
-4G	G
+4G	G major
 8G	.
 =7	=7
-4g	G
+4g	G major
 8f#	.
-4G	G
+4G	G major
 8G	.
-4g	G
+4g	G major
 8r	.
-4.r	G
+4.r	G major
 =8	=8
-4.g[	C
-4.g]	C
-4.g[	C
-4.g]	C
+[4.g	C major
+4.g]	C major
+[4.g	C major
+4.g]	C major
 =9	=9
-4.g[	D
-4g]	D
-16g	.
-16d	.
-4.a[	D
-4.a]	D
+[4.g	D major
+4g]	D major
+16gLL	.
+16dJJ	.
+[4.a	D major
+4.a]	D major
 =10	=10
-4.g[	G
-4.g_	G
-8g]	G
+[4.g	G major
+4.g_	G major
+8g]	G major
 8r	.
 8d	.
-4g	G
+4g	G major
 8b	.
 =11	=11
-4dd	G
+4dd	G major
 8ee	.
-4ff#	G
-8dd[	.
-4.dd_	G
-4.dd]	G
+4ff#	G major
+[8dd	.
+4.dd_	G major
+4.dd]	G major
 =12	=12
-4c	C
+4c	C major
 8g	.
-4a	C
-8dd[	.
-4.dd]	C
-4ee	C
+4a	C major
+[8dd	.
+4.dd]	C major
+4ee	C major
 8r	.
 =13	=13
-6...b	D
-16a[	.
-4a]	D
-8g[	.
-4.g_	D
-8g]	D
+6...b	D major
+[16a	.
+4a]	D major
+[8g	.
+4.g_	D major
+8g]	D major
 8r	.
 8G	.
 =14	=14
-4g	G
+4g	G major
 8d	.
-4G	G
+4G	G major
 8G	.
-4g	G
+4g	G major
 8e	.
-4G	G
+4G	G major
 8G	.
 =15	=15
-4g	G
+4g	G major
 8f#	.
-4G	G
+4G	G major
 8G	.
-4.g[	G
-8g]	G
+[4.g	G major
+8g]	G major
 4r	.
 =16	=16
-4.c[	C
-4.c_	C
-4.c_	C
-4.c]	C
+[4.c	C major
+4.c_	C major
+4.c_	C major
+4.c]	C major
 =17	=17
-4.d[	D
-4.d]	D
-4.r	D
-4.r	D
+[4.d	D major
+4.d]	D major
+4.r	D major
+4.r	D major
 ==	==
 *-	*-

@@ -15,36 +15,36 @@
 *B:	*
 *M4/4	*
 =1	=1
-4b	B
+4b	B major
 4ff#	.
-8cc#	Bmaj7
-16dd#	.
+8cc#L	B major-seventh
+16dd#k	.
 8cc#	.
-8.b	.
+8.bJ	.
 =2	=2
-4b	B7
+4b	B dominant
 4ff#	.
-8cc#	D#m7
-16dd#	.
+8cc#L	D# minor-seventh
+16dd#k	.
 8cc#	.
-8.b	.
+8.bJ	.
 =3	=3
-2r	E
-2r	D#m
+2r	E major
+2r	D# minor
 =4	=4
-2r	C#m
-2r	F#
+2r	C# minor
+2r	F# major
 =5	=5
-2r	B
-2r	Bmaj7
+2r	B major
+2r	B major-seventh
 =6	=6
-2r	B7
-2r	D#m7
+2r	B dominant
+2r	D# minor-seventh
 =7	=7
-2r	E
-2r	D#m
+2r	E major
+2r	D# minor
 =8	=8
-2r	C#m
-2r	F#
+2r	C# minor
+2r	F# major
 ==	==
 *-	*-

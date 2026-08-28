@@ -16,7 +16,7 @@
 *a:	*
 *M3/4	*
 =1	=1
-4b	F
+4b	F major
 4a	.
 4f	.
 =2	=2
@@ -26,12 +26,12 @@
 =3	=3
 4b	.
 4a	.
-8e	.
-8d	.
+8eL	.
+8dJ	.
 =4	=4
-2.e	E
+2.e	E major
 =5	=5
-4b	F
+4b	F major
 4a	.
 4f	.
 =6	=6
@@ -41,12 +41,12 @@
 =7	=7
 4b	.
 4a	.
-8e	.
-8d	.
+8eL	.
+8dJ	.
 =8	=8
-2.e	E
+2.e	E major
 =9	=9
-4f	Dm7
+4f	D minor-seventh
 4c	.
 4B	.
 =10	=10
@@ -54,14 +54,14 @@
 4c	.
 4B	.
 =11	=11
-4f	C
+4f	C major
 4e	.
-8B	.
-8A	.
+8BL	.
+8AJ	.
 =12	=12
-2.B	Cmaj7
+2.B	C major-seventh
 =13	=13
-4f	Dm7
+4f	D minor-seventh
 4c	.
 4B	.
 =14	=14
@@ -69,7 +69,7 @@
 4c	.
 4B	.
 =15	=15
-4f	C
+4f	C major
 4e	.
 4b	.
 =16	=16

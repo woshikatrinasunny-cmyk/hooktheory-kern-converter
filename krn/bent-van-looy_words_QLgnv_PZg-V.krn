@@ -16,76 +16,76 @@
 *C:	*
 *M4/4	*
 =1	=1
-2r	C
-2r	F/A
+2r	C major
+2r	F major/A
 =2	=2
-2r	A#add(2,4,7)
-2r	Dm7b5/G#
+2r	A# other-2,4,7
+2r	D half-diminished/G#
 =3	=3
-2r	C
-2r	F/A
+2r	C major
+2r	F major/A
 =4	=4
-2r	A#add(2,4,7)
-2r	Dm7b5/G#
+2r	A# other-2,4,7
+2r	D half-diminished/G#
 =5	=5
-8r	C
+8r	C major
 8r	.
-8r	C
+8r	C major
 8r	.
-8r	C
+8r	C major
 8r	.
-8r	C
+8r	C major
 8r	.
 =6	=6
-8r	Dm7
+8r	D minor-seventh
 8r	.
-8r	Dm7
+8r	D minor-seventh
 8r	.
-8r	Dm7
+8r	D minor-seventh
 8r	.
-8r	Dm7
+8r	D minor-seventh
 8r	.
 =7	=7
-8r	C
+8r	C major
 8r	.
-8r	C
+8r	C major
 8r	.
-8r	C
+8r	C major
 8r	.
-8E[	C/E
-8E]	.
+[8EL	C major/E
+8EJ]	.
 =8	=8
-8F[	Fm
+[8FL	F minor
 8F]	.
-8G[	Fadd(2,3,7)
-8G]	.
-8G#[	Fm/G#
+[8G	F other-2,3,7
+8GJ]	.
+[8G#L	F minor/G#
 8G#]	.
-8A#[	A#7sus2
-8A#]	.
+[8A#	A# dominant-seventh-suspended-second
+8A#J]	.
 =9	=9
-8r	C
+8r	C major
 8r	.
-8r	C
+8r	C major
 8r	.
-8r	C
+8r	C major
 8r	.
-8r	C
+8r	C major
 8r	.
 =10	=10
-8r	D7/C
+8r	D dominant/C
 8r	.
-8r	D7/C
+8r	D dominant/C
 8r	.
-8r	D7/C
+8r	D dominant/C
 8r	.
-8r	D7/C
+8r	D dominant/C
 8r	.
 =11	=11
-2r	G7sus2
-2r	Em/G
+2r	G dominant-seventh-suspended-second
+2r	E minor/G
 =12	=12
-2r	G7sus4
-2r	G
+2r	G dominant-seventh-suspended-fourth
+2r	G major
 ==	==
 *-	*-

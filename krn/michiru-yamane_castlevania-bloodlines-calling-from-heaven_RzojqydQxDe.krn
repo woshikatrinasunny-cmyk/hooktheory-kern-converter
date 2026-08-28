@@ -16,77 +16,77 @@
 *c#:	*
 *M3/4	*
 =1	=1
-2g#	C#m
+2g#	C# minor
 8r	.
-16a	.
-16g#	.
+16aLL	.
+16g#JJ	.
 =2	=2
-3...gn	Gdim/C#
+3...gn	G diminished/C#
 8r	.
 =3	=3
-2g#	G#/C
+2g#	G# major/C
 8r	.
-16a	.
-16g#	.
+16aLL	.
+16g#JJ	.
 =4	=4
 2dd#	.
 8.g#	.
 16r	.
 =5	=5
-2g#	C#7/B
+2g#	C# dominant/B
 8r	.
-16gn	.
-16g#	.
+16gnLL	.
+16g#JJ	.
 =6	=6
 4dd#	.
 4ccn	.
 4cc#	.
 =7	=7
-2gg#	F#add(2,4,7)/A#
+2gg#	F# other-2,4,7/A#
 8r	.
-16ff#	.
-16ffn	.
+16ff#LL	.
+16ffnJJ	.
 =8	=8
-3...ff#	F#/A#
+3...ff#	F# major/A#
 8r	.
 =9	=9
-2ff#	F#m/A
+2ff#	F# minor/A
 8r	.
-16gg#	.
-16ff#	.
+16gg#LL	.
+16ff#JJ	.
 =10	=10
 8aa	.
 4gg#	.
 8.bb	.
-16aa	.
+16aaLL	.
 16gg#	.
-16ff#	.
+16ff#JJ	.
 =11	=11
-2ff#	C#m/G#
+2ff#	C# minor/G#
 8r	.
-16ee	.
-16dd#	.
+16eeLL	.
+16dd#JJ	.
 =12	=12
 3...ee	.
 8r	.
 =13	=13
-2ee	C#dim/G
+2ee	C# diminished/G
 8r	.
-16ff#	.
-16ee	.
+16ff#LL	.
+16eeJJ	.
 =14	=14
 8ggn	.
 4ee	.
 8.dd#	.
-16cc#	.
+16cc#LL	.
 16ccn	.
-16cc#	.
+16cc#JJ	.
 =15	=15
-2gg#	G#
+2gg#	G# major
 16r	.
-16bb	.
+16bbLL	.
 16aa#	.
-16aa	.
+16aaJJ	.
 =16	=16
 2.gg#	.
 ==	==

@@ -16,42 +16,42 @@
 *e:	*
 *M3/4	*
 =1	=1
-8e	Em7
-8e	.
+8eL	E minor-seventh
+8eJ	.
 4b	.
 4r	.
 =2	=2
 2r	.
-8b	.
-8g	.
+8bL	.
+8gJ	.
 =3	=3
-4B	Bm7
+4B	B minor-seventh
 4f#	.
 4r	.
 =4	=4
 2.r	.
 =5	=5
-2r	Cadd(2,4,7)
-8e	.
-8f#	.
+2r	C other-2,4,7
+8eL	.
+8f#J	.
 =6	=6
 4g	.
 4f#	.
 4e	.
 =7	=7
-4B	Bm7
+4B	B minor-seventh
 4d	.
 4r	.
 =8	=8
 2.r	.
 =9	=9
-2.r	Em7
+2.r	E minor-seventh
 =10	=10
 4b	.
 4a	.
 4g	.
 =11	=11
-4b	Cmaj7
+4b	C major-seventh
 4a	.
 4g	.
 =12	=12
@@ -59,29 +59,29 @@
 4e	.
 4d	.
 =13	=13
-4B	Bm7
+4B	B minor-seventh
 4f#	.
 4r	.
 =14	=14
 2.r	.
 =15	=15
-8e	A
-8d	.
-8e	.
-8d	.
-8e	.
-8d	.
+8eL	A major
+8dJ	.
+8eL	.
+8dJ	.
+8eL	.
+8dJ	.
 =16	=16
-8e	.
-8d	.
-8e	.
-8d	.
-8e	.
-8d	.
+8eL	.
+8dJ	.
+8eL	.
+8dJ	.
+8eL	.
+8dJ	.
 =17	=17
-4b	Em
-4a	D
-8g	.
-8a	.
+4b	E minor
+4a	D major
+8gL	.
+8aJ	.
 ==	==
 *-	*-

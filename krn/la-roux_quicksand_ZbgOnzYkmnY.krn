@@ -16,102 +16,102 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4.ff[	B-m
-4ff_	B-m
-4ff_	B-m
-8ff]	B-m
+[4.ff	B- minor
+4ff_	B- minor
+4ff_	B- minor
+8ff]	B- minor
 =2	=2
-4.gg-[	G-/B-
-4gg-_	G-/B-
-4gg-_	G-/B-
-8gg-_	G-/B-
+[4.gg-	G- major/B-
+4gg-_	G- major/B-
+4gg-_	G- major/B-
+8gg-_	G- major/B-
 =3	=3
-4.gg-_	Cm7b5/B-
-4gg-_	Cm7b5/B-
-4gg-_	Cm7b5/B-
-8gg-]	Cm7b5/B-
+4.gg-_	C half-diminished/B-
+4gg-_	C half-diminished/B-
+4gg-_	C half-diminished/B-
+8gg-]	C half-diminished/B-
 =4	=4
-4.ff[	B-m
-4ff_	B-m
-4ff_	B-m
-8ff]	B-m
+[4.ff	B- minor
+4ff_	B- minor
+4ff_	B- minor
+8ff]	B- minor
 =5	=5
-4.ff[	B-m
-4ff_	B-m
-4ff_	B-m
-8ff]	B-m
+[4.ff	B- minor
+4ff_	B- minor
+4ff_	B- minor
+8ff]	B- minor
 =6	=6
-4.gg-[	G-/B-
-4gg-_	G-/B-
-4gg-_	G-/B-
-8gg-]	G-/B-
+[4.gg-	G- major/B-
+4gg-_	G- major/B-
+4gg-_	G- major/B-
+8gg-]	G- major/B-
 =7	=7
-4.aa-[	B-m11
-4aa-_	B-m11
-4aa-_	B-m11
-8aa-]	B-m11
+[4.aa-	B- minor-11th
+4aa-_	B- minor-11th
+4aa-_	B- minor-11th
+8aa-]	B- minor-11th
 =8	=8
-4.ff[	B-m
-4ff_	B-m
-4ff_	B-m
-8ff]	B-m
+[4.ff	B- minor
+4ff_	B- minor
+4ff_	B- minor
+8ff]	B- minor
 =9	=9
-4r	B-m
-8r	B-m
-4b-	B-m/D-
-8b-	B-m
-8b-[	B-m/F
-8b-]	B-m/D-
+4r	B- minor
+8r	B- minor
+4b-	B- minor/D-
+8b-L	B- minor
+[8b-	B- minor/F
+8b-J]	B- minor/D-
 =10	=10
-8b-	G-
-8a-[	.
-8a-]	G-
-4r	G-/B-
-8r	G-
-8r	G-/D-
-8r	G-
+8b-L	G- major
+[8a-	.
+8a-J]	G- major
+4r	G- major/B-
+8r	G- major
+8r	G- major/D-
+8r	G- major
 =11	=11
-4r	A-
-8r	A-
-8a-	A-/C
-8a-	.
-8a-	A-
-8b-[	A-/E-
-8b-]	A-
+4r	A- major
+8r	A- major
+8a-	A- major/C
+8a-L	.
+8a-	A- major
+[8b-	A- major/E-
+8b-J]	A- major
 =12	=12
-4b-	B-m
-8r	B-m
-4r	B-m/D-
-8r	B-m
-4r	B-m/F
+4b-	B- minor
+8r	B- minor
+4r	B- minor/D-
+8r	B- minor
+4r	B- minor/F
 =13	=13
-4r	B-m
-8b-	B-m
-4b-	B-m/D-
-8b-	B-m
-8b-	B-m/F
-8b-	B-m/D-
+4r	B- minor
+8b-	B- minor
+4b-	B- minor/D-
+8b-L	B- minor
+8b-	B- minor/F
+8b-J	B- minor/D-
 =14	=14
-8b-	G-
-8a-[	.
-8a-]	G-
-4r	G-/B-
-8r	G-
-8r	G-/D-
-8r	G-
+8b-L	G- major
+[8a-	.
+8a-J]	G- major
+4r	G- major/B-
+8r	G- major
+8r	G- major/D-
+8r	G- major
 =15	=15
-4r	A-
-8f	A-
-4cc	A-/C
-8b-	A-
-8b-[	A-/E-
-8b-]	A-
+4r	A- major
+8f	A- major
+4cc	A- major/C
+8b-L	A- major
+[8b-	A- major/E-
+8b-J]	A- major
 =16	=16
-4b-[	B-m
-8b-_	B-m
-8b-]	B-m/D-
+[4b-	B- minor
+8b-L_	B- minor
+8b-J]	B- minor/D-
 8r	.
-8r	B-m
-4r	B-m/F
+8r	B- minor
+4r	B- minor/F
 ==	==
 *-	*-

@@ -16,62 +16,62 @@
 *c:	*
 *M4/4	*
 =1	=1
-4.cc	Cm
+4.cc	C minor
 4.ff	.
 4gg	.
 =2	=2
 4.bb-	.
 4aa	.
-8gg	.
-8ff	.
+8ggL	.
+8ffJ	.
 8r	.
 =3	=3
-2.ee-	E-
+2.ee-	E- major
 8gg	.
 8r	.
 =4	=4
-8ee-	.
-8gg	.
+8ee-L	.
+8ggJ	.
 8r	.
 3...bb-	.
 =5	=5
-4.aa	F
+4.aa	F major
 4.gg	.
 8ff	.
 8r	.
 =6	=6
-4.bb-	E-
+4.bb-	E- major
 4.aa	.
 8gg	.
 8r	.
 =7	=7
-2eee-	Cm
+2eee-	C minor
 2ddd	.
 =8	=8
-4.gg	E-
+4.gg	E- major
 4.bb-	.
 4gg	.
 =9	=9
-1aa	F
+1aa	F major
 =10	=10
 2.ccc	.
-16ff	.
+16ffLL	.
 16gg	.
 16bb-	.
-16ccc	.
+16cccJJ	.
 =11	=11
-2eee-	Cm
+2eee-	C minor
 2fff	.
 =12	=12
-4.eee-	E-
+4.eee-	E- major
 4.ddd	.
 4bb-	.
 =13	=13
-2..ccc	F
-16eee-	.
-16eeen	.
+2..ccc	F major
+16eee-LL	.
+16eeenJJ	.
 =14	=14
-2fff[	Fadd(2,4,7)
-2fff]	F
+[2fff	F other-2,4,7
+2fff]	F major
 ==	==
 *-	*-

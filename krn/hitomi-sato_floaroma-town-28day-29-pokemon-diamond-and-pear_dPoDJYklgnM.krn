@@ -16,71 +16,71 @@
 *D-:	*
 *M3/4	*
 =1	=1
-4r	D-
+4r	D- major
 2a-	.
 =2	=2
-4r	D-
+4r	D- major
 2f	.
 =3	=3
-2ff	D-
+2ff	D- major
 4a-	.
 =4	=4
-4a-	D-
+4a-	D- major
 4ff	.
 4dd-	.
 =5	=5
-4cc	A-7
+4cc	A- dominant
 4bn	.
 4cc	.
 =6	=6
-2.bb-	A-7
+2.bb-	A- dominant
 =7	=7
-2bb-	A-7
+2bb-	A- dominant
 4aan	.
 =8	=8
-4aa-	A-7/C
+4aa-	A- dominant/C
 4gg-	.
 4cc	.
 =9	=9
-4dd-	D-
+4dd-	D- major
 4cc	.
 4dd-	.
 =10	=10
-2.bb-	D-add(4,7,9)
+2.bb-	D- other-4,7,9
 =11	=11
-2aa-	D-/F
+2aa-	D- major/F
 4ddd-	.
 =12	=12
-2ggn	D-dim/E
+2ggn	D- diminished/E
 4ddd-	.
 =13	=13
-2gg-	E-m7
+2gg-	E- minor-seventh
 4ddd-	.
 =14	=14
-2dd-	G-m
+2dd-	G- minor
 4ee-	.
 =15	=15
-2.ff[	D-/A-
+[2.ff	D- major/A-
 =16	=16
-2.ff_	D-/A-
+2.ff_	D- major/A-
 =17	=17
-2.ff]	Gdim7
+2.ff]	G diminished-seventh
 =18	=18
-2ccc	Gdim7
+2ccc	G diminished-seventh
 4ddd-	.
 =19	=19
-4bb-	E-m7
+4bb-	E- minor-seventh
 4aan	.
 4aa-	.
 =20	=20
-4gg-	A-7
+4gg-	A- dominant
 4b-	.
 4cc	.
 =21	=21
-2.dd-[	D-
+[2.dd-	D- major
 =22	=22
-4dd-]	D-/A-
-4ee-	D-
-4ff	D-/A-
+4dd-]	D- major/A-
+4ee-	D- major
+4ff	D- major/A-
 ==	==
 *-	*-

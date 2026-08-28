@@ -15,60 +15,60 @@
 *D:	*
 *M6/4	*
 =1	=1
-8dd	D
-8b	.
+8ddL	D major
+8bJ	.
 2a	.
-8dd	F#m/C#
-8b	.
+8ddL	F# minor/C#
+8bJ	.
 2a	.
 =2	=2
-8dd	F#dim/C
-8b	.
+8ddL	F# diminished/C
+8bJ	.
 4a	.
 4b	.
-2a	G/B
+2a	G major/B
 4r	.
 =3	=3
-4f#	A#
+4f#	A# major
 4fn	.
 4f#	.
-8cc#	D/A
-8dd	.
+8cc#L	D major/A
+8ddJ	.
 4.b	.
 8r	.
 =4	=4
-2dd	G
+2dd	G major
 4dd	.
-8cc#	A7
-8b	.
+8cc#L	A dominant
+8bJ	.
 4.a	.
 8r	.
 =5	=5
-8dd	D
-8b	.
+8ddL	D major
+8bJ	.
 2a	.
-8dd	F#m/C#
-8b	.
+8ddL	F# minor/C#
+8bJ	.
 2a	.
 =6	=6
-8dd	F#dim/C
-8b	.
+8ddL	F# diminished/C
+8bJ	.
 4a	.
 4b	.
-2a	G/B
+2a	G major/B
 4r	.
 =7	=7
-4f#	A#
+4f#	A# major
 4fn	.
 4f#	.
-8b	D/A
-8cc#	.
+8bL	D major/A
+8cc#J	.
 4.dd	.
 8r	.
 =8	=8
-2dd	G
-4ee	A7
-3...dd	D
+2dd	G major
+4ee	A dominant
+3...dd	D major
 8r	.
 ==	==
 *-	*-

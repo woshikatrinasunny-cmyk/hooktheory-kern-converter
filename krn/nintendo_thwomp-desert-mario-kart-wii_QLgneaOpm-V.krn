@@ -15,147 +15,147 @@
 *a:	*
 *M3/4	*
 =1	=1
-16r	Am/E
-16E	.
+16r	A minor/E
+16ELL	.
 16A	.
-16B	.
-16c	.
-16B	.
-8c	.
-8f	F
-8c	.
+16BJJ	.
+16cLL	.
+16BJ	.
+8cJ	.
+8fL	F major
+8cJ	.
 =2	=2
-8e	Am/E
-16e	.
-16d	.
-16e	.
+8eL	A minor/E
+16eL	.
+16dJJ	.
+16eLL	.
 16g	.
 16d	.
-16c	.
-16B	G
+16cJJ	.
+16BLL	G major
 16A	.
 16G	.
-16E	.
+16EJJ	.
 =3	=3
-16r	Am/E
-16E	.
+16r	A minor/E
+16ELL	.
 16A	.
-16B	.
-16c	.
-16B	.
-8c	.
-8f	F
-8c	.
+16BJJ	.
+16cLL	.
+16BJ	.
+8cJ	.
+8fL	F major
+8cJ	.
 =4	=4
-8e	Am/E
-16e	.
-16f	.
-16g	.
+8eL	A minor/E
+16eL	.
+16fJJ	.
+16gLL	.
 16cc	.
 16b	.
-16a	.
-16g	G
+16aJJ	.
+16gLL	G major
 16f	.
 16e	.
-16d	.
+16dJJ	.
 =5	=5
-16r	Am/E
-16e	.
+16r	A minor/E
+16eLL	.
 16a	.
-16b	.
-16cc	.
-16b	.
-8cc	.
-8ff	F
-8cc	.
+16bJJ	.
+16ccLL	.
+16bJ	.
+8ccJ	.
+8ffL	F major
+8ccJ	.
 =6	=6
-8ee	Am/E
-16ee	.
-16dd	.
-16ee	.
+8eeL	A minor/E
+16eeL	.
+16ddJJ	.
+16eeLL	.
 16gg	.
 16dd	.
-16cc	.
-16b	G
+16ccJJ	.
+16bLL	G major
 16a	.
 16g	.
-16e	.
+16eJJ	.
 =7	=7
-16r	Am/E
-16e	.
+16r	A minor/E
+16eLL	.
 16a	.
-16b	.
-16cc	.
-16b	.
-8cc	.
-8ff	F
-8cc	.
+16bJJ	.
+16ccLL	.
+16bJ	.
+8ccJ	.
+8ffL	F major
+8ccJ	.
 =8	=8
-8ee	Am/E
-16ee	.
-16ff	.
-16gg	.
-16ccc	.
-4.bb	G/B
+8eeL	A minor/E
+16eeL	.
+16ffJJ	.
+16ggLL	.
+16cccJJ	.
+4.bb	G major/B
 =9	=9
-8a	Am
-8b	.
-8cc	.
-8b	G
-8g	.
-8b	.
+8aL	A minor
+8bJ	.
+8ccL	.
+8bJ	G major
+8gL	.
+8bJ	.
 =10	=10
-8dd	Dm
-8ee	.
+8ddL	D minor
+8eeJ	.
 8ff	.
-4.ee	Em
+4.ee	E minor
 =11	=11
-6...ff	F
-16ff	.
-8ee	Dm
-8dd	.
-8cc	.
+6...ff	F major
+16ffLK	.
+8eeJ	D minor
+8ddL	.
+8ccJ	.
 =12	=12
-8a	Am
-8b	.
-8cc	.
-8b	E
-8a	.
-8g#	.
+8aL	A minor
+8bJ	.
+8ccL	.
+8bJ	E major
+8aL	.
+8g#J	.
 =13	=13
-8a	Am
-8b	.
-8cc	.
-8b	G
-8g	.
-8b	.
+8aL	A minor
+8bJ	.
+8ccL	.
+8bJ	G major
+8gL	.
+8bJ	.
 =14	=14
-8dd	Dm
-8ee	.
+8ddL	D minor
+8eeJ	.
 8ff	.
-4.ee	Em
+4.ee	E minor
 =15	=15
-4ff	Dm
-16gg	.
-16ff	.
-8ee	A
-8dd	.
-8cc#	.
+4ff	D minor
+16ggLL	.
+16ffJ	.
+8eeJ	A major
+8ddL	.
+8cc#J	.
 =16	=16
-4.ff	Dm
-8ee	A
-8aa	.
-8ee	.
+4.ff	D minor
+8ee	A major
+8aaL	.
+8eeJ	.
 =17	=17
-8ee	C
-8ff#	.
+8eeL	C major
+8ff#J	.
 8gg	.
-4ff#	D
+4ff#	D major
 8dd	.
 =18	=18
-4aa	Asus2
-16gg#	.
-16ff#	.
-4.gg#	E
+4aa	A suspended-second
+16gg#LL	.
+16ff#JJ	.
+4.gg#	E major
 ==	==
 *-	*-

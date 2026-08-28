@@ -16,64 +16,64 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4ff	D-
+4ff	D- major
 8dd-	.
 4ff	.
-8b-	.
+8b-L	.
 8dd-	.
-8ff	.
+8ffJ	.
 =2	=2
-4ff	B-m
+4ff	B- minor
 8dd-	.
 4ff	.
-8b-	.
+8b-L	.
 8dd-	.
-8ff	.
+8ffJ	.
 =3	=3
-8ff	E-m
-8ee-	.
+8ffL	E- minor
+8ee-J	.
 4ee-	.
 2r	.
 =4	=4
-8ff	A-sus4
-8ee-	.
-4ee-	A-
+8ffL	A- suspended-fourth
+8ee-J	.
+4ee-	A- major
 2r	.
 =5	=5
-4gg-	A-7sus4
+4gg-	A- dominant-seventh-suspended-fourth
 8ee-	.
 4gg-	.
 4.r	.
 =6	=6
-4gg-	A-m
+4gg-	A- minor
 8ee-	.
 4gg-	.
 8r	.
 4ee-	.
 =7	=7
-4gg-	G-
-4ff	G-maj7
-4ff	Fm
-4ee-	A-
+4gg-	G- major
+4ff	G- major-seventh
+4ff	F minor
+4ee-	A- major
 =8	=8
-8ff	B-m
+8ffL	B- minor
 8ee-	.
-8ee-	.
+8ee-J	.
 4ee-	.
-8b-	.
+8b-L	.
 8dd-	.
-8ee-	.
+8ee-J	.
 =9	=9
-4ff	D-
+4ff	D- major
 4ff	.
 4ff	.
-8ee-	G-
-8ee-[	A-
+8ee-L	G- major
+[8ee-J	A- major
 =10	=10
 8ee-]	.
 3...r	.
-8r	G-
-8r	A-
+8r	G- major
+8r	A- major
 =11	=11
 1r	.
 ==	==

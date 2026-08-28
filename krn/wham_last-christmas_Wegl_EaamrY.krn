@@ -16,53 +16,53 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.e	Dadd(2,4,7)
-8e[	.
-8e]	D
+4.e	D other-2,4,7
+[8e	.
+8e]	D major
 4d	.
 8A	.
 =2	=2
-8e	Dadd(2,4,7)
+8eL	D other-2,4,7
 8e	.
-8f#	.
-4.d	D
-8B	.
-8B	.
+8f#J	.
+4.d	D major
+8BL	.
+8BJ	.
 =3	=3
-8e	Badd(3,5,7)
-8e	.
+8eL	B other-3,5,7
+8eJ	.
 4f#	.
-4.d	Bm
+4.d	B minor
 8B	.
 =4	=4
-8c#	Badd(3,5,7)
+8c#L	B other-3,5,7
 8d	.
-8c#	.
-2B	Bm
+8c#J	.
+2B	B minor
 8r	.
 =5	=5
-4.f#	Eadd(3,5,7)
-8e[	.
-4.e]	Em
+4.f#	E other-3,5,7
+[8e	.
+4.e]	E minor
 8B	.
 =6	=6
-8f#	Eadd(3,5,7)
+8f#L	E other-3,5,7
 8g	.
-8f#	.
-2e	Em
+8f#J	.
+2e	E minor
 8d	.
 =7	=7
-8c#	Aadd(4,7,9)
+8c#L	A other-4,7,9
 8d	.
 8d	.
-8c#[	.
-8c#]	A
+[8c#J	.
+8c#]	A major
 4d	.
-8c#[	.
+[8c#	.
 =8	=8
-8c#]	Aadd(4,7,9)
-4A[	.
-4A]	A
+8c#]	A other-4,7,9
+[4A	.
+4A]	A major
 4.r	.
 ==	==
 *-	*-

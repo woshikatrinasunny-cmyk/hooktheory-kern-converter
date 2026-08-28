@@ -16,67 +16,67 @@
 *E-:	*
 *M4/4	*
 =1	=1
-8.gg	A-maj7
+8.ggL	A- major-seventh
 8ff	.
 8cc	.
-16ff[	.
-2ff]	Fm7/A-
+[16ffJk	.
+2ff]	F minor-seventh/A-
 =2	=2
-8.ff	E-add(2,4,7)/G
+8.ffL	E- other-2,4,7/G
 8ee-	.
 8b-	.
-16ee-[	.
-2ee-]	E-/G
+[16ee-Jk	.
+2ee-]	E- major/G
 =3	=3
-8.ee-	Fm7
+8.ee-L	F minor-seventh
 8dd	.
 8cc	.
-16dd[	.
-6...dd]	B-7
+[16ddJk	.
+6...dd]	B- dominant
+16b-LL	.
 16b-	.
-16b-	.
-16cc	.
+16ccJJ	.
 =4	=4
-8.dd-	D-
+8.dd-L	D- major
 8cc	.
 8b-	.
-16cc[	.
-8.cc]	C
-16cc	.
+[16ccJk	.
+8.ccL]	C major
+16ccL	.
 16dd	.
 16een	.
 16ff	.
-16gg	.
+16ggJJ	.
 =5	=5
-8.aan	B-maj7
+8.aanL	B- major-seventh
 8gg	.
 8dd	.
-16gg[	.
-2gg]	Gm7/B-
+[16ggJk	.
+2gg]	G minor-seventh/B-
 =6	=6
-8.gg	Fadd(2,4,7)/A
+8.ggL	F other-2,4,7/A
 8ff	.
 8cc	.
-16ff[	.
-8.ff]	B-7/A-
+[16ffJk	.
+8.ffL]	B- dominant/A-
 8dd	.
 8b-	.
-16ee-[	.
+[16ee-Jk	.
 =7	=7
-3...ee-_	Fm7
-16ee-]	.
+3...ee-_	F minor-seventh
+16ee-LK]	.
 8dd	.
 8b-	.
-16ee-[	.
+[16ee-Jk	.
 =8	=8
-4ee-]	B-7sus4
-16ee-	.
-8.dd	.
-16dd	.
+4ee-]	B- dominant-seventh-suspended-fourth
+16ee-LK	.
+8.ddJ	.
+16ddLK	.
 8dd-	.
-16dd-	.
+16dd-L	.
 16cc	.
-16b-	.
-8b-	.
+16b-J	.
+8b-J	.
 ==	==
 *-	*-

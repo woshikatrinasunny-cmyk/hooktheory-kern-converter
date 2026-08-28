@@ -16,44 +16,44 @@
 *A:	*
 *M4/4	*
 =1	=1
-2ff#	D
-2aa	D
+2ff#	D major
+2aa	D major
 =2	=2
-2gg#	E
-4gg#	E
-8bb	F#sus4
-8ccc#	F#m
+2gg#	E major
+4gg#	E major
+8bbL	F# suspended-fourth
+8ccc#J	F# minor
 =3	=3
 4r	.
-4a	F#m
-4a	F#m
-8gg#	E
-8aa	F#m
+4a	F# minor
+4a	F# minor
+8gg#L	E major
+8aaJ	F# minor
 =4	=4
-4.gg#	C#m
+4.gg#	C# minor
 4.ccc#	.
-8ff#	.
-8ee	.
+8ff#L	.
+8eeJ	.
 =5	=5
-2ff#	D
-2aa	D
+2ff#	D major
+2aa	D major
 =6	=6
-2gg#	E
-4gg#	E
-8bb	F#sus4
-8ccc#	F#m
+2gg#	E major
+4gg#	E major
+8bbL	F# suspended-fourth
+8ccc#J	F# minor
 =7	=7
 4r	.
-4a	F#m
-4a	F#m
-8gg#	E
-8aa	F#m
+4a	F# minor
+4a	F# minor
+8gg#L	E major
+8aaJ	F# minor
 =8	=8
-8ccc#	C#m
-8bb	.
+8ccc#L	C# minor
+8bbJ	.
 8r	.
 4.ff#	.
-8ff#	.
-8ee	.
+8ff#L	.
+8eeJ	.
 ==	==
 *-	*-

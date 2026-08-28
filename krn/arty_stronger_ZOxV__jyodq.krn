@@ -15,48 +15,48 @@
 *c:	*
 *M4/4	*
 =1	=1
-4a	F
-8.b-	Gm
-8.g	Cm
-4.g	Cm
+4a	F major
+8.b-	G minor
+8.g	C minor
+4.g	C minor
 =2	=2
-4b-	A-add(2,4,7)
-8.cc	A-
-8.f	E-add(2,4,7)
-8.f	E-add(2,4,7)
-8.f	E-add(2,4,7)
+4b-	A- other-2,4,7
+8.cc	A- major
+8.f	E- other-2,4,7
+8.fL	E- other-2,4,7
+8.fJ	E- other-2,4,7
 =3	=3
-4a	F
-8.b-	Gm
-8.g	Cm
-4.g	Cm
+4a	F major
+8.b-	G minor
+8.g	C minor
+4.g	C minor
 =4	=4
-4b-	A-add(2,4,7)
-8.cc	A-
-8.f	E-add(2,4,7)
-4f	E-add(2,4,7)
-8f	E-add(2,4,7)
+4b-	A- other-2,4,7
+8.cc	A- major
+8.f	E- other-2,4,7
+4f	E- other-2,4,7
+8f	E- other-2,4,7
 =5	=5
-4a	F
-8.b-	Gm
-8.g	Cm
-4.g	Cm
+4a	F major
+8.b-	G minor
+8.g	C minor
+4.g	C minor
 =6	=6
-4b-	A-add(2,4,7)
-8.cc	A-
-8.f	E-add(2,4,7)
-8.f	E-add(2,4,7)
-8.f	E-add(2,4,7)
+4b-	A- other-2,4,7
+8.cc	A- major
+8.f	E- other-2,4,7
+8.fL	E- other-2,4,7
+8.fJ	E- other-2,4,7
 =7	=7
-4a	F
-8.b-	Gm
-8.g	Cm
-8.g	Cm
-8.g	Cm
+4a	F major
+8.b-	G minor
+8.g	C minor
+8.gL	C minor
+8.gJ	C minor
 =8	=8
-4b-	A-add(2,4,7)
-8.cc	A-
-2f[	E-add(2,4,7)
+4b-	A- other-2,4,7
+8.cc	A- major
+[2f	E- other-2,4,7
 16f]	.
 ==	==
 *-	*-

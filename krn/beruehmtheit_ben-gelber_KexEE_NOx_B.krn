@@ -16,66 +16,66 @@
 *F:	*
 *M4/4	*
 =1	=1
-8a	F
-8f	F/A
+8aL	F major
+8fJ	F major/A
 8r	.
-16f	.
-16d	.
-8f	B-
-8f	B-/D
+16fLL	.
+16dJJ	.
+8fL	B- major
+8fJ	B- major/D
 8r	.
-16f	.
-16d	.
+16fLL	.
+16dJJ	.
 =2	=2
-8f	B-
-8f	.
+8fL	B- major
+8fJ	.
 8r	.
-8f	Bdim
+8f	B diminished
 8r	.
-4a	A7/D-
+4a	A dominant/D-
 8r	.
 =3	=3
-8a	Dm
-8f	.
+8aL	D minor
+8fJ	.
 8r	.
-16f	Dm/F
-16d	.
-8f	B-/D
-8f	.
+16fLL	D minor/F
+16dJJ	.
+8fL	B- major/D
+8fJ	.
 8r	.
-16f	.
-16d	.
+16fLL	.
+16dJJ	.
 =4	=4
-8f	B-
-8f	.
+8fL	B- major
+8fJ	.
 8r	.
-8f	Bdim
+8f	B diminished
 8r	.
-4a	A7/D-
+4a	A dominant/D-
 8r	.
 =5	=5
-4a	Dm
-4cc	F/A
-8b-	Gm
+4a	D minor
+4cc	F major/A
+8b-L	G minor
 8a	.
 8g	.
-8g	A7
+8gJ	A dominant
 =6	=6
-4.f	Dm
+4.f	D minor
 8r	.
-8f	B-
+8fL	B- major
 8f	.
 8g	.
-8f	.
+8fJ	.
 =7	=7
-8a	F/A
-8g[	.
-4g]	Edim/G
-8g	Dm/F
+8aL	F major/A
+[8gJ	.
+4g]	E diminished/G
+8g	D minor/F
 4f	.
-8g	Gm/B-
+8g	G minor/B-
 =8	=8
 8a	.
-4.d	B-
+4.d	B- major
 ==	==
 *-	*-

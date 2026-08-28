@@ -16,111 +16,111 @@
 *d:	*
 *M4/4	*
 =1	=1
-2r	Dm
-4r	Dsus4
-4r	Dm
+2r	D minor
+4r	D suspended-fourth
+4r	D minor
 =2	=2
-2r	Dm
-4r	Dsus4
-4r	Dm
+2r	D minor
+4r	D suspended-fourth
+4r	D minor
 =3	=3
-2r	B-maj7
-2r	A7sus4
+2r	B- major-seventh
+2r	A dominant-seventh-suspended-fourth
 =4	=4
-2r	Dm
-4r	Dsus4
-4r	Dm
+2r	D minor
+4r	D suspended-fourth
+4r	D minor
 =5	=5
-2a	Dm
-4g	Dsus4
-4f	Dm
+2a	D minor
+4g	D suspended-fourth
+4f	D minor
 =6	=6
-2a	Dm
-4g	Dsus4
-4f	Dm
+2a	D minor
+4g	D suspended-fourth
+4f	D minor
 =7	=7
-2a	B-maj7
-2g	A7sus4
+2a	B- major-seventh
+2g	A dominant-seventh-suspended-fourth
 =8	=8
-1f	Dm
+1f	D minor
 =9	=9
-2dd	Gm
-4ee	Em7b5/G
-4ff	Gm7
+2dd	G minor
+4ee	E half-diminished/G
+4ff	G minor-seventh
 =10	=10
-2ff	F/A
-4ee	Am
-4dd	Asus4
+2ff	F major/A
+4ee	A minor
+4dd	A suspended-fourth
 =11	=11
-3...dd	B-
-4ee	B-add(6,7)
-8ff	B-
+3...dd	B- major
+4ee	B- other-6,7
+8ff	B- major
 =12	=12
-2.ff	F/A
-4gg	Am7
+2.ff	F major/A
+4gg	A minor-seventh
 =13	=13
-4.gg	Gm/B-
-4.ff	B-
-4ee	B-add(6,7)
+4.gg	G minor/B-
+4.ff	B- major
+4ee	B- other-6,7
 =14	=14
-2ee	A
-2dd	Dm
+2ee	A major
+2dd	D minor
 =15	=15
-2dd	Gm
-2dd	Asus4
+2dd	G minor
+2dd	A suspended-fourth
 =16	=16
-1dd	Dm
+1dd	D minor
 =17	=17
-2ff	Gm7
-2ee	Am
+2ff	G minor-seventh
+2ee	A minor
 =18	=18
-2dd	B-
-2dd	Dm
+2dd	B- major
+2dd	D minor
 =19	=19
-2ff	Gm7
-2ee	Am
+2ff	G minor-seventh
+2ee	A minor
 =20	=20
-2ee	B-add(6,7)
-2dd	Dm
+2ee	B- other-6,7
+2dd	D minor
 =21	=21
-2ff	B-
-4.gg	Gm/B-
-8ee[	B-add(6,7)
+2ff	B- major
+4.gg	G minor/B-
+[8ee	B- other-6,7
 =22	=22
 8ee]	.
-4.ff	F/A
-4ff	Dm
+4.ff	F major/A
+4ff	D minor
 4dd	.
 =23	=23
-2dd	Gm
-2dd	Asus4
+2dd	G minor
+2dd	A suspended-fourth
 =24	=24
-2dd	Dm
+2dd	D minor
 4ff	.
-4ee	Dadd(2,3,7)
+4ee	D other-2,3,7
 =25	=25
-2ff	B-
-2ee	C
+2ff	B- major
+2ee	C major
 =26	=26
-1dd	Gm
+1dd	G minor
 =27	=27
-2ff[	B-
-4ff]	F/C
-4ee	C
+[2ff	B- major
+4ff]	F major/C
+4ee	C major
 =28	=28
-2ee	Am7/G
-2dd	Gm
+2ee	A minor-seventh/G
+2dd	G minor
 =29	=29
-2ff	B-
-2gg	C
+2ff	B- major
+2gg	C major
 =30	=30
-2gg	Gm
-4ff	Gm7
-4ee	Edim/G
+2gg	G minor
+4ff	G minor-seventh
+4ee	E diminished/G
 =31	=31
-2ee	B-add(6,7)
-2dd	Cadd(2,4,7)
+2ee	B- other-6,7
+2dd	C other-2,4,7
 =32	=32
-1d	Dm
+1d	D minor
 ==	==
 *-	*-

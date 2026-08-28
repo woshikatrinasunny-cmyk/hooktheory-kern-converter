@@ -16,55 +16,55 @@
 *F:	*
 *M6/4	*
 =1	=1
-4.r	F
-4r	F
+4.r	F major
+4r	F major
 8f	.
-4a	F
+4a	F major
 8cc	.
-4a	F
-8dd[	.
+4a	F major
+[8dd	.
 =2	=2
-4.dd]	Fmaj7
-4cc	Fmaj7
+4.dd]	F major-seventh
+4cc	F major-seventh
 8a	.
-4g	Fmaj7
-8f[	.
-4.f]	Fmaj7
+4g	F major-seventh
+[8f	.
+4.f]	F major-seventh
 =3	=3
-4.r	Dm
-4r	Dm
+4.r	D minor
+4r	D minor
 8g	.
-4a	Dm
+4a	D minor
 8a	.
-4a	Dm
-8b-[	.
+4a	D minor
+[8b-	.
 =4	=4
-4.b-]	Faug/D-
-4.a	Faug/D-
-4g	Faug/D-
-8a[	.
-4a]	Faug/D-
+4.b-]	F augmented/D-
+4.a	F augmented/D-
+4g	F augmented/D-
+[8a	.
+4a]	F augmented/D-
 8a	.
 =5	=5
-4.g[	Edim/G
-4.g_	Edim/G
-4.g]	Edim/G
-4.r	Edim/G
+[4.g	E diminished/G
+4.g_	E diminished/G
+4.g]	E diminished/G
+4.r	E diminished/G
 =6	=6
-4.dd	Em7b5/G
-4.cc	Em7b5/G
-4.a	Em7b5/G
-4g	Em7b5/G
+4.dd	E half-diminished/G
+4.cc	E half-diminished/G
+4.a	E half-diminished/G
+4g	E half-diminished/G
 8f	.
 =7	=7
-4.a[	A
-4.a_	A
-4.a_	A
-4.a]	A
+[4.a	A major
+4.a_	A major
+4.a_	A major
+4.a]	A major
 =8	=8
-4.r	A/D-
-4.r	A/D-
-4.r	A/D-
-4.r	A/D-
+4.r	A major/D-
+4.r	A major/D-
+4.r	A major/D-
+4.r	A major/D-
 ==	==
 *-	*-

@@ -16,78 +16,78 @@
 *F#:	*
 *M4/4	*
 =1	=1
-8.aa#	F#
+8.aa#	F# major
 16r	.
-16gg#	.
+16gg#LL	.
 16aan	.
 16aa#	.
-16bb	.
-8.ccc#	C#/E#
+16bbJJ	.
+8.ccc#	C# major/E#
 16r	.
-8ddd#	.
-8ccc#	.
+8ddd#L	.
+8ccc#J	.
 =2	=2
-8.ccc#	C#m/E
+8.ccc#	C# minor/E
 16r	.
-8ddd#	.
-8ccc#	.
-8.bb	B/D#
+8ddd#L	.
+8ccc#J	.
+8.bb	B major/D#
 16r	.
-8ff#	.
-8gg#	.
+8ff#L	.
+8gg#J	.
 =3	=3
-8aan	D
-16aan	.
+8aanL	D major
+16aanL	.
 16gg#	.
 16aan	.
 16gg#	.
 16aan	.
-16gg#	.
+16gg#JJ	.
 8.aan	.
 8.r	.
 8aan	.
 =4	=4
-8gg#	C#
-16gg#	.
+8gg#L	C# major
+16gg#L	.
 16ff#	.
 16gg#	.
 16ff#	.
 16gg#	.
-16ff#	.
+16ff#JJ	.
 8.ee#	.
 16r	.
 8.ee#	.
 16r	.
 =5	=5
-8.aa#	F#
+8.aa#	F# major
 16r	.
-16gg#	.
+16gg#LL	.
 16aan	.
 16aa#	.
-16bb	.
-8.ccc#	C#/E#
+16bbJJ	.
+8.ccc#	C# major/E#
 16r	.
-8ddd#	.
-8ccc#	.
+8ddd#L	.
+8ccc#J	.
 =6	=6
-8.ccc#	C#m/E
+8.ccc#	C# minor/E
 16r	.
-8ddd#	.
-8ccc#	.
-8fff#	B/D#
-8.fff#	.
+8ddd#L	.
+8ccc#J	.
+8fff#L	B major/D#
+8.fff#J	.
 8.r	.
 =7	=7
-8r	D
-8een	.
+8r	D major
+8eenL	.
 8ff#	.
-8aan	.
+8aanJ	.
 8.ccc#	.
 16r	.
-8ccc#	.
-8bb	.
+8ccc#L	.
+8bbJ	.
 =8	=8
-8.ccc#	C#
+8.ccc#	C# major
 2.r	.
 16r	.
 ==	==

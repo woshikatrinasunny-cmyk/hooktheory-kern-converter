@@ -16,79 +16,79 @@
 *C:	*
 *M4/4	*
 =1	=1
-4g	Am
+4g	A minor
 4a	.
-4b	Am
-4cc[	.
+4b	A minor
+[4cc	.
 =2	=2
-4cc]	C
-8dd[	.
-8dd]	C
+4cc]	C major
+[8ddL	.
+8ddJ]	C major
 4ee	.
-4r	C
+4r	C major
 =3	=3
-2g#	C#
-2r	G#
+2g#	C# major
+2r	G# major
 =4	=4
-2r	C#
-2r	G#
+2r	C# major
+2r	G# major
 =5	=5
-4a	Fm
+4a	F minor
 4f	.
-4a	Fm
-4g[	.
+4a	F minor
+[4g	.
 =6	=6
-4.g_	C#
-8g]	C#
+4.g_	C# major
+8g]	C# major
 4r	.
-8r	C#
+8r	C# major
 8g#	.
 =7	=7
-4a	Dm
+4a	D minor
 4f	.
-4f	Dm
-8a	.
-8g[	.
+4f	D minor
+8aL	.
+[8gJ	.
 =8	=8
-4.g]	C#
-8f#	C#
-8g	.
+4.g]	C# major
+8f#	C# major
+8gL	.
 8f#	.
-8g	C#
-8f#	.
+8g	C# major
+8f#J	.
 =9	=9
-2g	D#7/A#
-4g	D#7
+2g	D# dominant/A#
+4g	D# dominant
 4r	.
 =10	=10
-4.r	D#7/A#
+4.r	D# dominant/A#
 8f#	.
-8g	D#7
-8f#	.
+8gL	D# dominant
+8f#J	.
 4g	.
 =11	=11
-2g#	C#
-4g#	C#/G#
+2g#	C# major
+4g#	C# major/G#
 4r	.
 =12	=12
-8r	C#
+8r	C# major
 4.d#	.
-4f	C#/G#
+4f	C# major/G#
 4f#	.
 =13	=13
-2g	Cm
-2a#	Cm7/G
+2g	C minor
+2a#	C minor-seventh/G
 =14	=14
-2f	D#maj7sus4
-2g	D#7
+2f	D# major-seventh-suspended-fourth
+2g	D# dominant
 =15	=15
-4g#	G#
+4g#	G# major
 4r	.
-2r	G#
+2r	G# major
 =16	=16
-4r	G#
-4g#	G#
-4g	G
-4f#	F#
+4r	G# major
+4g#	G# major
+4g	G major
+4f#	F# major
 ==	==
 *-	*-

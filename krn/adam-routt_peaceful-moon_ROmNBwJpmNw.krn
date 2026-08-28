@@ -16,102 +16,102 @@
 *G:	*
 *M3/4	*
 =1	=1
-4.B	G
+4.B	G major
 4.f#	.
 =2	=2
-4.e	Cadd(2,4,7)
+4.e	C other-2,4,7
 4.a	.
 =3	=3
 *M5/4	*
-2g	G
-8b	.
-8a	.
-8g	Cadd(2,4,7)
-8f#	.
-8B	.
-8d[	.
+2g	G major
+8bL	.
+8aJ	.
+8gL	C other-2,4,7
+8f#J	.
+8BL	.
+[8dJ	.
 =4	=4
 *M3/4	*
-4.d]	G
+4.d]	G major
 4.f#	.
 =5	=5
-4.g	Cadd(2,4,7)
+4.g	C other-2,4,7
 4.dd	.
 =6	=6
 *M5/4	*
-2.a	G
-8D	Cadd(2,4,7)
-8E	.
+2.a	G major
+8DL	C other-2,4,7
+8EJ	.
 4F#	.
 =7	=7
 *k[f#c#g#d#]	*
 *E:	*
 *M3/4	*
-4.F#	Emaj7
+4.F#	E major-seventh
 4.f#	.
 =8	=8
-4.e	Aadd(2,4,7)
+4.e	A other-2,4,7
 4.b	.
 =9	=9
 *M5/4	*
-2g#	Emaj7
-8B	.
-8c#	.
-8B	Aadd(2,4,7)
-8f#	.
-8e	.
-8d#[	.
+2g#	E major-seventh
+8BL	.
+8c#J	.
+8BL	A other-2,4,7
+8f#J	.
+8eL	.
+[8d#J	.
 =10	=10
 *k[b-e-a-d-]	*
 *A-:	*
 *M3/4	*
-4e-]	A-maj7
-8d-	.
-8c	.
-8B-	.
-8A-	.
+4e-]	A- major-seventh
+8d-L	.
+8cJ	.
+8B-L	.
+8A-J	.
 =11	=11
-4F	D-maj7
-8dd-	.
-8cc	.
-8b-	.
-8a-	.
+4F	D- major-seventh
+8dd-L	.
+8ccJ	.
+8b-L	.
+8a-J	.
 =12	=12
-8e-	A-maj7
-8E-	.
-8d-	.
-8c	.
-8B-	.
-8A-	.
+8e-L	A- major-seventh
+8E-J	.
+8d-L	.
+8cJ	.
+8B-L	.
+8A-J	.
 =13	=13
-4F	D-maj7
-8dd-	.
-8cc	.
-8b-	.
-8a-	.
+4F	D- major-seventh
+8dd-L	.
+8ccJ	.
+8b-L	.
+8a-J	.
 =14	=14
 *k[f#c#g#]	*
 *A:	*
-4a	Amaj7
-8d	.
-8c#	.
-8B	.
-8A	.
+4a	A major-seventh
+8dL	.
+8c#J	.
+8BL	.
+8AJ	.
 =15	=15
-4F#	Dmaj7
-8dd	.
-8cc#	.
-8b	.
-8a	.
+4F#	D major-seventh
+8ddL	.
+8cc#J	.
+8bL	.
+8aJ	.
 =16	=16
-8e	Amaj7
-8E	.
-8d	.
-8c#	.
-8B	.
-8A	.
+8eL	A major-seventh
+8EJ	.
+8dL	.
+8c#J	.
+8BL	.
+8AJ	.
 =17	=17
-8Fn	Dm
+8Fn	D minor
 4Gn	.
 4Fn	.
 8E	.

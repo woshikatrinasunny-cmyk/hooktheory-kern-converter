@@ -16,91 +16,91 @@
 *d:	*
 *M4/4	*
 =1	=1
-4f	Gm7
+4f	G minor-seventh
 4g	.
-4.e	C
-16d	.
-16e	.
+4.e	C major
+16dLL	.
+16eJJ	.
 =2	=2
-8.f	Gm7
+8.fL	G minor-seventh
 8.g	.
-8a	.
-2g	C
+8aJ	.
+2g	C major
 =3	=3
-4f	Gm7
+4f	G minor-seventh
 4g	.
-8.e	C
+8.eL	C major
 8.d	.
-8c	.
+8cJ	.
 =4	=4
-2d[	E-maj7
-2d]	D7sus2
+[2d	E- major-seventh
+2d]	D dominant-seventh-suspended-second
 =5	=5
-4f	Gm7
+4f	G minor-seventh
 4g	.
-4.e	C
-16d	.
-16e	.
+4.e	C major
+16dLL	.
+16eJJ	.
 =6	=6
-8.f	E-maj7
+8.fL	E- major-seventh
 8.g	.
-8a	.
-8.g	Cadd(2,3,7)
+8aJ	.
+8.gL	C other-2,3,7
 8.e	.
-8c	.
+8cJ	.
 =7	=7
-2d	C7sus2
-8.d	.
+2d	C dominant-seventh-suspended-second
+8.dL	.
 8.e	.
-8f	.
+8fJ	.
 =8	=8
-4g[	D7sus2
-4g]	Dadd(1,7,10)
-4a[	.
-4a]	Dm7
+[4g	D dominant-seventh-suspended-second
+4g]	D other-1,7,10
+[4a	.
+4a]	D minor-seventh
 =9	=9
-4f	Gm7
+4f	G minor-seventh
 4g	.
-4.e	C/G
-16d	.
-16e	.
+4.e	C major/G
+16dLL	.
+16eJJ	.
 =10	=10
-8.f	Gm7
+8.fL	G minor-seventh
 8.g	.
-8a	.
-2g	C/G
+8aJ	.
+2g	C major/G
 =11	=11
-4f	Gm7
+4f	G minor-seventh
 4g	.
-8.e	C/G
+8.eL	C major/G
 8.d	.
-8c	.
+8cJ	.
 =12	=12
-2d[	E-maj7/G
-2d]	D7sus4
+[2d	E- major-seventh/G
+2d]	D dominant-seventh-suspended-fourth
 =13	=13
-4f	Gm7
+4f	G minor-seventh
 4g	.
-4.e	Am7/G
-16d	.
-16e	.
+4.e	A minor-seventh/G
+16dLL	.
+16eJJ	.
 =14	=14
-8.f	E-maj7
+8.fL	E- major-seventh
 8.g	.
-8a	.
-8.g	D7sus2
+8aJ	.
+8.gL	D dominant-seventh-suspended-second
 8.e	.
-8c	.
+8cJ	.
 =15	=15
-2d	C7sus2
-8.d	C7sus4
-16e[	.
-8e]	Dm7/F
-8f	.
+2d	C dominant-seventh-suspended-second
+8.dL	C dominant-seventh-suspended-fourth
+[16ek	.
+8e]	D minor-seventh/F
+8fJ	.
 =16	=16
-4g	D7sus2
+4g	D dominant-seventh-suspended-second
 4cc	.
-4a[	Dadd(1,7,10)
-4a]	D7
+[4a	D other-1,7,10
+4a]	D dominant
 ==	==
 *-	*-

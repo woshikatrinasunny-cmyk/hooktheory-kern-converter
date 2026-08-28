@@ -16,23 +16,23 @@
 *D:	*
 *M12/8	*
 =1	=1
-1r	D
+1r	D major
 8r	.
-8fff#	.
+8fff#L	.
 8aaa	.
-8dddd	.
+8ddddJ	.
 =2	=2
-2.eeee	G
+2.eeee	G major
 4.bbb	.
 4.cccc#	.
 =3	=3
-4.ffff#	Dadd(2,4,7)
-1aaaa[	.
+4.ffff#	D other-2,4,7
+[1aaaa	.
 8aaaa_	.
 =4	=4
-2aaaa]	Gm7
-8gggg	.
-8ffffn	.
-2.eeee	C7
+2aaaa]	G minor-seventh
+8ggggL	.
+8ffffnJ	.
+2.eeee	C dominant
 ==	==
 *-	*-

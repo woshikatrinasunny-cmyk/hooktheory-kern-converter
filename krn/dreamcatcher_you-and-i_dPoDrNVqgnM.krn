@@ -16,70 +16,70 @@
 *b:	*
 *M4/4	*
 =1	=1
-16b	Bm
-16cc#	.
+16bLL	B minor
+16cc#J	.
 8dd	.
-16b	.
-16cc#	.
-8dd	.
-4ee	A#dim/C#
+16bL	.
+16cc#J	.
+8ddJ	.
+4ee	A# diminished/C#
 4dd	.
 =2	=2
-16b	D
-16cc#	.
+16bLL	D major
+16cc#J	.
 8dd	.
-16b	.
-16cc#	.
-8dd	.
-4ff#	E
+16bL	.
+16cc#J	.
+8ddJ	.
+4ff#	E major
 4ee	.
 =3	=3
-8r	G
-16ee	.
+8r	G major
+16eeLL	.
 16dd	.
 16ee	.
 16dd	.
 16ee	.
-16dd	.
-8ee	G
+16ddJJ	.
+8eeL	G major
 8dd	.
 8ff#	.
-8dd	.
+8ddJ	.
 =4	=4
-16dd	F#
+16dd	F# major
 6...cc#	.
 8dd	.
-16dd	A#dim
+16dd	A# diminished
 4..cc#	.
 =5	=5
-16b	Bm
-16cc#	.
+16bLL	B minor
+16cc#J	.
 8dd	.
-16b	.
-16cc#	.
-8dd	.
-4ee	A#dim/C#
+16bL	.
+16cc#J	.
+8ddJ	.
+4ee	A# diminished/C#
 4dd	.
 =6	=6
-16b	D
-16cc#	.
+16bLL	D major
+16cc#J	.
 8dd	.
-16b	.
-16cc#	.
-8dd	.
-4ff#	E
+16bL	.
+16cc#J	.
+8ddJ	.
+4ff#	E major
 4ee	.
 =7	=7
-2b[	G
-8b]	G
+[2b	G major
+8bL]	G major
 8b	.
 8ff#	.
-8ee	.
+8eeJ	.
 =8	=8
-6...b	F#
-16cc#	.
+6...b	F# major
+16cc#LL	.
 16dd	.
-16cc#[	.
-2cc#]	A#dim
+[16cc#JJ	.
+2cc#]	A# diminished
 ==	==
 *-	*-

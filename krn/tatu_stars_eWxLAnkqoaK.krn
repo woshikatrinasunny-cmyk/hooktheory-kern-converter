@@ -16,90 +16,90 @@
 *d#:	*
 *M4/4	*
 =1	=1
-4b	B
+4b	B major
 4b	.
 4b	.
-8cc#	.
-8b[	.
+8cc#L	.
+[8bJ	.
 =2	=2
-4.b]	E#m7b5/B
+4.b]	E# half-diminished/B
 4r	.
+8d#L	.
 8d#	.
-8d#	.
-8d#	.
+8d#J	.
 =3	=3
-4g#	D#add(2,5,7)
+4g#	D# other-2,5,7
 4g#	.
 4g#	.
-8a#	.
-8f#[	.
+8a#L	.
+[8f#J	.
 =4	=4
-4.f#]	D#m
+4.f#]	D# minor
 8r	.
-8r	D#m7/C#
+8r	D# minor-seventh/C#
+8f#L	.
 8f#	.
-8f#	.
-8f#	.
+8f#J	.
 =5	=5
-4e#	B
+4e#	B major
 4d#	.
 8d#	.
 4g#	.
-8e#[	.
+[8e#	.
 =6	=6
-4.e#]	E#dim/B
+4.e#]	E# diminished/B
 4r	.
 8g#	.
-4g#[	.
+[4g#	.
 =7	=7
-8g#]	D#sus4
+8g#]	D# suspended-fourth
 2f#	.
 4.r	.
 =8	=8
-3...r	D#m
-8d#	.
-8d#	D#sus2
-8d#	.
+3...r	D# minor
+8d#L	.
+8d#	D# suspended-second
+8d#J	.
 =9	=9
-4b	B
+4b	B major
 4b	.
 4b	.
-8cc#	.
-8b[	.
+8cc#L	.
+[8bJ	.
 =10	=10
-4.b]	E#m7b5/B
+4.b]	E# half-diminished/B
 4r	.
+8d#L	.
 8d#	.
-8d#	.
-8d#	.
+8d#J	.
 =11	=11
-4g#	D#sus4
+4g#	D# suspended-fourth
 4g#	.
 4g#	.
-8a#	.
-8f#[	.
+8a#L	.
+[8f#J	.
 =12	=12
-4.f#]	D#m
+4.f#]	D# minor
 4r	.
-8f#	.
-8f#	D#m7/C#
-8f#	.
+8f#L	.
+8f#	D# minor-seventh/C#
+8f#J	.
 =13	=13
-4e#	B
+4e#	B major
 8d#	.
 4.d#	.
-8g#	.
-8e#[	.
+8g#L	.
+[8e#J	.
 =14	=14
-6...e#]	E#dim/B
+6...e#]	E# diminished/B
 6...r	.
 8g#	.
-4g#[	.
+[4g#	.
 =15	=15
-8g#]	D#sus4
+8g#]	D# suspended-fourth
 2f#	.
 4.r	.
 =16	=16
-1r	D#m
+1r	D# minor
 ==	==
 *-	*-

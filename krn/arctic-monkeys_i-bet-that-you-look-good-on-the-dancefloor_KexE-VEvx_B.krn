@@ -15,120 +15,120 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4r	C#m
-8cc#[	.
-8cc#]	B
-8cc#[	.
-8cc#]	B
+4r	C# minor
+[8cc#L	.
+8cc#J]	B major
+[8cc#L	.
+8cc#]	B major
 8cc#	.
-8cc#	B
+8cc#J	B major
 =2	=2
-4cc#[	A
-8cc#]	A
-8a	.
-8a	F#m
+[4cc#	A major
+8cc#L]	A major
+8aJ	.
+8a	F# minor
 4a	.
 8b	.
 =3	=3
-4cc#	C#m
-8b	.
-8a	B
-8b[	.
-4b]	B
-8a[	B
+4cc#	C# minor
+8bL	.
+8aJ	B major
+[8b	.
+4b]	B major
+[8a	B major
 =4	=4
-8a]	A
-8f#[	.
-4f#_	A
-2f#]	F#m
+8aL]	A major
+[8f#J	.
+4f#_	A major
+2f#]	F# minor
 =5	=5
-4r	C#m
+4r	C# minor
+8cc#L	.
+8cc#J	B major
+[8cc#L	.
+8cc#]	B major
 8cc#	.
-8cc#	B
-8cc#[	.
-8cc#]	B
-8cc#	.
-8cc#	B
+8cc#J	B major
 =6	=6
-4cc#[	A
-8cc#]	A
+[4cc#	A major
+8cc#L]	A major
+8aJ	.
+8aL	F# minor
 8a	.
-8a	F#m
 8a	.
-8a	.
-8b	.
+8bJ	.
 =7	=7
-4cc#	C#m
-8b	.
-8a	B
-8b[	.
-8b]	B
+4cc#	C# minor
+8bL	.
+8aJ	B major
+[8bL	.
+8b]	B major
 8a	.
-8f#[	B
+[8f#J	B major
 =8	=8
-8f#]	A
-8f#[	.
-8f#]	A
-8f#	.
-4cc#	F#m
-8b	.
-8a	.
+8f#L]	A major
+[8f#	.
+8f#]	A major
+8f#J	.
+4cc#	F# minor
+8bL	.
+8aJ	.
 =9	=9
-4b	C#m
-8f#[	.
-8f#]	B
-8bb[	.
-16bb]	B
+4b	C# minor
+[8f#L	.
+8f#J]	B major
+[8bbL	.
+16bbk]	B major
 8.aa	.
-8ff#	B
+8ff#J	B major
 =10	=10
-4ff#[	A
-8ff#]	A
-8f#	.
-4cc#	F#m
-8b	.
-8a	.
+[4ff#	A major
+8ff#L]	A major
+8f#J	.
+4cc#	F# minor
+8bL	.
+8aJ	.
 =11	=11
-4b	C#m
-8f#[	.
-8f#]	B
-8bb[	.
-16bb]	B
+4b	C# minor
+[8f#L	.
+8f#J]	B major
+[8bbL	.
+16bbk]	B major
 8.aa	.
-8ff#	B
+8ff#J	B major
 =12	=12
-4ff#[	A
-8ff#]	A
-8f#	.
-4cc#	F#m
-8cc#	.
-8cc#	.
+[4ff#	A major
+8ff#L]	A major
+8f#J	.
+4cc#	F# minor
+8cc#L	.
+8cc#J	.
 =13	=13
-4cc#	C#m
-8a	.
-8a	B
+4cc#	C# minor
+8aL	.
+8aJ	B major
 8b	.
-4b	B
-8a	B
+4b	B major
+8a	B major
 =14	=14
-4b	A
-4a	A
-4cc#	F#m
-8cc#	.
-8cc#	.
+4b	A major
+4a	A major
+4cc#	F# minor
+8cc#L	.
+8cc#J	.
 =15	=15
-4cc#	C#m
-8b	.
-8cc#	B
-8cc#[	.
-8cc#]	B
+4cc#	C# minor
+8bL	.
+8cc#J	B major
+[8cc#L	.
+8cc#]	B major
 8cc#	.
-8cc#	B
+8cc#J	B major
 =16	=16
-4cc#	A
-8cc#	A
-8cc#	.
-4cc#	F#m
+4cc#	A major
+8cc#L	A major
+8cc#J	.
+4cc#	F# minor
 4cc#	.
 ==	==
 *-	*-

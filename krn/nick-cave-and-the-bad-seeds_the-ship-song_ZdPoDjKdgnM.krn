@@ -15,48 +15,48 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	G
+4r	G major
 4g	.
 8a	.
 4.b	.
 =2	=2
-4.f#	D/F#
+4.f#	D major/F#
 8f#	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 4r	.
 =3	=3
-4r	Cadd(2,4,7)
+4r	C other-2,4,7
 4e	.
 8f#	.
 4.g	.
 =4	=4
-8g	G
+8g	G major
 4g	.
-8f#[	.
-2f#]	D
+[8f#	.
+2f#]	D major
 =5	=5
-4r	G
+4r	G major
 4g	.
 8a	.
 6...b	.
 16b	.
 =6	=6
-4.f#	D/F#
+4.f#	D major/F#
 8r	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 4r	.
 =7	=7
-4.r	Cadd(2,4,7)
+4.r	C other-2,4,7
 8e	.
 4f#	.
 4g	.
 =8	=8
-4g	G
-8g	.
-8f#[	.
-4f#]	D
+4g	G major
+8gL	.
+[8f#J	.
+4f#]	D major
 4r	.
 ==	==
 *-	*-

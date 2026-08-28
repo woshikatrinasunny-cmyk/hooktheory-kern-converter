@@ -16,48 +16,48 @@
 *A:	*
 *M4/4	*
 =1	=1
-2a[	A
-4.a]	F#m
-16b	.
-16a[	.
+[2a	A major
+4.a]	F# minor
+16bLL	.
+[16aJJ	.
 =2	=2
-4a]	D
+4a]	D major
 8r	.
 8a	.
-8.g#	E
-16a	.
+8.g#L	E major
+16aJk	.
 8r	.
-16b	.
-16a[	.
+16bLL	.
+[16aJJ	.
 =3	=3
-8a]	A
+8aL]	A major
 8.a	.
-16b	.
+16bL	.
 16cc#	.
-16b	.
-16cc#	F#m
-16b	.
-4.a[	.
+16bJJ	.
+16cc#LL	F# minor
+16bJJ	.
+[4.a	.
 =4	=4
-4a]	D
+4a]	D major
 8r	.
 8a	.
-8.g#	E
-16a	.
+8.g#L	E major
+16aJk	.
 8r	.
-16b	.
-16a[	.
+16bLL	.
+[16aJJ	.
 =5	=5
-8a]	A
-4..a[	.
-4..a_	D/A
+8a]	A major
+[4..a	.
+4..a_	D major/A
 =6	=6
-2a]	A
-16cc#	Amaj7
-8ee[	.
-16ee]	Am7b5
-16cc#	Bm7/A
-16b	.
-8a	.
+2a]	A major
+16cc#LK	A major-seventh
+[8ee	.
+16eeL]	A half-diminished
+16cc#	B minor-seventh/A
+16bJ	.
+8aJ	.
 ==	==
 *-	*-

@@ -17,162 +17,162 @@
 *M4/4	*
 =1	=1
 2r	.
-8ff#	.
+8ff#L	.
 8aa	.
 8aa	.
-8ff#	.
+8ff#J	.
 =2	=2
-4bb	G
+4bb	G major
 4aa	.
-8gg	.
+8ggL	.
 8aa	.
 8gg	.
-16ff#	A
-16ee	.
+16ff#L	A major
+16eeJJ	.
 =3	=3
-4.r	Bm
-8r	Em
-8ff#	.
+4.r	B minor
+8r	E minor
+8ff#L	.
 8aa	.
 8aa	.
-8ff#	.
+8ff#J	.
 =4	=4
-4bb	G
+4bb	G major
 4aa	.
-8gg	.
+8ggL	.
 8aa	.
 8gg	.
-16ff#	A
-16ee	.
+16ff#L	A major
+16eeJJ	.
 =5	=5
-4.r	Bm
-8dd	Em
-8ddd	.
+4.r	B minor
+8dd	E minor
+8dddL	.
 8bb	.
-16aa[	.
-16aa]	F#m
-8ff#	.
+[16aaL	.
+16aaJ]	F# minor
+8ff#J	.
 =6	=6
-4bb	G
+4bb	G major
 4aa	.
-8ff#	.
+8ff#L	.
 8aa	.
 8aa	.
-16ff#	A
-16bb[	.
+16ff#L	A major
+[16bbJJ	.
 =7	=7
-16bb]	Bm
+16bbLL]	B minor
 16aa	.
-16ff#	.
+16ff#JJ	.
 8.r	.
-8ff#	Em
-8ff#	.
+8ff#	E minor
+8ff#L	.
 8aa	.
 8aa	.
-8ff#	.
+8ff#J	.
 =8	=8
-4bb	G
+4bb	G major
 4aa	.
-8gg	.
+8ggL	.
 8aa	.
 8gg	.
-16ff#	A
-16ee	.
+16ff#L	A major
+16eeJJ	.
 =9	=9
-4r	Bm
-8dd	.
-16dd	Em
+4r	B minor
+8ddL	.
+16ddJk	E minor
 8.dd	.
 16ee	.
 16r	.
-8dd	.
-16dd	.
-16dd	.
+8ddL	.
+16ddL	.
+16ddJJ	.
 =10	=10
 16r	.
-16r	Bm
+16r	B minor
 16ee	.
 16r	.
+8ddL	.
+16ddJk	.
+8.dd	B minor
+8eeL	B minor
 8dd	.
-16dd	.
-8.dd	Bm
-8ee	Bm
-8dd	.
-16cc#	.
-16b	.
+16cc#L	.
+16bJJ	.
 =11	=11
 16r	.
-8.r	Bm
-8dd	.
-16dd	.
-8.dd	Bm
-16ee	Bm
+8.r	B minor
+8ddL	.
+16ddJk	.
+8.dd	B minor
+16ee	B minor
 16r	.
-8dd	.
-16dd	A
-16dd[	.
+8ddL	.
+16ddL	A major
+[16ddJJ	.
 =12	=12
-16dd_	.
-16dd]	Bm
-16ee	.
+16ddLL_	.
+16dd]	B minor
+16eeJJ	.
 16r	.
+8ddL	.
+16ddJk	.
+8.dd	B minor
+8eeL	B minor
 8dd	.
-16dd	.
-8.dd	Bm
-8ee	Bm
-8dd	.
-16cc#	.
-16b	.
+16cc#L	.
+16bJJ	.
 =13	=13
 16r	.
-8.r	Bm
-8dd	.
-16dd	.
-8.dd	Bm
-16ee	Bm
+8.r	B minor
+8ddL	.
+16ddJk	.
+8.dd	B minor
+16ee	B minor
 16r	.
-8dd	.
-16dd	A
-16dd[	.
+8ddL	.
+16ddL	A major
+[16ddJJ	.
 =14	=14
-16dd_	.
-16dd]	Gadd(2,4,7)
-16ee	.
+16ddLL_	.
+16dd]	G other-2,4,7
+16eeJJ	.
 16r	.
+8ddL	.
+16ddJk	.
+8.dd	G other-2,4,7
+8eeL	G other-2,4,7
 8dd	.
-16dd	.
-8.dd	Gadd(2,4,7)
-8ee	Gadd(2,4,7)
-8dd	.
-16cc#	.
-16b	.
+16cc#L	.
+16bJJ	.
 =15	=15
-8r	B7
-8r	Bm7
-8dd	.
-16dd	.
-8.dd	Em7
-16ee	Em7
+8r	B dominant
+8r	B minor-seventh
+8ddL	.
+16ddJk	.
+8.dd	E minor-seventh
+16ee	E minor-seventh
 16r	.
-8dd	.
-16dd	Em7
-16dd[	.
+8ddL	.
+16ddL	E minor-seventh
+[16ddJJ	.
 =16	=16
-16dd_	.
-16dd]	Gadd(2,4,7)
-16ee	.
+16ddLL_	.
+16dd]	G other-2,4,7
+16eeJJ	.
 16r	.
+8ddL	.
+16ddJk	.
+8.dd	G other-2,4,7
+8eeL	G other-2,4,7
 8dd	.
-16dd	.
-8.dd	Gadd(2,4,7)
-8ee	Gadd(2,4,7)
-8dd	.
-16cc#	.
-16b	.
+16cc#L	.
+16bJJ	.
 =17	=17
-8r	B7
-6...r	Bm7
-8.r	Em7
-4.r	Em7
+8r	B dominant
+6...r	B minor-seventh
+8.r	E minor-seventh
+4.r	E minor-seventh
 ==	==
 *-	*-

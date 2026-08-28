@@ -16,51 +16,51 @@
 *f:	*
 *M4/4	*
 =1	=1
-8.r	Fm7
-16r	Fm7
+8.r	F minor-seventh
+16r	F minor-seventh
 16cc	.
 16r	.
-16b-	Fm7
+16b-	F minor-seventh
 16r	.
-8cc[	.
-8cc]	Fm7
-16b-	.
-16r	Fm7
+[8ccL	.
+8cc]	F minor-seventh
+16b-Jk	.
+16r	F minor-seventh
 16a-	.
 16r	.
 =2	=2
-8.b-[	Cm7
-16b-]	Cm7
-16a-	.
+[8.b-L	C minor-seventh
+16b-L]	C minor-seventh
+16a-JJ	.
 16r	.
-16g	Cm7
+16g	C minor-seventh
 16r	.
-8a-[	.
-8a-]	Cm7
-16f[	.
-16f]	Cm7
-8e-	.
+[8a-L	.
+8a-]	C minor-seventh
+[16fL	.
+16fJ]	C minor-seventh
+8e-J	.
 =3	=3
-8.f[	B-m9
-16f]	B-m9
-8cc[	.
-4cc_	B-m9
-8.cc_	B-m9
-8.cc]	B-m9
+[8.fL	B- minor-ninth
+16fk]	B- minor-ninth
+[8ccJ	.
+4cc_	B- minor-ninth
+8.ccL_	B- minor-ninth
+8.ccJ]	B- minor-ninth
 =4	=4
-16ff	B-m9
+16ffLL	B- minor-ninth
 16ff	.
 16ff	.
-16ff	B-m9
+16ff	B- minor-ninth
 16ff	.
 16ff	.
-16ff	B-m9
-16ff	.
+16ff	B- minor-ninth
+16ffJJ	.
 16cc	.
 16r	.
-16b-	B-m9
+16b-	B- minor-ninth
 16r	.
-16cc[	.
-8.cc]	E-
+[16ccLK	.
+8.ccJ]	E- major
 ==	==
 *-	*-

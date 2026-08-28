@@ -16,87 +16,87 @@
 *A-:	*
 *M4/4	*
 =1	=1
-2a-	A-
-2aa-	Fm7/A-
+2a-	A- major
+2aa-	F minor-seventh/A-
 =2	=2
-4gg	Cm
-8ee-	.
-8ff	.
+4gg	C minor
+8ee-L	.
+8ffJ	.
 4gg	.
-4aa-[	A-7/C
+[4aa-	A- dominant/C
 =3	=3
-8aa-]	D-
+8aa-]	D- major
 8r	.
 4a-	.
-2ff	B-m/D-
+2ff	B- minor/D-
 =4	=4
-4ee-[	A-add(2,4,7)/C
-4ee-_	A-/C
-4ee-_	Cm
-4ee-]	A-7/C
+[4ee-	A- other-2,4,7/C
+4ee-_	A- major/C
+4ee-_	C minor
+4ee-]	A- dominant/C
 =5	=5
-4r	D-
+4r	D- major
 4f	.
-4.dd-[	B-m7b5/D-
-8dd-]	A-/E-
+[4.dd-	B- half-diminished/D-
+8dd-]	A- major/E-
 =6	=6
 4cc	.
-16a-	.
+16a-LK	.
 8b-	.
-16cc[	.
-4cc]	F7
+[16ccJk	.
+4cc]	F dominant
 4dd-	.
 =7	=7
-4r	B-
+4r	B- major
 4a-	.
-16g	E-7sus2
+16gLK	E- dominant-seventh-suspended-second
 8a-	.
-16b-[	.
-16b-]	E-9
+[16b-L	.
+16b-J]	E- dominant-ninth
 8cc	.
-16a-[	.
+[16a-Jk	.
 =8	=8
-2a-_	A-
-8.a-]	E-7sus2
+2a-_	A- major
+8.a-]	E- dominant-seventh-suspended-second
 16r	.
-4r	E-7
+4r	E- dominant
 =9	=9
-2a-	A-
-2aa-	Fm7/A-
+2a-	A- major
+2aa-	F minor-seventh/A-
 =10	=10
-4gg	Cm7
-8ee-	.
-8ff	.
+4gg	C minor-seventh
+8ee-L	.
+8ffJ	.
 4gg	.
-4aa-[	A-7/C
+[4aa-	A- dominant/C
 =11	=11
-8aa-]	D-maj7
+8aa-]	D- major-seventh
 8r	.
 4a-	.
-2ff[	B-m7/D-
+[2ff	B- minor-seventh/D-
 =12	=12
-4ff]	A-add(2,4,7)/C
-4ee-[	A-/C
-4ee-_	Cm
-4ee-]	A-7/C
+4ff]	A- other-2,4,7/C
+[4ee-	A- major/C
+4ee-_	C minor
+4ee-]	A- dominant/C
 =13	=13
-4r	D-maj7
+4r	D- major-seventh
 4f	.
-2dd-	B-m7b5/D-
+2dd-	B- half-diminished/D-
 =14	=14
-4cc	A-
-8a-	.
-8b-	.
-4.cc	F7
+4cc	A- major
+8a-L	.
+8b-J	.
+4.cc	F dominant
 8dd-	.
 =15	=15
-4b-	B-
-8g	.
-8a-	.
-4b-	E-7sus2
-4cc	E-9
+4b-	B- major
+8gL	.
+8a-J	.
+4b-	E- dominant-seventh-suspended-second
+4cc	E- dominant-ninth
 =16	=16
-2a-	A-
+2a-	A- major
 2r	.
 ==	==
 *-	*-

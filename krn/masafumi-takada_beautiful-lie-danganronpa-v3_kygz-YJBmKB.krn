@@ -16,89 +16,89 @@
 *g#:	*
 *M4/4	*
 =1	=1
-8.dd#	G#m7
+8.dd#L	G# minor-seventh
 8.dd#	.
-8g#	.
+8g#J	.
+8.bL	.
 8.b	.
-8.b	.
-8f#	.
+8f#J	.
 =2	=2
-8.cc#	F#add(2,3,7)/A
+8.cc#L	F# other-2,3,7/A
 8.cc#	.
-8f#	.
+8f#J	.
+8.g#L	.
 8.g#	.
-8.g#	.
-8cc#	.
+8cc#J	.
 =3	=3
-8.b	Emaj9
+8.bL	E major-ninth
 8.b	.
-8g#	.
+8g#J	.
 2dd#	.
 =4	=4
-4.r	A#m7
+4.r	A# minor-seventh
 8cc#	.
-8.gg#	Amaj7
+8.gg#L	A major-seventh
 8.dd#	.
-8cc#	.
+8cc#J	.
 =5	=5
-8.dd#	G#m7
+8.dd#L	G# minor-seventh
 8.dd#	.
-8gg#	.
+8gg#J	.
+8.bbL	.
 8.bb	.
-8.bb	.
-8ff#	.
+8ff#J	.
 =6	=6
-8.ccc#	F#add(2,3,7)/A
+8.ccc#L	F# other-2,3,7/A
 8.ccc#	.
-8ff#	.
+8ff#J	.
+8.gg#L	.
 8.gg#	.
-8.gg#	.
-8ccc#	.
+8ccc#J	.
 =7	=7
-4.fff#[	Badd(2,4,7)/D#
-24fff#]	.
+[4.fff#	B other-2,4,7/D#
+24fff#LL]	.
 24fffn	.
-24eee	.
+24eeeJJ	.
 2ddd#	.
 =8	=8
-4.ccc#	C#add(2,4,7)/F
-24ddd#	.
+4.ccc#	C# other-2,4,7/F
+24ddd#LL	.
 24ccc#	.
-24bb	.
-2gg#	C#add(2,3,7)/E
+24bbJJ	.
+2gg#	C# other-2,3,7/E
 =9	=9
-4r	G#m7
+4r	G# minor-seventh
 4g#	.
 2dd#	.
 =10	=10
-2r	F#add(2,3,7)/A
-8.cc#	.
+2r	F# other-2,3,7/A
+8.cc#L	.
 8.ff#	.
-8ee	.
+8eeJ	.
 =11	=11
-3...dd#	Emaj9
-8.cc#	.
-8.b	.
+3...dd#	E major-ninth
+8.cc#L	.
+8.bJ	.
 =12	=12
-2g#[	A#m7
-2g#]	Amaj7
+[2g#	A# minor-seventh
+2g#]	A major-seventh
 =13	=13
-4r	G#m7
+4r	G# minor-seventh
 4g#	.
 2dd#	.
 =14	=14
-2r	Badd(2,4,7)/D#
-8.b	.
+2r	B other-2,4,7/D#
+8.bL	.
 8.cc#	.
-8ff#[	.
+[8ff#J	.
 =15	=15
-16ff#]	C#add(2,4,7)/F
+16ff#]	C# other-2,4,7/F
 16r	.
 2gg#	.
-8.gg#	.
-8.ddd#	.
+8.gg#L	.
+8.ddd#J	.
 =16	=16
-8r	Fm7
+8r	F minor-seventh
 2..ggg#	.
 ==	==
 *-	*-

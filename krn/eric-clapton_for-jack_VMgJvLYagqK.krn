@@ -16,48 +16,48 @@
 *B:	*
 *M4/4	*
 =1	=1
-4r	B
-8dd#	.
-8dd#[	.
-4.dd#]	B7/A
-16cc#	.
-16b	.
+4r	B major
+8dd#L	.
+[8dd#J	.
+4.dd#]	B dominant/A
+16cc#LL	.
+16bJJ	.
 =2	=2
-4ee	Gsus2
-8b	.
-8a[	.
-4a]	D/F#
+4ee	G suspended-second
+8bL	.
+[8aJ	.
+4a]	D major/F#
 4r	.
 =3	=3
-4r	G
-8gn	.
-8a	.
-4f#	D/F#
-8dn	.
-8dn[	.
+4r	G major
+8gnL	.
+8aJ	.
+4f#	D major/F#
+8dnL	.
+[8dnJ	.
 =4	=4
-4dn]	E7
-8f#	.
-8e[	.
-2e]	A
+4dn]	E dominant
+8f#L	.
+[8eJ	.
+2e]	A major
 =5	=5
-4r	B
+4r	B major
 4f#	.
-2d#	Emaj7/G#
+2d#	E major-seventh/G#
 =6	=6
-2e	A
-2c#	F#m
+2e	A major
+2c#	F# minor
 =7	=7
-4r	G
-8B	.
-8dn	.
-4c#	A
-8A	.
-8B[	.
+4r	G major
+8BL	.
+8dnJ	.
+4c#	A major
+8AL	.
+[8BJ	.
 =8	=8
-2B]	B7/F#
+2B]	B dominant/F#
 2r	.
 =9	=9
-1r	E7
+1r	E dominant
 ==	==
 *-	*-

@@ -16,30 +16,30 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	Dadd(2,4,7)
+4r	D other-2,4,7
 4dd	.
 4cc#	.
 4a	.
 =2	=2
-2.e	C#add(3,7,8,10)
-8a	.
-8b	.
+2.e	C# other-3,7,8,10
+8aL	.
+8bJ	.
 =3	=3
 *M5/4	*
-1a[	Am/C
-8a]	.
-16e	Esus4
-16e	.
+[1a	A minor/C
+8aL]	.
+16eL	E suspended-fourth
+16eJJ	.
 =4	=4
 *M4/4	*
-8e	.
-16B	.
+8eL	.
+16BL	.
 16c#	.
 16f#	.
 16B	.
 16c#	.
-16d#	.
-24e	.
+16d#JJ	.
+24eLL	.
 24f#	.
 24B	.
 24c#	.
@@ -50,9 +50,9 @@
 24a	.
 24b	.
 24cc#	.
-24dd	.
+24ddJJ	.
 =5	=5
-8ee	E
+8ee	E major
 8r	.
 4B	.
 4e	.

@@ -15,60 +15,60 @@
 *e:	*
 *M4/4	*
 =1	=1
-16dd	Bm
-16dd	.
+16ddLL	B minor
+16ddJ	.
 8dd	.
-16dd	.
+16ddk	.
 8dd	.
-16b[	.
-8b]	C
+[16bJk	.
+8b]	C major
 4.r	.
 =2	=2
-16a	D
+16aLK	D major
 8g	.
-16a[	.
-8a]	D#dim
-8g	.
-8b	Em
+[16ak	.
+8a]	D# diminished
+8gJ	.
+8bL	E minor
 8a	.
-8g	.
+8gJ	.
 8r	.
 =3	=3
-16dd	Bm
+16ddLK	B minor
 8dd	.
-16dd[	.
-16dd]	C
-8dd	.
+[16ddL	.
+16ddJ]	C major
+8ddJ	.
 16r	.
-16ee	D
-16b[	.
-16b]	D#dim
-16a	.
-8g	Em
-16a	.
-16b	.
+16eeLL	D major
+[16b	.
+16b]	D# diminished
+16aJ	.
+8g	E minor
+16aL	.
+16bJJ	.
 =4	=4
-16a	C
-16g	.
+16aLL	C major
+16gJJ	.
 4g	.
-16a	.
-16b	.
-16a	.
-16g	.
+16aLL	.
+16bJJ	.
+16aLL	.
+16gJJ	.
 4g	.
-16a	.
-16b	.
+16aLL	.
+16bJJ	.
 =5	=5
-16a	.
-16g	.
+16aLL	.
+16gJJ	.
 4g	.
 8r	.
-16r	C
-16g	.
+16r	C major
+16gLK	.
 8a	.
-16b	.
+16bL	.
 16d	.
 16d	.
-16e	.
+16eJJ	.
 ==	==
 *-	*-

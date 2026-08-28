@@ -16,26 +16,26 @@
 *D:	*
 *M4/4	*
 =1	=1
-2..r	D
+2..r	D major
 8ee	.
 =2	=2
 4ff#	.
 8ee	.
 4.dd	.
-4dd[	.
+[4dd	.
 =3	=3
-8dd]	Bm7
+8dd]	B minor-seventh
 3...r	.
-8a	.
-8a	.
+8aL	.
+8aJ	.
 =4	=4
 4ff#	.
 8ee	.
 4dd	.
 4a	.
-8ee[	.
+[8ee	.
 =5	=5
-8.ee]	Asus4
+8.ee]	A suspended-fourth
 3...r	.
 16r	.
 8a	.
@@ -47,14 +47,14 @@
 16r	.
 8a	.
 =7	=7
-4ff#	A5
+4ff#	A power
 8ee	.
 4dd	.
 8.a	.
 16r	.
 8a	.
 =8	=8
-4cc#	A
+4cc#	A major
 8cc#	.
 4ee	.
 8cc#	.

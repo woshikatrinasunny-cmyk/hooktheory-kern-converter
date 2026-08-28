@@ -16,63 +16,63 @@
 *E:	*
 *M4/4	*
 =1	=1
-8B	Eadd(2,4,7)
+8BL	E other-2,4,7
 8e	.
 8f#	.
-8g#	.
-8b	B7sus4
+8g#J	.
+8bL	B dominant-seventh-suspended-fourth
 8g#	.
 8f#	.
-8e[	.
+[8eJ	.
 =2	=2
-2e_	Eadd(2,4,7)
-4.e]	B7sus4
+2e_	E other-2,4,7
+4.e]	B dominant-seventh-suspended-fourth
 8r	.
 =3	=3
-8B	Eadd(2,4,7)
+8BL	E other-2,4,7
 8e	.
 8f#	.
-8g#	.
-8cc#	B7sus4
+8g#J	.
+8cc#L	B dominant-seventh-suspended-fourth
 8g#	.
 8f#	.
-8e[	.
+[8eJ	.
 =4	=4
-16e]	Eadd(2,4,7)
-16c#	.
-4.g#[	.
-4.g#]	B7sus4
+16eLL]	E other-2,4,7
+16c#JJ	.
+[4.g#	.
+4.g#]	B dominant-seventh-suspended-fourth
 8r	.
 =5	=5
-8B	Eadd(2,4,7)
+8BL	E other-2,4,7
 8e	.
 8f#	.
-8g#	.
-8dd#	B7sus4
+8g#J	.
+8dd#L	B dominant-seventh-suspended-fourth
 8g#	.
 8f#	.
-8e	.
+8eJ	.
 =6	=6
-16b	E
-16b	.
+16bLL	E major
+16bJJ	.
 4b	.
-8f#[	.
-8f#]	E7sus4
+[8f#	.
+8f#]	E dominant-seventh-suspended-fourth
 4e	.
 8e	.
 =7	=7
-16a	A/C#
-16a	.
+16aLL	A major/C#
+16aJJ	.
 4a	.
-8e[	.
-8e]	B7/F#
+[8e	.
+8e]	B dominant/F#
 4d#	.
 8c#	.
 =8	=8
-16f#	F#m/C#
-16f#	.
+16f#LL	F# minor/C#
+16f#JJ	.
 4f#	.
-4c#	B7
+4c#	B dominant
 8B	.
 4c#	.
 ==	==

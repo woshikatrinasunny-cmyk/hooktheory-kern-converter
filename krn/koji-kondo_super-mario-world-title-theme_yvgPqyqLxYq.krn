@@ -16,85 +16,85 @@
 *G:	*
 *M4/4	*
 =1	=1
+8dddL	.
 8ddd	.
 8ddd	.
+8ddJ	.
+8dddL	.
 8ddd	.
-8dd	.
 8ddd	.
-8ddd	.
-8ddd	.
-8dd	.
+8ddJ	.
 =2	=2
-2ddd#	F7
-8ddd	D
+2ddd#	F dominant
+8dddL	D major
 8aa	.
 8dd	.
-8ddd	.
+8dddJ	.
 =3	=3
-8bbb	G
+8bbbL	G major
 8bbb	.
 8bbb	.
-8ddd	.
+8dddJ	.
+8bbbL	.
 8bbb	.
 8bbb	.
-8bbb	.
-8ddd	.
+8dddJ	.
 =4	=4
+8bbbL	.
 8bbb	.
 8bbb	.
-8bbb	.
-16bbb	.
-16cccc	.
-4bbb	D
-8aaa	.
-8ddd	.
+16bbbL	.
+16ccccJJ	.
+4bbb	D major
+8aaaL	.
+8dddJ	.
 =5	=5
+8aaaL	.
 8aaa	.
 8aaa	.
+8dddJ	.
+8aaaL	.
 8aaa	.
-8ddd	.
 8aaa	.
-8aaa	.
-8aaa	.
-8ddd	.
+8dddJ	.
 =6	=6
+8aaaL	.
 8aaa	.
 8aaa	.
-8aaa	.
-16aaa	.
-16bbb	.
-4aaa	G
-8ggg	.
-8ddd	.
+16aaaL	.
+16bbbJJ	.
+4aaa	G major
+8gggL	.
+8dddJ	.
 =7	=7
+8bbbL	.
 8bbb	.
 8bbb	.
+8dddJ	.
+8bbbL	B diminished
 8bbb	.
-8ddd	.
-8bbb	Bdim
 8bbb	.
-8bbb	.
-8ddd	.
+8dddJ	.
 =8	=8
-8bbb	Cmaj7
+8bbbL	C major-seventh
 8bbb	.
 8bbb	.
-16aaa	.
-16bbb	.
-4cccc	D#7/C#
+16aaaL	.
+16bbbJJ	.
+4cccc	D# dominant/C#
 4eeee	.
 =9	=9
-8dddd	D
+8ddddL	D major
 8dddd	.
 8dddd	.
-8ddd	.
-8cccc	F#dim
+8dddJ	.
+8ccccL	F# diminished
 8cccc	.
 8cccc	.
-8fff#	.
+8fff#J	.
 =10	=10
-4ggg[	G
-4ggg]	G/D
-8r	G
+[4ggg	G major
+4ggg]	G major/D
+8r	G major
 ==	==
 *-	*-

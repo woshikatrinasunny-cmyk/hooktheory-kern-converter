@@ -16,23 +16,23 @@
 *G:	*
 *M4/4	*
 =1	=1
-8g	Dsus4
-8b	.
-4a	D
-8b	G
-8dd	.
-4cc	Gsus4
+8gL	D suspended-fourth
+8bJ	.
+4a	D major
+8bL	G major
+8ddJ	.
+4cc	G suspended-fourth
 =2	=2
-8g	Csus2
+8gL	C suspended-second
 8b	.
-8dd	Cmaj7sus2
-8b	.
-4cc	D7
-4dd	D
+8dd	C major-seventh-suspended-second
+8bJ	.
+4cc	D dominant
+4dd	D major
 =3	=3
-8.gg[	Csus2
-8.gg_	Csus2
-16gg]	G
+[8.ggL	C suspended-second
+8.gg_	C suspended-second
+16ggJk]	G major
 16r	.
 ==	==
 *-	*-

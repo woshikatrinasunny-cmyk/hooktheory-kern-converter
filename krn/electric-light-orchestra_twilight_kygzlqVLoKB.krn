@@ -15,54 +15,54 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.dd	C
+4.dd	C major
 3...cc	.
 =2	=2
-2r	Caug
-8e	.
+2r	C augmented
+8eL	.
 8d#	.
 8e	.
-8f	.
+8fJ	.
 =3	=3
-8r	F
+8r	F major
 4.e	.
 8r	.
-8d	.
+8dL	.
 8c	.
-8d[	.
+[8dJ	.
 =4	=4
-4d]	Fm
+4d]	F minor
 2.r	.
 =5	=5
-4.d	Dm
+4.d	D minor
 2d	.
 8r	.
 =6	=6
-2r	A#
-8d	.
+2r	A# major
+8dL	.
 8e	.
 8f	.
-8e	.
+8eJ	.
 =7	=7
-8d	G
+8d	G major
 4.r	.
-8d	.
+8dL	.
 8e	.
 8f	.
-8e	.
+8eJ	.
 =8	=8
-8d	G
+8d	G major
 4r	.
 8g	.
 4.g	.
 8g	.
 =9	=9
-1g	C
+1g	C major
 =10	=10
-1r	C
+1r	C major
 =11	=11
-1r	C
+1r	C major
 =12	=12
-1r	C
+1r	C major
 ==	==
 *-	*-

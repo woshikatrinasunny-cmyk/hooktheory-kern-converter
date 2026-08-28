@@ -15,163 +15,163 @@
 *g#:	*
 *M6/4	*
 =1	=1
-8g#	G#m
-8f#	.
+8g#L	G# minor
+8f#J	.
 8g#	.
 4.d#	.
 4.g#	.
 4a#	.
 8b	.
 =2	=2
-8a#	F#
-8g#	.
+8a#L	F# major
+8g#J	.
 8a#	.
 2.f#	.
 4.r	.
 =3	=3
-8g#	E
-8f#	.
+8g#L	E major
+8f#J	.
 8g#	.
 4.d#	.
 4.g#	.
 4a#	.
 8b	.
 =4	=4
-8a#	F#
-8b	.
+8a#L	F# major
+8bJ	.
 8cc#	.
 2.a#	.
 4.r	.
 =5	=5
-8g#	G#m
-8f#	.
+8g#L	G# minor
+8f#J	.
 8g#	.
 4.d#	.
 4.g#	.
 4a#	.
 8b	.
 =6	=6
-8a#	F#
-8g#	.
+8a#L	F# major
+8g#J	.
 8a#	.
 2.f#	.
 4.r	.
 =7	=7
-8g#	E
-8f#	.
+8g#L	E major
+8f#J	.
 8g#	.
 4.a#	.
-4.b	F#
+4.b	F# major
 4.a#	.
 =8	=8
-8g#	G#m
-8f#	.
-8g#	.
-8g#	.
-8f#	.
-8g#	.
+8g#L	G# minor
+8f#J	.
+8g#L	.
+8g#J	.
+8f#L	.
+8g#J	.
 2.g#	.
 =9	=9
-4dd#	G#m
-8dd#	.
-8dd#	.
-8b	.
-8cc#	.
+4dd#	G# minor
+8dd#L	.
+8dd#J	.
+8bL	.
+8cc#J	.
 4.dd#	.
 4.gg#	.
 =10	=10
-2.ff#	B
+2.ff#	B major
 3...dd#	.
 8b	.
 =11	=11
-1g#[	E
+[1g#	E major
 4.g#]	.
 8r	.
 =12	=12
-8g#	F#
-8a#	.
-8b	.
-8a#	.
-8b	.
-8cc#	.
-8b	.
-8cc#	.
-8dd#	.
-8cc#	.
-8dd#	.
-8ff#	.
+8g#L	F# major
+8a#J	.
+8bL	.
+8a#J	.
+8bL	.
+8cc#J	.
+8bL	.
+8cc#J	.
+8dd#L	.
+8cc#J	.
+8dd#L	.
+8ff#J	.
 =13	=13
-4dd#	G#m
-8dd#	.
-8dd#	.
-8b	.
-8cc#	.
+4dd#	G# minor
+8dd#L	.
+8dd#J	.
+8bL	.
+8cc#J	.
 4.dd#	.
 4.gg#	.
 =14	=14
-2aa#	F#
-8bb	.
-8aa#	.
+2aa#	F# major
+8bbL	.
+8aa#J	.
 4.gg#	.
 4.ff#	.
 =15	=15
-1gg#[	E
+[1gg#	E major
 4.gg#]	.
 8r	.
 =16	=16
-2.gg#	D#m
-2.aa#	D#
+2.gg#	D# minor
+2.aa#	D# major
 =17	=17
-4bb	E
-8bb	.
-8bb	.
-8aa#	.
-8gg#	.
-4.ff#	F#
+4bb	E major
+8bbL	.
+8bbJ	.
+8aa#L	.
+8gg#J	.
+4.ff#	F# major
 4.dd#	.
 =18	=18
-4gg#	E
-8gg#	.
-8gg#	.
-8ff#	.
-8ee	.
-2.dd#	G#m
+4gg#	E major
+8gg#L	.
+8gg#J	.
+8ff#L	.
+8eeJ	.
+2.dd#	G# minor
 =19	=19
-4bb	E
-8bb	.
-8bb	.
-8aa#	.
-8gg#	.
-4.ff#	F#
+4bb	E major
+8bbL	.
+8bbJ	.
+8aa#L	.
+8gg#J	.
+4.ff#	F# major
 4.dd#	.
 =20	=20
-2.gg#	C#
-2.aa#	D#
+2.gg#	C# major
+2.aa#	D# major
 =21	=21
-4bb	E
-8bb	.
-8bb	.
-8aa#	.
-8gg#	.
-4.ff#	F#
+4bb	E major
+8bbL	.
+8bbJ	.
+8aa#L	.
+8gg#J	.
+4.ff#	F# major
 4.dd#	.
 =22	=22
-4gg#	E
-8gg#	.
-8gg#	.
-8ff#	.
-8ee	.
-2.dd#	G#m
+4gg#	E major
+8gg#L	.
+8gg#J	.
+8ff#L	.
+8eeJ	.
+2.dd#	G# minor
 =23	=23
-4bb	E
-8bb	.
-8bb	.
-8aa#	.
-8bb	.
-4.ccc#	F#
+4bb	E major
+8bbL	.
+8bbJ	.
+8aa#L	.
+8bbJ	.
+4.ccc#	F# major
 4.aa#	.
 =24	=24
-2.aa#	G#m
+2.aa#	G# minor
 8gg#	.
 3...r	.
 ==	==

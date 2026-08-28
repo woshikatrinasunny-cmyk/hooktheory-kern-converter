@@ -16,33 +16,33 @@
 *D:	*
 *M4/4	*
 =1	=1
-4f#	D
+4f#	D major
 4d	.
-2F#	Dmaj7
+2F#	D major-seventh
 =2	=2
-4r	D7
-8g	.
-8e[	.
-8e]	Dadd(2,4,7,9,10)
+4r	D dominant
+8gL	.
+[8eJ	.
+8e]	D other-2,4,7,9,10
 4.d	.
 =3	=3
-1a[	Gmaj7
+[1a	G major-seventh
 =4	=4
-1a]	Gmaj7sus2
+1a]	G major-seventh-suspended-second
 =5	=5
-4f#	Bm
+4f#	B minor
 4d	.
-2F#	Bm7/A
+2F#	B minor-seventh/A
 =6	=6
-4r	G#m7b5
-8g	.
-8e[	.
-8e]	Gmaj7
+4r	G# half-diminished
+8gL	.
+[8eJ	.
+8e]	G major-seventh
 4.d	.
 =7	=7
-1a[	F#m7
+[1a	F# minor-seventh
 =8	=8
-2a_	Em7
-2a]	Em7/G
+2a_	E minor-seventh
+2a]	E minor-seventh/G
 ==	==
 *-	*-

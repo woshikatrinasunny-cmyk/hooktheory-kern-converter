@@ -16,51 +16,51 @@
 *E:	*
 *M4/4	*
 =1	=1
-1g#	E
+1g#	E major
 =2	=2
 2.r	.
-4r	E/B
+4r	E major/B
 =3	=3
-2.a[	Dsus2
-4a]	Dsus2/A
+[2.a	D suspended-second
+4a]	D suspended-second/A
 =4	=4
-2r	Dsus2
-4d[	.
-4d]	Badd(3,5,7,10)
+2r	D suspended-second
+[4d	.
+4d]	B other-3,5,7,10
 =5	=5
-2.e	E
-4d	E/B
+2.e	E major
+4d	E major/B
 =6	=6
-4f#	E
+4f#	E major
 4e	.
-4a[	Esus4
-4a_	Esus4/B
+[4a	E suspended-fourth
+4a_	E suspended-fourth/B
 =7	=7
-2a]	Dsus2
+2a]	D suspended-second
 4r	.
-4dd[	Dsus2/A
+[4dd	D suspended-second/A
 =8	=8
-8dd]	Dsus2
+8dd]	D suspended-second
 4.cc#	.
-4a[	D
-4a]	Bm7
+[4a	D major
+4a]	B minor-seventh
 =9	=9
-2.e	E
-4d	E/B
+2.e	E major
+4d	E major/B
 =10	=10
-4f#	E
+4f#	E major
 4e	.
-4a[	Esus4
-4a_	Esus4/B
+[4a	E suspended-fourth
+4a_	E suspended-fourth/B
 =11	=11
-2a]	Badd(3,5,7,10)/D
+2a]	B other-3,5,7,10/D
 4r	.
-4dd[	Asus4
+[4dd	A suspended-fourth
 =12	=12
-8dd]	Dsus2
-8cc#[	.
-4cc#]	Badd(3,5,7,10)
-4a[	F#m
-4a]	D
+8ddL]	D suspended-second
+[8cc#J	.
+4cc#]	B other-3,5,7,10
+[4a	F# minor
+4a]	D major
 ==	==
 *-	*-

@@ -15,116 +15,116 @@
 *f:	*
 *M4/4	*
 =1	=1
-4r	Fm
+4r	F minor
 4a-	.
 4en	.
 4f	.
 =2	=2
-2g	E-
+2g	E- major
 4f	.
 4g	.
 =3	=3
-2a-	D-
-4.ff	B-m
+2a-	D- major
+4.ff	B- minor
 16r	.
 16ff	.
 =4	=4
-2ff	Fm/C
-2een	C
+2ff	F minor/C
+2een	C major
 =5	=5
 *k[]	*
 *a:	*
-4r	Am
+4r	A minor
 4e	.
 4a	.
 4b	.
 =6	=6
-2cc	Am7/G
+2cc	A minor-seventh/G
 4.ee	.
 16r	.
 16ee	.
 =7	=7
-2ee	Fmaj7
-4a	Dm
+2ee	F major-seventh
+4a	D minor
 4b	.
 =8	=8
-2cc	Am/E
-2b	E
+2cc	A minor/E
+2b	E major
 =9	=9
 *k[b-e-a-]	*
 *c:	*
-4r	Cm
+4r	C minor
 4g	.
 4c	.
 4d	.
 =10	=10
-4e-	Cm7/B-
+4e-	C minor-seventh/B-
 4f	.
 4g	.
 4cc	.
 =11	=11
-2ee-	A-
-4gg	Fm
+2ee-	A- major
+4gg	F minor
 4ff	.
 =12	=12
-2dd[	Gsus4
-8dd]	G
+[2dd	G suspended-fourth
+8dd]	G major
 8r	.
 4g	.
 =13	=13
-2aa-	Fm
-8gg	G
+2aa-	F minor
+8ggL	G major
 8ff	.
 8ee-	.
-8dd	.
+8ddJ	.
 =14	=14
-2ee-	Cm
-4r	Cm7/B-
+2ee-	C minor
+4r	C minor-seventh/B-
 4dd	.
 =15	=15
-4cc[	Am
-4cc]	Am7
-4cc[	D7sus4
-8.cc]	D7
-16cc	.
+[4cc	A minor
+4cc]	A minor-seventh
+[4cc	D dominant-seventh-suspended-fourth
+8.ccL]	D dominant
+16ccJk	.
 =16	=16
-2cc	Gsus4
-2dd	G
+2cc	G suspended-fourth
+2dd	G major
 =17	=17
 *k[f#c#g#d#]	*
 *c#:	*
-16ee	C#m
+16eeLL	C# minor
 16cc#	.
 16g#	.
 16dd#	.
 16cc#	.
 16g#	.
 16ee	.
-16cc#	.
-16g#	.
+16cc#JJ	.
+16g#LL	.
 16ff#	.
 16cc#	.
 16g#	.
 16ee	.
 16g#	.
 16dd#	.
-16g#	.
+16g#JJ	.
 =18	=18
-16ee	C#m
+16eeLL	C# minor
 16cc#	.
-16g#	C#m
+16g#	C# minor
 16dd#	.
 16cc#	.
 16g#	.
 16ee	.
-16cc#	.
-16g#	.
+16cc#JJ	.
+16g#LL	.
 16ff#	.
 16cc#	.
 16g#	.
 16ee	.
 16g#	.
 16dd#	.
-16g#	.
+16g#JJ	.
 ==	==
 *-	*-

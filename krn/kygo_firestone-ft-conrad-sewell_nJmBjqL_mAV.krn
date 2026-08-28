@@ -16,58 +16,58 @@
 *b:	*
 *M4/4	*
 =1	=1
-2r	G
-8d	.
-8e	.
-4e[	.
+2r	G major
+8dL	.
+8eJ	.
+[4e	.
 =2	=2
-16e]	A
+16e]	A major
 6...r	.
 8A	.
-8d	.
-8e	.
-4e[	.
+8dL	.
+8eJ	.
+[4e	.
 =3	=3
-16e]	Bm
+16e]	B minor
 6...r	.
 8A	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 4e	.
 =4	=4
-6...d	D
+6...d	D major
 16r	.
 8A	.
-8d	.
-8e	.
-4e[	.
+8dL	.
+8eJ	.
+[4e	.
 =5	=5
-16e]	G
+16e]	G major
 8.r	.
-8B	.
-8B	.
-8d	.
-8e	.
+8BL	.
+8BJ	.
+8dL	.
+8eJ	.
 4e	.
 =6	=6
-6...d	A
+6...d	A major
 16r	.
 8B	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 4e	.
 =7	=7
-4a	D
+4a	D major
 4g	.
 4f#	.
-8e	.
-8g	.
+8eL	.
+8gJ	.
 =8	=8
-4f#	Bm
+4f#	B minor
 4e	.
-8d	.
+8dL	.
 8e	.
-8e[	.
-8e]	Badd(2,3,7)
+[8e	.
+8eJ]	B other-2,3,7
 ==	==
 *-	*-

@@ -16,25 +16,25 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	Cadd(2,4,7)
+1r	C other-2,4,7
 =2	=2
-2r	Bsus4
-2r	B
+2r	B suspended-fourth
+2r	B major
 =3	=3
-1r	Bm7
+1r	B minor-seventh
 =4	=4
-2r	Em7
-2r	Em
+2r	E minor-seventh
+2r	E minor
 =5	=5
-2r	Cmaj7
-2r	Cadd(2,4,7)
+2r	C major-seventh
+2r	C other-2,4,7
 =6	=6
-2r	Cmaj7
-2r	Cadd(2,4,7)
+2r	C major-seventh
+2r	C other-2,4,7
 =7	=7
-2r	Gadd(2,4,7)
-2r	Gmaj7sus2
+2r	G other-2,4,7
+2r	G major-seventh-suspended-second
 =8	=8
-1r	G7sus2
+1r	G dominant-seventh-suspended-second
 ==	==
 *-	*-

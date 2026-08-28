@@ -16,90 +16,90 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.ff	F
+4.ff	F major
 4.cc	.
 4aa	.
 =2	=2
-4.gg	C
+4.gg	C major
 4.ee	.
 4cc	.
 =3	=3
-4.ff	Dm
+4.ff	D minor
 4.gg	.
 4ff	.
 =4	=4
-4.ee	C
+4.ee	C major
 3...cc	.
 =5	=5
-4.ff	F
+4.ff	F major
 4.cc	.
 4aa	.
 =6	=6
-4.gg	C
+4.gg	C major
 4.ee	.
 4cc	.
 =7	=7
-4.ff	B-
+4.ff	B- major
 4.gg	.
 4ff	.
 =8	=8
-1ee	C
+1ee	C major
 =9	=9
-4.ff	F
+4.ff	F major
 4.cc	.
 4aa	.
 =10	=10
-4.gg	C
+4.gg	C major
 4.ee	.
 4cc	.
 =11	=11
-4.ff	B-
+4.ff	B- major
 4.gg	.
 4ff	.
 =12	=12
-4.ee	C
+4.ee	C major
 3...cc	.
 =13	=13
-4.ff	F
+4.ff	F major
 4.cc	.
 4aa	.
 =14	=14
-4.gg	C
+4.gg	C major
 4.ee	.
 4cc	.
 =15	=15
-4.ff	B-
+4.ff	B- major
 4.gg	.
 4ff	.
 =16	=16
-1ee	C
+1ee	C major
 =17	=17
-4.dd	B-
+4.dd	B- major
 4.b-	.
 4ff	.
 =18	=18
-4.ee	Am
+4.ee	A minor
 3...cc	.
 =19	=19
-4.ff	Gm7
+4.ff	G minor-seventh
 4.gg	.
 4ff	.
 =20	=20
-4.ee	C
+4.ee	C major
 3...cc	.
 =21	=21
-4.dd	B-
+4.dd	B- major
 4.b-	.
 4ff	.
 =22	=22
-4.ee	Am
+4.ee	A minor
 3...cc	.
 =23	=23
-4.aa	Gadd(2,3,7)
-4.gg	Am7
-4ff	B-
+4.aa	G other-2,3,7
+4.gg	A minor-seventh
+4ff	B- major
 =24	=24
-2.ee[	C
-4ee]	C/E
+[2.ee	C major
+4ee]	C major/E
 ==	==
 *-	*-

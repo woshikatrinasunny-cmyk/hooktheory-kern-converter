@@ -16,76 +16,76 @@
 *F#:	*
 *M4/4	*
 =1	=1
-2r	F#
-8A#	.
+2r	F# major
+8A#L	.
 8B	.
 8c#	.
-8c#[	.
+[8c#J	.
 =2	=2
-4c#]	C#/E#
+4c#]	C# major/E#
 4f#	.
 4e#	.
 4f#	.
 =3	=3
-4g#	D#m
+4g#	D# minor
 8a#	.
-3...f#[	.
+[3...f#	.
 =4	=4
-4.f#]	C#
+4.f#]	C# major
 4.r	.
-8e#	.
-8f#	.
+8e#L	.
+8f#J	.
 =5	=5
-4.cc#	B
+4.cc#	B major
 8f#	.
-2f#[	.
+[2f#	.
 =6	=6
-3...f#]	Cdim
+3...f#]	C diminished
 8r	.
-8f#	.
-8f#	.
+8f#L	.
+8f#J	.
 =7	=7
-3...f#	C#sus4
-8g#	.
+3...f#	C# suspended-fourth
+8g#L	.
 8f#	.
-8e#[	.
+[8e#J	.
 =8	=8
-2.e#]	C#
+2.e#]	C# major
 4r	.
 =9	=9
-3...A#	F#
-8G#	.
+3...A#	F# major
+8G#L	.
 8F#	.
-8c#[	.
+[8c#J	.
 =10	=10
-2c#]	F#7/E
+2c#]	F# dominant/E
 4f#	.
 4g#	.
 =11	=11
-4.b	D#m
+4.b	D# minor
 8a#	.
-2a#[	.
+[2a#	.
 =12	=12
-2a#]	D
+2a#]	D major
 4cc#	.
 4b	.
 =13	=13
-8a#	F#/C#
+8a#L	F# major/C#
 8b	.
-8a#	.
+8a#J	.
 4f#	.
-4.c#[	.
+[4.c#	.
 =14	=14
-8c#]	C#/E#
+8c#L]	C# major/E#
 8g#	.
 8f#	.
-8e#	.
+8e#J	.
 8d#	.
 4.e#	.
 =15	=15
-4.f#	D
-4.f#	Eadd(2,4,7)
-4f#[	F#
+4.f#	D major
+4.f#	E other-2,4,7
+[4f#	F# major
 =16	=16
 2f#]	.
 2r	.

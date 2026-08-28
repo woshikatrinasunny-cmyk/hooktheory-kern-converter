@@ -16,43 +16,43 @@
 *G:	*
 *M4/4	*
 =1	=1
-2..r	D
+2..r	D major
 8B	.
 =2	=2
-4e	Em
+4e	E minor
 4g	.
-2g	Em/B
+2g	E minor/B
 =3	=3
-4.f#	Em
-8e[	.
-4e]	Em/B
-8r	Em
+4.f#	E minor
+[8e	.
+4e]	E minor/B
+8r	E minor
 8B	.
 =4	=4
-4e	A
+4e	A major
 4g	.
-2g	A/E
+2g	A major/E
 =5	=5
-4.f#	A
-8e[	.
-8e]	A/E
+4.f#	A major
+[8e	.
+8e]	A major/E
 8r	.
-8G	A
-8G	.
+8GL	A major
+8GJ	.
 =6	=6
-4A	Cm
+4A	C minor
 4A	.
 8A	.
 4r	.
 8A	.
 =7	=7
-4A#	D7
+4A#	D dominant
 4A#	.
 4A	.
-8G	.
-8A[	.
+8GL	.
+[8AJ	.
 =8	=8
-8A]	G
+8A]	G major
 4.G	.
 2r	.
 =9	=9

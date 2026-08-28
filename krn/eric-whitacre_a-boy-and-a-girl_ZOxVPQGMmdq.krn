@@ -16,30 +16,30 @@
 *C:	*
 *M4/4	*
 =1	=1
-1e[	Cadd(2,4,7)
+[1e	C other-2,4,7
 =2	=2
 8e]	.
-2g	D#add(2,4,7)
-4.a[	Fadd(2,4,7)
+2g	D# other-2,4,7
+[4.a	F other-2,4,7
 =3	=3
 8a]	.
 4.r	.
 2g	.
 =4	=4
-2cc	C/G
-4.gg	C
-8gg[	Cm7/D#
+2cc	C major/G
+4.gg	C major
+[8gg	C minor-seventh/D#
 =5	=5
 4.gg_	.
-2gg]	Fsus4
-8ff[	F/A
+2gg]	F suspended-fourth
+[8ff	F major/A
 =6	=6
 8ff]	.
-4ff	F
-3...ff[	C
+4ff	F major
+[3...ff	C major
 =7	=7
 3...ff]	.
-4.ee[	A#
+[4.ee	A# major
 =8	=8
 4.ee]	.
 3...r	.
@@ -47,67 +47,67 @@
 1r	.
 =10	=10
 4r	.
-3...e	Am
-8g[	Fmaj7
+3...e	A minor
+[8g	F major-seventh
 =11	=11
 2..g]	.
 8r	.
 =12	=12
 4.r	.
-4.ee	C
-4ee[	C
+4.ee	C major
+[4ee	C major
 =13	=13
 8ee]	.
-2..ee[	Aadd(2,4,7)
+[2..ee	A other-2,4,7
 =14	=14
 2ee]	.
 4.r	.
-8cc#[	G
+[8cc#	G major
 =15	=15
 8cc#_	.
-4cc#]	Em7/G
-4.cc#	Bm
-8.b	.
-16ee[	.
+4cc#]	E minor-seventh/G
+4.cc#	B minor
+8.bL	.
+[16eeJk	.
 =16	=16
 8ee]	.
-4cc#[	G
-4cc#]	Em7/G
-4.cc#	Bm
+[4cc#	G major
+4cc#]	E minor-seventh/G
+4.cc#	B minor
 =17	=17
 8r	.
 4.a	.
-4.ff#	Dadd(2,4,7)
-8ff#[	Dadd(2,4,7)
+4.ff#	D other-2,4,7
+[8ff#	D other-2,4,7
 =18	=18
 8ff#]	.
-4.gg	Em
-4.dd	C
-8cc[	.
+4.gg	E minor
+4.dd	C major
+[8cc	.
 =19	=19
 4cc]	.
-2.b[	Gadd(2,4,7)
+[2.b	G other-2,4,7
 =20	=20
 2b]	.
 2r	.
 =21	=21
 16r	.
-2g[	.
+[2g	.
 16g]	.
-4.e[	Em
+[4.e	E minor
 =22	=22
 4e_	.
-3...e]	A7/E
+3...e]	A dominant/E
 8r	.
 =23	=23
 2r	.
-2c#	Aadd(2,4,7)
+2c#	A other-2,4,7
 =24	=24
-3...f#	Dadd(2,4,7)
-4.g#	Eadd(2,4,7)
+3...f#	D other-2,4,7
+4.g#	E other-2,4,7
 =25	=25
-3...g#	Eadd(2,4,7)
-4.d#[	Badd(2,4,7)
+3...g#	E other-2,4,7
+[4.d#	B other-2,4,7
 =26	=26
 1d#]	.
 ==	==

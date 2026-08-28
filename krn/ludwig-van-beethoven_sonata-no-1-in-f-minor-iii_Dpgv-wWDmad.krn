@@ -17,128 +17,128 @@
 *M3/4	*
 =1	=1
 2r	.
-4ee-	A-/C
+4ee-	A- major/C
 =2	=2
-4een	D-m
-2dd-	Gdim
+4een	D- minor
+2dd-	G diminished
 =3	=3
 4ee-	.
-2cc	A-
+2cc	A- major
 =4	=4
 4gg-	.
-2ee-	Adim
+2ee-	A diminished
 =5	=5
 4ff	.
-2dd-	B-m
+2dd-	B- minor
 =6	=6
-2b-	B-m/F
-8dd-	Fadd(4,7,8,10)
-8cc	.
+2b-	B- minor/F
+8dd-L	F other-4,7,8,10
+8ccJ	.
 =7	=7
-4b-	B-m
+4b-	B- minor
 4r	.
-8gg-	.
-8ff	.
+8gg-L	.
+8ffJ	.
 =8	=8
-2b-	B-m/F
-8dd-	Fadd(4,7,8,10)
-8cc	.
+2b-	B- minor/F
+8dd-L	F other-4,7,8,10
+8ccJ	.
 =9	=9
-4b-	B-m
+4b-	B- minor
 4r	.
-8dd-	Fadd(4,7,8,10)
-8cc	.
+8dd-L	F other-4,7,8,10
+8ccJ	.
 =10	=10
-4b-	B-m
+4b-	B- minor
 4r	.
-8dd-	Fadd(4,7,8,10)
-8cc	.
+8dd-L	F other-4,7,8,10
+8ccJ	.
 =11	=11
-4b-	B-m
+4b-	B- minor
 4r	.
-8dd-	.
-8cc	.
+8dd-L	.
+8ccJ	.
 =12	=12
-8b-	.
-8cc	.
-8dd-	.
-8cc	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
+8dd-L	.
+8ccJ	.
+8b-L	.
+8ccJ	.
 =13	=13
-8b-	.
-8a-	.
-8g	.
-8a-	.
-8g	.
-8f	.
+8b-L	.
+8a-J	.
+8gL	.
+8a-J	.
+8gL	.
+8fJ	.
 =14	=14
-8en	.
-8f	.
-8g	.
-8f	.
-8a-	.
-8Bn	.
+8enL	.
+8fJ	.
+8gL	.
+8fJ	.
+8a-L	.
+8BnJ	.
 =15	=15
 4c	.
 4c	.
-4a-	Fm/C
+4a-	F minor/C
 =16	=16
-4b-	B-m/D-
-4g	Gdim/B-
-4een	Edim/B-
+4b-	B- minor/D-
+4g	G diminished/B-
+4een	E diminished/B-
 =17	=17
-4ff	Fm/C
-4aa-	Fm/A-
-16ccc	Fm
+4ff	F minor/C
+4aa-	F minor/A-
+16cccLL	F minor
 16ddd-	.
 16bb-	.
-16ccc	.
+16cccJJ	.
 =18	=18
-4ddd-	Edim7
+4ddd-	E diminished-seventh
 4bb-	.
-16bb-	.
+16bb-LL	.
 16ccc	.
 16aa-	.
-16bb-	.
+16bb-JJ	.
 =19	=19
-4ccc	Fm
+4ccc	F minor
 4aa-	.
-16aa-	.
+16aa-LL	.
 16bb-	.
 16gg	.
-16aa-	.
+16aa-JJ	.
 =20	=20
-4bb-	Edim7/G
+4bb-	E diminished-seventh/G
 4gg	.
-16gg	.
+16ggLL	.
 16aa-	.
 16ff	.
-16gg	.
+16ggJJ	.
 =21	=21
-4aa-	Bdim7
+4aa-	B diminished-seventh
 4ff	.
 4ff	.
 =22	=22
-2ff	Fm/C
-8aa-	Cadd(4,7,8,10)
-8gg	.
+2ff	F minor/C
+8aa-L	C other-4,7,8,10
+8ggJ	.
 =23	=23
-4ff	Fm
+4ff	F minor
 4r	.
-8ee-	.
-8dd-	.
+8ee-L	.
+8dd-J	.
 =24	=24
-2f	Fm/C
-8a-	Cadd(4,7,8,10)
-8g	.
+2f	F minor/C
+8a-L	C other-4,7,8,10
+8gJ	.
 =25	=25
-4f	Fm
+4f	F minor
 2r	.
 =26	=26
-2.c	C
+2.c	C major
 =27	=27
-4F	Fm
+4F	F minor
 2r	.
 ==	==
 *-	*-

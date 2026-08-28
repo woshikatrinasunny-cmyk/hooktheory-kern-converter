@@ -15,33 +15,33 @@
 *B:	*
 *M4/4	*
 =1	=1
-4r	B
-16dd#	.
+4r	B major
+16dd#LL	.
 16cc#	.
 16dd#	.
-16cc#	.
-16dd#	.
-8dd#	.
+16cc#JJ	.
+16dd#LK	.
+8dd#J	.
 4ff#	.
 16g#	.
 =2	=2
-8cc#	C#m
-16cc#	.
+8cc#L	C# minor
+16cc#L	.
 16b	.
-16cc#	.
-8b	.
+16cc#J	.
+8bJ	.
 8dd#	.
-8b	.
+8bL	.
 8.cc#	.
-8dd#	.
+8dd#J	.
 =3	=3
-16b	E
-8.b	.
+16bLK	E major
+8.bJ	.
 3...r	.
 8dd#	.
 =4	=4
-16b	B
-8.b	.
+16bLK	B major
+8.bJ	.
 2.r	.
 ==	==
 *-	*-

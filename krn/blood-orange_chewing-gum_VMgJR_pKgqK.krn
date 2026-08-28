@@ -16,51 +16,51 @@
 *F#:	*
 *M4/4	*
 =1	=1
-1r	Badd(2,4,7)
+1r	B other-2,4,7
 =2	=2
-8cc#	G#sus4
+8cc#L	G# suspended-fourth
 8a#	.
 8a#	.
-8b	A#m
+8bJ	A# minor
 4cc#	.
 4dd#	.
 =3	=3
-16a#	D#m7
+16a#	D# minor-seventh
 4..g#	.
 2r	.
 =4	=4
-8cc#	C#
+8cc#L	C# major
 8a#	.
 8a#	.
-8b	.
+8bJ	.
 4cc#	.
 4dd#	.
 =5	=5
-16a#	Badd(2,4,7)
-16g#	.
+16a#LL	B other-2,4,7
+16g#JJ	.
 4.f#	.
 2r	.
 =6	=6
-8cc#	G#sus4
+8cc#L	G# suspended-fourth
 8a#	.
 8a#	.
-8b	A#m
+8bJ	A# minor
 4cc#	.
 4dd#	.
 =7	=7
-16a#	D#m7
+16a#	D# minor-seventh
 4..g#	.
 2r	.
 =8	=8
-8cc#	C#
+8cc#L	C# major
 8a#	.
 8a#	.
-8b	.
+8bJ	.
 4cc#	.
 4dd#	.
 =9	=9
-16a#	D#m7/F#
-16g#	.
+16a#LL	D# minor-seventh/F#
+16g#JJ	.
 4.f#	.
 2r	.
 ==	==

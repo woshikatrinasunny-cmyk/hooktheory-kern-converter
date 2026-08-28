@@ -22,66 +22,66 @@
 4g#	.
 4a#	.
 =2	=2
-4.f#	Badd(2,4,7)
-4e#	Badd(2,4,7)
-8f#[	.
-4f#]	Badd(2,4,7)
+4.f#	B other-2,4,7
+4e#	B other-2,4,7
+[8f#	.
+4f#]	B other-2,4,7
 8r	.
-4.r	Badd(2,4,7)
+4.r	B other-2,4,7
 =3	=3
-4f#	D#m7
-8f#[	.
-8f#]	D#m7
+4f#	D# minor-seventh
+[8f#L	.
+8f#J]	D# minor-seventh
 4f#	.
-4f#	D#m7
-8g#[	.
-8g#]	D#m7
+4f#	D# minor-seventh
+[8g#L	.
+8g#J]	D# minor-seventh
 4a#	.
 =4	=4
-4.g#	C#sus4
-4f#	C#sus4
-8g#[	.
-4g#]	C#sus4
+4.g#	C# suspended-fourth
+4f#	C# suspended-fourth
+[8g#	.
+4g#]	C# suspended-fourth
 8r	.
-4r	C#sus4
+4r	C# suspended-fourth
 8c#	.
 =5	=5
-4g#	G#7sus4
-8g#[	.
-8g#]	G#7sus4
+4g#	G# dominant-seventh-suspended-fourth
+[8g#L	.
+8g#J]	G# dominant-seventh-suspended-fourth
 4g#	.
-4a#	G#7sus4
-8g#[	.
-8g#]	G#7sus4
+4a#	G# dominant-seventh-suspended-fourth
+[8g#L	.
+8g#J]	G# dominant-seventh-suspended-fourth
 4f#	.
 =6	=6
-4.f#	Badd(2,4,7)
-4e#	Badd(2,4,7)
-8f#[	.
-4f#]	Badd(2,4,7)
+4.f#	B other-2,4,7
+4e#	B other-2,4,7
+[8f#	.
+4f#]	B other-2,4,7
 8r	.
-4.r	Badd(2,4,7)
+4.r	B other-2,4,7
 =7	=7
-4f#	D#m7
-8f#[	.
-8f#]	D#m7
+4f#	D# minor-seventh
+[8f#L	.
+8f#J]	D# minor-seventh
 4f#	.
-4f#	D#m7
-8g#[	.
-8g#]	D#m7
+4f#	D# minor-seventh
+[8g#L	.
+8g#J]	D# minor-seventh
 4a#	.
 =8	=8
-4.g#[	C#sus4
-4.g#_	C#sus4
-4g#]	C#sus4
+[4.g#	C# suspended-fourth
+4.g#_	C# suspended-fourth
+4g#]	C# suspended-fourth
 8r	.
-8f#	C#sus4
-8a#	.
-8g#[	.
+8f#	C# suspended-fourth
+8a#L	.
+[8g#J	.
 =9	=9
-4.g#_	G#7sus4
-4.g#_	G#7sus4
-4.g#]	G#7sus4
-4.r	G#7sus4
+4.g#_	G# dominant-seventh-suspended-fourth
+4.g#_	G# dominant-seventh-suspended-fourth
+4.g#]	G# dominant-seventh-suspended-fourth
+4.r	G# dominant-seventh-suspended-fourth
 ==	==
 *-	*-

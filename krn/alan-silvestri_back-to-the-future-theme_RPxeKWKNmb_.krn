@@ -16,15 +16,15 @@
 *C#:	*
 *M4/4	*
 =1	=1
-16g#	.
-16g#	.
-8g#	.
+16g#LL	.
+16g#J	.
+8g#J	.
 8r	.
-16g#	.
-16f#	.
-2g#[	.
+16g#LL	.
+16f#JJ	.
+[2g#	.
 =2	=2
-1g#]	A
+1g#]	A major
 =3	=3
 2En	.
 2AAn	.
@@ -33,15 +33,15 @@
 4.En	.
 4F#	.
 =5	=5
-16g#	.
-16g#	.
-8g#	.
+16g#LL	.
+16g#J	.
+8g#J	.
 8r	.
-16g#	.
-16f#	.
-2g#[	.
+16g#LL	.
+16f#JJ	.
+[2g#	.
 =6	=6
-1g#]	D
+1g#]	D major
 =7	=7
 2an	.
 2dn	.
@@ -50,17 +50,17 @@
 4.an	.
 4b	.
 =9	=9
-16g#	.
-16g#	.
-8g#	.
+16g#LL	.
+16g#J	.
+8g#J	.
 8r	.
-16g#	.
-16f#	.
-16g#	.
-16g#	.
-4.g#[	.
+16g#LL	.
+16f#JJ	.
+16g#LL	.
+16g#JJ	.
+[4.g#	.
 =10	=10
-1g#]	C#
+1g#]	C# major
 =11	=11
 2g#	.
 2c#	.
@@ -75,18 +75,18 @@
 2g#	.
 2cc#	.
 =15	=15
-16g#	G#sus4
-16g#	G#sus4
-4g#	G#sus4
-16g#	G#sus4
-16f#	G#sus4
-2g#	G#sus4
+16g#LL	G# suspended-fourth
+16g#JJ	G# suspended-fourth
+4g#	G# suspended-fourth
+16g#LL	G# suspended-fourth
+16f#JJ	G# suspended-fourth
+2g#	G# suspended-fourth
 =16	=16
-16cc#	C#
-16cc#	C#
-4cc#	C#
-16cc#	C#
-16b	C#7/B
-8.cc#	C#
+16cc#LL	C# major
+16cc#JJ	C# major
+4cc#	C# major
+16cc#LL	C# major
+16bJJ	C# dominant/B
+8.cc#	C# major
 ==	==
 *-	*-

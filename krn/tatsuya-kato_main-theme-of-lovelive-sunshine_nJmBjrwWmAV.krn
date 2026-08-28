@@ -19,162 +19,162 @@
 2..r	.
 8g	.
 =2	=2
-16cc	C
+16cc	C major
 16r	.
-16cc	.
-16dd	.
+16ccLL	.
+16ddJJ	.
 6...ee	.
 16r	.
-8cc	.
-16gg	.
+8ccL	.
+16ggJk	.
 16r	.
 16ccc	.
 16r	.
 =3	=3
-3...ff[	F/C
+[3...ff	F major/C
 16ff]	.
 8.r	.
 8cc	.
 =4	=4
-16dd	Cmaj7sus2
+16dd	C major-seventh-suspended-second
 16r	.
-16dd	.
-16ee	.
-4ff[	.
-16ff]	Cadd(2,4,5,7,11)
+16ddLL	.
+16eeJJ	.
+[4ff	.
+16ff]	C other-2,4,5,7,11
 16r	.
-8b	.
-16dd	.
+8bL	.
+16ddJk	.
 16r	.
 16gg	.
 16r	.
 =5	=5
-2ff	Csus4
-4ee[	C
-8ee]	Cmaj7/B
-8dd	.
+2ff	C suspended-fourth
+[4ee	C major
+8eeL]	C major-seventh/B
+8ddJ	.
 =6	=6
-4cc	Am
+4cc	A minor
 4gg	.
-4ccc	C/G
+4ccc	C major/G
 4bb	.
 =7	=7
-8bb	G7/F
-8ccc	.
-4aa[	F
-8aa]	Am/E
+8bbL	G dominant/F
+8cccJ	.
+[4aa	F major
+8aaL]	A minor/E
 8a	.
 8b	.
-8cc	.
+8ccJ	.
 =8	=8
-4ff	Dm7
+4ff	D minor-seventh
 8r	.
 8ff	.
-8.ee	C/E
-16dd[	.
-8dd]	F
-8cc	.
+8.eeL	C major/E
+[16ddk	.
+8dd]	F major
+8ccJ	.
 =9	=9
-2dd[	Gsus4
-4.dd]	G
+[2dd	G suspended-fourth
+4.dd]	G major
 8g	.
 =10	=10
-16cc	C
+16cc	C major
 16r	.
-16cc	.
-16dd	.
+16ccLL	.
+16ddJJ	.
 6...ee	.
 16r	.
-8cc	.
-16gg	.
+8ccL	.
+16ggJk	.
 16r	.
 16ccc	.
 16r	.
 =11	=11
-3...ff[	F/C
+[3...ff	F major/C
 16ff]	.
 8.r	.
 8cc	.
 =12	=12
-16dd	Cmaj7sus2
+16dd	C major-seventh-suspended-second
 16r	.
-16dd	.
-16ee	.
-4ff[	.
-16ff]	Cadd(2,4,5,7,11)
+16ddLL	.
+16eeJJ	.
+[4ff	.
+16ff]	C other-2,4,5,7,11
 16r	.
-8b	.
-16dd	.
+8bL	.
+16ddJk	.
 16r	.
 16gg	.
 16r	.
 =13	=13
-4.ff	Csus4
-16gg	.
-16ff	.
-4ee[	C
-8ee]	Cmaj7/B
-8dd	.
+4.ff	C suspended-fourth
+16ggLL	.
+16ffJJ	.
+[4ee	C major
+8eeL]	C major-seventh/B
+8ddJ	.
 =14	=14
-4cc	Am
+4cc	A minor
 4gg	.
-4ccc	C/G
-8bb	.
-8ccc	.
+4ccc	C major/G
+8bbL	.
+8cccJ	.
 =15	=15
-4ddd	D/F#
+4ddd	D major/F#
 4aa	.
-8.eee	Fadd(2,3,7)
+8.eeeL	F other-2,3,7
 8.ddd	.
-8ccc	.
+8cccJ	.
 =16	=16
-3...gg	C/E
-8ee	.
+3...gg	C major/E
+8eeL	.
 8dd	.
-8cc	.
+8ccJ	.
 =17	=17
-2ee	Fadd(2,4,7)
+2ee	F other-2,4,7
 2ff	.
 =18	=18
-3...gg	C/G
-8ee	.
+3...gg	C major/G
+8eeL	.
 8dd	.
-8cc	.
+8ccJ	.
 =19	=19
-2cc	Fadd(2,4,7)
+2cc	F other-2,4,7
 4a	.
 4aa	.
 =20	=20
-4gg[	Cadd(2,4,7)/E
-4gg]	C/E
+[4gg	C other-2,4,7/E
+4gg]	C major/E
 8r	.
-8gg	.
+8ggL	.
 8ccc	.
-8gg	.
+8ggJ	.
 =21	=21
-2ff	Dm
-4.ee	Am7
-16ff	.
-16ee	.
+2ff	D minor
+4.ee	A minor-seventh
+16ffLL	.
+16eeJJ	.
 =22	=22
-1dd[	Gsus4
+[1dd	G suspended-fourth
 =23	=23
-2.dd]	G
+2.dd]	G major
 4cc	.
 =24	=24
-8cc[	C
+[8cc	C major
 4cc_	.
-8cc_	C
+8cc_	C major
+8ccL_	.
+8cc_	F minor/C
 8cc_	.
-8cc_	Fm/C
-8cc_	.
-8cc_	Fm/C
+8ccJ_	F minor/C
 =25	=25
-8cc]	C
+8cc]	C major
 4r	.
-16r	C
-16r	C
-4r	C
+16r	C major
+16r	C major
+4r	C major
 4r	.
 ==	==
 *-	*-

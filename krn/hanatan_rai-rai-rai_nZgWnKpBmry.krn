@@ -16,29 +16,29 @@
 *c:	*
 *M6/4	*
 =1	=1
-4g	Cm
+4g	C minor
 4c	.
 4c	.
-4bn	G/B
+4bn	G major/B
 4c	.
 4Bn	.
 =2	=2
-4c	Cm
+4c	C minor
 4e-	.
 4g	.
-4g-	G/B
+4g-	G major/B
 4c	.
 4Bn	.
 =3	=3
-4c	A-maj7
+4c	A- major-seventh
 4e-	.
 4g	.
-2g-	A-7
+2g-	A- dominant
 4c	.
 =4	=4
-2e-	G-dim
+2e-	G- diminished
 4c	.
-2Bn	G
+2Bn	G major
 4r	.
 =5	=5
 4g	.
@@ -55,21 +55,21 @@
 4c	.
 4Bn	.
 =7	=7
-4c	A-maj7
+4c	A- major-seventh
 4e-	.
 4g	.
-2g-	A-7
+2g-	A- dominant
 4c	.
 =8	=8
-2e-	G-dim
+2e-	G- diminished
 4cc	.
-2bn	G
+2bn	G major
 4r	.
 =9	=9
-4g	Gm
+4g	G minor
 4ee-	.
-4dd	G
-4f[	Csus4
+4dd	G major
+[4f	C suspended-fourth
 4f]	.
 4r	.
 =10	=10
@@ -80,14 +80,14 @@
 4dd	.
 4f	.
 =11	=11
-4g	Gm
+4g	G minor
 4ee-	.
-4dd	G
-4ff	Csus4
+4dd	G major
+4ff	C suspended-fourth
 4r	.
 4bn	.
 =12	=12
-2gg	G7
+2gg	G dominant
 4aa-	.
 2gg	.
 4aa-	.

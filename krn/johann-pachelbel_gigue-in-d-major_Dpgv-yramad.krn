@@ -16,24 +16,24 @@
 *D:	*
 *M6/8	*
 =1	=1
-4a	A
-8ee	E/G#
-32cc#	A
-32dd	.
+4a	A major
+8ee	E major/G#
+32cc#LLL	A major
+32ddJJ	.
 8cc#	.
-16b	.
-8cc#	.
+16bk	.
+8cc#J	.
 =2	=2
-8a	.
+8aL	.
 8e	.
+8aJ	.
+8cc#L	.
 8a	.
-8cc#	.
-8a	.
-8cc#	.
+8cc#J	.
 =3	=3
-4dd	D
-8ee	A/C#
-4dd	D
+4dd	D major
+8ee	A major/C#
+4dd	D major
 8ee	.
 =4	=4
 4ff#	.
@@ -41,103 +41,103 @@
 4aa	.
 8a	.
 =5	=5
-8b	Em/G
+8bL	E minor/G
 8e	.
-8b	.
-8a	D
+8bJ	.
+8aL	D major
 8d	.
-8a	.
+8aJ	.
 =6	=6
-4b	G
-8a	D
-8b	G
+4b	G major
+8a	D major
+8bL	G major
 8a	.
-8g	A7
+8gJ	A dominant
 =7	=7
-4dd	D
-8aa	A7/C#
-32ff#	D
-32gg	.
+4dd	D major
+8aa	A dominant/C#
+32ff#LLL	D major
+32ggJJ	.
 8ff#	.
-16ee	.
-8ff#	.
+16eek	.
+8ff#J	.
 =8	=8
-8dd	.
+8ddL	.
 8a	.
+8ddJ	.
+8ff#L	.
 8dd	.
-8ff#	.
-8dd	.
-8ff#	.
+8ff#J	.
 =9	=9
-4gg	G
+4gg	G major
 8ff#	.
-4ee	A
-8dd	Bm
+4ee	A major
+8dd	B minor
 =10	=10
-8cc#	F#
+8cc#L	F# major
 8f#	.
-8dd	Bm/F#
-4cc#	F#sus4
-8ff#	F#
+8ddJ	B minor/F#
+4cc#	F# suspended-fourth
+8ff#	F# major
 =11	=11
-8.dd#	B
-16cc#	.
-8dd#	.
-8.ee	E
-16f#	.
-8g#	.
+8.dd#L	B major
+16cc#k	.
+8dd#J	.
+8.eeL	E major
+16f#k	.
+8g#J	.
 =12	=12
-8.cc#	A
-16b	.
-8cc#	.
-32ff#	D
-32gg	.
+8.cc#L	A major
+16bk	.
+8cc#J	.
+32ff#LLL	D major
+32ggJJ	.
 8ff#	.
-16ee	.
-8ff#	.
+16eek	.
+8ff#J	.
 =13	=13
-4gg	G
+4gg	G major
 8bb	.
-4.aa	F#m7/A
+4.aa	F# minor-seventh/A
 =14	=14
-4aa	D
+4aa	D major
 8ddd	.
-32ccc#	A
-32ddd	.
+32ccc#LLL	A major
+32dddJJ	.
 8ccc#	.
-16bb	.
-8ccc#	.
+16bbk	.
+8ccc#J	.
 =15	=15
 4.aa	.
-8ccc#	.
+8ccc#L	.
 8aa	.
-8ccc#	.
+8ccc#J	.
 =16	=16
-8ddd	Bm7/A
+8dddL	B minor-seventh/A
 8bb	.
-8ddd	.
-8ccc#	A
+8dddJ	.
+8ccc#L	A major
 8aa	.
-8ccc#	.
+8ccc#J	.
 =17	=17
-8ddd	Bm7/A
+8dddL	B minor-seventh/A
 8bb	.
-8ddd	.
-8ccc#	A
+8dddJ	.
+8ccc#L	A major
 8aa	.
-8ccc#	.
+8ccc#J	.
 =18	=18
-8ddd	Bm7/A
+8dddL	B minor-seventh/A
 8bb	.
-8ddd	.
-4ddd	Asus4
-8ccc#	A
+8dddJ	.
+4ddd	A suspended-fourth
+8ccc#	A major
 =19	=19
-4ddd[	D
-8ddd]	G/D
-4ddd	D
-8ccc#	Dadd(2,4,5,7,11)
+[4ddd	D major
+8ddd]	G major/D
+4ddd	D major
+8ccc#	D other-2,4,5,7,11
 =20	=20
-2.ddd	D
+2.ddd	D major
 ==	==
 *-	*-

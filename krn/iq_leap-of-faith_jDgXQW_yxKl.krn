@@ -16,192 +16,192 @@
 *g:	*
 *M4/4	*
 =1	=1
-8g	Gm
+8gL	G minor
 8dd	.
 8b-	.
-8g	.
-8f	B-
+8gJ	.
+8fL	B- major
 8dd	.
 8b-	.
-8f	.
+8fJ	.
 =2	=2
-8cc	F
+8ccL	F major
 8f	.
-8b-	.
+8b-J	.
 2cc	.
 8f	.
 =3	=3
 *k[b-e-a-d-g-]	*
 *b-:	*
-8f	B-m
+8fL	B- minor
 8ff	.
 8dd-	.
-8b-	.
-8g-	G-
+8b-J	.
+8g-L	G- major
 8gg-	.
 8dd-	.
-8b-	.
+8b-J	.
 =4	=4
-8ff	D-
+8ffL	D- major
 8ee-	.
-8dd-	.
-3...cc	A-
+8dd-J	.
+3...cc	A- major
 =5	=5
 *k[b-e-]	*
 *g:	*
-8g	Gm
+8gL	G minor
 8dd	.
 8b-	.
-8g	.
-8f	B-
+8gJ	.
+8fL	B- major
 8dd	.
 8b-	.
-8f	.
+8fJ	.
 =6	=6
-8cc	F
+8ccL	F major
 8f	.
-8b-	.
+8b-J	.
 2cc	.
 8f	.
 =7	=7
 *k[b-e-a-d-g-]	*
 *b-:	*
-8f	B-m
+8fL	B- minor
 8ff	.
 8dd-	.
-8b-	.
-8g-	G-
+8b-J	.
+8g-L	G- major
 8gg-	.
 8dd-	.
-8b-	.
+8b-J	.
 =8	=8
-8ff	D-
+8ffL	D- major
 8ee-	.
-8dd-	.
-3...cc	A-
+8dd-J	.
+3...cc	A- major
 =9	=9
 *k[b-e-]	*
 *g:	*
-4r	Gm
+4r	G minor
 4d	.
-2d	B-
+2d	B- major
 =10	=10
-4c	F
+4c	F major
 8d	.
 3...c	.
 =11	=11
 *k[b-e-a-d-g-]	*
 *b-:	*
-4r	B-m
-8f	.
-8g-[	.
-2g-]	G-
+4r	B- minor
+8fL	.
+[8g-J	.
+2g-]	G- major
 =12	=12
-8f	D-
+8fL	D- major
 8e-	.
-8d-[	.
-8d-]	A-
+[8d-	.
+8d-J]	A- major
 2e-	.
 =13	=13
 *k[b-e-]	*
 *g:	*
-4r	Gm
+4r	G minor
 4d	.
-2B-	B-
+2B-	B- major
 =14	=14
-4c	F
+4c	F major
 8d	.
 3...c	.
 =15	=15
 *k[b-e-a-d-g-]	*
 *b-:	*
-4r	B-m
-8f	.
-8g-[	.
-2g-]	G-
+4r	B- minor
+8fL	.
+[8g-J	.
+2g-]	G- major
 =16	=16
-8f	D-
+8fL	D- major
 8e-	.
-8d-[	.
-8d-]	A-
+[8d-	.
+8d-J]	A- major
 2e-	.
 =17	=17
 *k[]	*
 *G:	*
-2r	G
-8B	.
-8c	.
+2r	G major
+8BL	.
+8cJ	.
 4d	.
 =18	=18
-4d#	Cm/G
+4d#	C minor/G
 8d	.
 4c	.
-4G[	.
-8G]	G
+[4G	.
+8G]	G major
 =19	=19
 2B	.
 2r	.
 =20	=20
-4d#	Cm/G
+4d#	C minor/G
 8d	.
 4d#	.
-8g	.
-8f#[	.
-8f#]	G
+8gL	.
+[8f#	.
+8f#J]	G major
 =21	=21
 2d	.
 4r	.
-8f	.
-8d#	.
+8fL	.
+8d#J	.
 =22	=22
-4d#	Cm/G
+4d#	C minor/G
 8d	.
 4.c	.
-8G	.
-8B[	G
+8GL	.
+[8BJ	G major
 =23	=23
 2B]	.
 2r	.
 =24	=24
-4d#	Cm/G
+4d#	C minor/G
 8d	.
 4.d#	.
 4g	.
 =25	=25
-4.g	D#
-4f	Dm
+4.g	D# major
+4f	D minor
 4d	.
-8B[	G
+[8B	G major
 =26	=26
-8B]	.
-8c	.
+8BL]	.
+8cJ	.
 4d	.
 2r	.
 =27	=27
-4.g	D#
-4f	Dm
+4.g	D# major
+4f	D minor
 4f	.
-8g[	Gsus4
+[8g	G suspended-fourth
 =28	=28
 4.g]	.
 8r	.
-4r	Cmaj7sus2
-4r	G/D
+4r	C major-seventh-suspended-second
+4r	G major/D
 =29	=29
-4.g	D#
-4f	Dm
+4.g	D# major
+4f	D minor
 4d	.
-8B[	G
+[8B	G major
 =30	=30
-8B]	.
-8c	.
+8BL]	.
+8cJ	.
 2d	.
 4r	.
 =31	=31
-2g	D#
-8f	Dm
+2g	D# major
+8f	D minor
 4f	.
-8g[	Gsus4
+[8g	G suspended-fourth
 =32	=32
 4.g]	.
 3...r	.

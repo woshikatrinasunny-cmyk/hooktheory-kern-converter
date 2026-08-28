@@ -16,95 +16,95 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.gg	C/E
+4.gg	C major/E
 8gg	.
-8aa	D/F#
+8aaL	D major/F#
 8gg	.
 8ff#	.
-8ee	.
+8eeJ	.
 =2	=2
-4dd	G
+4dd	G major
 2b	.
 4dd	.
 =3	=3
-4.cc	C/E
+4.cc	C major/E
 8cc	.
-8dd	D/F#
+8ddL	D major/F#
 8cc	.
 8b	.
-8a	.
+8aJ	.
 =4	=4
-4b	G
+4b	G major
 2.dd	.
 =5	=5
-4.gg	C/E
+4.gg	C major/E
 8gg	.
-8aa	D/F#
+8aaL	D major/F#
 8gg	.
 8ff#	.
-8ee	.
+8eeJ	.
 =6	=6
-4dd	G
-4b[	.
-4b]	Bm/D
+4dd	G major
+[4b	.
+4b]	B minor/D
 4dd	.
 =7	=7
-4cc	C/E
-8b	.
-8a	.
-4a	D/F#
+4cc	C major/E
+8bL	.
+8aJ	.
+4a	D major/F#
 4a	.
 =8	=8
-4g	G
+4g	G major
 4dd	.
 2g	.
 =9	=9
-4.gg	C/E
+4.gg	C major/E
 8gg	.
-8aa	D/F#
+8aaL	D major/F#
 8gg	.
 8ff#	.
-8ee	.
+8eeJ	.
 =10	=10
-2dd	G
-8dd	.
+2dd	G major
+8ddL	.
 8dd#	.
 8ee	.
-8ff#	.
+8ff#J	.
 =11	=11
-4.gg	C/E
+4.gg	C major/E
 8gg	.
-8aa	D/F#
+8aaL	D major/F#
 8gg	.
 8aa	.
-8ccc	.
+8cccJ	.
 =12	=12
-4bb	G
+4bb	G major
 4ccc	.
 2ddd	.
 =13	=13
-2ggg	C/E
-8aaa	D/F#
+2ggg	C major/E
+8aaaL	D major/F#
 8ggg	.
 8fff#	.
-8eee	.
+8eeeJ	.
 =14	=14
-4bb	G
+4bb	G major
 4ddd	.
-4ggg	Bm/D
+4ggg	B minor/D
 4bbb	.
 =15	=15
-8g	C/E
-8cc	.
+8gL	C major/E
+8ccJ	.
 4dd	.
-8b	D/F#
-8dd	.
+8bL	D major/F#
+8ddJ	.
 4ff#	.
 =16	=16
-8gg	G
+8ggL	G major
 8gg	.
 8gg	.
-8ffn	.
+8ffnJ	.
 2gg	.
 ==	==
 *-	*-

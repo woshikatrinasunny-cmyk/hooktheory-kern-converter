@@ -16,108 +16,108 @@
 *e:	*
 *M4/4	*
 =1	=1
-4r	Em
-8b	.
-8a	Em7/D
-8b	Em
+4r	E minor
+8bL	.
+8aJ	E minor-seventh/D
+8bL	E minor
 8a	.
-8g	Em7/D
-8e	Cmaj7
+8g	E minor-seventh/D
+8eJ	C major-seventh
 =2	=2
-4g	A7sus2
-4a	Em/B
-4g	Cmaj7
-8f#	.
-8e	Em/B
+4g	A dominant-seventh-suspended-second
+4a	E minor/B
+4g	C major-seventh
+8f#L	.
+8eJ	E minor/B
 =3	=3
-8f#	Cmaj7
+8f#L	C major-seventh
 8g	.
 8f#	.
-8g	Em/B
-8a	Cmaj7
+8gJ	E minor/B
+8aL	C major-seventh
 8g	.
-8a	Em/B
-8b	A7sus2
+8a	E minor/B
+8bJ	A dominant-seventh-suspended-second
 =4	=4
-4dd	D
-4dd#	B/D#
-4ee	Em
+4dd	D major
+4dd#	B major/D#
+4ee	E minor
 4e	.
 =5	=5
-4r	Em
-8b	.
-8a	Em7/D
-8b	Em
+4r	E minor
+8bL	.
+8aJ	E minor-seventh/D
+8bL	E minor
 8a	.
-8g	Em7/D
-8e	Cmaj7
+8g	E minor-seventh/D
+8eJ	C major-seventh
 =6	=6
-4g	A7sus2
-4a	Em/B
-4g	Cmaj7
-8f#	.
-8e	Em/B
+4g	A dominant-seventh-suspended-second
+4a	E minor/B
+4g	C major-seventh
+8f#L	.
+8eJ	E minor/B
 =7	=7
-8f#	Cmaj7
+8f#L	C major-seventh
 8g	.
 8f#	.
-8g	Em/B
-8a	Cmaj7
+8gJ	E minor/B
+8aL	C major-seventh
 8g	.
-8a	Em/B
-8b	A7sus2
+8a	E minor/B
+8bJ	A dominant-seventh-suspended-second
 =8	=8
-4dd	D
-4dd#	B/D#
-4ee	Em
-8b	.
-8a	.
+4dd	D major
+4dd#	B major/D#
+4ee	E minor
+8bL	.
+8aJ	.
 =9	=9
-4.g[	Em
-8g]	Em7/D
-8r	Em
-8g	.
-8a	Em7/D
-8g	Cmaj7
+[4.g	E minor
+8g]	E minor-seventh/D
+8r	E minor
+8gL	.
+8a	E minor-seventh/D
+8gJ	C major-seventh
 =10	=10
-4e[	A7sus2
-4e]	Em/B
-4r	Cmaj7
-8b	.
-8a	Em/B
+[4e	A dominant-seventh-suspended-second
+4e]	E minor/B
+4r	C major-seventh
+8bL	.
+8aJ	E minor/B
 =11	=11
-4.g[	Cmaj7
-8g]	Em/B
-4r	Cmaj7
-8r	Em/B
-8r	A7sus2
+[4.g	C major-seventh
+8g]	E minor/B
+4r	C major-seventh
+8r	E minor/B
+8r	A dominant-seventh-suspended-second
 =12	=12
-4r	D
-4r	B/D#
-4r	Em
-8b	.
-8a	.
+4r	D major
+4r	B major/D#
+4r	E minor
+8bL	.
+8aJ	.
 =13	=13
-4.g[	Em
-8g]	Em7/D
-4r	Em
-8a	Em7/D
-8g	Cmaj7
+[4.g	E minor
+8g]	E minor-seventh/D
+4r	E minor
+8aL	E minor-seventh/D
+8gJ	C major-seventh
 =14	=14
-4e[	A7sus2
-4e]	Em/B
-4r	Cmaj7
-8b	.
-8a	Em/B
+[4e	A dominant-seventh-suspended-second
+4e]	E minor/B
+4r	C major-seventh
+8bL	.
+8aJ	E minor/B
 =15	=15
-4.g[	Cmaj7
-8g]	Em/B
-4r	Cmaj7
-8r	Em/B
-8r	A7sus2
+[4.g	C major-seventh
+8g]	E minor/B
+4r	C major-seventh
+8r	E minor/B
+8r	A dominant-seventh-suspended-second
 =16	=16
-4r	D
-4r	B/D#
-2r	Em
+4r	D major
+4r	B major/D#
+2r	E minor
 ==	==
 *-	*-

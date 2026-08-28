@@ -16,91 +16,91 @@
 *D:	*
 *M6/4	*
 =1	=1
-4.ff#	D
-4.ff#	D
-4.gg	Dadd(2,5,7)
-4.aa	D
+4.ff#	D major
+4.ff#	D major
+4.gg	D other-2,5,7
+4.aa	D major
 =2	=2
-4.aa	D/A
-4.gg	A7
-4.ff#	D/A
-4ee[	Bm7/A
-8ee]	A7
+4.aa	D major/A
+4.gg	A dominant
+4.ff#	D major/A
+[4ee	B minor-seventh/A
+8ee]	A dominant
 =3	=3
-4.dd	D
-4.dd	D/A
-4.ee	A
-4.ff#	D/A
+4.dd	D major
+4.dd	D major/A
+4.ee	A major
+4.ff#	D major/A
 =4	=4
-3...ff#	D/A
-8ee	A
-4.ee[	A
-4.ee]	F#m7/A
+3...ff#	D major/A
+8ee	A major
+[4.ee	A major
+4.ee]	F# minor-seventh/A
 =5	=5
-4.ff#	D
-4.ff#	D
-4.gg	G/D
-4.aa	D7
+4.ff#	D major
+4.ff#	D major
+4.gg	G major/D
+4.aa	D dominant
 =6	=6
-4.aa	Gadd(2,5,7)
-4.gg	G
-4.ff#	Gmaj7sus2
-4ee	Em7/G
+4.aa	G other-2,5,7
+4.gg	G major
+4.ff#	G major-seventh-suspended-second
+4ee	E minor-seventh/G
 8r	.
 =7	=7
-4.dd	D/A
-4.dd	D/A
-4.ee	A7
-4.ff#	D/A
+4.dd	D major/A
+4.dd	D major/A
+4.ee	A dominant
+4.ff#	D major/A
 =8	=8
-3...ee	A7
-8dd	D/A
-4.dd[	D
-4.dd]	D
+3...ee	A dominant
+8dd	D major/A
+[4.dd	D major
+4.dd]	D major
 =9	=9
-4.ee	A
-4.ee	A
-4.ff#	D/A
-4.dd	D/A
+4.ee	A major
+4.ee	A major
+4.ff#	D major/A
+4.dd	D major/A
 =10	=10
-4.ee	A
-4ff#	D/A
-8gg	A7
-4.ff#	D/A
-4dd	D/A
+4.ee	A major
+4ff#	D major/A
+8gg	A dominant
+4.ff#	D major/A
+4dd	D major/A
 8r	.
 =11	=11
-4.ee	A
-4ff#	D/A
-8gg	A7
-4.ff#	F#/A#
-4.ee	F#7
+4.ee	A major
+4ff#	D major/A
+8gg	A dominant
+4.ff#	F# major/A#
+4.ee	F# dominant
 =12	=12
-4.dd	Bm
-4.ee	E
-8a	A
+4.dd	B minor
+4.ee	E major
+8a	A major
 4r	.
-4.ff#	D/A
+4.ff#	D major/A
 =13	=13
-4.ff#	D
-4.ff#	D
-4.gg	G/D
-4aa[	D7sus2
-8aa]	D7
+4.ff#	D major
+4.ff#	D major
+4.gg	G major/D
+[4aa	D dominant-seventh-suspended-second
+8aa]	D dominant
 =14	=14
-4.aa	Gadd(2,5,7)
-4.gg	G
-4.ff#	Gmaj7sus2
-4gg	Em7/G
+4.aa	G other-2,5,7
+4.gg	G major
+4.ff#	G major-seventh-suspended-second
+4gg	E minor-seventh/G
 8ee	.
 =15	=15
-4.dd	D/A
-4.dd	D/A
-4.ee	A7sus4
-4.ff#	D/A
+4.dd	D major/A
+4.dd	D major/A
+4.ee	A dominant-seventh-suspended-fourth
+4.ff#	D major/A
 =16	=16
-3...ee	A7
-8dd	D/A
-2.dd	D
+3...ee	A dominant
+8dd	D major/A
+2.dd	D major
 ==	==
 *-	*-

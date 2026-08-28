@@ -16,50 +16,50 @@
 *a:	*
 *M4/4	*
 =1	=1
-8g	Dm9
-8c	.
+8gL	D minor-ninth
+8cJ	.
 4c	.
-4.c[	.
-8c_	F
+[4.c	.
+8c_	F major
 =2	=2
 2c]	.
 8r	.
-8g	.
-8g[	.
-8g]	Am
+8gL	.
+[8g	.
+8gJ]	A minor
 =3	=3
-8g	.
-8c	.
+8gL	.
+8cJ	.
 4c	.
-4.c[	.
-8c_	G
+[4.c	.
+8c_	G major
 =4	=4
 2c]	.
 8r	.
-8g	.
-8g[	.
-8g]	F
+8gL	.
+[8g	.
+8gJ]	F major
 =5	=5
-8g	.
-8c	.
+8gL	.
+8cJ	.
 4c	.
-4.c[	.
-8c_	Am
+[4.c	.
+8c_	A minor
 =6	=6
 2c]	.
 8r	.
-8g	.
-8g[	.
-8g]	Am7/C
+8gL	.
+[8g	.
+8gJ]	A minor-seventh/C
 =7	=7
-8g	.
-8c	.
+8gL	.
+8cJ	.
 4c	.
-4.c[	.
-8c_	Gadd(2,4,7)/B
+[4.c	.
+8c_	G other-2,4,7/B
 =8	=8
 2c]	.
 4.r	.
-8r	Dm9
+8r	D minor-ninth
 ==	==
 *-	*-

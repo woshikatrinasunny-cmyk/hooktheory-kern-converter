@@ -16,23 +16,23 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4r	D-
+4r	D- major
 4dd-	.
 4dd-	.
 4b-	.
 =2	=2
-2.dd-	B-m
+2.dd-	B- minor
 4b-	.
 =3	=3
-2dd-	G-
+2dd-	G- major
 8dd-	.
 4dd-	.
-8cc[	.
+[8cc	.
 =4	=4
-2cc]	A-
+2cc]	A- major
 2r	.
 =5	=5
-4r	D-
+4r	D- major
 4dd-	.
 4dd-	.
 4cc	.
@@ -46,10 +46,10 @@
 4g-	.
 4b-	.
 =8	=8
-8a-	.
-8b-	.
-4a-[	D-
-4a-]	G-
-4r	A-
+8a-L	.
+8b-J	.
+[4a-	D- major
+4a-]	G- major
+4r	A- major
 ==	==
 *-	*-

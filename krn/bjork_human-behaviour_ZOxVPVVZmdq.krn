@@ -16,40 +16,40 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4b-	B-
+4b-	B- major
 4r	.
-8r	B-/F
-8g	B-7/A-
-8g[	B-m/D-
-16g]	B-
-16g[	.
+8r	B- major/F
+8gL	B- dominant/A-
+[8g	B- minor/D-
+16gL]	B- major
+[16gJJ	.
 =2	=2
 8g]	.
 4dd	.
-8cc	B-m/D-
-8.cc	.
-16b-[	.
-8b-]	B-
-8g[	B-7/A-
+8cc	B- minor/D-
+8.ccL	.
+[16b-k	.
+8b-]	B- major
+[8gJ	B- dominant/A-
 =3	=3
-4.g]	B-
+4.g]	B- major
 8r	.
-8r	B-/F
-8r	B-7/A-
-16g	.
-16g[	.
-8g_	B-
+8r	B- major/F
+8r	B- dominant/A-
+16gLL	.
+[16gJ	.
+8gJ_	B- major
 =4	=4
 8g]	.
-4b-[	.
-8b-]	B-m/D-
+[4b-	.
+8b-]	B- minor/D-
 4g	.
-8ee-[	B-
-8ee-]	B-/F
+[8ee-L	B- major
+8ee-J]	B- major/F
 =5	=5
-2dd[	Am
-8dd_	Am/E
-4dd_	Am7/G
-8dd]	Am
+[2dd	A minor
+8dd_	A minor/E
+4dd_	A minor-seventh/G
+8dd]	A minor
 ==	==
 *-	*-

@@ -15,34 +15,34 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.ee[	A
-4.ee]	A/E
-4a	D#add(1,6,10)
+[4.ee	A major
+4.ee]	A major/E
+4a	D# other-1,6,10
 =2	=2
-4.b[	Emaj7
-3...b]	C#m7/B
+[4.b	E major-seventh
+3...b]	C# minor-seventh/B
 =3	=3
-4.cc#[	A
-4.cc#]	A/E
-4ee	D#add(1,6,10)
+[4.cc#	A major
+4.cc#]	A major/E
+4ee	D# other-1,6,10
 =4	=4
-4.b[	E
-3...b]	Eadd(2,4,7)/B
+[4.b	E major
+3...b]	E other-2,4,7/B
 =5	=5
-4.cc#[	A
-4.cc#]	A/E
-4ee	D#add(1,6,10)
+[4.cc#	A major
+4.cc#]	A major/E
+4ee	D# other-1,6,10
 =6	=6
-4.gg#[	Emaj7
-8.gg#]	C#m7/B
-8.ee[	.
-4ee]	C#m7/E
+[4.gg#	E major-seventh
+8.gg#]	C# minor-seventh/B
+[8.ee	.
+4ee]	C# minor-seventh/E
 =7	=7
-8ff#[	F#m/C#
-4ff#_	C#m11
-4.ff#]	F#9
-4aa	F#aug7/A#
+[8ff#	F# minor/C#
+4ff#_	C# minor-11th
+4.ff#]	F# dominant-ninth
+4aa	F# augmented-seventh/A#
 =8	=8
-1bb	B7
+1bb	B dominant
 ==	==
 *-	*-

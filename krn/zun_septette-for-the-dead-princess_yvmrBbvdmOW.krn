@@ -16,130 +16,130 @@
 *c:	*
 *M4/4	*
 =1	=1
-4r	Cm
+4r	C minor
 4g	.
 4ee-	.
-8dd	Ddim
-8f	.
+8ddL	D diminished
+8fJ	.
 =2	=2
-4r	Cm
+4r	C minor
 4g	.
 4ee-	.
-8dd	Ddim
-8f	.
+8ddL	D diminished
+8fJ	.
 =3	=3
-4r	Cm
+4r	C minor
 4g	.
 4ee-	.
-8dd	Dm7b5
-8f	.
+8ddL	D half-diminished
+8fJ	.
 =4	=4
-4r	Cm
-8g[	.
-8g]	Dm7b5/C
+4r	C minor
+[8gL	.
+8gJ]	D half-diminished/C
 8r	.
-8ee-[	.
-4ee-]	Ddim
+[8ee-	.
+4ee-]	D diminished
 =5	=5
-4r	A-
+4r	A- major
 4g	.
 4ee-	.
-8dd	.
-8f	.
+8ddL	.
+8fJ	.
 =6	=6
-4r	B-/D
+4r	B- major/D
 4g	.
 4ee-	.
-8dd	.
-8f	.
+8ddL	.
+8fJ	.
 =7	=7
-4r	Cm
+4r	C minor
 4g	.
 4ee-	.
-8dd	Ddim
-8f	.
+8ddL	D diminished
+8fJ	.
 =8	=8
-2g	Cm
+2g	C minor
 8r	.
-8g	.
+8gL	.
 8cc	.
-8dd	.
+8ddJ	.
 =9	=9
-4.ee-	Cm
+4.ee-	C minor
 8ff	.
-4.dd	B-
+4.dd	B- major
 8ee-	.
 =10	=10
-2cc	A-
+2cc	A- major
 8r	.
-8g	.
+8gL	.
 8cc	.
-8dd	.
+8ddJ	.
 =11	=11
-4.ee-	Cm
+4.ee-	C minor
 8ff	.
-4.dd	Gm/B-
+4.dd	G minor/B-
 8bb-	.
 =12	=12
-2gg	F/A
+2gg	F major/A
 8r	.
-8gg	.
+8ggL	.
 8bb-	.
-8ccc	.
+8cccJ	.
 =13	=13
-4ff	Fm
+4ff	F minor
 4.ff	.
-8ff	.
+8ffL	.
 8gg	.
-8bb-	.
+8bb-J	.
 =14	=14
-4ee-	E-
+4ee-	E- major
 4.ee-	.
+8ccL	.
 8cc	.
-8cc	.
-8dd	.
+8ddJ	.
 =15	=15
-4.ee-	Fm/A-
+4.ee-	F minor/A-
 8ff	.
-4.dd	G/B
+4.dd	G major/B
 8bn	.
 =16	=16
-2cc	A-/C
-2dd	B-/D
+2cc	A- major/C
+2dd	B- major/D
 =17	=17
-2ee-[	Cm
-8ee-]	A-/C
-16dd	.
+[2ee-	C minor
+8ee-L]	A- major/C
+16ddL	.
 16ee-	.
 16dd	.
 16b-	.
 16g	.
-16a-	.
+16a-JJ	.
 =18	=18
-2an[	Adim/C
-2an]	A-/C
+[2an	A diminished/C
+2an]	A- major/C
 =19	=19
-2r	Cm
-2r	A-/C
+2r	C minor
+2r	A- major/C
 =20	=20
-2r	Adim/C
-2r	A-/C
+2r	A diminished/C
+2r	A- major/C
 =21	=21
-2r	Cm
-2r	A-/C
+2r	C minor
+2r	A- major/C
 =22	=22
-2r	Adim/C
-2r	A-/C
+2r	A diminished/C
+2r	A- major/C
 =23	=23
-2eee-[	Cm
-8eee-]	A-/C
-16ddd	.
+[2eee-	C minor
+8eee-L]	A- major/C
+16dddL	.
 16ccc	.
 16bb-	.
 16aa-	.
 16gg	.
-16ff	.
+16ffJJ	.
 =24	=24
-2aan	Adim/C
+2aan	A diminished/C
 ==	==
 *-	*-

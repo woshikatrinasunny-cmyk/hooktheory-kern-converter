@@ -16,7 +16,7 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	Amaj9
+4r	A major-ninth
 4b	.
 4a	.
 4cc#	.
@@ -25,11 +25,11 @@
 2r	.
 =3	=3
 4r	.
-8f#	.
-8g#	.
-8.a	.
+8f#L	.
+8g#J	.
+8.aL	.
 8.g#	.
-8c#	.
+8c#J	.
 =4	=4
 2e	.
 2r	.
@@ -39,96 +39,96 @@
 4a	.
 4cc#	.
 =6	=6
-4.g#	Dadd(2,4,11)
-3...f#[	.
+4.g#	D other-2,4,11
+[3...f#	.
 =7	=7
 4f#]	.
-8f#	.
-8g#	.
-8.a	.
+8f#L	.
+8g#J	.
+8.aL	.
 8.b	.
-8cc#	.
+8cc#J	.
 =8	=8
-2.g#	Amaj9
+2.g#	A major-ninth
 4r	.
 =9	=9
 *k[f#c#g#d#]	*
 *E:	*
-2g#	Amaj9
+2g#	A major-ninth
 4f#	.
 4e	.
 =10	=10
-2d#	C#add(2,3,10)
+2d#	C# other-2,3,10
 8r	.
-8.c#	.
-16d#	.
-8e	.
+8.c#L	.
+16d#k	.
+8eJ	.
 =11	=11
-3...d#	F#add(4,9,10)
+3...d#	F# other-4,9,10
 8.f#	.
 8.r	.
 =12	=12
-2.c#	Badd(4,7,9,10)
+2.c#	B other-4,7,9,10
 4r	.
 =13	=13
-2.r	Badd(4,7,9,10)
+2.r	B other-4,7,9,10
 4c#	.
 =14	=14
-2d#	C#add(2,3,10)
+2d#	C# other-2,3,10
 8r	.
-8.c#	.
-16d#	.
-8e	.
+8.c#L	.
+16d#k	.
+8eJ	.
 =15	=15
-2.d#	F#add(4,9,10)
+2.d#	F# other-4,9,10
 4f#	.
 =16	=16
-3...c#	Badd(4,7,9,10)
-8B	.
+3...c#	B other-4,7,9,10
+8BL	.
 8c#	.
-8d#	.
+8d#J	.
 =17	=17
 *k[f#c#g#]	*
 *A:	*
-2..g#	G#dim7/F
+2..g#	G# diminished-seventh/F
 8c#	.
 =18	=18
-8.e	Amaj9
+8.eL	A major-ninth
 8e	.
-8e	.
+8eJ	.
 8.e	.
-8.c#	.
-8.e	.
+8.c#L	.
+8.eJ	.
 =19	=19
-2g#	Dadd(2,4,11)
+2g#	D other-2,4,11
 4.e	.
 8c#	.
 =20	=20
-8.B	Amaj9
-8.c#	.
+8.BL	A major-ninth
+8.c#J	.
 3...r	.
 =21	=21
-2..r	Dadd(2,4,11)
+2..r	D other-2,4,11
 8c#	.
 =22	=22
-8.e	Amaj9
+8.eL	A major-ninth
 8e	.
-8e	.
+8eJ	.
 8.e	.
-8.c#	.
-8.e	.
+8.c#L	.
+8.eJ	.
 =23	=23
-2g#	Dadd(2,4,11)
+2g#	D other-2,4,11
 2a	.
 =24	=24
-2b	Cmaj9
+2b	C major-ninth
 2ccn	.
 =25	=25
-3...dd	A#add(4,6,7,11)
+3...dd	A# other-4,6,7,11
 4ee	.
 8dd	.
 =26	=26
-2cc#	Amaj9
+2cc#	A major-ninth
 2r	.
 ==	==
 *-	*-

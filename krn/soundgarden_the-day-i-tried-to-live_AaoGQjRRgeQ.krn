@@ -16,75 +16,75 @@
 *b:	*
 *M4/4	*
 =1	=1
-8.r	Bm
-8r	Bsus2
-16r	B
-16cc#[	Bm
-16cc#]	Bsus2
-8.g#	E
-16g#[	E
-16g#_	E
-16g#]	B
-16g#[	B
-16g#]	B
+8.r	B minor
+8r	B suspended-second
+16r	B major
+[16cc#LL	B minor
+16cc#JJ]	B suspended-second
+8.g#L	E major
+[16g#L	E major
+16g#_	E major
+16g#]	B major
+[16g#	B major
+16g#JJ]	B major
 =2	=2
-8.b	Bm
-8b[	Bsus2
-16b]	B
-16cc#[	Bm
-16cc#]	Bsus2
-8.g#	E
-16g#[	E
-16g#_	E
-16g#]	B
-16g#[	B
-16g#]	B
+8.bL	B minor
+[8b	B suspended-second
+16bL]	B major
+[16cc#	B minor
+16cc#JJ]	B suspended-second
+8.g#L	E major
+[16g#L	E major
+16g#_	E major
+16g#]	B major
+[16g#	B major
+16g#JJ]	B major
 =3	=3
-8.b	Bm
-8b[	Bsus2
-16b]	B
-16cc#[	Bm
-16cc#]	Bsus2
-8.g#	E
-16g#[	E
-16g#_	E
-16g#]	B
-16g#[	B
-16g#]	B
+8.bL	B minor
+[8b	B suspended-second
+16bL]	B major
+[16cc#	B minor
+16cc#JJ]	B suspended-second
+8.g#L	E major
+[16g#L	E major
+16g#_	E major
+16g#]	B major
+[16g#	B major
+16g#JJ]	B major
 =4	=4
-8.b	Bm
-8b[	Bsus2
-16b]	B
-16cc#[	Bm
-16cc#]	Bsus2
-8.cc#	E
-16b[	E
-16b_	E
-16b]	B
-16b[	B
-16b]	B
+8.bL	B minor
+[8b	B suspended-second
+16bL]	B major
+[16cc#	B minor
+16cc#JJ]	B suspended-second
+8.cc#L	E major
+[16bL	E major
+16b_	E major
+16b]	B major
+[16b	B major
+16bJJ]	B major
 =5	=5
-8.aa	Bm
-8ee[	Bsus2
-16ee]	B
-16ee[	Bm
-16ee]	Bsus2
-8.aa	E
-16ee[	E
-16ee_	E
-16ee]	B
-16ee[	B
-16ee]	B
+8.aaL	B minor
+[8ee	B suspended-second
+16eeL]	B major
+[16ee	B minor
+16eeJJ]	B suspended-second
+8.aaL	E major
+[16eeL	E major
+16ee_	E major
+16ee]	B major
+[16ee	B major
+16eeJJ]	B major
 =6	=6
-8.aa	Bm
-8ee[	Bsus2
-16ee]	B
-16ee[	Bm
-16ee]	Bsus2
-8.aa	E
-16b[	E
-16b_	E
-16b]	B
-8b	.
+8.aaL	B minor
+[8ee	B suspended-second
+16eeL]	B major
+[16ee	B minor
+16eeJJ]	B suspended-second
+8.aaL	E major
+[16bL	E major
+16b_	E major
+16bJ]	B major
+8bJ	.
 ==	==
 *-	*-

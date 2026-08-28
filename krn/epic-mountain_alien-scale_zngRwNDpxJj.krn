@@ -16,12 +16,12 @@
 *d:	*
 *M4/4	*
 =1	=1
-2d	Dm
+2d	D minor
 2f	.
 =2	=2
 2a	.
-4ee[	G/D
-4ee]	Dm
+[4ee	G major/D
+4ee]	D minor
 =3	=3
 1cc	.
 =4	=4
@@ -32,26 +32,26 @@
 2f	.
 =6	=6
 2a	.
-4ee[	G/D
-4ee]	Dm7
+[4ee	G major/D
+4ee]	D minor-seventh
 =7	=7
-4ff[	.
-2.ff]	Dm
+[4ff	.
+2.ff]	D minor
 =8	=8
 2b	.
-2r	G/D
+2r	G major/D
 =9	=9
-2d	Dm
+2d	D minor
 2f	.
 =10	=10
 2a	.
-4ee[	G/D
-4ee]	Dm
+[4ee	G major/D
+4ee]	D minor
 =11	=11
 1cc	.
 =12	=12
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 4b	.
 2f	.
 =13	=13
@@ -59,35 +59,35 @@
 2f	.
 =14	=14
 2a	.
-4ee[	G/D
-4ee]	Dm7
+[4ee	G major/D
+4ee]	D minor-seventh
 =15	=15
-4ff[	.
-2.ff]	Dm
+[4ff	.
+2.ff]	D minor
 =16	=16
 2b	.
-2f	G/D
+2f	G major/D
 =17	=17
-2A#	A#
+2A#	A# major
 2d	.
 =18	=18
-2e	C
+2e	C major
 2g	.
 =19	=19
-2a	Dm
+2a	D minor
 2dd	.
 =20	=20
 2ee	.
-4ff[	G/D
-4ff]	Bdim/D
+[4ff	G major/D
+4ff]	B diminished/D
 =21	=21
-2A#	A#
+2A#	A# major
 2d	.
 =22	=22
-2g	C
+2g	C major
 2cc	.
 =23	=23
-1cc#	A
+1cc#	A major
 =24	=24
 1r	.
 ==	==

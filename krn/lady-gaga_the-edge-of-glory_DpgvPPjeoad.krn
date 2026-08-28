@@ -16,57 +16,57 @@
 *A:	*
 *M4/4	*
 =1	=1
-8e	A
+8e	A major
 4A	.
 4.A	.
-4B[	.
+[4B	.
 =2	=2
-4B]	Eadd(4,7,9)
+4B]	E other-4,7,9
 4.r	.
-8A	.
+8AL	.
 8a	.
-8g#	.
+8g#J	.
 =3	=3
-4f#	F#m7
+4f#	F# minor-seventh
 8e	.
 4e	.
 8c#	.
-4f#[	.
+[4f#	.
 =4	=4
-4f#]	D#m7b5
+4f#]	D# half-diminished
 4r	.
-8.e	.
+8.eL	.
 8.d	.
-8c#	.
+8c#J	.
 =5	=5
-4e	Dmaj9
-8A	.
-8A	.
+4e	D major-ninth
+8AL	.
+8AJ	.
 8r	.
-8a	.
+8aL	.
 8g#	.
-8f#[	.
+[8f#J	.
 =6	=6
-4f#]	Bm7
-8A	.
-8A	.
+4f#]	B minor-seventh
+8AL	.
+8AJ	.
 8r	.
+8AL	.
 8A	.
-8A	.
-8A	.
+8AJ	.
 =7	=7
-8a	D
+8a	D major
 4a	.
 4a	.
+8aL	.
 8a	.
-8a	.
-8a	.
+8aJ	.
 =8	=8
-4b	E
+4b	E major
 4r	.
-8cc#	.
+8cc#L	.
 8b	.
 8a	.
-8a	.
+8aJ	.
 ==	==
 *-	*-

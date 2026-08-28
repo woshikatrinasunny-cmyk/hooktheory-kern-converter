@@ -16,58 +16,58 @@
 *C:	*
 *M4/4	*
 =1	=1
-16c	C
+16cLK	C major
 8.d	.
-8e	.
+8eJ	.
 4d	.
-8c	C/G
-8r	Am7
-16c	D
-16d[	.
+8c	C major/G
+8r	A minor-seventh
+16cLL	D major
+[16dJJ	.
 =2	=2
 4d]	.
 8e	.
 4d	.
-8c	D
-8r	F#aug7/E
-8r	F
+8c	D major
+8r	F# augmented-seventh/E
+8r	F major
 =3	=3
 3...r	.
-8r	F
-8r	Aadd(3,8,10)/G
-8r	C
+8r	F major
+8r	A other-3,8,10/G
+8r	C major
 =4	=4
 3...r	.
-8c	C/G
-8e	Am7
-8g	C
+8cL	C major/G
+8e	A minor-seventh
+8gJ	C major
 =5	=5
 4a	.
-8g	.
-8a	.
-8e[	.
-8e]	C/G
-8d	Am7
-8c	D
+8gL	.
+8aJ	.
+[8eL	.
+8e]	C major/G
+8d	A minor-seventh
+8cJ	D major
 =6	=6
-8c	.
+8cL	.
 8d	.
-8e	.
-4d[	.
-8d]	D
-8A	F#aug7/E
-8c[	F
+8eJ	.
+[4d	.
+8dL]	D major
+8A	F# augmented-seventh/E
+[8cJ	F major
 =7	=7
-8c]	.
-8c	.
+8cL]	.
+8cJ	.
 4g	.
-4e	Fm
-8d	G#add(4,7,9,11)/G
-8c	C
+4e	F minor
+8dL	G# other-4,7,9,11/G
+8cJ	C major
 =8	=8
 8r	.
-8gg	.
-8aa	.
+8ggL	.
+8aaJ	.
 3...ccc	.
 ==	==
 *-	*-

@@ -15,48 +15,48 @@
 *E:	*
 *M4/4	*
 =1	=1
-1e[	E
+[1e	E major
 =2	=2
-1e_	Emaj7/B
+1e_	E major-seventh/B
 =3	=3
-1e_	Aadd(6,7)
+1e_	A other-6,7
 =4	=4
-4e]	A
+4e]	A major
 2r	.
-8d#	.
-8e	.
+8d#L	.
+8eJ	.
 =5	=5
-1e[	E
+[1e	E major
 =6	=6
-1e_	Emaj7/B
+1e_	E major-seventh/B
 =7	=7
-1e_	Aadd(6,7)
+1e_	A other-6,7
 =8	=8
-4e]	A
+4e]	A major
 4r	.
 8c#	.
 4e	.
 8b	.
 =9	=9
-2..b	Emaj7
+2..b	E major-seventh
 8r	.
 =10	=10
-2r	Amaj7
+2r	A major-seventh
 8c#	.
 4e	.
-8b[	.
+[8b	.
 =11	=11
-2..b]	Emaj7
+2..b]	E major-seventh
 8r	.
 =12	=12
-2r	Amaj7
+2r	A major-seventh
 8c#	.
 4e	.
-8b[	.
+[8b	.
 =13	=13
-4b]	Emaj7
-8g#	.
-8f#	.
+4b]	E major-seventh
+8g#L	.
+8f#J	.
 4.g#	.
 8g#	.
 ==	==

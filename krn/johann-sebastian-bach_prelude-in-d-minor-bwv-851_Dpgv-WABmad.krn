@@ -16,238 +16,238 @@
 *d:	*
 *M4/4	*
 =1	=1
-12c	F
+12cL	F major
 12A	.
 12f	.
 12c	.
 12A	.
-12c	.
-12A	.
+12cJ	.
+12AL	.
 12F	.
 12c	.
-12A	F7/E-
+12A	F dominant/E-
 12F	.
-12c	.
+12cJ	.
 =2	=2
-12A	D7
+12AL	D dominant
 12G-	.
 12c	.
-12A	G-dim7/C
+12A	G- diminished-seventh/C
 12G-	.
-12e-	.
-12A	B-augMaj7
+12e-J	.
+12AL	B- augmented-major-seventh
 12G-	.
 12d	.
-12A	G-dim/A
+12A	G- diminished/A
 12G-	.
-12c	.
+12cJ	.
 =3	=3
-12B-	Gm
+12B-L	G minor
 12G	.
 12d	.
-12B-	Gm/B-
+12B-	G minor/B-
 12G	.
-12d	.
-12B-	C7
+12dJ	.
+12B-L	C dominant
 12G	.
 12e	.
-12B-	GmMaj7/D
+12B-	G major-minor/D
 12G	.
-12g-	.
+12g-J	.
 =4	=4
-12B-	E-
+12B-L	E- major
 12G	.
 12g	.
-12d	Gm/B-
+12d	G minor/B-
 12B-	.
-12g	.
-12e-	Am7b5/C
+12gJ	.
+12e-L	A half-diminished/C
 12A	.
 12g	.
-12d	D
+12d	D major
 12A	.
-12g-	.
+12g-J	.
 =5	=5
-12d	Gm
+12dL	G minor
 12B-	.
 12g	.
 12d	.
 12B-	.
-12d	.
-12B-	.
+12dJ	.
+12B-L	.
 12G	.
 12d	.
-12B-	Gm7/F
+12B-	G minor-seventh/F
 12G	.
-12d	.
+12dJ	.
 =6	=6
-12Bn	E7
+12BnL	E dominant
 12A-	.
 12d	.
-12Bn	A-dim7/D
+12Bn	A- diminished-seventh/D
 12A-	.
-12f	.
-12Bn	CaugMaj7
+12fJ	.
+12BnL	C augmented-major-seventh
 12A-	.
 12e	.
-12Bn	A-dim/B
+12Bn	A- diminished/B
 12A-	.
-12d	.
+12dJ	.
 =7	=7
-12c	Am
+12cL	A minor
 12A	.
 12e	.
-12c	Am/C
+12c	A minor/C
 12A	.
-12e	.
-12c	D7
+12eJ	.
+12cL	D dominant
 12A	.
 12g-	.
-12c	AmMaj7/E
+12c	A major-minor/E
 12A	.
-12a-	.
+12a-J	.
 =8	=8
-12c	F
+12cL	F major
 12A	.
 12a	.
-12e	Am/C
+12e	A minor/C
 12c	.
-12a	.
-12f	Bm7b5/D
+12aJ	.
+12fL	B half-diminished/D
 12Bn	.
 12a	.
-12e	E
+12e	E major
 12Bn	.
-12a-	.
+12a-J	.
 =9	=9
-12e	Am
+12eL	A minor
 12c	.
 12a	.
 12e	.
 12c	.
-12cc	.
-12f	B-maj7/A
+12ccJ	.
+12fL	B- major-seventh/A
 12d	.
 12b-	.
-12g	Edim/G
+12g	E diminished/G
 12e	.
-12b-	.
+12b-J	.
 =10	=10
-12a	F
+12aL	F major
 12f	.
 12a	.
 12c	.
 12A	.
-12a	.
-12d	G7/F
+12aJ	.
+12dL	G dominant/F
 12Bn	.
 12g	.
-12e	D-dim/E
+12e	D- diminished/E
 12d-	.
-12g	.
+12gJ	.
 =11	=11
-12f	Dm
+12fL	D minor
 12d	.
 12dd	.
 12a	.
 12f	.
-12ff	.
-12b-	E-maj7/D
+12ffJ	.
+12b-L	E- major-seventh/D
 12g	.
 12ee-	.
-12cc	Adim/C
+12cc	A diminished/C
 12a	.
-12ee-	.
+12ee-J	.
 =12	=12
-12dd	B-
+12ddL	B- major
 12b-	.
 12dd	.
 12f	.
 12d	.
-12dd	.
-12g	C7/B-
+12ddJ	.
+12gL	C dominant/B-
 12e	.
 12cc	.
-12a	G-dim/A
+12a	G- diminished/A
 12g-	.
-12cc	.
+12ccJ	.
 =13	=13
-12b-	Gm
+12b-L	G minor
 12g	.
 12dd	.
 12b-	.
 12g	.
-12gg	.
-12ee-	.
+12ggJ	.
+12ee-L	.
 12g	.
 12gg	.
-12dd	Gm/B-
+12dd	G minor/B-
 12g	.
-12gg	.
+12ggJ	.
 =14	=14
-12dd-	A7
+12dd-L	A dominant
 12a	.
 12gg	.
-12ee	D-dim7/G
+12ee	D- diminished-seventh/G
 12dd-	.
-12bb-	.
-12ee	FaugMaj7
+12bb-J	.
+12eeL	F augmented-major-seventh
 12dd-	.
 12aa	.
-12ee	D-dim/E
+12ee	D- diminished/E
 12dd-	.
-12gg	.
+12ggJ	.
 =15	=15
-12ff	Dm
+12ffL	D minor
 12dd	.
 12a	.
-12f	Dm/F
+12f	D minor/F
 12d	.
-12a	.
-12f	G7
+12aJ	.
+12fL	G dominant
 12d	.
 12bn	.
-12f	DmMaj7/A
+12f	D major-minor/A
 12d	.
-12dd-	.
+12dd-J	.
 =16	=16
-12f	B-
+12fL	B- major
 12d	.
 12dd	.
-12f	Dm/F
+12f	D minor/F
 12d	.
-12a	.
-12f	Gm7
+12aJ	.
+12fL	G minor-seventh
 12d	.
 12b-	.
-12e	A
+12e	A major
 12d-	.
-12a	.
+12aJ	.
 =17	=17
-12e	D-dim7/B-
+12eL	D- diminished-seventh/B-
 12d-	.
 12g	.
-12d	Dm/F
+12d	D minor/F
 12A	.
-12f	.
-12d	Gm7
+12fJ	.
+12dL	G minor-seventh
 12B-	.
 12f	.
-12c	F7/A
+12c	F dominant/A
 12F	.
-12e-	.
+12e-J	.
 =18	=18
-12B-	B-
+12B-L	B- major
 12F	.
 12d	.
-12A	Dm/F
+12A	D minor/F
 12F	.
-12d	.
-12B-	Em7b5/G
+12dJ	.
+12B-L	E half-diminished/G
 12E	.
 12d	.
-12A	A
+12A	A major
 12E	.
-12d-	.
+12d-J	.
 ==	==
 *-	*-

@@ -16,11 +16,11 @@
 *B:	*
 *M4/4	*
 =1	=1
-2..gg#	Emaj7
+2..gg#	E major-seventh
 8aa#	.
 =2	=2
-8bb	C#m7b5/E
-8ccc#	.
+8bbL	C# half-diminished/E
+8ccc#J	.
 8r	.
 8aa#	.
 8r	.
@@ -28,53 +28,53 @@
 8r	.
 8gg#	.
 =3	=3
-4gg#	D#m7
+4gg#	D# minor-seventh
 8aa#	.
 4.ff#	.
 8r	.
-16dd#	.
-16ee	.
+16dd#LL	.
+16eeJJ	.
 =4	=4
-8ff#	G#7
+8ff#L	G# dominant
 8gg#	.
-8aan	.
+8aanJ	.
 4.gg#	.
 8ff#	.
 8r	.
 =5	=5
-8ee	C#m7
+8eeL	C# minor-seventh
 8dd#	.
-8ee	.
+8eeJ	.
 4.bb	.
-8ee	.
-8dd#	.
+8eeL	.
+8dd#J	.
 =6	=6
-4.ee	C#m7b5
+4.ee	C# half-diminished
 4bb	.
-8bb	.
+8bbL	.
 8ccc#	.
-8bb	.
+8bbJ	.
 =7	=7
-8aa#	Bmaj7
-8ff#	.
+8aa#L	B major-seventh
+8ff#J	.
 8r	.
 4ff#	.
 4dd#	.
-16ee	.
-16ffn	.
+16eeLL	.
+16ffnJJ	.
 =8	=8
-8ff#	Cdim7
-8ff#	.
+8ff#L	C diminished-seventh
+8ff#J	.
 8r	.
 8gg#	.
 8r	.
 4.aan	.
 =9	=9
-2..gg#	Emaj7
+2..gg#	E major-seventh
 8aa#	.
 =10	=10
-8bb	C#m7b5/E
-8ccc#	.
+8bbL	C# half-diminished/E
+8ccc#J	.
 8r	.
 8aa#	.
 8r	.
@@ -82,62 +82,62 @@
 8r	.
 8ccc#	.
 =11	=11
-4ddd#	D#m7
+4ddd#	D# minor-seventh
 8ccc#	.
 4ddd#	.
-8ccc#	.
+8ccc#L	.
 8ddd#	.
-8aa#	.
+8aa#J	.
 =12	=12
-4eee	G#7
-8ddd#	.
-8eee	.
+4eee	G# dominant
+8ddd#L	.
+8eeeJ	.
 8r	.
 4fff#	.
 8bb	.
 =13	=13
-8eee	C#m7
-8ddd#	.
+8eeeL	C# minor-seventh
+8ddd#J	.
 8r	.
 8ccc#	.
 8r	.
 4.ddd#	.
 =14	=14
-8eee	C#m7b5
-8ddd#	.
+8eeeL	C# half-diminished
+8ddd#J	.
 8r	.
 4ccc#	.
 8r	.
-8gg#	.
-8bb	.
+8gg#L	.
+8bbJ	.
 =15	=15
-4aa#	Bmaj9
+4aa#	B major-ninth
 8gg#	.
 4aa#	.
-8gg#	.
+8gg#L	.
 8aa#	.
-8gg#	.
+8gg#J	.
 =16	=16
-8bb	C#m9
-8bb	.
+8bbL	C# minor-ninth
+8bbJ	.
 8r	.
 4.ccc#	.
-8gg#	.
-8bb	.
+8gg#L	.
+8bbJ	.
 =17	=17
-2.aa#	Bmaj9
+2.aa#	B major-ninth
 4ccc#	.
 =18	=18
-2.aa#	C#m11
+2.aa#	C# minor-11th
 4ddd#	.
 =19	=19
-2.aa#	Bmaj9
+2.aa#	B major-ninth
 4r	.
 =20	=20
-2.r	F#aug
-16dd#	.
+2.r	F# augmented
+16dd#LL	.
 16ee	.
 16dd#	.
-16cc#	.
+16cc#JJ	.
 ==	==
 *-	*-

@@ -16,74 +16,74 @@
 *b-:	*
 *M4/4	*
 =1	=1
-8.f	E-m9
-8.f	.
-4e-	A-add(2,4,7)
+8.fL	E- minor-ninth
+8.fJ	.
+4e-	A- other-2,4,7
 8r	.
-16A-	.
+16A-LL	.
 16B-	.
 16c	.
-16B-	.
+16B-JJ	.
 =2	=2
-8.e-	Fm7
+8.e-L	F minor-seventh
 8.e-	.
-8d-	B-m7
-16c	.
+8d-J	B- minor-seventh
+16cLK	.
 8.B-	.
-16A-	.
+16A-L	.
 16B-	.
 16d-	.
-16B-	.
+16B-JJ	.
 =3	=3
-8.d-	E-m9
+8.d-L	E- minor-ninth
 8.e-	.
-16c	A-add(2,4,7)
+16cJk	A- other-2,4,7
 8.B-	.
 8A-	.
 8r	.
 8A-	.
 =4	=4
-4e-	Fm7
-8d-[	.
-8d-]	B-m7
+4e-	F minor-seventh
+[8d-L	.
+8d-J]	B- minor-seventh
 4r	.
-16A-	.
+16A-LL	.
 16B-	.
 16d-	.
-16B-	.
+16B-JJ	.
 =5	=5
-8.f	E-m9
-8.f	.
-6...e-	A-add(2,4,7)
+8.fL	E- minor-ninth
+8.fJ	.
+6...e-	A- other-2,4,7
 16r	.
-16A-	.
+16A-LL	.
 16B-	.
 16c	.
-16B-	.
+16B-JJ	.
 =6	=6
-8.a-	Fm7
+8.a-L	F minor-seventh
 8.c	.
-8d-	B-m7
-16c	.
+8d-J	B- minor-seventh
+16cLK	.
 8.B-	.
-16A-	.
+16A-L	.
 16B-	.
 16c	.
-16B-	.
+16B-JJ	.
 =7	=7
-8.d-	E-m9
-8.e-	.
-8.c	A-add(2,4,7)
-16B-	.
-8A-	.
+8.d-L	E- minor-ninth
+8.e-J	.
+8.c	A- other-2,4,7
+16B-LK	.
+8A-J	.
 8r	.
 8A-	.
 =8	=8
-8e-	Fm7
-8d-	.
+8e-L	F minor-seventh
+8d-J	.
 4d-	.
-4r	G-add(2,4,7)/B-
-8.r	A-11
-16r	G-add(2,4,7)/D-
+4r	G- other-2,4,7/B-
+8.r	A- dominant-11th
+16r	G- other-2,4,7/D-
 ==	==
 *-	*-

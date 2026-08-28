@@ -16,12 +16,12 @@
 *a:	*
 *M4/4	*
 =1	=1
-8r	Am7
-16aa	.
-16ee	.
+8r	A minor-seventh
+16aaLL	.
+16eeJJ	.
 16r	.
-16aa	.
-16ee	.
+16aaLL	.
+16eeJJ	.
 16r	.
 16dd#	.
 8r	.
@@ -31,11 +31,11 @@
 16r	.
 =2	=2
 8r	.
-16aa	.
-16ee	.
+16aaLL	.
+16eeJJ	.
 16r	.
-16aa	.
-16ee	.
+16aaLL	.
+16eeJJ	.
 16r	.
 16dd#	.
 8r	.
@@ -44,20 +44,20 @@
 16cc	.
 16r	.
 =3	=3
-4.dd#	F7
-16dd	.
-16dd#	.
-2cc[	.
+4.dd#	F dominant
+16ddLL	.
+16dd#JJ	.
+[2cc	.
 =4	=4
 2...cc]	.
 16r	.
 =5	=5
-8r	Am7
-16aa	.
-16ee	.
+8r	A minor-seventh
+16aaLL	.
+16eeJJ	.
 16r	.
-16aa	.
-16ee	.
+16aaLL	.
+16eeJJ	.
 16r	.
 16dd#	.
 8r	.
@@ -67,11 +67,11 @@
 16r	.
 =6	=6
 8r	.
-16aa	.
-16ee	.
+16aaLL	.
+16eeJJ	.
 16r	.
-16aa	.
-16ee	.
+16aaLL	.
+16eeJJ	.
 16r	.
 16dd#	.
 8r	.
@@ -80,99 +80,99 @@
 16cc	.
 16r	.
 =7	=7
-4.dd#	F7
-16dd	.
-16dd#	.
-2ff[	.
+4.dd#	F dominant
+16ddLL	.
+16dd#JJ	.
+[2ff	.
 =8	=8
 2...ff]	.
 16r	.
 =9	=9
-16E	E7
+16E	E dominant
 8r	.
-16E	E7
+16E	E dominant
 8r	.
-16E	E7
+16E	E dominant
 16r	.
 8r	.
-4.F	F7/D#
+4.F	F dominant/D#
 =10	=10
-8F	.
+8FL	.
 8E	.
 8F	.
-8G#	.
-8A	.
+8G#J	.
+8AL	.
 8B	.
 8c	.
-8d#	.
+8d#J	.
 =11	=11
-16e	E7
+16e	E dominant
 8r	.
-16e	E7
+16e	E dominant
 8r	.
-16e	E7
+16e	E dominant
 16r	.
 8r	.
-4.f	F7/D#
+4.f	F dominant/D#
 =12	=12
-8f	.
+8fL	.
 8e	.
 8f	.
-8g#	.
-8a	.
+8g#J	.
+8aL	.
 8b	.
 8cc	.
-8dd#	.
+8dd#J	.
 =13	=13
-16ee	E7
+16ee	E dominant
 8r	.
-16ee	E7
+16ee	E dominant
 8r	.
-16ee	E7
+16ee	E dominant
 16r	.
 8r	.
-4.ff	F7/D#
+4.ff	F dominant/D#
 =14	=14
-8ff	.
+8ffL	.
 8ee	.
 8ff	.
-8gg#	.
-8aa	.
+8gg#J	.
+8aaL	.
 8bb	.
 8ccc	.
-8ddd#	.
+8ddd#J	.
 =15	=15
-16eee	E7
+16eeeLK	E dominant
 8ddd#	.
-16ddd	F7/D#
+16dddL	F dominant/D#
 16ccc#	.
-16ccc[	.
-16ccc]	E7
-16bb	.
-16aa#	E7
+[16ccc	.
+16ccc]	E dominant
+16bbJJ	.
+16aa#LK	E dominant
 8aa	.
-16gg#	F7/D#
+16gg#L	F dominant/D#
 16gg	.
-16ff#[	.
-16ff#]	E7
-16ff	.
+[16ff#	.
+16ff#]	E dominant
+16ffJJ	.
 =16	=16
-16ee	E7
+16eeLK	E dominant
 8dd#	.
-16dd	F7/D#
+16ddL	F dominant/D#
 16cc#	.
-16cc[	.
-16cc]	E7
-16b	.
-16a#	E/G#
+[16cc	.
+16cc]	E dominant
+16bJJ	.
+16a#LK	E major/G#
 8a	.
-16g#	F7
+16g#L	F dominant
 16g	.
-16f#[	.
-16f#]	E/G#
-16f	.
+[16f#	.
+16f#]	E major/G#
+16fJJ	.
 =17	=17
-16ee	Eadd(2,4,7)
+16ee	E other-2,4,7
 16r	.
 16ee	.
 16r	.

@@ -16,7 +16,7 @@
 *g:	*
 *M4/4	*
 =1	=1
-4r	Gm
+4r	G minor
 4b-	.
 4dd	.
 4gg	.
@@ -24,36 +24,36 @@
 2bb-	.
 2gg	.
 =3	=3
-4gg-	C
+4gg-	C major
 4gg	.
-2aa[	.
+[2aa	.
 =4	=4
 4aa]	.
 4gg	.
 4dd	.
 4b-	.
 =5	=5
-1dd-[	Gm
+[1dd-	G minor
 =6	=6
 1dd-]	.
 =7	=7
-1r	C
+1r	C major
 =8	=8
 1r	.
 =9	=9
-8f	Gm
+8fL	G minor
 8g	.
 8a	.
-8b-	.
-8dd	.
+8b-J	.
+8ddL	.
 8f	.
 8gg	.
-8ff	.
+8ffJ	.
 =10	=10
 2bb-	.
 2ff	.
 =11	=11
-4ee	C
+4ee	C major
 4ff	.
 2gg	.
 =12	=12
@@ -62,11 +62,11 @@
 4a	.
 4b-	.
 =13	=13
-1ff[	Gm
+[1ff	G minor
 =14	=14
 1ff]	.
 =15	=15
-1ee[	C
+[1ee	C major
 =16	=16
 1ee]	.
 ==	==

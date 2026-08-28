@@ -16,48 +16,48 @@
 *G:	*
 *M4/4	*
 =1	=1
-16e	Fmaj7
+16eLL	F major-seventh
 16e	.
 16a	.
 16a	.
 16cc	.
 16cc	.
 16ee	.
-16ee	.
-16ffn	A#m/C#
+16eeJJ	.
+16ffnLL	A# minor/C#
 16ffn	.
 16cc#	.
 16cc#	.
 16a#	.
 16a#	.
 16fn	.
-16fn	.
+16fnJJ	.
 =2	=2
-16e	C#m7
+16eLL	C# minor-seventh
 16e	.
 16g#	.
 16g#	.
 16b	.
 16b	.
 16ee	.
-16ee	.
-16dd	Cmaj7
+16eeJJ	.
+16ddLL	C major-seventh
 16dd	.
 16b	.
 16b	.
 16g	.
 16g	.
 16c	.
-16c	.
+16cJJ	.
 =3	=3
-4.e	Am7
+4.e	A minor-seventh
 8c	.
 4.g	.
 8e	.
 =4	=4
 4.b	.
 8g	.
-4cc	D7sus2
-4a	Dadd(1,7,10)
+4cc	D dominant-seventh-suspended-second
+4a	D other-1,7,10
 ==	==
 *-	*-

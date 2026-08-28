@@ -18,76 +18,76 @@
 =1	=1
 4.r	.
 8d	.
-8d	.
+8dL	.
 8e	.
 8g	.
-8g	.
+8gJ	.
 =2	=2
 4a	.
 8g	.
 8r	.
-8.r	Bm7
-8.r	Bm7
-8r	Gadd(2,4,7)
+8.r	B minor-seventh
+8.r	B minor-seventh
+8r	G other-2,4,7
 =3	=3
 16r	.
-8.r	Gadd(2,4,7)
-8r	Gadd(2,4,7)
-16d[	.
-16d]	.
-8d	.
-8e	Bm7
-16g[	.
-16g]	Bm7
-8g	.
+8.r	G other-2,4,7
+8r	G other-2,4,7
+[16dLL	.
+16dJJ]	.
+8dL	.
+8e	B minor-seventh
+[16gL	.
+16gJ]	B minor-seventh
+8gJ	.
 =4	=4
-4a	C
+4a	C major
 4b	.
-8.a	D
+8.aL	D major
 8.a	.
-8g[	Em7
+[8gJ	E minor-seventh
 =5	=5
 8g]	.
 4.r	.
-8d	.
+8dL	.
 8e	.
-8g	Gadd(2,4,7)/B
-8a	.
+8g	G other-2,4,7/B
+8aJ	.
 =6	=6
-8.a[	Am7
-16a]	.
-8g	Am7
+[8.aL	A minor-seventh
+16ak]	.
+8gJ	A minor-seventh
 16r	.
 16r	.
-8b	Bm7
-16a[	.
-16a]	Bm7
+8bL	B minor-seventh
+[16aL	.
+16aJ]	B minor-seventh
 8g	.
-8g[	Em7
+[8gJ	E minor-seventh
 =7	=7
-16g]	.
-16e	Em7
-8d	.
-8.r	Em7
+16gLL]	.
+16eJ	E minor-seventh
+8dJ	.
+8.r	E minor-seventh
 8.r	.
-8.a[	B
-16a]	B
-8g	.
+[8.aL	B major
+16ak]	B major
+8gJ	.
 =8	=8
-8a	C
+8aL	C major
 8g	.
 8g	.
+8gJ	.
+8f#L	D major
 8g	.
-8f#	D
-8g	.
-8g[	.
-8g]	Em
+[8g	.
+8gJ]	E minor
 =9	=9
-16b	.
-16b	.
+16bLL	.
+16bJ	.
 8b	.
 8b	.
-8b	.
+8bJ	.
 8.dd	.
 16r	.
 8.ee	.

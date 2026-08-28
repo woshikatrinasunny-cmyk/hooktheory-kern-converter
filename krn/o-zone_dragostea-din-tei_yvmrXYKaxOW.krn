@@ -16,80 +16,80 @@
 *C:	*
 *M4/4	*
 =1	=1
-8a	F
-8C	F/A
-8F	F
-8A	F/A
-8c	F
-8B	F/A
-8c	F
-8g[	F/C
+8aL	F major
+8C	F major/A
+8F	F major
+8AJ	F major/A
+8cL	F major
+8B	F major/A
+8c	F major
+[8gJ	F major/C
 =2	=2
-8g]	C
-8G	C/E
-8C	C
-8E	C/E
-8c	C
-8B	C/E
-8c	C
-8g[	C/G
+8gL]	C major
+8G	C major/E
+8C	C major
+8EJ	C major/E
+8cL	C major
+8B	C major/E
+8c	C major
+[8gJ	C major/G
 =3	=3
-8g]	G
-8D	G/D
-8G	G
-8B	G/D
-8c	G
-8B	G/D
-8c	G
-8cc[	G/B
+8gL]	G major
+8D	G major/D
+8G	G major
+8BJ	G major/D
+8cL	G major
+8B	G major/D
+8c	G major
+[8ccJ	G major/B
 =4	=4
-8cc]	Am
-8a[	Am/E
-8a]	Am
-8A	Am/E
-8c	Am
-8B	Am/E
-8c	Am
-8a[	Am/C
+8ccL]	A minor
+[8a	A minor/E
+8a]	A minor
+8AJ	A minor/E
+8cL	A minor
+8B	A minor/E
+8c	A minor
+[8aJ	A minor/C
 =5	=5
-8a]	F
-8C	F/A
-8F	F
-8A	F/A
-8c	F
-8B	F/A
-8c	F
-8g[	F/C
+8aL]	F major
+8C	F major/A
+8F	F major
+8AJ	F major/A
+8cL	F major
+8B	F major/A
+8c	F major
+[8gJ	F major/C
 =6	=6
-8g]	C
-8G	C/E
-8C	C
-8E	C/E
-8c	C
-8B	C/E
-8c	C
-8g[	C/G
+8gL]	C major
+8G	C major/E
+8C	C major
+8EJ	C major/E
+8cL	C major
+8B	C major/E
+8c	C major
+[8gJ	C major/G
 =7	=7
-8g]	G
-8D	G/D
-8G	G
-8B	G/D
-8c	G
-8B	G/D
-8c	G
-8cc[	G/B
+8gL]	G major
+8D	G major/D
+8G	G major
+8BJ	G major/D
+8cL	G major
+8B	G major/D
+8c	G major
+[8ccJ	G major/B
 =8	=8
-8cc]	G
-16a[	G
-16a_	G
-8a]	G
-16A[	G
-16A]	G
-16r	G
-16r	G
-16r	G
-16r	G
-8r	G
-8r	G
+8ccL]	G major
+[16aL	G major
+16aJ_	G major
+8a]	G major
+[16AL	G major
+16AJJ]	G major
+16r	G major
+16r	G major
+16r	G major
+16r	G major
+8r	G major
+8r	G major
 ==	==
 *-	*-

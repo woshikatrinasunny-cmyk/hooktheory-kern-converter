@@ -15,7 +15,7 @@
 *g:	*
 *M4/4	*
 =1	=1
-8dd	Cm
+8dd	C minor
 4gg	.
 4gg	.
 8gg	.
@@ -23,39 +23,39 @@
 =2	=2
 4.gg	.
 8gg	.
-8gg	.
-8gg	.
+8ggL	.
+8ggJ	.
 4gg	.
 =3	=3
-8gg[	.
-8gg]	Gm
-16ff	.
-16ee-	.
-3...dd[	.
+[8ggL	.
+8gg]	G minor
+16ffL	.
+16ee-JJ	.
+[3...dd	.
 =4	=4
 2.dd]	.
 8r	.
 8dd	.
 =5	=5
-8gg	.
+8ggL	.
 8ff	.
-8gg[	.
-8gg]	Cm
+[8gg	.
+8ggJ]	C minor
 4gg	.
-4gg[	.
+[4gg	.
 =6	=6
 4gg]	.
 4gg	.
-8ff	.
+8ffL	.
 8gg	.
 8ff	.
-8gg[	.
+[8ggJ	.
 =7	=7
-8gg]	.
-8gg	.
-4aa[	.
-4.aa]	D
-8dd[	.
+8ggL]	.
+8ggJ	.
+[4aa	.
+4.aa]	D major
+[8dd	.
 =8	=8
 2..dd]	.
 ==	==

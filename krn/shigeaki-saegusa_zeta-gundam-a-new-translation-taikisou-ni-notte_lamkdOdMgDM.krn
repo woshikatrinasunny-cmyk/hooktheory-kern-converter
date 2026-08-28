@@ -15,84 +15,84 @@
 *g:	*
 *M4/4	*
 =1	=1
-3...ee-[	E-dim/G-
-16ee-]	.
+[3...ee-	E- diminished/G-
+16ee-LK]	.
 8.dd	.
-8cc	.
+8ccJ	.
 =2	=2
 8b-	.
 4r	.
-3...a[	.
+[3...a	.
 =3	=3
-8.a]	.
+8.aL]	.
 8.cc	.
-8b-	.
-16g-	.
+8b-J	.
+16g-LL	.
 16g	.
 16b-	.
-16dd	.
+16ddJ	.
 8.ff	.
-16ee-	.
+16ee-Jk	.
 =4	=4
-3...dd	D/G-
+3...dd	D major/G-
 4.r	.
 =5	=5
-2g[	Am7b5/G
+[2g	A half-diminished/G
 16g]	.
 8r	.
-8.f	.
-8e-	.
+8.fL	.
+8e-J	.
 =6	=6
 8d	.
 16r	.
 16Bn	.
 2c	.
 16r	.
-16e-	.
+16e-LL	.
 16g-	.
-16g	.
+16gJJ	.
 =7	=7
 8a	.
 16r	.
 16cc	.
-4.b-	Gm
-8.a	.
-8.g	.
+4.b-	G minor
+8.aL	.
+8.gJ	.
 =8	=8
 3...d	.
 4.r	.
 =9	=9
-8.dd	Gm
+8.ddL	G minor
 8.ee-	.
-8dd	.
-2dd-[	A7/G
+8ddJ	.
+[2dd-	A dominant/G
 =10	=10
-8.dd-]	.
+8.dd-L]	.
 8.b-	.
-8a	.
-8dd	Gm
+8aJ	.
+8ddL	G minor
 8ff	.
 8ee-	.
-8dd	.
+8ddJ	.
 =11	=11
-3...dd-[	A7/G
-16dd-]	.
+[3...dd-	A dominant/G
+16dd-LK]	.
 8.b-	.
-8a	.
+8aJ	.
 =12	=12
-8g	E-dim/G-
+8g	E- diminished/G-
 16r	.
 16g-	.
 4a	.
-4r	Gm
+4r	G minor
 4d	.
 =13	=13
-8d-	A7/G
+8d-	A dominant/G
 16r	.
 16b-	.
 4..a	.
-8.g-	.
-8g	.
+8.g-L	.
+8gJ	.
 =14	=14
 8b-	.
 16r	.
@@ -101,97 +101,97 @@
 4r	.
 =15	=15
 16r	.
-16en	.
+16enLL	.
 16g	.
 16a	.
 16b-	.
 16dd-	.
 16dd	.
-16een	.
-2ff[	Gm7
+16eenJJ	.
+[2ff	G minor-seventh
 =16	=16
-8ff]	.
+8ffL]	.
 8.een	.
-8.dd	.
-8.ff	.
+8.ddJ	.
+8.ffL	.
 8een	.
-8dd	.
+8ddJ	.
 16r	.
 =17	=17
-8cc	Gm7
+8cc	G minor-seventh
 16r	.
 16b-	.
 4.a	.
-8.g	.
-8.f	.
+8.gL	.
+8.fJ	.
 =18	=18
-2.en	Em7b5/G
+2.en	E half-diminished/G
 4r	.
 =19	=19
-16r	Fm
-16f	.
+16r	F minor
+16fLL	.
 16a-	.
-16bn	.
+16bnJJ	.
 4..dd-	.
-8bn	.
-16cc	.
+8bnL	.
+16ccL	.
 16ff	.
-16aa-[	.
+[16aa-JJ	.
 =20	=20
-8aa-]	.
+8aa-L]	.
 8.gg	.
-8.ff	.
-8.ee-	.
-16dd-	.
-16bn	C/E
+8.ffJ	.
+8.ee-L	.
+16dd-L	.
+16bn	C major/E
 16cc	.
 16aa-	.
-16cc	.
+16ccJJ	.
 =21	=21
-8.b-	Cm/E-
-16a	.
-8.cc	B-/D
-16b-	.
-8.ff	.
-16gg	.
-4aa-[	Fm7
+8.b-L	C minor/E-
+16ak	.
+8.cc	B- major/D
+16b-Jk	.
+8.ffL	.
+16ggJk	.
+[4aa-	F minor-seventh
 =22	=22
 4.aa-]	.
 8.gg	.
-8.ff	.
-16gg-	C/E
-16gg	.
-8ccc[	.
+8.ffL	.
+16gg-L	C major/E
+16ggJ	.
+[8cccJ	.
 =23	=23
 3...ccc]	.
-8bb-	.
-8aa-	Fm
-16c	.
+8bb-L	.
+8aa-	F minor
+16cJk	.
 16r	.
 =24	=24
-8.g	.
-16c	.
+8.gL	.
+16cJk	.
 2a-	.
 8r	.
-8g[	.
+[8g	.
 =25	=25
-16g]	.
+16gLK]	.
 8.f	.
 8.g-	.
-16g	.
+16gJk	.
 4cc	.
-4ee-[	Fm7
+[4ee-	F minor-seventh
 =26	=26
 4.ee-]	.
 8.dd	.
 8.cc	.
-4ee-[	G-dim
+[4ee-	G- diminished
 =27	=27
 4.ee-]	.
 8.dd	.
-8.cc	.
-8.bn	G
-16dd[	.
+8.ccL	.
+8.bn	G major
+[16ddJk	.
 =28	=28
 4dd]	.
 8r	.

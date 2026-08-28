@@ -16,65 +16,65 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
-4r	C
-8r	C
-8a	.
-8b	C
-8cc[	.
+4r	C major
+4r	C major
+8r	C major
+8aL	.
+8b	C major
+[8ccJ	.
 =2	=2
-8cc]	Am
+8ccL]	A minor
 8cc	.
-8cc	Am
+8ccJ	A minor
 8r	.
-4r	Am
-4r	Am
+4r	A minor
+4r	A minor
 =3	=3
-4r	F
-4r	F
-8r	F
-8a	.
-8b	F
-8cc[	.
+4r	F major
+4r	F major
+8r	F major
+8aL	.
+8b	F major
+[8ccJ	.
 =4	=4
-8cc]	Dm7
-8cc	.
-4cc	Dm7
-4b	Gaug
-16a	Gaug
-16b	.
-8a	.
+8ccL]	D minor-seventh
+8ccJ	.
+4cc	D minor-seventh
+4b	G augmented
+16aLL	G augmented
+16bJ	.
+8aJ	.
 =5	=5
-4g	C
-4r	C
-8r	C
-8a	.
-8b	C
-8cc[	.
+4g	C major
+4r	C major
+8r	C major
+8aL	.
+8b	C major
+[8ccJ	.
 =6	=6
-8cc]	Am
+8ccL]	A minor
 8cc	.
-8cc	Am
+8ccJ	A minor
 8r	.
-4r	Am
-4r	Am
+4r	A minor
+4r	A minor
 =7	=7
-4r	F
-4r	F
-8r	F
-8a	.
-8b	F
-8cc[	.
+4r	F major
+4r	F major
+8r	F major
+8aL	.
+8b	F major
+[8ccJ	.
 =8	=8
-8cc]	Dm7
-8cc	.
-4cc	Dm7
-4b	Gaug
-16a	Gaug
-16b	.
-8a	.
+8ccL]	D minor-seventh
+8ccJ	.
+4cc	D minor-seventh
+4b	G augmented
+16aLL	G augmented
+16bJ	.
+8aJ	.
 =9	=9
-4g	C
+4g	C major
 2.r	.
 ==	==
 *-	*-

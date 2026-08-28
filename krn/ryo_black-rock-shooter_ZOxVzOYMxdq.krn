@@ -16,153 +16,153 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4r	B-m
+4r	B- minor
 4f	.
 4f	.
 4e-	.
 =2	=2
-4f	G-
+4f	G- major
 4e-	.
 4d-	.
 4c	.
 =3	=3
-4.c	D-
+4.c	D- major
 8d-	.
 4d-	.
 8r	.
 8A-	.
 =4	=4
-4.e-	A-sus4
+4.e-	A- suspended-fourth
 8f	.
-2f	A-
+2f	A- major
 =5	=5
-4r	B-m
+4r	B- minor
 4f	.
 4f	.
 4e-	.
 =6	=6
-4f	G-
+4f	G- major
 4e-	.
 4f	.
 4f	.
 =7	=7
-4.f	D-
+4.f	D- major
 8a-	.
 4a-	.
 8r	.
 8b-	.
 =8	=8
-4.b-	A-sus4
+4.b-	A- suspended-fourth
 8a-	.
-2a-	A-
+2a-	A- major
 =9	=9
-4r	B-m
+4r	B- minor
 4a-	.
 4a-	.
 4b-	.
 =10	=10
-4b-	G-
+4b-	G- major
 4a-	.
 4a-	.
 4b-	.
 =11	=11
-4.e-	D-
+4.e-	D- major
 8f	.
 2f	.
 =12	=12
-4.f	A-
+4.f	A- major
 4.e-	.
-8d-	.
-8c	.
+8d-L	.
+8cJ	.
 =13	=13
-4d-	D-7/B
+4d-	D- dominant/B
 8r	.
 4f	.
 4.d-	.
 =14	=14
-4d-	D-
+4d-	D- major
 8f	.
 4f	.
 4.a-	.
 =15	=15
-4gn	Cm
+4gn	C minor
 8g-	.
 4f	.
 4.en	.
 =16	=16
-4.en	C7
+4.en	C dominant
 8f	.
-2f	F
+2f	F major
 =17	=17
-2B-	G-maj7
+2B-	G- major-seventh
 2f	.
 =18	=18
-4f	A-
+4f	A- major
 4e-	.
 4d-	.
 4c	.
 =19	=19
-4c	B-m7
+4c	B- minor-seventh
 4d-	.
 4e-	.
 4f	.
 =20	=20
-2.c	Fm7
+2.c	F minor-seventh
 8r	.
 8B-	.
 =21	=21
-8B-	G-
+8B-L	G- major
 8f	.
 8f	.
-8f	.
+8fJ	.
 2f	.
 =22	=22
-4e-	A-
+4e-	A- major
 4d-	.
 4a-	.
 4g-	.
 =23	=23
-4.f[	B-m7
-4.f_	B-m7
-4f]	B-m7
+[4.f	B- minor-seventh
+4.f_	B- minor-seventh
+4f]	B- minor-seventh
 =24	=24
-2..r	D-
+2..r	D- major
 8B-	.
 =25	=25
-4B-	G-maj7
-8f	.
-8f	.
+4B-	G- major-seventh
+8fL	.
+8fJ	.
 4f	.
 4f	.
 =26	=26
-4e-	A-
+4e-	A- major
 4f	.
 4a-	.
 4f	.
 =27	=27
-4.e-	B-m7
+4.e-	B- minor-seventh
 8f	.
 4f	.
 8r	.
 8d-	.
 =28	=28
-4.e-	Fm7
+4.e-	F minor-seventh
 8d-	.
 2d-	.
 =29	=29
-4e-	G-
+4e-	G- major
 4d-	.
 4d-	.
 4e-	.
 =30	=30
-4d-	A-
+4d-	A- major
 4r	.
 4.a-	.
 8f	.
 =31	=31
-4.f[	B-sus4
-8f_	B-sus4
-4f_	B-sus4
-4f]	B-sus4
+[4.f	B- suspended-fourth
+8f_	B- suspended-fourth
+4f_	B- suspended-fourth
+4f]	B- suspended-fourth
 ==	==
 *-	*-

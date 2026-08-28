@@ -17,139 +17,139 @@
 *M4/4	*
 =1	=1
 2.r	.
-8g#	.
-8a	.
+8g#L	.
+8aJ	.
 =2	=2
-2b	Aadd(2,4,7,9)
+2b	A other-2,4,7,9
 2a	.
 =3	=3
-2g#	F#m7b5/A
+2g#	F# half-diminished/A
 2a	.
 =4	=4
-2b	G#m7
+2b	G# minor-seventh
 2ee	.
 =5	=5
-2dd#	C#m
+2dd#	C# minor
 4ee	.
 4a	.
 =6	=6
-2g#	F#m7
+2g#	F# minor-seventh
 2a	.
 =7	=7
-4ccn	Cdim7
+4ccn	C diminished-seventh
 4a	.
 4g#	.
 4f#	.
 =8	=8
-4e	C#m7
-8f#	.
-8g#[	C#m7
-8g#]	.
-8a	Adim/C
+4e	C# minor-seventh
+8f#L	.
+[8g#J	C# minor-seventh
+8g#L]	.
+8aJ	A diminished/C
 8r	.
-8b[	Bm
+[8b	B minor
 =9	=9
 4b]	.
 8r	.
-4.r	E
-8g#	.
-8a	.
+4.r	E major
+8g#L	.
+8aJ	.
 =10	=10
-2b	Aadd(2,4,7,9)
+2b	A other-2,4,7,9
 2a	.
 =11	=11
-2g#	F#m7b5/A
+2g#	F# half-diminished/A
 2a	.
 =12	=12
-2b	G#m7
+2b	G# minor-seventh
 2ff#	.
 =13	=13
-2ee	C#m
+2ee	C# minor
 2dd#	.
 =14	=14
-3...ee	F#m7
+3...ee	F# minor-seventh
 8r	.
 4ee	.
 =15	=15
-4ff#	Cdim7
+4ff#	C diminished-seventh
 4ee	.
 4dd#	.
 4ccn	.
 =16	=16
-4dd#	C#m7
+4dd#	C# minor-seventh
 8r	.
 2cc#	.
 8r	.
 =17	=17
-4dd#	C#7
+4dd#	C# dominant
 8r	.
 4.ffn	.
-8ff#	.
-8gg#	.
+8ff#L	.
+8gg#J	.
 =18	=18
 *k[f#]	*
 *e:	*
-2aa	Cadd(2,4,7,9)
+2aa	C other-2,4,7,9
 2ee	.
 =19	=19
-2dd#	Am7b5/C
+2dd#	A half-diminished/C
 2aa	.
 =20	=20
-2bb	Bm7
+2bb	B minor-seventh
 2ff#	.
 =21	=21
-2ee	Em7
+2ee	E minor-seventh
 2dd	.
 =22	=22
-2cc	Am7
-8ee	.
+2cc	A minor-seventh
+8eeL	.
 8.ff#	.
-8.gg	.
+8.ggJ	.
 =23	=23
-4ff#	D#dim7
+4ff#	D# diminished-seventh
 4dd#	.
 4b	.
 4a	.
 =24	=24
-4g	Em7
-8a	.
-8b[	Em7
-8b]	.
-8cc	Cdim/D#
+4g	E minor-seventh
+8aL	.
+[8bJ	E minor-seventh
+8bL]	.
+8ccJ	C diminished/D#
 8r	.
-8dd[	Dm
+[8dd	D minor
 =25	=25
 4.dd_	.
-8dd]	G
+8dd]	G major
 4r	.
-8b	.
-8cc	.
+8bL	.
+8ccJ	.
 =26	=26
-2dd	Cadd(2,4,7,9)
+2dd	C other-2,4,7,9
 2cc	.
 =27	=27
-2b	Am7b5/C
+2b	A half-diminished/C
 2cc	.
 =28	=28
-2dd	Bm7
+2dd	B minor-seventh
 2aa	.
 =29	=29
-2gg	Em7
+2gg	E minor-seventh
 2ff#	.
 =30	=30
-3...gg	Am7
+3...gg	A minor-seventh
 8r	.
 4gg	.
 =31	=31
-4aa	D#dim7
+4aa	D# diminished-seventh
 4gg	.
 4ff#	.
 4dd#	.
 =32	=32
-4ff#	E7sus2
+4ff#	E dominant-seventh-suspended-second
 8r	.
-3...ee[	.
+[3...ee	.
 =33	=33
-1ee]	E7sus2
+1ee]	E dominant-seventh-suspended-second
 ==	==
 *-	*-

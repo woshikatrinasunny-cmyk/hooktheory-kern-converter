@@ -16,70 +16,70 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.c	B-sus2
-4.d	B-
+4.c	B- suspended-second
+4.d	B- major
 4F	.
 =2	=2
-4.e	B-add(2,6,7)
-4.f	B-
+4.e	B- other-2,6,7
+4.f	B- major
 4F	.
 =3	=3
-4.c	B-sus2
-4.d	B-
+4.c	B- suspended-second
+4.d	B- major
 4F	.
 =4	=4
-4.d[	B-add(2,6,7)
-3...d]	B-
+[4.d	B- other-2,6,7
+3...d]	B- major
 =5	=5
-4.d	Csus2
-4.e	C
+4.d	C suspended-second
+4.e	C major
 4G	.
 =6	=6
-4.f	Cadd(2,5,7)
-3...g	C
+4.f	C other-2,5,7
+3...g	C major
 =7	=7
-2e	C
-2f	Cadd(2,5,7)
+2e	C major
+2f	C other-2,5,7
 =8	=8
-2g	C
-4a	Fadd(2,4,7)/C
-4b-	C7
+2g	C major
+4a	F other-2,4,7/C
+4b-	C dominant
 =9	=9
-2cc[	Fadd(2,4,7)
-2cc]	F
+[2cc	F other-2,4,7
+2cc]	F major
 =10	=10
-2a	Dadd(2,3,7)
-2d	Dm
+2a	D other-2,3,7
+2d	D minor
 =11	=11
-2g	Fadd(2,4,7)
-2f	F
+2g	F other-2,4,7
+2f	F major
 =12	=12
-2e	Dadd(2,3,7)
-2d	Dm
+2e	D other-2,3,7
+2d	D minor
 =13	=13
-2cc	B-add(2,4,7)
-2b-	B-
+2cc	B- other-2,4,7
+2b-	B- major
 =14	=14
-2a	B-maj7
-2g	Gm7/B-
+2a	B- major-seventh
+2g	G minor-seventh/B-
 =15	=15
-2cc	B-add(2,4,7)
-2b-	B-
+2cc	B- other-2,4,7
+2b-	B- major
 =16	=16
-2a	B-maj7
-4g	Gm7/B-
-4d	B-
+2a	B- major-seventh
+4g	G minor-seventh/B-
+4d	B- major
 =17	=17
-2g	Fadd(2,4,7)
-2f	F
+2g	F other-2,4,7
+2f	F major
 =18	=18
-2e	Dadd(2,3,7)
-2d	Dm
+2e	D other-2,3,7
+2d	D minor
 =19	=19
-2g	Fadd(2,4,7)
-2f	F
+2g	F other-2,4,7
+2f	F major
 =20	=20
-2e	Dadd(2,3,7)
-2d	Dm
+2e	D other-2,3,7
+2d	D minor
 ==	==
 *-	*-

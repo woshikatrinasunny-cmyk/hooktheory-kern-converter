@@ -16,50 +16,50 @@
 *A:	*
 *M3/4	*
 =1	=1
-2a	A
-4a[	.
+2a	A major
+[4a	.
 =2	=2
-4a]	A
+4a]	A major
 2a	.
 =3	=3
-2a	A
-4a[	.
+2a	A major
+[4a	.
 =4	=4
-4a]	Aadd(2,4,7)
+4a]	A other-2,4,7
 2g#	.
 =5	=5
-2f#	Dadd(2,4,7)
-4dd[	.
+2f#	D other-2,4,7
+[4dd	.
 =6	=6
-4dd]	Dadd(2,4,7)
+4dd]	D other-2,4,7
 2r	.
 =7	=7
-2.r	D
+2.r	D major
 =8	=8
-4r	D
+4r	D major
 4f#	.
 4f#	.
 =9	=9
-2f#	Dadd(2,4,7)
-4dd[	.
+2f#	D other-2,4,7
+[4dd	.
 =10	=10
-4dd]	Dadd(2,4,7)
+4dd]	D other-2,4,7
 2r	.
 =11	=11
-2.r	D
+2.r	D major
 =12	=12
-4r	D
+4r	D major
 4cc#	.
 4dd	.
 =13	=13
-2cc#	E7sus4
-4b[	.
+2cc#	E dominant-seventh-suspended-fourth
+[4b	.
 =14	=14
-4b]	E7sus4
+4b]	E dominant-seventh-suspended-fourth
 2r	.
 =15	=15
-2.r	E7
+2.r	E dominant
 =16	=16
-2.r	E7
+2.r	E dominant
 ==	==
 *-	*-

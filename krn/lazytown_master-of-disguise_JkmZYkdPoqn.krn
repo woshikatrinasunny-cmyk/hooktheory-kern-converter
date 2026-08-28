@@ -16,93 +16,93 @@
 *c:	*
 *M4/4	*
 =1	=1
-2g	Cm
-4ee-	G
+2g	C minor
+4ee-	G major
 4dd	.
 =2	=2
-2bn	Cm7
-4.cc	E-aug/G
-32bn	.
+2bn	C minor-seventh
+4.cc	E- augmented/G
+32bnLLL	.
 32b-	.
 32an	.
-32a-	.
+32a-JJJ	.
 =3	=3
-4g	Cm
-8G	.
-8c	.
-8d	E-aug/G
+4g	C minor
+8GL	.
+8cJ	.
+8dL	E- augmented/G
 8e-	.
 8d	.
-8B-	.
+8B-J	.
 =4	=4
-2An[	Cm7
-4.An]	E-aug/G
+[2An	C minor-seventh
+4.An]	E- augmented/G
 8r	.
 =5	=5
-4r	Cm
-8G	.
-8c	.
-8e-	Cm/G
+4r	C minor
+8GL	.
+8cJ	.
+8e-	C minor/G
 4c	.
-16d	.
-16B-	.
+16dLL	.
+16B-JJ	.
 =6	=6
-2c	Cm
-4r	Cm/G
-8d	Cm
-8e-	.
+2c	C minor
+4r	C minor/G
+8dL	C minor
+8e-J	.
 =7	=7
-8f	Fm
+8fL	F minor
 8f	.
 8f	.
-8c	.
-8e-	A-maj7/C
+8cJ	.
+8e-L	A- major-seventh/C
 8e-	.
 8e-	.
-8c	.
+8cJ	.
 =8	=8
-8d	Dm7b5/A-
+8dL	D half-diminished/A-
 8d	.
 8d	.
-8A-	.
-8e-	D7/G-
+8A-J	.
+8e-L	D dominant/G-
 8d	.
-8Bn	G7
-8Bn[	.
+8Bn	G dominant
+[8BnJ	.
 =9	=9
-16Bn]	Cm
-4..c[	.
-16c]	CmMaj7/G
+16Bn]	C minor
+[4..c	.
+16c]	C major-minor/G
 4..r	.
 =10	=10
-2r	Cm7
-4r	Gsus4
-4r	Cadd(2,3,7,11)
+2r	C minor-seventh
+4r	G suspended-fourth
+4r	C other-2,3,7,11
 =11	=11
-8f	Fm
+8fL	F minor
 8f	.
 8f	.
-8c	.
-8d	Cadd(3,7,8,10)
-8B-	.
+8cJ	.
+8dL	C other-3,7,8,10
+8B-J	.
 16r	.
-16e-	.
-8c	.
+16e-LK	.
+8cJ	.
 =12	=12
-8d	Dm7b5/A-
+8dL	D half-diminished/A-
 8d	.
 8d	.
-8An	.
-8f	D7/G-
+8AnJ	.
+8fL	D dominant/G-
 8g-	.
-8e-	Gadd(4,7,8,10)
-8f	.
+8e-	G other-4,7,8,10
+8fJ	.
 =13	=13
-4e-	Cm
-4c[	.
-4c]	Cm/G
+4e-	C minor
+[4c	.
+4c]	C minor/G
 4r	.
 =14	=14
-1r	Cm
+1r	C minor
 ==	==
 *-	*-

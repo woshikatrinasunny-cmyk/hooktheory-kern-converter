@@ -16,30 +16,30 @@
 *B-:	*
 *M6/4	*
 =1	=1
-1.r	Cm7
+1.r	C minor-seventh
 =2	=2
 2.g	.
 2.a	.
 =3	=3
-1.b-	Gm
+1.b-	G minor
 =4	=4
-2.a	F
+2.a	F major
 2.r	.
 =5	=5
-4d	B-
+4d	B- major
 8f	.
 4.d	.
 4d	.
 8f	.
 4.d	.
 =6	=6
-2g	B-maj7
-8f	.
-8c[	.
-4c]	F/A
+2g	B- major-seventh
+8fL	.
+[8cJ	.
+4c]	F major/A
 2B-	.
 =7	=7
-4d	Gm7
+4d	G minor-seventh
 8f	.
 4.d	.
 4d	.
@@ -47,16 +47,16 @@
 4.d	.
 =8	=8
 2g	.
-8f	.
-8c[	.
-4c]	Fsus4
+8fL	.
+[8cJ	.
+4c]	F suspended-fourth
 4B-	.
-8B-	.
-8c	.
+8B-L	.
+8cJ	.
 =9	=9
-1e-	E-add(2,4,7)
+1e-	E- other-2,4,7
 4d	.
-4G[	.
+[4G	.
 =10	=10
 3...G]	.
 8G	.
@@ -65,12 +65,12 @@
 4B-	.
 8c	.
 =11	=11
-2.e-	Fsus4
+2.e-	F suspended-fourth
 2.d	.
 =12	=12
-1.F	F
+1.F	F major
 =13	=13
-2.bb-	E-add(2,4,7)
+2.bb-	E- other-2,4,7
 2.aa	.
 =14	=14
 1.ff	.

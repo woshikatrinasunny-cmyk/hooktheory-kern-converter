@@ -16,24 +16,24 @@
 *d#:	*
 *M6/4	*
 =1	=1
-4.d#	D#m
+4.d#	D# minor
 4.c#	.
 4.d#	.
 8d#	.
-8d#	.
-8c#	.
+8d#L	.
+8c#J	.
 =2	=2
 4.d#	.
 4c#	.
 8c#	.
 2.d#	.
 =3	=3
-4.e#	E#m
+4.e#	E# minor
 4.d#	.
 4.e#	.
 8e#	.
-8e#	.
-8d#	.
+8e#L	.
+8d#J	.
 =4	=4
 4.e#	.
 4d#	.
@@ -41,24 +41,24 @@
 3...e#	.
 8e#	.
 =5	=5
-4.f#	F#
+4.f#	F# major
 4e#	.
 8e#	.
 4.f#	.
 4f#	.
 8e#	.
 =6	=6
-4.f#	G#m
+4.f#	G# minor
 4.g#	.
-3...an	A
+3...an	A major
 8g#	.
 =7	=7
 4.an	.
-4.a#	A#
-4.ddn	D
-4.b	B
+4.a#	A# major
+4.ddn	D major
+4.b	B major
 =8	=8
-4.a#	A#
+4.a#	A# major
 1r	.
 8r	.
 ==	==

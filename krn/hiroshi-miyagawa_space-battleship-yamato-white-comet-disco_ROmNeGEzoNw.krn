@@ -16,63 +16,63 @@
 *d:	*
 *M4/4	*
 =1	=1
-2.dd	Dm
+2.dd	D minor
 4aa	.
 =2	=2
-2.aa-	E7
+2.aa-	E dominant
 4ee	.
 =3	=3
-2gg	A7
-2dd-	Aadd(1,4,7,10)
+2gg	A dominant
+2dd-	A other-1,4,7,10
 =4	=4
-1dd	Dm
+1dd	D minor
 =5	=5
 *k[b-e-]	*
 *g:	*
-2.gg-	Dadd(1,4,7,10)
+2.gg-	D other-1,4,7,10
 4eee-	.
 =6	=6
-2.ddd	Gm
-4ccc	G-dim7
+2.ddd	G minor
+4ccc	G- diminished-seventh
 =7	=7
-2bb-	Gm
-2aa	G-dim7/A
+2bb-	G minor
+2aa	G- diminished-seventh/A
 =8	=8
-1gg	Gm/B-
+1gg	G minor/B-
 =9	=9
-2.aa-	Bdim7
+2.aa-	B diminished-seventh
 4fff	.
 =10	=10
-2.eeen	D-dim7
+2.eeen	D- diminished-seventh
 4gg	.
 =11	=11
-2.gg-	Dadd(1,4,7,10)
+2.gg-	D other-1,4,7,10
 4eee-	.
 =12	=12
-2.ddd	Gm/B-
-4ccc	D7/A
+2.ddd	G minor/B-
+4ccc	D dominant/A
 =13	=13
 *k[b-]	*
 *d:	*
-2.bb-	Gm
+2.bb-	G minor
 4gg	.
 =14	=14
-2.aa	Dm/F
+2.aa	D minor/F
 4dd	.
 =15	=15
-2ff	B-7
-2dd-	Aadd(1,4,7,10)
+2ff	B- dominant
+2dd-	A other-1,4,7,10
 =16	=16
-1dd[	Dm
+[1dd	D minor
 =17	=17
-1dd_	Dm7/C
+1dd_	D minor-seventh/C
 =18	=18
-1dd_	Bm7b5
+1dd_	B half-diminished
 =19	=19
-2dd_	B-maj7
-2dd]	Dm/A
+2dd_	B- major-seventh
+2dd]	D minor/A
 =20	=20
-1D[	Dm
+[1D	D minor
 =21	=21
 1D]	.
 ==	==

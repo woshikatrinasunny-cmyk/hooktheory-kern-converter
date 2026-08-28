@@ -16,17 +16,17 @@
 *A-:	*
 *M6/4	*
 =1	=1
-1.r	A-add(4,6,7,11)
+1.r	A- other-4,6,7,11
 =2	=2
 1.r	.
 =3	=3
-4r	A-add(2,4,7)
+4r	A- other-2,4,7
 4e-	.
 4ee-	.
 4.dd	.
 8cc	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =4	=4
 2.cc	.
 2.e-	.
@@ -36,41 +36,41 @@
 4ee-	.
 4.dd	.
 8cc	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =6	=6
-2.cc	G-add(2,4,6,9)
+2.cc	G- other-2,4,6,9
 2.r	.
 =7	=7
-4r	A-add(2,4,7)
+4r	A- other-2,4,7
 4e-	.
 4ee-	.
 4.dd	.
 8cc	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =8	=8
 2.cc	.
 2.e-	.
 =9	=9
-4r	Eadd(2,4,7)
+4r	E other-2,4,7
 4e-	.
 4ee-	.
-4.dd-	G-add(2,4,7)
+4.dd-	G- other-2,4,7
 8cc	.
-8b-	.
-8dd-	.
+8b-L	.
+8dd-J	.
 =10	=10
-2.cc	A-add(2,4,7)
-2.r	A-maj7
+2.cc	A- other-2,4,7
+2.r	A- major-seventh
 =11	=11
-4r	A-add(2,4,7)
+4r	A- other-2,4,7
 4ee-	.
 4eee-	.
 4.ddd	.
 8ccc	.
-8bb-	.
-8aa-	.
+8bb-L	.
+8aa-J	.
 =12	=12
 2.ccc	.
 2.ee-	.
@@ -80,32 +80,32 @@
 4eee-	.
 4.ddd	.
 8ccc	.
-8bb-	.
-8aa-	.
+8bb-L	.
+8aa-J	.
 =14	=14
-2.ccc	G-add(2,4,6,9)
+2.ccc	G- other-2,4,6,9
 2.r	.
 =15	=15
-4r	A-add(2,4,7)
+4r	A- other-2,4,7
 4ee-	.
 4eee-	.
 4.ddd	.
 8ccc	.
-8bb-	.
-8aa-	.
+8bb-L	.
+8aa-J	.
 =16	=16
 2.ccc	.
 2.ee-	.
 =17	=17
-4r	Eadd(2,4,7)
+4r	E other-2,4,7
 4ee-	.
 4eee-	.
-4.ddd-	G-add(2,4,7)
+4.ddd-	G- other-2,4,7
 8ccc	.
-8bb-	.
-8ddd-	.
+8bb-L	.
+8ddd-J	.
 =18	=18
-2.ccc	A-add(2,4,7)
-2.r	A-maj7
+2.ccc	A- other-2,4,7
+2.r	A- major-seventh
 ==	==
 *-	*-

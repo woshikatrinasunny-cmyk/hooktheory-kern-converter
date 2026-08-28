@@ -19,12 +19,12 @@
 2.r	.
 4ccc#	.
 =2	=2
-3...eee#	C#7
-8fff#	.
+3...eee#	C# dominant
+8fff#L	.
 8eee#	.
-8ddd#	.
+8ddd#J	.
 =3	=3
-4ccc#	C#7/B
+4ccc#	C# dominant/B
 8ddd#	.
 8r	.
 8ccc#	.
@@ -32,15 +32,15 @@
 8bb	.
 8r	.
 =4	=4
-8aa#	F#/A#
+8aa#L	F# major/A#
 8gg#	.
 8aa#	.
-8bb	.
+8bbJ	.
 8ccc#	.
 8r	.
-4fff#[	.
+[4fff#	.
 =5	=5
-4fff#]	B
+4fff#]	B major
 8ff#	.
 8r	.
 8ee#	.
@@ -48,19 +48,19 @@
 8ff#	.
 8r	.
 =6	=6
-2cc#	F#/C#
-2ff#[	.
+2cc#	F# major/C#
+[2ff#	.
 =7	=7
-2ff#]	F#/C#
+2ff#]	F# major/C#
 8ee#	.
 8r	.
 8ff#	.
 8r	.
 =8	=8
-2ccc#	C#7sus4
-2ff#[	.
+2ccc#	C# dominant-seventh-suspended-fourth
+[2ff#	.
 =9	=9
-4ff#]	C#7
+4ff#]	C# dominant
 8ee#	.
 8r	.
 8aa#	.
@@ -68,17 +68,17 @@
 8gg#	.
 8r	.
 =10	=10
-1ff#[	F#
+[1ff#	F# major
 =11	=11
-1ff#_	F#
+1ff#_	F# major
 =12	=12
-1ff#_	Bm/F#
+1ff#_	B minor/F#
 =13	=13
-1ff#_	Bm/F#
+1ff#_	B minor/F#
 =14	=14
-1ff#_	F#
+1ff#_	F# major
 =15	=15
-2ff#]	F#
+2ff#]	F# major
 2r	.
 ==	==
 *-	*-

@@ -15,64 +15,64 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.a	Am
+4.a	A minor
 4.g	.
 4e	.
 =2	=2
-4.cc	Am
-8a[	.
-8a_	Am
-8a]	G
+4.cc	A minor
+[8a	.
+8aL_	A minor
+8aJ]	G major
 8r	.
-8a[	F
+[8a	F major
 =3	=3
 4.a]	.
 4.g	.
 4e	.
 =4	=4
-4.cc	F
-8a[	.
-8a_	F
-8a]	Em
+4.cc	F major
+[8a	.
+8aL_	F major
+8aJ]	E minor
 8r	.
-8a[	Dm
+[8a	D minor
 =5	=5
 4.a]	.
 4.b	.
 4cc	.
 =6	=6
-2dd#	B
+2dd#	B major
 2ff#	.
 =7	=7
-1ee[	E
+[1ee	E major
 =8	=8
-1ee]	E
+1ee]	E major
 =9	=9
-16gg	E
+16ggLL	E major
 16ee	.
 16gg	.
 16ee	.
 16ff#	.
 16dd#	.
 16ff#	.
-16dd#	.
-16ff	.
+16dd#JJ	.
+16ffLL	.
 16dd	.
 16ff	.
 16dd	.
 16ee	.
 16cc#	.
 16ee	.
-16cc#	.
+16cc#JJ	.
 =10	=10
-16dd#	E
+16dd#LL	E major
 16cc	.
 16dd	.
 16b	.
 16cc#	.
 16a#	.
 16cc	.
-16a	.
+16aJJ	.
 4ee	.
 4r	.
 ==	==

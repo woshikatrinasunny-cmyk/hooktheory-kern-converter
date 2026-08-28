@@ -15,34 +15,34 @@
 *b:	*
 *M4/4	*
 =1	=1
-8BB	Bm
-8BB	Bm
-4D	Bm/D
-8BB	Em/B
-8BB	Em/B
-4E	Em
+8BBL	B minor
+8BBJ	B minor
+4D	B minor/D
+8BBL	E minor/B
+8BBJ	E minor/B
+4E	E minor
 =2	=2
-8BB	Bm
-8BB	Bm
-4D	Bm/D
-8BB	Badd(1,6)
+8BBL	B minor
+8BBJ	B minor
+4D	B minor/D
+8BBL	B other-1,6
 8C#	.
-8BB	Bm
-8BB	Bm
+8BB	B minor
+8BBJ	B minor
 =3	=3
-4D	Bm/D
-8BB	Em/B
-8BB	Em/B
-4E	Em
-8BB	Bm
-8BB	Bm
+4D	B minor/D
+8BBL	E minor/B
+8BBJ	E minor/B
+4E	E minor
+8BBL	B minor
+8BBJ	B minor
 =4	=4
-4D	Bm/D
-8BB	Bm
-8BB	Bm
-8C#	A7
+4D	B minor/D
+8BBL	B minor
+8BBJ	B minor
+8C#L	A dominant
 8BB	.
 8AA	.
-8C#	.
+8C#J	.
 ==	==
 *-	*-

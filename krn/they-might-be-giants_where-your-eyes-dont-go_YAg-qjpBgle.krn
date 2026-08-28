@@ -16,163 +16,163 @@
 *C:	*
 *M4/4	*
 =1	=1
-2r	C
+2r	C major
 6...cc	.
 8.cc	.
 =2	=2
-6...cc	F
+6...cc	F major
 8.cc	.
 6...cc	.
 8.b	.
 =3	=3
-6...a	G
+6...a	G major
 8.g	.
 6...g	.
 8.f	.
 =4	=4
-6...e	A
+6...e	A major
 8.e	.
 6...f	.
 8.e	.
 =5	=5
-6...d	A#
+6...d	A# major
 8.d	.
 6...f	.
 8.e	.
 =6	=6
-6...d	G
+6...d	G major
 8.d	.
 6...e	.
 8.d	.
 =7	=7
-6...c	Am
+6...c	A minor
 8.c	.
 6...e	.
 8.d	.
 =8	=8
-6...c	F
+6...c	F major
 8.c	.
-6...d	G
+6...d	G major
 8.r	.
 =9	=9
-2r	C
+2r	C major
 6...cc	.
 8.cc	.
 =10	=10
-6...cc	F
+6...cc	F major
 8.cc	.
 6...cc	.
 8.b	.
 =11	=11
-6...a	G
+6...a	G major
 8.g	.
 6...g	.
 8.f	.
 =12	=12
-6...e	A
+6...e	A major
 8.e	.
 6...f	.
 8.e	.
 =13	=13
-6...d	A#
+6...d	A# major
 8.d	.
 6...f	.
 8.e	.
 =14	=14
-6...d	G
+6...d	G major
 8.d	.
 6...e	.
 8.d	.
 =15	=15
-8.c	Am
-8.c	.
+8.cL	A minor
+8.cJ	.
 8r	.
 6...e	.
 8.d	.
 =16	=16
-6...c	F
+6...c	F major
 8.c	.
-6...d	G
+6...d	G major
 8.r	.
 =17	=17
-2r	G#
+2r	G# major
 6...g#	.
 8.g#	.
 =18	=18
-6...g	A#
+6...g	A# major
 8.g	.
 6...f	.
 8.d#	.
 =19	=19
-6...g	Cm
+6...g	C minor
 8.g	.
 6...f	.
 8.d#	.
 =20	=20
-8.d#	G#
+8.d#L	G# major
 8d#	.
-8.f[	.
-8f]	A#
+[8.fJ	.
+8f]	A# major
 4.r	.
 =21	=21
-3...r	D#
-8.g	.
-8.g	.
+3...r	D# major
+8.gL	.
+8.gJ	.
 =22	=22
-6...g#	Fm
+6...g#	F minor
 8.g	.
 6...f	.
 8.d#	.
 =23	=23
-6...a#	Gm
+6...a#	G minor
 8.a#	.
 6...g#	.
 8.g	.
 =24	=24
-8.d#	G#
+8.d#L	G# major
 8d#	.
-8.f	.
-4r	A#
+8.fJ	.
+4r	A# major
 4d#	.
 =25	=25
-6...g	D#
+6...g	D# major
 8.g	.
-8g	.
-8g	.
-4g[	.
+8gL	.
+8gJ	.
+[4g	.
 =26	=26
-8g]	D#
+8g]	D# major
 3...r	.
-4d#[	.
+[4d#	.
 =27	=27
-16d#]	D#
-8.g	.
+16d#LK]	D# major
+8.gJ	.
 6...g	.
+8gL	.
 8g	.
-8g	.
-8.d#[	.
+[8.d#J	.
 =28	=28
-6...d#]	D#maj7
+6...d#]	D# major-seventh
 8r	.
 8d#	.
 8d#	.
 4d#	.
-16a#[	.
+[16a#	.
 =29	=29
-4.a#]	G#
+4.a#]	G# major
 4.g#	.
-4g#[	.
+[4g#	.
 =30	=30
-8g#]	G#
+8g#]	G# major
 2.r	.
 8g#	.
 =31	=31
-6...g	G#
+6...g	G# major
 8.g#	.
 6...g	.
-8.g#[	.
+[8.g#	.
 =32	=32
-6...g#]	A#
+6...g#]	A# major
 3...r	.
 16r	.
 ==	==

@@ -16,7 +16,7 @@
 *c:	*
 *M4/4	*
 =1	=1
-8r	Cm
+8r	C minor
 16ee-	.
 16r	.
 16cc	.
@@ -26,8 +26,8 @@
 4bn	.
 4aa-	.
 =2	=2
-8gg	G/B
-16gg-	.
+8ggL	G major/B
+16gg-Jk	.
 16r	.
 4gg	.
 16ccc	.
@@ -39,11 +39,11 @@
 16cc	.
 16r	.
 =3	=3
-8g	G7/B
-16ee-	.
+8gL	G dominant/B
+16ee-Jk	.
 16r	.
 4ff	.
-16gg	Cm/G
+16gg	C minor/G
 16r	.
 16ee-	.
 16r	.
@@ -52,14 +52,14 @@
 16an	.
 16r	.
 =4	=4
-8g	G
-16an	.
+8gL	G major
+16anJk	.
 16r	.
 4dd	.
-8cc	Cm
+8cc	C minor
 4.r	.
 =5	=5
-8r	Cm
+8r	C minor
 16c	.
 16r	.
 16G	.
@@ -67,29 +67,29 @@
 16Bn	.
 16r	.
 4c	.
-16g-	.
-8.g	.
+16g-LK	.
+8.gJ	.
 =6	=6
-16g-	D7
+16g-	D dominant
 16r	.
 16d	.
 16r	.
 4g-	.
-16g	E-
+16g	E- major
 16r	.
 16e-	.
 16r	.
-16c	A-/E-
+16c	A- major/E-
 16r	.
 16A-	.
 16r	.
 =7	=7
-16G	G7/F
+16G	G dominant/F
 16r	.
 16A-	.
 16r	.
 4Bn	.
-16c	Cm/G
+16c	C minor/G
 16r	.
 16G	.
 16r	.
@@ -98,13 +98,13 @@
 16C	.
 16r	.
 =8	=8
-8BBn	G/B
-16C	.
+8BBnL	G major/B
+16CJk	.
 16r	.
-16G	.
-16A-	.
-8G	.
-16C	Cm
+16GLL	.
+16A-J	.
+8GJ	.
+16C	C minor
 4..r	.
 ==	==
 *-	*-

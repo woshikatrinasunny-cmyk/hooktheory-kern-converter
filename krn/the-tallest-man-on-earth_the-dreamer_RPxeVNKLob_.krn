@@ -15,84 +15,84 @@
 *d:	*
 *M4/4	*
 =1	=1
-4r	Dm
-8f[	.
-8f]	Dm
-8.f	.
-16e[	.
-8e]	G
-8e[	.
+4r	D minor
+[8fL	.
+8fJ]	D minor
+8.fL	.
+[16ek	.
+8e]	G major
+[8eJ	.
 =2	=2
 4e]	.
 4d	.
-8d	G
-4.e[	.
+8d	G major
+[4.e	.
 =3	=3
-4e]	C/E
-8e[	.
-4e]	C/E
+4e]	C major/E
+[8e	.
+4e]	C major/E
 8G	.
-4A[	F
+[4A	F major
 =4	=4
 4A]	.
 4r	.
-4r	F
-4r	F/C
+4r	F major
+4r	F major/C
 =5	=5
-4r	Dm
-8d	.
-8f	Dm
+4r	D minor
+8dL	.
+8fJ	D minor
 4e	.
-4e	G
+4e	G major
 =6	=6
 4d	.
-4d[	.
-4.d]	G
+[4d	.
+4.d]	G major
 8c	.
 =7	=7
-4d	C/E
-8e[	.
-8e]	C/E
+4d	C major/E
+[8eL	.
+8eJ]	C major/E
 4r	.
-4r	F
+4r	F major
 =8	=8
 2r	.
-4r	F
-4r	F/C
+4r	F major
+4r	F major/C
 =9	=9
-4.r	Dm
-8e	Dm
+4.r	D minor
+8e	D minor
 4f	.
-8g	G
-8e[	.
+8gL	G major
+[8eJ	.
 =10	=10
 4e]	.
-8d	.
-8e[	.
-8e]	G
-4.e[	.
+8dL	.
+[8eJ	.
+8e]	G major
+[4.e	.
 =11	=11
-4.e]	C/E
-4e	C/E
-8G[	.
-8G]	F
-8A[	.
+4.e]	C major/E
+4e	C major/E
+[8GL	.
+8G]	F major
+[8AJ	.
 =12	=12
 8A]	.
 4.r	.
-4r	F
-4c	F
+4r	F major
+4c	F major
 =13	=13
-4c	E
+4c	E major
 4B	.
 2r	.
 =14	=14
 4r	.
 4A	.
 4B	.
-4c[	.
+[4c	.
 =15	=15
-2c]	F
+2c]	F major
 2r	.
 =16	=16
 4r	.
@@ -100,12 +100,12 @@
 4F	.
 4G	.
 =17	=17
-2G	Gsus4
+2G	G suspended-fourth
 2r	.
 =18	=18
 1r	.
 =19	=19
-1r	G
+1r	G major
 =20	=20
 1r	.
 ==	==

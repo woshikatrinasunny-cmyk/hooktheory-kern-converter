@@ -16,24 +16,24 @@
 *a:	*
 *M4/4	*
 =1	=1
-2.d	D7
+2.d	D dominant
 4e	.
 =2	=2
-4..f	Fadd(2,4,7)
+4..f	F other-2,4,7
 16G	.
 2A	.
 =3	=3
-2.d	D7
+2.d	D dominant
 4e	.
 =4	=4
-4..f	Fadd(2,4,7)
+4..f	F other-2,4,7
 16G	.
 4A	.
 4c	.
 =5	=5
-2.d	D7
+2.d	D dominant
 4e	.
 =6	=6
-1f	Fadd(2,4,7)
+1f	F other-2,4,7
 ==	==
 *-	*-

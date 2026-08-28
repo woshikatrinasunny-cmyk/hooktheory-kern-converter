@@ -16,64 +16,64 @@
 *G:	*
 *M4/4	*
 =1	=1
-1b	G
+1b	G major
 =2	=2
-2a	F
+2a	F major
 4.f	.
-16e	.
-16d#	.
+16eLL	.
+16d#JJ	.
 =3	=3
-2d	G
-2g	G/D
+2d	G major
+2g	G major/D
 =4	=4
-2f	F
+2f	F major
 2a	.
 =5	=5
-2g[	G/D
-2g]	G
+[2g	G major/D
+2g]	G major
 =6	=6
-2f	F
-4.ff	F/A
-16ee	.
-16dd#	.
+2f	F major
+4.ff	F major/A
+16eeLL	.
+16dd#JJ	.
 =7	=7
-2dd	Gsus2
-4.g	G/D
-16g	.
-16f	.
+2dd	G suspended-second
+4.g	G major/D
+16gLL	.
+16fJJ	.
 =8	=8
-2f	F
+2f	F major
 4.a	.
-16f	.
-16a	.
+16fLL	.
+16aJJ	.
 =9	=9
-1g[	G
+[1g	G major
 =10	=10
-2.g]	G
+2.g]	G major
 4r	.
 =11	=11
-8gg	G
+8gg	G major
 8r	.
 8gg	.
 4r	.
-16gg	.
-16gg	.
-8gg	.
+16ggLL	.
+16ggJ	.
+8ggJ	.
 8r	.
 =12	=12
-8gg	G
+8gg	G major
 8r	.
 4gg	.
-16f	F
-16f	.
+16fLL	F major
+16fJ	.
 8f	.
-16f	.
-16f	.
-8f	F#dim/A
+16fL	.
+16fJ	.
+8fJ	F# diminished/A
 =13	=13
-8g	G
+8g	G major
 8r	.
-8G	G
+8G	G major
 3...r	.
 ==	==
 *-	*-

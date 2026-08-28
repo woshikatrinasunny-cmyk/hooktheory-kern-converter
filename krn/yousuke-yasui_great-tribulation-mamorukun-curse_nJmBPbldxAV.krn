@@ -19,84 +19,84 @@
 2.r	.
 4d	.
 =2	=2
-3...dd	G
+3...dd	G major
 8r	.
 4ee	.
 =3	=3
-4gg	Cmaj7
-8ee	.
-16gg	.
-16ee	.
+4gg	C major-seventh
+8eeL	.
+16ggL	.
+16eeJJ	.
 4dd	.
 4b	.
 =4	=4
-2a	Bm7
+2a	B minor-seventh
 2b	.
 =5	=5
-2g[	Em7
-8g]	Emaj7/G#
+[2g	E minor-seventh
+8g]	E major-seventh/G#
 8r	.
 4c#	.
 =6	=6
 *k[f#c#g#d#]	*
 *E:	*
-3...cc#	F#m7
+3...cc#	F# minor-seventh
 8r	.
 4ee	.
 =7	=7
-4b	Emaj7/G#
+4b	E major-seventh/G#
 4cc#	.
 4g#	.
 4e	.
 =8	=8
-2f#	F#7/A#
+2f#	F# dominant/A#
 6...cc#	.
-16dd#	.
-8cc#	.
+16dd#LK	.
+8cc#J	.
 =9	=9
-2b[	Bsus4
-4b]	B
+[2b	B suspended-fourth
+4b]	B major
 4dn	.
 =10	=10
 *k[f#]	*
 *G:	*
-3...dd	G
+3...dd	G major
 8r	.
 4ee	.
 =11	=11
-4gg	Cmaj7
+4gg	C major-seventh
 4ee	.
 4gg	.
 4aa	.
 =12	=12
-2bb	Bm
-6...ddd	D
-16bb	.
-8ddd	.
+2bb	B minor
+6...ddd	D major
+16bbLK	.
+8dddJ	.
 =13	=13
 *k[f#c#g#d#]	*
 *c#:	*
-2eee	C#m7
-4r	C#m7/G#
+2eee	C# minor-seventh
+4r	C# minor-seventh/G#
 4ff#	.
 =14	=14
-3...gg#	F#m7
+3...gg#	F# minor-seventh
 8r	.
 4ccc#	.
 =15	=15
-4bb	G#m7
+4bb	G# minor-seventh
 4ff#	.
-4bb	G#m7/B
+4bb	G# minor-seventh/B
 4ddd#	.
 =16	=16
-2ccc#[	C#m7
-2ccc#]	Badd(2,4,7)
+[2ccc#	C# minor-seventh
+2ccc#]	B other-2,4,7
 =17	=17
 *k[f#]	*
 *G:	*
-4b	Gmaj7
+4b	G major-seventh
 4ff#	.
-4ee	Cmaj7
+4ee	C major-seventh
 4aa	.
 ==	==
 *-	*-

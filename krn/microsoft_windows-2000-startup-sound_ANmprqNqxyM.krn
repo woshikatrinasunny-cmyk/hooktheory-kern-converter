@@ -16,28 +16,28 @@
 *B-:	*
 *M4/4	*
 =1	=1
-16bb-	.
+16bb-LL	.
 16ff	.
 16bb-	.
 16ccc	.
-16fff	Cadd(3,5)/E-
+16fff	C other-3,5/E-
 16ff	.
 16bb-	.
-16ff	.
-16ccc	.
+16ffJJ	.
+16cccLL	.
 16ff	.
 16bb-	.
 16fff	.
 16ccc	.
 16bb-	.
 16ff	.
-16cc	.
+16ccJJ	.
 =2	=2
-8b-	B-add(2,5,7)
+8b-L	B- other-2,5,7
 8f	.
-8b-	.
+8b-J	.
 4.ee-	.
-4ff[	B-add(2,4,7)
+[4ff	B- other-2,4,7
 =3	=3
 1ff]	.
 ==	==

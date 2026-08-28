@@ -15,221 +15,221 @@
 *D:	*
 *M3/4	*
 =1	=1
-4.dd	Bm
+4.dd	B minor
 4.ee	.
 =2	=2
-4.cc#	A
+4.cc#	A major
 4.dd	.
 =3	=3
-2.b[	G
+[2.b	G major
 =4	=4
 2.b]	.
 =5	=5
-4.ff#	Em
+4.ff#	E minor
 4.gg	.
 =6	=6
-4.dd	A
+4.dd	A major
 4.ee	.
 =7	=7
-2.ff#[	D
+[2.ff#	D major
 =8	=8
 2.ff#]	.
 =9	=9
-4.ee	C#m
+4.ee	C# minor
 4.ff#	.
 =10	=10
-4.cc#	F#
+4.cc#	F# major
 4.ee	.
 =11	=11
-2.dd	Bm
+2.dd	B minor
 =12	=12
-2.cc#	D
+2.cc#	D major
 =13	=13
-4b	Bm
+4b	B minor
 4cc#	.
 4dd	.
 =14	=14
-4.ee	C#m
+4.ee	C# minor
 4.dd	.
 =15	=15
-2.cc#[	F#
+[2.cc#	F# major
 =16	=16
 2.cc#]	.
 =17	=17
-4.dd	Bm
+4.dd	B minor
 4.ee	.
 =18	=18
-4.cc#	A
+4.cc#	A major
 4.dd	.
 =19	=19
-2.b[	G
+[2.b	G major
 =20	=20
 2.b]	.
 =21	=21
-4.ff#	Em
+4.ff#	E minor
 4.gg	.
 =22	=22
-4.dd	A
+4.dd	A major
 4.ee	.
 =23	=23
-2.ff#[	D
+[2.ff#	D major
 =24	=24
 2.ff#]	.
 =25	=25
-4.ee	C#m
+4.ee	C# minor
 4.ff#	.
 =26	=26
-4.cc#	F#
+4.cc#	F# major
 4.ee	.
 =27	=27
-2dd	Bm
+2dd	B minor
 4ee	.
 =28	=28
-2ff#	D
+2ff#	D major
 4cc#	.
 =29	=29
-2.dd	G
+2.dd	G major
 =30	=30
 4.dd	.
 4.ee	.
 =31	=31
-2.cc#	F#
+2.cc#	F# major
 =32	=32
 2.cc#	.
 =33	=33
-2.b[	B
+[2.b	B major
 =34	=34
 2.b_	.
 =35	=35
-2.b_	Bm
+2.b_	B minor
 =36	=36
 2.b]	.
 =37	=37
-4.ff#	G
+4.ff#	G major
 4.dd	.
 =38	=38
-4.ee	A
+4.ee	A major
 4.aa	.
 =39	=39
-2.ff#[	Bm
+[2.ff#	B minor
 =40	=40
 2ff#]	.
-8ff#	.
-8gg#	.
+8ff#L	.
+8gg#J	.
 =41	=41
-4.aa	D
+4.aa	D major
 8bb	.
 4aa	.
 =42	=42
-4gg#	E
+4gg#	E major
 4ff#	.
 4ee	.
 =43	=43
-4cc#	F#
-2ff#[	.
+4cc#	F# major
+[2ff#	.
 =44	=44
 2.ff#]	.
 =45	=45
-4.ff#	G
+4.ff#	G major
 4.dd	.
 =46	=46
-4dd	A
+4dd	A major
 4cc#	.
 4ee	.
 =47	=47
-4.aa	F#m
+4.aa	F# minor
 4.ee	.
 =48	=48
-2dd	Bm
-8cc#	.
-8dd	.
+2dd	B minor
+8cc#L	.
+8ddJ	.
 =49	=49
-4.ee	E
+4.ee	E major
 4.ff#	.
 =50	=50
 2.bb	.
 =51	=51
-4.ee	G
+4.ee	G major
 4.ff#	.
 =52	=52
 2b	.
 4cc#	.
 =53	=53
-4dd	Em
+4dd	E minor
 4ee	.
 4ff#	.
 =54	=54
-4ee	F#m
+4ee	F# minor
 8cc#	.
 4.a	.
 =55	=55
-4dd	G
+4dd	G major
 4ee	.
 4ff#	.
 =56	=56
-4.aa	A
+4.aa	A major
 4.ff#	.
 =57	=57
-2bb	Bm
-8c#	.
-8d	.
+2bb	B minor
+8c#L	.
+8dJ	.
 =58	=58
 2a	.
-8c#	.
-8d	.
+8c#L	.
+8dJ	.
 =59	=59
-2a	G
-8c#	.
-8d	.
+2a	G major
+8c#L	.
+8dJ	.
 =60	=60
-8a	.
-8b	.
+8aL	.
+8bJ	.
 2a	.
 =61	=61
-2r	Em
-8c#	.
-8d	.
+2r	E minor
+8c#L	.
+8dJ	.
 =62	=62
 2a	.
-8c#	.
-8d	.
+8c#L	.
+8dJ	.
 =63	=63
-2a	F#m
-8c#	.
-8d	.
+2a	F# minor
+8c#L	.
+8dJ	.
 =64	=64
-8a	.
-8b	.
-8a[	.
-8a]	A
+8aL	.
+8bJ	.
+[8aL	.
+8aJ]	A major
 4ee	.
 =65	=65
-2r	Bm
-8c#	.
-8d	.
+2r	B minor
+8c#L	.
+8dJ	.
 =66	=66
-2a	D
-8c#	.
-8d	.
+2a	D major
+8c#L	.
+8dJ	.
 =67	=67
-2a	G
-8c#	.
-8d	.
+2a	G major
+8c#L	.
+8dJ	.
 =68	=68
-8a	.
-8b	.
+8aL	.
+8bJ	.
 2a	.
 =69	=69
-2r	Em
-8c#	.
-8d	.
+2r	E minor
+8c#L	.
+8dJ	.
 =70	=70
 2a	.
-8d	.
-8e	.
+8dL	.
+8eJ	.
 =71	=71
-2.b	F#m
+2.b	F# minor
 =72	=72
-2.ee	E
+2.ee	E major
 ==	==
 *-	*-

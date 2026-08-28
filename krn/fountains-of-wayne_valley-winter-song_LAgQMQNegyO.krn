@@ -15,60 +15,60 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4cc	F
+4cc	F major
 4f	.
 8f	.
 4f	.
-8f[	.
+[8f	.
 =2	=2
 4.f]	.
 4.r	.
-8f	.
-8f[	.
+8fL	.
+[8fJ	.
 =3	=3
-4f]	E-add(2,4,7)
+4f]	E- other-2,4,7
 4b-	.
 4b-	.
 4b-	.
 =4	=4
-2b-	B-
+2b-	B- major
 4r	.
-8dd	.
-8cc[	.
+8ddL	.
+[8ccJ	.
 =5	=5
-4cc]	F
+4cc]	F major
 4f	.
 4f	.
-8f	.
-8f[	.
+8fL	.
+[8fJ	.
 =6	=6
 4.f]	.
 4.a	.
-4b-[	.
+[4b-	.
 =7	=7
-2.b-]	Cadd(2,3,7)
+2.b-]	C other-2,3,7
 4r	.
 =8	=8
-1r	Cm
+1r	C minor
 =9	=9
-4g	E-
+4g	E- major
 4b-	.
 4cc	.
-4a[	.
+[4a	.
 =10	=10
-2a]	F
+2a]	F major
 2r	.
 =11	=11
-4g	E-
+4g	E- major
 8g	.
 4ff	.
-4.dd[	.
+[4.dd	.
 =12	=12
-4.dd]	Gm
+4.dd]	G minor
 4.r	.
 4dd	.
 =13	=13
-4cc	E-add(2,4,7)
+4cc	E- other-2,4,7
 4b-	.
 4g	.
 4f	.
@@ -77,25 +77,25 @@
 4a	.
 2g	.
 =15	=15
-4r	E-
+4r	E- major
 4f	.
-4f	F
-8e-	.
-8d	.
+4f	F major
+8e-L	.
+8dJ	.
 =16	=16
-1r	B-
+1r	B- major
 =17	=17
-1r	Dm
+1r	D minor
 =18	=18
-1r	E-
+1r	E- major
 =19	=19
 1r	.
 =20	=20
-1r	B-
+1r	B- major
 =21	=21
-1r	Dm
+1r	D minor
 =22	=22
-1r	E-
+1r	E- major
 =23	=23
 1r	.
 ==	==

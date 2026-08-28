@@ -16,78 +16,78 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	D
-8ff#	.
-8ee	.
-8.ggn	.
+4r	D major
+8ff#L	.
+8eeJ	.
+8.ggnL	.
 8.ff#	.
-8cc#	.
+8cc#J	.
 =2	=2
-8b	A
-16a	.
+8bL	A major
+16ak	.
 8a	.
-8b	.
+8bJ	.
 6...cc#	.
 4r	.
 =3	=3
-8r	E
-8b	.
-16cc#	.
-8.dd	.
-16cc#	.
-8.b	.
+8r	E major
+8bL	.
+16cc#k	.
+8.ddJ	.
+16cc#LK	.
+8.bJ	.
 16r	.
-16b	.
-8b	.
+16bLK	.
+8bJ	.
 =4	=4
-8b	D
-16a	.
+8bL	D major
+16ak	.
 8a	.
 8b	.
-16cc#[	.
-4cc#]	A
+[16cc#Jk	.
+4cc#]	A major
 4r	.
 =5	=5
-4r	D
-8aa	.
-8gg#	.
-8.bb	.
+4r	D major
+8aaL	.
+8gg#J	.
+8.bbL	.
 8.aa	.
-8aa	.
+8aaJ	.
 =6	=6
-8aa	A
+8aaL	A major
 8ee	.
 8ee	.
-16cc#	.
-16ff#[	.
-4ff#]	D
+16cc#L	.
+[16ff#JJ	.
+4ff#]	D major
 4a	.
 =7	=7
-4dd	D
-8ff#	.
-8aa	.
-8aa	.
-16aa	.
+4dd	D major
+8ff#L	.
+8aaJ	.
+8aaL	.
+16aak	.
 8.gg#	.
-16ff#	.
-16ee	.
+16ff#L	.
+16eeJJ	.
 =8	=8
-8ee	A
-16cc#	.
-16ff#[	.
-8ff#]	F#m
+8eeL	A major
+16cc#L	.
+[16ff#J	.
+8ff#J]	F# minor
 16r	.
 16a	.
-8cc#	D
+8cc#L	D major
 8dd	.
-8b	E
+8bJ	E major
 16r	.
 16b	.
 =9	=9
-16b	A
-8.a	.
+16bLK	A major
+8.aJ	.
 4r	.
-4r	D
-4r	E
+4r	D major
+4r	E major
 ==	==
 *-	*-

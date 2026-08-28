@@ -16,23 +16,23 @@
 *F:	*
 *M4/4	*
 =1	=1
-2..r	F
+2..r	F major
 8c	.
 =2	=2
-8.c	Fadd(2,4,7)
-8.d	.
+8.cL	F other-2,4,7
+8.dJ	.
 4c	.
 4r	.
 8c	.
 =3	=3
-8.c	.
-8.d	.
+8.cL	.
+8.dJ	.
 4c	.
 4r	.
 8d	.
 =4	=4
-8.d	Gm
-8.e	.
+8.dL	G minor
+8.eJ	.
 4d	.
 4r	.
 8d	.
@@ -43,7 +43,7 @@
 4r	.
 8g	.
 =6	=6
-4g	B-
+4g	B- major
 8f	.
 4f	.
 4r	.
@@ -55,17 +55,17 @@
 4r	.
 8d	.
 =8	=8
-4d	Gm7
+4d	G minor-seventh
 8d	.
 6...d	.
 4d	.
-16d[	.
+[16d	.
 =9	=9
-8d]	B-
+8dL]	B- major
 8c	.
-8c[	.
-8c_	F
-4c]	F
+[8c	.
+8cJ_	F major
+4c]	F major
 4r	.
 =10	=10
 1r	.

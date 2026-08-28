@@ -16,126 +16,126 @@
 *c:	*
 *M4/4	*
 =1	=1
-16aaa-	Fm7
+16aaa-LL	F minor-seventh
 16ggg	.
-16fff	Fm7
-16eee-	B-7
+16fff	F minor-seventh
+16eee-	B- dominant
 16ddd	.
-16ccc	B-7
+16ccc	B- dominant
 16bb-	.
-16aa-	B-7
-16gg	.
-16ff	E-maj7
+16aa-JJ	B- dominant
+16ggLL	.
+16ff	E- major-seventh
 16ee-	.
-16dd	E-maj7
-16cc	A-maj7
+16dd	E- major-seventh
+16cc	A- major-seventh
 16b-	.
-16a-	A-maj7
-16g	A-maj7
+16a-	A- major-seventh
+16gJJ	A- major-seventh
 =2	=2
-16f	Dm7b5
+16fLL	D half-diminished
 16e-	.
 16d	.
-16c	Dm7b5
+16c	D half-diminished
 16Bn	.
-16An	G7
+16An	G dominant
 16G	.
-16F	G7/B
-6...En[	Cmaj9
-16En]	Cmaj9
-16r	Cmaj9
-16r	Cmaj9
+16FJJ	G dominant/B
+[6...En	C major-ninth
+16En]	C major-ninth
+16r	C major-ninth
+16r	C major-ninth
 =3	=3
-16fff	Fm7
+16fffLL	F minor-seventh
 16eee-	.
 16ddd	.
-16ccc	B-7
+16ccc	B- dominant
 16bb-	.
 16aa-	.
-16gg	B-7
-16ff	.
-16ee-	.
-16dd	E-maj7
+16gg	B- dominant
+16ffJJ	.
+16ee-LL	.
+16dd	E- major-seventh
 16cc	.
-16b-	E-maj7
-16a-	A-maj7
+16b-	E- major-seventh
+16a-	A- major-seventh
 16g	.
-16f	A-maj7
-16e-	A-maj7
+16f	A- major-seventh
+16e-JJ	A- major-seventh
 =4	=4
-16d	Dm7b5
+16dLL	D half-diminished
 16c	.
 16Bn	.
 16An	.
-16G	G7
+16G	G dominant
 16F	.
 16E-	.
-16D	G7/B
-8C[	Cm
-8C]	C
+16DJJ	G dominant/B
+[8CL	C minor
+8CJ]	C
 8r	D
 8r	E
 =5	=5
-16cccc	Fm7
+16ccccLL	F minor-seventh
 16bbb-	.
 16aaa-	.
-16ggg	B-7
+16ggg	B- dominant
 16fff	.
-16eee-	B-7
+16eee-	B- dominant
 16ddd	.
-16ccc	.
-16bb-	.
-16aa-	E-maj7/B-
-16gg	E-maj7
-16ff	E-maj7/B-
-16ee-	A-maj7
+16cccJJ	.
+16bb-LL	.
+16aa-	E- major-seventh/B-
+16gg	E- major-seventh
+16ff	E- major-seventh/B-
+16ee-	A- major-seventh
 16dd	.
-16cc	A-maj7
-16b-	A-maj7
+16cc	A- major-seventh
+16b-JJ	A- major-seventh
 =6	=6
-16a-	Fm7
+16a-LL	F minor-seventh
 16g	.
-16f	Fm7
+16f	F minor-seventh
 16e-	.
-16d	B-7
-16c	B-7sus4/A-
-16B-	B-7
-16A-	B-7
-16G	.
-16F	E-maj7/G
-16E-	E-maj7
-16D	E-maj7/B-
-16C	A-maj7
+16d	B- dominant
+16c	B- dominant-seventh-suspended-fourth/A-
+16B-	B- dominant
+16A-JJ	B- dominant
+16GLL	.
+16F	E- major-seventh/G
+16E-	E- major-seventh
+16D	E- major-seventh/B-
+16C	A- major-seventh
 16BB-	.
-16AA-	A-maj7
-16GG	A-maj7
+16AA-	A- major-seventh
+16GGJJ	A- major-seventh
 =7	=7
-16FF	Fm7
+16FFLL	F minor-seventh
 16EE-	.
-16DD	Fm7/A-
-16CC	Fm7
-16B-	B-7
+16DD	F minor-seventh/A-
+16CC	F minor-seventh
+16B-	B- dominant
 16A-	.
-16G	B-7
-16F	B-7
-16E-	.
-16D	E-maj7
-16C	E-maj7
-16BB-	E-maj7
-16aa-	A-maj7
+16G	B- dominant
+16FJJ	B- dominant
+16E-LL	.
+16D	E- major-seventh
+16C	E- major-seventh
+16BB-	E- major-seventh
+16aa-	A- major-seventh
 16gg	.
 16ff	.
-16ee-	.
+16ee-JJ	.
 =8	=8
-16dd	D
+16ddLL	D
 16cc	C
 16bn	B
 16an	A
 16g	G
 16f	F
 16en	E
-16d	D
-8c	C
+16dJJ	D
+8c	C major
 8r	G
 4r	C
 ==	==

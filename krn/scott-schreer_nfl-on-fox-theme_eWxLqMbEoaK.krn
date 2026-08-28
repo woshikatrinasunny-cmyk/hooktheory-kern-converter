@@ -17,51 +17,51 @@
 *M4/4	*
 =1	=1
 8r	.
-16c	.
+16cLL	.
 16d	.
-16e-	.
+16e-JJ	.
 16r	.
-16d	.
-16c	.
-4g[	.
-4g]	Cm
+16dLL	.
+16cJJ	.
+[4g	.
+4g]	C minor
 =2	=2
 8r	.
-16c	.
+16cLL	.
 16d	.
-16e-	.
+16e-JJ	.
 16r	.
-16d	.
-16c	.
-4a-[	.
-4a-]	A-
+16dLL	.
+16cJJ	.
+[4a-	.
+4a-]	A- major
 =3	=3
 8r	.
-16c	.
+16cLL	.
 16d	.
-16e-	.
+16e-JJ	.
 16r	.
-16d	.
-16c	.
+16dLL	.
+16cJJ	.
 4g	.
-4gg	Cm
+4gg	C minor
 =4	=4
-4aa-	Fm
-4ccc	A-
-2bbn	G
+4aa-	F minor
+4ccc	A- major
+2bbn	G major
 =5	=5
-8r	Cm
-16g	.
+8r	C minor
+16gLL	.
 16a-	.
+16ee-JJ	.
+16r	.
+16gLL	.
+16a-JJ	.
 16ee-	.
 16r	.
-16g	.
+16gLL	.
 16a-	.
-16ee-	.
-16r	.
-16g	.
-16a-	.
-16ee-	.
+16ee-JJ	.
 16r	.
 16ff	.
 16r	.
@@ -69,17 +69,17 @@
 1dd	.
 =7	=7
 8r	.
-16g	.
+16gLL	.
 16a-	.
+16ee-JJ	.
+16r	.
+16gLL	.
+16a-JJ	.
 16ee-	.
 16r	.
-16g	.
+16gLL	.
 16a-	.
-16ee-	.
-16r	.
-16g	.
-16a-	.
-16ee-	.
+16ee-JJ	.
 16r	.
 16gg	.
 16r	.
@@ -89,44 +89,44 @@
 16aa-	.
 16r	.
 =9	=9
-4gg	Cm
-4aa-	Fm
-4bb-	E-
-4ccc	A-
+4gg	C minor
+4aa-	F minor
+4bb-	E- major
+4ccc	A- major
 =10	=10
-2ccc	Gsus4
-2ddd	G
+2ccc	G suspended-fourth
+2ddd	G major
 =11	=11
-8r	A-
-16g	.
+8r	A- major
+16gLL	.
 16a-	.
+16ee-JJ	.
+16r	.
+16gLL	.
+16a-JJ	.
 16ee-	.
 16r	.
-16g	.
+16gLL	.
 16a-	.
-16ee-	.
-16r	.
-16g	.
-16a-	.
-16ee-	.
+16ee-JJ	.
 16r	.
 16ff	.
 16r	.
 =12	=12
 1dd	.
 =13	=13
-8r	Fm
-16g	.
+8r	F minor
+16gLL	.
 16a-	.
+16ee-JJ	.
+16r	.
+16gLL	.
+16a-JJ	.
 16ee-	.
 16r	.
-16g	.
+16gLL	.
 16a-	.
-16ee-	.
-16r	.
-16g	.
-16a-	.
-16ee-	.
+16ee-JJ	.
 16r	.
 16bb-	.
 16r	.
@@ -134,7 +134,7 @@
 2aa-	.
 2ff	.
 =15	=15
-8gg	Cm
+8gg	C minor
 2..r	.
 =16	=16
 1r	.

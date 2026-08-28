@@ -16,95 +16,95 @@
 *g:	*
 *M4/4	*
 =1	=1
-8.ee-	A-sus2
+8.ee-L	A- suspended-second
 8.ee-	.
-8ee-	.
+8ee-J	.
 8ee-	.
 4ee-	.
 8ee-	.
 =2	=2
+8ee-L	.
 8ee-	.
-8ee-	.
-8.ee-	.
+8.ee-J	.
 6...ee-	.
-8r	E-m/G-
+8r	E- minor/G-
 8ee-	.
 =3	=3
+8ee-L	.
 8ee-	.
-8ee-	.
-8.ee-	.
+8.ee-J	.
 8.ee-	.
 4ee-	.
-8ee-[	.
+[8ee-	.
 =4	=4
-8ee-]	.
+8ee-L]	.
 8ee-	.
 8ee-	.
-8ee-	.
+8ee-J	.
+8.ee-L	.
 8.ee-	.
-8.ee-	.
-8ee-	.
+8ee-J	.
 =5	=5
-8.dd	B-/F
+8.ddL	B- major/F
 8.dd	.
-8dd	.
+8ddJ	.
 8dd	.
 8r	.
 8ff	.
 8r	.
 =6	=6
-8aa	F
+8aa	F major
 8r	.
 8ccc	.
 8r	.
-16ccc	.
+16cccLL	.
 16bb-	.
 16aa	.
 16bb-	.
 16gg	.
 16aa	.
 16ff	.
-16cc	.
+16ccJJ	.
 =7	=7
-1een	Em
+1een	E minor
 =8	=8
 2bbn	.
-8aa	.
+8aaL	.
 8bbn	.
 8aa	.
-8bbn	.
+8bbnJ	.
 =9	=9
-1gg	E-
+1gg	E- major
 =10	=10
 1ccc	.
 =11	=11
-1bb-[	Gm
+[1bb-	G minor
 =12	=12
 1bb-_	.
 =13	=13
-1bb-_	E-/G
+1bb-_	E- major/G
 =14	=14
-1bb-]	F/A
+1bb-]	F major/A
 =15	=15
-1b-[	Gm
+[1b-	G minor
 =16	=16
 1b-]	.
 =17	=17
-1g	E-/B-
+1g	E- major/B-
 =18	=18
-8a	F/C
+8a	F major/C
 8r	.
-16aa	.
+16aaLL	.
 16ff	.
 16cc	.
+16aJJ	.
+16fLL	.
+16a	.
+16cc	.
+16ff	.
 16a	.
 16f	.
 16a	.
-16cc	.
-16ff	.
-16a	.
-16f	.
-16a	.
-16a	.
+16aJJ	.
 ==	==
 *-	*-

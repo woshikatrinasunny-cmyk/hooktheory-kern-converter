@@ -16,157 +16,157 @@
 *a:	*
 *M4/4	*
 =1	=1
-2ccc[	Am
-4ccc]	C/G
+[2ccc	A minor
+4ccc]	C major/G
 4ddd	.
 =2	=2
-2.ddd#	Fm7
+2.ddd#	F minor-seventh
 4ff	.
 =3	=3
 *k[b-]	*
 *d:	*
-2gg	Dm
-2aa	Dm7/C
+2gg	D minor
+2aa	D minor-seventh/C
 =4	=4
-2bb-	B-m
-2ccc	B-m7/A-
+2bb-	B- minor
+2ccc	B- minor-seventh/A-
 =5	=5
 *M3/4	*
-4.ddd-	D-dim/G
-16gg	.
-16aa	.
-8ddd-	.
-8eee	.
+4.ddd-	D- diminished/G
+16ggLL	.
+16aaJJ	.
+8ddd-L	.
+8eeeJ	.
 =6	=6
 *M4/4	*
-8eee	Dm/F
-8ddd	.
-4aaa[	.
-4aaa]	Cm/E-
-8cc	.
-8dd-	.
+8eeeL	D minor/F
+8dddJ	.
+[4aaa	.
+4aaa]	C minor/E-
+8ccL	.
+8dd-J	.
 =7	=7
-8ee-	Gdim/D-
-8ff	.
-4gg[	.
-8gg]	Fdim/B
-16ff	.
-16gg	.
+8ee-L	G diminished/D-
+8ffJ	.
+[4gg	.
+8ggL]	F diminished/B
+16ffL	.
+16ggJ	.
 8aa-	.
-8bb-	.
+8bb-J	.
 =8	=8
 *k[f#c#]	*
 *b:	*
 *M5/4	*
-8bb	Bm7b5/A
-8ccc#	.
+8bbL	B half-diminished/A
+8ccc#J	.
 4.ddd	.
 8bb	.
-8ccc#	G
+8ccc#	G major
 4.ddd	.
 =9	=9
 *M4/4	*
-8ddd	Bm/F#
+8dddL	B minor/F#
 8ccc#	.
 8aa	.
-8bb[	.
-8bb]	Em7
+[8bbJ	.
+8bbL]	E minor-seventh
 8ddd	.
 8ccc#	.
-8aa	.
+8aaJ	.
 =10	=10
 *M3/4	*
-4bb	Bdim/D
-8ffn	.
-8bb	.
-8ccc#	.
-8ddd	.
+4bb	B diminished/D
+8ffnL	.
+8bbJ	.
+8ccc#L	.
+8dddJ	.
 =11	=11
 *M2/4	*
-4eee	C#add(3,5,6,10)
+4eee	C# other-3,5,6,10
 8.fff#	.
 16r	.
 =12	=12
 *M5/4	*
-16eee	Cadd(4,6,7,11)
+16eeeLL	C other-4,6,7,11
 16fff#	.
 16ddd	.
-16eee	.
-16ddd	.
-16aa	.
-2bb	Bm
+16eeeJJ	.
+16dddLL	.
+16aaJJ	.
+2bb	B minor
 *k[f#c#g#d#a#]	*
 *g#:	*
-8an	Bm7/A
-8b	.
-8bb[	.
+8an	B minor-seventh/A
+8bL	.
+[8bbJ	.
 =13	=13
 *M4/4	*
-1bb_	G#m
+1bb_	G# minor
 =14	=14
 1bb_	.
 =15	=15
-1bb_	Cmaj7/E
+1bb_	C major-seventh/E
 =16	=16
 2bb]	.
-8r	F#m
-8bb	.
+8r	F# minor
+8bbL	.
 8ccc#	.
-8ddd#[	.
+[8ddd#J	.
 =17	=17
-1ddd#_	G#m
+1ddd#_	G# minor
 =18	=18
 1ddd#_	.
 =19	=19
-1ddd#_	Em
+1ddd#_	E minor
 =20	=20
 2ddd#_	.
-4ddd#]	F#m
+4ddd#]	F# minor
 4ccc#	.
 =21	=21
 *k[b-]	*
 *g:	*
-1ccc[	Gadd(2,5,7)
+[1ccc	G other-2,5,7
 =22	=22
 1ccc_	.
 =23	=23
-1ccc_	Fm/C
+1ccc_	F minor/C
 =24	=24
 2ccc]	.
-8r	Dm7
-8ccc	.
+8r	D minor-seventh
+8cccL	.
 8ddd	.
-8eee[	.
+[8eeeJ	.
 =25	=25
-1eee_	Gadd(2,7,9)
+1eee_	G other-2,7,9
 =26	=26
 3...eee]	.
 8r	.
-8fff	.
-8ggg[	.
+8fffL	.
+[8gggJ	.
 =27	=27
-1ggg_	Cmaj7sus2
+1ggg_	C major-seventh-suspended-second
 =28	=28
 2ggg]	.
-2fff	Dm
+2fff	D minor
 =29	=29
 *k[b-e-]	*
 *g:	*
 *M3/4	*
-8bb-	E-
-8aa	E-
-8ff	E-
-4gg	E-
-8bb-	E-
+8bb-L	E- major
+8aaJ	E- major
+8ff	E- major
+4gg	E- major
+8bb-	E- major
 =30	=30
-8aa	E-
-8ff	E-7/D-
-4gg	E-7/D-
-8ff	E-7/D-
-8gg	E-
+8aaL	E- major
+8ffJ	E- dominant/D-
+4gg	E- dominant/D-
+8ffL	E- dominant/D-
+8ggJ	E- major
 =31	=31
 *M4/4	*
-1ggg[	A-maj7
+[1ggg	A- major-seventh
 =32	=32
 1ggg]	.
 ==	==

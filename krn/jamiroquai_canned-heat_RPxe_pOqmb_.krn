@@ -16,73 +16,73 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Dm7
+8r	D minor-seventh
+8dL	.
 8d	.
-8d	.
+8dJ	.
+8fL	.
 8d	.
 8f	.
-8d	.
-8f	.
-16d	.
-16f[	.
+16dL	.
+[16fJJ	.
 =2	=2
-16f]	.
-8d	.
+16fLK]	.
+8dJ	.
 6...r	.
-8.r	Am
-8.r	Am
-8r	B-add(2,3,7)
+8.r	A minor
+8.r	A minor
+8r	B- other-2,3,7
 =3	=3
 16r	.
+16dLL	.
 16d	.
-16d	.
-16c	.
+16cJ	.
 8d	.
-8d	.
+8dJ	.
+8fL	.
 8f	.
-8f	.
-16e	.
+16ek	.
 8d	.
-16d[	.
+[16dJk	.
 =4	=4
-16d]	.
-8f	.
-6...d[	.
-8.d_	B-maj7/A
-16d]	C7/G
+16dLK]	.
+8fJ	.
+[6...d	.
+8.dL_	B- major-seventh/A
+16dJk]	C dominant/G
 8r	.
-8r	Gm7
+8r	G minor-seventh
 =5	=5
 8r	.
+8cL	.
 8c	.
-8c	.
-8c	.
-8c	.
+8cJ	.
+8cL	.
 8c	.
 8d	.
-16c	.
-16f[	.
+16cL	.
+[16fJJ	.
 =6	=6
 16f]	.
-4..d[	.
-8.d_	Gm7
-8.d]	Am
-8r	B-add(2,3,7)
+[4..d	.
+8.dL_	G minor-seventh
+8.dJ]	A minor
+8r	B- other-2,3,7
 =7	=7
 16r	.
+16dLL	.
 16d	.
-16d	.
-16c	.
+16cJ	.
 8d	.
+8cJ	.
+8dL	.
 8c	.
 8d	.
-8c	.
-8d	.
-8d	.
+8dJ	.
 =8	=8
-4g	B-maj7
-4f	Bm7
-4c	Cm7
-4d	D-m7
+4g	B- major-seventh
+4f	B minor-seventh
+4c	C minor-seventh
+4d	D- minor-seventh
 ==	==
 *-	*-

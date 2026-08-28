@@ -15,48 +15,48 @@
 *a:	*
 *M4/4	*
 =1	=1
-4..cc	Am
+4..cc	A minor
 16r	.
-8ee	C/G
-8dd	.
-4ee	Em7/G
+8eeL	C major/G
+8ddJ	.
+4ee	E minor-seventh/G
 =2	=2
-2a[	F
-4a]	Em7/G
+[2a	F major
+4a]	E minor-seventh/G
 4g	.
 =3	=3
-4.cc	Am
+4.cc	A minor
 8r	.
-8cc	C/G
-8dd	.
+8ccL	C major/G
+8ddJ	.
 4ee	.
 =4	=4
-2a	Fmaj7
-2g	G
+2a	F major-seventh
+2g	G major
 =5	=5
-8r	Am
-8cc	.
+8r	A minor
+8ccL	.
 8b	.
-8cc	.
-4b	G
-4cc[	.
+8ccJ	.
+4b	G major
+[4cc	.
 =6	=6
-4cc]	F
+4cc]	F major
 4b	.
-4dd	G
-8ee	.
-8ff	.
+4dd	G major
+8eeL	.
+8ffJ	.
 =7	=7
-4gg	Am7
+4gg	A minor-seventh
 4ee	.
-4cc	Cadd(2,4,7)/G
+4cc	C other-2,4,7/G
 4ee	.
 =8	=8
-2dd	Dm7/F
-4cc	Fmaj7/E
-4b	Badd(5,6,10)/F
+2dd	D minor-seventh/F
+4cc	F major-seventh/E
+4b	B other-5,6,10/F
 =9	=9
-8r	Cmaj7/E
+8r	C major-seventh/E
 16ee	.
 16r	.
 16dd	.
@@ -66,6 +66,6 @@
 4a	.
 4g	.
 =10	=10
-1a	Am
+1a	A minor
 ==	==
 *-	*-

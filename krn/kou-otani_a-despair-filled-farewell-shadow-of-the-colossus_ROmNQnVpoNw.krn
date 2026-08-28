@@ -15,101 +15,101 @@
 *f:	*
 *M4/4	*
 =1	=1
-16f	Fm
+16fLL	F minor
 16g	.
 16a-	.
 16b-	.
 16cc	.
 16b-	.
 16a-	.
-16g	.
-16f	.
+16gJJ	.
+16fLL	.
 16g	.
 16a-	.
 16b-	.
 16cc	.
 16b-	.
 16a-	.
-16g	.
+16gJJ	.
 =2	=2
-8r	Gm
-8r	A-
+8r	G minor
+8r	A- major
 2.r	.
 =3	=3
-16f	Fm
+16fLL	F minor
 16g	.
 16a-	.
 16b-	.
 16cc	.
 16b-	.
 16a-	.
-16g	.
-16f	.
+16gJJ	.
+16fLL	.
 16g	.
 16a-	.
 16b-	.
 16cc	.
 16b-	.
 16a-	.
-16g	.
+16gJJ	.
 =4	=4
-8r	Gm
-8r	A-
+8r	G minor
+8r	A- major
 2.r	.
 =5	=5
-4.a-	Fm
+4.a-	F minor
 3...g	.
 =6	=6
-4.a-	Fm
-4.g[	.
-8g_	Fdim
-8g]	Gdim
+4.a-	F minor
+[4.g	.
+8gL_	F diminished
+8gJ]	G diminished
 =7	=7
-4.a-	Fm
+4.a-	F minor
 3...b-	.
 =8	=8
-4r	Fm
-8F	.
-8G	.
+4r	F minor
+8FL	.
+8GJ	.
 4A-	.
 4G	.
 =9	=9
-4.a-	Fm
+4.a-	F minor
 3...g	.
 =10	=10
-4.a-	Fm
-4.g[	.
-8g_	Fdim
-8g]	Gdim
+4.a-	F minor
+[4.g	.
+8gL_	F diminished
+8gJ]	G diminished
 =11	=11
-4.a-	Fm
+4.a-	F minor
 3...b-	.
 =12	=12
-4r	Fm
-8F	.
-8G	.
+4r	F minor
+8FL	.
+8GJ	.
 4A-	.
-4B-	Gm
+4B-	G minor
 =13	=13
-4a-	Fm
+4a-	F minor
 4r	.
-4b-	Gdim
+4b-	G diminished
 4r	.
 =14	=14
-4cc	A-
+4cc	A- major
 8r	.
-16b-	.
-16cc	.
-4.dd-	D-
-16cc	.
-16dd-	.
+16b-LL	.
+16ccJJ	.
+4.dd-	D- major
+16ccLL	.
+16dd-JJ	.
 =15	=15
-4ee-	A-
-4dd-	B-m
-4cc	Cm
-4b-	B-m
+4ee-	A- major
+4dd-	B- minor
+4cc	C minor
+4b-	B- minor
 =16	=16
-4cc	Fm
+4cc	F minor
 2.r	.
 ==	==
 *-	*-

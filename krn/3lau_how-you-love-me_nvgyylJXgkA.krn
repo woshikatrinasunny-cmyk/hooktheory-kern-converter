@@ -16,78 +16,78 @@
 *b-:	*
 *M4/4	*
 =1	=1
-8dd-	B-m
+8dd-L	B- minor
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
-8dd-	.
+8dd-J	.
+8dd-L	.
+8dd-J	.
 4d-	.
 =2	=2
-8ee-	D-add(2,4,7)
+8ee-L	D- other-2,4,7
 8ee-	.
 8ee-	.
+8ee-J	.
+8ee-L	.
 8ee-	.
-8ee-	.
-8ee-	.
-16ee-	D-add(2,4,7)
+16ee-L	D- other-2,4,7
 16ee-	.
 16ee-	.
-16ee-	.
+16ee-JJ	.
 =3	=3
-8dd-	A-
+8dd-L	A- major
 8cc	.
 8cc	.
+8ccJ	.
+8ccL	.
 8cc	.
 8cc	.
-8cc	.
-8cc	.
-8b-	.
+8b-J	.
 =4	=4
-8cc	G-
+8ccL	G- major
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
-8cc	A-add(2,4,7)
+8dd-J	.
+8dd-L	.
+8cc	A- other-2,4,7
 8cc	.
-8cc	.
+8ccJ	.
 =5	=5
-8dd-	B-m
+8dd-L	B- minor
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
-8dd-	.
+8dd-J	.
+8dd-L	.
+8dd-J	.
 4d-	.
 =6	=6
-8ee-	D-add(2,4,7)
+8ee-L	D- other-2,4,7
 8ee-	.
 8ee-	.
+8ee-J	.
+8ee-L	.
 8ee-	.
-8ee-	.
-8ee-	.
-16ee-	D-add(2,4,7)
+16ee-L	D- other-2,4,7
 16ee-	.
 16ee-	.
-16ee-	.
+16ee-JJ	.
 =7	=7
-8dd-	A-
+8dd-L	A- major
 8cc	.
 8cc	.
+8ccJ	.
+8ccL	.
 8cc	.
 8cc	.
-8cc	.
-8cc	.
-8b-	.
+8b-J	.
 =8	=8
-8cc	G-
+8ccL	G- major
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
-8cc	A-add(2,4,7)
+8dd-J	.
+8dd-L	.
+8cc	A- other-2,4,7
 8cc	.
-8cc	.
+8ccJ	.
 ==	==
 *-	*-

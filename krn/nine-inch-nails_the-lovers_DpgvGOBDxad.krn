@@ -16,61 +16,61 @@
 *f:	*
 *M6/4	*
 =1	=1
-1.r	F
+1.r	F major
 =2	=2
-1.r	E-
+1.r	E- major
 =3	=3
-2.r	B-sus2
-2.r	B-m
+2.r	B- suspended-second
+2.r	B- minor
 =4	=4
-2.r	A-/C
-2.r	A-sus4
+2.r	A- major/C
+2.r	A- suspended-fourth
 =5	=5
-1.r	F
+1.r	F major
 =6	=6
-1.r	E-
+1.r	E- major
 =7	=7
-2.r	B-sus2
-2.r	B-m
+2.r	B- suspended-second
+2.r	B- minor
 =8	=8
-2.r	A-/C
-2.r	A-sus4
+2.r	A- major/C
+2.r	A- suspended-fourth
 =9	=9
-1.an	F
+1.an	F major
 =10	=10
-1.b-	E-
+1.b-	E- major
 =11	=11
-2.r	B-sus2
-2.r	B-m
+2.r	B- suspended-second
+2.r	B- minor
 =12	=12
-4a-	A-/C
+4a-	A- major/C
 4g	.
-8f	.
-8an[	.
-4an]	A-sus4
+8fL	.
+[8anJ	.
+4an]	A- suspended-fourth
 4g	.
 4f	.
 =13	=13
-8f	F
-8g	.
-1an[	.
+8fL	F major
+8gJ	.
+[1an	.
 4an]	.
 =14	=14
-1.b-	E-
+1.b-	E- major
 =15	=15
-2.cc	B-sus2
-2.b-	B-m
+2.cc	B- suspended-second
+2.b-	B- minor
 =16	=16
-4cc	A-/C
+4cc	A- major/C
 4b-	.
-8an	.
-8cc[	.
-4cc]	A-sus4
+8anL	.
+[8ccJ	.
+4cc]	A- suspended-fourth
 4b-	.
 4an	.
 =17	=17
 8f	.
-1ff[	.
+[1ff	.
 4.ff]	.
 ==	==
 *-	*-

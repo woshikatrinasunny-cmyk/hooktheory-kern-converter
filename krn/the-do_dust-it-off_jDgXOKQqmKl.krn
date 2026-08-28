@@ -15,7 +15,7 @@
 *D:	*
 *M4/4	*
 =1	=1
-2f#	D
+2f#	D major
 2e	.
 =2	=2
 4f#	.
@@ -23,12 +23,12 @@
 4b	.
 4dd	.
 =3	=3
-8ee	F#m/C#
+8ee	F# minor/C#
 2..ff#	.
 =4	=4
 1r	.
 =5	=5
-2f#	F#dim/C
+2f#	F# diminished/C
 2e	.
 =6	=6
 4f#	.
@@ -36,12 +36,12 @@
 4dd	.
 4ee	.
 =7	=7
-1dd[	Bm
+[1dd	B minor
 =8	=8
 2dd]	.
 2r	.
 =9	=9
-2f#	D
+2f#	D major
 2e	.
 =10	=10
 4f#	.
@@ -49,46 +49,46 @@
 4b	.
 4dd	.
 =11	=11
-8ee	F#m/C#
+8ee	F# minor/C#
 2..ff#	.
 =12	=12
 2r	.
 4ee	.
 4dd	.
 =13	=13
-1dd[	F#dim/C
+[1dd	F# diminished/C
 =14	=14
 4dd]	.
 4r	.
 4b	.
 4dd	.
 =15	=15
-2b	Bm
+2b	B minor
 4a	.
 4b	.
 =16	=16
-2a	F#7/A#
+2a	F# dominant/A#
 4f#	.
 4a	.
 =17	=17
-1e	Em/G
+1e	E minor/G
 =18	=18
 2r	.
 4.d	.
 8e	.
 =19	=19
-1e	C#dim/G
+1e	C# diminished/G
 =20	=20
 2r	.
 4.d	.
 8c#	.
 =21	=21
-1c#	F#7
+1c#	F# dominant
 =22	=22
 1r	.
 =23	=23
-1r	C#dim/G
+1r	C# diminished/G
 =24	=24
-1r	F#7
+1r	F# dominant
 ==	==
 *-	*-

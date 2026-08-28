@@ -16,146 +16,146 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	G
-16bb	.
+4r	G major
+16bbLL	.
 16ccc	.
 16bb	.
-16aa	.
-8gg	G/B
+16aaJJ	.
+8gg	G major/B
 8r	.
-16dd	.
+16ddLL	.
 16ee	.
 16dd	.
-16cc	.
+16ccJJ	.
 =2	=2
-8b	C
+8b	C major
 8r	.
 4gg	.
-2r	D
+2r	D major
 =3	=3
-8d	G
-8g	.
+8dL	G major
+8gJ	.
 4dd	.
-8cc	C
-8dd	.
+8ccL	C major
+8ddJ	.
 4ee	.
 =4	=4
-8dd	G
+8ddL	G major
 8gg	.
 8ff#	.
-8gg	.
-4dd	G/B
-4dd#	Gaug/B
+8ggJ	.
+4dd	G major/B
+4dd#	G augmented/B
 =5	=5
-4ee	C
+4ee	C major
 4g	.
-8b	D
+8bL	D major
 8a	.
-8g	D7
-8f#	.
+8g	D dominant
+8f#J	.
 =6	=6
-4f#	Gsus4
-4g	G
-8d[	G/B
-8d_	G/D
-8d_	G
-8d]	G/B
+4f#	G suspended-fourth
+4g	G major
+[8dL	G major/B
+8d_	G major/D
+8d_	G major
+8dJ]	G major/B
 =7	=7
-8d	Cadd(2,4,7)
-8g	.
+8dL	C other-2,4,7
+8gJ	.
 4dd	.
-8cc	D
-8dd	.
-4ee	C
+8ccL	D major
+8ddJ	.
+4ee	C major
 =8	=8
-8dd	Bm
+8ddL	B minor
 8gg	.
 8ff#	.
-8gg	.
-4dd	Em
-4g	G/D
+8ggJ	.
+4dd	E minor
+4g	G major/D
 =9	=9
-4cc	C
+4cc	C major
 4dd	.
-8b	D
+8bL	D major
 8a	.
 8g	.
-8f#	.
+8f#J	.
 =10	=10
-4f#	Gsus4
-4g	G
+4f#	G suspended-fourth
+4g	G major
 4r	.
-4dd	D
+4dd	D major
 =11	=11
-8b	G
+8bL	G major
 8dd	.
 8a	.
-8b	.
-4d	G/B
+8bJ	.
+4d	G major/B
 4g	.
 =12	=12
-8dd	C
+8ddL	C major
 8ee	.
 8b	.
-8cc	.
+8ccJ	.
 4e	.
 4a	.
 =13	=13
-4g	D
+4g	D major
 4f#	.
-8b	B/D#
+8bL	B major/D#
 8a	.
 8g	.
-8f#	.
+8f#J	.
 =14	=14
-4f#	Em
+4f#	E minor
 4g	.
-2dd	G
+2dd	G major
 =15	=15
-8cc	C
+8ccL	C major
 8b	.
 8cc	.
-8dd	.
+8ddJ	.
 4ee	.
-8dd#	.
-8ee	.
+8dd#L	.
+8eeJ	.
 =16	=16
-4ff#	B
-8dd#	B/D#
-8b	.
-4aa	Em
+4ff#	B major
+8dd#L	B major/D#
+8bJ	.
+4aa	E minor
 4gg	.
 =17	=17
-8gg	C
+8ggL	C major
 8ff#	.
 8ee	.
-8ff#	.
+8ff#J	.
 4gg	.
 4g	.
 =18	=18
-8cc	D7/A
+8ccL	D dominant/A
 8b	.
-8a	G/B
-8b	Cmaj7
-8cc	D7
+8a	G major/B
+8bJ	C major-seventh
+8cc	D dominant
 8r	.
-8e	.
-8f#	.
+8eL	.
+8f#J	.
 =19	=19
-2g[	G
-2g]	G/B
+[2g	G major
+2g]	G major/B
 =20	=20
-4.dd	C
+4.dd	C major
 8ee	.
-8dd	D7
+8ddL	D dominant
 8cc	.
 8b	.
-8cc	.
+8ccJ	.
 =21	=21
-2dd	G
-2g	G/B
+2dd	G major
+2g	G major/B
 =22	=22
-2r	C
-2r	D
+2r	C major
+2r	D major
 ==	==
 *-	*-

@@ -16,74 +16,74 @@
 *a:	*
 *M4/4	*
 =1	=1
-8a	Am
+8aL	A minor
 8ee	.
 8ccc	.
-8ee	.
-8bb	.
+8eeJ	.
+8bbL	.
 8aa	.
 8a	.
-8aa	.
+8aaJ	.
 =2	=2
-8g	G
+8gL	G major
 8b	.
-8dd	.
+8ddJ	.
 4gg	.
-8b	.
+8bL	.
 8dd	.
-8gg	.
+8ggJ	.
 =3	=3
-8e	Em
+8eL	E minor
 8b	.
 8ccc	.
-8b	.
-8bb	.
+8bJ	.
+8bbL	.
 8aa	.
 8b	.
-8ccc	.
+8cccJ	.
 =4	=4
-8cc	C
+8ccL	C major
 8ee	.
 8ccc	.
-8ee	.
-8bb	.
+8eeJ	.
+8bbL	.
 8gg	.
 8b	.
-8aa	.
+8aaJ	.
 =5	=5
-8a	Am
+8aL	A minor
 8ee	.
 8ccc	.
-8ee	.
-8bb	.
+8eeJ	.
+8bbL	.
 8aa	.
 8a	.
-8aa	.
+8aaJ	.
 =6	=6
-8g	G
+8gL	G major
 8b	.
-8dd	.
+8ddJ	.
 4gg	.
-8b	.
+8bL	.
 8dd	.
-8gg	.
+8ggJ	.
 =7	=7
-8e	Em
+8eL	E minor
 8b	.
 8ccc	.
-8b	.
-8bb	.
+8bJ	.
+8bbL	.
 8aa	.
 8b	.
-8ccc	.
+8cccJ	.
 =8	=8
-8cc	C
+8ccL	C major
 8ee	.
 8ccc	.
-8ee	.
-8bb	Cadd(2,4,7)
+8eeJ	.
+8bbL	C other-2,4,7
 8gg	.
 8b	.
-8aa	.
+8aaJ	.
 ==	==
 *-	*-

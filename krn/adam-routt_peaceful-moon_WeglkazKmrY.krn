@@ -16,25 +16,25 @@
 *E:	*
 *M4/4	*
 =1	=1
-8r	Eadd(2,4,7)
-8f#	.
+8r	E other-2,4,7
+8f#L	.
 8g#	.
-8b	.
+8bJ	.
 2ee	.
 =2	=2
 *M5/4	*
-8r	Eadd(2,5,7)/F#
+8r	E other-2,5,7/F#
 8f#	.
-8a	.
-8b	.
+8aL	.
+8bJ	.
 2ee	.
 4r	.
 =3	=3
 *M2/4	*
-2ccn	Dadd(4,6,7,9)/A
+2ccn	D other-4,6,7,9/A
 =4	=4
 *M4/4	*
-1ddn	D7/A
+1ddn	D dominant/A
 =5	=5
 1r	.
 ==	==

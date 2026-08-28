@@ -16,52 +16,52 @@
 *b:	*
 *M4/4	*
 =1	=1
-1b	G
+1b	G major
 =2	=2
-4r	G
+4r	G major
 4cc#	.
 4dd	.
 4ee	.
 =3	=3
-1ff#	F#sus4
+1ff#	F# suspended-fourth
 =4	=4
-2ee	F#m/A
+2ee	F# minor/A
 2dd	.
 =5	=5
-1cc#	E/G#
+1cc#	E major/G#
 =6	=6
-2dd	E/G#
+2dd	E major/G#
 2ee	.
 =7	=7
-2..cc#	E/G#
-16dd	.
-16cc#	.
+2..cc#	E major/G#
+16ddLL	.
+16cc#JJ	.
 =8	=8
-2b	E/G#
+2b	E major/G#
 2cc#	.
 =9	=9
-1b	G
+1b	G major
 =10	=10
-4r	G
+4r	G major
 4cc#	.
 4dd	.
 4ee	.
 =11	=11
-1ff#	F#sus4
+1ff#	F# suspended-fourth
 =12	=12
-2ee	F#m/A
+2ee	F# minor/A
 2dd	.
 =13	=13
-1cc#	E/G#
+1cc#	E major/G#
 =14	=14
-2dd	E/G#
+2dd	E major/G#
 2ee	.
 =15	=15
-2..ff#	F#7
-16ff#	.
-16gg	.
+2..ff#	F# dominant
+16ff#LL	.
+16ggJJ	.
 =16	=16
-2ff#	F#7
+2ff#	F# dominant
 2aa#	.
 ==	==
 *-	*-

@@ -16,92 +16,92 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	D7
-8c	.
+8r	D dominant
+8cL	.
 8d	.
-16c	.
-16d[	.
-16d]	Gsus4
+16cL	.
+[16dJJ	.
+16dLL]	G suspended-fourth
 16d	.
 16d	.
-16c	.
+16cJ	.
 8d	.
-8c	.
+8cJ	.
 =2	=2
-8r	G#add(4,6)
-8c	.
+8r	G# other-4,6
+8cL	.
 8d	.
-16c	.
-16d[	.
-16d]	Gsus4
+16cL	.
+[16dJJ	.
+16dLL]	G suspended-fourth
 16c	.
 16d	.
-16c	.
+16cJ	.
 8d	.
-8c	.
+8cJ	.
 =3	=3
-8r	D7
+8r	D dominant
+8cL	.
 8c	.
+16cL	.
+[16cJJ	.
+16cLL]	G suspended-fourth
+16c	.
+16c	.
+16cJ	.
 8c	.
-16c	.
-16c[	.
-16c]	Gsus4
-16c	.
-16c	.
-16c	.
-8c	.
-8c	.
+8cJ	.
 =4	=4
-8c	G#add(4,6)
+8cL	G# other-4,6
 8c	.
 8c	.
+16cL	.
+[16cJJ	.
+16cLL]	G suspended-fourth
 16c	.
-16c[	.
-16c]	Gsus4
 16c	.
-16c	.
-16c	.
+16cJ	.
 8c	.
-8c	.
+8cJ	.
 =5	=5
-8r	Dadd(4,7,9,10)
-8c	.
+8r	D other-4,7,9,10
+8cL	.
 8d	.
-16c	.
-16d[	.
-16d]	Gadd(4,5,7,11)
+16cL	.
+[16dJJ	.
+16dLL]	G other-4,5,7,11
 16c	.
 16d	.
-16c	.
+16cJ	.
 8d	.
-8c	.
+8cJ	.
 =6	=6
-8r	G#add(4,6,7,11)
-8c	.
+8r	G# other-4,6,7,11
+8cL	.
 8d	.
-16c	.
-16d[	.
-16d]	Gsus4
+16cL	.
+[16dJJ	.
+16dLL]	G suspended-fourth
 16c	.
 16d	.
-16c	.
+16cJ	.
 8d	.
-8c	.
+8cJ	.
 =7	=7
-8r	D7
+8r	D dominant
+8dL	.
 8d	.
+16dL	.
+[16dJJ	.
+16dLL]	G other-2,5,7,11
+16d	.
+16d	.
+16dJ	.
 8d	.
-16d	.
-16d[	.
-16d]	Gadd(2,5,7,11)
-16d	.
-16d	.
-16d	.
-8d	.
-8c	.
+8cJ	.
 =8	=8
-8r	G#add(4,6)
+8r	G# other-4,6
 3...r	.
-4r	C#
+4r	C# major
 ==	==
 *-	*-

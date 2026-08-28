@@ -16,88 +16,88 @@
 *e:	*
 *M4/4	*
 =1	=1
-4r	C
-8a	.
-8b	.
+4r	C major
+8aL	.
+8bJ	.
 4e	.
 4e	.
 =2	=2
-4e	Am
-8a	.
-8b	.
+4e	A minor
+8aL	.
+8bJ	.
 4e	.
 4e	.
 =3	=3
-4e	Em
-8a	.
-8b	.
+4e	E minor
+8aL	.
+8bJ	.
 4a	.
 4a	.
 =4	=4
 4a	.
-8a	.
-8b	.
-4g	Em/G
+8aL	.
+8bJ	.
+4g	E minor/G
 4f#	.
 =5	=5
-4e	C
-8a	.
-8b	.
+4e	C major
+8aL	.
+8bJ	.
 4e	.
 4e	.
 =6	=6
-4e	Am
-8a	.
-8b	.
+4e	A minor
+8aL	.
+8bJ	.
 4e	.
 4e	.
 =7	=7
-4e	Em
-8a	.
-8b	.
+4e	E minor
+8aL	.
+8bJ	.
 4a	.
 4a	.
 =8	=8
 4a	.
-8a	.
-8b	.
-4g	Em/G
+8aL	.
+8bJ	.
+4g	E minor/G
 4f#	.
 =9	=9
-4g	Em
-16g	.
-16g[	.
-8g]	Em/G
-8g[	.
-8g]	Em/B
-4g	F#add(1,3,5,6,10)
+4g	E minor
+16gLL	.
+[16gJ	.
+8gJ]	E minor/G
+[8gL	.
+8gJ]	E minor/B
+4g	F# other-1,3,5,6,10
 =10	=10
-16g	Em
+16gLK	E minor
 8.g	.
-16g	.
-16g[	.
-8g]	Em/G
-8a	.
-8e	Em/B
-8e[	F#add(1,3,5,6,10)
-8e]	Em
+16gL	.
+[16gJ	.
+8gJ]	E minor/G
+8aL	.
+8e	E minor/B
+[8e	F# other-1,3,5,6,10
+8eJ]	E minor
 =11	=11
-4g	Em
-16g	.
-16g[	.
-8g]	Em/G
-8g[	.
-8g]	Em/B
-4g	F#add(1,3,5,6,10)
+4g	E minor
+16gLL	.
+[16gJ	.
+8gJ]	E minor/G
+[8gL	.
+8gJ]	E minor/B
+4g	F# other-1,3,5,6,10
 =12	=12
-16g	Em
+16gLK	E minor
 8.g	.
-16g	.
-16g[	.
-8g]	Em/G
-8a	.
-8e	Em/B
-8e[	F#add(1,3,5,6,10)
-8e]	Em
+16gL	.
+[16gJ	.
+8gJ]	E minor/G
+8aL	.
+8e	E minor/B
+[8e	F# other-1,3,5,6,10
+8eJ]	E minor
 ==	==
 *-	*-

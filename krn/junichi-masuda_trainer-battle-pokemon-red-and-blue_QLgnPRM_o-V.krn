@@ -16,44 +16,44 @@
 *a:	*
 *M4/4	*
 =1	=1
-4a	Am
+4a	A minor
 4b	.
-8g	A
+8g	A major
 4.a	.
 =2	=2
-4r	A
-8b	.
-8cc#	.
-8ee	.
+4r	A major
+8bL	.
+8cc#J	.
+8eeL	.
 8dd	.
 8cc#	.
-8b	.
+8bJ	.
 =3	=3
-1a#	A#
+1a#	A# major
 =4	=4
-8r	A#
-8a#	.
+8r	A# major
+8a#L	.
 8cc	.
-8ff	.
-8ee	.
+8ffJ	.
+8eeL	.
 8dd	.
 8cc	.
-8a#	.
+8a#J	.
 =5	=5
-1b	Bm
+1b	B minor
 =6	=6
-8r	Bm
-8b	.
+8r	B minor
+8bL	.
 8cc#	.
-8gg	.
-8ff#	.
+8ggJ	.
+8ff#L	.
 8ee	.
 8dd	.
-8b	.
+8bJ	.
 =7	=7
-1cc	C
+1cc	C major
 =8	=8
-2ee	C
+2ee	C major
 2gg	.
 ==	==
 *-	*-

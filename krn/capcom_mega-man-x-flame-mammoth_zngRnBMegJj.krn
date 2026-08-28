@@ -16,11 +16,11 @@
 *f:	*
 *M4/4	*
 =1	=1
-4r	Fm
+4r	F minor
 4aa-	.
 8r	.
 4gg	.
-8ff[	.
+[8ff	.
 =2	=2
 1ff]	.
 =3	=3
@@ -28,15 +28,15 @@
 4aa-	.
 8r	.
 4gg	.
-8cc[	.
+[8cc	.
 =4	=4
-1cc]	Cm
+1cc]	C minor
 =5	=5
-4r	Fm
+4r	F minor
 4aa-	.
 8r	.
 4gg	.
-8ff[	.
+[8ff	.
 =6	=6
 1ff]	.
 =7	=7
@@ -44,10 +44,10 @@
 4aa-	.
 8r	.
 4gg	.
-8cc[	.
+[8cc	.
 =8	=8
 8cc_	.
-4.cc_	Cm
-2cc]	Cm
+4.cc_	C minor
+2cc]	C minor
 ==	==
 *-	*-

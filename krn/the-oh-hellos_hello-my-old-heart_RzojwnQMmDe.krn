@@ -16,33 +16,33 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	Am
-16d	.
+8r	A minor
+16dLK	.
 8.e	.
-8a	.
-4g	C
+8aJ	.
+4g	C major
 4e	.
 =2	=2
-8r	Fadd(2,4,7)
-8e	.
-8d	.
+8r	F other-2,4,7
+8eL	.
+8dJ	.
 4c	.
 4e	.
 8r	.
 =3	=3
-4r	Am
-16e	.
-8.a	.
-16g	C
+4r	A minor
+16eLK	.
+8.aJ	.
+16gLK	C major
 8e	.
 8.e	.
-16d	.
-16c[	.
+16dL	.
+[16cJJ	.
 =4	=4
-4c]	Fadd(2,4,7)
+4c]	F other-2,4,7
 4.r	.
-16c	.
+16cLK	.
 8c	.
-8.d	.
+8.dJ	.
 ==	==
 *-	*-

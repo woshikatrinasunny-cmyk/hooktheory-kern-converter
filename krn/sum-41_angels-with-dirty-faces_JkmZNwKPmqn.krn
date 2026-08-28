@@ -16,86 +16,86 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4r	C#sus4
+4r	C# suspended-fourth
 8F#	.
-4D#	C#sus2
-4.E	C#m
+4D#	C# suspended-second
+4.E	C# minor
 =2	=2
-4r	F#m7/A
+4r	F# minor-seventh/A
 8F#	.
-4D#	D#m7b5/A
-4E	A
-8D#[	D#m7b5/A
+4D#	D# half-diminished/A
+4E	A major
+[8D#	D# half-diminished/A
 =3	=3
-8D#]	C#sus4
+8D#]	C# suspended-fourth
 8r	.
 8F#	.
-4D#	C#sus2
-4.E	C#m
+4D#	C# suspended-second
+4.E	C# minor
 =4	=4
-4r	G#m
+4r	G# minor
 8D#	.
-4E	Emaj7/G#
-4.D#	G#m
+4E	E major-seventh/G#
+4.D#	G# minor
 =5	=5
-4r	C#sus4
+4r	C# suspended-fourth
 8F#	.
-4D#	C#sus2
-4.E	C#m
+4D#	C# suspended-second
+4.E	C# minor
 =6	=6
-4r	F#m7/A
+4r	F# minor-seventh/A
 8F#	.
-4D#	D#m7b5/A
-4E	A
-8D#[	D#m7b5/A
+4D#	D# half-diminished/A
+4E	A major
+[8D#	D# half-diminished/A
 =7	=7
-8D#]	C#sus4
+8D#]	C# suspended-fourth
 8r	.
 8F#	.
-4D#	C#sus2
-4.E	C#m
+4D#	C# suspended-second
+4.E	C# minor
 =8	=8
-4r	G#m
+4r	G# minor
 8D#	.
-4E	Emaj7/G#
-4.D#	G#m
+4E	E major-seventh/G#
+4.D#	G# minor
 =9	=9
-4C#	C#m
+4C#	C# minor
+16eLL	.
 16e	.
 16e	.
+16eJJ	.
+4r	C# minor
+16eLL	.
 16e	.
 16e	.
-4r	C#m
-16e	.
-16e	.
-16e	.
-16e	.
+16eJJ	.
 =10	=10
-4r	A
+4r	A major
+16f#LL	.
 16f#	.
 16f#	.
-16f#	.
-16f#	.
-4r	G#m
+16f#JJ	.
+4r	G# minor
+16d#LL	.
 16d#	.
 16d#	.
-16d#	.
-16d#	.
+16d#JJ	.
 =11	=11
 4e	.
-4r	C#m
-8e	.
-8e	.
-4r	C#m
+4r	C# minor
+8eL	.
+8eJ	.
+4r	C# minor
 =12	=12
-4r	A
+4r	A major
+16f#LL	.
 16f#	.
 16f#	.
-16f#	.
-16f#	.
-4r	G#m
-16d#	.
-16d#	.
+16f#JJ	.
+4r	G# minor
+16d#LL	.
+16d#JJ	.
 8r	.
 ==	==
 *-	*-

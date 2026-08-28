@@ -16,79 +16,79 @@
 *d:	*
 *M4/4	*
 =1	=1
-8dd	Dm
-16dd	.
-16dd	.
+8ddL	D minor
+16ddL	.
+16ddJ	.
 8dd	.
-8ff	.
-8ee	.
-8dd-	.
+8ffJ	.
+8eeL	.
+8dd-J	.
 4dd	.
 =2	=2
-8dd	Edim
-16dd	.
-16dd	.
+8ddL	E diminished
+16ddL	.
+16ddJ	.
 8dd	.
-8ff	.
-8aa-	A
-8aa	.
+8ffJ	.
+8aa-L	A major
+8aaJ	.
 4dd	.
 =3	=3
-8b-	E
-16b-	.
-16b-	.
+8b-L	E major
+16b-L	.
+16b-J	.
 8b-	.
-8ff	.
-8dd-	A
+8ffJ	.
+8dd-L	A major
 8dd-	.
 8dd	.
-8a	.
+8aJ	.
 =4	=4
-8b-	Dm/F
+8b-L	D minor/F
 8a	.
 8a	.
-8e	.
-8g	A
+8eJ	.
+8gL	A major
 8a	.
 8dd-	.
-8ee	.
+8eeJ	.
 =5	=5
-8dd	Dm
-16dd	.
-16dd	.
+8ddL	D minor
+16ddL	.
+16ddJ	.
 8dd	.
-8ff	.
-8ee	.
-8dd-	.
+8ffJ	.
+8eeL	.
+8dd-J	.
 4dd	.
 =6	=6
-8dd	Edim
-16dd	.
-16dd	.
+8ddL	E diminished
+16ddL	.
+16ddJ	.
 8dd	.
-8ff	.
-8aa-	A
+8ffJ	.
+8aa-L	A major
 8aa	.
-16ccc	.
+16cccL	.
 16bb-	.
 16aa	.
-16aa-	.
+16aa-JJ	.
 =7	=7
-8dd-	E
-16dd-	.
-16dd-	.
+8dd-L	E major
+16dd-L	.
+16dd-J	.
 8dd-	.
-8ee	.
-8ff	A
+8eeJ	.
+8ffL	A major
 8ee	.
 8dd	.
-8a	.
+8aJ	.
 =8	=8
-8b-	A7
+8b-	A dominant
 8r	.
 8dd-	.
 8r	.
-8dd	Dm
+8dd	D minor
 4.r	.
 ==	==
 *-	*-

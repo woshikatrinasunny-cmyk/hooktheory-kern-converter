@@ -16,102 +16,102 @@
 *g:	*
 *M3/4	*
 =1	=1
-4bb-	Gm
+4bb-	G minor
 4aa	.
 4gg	.
 =2	=2
-4aa	Dm/F
+4aa	D minor/F
 8dd	.
 8r	.
 8dd	.
 8r	.
 =3	=3
-4gg	E-
-8g	.
-8a	.
-8b-	.
-8cc	.
+4gg	E- major
+8gL	.
+8aJ	.
+8b-L	.
+8ccJ	.
 =4	=4
-4dd	Gm/D
-8d	.
-8c	.
-8B-	.
-8A	.
+4dd	G minor/D
+8dL	.
+8cJ	.
+8B-L	.
+8AJ	.
 =5	=5
-4ee-	E-/G
-8ff	.
-8ee-	.
-8dd	F/A
-8cc	.
+4ee-	E- major/G
+8ffL	.
+8ee-J	.
+8ddL	F major/A
+8ccJ	.
 =6	=6
-4dd	B-
-8ee-	.
-8dd	.
-8cc	Gm
-8b-	.
+4dd	B- major
+8ee-L	.
+8ddJ	.
+8ccL	G minor
+8b-J	.
 =7	=7
-4cc	Adim
-8dd	D/G-
-8cc	.
-8b-	Gm
-8cc	.
+4cc	A diminished
+8ddL	D major/G-
+8ccJ	.
+8b-L	G minor
+8ccJ	.
 =8	=8
-24b-	D
+24b-LL	D major
 24a	.
-24b-	.
-8a	.
-8d	.
-8c	.
-8B-	.
-8A	.
+24b-J	.
+8aJ	.
+8dL	.
+8cJ	.
+8B-L	.
+8AJ	.
 =9	=9
-4bb-	Gm
-24bb-	.
+4bb-	G minor
+24bb-LL	.
 24aa	.
-24bb-	.
-8aa	.
+24bb-J	.
+8aaJ	.
 4gg	.
 =10	=10
-4aa	Dm/F
+4aa	D minor/F
 8dd	.
 8r	.
 8dd	.
 8r	.
 =11	=11
-4gg	E-
-8g	.
-8a	.
-8b-	.
-8cc	.
+4gg	E- major
+8gL	.
+8aJ	.
+8b-L	.
+8ccJ	.
 =12	=12
-4dd	G/D
-8d	.
-8c	.
-8Bn	.
-8A	.
+4dd	G major/D
+8dL	.
+8cJ	.
+8BnL	.
+8AJ	.
 =13	=13
-24ff	G7/B
-24ee-	.
+24ffLL	G dominant/B
+24ee-JJ	.
 6ff	.
-8gg	.
-8ff	.
-8ee-	G7
-8dd	.
+8ggL	.
+8ffJ	.
+8ee-L	G dominant
+8ddJ	.
 =14	=14
-4ee-	Cm
-8ff	F/A
-8ee-	.
-8dd	F
-8cc	.
+4ee-	C minor
+8ffL	F major/A
+8ee-J	.
+8ddL	F major
+8ccJ	.
 =15	=15
-4dd	B-
-4gg	E-
-24dd	F
+4dd	B- major
+4gg	E- major
+24ddLL	F major
 24cc	.
-24dd	.
-8cc	.
+24ddJ	.
+8ccJ	.
 =16	=16
-4b-	B-
+4b-	B- major
 2BB-	.
 ==	==
 *-	*-

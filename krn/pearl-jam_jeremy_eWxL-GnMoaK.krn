@@ -16,7 +16,7 @@
 *F:	*
 *M4/4	*
 =1	=1
-8r	F
+8r	F major
 8aaa	.
 8r	.
 8aaa	.
@@ -29,12 +29,12 @@
 8aaa	.
 8r	.
 8aaa	.
-8r	G
+8r	G major
 8aaa	.
 8r	.
 8aaa	.
 =3	=3
-8r	A
+8r	A major
 8aaa	.
 8r	.
 8aaa	.
@@ -47,53 +47,53 @@
 8aaa	.
 8r	.
 8aaa	.
-8r	G
+8r	G major
 4aa	.
-16cc	.
-16dd	.
+16ccLL	.
+16ddJJ	.
 =5	=5
-16r	F
+16r	F major
 8.ee	.
 8r	.
 4.aa	.
-16cc	.
-16cc	.
-8dd	.
+16ccLL	.
+16ccJ	.
+8ddJ	.
 =6	=6
-4ee	G
+4ee	G major
 8r	.
 4.aa	.
-16cc	.
-16cc	.
-8dd[	.
+16ccLL	.
+16ccJ	.
+[8ddJ	.
 =7	=7
-16dd]	A
+16dd]	A major
 6...ee	.
-16dd	.
+16ddLL	.
+16ccJJ	.
+16ddLL	.
 16cc	.
-16dd	.
-16cc	.
-16a	.
-6...cc[	.
+16aJJ	.
+[6...cc	.
 =8	=8
 4.cc]	.
 16ee	.
 8.dd	.
-8cc	.
+8ccL	.
 8dd	.
-8cc	.
+8ccJ	.
 =9	=9
-2..ee	Fmaj7
-8dd[	.
+2..ee	F major-seventh
+[8dd	.
 =10	=10
-2..dd]	G/D
-8cc[	.
+2..dd]	G major/D
+[8cc	.
 =11	=11
-4.cc]	Am
+4.cc]	A minor
 3...bn	.
 =12	=12
-4.g	G/B
-8a[	.
-2a]	G/D
+4.g	G major/B
+[8a	.
+2a]	G major/D
 ==	==
 *-	*-

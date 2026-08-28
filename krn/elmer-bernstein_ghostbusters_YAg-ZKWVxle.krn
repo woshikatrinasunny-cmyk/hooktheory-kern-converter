@@ -16,47 +16,47 @@
 *B:	*
 *M4/4	*
 =1	=1
-8r	B
-16b	.
-16b	.
+8r	B major
+16bLL	.
+16bJ	.
 8dd#	.
-16b	.
+16bJk	.
 16r	.
-8cc#	A
-16a	.
+8cc#L	A major
+16aJk	.
 16r	.
-4r	E
+4r	E major
 =2	=2
-4r	B
+4r	B major
+16bLL	.
 16b	.
 16b	.
-16b	.
-16b	.
-8a	A
-16b	.
+16bJJ	.
+8aL	A major
+16bJk	.
 16r	.
-4r	E
+4r	E major
 =3	=3
-8r	B
-16b	.
-16b	.
+8r	B major
+16bLL	.
+16bJ	.
 8dd#	.
-16b	.
+16bJk	.
 16r	.
-8cc#	A
-16a	.
+8cc#L	A major
+16aJk	.
 16r	.
-4r	E
+4r	E major
 =4	=4
-4r	B
+4r	B major
+16bLL	.
 16b	.
 16b	.
-16b	.
-16b	.
-8a	A
-16cc#	.
+16bJJ	.
+8aL	A major
+16cc#Jk	.
 16r	.
-8b	E
+8b	E major
 8r	.
 ==	==
 *-	*-

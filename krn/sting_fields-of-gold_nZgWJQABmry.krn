@@ -16,20 +16,20 @@
 *D:	*
 *M4/4	*
 =1	=1
-2.r	D
-8d	.
-8c#	.
+2.r	D major
+8dL	.
+8c#J	.
 =2	=2
-8.B	B7sus2
-8.A	.
+8.BL	B dominant-seventh-suspended-second
+8.AJ	.
 8.A	.
 8.r	.
-8d	.
-8c#	.
+8dL	.
+8c#J	.
 =3	=3
-8B	G
+8BL	G major
 8.A	.
-16A	.
+16AJk	.
 4B	.
 4r	.
 8D	.
@@ -37,48 +37,48 @@
 4B	.
 8A	.
 4.A	.
-8D	.
-8F#[	.
+8DL	.
+[8F#J	.
 =5	=5
-16F#]	D
+16F#]	D major
 6...A	.
 4.r	.
-8d	.
-8c#	.
+8dL	.
+8c#J	.
 =6	=6
-8B	B7sus2
+8B	B dominant-seventh-suspended-second
 4A	.
 4A	.
 8r	.
-8d	.
-8c#	.
+8dL	.
+8c#J	.
 =7	=7
-8B	G
+8B	G major
 4A	.
-4A	D
+4A	D major
 8r	.
-8E	.
-8F#	.
+8EL	.
+8F#J	.
 =8	=8
-8.G	G/B
-8.F#	.
-4F#	A
+8.GL	G major/B
+8.F#J	.
+4F#	A major
 8E	.
 4D	.
 =9	=9
-1dd[	Bm7
+[1dd	B minor-seventh
 =10	=10
 4.dd]	.
-16cc#	G
-16b	.
+16cc#LL	G major
+16bJJ	.
 4a	.
-8.g	.
-16g	.
+8.gL	.
+16gJk	.
 =11	=11
-1a[	D
+[1a	D major
 =12	=12
 2.a]	.
-8d	.
-8c#	.
+8dL	.
+8c#J	.
 ==	==
 *-	*-

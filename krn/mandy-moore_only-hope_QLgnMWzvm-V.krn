@@ -16,76 +16,76 @@
 *D-:	*
 *M6/4	*
 =1	=1
-2.d-	D-
+2.d-	D- major
 2.a-	.
 =2	=2
-2.c	D-maj7sus2
+2.c	D- major-seventh-suspended-second
 2.a-	.
 =3	=3
-1.B-	G-add(2,4,7)
+1.B-	G- other-2,4,7
 =4	=4
-1r	G-add(2,4,7)
+1r	G- other-2,4,7
 4d-	.
 4d-	.
 =5	=5
-2.d-	D-
+2.d-	D- major
 2.a-	.
 =6	=6
-2.c	D-maj7sus2
+2.c	D- major-seventh-suspended-second
 2.d-	.
 =7	=7
-1b-[	G-add(2,4,7)
-8b-]	.
-8d-	.
+[1b-	G- other-2,4,7
+8b-L]	.
+8d-J	.
 4d-	.
 =8	=8
-4.c	B-m7
+4.c	B- minor-seventh
 4.B-	.
 4.c	.
 4.d-	.
 =9	=9
-1b-[	G-add(2,4,7)
-8b-]	.
-8d-	.
+[1b-	G- other-2,4,7
+8b-L]	.
+8d-J	.
 4d-	.
 =10	=10
-4.c	B-m
+4.c	B- minor
 4.B-	.
 4.c	.
 4.d-	.
 =11	=11
-2d-	A
+2d-	A major
 2An	.
 4Bn	.
 4d-	.
 =12	=12
-2.a-	Amaj7
-2.a-	A-7sus4
+2.a-	A major-seventh
+2.a-	A- dominant-seventh-suspended-fourth
 =13	=13
-2.dd-	D-m
+2.dd-	D- minor
 2.aa-	.
 =14	=14
-2.bbn	D-m/E
+2.bbn	D- minor/E
 2.r	.
 =15	=15
-8eeen	Amaj7
-8aa-	.
-8gg-	.
-8eee-	.
-8ddd-	.
-8een	.
-8ee-	.
-8bbn	.
-8aan	.
-8dd-	.
-8bn	.
-8aa-	.
+8eeenL	A major-seventh
+8aa-J	.
+8gg-L	.
+8eee-J	.
+8ddd-L	.
+8eenJ	.
+8ee-L	.
+8bbnJ	.
+8aanL	.
+8dd-J	.
+8bnL	.
+8aa-J	.
 =16	=16
-8gg-	A-7sus4
-8g-	.
+8gg-L	A- dominant-seventh-suspended-fourth
+8g-J	.
 8a-	.
-4.dd-[	.
-8dd-]	A-7
+[4.dd-	.
+8dd-]	A- dominant
 4.cc	.
 4r	.
 ==	==

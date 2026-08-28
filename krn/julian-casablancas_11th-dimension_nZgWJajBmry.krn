@@ -16,52 +16,52 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	D
-4r	Dmaj7
-4.r	D
-8r	E
+4r	D major
+4r	D major-seventh
+4.r	D major
+8r	E major
 =2	=2
 8r	.
-4r	E
-8r	C#m/E
-4r	C#m/E
-4r	E
+4r	E major
+8r	C# minor/E
+4r	C# minor/E
+4r	E major
 =3	=3
-4r	D
-4r	Dmaj7
-4.r	D
-8r	E
+4r	D major
+4r	D major-seventh
+4.r	D major
+8r	E major
 =4	=4
 8r	.
-4r	E
-8r	C#m/E
-4c#	C#m/E
-4B	E
+4r	E major
+8r	C# minor/E
+4c#	C# minor/E
+4B	E major
 =5	=5
-4A[	D
-4A]	Dmaj7
-4.r	D
-8B	E
+[4A	D major
+4A]	D major-seventh
+4.r	D major
+8B	E major
 =6	=6
+8BL	.
+8B	E major
 8B	.
-8B	E
-8B	.
-8B	C#m/E
-8c#	C#m/E
+8BJ	C# minor/E
+8c#L	C# minor/E
 8c#	.
-8B	E
-8A	.
+8B	E major
+8AJ	.
 =7	=7
-8A	D
-8F#[	.
-4F#]	Dmaj7
-4.r	D
-8r	E
+8AL	D major
+[8F#J	.
+4F#]	D major-seventh
+4.r	D major
+8r	E major
 =8	=8
 8r	.
-4r	E
-8r	C#m/E
-4c#	C#m/E
-4B	E
+4r	E major
+8r	C# minor/E
+4c#	C# minor/E
+4B	E major
 ==	==
 *-	*-

@@ -15,67 +15,67 @@
 *F:	*
 *M4/4	*
 =1	=1
-4r	F
-8a	.
-8a	.
-8f	.
+4r	F major
+8aL	.
+8aJ	.
+8fL	.
 8f	.
 8e	.
-8e	.
+8eJ	.
 =2	=2
-8r	C
-8e	.
+8r	C major
+8eL	.
 8g	.
-8g	.
-8g	.
+8gJ	.
+8gL	.
 8g	.
 8f	.
-8f	.
+8fJ	.
 =3	=3
-8r	B-
+8r	B- major
 8c	.
 4g	.
-8g	.
+8gL	.
 8g	.
 8f	.
-8f	.
+8fJ	.
 =4	=4
-8r	F/A
-8c	.
+8r	F major/A
+8cL	.
 8a	.
-8g	.
-4a	Fmaj9
-4g	Gm/D
+8gJ	.
+4a	F major-ninth
+4g	G minor/D
 =5	=5
-8f	F
+8f	F major
 8r	.
-8g	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
+8gL	.
 8g	.
 8f	.
-8f	.
+8fJ	.
 =6	=6
-4r	C
-8g	.
-8g	.
-16g	.
+4r	C major
+8gL	.
+8gJ	.
+16gLK	.
 8.a	.
 8f	.
-8f	.
+8fJ	.
 =7	=7
-4r	B-
+4r	B- major
 4g	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 8r	.
 8f	.
 =8	=8
-8r	F/A
-8a	.
+8r	F major/A
+8aL	.
 8g	.
-8g	.
-4a	Fmaj9
-4g	Gm/D
+8gJ	.
+4a	F major-ninth
+4g	G minor/D
 ==	==
 *-	*-

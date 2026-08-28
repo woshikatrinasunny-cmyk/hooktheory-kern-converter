@@ -16,161 +16,161 @@
 *a:	*
 *M4/4	*
 =1	=1
-8.a	Am
+8.a	A minor
 16r	.
 8.g	.
 16r	.
-8.e	AmMaj7/G#
+8.eL	A major-minor/G#
 8.d	.
-8c	.
+8cJ	.
 =2	=2
-16r	Am7/G
-8.c	.
+16r	A minor-seventh/G
+8.cL	.
 8d	.
-8e	.
-8.d	G#dim
-8c	.
+8eJ	.
+8.dL	G# diminished
+8cJ	.
 8.r	.
 =3	=3
-8cc	Am
+8cc	A minor
 4.ee	.
-8cc	F/A
+8cc	F major/A
 4.ff	.
 =4	=4
-8cc	F#dim/A
+8cc	F# diminished/A
 4.ff#	.
-8cc	F/A
+8cc	F major/A
 4.ff	.
 =5	=5
-8.a	Am
+8.a	A minor
 16r	.
 8.g	.
 16r	.
-8.e	AmMaj7/G#
+8.eL	A major-minor/G#
 8.d	.
-8c	.
+8cJ	.
 =6	=6
-16r	Am7/G
-8.c	.
+16r	A minor-seventh/G
+8.cL	.
 8d	.
-8e	.
-8.d	G#dim
-8c	.
+8eJ	.
+8.dL	G# diminished
+8cJ	.
 8.r	.
 =7	=7
-8cc	Am
+8cc	A minor
 4.ee	.
-8cc	F/A
+8cc	F major/A
 4.ff	.
 =8	=8
-8cc	F#dim/A
+8cc	F# diminished/A
 4.ff#	.
-8cc	F/A
+8cc	F major/A
 4.ff	.
 =9	=9
-2e[	Am
-4e]	AmMaj7/G#
-16e	.
-16a	.
+[2e	A minor
+4e]	A major-minor/G#
+16eLL	.
+16aJJ	.
 16r	.
-16e[	.
+[16e	.
 =10	=10
-2e_	Am7/G
-8e]	G#dim
+2e_	A minor-seventh/G
+8eL]	G# diminished
 8d	.
 8c	.
-8B	.
+8BJ	.
 =11	=11
-8.c	Am
-8A	.
+8.cL	A minor
+8AJ	.
 8.r	.
-8cc	F/A
+8cc	F major/A
 4.ff	.
 =12	=12
-8cc	F#dim/A
+8cc	F# diminished/A
 4.ff#	.
-8cc	F/A
+8cc	F major/A
 4.ff	.
 =13	=13
-2e[	Am
-4e]	AmMaj7/G#
-16e	.
-16a	.
+[2e	A minor
+4e]	A major-minor/G#
+16eLL	.
+16aJJ	.
 16r	.
-16e[	.
+[16e	.
 =14	=14
-2e_	Am7/G
-8e]	G#dim
+2e_	A minor-seventh/G
+8eL]	G# diminished
 8d	.
 8c	.
-8B	.
+8BJ	.
 =15	=15
-8.c	Am
-8e	.
+8.cL	A minor
+8eJ	.
 8.r	.
-8cc	F/A
+8cc	F major/A
 4.ff	.
 =16	=16
-8cc	F#dim/A
+8cc	F# diminished/A
 4.ff#	.
-8cc	F/A
+8ccL	F major/A
 8ee	.
 8dd	.
-8cc	.
+8ccJ	.
 =17	=17
-8cc	F
+8cc	F major
 4a	.
 2ee	.
-16dd	.
-16cc	.
+16ddLL	.
+16ccJJ	.
 =18	=18
-8.dd	G
-8b	.
+8.ddL	G major
+8bJ	.
 16r	.
 4.g	.
-8b	.
-8a	.
+8bL	.
+8aJ	.
 =19	=19
-8.g#	G#dim
-16b	.
+8.g#L	G# diminished
+16bJk	.
 8r	.
 4dd	.
-8ff	.
+8ffL	.
 8ee	.
-8dd	.
+8ddJ	.
 =20	=20
-8.ee	Am
+8.ee	A minor
 16r	.
 8.dd	.
 16r	.
-8.cc	C/G
+8.cc	C major/G
 16r	.
 8.b	.
 16r	.
 =21	=21
-8.cc	F
-8.a	.
+8.ccL	F major
+8.aJ	.
 2ee	.
-16dd	.
-16cc	.
+16ddLL	.
+16ccJJ	.
 =22	=22
-8.dd	G
-8b	.
+8.ddL	G major
+8bJ	.
 16r	.
 4.g	.
-8b	.
-8a	.
+8bL	.
+8aJ	.
 =23	=23
-8.g#	G#dim
-16b	.
+8.g#L	G# diminished
+16bJk	.
 8r	.
 4dd	.
-8ff	.
+8ffL	.
 8ee	.
-8dd	.
+8ddJ	.
 =24	=24
-16ee	Am
-16dd	.
+16eeLL	A minor
+16ddJJ	.
 2..ee	.
 ==	==
 *-	*-

@@ -16,7 +16,7 @@
 *b:	*
 *M6/4	*
 =1	=1
-4bb	Bm
+4bb	B minor
 4bb	.
 4ccc#	.
 2.ddd	.
@@ -26,7 +26,7 @@
 4ccc#	.
 2.bb	.
 =3	=3
-4bb	G
+4bb	G major
 4bb	.
 4ccc#	.
 4eee	.
@@ -38,7 +38,7 @@
 4ccc#	.
 2.bb	.
 =5	=5
-4bb	Bm
+4bb	B minor
 4bb	.
 4ccc#	.
 2.ddd	.
@@ -48,19 +48,19 @@
 4ccc#	.
 2.aa	.
 =7	=7
-4aa	G
+4aa	G major
 4ddd	.
 4bb	.
 4bb	.
 4ccc#	.
 4bb	.
 =8	=8
-4ggg	Em
+4ggg	E minor
 4fff#	.
 4eee	.
 2.ccc#	.
 =9	=9
-4b	Bm
+4b	B minor
 4b	.
 4cc#	.
 2.dd	.
@@ -70,40 +70,40 @@
 4cc#	.
 2.b	.
 =11	=11
-4b	G
+4b	G major
 4b	.
 4cc#	.
 4ee	.
 4dd	.
 4cc#	.
 =12	=12
-4b	Em
+4b	E minor
 4a	.
 4cc#	.
 2.b	.
 =13	=13
-4b	Bm
+4b	B minor
 4b	.
 4cc#	.
 2.dd	.
 =14	=14
-4dd	A
+4dd	A major
 4b	.
 4cc#	.
 2.a	.
 =15	=15
-4b	Em
+4b	E minor
 4dd	.
 4b	.
 4b	.
 4cc#	.
 4b	.
 =16	=16
-4gg	G
+4gg	G major
 4ff#	.
 4ee	.
-2cc#	A7/G
-8dd	.
-8cc#	.
+2cc#	A dominant/G
+8ddL	.
+8cc#J	.
 ==	==
 *-	*-

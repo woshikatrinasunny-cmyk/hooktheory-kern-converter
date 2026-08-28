@@ -16,58 +16,58 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Dm
-8a	.
-16g	.
+8r	D minor
+8aL	.
+16gJk	.
 6...a	.
 4.r	.
 =2	=2
-8r	Cadd(2,4,7)
+8r	C other-2,4,7
+8aL	.
 8a	.
-8a	.
-8a	.
-8dd	.
+8aJ	.
+8ddL	.
 8.cc	.
-8.a	.
+8.aJ	.
 =3	=3
-4g	D-dim
+4g	D- diminished
 4f	.
 4.r	.
-8r	Em7b5
+8r	E half-diminished
 =4	=4
-4.r	A7
+4.r	A dominant
 8f	.
-8f	.
-16f	.
-16g[	.
-16g]	Asus4
-16f[	.
-16f]	A
-16g[	.
+8fL	.
+16fL	.
+[16g	.
+16g]	A suspended-fourth
+[16f	.
+16f]	A major
+[16gJJ	.
 =5	=5
-16g]	Gm
-16f	.
+16gLL]	G minor
+16fJJ	.
 4..d	.
 4..r	.
 =6	=6
-4.r	F
+4.r	F major
 8f	.
-8f	.
+8fL	.
 8f	.
 8g	.
-8e[	.
+[8eJ	.
 =7	=7
-8e]	A
+8e]	A major
 2.A	.
-8r	Asus4
+8r	A suspended-fourth
 =8	=8
-4.r	A7
+4.r	A dominant
 8e	.
-16e	.
+16eLK	.
 8f	.
-16g[	.
-16g]	Asus4
-16f[	.
-8f]	A
+[16gL	.
+16g]	A suspended-fourth
+[16fJ	.
+8fJ]	A major
 ==	==
 *-	*-

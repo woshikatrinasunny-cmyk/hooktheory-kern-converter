@@ -16,91 +16,91 @@
 *C:	*
 *M4/4	*
 =1	=1
-16r	C#dim
-16r	C#dim
+16r	C# diminished
+16r	C# diminished
 16r	.
-16r	C#dim
-16r	C#dim
+16r	C# diminished
+16r	C# diminished
 16r	.
-16r	C#dim
-8r	C#dim
-16r	C#dim
-16r	C#dim
+16r	C# diminished
+8r	C# diminished
+16r	C# diminished
+16r	C# diminished
 16r	.
-8r	C#dim
-8r	C#dim
+8r	C# diminished
+8r	C# diminished
 =2	=2
-3...r	G
+3...r	G major
+8eL	.
 8e	.
-8e	.
-8d	.
+8dJ	.
 =3	=3
-16d	C
-16c	.
+16dLL	C major
+16cJ	.
 8c	.
 8G	.
-8c	.
-16d	G/B
-16G	.
-8.G	.
+8cJ	.
+16dLL	G major/B
+16GJ	.
+8.GJ	.
 8r	.
 16d	.
 =4	=4
-16e	Am
+16eLL	A minor
 16d	.
 16e	.
 16d	.
 16e	.
 16B	.
 16d	.
-16e	.
-8d	.
-16c	.
-8.c	.
+16eJJ	.
+8dL	.
+16ck	.
+8.cJ	.
 8r	.
 =5	=5
-8d	Dm
-16d	.
+8dL	D minor
+16dL	.
 16c	.
 16d	.
-16e	.
+16eJJ	.
 8r	.
-8e	.
-16d	.
-16c	.
+8eL	.
+16dL	.
+16cJ	.
 8.d	.
-16d	.
+16dJk	.
 =6	=6
-8e	Em
-16e	.
+8eL	E minor
+16ek	.
 8e	.
-16e	.
-8e	.
-8f	.
-8e	.
+16ek	.
+8eJ	.
+8fL	.
+8eJ	.
 4e	.
 =7	=7
-4f	F
+4f	F major
 4f	.
-4g	G
-8e	.
-8d	.
+4g	G major
+8eL	.
+8dJ	.
 =8	=8
-8d	C
+8d	C major
 3...c	.
 4r	.
 =9	=9
-4r	G/B
-8r	G
+4r	G major/B
+8r	G major
 8e	.
-8.d	Am
+8.d	A minor
 6...c	.
 =10	=10
-1r	Dm
+1r	D minor
 =11	=11
-1r	Em
+1r	E minor
 =12	=12
-2r	F
-2r	G
+2r	F major
+2r	G major
 ==	==
 *-	*-

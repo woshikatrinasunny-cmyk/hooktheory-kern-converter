@@ -16,34 +16,34 @@
 *C:	*
 *M4/4	*
 =1	=1
-8C	C
+8CL	C major
 8.C	.
-8.C	.
-8.C	.
+8.CJ	.
+8.CL	.
 8.BB-	.
-8AA	.
+8AAJ	.
 =2	=2
-8GG	Gm
+8GGL	G minor
 8.GG	.
-8.GG	.
-8.GG	.
+8.GGJ	.
+8.GGL	.
 8.FF	.
-8EE	.
+8EEJ	.
 =3	=3
-8DD	Dm
+8DDL	D minor
 8.DD	.
+8.DDJ	.
+8.DDL	.
 8.DD	.
-8.DD	.
-8.DD	.
-8EE	.
+8EEJ	.
 =4	=4
-8FF	Fm
+8FFL	F minor
 8FF	.
-8GG	Gadd(1,3,5,7,10)
-8GG	.
-8AA-	Fm/A-
+8GG	G other-1,3,5,7,10
+8GGJ	.
+8AA-L	F minor/A-
 8AA-	.
-8BB-	B-7sus2
-8BB-	.
+8BB-	B- dominant-seventh-suspended-second
+8BB-J	.
 ==	==
 *-	*-

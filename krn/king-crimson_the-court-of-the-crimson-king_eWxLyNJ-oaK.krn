@@ -16,15 +16,15 @@
 *e:	*
 *M4/4	*
 =1	=1
-1f#	D
+1f#	D major
 =2	=2
-4.f#	Cadd(4,6,7,9)
+4.f#	C other-4,6,7,9
 8g	.
-2e	C
+2e	C major
 =3	=3
-4.e	Eadd(2,4,7)/B
+4.e	E other-2,4,7/B
 8f#	.
-2d#	B
+2d#	B major
 =4	=4
 8B	.
 4c#	.
@@ -32,15 +32,15 @@
 4e	.
 8fn	.
 =5	=5
-1f#	D
+1f#	D major
 =6	=6
-4.f#	Cadd(4,6,7)
+4.f#	C other-4,6,7
 8g	.
-2e	C
+2e	C major
 =7	=7
-4.e	Eadd(2,4,7)/B
+4.e	E other-2,4,7/B
 8f#	.
-2d#	B
+2d#	B major
 =8	=8
 1B	.
 ==	==

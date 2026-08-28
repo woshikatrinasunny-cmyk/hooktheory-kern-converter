@@ -16,94 +16,94 @@
 *C:	*
 *M4/4	*
 =1	=1
-8e	C/E
+8eL	C major/E
 8e	.
-16e[	.
-16e]	Cadd(2,4,7)
-16d[	.
-16d]	C
-8d	F/C
+[16eL	.
+16e]	C other-2,4,7
+[16d	.
+16dJJ]	C major
+8dL	F major/C
 8c	.
-8c	.
+8cJ	.
 8r	.
 =2	=2
+16cLL	.
 16c	.
 16c	.
 16c	.
-16c	.
-16c[	.
-16c]	Dm7
+[16c	.
+16c]	D minor-seventh
 16d	.
-16d	.
-8d	C/E
+16dJJ	.
+8dL	C major/E
 8e	.
-8e	Cadd(2,4,7)
-8r	C
+8eJ	C other-2,4,7
+8r	C major
 =3	=3
-16e	C/E
+16eLK	C major/E
 8e	.
-16e	.
-16e[	.
-16e]	Cadd(2,4,7)
+16eL	.
+[16e	.
+16e]	C other-2,4,7
 16d	.
-16d[	C
-16d]	F/C
-16c	.
+[16dJJ	C major
+16dLL]	F major/C
+16cJ	.
 8c	.
-8c	.
+8cJ	.
 8r	.
 =4	=4
+8cL	.
 8c	.
-8c	.
-16c[	.
-16c]	Dm7
-8d	.
-8d	C/E
+[16cL	.
+16cJ]	D minor-seventh
+8dJ	.
+8dL	C major/E
 8e	.
-8e	Cadd(2,4,7)
-8r	C
+8eJ	C other-2,4,7
+8r	C major
 =5	=5
-8e	C/E
+8eL	C major/E
 8g	.
+16gL	.
+16g	C other-2,4,7
 16g	.
-16g	Cadd(2,4,7)
-16g	.
-16a[	C
-16a]	Dm7
-16g	.
+[16aJJ	C major
+16aLL]	D minor-seventh
+16gJ	.
 8g	.
-8g	.
+8gJ	.
 16r	.
 16d	.
 =6	=6
-16g	.
+16gLK	.
 8.g	.
 8g	.
-16d	.
-16d[	.
-8d]	C/E
-16e	.
-16e	.
-8e	Cadd(2,4,7)
-8r	C
+16dL	.
+[16dJJ	.
+8dL]	C major/E
+16eL	.
+16eJ	.
+8eJ	C other-2,4,7
+8r	C major
 =7	=7
-8e	C/E
+8eL	C major/E
 8e	.
-16e[	.
-16e]	Cadd(2,4,7)
+[16eL	.
+16e]	C other-2,4,7
 16d	.
-16d[	C
-8d]	F/C
+[16dJJ	C major
+8dL]	F major/C
 8c	.
-8c	.
+8cJ	.
 8r	.
 =8	=8
+8cL	.
 8c	.
-8c	.
-16c[	.
-16c]	Dm7
-8d	.
-4c	C
+[16cL	.
+16cJ]	D minor-seventh
+8dJ	.
+4c	C major
 4r	.
 ==	==
 *-	*-

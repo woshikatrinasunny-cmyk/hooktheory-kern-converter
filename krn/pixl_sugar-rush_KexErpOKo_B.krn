@@ -17,36 +17,36 @@
 *M4/4	*
 =1	=1
 4r	.
-8D	Dm
-8D	.
-8D	.
+8DL	D minor
+8DJ	.
+8DL	.
 8D	.
 8DD	.
-8FF	.
+8FFJ	.
 =2	=2
+8DDL	.
 8DD	.
 8DD	.
+8DDJ	.
+8DDL	.
 8DD	.
-8DD	.
-8DD	.
-8DD	.
-8FF	F
-8GG	.
+8FF	F major
+8GGJ	.
 =3	=3
-8DD	Dm
+8DDL	D minor
 8DD	.
 8D	.
-8D	.
-8D	.
+8DJ	.
+8DL	.
 8D	.
 8DD	.
-8FF	.
+8FFJ	.
 =4	=4
-8GG	Gm
+8GGL	G minor
 8GG	.
 8GG	.
-8AA	.
-4E	E7
-4E-	Am7b5/E-
+8AAJ	.
+4E	E dominant
+4E-	A half-diminished/E-
 ==	==
 *-	*-

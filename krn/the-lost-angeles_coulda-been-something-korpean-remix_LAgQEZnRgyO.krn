@@ -16,18 +16,18 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4a#	B
+4a#	B major
 4g#	.
 4a#	.
 4d#	.
 =2	=2
-8r	G#m
+8r	G# minor
 8c#	.
 4d#	.
 4g#	.
 4f#	.
 =3	=3
-4a#	D#m
+4a#	D# minor
 4g#	.
 4cc#	.
 4a#	.
@@ -35,21 +35,21 @@
 8r	.
 8a#	.
 4g#	.
-4d#	F#add(4,7,9,11)/C#
+4d#	F# other-4,7,9,11/C#
 4f#	.
 =5	=5
-4a#	B
+4a#	B major
 4g#	.
 4a#	.
 4d#	.
 =6	=6
-8r	G#m
+8r	G# minor
 8c#	.
 4d#	.
 4g#	.
 4f#	.
 =7	=7
-4a#	D#m
+4a#	D# minor
 4g#	.
 4cc#	.
 4a#	.
@@ -57,7 +57,7 @@
 8r	.
 8a#	.
 4g#	.
-4d#	F#add(4,7,9,11)/C#
+4d#	F# other-4,7,9,11/C#
 4f#	.
 ==	==
 *-	*-

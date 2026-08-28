@@ -16,7 +16,7 @@
 *A:	*
 *M4/4	*
 =1	=1
-4r	Dmaj7
+4r	D major-seventh
 8ee	.
 8r	.
 8aa	.
@@ -24,109 +24,109 @@
 8ccc#	.
 8r	.
 =2	=2
-8ddd	DmMaj7
+8ddd	D major-minor
 8r	.
 8ccc#	.
 8r	.
 8aa	.
 16r	.
-8.fff#	.
-8fffn	.
+8.fff#L	.
+8fffnJ	.
 =3	=3
-16eee	C#m7
+16eeeLK	C# minor-seventh
 8fff#	.
-8aa	.
+8aaJ	.
 2r	.
-16bb	.
+16bbLL	.
 16ccc#	.
-16ddd	.
+16dddJJ	.
 =4	=4
-16eee	F#7
+16eeeLK	F# dominant
 8fff#	.
-8aa	.
+8aaJ	.
 3...r	.
 16r	.
 =5	=5
-8r	Dmaj7
-8ee	.
-16aa	.
-16ee	.
+8r	D major-seventh
+8eeL	.
+16aaL	.
+16eeJJ	.
 16r	.
 16bb	.
 8r	.
-8aa	.
-16ccc#	.
-16ccc#	.
+8aaL	.
+16ccc#L	.
+16ccc#JJ	.
 8r	.
 =6	=6
-8r	D#dim7
-8ee	.
-16aa	.
-16ee	.
+8r	D# diminished-seventh
+8eeL	.
+16aaL	.
+16eeJJ	.
 16r	.
 16bb	.
 8r	.
 16aa	.
 16r	.
-16ccc#	.
-16ddd	.
-8fff#	.
+16ccc#LL	.
+16dddJ	.
+8fff#J	.
 =7	=7
-1aaa	Esus4
+1aaa	E suspended-fourth
 =8	=8
-1r	Esus4
+1r	E suspended-fourth
 =9	=9
-8r	A
-8ee	.
-16aa	.
-16aa	.
+8r	A major
+8eeL	.
+16aaL	.
+16aaJJ	.
 16r	.
-16aa[	.
-16aa]	A/C#
+[16aa	.
+16aaLL]	A major/C#
 16ff#	.
 16ee	.
 16ff#	.
-16aa	.
+16aaJ	.
 8cccn	.
-16cccn	.
+16cccnJk	.
 =10	=10
-16r	D
-16aa	.
+16r	D major
+16aaLL	.
 16cccn	.
-16ddd#	.
+16ddd#JJ	.
 8r	.
 16ddd	.
 16r	.
-16r	E
-16cccn	.
+16r	E major
+16cccnLL	.
 16aa	.
 16ff#	.
 16cccn	.
-16cccn	.
+16cccnJJ	.
 16r	.
 16aa	.
 =11	=11
-16r	A
-16ee	.
-16aa	.
+16r	A major
+16eeLL	.
+16aaJJ	.
+16r	.
+16eeLL	.
+16aaJJ	.
 16r	.
 16ee	.
-16aa	.
-16r	.
-16ee	.
-8aa	A/C#
-16ee	.
-16aa	.
+8aaL	A major/C#
+16eeL	.
+16aaJJ	.
 16r	.
 16ccc#	.
 8r	.
 =12	=12
-16ddd#	D
-16ddd	.
+16ddd#LL	D major
+16dddJ	.
 8cccn	.
-16aa	.
-16ggn	.
-8cccn	.
-2r	E
+16aaL	.
+16ggnJ	.
+8cccnJ	.
+2r	E major
 ==	==
 *-	*-

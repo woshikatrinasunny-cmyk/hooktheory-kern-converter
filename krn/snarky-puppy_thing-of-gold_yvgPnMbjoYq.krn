@@ -16,100 +16,100 @@
 *B-:	*
 *M4/4	*
 =1	=1
-16ff	Fsus2
-16ff[	.
+16ffLL	F suspended-second
+[16ff	.
 16ff]	.
-16ff	.
-8ff	Fsus2
-8gg	.
-8ff[	Fsus2
+16ffJ	.
+8ff	F suspended-second
+8ggJ	.
+[8ffL	F suspended-second
 8ff]	.
-8dd[	Fsus2
-8dd]	.
+[8dd	F suspended-second
+8ddJ]	.
 =2	=2
-16cc	Fsus2
-16cc[	.
+16ccLL	F suspended-second
+[16cc	.
 16cc]	.
-16cc	.
-8cc	Fsus2
-8b-	.
-16cc	Fsus2
-16dd[	.
-8dd]	.
-16r	Gsus2
-8ff	.
-16dd	.
+16ccJ	.
+8cc	F suspended-second
+8b-J	.
+16ccLL	F suspended-second
+[16ddJ	.
+8ddJ]	.
+16r	G suspended-second
+8ffL	.
+16ddJk	.
 =3	=3
-16ff	Fsus2
-16dd[	.
+16ffLL	F suspended-second
+[16dd	.
 16dd]	.
-16dd	.
-8dd	Fsus2
-8dd	.
-16dd	Fsus2
-16cc	.
+16ddJ	.
+8dd	F suspended-second
+8ddJ	.
+16ddLL	F suspended-second
+16ccJ	.
 8cc	.
-16cc	Fsus2
-16b-	.
-8b-	.
+16ccL	F suspended-second
+16b-J	.
+8b-J	.
 =4	=4
-16f	Fsus2
-16g	.
+16fLL	F suspended-second
+16gJ	.
 8b-	.
-8f[	Fsus2
-8f_	.
-4f_	B-sus2
-4f]	Gsus2
+[8f	F suspended-second
+8fJ_	.
+4f_	B- suspended-second
+4f]	G suspended-second
 =5	=5
-16ff	Fsus2
-16ff[	.
+16ffLL	F suspended-second
+[16ff	.
 16ff]	.
-16ff	.
-8ff	Fsus2
-8gg	.
-8ff[	Fsus2
+16ffJ	.
+8ff	F suspended-second
+8ggJ	.
+[8ffL	F suspended-second
 8ff]	.
-8dd[	Fsus2
-8dd]	.
+[8dd	F suspended-second
+8ddJ]	.
 =6	=6
-16cc	Fsus2
-16cc[	.
+16ccLL	F suspended-second
+[16cc	.
 16cc]	.
-16cc	.
-8cc	Fsus2
-8b-	.
-16cc	Fsus2
-16dd[	.
+16ccJ	.
+8cc	F suspended-second
+8b-J	.
+16ccLL	F suspended-second
+[16ddJ	.
 8dd]	.
-8g	Gsus2
-8f	.
+8g	G suspended-second
+8fJ	.
 =7	=7
-16ee-	Fsus2
+16ee-LL	F suspended-second
 16bb-	.
 16dd	.
 16bb-	.
-16dd	Fsus2
+16dd	F suspended-second
 16cc	.
 16cc	.
-16gg	.
-16cc	Fsus2
+16ggJJ	.
+16ccLL	F suspended-second
 16b-	.
 16b-	.
 16g	.
-16cc	Fsus2
-16dd[	.
+16cc	F suspended-second
+[16dd	.
 16dd]	.
-16cc	.
+16ccJJ	.
 =8	=8
-16dd	Fsus2
-16ff	.
-8dd[	.
-8dd]	Fsus2
-16dd	.
-16ff	.
-8.dd	B-sus2
-16gg	.
-8.dd	Gsus2
-16ff	.
+16ddLL	F suspended-second
+16ffJ	.
+[8dd	.
+8dd]	F suspended-second
+16ddL	.
+16ffJJ	.
+8.ddL	B- suspended-second
+16ggk	.
+8.dd	G suspended-second
+16ffJk	.
 ==	==
 *-	*-

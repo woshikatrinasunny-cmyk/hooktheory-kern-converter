@@ -15,36 +15,36 @@
 *d#:	*
 *M6/8	*
 =1	=1
-3...ddd#[	D#m
-16.ddd#]	.
-32eee#	.
+[3...ddd#	D# minor
+16.ddd#LL]	.
+32eee#JJk	.
 =2	=2
-3...ddd#[	D#add(2,3,7)
-16.ddd#]	.
-32eee#	.
+[3...ddd#	D# other-2,3,7
+16.ddd#LL]	.
+32eee#JJk	.
 =3	=3
-3...fff#[	D#m
-16.fff#]	.
-32eee#	.
+[3...fff#	D# minor
+16.fff#LL]	.
+32eee#JJk	.
 =4	=4
-2.fff#	D#add(2,3,7)
+2.fff#	D# other-2,3,7
 =5	=5
-3...ddd#[	D#m
-16.ddd#]	.
-32eee#	.
+[3...ddd#	D# minor
+16.ddd#LL]	.
+32eee#JJk	.
 =6	=6
-3...ddd#[	D#add(2,3,7)
-16.ddd#]	.
-32eee#	.
+[3...ddd#	D# other-2,3,7
+16.ddd#LL]	.
+32eee#JJk	.
 =7	=7
-3...fff#[	D#m
-16.fff#]	.
-32eee#	.
+[3...fff#	D# minor
+16.fff#LL]	.
+32eee#JJk	.
 =8	=8
-4.fff#	D#add(2,3,7)
+4.fff#	D# other-2,3,7
 4.gggn	.
 =9	=9
-4.ggg#	G#7sus2
+4.ggg#	G# dominant-seventh-suspended-second
 4.ddd#	.
 =10	=10
 4.aaa#	.

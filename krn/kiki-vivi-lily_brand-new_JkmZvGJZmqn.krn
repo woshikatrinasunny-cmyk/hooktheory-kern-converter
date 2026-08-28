@@ -16,57 +16,57 @@
 *B:	*
 *M4/4	*
 =1	=1
-4r	Emaj7
-8.r	A#dim
-4r	D#m7
-6...r	G#7
+4r	E major-seventh
+8.r	A# diminished
+4r	D# minor-seventh
+6...r	G# dominant
 =2	=2
-4r	C#m7
-8.r	F#
-8r	B
-8r	C#m
-8r	Ddim
-8.r	D#m
+4r	C# minor-seventh
+8.r	F# major
+8r	B major
+8r	C# minor
+8r	D diminished
+8.r	D# minor
 =3	=3
-4r	Emaj7
-8.r	A#dim
-8r	D#m7
-8r	A7
-6...r	G#7
+4r	E major-seventh
+8.r	A# diminished
+8r	D# minor-seventh
+8r	A dominant
+6...r	G# dominant
 =4	=4
-4r	C#add(3,5,7,10)
-8.r	F#
-2r	B
+4r	C# other-3,5,7,10
+8.r	F# major
+2r	B major
 16r	.
 =5	=5
-4r	Emaj7
-8.r	A#dim
-4r	D#m7
-6...r	G#7
+4r	E major-seventh
+8.r	A# diminished
+4r	D# minor-seventh
+6...r	G# dominant
 =6	=6
-4r	C#m7
-8.r	F#
-8r	B
-8r	C#m
-8r	Ddim
-8.r	D#m
+4r	C# minor-seventh
+8.r	F# major
+8r	B major
+8r	C# minor
+8r	D diminished
+8.r	D# minor
 =7	=7
-4r	Emaj7
-8.r	A#dim
-8r	D#m7
-8r	A7
-6...r	G#7
+4r	E major-seventh
+8.r	A# diminished
+8r	D# minor-seventh
+8r	A dominant
+6...r	G# dominant
 =8	=8
-4r	C#add(3,5,7,10)
-8.r	F#
-2r	Emaj7
+4r	C# other-3,5,7,10
+8.r	F# major
+2r	E major-seventh
 16r	.
 =9	=9
 4..r	.
-2r	B
+2r	B major
 16r	.
 =10	=10
 2r	.
-2r	D
+2r	D major
 ==	==
 *-	*-

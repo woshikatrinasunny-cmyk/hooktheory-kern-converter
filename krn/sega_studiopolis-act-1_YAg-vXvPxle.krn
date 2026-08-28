@@ -16,97 +16,97 @@
 *a:	*
 *M6/4	*
 =1	=1
-8r	Aadd(2,3,7)
+8r	A other-2,3,7
 16aa	.
 8.r	.
 16aa	.
 4r	.
 16dd#	.
-8ee	.
-16gg	.
+8eeL	.
+16ggJk	.
 8aa	.
 16aa	.
 4.r	.
 =2	=2
-8r	Dm7
-16dd	.
-16cc	.
+8r	D minor-seventh
+16ddLL	.
+16ccJJ	.
 8r	.
 16dd	.
 8r	.
 16dd#	.
 8r	.
-8ee	E7
-16gg	.
+8eeL	E dominant
+16ggJk	.
 8dd#	.
 16ee	.
 4.r	.
 =3	=3
-8r	Aadd(2,3,7)
+8r	A other-2,3,7
 16aa	.
 8.r	.
 16aa	.
 4r	.
 16dd#	.
-8ee	.
-16gg	.
+8eeL	.
+16ggJk	.
 8ccc	.
 16aa	.
 4.r	.
 =4	=4
-8r	Dm7
-16ddd	.
-16ccc	.
+8r	D minor-seventh
+16dddLL	.
+16cccJJ	.
 8r	.
 16ddd	.
 8r	.
 16ddd#	.
 8r	.
-8eee	E7
-16eee	.
+8eeeL	E dominant
+16eeeJk	.
 8r	.
 16eee	.
 4.r	.
 =5	=5
-8r	Aadd(2,3,7)
+8r	A other-2,3,7
 16aa	.
 8.r	.
 16aa	.
 4r	.
 16dd#	.
-8ee	.
-16gg	.
+8eeL	.
+16ggJk	.
 8aa	.
 16aa	.
 4.r	.
 =6	=6
-8r	Dm7
-16dd	.
-16cc	.
+8r	D minor-seventh
+16ddLL	.
+16ccJJ	.
 8r	.
 16dd	.
 8r	.
 16dd#	.
 8r	.
-8ee	E7
-16gg	.
+8eeL	E dominant
+16ggJk	.
 8dd#	.
 16ee	.
 4.r	.
 =7	=7
-8r	Aadd(2,3,7)
+8r	A other-2,3,7
 16aa	.
 8.r	.
 16aa	.
 4r	.
 16dd#	.
-8ee	.
-16gg	.
+8eeL	.
+16ggJk	.
 8ccc	.
 16aa	.
 4.r	.
 =8	=8
-16ddd	Dm7
+16ddd	D minor-seventh
 8r	.
 16ccc	.
 8r	.
@@ -114,8 +114,8 @@
 8r	.
 16ddd#	.
 8r	.
-8eee	E7
-16eee	.
+8eeeL	E dominant
+16eeeJk	.
 8r	.
 16eee	.
 8r	.

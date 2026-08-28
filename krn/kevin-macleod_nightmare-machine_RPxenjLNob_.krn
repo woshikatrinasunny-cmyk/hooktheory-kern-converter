@@ -15,107 +15,107 @@
 *g:	*
 *M4/4	*
 =1	=1
-4r	Gm
+4r	G minor
 16b-	.
 8.r	.
 4b-	.
-8a	.
-8b-	.
+8aL	.
+8b-J	.
 =2	=2
 4cc	.
-8b-	.
-8a	.
+8b-L	.
+8aJ	.
 16b-	.
 8.r	.
-4g[	.
+[4g	.
 =3	=3
 8g]	.
 8r	.
 16b-	.
 8.r	.
 4b-	.
-8a	.
-8b-	.
+8aL	.
+8b-J	.
 =4	=4
 16cc	.
 16r	.
-8cc	.
+8ccL	.
 8b-	.
-8a	.
+8aJ	.
 16g	.
 8.r	.
-4b-[	.
+[4b-	.
 =5	=5
 8b-]	.
 8r	.
 16b-	.
 8.r	.
 4b-	.
-8a	.
-8b-	.
+8aL	.
+8b-J	.
 =6	=6
 4cc	.
-8b-	.
-8a	.
+8b-L	.
+8aJ	.
 16b-	.
 8.r	.
-4g[	.
+[4g	.
 =7	=7
 8g]	.
 8r	.
 16b-	.
 8.r	.
 4b-	.
-8a	.
-8b-	.
+8aL	.
+8b-J	.
 =8	=8
 16cc	.
 16r	.
-8cc	.
+8ccL	.
 8b-	.
-8a	.
+8aJ	.
 4.g	.
 8r	.
 =9	=9
 *k[]	*
 *a:	*
-1cc	Am
+1cc	A minor
 =10	=10
-2b	Amaj7sus2
-2cc	Am
+2b	A major-seventh-suspended-second
+2cc	A minor
 =11	=11
-1dd	Dm7/A
+1dd	D minor-seventh/A
 =12	=12
-1ee	Am
+1ee	A minor
 =13	=13
 1aa	.
 =14	=14
-2gg#	Amaj7sus2
-2aa	Am
+2gg#	A major-seventh-suspended-second
+2aa	A minor
 =15	=15
-1aa[	Aadd(6,7,11)
+[1aa	A other-6,7,11
 =16	=16
 1aa]	.
 =17	=17
 *k[f#c#]	*
 *b:	*
-1bb	Bm
+1bb	B minor
 =18	=18
-2aa	Aadd(2,4,5,7)/C#
-2ff#	Bm/D
+2aa	A other-2,4,5,7/C#
+2ff#	B minor/D
 =19	=19
-1ffn[	Fm
+[1ffn	F minor
 =20	=20
 2.ffn]	.
 4r	.
 =21	=21
-1bb	Bm
+1bb	B minor
 =22	=22
-2aa	Aadd(2,4,5,7)/C#
-4.ff#	Bm/D
+2aa	A other-2,4,5,7/C#
+4.ff#	B minor/D
 8r	.
 =23	=23
-1ffn[	FmMaj7
+[1ffn	F major-minor
 =24	=24
 1ffn]	.
 ==	==

@@ -15,46 +15,46 @@
 *A:	*
 *M4/4	*
 =1	=1
-4G	A7
-4F#	Gmaj7
-4Cn	Am/E
-4A[	A
+4G	A dominant
+4F#	G major-seventh
+4Cn	A minor/E
+[4A	A major
 =2	=2
 4A]	.
 4a	.
 4g	.
-4a[	.
+[4a	.
 =3	=3
 4a]	.
 4a	.
 4a	.
 4a	.
 =4	=4
-2ccn	A/C#
-2a	A/E
+2ccn	A major/C#
+2a	A major/E
 =5	=5
-4B	B
-4A	A
-4F#	Bm/F#
-4B[	B7
+4B	B major
+4A	A major
+4F#	B minor/F#
+[4B	B dominant
 =6	=6
 4B]	.
 4b	.
 4a	.
-4b[	.
+[4b	.
 =7	=7
 4b]	.
 4b	.
 2b	.
 =8	=8
-2dd	B7/D#
-2b	B7/F#
+2dd	B dominant/D#
+2b	B dominant/F#
 =9	=9
-1b[	Cmaj7
+[1b	C major-seventh
 =10	=10
 4b_	.
-2b]	G
-4a[	D
+2b]	G major
+[4a	D major
 =11	=11
 2a]	.
 4E	.
@@ -63,14 +63,14 @@
 4E	.
 4D	.
 4E	.
-4D	G
+4D	G major
 =13	=13
-4A	A7
+4A	A dominant
 4G	.
 4AA	.
 4E	.
 =14	=14
-4G	A7
+4G	A dominant
 4E	.
 4G	.
 4A	.
@@ -78,10 +78,10 @@
 4cn	.
 4A	.
 4cn	.
-4d	F
+4d	F major
 =16	=16
 4e	.
-4g	G
+4g	G major
 4e	.
 4d	.
 ==	==

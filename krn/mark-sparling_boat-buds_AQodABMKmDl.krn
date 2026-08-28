@@ -16,15 +16,15 @@
 *A:	*
 *M4/4	*
 =1	=1
-1cc#	A
+1cc#	A major
 =2	=2
-2..dd	D
-16cc#	.
-16b	.
+2..dd	D major
+16cc#LL	.
+16bJJ	.
 =3	=3
-8.cc#	A
-16a	.
-2.e[	.
+8.cc#L	A major
+16aJk	.
+[2.e	.
 =4	=4
 2e]	.
 4r	.
@@ -32,38 +32,38 @@
 =5	=5
 1ee	.
 =6	=6
-2..ff#	D
-16gg#	.
-16aa	.
+2..ff#	D major
+16gg#LL	.
+16aaJJ	.
 =7	=7
-1ee[	A
+[1ee	A major
 =8	=8
-2ee]	A7
+2ee]	A dominant
 4r	.
 4a	.
 =9	=9
-2..ff#	D
-16ee	.
-16dd#	.
+2..ff#	D major
+16eeLL	.
+16dd#JJ	.
 =10	=10
-2.ee	A
+2.ee	A major
 4a	.
 =11	=11
-3...dd	Fdim7
-8.cc#	.
-8.b	.
+3...dd	F diminished-seventh
+8.cc#L	.
+8.bJ	.
 =12	=12
-2cc#	F#m7
+2cc#	F# minor-seventh
 2a	.
 =13	=13
-1b[	G
+[1b	G major
 =14	=14
 3...b]	.
-8.cc#	.
-8.dd	.
+8.cc#L	.
+8.ddJ	.
 =15	=15
-1a	Esus4
+1a	E suspended-fourth
 =16	=16
-1g#	E
+1g#	E major
 ==	==
 *-	*-

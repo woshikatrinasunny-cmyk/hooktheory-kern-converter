@@ -16,48 +16,48 @@
 *A:	*
 *M6/4	*
 =1	=1
-4r	Aadd(2,4,7)
+4r	A other-2,4,7
 4e	.
 4f#	.
-8g#	.
-8a	.
+8g#L	.
+8aJ	.
 2g#	.
 =2	=2
-8c#	Aadd(2,4,7)
+8c#	A other-2,4,7
 4d	.
 4e	.
 3...a	.
-8A	.
-8c#[	.
+8AL	.
+[8c#J	.
 =3	=3
-4.c#]	C#m7
+4.c#]	C# minor-seventh
 1r	.
 8r	.
 =4	=4
-2.g#	C#m7
-2.e	C#m9
+2.g#	C# minor-seventh
+2.e	C# minor-ninth
 =5	=5
-4r	Aadd(2,4,7)
+4r	A other-2,4,7
 4e	.
 4f#	.
-8g#	.
-8a	.
+8g#L	.
+8aJ	.
 2g#	.
 =6	=6
-8c#	Aadd(2,4,7)
+8c#	A other-2,4,7
 4.d	.
 8e	.
 3...a	.
-8A	.
-8c#[	.
+8AL	.
+[8c#J	.
 =7	=7
-4.c#]	C#m7
+4.c#]	C# minor-seventh
 1r	.
 8r	.
 =8	=8
-4ee	C#m7
+4ee	C# minor-seventh
 2g#	.
-4dd#	C#m9
+4dd#	C# minor-ninth
 2f#	.
 ==	==
 *-	*-

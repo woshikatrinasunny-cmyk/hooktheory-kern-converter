@@ -17,137 +17,137 @@
 *M4/4	*
 =1	=1
 3...r	.
+8bL	.
 8b	.
-8b	.
-8cc#	.
+8cc#J	.
 =2	=2
-4.cc#	B
+4.cc#	B major
 8b	.
 4.b	.
 8b	.
 =3	=3
-4ee	B/D#
+4ee	B major/D#
 8dd#	.
 4cc#	.
 4.b	.
 =4	=4
-4cc#	G#m
+4cc#	G# minor
 8dd#	.
-3...b[	.
+[3...b	.
 =5	=5
-2..b]	F#
+2..b]	F# major
 8ff#	.
 =6	=6
-4.ff#	E
+4.ff#	E major
 8ee	.
 4.ee	.
 8dd#	.
 =7	=7
-4dd#	B/D#
+4dd#	B major/D#
 8ee	.
-4ff#	G#m
-8ee	.
+4ff#	G# minor
+8eeL	.
 8dd#	.
-8ee	.
+8eeJ	.
 =8	=8
-4.dd#	A
+4.dd#	A major
 8cc#	.
 4.cc#	.
-8b[	F#sus4
+[8b	F# suspended-fourth
 =9	=9
-8b]	.
+8bL]	.
 8cc#	.
-8dd#	.
-4cc#	F#
+8dd#J	.
+4cc#	F# major
+8bL	.
 8b	.
-8b	.
-8cc#	.
+8cc#J	.
 =10	=10
-4.cc#	B
+4.cc#	B major
 8b	.
 4.b	.
 8b	.
 =11	=11
-4ff#	A#dim
+4ff#	A# diminished
 8ee	.
-4dd#	D#
-8ee	.
+4dd#	D# major
+8eeL	.
 8dd#	.
-8cc#	.
+8cc#J	.
 =12	=12
-4.cc#	G#m
+4.cc#	G# minor
 4b	.
-8bb	.
+8bbL	.
 8aa#	.
-8bb[	F#m
+[8bbJ	F# minor
 =13	=13
 4.bb]	.
-4b	B
-8cc#	.
+4b	B major
+8cc#L	.
 8dd#	.
-8ee	.
+8eeJ	.
 =14	=14
-4.ff#	E
+4.ff#	E major
 8ff#	.
-8bb	.
+8bbL	.
 8aa#	.
 8bb	.
-8ff#[	.
+[8ff#J	.
 =15	=15
-4.ff#]	Badd(2,4,7)/D#
-8b	G#
-8b	.
+4.ff#]	B other-2,4,7/D#
+8b	G# major
+8bL	.
 8cc#	.
 8dd#	.
-8dd#	.
+8dd#J	.
 =16	=16
-4ee	C#m
-8dd#	.
-8b[	.
-8b]	F#
+4ee	C# minor
+8dd#L	.
+[8bJ	.
+8b]	F# major
 4cc#	.
-8b[	B
+[8b	B major
 =17	=17
 1b]	.
 =18	=18
-8b	E
-8a#	.
+8bL	E major
+8a#J	.
 4b	.
-8b	.
+8bL	.
 8a#	.
 8b	.
-8cc#[	F#
+[8cc#J	F# major
 =19	=19
-8cc#]	.
-8cc#	.
+8cc#L]	.
+8cc#J	.
 4dd#	.
 2cc#	.
 =20	=20
-8a#	D#m
-8an	.
+8a#L	D# minor
+8anJ	.
 4a#	.
 4ff#	.
-8cc#	.
-8ccn[	G#
+8cc#L	.
+[8ccnJ	G# major
 =21	=21
-8ccn]	.
-8ccn	.
+8ccnL]	.
+8ccnJ	.
 4cc#	.
 4dd#	.
 4ff#	.
 =22	=22
-4b	C#m
-8b	.
-8a#	.
-8b	.
-8cc#	.
+4b	C# minor
+8bL	.
+8a#J	.
+8bL	.
+8cc#J	.
 4dd#	.
 =23	=23
-4.ff#	D#m
+4.ff#	D# minor
 4.b	.
 4ff#	.
 =24	=24
-4b	C#7/F
+4b	C# dominant/F
 4b	.
 4dd#	.
 4ff#	.
@@ -155,31 +155,31 @@
 4bb	.
 8aa#	.
 4gg#	.
-8aa#	.
+8aa#L	.
 8bb	.
-8ff#[	.
+[8ff#J	.
 =26	=26
-8ff#]	F#
+8ff#L]	F# major
 8b	.
 8b	.
-8a#	.
-8b	.
-8cc#	.
-4dd#[	.
+8a#J	.
+8bL	.
+8cc#J	.
+[4dd#	.
 =27	=27
-8dd#]	.
+8dd#L]	.
 8b	.
 8b	.
-8a#	.
-8b	.
-8cc#	.
+8a#J	.
+8bL	.
+8cc#J	.
 4dd#	.
 =28	=28
-4.b	F#sus4
+4.b	F# suspended-fourth
 4.dd#	.
 4ee	.
 =29	=29
-4ff#	F#
+4ff#	F# major
 2.r	.
 ==	==
 *-	*-

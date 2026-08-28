@@ -16,29 +16,29 @@
 *C:	*
 *M6/4	*
 =1	=1
-2.r	B-
+2.r	B- major
 4b-	.
 4a	.
 4g	.
 =2	=2
-1f[	.
+[1f	.
 4f]	.
-4g[	.
+[4g	.
 =3	=3
-4g]	C
-8a	.
-8g	.
-8e	.
-8d	.
+4g]	C major
+8aL	.
+8gJ	.
+8eL	.
+8dJ	.
 2.c	.
 =4	=4
-2r	Am7
-4c	Am7
+2r	A minor-seventh
+4c	A minor-seventh
 4e-	.
-4d	C/G
+4d	C major/G
 4c	.
 =5	=5
-4r	B-
+4r	B- major
 4c	.
 4c	.
 4b-	.
@@ -49,40 +49,40 @@
 1f	.
 4g	.
 =7	=7
-2a	C
+2a	C major
 4g	.
 4e-	.
 4d	.
 4c	.
 =8	=8
-2.d	Am7
+2.d	A minor-seventh
 2.c	.
 =9	=9
-4r	B-
+4r	B- major
 2.cc	.
 4ee-	.
 4dd	.
 =10	=10
-8dd	Gm7
-8cc	.
+8ddL	G minor-seventh
+8ccJ	.
 2b-	.
 4r	.
 4f	.
 4g	.
 =11	=11
-4a	C
+4a	C major
 2g	.
 4e-	.
 4d	.
 4c	.
 =12	=12
-4d	Am7
+4d	A minor-seventh
 8c	.
 4A	.
 3...r	.
 4c	.
 =13	=13
-2d	Dm7
+2d	D minor-seventh
 2d	.
 4r	.
 4d	.
@@ -93,11 +93,11 @@
 4r	.
 4g	.
 =15	=15
-2cc	Gsus4
-2cc	Gsus4
-2cc	Gsus4
+2cc	G suspended-fourth
+2cc	G suspended-fourth
+2cc	G suspended-fourth
 =16	=16
-4b-	Gsus4
+4b-	G suspended-fourth
 4r	.
 4g	.
 4ee-	.

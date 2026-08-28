@@ -16,37 +16,37 @@
 *D:	*
 *M6/4	*
 =1	=1
-2.d	D
-3...d	Cadd(2,4,7)
+2.d	D major
+3...d	C other-2,4,7
 8A	.
 =2	=2
-8g	G
-8f#	.
+8gL	G major
+8f#J	.
 2d	.
 2B	.
-8B	.
-8f#[	.
+8BL	.
+[8f#J	.
 =3	=3
-2.f#]	Cadd(2,4,7)
+2.f#]	C other-2,4,7
 2.r	.
 =4	=4
-1.r	G
+1.r	G major
 =5	=5
-2.d	D
-3...d	Cadd(2,4,7)
+2.d	D major
+3...d	C other-2,4,7
 8A	.
 =6	=6
-8g	G
-8f#	.
+8gL	G major
+8f#J	.
 4.d	.
 3...r	.
-8B	.
-8B	.
+8BL	.
+8BJ	.
 =7	=7
-2.g	Cadd(2,4,7)
+2.g	C other-2,4,7
 2.f#	.
 =8	=8
-2.d	G
+2.d	G major
 2.B	.
 ==	==
 *-	*-

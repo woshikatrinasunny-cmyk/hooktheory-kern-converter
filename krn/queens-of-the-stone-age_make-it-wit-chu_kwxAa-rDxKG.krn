@@ -16,63 +16,63 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	C
+1r	C major
 =2	=2
-4.r	Asus2
-3...r	A
+4.r	A suspended-second
+3...r	A major
 =3	=3
-1r	E
+1r	E major
 =4	=4
-1r	E
+1r	E major
 =5	=5
-1r	C
+1r	C major
 =6	=6
-4.r	Asus2
-3...r	A
+4.r	A suspended-second
+3...r	A major
 =7	=7
-1r	E
+1r	E major
 =8	=8
-3...r	E
-8d	.
+3...r	E major
+8dL	.
 8e	.
-8g	.
+8gJ	.
 =9	=9
-2e	C
+2e	C major
 4r	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 =10	=10
-4.b[	Asus2
-8b]	A
+[4.b	A suspended-second
+8b]	A major
 6...r	.
-16g	.
-8a	.
+16gLK	.
+8aJ	.
 =11	=11
-2b	E
+2b	E major
 2r	.
 =12	=12
-3...r	E
-8d	.
+3...r	E major
+8dL	.
 8e	.
-8g	.
+8gJ	.
 =13	=13
-2e	C
+2e	C major
 8r	.
-8d	.
+8dL	.
 8e	.
-8B	.
+8BJ	.
 =14	=14
-8d	Asus2
-4e[	.
-8e]	A
+8d	A suspended-second
+[4e	.
+8e]	A major
 4r	.
-8G	.
-8e[	.
+8GL	.
+[8eJ	.
 =15	=15
-2e]	E
+2e]	E major
 2r	.
 =16	=16
-2b	E
+2b	E major
 2r	.
 ==	==
 *-	*-

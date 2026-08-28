@@ -16,53 +16,53 @@
 *D:	*
 *M4/4	*
 =1	=1
-4r	D
+4r	D major
 4f#	.
 4.f#	.
 8f#	.
 =2	=2
-8.a	A
-8.a	A
-8a	G
+8.aL	A major
+8.a	A major
+8aJ	G major
 4b	.
-8f#	.
-8e	.
+8f#L	.
+8eJ	.
 =3	=3
-8d	Bm
-8B	.
+8dL	B minor
+8BJ	.
 4f#	.
 4.f#	.
 8d	.
 =4	=4
-8.e	F#m7
-8.e	F#m7
-8e	G
+8.eL	F# minor-seventh
+8.e	F# minor-seventh
+8eJ	G major
 4f#	.
-8e	.
-8d[	.
+8eL	.
+[8dJ	.
 =5	=5
-8d]	D
+8d]	D major
 8r	.
 4f#	.
 4.f#	.
 8f#	.
 =6	=6
-8.a	A
-8.a	A
-8a	G
+8.aL	A major
+8.a	A major
+8aJ	G major
 4b	.
-8f#	.
-8e	.
+8f#L	.
+8eJ	.
 =7	=7
-8d	Bm
-8B	.
+8dL	B minor
+8BJ	.
 4f#	.
 4f#	.
 4f#	.
 =8	=8
-8.e	F#m7
-8.e	F#m7
-4d	G
+8.eL	F# minor-seventh
+8.eJ	F# minor-seventh
+4d	G major
 4.r	.
 ==	==
 *-	*-

@@ -16,128 +16,128 @@
 *d#:	*
 *M4/4	*
 =1	=1
-16a#	B
-16a#	.
+16a#LL	B major
+16a#J	.
 8a#	.
-16a#	.
-8g#	.
+16a#k	.
+8g#J	.
 8f#	.
-16f#	.
+16f#LK	.
 8f#	.
-8f#[	.
-8f#_	G#m7
+[8f#	.
+8f#J_	G# minor-seventh
 =2	=2
 4f#]	.
 3...r	.
 16r	.
-16a#[	.
+[16a#	.
 =3	=3
-16a#]	D#m7
-16a#	.
+16a#LL]	D# minor-seventh
+16a#J	.
 8a#	.
-16a#	.
+16a#k	.
+8g#J	.
 8g#	.
+16g#LK	.
 8g#	.
-16g#	.
-8g#	.
-8g#[	.
-8g#_	C#
+[8g#	.
+8g#J_	C# major
 =4	=4
 4g#]	.
 4r	.
-8.r	G#m7
-8.r	A#m7
-16r	B
-16a#[	.
+8.r	G# minor-seventh
+8.r	A# minor-seventh
+16r	B major
+[16a#	.
 =5	=5
-16a#]	.
-16a#	.
+16a#LL]	.
+16a#J	.
 8a#	.
-16a#	.
-8g#	.
+16a#k	.
+8g#J	.
 8f#	.
-16f#	.
+16f#LK	.
 8f#	.
-8f#[	.
-8f#_	G#m7
+[8f#	.
+8f#J_	G# minor-seventh
 =6	=6
 4f#]	.
 3...r	.
-16c#	.
-16a#[	.
+16c#LL	.
+[16a#JJ	.
 =7	=7
-16a#]	D#m7
-16a#	.
+16a#LL]	D# minor-seventh
+16a#J	.
 8a#	.
-16a#	.
+16a#k	.
+8g#J	.
 8g#	.
+16g#LK	.
 8g#	.
-16g#	.
-8g#	.
-8g#[	.
-8g#_	C#
+[8g#	.
+8g#J_	C# major
 =8	=8
 2g#]	.
-8.r	G#m7
-16r	A#m7
-8c#	.
-8d#	B
+8.r	G# minor-seventh
+16r	A# minor-seventh
+8c#L	.
+8d#J	B major
 =9	=9
-4f#	B
-8.f#	.
-16f#	.
-8f#	.
+4f#	B major
+8.f#L	.
+16f#Jk	.
+8f#L	.
 8d#	.
 8c#	.
-8d#	G#m7
+8d#J	G# minor-seventh
 =10	=10
 2f#	.
 4r	.
-8c#	E#m7b5/G#
-8d#	.
+8c#L	E# half-diminished/G#
+8d#J	.
 =11	=11
-4f#	D#m7
+4f#	D# minor-seventh
 4f#	.
-8f#	.
+8f#L	.
 8d#	.
 8c#	.
-8d#	C#
+8d#J	C# major
 =12	=12
 2g#	.
-8r	G#m7
-16c#[	.
-16c#]	A#m7
+8r	G# minor-seventh
+[16c#LL	.
+16c#J]	A# minor-seventh
 8c#	.
-8d#	B
+8d#J	B major
 =13	=13
 4f#	.
 4f#	.
-8f#	.
+8f#L	.
 8d#	.
-8c#	Bmaj7
-8d#	G#m7
+8c#	B major-seventh
+8d#J	G# minor-seventh
 =14	=14
 2f#	.
 4r	.
-8.f#	E#m7b5/G#
-16g#[	.
+8.f#L	E# half-diminished/G#
+[16g#Jk	.
 =15	=15
-16g#]	D#m7
-16a#	.
+16g#LL]	D# minor-seventh
+16a#J	.
 8a#	.
-16a#	.
+16a#k	.
+8g#J	.
 8g#	.
-8g#	.
-16g#	.
-8g#	D#7sus4
-8g#[	.
-8g#_	C#
+16g#LK	.
+8g#	D# dominant-seventh-suspended-fourth
+[8g#	.
+8g#J_	C# major
 =16	=16
-8g#]	.
-8a#	.
+8g#L]	.
+8a#J	.
 4r	.
-8.r	G#m7
-8.r	A#m7
-8r	Bmaj7
+8.r	G# minor-seventh
+8.r	A# minor-seventh
+8r	B major-seventh
 ==	==
 *-	*-

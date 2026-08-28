@@ -16,60 +16,60 @@
 *B-:	*
 *M4/4	*
 =1	=1
-2.r	B-add(2,4,7)
-8f	.
-8g	.
+2.r	B- other-2,4,7
+8fL	.
+8gJ	.
 =2	=2
-2.b-	B-
-8g	.
-16f	.
-16g[	.
+2.b-	B- major
+8gL	.
+16fL	.
+[16gJJ	.
 =3	=3
 8g]	.
 4.b-	.
 2r	.
 =4	=4
-3...r	Cm/E-
+3...r	C minor/E-
 16r	.
+16fLL	.
 16f	.
-16f	.
-16g	.
-8g[	.
+16gJ	.
+[8gJ	.
 =5	=5
-8g]	.
-8d	.
+8gL]	.
+8dJ	.
 2.r	.
 =6	=6
-4.r	E-/B-
+4.r	E- major/B-
 4.d	.
-8c	.
-16B-	.
-16d[	.
+8cL	.
+16B-L	.
+[16dJJ	.
 =7	=7
-16d]	.
-16c	.
+16dLL]	.
+16cJJ	.
 4.B-	.
 2r	.
 =8	=8
-6...r	Gm
-8B-	.
-16G	.
-16B-	.
+6...r	G minor
+8B-L	.
+16GJk	.
+16B-LK	.
 8G	.
 8c	.
-16B-	.
-8B-	.
+16B-k	.
+8B-J	.
 =9	=9
-4B-	Gm
+4B-	G minor
 4.r	.
-8d	.
-16f	.
+8dL	.
+16fk	.
 8g	.
-16d[	.
+[16dJk	.
 =10	=10
-2d]	B-/F
-16d	.
-16d	.
+2d]	B- major/F
+16dLL	.
+16dJJ	.
 4.B-	.
 =11	=11
 4.r	.
@@ -77,86 +77,86 @@
 4g	.
 4d	.
 =12	=12
-8d	E-maj7
-16c	.
+8dL	E- major-seventh
+16cJk	.
 6...B-	.
 8r	.
-8B-	.
+8B-L	.
 8c	.
-8d	.
+8dJ	.
 =13	=13
-4.r	Dsus4
+4.r	D suspended-fourth
 8f	.
-8c	Dm
-16c	.
+8cL	D minor
+16ck	.
 8c	.
-16B-	.
-8B-[	.
+16B-k	.
+[8B-J	.
 =14	=14
-4B-]	Gm
+4B-]	G minor
 4r	.
-4r	Gm/D
+4r	G minor/D
 4d	.
 =15	=15
-16c	C7
-16B-	.
+16cLL	C dominant
+16B-JJ	.
 4.B-	.
 2r	.
 =16	=16
-2.r	B-
-8f	.
-8g	.
+2.r	B- major
+8fL	.
+8gJ	.
 =17	=17
-2.b-	B-
-8g	.
-16f	.
-16g[	.
+2.b-	B- major
+8gL	.
+16fL	.
+[16gJJ	.
 =18	=18
 8g]	.
 4.b-	.
 2r	.
 =19	=19
-4..r	Cm/E-
+4..r	C minor/E-
 16d	.
-8d	.
+8dL	.
 8f	.
 8.g	.
-16d	.
+16dJk	.
 =20	=20
 8d	.
 4c	.
 4.B-	.
 4r	.
 =21	=21
-4..r	E-/B-
+4..r	E- major/B-
 16B-	.
-8d	.
-16c	.
+8dL	.
+16ck	.
 8B-	.
 8c	.
-16d[	.
+[16dJk	.
 =22	=22
-16d]	.
-16c	.
+16dLL]	.
+16cJJ	.
 4.B-	.
 2r	.
 =23	=23
-4.r	Gm
-16B-	.
-16G	.
-8c	.
-16B-	.
+4.r	G minor
+16B-LL	.
+16GJJ	.
+8cL	.
+16B-Jk	.
 6...B-	.
 =24	=24
 3...r	.
-8d	.
-16f	.
+8dL	.
+16fk	.
 8g	.
-16d	.
+16dJk	.
 =25	=25
-2d	B-/F
-16d	.
-16c	.
+2d	B- major/F
+16dLL	.
+16cJJ	.
 4.B-	.
 =26	=26
 4.r	.
@@ -164,34 +164,34 @@
 4g	.
 4d	.
 =27	=27
-8d	E-
-16c	.
+8dL	E- major
+16cJk	.
 6...c	.
 8r	.
-8B-	.
+8B-L	.
 8c	.
-8d[	.
+[8dJ	.
 =28	=28
-4d]	Dsus4
+4d]	D suspended-fourth
 8r	.
 8B-	.
-8d	Dm
-16c	.
+8dL	D minor
+16ck	.
 8c	.
-16B-	.
-8G[	.
+16B-k	.
+[8GJ	.
 =29	=29
-4G]	Gm
+4G]	G minor
 2.r	.
 =30	=30
-4r	F7
+4r	F dominant
 2b-	.
-8g	.
-16f	.
-16g[	.
+8gL	.
+16fL	.
+[16gJJ	.
 =31	=31
-16g]	B-
-8.f	.
+16gLK]	B- major
+8.fJ	.
 2.r	.
 =32	=32
 1r	.

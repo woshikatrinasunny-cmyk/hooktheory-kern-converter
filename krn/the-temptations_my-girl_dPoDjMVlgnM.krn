@@ -16,22 +16,22 @@
 *C:	*
 *M4/4	*
 =1	=1
-2g	C
-2a	Dm
+2g	C major
+2a	D minor
 =2	=2
-2cc	F
-2dd	G
+2cc	F major
+2dd	G major
 =3	=3
-4g	C
+4g	C major
 4g	.
-4a	Dm
+4a	D minor
 4a	.
 =4	=4
-4cc	F
+4cc	F major
 4cc	.
-2dd	G
+2dd	G major
 =5	=5
-8cc	Cmaj7
+8cc	C major-seventh
 6...g	.
 16r	.
 8ee	.
@@ -41,24 +41,24 @@
 8gg	.
 4ee	.
 8r	.
-8g	.
-8a	.
-4cc[	.
+8gL	.
+8aJ	.
+[4cc	.
 =7	=7
-8cc]	Dm7
+8cc]	D minor-seventh
 6...dd	.
 8cc	.
 16a	.
 4cc	.
 8r	.
 =8	=8
-8ee	G7
-8dd[	.
-16dd]	.
+8eeL	G dominant
+[8dd	.
+16ddJk]	.
 8.r	.
-8r	Dm7
-8r	Dm7
-8r	G7
-8r	G7
+8r	D minor-seventh
+8r	D minor-seventh
+8r	G dominant
+8r	G dominant
 ==	==
 *-	*-

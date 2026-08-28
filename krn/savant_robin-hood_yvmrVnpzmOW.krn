@@ -16,49 +16,49 @@
 *a:	*
 *M4/4	*
 =1	=1
-8.e	Am
-8.g#	E/B
-8.a	Am/C
-8.b	Bdim/D
-8.cc	Am/E
+8.eL	A minor
+8.g#J	E major/B
+8.a	A minor/C
+8.bL	B diminished/D
+8.ccJ	A minor/E
 16r	.
 =2	=2
-8.dd	Esus4
-8b	G#dim
+8.ddL	E suspended-fourth
+8bJ	G# diminished
 16r	.
-8cc	Am
+8cc	A minor
 16r	.
-8a	Am/E
+8a	A minor/E
 16r	.
-8cc	Am
-8dd	.
+8ccL	A minor
+8ddJ	.
 =3	=3
-8b	.
-8b	Esus4
-8cc	Am/E
-8dd	Esus4
-8ee	E
-8b	Fmaj7/E
-8cc	E
-8dd	Esus4
+8bL	.
+8b	E suspended-fourth
+8cc	A minor/E
+8ddJ	E suspended-fourth
+8eeL	E major
+8b	F major-seventh/E
+8cc	E major
+8ddJ	E suspended-fourth
 =4	=4
-16ee	E
+16ee	E major
 16r	.
 4.bb	.
-16ee	E7
+16ee	E dominant
 16r	.
 4.bb	.
 =5	=5
-8ddd	E7
-8ccc	Bdim
-8bb	Bdim/D
-8gg#	E7/B
-2aa[	Am
+8dddL	E dominant
+8ccc	B diminished
+8bb	B diminished/D
+8gg#J	E dominant/B
+[2aa	A minor
 =6	=6
-2aa]	D
-2aa#	A#
+2aa]	D major
+2aa#	A# major
 =7	=7
-2ccc	Eadd(1,7)
-2ddd	Dm
+2ccc	E other-1,7
+2ddd	D minor
 ==	==
 *-	*-

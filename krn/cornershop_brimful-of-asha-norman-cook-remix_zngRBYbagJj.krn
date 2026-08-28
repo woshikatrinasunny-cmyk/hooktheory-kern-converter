@@ -17,85 +17,85 @@
 *M4/4	*
 =1	=1
 8r	.
-4r	F
-4r	E-
+4r	F major
+4r	E- major
 8r	.
-8r	E-
+8r	E- major
 8cc	.
 =2	=2
-8cc[	B-
-16cc]	B-
-8.b-[	.
-8b-]	B-
-8r	B-
-4r	B-
-8b-	B-
+[8ccL	B- major
+16cck]	B- major
+[8.b-	.
+8b-J]	B- major
+8r	B- major
+4r	B- major
+8b-	B- major
 =3	=3
+8ccL	.
+8cc	F major
 8cc	.
-8cc	F
-8cc	.
-8b-	E-
+8b-J	E- major
 8r	.
-8b-	.
-8cc	E-
-8b-	.
+8b-L	.
+8cc	E- major
+8b-J	.
 =4	=4
-8cc	B-
-8b-	B-
-8b-	.
-8r	B-
-8r	B-
-4r	B-
-8r	B-
+8ccL	B- major
+8b-	B- major
+8b-J	.
+8r	B- major
+8r	B- major
+4r	B- major
+8r	B- major
 =5	=5
 8r	.
-8dd	F
+8ddL	F major
 8dd	.
-8cc	E-
+8ccJ	E- major
 8cc	.
 8r	.
-4r	E-
+4r	E- major
 =6	=6
-8r	B-
-8r	B-
-8cc	.
-16cc	B-
-16cc[	.
-8cc]	B-
-8b-	B-
+8r	B- major
+8r	B- major
+8ccL	.
+16ccL	B- major
+[16ccJJ	.
+8ccL]	B- major
+8b-	B- major
 8b-	.
-8b-	B-
+8b-J	B- major
 =7	=7
 8r	.
-8cc	F
+8ccL	F major
 8cc	.
-8b-	E-
+8b-J	E- major
 8r	.
 16r	.
-16cc[	.
-16cc]	E-
-16cc	.
-8cc	.
+[16ccLL	.
+16cc]	E- major
+16ccJ	.
+8ccJ	.
 =8	=8
-16r	E-
+16r	E- major
 8b-	.
 16r	.
-8cc	.
-8cc	.
-16cc	F
+8ccL	.
+8ccJ	.
+16cc	F major
 16r	.
-8b-	.
+8b-L	.
 8g	.
-8g	.
+8gJ	.
 =9	=9
-8b-	E-
-8b-	E-
-8g	E-
-8b-	E-
-8r	E-
-8r	E-
-8r	E-
-8r	E-
+8b-L	E- major
+8b-	E- major
+8g	E- major
+8b-J	E- major
+8r	E- major
+8r	E- major
+8r	E- major
+8r	E- major
 =10	=10
 1r	.
 =11	=11

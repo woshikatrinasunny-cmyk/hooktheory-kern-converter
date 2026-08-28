@@ -15,75 +15,75 @@
 *g#:	*
 *M3/4	*
 =1	=1
-4ff#[	D#sus4
-16ff#_	D#sus4
-16ff#]	E
-8ee	D#7/C#
-8ff#	.
-8gg#	B
+[4ff#	D# suspended-fourth
+16ff#LL_	D# suspended-fourth
+16ff#J]	E major
+8eeJ	D# dominant/C#
+8ff#L	.
+8gg#J	B major
 =2	=2
-8cc#	C#m
-4dd#[	D#sus4
-16dd#_	D#sus4
-16dd#_	E
-4dd#]	Emaj7
+8cc#	C# minor
+[4dd#	D# suspended-fourth
+16dd#LL_	D# suspended-fourth
+16dd#JJ_	E major
+4dd#]	E major-seventh
 =3	=3
-8r	Emaj7
-8r	Emaj7
-8r	Emaj7
-4dd#[	D#sus4
-16dd#_	D#sus4
-16dd#]	E
+8r	E major-seventh
+8r	E major-seventh
+8r	E major-seventh
+[4dd#	D# suspended-fourth
+16dd#LL_	D# suspended-fourth
+16dd#JJ]	E major
 =4	=4
-8cc#	D#7/C#
-8dd#	.
-8ee	B
-8cc#	C#m
-4cc#[	D#sus4
+8cc#L	D# dominant/C#
+8dd#J	.
+8eeL	B major
+8cc#J	C# minor
+[4cc#	D# suspended-fourth
 =5	=5
-16cc#_	D#sus4
-16cc#]	E
-4r	Emaj7
-8r	Emaj7
-8r	Emaj7
-8r	Emaj7
+16cc#LL_	D# suspended-fourth
+16cc#JJ]	E major
+4r	E major-seventh
+8r	E major-seventh
+8r	E major-seventh
+8r	E major-seventh
 =6	=6
-4ff#[	D#sus4
-16ff#_	D#sus4
-16ff#]	E
-8ee	D#7/C#
-8ff#	.
-8gg#	B
+[4ff#	D# suspended-fourth
+16ff#LL_	D# suspended-fourth
+16ff#J]	E major
+8eeJ	D# dominant/C#
+8ff#L	.
+8gg#J	B major
 =7	=7
-8cc#	C#m
-4dd#[	D#sus4
-16dd#_	D#sus4
-16dd#_	E
-4dd#]	Emaj7
+8cc#	C# minor
+[4dd#	D# suspended-fourth
+16dd#LL_	D# suspended-fourth
+16dd#JJ_	E major
+4dd#]	E major-seventh
 =8	=8
-16r	Emaj7
-16cc#[	.
-16cc#]	Emaj7
-16b[	.
-16b]	Emaj7
-16dd#[	.
-16dd#]	D#sus4
+16r	E major-seventh
+[16cc#LL	.
+16cc#]	E major-seventh
+[16bJJ	.
+16bLL]	E major-seventh
+[16dd#	.
+16dd#JJ]	D# suspended-fourth
 8ee	.
-16dd#[	.
-16dd#_	D#sus4
-16dd#]	E
+[16dd#LL	.
+16dd#_	D# suspended-fourth
+16dd#JJ]	E major
 =9	=9
-4dd#[	D#7/C#
-8dd#_	B
-16dd#]	C#m
+[4dd#	D# dominant/C#
+8dd#L_	B major
+16dd#Jk]	C# minor
 16r	.
-4r	D#sus4
+4r	D# suspended-fourth
 =10	=10
-16r	D#sus4
-16r	E
-4r	Emaj7
-8r	Emaj7
-8r	Emaj7
-8r	Emaj7
+16r	D# suspended-fourth
+16r	E major
+4r	E major-seventh
+8r	E major-seventh
+8r	E major-seventh
+8r	E major-seventh
 ==	==
 *-	*-

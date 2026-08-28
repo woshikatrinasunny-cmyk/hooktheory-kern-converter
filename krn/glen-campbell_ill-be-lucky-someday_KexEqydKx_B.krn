@@ -17,55 +17,55 @@
 *M4/4	*
 =1	=1
 2..r	.
-16C	.
-16C	.
+16CLL	.
+16CJJ	.
 =2	=2
-4..F	F
+4..F	F major
 16r	.
-4.r	Dm7
-16F	.
-16C	.
+4.r	D minor-seventh
+16FLL	.
+16CJJ	.
 =3	=3
-4..G	Gm7
+4..G	G minor-seventh
 16r	.
-4..r	G-add(3,4,7,10)
-16C[	.
+4..r	G- other-3,4,7,10
+[16C	.
 =4	=4
-16C]	Cm7
+16CLL]	C minor-seventh
 16C	.
-16E	.
-6...C[	.
-16C]	F7
+16EJJ	.
+[6...C	.
+16C]	F dominant
 4r	.
-8F	.
-16A	.
+8FL	.
+16AJk	.
 =5	=5
-16F	B-
+16F	B- major
 4..B-	.
-4.r	E-11
-16C	.
-16C	.
+4.r	E- dominant-11th
+16CLL	.
+16CJJ	.
 =6	=6
-8C	F
-4.A[	.
-16A]	Dm7
-16F	.
+8C	F major
+[4.A	.
+16ALL]	D minor-seventh
+16FJJ	.
 6...C	.
 16r	.
 =7	=7
-4.r	Gm7
+4.r	G minor-seventh
 8D	.
-8B-	G-add(3,4,7,10)
-16C	.
+8B-L	G- other-3,4,7,10
+16Ck	.
 8.E	.
-8G	.
+8GJ	.
 =8	=8
-16G	F
-4..F[	.
-16F]	Dm7
+16G	F major
+[4..F	.
+16F]	D minor-seventh
 4..r	.
 =9	=9
-2r	Gm7
-2r	G-add(3,4,7,10)
+2r	G minor-seventh
+2r	G- other-3,4,7,10
 ==	==
 *-	*-

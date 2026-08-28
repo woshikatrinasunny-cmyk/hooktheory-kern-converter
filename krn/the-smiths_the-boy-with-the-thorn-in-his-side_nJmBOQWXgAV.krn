@@ -16,45 +16,45 @@
 *G:	*
 *M4/4	*
 =1	=1
-4dd	D
-16cc	.
-8.b	.
-8.b	.
-16b[	.
-16b]	D/A
-8.dd	.
+4dd	D major
+16ccLK	.
+8.bJ	.
+8.bL	.
+[16bL	.
+16bJ]	D major/A
+8.ddJ	.
 =2	=2
-4dd	Am7
+4dd	A minor-seventh
 4..r	.
-16cc	.
-8.b	Am7/E
-16a	.
+16ccLK	.
+8.b	A minor-seventh/E
+16aJk	.
 =3	=3
-8.b	Cmaj7
-8.cc	.
-4b	D
+8.bL	C major-seventh
+8.ccJ	.
+4b	D major
 4b	.
 8a	.
 =4	=4
-8.g	G
-16a	.
+8.gL	G major
+16ak	.
 8.b	.
-16cc	.
-8dd[	.
-4.dd]	Am7
+16ccJk	.
+[8dd	.
+4.dd]	A minor-seventh
 =5	=5
-3...r	D
-4.b[	.
+3...r	D major
+[4.b	.
 =6	=6
-8b]	Am7
+8b]	A minor-seventh
 4.b	.
 4dd	.
-4r	Am7/E
+4r	A minor-seventh/E
 =7	=7
-4.r	Cmaj7
-4r	D
+4.r	C major-seventh
+4r	D major
+8bL	.
 8b	.
-8b	.
-8b	.
+8bJ	.
 ==	==
 *-	*-

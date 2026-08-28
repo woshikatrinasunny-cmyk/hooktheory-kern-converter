@@ -15,56 +15,56 @@
 *G:	*
 *M4/4	*
 =1	=1
-8bb	G
+8bb	G major
 4ddd	.
 8bb	.
-4ddd	G/D
+4ddd	G major/D
 4bb	.
 =2	=2
-8gg	D#
+8gg	D# major
 4aa#	.
 8ddd#	.
 4a#	.
 4g	.
 =3	=3
-8ff#	D
+8ff#L	D major
 8ee	.
 8ff#	.
+8ggJ	.
+8aaL	.
 8gg	.
-8aa	.
-8gg	.
-8ff#	D/A
-8aa	.
+8ff#	D major/A
+8aaJ	.
 =4	=4
-4gg	G
-4d	G/D
-2g	G
+4gg	G major
+4d	G major/D
+2g	G major
 =5	=5
 8bb	.
 4ddd	.
 8bb	.
-4ddd	G/D
+4ddd	G major/D
 4bb	.
 =6	=6
-8gg	D#
+8gg	D# major
 4aa#	.
 8ddd#	.
 4dd#	.
 4a#	.
 =7	=7
-8ff#	D
+8ff#L	D major
 8ee	.
 8ff#	.
+8ggJ	.
+8aaL	.
 8gg	.
-8aa	.
-8gg	.
-8ff#	D/A
-8aa	.
+8ff#	D major/A
+8aaJ	.
 =8	=8
 4gg	.
-4d	G/D
-4g	G
-8dd	.
-8dd#	.
+4d	G major/D
+4g	G major
+8ddL	.
+8dd#J	.
 ==	==
 *-	*-

@@ -16,91 +16,91 @@
 *b-:	*
 *M4/4	*
 =1	=1
-16ff	G-maj7
-16gg-	.
+16ffLL	G- major-seventh
+16gg-JJ	.
 2ff	.
-8bb-	.
+8bb-L	.
 8gg-	.
-8ff	.
+8ffJ	.
 =2	=2
-16ee-	E-m7/G-
-16ff	.
-4.ee-[	.
-8ee-]	G-maj7/B-
+16ee-LL	E- minor-seventh/G-
+16ffJJ	.
+[4.ee-	.
+8ee-L]	G- major-seventh/B-
 8b-	.
-8cc	F7/A
-8dd-	.
+8cc	F dominant/A
+8dd-J	.
 =3	=3
-8.cc	Fadd(1,3,7)/A-
-8.a-	.
+8.ccL	F other-1,3,7/A-
+8.a-J	.
 2f	.
-16e-	.
-16f[	.
+16e-LL	.
+[16fJJ	.
 =4	=4
-2f]	A-7
-4r	Fadd(1,3,7)/A-
-4r	F7/A
+2f]	A- dominant
+4r	F other-1,3,7/A-
+4r	F dominant/A
 =5	=5
-16ff	G-maj7
-16gg-	.
+16ffLL	G- major-seventh
+16gg-JJ	.
 2.ff	.
-16gg-	.
-16aa-	.
+16gg-LL	.
+16aa-JJ	.
 =6	=6
-8.bb-	E-m7/G-
+8.bb-L	E- minor-seventh/G-
 8.aa-	.
-8gg-	.
-8.ff	G-maj7/B-
-16ee-[	.
-8ee-]	F7/A
-8gg-	.
+8gg-J	.
+8.ffL	G- major-seventh/B-
+[16ee-k	.
+8ee-]	F dominant/A
+8gg-J	.
 =7	=7
-16ff	Fadd(1,3,7)/A-
+16ffLL	F other-1,3,7/A-
 16gg-	.
 16ff	.
-16ee-	.
+16ee-JJ	.
 3...ff	.
 8aa-	.
 =8	=8
-4ff	A-7
-4bb-	A-7/G-
-4ccc	Fadd(1,3,7)
-16f	F7
+4ff	A- dominant
+4bb-	A- dominant/G-
+4ccc	F other-1,3,7
+16fLL	F dominant
 16an	.
 16cc	.
-16ee-	.
+16ee-JJ	.
 =9	=9
-6...ff	G-maj7
-16f	.
+6...ff	G- major-seventh
+16fLL	.
 16g-	.
-16dd-	.
-4cc	F7
-4ee-	F7/A
+16dd-JJ	.
+4cc	F dominant
+4ee-	F dominant/A
 =10	=10
-8ff	B-m7
-16dd-	.
-8ee-	D-add(2,4,7)/A-
-16a-	.
-4.b-	E-7/G
+8ffL	B- minor-seventh
+16dd-k	.
+8ee-	D- other-2,4,7/A-
+16a-Jk	.
+4.b-	E- dominant/G
 8r	.
-16b-	.
-16cc	.
+16b-LL	.
+16ccJJ	.
 =11	=11
-16dd-	E-m7/G-
+16dd-LL	E- minor-seventh/G-
 16dd-	.
-16dd-	.
+16dd-J	.
 8ee-	.
-16ee-	.
-8dd-	.
-8cc	Fm7
+16ee-k	.
+8dd-J	.
+8ccL	F minor-seventh
 8a-	.
-8f	Fm7/A-
-8cc	.
+8f	F minor-seventh/A-
+8ccJ	.
 =12	=12
-3...b-	B-7
-16bb-	B-7
-16bb-	B-7
-8bb-	B-7
+3...b-	B- dominant
+16bb-LL	B- dominant
+16bb-J	B- dominant
+8bb-J	B- dominant
 8r	.
 ==	==
 *-	*-

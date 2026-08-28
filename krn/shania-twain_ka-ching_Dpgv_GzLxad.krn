@@ -16,7 +16,7 @@
 *b-:	*
 *M4/4	*
 =1	=1
-2bb-	G-
+2bb-	G- major
 4.r	.
 8bb-	.
 =2	=2
@@ -25,7 +25,7 @@
 4bb-	.
 4ddd-	.
 =3	=3
-2ff	D-
+2ff	D- major
 4.r	.
 8ff	.
 =4	=4
@@ -34,30 +34,30 @@
 4ff	.
 4aa-	.
 =5	=5
-2gg-	E-m
+2gg-	E- minor
 4.r	.
 8gg-	.
 =6	=6
 4gg-	.
 4ff	.
-8ee-	.
-8ee-	.
+8ee-L	.
+8ee-J	.
 4gg-	.
 =7	=7
-2..ff	F
+2..ff	F major
 8r	.
 =8	=8
-8r	F7
-8gg-	.
+8r	F dominant
+8gg-L	.
 8ff	.
-8gg-	.
+8gg-J	.
 4ff	.
-16gg-	.
+16gg-LL	.
 16ggn	.
 16aa-	.
-16aan	.
+16aanJJ	.
 =9	=9
-2bb-	G-
+2bb-	G- major
 4.r	.
 8bb-	.
 =10	=10
@@ -66,7 +66,7 @@
 4bb-	.
 4ddd-	.
 =11	=11
-2ff	D-
+2ff	D- major
 4.r	.
 8ff	.
 =12	=12
@@ -75,7 +75,7 @@
 4ff	.
 4aa-	.
 =13	=13
-2gg-	E-m
+2gg-	E- minor
 2r	.
 =14	=14
 4gg-	.
@@ -83,17 +83,17 @@
 4ee-	.
 4dd-	.
 =15	=15
-2cc	F
+2cc	F major
 4.r	.
 8cc	.
 =16	=16
 4ff	.
 4ee-	.
-8dd-	.
-8dd-	.
+8dd-L	.
+8dd-J	.
 4cc	.
 =17	=17
-2b-	B-m
+2b-	B- minor
 2r	.
 ==	==
 *-	*-

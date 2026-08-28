@@ -16,49 +16,49 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	G
+8r	G major
 4a	.
-8d	A
-8d	.
-8d	.
+8d	A major
+8dL	.
+8dJ	.
 4d	.
 =2	=2
-4c#	Dadd(2,4,7)
-8d[	.
-8d]	Dadd(2,4,7)
+4c#	D other-2,4,7
+[8dL	.
+8dJ]	D other-2,4,7
 4d	.
 4e	.
 =3	=3
-8r	G
+8r	G major
 4a	.
-8d	A
+8d	A major
+8dL	.
 8d	.
-8d	.
-8d	.
+8dJ	.
 8r	.
 =4	=4
-8c#	Dadd(2,4,7)
-4c#	Dadd(2,4,7)
-4c#	Dadd(2,4,7)
-4.B	Dadd(2,4,7)
+8c#	D other-2,4,7
+4c#	D other-2,4,7
+4c#	D other-2,4,7
+4.B	D other-2,4,7
 =5	=5
-8r	G
+8r	G major
 4a	.
-8d	A
-8d	.
-8d	.
+8d	A major
+8dL	.
+8dJ	.
 4d	.
 =6	=6
-4c#	Dadd(2,4,7)
-8d[	.
-8d]	Dadd(2,4,7)
+4c#	D other-2,4,7
+[8dL	.
+8dJ]	D other-2,4,7
 4d	.
 4e	.
 =7	=7
-4.r	G
-4.r	A
-4r	G
+4.r	G major
+4.r	A major
+4r	G major
 =8	=8
-1r	D
+1r	D major
 ==	==
 *-	*-

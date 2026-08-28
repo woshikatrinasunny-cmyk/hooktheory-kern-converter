@@ -16,166 +16,166 @@
 *c:	*
 *M4/4	*
 =1	=1
-4cc	C
+4cc	C major
 8r	.
 8b-	.
 4cc	.
 8r	.
 8b-	.
 =2	=2
-4cc	D-
+4cc	D- major
 4dd-	.
 4ee-	.
-8dd-	.
-16b-	.
-16dd-	.
+8dd-L	.
+16b-L	.
+16dd-JJ	.
 =3	=3
-1cc	C
+1cc	C major
 =4	=4
-1dd-	D-7/B
+1dd-	D- dominant/B
 =5	=5
-4cc	C
+4cc	C major
 8r	.
 8b-	.
 4cc	.
 8r	.
 8b-	.
 =6	=6
-4cc	D-
+4cc	D- major
 4dd-	.
 4ee-	.
-8ee-	.
-16ee-	.
-16ff	.
+8ee-L	.
+16ee-L	.
+16ffJJ	.
 =7	=7
-1cc	C
+1cc	C major
 =8	=8
-1dd-	D-7/B
+1dd-	D- dominant/B
 =9	=9
 *k[f#c#g#d#a#]	*
 *d#:	*
-4dd#	D#
+4dd#	D# major
 8r	.
 8cc#	.
 4dd#	.
 8r	.
 8cc#	.
 =10	=10
-4dd#	C#m/E
+4dd#	C# minor/E
 4ee	.
 4ff#	.
-8ee	.
-16cc#	.
-16ee	.
+8eeL	.
+16cc#L	.
+16eeJJ	.
 =11	=11
-2dd#	D#
+2dd#	D# major
 2gn	.
 =12	=12
-2g#	C#m/E
+2g#	C# minor/E
 2g#	.
 =13	=13
-4dd#	D#
+4dd#	D# major
 8r	.
 8cc#	.
 4dd#	.
 8r	.
 8cc#	.
 =14	=14
-4dd#	C#m/E
+4dd#	C# minor/E
 4ee	.
 4ff#	.
-8ff#	.
-16ff#	.
-16gg#	.
+8ff#L	.
+16ff#L	.
+16gg#JJ	.
 =15	=15
-2dd#	D#
+2dd#	D# major
 2gn	.
 =16	=16
-2g#	C#m/E
+2g#	C# minor/E
 2g#	.
 =17	=17
 *k[f#c#]	*
 *f#:	*
-4f#	F#
+4f#	F# major
 8r	.
 8e	.
 4f#	.
 8r	.
 8e	.
 =18	=18
-4f#	Em/G
+4f#	E minor/G
 4g	.
 4a	.
-8g	.
-16e	.
-16g	.
+8gL	.
+16eL	.
+16gJJ	.
 =19	=19
-2f#	F#
+2f#	F# major
 2a#	.
 =20	=20
-2b	Em/G
+2b	E minor/G
 2b	.
 =21	=21
-4f#	F#
+4f#	F# major
 8r	.
 8e	.
 4f#	.
 8r	.
 8e	.
 =22	=22
-4f#	Em/G
+4f#	E minor/G
 4g	.
 4a	.
-8a	.
-16a	.
-16b	.
+8aL	.
+16aL	.
+16bJJ	.
 =23	=23
-2f#	F#
+2f#	F# major
 2a#	.
 =24	=24
-2b	Em/G
+2b	E minor/G
 2b	.
 =25	=25
 *k[b-]	*
 *a:	*
-4a	A
+4a	A major
 8r	.
 8g	.
 4a	.
 8r	.
 8g	.
 =26	=26
-4a	Gm/B-
+4a	G minor/B-
 4b-	.
 4cc	.
-8b-	.
-16g	.
-16b-	.
+8b-L	.
+16gL	.
+16b-JJ	.
 =27	=27
-2a	A
+2a	A major
 2dd-	.
 =28	=28
-2dd	Gm/B-
+2dd	G minor/B-
 2dd	.
 =29	=29
-4a	A
+4a	A major
 8r	.
 8g	.
 4a	.
 8r	.
 8g	.
 =30	=30
-4a	Gm/B-
+4a	G minor/B-
 4b-	.
 4cc	.
-8cc	.
-16cc	.
-16dd	.
+8ccL	.
+16ccL	.
+16ddJJ	.
 =31	=31
-2a	A
+2a	A major
 2dd-	.
 =32	=32
-2dd	Gm/B-
+2dd	G minor/B-
 2dd	.
 ==	==
 *-	*-

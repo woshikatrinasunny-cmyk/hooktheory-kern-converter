@@ -16,46 +16,46 @@
 *D-:	*
 *M4/4	*
 =1	=1
-16bn	D-
-8.dd-	.
+16bnLK	D- major
+8.dd-J	.
 4dd-	.
 4dd-	.
-16bn	.
-8.dd-	.
+16bnLK	.
+8.dd-J	.
 =2	=2
-4.bn	A-m7
+4.bn	A- minor-seventh
 4a-	.
 4.r	.
 =3	=3
-16bn	D-
-8.dd-	.
+16bnLK	D- major
+8.dd-J	.
 4dd-	.
 4dd-	.
-16bn	.
-8.dd-	.
+16bnLK	.
+8.dd-J	.
 =4	=4
-4.bn	A-m7
+4.bn	A- minor-seventh
 4a-	.
 4.r	.
 =5	=5
-4dd-	E-m7/G-
+4dd-	E- minor-seventh/G-
 4dd-	.
 2dd-	.
 =6	=6
-4.bn	D-m7/E
+4.bn	D- minor-seventh/E
 3...r	.
 =7	=7
-4dd-	E-m7/G-
+4dd-	E- minor-seventh/G-
 4dd-	.
 4dd-	.
 4dd-	.
 =8	=8
-4.bn	D-m7/E
+4.bn	D- minor-seventh/E
 4a-	.
 8r	.
 4a-	.
 =9	=9
-4dd-	B11
+4dd-	B dominant-11th
 4dd-	.
 4dd-	.
 4dd-	.
@@ -65,11 +65,11 @@
 4b-	.
 4r	.
 =11	=11
-4dd-	E
+4dd-	E major
 4r	.
 4dd-	.
 4r	.
 =12	=12
-1r	G-
+1r	G- major
 ==	==
 *-	*-

@@ -18,159 +18,159 @@
 =1	=1
 4.r	.
 8f	.
-8b-	.
+8b-L	.
 8cc	.
 8dd	.
-8ee-	.
+8ee-J	.
 =2	=2
-8ff	E-
+8ffL	E- major
 8ff	.
 8ff	.
-8ff	.
+8ffJ	.
 4ff	.
-8b-	.
-8dd	.
+8b-L	.
+8ddJ	.
 =3	=3
-8cc	F
+8ccL	F major
 8cc	.
 8cc	.
-8cc	.
+8ccJ	.
 4.cc	.
-16dd	.
-16cc	.
+16ddLL	.
+16ccJJ	.
 =4	=4
-8b-	Gm
+8b-L	G minor
 8b-	.
 8b-	.
-8b-	.
+8b-J	.
 4b-	.
-8aa	.
-8bb-	.
+8aaL	.
+8bb-J	.
 =5	=5
-4.aa	Dm
+4.aa	D minor
 8ff	.
 4.dd	.
-16dd	.
-16ee-	.
+16ddLL	.
+16ee-JJ	.
 =6	=6
-8ff	E-
+8ffL	E- major
 8ff	.
 8ff	.
-8ff	.
+8ffJ	.
 4ff	.
-8b-	.
-8dd	.
+8b-L	.
+8ddJ	.
 =7	=7
-8cc	F
+8ccL	F major
 8cc	.
 8cc	.
-8cc	.
+8ccJ	.
 4cc	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 =8	=8
-8dd	Gm
+8ddL	G minor
 8dd	.
 8dd	.
-8dd	.
+8ddJ	.
 4dd	.
-8ee-	.
-8dd	.
+8ee-L	.
+8ddJ	.
 =9	=9
-4cc[	F/A
-8cc]	.
-8f	.
-8b-	.
+[4cc	F major/A
+8ccL]	.
+8fJ	.
+8b-L	.
 8cc	.
 8dd	.
-8ee-	.
+8ee-J	.
 =10	=10
-8ff	E-
+8ffL	E- major
 8ff	.
 8ff	.
-8ff	.
+8ffJ	.
 4ff	.
-8b-	.
-8dd	.
+8b-L	.
+8ddJ	.
 =11	=11
-8cc	F
+8ccL	F major
 8cc	.
 8cc	.
-8cc	.
+8ccJ	.
 4.cc	.
-16dd	.
-16cc	.
+16ddLL	.
+16ccJJ	.
 =12	=12
-8b-	Gm7
+8b-L	G minor-seventh
 8b-	.
 8b-	.
-8b-	.
+8b-J	.
 4b-	.
-8aa	.
-8bb-	.
+8aaL	.
+8bb-J	.
 =13	=13
-4.aa	Dm7
+4.aa	D minor-seventh
 8ff	.
 4.dd	.
-16dd	.
-16ee-	.
+16ddLL	.
+16ee-JJ	.
 =14	=14
-8ff	E-maj7
+8ffL	E- major-seventh
 8ff	.
 8ff	.
-8ff	.
+8ffJ	.
 4ff	.
-8b-	.
-8dd	.
+8b-L	.
+8ddJ	.
 =15	=15
-8cc	F
+8ccL	F major
 8cc	.
 8cc	.
-8cc	.
+8ccJ	.
 4cc	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 =16	=16
-4.b-	Gm
+4.b-	G minor
 8f	.
-8dd	Dm/F
+8ddL	D minor/F
 8ee-	.
-8.cc	D/G-
-16b-	.
+8.cc	D major/G-
+16b-Jk	.
 =17	=17
-4.b-	Gm
+4.b-	G minor
 8f	.
-8dd	Dm/F
+8ddL	D minor/F
 8ee-	.
 8cc	.
-8b-	.
+8b-J	.
 =18	=18
-4.b-	Cm7
+4.b-	C minor-seventh
 8f	.
-8dd	Dm/F
+8ddL	D minor/F
 8ee-	.
-8.cc	D/G-
-16b-	.
+8.cc	D major/G-
+16b-Jk	.
 =19	=19
-4.b-	Gm
+4.b-	G minor
 8f	.
-8dd	Dm/F
+8ddL	D minor/F
 8ee-	.
 8ff	.
-8aa	.
+8aaJ	.
 =20	=20
-4.ff	E-
+4.ff	E- major
 8aa	.
 4.ff	.
 8aa	.
 =21	=21
-8ff	F
+8ff	F major
 4r	.
 8aa	.
-8ff	.
-16dd	.
-16cc	.
+8ffL	.
+16ddL	.
+16ccJ	.
 8b-	.
-8cc	.
+8ccJ	.
 ==	==
 *-	*-

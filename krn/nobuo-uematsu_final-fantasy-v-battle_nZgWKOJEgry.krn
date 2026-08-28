@@ -15,8 +15,8 @@
 *a:	*
 *M4/4	*
 =1	=1
-8a	F
-8a	.
+8aL	F major
+8aJ	.
 8r	.
 8cc	.
 8r	.
@@ -24,13 +24,13 @@
 8r	.
 8cc	.
 =2	=2
-4.b	Em7
+4.b	E minor-seventh
 8cc	.
 4dd	.
 4b	.
 =3	=3
-8a	Dm7
-8a	.
+8aL	D minor-seventh
+8aJ	.
 8r	.
 8cc	.
 8r	.
@@ -38,41 +38,41 @@
 8r	.
 8cc	.
 =4	=4
-4b	G
+4b	G major
 4dd	.
-2cc#	A7
+2cc#	A dominant
 =5	=5
-2.a	Dm
-16a	.
-16b	.
-8cc	.
+2.a	D minor
+16aLL	.
+16bJ	.
+8ccJ	.
 =6	=6
-4b	Em
+4b	E minor
 4a	.
 4g	.
 4b	.
 =7	=7
-2.cc	F
-16cc	.
-16dd	.
-8ee	.
+2.cc	F major
+16ccLL	.
+16ddJ	.
+8eeJ	.
 =8	=8
-4dd	G
+4dd	G major
 4cc	.
 4b	.
 4dd	.
 =9	=9
-3...ee	Fmaj7
+3...ee	F major-seventh
+8ccL	.
 8cc	.
-8cc	.
-8dd	.
+8ddJ	.
 =10	=10
-2ee	F#m7b5/C
+2ee	F# half-diminished/C
 4gg	.
 4ff	.
 =11	=11
-1ee[	Esus4
+[1ee	E suspended-fourth
 =12	=12
-1ee]	E
+1ee]	E major
 ==	==
 *-	*-

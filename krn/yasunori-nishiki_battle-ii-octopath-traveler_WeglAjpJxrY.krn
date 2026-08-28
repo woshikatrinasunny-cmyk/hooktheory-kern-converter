@@ -17,15 +17,15 @@
 *M4/4	*
 =1	=1
 8r	.
-8f	.
+8fL	.
 8e	.
-8d	.
-8c	.
+8dJ	.
+8cL	.
 8A	.
 8F	.
-8E	.
+8EJ	.
 =2	=2
-1D	Dm
+1D	D minor
 =3	=3
 1r	.
 =4	=4
@@ -35,57 +35,57 @@
 4f	.
 8e	.
 4A	.
-8e	.
+8eL	.
 8f	.
-8g	.
+8gJ	.
 =6	=6
-2.a	F
+2.a	F major
 4f	.
 =7	=7
 2..a	.
 8r	.
 =8	=8
-2.g	Cm
+2.g	C minor
 4a	.
 =9	=9
 4b-	.
-8a	.
-8g	.
+8aL	.
+8gJ	.
 8r	.
 4.a	.
 =10	=10
-2.f	Dm
+2.f	D minor
 4g	.
 =11	=11
-2e	C
+2e	C major
 2c	.
 =12	=12
-2.dd	Dm
+2.dd	D minor
 4ee	.
 =13	=13
 4ff	.
 8ee	.
 4a	.
-8ee	.
+8eeL	.
 8ff	.
-8ccc	.
+8cccJ	.
 =14	=14
-2.aa	F
+2.aa	F major
 4bb-	.
 =15	=15
 2..aa	.
 8r	.
 =16	=16
-3...ccc	Am
-8ccc	.
+3...ccc	A minor
+8cccL	.
 8bbn	.
-8aa	.
+8aaJ	.
 =17	=17
-2bbn	Em
+2bbn	E minor
 2gg	.
 =18	=18
-2..aa	D
-8dd[	.
+2..aa	D major
+[8dd	.
 =19	=19
 1dd]	.
 ==	==

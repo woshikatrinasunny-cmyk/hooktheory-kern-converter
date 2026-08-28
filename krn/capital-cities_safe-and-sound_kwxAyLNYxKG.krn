@@ -16,30 +16,30 @@
 *C:	*
 *M4/4	*
 =1	=1
-1r	Fsus2
+1r	F suspended-second
 =2	=2
-1r	C
+1r	C major
 =3	=3
-1r	Am7
+1r	A minor-seventh
 =4	=4
-1r	G
+1r	G major
 =5	=5
-4cc	Fsus2
+4cc	F suspended-second
 4cc	.
 8r	.
 4cc	.
-8cc[	.
+[8cc	.
 =6	=6
-8cc]	C
+8cc]	C major
 2..r	.
 =7	=7
-4cc	Am7
+4cc	A minor-seventh
 4cc	.
 8r	.
 4cc	.
-8cc[	.
+[8cc	.
 =8	=8
-8cc]	G
+8cc]	G major
 3...r	.
 4r	.
 ==	==

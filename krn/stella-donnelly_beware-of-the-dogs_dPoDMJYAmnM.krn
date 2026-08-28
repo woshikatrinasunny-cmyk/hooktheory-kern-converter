@@ -16,32 +16,32 @@
 *E:	*
 *M6/4	*
 =1	=1
-2B	E
-2c#	Aadd(4,6,7)
+2B	E major
+2c#	A other-4,6,7
 4.r	.
 8B	.
 =2	=2
-8g#	E
-8f#	.
-8e	.
-8B	.
-2c#	Aadd(4,6,7)
+8g#L	E major
+8f#J	.
+8eL	.
+8BJ	.
+2c#	A other-4,6,7
 4.r	.
 8B	.
 =3	=3
-8g#	G#m
-8f#	.
-8e	.
-8B	.
-3...c#	Aadd(4,6,7)
+8g#L	G# minor
+8f#J	.
+8eL	.
+8BJ	.
+3...c#	A other-4,6,7
 4r	.
 8B	.
 =4	=4
 *M4/4	*
-8g#	G#m
+8g#L	G# minor
 8f#	.
 8e	.
-8g#	.
-2d#	B13
+8g#J	.
+2d#	B dominant-13th
 ==	==
 *-	*-

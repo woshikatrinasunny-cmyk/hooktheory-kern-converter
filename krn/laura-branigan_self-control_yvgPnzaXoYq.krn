@@ -15,119 +15,119 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4f#	F#m
+4f#	F# minor
 3...r	.
 8f#	.
 =2	=2
-8f#	C#m
+8f#L	C# minor
 8e	.
 8e	.
-16f#	.
+16f#Jk	.
 8.a	.
-8g#	.
+8g#L	.
 8f#	.
-8e	.
+8eJ	.
 =3	=3
-4f#	F#m
+4f#	F# minor
 3...r	.
 8f#	.
 =4	=4
-8f#	E/B
+8f#L	E major/B
 8e	.
 8e	.
-16f#	.
+16f#Jk	.
 8.a	.
-8g#	.
+8g#L	.
 8e	.
-8f#	.
+8f#J	.
 =5	=5
-8B	E
+8B	E major
 2.r	.
 8c#	.
 =6	=6
-8B	Bm7
+8BL	B minor-seventh
 8A	.
 8F#	.
-16A	.
+16AJk	.
 8.B	.
-8A	.
-16F#	.
-8.A	.
+8AL	.
+16F#k	.
+8.AJ	.
 =7	=7
-8B	D
+8BL	D major
 8A	.
 8B	.
-16c#	.
+16c#Jk	.
 8.B	.
 8A	.
 8r	.
-16F#	.
-16A	.
+16F#LL	.
+16AJJ	.
 =8	=8
-8B	Asus2
+8BL	A suspended-second
 8A	.
-16B	.
-16c#	.
-8B[	.
-8B]	A
-8c#	.
+16BL	.
+16c#J	.
+[8BJ	.
+8BL]	A major
+8c#J	.
 4e	.
 =9	=9
-4f#	F#m
+4f#	F# minor
 3...r	.
 8f#	.
 =10	=10
-8f#	C#m
+8f#L	C# minor
 8e	.
 8e	.
-16f#	.
+16f#Jk	.
 8.a	.
-8g#	.
+8g#L	.
 8f#	.
-16e	.
-16f#[	.
+16eL	.
+[16f#JJ	.
 =11	=11
-4f#]	F#m
+4f#]	F# minor
 3...r	.
 8f#	.
 =12	=12
-8f#	E/B
+8f#L	E major/B
 8e	.
 8e	.
-8f#	.
-8a	.
+8f#J	.
+8aL	.
 8g#	.
 8e	.
-8f#	.
+8f#J	.
 =13	=13
-4B	E
+4B	E major
 3...r	.
 8c#	.
 =14	=14
-8B	Bm7
-16A	.
+8BL	B minor-seventh
+16Ak	.
 8.F#	.
+8AJ	.
+8BL	.
 8A	.
-8B	.
-8A	.
-16F#	.
-8.A	.
+16F#k	.
+8.AJ	.
 =15	=15
-8B	D
+8BL	D major
 8A	.
 8B	.
-16c#	.
+16c#Jk	.
 8.B	.
-8A	.
+8AL	.
 8F#	.
-8A	.
+8AJ	.
 =16	=16
-8B	Asus2
+8BL	A suspended-second
 8A	.
-16B	.
-16c#	.
-8B[	.
-8B]	A
+16BL	.
+16c#J	.
+[8BJ	.
+8B]	A major
 4.r	.
 ==	==
 *-	*-

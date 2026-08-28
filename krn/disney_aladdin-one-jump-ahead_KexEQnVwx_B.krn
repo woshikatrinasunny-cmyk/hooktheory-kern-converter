@@ -16,43 +16,43 @@
 *e:	*
 *M4/4	*
 =1	=1
-4r	Em/B
+4r	E minor/B
 4b	.
-4e	Em
+4e	E minor
 8r	.
 8e	.
 =2	=2
-8g	C7
-8g	.
+8gL	C dominant
+8gJ	.
 4g	.
 4g	.
-4f#	D#dim
+4f#	D# diminished
 =3	=3
-4r	Em/B
+4r	E minor/B
 4b	.
-4e	Em
+4e	E minor
 8r	.
 8e	.
 =4	=4
-8g	A9
-8g	.
+8gL	A dominant-ninth
+8gJ	.
 4g	.
 4g	.
 4r	.
 =5	=5
-4r	G/D
+4r	G major/D
 4dd	.
-4g	G
+4g	G major
 8r	.
 8a	.
 =6	=6
-8a#	D#7
-8a	.
+8a#L	D# dominant
+8aJ	.
 4a#	.
 4a#	.
 4a	.
 =7	=7
-4g	G
+4g	G major
 4B	.
 4c	.
 4d	.
@@ -62,114 +62,114 @@
 4fn	.
 4f#	.
 =9	=9
-4r	Em
+4r	E minor
 4b	.
 4e	.
 8r	.
 8e	.
 =10	=10
-8g	C7
-8g	.
+8gL	C dominant
+8gJ	.
 4g	.
 4g	.
-4f#	D#dim
+4f#	D# diminished
 =11	=11
-4r	Em
+4r	E minor
 4b	.
 4e	.
 8r	.
 8e	.
 =12	=12
-8g	A9
-8g	.
+8gL	A dominant-ninth
+8gJ	.
 4g	.
 4g	.
 4r	.
 =13	=13
-4r	G/D
+4r	G major/D
 4dd	.
 4g	.
 8r	.
 8a	.
 =14	=14
-8a#	D#7
-8a	.
+8a#L	D# dominant
+8aJ	.
 4a#	.
-4a#	D7
+4a#	D dominant
 4a	.
 =15	=15
-4g	G
+4g	G major
 4r	.
-2r	Am7
+2r	A minor-seventh
 =16	=16
-2r	A#dim
-2r	G/B
+2r	A# diminished
+2r	G major/B
 =17	=17
-4e[	D11
+[4e	D dominant-11th
 8e]	.
-4d[	D7
+[4d	D dominant
 4.d]	.
 =18	=18
-4b[	Cmaj7/E
+[4b	C major-seventh/E
 8b]	.
-4a[	D
+[4a	D major
 4.a]	.
 =19	=19
-4e[	D11
+[4e	D dominant-11th
 8e]	.
-4d[	D7
+[4d	D dominant
 4.d]	.
 =20	=20
-4cc[	Cmaj7/E
+[4cc	C major-seventh/E
 8cc]	.
-4b[	D
+[4b	D major
 4.b]	.
 =21	=21
-4.e	D11
-3...d	D7
+4.e	D dominant-11th
+3...d	D dominant
 =22	=22
-4.b	Cmaj7/E
-3...a	D
+4.b	C major-seventh/E
+3...a	D major
 =23	=23
-2cc	Gsus4
-2b[	G
+2cc	G suspended-fourth
+[2b	G major
 =24	=24
 1b]	.
 =25	=25
-2b	Em/B
+2b	E minor/B
 2a	.
 =26	=26
-2cc	B7
+2cc	B dominant
 2b	.
 =27	=27
-2a	Esus4
-2g	Em
+2a	E suspended-fourth
+2g	E minor
 =28	=28
-2f#	B/D#
-2g	Em7/D
+2f#	B major/D#
+2g	E minor-seventh/D
 =29	=29
-8e	C7
+8eL	C dominant
 8g	.
 8g	.
-8g	.
+8gJ	.
 4g	.
-8e	C7
-8g	.
+8eL	C dominant
+8gJ	.
 =30	=30
-8g	.
-8g	.
+8gL	.
+8gJ	.
 4g	.
-4r	C7
+4r	C dominant
 4r	.
 =31	=31
-8e	F#
+8eL	F# major
 8f#	.
 8f#	.
-8f#	.
+8f#J	.
 4g	.
 4a#	.
 =32	=32
-4b	B7
+4b	B dominant
 2.r	.
 ==	==
 *-	*-

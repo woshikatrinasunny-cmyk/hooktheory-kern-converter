@@ -16,66 +16,66 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.dd	Am9
+4.dd	A minor-ninth
 8g	.
-8f#	.
-8g	.
-4dd[	Dadd(2,5,7,9,10)
+8f#L	.
+8gJ	.
+[4dd	D other-2,5,7,9,10
 =2	=2
-8dd]	.
+8ddL]	.
 8ee	.
 8dd	.
-8ggg	.
-8fff#	.
+8gggJ	.
+8fff#L	.
 8ddd	.
 8aa	.
-8bb	.
+8bbJ	.
 =3	=3
 4r	.
-8dd	Bm7
-8ff#	.
-8gg	.
-8ff#	.
-4aa[	Em11
+8ddL	B minor-seventh
+8ff#J	.
+8ggL	.
+8ff#J	.
+[4aa	E minor-11th
 =4	=4
-8aa]	.
-8ff#	Em7
+8aaL]	.
+8ff#J	E minor-seventh
 4gg	.
 8.r	.
-16gg#	Daug7/A#
+16gg#LL	D augmented-seventh/A#
 16ee	.
 16dd	.
 16a#	.
-16g#	.
+16g#JJ	.
 =5	=5
-4.dd	Am9
+4.dd	A minor-ninth
 8g	.
-8f#	.
-8g	.
-4dd[	Dadd(2,5,7,9,10)
+8f#L	.
+8gJ	.
+[4dd	D other-2,5,7,9,10
 =6	=6
-8dd]	.
+8ddL]	.
 8ee	.
 8dd	.
-8ggg	.
-8fff#	.
+8gggJ	.
+8fff#L	.
 8ddd	.
 8aa	.
-8bb	.
+8bbJ	.
 =7	=7
 4ff#	.
-8dd	Em9
-8ff#	.
-16ccc	.
+8ddL	E minor-ninth
+8ff#J	.
+16cccLK	.
 8.ddd	.
-8.ccc#	D#m9
-16ccc[	Dm9
+8.ccc#	D# minor-ninth
+[16cccJk	D minor-ninth
 =8	=8
-8ccc]	Dm9
+8cccL]	D minor-ninth
 8.bb	.
-8.aa	.
-8.gg	G13
+8.aaJ	.
+8.ggL	G dominant-13th
 8.dd	.
-8b	.
+8bJ	.
 ==	==
 *-	*-

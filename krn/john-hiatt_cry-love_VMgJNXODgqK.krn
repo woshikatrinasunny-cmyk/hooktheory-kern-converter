@@ -16,30 +16,30 @@
 *C:	*
 *M3/4	*
 =1	=1
-4e	C
+4e	C major
 4r	.
-4g	G
+4g	G major
 =2	=2
-16e	Am
-16d	.
-8c	.
+16eLL	A minor
+16dJ	.
+8cJ	.
 8.r	.
 16c	.
-8g	F
-16e	.
-16d	.
+8gL	F major
+16eL	.
+16dJJ	.
 =3	=3
-8e	C
-16d	.
-16c	.
+8eL	C major
+16dL	.
+16cJJ	.
 8.r	.
 16c	.
-8g	G
-16e	.
-16d	.
+8gL	G major
+16eL	.
+16dJJ	.
 =4	=4
-8e	Am
+8e	A minor
 4.r	.
-4r	F
+4r	F major
 ==	==
 *-	*-

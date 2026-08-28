@@ -16,78 +16,78 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	Bm
-8r	Bm
-8f#	.
-16e[	.
-16e]	Bm
-8r	G
-8r	G
-8f#	.
-16d[	.
-16d]	G
+8r	B minor
+8r	B minor
+8f#L	.
+[16eL	.
+16eJJ]	B minor
+8r	G major
+8r	G major
+8f#L	.
+[16dL	.
+16dJJ]	G major
 =2	=2
-8f#	D
-8g	D
+8f#L	D major
+8g	D major
 8f#	.
-16g[	.
-16g]	D
-16f#	A
-16e[	.
-16e]	A
-16e[	.
+[16gL	.
+16gJJ]	D major
+16f#LL	A major
+[16e	.
+16e]	A major
+[16e	.
 16e]	.
-16d[	.
-16d]	A
-16r	A
+[16d	.
+16dJJ]	A major
+16r	A major
 =3	=3
-8r	Bm
-8r	Bm
-8f#	.
-16a[	.
-16a]	Bm
-8r	G
-8r	G
-8f#	.
-16d[	.
-16d]	G
+8r	B minor
+8r	B minor
+8f#L	.
+[16aL	.
+16aJJ]	B minor
+8r	G major
+8r	G major
+8f#L	.
+[16dL	.
+16dJJ]	G major
 =4	=4
-8f#	D
-8g	D
+8f#L	D major
+8g	D major
 8f#	.
-16g[	D
-16g]	D
-16f#	C#dim
-16e[	.
-16e]	C#dim
-16e[	.
+[16gL	D major
+16gJJ]	D major
+16f#LL	C# diminished
+[16e	.
+16e]	C# diminished
+[16e	.
 16e]	.
-16d[	C#dim
-16d]	A
-16r	A
+[16d	C# diminished
+16dJJ]	A major
+16r	A major
 =5	=5
-8r	Bm
-8r	Bm
-8f#	.
-16e[	.
-16e]	Bm
-8r	G
-8r	G
-8f#	.
-16d[	.
-16d]	G
+8r	B minor
+8r	B minor
+8f#L	.
+[16eL	.
+16eJJ]	B minor
+8r	G major
+8r	G major
+8f#L	.
+[16dL	.
+16dJJ]	G major
 =6	=6
-8r	D
-8r	D
-8f#	.
-16a[	.
-16a]	D
-8r	A
-8r	A
-8d	A
-8c#[	.
+8r	D major
+8r	D major
+8f#L	.
+[16aL	.
+16aJJ]	D major
+8r	A major
+8r	A major
+8dL	A major
+[8c#J	.
 =7	=7
-2.c#]	Gmaj9
+2.c#]	G major-ninth
 4r	.
 =8	=8
 1r	.

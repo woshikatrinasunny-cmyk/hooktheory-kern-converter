@@ -16,7 +16,7 @@
 *c:	*
 *M4/4	*
 =1	=1
-1b-[	Fm9
+[1b-	F minor-ninth
 =2	=2
 8.b-]	.
 16r	.
@@ -25,7 +25,7 @@
 6...a-	.
 16r	.
 =3	=3
-1b-[	D-add(2,4,6,10)
+[1b-	D- other-2,4,6,10
 =4	=4
 8.b-]	.
 16r	.
@@ -33,7 +33,7 @@
 4g	.
 4e-	.
 =5	=5
-1f[	Cm7
+[1f	C minor-seventh
 =6	=6
 8.f]	.
 16r	.
@@ -42,13 +42,13 @@
 6...e-	.
 16r	.
 =7	=7
-1f[	Aadd(3,6,8,10)
+[1f	A other-3,6,8,10
 =8	=8
 4..f]	.
 16r	.
 2e-	.
 =9	=9
-1b-[	A-maj9
+[1b-	A- major-ninth
 =10	=10
 8.b-]	.
 16r	.
@@ -56,21 +56,21 @@
 16r	.
 4.a-	.
 =11	=11
-1b-[	Fadd(4,7,9,10)
+[1b-	F other-4,7,9,10
 =12	=12
 2b-]	.
 4g	.
 4e-	.
 =13	=13
-1cc[	Fm9
+[1cc	F minor-ninth
 =14	=14
 2cc]	.
 4dd	.
 4ee-	.
 =15	=15
-4.dd	Dm9
+4.dd	D minor-ninth
 4.cc	.
-4g[	Gaug7
+[4g	G augmented-seventh
 =16	=16
 1g]	.
 ==	==

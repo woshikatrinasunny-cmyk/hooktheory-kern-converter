@@ -16,53 +16,53 @@
 *d:	*
 *M4/4	*
 =1	=1
-2.r	Dm
-8dd	.
-8ee	.
+2.r	D minor
+8ddL	.
+8eeJ	.
 =2	=2
-2..ff	B-
+2..ff	B- major
 8gg	.
 =3	=3
-1ee	C
+1ee	C major
 =4	=4
-2cc	Am
+2cc	A minor
 2a	.
 =5	=5
-2.dd	Dm
+2.dd	D minor
 4ee	.
 =6	=6
-2..ff	B-
+2..ff	B- major
 8gg	.
 =7	=7
-2.ee	C
+2.ee	C major
 4cc	.
 =8	=8
-1dd[	Dadd(2,3,7)
+[1dd	D other-2,3,7
 =9	=9
-2.dd]	Dm
-8dd	.
-8ee	.
+2.dd]	D minor
+8ddL	.
+8eeJ	.
 =10	=10
-2..ff	B-
+2..ff	B- major
 8gg	.
 =11	=11
-1ee	C
+1ee	C major
 =12	=12
-2.aa	Am
-8bb-	.
-8aa	.
+2.aa	A minor
+8bb-L	.
+8aaJ	.
 =13	=13
-4gg	Dm
-8aa	.
-8gg	.
+4gg	D minor
+8aaL	.
+8ggJ	.
 4ff	.
-8dd	.
-8ee	.
+8ddL	.
+8eeJ	.
 =14	=14
-2..ff	B-
+2..ff	B- major
 8gg	.
 =15	=15
-2.ee	C
+2.ee	C major
 4cc	.
 ==	==
 *-	*-

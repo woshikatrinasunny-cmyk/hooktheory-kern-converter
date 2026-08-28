@@ -16,55 +16,55 @@
 *a:	*
 *M4/4	*
 =1	=1
-4e[	Asus4
-8e_	Asus4
-4e_	Asus4
-8e_	Asus4
-4e_	Asus4
+[4e	A suspended-fourth
+8e_	A suspended-fourth
+4e_	A suspended-fourth
+8e_	A suspended-fourth
+4e_	A suspended-fourth
 =2	=2
-8e_	Asus4
-4e_	Asus4
-8e_	Asus4
-8e_	Asus4
-8e]	Asus4
-4d[	Am7
+8e_	A suspended-fourth
+4e_	A suspended-fourth
+8e_	A suspended-fourth
+8eL_	A suspended-fourth
+8eJ]	A suspended-fourth
+[4d	A minor-seventh
 =3	=3
-8d_	Am7
-4d_	Am7
-8d_	Am7
-4d_	Am7
-8d_	Am7
-8d_	Am7
+8d_	A minor-seventh
+4d_	A minor-seventh
+8d_	A minor-seventh
+4d_	A minor-seventh
+8dL_	A minor-seventh
+8dJ_	A minor-seventh
 =4	=4
-8d_	.
-8d_	Am7
-4d_	Am7
-4d]	Am7
-4d[	Gsus4
+8dL_	.
+8dJ_	A minor-seventh
+4d_	A minor-seventh
+4d]	A minor-seventh
+[4d	G suspended-fourth
 =5	=5
-8d_	Gsus4
-4d_	Gsus4
-8d_	Gsus4
-4d_	Gsus4
-8d_	Gsus4
-8d_	Gsus4
+8d_	G suspended-fourth
+4d_	G suspended-fourth
+8d_	G suspended-fourth
+4d_	G suspended-fourth
+8dL_	G suspended-fourth
+8dJ_	G suspended-fourth
 =6	=6
-8d_	.
-8d_	Gsus4
-8d_	Gsus4
-8d]	Gsus4
-4d[	Fsus2
-8d_	Fsus2
-8d_	Fsus2
+8dL_	.
+8d_	G suspended-fourth
+8d_	G suspended-fourth
+8dJ]	G suspended-fourth
+[4d	F suspended-second
+8dL_	F suspended-second
+8dJ_	F suspended-second
 =7	=7
-8d_	.
-8d_	Fsus2
-4d_	Fsus2
-8d_	Fsus2
-4d_	Fsus2
-8d_	Fsus2
+8dL_	.
+8dJ_	F suspended-second
+4d_	F suspended-second
+8d_	F suspended-second
+4d_	F suspended-second
+8d_	F suspended-second
 =8	=8
-4d_	Fsus2
-4d]	Fsus2
+4d_	F suspended-second
+4d]	F suspended-second
 ==	==
 *-	*-

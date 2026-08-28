@@ -17,42 +17,42 @@
 *M4/4	*
 =1	=1
 2..r	.
-16cc	.
-16cc	.
+16ccLL	.
+16ccJJ	.
 =2	=2
-4.cc	C
-16cc	.
-16cc	.
+4.cc	C major
+16ccLL	.
+16ccJJ	.
 4.cc	.
-16cc	.
-16cc	.
+16ccLL	.
+16ccJJ	.
 =3	=3
-16cc	.
-16cc	.
-8e	C
-16f	Cadd(2,5,7)
-16f	.
-8g-	Cdim
-16g	C
-16g	.
-8a-	C
-16a	F/C
-16a	.
-8a	G-dim/C
+16ccLL	.
+16ccJ	.
+8e	C major
+16fL	C other-2,5,7
+16fJ	.
+8g-J	C diminished
+16gLL	C major
+16gJ	.
+8a-	C major
+16aL	F major/C
+16aJ	.
+8aJ	G- diminished/C
 =4	=4
-6...b-	C7
-16dd-	B7
-16dd	B-7
-16ee-	A7
-16ee	A-7
-16ff	G7
-16gg-	G-7
-16gg	F7
-16aa-	E7
-16aa	E-7
-16bb-	D7
-16bbn	D-7
+6...b-	C dominant
+16dd-LL	B dominant
+16dd	B- dominant
+16ee-JJ	A dominant
+16eeLL	A- dominant
+16ff	G dominant
+16gg-	G- dominant
+16gg	F dominant
+16aa-	E dominant
+16aa	E- dominant
+16bb-	D dominant
+16bbnJJ	D- dominant
 =5	=5
-8ccc	C7
+8ccc	C dominant
 ==	==
 *-	*-

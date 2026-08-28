@@ -16,19 +16,19 @@
 *c#:	*
 *M4/4	*
 =1	=1
-8.g#	Amaj7
+8.g#	A major-seventh
 8.r	.
 8g#	.
-8f#	.
-8e	.
+8f#L	.
+8eJ	.
 4c#	.
 =2	=2
-4.r	F#m
-8g#	C#m/E
-8f#	.
+4.r	F# minor
+8g#	C# minor/E
+8f#L	.
 8e	.
 8c#	.
-8g#[	C#m7
+[8g#J	C# minor-seventh
 =3	=3
 4g#]	.
 16f#	.
@@ -36,27 +36,27 @@
 4.r	.
 8c#	.
 =4	=4
-8c#	B7sus2
+8c#L	B dominant-seventh-suspended-second
 8c#	.
 8e	.
-8e	A#dim7
-8.g#	.
+8eJ	A# diminished-seventh
+8.g#L	.
 8.e	.
-8c#[	Amaj7
+[8c#J	A major-seventh
 =5	=5
 16c#]	.
 6...r	.
 8g#	.
-8f#	.
-8e	.
+8f#L	.
+8eJ	.
 4c#	.
 =6	=6
-4.r	F#m
-8g#	C#m/E
-8f#	.
+4.r	F# minor
+8g#	C# minor/E
+8f#L	.
 8e	.
 8c#	.
-8g#[	C#m7
+[8g#J	C# minor-seventh
 =7	=7
 4g#]	.
 16f#	.
@@ -64,12 +64,12 @@
 4.r	.
 8c#	.
 =8	=8
-8c#	B7sus2
+8c#L	B dominant-seventh-suspended-second
 8c#	.
 8e	.
-8e	A#dim7
-8.g#	.
+8eJ	A# diminished-seventh
+8.g#L	.
 8.e	.
-8c#	.
+8c#J	.
 ==	==
 *-	*-

@@ -16,61 +16,61 @@
 *E-:	*
 *M4/4	*
 =1	=1
-4ee-	E-add(2,4,7)
+4ee-	E- other-2,4,7
 4ee-	.
 4ee-	.
-8ee-	.
-8dd	B-add(2,4,7)
+8ee-L	.
+8ddJ	B- other-2,4,7
 =2	=2
 8cc	.
 4b-	.
 8r	.
-8b-	.
+8b-L	.
 8b-	.
 8cc	.
-8cc	.
+8ccJ	.
 =3	=3
-8dd-	D-maj7
+8dd-L	D- major-seventh
 8dd-	.
 8dd-	.
-8dd-	.
-8dd-	.
+8dd-J	.
+8dd-L	.
 8dd-	.
 8ee-	.
-8cc	A-add(2,4,7)
+8ccJ	A- other-2,4,7
 =4	=4
 8b-	.
 4a-	.
 8r	.
-8cc	.
+8ccL	.
 8cc	.
 8dd	.
-8dd	.
+8ddJ	.
 =5	=5
-8ee-	E-add(2,4,7)
+8ee-L	E- other-2,4,7
 8ee-	.
 8ee-	.
+8ee-J	.
+8ee-L	.
 8ee-	.
 8ee-	.
-8ee-	.
-8ee-	.
-8dd	B-add(2,4,7)
+8ddJ	B- other-2,4,7
 =6	=6
-8cc	.
+8ccL	.
 8b-	.
-8b-	.
+8b-J	.
 8r	.
-8b-	.
+8b-L	.
 8b-	.
 8cc	.
-8cc	.
+8ccJ	.
 =7	=7
-8g-	D-maj7
+8g-L	D- major-seventh
 8f	.
-8e-	.
+8e-J	.
 4e-	.
 4r	.
-8r	A-add(2,4,7)
+8r	A- other-2,4,7
 =8	=8
 1r	.
 ==	==

@@ -15,158 +15,158 @@
 *b-:	*
 *M4/4	*
 =1	=1
-16bb-	B-m
+16bb-LL	B- minor
 16ff	.
 16fff	.
 16ff	.
 16eee-	.
 16ff	.
 16ddd-	.
-16ff	.
-16ccc	.
+16ffJJ	.
+16cccLL	.
 16ff	.
 16ddd-	.
 16ff	.
 16ccc	.
 16ff	.
 16bb-	.
-16ff	.
+16ffJJ	.
 =2	=2
-16ccc	Fm
+16cccLL	F minor
 16ff	.
 16ddd-	.
 16ff	.
 16eee-	.
 16ff	.
 16ddd-	.
-16ff	.
-16ccc	.
+16ffJJ	.
+16cccLL	.
 16ff	.
 16aa-	.
 16ff	.
 16ccc	.
 16ff	.
 16bb-	.
-16ff	.
+16ffJJ	.
 =3	=3
-16bb-	B-m
+16bb-LL	B- minor
 16ff	.
 16fff	.
 16ff	.
 16eee-	.
 16ff	.
 16ddd-	.
-16ff	.
-16ccc	.
+16ffJJ	.
+16cccLL	.
 16ff	.
 16ddd-	.
 16ff	.
 16ccc	.
 16ff	.
 16bb-	.
-16ff	.
+16ffJJ	.
 =4	=4
-16ccc	Fm
+16cccLL	F minor
 16ff	.
 16ddd-	.
 16ff	.
 16eee-	.
 16ff	.
 16ddd-	.
-16ff	.
-16ccc	.
+16ffJJ	.
+16cccLL	.
 16ff	.
 16aa-	.
 16ff	.
 16ccc	.
 16ff	.
 16bb-	.
-16ff	.
+16ffJJ	.
 =5	=5
-8ee-	B-m
-16aa-	.
-2ff[	.
-16ff]	.
+8ee-L	B- minor
+16aa-Jk	.
+[2ff	.
+16ffLK]	.
 8ee-	.
-8dd-	.
+8dd-J	.
 =6	=6
-8.ee-	A-
-8.aa-	.
+8.ee-L	A- major
+8.aa-J	.
 4.ff	.
-8ee-	.
-8dd-	.
+8ee-L	.
+8dd-J	.
 =7	=7
-8ee-	G-
-16aa-	.
-2ff[	.
-16ff]	.
+8ee-L	G- major
+16aa-Jk	.
+[2ff	.
+16ffLK]	.
 8ee-	.
-8ff	.
+8ffJ	.
 =8	=8
-8.gg-	Fm
+8.gg-	F minor
 6...aa-	.
 8.ff	.
 6...gg-	.
 =9	=9
-8ee-	B-m
-16aa-	.
-2ff[	.
-16ff]	.
+8ee-L	B- minor
+16aa-Jk	.
+[2ff	.
+16ffLK]	.
 8ee-	.
-8dd-	.
+8dd-J	.
 =10	=10
-8.ee-	A-
-8.aa-	.
+8.ee-L	A- major
+8.aa-J	.
 4.ff	.
-8ee-	.
-8dd-	.
+8ee-L	.
+8dd-J	.
 =11	=11
-8ee-	G-
-16aa-	.
-2ff[	.
-16ff]	.
+8ee-L	G- major
+16aa-Jk	.
+[2ff	.
+16ffLK]	.
 8ee-	.
-8ff	.
+8ffJ	.
 =12	=12
-8.gg-	Fm
+8.gg-	F minor
 6...aa-	.
-8ff	F
-8ggn	Gdim
-8aan	Adim
-8ccc	Adim/C
+8ffL	F major
+8ggn	G diminished
+8aan	A diminished
+8cccJ	A diminished/C
 =13	=13
-8.cc	B-m
+8.ccL	B- minor
 8.b-	.
-8bb-	.
-8.cc	A-
+8bb-J	.
+8.ccL	A- major
 8.b-	.
-8bb-	.
+8bb-J	.
 =14	=14
-8.cc	G-
+8.ccL	G- major
 8.b-	.
-8bb-	.
-16dd-	A-
+8bb-J	.
+16dd-LL	A- major
 16ddd-	.
 16cc	.
 16ccc	.
 16b-	.
 16bb-	.
 16a-	.
-16aa-	.
+16aa-JJ	.
 =15	=15
-8cc	B-m
-16b-	.
+8ccL	B- minor
+16b-Jk	.
 6...bb-	.
-8cc	A-
-16b-	.
+8ccL	A- major
+16b-Jk	.
 6...bb-	.
 =16	=16
-8cc	G-
-16b-	.
+8ccL	G- major
+16b-Jk	.
 6...bb-	.
-8ddd-	A-
+8ddd-L	A- major
 8eee-	.
-16ccc	.
-8.ddd-	.
+16ccck	.
+8.ddd-J	.
 ==	==
 *-	*-

@@ -16,25 +16,25 @@
 *F:	*
 *M6/4	*
 =1	=1
-2a	F
+2a	F major
 4f	.
 2g	.
-4f[	.
+[4f	.
 =2	=2
 2.f]	.
 2f	.
 4f	.
 =3	=3
-2.e	Am
+2.e	A minor
 2d	.
-8e	.
-8d	.
+8eL	.
+8dJ	.
 =4	=4
 2.c	.
 2r	.
 4c	.
 =5	=5
-2a	E-maj7
+2a	E- major-seventh
 4f	.
 2g	.
 4d	.
@@ -43,33 +43,33 @@
 4d	.
 4c	.
 =7	=7
-4A	B-maj7
+4A	B- major-seventh
 4G	.
 4F	.
 2.r	.
 =8	=8
 1.r	.
 =9	=9
-2r	F
+2r	F major
 4d	.
 4f	.
 4g	.
-4a[	.
+[4a	.
 =10	=10
 2a]	.
 4f	.
 2f	.
 4f	.
 =11	=11
-1e	Am
+1e	A minor
 4d	.
-8e	.
-8d	.
+8eL	.
+8dJ	.
 =12	=12
 2.c	.
 2.r	.
 =13	=13
-2r	E-maj7
+2r	E- major-seventh
 4d	.
 4f	.
 4d	.
@@ -79,7 +79,7 @@
 4d	.
 4c	.
 =15	=15
-4A	B-maj7
+4A	B- major-seventh
 4G	.
 4F	.
 2.r	.

@@ -16,160 +16,160 @@
 *A-:	*
 *M4/4	*
 =1	=1
-8cc	D-maj7
+8ccL	D- major-seventh
 8b-	.
 8cc	.
-8b-	.
-8cc	.
-8b-	.
+8b-J	.
+8ccL	.
+8b-J	.
 8r	.
-8ee-	Cadd(4,7,8,10)
+8ee-	C other-4,7,8,10
 =2	=2
 1r	.
 =3	=3
-8b-	Fm9
+8b-L	F minor-ninth
 8a-	.
 8b-	.
-8a-	.
-8b-	.
-8a-	.
+8a-J	.
+8b-L	.
+8a-J	.
 8r	.
-8r	B-9sus4
+8r	B- dominant-ninth-suspended-fourth
 =4	=4
 4r	.
-2.r	B-9
+2.r	B- dominant-ninth
 =5	=5
-4dn	Gm7
+4dn	G minor-seventh
 4r	.
 4f	.
 4r	.
 =6	=6
-4c	F/A
+4c	F major/A
 8g	.
 4.f	.
 4r	.
 =7	=7
-4a-	B-m7
-8g	.
-8f	.
+4a-	B- minor-seventh
+8gL	.
+8fJ	.
 8r	.
 8g	.
 8r	.
-8a-[	.
+[8a-	.
 =8	=8
 2.a-]	.
 4r	.
 =9	=9
-4b-	E-7sus4
+4b-	E- dominant-seventh-suspended-fourth
 8a-	.
 4b-	.
 4cc	.
-8b-[	.
+[8b-	.
 =10	=10
-8b-]	.
+8b-L]	.
 8e-	.
 8e-	.
-8e-	.
-8e-	.
-8ee-	.
+8e-J	.
+8e-L	.
+8ee-J	.
 8r	.
-8cc[	G-add(2,6,7,10)
+[8cc	G- other-2,6,7,10
 =11	=11
 2..cc]	.
-8cc[	.
+[8cc	.
 =12	=12
-4cc]	Fadd(3,5,7,10)
+4cc]	F other-3,5,7,10
 4b-	.
-8a-	.
-8b-	.
+8a-L	.
+8b-J	.
 8r	.
-8cc[	A-9sus4
+[8cc	A- dominant-ninth-suspended-fourth
 =13	=13
 4cc]	.
 8b-	.
 4a-	.
 4e-	.
-8f[	.
+[8f	.
 =14	=14
-8f]	D-maj9
+8f]	D- major-ninth
 4.a-	.
 4.r	.
-8r	Gm7b5
+8r	G half-diminished
 =15	=15
 4cc	.
 8b-	.
-4cc	Cadd(3,4,7,8,10)
+4cc	C other-3,4,7,8,10
 4b-	.
-8ee-[	Fm11
+[8ee-	F minor-11th
 =16	=16
 8ee-]	.
 4cc	.
-4b-	A-/E-
+4b-	A- major/E-
 4a-	.
-8f[	B-7
+[8f	B- dominant
 =17	=17
 2..f]	.
-8ee-[	E-add(2,5,7)
+[8ee-	E- other-2,5,7
 =18	=18
-8ee-]	.
+8ee-L]	.
 8e-	.
 8e-	.
-8e-	Cadd(3,4,7,8,10)
-8e-	.
-8ee-	.
+8e-J	C other-3,4,7,8,10
+8e-L	.
+8ee-J	.
 8r	.
-8cc[	G-add(2,6,7,10)
+[8cc	G- other-2,6,7,10
 =19	=19
 2..cc]	.
-8cc[	.
+[8cc	.
 =20	=20
-4cc]	Fm11
+4cc]	F minor-11th
 4b-	.
-8a-	.
-8b-	.
+8a-L	.
+8b-J	.
 8r	.
-8cc[	A-9sus4
+[8cc	A- dominant-ninth-suspended-fourth
 =21	=21
 4cc]	.
 8b-	.
 4cc	.
 4dd-	.
-8cc[	.
+[8cc	.
 =22	=22
-8cc]	D-maj9
-8b-	.
+8ccL]	D- major-ninth
+8b-J	.
 2a-	.
 8r	.
-8r	Gm7b5
+8r	G half-diminished
 =23	=23
 4cc	.
 8b-	.
-4cc	Cadd(3,4,7,8,10)
+4cc	C other-3,4,7,8,10
 4b-	.
-8ee-[	Fm11
+[8ee-	F minor-11th
 =24	=24
 8ee-]	.
 4cc	.
-4b-	A-/E-
+4b-	A- major/E-
 4a-	.
-8r	B-7
+8r	B- dominant
 =25	=25
-8a-	.
-8a-	.
+8a-L	.
+8a-J	.
 8r	.
 8a-	.
 8a-	.
 8r	.
-8b-	.
-8b-	E-9sus4
+8b-L	.
+8b-J	E- dominant-ninth-suspended-fourth
 =26	=26
 8r	.
+8b-L	.
 8b-	.
-8b-	.
-8b-	.
-8b-	.
+8b-J	.
+8b-L	.
 8a-	.
-8a-	.
-8r	G-add(2,6,7,10)
+8a-J	.
+8r	G- other-2,6,7,10
 ==	==
 *-	*-

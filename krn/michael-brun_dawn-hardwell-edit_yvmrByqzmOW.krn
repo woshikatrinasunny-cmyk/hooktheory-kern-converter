@@ -16,60 +16,60 @@
 *e:	*
 *M4/4	*
 =1	=1
-8.g	Cadd(2,4,7)
-8.a	Am/C
-8.b	Cmaj7
-8.dd	D7/C
-8.ee	Cmaj7
-16g[	Dsus4
+8.gL	C other-2,4,7
+8.aJ	A minor/C
+8.b	C major-seventh
+8.ddL	D dominant/C
+8.ee	C major-seventh
+[16gJk	D suspended-fourth
 =2	=2
-8g]	.
-8.a	Dsus2
-8.b	G/D
-8.dd	D
-8.ee	Em7/D
-8e	Em7/D
+8gL]	.
+8.a	D suspended-second
+8.bJ	G major/D
+8.ddL	D major
+8.ee	E minor-seventh/D
+8eJ	E minor-seventh/D
 =3	=3
-8.g	Em7
-8.a	Esus4
-8.b	Em
-8.dd	E7sus4
-8.ee	Em
-16g[	Em7
+8.gL	E minor-seventh
+8.aJ	E suspended-fourth
+8.b	E minor
+8.ddL	E dominant-seventh-suspended-fourth
+8.ee	E minor
+[16gJk	E minor-seventh
 =4	=4
-8g]	.
-8.a	Esus4
-8.b	G
-8.dd	Gadd(2,4,7)
-8.ee	Em/G
-8e	Em/G
+8gL]	.
+8.a	E suspended-fourth
+8.bJ	G major
+8.ddL	G other-2,4,7
+8.ee	E minor/G
+8eJ	E minor/G
 =5	=5
-8.g	Cadd(2,4,7)
-8.a	Am/C
-8.b	Cmaj7
-8.dd	D7/C
-8.ee	Cmaj7
-16g[	Dsus4
+8.gL	C other-2,4,7
+8.aJ	A minor/C
+8.b	C major-seventh
+8.ddL	D dominant/C
+8.ee	C major-seventh
+[16gJk	D suspended-fourth
 =6	=6
-8g]	.
-8.a	Dadd(2,4,7)
-8.b	G/D
-8.dd	D
-8.ee	Em7/D
-8e	Em7/D
+8gL]	.
+8.a	D other-2,4,7
+8.bJ	G major/D
+8.ddL	D major
+8.ee	E minor-seventh/D
+8eJ	E minor-seventh/D
 =7	=7
-8.g	A7sus4
-8.a	Am
-8.b	A7sus2
-8.dd	Asus4
-8.ee	Asus2
-16g[	A7sus4
+8.gL	A dominant-seventh-suspended-fourth
+8.aJ	A minor
+8.b	A dominant-seventh-suspended-second
+8.ddL	A suspended-fourth
+8.ee	A suspended-second
+[16gJk	A dominant-seventh-suspended-fourth
 =8	=8
-8g]	.
-8.a	Am
-8.b	A7sus2
-8.dd	Asus4
-8.ee	Asus2
-8e	Asus2
+8gL]	.
+8.a	A minor
+8.bJ	A dominant-seventh-suspended-second
+8.ddL	A suspended-fourth
+8.ee	A suspended-second
+8eJ	A suspended-second
 ==	==
 *-	*-

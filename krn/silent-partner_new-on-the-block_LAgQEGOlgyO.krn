@@ -16,86 +16,86 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.A[	Dm7
-4.A_	Dm7/F
-4A_	Dm7/A
+[4.A	D minor-seventh
+4.A_	D minor-seventh/F
+4A_	D minor-seventh/A
 =2	=2
 4.A]	.
 8G	.
-8A	Dm7
+8AL	D minor-seventh
 8c	.
-8d	Dm7/A
-8c	.
+8d	D minor-seventh/A
+8cJ	.
 =3	=3
-4.B	G9
-4.G[	Bm7b5
-4G_	Bm7b5/D
+4.B	G dominant-ninth
+[4.G	B half-diminished
+4G_	B half-diminished/D
 =4	=4
 2G_	.
-4G]	Bm7b5/A
-8D	Bm7b5
-8D#	.
+4G]	B half-diminished/A
+8DL	B half-diminished
+8D#J	.
 =5	=5
-8E	Cmaj7
+8EL	C major-seventh
 8D#	.
-8E	.
-4.G[	Em
-4G_	Em/G
+8EJ	.
+[4.G	E minor
+4G_	E minor/G
 =6	=6
 2G_	.
-4G]	Em
-8D	Em7/D
-8D#	.
+4G]	E minor
+8DL	E minor-seventh/D
+8D#J	.
 =7	=7
-8E	Cmaj7
+8EL	C major-seventh
 8D#	.
-8E	.
-4.G[	Em
-4G_	Em/G
+8EJ	.
+[4.G	E minor
+4G_	E minor/G
 =8	=8
 2G_	.
-4G]	Em
-8G	Cmaj7
-8G#	.
+4G]	E minor
+8GL	C major-seventh
+8G#J	.
 =9	=9
-4.A[	Dm7
-4.A_	Dm7/F
-4A_	Fmaj7/A
+[4.A	D minor-seventh
+4.A_	D minor-seventh/F
+4A_	F major-seventh/A
 =10	=10
 4A]	.
 8e	.
 8r	.
-4d	Dm7
-8c	Dm7/A
+4d	D minor-seventh
+8c	D minor-seventh/A
 8r	.
 =11	=11
-16A#	G9
+16A#	G dominant-ninth
 6...B	.
-4.G[	Bm7b5
-4G_	Bm7b5/D
+[4.G	B half-diminished
+4G_	B half-diminished/D
 =12	=12
 2G_	.
-4G]	Bm7b5/A
-8D	Bm7b5
-8D#	.
+4G]	B half-diminished/A
+8DL	B half-diminished
+8D#J	.
 =13	=13
-8E	Cmaj7
+8EL	C major-seventh
 8D#	.
-8E	.
-4.G[	Em
-4G_	Em/G
+8EJ	.
+[4.G	E minor
+4G_	E minor/G
 =14	=14
 2G_	.
-8G]	Em
+8G]	E minor
 8r	.
-8d	Em7/D
-8d#	.
+8dL	E minor-seventh/D
+8d#J	.
 =15	=15
-8e	Cmaj7
+8eL	C major-seventh
 8d#	.
-8e	.
-4.g[	Em
-4g_	Em/G
+8eJ	.
+[4.g	E minor
+4g_	E minor/G
 =16	=16
 3...g]	.
 4.r	.

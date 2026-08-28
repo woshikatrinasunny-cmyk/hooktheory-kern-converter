@@ -16,77 +16,77 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	D
-16d	.
-16d	.
+8r	D major
+16dLL	.
+16dJ	.
 8d	.
-8d	.
-8.e	Dsus4
-16d[	.
-16d]	D
+8dJ	.
+8.eL	D suspended-fourth
+[16dL	.
+16dJJ]	D major
 8.r	.
 =2	=2
 8r	.
-16F#	.
-16F#	.
+16F#LL	.
+16F#J	.
 8A	.
-16d	.
-16e[	.
-16e]	Dsus4
+16dL	.
+[16eJJ	.
+16eLK]	D suspended-fourth
 8.e	.
 8e	.
-8e	.
+8eJ	.
 =3	=3
-16e	Cadd(2,4,7)
+16eLK	C other-2,4,7
 8d	.
 8.d	.
-16d	.
-16d[	.
-16d]	D
+16dL	.
+[16dJJ	.
+16d]	D major
 4..r	.
 =4	=4
 8r	.
-16d	.
-16d	.
+16dLL	.
+16dJ	.
 8d	.
-8d	.
-8.e	Dsus4
-16d[	.
-16d]	D
+8dJ	.
+8.eL	D suspended-fourth
+[16dL	.
+16dJJ]	D major
 8.r	.
 =5	=5
 8r	.
-16F#	.
-16F#	.
+16F#LL	.
+16F#J	.
 8A	.
-8d	.
-16e	Dsus4
+8dJ	.
+16eLK	D suspended-fourth
 8.e	.
-16e	.
-8.e	.
+16ek	.
+8.eJ	.
 =6	=6
-8e	Cadd(2,4,7)
+8eL	C other-2,4,7
 8d	.
 8d	.
-16d	.
-16d[	.
-16d]	D
+16dL	.
+[16dJJ	.
+16d]	D major
 4..r	.
 =7	=7
-16a	G
+16aLK	G major
 8.g	.
 8f#	.
-16d	.
-16d[	.
-4d]	D
+16dL	.
+[16dJJ	.
+4d]	D major
 4r	.
 =8	=8
-16a	G
+16aLK	G major
 8.g	.
 8f#	.
-16d	.
-16d[	.
-8d]	A
+16dL	.
+[16dJJ	.
+8d]	A major
 4c#	.
 8r	.
 ==	==

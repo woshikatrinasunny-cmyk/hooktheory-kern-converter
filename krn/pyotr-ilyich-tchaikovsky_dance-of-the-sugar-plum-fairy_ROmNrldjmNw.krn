@@ -16,63 +16,63 @@
 *e:	*
 *M4/4	*
 =1	=1
-8E	Em
+8E	E minor
 8r	.
-8ggg	.
-8eee	.
+8gggL	.
+8eeeJ	.
 4ggg	.
-4fff#	F#m7b5/E
+4fff#	F# half-diminished/E
 =2	=2
-4ddd#	Eadd(2,4,5,7,11)
-4eee	Edim7
-8ddd	Eadd(1,4,7,10)
-8ddd	.
+4ddd#	E other-2,4,5,7,11
+4eee	E diminished-seventh
+8dddL	E other-1,4,7,10
+8dddJ	.
 4ddd	.
 =3	=3
-8ccc#	Edim7
-8ccc#	.
+8ccc#L	E diminished-seventh
+8ccc#J	.
 4ccc#	.
-8ccc	Eadd(2,4,5,7,8,11)
-8ccc	.
+8cccL	E other-2,4,5,7,8,11
+8cccJ	.
 4ccc	.
 =4	=4
-8bb	Em
+8bbL	E minor
 8eee	.
-8ccc	F#m7b5/E
-8eee	.
-4bb	Em
-16E	.
+8ccc	F# half-diminished/E
+8eeeJ	.
+4bb	E minor
+16ELL	.
 16D	.
 16C	.
-16BB	.
+16BBJJ	.
 =5	=5
-4AA#	C7/A#
-8gg	.
-8ee	.
-4gg	Am7
-4ff#	D#dim7/A
+4AA#	C dominant/A#
+8ggL	.
+8eeJ	.
+4gg	A minor-seventh
+4ff#	D# diminished-seventh/A
 =6	=6
-4ccc	Gadd(2,4,5,8,11)
-4bb	Em/G
-8ggg	F#add(1,4,7,10)
-8ggg	.
+4ccc	G other-2,4,5,8,11
+4bb	E minor/G
+8gggL	F# other-1,4,7,10
+8gggJ	.
 4ggg	.
 =7	=7
-8fff#	G#m7b5/F#
-8fff#	.
+8fff#L	G# half-diminished/F#
+8fff#J	.
 4fff#	.
-8eee	F#7
-8eee	.
+8eeeL	F# dominant
+8eeeJ	.
 4eee	.
 =8	=8
-8ddd#	B
+8ddd#L	B major
 8fff#	.
-8eee	F#add(4,5,6,10)/C
-8fff#	.
-4ddd#	B
-16BB	.
+8eee	F# other-4,5,6,10/C
+8fff#J	.
+4ddd#	B major
+16BBLL	.
 16AA	.
 16GG	.
-16FF#	.
+16FF#JJ	.
 ==	==
 *-	*-

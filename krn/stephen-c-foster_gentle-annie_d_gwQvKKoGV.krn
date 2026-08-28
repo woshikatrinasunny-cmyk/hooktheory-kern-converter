@@ -17,54 +17,54 @@
 *M4/4	*
 =1	=1
 2.r	.
-8ee	.
-8dd	.
+8eeL	.
+8ddJ	.
 =2	=2
-4cc	C
+4cc	C major
 4cc	.
-4dd	F
-8cc	.
-8dd	.
+4dd	F major
+8ccL	.
+8ddJ	.
 =3	=3
-8ee	C
+8ee	C major
 4.ccc	.
-4r	F
-8bb	.
-8aa	.
+4r	F major
+8bbL	.
+8aaJ	.
 =4	=4
-4.gg	C/E
+4.gg	C major/E
 8aa	.
-8cc	Am
+8ccL	A minor
 8cc	.
-8.dd	D7/F#
-16ee	.
+8.dd	D dominant/F#
+16eeJk	.
 =5	=5
-2dd	G7
+2dd	G dominant
 4r	.
-8ee	.
-8dd	.
+8eeL	.
+8ddJ	.
 =6	=6
-4cc	Am
+4cc	A minor
 4cc	.
-4dd	Dm7b5/G#
-8cc	.
-8dd	.
+4dd	D half-diminished/G#
+8ccL	.
+8ddJ	.
 =7	=7
-8ee	C/G
+8ee	C major/G
 4.ccc	.
-4r	F#dim7
-8bb	.
-8aa	.
+4r	F# diminished-seventh
+8bbL	.
+8aaJ	.
 =8	=8
-4gg	C/G
-8ff	.
-8ee	.
-8ee	G
+4gg	C major/G
+8ffL	.
+8eeJ	.
+8eeL	G major
 8dd	.
 8.cc	.
-16b	.
+16bJk	.
 =9	=9
-2cc	C
+2cc	C major
 4r	.
 8.r	.
 ==	==

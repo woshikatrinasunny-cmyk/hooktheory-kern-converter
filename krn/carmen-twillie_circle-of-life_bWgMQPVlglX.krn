@@ -16,101 +16,101 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4.r	Fsus4
-16f	.
-16f	.
-4.ff	F
+4.r	F suspended-fourth
+16fLL	.
+16fJJ	.
+4.ff	F major
 8dd	.
 =2	=2
-8cc	B-
+8cc	B- major
 4.dd	.
+16ddLL	.
 16dd	.
-16dd	.
-16dd	.
+16ddJ	.
 8dd	.
-16dd	.
-16ee-	E-
-16ee-	.
+16ddL	.
+16ee-	E- major
+16ee-JJ	.
 =3	=3
-4dd	B-
-8dd	.
-8dd	.
+4dd	B- major
+8ddL	.
+8ddJ	.
 4ee-	.
-8ff	.
-8ff	.
+8ffL	.
+8ffJ	.
 =4	=4
-2..ee-	B-11
+2..ee-	B- dominant-11th
 8r	.
 =5	=5
 6...r	.
-16ee-	.
-8ee-	.
+16ee-LK	.
+8ee-J	.
 4.ff	.
-8dd[	.
+[8dd	.
 =6	=6
-8dd]	E-
-8cc	.
+8ddL]	E- major
+8ccJ	.
 4.b-	.
 4r	.
-8r	A-/E-
+8r	A- major/E-
 =7	=7
-4.r	E-
+4.r	E- major
 8f	.
 4.ee-	.
 8dd	.
 =8	=8
-8cc	Fsus4
+8cc	F suspended-fourth
 3...cc	.
-16dd	.
+16ddLL	.
 16cc	.
 16dd	.
-16ff[	.
+[16ffJJ	.
 =9	=9
-4ff]	F
+4ff]	F major
 8r	.
 8.ff	.
 8ff	.
 6...ff	.
 =10	=10
-8r	B-/D
+8r	B- major/D
 8.ff	.
 4..dd	.
 4r	.
 =11	=11
-4r	G7
-8dd	.
-8dd	.
+4r	G dominant
+8ddL	.
+8ddJ	.
 8ee-	.
 4ff	.
-8ff[	.
+[8ff	.
 =12	=12
-8ff]	Cm
-2..ee-[	.
+8ff]	C minor
+[2..ee-	.
 =13	=13
-8ee-]	Cm7b5/G-
+8ee-]	C half-diminished/G-
 2r	.
-8.gg	.
-8.gg	.
+8.ggL	.
+8.ggJ	.
 =14	=14
-4.ff	B-/F
+4.ff	B- major/F
 8dd	.
-16cc	.
+16ccLL	.
 16b-	.
-16g	.
+16gJJ	.
 6...f	.
 =15	=15
-4.r	Fsus4
+4.r	F suspended-fourth
 8f	.
-4ee-	F
-8dd	.
-8cc[	.
+4ee-	F major
+8ddL	.
+[8ccJ	.
 =16	=16
-8cc]	E-/B-
-8.b-	.
-3...b-[	.
+8ccL]	E- major/B-
+8.b-J	.
+[3...b-	.
 16b-_	.
 =17	=17
-4b-]	B-
+4b-]	B- major
 2.r	.
 ==	==
 *-	*-

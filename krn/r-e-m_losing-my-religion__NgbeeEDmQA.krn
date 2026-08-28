@@ -16,69 +16,69 @@
 *M4/4	*
 =1	=1
 2r	.
-8dd	.
+8ddL	.
 8ee	.
 8dd	.
-8a	.
+8aJ	.
 =2	=2
-4cc	F
+4cc	F major
 8r	.
-8r	F
-8r	F
-4r	Fsus2
-8r	F
+8r	F major
+8r	F major
+4r	F suspended-second
+8r	F major
 =3	=3
 8r	.
-4r	F
+4r	F major
 8a	.
-8dd	Dm/F
+8ddL	D minor/F
 8ee	.
-8dd	G
-8a	.
+8dd	G major
+8aJ	.
 =4	=4
-4cc	Am
+4cc	A minor
 8r	.
-8r	Am
-8r	Am
-4r	Asus2
-8r	Am
+8r	A minor
+8r	A minor
+4r	A suspended-second
+8r	A minor
 =5	=5
 8r	.
-4r	Am
+4r	A minor
 8r	.
-8dd	G
+8ddL	G major
 8ee	.
 8dd	.
-8a	.
+8aJ	.
 =6	=6
-4cc	F
+4cc	F major
 8r	.
-8r	F
-8r	F
-4r	Fsus2
-8r	F
+8r	F major
+8r	F major
+4r	F suspended-second
+8r	F major
 =7	=7
 8r	.
-4r	F
+4r	F major
 8r	.
-8dd	Dm/F
+8ddL	D minor/F
 8ee	.
-8dd	G
-8a	.
+8dd	G major
+8aJ	.
 =8	=8
-4cc[	Am
-4cc]	Am
-8r	Am
-8r	Am
+[4cc	A minor
+4cc]	A minor
+8r	A minor
+8r	A minor
 8r	.
-8r	G
+8r	G major
 =9	=9
 4r	.
-8c	.
-8d	.
-8e	.
+8cL	.
+8dJ	.
+8eL	.
 8a	.
 8g	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

@@ -16,54 +16,54 @@
 *g:	*
 *M4/4	*
 =1	=1
-2.e-	Cm
-8f	.
-8g	.
+2.e-	C minor
+8fL	.
+8gJ	.
 =2	=2
-2.d	Gm/B-
+2.d	G minor/B-
 4B-	.
 =3	=3
-2.c	G-dim/A
-8B-	.
-8A	.
+2.c	G- diminished/A
+8B-L	.
+8AJ	.
 =4	=4
-8B-	Gm/D
-8A	.
-4G[	.
-4G_	Gm
-4G]	Gm/B-
+8B-L	G minor/D
+8AJ	.
+[4G	.
+4G_	G minor
+4G]	G minor/B-
 =5	=5
-2.e-	Cm
-8f	.
-8g	.
+2.e-	C minor
+8fL	.
+8gJ	.
 =6	=6
-2d	Gm/B-
+2d	G minor/B-
 4B-	.
 4G	.
 =7	=7
-2A	A
+2A	A major
 4a	.
 4g	.
 =8	=8
-2g	D
-4g-[	D/G-
-4g-]	D/A
+2g	D major
+[4g-	D major/G-
+4g-]	D major/A
 =9	=9
-4ff	Dm
+4ff	D minor
 4een	.
 4a	.
 4ff	.
 =10	=10
-4een	Ddim
+4een	D diminished
 2.dd	.
 =11	=11
-1ee-	Cm
+1ee-	C minor
 =12	=12
 4.r	.
 8dd	.
-8dd-	.
+8dd-L	.
 8dd	.
 8een	.
-8ff	.
+8ffJ	.
 ==	==
 *-	*-

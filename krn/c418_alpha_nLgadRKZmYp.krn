@@ -19,75 +19,75 @@
 2r	.
 2d	.
 4B-	.
-4g	Fsus2
+4g	F suspended-second
 =2	=2
-2ddd	Gadd(2,3,7)/B-
+2ddd	G other-2,3,7/B-
 4ccc	.
 2gg	.
 4ff	.
 =3	=3
-2ddd	Gadd(2,3,5,7)/B-
+2ddd	G other-2,3,5,7/B-
 4ccc	.
 2gg	.
 4ff	.
 =4	=4
-2.ccc	Fadd(2,4,7)/A
+2.ccc	F other-2,4,7/A
 2.ddd	.
 =5	=5
-1.bb-	E-maj7
+1.bb-	E- major-seventh
 =6	=6
-2ddd	B-
+2ddd	B- major
 4ccc	.
 2gg	.
 4ff	.
 =7	=7
-2ddd	B-add(2,4,7)
+2ddd	B- other-2,4,7
 4ccc	.
 2gg	.
 4ff	.
 =8	=8
-2ccc	Fadd(2,4,7)/A
+2ccc	F other-2,4,7/A
 4bb-	.
 2ddd	.
 4fff	.
 =9	=9
-2.bb-[	E-
-2bb-]	E-maj7
+[2.bb-	E- major
+2bb-]	E- major-seventh
 4ff	.
 =10	=10
-2ddd	Gm7
+2ddd	G minor-seventh
 4ccc	.
 2gg	.
 4ff	.
 =11	=11
-2ddd	Dm7/A
+2ddd	D minor-seventh/A
 4ccc	.
 2gg	.
 4ff	.
 =12	=12
-2.ddd	B-
-2ccc	B-add(2,4,7)
+2.ddd	B- major
+2ccc	B- other-2,4,7
 4fff	.
 =13	=13
-2.bb-[	E-maj7
-2bb-]	E-add(2,4,7,9,11)
+[2.bb-	E- major-seventh
+2bb-]	E- other-2,4,7,9,11
 4ff	.
 =14	=14
-2ddd	Gm7
+2ddd	G minor-seventh
 4ccc	.
 2gg	.
 4ff	.
 =15	=15
-2ddd	Dm7/A
+2ddd	D minor-seventh/A
 4ccc	.
 2gg	.
 4ff	.
 =16	=16
-2.ddd	Eadd(3,6,8,10)
+2.ddd	E other-3,6,8,10
 2ccc	.
 4fff	.
 =17	=17
-2.bb-	E-maj7
-2.ccc	F
+2.bb-	E- major-seventh
+2.ccc	F major
 ==	==
 *-	*-

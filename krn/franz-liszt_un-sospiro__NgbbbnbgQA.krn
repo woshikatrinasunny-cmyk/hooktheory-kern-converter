@@ -16,19 +16,19 @@
 *D-:	*
 *M4/4	*
 =1	=1
-2r	D-
+2r	D- major
 2a-	.
 =2	=2
 2b-	.
 2dd-	.
 =3	=3
-2ee-	G-/D-
+2ee-	G- major/D-
 2ff	.
 =4	=4
 2ee-	.
 2b-	.
 =5	=5
-1dd-	D-
+1dd-	D- major
 =6	=6
 1r	.
 =7	=7
@@ -38,37 +38,37 @@
 2b-	.
 2dd-	.
 =9	=9
-2ee-	G-/D-
+2ee-	G- major/D-
 2ff	.
 =10	=10
 2ee-	.
 2b-	.
 =11	=11
-1dd-	D-
+1dd-	D- major
 =12	=12
 1r	.
 =13	=13
-2r	F7/C
+2r	F dominant/C
 2gg-	.
 =14	=14
-2ff	F7/A
+2ff	F dominant/A
 2cc	.
 =15	=15
-2ee-	B-m
+2ee-	B- minor
 2dd-	.
 =16	=16
-2aa-	E-m7/G-
+2aa-	E- minor-seventh/G-
 2gg-	.
 =17	=17
-2a-	D-/A-
+2a-	D- major/A-
 4gn	.
 4a-	.
 =18	=18
-2ff	A-7
+2ff	A- dominant
 4ff	.
 4ee-	.
 =19	=19
-1dd-	D-
+1dd-	D- major
 =20	=20
 1r	.
 =21	=21
@@ -81,7 +81,7 @@
 8dd-	.
 4.ddd-	.
 =23	=23
-8ee-	G-/D-
+8ee-	G- major/D-
 4.eee-	.
 8ff	.
 4.fff	.
@@ -91,7 +91,7 @@
 8b-	.
 4.bb-	.
 =25	=25
-8dd-	D-
+8dd-	D- major
 2..ddd-	.
 =26	=26
 1r	.
@@ -105,7 +105,7 @@
 8dd-	.
 4.ddd-	.
 =29	=29
-8ee-	G-/D-
+8ee-	G- major/D-
 4.eee-	.
 8ff	.
 4.fff	.
@@ -115,7 +115,7 @@
 8b-	.
 4.bb-	.
 =31	=31
-8dd-	D-
+8dd-	D- major
 4ddd-	.
 8r	.
 8dd-	.
@@ -123,50 +123,50 @@
 =32	=32
 *k[f#c#g#]	*
 *A:	*
-1r	C#m
+1r	C# minor
 =33	=33
-2r	E7/B
+2r	E dominant/B
 8ff#	.
 4.fff#	.
 =34	=34
-8ee	E7/G#
+8ee	E dominant/G#
 4.eee	.
 8b	.
 4.bb	.
 =35	=35
-8cc#	A
+8cc#	A major
 4.ccc#	.
 8ee	.
 4.eee	.
 =36	=36
-8bb	Aaug/C#
+8bb	A augmented/C#
 4.bbb	.
 8aa	.
 4.aaa	.
 =37	=37
-4gg#	Bm7/D
-8ggg#	.
-8ff#	.
-8fff#	.
-8b	.
+4gg#	B minor-seventh/D
+8ggg#L	.
+8ff#J	.
+8fff#L	.
+8bJ	.
 4bb	.
 =38	=38
-8cc#	E7
+8cc#L	E dominant
 8ccc#	.
 8dd	.
-8ddd	.
+8dddJ	.
 8ff#	.
 4.fff#	.
 =39	=39
 4f#	.
-8ff#	.
-8g#	.
-8gg#	.
+8ff#L	.
+8g#J	.
+8gg#L	.
 8cc#	.
 8ccc#	.
-8bb[	.
+[8bbJ	.
 =40	=40
-2bb]	A
+2bb]	A major
 2aa	.
 ==	==
 *-	*-

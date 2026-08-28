@@ -16,48 +16,48 @@
 *a:	*
 *M4/4	*
 =1	=1
-4.r	Am
-2r	Em7
+4.r	A minor
+2r	E minor-seventh
 8g	.
 =2	=2
-8g	Am
+8g	A minor
 4a	.
-4b	G
-4cc	C
+4b	G major
+4cc	C major
 8cc	.
 =3	=3
-4.a	Dadd(2,3,7)
+4.a	D other-2,3,7
 3...r	.
 =4	=4
 4.r	.
 8cc	.
-8.cc	.
+8.ccL	.
 8.dd	.
-8ee	.
+8eeJ	.
 =5	=5
-6...ee	C
+6...ee	C major
 16dd	.
 2cc	.
-8gg[	.
+[8gg	.
 =6	=6
 4..gg]	.
 6...r	.
-4ee[	.
+[4ee	.
 =7	=7
-8ee]	G
+8eeL]	G major
 8ee	.
-8dd	.
+8ddJ	.
 4..dd	.
-16cc	.
-8b[	.
+16ccLK	.
+[8bJ	.
 =8	=8
 8b]	.
 2r	.
-4.dd[	.
+[4.dd	.
 =9	=9
 *M5/4	*
-8dd]	.
-8cc	.
+8ddL]	.
+8ccJ	.
 8dd	.
 4.r	.
 2r	.
@@ -65,20 +65,20 @@
 *k[f#c#g#]	*
 *A:	*
 *M4/4	*
-8r	A
-16dd	.
+8r	A major
+16ddLK	.
 8.ee	.
-16dd	.
-16ee	.
-16dd	.
+16ddL	.
+16eeJJ	.
+16ddLK	.
 8cc#	.
-16b	.
+16bk	.
 8cc#	.
-16b	.
-16a[	.
+16bL	.
+[16aJJ	.
 =11	=11
-16a]	.
-16b	.
+16aLL]	.
+16bJJ	.
 3...a	.
 4r	.
 ==	==

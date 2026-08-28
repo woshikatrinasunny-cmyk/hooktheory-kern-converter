@@ -16,39 +16,39 @@
 *C:	*
 *M6/4	*
 =1	=1
-8c#	Cadd(2,4,7)
-1d[	.
+8c#	C other-2,4,7
+[1d	.
 4d]	.
 8r	.
 =2	=2
-1r	Bm
+1r	B minor
 2B	.
 =3	=3
-1B[	Cadd(2,4,7)
+[1B	C other-2,4,7
 4.B]	.
 8r	.
 =4	=4
-1r	Bm
+1r	B minor
 2G	.
 =5	=5
-4r	Cadd(2,4,7)
-1d[	.
+4r	C other-2,4,7
+[1d	.
 4d]	.
 =6	=6
-2..r	Bm
-3...G[	.
+2..r	B minor
+[3...G	.
 =7	=7
-4G]	Cadd(2,4,7)
-1A[	.
+4G]	C other-2,4,7
+[1A	.
 4A]	.
 =8	=8
-1.B	Bm
+1.B	B minor
 =9	=9
-1.f#[	D11
+[1.f#	D dominant-11th
 =10	=10
 1.f#]	.
 =11	=11
-1.r	D11
+1.r	D dominant-11th
 =12	=12
 1r	.
 2g	.

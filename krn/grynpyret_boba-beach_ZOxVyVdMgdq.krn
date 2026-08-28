@@ -16,139 +16,139 @@
 *A:	*
 *M4/4	*
 =1	=1
-8r	Dmaj7
+8r	D major-seventh
 16cc#	.
 16r	.
 16aa	.
 16r	.
-4aa	Dmaj7
+4aa	D major-seventh
 4ee	.
 16ee	.
 16r	.
 =2	=2
-8r	Bdim/D
-8cc#	E7/D
+8r	B diminished/D
+8cc#	E dominant/D
 8r	.
 8cc#	.
-8cc#	Ddim
+8cc#L	D diminished
 8ee	.
-8cc#	.
+8cc#J	.
 8r	.
 =3	=3
-8ff#	Amaj7/C#
-8ee	.
+8ff#L	A major-seventh/C#
+8eeJ	.
 8r	.
-8dd	Amaj7/C#
+8dd	A major-seventh/C#
 8cc#	.
 8r	.
-8b	.
-8a	.
+8bL	.
+8aJ	.
 =4	=4
-4.r	Cdim
-4r	Cdim
-8f#	.
+4.r	C diminished
+4r	C diminished
+8f#L	.
 8g#	.
-8a[	.
+[8aJ	.
 =5	=5
-8a]	Bm7
+8a]	B minor-seventh
 4r	.
-8r	Bm7
-8cc#	.
+8r	B minor-seventh
+8cc#L	.
 8ee	.
-8b	.
+8bJ	.
 8r	.
 =6	=6
-16f#	E11
+16f#	E dominant-11th
 16r	.
 8b	.
 8r	.
-8a	E11
+8a	E dominant-11th
 8r	.
 16c#	.
 16r	.
-8e	.
-8cc#	.
+8eL	.
+8cc#J	.
 =7	=7
-8ee	Amaj7sus2
+8eeL	A major-seventh-suspended-second
 8ff#	.
+8cc#J	.
+4ee	A major-seventh
+8ff#L	.
 8cc#	.
-4ee	Amaj7
-8ff#	.
-8cc#	.
-8ee[	.
+[8eeJ	.
 =8	=8
-4ee]	A7
+4ee]	A dominant
 8r	.
-4.r	A7
-8a	.
-8cc#	.
+4.r	A dominant
+8aL	.
+8cc#J	.
 =9	=9
-8r	Dmaj7
+8r	D major-seventh
 16cc#	.
 16r	.
 16aa	.
 16r	.
-4aa	Dmaj7
+4aa	D major-seventh
 4ee	.
 16ee	.
 16r	.
 =10	=10
-8r	Bdim/D
-8cc#	E7/D
+8r	B diminished/D
+8cc#	E dominant/D
 8r	.
 8cc#	.
-8cc#	Ddim
+8cc#L	D diminished
 8ee	.
-16cc#	.
+16cc#Jk	.
 8.r	.
 =11	=11
-8ddd	Amaj7/C#
-8ccc#	.
+8dddL	A major-seventh/C#
+8ccc#J	.
 8r	.
-8eee	Amaj7/C#
+8eee	A major-seventh/C#
 8bb	.
 8r	.
-8bb	.
-8aa[	.
+8bbL	.
+[8aaJ	.
 =12	=12
-4aa]	Amaj7/C#
+4aa]	A major-seventh/C#
 8r	.
-4r	F#m7
-8f#	.
+4r	F# minor-seventh
+8f#L	.
 8g#	.
-8a[	.
+[8aJ	.
 =13	=13
-8a]	Bm7
+8a]	B minor-seventh
 4r	.
-8r	Bm7
-8cc#	.
+8r	B minor-seventh
+8cc#L	.
 8ee	.
-8b	.
+8bJ	.
 8r	.
 =14	=14
-16A	Fmaj7
+16A	F major-seventh
 16r	.
 8b	.
 8r	.
-8a	Fmaj7
+8a	F major-seventh
 8r	.
 16c#	.
 16r	.
-8e	.
-8cc#	.
+8eL	.
+8cc#J	.
 =15	=15
-8ee	C#m
+8eeL	C# minor
 8ff#	.
+8cc#J	.
+4ee	F# minor-seventh
+8ff#L	.
 8cc#	.
-4ee	F#m7
-8ff#	.
-8cc#	.
-8ee[	Bm7
+[8eeJ	B minor-seventh
 =16	=16
-8ee]	.
+8eeL]	.
 8cc#	.
-8a	.
-4.b	C#m7/E
+8aJ	.
+4.b	C# minor-seventh/E
 8a	.
 8r	.
 ==	==

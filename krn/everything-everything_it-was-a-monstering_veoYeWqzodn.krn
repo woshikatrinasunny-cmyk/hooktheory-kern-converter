@@ -16,34 +16,34 @@
 *d:	*
 *M4/4	*
 =1	=1
-8f	Dm
-8e	.
+8fL	D minor
+8eJ	.
 4d	.
 4e	.
-8d	.
-8d[	Dm7/C
+8dL	.
+[8dJ	D minor-seventh/C
 =2	=2
 2d]	.
 8e	.
 4d	.
-8d[	B-maj7
+[8d	B- major-seventh
 =3	=3
 4.d]	.
 8r	.
 8d	.
 4e	.
-8f[	F
+[8f	F major
 =4	=4
 2f]	.
 8f	.
 4e	.
-8e[	E7
+[8e	E dominant
 =5	=5
 4.e]	.
 8r	.
 4e	.
-8d	.
-8e[	.
+8dL	.
+[8eJ	.
 =6	=6
 4.e]	.
 8r	.
@@ -52,7 +52,7 @@
 =7	=7
 2e	.
 4e	.
-8d	.
-8f	.
+8dL	.
+8fJ	.
 ==	==
 *-	*-

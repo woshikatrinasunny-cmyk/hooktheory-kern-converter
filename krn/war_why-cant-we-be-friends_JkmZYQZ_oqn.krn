@@ -16,65 +16,65 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4.r	Fadd(5,7,9,10)
-4.r	Fadd(4,5,7,9,10)
-8dd	.
-8ff	.
+4.r	F other-5,7,9,10
+4.r	F other-4,5,7,9,10
+8ddL	.
+8ffJ	.
 =2	=2
-4gg	B-
-8ff	.
-8ff	.
+4gg	B- major
+8ffL	.
+8ffJ	.
 4dd	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 =3	=3
-4cc	D7/A
+4cc	D dominant/A
 8cc	.
 4.dd	.
-8dd	.
-8b-	.
+8ddL	.
+8b-J	.
 =4	=4
-4cc	Gm
+4cc	G minor
 8dd	.
 4.b-	.
-8b-	.
-8b-	.
+8b-L	.
+8b-J	.
 =5	=5
-4b-	Fm7
+4b-	F minor-seventh
 8cc	.
-3...dd	B-7
+3...dd	B- dominant
 =6	=6
-8r	E-
+8r	E- major
+8b-L	.
 8b-	.
-8b-	.
+8gJ	.
+8b-L	.
 8g	.
 8b-	.
-8g	.
-8b-	.
-8g	.
+8gJ	.
 =7	=7
-8cc	D7
+8ccL	D dominant
 8dd	.
-8cc	.
+8ccJ	.
 4.dd	.
 4r	.
 =8	=8
-8r	Cm7
+8r	C minor-seventh
+8gL	.
+8b-	.
+8gJ	.
+8b-L	.
 8g	.
 8b-	.
-8g	.
-8b-	.
-8g	.
-8b-	.
-16g	.
-16f	.
+16gL	.
+16fJJ	.
 =9	=9
-8cc	Fsus4
+8ccL	F suspended-fourth
 8dd	.
-8cc	.
-4dd	F
+8ccJ	.
+4dd	F major
 8r	.
-8dd	.
-8ff	.
+8ddL	.
+8ffJ	.
 ==	==
 *-	*-

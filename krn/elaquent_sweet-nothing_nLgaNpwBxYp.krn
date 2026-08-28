@@ -16,28 +16,28 @@
 *A:	*
 *M4/4	*
 =1	=1
-8ff#	Am9
+8ff#	A minor-ninth
 4ee	.
 8dd	.
 2b	.
 =2	=2
-4ff#	Cmaj9
-4ee	Bm9
-16ff#	A#maj9
+4ff#	C major-ninth
+4ee	B minor-ninth
+16ff#LL	A# major-ninth
 16ee	.
 16ff#	.
-16ee[	.
-8ee]	Am9
-8dd	.
+[16eeJ	.
+8ee]	A minor-ninth
+8ddJ	.
 =3	=3
-16ff#	Bm7
+16ff#LL	B minor-seventh
 16ee	.
-16ff#	.
+16ff#J	.
 8.ee	.
-8dd	.
+8ddJ	.
 2b	.
 =4	=4
-8ff#	Em11
+8ff#	E minor-11th
 4ee	.
 8dd	.
 8ff#	.
@@ -45,28 +45,28 @@
 16dd	.
 16r	.
 =5	=5
-8ff#	Am9
+8ff#	A minor-ninth
 4ee	.
 8dd	.
 2b	.
 =6	=6
-4ff#	Cmaj9
-4ee	Bm9
-16ff#	A#maj9
+4ff#	C major-ninth
+4ee	B minor-ninth
+16ff#LL	A# major-ninth
 16ee	.
 16ff#	.
-16ee[	.
-8ee]	Am9
-8dd	.
+[16eeJ	.
+8ee]	A minor-ninth
+8ddJ	.
 =7	=7
-16ff#	Bm7
+16ff#LL	B minor-seventh
 16ee	.
-16ff#	.
+16ff#J	.
 8.ee	.
-8dd	.
+8ddJ	.
 2b	.
 =8	=8
-8ff#	Em11
+8ff#	E minor-11th
 4ee	.
 8dd	.
 8ff#	.

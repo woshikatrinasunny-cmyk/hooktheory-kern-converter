@@ -16,48 +16,48 @@
 *a:	*
 *M4/4	*
 =1	=1
-4r	Dm
+4r	D minor
 4dd	.
 4aa	.
 4ccc	.
 =2	=2
-8ccc	Am
+8cccL	A minor
 8bb	.
 8bb	.
-8aa	.
-8aa	.
+8aaJ	.
+8aaL	.
 8ee	.
 8ee	.
-8ff	.
+8ffJ	.
 =3	=3
-4ff	Dm
+4ff	D minor
 4dd	.
 4aa	.
 4ccc	.
 =4	=4
-8ccc	Am
+8cccL	A minor
 8bb	.
 8bb	.
-8aa	.
-8aa	.
+8aaJ	.
+8aaL	.
 8ee	.
 8ee	.
-8ff	.
+8ffJ	.
 =5	=5
-4ff	Dm
+4ff	D minor
 4dd	.
 4aa	.
 4ccc	.
 =6	=6
-8ccc	Am
-8bb	.
+8cccL	A minor
+8bbJ	.
 4bb	.
 8r	.
 4ccc	.
 8ddd	.
 =7	=7
-8ccc	E
-2..eee[	.
+8ccc	E major
+[2..eee	.
 =8	=8
 1eee]	.
 ==	==

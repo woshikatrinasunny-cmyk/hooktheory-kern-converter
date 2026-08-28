@@ -16,57 +16,57 @@
 *g:	*
 *M4/4	*
 =1	=1
-2g	Gm
+2g	G minor
 4b-	.
 4dd	.
 =2	=2
-4dd-	D/G-
+4dd-	D major/G-
 2.g-	.
 =3	=3
-3...f[	Ddim/F
-16f]	.
+[3...f	D diminished/F
+16fLK]	.
 8.a-	.
-8dd-	.
+8dd-J	.
 =4	=4
-4cc	Cadd(2,4,7)/E
+4cc	C other-2,4,7/E
 2.en	.
 =5	=5
-16e-	Cadd(2,3,7)/E-
-16d	.
+16e-LL	C other-2,3,7/E-
+16dJJ	.
 4.e-	.
-8.g	.
+8.gL	.
 8.ee-	.
-8dd	.
+8ddJ	.
 =6	=6
-16d	Gm/D
-16d-	.
+16dLL	G minor/D
+16d-JJ	.
 4.d	.
-8.g	.
+8.gL	.
 8.dd	.
-8dd-	.
+8dd-J	.
 =7	=7
-16d	D7
+16dLL	D dominant
 16g-	.
 16a	.
 16g-	.
 16a	.
 16cc	.
 16a	.
-16cc	.
-16ee-	.
+16ccJJ	.
+16ee-LL	.
 16cc	.
 16ee-	.
 16gg-	.
 16aa	.
 16gg-	.
 16ee-	.
-16cc	.
+16ccJJ	.
 =8	=8
-16ee-	.
+16ee-LL	.
 16cc	.
 16a	.
-16g-	.
-2g	Gm
+16g-JJ	.
+2g	G minor
 4b-	.
 ==	==
 *-	*-

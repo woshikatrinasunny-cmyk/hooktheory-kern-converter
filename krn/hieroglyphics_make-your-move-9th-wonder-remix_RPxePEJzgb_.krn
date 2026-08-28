@@ -16,30 +16,30 @@
 *c:	*
 *M4/4	*
 =1	=1
-16c	Cadd(2,3,7)
+16c	C other-2,3,7
 6...d	.
-4.ff	Cm11
-4ff	Cm11
+4.ff	C minor-11th
+4ff	C minor-11th
 =2	=2
-16C	Cm
-16B-	.
+16CLL	C minor
+16B-J	.
 8C	.
 8B-	.
-8D[	.
-2D]	Gm7/D
+[8DJ	.
+2D]	G minor-seventh/D
 =3	=3
-4.c	A-maj7
+4.c	A- major-seventh
 16f	.
-2g[	.
+[2g	.
 16g]	.
 =4	=4
-8gg	A-maj7
-8gg	A-maj7
-16ff	Gm7
-8ff	Gm7
-16ff	Gm7
-8dd	E-maj7
-8dd	E-maj7
-4ee-	Fm7
+8ggL	A- major-seventh
+8gg	A- major-seventh
+16ffk	G minor-seventh
+8ff	G minor-seventh
+16ffJk	G minor-seventh
+8ddL	E- major-seventh
+8ddJ	E- major-seventh
+4ee-	F minor-seventh
 ==	==
 *-	*-

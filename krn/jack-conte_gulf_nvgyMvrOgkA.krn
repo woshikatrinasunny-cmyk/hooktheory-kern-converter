@@ -16,37 +16,37 @@
 *e:	*
 *M4/4	*
 =1	=1
-2r	Aadd(3,7,9)
+2r	A other-3,7,9
 2e	.
 =2	=2
 2f#	.
-2g[	.
+[2g	.
 =3	=3
-8g]	Cadd(4,6,7)
+8g]	C other-4,6,7
 2..a	.
 =4	=4
-8a	D#add(4,6,8)
+8a	D# other-4,6,8
 2..b	.
 =5	=5
-2..b[	E
-8b_	D#aug
+[2..b	E major
+8b_	D# augmented
 =6	=6
 2..b_	.
-8b_	Fadd(4,6,7)
+8b_	F other-4,6,7
 =7	=7
 2..b_	.
-8b_	C
+8b_	C major
 =8	=8
 1b_	.
 =9	=9
-2..b_	E
-8b_	D#aug
+2..b_	E major
+8b_	D# augmented
 =10	=10
 2..b_	.
-8b_	Fadd(4,6,7)
+8b_	F other-4,6,7
 =11	=11
 2..b]	.
-8r	C
+8r	C major
 =12	=12
 3...r	.
 4.r	.

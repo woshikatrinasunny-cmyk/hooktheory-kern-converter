@@ -16,7 +16,7 @@
 *e:	*
 *M4/4	*
 =1	=1
-1r	E
+1r	E major
 =2	=2
 1r	.
 =3	=3
@@ -24,115 +24,115 @@
 =4	=4
 1r	.
 =5	=5
-1r	Em
+1r	E minor
 =6	=6
-1r	Fmaj7/E
+1r	F major-seventh/E
 =7	=7
-1r	Dadd(2,3,7)
+1r	D other-2,3,7
 =8	=8
-1r	Em
+1r	E minor
 =9	=9
-1r	Em
+1r	E minor
 =10	=10
-1r	Dadd(2,3,7)
+1r	D other-2,3,7
 =11	=11
-1r	Fmaj7/E
+1r	F major-seventh/E
 =12	=12
-1r	Em
+1r	E minor
 =13	=13
-2b	Em
+2b	E minor
 2cc	.
 =14	=14
-2dd	F
+2dd	F major
 2cc	.
 =15	=15
-2.ee	Dm
+2.ee	D minor
 4b	.
 =16	=16
-1b	Em
+1b	E minor
 =17	=17
-2g	Em
+2g	E minor
 2a	.
 =18	=18
-2b	Dm
+2b	D minor
 2g	.
 =19	=19
-2f	F
+2f	F major
 2g	.
 =20	=20
-2e	Em
+2e	E minor
 2d	.
 =21	=21
-16d	E
+16dLL	E major
 16e	.
 16e	.
 16e	.
 16d	.
 16e	.
 16e	.
-16d	.
+16dJJ	.
 16e	.
 16r	.
-16d	.
-16e	.
+16dLL	.
+16eJJ	.
 16r	.
-16e	.
+16eLL	.
 16f	.
-16d	.
+16dJJ	.
 =22	=22
-16d	.
+16dLL	.
 16e	.
 16e	.
 16e	.
 16d	.
 16e	.
 16e	.
-16d	.
+16dJJ	.
 16e	.
 16r	.
-16d	.
-16e	.
+16dLL	.
+16eJJ	.
 16r	.
-16e	.
+16eLL	.
 16b	.
-16B	.
+16BJJ	.
 =23	=23
-16d	.
+16dLL	.
 16e	.
 16e	.
 16e	.
 16d	.
 16e	.
 16e	.
-16d	.
+16dJJ	.
 16e	.
 16r	.
-16d	.
-16e	.
+16dLL	.
+16eJJ	.
 16r	.
-16e	.
+16eLL	.
 16f	.
-16d	.
+16dJJ	.
 =24	=24
-16d	.
+16dLL	.
 16e	.
 16e	.
 16e	.
 16d	.
 16e	.
 16e	.
-16d	.
+16dJJ	.
 16e	.
 16r	.
-16d	.
-16e	.
+16dLL	.
+16eJJ	.
 16r	.
-16e	.
+16eLL	.
 16b	.
-16B	.
+16BJJ	.
 =25	=25
 8dd#	.
-2..ee[	.
+[2..ee	.
 =26	=26
 1ee_	.
 =27	=27
@@ -148,14 +148,14 @@
 4ee	.
 4r	.
 =29	=29
-4e	E
+4e	E major
 4e	.
 8e	.
 4e	.
 8e	.
 =30	=30
-8e	.
-8e	.
+8eL	.
+8eJ	.
 4e	.
 8e	.
 4e	.
@@ -167,8 +167,8 @@
 4e	.
 8e	.
 =32	=32
-8e	.
-8e	.
+8eL	.
+8eJ	.
 4e	.
 8e	.
 4e	.

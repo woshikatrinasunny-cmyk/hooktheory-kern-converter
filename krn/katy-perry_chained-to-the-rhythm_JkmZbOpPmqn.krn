@@ -16,94 +16,94 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	Am
-16g	.
+8r	A minor
+16gLL	.
 16a	.
-16a	.
+16aJJ	.
 16r	.
-16e	.
-16e	A7sus4
-8e	.
-16g	.
-16a	.
+16eLL	.
+16eJJ	A dominant-seventh-suspended-fourth
+8eL	.
+16gL	.
+16aJJ	.
 4a	.
 =2	=2
+8aL	.
+8a	A minor
 8a	.
-8a	Am
-8a	.
-16e	.
-16e	A7sus4
-8e	.
+16eL	.
+16eJJ	A dominant-seventh-suspended-fourth
+8eL	.
 8a	.
 8a	.
-8g	.
+8gJ	.
 =3	=3
-8a	Dm7
-16g	.
+8aL	D minor-seventh
+16gL	.
 16a	.
-16a	.
+16aJJ	.
 16r	.
-16f	.
-16f	D7sus2
-8f	.
+16fLL	.
+16fJJ	D dominant-seventh-suspended-second
+8fL	.
 8a	.
-8a	.
+8aJ	.
 8r	.
 =4	=4
+16aLL	.
 16a	.
-16a	.
-16a	Dm7
-16a	.
+16a	D minor-seventh
+16aJ	.
 8a	.
-16f	.
-16f	D7sus2
-8f	.
+16fL	.
+16fJJ	D dominant-seventh-suspended-second
+8fL	.
 8a	.
 8a	.
-8g	.
+8gJ	.
 =5	=5
-8a	F
+8a	F major
 8r	.
 8a	.
 16r	.
-16f	Fmaj7
-8f	.
+16f	F major-seventh
+8fL	.
 8a	.
-8a	.
+8aJ	.
 8r	.
 =6	=6
 8r	.
-8r	F
+8r	F major
 8a	.
 16r	.
-16f	Fmaj7
-8f	.
+16f	F major-seventh
+8fL	.
 8a	.
 8a	.
-8g	.
+8gJ	.
 =7	=7
-8e	C
+8e	C major
 8r	.
-16d	.
-8e	.
+16dLK	.
+8eJ	.
 16r	.
-16e	.
+16eLK	.
 8g	.
-16g	.
-8g	.
+16gk	.
+8gJ	.
 8r	.
 =8	=8
-16e	Em7
+16eLK	E minor-seventh
 8g	.
-16g	.
-8g	.
+16gk	.
+8gJ	.
 8r	.
-16e	.
+16eLK	.
 8g	.
-16g	.
+16gL	.
 16cc	.
 16b	.
 16a	.
-16g	.
+16gJJ	.
 ==	==
 *-	*-

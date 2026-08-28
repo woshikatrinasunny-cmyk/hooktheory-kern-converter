@@ -16,68 +16,68 @@
 *D:	*
 *M4/4	*
 =1	=1
-8dd	G
+8ddL	G major
 8dd	.
 8dd	.
+8ddJ	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8dd	.
+8ddJ	.
 =2	=2
-8dd	D
+8ddL	D major
 8dd	.
 8dd	.
-8cc#	.
-4cc#	A
+8cc#J	.
+4cc#	A major
 4r	.
 =3	=3
-8dd	G
+8ddL	G major
 8dd	.
 8dd	.
+8ddJ	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8dd	.
+8ddJ	.
 =4	=4
-8ee	A
+8eeL	A major
 8ee	.
 8ee	.
-8dd	.
-4dd	D
+8ddJ	.
+4dd	D major
 4r	.
 =5	=5
-8dd	G
+8ddL	G major
 8dd	.
 8dd	.
+8ddJ	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8dd	.
+8ddJ	.
 =6	=6
-8dd	D
+8ddL	D major
 8dd	.
 8dd	.
-8cc#	.
-4cc#	A
+8cc#J	.
+4cc#	A major
 4r	.
 =7	=7
-8dd	G
+8ddL	G major
 8dd	.
 8dd	.
+8ddJ	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8dd	.
-8dd	.
+8ddJ	.
 =8	=8
-8ee	A
+8eeL	A major
 8ee	.
 8ee	.
-8dd	.
-4dd	D
+8ddJ	.
+4dd	D major
 4r	.
 ==	==
 *-	*-

@@ -15,42 +15,42 @@
 *B:	*
 *M4/4	*
 =1	=1
-8ff#	F#
-16ff#	.
+8ff#L	F# major
+16ff#k	.
 8.ff#	.
-16ff#	.
+16ff#Jk	.
 8ff#	.
-16cc#	.
-8cc#	.
+16cc#LK	.
+8cc#J	.
 8r	.
 8dd#	.
 =2	=2
-8ee	E
+8eeL	E major
 8ee	.
 8ee	.
-16ee	.
-16dd#[	.
-8.dd#]	B
+16eeL	.
+[16dd#JJ	.
+8.dd#]	B major
 8r	.
-8dd#	.
-16f#	.
+8dd#L	.
+16f#Jk	.
 =3	=3
-8f#	B
-16g#	.
-8.b	.
+8f#L	B major
+16g#k	.
+8.bJ	.
 8r	.
-8b	G#m
-16cc#	.
+8bL	G# minor
+16cc#k	.
 8dd#	.
-16cc#	.
-8b	.
+16cc#k	.
+8bJ	.
 =4	=4
-4.cc#	F#
+4.cc#	F# major
 16r	.
 8ff#	.
-16b	.
-16dd#	.
-8.cc#	.
+16bLL	.
+16dd#J	.
+8.cc#J	.
 8r	.
 ==	==
 *-	*-

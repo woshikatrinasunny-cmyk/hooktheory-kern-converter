@@ -16,132 +16,132 @@
 *B:	*
 *M4/4	*
 =1	=1
-8.B	B
+8.BL	B major
 8.B	.
-8B	.
-8.c#	F#7/E
-16d#[	.
-8d#]	B/D#
-8B	.
+8BJ	.
+8.c#L	F# dominant/E
+[16d#k	.
+8d#]	B major/D#
+8BJ	.
 =2	=2
-8B	E
+8BL	E major
 8e	.
-8e	C#m
-8d#	.
-8d#	F#
-8c#	.
-4c#	F#7/E
+8e	C# minor
+8d#J	.
+8d#L	F# major
+8c#J	.
+4c#	F# dominant/E
 =3	=3
-8B	B/D#
+8BL	B major/D#
 8f#	.
 8f#	.
-8f#	.
-8f#	Eadd(2,4,7)
+8f#J	.
+8f#L	E other-2,4,7
 8e	.
 8B	.
-8c#	.
+8c#J	.
 =4	=4
-2d#	G#m
-4.r	F#sus4
+2d#	G# minor
+4.r	F# suspended-fourth
 8d#	.
 =5	=5
 *k[f#c#g#d#a#]	*
 *g#:	*
-8.d#	D#
+8.d#L	D# major
 8.d#	.
-8d#	.
-8.fn	A#7
-16gn[	.
-8gn]	D#7
-8d#	.
+8d#J	.
+8.fnL	A# dominant
+[16gnk	.
+8gn]	D# dominant
+8d#J	.
 =6	=6
-8d#	G#m
+8d#L	G# minor
 8g#	.
-8g#	Fm7b5
-8gn	.
-8gn	D#/A#
+8g#	F half-diminished
+8gnJ	.
+8gnL	D# major/A#
 8fn	.
-8fn	A#7/G#
-8d#	.
+8fn	A# dominant/G#
+8d#J	.
 =7	=7
-8d#	B/F#
+8d#L	B major/F#
 8a#	.
 8a#	.
-8a#	.
-8a#	A#sus4/F
+8a#J	.
+8a#L	A# suspended-fourth/F
 8g#	.
-8d#	A#7
-8fn	.
+8d#	A# dominant
+8fnJ	.
 =8	=8
-4gn[	D#add(2,4,7)
-4gn]	D#
+[4gn	D# other-2,4,7
+4gn]	D# major
 4.r	.
 8d#	.
 =9	=9
-8.g#	G#m
+8.g#L	G# minor
 8.g#	.
-8g#	.
-8.a#	D#
-16b[	.
-16b]	G#m
+8g#J	.
+8.a#L	D# major
+[16bL	.
+16bJJ]	G# minor
 8.r	.
 =10	=10
-8g#	C#m7
+8g#L	C# minor-seventh
 8cc#	.
 8cc#	.
-8b	.
-8b	D#m
-8a#	.
-4a#	D#
+8bJ	.
+8bL	D# minor
+8a#J	.
+4a#	D# major
 =11	=11
-8g#	Eadd(2,4,7)
+8g#L	E other-2,4,7
 8cc#	.
-8cc#	E
-8b	.
-8b	Bmaj7/A#
-8a#	D#m/A#
-8a#	A#
-8g#	A#7
+8cc#	E major
+8bJ	.
+8bL	B major-seventh/A#
+8a#	D# minor/A#
+8a#	A# major
+8g#J	A# dominant
 =12	=12
-4a#	D#add(2,4,7)
-3...r	D#
+4a#	D# other-2,4,7
+3...r	D# major
 8d#	.
 =13	=13
-8g#	G#m
-8g#	.
+8g#L	G# minor
+8g#J	.
 8r	.
 8g#	.
-8a#	D#
-16b[	.
-16b]	G#m
+8a#L	D# major
+[16bL	.
+16bJJ]	G# minor
 8r	.
 8g#	.
 =14	=14
-8.dd#	C#m7
-16cc#	.
-16cc#	.
+8.dd#L	C# minor-seventh
+16cc#L	.
+16cc#J	.
 8b	.
-16b[	.
-16b]	B/D#
+[16bJk	.
+16bLK]	B major/D#
 8a#	.
-16a#[	.
-8a#]	D#7
-8cc#	.
+[16a#k	.
+8a#]	D# dominant
+8cc#J	.
 =15	=15
-8.cc#	C#m7/E
-16b	.
-16b	C#m
+8.cc#L	C# minor-seventh/E
+16bL	.
+16bJ	C# minor
 8a#	.
-16a#[	.
-16a#]	A#sus4
-16g#	.
-8g#[	.
-8g#]	A#7
-8a#	.
+[16a#Jk	.
+16a#LL]	A# suspended-fourth
+16g#J	.
+[8g#	.
+8g#]	A# dominant
+8a#J	.
 =16	=16
-4a#[	D#7
-4a#]	D#add(1,3,5,7,10)
-4r	Emaj7/D#
-4r	D#7
+[4a#	D# dominant
+4a#]	D# other-1,3,5,7,10
+4r	E major-seventh/D#
+4r	D# dominant
 ==	==
 *-	*-

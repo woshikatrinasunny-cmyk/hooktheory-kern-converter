@@ -16,18 +16,18 @@
 *g#:	*
 *M4/4	*
 =1	=1
-4r	G#m7
+4r	G# minor-seventh
 16ff#	.
 16r	.
 16f#	.
 16r	.
-16ee#	E#m7b5/D#
+16ee#	E# half-diminished/D#
 8.r	.
-8F#	.
-16Gn	.
+8F#L	.
+16GnJk	.
 16r	.
 =2	=2
-16G#	G#m7
+16G#	G# minor-seventh
 16r	.
 16gg#	.
 16r	.
@@ -35,50 +35,50 @@
 16r	.
 16d#	.
 16r	.
-8r	G#m/D#
+8r	G# minor/D#
 16c#	.
 16r	.
-16B	G#m7/F#
+16B	G# minor-seventh/F#
 16r	.
 16c#	.
 16r	.
 =3	=3
-4r	C#7
+4r	C# dominant
 16ff#	.
 16r	.
 16B	.
 16r	.
-16ee#	C#/G#
+16ee#	C# major/G#
 8.r	.
-8D#	.
-16F#	.
+8D#L	.
+16F#Jk	.
 16r	.
 =4	=4
-16G#	C#7
+16G#	C# dominant
 16r	.
 16gg#	.
 16r	.
 16ff#	.
 32r	.
-32dd#	.
-8ddn[	.
-8ddn]	C#/G#
-16cc#	.
+32dd#LKK	.
+[8ddnJ	.
+8ddnL]	C# major/G#
+16cc#Jk	.
 16r	.
-4b	C#7/B
+4b	C# dominant/B
 =5	=5
-4r	G#m7
+4r	G# minor-seventh
 16ff#	.
 16r	.
 16f#	.
 16r	.
-16ee#	E#m7b5/D#
+16ee#	E# half-diminished/D#
 8.r	.
-8F#	.
-16Gn	.
+8F#L	.
+16GnJk	.
 16r	.
 =6	=6
-16G#	G#m7
+16G#	G# minor-seventh
 16r	.
 16gg#	.
 16r	.
@@ -86,88 +86,88 @@
 16r	.
 16d#	.
 16r	.
-8r	G#m/D#
+8r	G# minor/D#
 16c#	.
 16r	.
-16B	G#m7/F#
+16B	G# minor-seventh/F#
 16r	.
 16c#	.
 16r	.
 =7	=7
-4r	C#7
+4r	C# dominant
 16ff#	.
 16r	.
 16B	.
 16r	.
-16ee#	C#/G#
+16ee#	C# major/G#
 8.r	.
-8D#	.
-16F#	.
+8D#L	.
+16F#Jk	.
 16r	.
 =8	=8
-16G#	C#7
+16G#	C# dominant
 32r	.
-32ff#	.
-16gg#	.
+32ff#LLK	.
+16gg#JJ	.
 16r	.
 16ff#	.
 16r	.
 16dd#	.
 32r	.
 32dd#	.
-16cc#	C#/G#
+16cc#	C# major/G#
 16r	.
 16b	.
 16r	.
-16cc#	C#7/B
+16cc#	C# dominant/B
 16r	.
 16dd#	.
 16r	.
 =9	=9
-4r	E
+4r	E major
 16een	.
 16r	.
 16f#	.
 16r	.
-16een	E/B
+16een	E major/B
 8.r	.
-8F#	.
-16Gn	.
+8F#L	.
+16GnJk	.
 16r	.
 =10	=10
-16D#	D#
+16D#	D# major
 16r	.
 16dd#	.
 16r	.
 16gn	.
 16r	.
-8d#[	.
-8d#]	D#/A#
-16c#	.
+[8d#	.
+8d#L]	D# major/A#
+16c#Jk	.
 16r	.
+16BLL	.
 16B	.
-16B	.
-16c#	.
+16c#JJ	.
 16r	.
 =11	=11
-4r	C#m/E
+4r	C# minor/E
 16cc#	.
 16r	.
 16b	.
 16r	.
-8cc#	C#m7/B
+8cc#	C# minor-seventh/B
 16.r	.
-32en	.
+32enLKK	.
 8d#	.
-8dn	.
+8dnJ	.
 =12	=12
-16d#	D#
+16d#	D# major
 16r	.
-8aa#	.
+8aa#L	.
 8ggn	.
-16dd#	.
+16dd#Jk	.
 16r	.
-16gn	D#/A#
+16gn	D# major/A#
 16r	.
 16ggn	.
 16r	.

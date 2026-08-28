@@ -16,89 +16,89 @@
 *B:	*
 *M4/4	*
 =1	=1
-8B	B
+8BL	B major
 8e	.
-8d#	.
+8d#J	.
 3...B	.
 =2	=2
-4.a	Esus4/B
-4.g#	E/B
-8f#	B
+4.a	E suspended-fourth/B
+4.g#	E major/B
+8f#	B major
 8r	.
 =3	=3
-4.fn	C#7/B
+4.fn	C# dominant/B
 8c#	.
-8fn	.
+8fnL	.
 8f#	.
 8g#	.
-8c#[	.
+[8c#J	.
 =4	=4
-4.c#_	C#7/B
-4.c#_	C#m7b5/B
-8c#]	Badd(2,5,7)
+4.c#_	C# dominant/B
+4.c#_	C# half-diminished/B
+8c#]	B other-2,5,7
 8r	.
 =5	=5
-8B	B
+8BL	B major
 8e	.
-8d#	.
+8d#J	.
 3...B	.
 =6	=6
-4.a	Esus4/B
-4.g#	E/B
-8f#	B
+4.a	E suspended-fourth/B
+4.g#	E major/B
+8f#	B major
 8r	.
 =7	=7
-4.fn	C#7/B
+4.fn	C# dominant/B
 8c#	.
-8fn	.
+8fnL	.
 8f#	.
 8g#	.
-8c#[	.
+[8c#J	.
 =8	=8
-4.c#_	C#7/B
-4.c#_	C#m7b5/B
-8c#]	Badd(2,5,7)
+4.c#_	C# dominant/B
+4.c#_	C# half-diminished/B
+8c#]	B other-2,5,7
 8r	.
 =9	=9
-3...f#	B
-8e	.
+3...f#	B major
+8eL	.
 8d#	.
-8B	.
+8BJ	.
 =10	=10
-4.a#	F#/A#
+4.a#	F# major/A#
 4.b	.
 4a#	.
 =11	=11
-3...a	F#m/A
-8g#	.
+3...a	F# minor/A
+8g#L	.
 8f#	.
-8a	.
+8aJ	.
 =12	=12
-4.g#	E
+4.g#	E major
 4.e	.
-8e	.
-8f#	.
+8eL	.
+8f#J	.
 =13	=13
-8gn	G
+8gnL	G major
 8f#	.
-8e	.
+8eJ	.
 4B	.
-8e	.
+8eL	.
 8a	.
-8f#[	.
+[8f#J	.
 =14	=14
-2.f#]	F#m7/A
+2.f#]	F# minor-seventh/A
 4f#	.
 =15	=15
-8gn	G
+8gnL	G major
 8f#	.
-8e	.
+8eJ	.
 4B	.
-8e	.
+8eL	.
 8f#	.
-8b	.
+8bJ	.
 =16	=16
-4f#	F#m7/A
+4f#	F# minor-seventh/A
 4b	.
 4cc#	.
 4ee	.

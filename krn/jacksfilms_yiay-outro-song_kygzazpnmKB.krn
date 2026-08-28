@@ -16,38 +16,38 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4dd	B-
+4dd	B- major
 4dd	.
 4dd	.
 4dd	.
 =2	=2
-4cc	F/A
+4cc	F major/A
 4cc	.
 4cc	.
-4dd[	.
+[4dd	.
 =3	=3
-8dd]	Gm
-8cc	.
+8ddL]	G minor
+8ccJ	.
 2b-	.
-4dd[	.
+[4dd	.
 =4	=4
-4dd]	Dm/F
+4dd]	D minor/F
 4cc	.
 4b-	.
-4e-[	.
+[4e-	.
 =5	=5
-4e-]	E-
+4e-]	E- major
 4g	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
 4g	.
 =6	=6
-4dd	F
+4dd	F major
 8ff	.
 4.cc	.
 4b-	.
 =7	=7
-4b-	B-
+4b-	B- major
 2.r	.
 ==	==
 *-	*-

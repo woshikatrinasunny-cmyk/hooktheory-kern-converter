@@ -16,152 +16,152 @@
 *D:	*
 *M2/4	*
 =1	=1
-8ccc#	D
-8ddd	.
-8eee	.
-8fff#	.
+8ccc#L	D major
+8dddJ	.
+8eeeL	.
+8fff#J	.
 =2	=2
-8eee	Gadd(2,4,7)/D
-8ddd	.
-8ccc#	.
-8bb	.
+8eeeL	G other-2,4,7/D
+8dddJ	.
+8ccc#L	.
+8bbJ	.
 =3	=3
-8ccc#	Dadd(2,5,7,11)
-8ddd	.
-8eee	.
-8ccc#	.
+8ccc#L	D other-2,5,7,11
+8dddJ	.
+8eeeL	.
+8ccc#J	.
 =4	=4
-16ddd	D
+16dddLL	D major
 16ccc#	.
 16ddd	.
-16eee	.
-8ddd	.
-8ddd	.
+16eeeJJ	.
+8dddL	.
+8dddJ	.
 =5	=5
-8ccc#	.
-8ddd	.
-8eee	.
-8fff#	.
+8ccc#L	.
+8dddJ	.
+8eeeL	.
+8fff#J	.
 =6	=6
-8eee	Gadd(2,4,7)/D
-8ddd	.
-8ccc#	.
-8bb	.
+8eeeL	G other-2,4,7/D
+8dddJ	.
+8ccc#L	.
+8bbJ	.
 =7	=7
-8ccc#	Dadd(2,5,7,11)
-8ddd	.
-8eee	.
-8ccc#	.
+8ccc#L	D other-2,5,7,11
+8dddJ	.
+8eeeL	.
+8ccc#J	.
 =8	=8
-4.ddd	D
+4.ddd	D major
 8ddd	.
 =9	=9
-8ccc#	.
-8ddd	.
-8eee	.
-8fff#	.
+8ccc#L	.
+8dddJ	.
+8eeeL	.
+8fff#J	.
 =10	=10
-8eee	Gadd(2,4,7)/D
-8ddd	.
-8ccc#	.
-8bb	.
+8eeeL	G other-2,4,7/D
+8dddJ	.
+8ccc#L	.
+8bbJ	.
 =11	=11
-8ccc#	Dadd(2,5,7,11)
-8ddd	.
-8eee	.
-8ccc#	.
+8ccc#L	D other-2,5,7,11
+8dddJ	.
+8eeeL	.
+8ccc#J	.
 =12	=12
-16ddd	D
+16dddLL	D major
 16ccc#	.
 16ddd	.
-16eee	.
-8ddd	.
-8ddd	.
+16eeeJJ	.
+8dddL	.
+8dddJ	.
 =13	=13
-8ccc#	.
-8ddd	.
-8eee	.
-8fff#	.
+8ccc#L	.
+8dddJ	.
+8eeeL	.
+8fff#J	.
 =14	=14
-8eee	Gadd(2,4,7)/D
-8ddd	.
-8ccc#	.
-8bb	.
+8eeeL	G other-2,4,7/D
+8dddJ	.
+8ccc#L	.
+8bbJ	.
 =15	=15
-8ccc#	Dadd(2,5,7,11)
-8ddd	.
-8eee	.
-8ccc#	.
+8ccc#L	D other-2,5,7,11
+8dddJ	.
+8eeeL	.
+8ccc#J	.
 =16	=16
-4.ddd	D
+4.ddd	D major
 8aa	.
 =17	=17
-8.bb	Bm/D
-16ccc#	.
+8.bbL	B minor/D
+16ccc#Jk	.
 4bb	.
 =18	=18
-4.aa	Dmaj7sus2
+4.aa	D major-seventh-suspended-second
 8aa	.
 =19	=19
-8.bb	Bm/D
-16ccc#	.
+8.bbL	B minor/D
+16ccc#Jk	.
 4bb	.
 =20	=20
-4.aa	Dmaj7sus2
+4.aa	D major-seventh-suspended-second
 8aa	.
 =21	=21
-8bb	Bm/D
-8ccc#	.
-8ddd	.
-8ccc#	.
+8bbL	B minor/D
+8ccc#J	.
+8dddL	.
+8ccc#J	.
 =22	=22
-8bb	G/D
-8aa	.
-8gg	.
-8ff#	.
+8bbL	G major/D
+8aaJ	.
+8ggL	.
+8ff#J	.
 =23	=23
-8gg	Em7/D
-8aa	.
-8bb	.
-8gg	.
+8ggL	E minor-seventh/D
+8aaJ	.
+8bbL	.
+8ggJ	.
 =24	=24
-16aa	Dmaj7sus2
+16aaLL	D major-seventh-suspended-second
 16gg	.
 16aa	.
-16bb	.
-8aa	.
-8aa	.
+16bbJJ	.
+8aaL	.
+8aaJ	.
 =25	=25
-8.bb	Bm/D
-16ccc#	.
+8.bbL	B minor/D
+16ccc#Jk	.
 4bb	.
 =26	=26
-4.aa	Dmaj7sus2
+4.aa	D major-seventh-suspended-second
 8aa	.
 =27	=27
-8.bb	Bm/D
-16ccc#	.
+8.bbL	B minor/D
+16ccc#Jk	.
 4bb	.
 =28	=28
-4.aa	Dmaj7sus2
+4.aa	D major-seventh-suspended-second
 8aa	.
 =29	=29
-8bb	Bm/D
-8ccc#	.
-8ddd	.
-8ccc#	.
+8bbL	B minor/D
+8ccc#J	.
+8dddL	.
+8ccc#J	.
 =30	=30
-8bb	G/D
-8aa	.
-8gg	.
-8ff#	.
+8bbL	G major/D
+8aaJ	.
+8ggL	.
+8ff#J	.
 =31	=31
-8gg	Em7/D
-8aa	.
-8bb	.
-8gg	.
+8ggL	E minor-seventh/D
+8aaJ	.
+8bbL	.
+8ggJ	.
 =32	=32
-4.aa	Dmaj7sus2
+4.aa	D major-seventh-suspended-second
 8ddd	.
 ==	==
 *-	*-

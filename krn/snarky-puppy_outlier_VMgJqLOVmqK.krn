@@ -16,42 +16,42 @@
 *C:	*
 *M6/4	*
 =1	=1
-4r	C
-8c	.
-8B-	.
-8G	.
-8c[	.
-4c]	E-add(2,4,7)
-8E-	.
-8F	.
-8G	.
-8G[	.
+4r	C major
+8cL	.
+8B-J	.
+8GL	.
+[8cJ	.
+4c]	E- other-2,4,7
+8E-L	.
+8FJ	.
+8GL	.
+[8GJ	.
 =2	=2
-4G]	D
-8g-	.
-8g	.
-8a	.
-8cc	.
-4b-	A-maj7
+4G]	D major
+8g-L	.
+8gJ	.
+8aL	.
+8ccJ	.
+4b-	A- major-seventh
 4cc	.
 4a-	.
 =3	=3
-4g	D-maj7
+4g	D- major-seventh
 4a-	.
 4f	.
-4e	C
+4e	C major
 4cc	.
-4b-[	.
+[4b-	.
 =4	=4
-2b-]	E-add(2,4,7)
+2b-]	E- other-2,4,7
 4g	.
-2.g-	D
+2.g-	D major
 =5	=5
-2b-	A-maj7
-8a-	.
-8g	.
-2f	D-maj7
-8g	.
-8f	.
+2b-	A- major-seventh
+8a-L	.
+8gJ	.
+2f	D- major-seventh
+8gL	.
+8fJ	.
 ==	==
 *-	*-

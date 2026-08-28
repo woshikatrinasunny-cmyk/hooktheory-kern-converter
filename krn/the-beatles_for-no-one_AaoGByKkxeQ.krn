@@ -16,40 +16,40 @@
 *B:	*
 *M4/4	*
 =1	=1
-8r	B
-16F#	.
+8r	B major
+16F#LK	.
 8F#	.
-8.F#	.
-8r	D#m/A#
-16F#	.
+8.F#J	.
+8r	D# minor/A#
+16F#LK	.
 8F#	.
-8.F#	.
+8.F#J	.
 =2	=2
-8r	G#m
-16B	.
+8r	G# minor
+16BLK	.
 8.B	.
-16B	.
-16d#[	.
-8d#]	B/F#
+16BL	.
+[16d#JJ	.
+8d#L]	B major/F#
 8d#	.
 8d#	.
-16d#	.
-16d#[	.
+16d#L	.
+[16d#JJ	.
 =3	=3
-8d#]	E
+8d#L]	E major
 8B	.
 8B	.
-16B	.
-16B[	.
-8B]	A
+16BL	.
+[16BJJ	.
+8BL]	A major
 8Gn	.
-16Gn	.
-8.F#	.
+16Gnk	.
+8.F#J	.
 =4	=4
-8F#	B
-16F#	.
+8F#L	B major
+16F#k	.
 8.F#	.
-8D#	.
+8D#J	.
 2r	.
 ==	==
 *-	*-

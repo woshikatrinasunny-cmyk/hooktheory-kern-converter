@@ -16,59 +16,59 @@
 *E:	*
 *M4/4	*
 =1	=1
-4e[	D
-4e]	D
+[4e	D major
+4e]	D major
 8r	.
-4r	D
-8r	A
+4r	D major
+8r	A major
 =2	=2
 4r	.
-4r	A
+4r	A major
 8r	.
-4r	A
-8r	Am
+4r	A major
+8r	A minor
 =3	=3
 4r	.
-4r	Am
+4r	A minor
 8r	.
-4r	Am
-8r	B
+4r	A minor
+8r	B major
 =4	=4
-8r	D
-8r	E
-8dn[	.
-8dn]	D
-8d#	E
-8e	.
-4f#	E
+8r	D major
+8r	E major
+[8dnL	.
+8dnJ]	D major
+8d#L	E major
+8eJ	.
+4f#	E major
 =5	=5
-4e[	D
-4e_	D
+[4e	D major
+4e_	D major
 8e_	.
-4e_	D
-8e_	A
+4e_	D major
+8e_	A major
 =6	=6
 4e_	.
-4e_	A
-8e_	.
-8e]	A
+4e_	A major
+8eL_	.
+8e]	A major
 8B	.
-8B[	Am
+[8BJ	A minor
 =7	=7
 4B]	.
-4r	Am
+4r	A minor
 8r	.
-4r	Am
-8r	Am
+4r	A minor
+8r	A minor
 =8	=8
 1r	.
 =9	=9
-1r	E
+1r	E major
 =10	=10
-1r	E
+1r	E major
 =11	=11
-1r	E
+1r	E major
 =12	=12
-1r	E
+1r	E major
 ==	==
 *-	*-

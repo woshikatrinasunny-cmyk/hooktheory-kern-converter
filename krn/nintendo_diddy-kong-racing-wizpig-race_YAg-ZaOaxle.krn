@@ -16,24 +16,24 @@
 *c:	*
 *M4/4	*
 =1	=1
-4c	Cdim7
-8An	.
-8c	.
+4c	C diminished-seventh
+8AnL	.
+8cJ	.
 4g-	.
 4f	.
 =2	=2
-1en	B-dim7/E
+1en	B- diminished-seventh/E
 =3	=3
-4c	Cdim7
-8An	.
-8c	.
+4c	C diminished-seventh
+8AnL	.
+8cJ	.
 4g-	.
 4f	.
 =4	=4
-1en	B-dim7/E
+1en	B- diminished-seventh/E
 =5	=5
-16B-	Cdim
-8.c	.
+16B-LK	C diminished
+8.cJ	.
 8r	.
 16B-	.
 8.c	.
@@ -41,17 +41,17 @@
 8.c	.
 16r	.
 =6	=6
-16B-	.
-8.c	.
+16B-LK	.
+8.cJ	.
 8r	.
 16B-	.
 8.c	.
 8r	.
-8e-	.
-8dn	.
+8e-L	.
+8dnJ	.
 =7	=7
-16B-	.
-8.c	.
+16B-LK	.
+8.cJ	.
 8r	.
 16B-	.
 8.c	.
@@ -59,120 +59,120 @@
 8.c	.
 16r	.
 =8	=8
-16B-	.
-8.c	.
+16B-LK	.
+8.cJ	.
 8r	.
 16B-	.
 8.c	.
 8r	.
-8e-	.
-8dn	.
+8e-L	.
+8dnJ	.
 =9	=9
 *k[b-e-a-d-g-]	*
 *b-:	*
-4r	B-m7
-8B-	.
-8c	.
-4d-	B-m7/D-
+4r	B- minor-seventh
+8B-L	.
+8cJ	.
+4d-	B- minor-seventh/D-
 8B-	.
 8r	.
 =10	=10
-4d-	E-m7/G-
-8e-	.
-8c[	.
-4c]	B-m7/F
-8A-	.
-8F[	.
+4d-	E- minor-seventh/G-
+8e-L	.
+[8cJ	.
+4c]	B- minor-seventh/F
+8A-L	.
+[8FJ	.
 =11	=11
-8F]	B-m7
-16g-	.
-16g-	.
-8g-	.
+8FL]	B- minor-seventh
+16g-L	.
+16g-J	.
+8g-J	.
 8r	.
-8g-	B-m7/D-
-8f	.
+8g-L	B- minor-seventh/D-
+8fJ	.
 4r	.
 =12	=12
-8r	E-m7/G-
-16e-	.
-16e-	.
-8e-	.
+8r	E- minor-seventh/G-
+16e-LL	.
+16e-J	.
+8e-J	.
 8r	.
-8e-	B-m7/F
-8d-	.
+8e-L	B- minor-seventh/F
+8d-J	.
 4r	.
 =13	=13
-4r	B-m7
-8B-	.
-8c	.
-4d-	B-m7/D-
+4r	B- minor-seventh
+8B-L	.
+8cJ	.
+4d-	B- minor-seventh/D-
 8B-	.
 8r	.
 =14	=14
-4g-	E-m7/G-
-8a-	.
-8f[	.
-4f]	B-m7/F
-8e-	.
-8f[	.
+4g-	E- minor-seventh/G-
+8a-L	.
+[8fJ	.
+4f]	B- minor-seventh/F
+8e-L	.
+[8fJ	.
 =15	=15
-8f]	B-m7
-16g-	.
-16g-	.
-8g-	.
+8fL]	B- minor-seventh
+16g-L	.
+16g-J	.
+8g-J	.
 8r	.
-8g-	B-m7/D-
-8f	.
+8g-L	B- minor-seventh/D-
+8fJ	.
 4r	.
 =16	=16
-8r	E-m7/G-
-16e-	.
-16e-	.
+8r	E- minor-seventh/G-
+16e-LL	.
+16e-J	.
 8e-	.
-8d-	.
-8e-	B-m7/F
-8d-	.
+8d-J	.
+8e-L	B- minor-seventh/F
+8d-J	.
 4r	.
 =17	=17
 *k[b-e-a-]	*
 *c:	*
-4e-	Cm
-8c	.
-8g	.
+4e-	C minor
+8cL	.
+8gJ	.
 4a-	.
 4g	.
 =18	=18
-2.g-	G-m
+2.g-	G- minor
 4r	.
 =19	=19
-4e-	Cm
-8c	.
-8g	.
+4e-	C minor
+8cL	.
+8gJ	.
 4a-	.
 4g	.
 =20	=20
-4.g-	G-m
+4.g-	G- minor
 8d-	.
 2An	.
 =21	=21
-4e-	Cm
-8c	.
-8g	.
+4e-	C minor
+8cL	.
+8gJ	.
 4a-	.
 4g	.
 =22	=22
-2..g-	G-m
+2..g-	G- minor
 8r	.
 =23	=23
-4e-	Cm
-8c	.
-8g	.
+4e-	C minor
+8cL	.
+8gJ	.
 4a-	.
 4g	.
 =24	=24
-4.an	G-m
-16a-	.
-16g	.
+4.an	G- minor
+16a-LL	.
+16gJJ	.
 2g-	.
 ==	==
 *-	*-

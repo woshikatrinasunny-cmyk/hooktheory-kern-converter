@@ -16,66 +16,66 @@
 *E:	*
 *M4/4	*
 =1	=1
-4r	E/B
-8r	E/B
+4r	E major/B
+8r	E major/B
 8r	.
-4r	B/D#
-8r	B/D#
+4r	B major/D#
+8r	B major/D#
 8r	.
 =2	=2
-4r	E
-8r	E
+4r	E major
+8r	E major
 8r	.
-4r	G#m/D#
-8r	G#m/D#
+4r	G# minor/D#
+8r	G# minor/D#
 8r	.
 =3	=3
-4r	A/C#
-8r	A/C#
+4r	A major/C#
+8r	A major/C#
 8r	.
-4r	C#m
-8r	C#m
+4r	C# minor
+8r	C# minor
 8r	.
 =4	=4
-4r	C#m
-8r	C#m
+4r	C# minor
+8r	C# minor
 8r	.
-4r	B/D#
-8r	B/D#
+4r	B major/D#
+8r	B major/D#
 8r	.
 =5	=5
-4r	E
-8r	E
+4r	E major
+8r	E major
 8b	.
-8b	Emaj7sus2
+8bL	E major-seventh-suspended-second
 8b	.
-8b	Emaj7sus2
-8b	.
+8b	E major-seventh-suspended-second
+8bJ	.
 =6	=6
-8b	E
+8bL	E major
 8b	.
-8b	E
-8b	.
-8b	Emaj7
+8b	E major
+8bJ	.
+8b	E major-seventh
 8r	.
-8g#	Emaj7
+8g#	E major-seventh
 8r	.
 =7	=7
-8f#	A/E
+8f#	A major/E
 8r	.
-8r	A/E
+8r	A major/E
 8r	.
-4r	C#m/E
-8r	C#m/E
+4r	C# minor/E
+8r	C# minor/E
 8r	.
 =8	=8
-8r	C#m/E
-8a	.
-8a	C#m/E
-8a	.
-8g#	Emaj7sus2
+8r	C# minor/E
+8aL	.
+8a	C# minor/E
+8aJ	.
+8g#	E major-seventh-suspended-second
 8r	.
-8f#	Emaj7sus2
+8f#	E major-seventh-suspended-second
 8r	.
 ==	==
 *-	*-

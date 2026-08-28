@@ -16,63 +16,63 @@
 *a:	*
 *M4/4	*
 =1	=1
-8a	Am
+8aL	A minor
 8b	.
 8cc	.
-8dd	.
+8ddJ	.
 4ee	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 =2	=2
-8dd	Em
-8cc	.
+8ddL	E minor
+8ccJ	.
 4b	.
 2r	.
 =3	=3
-8dd	Dsus4
+8ddL	D suspended-fourth
 8dd	.
 8dd	.
-8dd	.
-8ee[	.
-8ee]	D
+8ddJ	.
+[8eeL	.
+8ee]	D major
 8cc	.
-8b	.
+8bJ	.
 =4	=4
-8cc	Am
+8ccL	A minor
 8b	.
 8a	.
-8a	.
-8cc	.
-8b	.
+8aJ	.
+8ccL	.
+8bJ	.
 4a	.
 =5	=5
-8a	Am
+8aL	A minor
 8b	.
 8cc	.
-8dd	.
+8ddJ	.
 4ee	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 =6	=6
-8dd	Em
-8cc	.
+8ddL	E minor
+8ccJ	.
 4b	.
 2r	.
 =7	=7
-8dd	Dsus4
+8ddL	D suspended-fourth
 8dd	.
 8dd	.
-8dd	.
-8ee[	.
-8ee]	D
+8ddJ	.
+[8eeL	.
+8ee]	D major
 8cc	.
-8b	.
+8bJ	.
 =8	=8
-8cc	Am
-8b	.
+8ccL	A minor
+8bJ	.
 4a	.
-8cc	.
-8b	.
+8ccL	.
+8bJ	.
 4a	.
 ==	==
 *-	*-

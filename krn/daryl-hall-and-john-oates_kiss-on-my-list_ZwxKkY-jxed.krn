@@ -16,58 +16,58 @@
 *C:	*
 *M4/4	*
 =1	=1
-4e	C
-8e	.
-8d	Csus2
+4e	C major
+8eL	.
+8dJ	C suspended-second
 4r	.
-8d	.
-8c[	.
+8dL	.
+[8cJ	.
 =2	=2
-4c]	C
-8d	.
-8d	Cadd(2,4,7)
+4c]	C major
+8dL	.
+8dJ	C other-2,4,7
 8r	.
+8dL	.
 8d	.
-8d	.
-8d#	Cm7
+8d#J	C minor-seventh
 =3	=3
 4d#	.
-8g	.
-8f	C7sus2
+8gL	.
+8fJ	C dominant-seventh-suspended-second
 4r	.
-8f	.
-8d#[	.
+8fL	.
+[8d#J	.
 =4	=4
-4d#]	Cm7
-8f	.
-8f	C7sus2
-8d#	.
-8g	Fadd(2,4,7)
+4d#]	C minor-seventh
+8fL	.
+8fJ	C dominant-seventh-suspended-second
+8d#L	.
+8g	F other-2,4,7
 8g	.
-8g	.
+8gJ	.
 =5	=5
 4g	.
 8f	.
-4f	F
+4f	F major
 8c	.
 4c	.
 =6	=6
-4r	Fadd(2,4,7)
-8c	.
-8c	F
-8e	.
+4r	F other-2,4,7
+8cL	.
+8cJ	F major
+8eL	.
 8g	.
 8e	.
-8g	.
+8gJ	.
 =7	=7
-4.e[	Cmaj9
-4.e_	C
-4e_	Cmaj9
+[4.e	C major-ninth
+4.e_	C major
+4e_	C major-ninth
 =8	=8
 8e_	.
-2e]	G7
+2e]	G dominant
+8dL	.
 8d	.
-8d	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

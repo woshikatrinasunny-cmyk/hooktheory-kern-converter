@@ -16,188 +16,188 @@
 *e:	*
 *M4/4	*
 =1	=1
-8E	Em
+8EL	E minor
 8E	.
 8E	.
-8E	.
-8E	.
+8EJ	.
+8EL	.
 8D	.
 8E	.
-8G[	G
+[8GJ	G major
 =2	=2
 1G]	.
 =3	=3
-8A	Am
+8AL	A minor
 8A	.
 8A	.
-8A	.
-8A	.
+8AJ	.
+8AL	.
 8G	.
 8A	.
-8c[	C
+[8cJ	C major
 =4	=4
 8c]	.
 4c	.
-4d	D
+4d	D major
 4.d	.
 =5	=5
-8E	Em
+8EL	E minor
 8E	.
 8E	.
-8E	.
-8E	.
+8EJ	.
+8EL	.
 8D	.
 8E	.
-8G[	G
+[8GJ	G major
 =6	=6
 1G]	.
 =7	=7
-8A	Am
+8AL	A minor
 8A	.
 8A	.
-8A	.
-8A	.
+8AJ	.
+8AL	.
 8G	.
 8A	.
-8c[	C
+[8cJ	C major
 =8	=8
 8c]	.
 4c	.
-4d	D
+4d	D major
 4d	.
 8d#	.
 =9	=9
-2.e	E
+2.e	E major
 4B	.
 =10	=10
-8b	.
+8bL	.
 8ee	.
-8gg#	.
+8gg#J	.
 3...bb	.
 =11	=11
-2.g	G
+2.g	G major
 4B	.
 =12	=12
-8dd	.
+8ddL	.
 8gg	.
-8bb	.
+8bbJ	.
 3...ddd	.
 =13	=13
-1a	A
+1a	A major
 =14	=14
-1cc	C/G
+1cc	C major/G
 =15	=15
-1b	B/F#
+1b	B major/F#
 =16	=16
-8B	Em/B
+8BL	E minor/B
 8B	.
 8B	.
-8B	.
-8A	B/F#
+8BJ	.
+8AL	B major/F#
 8A#	.
 8B	.
-8d	.
+8dJ	.
 =17	=17
-2.e	E
+2.e	E major
 4B	.
 =18	=18
-8b	.
+8bL	.
 8ee	.
-8gg#	.
+8gg#J	.
 3...bb	.
 =19	=19
-2.g	G
+2.g	G major
 4B	.
 =20	=20
-8dd	.
+8ddL	.
 8gg	.
-8bb	.
+8bbJ	.
 3...ddd	.
 =21	=21
-1a	A
+1a	A major
 =22	=22
-4.cc	C/G
-3...b	B/F#
+4.cc	C major/G
+3...b	B major/F#
 =23	=23
-8E	Em/B
+8EL	E minor/B
 8E	.
 8E	.
-8E	.
+8EJ	.
+8DL	.
 8D	.
-8D	.
 8E	.
-8E	.
+8EJ	.
 =24	=24
-8G	.
+8GL	.
 8F#	.
 8Fn	.
-8E	.
-8BB	.
+8EJ	.
+8BBL	.
 8E	.
 8G	.
-8A	.
+8AJ	.
 =25	=25
-8b	B7
+8bL	B dominant
 8a	.
 8f#	.
-8b	.
-8a	.
+8bJ	.
+8aL	.
 8f#	.
 8b	.
-8a	.
+8aJ	.
 =26	=26
-8f#	E7/G#
+8f#L	E dominant/G#
 8b	.
 8a	.
-8f#	Aadd(2,4,7)
-8b	.
+8f#J	A other-2,4,7
+8bL	.
 8a	.
-8f#	F#/A#
-8b	.
+8f#	F# major/A#
+8bJ	.
 =27	=27
-8ee	B
+8eeL	B major
 8dd	.
 8ee	.
-8dd	.
-8b	.
+8ddJ	.
+8bL	.
 8dd	.
 8dd#	.
-8ee	.
+8eeJ	.
 =28	=28
-8b	E7/G#
+8bL	E dominant/G#
 8f#	.
 8e	.
-8c#	Aadd(2,4,7)
-8B	.
+8c#J	A other-2,4,7
+8BL	.
 8A	.
-8A#	F#/A#
-8B	.
+8A#	F# major/A#
+8BJ	.
 =29	=29
-8F#	B7
+8F#L	B dominant
 8B	.
 8A	.
-8B	.
-8d	.
+8BJ	.
+8dL	.
 8d#	.
 8e	.
-8f#	.
+8f#J	.
 =30	=30
-8e	E7/G#
+8eL	E dominant/G#
 8f#	.
 8g#	.
-8b	Aadd(2,4,7)
-8cc#	.
+8bJ	A other-2,4,7
+8cc#L	.
 8ee	.
-8aa	F#/A#
-8aa#	.
+8aa	F# major/A#
+8aa#J	.
 =31	=31
-4.bb[	B
-4.bb_	F#/A#
-4bb_	A
+[4.bb	B major
+4.bb_	F# major/A#
+4bb_	A major
 =32	=32
 8bb_	.
-4.bb_	E/G#
-4bb_	Em/G
-4bb]	B/F#
+4.bb_	E major/G#
+4bb_	E minor/G
+4bb]	B major/F#
 ==	==
 *-	*-

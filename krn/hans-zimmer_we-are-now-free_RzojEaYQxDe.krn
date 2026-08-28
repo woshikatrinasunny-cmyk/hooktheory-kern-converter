@@ -16,36 +16,36 @@
 *A:	*
 *M4/4	*
 =1	=1
-2r	Amaj7
-8.cc#	.
+2r	A major-seventh
+8.cc#L	.
 8.ff#	.
-8aa	.
+8aaJ	.
 =2	=2
-2.b	D
-4a	Dmaj7
+2.b	D major
+4a	D major-seventh
 =3	=3
-2g#	E/B
-8.b	E7/B
+2g#	E major/B
+8.bL	E dominant/B
 8.cc#	.
-8ee	.
+8eeJ	.
 =4	=4
-2.a	F#m/C#
-4g#	F#add(2,3,7)
+2.a	F# minor/C#
+4g#	F# other-2,3,7
 =5	=5
-2f#	D/A
-8.cc#	Dmaj7/A
+2f#	D major/A
+8.cc#L	D major-seventh/A
 8.ff#	.
-8aa	.
+8aaJ	.
 =6	=6
-2.b	D
-4a	Dmaj7
+2.b	D major
+4a	D major-seventh
 =7	=7
-2g#	E/B
-8.g#	E7
+2g#	E major/B
+8.g#L	E dominant
 8.f#	.
-8e	.
+8eJ	.
 =8	=8
-2f#	F#m
+2f#	F# minor
 2r	.
 ==	==
 *-	*-

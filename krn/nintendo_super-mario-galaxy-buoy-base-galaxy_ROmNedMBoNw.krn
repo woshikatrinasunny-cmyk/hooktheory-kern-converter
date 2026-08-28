@@ -16,104 +16,104 @@
 *D:	*
 *M6/4	*
 =1	=1
-4.a[	D
-8a]	D/A
-8g	.
-8a	.
-4.dd[	D
-4dd]	D/A
+[4.a	D major
+8a]	D major/A
+8gL	.
+8aJ	.
+[4.dd	D major
+4dd]	D major/A
 8r	.
 =2	=2
-4.a[	D
-8a]	D/A
-8g	.
-8a	.
-4.ee[	D
-4ee]	D/A
+[4.a	D major
+8a]	D major/A
+8gL	.
+8aJ	.
+[4.ee	D major
+4ee]	D major/A
 8r	.
 =3	=3
-4.a[	D7sus2
-8a]	D7sus2/A
-8g	.
-8a	.
-4gg	D7sus2
-8ff#[	.
-8ff#]	D7sus2/A
+[4.a	D dominant-seventh-suspended-second
+8a]	D dominant-seventh-suspended-second/A
+8gL	.
+8aJ	.
+4gg	D dominant-seventh-suspended-second
+[8ff#L	.
+8ff#J]	D dominant-seventh-suspended-second/A
 4ee	.
 =4	=4
-4cc	D7sus2
-8dd[	.
-8dd]	D7sus2/A
+4cc	D dominant-seventh-suspended-second
+[8ddL	.
+8ddJ]	D dominant-seventh-suspended-second/A
 4ee	.
-4.a[	Am7/G
-4.a]	D7sus2/A
+[4.a	A minor-seventh/G
+4.a]	D dominant-seventh-suspended-second/A
 =5	=5
-4.a[	D
-8a]	D/A
-8g	.
-8a	.
-4.dd[	D
-4dd]	D/A
+[4.a	D major
+8a]	D major/A
+8gL	.
+8aJ	.
+[4.dd	D major
+4dd]	D major/A
 8r	.
 =6	=6
-4.a[	D
-8a]	D/A
-8g	.
-8a	.
-4.ee[	D
-4ee]	D/A
+[4.a	D major
+8a]	D major/A
+8gL	.
+8aJ	.
+[4.ee	D major
+4ee]	D major/A
 8r	.
 =7	=7
-4.a[	D7sus2
-8a]	D7sus2/A
-8g	.
-8a	.
-4gg	D7sus2
-8aa[	.
-8aa]	D7sus2/A
+[4.a	D dominant-seventh-suspended-second
+8a]	D dominant-seventh-suspended-second/A
+8gL	.
+8aJ	.
+4gg	D dominant-seventh-suspended-second
+[8aaL	.
+8aaJ]	D dominant-seventh-suspended-second/A
 4gg	.
 =8	=8
-4ff#	D7sus2
-8ee[	.
-8ee]	D7sus2/A
+4ff#	D dominant-seventh-suspended-second
+[8eeL	.
+8eeJ]	D dominant-seventh-suspended-second/A
 4ff#	.
-4.cc[	Gsus4
-4.cc]	Am7
+[4.cc	G suspended-fourth
+4.cc]	A minor-seventh
 =9	=9
 *k[]	*
 *e:	*
-4.ee[	Em
-8ee]	Em/B
-8dd	.
-8ee	.
-4.gg[	Em
-4gg]	Em/B
+[4.ee	E minor
+8ee]	E minor/B
+8ddL	.
+8eeJ	.
+[4.gg	E minor
+4gg]	E minor/B
 8r	.
 =10	=10
-4.ee[	Em
-8ee]	Em/B
-8dd	.
-8ee	.
-4.aa[	Em
-4aa]	Em/B
+[4.ee	E minor
+8ee]	E minor/B
+8ddL	.
+8eeJ	.
+[4.aa	E minor
+4aa]	E minor/B
 8r	.
 =11	=11
-4.ee[	Fsus2
-8ee]	Fsus2
-8dd	.
-8ee	.
-4bb	Fsus2
-8aa[	.
-8aa]	Fsus2
+[4.ee	F suspended-second
+8ee]	F suspended-second
+8ddL	.
+8eeJ	.
+4bb	F suspended-second
+[8aaL	.
+8aaJ]	F suspended-second
 4gg	.
 =12	=12
-4ddd	G
-8ccc[	.
-8ccc]	G/D
+4ddd	G major
+[8cccL	.
+8cccJ]	G major/D
 4bb	.
-4bb	G
-8aa[	.
-8aa]	G/D
+4bb	G major
+[8aaL	.
+8aaJ]	G major/D
 4gg	.
 *k[f#]	*
 *D:	*

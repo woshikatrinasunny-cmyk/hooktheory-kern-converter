@@ -16,55 +16,55 @@
 *e:	*
 *M3/4	*
 =1	=1
-4g	Em
-4.f#	Eadd(2,5,7)
-8a	F#m7b5/E
+4g	E minor
+4.f#	E other-2,5,7
+8a	F# half-diminished/E
 =2	=2
-4g	Em
+4g	E minor
 4e	.
-8g	.
-8b	Em7/D
+8gL	.
+8bJ	E minor-seventh/D
 =3	=3
-8ee[	C
-8ee_	Cadd(2,4,7)
-8ee]	C
-8dd	.
-8cc[	D7/C
-8cc]	D7
+[8eeL	C major
+8eeJ_	C other-2,4,7
+8eeL]	C major
+8ddJ	.
+[8ccL	D dominant/C
+8ccJ]	D dominant
 =4	=4
-2b	Em
-8e	Em/B
-8f#	B
+2b	E minor
+8eL	E minor/B
+8f#J	B major
 =5	=5
-4g	Em
-4.f#	Eadd(2,5,7)
-8a	F#m7b5/E
+4g	E minor
+4.f#	E other-2,5,7
+8a	F# half-diminished/E
 =6	=6
-16g	Em
-16f#	.
+16gLL	E minor
+16f#JJ	.
 4.e	.
-8e	.
-8g	.
+8eL	.
+8gJ	.
 =7	=7
-4.f#	B7
+4.f#	B dominant
 8e	.
 4d#	.
 =8	=8
-4.e	Em
+4.e	E minor
 8ee	.
-8dd	D/F#
-8cc	.
+8ddL	D major/F#
+8ccJ	.
 =9	=9
-4.b	G
+4.b	G major
 8b	.
-8a	D/F#
-8b	G
+8aL	D major/F#
+8bJ	G major
 =10	=10
-4cc	Am
-4b	G/B
-4a	Am7/C
+4cc	A minor
+4b	G major/B
+4a	A minor-seventh/C
 =11	=11
-4a	D
-2g	G
+4a	D major
+2g	G major
 ==	==
 *-	*-

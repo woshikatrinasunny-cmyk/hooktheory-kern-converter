@@ -16,130 +16,130 @@
 *b:	*
 *M4/4	*
 =1	=1
-8B	Bm
+8BL	B minor
 8B	.
 8e	.
+8BJ	.
+8f#L	.
 8B	.
-8f#	.
 8B	.
-8B	.
-8e	.
+8eJ	.
 =2	=2
-8B	.
+8BL	.
 8f#	.
 8B	.
-8B	.
+8BJ	.
 4B	.
-8A	.
-8G[	G
+8AL	.
+[8GJ	G major
 =3	=3
-8G]	.
+8GL]	.
 8G	.
 8c#	.
+8GJ	.
+8dL	.
 8G	.
-8d	.
 8G	.
-8G	.
-8e	.
+8eJ	.
 =4	=4
-8G	.
+8GL	.
 8d	.
 8G	.
-8G	.
-4G	G
-4A	A
+8GJ	.
+4G	G major
+4A	A major
 =5	=5
-8B	Bm
+8BL	B minor
 8B	.
 8e	.
+8BJ	.
+8f#L	.
 8B	.
-8f#	.
 8B	.
-8B	.
-8e	.
+8eJ	.
 =6	=6
-8B	.
+8BL	.
 8f#	.
 8B	.
-8B	.
+8BJ	.
 4B	.
-8A	.
-8G[	G
+8AL	.
+[8GJ	G major
 =7	=7
-8G]	.
+8GL]	.
 8G	.
 8c#	.
+8GJ	.
+8dL	.
 8G	.
-8d	.
 8G	.
-8G	.
-8e	.
+8eJ	.
 =8	=8
-8G	.
+8GL	.
 8d	.
 8G	.
-8G	.
-4G	G
-4A	A
+8GJ	.
+4G	G major
+4A	A major
 =9	=9
-2B	Bm
+2B	B minor
 16B	.
 16r	.
 16B	.
 16r	.
-8B	.
-8f#[	F#5
+8BL	.
+[8f#J	F# power
 =10	=10
 4.f#]	.
-4e	E5
-8d	D5
-8c#	C#5
-8b[	Bm
+4e	E power
+8dL	D power
+8c#	C# power
+[8bJ	B minor
 =11	=11
 4b]	.
 4dd	.
-8cc#	.
+8cc#L	.
 8b	.
 8a	.
-8cc#[	C#dim
+[8cc#J	C# diminished
 =12	=12
 4cc#]	.
 8ee	.
 4dd	.
-8cc#	.
+8cc#L	.
 8dd	.
-8b[	G5
+[8bJ	G power
 =13	=13
 2.b]	.
-8ff#	.
-8ee[	A/C#
+8ff#L	.
+[8eeJ	A major/C#
 =14	=14
-8ee]	.
+8eeL]	.
 8dd	.
-8dd	.
+8ddJ	.
 4cc#	.
-8b	.
+8bL	.
 8a	.
-8cc#	.
+8cc#J	.
 =15	=15
-3...b	Bm
-8cc#	.
+3...b	B minor
+8cc#L	.
 8dd	.
-8cc#[	C#dim
+[8cc#J	C# diminished
 =16	=16
 4cc#]	.
 8ee	.
 4.dd	.
-8ff#	.
-8gg[	G5
+8ff#L	.
+[8ggJ	G power
 =17	=17
 2.gg]	.
-8dd	.
-8ee[	A/C#
+8ddL	.
+[8eeJ	A major/C#
 =18	=18
-8ee]	.
+8eeL]	.
 8ee	.
-8dd	.
+8ddJ	.
 4cc#	.
 8dd	.
 4cc#	.

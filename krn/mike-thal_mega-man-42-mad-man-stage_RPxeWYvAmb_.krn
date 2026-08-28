@@ -15,184 +15,184 @@
 *e:	*
 *M4/4	*
 =1	=1
-16E	Am
+16ELL	A minor
 16A	.
 16E	.
 16G	.
 16E	.
 16c#	.
 16E	.
-16G	.
-16E	D/A
+16GJJ	.
+16ELL	D major/A
 16F#	.
 16E	.
 16G	.
 16F#	.
 16E	.
 16D	.
-16E	.
+16EJJ	.
 =2	=2
-16F#	.
+16F#LL	.
 16D	.
 16E	.
 16D	.
-16E	Am
+16E	A minor
 16A	.
 16E	.
-16G	.
-16E	.
+16GJJ	.
+16ELL	.
 16c#	.
 16E	.
 16G	.
-16E	D/A
+16E	D major/A
 16F#	.
 16E	.
-16G	.
+16GJJ	.
 =3	=3
-16F#	.
+16F#LL	.
 16E	.
 16D	.
 16E	.
 16F#	.
 16D	.
 16E	.
-16D	.
-16E	Am
+16DJJ	.
+16ELL	A minor
 16A	.
 16E	.
 16G	.
 16E	.
 16c#	.
 16E	.
-16G	.
+16GJJ	.
 =4	=4
-16E	D/A
+16ELL	D major/A
 16F#	.
 16E	.
 16G	.
 16F#	.
 16E	.
 16D	.
-16E	.
-16F#	.
+16EJJ	.
+16F#LL	.
 16D	.
 16E	.
 16D	.
-16E	Am
+16E	A minor
 16A	.
 16E	.
-16G	.
+16GJJ	.
 =5	=5
-16E	.
+16ELL	.
 16c#	.
 16E	.
 16G	.
-16E	D/A
+16E	D major/A
 16F#	.
 16E	.
-16G	.
-16F#	.
+16GJJ	.
+16F#LL	.
 16E	.
 16D	.
 16E	.
-16B	Bm7
+16B	B minor-seventh
 16A	.
 16G	.
-16F#	.
+16F#JJ	.
 =6	=6
-4.E	Am
-8F#	Gadd(2,4,7)
+4.E	A minor
+8F#	G other-2,4,7
 4G	.
-4F#	Bm
+4F#	B minor
 =7	=7
-4D	Am7
+4D	A minor-seventh
 4.A	.
 8G	.
-4F#[	D7
+[4F#	D dominant
 =8	=8
 4F#]	.
-4D	G
-4E	Em/G
-4F#	F#dim/A
+4D	G major
+4E	E minor/G
+4F#	F# diminished/A
 =9	=9
-4E	Em/G
-4D	D/F#
-8AA	Am
-8BB	.
-4E[	.
+4E	E minor/G
+4D	D major/F#
+8AAL	A minor
+8BBJ	.
+[4E	.
 =10	=10
-4E_	Em/B
-4E]	C
-16A	.
-16A	.
+4E_	E minor/B
+4E]	C major
+16ALL	.
+16AJ	.
 8B	.
-16B	.
+16BL	.
 16A	.
 16G	.
-16F#	.
+16F#JJ	.
 =11	=11
-4.E	Am
-8F#	Gadd(2,4,7)
-8G	.
+4.E	A minor
+8F#	G other-2,4,7
+8GL	.
 8A	.
-8B	Bm
-8G	.
+8B	B minor
+8GJ	.
 =12	=12
-8d	Am7
-8e	.
-4c	Am/C
-16B	C#m7b5/B
+8dL	A minor-seventh
+8eJ	.
+4c	A minor/C
+16B	C# half-diminished/B
 16r	.
-4.c	Am/C
+4.c	A minor/C
 =13	=13
-4B	Bm
-4A	Am
-4F#	Gmaj7
-4A	Am
+4B	B minor
+4A	A minor
+4F#	G major-seventh
+4A	A minor
 =14	=14
-8F#	Gmaj7
+8F#L	G major-seventh
 8A	.
-8D	D/F#
-8C	.
+8D	D major/F#
+8CJ	.
 4D	.
-4E[	Am
+[4E	A minor
 =15	=15
-4E_	Em/B
-4E]	Cadd(2,4,7)
-8E	Dadd(2,4,7)/A
+4E_	E minor/B
+4E]	C other-2,4,7
+8EL	D other-2,4,7/A
 8A	.
-16E	.
+16EL	.
 16F#	.
 16G	.
-16A	.
+16AJJ	.
 =16	=16
-16B	Bm
-16B	.
+16BLL	B minor
+16BJJ	.
 8r	.
-16b	.
+16bLL	.
 16a	.
 16g	.
-16a	.
-8B	Bm
+16aJJ	.
+8B	B minor
 8r	.
-16B	.
+16BLL	.
 16c	.
 16d	.
-16e	.
+16eJJ	.
 =17	=17
-16B	Bm
+16BLL	B minor
 16B	.
-16B	.
+16BJJ	.
 16r	.
-16b	.
+16bLL	.
 16a	.
 16g	.
-16a	.
-8B	Bm
+16aJJ	.
+8B	B minor
 8r	.
-16E	.
+16ELL	.
 16F#	.
 16E	.
-16A	.
+16AJJ	.
 ==	==
 *-	*-

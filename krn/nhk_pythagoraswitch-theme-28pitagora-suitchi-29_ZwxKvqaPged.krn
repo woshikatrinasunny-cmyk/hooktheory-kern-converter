@@ -21,10 +21,10 @@
 6...eee	.
 8.ggg	.
 =2	=2
-16fff#	.
-16ggg	.
+16fff#LL	.
+16gggJ	.
 8.fff#	.
-8.ddd	.
+8.dddJ	.
 6...eee	.
 8.ddd	.
 =3	=3
@@ -33,10 +33,10 @@
 6...eee	.
 8.cccc	.
 =4	=4
-16bbb	.
-16cccc	.
+16bbbLL	.
+16ccccJ	.
 8.bbb	.
-8.ggg	.
+8.gggJ	.
 6...aaa	.
 8.ddd	.
 =5	=5
@@ -45,10 +45,10 @@
 6...eee	.
 8.ggg	.
 =6	=6
-16fff#	.
-16ggg	.
+16fff#LL	.
+16gggJ	.
 8.fff#	.
-8.ddd	.
+8.dddJ	.
 6...eee	.
 8.bb	.
 =7	=7
@@ -58,116 +58,116 @@
 8.ccc#	.
 =8	=8
 2ddd	.
-6...ddd	D
+6...ddd	D major
 8.ddd	.
 =9	=9
-6...eee	G/B
+6...eee	G major/B
 8.ddd	.
 6...eee	.
 8.ggg	.
 =10	=10
-16fff#	D
-16ggg	.
+16fff#LL	D major
+16gggJ	.
 8.fff#	.
-8.ddd	.
+8.dddJ	.
 6...eee	.
 8.ddd	.
 =11	=11
-6...eee	C
+6...eee	C major
 8.ddd	.
 6...eee	.
 8.cccc	.
 =12	=12
-16bbb	G/B
-16cccc	.
+16bbbLL	G major/B
+16ccccJ	.
 8.bbb	.
-8.ggg	.
+8.gggJ	.
 6...aaa	.
 8.ddd	.
 =13	=13
-6...eee	C/G
+6...eee	C major/G
 8.ddd	.
 6...eee	.
 8.ggg	.
 =14	=14
-16fff#	G
-16ggg	.
+16fff#LL	G major
+16gggJ	.
 8.fff#	.
-8.ddd	.
+8.dddJ	.
 6...eee	.
 8.bb	.
 =15	=15
-2...aa	A
+2...aa	A major
 16r	.
 =16	=16
 2r	.
-6...r	Bdim
+6...r	B diminished
 8.fffn	.
 =17	=17
-6...eee	C/G
+6...eee	C major/G
 8.eee	.
-8fff#	.
+8fff#L	.
 8.eee	.
-8.fff#	.
+8.fff#J	.
 =18	=18
-2ggg	G/B
-6...ddd	Em
+2ggg	G major/B
+6...ddd	E minor
 8.bb	.
 =19	=19
-6...ccc	Am
+6...ccc	A minor
 8.ccc	.
-8ddd	D
+8dddL	D major
 8.ccc#	.
-8.ddd	.
+8.dddJ	.
 =20	=20
-2bb	G
+2bb	G major
 6...bb	.
 8.ddd	.
 =21	=21
-6...eee	C
+6...eee	C major
 8.ddd	.
 6...eee	.
 8.ggg	.
 =22	=22
-16fff#	Bm
-16ggg	.
+16fff#LL	B minor
+16gggJ	.
 8.fff#	.
-8.ddd	.
+8.dddJ	.
 6...eee	.
 8.ddd	.
 =23	=23
-6...eee	Am
+6...eee	A minor
 8.ddd	.
 6...eee	.
 8.ggg	.
 =24	=24
-16fff#	Bm
-16ggg	.
+16fff#LL	B minor
+16gggJ	.
 8.fff#	.
-8.ddd	.
+8.dddJ	.
 6...eee	.
 8.ddd	.
 =25	=25
-6...eee	Am
+6...eee	A minor
 8.ddd	.
 6...eee	.
 8.cccc	.
 =26	=26
-16bbb	D
-16cccc	.
+16bbbLL	D major
+16ccccJJ	.
 4.bbb	.
-2ggg	G
+2ggg	G major
 =27	=27
 6...r	.
 2r	.
 8.ddd	.
 =28	=28
-6...eee	Am
+6...eee	A minor
 8.ddd	.
 6...eee	.
 8.cccc	.
 =29	=29
-2bbb	D
-2ggg	G
+2bbb	D major
+2ggg	G major
 ==	==
 *-	*-

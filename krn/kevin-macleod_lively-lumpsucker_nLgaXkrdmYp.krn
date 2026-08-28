@@ -15,64 +15,64 @@
 *G:	*
 *M4/4	*
 =1	=1
-8b	G
+8bL	G major
 8a	.
 8g	.
-8b	.
-8a	G/D
+8bJ	.
+8aL	G major/D
 8g	.
 8b	.
-8a	.
+8aJ	.
 =2	=2
-8g	G
+8gL	G major
 8b	.
 8a	.
-8g	.
-4b	G/D
+8gJ	.
+4b	G major/D
 4ccn	.
 =3	=3
-8cc#	A
+8cc#L	A major
 8b	.
 8a	.
-8cc#	.
-8b	A/E
+8cc#J	.
+8bL	A major/E
 8a	.
 8cc#	.
-8b	.
+8bJ	.
 =4	=4
-4a[	A
-4a]	Amaj7/G#
-4r	A
-4r	Amaj7/G#
+[4a	A major
+4a]	A major-seventh/G#
+4r	A major
+4r	A major-seventh/G#
 =5	=5
-8b	G
+8bL	G major
 8a	.
 8g	.
-8b	.
-8a	G/D
+8bJ	.
+8aL	G major/D
 8g	.
 8b	.
-8a	.
+8aJ	.
 =6	=6
-8g	G
+8gL	G major
 8b	.
 8a	.
-8g	.
-8b	G/D
-8a	.
+8gJ	.
+8bL	G major/D
+8aJ	.
 4g	.
 =7	=7
-8dd#	B
+8dd#L	B major
 8cc#	.
 8b	.
-8dd#	.
-8cc#	B/F#
+8dd#J	.
+8cc#L	B major/F#
 8b	.
 8cc#	.
-8dd	.
+8ddJ	.
 =8	=8
-2dd#	B
-4dd#[	C#sus2
-4dd#]	B/D#
+2dd#	B major
+[4dd#	C# suspended-second
+4dd#]	B major/D#
 ==	==
 *-	*-

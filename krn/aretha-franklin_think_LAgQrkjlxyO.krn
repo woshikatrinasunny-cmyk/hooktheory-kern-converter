@@ -16,60 +16,60 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8b-	B-
+8b-	B- major
 4.b-	.
 8bb-	.
 4.bb-	.
 =2	=2
-8dd-	D-
+8dd-	D- major
 4.dd-	.
+8ddd-L	.
 8ddd-	.
-8ddd-	.
-16b-	.
+16b-k	.
 8dd-	.
-16ee-[	.
+[16ee-Jk	.
 =3	=3
-8ee-]	E-7
+8ee-L]	E- dominant
 8.ee-	.
-8.b-	.
+8.b-J	.
 4r	.
-16b-	.
+16b-LK	.
 8dd-	.
-16ff[	.
+[16ffJk	.
 =4	=4
-8ff]	B-
-4.ff[	.
-8.ff]	Fm
-8ee-	D-add(2,4,7)
-16b-	.
-8dd-	E-7
+8ff]	B- major
+[4.ff	.
+8.ffL]	F minor
+8ee-	D- other-2,4,7
+16b-k	.
+8dd-J	E- dominant
 =5	=5
-8b-	B-
+8b-	B- major
 4.b-	.
-8bb-	.
-16bb-	.
+8bb-L	.
+16bb-k	.
 8a-	.
-8.b-	.
+8.b-J	.
 =6	=6
-8dd-	D-
-16b-	.
+8dd-L	D- major
+16b-Jk	.
 6...dd-	.
-8ddd-	.
-16ddd-	.
+8ddd-L	.
+16ddd-k	.
 8.b-	.
-8dd-	.
+8dd-J	.
 =7	=7
-8.ff	E-7
-16ee-	.
+8.ffL	E- dominant
+16ee-Jk	.
 4b-	.
 8r	.
 4b-	.
 8dd-	.
 =8	=8
-8ff	B-
+8ff	B- major
 4.ff	.
-8.aa-	Fm
-8.dd-	D-add(2,4,7)
-8ee-	E-7
+8.aa-L	F minor
+8.dd-	D- other-2,4,7
+8ee-J	E- dominant
 ==	==
 *-	*-

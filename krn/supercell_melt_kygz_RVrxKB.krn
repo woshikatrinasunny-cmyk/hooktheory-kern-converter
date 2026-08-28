@@ -16,70 +16,70 @@
 *D:	*
 *M4/4	*
 =1	=1
-4.ff#	D
+4.ff#	D major
 8ee	.
-4dd	G
+4dd	G major
 4dd	.
 =2	=2
-4ee	A
+4ee	A major
 4dd	.
-2dd	Bm
+2dd	B minor
 =3	=3
-4.ff#	D/F#
+4.ff#	D major/F#
 8ee	.
-4dd	G
+4dd	G major
 4dd	.
 =4	=4
-4ee	A
+4ee	A major
 4aa	.
-2ff#	D
+2ff#	D major
 =5	=5
 4.ff#	.
 8ee	.
-4dd	G
+4dd	G major
 4dd	.
 =6	=6
-4ee	Bm
+4ee	B minor
 4dd	.
-4dd	D
-8dd	.
-8ee	.
+4dd	D major
+8ddL	.
+8eeJ	.
 =7	=7
-1ffn	A#
+1ffn	A# major
 =8	=8
-1gg	C
+1gg	C major
 =9	=9
-4.ff#	D
+4.ff#	D major
 8ee	.
-4dd	Gmaj7
+4dd	G major-seventh
 4dd	.
 =10	=10
-4ee	A7
+4ee	A dominant
 4dd	.
-2dd	Bm
+2dd	B minor
 =11	=11
-4.ff#	D/F#
+4.ff#	D major/F#
 8ee	.
-4dd	Gmaj7
+4dd	G major-seventh
 4dd	.
 =12	=12
-4ee	A7
+4ee	A dominant
 4aa	.
-2ff#	D
+2ff#	D major
 =13	=13
 4.ff#	.
 8ee	.
-4dd	Gmaj7
+4dd	G major-seventh
 4dd	.
 =14	=14
-4ee	Bm
+4ee	B minor
 4dd	.
-4dd	D
-8dd	Dm
-8ee	.
+4dd	D major
+8ddL	D minor
+8eeJ	.
 =15	=15
-1ffn	A#
+1ffn	A# major
 =16	=16
-1gg	C
+1gg	C major
 ==	==
 *-	*-

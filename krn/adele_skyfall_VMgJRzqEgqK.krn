@@ -16,46 +16,46 @@
 *c:	*
 *M4/4	*
 =1	=1
-8d	Cm
-16c	.
+8dL	C minor
+16cJk	.
 6...c	.
-2r	A-
+2r	A- major
 =2	=2
-2r	F7
-16c	Fm7
+2r	F dominant
+16cLK	F minor-seventh
 8d	.
 8e-	.
 8d	.
-16d[	.
+[16dJk	.
 =3	=3
-2d_	Cm
-16d]	A-
-16c	.
+2d_	C minor
+16dLL]	A- major
+16cJJ	.
 4.c	.
 =4	=4
-2r	F7
-8.d	Fm7
+2r	F dominant
+8.dL	F minor-seventh
 8d	.
-8.c	.
+8.cJ	.
 =5	=5
-4.d	Cm
+4.d	C minor
 8c	.
-2e-[	A-
+[2e-	A- major
 =6	=6
-8e-]	F7
-8c	.
+8e-L]	F dominant
+8cJ	.
 4r	.
-8.d	Fm7
+8.dL	F minor-seventh
 8d	.
-8.c	.
+8.cJ	.
 =7	=7
-2.d	Cadd(2,3,7)
+2.d	C other-2,3,7
 8r	.
-16c	.
-16g[	.
+16cLL	.
+[16gJJ	.
 =8	=8
-2g_	Gsus4
-4g]	G
+2g_	G suspended-fourth
+4g]	G major
 4r	.
 ==	==
 *-	*-

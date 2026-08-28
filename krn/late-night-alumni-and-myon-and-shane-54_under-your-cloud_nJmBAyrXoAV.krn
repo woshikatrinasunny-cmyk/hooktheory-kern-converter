@@ -15,58 +15,58 @@
 *C:	*
 *M4/4	*
 =1	=1
-2..ee	C
-8ff[	Gm7
+2..ee	C major
+[8ff	G minor-seventh
 =2	=2
 1ff]	.
 =3	=3
-2..gg	A-add(2,4,7)
-8ff[	Gm7/B-
+2..gg	A- other-2,4,7
+[8ff	G minor-seventh/B-
 =4	=4
 1ff]	.
 =5	=5
-2..ee	C
-8ff[	Gm7
+2..ee	C major
+[8ff	G minor-seventh
 =6	=6
 1ff]	.
 =7	=7
-2..ee-	A-add(2,4,7)
-8dd[	Gm7/B-
+2..ee-	A- other-2,4,7
+[8dd	G minor-seventh/B-
 =8	=8
 1dd]	.
 =9	=9
-3...ee	C
-8cc	.
+3...ee	C major
+8ccL	.
 8ee	.
-8ff[	Gm7
+[8ffJ	G minor-seventh
 =10	=10
 3...ff]	.
-8cc	.
+8ccL	.
 8ff	.
-8gg[	.
+[8ggJ	.
 =11	=11
-3...gg]	A-add(2,4,7)
-8cc	.
+3...gg]	A- other-2,4,7
+8ccL	.
 8gg	.
-8ff[	Gm7/B-
+[8ffJ	G minor-seventh/B-
 =12	=12
 4.ff]	.
 3...bb-	.
 =13	=13
-3...ee	D7sus4
-8cc	.
+3...ee	D dominant-seventh-suspended-fourth
+8ccL	.
 8ee	.
-8ff[	Cadd(2,3,7)/E-
+[8ffJ	C other-2,3,7/E-
 =14	=14
 3...ff]	.
-8cc	.
+8ccL	.
 8ff	.
-8ee-[	.
+[8ee-J	.
 =15	=15
-3...ee-]	A-add(2,4,7)
-8cc	.
+3...ee-]	A- other-2,4,7
+8ccL	.
 8ee-	.
-8dd[	Gm7
+[8ddJ	G minor-seventh
 =16	=16
 4.dd]	.
 3...b-	.

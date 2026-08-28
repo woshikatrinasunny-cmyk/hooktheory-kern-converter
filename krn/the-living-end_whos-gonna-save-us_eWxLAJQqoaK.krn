@@ -16,47 +16,47 @@
 *G:	*
 *M4/4	*
 =1	=1
-4.d	G
+4.d	G major
 8d	.
-4d	D
+4d	D major
 4d	.
 =2	=2
-4.B	G
+4.B	G major
 8B	.
-4.B	D
+4.B	D major
 8r	.
 =3	=3
-8r	Em
+8r	E minor
+8BL	.
 8B	.
-8B	.
-8B	.
-2d	C
+8BJ	.
+2d	C major
 =4	=4
-2B	G
+2B	G major
 2r	.
 =5	=5
-8d	Em
+8dL	E minor
 8d	.
 8d	.
-8d	.
-4d	Am
+8dJ	.
+4d	A minor
 4B	.
 =6	=6
-8B	Em
+8BL	E minor
 8B	.
 8B	.
-8B	.
-4B	Bm
+8BJ	.
+4B	B minor
 4A	.
 =7	=7
-8r	Cmaj7
+8r	C major-seventh
+8BL	.
 8B	.
-8B	.
-8B	.
+8BJ	.
 2d	.
 =8	=8
 2B	.
 8r	.
-4.r	D
+4.r	D major
 ==	==
 *-	*-

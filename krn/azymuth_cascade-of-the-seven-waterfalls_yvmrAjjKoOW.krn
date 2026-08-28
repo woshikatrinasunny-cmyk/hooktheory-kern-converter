@@ -16,79 +16,79 @@
 *b:	*
 *M4/4	*
 =1	=1
-2g[	C#m7b5
-8g]	C#m7b5
+[2g	C# half-diminished
+8g]	C# half-diminished
 4f#	.
-8c#[	.
+[8c#	.
 =2	=2
-2c#_	F#7
-8c#]	F#add(4,6,10)/C
+2c#_	F# dominant
+8c#]	F# other-4,6,10/C
 4g	.
-8f#[	.
+[8f#	.
 =3	=3
-1f#_	Bm7
+1f#_	B minor-seventh
 =4	=4
-2.f#]	Bm7/A
+2.f#]	B minor-seventh/A
 8r	.
-8dd[	.
+[8dd	.
 =5	=5
-3...dd]	G#m7b5
+3...dd]	G# half-diminished
 4cc#	.
-8g[	.
+[8g	.
 =6	=6
-4.g]	C#7
+4.g]	C# dominant
 4g#	.
 4dd	.
-8cc#[	.
+[8cc#	.
 =7	=7
-1cc#_	F#maj7
+1cc#_	F# major-seventh
 =8	=8
 2..cc#]	.
-8cc#[	.
+[8cc#	.
 =9	=9
 *k[b-]	*
 *F:	*
-4.dd-]	Gm7b5
-8cc[	.
-4.cc]	Gm7b5/D-
-8g[	.
+4.dd-]	G half-diminished
+[8cc	.
+4.cc]	G half-diminished/D-
+[8g	.
 =10	=10
-3...g]	Cadd(1,4,7,10)
+3...g]	C other-1,4,7,10
 4dd-	.
-8cc[	.
+[8cc	.
 =11	=11
-4.cc]	Fmaj7
-2e[	.
-8e_	Fadd(4,6,7,11)
+4.cc]	F major-seventh
+[2e	.
+8e_	F other-4,6,7,11
 =12	=12
 2.e]	.
 8r	.
-8cc[	.
+[8cc	.
 =13	=13
 *k[f#]	*
 *e:	*
-3...cc]	F#m7b5
+3...cc]	F# half-diminished
 4b	.
-8a[	.
+[8a	.
 =14	=14
-2..a]	Badd(1,4,7,10)
-8a[	.
+2..a]	B other-1,4,7,10
+[8a	.
 =15	=15
 *k[]	*
 *C:	*
-3...a]	Gadd(5,7,9,10)
-8g	.
+3...a]	G other-5,7,9,10
+8gL	.
 8a	.
-8g[	.
+[8gJ	.
 =16	=16
 2..g]	.
-8g#[	Gadd(1,4,5,7,9,10)
+[8g#	G other-1,4,5,7,9,10
 =17	=17
 2..g#]	.
-8g[	Gadd(1,4,6,10)
+[8g	G other-1,4,6,10
 =18	=18
 4.g]	.
-2f	Gadd(1,4,6,10)/B
+2f	G other-1,4,6,10/B
 8e	.
 ==	==
 *-	*-

@@ -15,50 +15,50 @@
 *g:	*
 *M6/8	*
 =1	=1
-4.d	Gm
-4.dd[	.
+4.d	G minor
+[4.dd	.
 =2	=2
-8dd]	.
+8ddL]	.
 8cc	.
-8b-	.
-8a	Cm7/G
+8b-J	.
+8aL	C minor-seventh/G
 8g	.
-8f	.
+8fJ	.
 =3	=3
-8f	Gm
+8fL	G minor
 8g	.
+8aJ	.
+32aLLK	.
+16.b-J	.
 8a	.
-32a	.
-16.b-	.
-8a	.
-8g	.
+8gJ	.
 =4	=4
-8g-	.
+8g-L	.
 8g	.
-8a	.
+8aJ	.
 8.g	.
 8.r	.
 =5	=5
 4.d	.
-4.dd[	.
+[4.dd	.
 =6	=6
-8dd]	.
+8ddL]	.
 8cc	.
-8b-	.
-8a	Cm7/G
+8b-J	.
+8aL	C minor-seventh/G
 8g	.
-8f	.
+8fJ	.
 =7	=7
-8f	Gm
+8fL	G minor
 8g	.
-8a	.
-32a	.
+8aJ	.
+32aLKK	.
 8..b-	.
-8cc	.
+8ccJ	.
 =8	=8
-8b-	.
+8b-L	.
 8a	.
-8g	.
+8gJ	.
 4g	.
 8r	.
 =9	=9
@@ -67,22 +67,22 @@
 16.r	.
 32g	.
 =10	=10
-8f	.
+8fL	.
 8g	.
-8a	.
-6...g	Cm7/G
+8aJ	.
+6...g	C minor-seventh/G
 16r	.
 =11	=11
-8g	Gm
+8gL	G minor
 8a	.
-8a	.
+8aJ	.
 4b-	.
 8a	.
 =12	=12
-16.a	.
-32b-	.
+16.aLL	.
+32b-Jk	.
 8cc	.
-8dd-	.
+8dd-J	.
 4dd-	.
 8r	.
 =13	=13
@@ -91,15 +91,15 @@
 16.r	.
 32g	.
 =14	=14
-8f	.
+8fL	.
 8g	.
-8a	.
-4.g	Cm7/G
+8aJ	.
+4.g	C minor-seventh/G
 =15	=15
-4.b-	Gm
-4.cc	Gsus4
+4.b-	G minor
+4.cc	G suspended-fourth
 =16	=16
-2a	Gsus2
+2a	G suspended-second
 4r	.
 ==	==
 *-	*-

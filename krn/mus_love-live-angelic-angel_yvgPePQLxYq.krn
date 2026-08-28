@@ -16,39 +16,39 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4r	B-m7
-8d-	.
-8c	.
+4r	B- minor-seventh
+8d-L	.
+8cJ	.
 4d-	.
-8a-	.
-8f[	A-m7
+8a-L	.
+[8fJ	A- minor-seventh
 =2	=2
 8f]	.
 4d-	.
-8B-[	.
-8B-]	D-7
+[8B-	.
+8B-]	D- dominant
 8r	.
-8d-	.
-8B-	.
+8d-L	.
+8B-J	.
 =3	=3
-4en	G-maj7
+4en	G- major-seventh
 8e-	.
-2d-[	.
-8d-]	G-m7
+[2d-	.
+8d-]	G- minor-seventh
 =4	=4
 8r	.
-8An	.
+8AnL	.
 8d-	.
-8An	.
+8AnJ	.
 4d-	.
-4e-	E-m7b5/G-
+4e-	E- half-diminished/G-
 =5	=5
-4r	A-m
-8d-	.
-8e-	.
+4r	A- minor
+8d-L	.
+8e-J	.
 4f	.
-8g-	.
-8f[	D-7
+8g-L	.
+[8fJ	D- dominant
 =6	=6
 8f]	.
 8r	.
@@ -57,65 +57,65 @@
 4g-	.
 8g-	.
 =7	=7
-3...f	G-maj7
-8d-	.
+3...f	G- major-seventh
+8d-L	.
 8B-	.
-8d-[	G-m7/A
+[8d-J	G- minor-seventh/A
 =8	=8
 4.d-_	.
-4d-]	A-m7/B
+4d-]	A- minor-seventh/B
 4.r	.
 =9	=9
-4r	B-m7
-8d-	.
-8c	.
+4r	B- minor-seventh
+8d-L	.
+8cJ	.
 4d-	.
-8a-	.
-8f[	A-m7
+8a-L	.
+[8fJ	A- minor-seventh
 =10	=10
 8f]	.
 4d-	.
-8B-[	.
-8B-]	D-7
+[8B-	.
+8B-]	D- dominant
 8r	.
-8d-	.
-8B-	.
+8d-L	.
+8B-J	.
 =11	=11
-4en	G-maj7
+4en	G- major-seventh
 8e-	.
 4.d-	.
 8r	.
-8r	G-m7
+8r	G- minor-seventh
 =12	=12
 8r	.
-8An	.
+8AnL	.
 8d-	.
-8An	.
+8AnJ	.
 4en	.
-4e-	E-m7b5/G-
+4e-	E- half-diminished/G-
 =13	=13
-4r	A-m
-8d-	.
-8e-	.
-4f	A-m7
-8g-	.
-8f[	D-7
+4r	A- minor
+8d-L	.
+8e-J	.
+4f	A- minor-seventh
+8g-L	.
+[8fJ	D- dominant
 =14	=14
 8f]	.
 8r	.
 8d-	.
 4a-	.
-8g-	.
+8g-L	.
 8f	.
-8g-	.
+8g-J	.
 =15	=15
-2f	G-maj7
+2f	G- major-seventh
 8r	.
-8d-	.
+8d-L	.
 8e-	.
-8d-[	G-m7/A
+[8d-J	G- minor-seventh/A
 =16	=16
 2d-]	.
-2r	A-m7/B
+2r	A- minor-seventh/B
 ==	==
 *-	*-

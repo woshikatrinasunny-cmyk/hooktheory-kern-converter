@@ -16,145 +16,145 @@
 *C:	*
 *M4/4	*
 =1	=1
-12AAAA	C
+12AAAAL	C major
 12AAAA#	.
 12BBBB	.
-12CCC	Dm
+12CCC	D minor
 12CCC#	.
-12DDD	.
-12DDD#	Em
+12DDDJ	.
+12DDD#L	E minor
 12EEE	.
 12FFF	.
-12FFF#	F
+12FFF#	F major
 12GGG	.
-12GGG#	.
+12GGG#J	.
 =2	=2
-12AAA	G
+12AAAL	G major
 12AAA#	.
 12BBB	.
-12CC	Am
+12CC	A minor
 12CC#	.
-12DD	.
-12DD#	Bdim
+12DDJ	.
+12DD#L	B diminished
 12EE	.
 12FF	.
-12FF#	C
+12FF#	C major
 12GG	.
-12GG#	.
+12GG#J	.
 =3	=3
-12AA	D
+12AAL	D major
 12AA#	.
 12BB	.
-12C	Em
+12C	E minor
 12C#	.
-12D	.
-12D#	F#m
+12DJ	.
+12D#L	F# minor
 12E	.
 12F	.
-12F#	G
+12F#	G major
 12G	.
-12G#	.
+12G#J	.
 =4	=4
-12A	A
+12AL	A major
 12A#	.
 12B	.
-12c	Bm
+12c	B minor
 12c#	.
-12d	.
-12d#	C#dim
+12dJ	.
+12d#L	C# diminished
 12e	.
 12f	.
-12f#	Dm
+12f#	D minor
 12g	.
-12g#	.
+12g#J	.
 =5	=5
-12a	E
+12aL	E major
 12a#	.
 12b	.
-12cc	F#m
+12cc	F# minor
 12cc#	.
-12dd	.
-12dd#	G#m
+12ddJ	.
+12dd#L	G# minor
 12ee	.
 12ff	.
-12ff#	A
+12ff#	A major
 12gg	.
-12gg#	.
+12gg#J	.
 =6	=6
-12aa	B
+12aaL	B major
 12aa#	.
 12bb	.
-12ccc	C#m
+12ccc	C# minor
 12ccc#	.
-12ddd	.
-12ddd#	D#dim
+12dddJ	.
+12ddd#L	D# diminished
 12eee	.
 12fff	.
-12fff#	Em
+12fff#	E minor
 12ggg	.
-12ggg#	.
+12ggg#J	.
 =7	=7
-12aaa	F
+12aaaL	F major
 12aaa#	.
 12bbb	.
-12cccc	Gm
+12cccc	G minor
 12cccc#	.
-12dddd	.
-12dddd#	Am
+12ddddJ	.
+12dddd#L	A minor
 12eeee	.
 12ffff	.
-12ffff#	A#
+12ffff#	A# major
 12gggg	.
-12gggg#	.
+12gggg#J	.
 =8	=8
-12aaaa	C
+12aaaaL	C major
 12aaaa#	.
 12bbbb	.
-12ccccc	Dm
+12cccccJ	D minor
 6r	.
-4r	Edim
-4r	F
+4r	E diminished
+4r	F major
 =9	=9
-4r	G
-4r	Am
-4r	Bm
-4r	C
+4r	G major
+4r	A minor
+4r	B minor
+4r	C major
 =10	=10
-48a	D
+48a	D major
 8..r	.
 96r	.
-4r	Em
-4r	F#dim
-4r	G
+4r	E minor
+4r	F# diminished
+4r	G major
 =11	=11
-4r	A
-4r	Bm
-4r	C#m
-4r	D
+4r	A major
+4r	B minor
+4r	C# minor
+4r	D major
 =12	=12
-64a	E
+64a	E major
 8...r	.
-4r	F#m
-4r	G#dim
-4r	Am
+4r	F# minor
+4r	G# diminished
+4r	A minor
 =13	=13
-20a	B
+20a	B major
 5r	.
-4r	C#m
-4r	D#m
-4r	E
+4r	C# minor
+4r	D# minor
+4r	E major
 =14	=14
-30a[	F#
-640.a]	.
+[30aLL	F# major
+640.aJJkkkkk]	.
 9...r	.
 320..r	.
 1920r	.
-4r	G#m
-4r	A#dim
-4r	Bdim
+4r	G# minor
+4r	A# diminished
+4r	B diminished
 =15	=15
-64..a[	.
-1920a]	.
+[64..aLLLL	.
+1920aJJJJkkkk]	.
 2...r	.
 30r	.
 768r	.

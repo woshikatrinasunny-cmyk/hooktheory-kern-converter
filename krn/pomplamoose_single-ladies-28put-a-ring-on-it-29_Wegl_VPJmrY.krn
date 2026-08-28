@@ -16,96 +16,96 @@
 *A:	*
 *M4/4	*
 =1	=1
-16e	.
+16eLL	.
 16d	.
 16d	.
 16d	.
-16d	Asus2/E
+16d	A suspended-second/E
 16c#	.
 16c#	.
-16c#	.
-16c#	Fadd(4,6,7,11)
+16c#JJ	.
+16c#LL	F other-4,6,7,11
 16B	.
-16B	.
-8B	.
+16BJ	.
+8BJ	.
 8.r	.
 =2	=2
 8r	.
+16dLL	.
 16d	.
-16d	.
-16d	Asus2/E
+16d	A suspended-second/E
 16c#	.
 16c#	.
-16c#	.
-16c#	Dadd(2,4,7)
+16c#JJ	.
+16c#LL	D other-2,4,7
 16B	.
-16B	.
-8B	.
+16BJ	.
+8BJ	.
 16r	.
-16e	.
-16e	.
+16eLL	.
+16eJJ	.
 =3	=3
-16e	.
+16eLL	.
 16d	.
 16d	.
-16d	.
-8d	Asus2/E
-8c#	.
-8c#	Fadd(4,6,7,11)
-16B	.
-8B	.
+16dJ	.
+8d	A suspended-second/E
+8c#J	.
+8c#L	F other-4,6,7,11
+16Bk	.
+8BJ	.
 16r	.
-16e	.
-16e	.
+16eLL	.
+16eJJ	.
 =4	=4
-16e	.
+16eLL	.
 16d	.
 16d	.
 16d	.
-16d	Asus2/E
+16d	A suspended-second/E
 16c#	.
 16c#	.
-16c#	.
-16c#	Dadd(2,4,7)
+16c#JJ	.
+16c#LL	D other-2,4,7
 16B	.
 16B	.
-16B	.
+16BJ	.
 8e	.
-8c#	.
+8c#J	.
 =5	=5
-4A	Aadd(4,5,7,10)
-8A	.
-16B[	.
-16B]	Aadd(4,6,7,10)/G
-8.c#	.
+4A	A other-4,5,7,10
+8AL	.
+[16BL	.
+16BJJ]	A other-4,6,7,10/G
+8.c#L	.
 8B	.
-8A[	.
-16A]	Dadd(5,7,9,11)
+[8A	.
+16AJk]	D other-5,7,9,11
 =6	=6
 4A	.
-8A	.
-8B	.
+8AL	.
+8BJ	.
 16r	.
-8.c#	.
+8.c#L	.
 8e	.
-16c#[	.
-16c#]	Aadd(4,5,7,10)
+[16c#L	.
+16c#JJ]	A other-4,5,7,10
 =7	=7
 4A	.
-8A	.
-16B[	.
-16B]	Aadd(4,6,7,10)/G
-8.c#	.
+8AL	.
+[16BL	.
+16BJJ]	A other-4,6,7,10/G
+8.c#L	.
 8B	.
-8A[	.
-16A]	Dadd(5,7,9,11)
+[8A	.
+16AJk]	D other-5,7,9,11
 =8	=8
 4A	.
-8A	.
-8B	.
+8AL	.
+8BJ	.
 8c#	.
 4r	.
-16e	.
-16e	.
+16eLL	.
+16eJJ	.
 ==	==
 *-	*-

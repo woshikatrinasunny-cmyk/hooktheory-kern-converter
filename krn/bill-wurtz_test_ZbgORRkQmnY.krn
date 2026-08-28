@@ -16,18 +16,18 @@
 *C:	*
 *M4/4	*
 =1	=1
-8GG	Eadd(3,10)/G
+8GGL	E other-3,10/G
 8AA	.
 8D	.
-8BB	.
-8AA	.
+8BBJ	.
+8AAL	.
 8EE	.
 8DD	.
-8AAA	.
+8AAAJ	.
 =2	=2
-8GGG	.
+8GGGL	.
 8EEE	.
-8DDD	.
-3...CCC	Cadd(2,4,7)
+8DDDJ	.
+3...CCC	C other-2,4,7
 ==	==
 *-	*-

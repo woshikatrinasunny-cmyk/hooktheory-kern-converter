@@ -16,28 +16,28 @@
 *A-:	*
 *M4/4	*
 =1	=1
-2.r	A-
+2.r	A- major
 16r	.
-8.r	A-add(2,4,7)
+8.r	A- other-2,4,7
 =2	=2
-2r	Csus4
-8.r	Cm
-6...r	Cadd(1,7)
+2r	C suspended-fourth
+8.r	C minor
+6...r	C other-1,7
 =3	=3
-1r	Gm7
+1r	G minor-seventh
 =4	=4
-1r	G-add(2,4,7)
+1r	G- other-2,4,7
 =5	=5
-2.r	A-
+2.r	A- major
 16r	.
-8.r	A-add(2,4,7)
+8.r	A- other-2,4,7
 =6	=6
-2r	Csus4
-8.r	Cm
-6...r	Cadd(1,7)
+2r	C suspended-fourth
+8.r	C minor
+6...r	C other-1,7
 =7	=7
-1r	Gm7
+1r	G minor-seventh
 =8	=8
-1r	G-add(2,4,7)
+1r	G- other-2,4,7
 ==	==
 *-	*-

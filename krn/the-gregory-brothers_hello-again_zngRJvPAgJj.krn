@@ -16,29 +16,29 @@
 *F:	*
 *M4/4	*
 =1	=1
-8.f	F
+8.f	F major
 16r	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 4a	.
 4f	.
 =2	=2
-4dd	Am/E
-8cc	.
-8bn	.
+4dd	A minor/E
+8ccL	.
+8bnJ	.
 4cc	.
-8a	.
-8cc	.
+8aL	.
+8ccJ	.
 =3	=3
-8b-	E-
-8a	.
+8b-L	E- major
+8aJ	.
 2g	.
-8f	.
-8g	.
+8fL	.
+8gJ	.
 =4	=4
-4cc	A-/E-
+4cc	A- major/E-
 4f	.
-4b-	G-/D-
+4b-	G- major/D-
 4b-	.
 ==	==
 *-	*-

@@ -16,117 +16,117 @@
 *F:	*
 *M4/4	*
 =1	=1
-8.cc	B-add(2,4,7)
+8.ccL	B- other-2,4,7
 8.g	.
-8a[	.
-16a]	Dm7
+[8aJ	.
+16aLK]	D minor-seventh
 8.f	.
-8g[	.
-16g]	C
-16d[	.
+[8g	.
+16gL]	C major
+[16dJJ	.
 =2	=2
-8d]	.
+8dL]	.
 8.f	.
-8.c	.
-8.d	.
+8.cJ	.
+8.dL	.
 8.A	.
-8c[	.
+[8cJ	.
 =3	=3
-16c]	B-add(2,4,7)
+16cLK]	B- other-2,4,7
 8.d	.
 8.f	.
-16g[	.
-8g]	F/A
+[16gJk	.
+8g]	F major/A
 4a	.
-8cc[	C
+[8cc	C major
 =4	=4
 2cc]	.
 2r	.
 =5	=5
-8.cc	B-add(2,4,7)
+8.ccL	B- other-2,4,7
 8.g	.
-8a[	.
-16a]	Dm7
+[8aJ	.
+16aLK]	D minor-seventh
 8.f	.
-8g[	.
-16g]	C
-16d[	.
+[8g	.
+16gL]	C major
+[16dJJ	.
 =6	=6
-8d]	.
+8dL]	.
 8.f	.
-8.c	.
-8.d	.
+8.cJ	.
+8.dL	.
 8.A	.
-8c[	.
+[8cJ	.
 =7	=7
-16c]	B-add(2,4,7)
+16cLK]	B- other-2,4,7
 8.d	.
 8.f	.
-16g[	.
-8g]	F/A
-16g	.
+[16gJk	.
+8gL]	F major/A
+16gk	.
 8.a	.
-8g[	C
+[8gJ	C major
 =8	=8
 2g]	.
 2r	.
 =9	=9
-8.ff	B-add(2,4,7)
+8.ffL	B- other-2,4,7
 8.cc	.
-8dd[	.
-16dd]	Dm7
+[8ddJ	.
+16ddLK]	D minor-seventh
 8.a	.
-8cc[	.
-16cc]	C
-16g[	.
+[8cc	.
+16ccL]	C major
+[16gJJ	.
 =10	=10
-8g]	.
+8gL]	.
 8.a	.
-8.f	.
-8.g	.
+8.fJ	.
+8.gL	.
 8.a	.
-8cc[	.
+[8ccJ	.
 =11	=11
-16cc]	B-add(2,4,7)
-8.dd	.
-4cc[	.
-4.cc]	F/A
-8r	C
+16ccLK]	B- other-2,4,7
+8.ddJ	.
+[4cc	.
+4.cc]	F major/A
+8r	C major
 =12	=12
 3...r	.
-8f	.
+8fL	.
 8a	.
-8cc	.
+8ccJ	.
 =13	=13
-8.ff	B-add(2,4,7)
+8.ffL	B- other-2,4,7
 8.cc	.
-8dd[	.
-16dd]	Dm7
+[8ddJ	.
+16ddLK]	D minor-seventh
 8.a	.
-8cc[	.
-16cc]	C
-16g[	.
+[8cc	.
+16ccL]	C major
+[16gJJ	.
 =14	=14
-8g]	.
+8gL]	.
 8.a	.
-8.f	.
-8.g	.
+8.fJ	.
+8.gL	.
 8.a	.
-8cc[	.
+[8ccJ	.
 =15	=15
-16cc]	B-add(2,4,7)
+16ccLK]	B- other-2,4,7
 8.dd	.
-16cc	.
-16dd	.
-8cc[	.
-4.cc_	F/A
-8cc]	C
+16ccL	.
+16ddJ	.
+[8ccJ	.
+4.cc_	F major/A
+8cc]	C major
 =16	=16
 4.r	.
 8cc	.
-8cc	.
+8ccL	.
 8dd	.
 8bb-	.
-8aa	.
+8aaJ	.
 ==	==
 *-	*-

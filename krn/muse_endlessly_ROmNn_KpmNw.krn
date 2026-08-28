@@ -16,19 +16,19 @@
 *a:	*
 *M4/4	*
 =1	=1
-2.b	Aadd(2,5,7)
-8a	.
-8cc[	.
+2.b	A other-2,5,7
+8aL	.
+[8ccJ	.
 =2	=2
-2cc]	Am
-4b	Aadd(2,5,7)
-4b[	Am
+2cc]	A minor
+4b	A other-2,5,7
+[4b	A minor
 =3	=3
-8b]	E7sus4
-8a	.
-2.b[	.
+8bL]	E dominant-seventh-suspended-fourth
+8aJ	.
+[2.b	.
 =4	=4
-2..b]	E
+2..b]	E major
 8e	.
 ==	==
 *-	*-

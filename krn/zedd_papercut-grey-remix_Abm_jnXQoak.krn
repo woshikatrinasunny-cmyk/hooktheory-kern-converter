@@ -16,103 +16,103 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4cc#	Dmaj7
-4cc#	Dmaj7
+4cc#	D major-seventh
+4cc#	D major-seventh
 8r	.
-4fn	Dmaj7
-8f#[	Dmaj7
+4fn	D major-seventh
+[8f#	D major-seventh
 =2	=2
-8f#]	.
-8f#	Dmaj7
-8f#	Dmaj7
-8f#	Dmaj7
+8f#L]	.
+8f#	D major-seventh
+8f#	D major-seventh
+8f#J	D major-seventh
 8r	.
-4.cc#	Dmaj7
+4.cc#	D major-seventh
 =3	=3
-4b	Eadd(2,4,7)
-4b	Eadd(2,4,7)
+4b	E other-2,4,7
+4b	E other-2,4,7
 8r	.
-8gn	E
-8g#	E
-8g#	E
+8gnL	E major
+8g#	E major
+8g#J	E major
 =4	=4
-8gn	E
-8g#	E
-8g#	E
-8g#	E
+8gnL	E major
+8g#	E major
+8g#	E major
+8g#J	E major
 2r	.
 =5	=5
-4f#	B
-4f#	B
+4f#	B major
+4f#	B major
 8r	.
-4a#	B
-8b[	B
+4a#	B major
+[8b	B major
 =6	=6
-8b]	.
-8b	B
-8b	B
-8b	B
+8bL]	.
+8b	B major
+8b	B major
+8bJ	B major
 4r	.
-4f#	B
+4f#	B major
 =7	=7
-4f#	Bm
-4f#	Bm
+4f#	B minor
+4f#	B minor
 8r	.
-8a#	Bm
-8b	Bm
-8b	Bm
+8a#L	B minor
+8b	B minor
+8bJ	B minor
 =8	=8
-8a#	Bm
-8b	Bm
-8b	Bm
-8b	Bm
-2e	Bsus4
+8a#L	B minor
+8b	B minor
+8b	B minor
+8bJ	B minor
+2e	B suspended-fourth
 =9	=9
-2D	Dmaj7
-16f#	Dmaj7
-16f#	Dmaj7
-16f#	Dmaj7
-16f#	Dmaj7
-16f#	Dmaj7
-16f#	Dmaj7
-16f#	Dmaj7
-16f#	Dmaj7
+2D	D major-seventh
+16f#LL	D major-seventh
+16f#	D major-seventh
+16f#	D major-seventh
+16f#	D major-seventh
+16f#	D major-seventh
+16f#	D major-seventh
+16f#	D major-seventh
+16f#JJ	D major-seventh
 =10	=10
-16f#	Dmaj7
-16f#	Dmaj7
-16f#	Dmaj7
-16f#	Dmaj7
-8f#	Dmaj7
-8f#	Dmaj7
-2cc#	Dmaj7
+16f#LL	D major-seventh
+16f#	D major-seventh
+16f#	D major-seventh
+16f#J	D major-seventh
+8f#	D major-seventh
+8f#J	D major-seventh
+2cc#	D major-seventh
 =11	=11
-4ee[	Eadd(2,4,7)
-4ee]	Eadd(2,4,7)
+[4ee	E other-2,4,7
+4ee]	E other-2,4,7
 2r	.
 =12	=12
-16g#	Eadd(2,4,7)
-16g#	Eadd(2,4,7)
-16g#	Eadd(2,4,7)
-16g#	Eadd(2,4,7)
-16g#	Eadd(2,4,7)
-16g#	Eadd(2,4,7)
-16g#	Eadd(2,4,7)
-16g#	Eadd(2,4,7)
-2cc#	C#m/E
+16g#LL	E other-2,4,7
+16g#	E other-2,4,7
+16g#	E other-2,4,7
+16g#	E other-2,4,7
+16g#	E other-2,4,7
+16g#	E other-2,4,7
+16g#	E other-2,4,7
+16g#JJ	E other-2,4,7
+2cc#	C# minor/E
 =13	=13
-4ff#	B
-4ff#	B
+4ff#	B major
+4ff#	B major
 8r	.
-4a#	B
-8b[	B
+4a#	B major
+[8b	B major
 =14	=14
-8b]	.
-8b	B
-8b	B
-8b	B
-2cc#	Badd(2,4,7)
+8bL]	.
+8b	B major
+8b	B major
+8bJ	B major
+2cc#	B other-2,4,7
 =15	=15
-1f#[	Bm
+[1f#	B minor
 =16	=16
 1f#]	.
 ==	==

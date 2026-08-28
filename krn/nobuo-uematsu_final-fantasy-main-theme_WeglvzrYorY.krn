@@ -16,47 +16,47 @@
 *a:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4ee	.
 4ff#	.
 4gg	.
 =2	=2
-4ff#	D
+4ff#	D major
 4ee	.
 4dd	.
 4cc	.
 =3	=3
-4dd	Bdim
+4dd	B diminished
 4a	.
 4b	.
 4cc	.
 =4	=4
-4b	E
+4b	E major
 4.r	.
-8g#	.
+8g#L	.
 8a	.
-8b	.
+8bJ	.
 =5	=5
-4cc	Am
+4cc	A minor
 8r	.
-8r	Am/E
-4r	Am
-8dd[	.
-8dd]	Am/E
+8r	A minor/E
+4r	A minor
+[8ddL	.
+8ddJ]	A minor/E
 =6	=6
-4cc	F
-8b[	.
-8b]	F
-4a	F
-8g[	.
-8g]	F
+4cc	F major
+[8bL	.
+8bJ]	F major
+4a	F major
+[8gL	.
+8gJ]	F major
 =7	=7
-2dd	A#
+2dd	A# major
 2r	.
 =8	=8
-4r	D
-4r	D7/C
-4r	Bm
-4r	D/A
+4r	D major
+4r	D dominant/C
+4r	B minor
+4r	D major/A
 ==	==
 *-	*-

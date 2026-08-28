@@ -16,33 +16,33 @@
 *D-:	*
 *M4/4	*
 =1	=1
-8.ee-	D-add(2,4,7)
-8.dd-	.
-2dd-	D-maj7
-16a-	.
-16b-	.
+8.ee-L	D- other-2,4,7
+8.dd-J	.
+2dd-	D- major-seventh
+16a-LL	.
+16b-JJ	.
 =2	=2
-8.dd-	D-7/B
+8.dd-L	D- dominant/B
 8.dd-	.
-16ee-	.
+16ee-Jk	.
 6...dd-	.
 4r	.
 =3	=3
-8.ee-	B-m7
+8.ee-L	B- minor-seventh
 8.dd-	.
-8ff	.
+8ffJ	.
 4.dd-	.
-16a-	.
-16b-	.
+16a-LL	.
+16b-JJ	.
 =4	=4
-8.dd-	E-m7b5/A
+8.dd-L	E- half-diminished/A
 8.dd-	.
-8ee-	.
+8ee-J	.
 4ff	.
 4gg-	.
 =5	=5
-16ff	D-/A-
-16gg-	.
+16ffLL	D- major/A-
+16gg-JJ	.
 16r	.
 16ff	.
 16r	.
@@ -51,17 +51,17 @@
 16b-	.
 2a-	.
 =6	=6
-8.f	E-7sus4
+8.fL	E- dominant-seventh-suspended-fourth
 8.g-	.
-8b-	.
-8.dd-	A-
-16een	.
+8b-J	.
+8.dd-L	A- major
+16eenJk	.
 4ee-	.
 =7	=7
-1dd-[	D-add(2,4,7)
+[1dd-	D- other-2,4,7
 =8	=8
-4.dd-_	G7sus4
-8dd-]	G7
+4.dd-_	G dominant-seventh-suspended-fourth
+8dd-]	G dominant
 2r	.
 ==	==
 *-	*-

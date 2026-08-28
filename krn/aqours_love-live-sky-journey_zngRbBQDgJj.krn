@@ -16,49 +16,49 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4.cc#	Badd(2,3,7)
+4.cc#	B other-2,3,7
 4.dd	.
 4cc#	.
 =2	=2
-4.cc#	E
+4.cc#	E major
 3...b	.
 =3	=3
-4.b	Aadd(2,4,7)
+4.b	A other-2,4,7
 4.cc#	.
 4b	.
 =4	=4
-4.b	D
+4.b	D major
 3...a	.
 =5	=5
-4.b	G#m7b5
+4.b	G# half-diminished
 4.d	.
 4b	.
 =6	=6
-4.a	C#aug
+4.a	C# augmented
 4.fn	.
 4a	.
 =7	=7
-4.g#	F#m
+4.g#	F# minor
 2f#	.
-16f#	.
-16g#	.
+16f#LL	.
+16g#JJ	.
 =8	=8
-4.a#	F#7
-4b	C#m7/G#
-8f#	.
-8dd	F#7
-8cc#	.
+4.a#	F# dominant
+4b	C# minor-seventh/G#
+8f#L	.
+8dd	F# dominant
+8cc#J	.
 =9	=9
-8ccc#	Badd(2,3,7)
+8ccc#L	B other-2,3,7
 8gg#	.
 8aa	.
-8bb	.
-8ccc#	.
+8bbJ	.
+8ccc#L	.
 8ddd	.
 8ccc#	.
-8bb	.
+8bbJ	.
 =10	=10
-8r	E
+8r	E major
 8fff#	.
 8r	.
 8eee	.
@@ -67,16 +67,16 @@
 8r	.
 8ccc#	.
 =11	=11
-8bb	Aadd(2,4,7)
+8bbL	A other-2,4,7
 8ff#	.
 8gg#	.
-8aa	.
-8bb	.
+8aaJ	.
+8bbL	.
 8ccc#	.
 8bb	.
-8aa	.
+8aaJ	.
 =12	=12
-8r	D
+8r	D major
 8ddd	.
 8r	.
 8ccc#	.
@@ -85,31 +85,31 @@
 8r	.
 8aa	.
 =13	=13
-8gg#	G#m7b5
+8gg#L	G# half-diminished
 8dd	.
 8ee	.
-8ff#	.
-8gg#	.
+8ff#J	.
+8gg#L	.
 8aa	.
 8bb	.
-8ccc#[	.
+[8ccc#J	.
 =14	=14
-8ccc#]	C#aug
+8ccc#]	C# augmented
 4gg#	.
 4fffn	.
 4ddd	.
 8ccc#	.
 =15	=15
-4.bb	F#m
+4.bb	F# minor
 8aa	.
 4.aa	.
-16ff#	.
-16gg#	.
+16ff#LL	.
+16gg#JJ	.
 =16	=16
-4aa#	F#7
+4aa#	F# dominant
 8ff#	.
-4bb	C#m7/G#
+4bb	C# minor-seventh/G#
 8ff#	.
-4ccc#	F#7/C#
+4ccc#	F# dominant/C#
 ==	==
 *-	*-

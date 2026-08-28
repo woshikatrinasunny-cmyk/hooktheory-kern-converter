@@ -16,135 +16,135 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2.r	F#m
-8f#	.
-8g#	.
+2.r	F# minor
+8f#L	.
+8g#J	.
 =2	=2
-4.a	F#m
+4.a	F# minor
 8a	.
 4a	.
-8g#	.
-8f#	.
+8g#L	.
+8f#J	.
 =3	=3
-4.g#	C#
+4.g#	C# major
 8g#	.
 4g#	.
 4g#	.
 =4	=4
-4a	F#m
-8a	.
-8a	.
-4b	C#
-8a	.
-8g#	.
+4a	F# minor
+8aL	.
+8aJ	.
+4b	C# major
+8aL	.
+8g#J	.
 =5	=5
-2f#	F#m
+2f#	F# minor
 4r	.
-8f#	.
-8g#	.
+8f#L	.
+8g#J	.
 =6	=6
-4.a	F#m
+4.a	F# minor
 8a	.
-4a	Cdim
-8g#	.
-8f#	.
+4a	C diminished
+8g#L	.
+8f#J	.
 =7	=7
-4.a	Bm7b5
+4.a	B half-diminished
 8g#	.
-4g#	Bdim
+4g#	B diminished
 4g#	.
 =8	=8
-4a	F#m/A
-8a	.
-8a	.
-4b	C#7
-8a	.
-8g#	.
+4a	F# minor/A
+8aL	.
+8aJ	.
+4b	C# dominant
+8aL	.
+8g#J	.
 =9	=9
-2f#	F#m
+2f#	F# minor
 4.r	.
 8f#	.
 =10	=10
-4b	B7/D#
-8f#	.
-8f#	.
-4b	F#7sus4/E
-8e	.
-8e	.
+4b	B dominant/D#
+8f#L	.
+8f#J	.
+4b	F# dominant-seventh-suspended-fourth/E
+8eL	.
+8eJ	.
 =11	=11
-4.cc#	B7/F#
+4.cc#	B dominant/F#
 8b	.
-4b	B7/D#
+4b	B dominant/D#
 4b	.
 =12	=12
-2cc#	A/E
-4.b	E7/D
+2cc#	A major/E
+4.b	E dominant/D
 8b	.
 =13	=13
-2.ee	A/C#
-4dd	D/F#
+2.ee	A major/C#
+4dd	D major/F#
 =14	=14
-2cc#	A7/E
-4.b	Em7/D
+2cc#	A dominant/E
+4.b	E minor-seventh/D
 8b	.
 =15	=15
-2a#	F#7/C#
-4r	F#7
-8b	.
-8cc#	.
+2a#	F# dominant/C#
+4r	F# dominant
+8bL	.
+8cc#J	.
 =16	=16
-4.dd	Bm
+4.dd	B minor
 8dd	.
-4dd	Bm/D
-8cc#	.
-8b	.
+4dd	B minor/D
+8cc#L	.
+8bJ	.
 =17	=17
-2dd	A#dim/E
-2cc#	F#7/E
+2dd	A# diminished/E
+2cc#	F# dominant/E
 =18	=18
-2dd	Bm
-4.cc#	F#7
+2dd	B minor
+4.cc#	F# dominant
 8cc#	.
 =19	=19
-2b	Bm
-4a	Cdim
+2b	B minor
+4a	C diminished
 8r	.
 8a	.
 =20	=20
-4.a	F#m/C#
+4.a	F# minor/C#
 8a	.
-4g#	C#7
-8g#	.
-8g#	.
+4g#	C# dominant
+8g#L	.
+8g#J	.
 =21	=21
-2f#	F#m
-4r	F#7
+2f#	F# minor
+4r	F# dominant
 4f#	.
 =22	=22
-4.gn	G
+4.gn	G major
 8gn	.
-4b	G7
-8a	.
-8gn	.
+4b	G dominant
+8aL	.
+8gnJ	.
 =23	=23
-2f#	F#
-4r	F#7
+2f#	F# major
+4r	F# dominant
 4f#	.
 =24	=24
-4.gn	G
+4.gn	G major
 8gn	.
-4dd	G7
-8b	.
-8gn	.
+4dd	G dominant
+8bL	.
+8gnJ	.
 =25	=25
-2f#	F#
-2r	G7
+2f#	F# major
+2r	G dominant
 =26	=26
-2r	F#
-2r	Bm/F#
+2r	F# major
+2r	B minor/F#
 =27	=27
-1r	F#
+1r	F# major
 =28	=28
-4r	F#
+4r	F# major
 ==	==
 *-	*-

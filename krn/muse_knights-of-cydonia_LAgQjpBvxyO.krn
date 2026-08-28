@@ -16,61 +16,61 @@
 *e:	*
 *M4/4	*
 =1	=1
-2e	Em
-2e	D/F#
+2e	E minor
+2e	D major/F#
 =2	=2
-2.d	G
+2.d	G major
 4r	.
 =3	=3
-4c#	A
+4c#	A major
 4d	.
 2c#	.
 =4	=4
-2.B	B
+2.B	B major
 4r	.
 =5	=5
-2e	Em
-2e	D/F#
+2e	E minor
+2e	D major/F#
 =6	=6
-2.d	G
+2.d	G major
 4r	.
 =7	=7
-4c#	A
+4c#	A major
 4d	.
 2c#	.
 =8	=8
-2.B	B
+2.B	B major
 4r	.
 =9	=9
-2ee	Em
-2e	D/F#
+2ee	E minor
+2e	D major/F#
 =10	=10
-2.dd	G
+2.dd	G major
 4r	.
 =11	=11
-4cc#	A
+4cc#	A major
 4dd	.
 2cc#	.
 =12	=12
-2.b	B
+2.b	B major
 4r	.
 =13	=13
-2ee	Em
-2e	D/F#
+2ee	E minor
+2e	D major/F#
 =14	=14
-2.dd	G
+2.dd	G major
 4r	.
 =15	=15
-4cc#	A
+4cc#	A major
 4dd	.
 2cc#	.
 =16	=16
-2.b	B
+2.b	B major
 4r	.
 =17	=17
-1r	B
+1r	B major
 =18	=18
-1r	Em
+1r	E minor
 =19	=19
 1r	.
 =20	=20
@@ -78,62 +78,62 @@
 =21	=21
 1r	.
 =22	=22
-2g	Em
+2g	E minor
 4f#	.
 4e	.
 =23	=23
-2d	G
+2d	G major
 4e	.
 4f#	.
 =24	=24
-2g	C
+2g	C major
 4f#	.
 4e	.
 =25	=25
-2.d	G
+2.d	G major
 4r	.
 =26	=26
-2d#	B
+2d#	B major
 4e	.
 4f#	.
 =27	=27
-2e	C
+2e	C major
 4g	.
 4a	.
 =28	=28
-2a#	D#
+2a#	D# major
 4a	.
 4a#	.
 =29	=29
-2.b	G
+2.b	G major
 4r	.
 =30	=30
-2dd#	Cm
+2dd#	C minor
 4cc	.
 4g	.
 =31	=31
-1dd	G
+1dd	G major
 =32	=32
-2dd#	G#
+2dd#	G# major
 4dd	.
 4cc	.
 =33	=33
-2.a#	D#
+2.a#	D# major
 4r	.
 =34	=34
-2dd	G
+2dd	G major
 4cc	.
 4a#	.
 =35	=35
-2cc	G#
+2cc	G# major
 4a#	.
 4g#	.
 =36	=36
-1a#	D#
+1a#	D# major
 =37	=37
-1b	G
+1b	G major
 =38	=38
-1cc[	Cm
+[1cc	C minor
 =39	=39
 1cc_	.
 =40	=40
@@ -142,59 +142,59 @@
 2.cc]	.
 4r	.
 =42	=42
-2dd#	Cm
+2dd#	C minor
 4dd	.
 4cc	.
 =43	=43
-2a#	D#
+2a#	D# major
 4cc	.
 4dd	.
 =44	=44
-2dd#	G#
+2dd#	G# major
 4dd	.
 4cc	.
 =45	=45
-1a#	D#
+1a#	D# major
 =46	=46
-2b	G
+2b	G major
 4cc	.
 4dd	.
 =47	=47
-2cc	G#
+2cc	G# major
 4dd#	.
 4ffn	.
 =48	=48
-2ff#	B
+2ff#	B major
 4ffn	.
 4ff#	.
 =49	=49
-1gg	D#
+1gg	D# major
 =50	=50
-2bb	G#m
+2bb	G# minor
 4gg#	.
 4dd#	.
 =51	=51
-1aa#	D#
+1aa#	D# major
 =52	=52
-2bb	E
+2bb	E major
 4aa#	.
 4gg#	.
 =53	=53
-1ff#	B
+1ff#	B major
 =54	=54
-2aa#	D#
+2aa#	D# major
 4gg#	.
 4ff#	.
 =55	=55
-2gg#	E
+2gg#	E major
 4ff#	.
 4ee	.
 =56	=56
-1ff#	B
+1ff#	B major
 =57	=57
-1gg	D#
+1gg	D# major
 =58	=58
-1gg#	G#m
+1gg#	G# minor
 =59	=59
 1r	.
 =60	=60

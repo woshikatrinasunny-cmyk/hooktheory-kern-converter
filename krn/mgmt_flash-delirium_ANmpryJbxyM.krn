@@ -16,9 +16,9 @@
 *F:	*
 *M4/4	*
 =1	=1
-4a	F
-8g	.
-8f	.
+4a	F major
+8gL	.
+8fJ	.
 4e	.
 4d	.
 =2	=2
@@ -26,54 +26,54 @@
 8A	.
 4a	.
 =3	=3
-4a	Dadd(2,3,7)
-8g	.
-8f	.
-8e	.
-8f	.
+4a	D other-2,3,7
+8gL	.
+8fJ	.
+8eL	.
+8fJ	.
 4e	.
 =4	=4
-1r	A
+1r	A major
 =5	=5
 1r	.
 =6	=6
-8r	F
-8a	.
+8r	F major
+8aL	.
 8g	.
-8f	.
+8fJ	.
 4e	.
-8e	.
-8e	.
+8eL	.
+8eJ	.
 =7	=7
-8e	.
-8d	.
+8eL	.
+8dJ	.
 4d	.
 8r	.
-8A	.
-8d	.
+8AL	.
+8dJ	.
 8r	.
 =8	=8
-4a	Dadd(2,3,7)
+4a	D other-2,3,7
 8g	.
 8r	.
-8e	.
-8f	.
+8eL	.
+8fJ	.
 4e	.
 =9	=9
-1r	A
+1r	A major
 =10	=10
 3...r	.
+8eL	.
 8e	.
-8e	.
-8f	.
+8fJ	.
 =11	=11
-4g-	B
+4g-	B major
 4.r	.
+8g-L	.
 8g-	.
-8g-	.
-8g-	.
+8g-J	.
 =12	=12
-4a-	E
+4a-	E major
 4.r	.
 8a-	.
 4a-	.

@@ -16,40 +16,40 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.B	C/G
+4.B	C major/G
 8B	.
-8.B	.
+8.BL	.
 8.A	.
-8B	.
+8BJ	.
 =2	=2
 4.c	.
 8c	.
-8.c	.
+8.cL	.
 8.B	.
-8c	.
+8cJ	.
 =3	=3
-4d	G/D
+4d	G major/D
 4.d	.
-8.c	.
-8.d	.
+8.cL	.
+8.dJ	.
 =4	=4
-2e	Am
-2d	G
+2e	A minor
+2d	G major
 =5	=5
-4.c	F
+4.c	F major
 8A	.
-8.A	.
+8.AL	.
 8.G	.
-8c	.
+8cJ	.
 =6	=6
-2.c	C
-8C	.
-8C	.
+2.c	C major
+8CL	.
+8CJ	.
 =7	=7
-2E	Am
-2D	G
+2E	A minor
+2D	G major
 =8	=8
-2C	C
+2C	C major
 2r	.
 ==	==
 *-	*-

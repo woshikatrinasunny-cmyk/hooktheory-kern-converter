@@ -16,11 +16,11 @@
 *a:	*
 *M4/4	*
 =1	=1
-4a	Am
+4a	A minor
 4cc	.
 8b	.
 4dd	.
-8cc[	.
+[8cc	.
 =2	=2
 8cc]	.
 4ee	.
@@ -31,37 +31,37 @@
 4b	.
 8a	.
 4g	.
-8e[	.
+[8e	.
 =4	=4
 4.e]	.
-4.e[	.
-4e]	G7
+[4.e	.
+4e]	G dominant
 =5	=5
-4cc	C
+4cc	C major
 4ee	.
-8dd	G
+8dd	G major
 4ff	.
-8ee[	.
+[8ee	.
 =6	=6
-8ee]	Am/E
+8ee]	A minor/E
 4dd	.
 4cc	.
 4a	.
 8g	.
 =7	=7
-4ee	Dm
+4ee	D minor
 4dd	.
 4cc	.
-4a[	.
+[4a	.
 =8	=8
-8a]	Em
+8a]	E minor
 2..g	.
 =9	=9
-4a	Am
+4a	A minor
 4cc	.
 8b	.
 4dd	.
-8cc[	.
+[8cc	.
 =10	=10
 8cc]	.
 4ee	.
@@ -71,10 +71,10 @@
 =11	=11
 4cc	.
 4b	.
-8a	Em
+8a	E minor
 4g	.
-8a[	.
+[8a	.
 =12	=12
-1a]	Am
+1a]	A minor
 ==	==
 *-	*-

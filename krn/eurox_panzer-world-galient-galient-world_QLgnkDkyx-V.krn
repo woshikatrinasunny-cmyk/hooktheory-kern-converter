@@ -16,18 +16,18 @@
 *a:	*
 *M4/4	*
 =1	=1
-4r	G7sus4
-8g	.
-8g	.
+4r	G dominant-seventh-suspended-fourth
+8gL	.
+8gJ	.
+8.gL	.
 8.g	.
-8.g	.
-8g[	G7sus4
+[8gJ	G dominant-seventh-suspended-fourth
 =2	=2
 8g]	.
 4g	.
 4g	.
 4g	.
-8g	A#sus2
+8g	A# suspended-second
 =3	=3
 8r	.
 8f	.
@@ -35,61 +35,61 @@
 2r	.
 =4	=4
 2..r	.
-8r	G7sus4
+8r	G dominant-seventh-suspended-fourth
 =5	=5
 4r	.
-8g	.
-8g	.
+8gL	.
+8gJ	.
+8.gL	.
 8.g	.
-8.g	.
-8g[	G7sus4
+[8gJ	G dominant-seventh-suspended-fourth
 =6	=6
 8g]	.
 4g	.
 4g	.
 4g	.
-8g[	A#sus2
+[8g	A# suspended-second
 =7	=7
-8g]	.
-8f	.
+8gL]	.
+8fJ	.
 4f	.
 4.r	.
-8r	A#add(2,5,7)
+8r	A# other-2,5,7
 =8	=8
 3...r	.
 4.f	.
 =9	=9
-2e	Esus2
+2e	E suspended-second
 2r	.
 =10	=10
 3...r	.
 4.e	.
 =11	=11
-2d	Bm7b5/D
+2d	B half-diminished/D
 2r	.
 =12	=12
 2.r	.
 4d	.
 =13	=13
-1e	Esus2
+1e	E suspended-second
 =14	=14
 1B	.
 =15	=15
 1B	.
 =16	=16
-16r	Esus2
-16r	Esus2
-16r	Esus2
-16r	Esus2
+16r	E suspended-second
+16r	E suspended-second
+16r	E suspended-second
+16r	E suspended-second
 8r	.
-16r	Esus2
-16r	Esus2
-16r	Esus2
-16r	Esus2
+16r	E suspended-second
+16r	E suspended-second
+16r	E suspended-second
+16r	E suspended-second
 8r	.
-16r	Esus2
-16r	Esus2
-16r	Esus2
-16r	Esus2
+16r	E suspended-second
+16r	E suspended-second
+16r	E suspended-second
+16r	E suspended-second
 ==	==
 *-	*-

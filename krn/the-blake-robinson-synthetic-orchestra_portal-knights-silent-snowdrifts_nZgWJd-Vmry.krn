@@ -16,70 +16,70 @@
 *c:	*
 *M4/4	*
 =1	=1
-8cc	.
+8ccL	.
 8g	.
 8cc	.
+8gJ	.
+8ccL	.
 8g	.
 8cc	.
-8g	.
-8cc	.
-8g	.
+8gJ	.
 =2	=2
-8cc	.
+8ccL	.
 8g	.
 8cc	.
-8g	.
-8cc	.
-8g	.
+8gJ	.
+8ccL	.
+8gJ	.
 4eee-	.
 =3	=3
-4ggg	Cm
-8aaa-	.
-8ggg	.
+4ggg	C minor
+8aaa-L	.
+8gggJ	.
 4ggg	.
-8aaa-	.
-8ggg	.
+8aaa-L	.
+8gggJ	.
 =4	=4
-4ggg	Csus2/D
-8fff	.
-8eee-	.
+4ggg	C suspended-second/D
+8fffL	.
+8eee-J	.
 4ddd	.
-8aaa-	.
-8ggg	.
+8aaa-L	.
+8gggJ	.
 =5	=5
-4fff	Fsus2
-8ggg	.
-8fff	.
-8ddd	.
+4fff	F suspended-second
+8gggL	.
+8fffJ	.
+8dddL	.
 8eee-	.
 8ddd	.
-8eee-	.
+8eee-J	.
 =6	=6
-2.ggg[	Cm/E-
-4ggg]	Cm/G
+[2.ggg	C minor/E-
+4ggg]	C minor/G
 =7	=7
-4ggg	Cm
-8aaa-	.
-8ggg	.
+4ggg	C minor
+8aaa-L	.
+8gggJ	.
 4ggg	.
-8aaa-	.
-8ggg	.
+8aaa-L	.
+8gggJ	.
 =8	=8
-4ggg	Csus2/D
-8fff	.
-8eee-	.
+4ggg	C suspended-second/D
+8fffL	.
+8eee-J	.
 4ddd	.
-8aaa-	.
-8ggg	.
+8aaa-L	.
+8gggJ	.
 =9	=9
-4fff	Fadd(2,3,7)/C
-8ggg	.
-8fff	.
-8ddd	G7/B
+4fff	F other-2,3,7/C
+8gggL	.
+8fffJ	.
+8dddL	G dominant/B
 8eee-	.
 8ddd	.
-8bbn	.
+8bbnJ	.
 =10	=10
-1ccc	Cm
+1ccc	C minor
 ==	==
 *-	*-

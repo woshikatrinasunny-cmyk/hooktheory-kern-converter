@@ -15,46 +15,46 @@
 *F:	*
 *M4/4	*
 =1	=1
-8dd	Dm
-8a	.
+8ddL	D minor
+8aJ	.
 2ff	.
-8ee	.
-8cc	.
+8eeL	.
+8ccJ	.
 =2	=2
-4dd	B-
+4dd	B- major
 4ff	.
 4.b-	.
-16ff	.
-16ee	.
+16ffLL	.
+16eeJJ	.
 =3	=3
-8dd	Dm
-8a	.
+8ddL	D minor
+8aJ	.
 2ff	.
-8ee	.
-8cc	.
+8eeL	.
+8ccJ	.
 =4	=4
-8ff	F
-8gg	.
+8ffL	F major
+8ggJ	.
 4aa	.
-4.gg	C
-16ff	.
-16ee	.
+4.gg	C major
+16ffLL	.
+16eeJJ	.
 =5	=5
-8dd	B-
-8b-	.
+8ddL	B- major
+8b-J	.
 2ff	.
-8ee	F
-8cc	.
+8eeL	F major
+8ccJ	.
 =6	=6
-8dd	Gm
-8b-	.
+8ddL	G minor
+8b-J	.
 2gg	.
-8ff	.
-8ee	.
+8ffL	.
+8eeJ	.
 =7	=7
-4dd	Dm
-2.ff[	.
+4dd	D minor
+[2.ff	.
 =8	=8
-1ff]	B-
+1ff]	B- major
 ==	==
 *-	*-

@@ -16,55 +16,55 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8.A	F#m
-16A	.
+8.AL	F# minor
+16Ak	.
 8.A	.
-16A	.
-8.B	A
-16B	.
+16AJk	.
+8.BL	A major
+16Bk	.
 8.B	.
-16B	.
+16BJk	.
 =2	=2
-8.c#	Dmaj7
-16c#	.
-3...c#[	.
-16c#]	.
-16B	.
+8.c#L	D major-seventh
+16c#Jk	.
+[3...c#	.
+16c#LL]	.
+16BJJ	.
 =3	=3
-8.c#	Bm
-16c#	.
+8.c#L	B minor
+16c#k	.
 8.c#	.
-16c#	.
-8.e	C#m
-16e	.
+16c#Jk	.
+8.eL	C# minor
+16ek	.
 8.e	.
-16e	.
+16eJk	.
 =4	=4
-1f#	D
+1f#	D major
 =5	=5
-8.a	F#m
-16g#	.
+8.aL	F# minor
+16g#k	.
 8.f#	.
-16e	.
-8.c#	A
-16B	.
+16eJk	.
+8.c#L	A major
+16Bk	.
 8B	.
-8A	.
+8AJ	.
 =6	=6
-8.B	D
-8.c#	.
+8.BL	D major
+8.c#J	.
 3...A	.
 =7	=7
-8.a	Bm
-16g#	.
+8.aL	B minor
+16g#k	.
 8.f#	.
-16e	.
-8.c#	C#m
-16B	.
+16eJk	.
+8.c#L	C# minor
+16Bk	.
 8B	.
-8A[	.
+[8AJ	.
 =8	=8
-8A]	D
+8A]	D major
 2..f#	.
 ==	==
 *-	*-

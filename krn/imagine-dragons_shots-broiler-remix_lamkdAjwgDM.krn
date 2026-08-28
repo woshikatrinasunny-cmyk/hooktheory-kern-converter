@@ -15,7 +15,7 @@
 *b:	*
 *M4/4	*
 =1	=1
-8G	G
+8G	G major
 8r	.
 8d	.
 8r	.
@@ -24,7 +24,7 @@
 8f#	.
 8.r	.
 =2	=2
-8B	Bm
+8B	B minor
 8r	.
 8d	.
 8r	.
@@ -34,7 +34,7 @@
 16r	.
 8d	.
 =3	=3
-8A	Asus4
+8A	A suspended-fourth
 8r	.
 8d	.
 8r	.
@@ -44,16 +44,16 @@
 16r	.
 8a	.
 =4	=4
-8A	A
+8A	A major
 4r	.
 4ee	.
-8ee	.
-16ee	.
+8eeL	.
+16eeL	.
 16dd	.
 16ee	.
-16ff#	.
+16ff#JJ	.
 =5	=5
-8G	G
+8G	G major
 8r	.
 8d	.
 8r	.
@@ -62,7 +62,7 @@
 8f#	.
 8.r	.
 =6	=6
-8B	Bm
+8B	B minor
 8r	.
 8d	.
 8r	.
@@ -72,7 +72,7 @@
 16r	.
 8d	.
 =7	=7
-8A	Asus4
+8A	A suspended-fourth
 8r	.
 8d	.
 8r	.
@@ -82,13 +82,13 @@
 16r	.
 8a	.
 =8	=8
-8A	A
+8A	A major
 4r	.
 4ee	.
-8ee	.
-16ee	.
+8eeL	.
+16eeL	.
 16ff#	.
 16ee	.
-16dd	.
+16ddJJ	.
 ==	==
 *-	*-

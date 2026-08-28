@@ -16,58 +16,58 @@
 *D:	*
 *M4/4	*
 =1	=1
-8r	G
+8r	G major
 8dd	.
 4gg	.
-8.ff#	.
+8.ff#L	.
 8.gg	.
-8ff#[	.
+[8ff#J	.
 =2	=2
-8ff#]	F#m7/A
+8ff#]	F# minor-seventh/A
 4ee	.
 8dd	.
 4.cc#	.
-8dd[	.
+[8dd	.
 =3	=3
-4dd]	Bm7
+4dd]	B minor-seventh
 4r	.
 2aa	.
 =4	=4
-2dd	Dsus2
+2dd	D suspended-second
 2aa	.
 =5	=5
-4dd	G
+4dd	G major
 8r	.
 8dd	.
-8dd	.
-16ee	.
+8ddL	.
+16eeJk	.
 6...ff#	.
 =6	=6
-4.r	F#m7/A
+4.r	F# minor-seventh/A
 8dd	.
-8dd	.
-16ee	.
-6...ff#[	.
+8ddL	.
+16eeJk	.
+[6...ff#	.
 =7	=7
-4ff#]	Bm7
+4ff#]	B minor-seventh
 4r	.
 2aa	.
 =8	=8
-2dd	Dsus2
+2dd	D suspended-second
 2aa	.
 =9	=9
-16gg	G
+16ggLK	G major
 8ff#	.
 8.dd	.
-8dd	.
-8dd	.
-16ee	.
+8ddJ	.
+8ddL	.
+16eeJk	.
 6...ff#	.
 =10	=10
-4.r	F#m7/A
+4.r	F# minor-seventh/A
 8dd	.
-8dd	.
-16ee	.
+8ddL	.
+16eeJk	.
 6...ff#	.
 ==	==
 *-	*-

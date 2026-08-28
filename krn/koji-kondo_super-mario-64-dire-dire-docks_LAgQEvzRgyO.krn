@@ -16,70 +16,70 @@
 *G:	*
 *M4/4	*
 =1	=1
-8r	G
-8d	.
+8r	G major
+8dL	.
 8g	.
-8a	.
-8b	.
+8aJ	.
+8bL	.
 8cc	.
 8b	.
-8a	.
+8aJ	.
 =2	=2
-4g	Fadd(2,4,7)
+4g	F other-2,4,7
 4d	.
 4c	.
 4g	.
 =3	=3
-1d	D#maj7
+1d	D# major-seventh
 =4	=4
-3...r	Dm7/F
+3...r	D minor-seventh/F
 4c	.
 8c	.
 =5	=5
-8B	Gadd(2,4,7)
-8d	.
+8BL	G other-2,4,7
+8dJ	.
 2.g	.
 =6	=6
-1r	G
+1r	G major
 =7	=7
-4.r	C
+4.r	C major
 8g	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8ee	.
+8eeJ	.
 =8	=8
-4.dd	G/B
+4.dd	G major/B
 3...g	.
 =9	=9
-4.r	Am
+4.r	A minor
 8e	.
-8dd	.
+8ddL	.
 8cc	.
 8b	.
-8cc	.
+8ccJ	.
 =10	=10
-4.b	G
+4.b	G major
 3...g	.
 =11	=11
-4.r	C
+4.r	C major
 8g	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8ee	.
+8eeJ	.
 =12	=12
-4.dd	G/B
+4.dd	G major/B
 3...g	.
 =13	=13
-2r	Gm/A#
-8cc	.
+2r	G minor/A#
+8ccL	.
 8dd	.
 8cc	.
-8b[	.
+[8bJ	.
 =14	=14
-4b]	A7sus2
+4b]	A dominant-seventh-suspended-second
 4g	.
-2e	Dadd(2,5,7)
+2e	D other-2,5,7
 ==	==
 *-	*-

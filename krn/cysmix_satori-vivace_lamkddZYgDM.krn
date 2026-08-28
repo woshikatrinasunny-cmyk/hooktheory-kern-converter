@@ -15,63 +15,63 @@
 *b-:	*
 *M4/4	*
 =1	=1
-4b-	B-m
+4b-	B- minor
 8r	.
-16b-	.
-16dd-	.
-8ff	.
+16b-LL	.
+16dd-JJ	.
+8ffL	.
 8b-	.
 8dd-	.
-8ff	.
+8ffJ	.
 =2	=2
-8gg-	E-m/G-
+8gg-L	E- minor/G-
 8b-	.
 8dd-	.
-8gg-	.
-16ff	B-m/F
-16een	.
+8gg-J	.
+16ffLL	B- minor/F
+16eenJJ	.
 4ff	.
 8ff	.
 =3	=3
-8een	C
+8eenL	C major
 8cc	.
 8dd-	.
-8een	.
-8.ee-	E-m/G-
+8eenJ	.
+8.ee-L	E- minor/G-
 8.dd-	.
-8cc	.
+8ccJ	.
 =4	=4
-4an	F
+4an	F major
 4bb-	.
 4aan	.
 4ff	.
 =5	=5
-4b-	B-m
-16b-	.
-16cc	.
-8dd-	.
+4b-	B- minor
+16b-LL	.
+16ccJ	.
+8dd-J	.
 4b-	.
-8cc	.
-8dd-	.
+8ccL	.
+8dd-J	.
 =6	=6
-8ee-	E-m/G-
+8ee-L	E- minor/G-
 8gg-	.
 8bb-	.
-8gg-	.
-4.ff	B-m/F
+8gg-J	.
+4.ff	B- minor/F
 8ff	.
 =7	=7
-8een	C
+8eenL	C major
 8cc	.
 8ggn	.
-8cc	.
-4ccc	Cdim/G-
-8bb-	.
-8ccc	.
+8ccJ	.
+4ccc	C diminished/G-
+8bb-L	.
+8cccJ	.
 =8	=8
-4.bb-	B-m/F
-16bb-	.
-16aan	.
-2ff	F
+4.bb-	B- minor/F
+16bb-LL	.
+16aanJJ	.
+2ff	F major
 ==	==
 *-	*-

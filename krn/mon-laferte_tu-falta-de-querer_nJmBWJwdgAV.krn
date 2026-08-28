@@ -16,7 +16,7 @@
 *B-:	*
 *M6/4	*
 =1	=1
-1.bb-[	B-
+[1.bb-	B- major
 =2	=2
 3...bb-]	.
 8bb-	.
@@ -24,7 +24,7 @@
 4ccc	.
 4bb-	.
 =3	=3
-2aa[	D7
+[2aa	D dominant
 16aa]	.
 4.gg-	.
 8.ee-	.
@@ -35,9 +35,9 @@
 4ccc	.
 8bb-	.
 =5	=5
-8bb-	E-
-8aa	.
-1gg[	.
+8bb-L	E- major
+8aaJ	.
+[1gg	.
 4gg_	.
 =6	=6
 3...gg]	.
@@ -46,12 +46,12 @@
 4ccc	.
 4bb-	.
 =7	=7
-4ddd	E-m
+4ddd	E- minor
 8ccc	.
-1bb-[	.
+[1bb-	.
 8bb-]	.
 =8	=8
-4ddd	F7
+4ddd	F dominant
 8ccc	.
 4ddd	.
 8ccc	.
@@ -60,10 +60,10 @@
 4bb-	.
 8ccc	.
 =9	=9
-4r	B-
+4r	B- major
 4.ddd	.
 8eee-	.
-2.ddd[	.
+[2.ddd	.
 =10	=10
 4ddd]	.
 8bb-	.
@@ -74,8 +74,8 @@
 4ccc	.
 8bb-	.
 =11	=11
-2.gg-	D
-2.ddd[	.
+2.gg-	D major
+[2.ddd	.
 =12	=12
 4ddd]	.
 8bb-	.
@@ -86,10 +86,10 @@
 4ccc	.
 8bb-	.
 =13	=13
-2.ff	E-
+2.ff	E- major
 2.ddd	.
 =14	=14
-4r	F7
+4r	F dominant
 8ccc	.
 4ccc	.
 8ddd	.
@@ -98,8 +98,8 @@
 4aa	.
 8ccc	.
 =15	=15
-1.bb-	B-
+1.bb-	B- major
 =16	=16
-1.r	F7
+1.r	F dominant
 ==	==
 *-	*-

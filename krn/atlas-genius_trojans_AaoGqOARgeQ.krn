@@ -16,77 +16,77 @@
 *e:	*
 *M4/4	*
 =1	=1
-4E	Em7
+4E	E minor-seventh
 4d	.
 8E	.
 4.d	.
 =2	=2
-4C	Csus2
+4C	C suspended-second
 4d	.
 8C	.
 4.d	.
 =3	=3
-4G	G
+4G	G major
 4d	.
 8G	.
 4.d	.
 =4	=4
-4D	D
+4D	D major
 4d	.
-8D	.
+8DL	.
 8G	.
 8A	.
-8B[	.
+[8BJ	.
 =5	=5
-4B]	Em7
+4B]	E minor-seventh
 4.r	.
-8G	.
+8GL	.
 8A	.
-8B[	.
+[8BJ	.
 =6	=6
-4B]	Csus2
+4B]	C suspended-second
 4.r	.
-8G	.
+8GL	.
 8A	.
-8B[	.
+[8BJ	.
 =7	=7
-4B]	G
+4B]	G major
 8A	.
 4.B	.
-8A	.
-8B[	.
+8AL	.
+[8BJ	.
 =8	=8
-8B]	D
+8B]	D major
 4d	.
 4B	.
-8G	.
+8GL	.
 8A	.
-8B	.
+8BJ	.
 =9	=9
-3...r	Em7
-8G	.
+3...r	E minor-seventh
+8GL	.
 8A	.
-8B[	.
+[8BJ	.
 =10	=10
-4B]	Csus2
+4B]	C suspended-second
 4.r	.
-8G	.
+8GL	.
 8A	.
-8B[	.
+[8BJ	.
 =11	=11
-8B]	G
+8B]	G major
 4B	.
 4B	.
 4B	.
-8B[	.
+[8B	.
 =12	=12
-8B]	D
+8BL]	D major
 8A	.
 8B	.
-8A	.
-8B	.
+8AJ	.
+8BL	.
 8G	.
 8A	.
-8B	.
+8BJ	.
 ==	==
 *-	*-

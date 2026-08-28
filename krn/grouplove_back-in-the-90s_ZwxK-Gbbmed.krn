@@ -15,7 +15,7 @@
 *f#:	*
 *M4/4	*
 =1	=1
-2r	F#m
+2r	F# minor
 2f#	.
 =2	=2
 4f#	.
@@ -30,20 +30,20 @@
 =4	=4
 4f#	.
 4e	.
-4f#	F#m
-4g#	G#m
+4f#	F# minor
+4g#	G# minor
 =5	=5
-2.a	A
+2.a	A major
 4e	.
 =6	=6
 1e	.
 =7	=7
 1r	.
 =8	=8
-2a	Amaj7
+2a	A major-seventh
 2g#	.
 =9	=9
-4f#	F#m
+4f#	F# minor
 4e	.
 2f#	.
 =10	=10
@@ -55,21 +55,21 @@
 4r	.
 4e	.
 4f#	.
-8e	.
-8f#[	.
+8eL	.
+[8f#J	.
 =12	=12
 4f#]	.
 4e	.
-4f#	F#m
-4g#	G#m
+4f#	F# minor
+4g#	G# minor
 =13	=13
-2.a	A
+2.a	A major
 4e	.
 =14	=14
 1e	.
 =15	=15
 1r	.
 =16	=16
-1r	Amaj7
+1r	A major-seventh
 ==	==
 *-	*-

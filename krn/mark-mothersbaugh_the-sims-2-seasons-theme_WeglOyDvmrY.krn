@@ -16,34 +16,34 @@
 *D:	*
 *M4/4	*
 =1	=1
-16f#	Gadd(2,4,7)
+16f#LL	G other-2,4,7
 16g	.
-16a	.
+16aJ	.
 8.dd	.
-8b	.
+8bJ	.
 4.cc#	.
 8f#	.
 =2	=2
-16a	F#m7/E
+16a	F# minor-seventh/E
 6...b	.
 8a	.
-8.f#	.
+8.f#L	.
 8.g	.
-8d	.
+8dJ	.
 =3	=3
-16f#	Gadd(2,4,7)
+16f#LL	G other-2,4,7
 16g	.
-16a	.
+16aJ	.
 8.dd	.
-8b	.
+8bJ	.
 4.cc#	.
 8f#	.
 =4	=4
-16a	F#m7/E
+16a	F# minor-seventh/E
 6...b	.
 8a	.
-8.f#	A
+8.f#L	A major
 8.g	.
-8d	.
+8dJ	.
 ==	==
 *-	*-

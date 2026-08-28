@@ -16,97 +16,97 @@
 *B:	*
 *M4/4	*
 =1	=1
-4r	B
-4r	A
-4r	E
-8b	.
-8b	.
+4r	B major
+4r	A major
+4r	E major
+8bL	.
+8bJ	.
 =2	=2
-8dd#	.
-16dd#	.
+8dd#L	.
+16dd#k	.
 8ee	.
-8dd#	.
-6...ff#[	.
-4ff#]	A
+8dd#J	.
+[6...ff#	.
+4ff#]	A major
 =3	=3
-4r	B
-4r	A
-4r	E
-8b	.
-8b	.
+4r	B major
+4r	A major
+4r	E major
+8bL	.
+8bJ	.
 =4	=4
-16ddn	.
+16ddnLK	.
 8b	.
-8.b	.
-4.a[	.
-16a]	A
-8.b	.
+8.bJ	.
+[4.a	.
+16aLK]	A major
+8.bJ	.
 =5	=5
-4r	B
-4r	A
-4r	E
-8b	.
-8b	.
+4r	B major
+4r	A major
+4r	E major
+8bL	.
+8bJ	.
 =6	=6
-8dd#	.
+8dd#L	.
 8dd#	.
 8ee	.
-8dd#	.
-8.ff#	.
-16b[	.
-4b]	A
+8dd#J	.
+8.ff#L	.
+[16bJk	.
+4b]	A major
 =7	=7
-4r	B
-4r	A
-8.r	E
-16b[	.
+4r	B major
+4r	A major
+8.r	E major
+[16bLK	.
 8b]	.
-8b[	.
+[8bJ	.
 =8	=8
 8b]	.
 2r	.
-8.ddn	.
-8.b	.
+8.ddnL	.
+8.bJ	.
 =9	=9
-4.b	B
-4.r	A
-8r	D
-8r	A
+4.b	B major
+4.r	A major
+8r	D major
+8r	A major
 =10	=10
-4.r	A
-4r	E
-8.ddn	.
-8.b	.
+4.r	A major
+4r	E major
+8.ddnL	.
+8.bJ	.
 =11	=11
-8.b	B
-8.ddn	.
-4.r	A
-8r	D
-8r	A
+8.bL	B major
+8.ddnJ	.
+4.r	A major
+8r	D major
+8r	A major
 =12	=12
-4ff#	A
-8ee[	.
-8ee]	E
-8ddn	.
+4ff#	A major
+[8eeL	.
+8eeJ]	E major
+8ddnL	.
 8.ddn	.
-8.b	.
+8.bJ	.
 =13	=13
-4.b	B
-4.r	A
-8r	D
-8r	A
+4.b	B major
+4.r	A major
+8r	D major
+8r	A major
 =14	=14
-4.r	A
-4r	E
-8.ddn	.
-8.ddn	.
+4.r	A major
+4r	E major
+8.ddnL	.
+8.ddnJ	.
 =15	=15
-4.b	B
-4.r	A
-8r	D
-8r	A
+4.b	B major
+4.r	A major
+8r	D major
+8r	A major
 =16	=16
-4.r	A
-3...r	E
+4.r	A major
+3...r	E major
 ==	==
 *-	*-

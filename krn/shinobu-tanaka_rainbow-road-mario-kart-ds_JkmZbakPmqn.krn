@@ -16,108 +16,108 @@
 *D:	*
 *M4/4	*
 =1	=1
-4r	Dadd(2,4,7)
-8a	.
-8dd	.
+4r	D other-2,4,7
+8aL	.
+8ddJ	.
 4ee	.
-8a	.
-8ff#[	.
+8aL	.
+[8ff#J	.
 =2	=2
-8ff#]	D
+8ff#L]	D major
 8gg	.
 8ff#	.
-8dd	.
-8ee	.
-8a	.
+8ddJ	.
+8eeL	.
+8aJ	.
 8r	.
-8dd[	.
+[8dd	.
 =3	=3
-8dd]	D11
+8ddL]	D dominant-11th
 8ccn	.
-8b	.
+8bJ	.
 4ccn	.
 8g	.
-4e[	.
+[4e	.
 =4	=4
-4e]	D11
+4e]	D dominant-11th
 8r	.
 4bb	.
 4gg	.
-8ee[	.
+[8ee	.
 =5	=5
-4ee]	Dadd(2,4,7)
-8a	.
-8dd	.
+4ee]	D other-2,4,7
+8aL	.
+8ddJ	.
 4ee	.
-8a	.
-8ff#[	.
+8aL	.
+[8ff#J	.
 =6	=6
-8ff#]	D
+8ff#L]	D major
 8gg	.
 8ff#	.
-8dd	.
+8ddJ	.
 4ee	.
-8a	.
-8aa[	.
+8aL	.
+[8aaJ	.
 =7	=7
-8aa]	A#add(2,4,7)
+8aaL]	A# other-2,4,7
 8gg	.
-8ff#	.
+8ff#J	.
 4gg	.
 8dd	.
 4ddd	.
 =8	=8
-8dd	Cadd(2,4,7)
+8ddL	C other-2,4,7
 8gg	.
-8cccn	.
+8cccnJ	.
 4ddd	.
 4eee	.
 8r	.
 =9	=9
-4r	Dadd(2,4,7)
-8a	.
-8dd	.
+4r	D other-2,4,7
+8aL	.
+8ddJ	.
 4ee	.
-8a	.
-8ff#[	.
+8aL	.
+[8ff#J	.
 =10	=10
-8ff#]	Dadd(2,4,7)
+8ff#L]	D other-2,4,7
 8gg	.
 8ff#	.
-8dd	.
-8ee	.
+8ddJ	.
+8eeL	.
 8a	.
 8a	.
-8dd[	.
+[8ddJ	.
 =11	=11
-8dd]	D11
+8ddL]	D dominant-11th
 8ccn	.
-8b	.
+8bJ	.
 4ccn	.
 8g	.
-4e[	.
+[4e	.
 =12	=12
-4.e]	D11
+4.e]	D dominant-11th
 4bb	.
 4gg	.
 8ee	.
 =13	=13
-2d	A#add(2,4,7)
+2d	A# other-2,4,7
 8r	.
-8d	.
+8dL	.
 8e	.
-8d[	.
+[8dJ	.
 =14	=14
-2d]	Cadd(2,4,7)
+2d]	C other-2,4,7
 8r	.
-8d	.
+8dL	.
 8e	.
-8d[	.
+[8dJ	.
 =15	=15
-2.d]	Badd(2,3,7)
+2.d]	B other-2,3,7
 4r	.
 =16	=16
-2a	Eadd(2,5,7)
-2g#	Eadd(2,4,7)
+2a	E other-2,5,7
+2g#	E other-2,4,7
 ==	==
 *-	*-

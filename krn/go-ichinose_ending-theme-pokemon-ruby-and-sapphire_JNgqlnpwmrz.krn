@@ -15,66 +15,66 @@
 *G:	*
 *M4/4	*
 =1	=1
-6...b	G
-8cc	.
-16dd	.
-4.b	Bm/F#
-16cc	.
-16dd	.
+6...b	G major
+8ccL	.
+16ddJk	.
+4.b	B minor/F#
+16ccLL	.
+16ddJJ	.
 =2	=2
-8ffn	Bdim/F
+8ffnL	B diminished/F
 8ee	.
 8dd#	.
-8ee	.
-6...b	E/B
-8cc	.
-16dd	.
+8eeJ	.
+6...b	E major/B
+8ccL	.
+16ddJk	.
 =3	=3
-6...cc	Am
-8dd	.
-16ee	.
-4.cc	Caug/G#
-16dd	.
-16ee	.
+6...cc	A minor
+8ddL	.
+16eeJk	.
+4.cc	C augmented/G#
+16ddLL	.
+16eeJJ	.
 =4	=4
-8gg	C/G
+8ggL	C major/G
 8ff#	.
 8ee	.
-8ff#	.
-8dd	D/F#
-8cc	.
+8ff#J	.
+8ddL	D major/F#
+8ccJ	.
 16r	.
-16b	.
+16bLL	.
 16a	.
-16g	.
+16gJJ	.
 =5	=5
-6...bb	G
-8ccc	.
-16ddd	.
-4.bb	Bm/F#
-16ccc	.
-16ddd	.
+6...bb	G major
+8cccL	.
+16dddJk	.
+4.bb	B minor/F#
+16cccLL	.
+16dddJJ	.
 =6	=6
-8fffn	Bdim/F
+8fffnL	B diminished/F
 8eee	.
 8ddd#	.
-8eee	.
-6...bb	E/B
-8ccc	.
-16ddd	.
+8eeeJ	.
+6...bb	E major/B
+8cccL	.
+16dddJk	.
 =7	=7
-8ccc	Am
+8cccL	A minor
 8ee	.
 8aa	.
-8ee	.
-4gg	D
-8gg	.
-16ff#	.
-16aa	.
+8eeJ	.
+4gg	D major
+8ggL	.
+16ff#L	.
+16aaJJ	.
 =8	=8
-2gg	G
-4r	G
-8gg	G/D
-8aa	.
+2gg	G major
+4r	G major
+8ggL	G major/D
+8aaJ	.
 ==	==
 *-	*-

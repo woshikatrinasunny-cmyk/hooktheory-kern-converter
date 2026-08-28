@@ -16,130 +16,130 @@
 *F:	*
 *M4/4	*
 =1	=1
-8r	F
-16cc	.
-16cc	.
-8cc	F/C
+8r	F major
+16ccLL	.
+16ccJ	.
+8cc	F major/C
+8ccJ	.
+8ffL	F major
 8cc	.
-8ff	F
-8cc	.
-8a	F/C
-8f	.
+8a	F major/C
+8fJ	.
 =2	=2
-4cc	F
-4a	F/C
-4cc	Dm7
-4a	Fmaj7/E
+4cc	F major
+4a	F major/C
+4cc	D minor-seventh
+4a	F major-seventh/E
 =3	=3
-8r	F
-16cc	.
-16cc	.
-8cc	F/C
+8r	F major
+16ccLL	.
+16ccJ	.
+8cc	F major/C
+8ccJ	.
+8ffL	F major
 8cc	.
-8ff	F
-8cc	.
-8a	F/C
-8f	.
+8a	F major/C
+8fJ	.
 =4	=4
-4cc	C/G
-4b-	C
-4a	D7sus2
-4g	C/E
+4cc	C major/G
+4b-	C major
+4a	D dominant-seventh-suspended-second
+4g	C major/E
 =5	=5
-8a	F
+8aL	F major
 8f	.
-8a	F/C
-8cc	.
-8b-	C/G
+8a	F major/C
+8ccJ	.
+8b-L	C major/G
 8g	.
-8b-	C
-8dd	.
+8b-	C major
+8ddJ	.
 =6	=6
-8cc	F/A
+8cc	F major/A
 8r	.
-8ee	F/C
+8ee	F major/C
 8r	.
-8ff	F
+8ff	F major
 8r	.
-8cc	F/C
+8cc	F major/C
 8r	.
 =7	=7
-8r	C/G
-16b-	.
-16b-	.
-8b-	C
+8r	C major/G
+16b-LL	.
+16b-J	.
+8b-	C major
+8aJ	.
+8b-L	C major/G
 8a	.
-8b-	C/G
-8a	.
-8g	C
-8f	.
+8g	C major
+8fJ	.
 =8	=8
-4e	C/G
-4f	C
-4g	D7sus2
-4c	C/E
+4e	C major/G
+4f	C major
+4g	D dominant-seventh-suspended-second
+4c	C major/E
 =9	=9
-8r	F
-16cc	.
-16cc	.
-8cc	F/C
+8r	F major
+16ccLL	.
+16ccJ	.
+8cc	F major/C
+8ccJ	.
+8ffL	F major
 8cc	.
-8ff	F
-8cc	.
-8a	F/C
-8f	.
+8a	F major/C
+8fJ	.
 =10	=10
-4cc	F
-4a	F/C
-4cc	Dm7
-4a	Fmaj7/E
+4cc	F major
+4a	F major/C
+4cc	D minor-seventh
+4a	F major-seventh/E
 =11	=11
-8r	F
-16cc	.
-16cc	.
-8cc	F/C
+8r	F major
+16ccLL	.
+16ccJ	.
+8cc	F major/C
+8ccJ	.
+8ffL	F major
 8cc	.
-8ff	F
-8cc	.
-8a	F/C
-8f	.
+8a	F major/C
+8fJ	.
 =12	=12
-4cc	C/G
-4b-	C
-4a	D7sus2
-4g	C/E
+4cc	C major/G
+4b-	C major
+4a	D dominant-seventh-suspended-second
+4g	C major/E
 =13	=13
-8a	F
+8aL	F major
 8f	.
-8a	F/C
-8cc	.
-8b-	Gm/B-
+8a	F major/C
+8ccJ	.
+8b-L	G minor/B-
 8g	.
-8b-	Gm/D
-8dd	.
+8b-	G minor/D
+8ddJ	.
 =14	=14
-8cc	F/A
+8cc	F major/A
 8r	.
-8ee	C
+8ee	C major
 8r	.
-8ff	B-/D
+8ff	B- major/D
 8r	.
-8cc	F/A
+8cc	F major/A
 8r	.
 =15	=15
-8r	B-
-16dd	.
-16dd	.
-8dd	B-
-8dd	.
-8cc	C
+8r	B- major
+16ddLL	.
+16ddJ	.
+8dd	B- major
+8ddJ	.
+8ccL	C major
 8cc	.
-8dd	C
-8ee	.
+8dd	C major
+8eeJ	.
 =16	=16
-4ff	F
-4cc	C
-4ff[	F
-4ff]	F
+4ff	F major
+4cc	C major
+[4ff	F major
+4ff]	F major
 ==	==
 *-	*-

@@ -16,133 +16,133 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	Ddim
-8r	Ddim
+8r	D diminished
+8r	D diminished
 8r	.
-8r	Fm
-8r	A-
-8r	A-
+8r	F minor
+8r	A- major
+8r	A- major
 8r	.
-8f	Fm
+8f	F minor
 =2	=2
-8g[	Gm
-8g]	Gm
+[8gL	G minor
+8g]	G minor
 8g	.
-8f	Fm
-8a-[	A-
-8a-]	A-
-8a-[	.
-8a-]	Fm
+8fJ	F minor
+[8a-L	A- major
+8a-]	A- major
+[8a-	.
+8a-J]	F minor
 =3	=3
-8d[	Ddim
-8d]	Ddim
+[8dL	D diminished
+8dJ]	D diminished
 8r	.
-8r	Fm
-8r	A-
-8r	A-
+8r	F minor
+8r	A- major
+8r	A- major
 8r	.
-8r	Fm
+8r	F minor
 =4	=4
-8g	Gm
-8g	Gm
+8gL	G minor
+8g	G minor
 8g	.
-8f	Fm
-8a-	A-
-8a-	A-
-8f[	.
-8f]	Fm
+8fJ	F minor
+8a-L	A- major
+8a-	A- major
+[8f	.
+8fJ]	F minor
 =5	=5
-8r	Ddim
-8r	Ddim
+8r	D diminished
+8r	D diminished
 8r	.
-8r	Fm
-8r	A-
-8r	A-
+8r	F minor
+8r	A- major
+8r	A- major
 8r	.
-8f	Fm
+8f	F minor
 =6	=6
-8g[	Gm
-8g]	Gm
+[8gL	G minor
+8g]	G minor
 8g	.
-8f	Fm
-8a-[	A-
-8a-]	A-
+8fJ	F minor
+[8a-L	A- major
+8a-]	A- major
 8a-	.
-8f	Fm
+8fJ	F minor
 =7	=7
-8d[	Ddim
-8d]	Ddim
+[8dL	D diminished
+8dJ]	D diminished
 8r	.
-8r	Fm
-8r	A-
-8r	A-
+8r	F minor
+8r	A- major
+8r	A- major
 8r	.
-8r	Fm
+8r	F minor
 =8	=8
-8g	Gm
-8g	Gm
+8gL	G minor
+8g	G minor
 8g	.
-8f	Fm
-8a-	A-
-8f	A-
-8f[	.
-8f]	Fm
+8fJ	F minor
+8a-L	A- major
+8f	A- major
+[8f	.
+8fJ]	F minor
 =9	=9
-4.d	Ddim
-8r	Ddim/A-
-8r	Gm
-8r	Dadd(4,6)/G-
-8cc	Ddim/F
-8cc	.
+4.d	D diminished
+8r	D diminished/A-
+8r	G minor
+8r	D other-4,6/G-
+8ccL	D diminished/F
+8ccJ	.
 =10	=10
 4cc	.
-8cc	.
-8bn	.
-8bn	.
-8an	.
-4an[	.
+8ccL	.
+8bnJ	.
+8bnL	.
+8anJ	.
+[4an	.
 =11	=11
-4.an_	Ddim
-8an]	Ddim/A-
-8g	Gm
-8g-	Dadd(4,6)/G-
-8f	Ddim/F
-8g	.
+4.an_	D diminished
+8an]	D diminished/A-
+8gL	G minor
+8g-	D other-4,6/G-
+8f	D diminished/F
+8gJ	.
 =12	=12
 4g	.
 4g	.
-8d[	.
-4d]	E-maj7
+[8d	.
+4d]	E- major-seventh
 8r	.
 =13	=13
-4.r	Ddim
-8r	Ddim/A-
-8r	Gm
-8r	Dadd(4,6)/G-
-8r	Ddim/F
+4.r	D diminished
+8r	D diminished/A-
+8r	G minor
+8r	D other-4,6/G-
+8r	D diminished/F
 8cc	.
 =14	=14
+8ccL	.
 8cc	.
 8cc	.
-8cc	.
-8bn	.
-8bn	.
-8an	.
-4an[	.
+8bnJ	.
+8bnL	.
+8anJ	.
+[4an	.
 =15	=15
-4.an_	Ddim
-8an]	Ddim/A-
-8r	Gm
-8r	Dadd(4,6)/G-
-4r	Ddim/F
+4.an_	D diminished
+8an]	D diminished/A-
+8r	G minor
+8r	D other-4,6/G-
+4r	D diminished/F
 =16	=16
+8gL	.
 8g	.
 8g	.
-8g	.
-16g	.
-16a-	.
-8g[	.
-8g]	E-maj7
+16gL	.
+16a-JJ	.
+[8gL	.
+8gJ]	E- major-seventh
 4f	.
 =17	=17
 4.d	.

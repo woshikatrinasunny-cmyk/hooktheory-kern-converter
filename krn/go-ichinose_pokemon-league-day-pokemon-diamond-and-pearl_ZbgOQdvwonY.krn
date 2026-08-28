@@ -16,39 +16,39 @@
 *C:	*
 *M4/4	*
 =1	=1
-2aa	Fadd(2,4,7)
+2aa	F other-2,4,7
 2r	.
 =2	=2
-8r	Fmaj9
+8r	F major-ninth
 4a	.
 4ee	.
 4dd	.
 8ee	.
 =3	=3
-2dd	Gadd(2,4,7)
+2dd	G other-2,4,7
 2r	.
 =4	=4
-4r	Gadd(2,4,7)
+4r	G other-2,4,7
 4dd	.
 8r	.
 4ee	.
 8ff	.
 =5	=5
-2ee	Fmaj9
+2ee	F major-ninth
 2r	.
 =6	=6
-8r	Fmaj9
+8r	F major-ninth
 4a	.
 4ee	.
 4dd	.
 8ee	.
 =7	=7
-2dd	Em9
+2dd	E minor-ninth
 2r	.
 =8	=8
-4dd	Em7
-4cc#	D#m7
-4cc	Dm7
-4cc	C#maj7
+4dd	E minor-seventh
+4cc#	D# minor-seventh
+4cc	D minor-seventh
+4cc	C# major-seventh
 ==	==
 *-	*-

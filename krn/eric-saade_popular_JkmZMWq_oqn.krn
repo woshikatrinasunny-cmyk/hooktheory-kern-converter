@@ -16,98 +16,98 @@
 *d:	*
 *M4/4	*
 =1	=1
-4dd	Dm
+4dd	D minor
 8dd	.
 4dd	.
-8ee	.
+8eeL	.
 8ff	.
-8ee	.
+8eeJ	.
 =2	=2
 4dd	.
 8dd	.
 4dd	.
-8ee	.
+8eeL	.
 8ff	.
-8dd	.
+8ddJ	.
 =3	=3
-2aa	F
-2ee	Am
+2aa	F major
+2ee	A minor
 =4	=4
-4ff	Dm
+4ff	D minor
 8ee	.
 4dd	.
-8ee	.
+8eeL	.
 8ff	.
-8ee	.
+8eeJ	.
 =5	=5
 4dd	.
 8dd	.
 4dd	.
-8ee	.
+8eeL	.
 8ff	.
-8ee	.
+8eeJ	.
 =6	=6
 4dd	.
 8dd	.
 4dd	.
-8ee	.
+8eeL	.
 8ff	.
-8dd	.
+8ddJ	.
 =7	=7
-2aa	F
-2ee	Am
+2aa	F major
+2ee	A minor
 =8	=8
-4ff	Dm
+4ff	D minor
 8ee	.
 4dd	.
 8r	.
-4r	C
+4r	C major
 =9	=9
-8r	B-
+8r	B- major
+8ddL	.
 8dd	.
-8dd	.
-16dd	.
+16ddJk	.
 8.dd	.
-8dd	.
+8ddL	.
 8ee	.
-8ff	.
+8ffJ	.
 =10	=10
-2ff	F
+2ff	F major
 2r	.
 =11	=11
-8r	Gm
+8r	G minor
+8ggL	.
 8gg	.
-8gg	.
-16gg	.
+16ggJk	.
 8.gg	.
-8gg	.
+8ggL	.
 8aa	.
-8gg	.
+8ggJ	.
 =12	=12
-2ee	Am
+2ee	A minor
 8r	.
-8ee	.
+8eeL	.
 8ff	.
-8ee	.
+8eeJ	.
 =13	=13
-4dd	Dm
+4dd	D minor
 8dd	.
 4dd	.
-8ee	.
+8eeL	.
 8ff	.
-8ee	.
+8eeJ	.
 =14	=14
 4dd	.
 8dd	.
 4dd	.
-8ee	.
+8eeL	.
 8ff	.
-8dd	.
+8ddJ	.
 =15	=15
-2aa	F
-2ee	Am
+2aa	F major
+2ee	A minor
 =16	=16
-4ff	Dm
+4ff	D minor
 8ee	.
 4.dd	.
 4r	.

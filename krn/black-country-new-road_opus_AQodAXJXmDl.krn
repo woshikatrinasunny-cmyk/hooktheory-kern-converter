@@ -16,28 +16,28 @@
 *C:	*
 *M6/4	*
 =1	=1
-2.cc	Cadd(4,9)
+2.cc	C other-4,9
 2.b	.
 =2	=2
-2.a	Cadd(4,9)
+2.a	C other-4,9
 2.g#	.
 =3	=3
-2.b	Caug
+2.b	C augmented
 2.a	.
 =4	=4
-2.g#	Caug
+2.g#	C augmented
 2.e	.
 =5	=5
-2.ee	E
+2.ee	E major
 2.dd	.
 =6	=6
-2.cc	E
+2.cc	E major
 2.b	.
 =7	=7
-2.dd	G#aug
+2.dd	G# augmented
 2.cc	.
 =8	=8
-2.b	G#aug
+2.b	G# augmented
 2.a	.
 ==	==
 *-	*-

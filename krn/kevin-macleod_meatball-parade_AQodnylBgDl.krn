@@ -15,51 +15,51 @@
 *A:	*
 *M4/4	*
 =1	=1
-8ccn	D
-8a[	.
-4a_	D/A
-4a]	D
-8ee	D/A
-8cc#	D
+8ccnL	D major
+[8aJ	.
+4a_	D major/A
+4a]	D major
+8eeL	D major/A
+8cc#J	D major
 =2	=2
-4b[	E
-4b_	E/B
-4b]	E
+[4b	E major
+4b_	E major/B
+4b]	E major
 4dd	.
 =3	=3
-8ee	A
-8cc#[	.
-4cc#_	A/E
-4cc#_	A
-8cc#_	A
-8cc#]	Amaj7/G#
+8eeL	A major
+[8cc#J	.
+4cc#_	A major/E
+4cc#_	A major
+8cc#L_	A major
+8cc#J]	A major-seventh/G#
 =4	=4
-4a[	F#m7
-4a_	A/C#
-4a_	F#m7
-8a]	A/C#
+[4a	F# minor-seventh
+4a_	A major/C#
+4a_	F# minor-seventh
+8a]	A major/C#
 8r	.
 =5	=5
-8ccn	D
-8a[	.
-4a_	D/A
-4a]	D
-8ee	D/A
-8cc#	D
+8ccnL	D major
+[8aJ	.
+4a_	D major/A
+4a]	D major
+8eeL	D major/A
+8cc#J	D major
 =6	=6
-4b[	E
-4b_	E/B
-4b]	E
-4dd	E/B
+[4b	E major
+4b_	E major/B
+4b]	E major
+4dd	E major/B
 =7	=7
-4ee[	A
-4ee_	A/E
-4ee_	A
-4ee_	A/E
+[4ee	A major
+4ee_	A major/E
+4ee_	A major
+4ee_	A major/E
 =8	=8
 3...ee_	.
-8ee]	A/C#
+8ee]	A major/C#
 8r	.
-8r	Bm11
+8r	B minor-11th
 ==	==
 *-	*-

@@ -16,215 +16,215 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4c	.
 4e	.
 4g	.
 =2	=2
-4b	Am
+4b	A minor
 2a	.
 4e	.
 =3	=3
-4g	F
+4g	F major
 2f	.
 4c	.
 =4	=4
-2e	Dadd(2,3,7)
-2d	G
+2e	D other-2,3,7
+2d	G major
 =5	=5
-4r	C
+4r	C major
 4c	.
 4e	.
 4g	.
 =6	=6
-4b	Am
+4b	A minor
 4a	.
 4g#	.
 4a	.
 =7	=7
-2cc	F
+2cc	F major
 4a	.
 4f	.
 =8	=8
-2e	Dm
-2d	G
+2e	D minor
+2d	G major
 =9	=9
-8g	C
+8gL	C major
 8E	.
 8G	.
-8c	.
-8B	Cmaj7
+8cJ	.
+8BL	C major-seventh
 8E	.
 8G	.
-8B	.
+8BJ	.
 =10	=10
-8A	Dm7/C
+8AL	D minor-seventh/C
 8D	.
 8F	.
-8A	.
-8B	Cadd(2,5,7,11)
+8AJ	.
+8BL	C other-2,5,7,11
 8D	.
 8F	.
-8B	.
+8BJ	.
 =11	=11
-8c	C
+8cL	C major
 8E	.
 8G	.
-8c	.
-8B	Cmaj7
+8cJ	.
+8BL	C major-seventh
 8E	.
 8G	.
-8B	.
+8BJ	.
 =12	=12
-8A	Dm7/C
+8AL	D minor-seventh/C
 8D	.
 8F	.
-8A	.
-8B	Cadd(2,5,7,11)
+8AJ	.
+8BL	C other-2,5,7,11
 8D	.
 8F	.
-8B	.
+8BJ	.
 =13	=13
-8c	C
+8cL	C major
 8E	.
 8G	.
-8c	.
-8B	Cmaj7
+8cJ	.
+8BL	C major-seventh
 8E	.
 8G	.
-8B	.
+8BJ	.
 =14	=14
-8A	Dm7/C
+8AL	D minor-seventh/C
 8D	.
 8F	.
-8A	.
-8B	Cadd(2,5,7,11)
+8AJ	.
+8BL	C other-2,5,7,11
 8D	.
 8F	.
-8B	.
+8BJ	.
 =15	=15
-8c	C
+8cL	C major
 8E	.
 8G	.
-8c	.
-8B	Cmaj7
+8cJ	.
+8BL	C major-seventh
 8E	.
 8G	.
-8B	.
+8BJ	.
 =16	=16
-8D	C/G
+8DL	C major/G
 8D#	.
-8C	C
-8D	.
-8G#	C/G
+8C	C major
+8DJ	.
+8G#L	C major/G
 8A	.
-8F#	C/G
-8G	.
+8F#	C major/G
+8GJ	.
 =17	=17
-4r	C
+4r	C major
 4c	.
 4e	.
 4g	.
 =18	=18
-4b	Am
+4b	A minor
 2a	.
 4e	.
 =19	=19
-4g	F
+4g	F major
 4f	.
 4a	.
 4cc	.
 =20	=20
-2ee	Dadd(2,3,7)
-2b	G
+2ee	D other-2,3,7
+2b	G major
 =21	=21
-4r	C
+4r	C major
 4c	.
 4e	.
 4g	.
 =22	=22
-4b	Am
+4b	A minor
 4a	.
 4g#	.
 4a	.
 =23	=23
-2cc	F
+2cc	F major
 4a	.
 4f	.
 =24	=24
-2cc	Dm7
-2dd	G
+2cc	D minor-seventh
+2dd	G major
 =25	=25
-8ee	C
+8eeL	C major
 8E	.
 8G	.
-8c	.
-8B	Cmaj7
+8cJ	.
+8BL	C major-seventh
 8E	.
 8G	.
-8B	.
+8BJ	.
 =26	=26
-8A	Dm7/C
+8AL	D minor-seventh/C
 8D	.
 8F	.
-8A	.
-8B	Cadd(2,5,7,11)
+8AJ	.
+8BL	C other-2,5,7,11
 8D	.
 8F	.
-8B	.
+8BJ	.
 =27	=27
-8c	C
+8cL	C major
 8E	.
 8G	.
-8c	.
-8B	Cmaj7
+8cJ	.
+8BL	C major-seventh
 8E	.
 8G	.
-8B	.
+8BJ	.
 =28	=28
-8A	Dm7/C
+8AL	D minor-seventh/C
 8D	.
 8F	.
-8A	.
-8B	Cadd(2,5,7,11)
+8AJ	.
+8BL	C other-2,5,7,11
 8D	.
 8F	.
-8B	.
+8BJ	.
 =29	=29
-8c	C
+8cL	C major
 8E	.
 8G	.
-8c	.
-8B	Cmaj7
+8cJ	.
+8BL	C major-seventh
 8E	.
 8G	.
-8B	.
+8BJ	.
 =30	=30
-8A	Dm7/C
+8AL	D minor-seventh/C
 8D	.
 8F	.
-8A	.
-8B	Cadd(2,5,7,11)
+8AJ	.
+8BL	C other-2,5,7,11
 8D	.
 8F	.
-8B	.
+8BJ	.
 =31	=31
-8c	C
+8cL	C major
 8E	.
 8G	.
-8c	.
-8B	Cmaj7
+8cJ	.
+8BL	C major-seventh
 8E	.
 8G	.
-8B	.
+8BJ	.
 =32	=32
-8A	Dm7/C
+8AL	D minor-seventh/C
 8D	.
 8F	.
-8A	.
-8B	Cadd(2,5,7,11)
+8AJ	.
+8BL	C other-2,5,7,11
 8D	.
 8F	.
-8B	.
+8BJ	.
 ==	==
 *-	*-

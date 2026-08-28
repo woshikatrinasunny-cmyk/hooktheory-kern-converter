@@ -16,181 +16,181 @@
 *E:	*
 *M4/4	*
 =1	=1
-4r	E/G#
+4r	E major/G#
 4e	.
-8.d#	.
+8.d#L	.
 8.e	.
-8B[	.
+[8BJ	.
 =2	=2
-8B]	A
+8B]	A major
 8r	.
 4e	.
-8.d#	.
+8.d#L	.
 8.e	.
-8g#[	.
+[8g#J	.
 =3	=3
-4g#]	C#m7
+4g#]	C# minor-seventh
 4r	.
-8g#	.
+8g#L	.
 8f#	.
 8e	.
-8f#[	.
+[8f#J	.
 =4	=4
-2.f#]	B
+2.f#]	B major
 4r	.
 =5	=5
-4r	A
+4r	A major
 4e	.
-8.d#	.
+8.d#L	.
 8.e	.
-8B[	.
+[8BJ	.
 =6	=6
-8B]	G#m
+8B]	G# minor
 8r	.
 4e	.
-8.d#	.
+8.d#L	.
 8.e	.
-8c#[	.
+[8c#J	.
 =7	=7
-2c#]	F#m
+2c#]	F# minor
 8r	.
+8BL	.
 8B	.
-8B	.
-8B[	.
+[8BJ	.
 =8	=8
-1B]	B7
+1B]	B dominant
 =9	=9
-4r	E/G#
+4r	E major/G#
 4e	.
-8.d#	.
+8.d#L	.
 8.e	.
-8B[	.
+[8BJ	.
 =10	=10
-8B]	A
+8B]	A major
 8r	.
 4e	.
-8.d#	.
+8.d#L	.
 8.e	.
-8g#[	.
+[8g#J	.
 =11	=11
-4g#]	C#m7
+4g#]	C# minor-seventh
 4r	.
 4g#	.
-8a	.
-8g#	.
+8aL	.
+8g#J	.
 =12	=12
-4f#	B
+4f#	B major
 4r	.
-8.f#	B7/A
+8.f#L	B dominant/A
 8.g#	.
-8a	.
+8aJ	.
 =13	=13
-4.b	G#m7
+4.b	G# minor-seventh
 8r	.
-8b	.
+8bL	.
 8a	.
 8g#	.
-8f#[	.
+[8f#J	.
 =14	=14
-8f#]	C#7
+8f#]	C# dominant
 4.fn	.
 4r	.
-8f#	.
-8g#	.
+8f#L	.
+8g#J	.
 =15	=15
-4a	F#m7
+4a	F# minor-seventh
 8a	.
 4f#	.
 4e	.
-8d#[	.
+[8d#	.
 =16	=16
-8d#]	B7
-8c#	.
+8d#L]	B dominant
+8c#J	.
 4B	.
-4r	B7/A
-8g#	.
-8a	.
+4r	B dominant/A
+8g#L	.
+8aJ	.
 =17	=17
-4b	G#m7
+4b	G# minor-seventh
 4r	.
-8b	.
+8bL	.
 8a	.
 8g#	.
-8f#[	.
+[8f#J	.
 =18	=18
-8f#]	C#7
+8f#]	C# dominant
 4.g#	.
 4r	.
-8f#	.
-8g#	.
+8f#L	.
+8g#J	.
 =19	=19
-4a	F#m7
+4a	F# minor-seventh
 8a	.
 4f#	.
 4e	.
-8d#[	.
+[8d#	.
 =20	=20
-8d#]	B7
-8e	.
+8d#L]	B dominant
+8eJ	.
 4f#	.
 4r	.
-8e	.
-8d#	.
+8eL	.
+8d#J	.
 =21	=21
-4e	C#m
+4e	C# minor
 8r	.
 8e	.
-8e	.
+8eL	.
 8f#	.
 8g#	.
-8e[	.
+[8eJ	.
 =22	=22
-4e]	G#/C
+4e]	G# major/C
 8r	.
 8e	.
-8e	.
+8eL	.
 8f#	.
 8g#	.
-8e[	.
+[8eJ	.
 =23	=23
-4e]	E/B
+4e]	E major/B
 8r	.
 8e	.
-8e	.
+8eL	.
 8f#	.
 8g#	.
-8f#[	.
+[8f#J	.
 =24	=24
-8f#]	A#m7b5
-8e	.
+8f#L]	A# half-diminished
+8eJ	.
 4c#	.
 4r	.
-8f#	.
-8g#	.
+8f#L	.
+8g#J	.
 =25	=25
-8a	A
+8aL	A major
 8g#	.
 8a	.
+8g#J	.
+8aL	.
 8g#	.
 8a	.
-8g#	.
-8a	.
-8b[	.
+[8bJ	.
 =26	=26
-8b]	Eadd(2,4,7)/G#
+8b]	E other-2,4,7/G#
 8r	.
 8e	.
 4e	.
+8eL	.
 8e	.
-8e	.
-8cc#[	.
+[8cc#J	.
 =27	=27
-2cc#]	F#m7
+2cc#]	F# minor-seventh
 8r	.
-8b	.
+8bL	.
 8g#	.
-8b[	.
+[8bJ	.
 =28	=28
-2b]	B
+2b]	B major
 ==	==
 *-	*-

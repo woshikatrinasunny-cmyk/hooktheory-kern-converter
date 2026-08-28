@@ -16,32 +16,32 @@
 *D:	*
 *M4/4	*
 =1	=1
-1r	D
+1r	D major
 =2	=2
 1r	.
 =3	=3
-1r	A
+1r	A major
 =4	=4
 1r	.
 =5	=5
-1r	Bm
+1r	B minor
 =6	=6
 1r	.
 =7	=7
-2..r	G
-8r	A
+2..r	G major
+8r	A major
 =8	=8
 1r	.
 =9	=9
-2..r	G
-8r	A
+2..r	G major
+8r	A major
 =10	=10
 1r	.
 =11	=11
-4dd	D
+4dd	D major
 4aa	.
 4.r	.
-8dd[	.
+[8dd	.
 =12	=12
 8dd]	.
 4aa	.
@@ -49,7 +49,7 @@
 4aa	.
 4dd	.
 =13	=13
-4cc#	A
+4cc#	A major
 4aa	.
 2r	.
 =14	=14
@@ -59,10 +59,10 @@
 8cc#	.
 4aa	.
 =15	=15
-4dd	Bm
+4dd	B minor
 4aa	.
 4.r	.
-8dd[	.
+[8dd	.
 =16	=16
 8dd]	.
 4aa	.
@@ -70,11 +70,11 @@
 4aa	.
 4dd	.
 =17	=17
-4dd	G
+4dd	G major
 4aa	.
 8r	.
 4dd	.
-8cc#[	A
+[8cc#	A major
 =18	=18
 8cc#]	.
 4aa	.
@@ -82,11 +82,11 @@
 4aa	.
 4cc#	.
 =19	=19
-4dd	G
+4dd	G major
 4aa	.
 8r	.
 4dd	.
-8cc#[	A
+[8cc#	A major
 =20	=20
 8cc#]	.
 4aa	.

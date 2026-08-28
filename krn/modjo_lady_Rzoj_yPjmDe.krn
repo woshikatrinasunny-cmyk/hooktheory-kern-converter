@@ -16,59 +16,59 @@
 *b-:	*
 *M4/4	*
 =1	=1
-8.ff	B-m9
-8.ff[	.
-16ff]	B-m7
+8.ffL	B- minor-ninth
+[8.ff	.
+16ffJk]	B- minor-seventh
 8.r	.
-8.ee-	.
-8.dd-	.
+8.ee-L	.
+8.dd-J	.
 =2	=2
-8.dd-	B-m9
-8.dd-[	.
-16dd-]	B-m7
+8.dd-L	B- minor-ninth
+[8.dd-	.
+16dd-Jk]	B- minor-seventh
 8.r	.
-8.dd-	.
-8.ee-	.
+8.dd-L	.
+8.ee-J	.
 =3	=3
-8.ff	B-m9
-8.ff[	.
-16ff]	B-m7
+8.ffL	B- minor-ninth
+[8.ff	.
+16ffJk]	B- minor-seventh
 8.r	.
-8.ee-	.
-8.dd-	.
+8.ee-L	.
+8.dd-J	.
 =4	=4
-8.ee-	B-m9
-8.ee-[	.
-16ee-]	B-m7
+8.ee-L	B- minor-ninth
+[8.ee-	.
+16ee-Jk]	B- minor-seventh
 8.r	.
-8.dd-	.
-8.ee-	.
+8.dd-L	.
+8.ee-J	.
 =5	=5
-4ff	A-7/G-
+4ff	A- dominant/G-
 8r	.
-4r	G-add(2,4,7)
-8.ee-	.
-8.dd-	.
+4r	G- other-2,4,7
+8.ee-L	.
+8.dd-J	.
 =6	=6
-8.dd-	A-7/G-
-8.dd-[	.
-16dd-]	G-add(2,4,7)
+8.dd-L	A- dominant/G-
+[8.dd-	.
+16dd-Jk]	G- other-2,4,7
 8.r	.
-8.dd-	.
-8.cc	.
+8.dd-L	.
+8.ccJ	.
 =7	=7
-6b-	Cm7b5/E-
+6b-	C half-diminished/E-
 6dd-	.
-24cc[	.
-8cc]	E-m7
+[24ccLK	.
+8ccJ]	E- minor-seventh
 6b-	.
 6dd-	.
 6cc	.
 =8	=8
-6b-	Cm7b5/E-
+6b-	C half-diminished/E-
 6dd-	.
-24cc[	.
-8cc]	E-m7
+[24ccLK	.
+8ccJ]	E- minor-seventh
 6b-	.
 6dd-	.
 6cc	.

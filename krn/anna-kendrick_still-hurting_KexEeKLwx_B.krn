@@ -15,65 +15,65 @@
 *C:	*
 *M6/4	*
 =1	=1
-4g	C
+4g	C major
 4g	.
 4g	.
-4g	F/A
-8e	.
-8d	.
+4g	F major/A
+8eL	.
+8dJ	.
 4c	.
 =2	=2
-4.d	A#sus2
+4.d	A# suspended-second
 8e	.
 4d	.
-2.e	C
+2.e	C major
 =3	=3
 1.r	.
 =4	=4
-4g	C
+4g	C major
 4g	.
 4g	.
-4g	F/A
-8e	.
-8d	.
+4g	F major/A
+8eL	.
+8dJ	.
 4c	.
 =5	=5
-2d	A#sus2
-8e	.
+2d	A# suspended-second
+8eL	.
+8dJ	.
+4e	C major
 8d	.
-4e	C
-8d	.
-4.c[	.
+[4.c	.
 =6	=6
 4c]	.
 1r	.
 4r	.
 =7	=7
-4a	Dm7
+4a	D minor-seventh
 4g	.
 4g	.
-4g	C/E
+4g	C major/E
 4.e	.
 8c	.
 =8	=8
-4.d	D7/F#
+4.d	D dominant/F#
 8e	.
 4d	.
-2.e	E7/G#
+2.e	E dominant/G#
 =9	=9
 1r	.
 4r	.
 4c	.
 =10	=10
-2.g	F/A
-2.e	A#sus2
+2.g	F major/A
+2.e	A# suspended-second
 =11	=11
-4.e	G7/B
+4.e	G dominant/B
 8d	.
 4c	.
-2.c[	Csus4
+[2.c	C suspended-fourth
 =12	=12
-2c]	C
+2c]	C major
 1r	.
 ==	==
 *-	*-

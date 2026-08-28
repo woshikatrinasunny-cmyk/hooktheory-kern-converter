@@ -20,62 +20,62 @@
 4f	.
 4f	.
 =2	=2
-4f	F
-4r	F/A
-8r	B-
-8f	.
-8f	C
-16f	.
-16f[	.
+4f	F major
+4r	F major/A
+8r	B- major
+8fL	.
+8f	C major
+16fL	.
+[16fJJ	.
 =3	=3
-4f]	A
-4r	A/D-
-8r	Dm
-8f	.
-8f	Am/E
-8f	.
+4f]	A major
+4r	A major/D-
+8r	D minor
+8fL	.
+8f	A minor/E
+8fJ	.
 =4	=4
-4a-	C
-4a-	C/E
-4a-	F
-8f	Gm
-16d	.
-16f[	.
+4a-	C major
+4a-	C major/E
+4a-	F major
+8fL	G minor
+16dL	.
+[16fJJ	.
 =5	=5
-8f]	C
+8f]	C major
 8r	.
-4r	C7/B-
-4f	F/A
-4f	Edim/G
+4r	C dominant/B-
+4f	F major/A
+4f	E diminished/G
 =6	=6
-4f	F
-4r	F/A
-8r	B-
+4f	F major
+4r	F major/A
+8r	B- major
+8fL	.
+16fk	C major
 8f	.
-16f	C
-8f	.
-16f[	.
+[16fJk	.
 =7	=7
-8f]	A
-8a[	.
-8a]	A/D-
+8fL]	A major
+[8a	.
+8aJ]	A major/D-
 8r	.
-8r	Dm
-8f	.
-8f	Am/E
-8f	.
+8r	D minor
+8fL	.
+8f	A minor/E
+8fJ	.
 =8	=8
-4a-	C
-4a-	C/E
-8a-	F
+4a-	C major
+4a-	C major/E
+8a-L	F major
 8f	.
-16f	Gm
+16fk	G minor
 8d	.
-16f[	.
+[16fJk	.
 =9	=9
-4f]	C
-4r	C7/B-
-4f	F/A
-4f	Edim/G
+4f]	C major
+4r	C dominant/B-
+4f	F major/A
+4f	E diminished/G
 ==	==
 *-	*-

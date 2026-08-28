@@ -16,53 +16,53 @@
 *D-:	*
 *M4/4	*
 =1	=1
-4r	D-
+4r	D- major
 2dd-	.
-8b-	.
-8a-	.
+8b-L	.
+8a-J	.
 =2	=2
-8b-	E-add(3,10)
+8b-L	E- other-3,10
 8a-	.
 8f	.
-8e-	.
-2d-	D-/F
+8e-J	.
+2d-	D- major/F
 =3	=3
-4r	G-
+4r	G- major
 4dd-	.
 4.dd-	.
 8a-	.
 =4	=4
 4b-	.
-8dd-[	.
-8dd-]	D-/F
-8ff[	.
-4ff]	G-
+[8dd-L	.
+8dd-J]	D- major/F
+[8ff	.
+4ff]	G- major
 8ee-	.
 =5	=5
-4r	A-add(4,5,7)
+4r	A- other-4,5,7
 2dd-	.
-8b-	B-m7
-8a-	.
+8b-L	B- minor-seventh
+8a-J	.
 =6	=6
-8b-	.
+8b-L	.
 8a-	.
 8f	.
-8e-	.
-4.d-[	D-/F
-8d-]	G-
+8e-J	.
+[4.d-	D- major/F
+8d-]	G- major
 =7	=7
 8r	.
 8d-	.
 4b-	.
-4.a-	D-/F
-8r	G-
+4.a-	D- major/F
+8r	G- major
 =8	=8
 4r	.
 8r	.
 8A-	.
-8B-	.
+8B-L	.
 8d-	.
-8d-	.
+8d-J	.
 8r	.
 ==	==
 *-	*-

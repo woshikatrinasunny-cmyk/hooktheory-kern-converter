@@ -16,132 +16,132 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.dd	A
+4.dd	A major
 4.cc#	.
 4b	.
 =2	=2
-4cc#	C#
+4cc#	C# major
 4g#	.
 4a	.
 4aa	.
 =3	=3
-4.gg#	F#m7
+4.gg#	F# minor-seventh
 4.ee	.
-4ff#	F#maj7sus4/F
+4ff#	F# major-seventh-suspended-fourth/F
 =4	=4
-2a	Eadd(3,5,7,10)
-4a	A
+2a	E other-3,5,7,10
+4a	A major
 4b	.
 =5	=5
-4.cc#	Dmaj7
+4.cc#	D major-seventh
 4.dd	.
 4ee	.
 =6	=6
-4.cc#	C#m7
+4.cc#	C# minor-seventh
 4.b	.
 4a	.
 =7	=7
-2b[	G
-4b_	G/D
-4b_	G
+[2b	G major
+4b_	G major/D
+4b_	G major
 =8	=8
-2b]	Esus4
-4a	A
+2b]	E suspended-fourth
+4a	A major
 4g#	.
 =9	=9
-4.f#	D
+4.f#	D major
 4.a	.
 4cc#	.
 =10	=10
-4.b	E7/D
+4.b	E dominant/D
 4.cc#	.
 4dd	.
 =11	=11
-4.ee	C#m7
+4.ee	C# minor-seventh
 4.cc#	.
 4ee	.
 =12	=12
-2a	F#m7
+2a	F# minor-seventh
 4a	.
 4g#	.
 =13	=13
-2.f#	Bm7
+2.f#	B minor-seventh
 4f#	.
 =14	=14
-4.f#	B7
+4.f#	B dominant
 4.g#	.
 4a	.
 =15	=15
-1b	E
+1b	E major
 =16	=16
 4r	.
 4g#	.
-4a	B7/D#
+4a	B dominant/D#
 4aa	.
 =17	=17
-2.gg#	Dmaj7
+2.gg#	D major-seventh
 4ff#	.
 =18	=18
 4.gg#	.
 4.aa	.
 4bb	.
 =19	=19
-1ee	C#m7
+1ee	C# minor-seventh
 =20	=20
-4r	F#m7
+4r	F# minor-seventh
 4g#	.
 4a	.
 4ee	.
 =21	=21
-2.dd	Bm
+2.dd	B minor
 4cc#	.
 =22	=22
-4fn	C#7
+4fn	C# dominant
 4f#	.
 4dd	.
 4ee	.
 =23	=23
-2.cc#	F#m
-4r	F#mMaj7/F
+2.cc#	F# minor
+4r	F# major-minor/F
 =24	=24
-4b	Eadd(3,5,7,10)
+4b	E other-3,5,7,10
 4cc#	.
-4dd	A7
+4dd	A dominant
 4ee	.
 =25	=25
-2.ff#	D
+2.ff#	D major
 4aa	.
 =26	=26
-4.gg#	E7/D
+4.gg#	E dominant/D
 4.aa	.
 4bb	.
 =27	=27
-2.ee	C#m7
+2.ee	C# minor-seventh
 4bb	.
 =28	=28
-4.aa#	F#
+4.aa#	F# major
 4.bb	.
 4ccc#	.
 =29	=29
-4.dd	Bm7
+4.dd	B minor-seventh
 4.ee	.
 4ff#	.
 =30	=30
-4.ee	C#m7
+4.ee	C# minor-seventh
 4.ff#	.
 4gg#	.
 =31	=31
-4.aa	Dm7
+4.aa	D minor-seventh
 4.ggn	.
 4aa	.
 =32	=32
-4.bb	G
+4.bb	G major
 4.aa	.
 4ggn	.
 =33	=33
-2.aa	A
-4d	D/A
+2.aa	A major
+4d	D major/A
 =34	=34
-1c#	A
+1c#	A major
 ==	==
 *-	*-

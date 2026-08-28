@@ -16,42 +16,42 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.r	D
+4.r	D major
 4ee	.
 4dd	.
 8b	.
 =2	=2
-8.b	.
-8a	.
+8.bL	.
+8aJ	.
 16r	.
 4a	.
 4b	.
 8cc#	.
 =3	=3
-2dd	Bm
+2dd	B minor
 4.dd	.
 8ee	.
 =4	=4
-4.cc#	A
+4.cc#	A major
 8r	.
 4.cc#	.
 8cc#	.
 =5	=5
-4b	Gadd(2,4,7)
-8a	.
-8b	.
-4cc#	Aadd(2,4,7)
-8b	.
-8cc#	.
+4b	G other-2,4,7
+8aL	.
+8bJ	.
+4cc#	A other-2,4,7
+8bL	.
+8cc#J	.
 =6	=6
-4dd	Badd(2,3,7)
-8cc#	.
-8dd	.
-4ee	F#m7/C#
-8ff#	.
-8b[	.
+4dd	B other-2,3,7
+8cc#L	.
+8ddJ	.
+4ee	F# minor-seventh/C#
+8ff#L	.
+[8bJ	.
 =7	=7
-1b]	Bm7/D
+1b]	B minor-seventh/D
 =8	=8
 8r	.
 2..r	.

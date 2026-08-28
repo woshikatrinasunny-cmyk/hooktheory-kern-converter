@@ -16,42 +16,42 @@
 *B:	*
 *M3/4	*
 =1	=1
-2.d#	Badd(2,4,7)
+2.d#	B other-2,4,7
 =2	=2
 2.d#	.
 =3	=3
 2d#	.
-8c#	.
-8B[	.
+8c#L	.
+[8BJ	.
 =4	=4
 2B]	.
-8G#	.
-8A[	.
+8G#L	.
+[8AJ	.
 =5	=5
-8A]	F#add(2,3,7)
-3...e[	.
+8A]	F# other-2,3,7
+[3...e	.
 =6	=6
 2.e]	.
 =7	=7
-2.c#	Aadd(2,4,7)
+2.c#	A other-2,4,7
 =8	=8
 2.e	.
 =9	=9
 *M4/4	*
-2.c#	Aadd(2,4,7)
+2.c#	A other-2,4,7
 4e	.
 =10	=10
 *M3/4	*
-8d#	G#add(2,4,7)
-8c#	.
-2cn[	.
+8d#L	G# other-2,4,7
+8c#J	.
+[2cn	.
 =11	=11
 2.cn]	.
 =12	=12
 2.r	.
 =13	=13
-4r	G#sus4
-4r	G#
-4r	G#sus2
+4r	G# suspended-fourth
+4r	G# major
+4r	G# suspended-second
 ==	==
 *-	*-

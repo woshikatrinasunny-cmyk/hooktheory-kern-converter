@@ -15,69 +15,69 @@
 *C:	*
 *M4/4	*
 =1	=1
-8c	C
-8dd	.
+8cL	C major
+8ddJ	.
 4cc	.
-8ee	Dm
+8eeL	D minor
 8dd	.
-8b[	.
-8b]	Bdim
+[8b	.
+8bJ]	B diminished
 =2	=2
-8a	.
-8b	Dm
+8aL	.
+8bJ	D minor
 4f	.
-8cc[	.
-8cc]	F
-8g[	.
-16g]	Em
+[8ccL	.
+8cc]	F major
+[8g	.
+16gJk]	E minor
 16r	.
 =3	=3
-8ff[	.
-8ff]	G
+[8ffL	.
+8ff]	G major
 8cc	.
-8a	.
+8aJ	.
 8d	.
-8r	Am
-8ee	.
-8e	.
+8r	A minor
+8eeL	.
+8eJ	.
 =4	=4
-4dd	F
-8cc	F
-8gg	.
-8ff	F
-8cc	.
-4cc	Am
+4dd	F major
+8ccL	F major
+8ggJ	.
+8ffL	F major
+8ccJ	.
+4cc	A minor
 =5	=5
-8e	.
-8a	.
-4dd	C
-8d	.
+8eL	.
+8aJ	.
+4dd	C major
+8dL	.
 8f	.
-8b[	.
-8b]	Dm
+[8b	.
+8bJ]	D minor
 =6	=6
-8g	.
+8gL	.
 8gg	.
-8ee	F
+8eeJ	F major
 8r	.
 4cc	.
-8ff	G
-8b	.
+8ffL	G major
+8bJ	.
 =7	=7
 4g	.
 8f	.
-4cc	C
-8ee	.
+4cc	C major
+8eeL	.
 8dd	.
-8dd	Am
+8ddJ	A minor
 =8	=8
 4ee	.
-8dd	.
-8d	.
-8g	C
+8ddL	.
+8dJ	.
+8gL	C major
 8a	.
 8e	.
-8c	.
+8cJ	.
 =9	=9
 1r	.
 =10	=10

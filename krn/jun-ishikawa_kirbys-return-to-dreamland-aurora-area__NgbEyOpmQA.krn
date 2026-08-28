@@ -16,15 +16,15 @@
 *G:	*
 *M4/4	*
 =1	=1
-1G	G
+1G	G major
 =2	=2
 1g	.
 =3	=3
-1f#	Gmaj7
+1f#	G major-seventh
 =4	=4
 1B	.
 =5	=5
-1f#	Em7
+1f#	E minor-seventh
 =6	=6
 1g	.
 =7	=7
@@ -32,7 +32,7 @@
 =8	=8
 1e	.
 =9	=9
-1f#	Cmaj7
+1f#	C major-seventh
 =10	=10
 1g	.
 =11	=11
@@ -40,11 +40,11 @@
 =12	=12
 1F#	.
 =13	=13
-1B	D
+1B	D major
 =14	=14
 1C	.
 =15	=15
-1F#	Dadd(2,4,7)
+1F#	D other-2,4,7
 =16	=16
 2B	.
 2A	.

@@ -16,68 +16,68 @@
 *C:	*
 *M4/4	*
 =1	=1
-4.e	F
+4.e	F major
 4.d	.
 4r	.
 =2	=2
-4.B	G
+4.B	G major
 4c	.
 4.r	.
 =3	=3
-8A	C
-8c	.
+8AL	C major
+8cJ	.
 4c	.
-8e	.
+8eL	.
 8A	.
 8c	.
-8A	.
+8AJ	.
 =4	=4
-4c	F/C
+4c	F major/C
 4e	.
-4g	C
-4r	C/E
+4g	C major
+4r	C major/E
 =5	=5
-4.e	F
+4.e	F major
 4.d	.
 4r	.
 =6	=6
-4.B	G
+4.B	G major
 8c	.
 8r	.
 4.d	.
 =7	=7
-4c	Cadd(2,5,7)
+4c	C other-2,5,7
 2.r	.
 =8	=8
-4r	C
+4r	C major
 4g	.
 4a	.
 4e	.
 =9	=9
-4.e	F
+4.e	F major
 4.d	.
 8r	.
 8c	.
 =10	=10
-4B	G
+4B	G major
 8B	.
 4c	.
 4.r	.
 =11	=11
-4e	Am
+4e	A minor
 4g	.
 4a	.
 4e	.
 =12	=12
-8d	D
+8d	D major
 4d	.
 4A	.
 4.r	.
 =13	=13
-4.f	F
+4.f	F major
 4f	.
 4e	.
-8d[	.
+[8d	.
 =14	=14
 4d]	.
 8c	.
@@ -85,9 +85,9 @@
 8e	.
 4d	.
 =15	=15
-2.d	Gsus4
+2.d	G suspended-fourth
 4r	.
 =16	=16
-1r	G
+1r	G major
 ==	==
 *-	*-

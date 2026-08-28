@@ -16,60 +16,60 @@
 *C:	*
 *M4/4	*
 =1	=1
-8c	C
-8g	.
+8cL	C major
+8gJ	.
 4f	.
-8c	C
-8g	.
+8cL	C major
+8gJ	.
 4f	.
 =2	=2
-8d	Dm
-8a	.
+8dL	D minor
+8aJ	.
 4f	.
-8d	Dm
-8a	.
+8dL	D minor
+8aJ	.
 4f	.
 =3	=3
-8A	Am
-8e	.
+8AL	A minor
+8eJ	.
 4c	.
-8A	Am
-8e	.
+8AL	A minor
+8eJ	.
 4c	.
 =4	=4
-8F	F
-8e	.
+8FL	F major
+8eJ	.
 4c	.
-8F	Fadd(2,4,7)
-8e	.
+8FL	F other-2,4,7
+8eJ	.
 4c	.
 =5	=5
-8c	C
-8g	.
+8cL	C major
+8gJ	.
 4f	.
-8c	C
-8g	.
+8cL	C major
+8gJ	.
 4f	.
 =6	=6
-8d	Dsus4
-8a	.
+8dL	D suspended-fourth
+8aJ	.
 4f	.
-8d	Dsus4
-8a	.
+8dL	D suspended-fourth
+8aJ	.
 4f	.
 =7	=7
-8A	Am7
-8e	.
+8AL	A minor-seventh
+8eJ	.
 4c	.
-8A	Am7
-8e	.
+8AL	A minor-seventh
+8eJ	.
 4c	.
 =8	=8
-8F	Fadd(2,4,7)
-8e	.
+8FL	F other-2,4,7
+8eJ	.
 4c	.
-8F	Fadd(2,4,7)
-8e	.
+8FL	F other-2,4,7
+8eJ	.
 4c	.
 ==	==
 *-	*-

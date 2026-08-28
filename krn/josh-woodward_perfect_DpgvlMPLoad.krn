@@ -16,16 +16,16 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	Em
+4r	E minor
 4gg	.
 4gg	.
 4gg	.
 =2	=2
 2gg	.
 4ff#	.
-4ff#[	.
+[4ff#	.
 =3	=3
-2ff#]	Gmaj7
+2ff#]	G major-seventh
 4gg	.
 4dd	.
 =4	=4
@@ -33,7 +33,7 @@
 2b	.
 4r	.
 =5	=5
-4r	A
+4r	A major
 4cc#	.
 4cc#	.
 4cc#	.
@@ -42,14 +42,14 @@
 4cc#	.
 2cc#	.
 =7	=7
-2dd#	B7
+2dd#	B dominant
 4ff#	.
-4dd#[	.
+[4dd#	.
 =8	=8
 2dd#]	.
 2r	.
 =9	=9
-4r	C
+4r	C major
 4gg	.
 4gg	.
 4gg	.
@@ -57,13 +57,13 @@
 2gg	.
 2aa	.
 =11	=11
-2bb	G
-2ff#	D/F#
+2bb	G major
+2ff#	D major/F#
 =12	=12
-2dd	Em
+2dd	E minor
 2r	.
 =13	=13
-4r	Am
+4r	A minor
 4cc	.
 4cc	.
 4b	.
@@ -71,9 +71,9 @@
 4cc	.
 4b	.
 4cc	.
-4dd[	.
+[4dd	.
 =15	=15
-4dd]	D
+4dd]	D major
 2dd	.
 4r	.
 =16	=16

@@ -16,115 +16,115 @@
 *G:	*
 *M6/4	*
 =1	=1
-1.B[	G
+[1.B	G major
 =2	=2
 2B]	.
 4r	.
 4B	.
 4A	.
-4G	G7
+4G	G dominant
 =3	=3
-16G	C
-3...A[	.
+16G	C major
+[3...A	.
 16A]	.
 4..B	.
 16A#	.
 4B	.
 =4	=4
-4G	G
+4G	G major
 16E	.
 4D	.
 4..r	.
-4G	Am7/G
-12G	.
+4G	A minor-seventh/G
+12GL	.
 12A	.
-12d	.
+12dJ	.
 =5	=5
-2.B	G
+2.B	G major
 4B	.
 16A#	.
 6...B	.
 8A	.
 =6	=6
-2.G	Em
+2.G	E minor
 4r	.
-12D	.
+12DL	.
 12E	.
-12G	.
-8A	.
-8B[	.
+12GJ	.
+8AL	.
+[8BJ	.
 =7	=7
-16B]	A
-1A[	.
+16B]	A major
+[1A	.
 6...A]	.
-16E	.
-16Fn	.
+16ELL	.
+16FnJJ	.
 =8	=8
-8F#	D
-8E	.
+8F#L	D major
+8EJ	.
 8D	.
 2D	.
 8r	.
-12D	.
+12DL	.
 12E	.
-12G	.
-4d	D7sus2
+12GJ	.
+4d	D dominant-seventh-suspended-second
 =9	=9
-2.B	G
-2B[	.
-4B]	Am7/G
+2.B	G major
+[2B	.
+4B]	A minor-seventh/G
 =10	=10
-2.B	G
-4B	G7
+2.B	G major
+4B	G dominant
 4c	.
 4d	.
 =11	=11
-1c[	C
+[1c	C major
 3c]	.
-12d	.
-12c	.
+12dL	.
+12cJ	.
 =12	=12
-8A#	C#dim7
-8G	.
-16A	.
-16E	.
-8G	.
+8A#L	C# diminished-seventh
+8GJ	.
+16ALL	.
+16EJ	.
+8GJ	.
 4A#	.
 4A#	.
 3G	.
-12G	.
-12A	.
+12GL	.
+12AJ	.
 =13	=13
-4B	G/D
-1d[	.
-12d]	.
+4B	G major/D
+[1d	.
+12dL]	.
 12e	.
-12d	.
+12dJ	.
 =14	=14
-8B	Bm/D
-8G	.
+8BL	B minor/D
+8GJ	.
 2A	.
-4r	D9
-16D	.
-16E	.
-8G	.
-16A#	.
-16G	.
-8A	.
+4r	D dominant-ninth
+16DLL	.
+16EJ	.
+8GJ	.
+16A#LL	.
+16GJ	.
+8AJ	.
 =15	=15
-2.G	Cm
+2.G	C minor
 4g	.
-16fn	.
-16d	.
-8c	.
-8c	.
-8A#	.
+16fnLL	.
+16dJ	.
+8cJ	.
+8cL	.
+8A#J	.
 =16	=16
-8G	G
+8G	G major
 4B	.
 4.r	.
 4D	.
 4E	.
-4G	D11
+4G	D dominant-11th
 ==	==
 *-	*-

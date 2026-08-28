@@ -16,39 +16,39 @@
 *c:	*
 *M4/4	*
 =1	=1
-4.b-	Cm7
-4g	Cm7
+4.b-	C minor-seventh
+4g	C minor-seventh
 4.r	.
 =2	=2
-4.b-	A-
-4g	A-
+4.b-	A- major
+4g	A- major
 4.r	.
 =3	=3
-4g	E-
+4g	E- major
 8g	.
-4.g	E-
-8f	.
-8a-[	Fm7
+4.g	E- major
+8fL	.
+[8a-J	F minor-seventh
 =4	=4
 4a-]	.
 4g	.
 4e-	.
-4b-[	Cm7
+[4b-	C minor-seventh
 =5	=5
 4b-]	.
-4g	Cm7
+4g	C minor-seventh
 4r	.
-4b-[	A-
+[4b-	A- major
 =6	=6
 4b-]	.
-4g	A-
+4g	A- major
 2r	.
 =7	=7
-4g	E-
+4g	E- major
 8g	.
-4.g	E-
-8f	.
-8a-[	Fm7
+4.g	E- major
+8fL	.
+[8a-J	F minor-seventh
 =8	=8
 4a-]	.
 4g	.
@@ -56,39 +56,39 @@
 4f	.
 8g	.
 =9	=9
-8r	Cm7
-2..b-[	.
+8r	C minor-seventh
+[2..b-	.
 =10	=10
-4.b-_	A-maj7
-8b-]	A-add(2,4,7)
+4.b-_	A- major-seventh
+8b-]	A- other-2,4,7
 2r	.
 =11	=11
-4cc	A-
+4cc	A- major
 8b-	.
-4.b-	E-/G
-8g	.
-8a-	B-sus4
+4.b-	E- major/G
+8gL	.
+8a-J	B- suspended-fourth
 =12	=12
-8g	.
-8f	B-
+8gL	.
+8fJ	B- major
 4.e-	.
-8e-	.
+8e-L	.
 8f	.
-8g	.
+8gJ	.
 =13	=13
-4.a-	Fm
-4.g	E-
-4e-[	A-
+4.a-	F minor
+4.g	E- major
+[4e-	A- major
 =14	=14
 1e-]	.
 =15	=15
 4.r	.
 8e-	.
 4e-	.
-8d	.
-8e-[	.
+8dL	.
+[8e-J	.
 =16	=16
-8e-]	Cm7
+8e-]	C minor-seventh
 2..e-	.
 ==	==
 *-	*-

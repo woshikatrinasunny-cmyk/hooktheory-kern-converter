@@ -16,139 +16,139 @@
 *c:	*
 *M12/8	*
 =1	=1
-2...gg	Cm7
+2...gg	C minor-seventh
 8.g	.
-8.cc	.
-8.gg	.
+8.ccL	.
+8.ggJ	.
 =2	=2
-3...gg-	D7/C
+3...gg-	D dominant/C
 2.dd	.
 8r	.
 =3	=3
-2...ff	Dm7b5/C
+2...ff	D half-diminished/C
 8.dd	.
-8.ee-	.
-8.ff	.
+8.ee-L	.
+8.ffJ	.
 =4	=4
-3...ee-	Cm
+3...ee-	C minor
 2.g	.
 8r	.
 =5	=5
-2...ee-	Cm7
+2...ee-	C minor-seventh
 8.g	.
-8.cc	.
-8.ee-	.
+8.ccL	.
+8.ee-J	.
 =6	=6
-3...dd	D7/C
+3...dd	D dominant/C
 2.an	.
 8r	.
 =7	=7
-2...dd	Dm7b5/C
+2...dd	D half-diminished/C
 4.ff	.
 8.ee-	.
 =8	=8
-3...dd	Cadd(2,3,7)
+3...dd	C other-2,3,7
 2.g	.
 8r	.
 =9	=9
-2...gg	Cm7
+2...gg	C minor-seventh
 8.g	.
-8.cc	.
-8.gg	.
+8.ccL	.
+8.ggJ	.
 =10	=10
-3...gg-	D7/C
+3...gg-	D dominant/C
 2.dd	.
 8r	.
 =11	=11
-2...ff	Dm7b5/C
+2...ff	D half-diminished/C
 8.dd	.
-8.ee-	.
-8.ff	.
+8.ee-L	.
+8.ffJ	.
 =12	=12
-3...ee-	Cm
+3...ee-	C minor
 2.g	.
 8r	.
 =13	=13
-2...ee-	Cm7
+2...ee-	C minor-seventh
 8.g	.
-8.cc	.
-8.ee-	.
+8.ccL	.
+8.ee-J	.
 =14	=14
-3...dd	D7/C
+3...dd	D dominant/C
 2.an	.
 8r	.
 =15	=15
-2...dd	Dm7b5/C
+2...dd	D half-diminished/C
 4.ff	.
 8.ee-	.
 =16	=16
-3...dd	Cadd(2,3,7)
+3...dd	C other-2,3,7
 2.g	.
 8r	.
 =17	=17
-2...g	Cm7
+2...g	C minor-seventh
 4.b-	.
 8.a-	.
 =18	=18
-3...g	D7/C
+3...g	D dominant/C
 2.g-	.
 8r	.
 =19	=19
-2..f	Dm7b5/C
+2..f	D half-diminished/C
 8g	.
 4a-	.
-8dd	.
-8cc	.
+8ddL	.
+8ccJ	.
 =20	=20
-2.cc	Dm7b5/C
+2.cc	D half-diminished/C
 2bn	.
 8r	.
 8g	.
 =21	=21
-2...gg	Cm7
+2...gg	C minor-seventh
 4.bb-	.
 8.aa-	.
 =22	=22
-2...gg	A-maj7/C
+2...gg	A- major-seventh/C
 8.ccc	.
-8.bb-	.
-8.aa-	.
+8.bb-L	.
+8.aa-J	.
 =23	=23
-2...gg	Am7b5/C
+2...gg	A half-diminished/C
 4.ddd	.
 8.ccc	.
 =24	=24
-2.ggg	Cm
+2.ggg	C minor
 2.fff	.
 =25	=25
-2...eee-	Fm/C
+2...eee-	F minor/C
 8.ddd	.
-8.ccc	.
-8.bb-	.
+8.cccL	.
+8.bb-J	.
 =26	=26
-1.gg	Cm
+1.gg	C minor
 =27	=27
-2..r	D7/C
-8dd	.
-8een	.
-8gg-	.
+2..r	D dominant/C
+8ddL	.
+8eenJ	.
+8gg-L	.
 8aan	.
-8ddd	.
+8dddJ	.
 =28	=28
-4...fff	Dm7b5/C
-16.eee-	.
+4...fff	D half-diminished/C
+16.eee-LL	.
 16.ddd	.
-16.ccc	.
-16.ddd	.
+16.cccJJ	.
+16.dddLL	.
 16.ccc	.
 16.bb-	.
-16.aa-	.
-16.bb-	.
+16.aa-JJ	.
+16.bb-LL	.
 16.aa-	.
 16.gg	.
-16.ff	.
+16.ffJJ	.
 =29	=29
-8gg	Cm7
+8gg	C minor-seventh
 8r	.
 8dd	.
 8r	.
@@ -161,7 +161,7 @@
 8gg	.
 8r	.
 =30	=30
-8gg	A-maj7/C
+8gg	A- major-seventh/C
 8r	.
 8dd	.
 8r	.
@@ -174,7 +174,7 @@
 8gg	.
 8r	.
 =31	=31
-8gg	Am7b5/C
+8gg	A half-diminished/C
 8r	.
 8dd	.
 8r	.

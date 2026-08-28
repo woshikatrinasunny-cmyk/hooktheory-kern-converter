@@ -15,13 +15,13 @@
 *A-:	*
 *M6/4	*
 =1	=1
-4r	A-add(2,4,7)
+4r	A- other-2,4,7
 4ee-	.
 4eee-	.
 4.ddd	.
 8ccc	.
-8bb-	.
-8aa-	.
+8bb-L	.
+8aa-J	.
 =2	=2
 2.ccc	.
 2.ee-	.
@@ -31,30 +31,30 @@
 4eee-	.
 4.ddd	.
 8ccc	.
-8bb-	.
-8aa-	.
+8bb-L	.
+8aa-J	.
 =4	=4
-1.ccc	G-add(2,4,7)
+1.ccc	G- other-2,4,7
 =5	=5
-4r	A-add(2,4,7)
+4r	A- other-2,4,7
 4ee-	.
 4eee-	.
 4.ddd	.
 8ccc	.
-8bb-	.
-8aa-	.
+8bb-L	.
+8aa-J	.
 =6	=6
 2.ccc	.
 2.ee-	.
 =7	=7
-4r	Eadd(2,4,7)
+4r	E other-2,4,7
 4ee-	.
 4eee-	.
-4.ddd-	G-add(2,4,7)
+4.ddd-	G- other-2,4,7
 8ccc	.
-8bb-	.
-8ddd-	.
+8bb-L	.
+8ddd-J	.
 =8	=8
-1.ccc	A-add(2,4,7)
+1.ccc	A- other-2,4,7
 ==	==
 *-	*-

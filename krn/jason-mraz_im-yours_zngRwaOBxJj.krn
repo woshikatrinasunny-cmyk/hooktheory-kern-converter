@@ -16,8 +16,8 @@
 *B:	*
 *M4/4	*
 =1	=1
-8dd#	B
-8b	.
+8dd#L	B major
+8bJ	.
 4r	.
 4b	.
 4r	.
@@ -28,7 +28,7 @@
 8cc#	.
 4.dd#	.
 =3	=3
-4cc#	F#
+4cc#	F# major
 4r	.
 4a#	.
 4r	.
@@ -37,8 +37,8 @@
 4r	.
 2cc#	.
 =5	=5
-8b	G#m
-8g#	.
+8bL	G# minor
+8g#J	.
 4r	.
 4b	.
 4r	.
@@ -46,13 +46,13 @@
 2g#	.
 2b	.
 =7	=7
-4e	E
+4e	E major
 4r	.
 2ee	.
 =8	=8
 4dd#	.
-8cc#	.
-8b	.
+8cc#L	.
+8bJ	.
 8b	.
 4f#	.
 8b	.

@@ -16,139 +16,139 @@
 *c:	*
 *M4/4	*
 =1	=1
-16g	E-sus4
-16b-[	.
-16b-]	E-sus4
-16g[	.
-8g_	E-sus4
-8g]	.
-8r	D-
-16r	D-
-16b-	.
-8cc	D-
-8b-	.
+16gLL	E- suspended-fourth
+[16b-	.
+16b-]	E- suspended-fourth
+[16gJ	.
+8g_	E- suspended-fourth
+8gJ]	.
+8r	D- major
+16r	D- major
+16b-LK	.
+8cc	D- major
+8b-J	.
 =2	=2
-8g[	Dsus4
-16g]	Dsus4
-16b-[	.
-8b-]	Dsus4
-8g[	Dsus4
-8g]	E-
-8r	E-
-8g	E-
-16g	.
-16g	.
+[8gL	D suspended-fourth
+16gL]	D suspended-fourth
+[16b-J	.
+8b-]	D suspended-fourth
+[8gJ	D suspended-fourth
+8g]	E- major
+8r	E- major
+8gL	E- major
+16gL	.
+16gJJ	.
 =3	=3
-16g	E-sus4
-16b-	.
-8g[	E-sus4
-8g]	E-sus4
+16gLL	E- suspended-fourth
+16b-J	.
+[8g	E- suspended-fourth
+8gJ]	E- suspended-fourth
 8r	.
-16cc	D-
+16ccLL	D- major
 16b-	.
-16b-	D-
-16g[	.
-16g]	D-
-16g	.
-8b-[	.
+16b-	D- major
+[16g	.
+16g]	D- major
+16gJ	.
+[8b-J	.
 =4	=4
-8b-]	Dsus4
-8g[	.
-4g]	Dsus4
-4r	Dsus4
-16g	Dsus4
+8b-L]	D suspended-fourth
+[8gJ	.
+4g]	D suspended-fourth
+4r	D suspended-fourth
+16gLL	D suspended-fourth
 16g	.
 16g	.
-16g	.
+16gJJ	.
 =5	=5
-16g	E-sus4
-16b-[	.
-16b-]	E-sus4
-16g[	.
-8g_	E-sus4
-8g]	.
-8r	D-
-16r	D-
-16b-	.
-8cc	D-
-8b-	.
+16gLL	E- suspended-fourth
+[16b-	.
+16b-]	E- suspended-fourth
+[16gJ	.
+8g_	E- suspended-fourth
+8gJ]	.
+8r	D- major
+16r	D- major
+16b-LK	.
+8cc	D- major
+8b-J	.
 =6	=6
-8g[	Dsus4
-16g]	Dsus4
-16b-[	.
-8b-]	Dsus4
-8g[	Dsus4
-8g]	E-
-8r	E-
-8r	E-
+[8gL	D suspended-fourth
+16gL]	D suspended-fourth
+[16b-J	.
+8b-]	D suspended-fourth
+[8gJ	D suspended-fourth
+8g]	E- major
+8r	E- major
+8r	E- major
 8r	.
 =7	=7
-8cc	E-sus4
-8b-	E-sus4
-8cc	E-sus4
-16b-	.
-16cc[	.
-8cc]	D-
-16b-	D-
-16cc[	.
-8cc]	D-
+8ccL	E- suspended-fourth
+8b-	E- suspended-fourth
+8cc	E- suspended-fourth
+16b-L	.
+[16ccJJ	.
+8ccL]	D- major
+16b-L	D- major
+[16ccJ	.
+8ccJ]	D- major
 16r	.
 16b-	.
 =8	=8
-8cc	Dsus4
+8ccL	D suspended-fourth
 8b-	.
-8g	Dsus4
-8b-	.
-8g	Dsus4
+8g	D suspended-fourth
+8b-J	.
+8gL	D suspended-fourth
+16b-L	.
+16b-	.
+16g	D suspended-fourth
 16b-	.
 16b-	.
-16g	Dsus4
-16b-	.
-16b-	.
-16g	.
+16gJJ	.
 =9	=9
-8c	E-
-8G[	E-
-8G_	E-
-8G]	.
-8r	G-/D-
-16G	G-/D-
+8cL	E- major
+[8G	E- major
+8G_	E- major
+8GJ]	.
+8r	G- major/D-
+16GLL	G- major/D-
 16G	.
-16G	G-/D-
+16G	G- major/D-
 16B-	.
 16B-	.
-16G	.
+16GJJ	.
 =10	=10
-4c	B-sus2
-16G-	.
+4c	B- suspended-second
+16G-LL	.
 16F	.
-16E-	.
+16E-JJ	.
 8.F	.
-16F	.
+16FLL	.
 16F	.
 16G	.
 16B-	.
 16B-	.
-16G	.
+16GJJ	.
 =11	=11
-8c	E-
-8G[	E-
-8G_	E-
-8G]	.
-8r	G-/D-
-16r	G-/D-
-16G	.
-16G	G-/D-
+8cL	E- major
+[8G	E- major
+8G_	E- major
+8GJ]	.
+8r	G- major/D-
+16r	G- major/D-
+16GLL	.
+16G	G- major/D-
 16B-	.
 16B-	.
-16G	.
+16GJJ	.
 =12	=12
-8c	B-sus2
+8cL	B- suspended-second
 8F	.
-8F	.
+8FJ	.
 8.F	.
 16E-	.
-4.C[	.
+[4.C	.
 =13	=13
 2C]	.
 2r	.

@@ -17,134 +17,134 @@
 *M4/4	*
 =1	=1
 2.r	.
-16aa#	.
+16aa#LL	.
 16gg#	.
 16aa#	.
-16ccc#	.
+16ccc#JJ	.
 =2	=2
-2ddd#	D#m
-4.ccc#	C#
-16ddd#	.
-16ccc#	.
+2ddd#	D# minor
+4.ccc#	C# major
+16ddd#LL	.
+16ccc#JJ	.
 =3	=3
-8aa#	D#m
+8aa#	D# minor
 8r	.
 8ccc#	.
 8r	.
-8aa#	A#m
+8aa#	A# minor
 8r	.
-8ee#	.
-8ff#	.
+8ee#L	.
+8ff#J	.
 =4	=4
-4gg#	G#m
-8gg#	.
-16gg#	.
-16ff#	.
-8gg#	G#m/B
+4gg#	G# minor
+8gg#L	.
+16gg#L	.
+16ff#JJ	.
+8gg#L	G# minor/B
 8ff#	.
 8gg#	.
-8aan	.
+8aanJ	.
 =5	=5
-8aa#	A#/E#
+8aa#	A# major/E#
 8r	.
-8aa#	.
-8gg#	.
-4aa#	A#
+8aa#L	.
+8gg#J	.
+4aa#	A# major
 8r	.
-16aa#	.
-16dddn	.
+16aa#LL	.
+16dddnJJ	.
 =6	=6
-2ddd#	D#m
-4.ccc#	C#
-16ddd#	.
-16ccc#	.
+2ddd#	D# minor
+4.ccc#	C# major
+16ddd#LL	.
+16ccc#JJ	.
 =7	=7
-8aa#	F#
+8aa#	F# major
 8r	.
 8ccc#	.
 8r	.
-8aa#	Cm7b5
+8aa#	C half-diminished
 8r	.
-8dd#	.
-8ff#	.
+8dd#L	.
+8ff#J	.
 =8	=8
-4gg#	B
+4gg#	B major
 4aa#	.
-8ccc#	.
-16ccc#	.
-16aa#	.
+8ccc#L	.
+16ccc#L	.
+16aa#J	.
 8gg#	.
-8aa#	.
+8aa#J	.
 =9	=9
-8ddd#	A#m
+8ddd#	A# minor
 8r	.
 8ccc#	.
 8r	.
-8ddd#	D#m
+8ddd#	D# minor
 8r	.
-16ff#	.
+16ff#LL	.
 16gg#	.
 16aa#	.
-16ccc#	.
+16ccc#JJ	.
 =10	=10
-2ddd#	D#m
-4.ccc#	C#
-16ddd#	.
-16ccc#	.
+2ddd#	D# minor
+4.ccc#	C# major
+16ddd#LL	.
+16ccc#JJ	.
 =11	=11
-8aa#	D#m
+8aa#	D# minor
 8r	.
 8ccc#	.
 8r	.
-8aa#	A#m
+8aa#	A# minor
 8r	.
-8ee#	.
-8ff#	.
+8ee#L	.
+8ff#J	.
 =12	=12
-4gg#	G#m
-8gg#	.
-16gg#	.
-16ff#	.
-8gg#	.
+4gg#	G# minor
+8gg#L	.
+16gg#L	.
+16ff#JJ	.
+8gg#L	.
 8ff#	.
 8gg#	.
-8ccc#	.
+8ccc#J	.
 =13	=13
-8aa#	A#
+8aa#L	A# major
 8bb	.
 8aa#	.
-8bb	.
+8bbJ	.
 4aa#	.
 8r	.
-16aa#	.
-16dddn	.
+16aa#LL	.
+16dddnJJ	.
 =14	=14
-2ddd#	D#m
-4.eee#	A#/D
-16ddd#	.
-16eee#	.
+2ddd#	D# minor
+4.eee#	A# major/D
+16ddd#LL	.
+16eee#JJ	.
 =15	=15
-8fff#	F#/C#
+8fff#L	F# major/C#
 8ggg#	.
 8fff#	.
-8eee#	.
-8aa#	Cm7b5
+8eee#J	.
+8aa#	C half-diminished
 8r	.
-8dd#	.
-8ff#	.
+8dd#L	.
+8ff#J	.
 =16	=16
-4gg#	B
+4gg#	B major
 4aa#	.
-8ccc#	.
-16ccc#	.
-16aa#	.
+8ccc#L	.
+16ccc#L	.
+16aa#J	.
 8gg#	.
-8aa#	.
+8aa#J	.
 =17	=17
-8ddd#	A#m
+8ddd#	A# minor
 8r	.
-8ccc#	A#m/E#
+8ccc#	A# minor/E#
 8r	.
-2ddd#	D#m
+2ddd#	D# minor
 ==	==
 *-	*-

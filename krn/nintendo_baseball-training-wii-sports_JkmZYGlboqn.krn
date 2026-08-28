@@ -16,8 +16,8 @@
 *D:	*
 *M4/4	*
 =1	=1
-8A	D
-8B	.
+8AL	D major
+8BJ	.
 8r	.
 8d	.
 8r	.
@@ -25,7 +25,7 @@
 8r	.
 8fn	.
 =2	=2
-8r	C
+8r	C major
 8e	.
 8r	.
 8d	.
@@ -35,28 +35,28 @@
 =3	=3
 *k[b-e-]	*
 *F:	*
-8d	B-
-8c	.
+8dL	B- major
+8cJ	.
 8r	.
 8B-	.
 8r	.
 8F	.
 8r	.
-8A-[	.
+[8A-	.
 =4	=4
-2.A-]	D-
+2.A-]	D- major
 4r	.
 =5	=5
-8A	F
-8c	.
+8AL	F major
+8cJ	.
 8r	.
 8d	.
 8r	.
-8f	.
+8fL	.
 8g	.
-8a-	.
+8a-J	.
 =6	=6
-8r	E-
+8r	E- major
 8g	.
 8r	.
 8f	.
@@ -66,7 +66,7 @@
 =7	=7
 *k[f#]	*
 *D:	*
-8cc	G#
+8cc	G# major
 8r	.
 16a#	.
 16r	.
@@ -74,6 +74,6 @@
 8fn	.
 4.d#	.
 =8	=8
-1r	G
+1r	G major
 ==	==
 *-	*-

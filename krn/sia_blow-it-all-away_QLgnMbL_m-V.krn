@@ -16,114 +16,114 @@
 *b:	*
 *M4/4	*
 =1	=1
-8r	Gmaj7
+8r	G major-seventh
+8BL	.
 8B	.
-8B	.
-8B	C#7/G#
+8BJ	C# dominant/G#
 4B	.
 16r	.
-8f#	.
-16f#	.
+8f#L	.
+16f#Jk	.
 =2	=2
-16f#	F#sus4
-16e	.
+16f#LL	F# suspended-fourth
+16eJ	.
 8d	.
 8B	.
-16d	Bm
-16A	.
-8.B	.
-16A	.
+16dL	B minor
+16AJJ	.
+8.BL	.
+16AL	.
 16B	.
 16c#	.
 16d	.
-16e	.
+16eJJ	.
 =3	=3
-4f#	Gmaj7
+4f#	G major-seventh
 8g	.
-2fn	C#7/G#
+2fn	C# dominant/G#
 8r	.
 =4	=4
-8e	F#sus4
+8eL	F# suspended-fourth
 8e	.
-8e	.
-4.d	Bm
+8eJ	.
+4.d	B minor
 4r	.
 =5	=5
-4..r	D
+4..r	D major
 16d	.
-8f#	.
-16f#	.
+8f#L	.
+16f#k	.
 8g	.
-16f#	.
-8e[	.
+16f#k	.
+[8eJ	.
 =6	=6
-8.e]	F#
-16fn	.
+8.eL]	F# major
+16fnk	.
 8.f#	.
-16f#	.
-8f#	.
-16f#	.
+16f#Jk	.
+8f#L	.
+16f#k	.
 8.f#	.
-16g	.
-16g	.
+16gL	.
+16gJJ	.
 =7	=7
-2f#	Bm
-2e	F#7/A#
+2f#	B minor
+2e	F# dominant/A#
 =8	=8
-4..d	Gmaj7
+4..d	G major-seventh
 16f#	.
-8f#	D
-16f#	.
-16g	.
-8f#	F#7
-16e	.
-16g	.
+8f#L	D major
+16f#L	.
+16gJ	.
+8f#	F# dominant
+16eL	.
+16gJJ	.
 =9	=9
-16g	Bm
+16g	B minor
 4..f#	.
-4.e	F#7/A#
-16f#	.
-16g[	.
+4.e	F# dominant/A#
+16f#LL	.
+[16gJJ	.
 =10	=10
-8g]	Gmaj7
+8g]	G major-seventh
 4.f#	.
-4r	D
-4r	F#7
+4r	D major
+4r	F# dominant
 =11	=11
-8f#	Bm
-16g	.
+8f#L	B minor
+16gJk	.
 4e	.
 16d	.
-8e	F#7/A#
-16f#	.
+8eL	F# dominant/A#
+16f#Jk	.
 4d	.
 16B	.
 =12	=12
-16d	Gmaj7
+16dLK	G major-seventh
 8c#	.
 8c#	.
-16d	.
+16dL	.
 16B	.
-16A[	.
-4A]	D
-4r	F#7
+[16AJJ	.
+4A]	D major
+4r	F# dominant
 =13	=13
-8f#	Bm
-16g	.
+8f#L	B minor
+16gJk	.
 4e	.
 16d	.
-8e	F#7/A#
-16f#	.
+8eL	F# dominant/A#
+16f#Jk	.
 4d	.
 16B	.
 =14	=14
-16d	Gmaj7
+16dLK	G major-seventh
 8c#	.
 8c#	.
-16d	.
+16dL	.
 16B	.
-16A[	.
-4A]	D
-4r	F#7
+[16AJJ	.
+4A]	D major
+4r	F# dominant
 ==	==
 *-	*-

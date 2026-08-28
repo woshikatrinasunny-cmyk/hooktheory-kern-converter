@@ -16,38 +16,38 @@
 *f:	*
 *M6/4	*
 =1	=1
-2.dd-	D-
+2.dd-	D- major
 2.cc	.
 =2	=2
 3...b-	.
 8a-	.
 4gg	.
-8cc[	.
-8cc]	E-
+[8ccL	.
+8ccJ]	E- major
 4cc	.
 =3	=3
-2.ff	Fm
+2.ff	F minor
 2.b-	.
 =4	=4
 3...g	.
 8a-	.
 4gg	.
-8cc[	.
-8cc]	Fm7/E-
+[8ccL	.
+8ccJ]	F minor-seventh/E-
 4cc	.
 =5	=5
-4bb-	D-
+4bb-	D- major
 2aa-	.
 2.cc	.
 =6	=6
 3...ee-	.
-16cc	.
-16b-	.
+16ccLL	.
+16b-JJ	.
 4.a-	.
-4e-	E-
-8cc[	.
+4e-	E- major
+[8cc	.
 =7	=7
-8cc]	Fm
+8cc]	F minor
 4.b-	.
 8a-	.
 4ff	.
@@ -59,46 +59,46 @@
 4dd-	.
 3...cc	.
 =9	=9
-2.dd-	D-
+2.dd-	D- major
 2.cc	.
 =10	=10
 3...b-	.
 8a-	.
 4gg	.
-8cc[	.
-8cc]	E-
+[8ccL	.
+8ccJ]	E- major
 4cc	.
 =11	=11
-2.gg	Fm
+2.gg	F minor
 2.b-	.
 =12	=12
 3...g	.
 8a-	.
 4gg	.
-8cc[	.
-8cc]	Fm7/E-
+[8ccL	.
+8ccJ]	F minor-seventh/E-
 4cc	.
 =13	=13
 *k[b-e-a-d-g-]	*
 *D-:	*
-2.dd-	E-m
+2.dd-	E- minor
 2.cc	.
 =14	=14
 3...b-	.
-16cc	.
-16b-	.
+16ccLL	.
+16b-JJ	.
 2a-	.
 4e-	.
 =15	=15
-4cc	G-
+4cc	G- major
 4b-	.
 4ee-	.
 4ccc	.
 4bb-	.
 4e-	.
 =16	=16
-4cc	A-11
+4cc	A- dominant-11th
 2.b-	.
-2a-	A-
+2a-	A- major
 ==	==
 *-	*-

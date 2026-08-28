@@ -16,74 +16,74 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4g	.
 4e	.
 4e	.
 =2	=2
-8e	Em
+8e	E minor
 4e	.
 4.f	.
 4g	.
 =3	=3
-4f	F
+4f	F major
 8e	.
 3...c	.
 =4	=4
-3...r	G
-8r	Am
-4r	G/B
+3...r	G major
+8r	A minor
+4r	G major/B
 =5	=5
-4r	C
+4r	C major
 4g	.
 4e	.
 4e	.
 =6	=6
-8e	Em
+8e	E minor
 4e	.
 4.f	.
 4g	.
 =7	=7
-4f	F
+4f	F major
 8e	.
-3...cc[	.
+[3...cc	.
 =8	=8
-3...cc_	G
-8cc_	Am
-4cc]	G
+3...cc_	G major
+8cc_	A minor
+4cc]	G major
 =9	=9
-4r	Am
+4r	A minor
 2a	.
-8cc[	.
-8cc]	A#
+[8ccL	.
+8ccJ]	A# major
 =10	=10
 4.a#	.
 3...dd	.
 =11	=11
-4r	Am
+4r	A minor
 4.ee	.
-8dd	.
-8cc[	.
-8cc]	G
+8ddL	.
+[8cc	.
+8ccJ]	G major
 =12	=12
-8b	.
+8bL	.
 8cc	.
-8b	.
+8bJ	.
 3...g	.
 =13	=13
-4r	Am
+4r	A minor
 2a	.
-8cc[	.
-8cc]	A#
+[8ccL	.
+8ccJ]	A# major
 =14	=14
 4.a#	.
 4.cc	.
 4dd	.
 =15	=15
-2cc	F
+2cc	F major
 2a	.
 =16	=16
-2b	G
+2b	G major
 2dd	.
 ==	==
 *-	*-

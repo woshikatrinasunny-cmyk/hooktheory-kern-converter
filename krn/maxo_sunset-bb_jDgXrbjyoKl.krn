@@ -16,12 +16,12 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4r	G#m9
-8a#	.
-8a#	.
-8a#	.
-8a#	.
-4r	C#7
+4r	G# minor-ninth
+8a#L	.
+8a#J	.
+8a#L	.
+8a#J	.
+4r	C# dominant
 =2	=2
 4a#	.
 4c#	.
@@ -29,12 +29,12 @@
 4g#	.
 8r	.
 =3	=3
-4.r	A#m7
+4.r	A# minor-seventh
 8e#	.
-8f#	.
+8f#L	.
 8e#	.
 8d#	.
-8c#	D#7sus4
+8c#J	D# dominant-seventh-suspended-fourth
 =4	=4
 4e#	.
 4A#	.
@@ -42,27 +42,27 @@
 4d#	.
 8r	.
 =5	=5
-4r	G#m7
+4r	G# minor-seventh
 4dd#	.
-4cc#	A#m7
+4cc#	A# minor-seventh
 4a#	.
 =6	=6
-4f#	Badd(2,3,7)
-8ff#	.
-8gg#[	.
-4gg#]	D#m7
-8ff#	.
-8ee#[	A#7/G#
+4f#	B other-2,3,7
+8ff#L	.
+[8gg#J	.
+4gg#]	D# minor-seventh
+8ff#L	.
+[8ee#J	A# dominant/G#
 =7	=7
 4ee#]	.
 2.r	.
 =8	=8
-4r	G#m9
-8a#	.
-8a#	.
-8a#	.
-8cc#	.
-4r	C#7
+4r	G# minor-ninth
+8a#L	.
+8a#J	.
+8a#L	.
+8cc#J	.
+4r	C# dominant
 =9	=9
 4a#	.
 4c#	.
@@ -70,12 +70,12 @@
 4g#	.
 8r	.
 =10	=10
-4.r	A#m7
+4.r	A# minor-seventh
 8e#	.
-8f#	.
+8f#L	.
 8e#	.
 8d#	.
-8c#	D#7sus4
+8c#J	D# dominant-seventh-suspended-fourth
 =11	=11
 4e#	.
 4A#	.
@@ -83,19 +83,19 @@
 4d#	.
 8r	.
 =12	=12
-4r	Bmaj7sus2
-8A#	.
-8c#	.
-8f#	A#m7
+4r	B major-seventh-suspended-second
+8A#L	.
+8c#J	.
+8f#L	A# minor-seventh
 8g#	.
 8a#	.
-8g#[	.
+[8g#J	.
 =13	=13
-4g#]	D#7sus4
+4g#]	D# dominant-seventh-suspended-fourth
 8f#	.
-4.e#	G#9
-8d#	.
-8c#[	C#11
+4.e#	G# dominant-ninth
+8d#L	.
+[8c#J	C# dominant-11th
 =14	=14
 4c#]	.
 2.r	.

@@ -16,125 +16,125 @@
 *E:	*
 *M6/4	*
 =1	=1
-4.r	E
-4.b	E
-4.g#	E/B
-4.r	E/B
+4.r	E major
+4.b	E major
+4.g#	E major/B
+4.r	E major/B
 =2	=2
-4r	E
-8b[	.
-4b]	E
+4r	E major
+[8b	.
+4b]	E major
 8g#	.
-4f#	E
+4f#	E major
 8g#	.
-4f#	E
+4f#	E major
 8g#	.
 =3	=3
-4.f#	G#
-4.d#	G#
-4cn	G#/C
-8G#[	.
-4G#]	G#/C
-8F#[	.
+4.f#	G# major
+4.d#	G# major
+4cn	G# major/C
+[8G#	.
+4G#]	G# major/C
+[8F#	.
 =4	=4
-4.F#]	G#7
-4.r	G#7/F#
-4r	Eadd(2,4,8)
+4.F#]	G# dominant
+4.r	G# dominant/F#
+4r	E other-2,4,8
 8g#	.
-4g#	G#7
+4g#	G# dominant
 8f#	.
 =5	=5
-4g#	C#m
+4g#	C# minor
 8c#	.
-4c#	C#m
-8c#[	.
-4c#]	C#m/G#
+4c#	C# minor
+[8c#	.
+4c#]	C# minor/G#
 8g#	.
-4g#	C#m/G#
+4g#	C# minor/G#
 8f#	.
 =6	=6
-4g#	C#m
+4g#	C# minor
 8e	.
-4.e	C#m
-4.e	C#m
-4.e	C#m
+4.e	C# minor
+4.e	C# minor
+4.e	C# minor
 =7	=7
-4.a	B
-4.g#	B
-4f#	B/F#
-8e[	.
-4e]	B/F#
-8d#[	.
+4.a	B major
+4.g#	B major
+4f#	B major/F#
+[8e	.
+4e]	B major/F#
+[8d#	.
 =8	=8
-4d#]	B
+4d#]	B major
 8b	.
-4a#	B
+4a#	B major
 8b	.
-4cc#	B
+4cc#	B major
 8b	.
-4a#	B
+4a#	B major
 8b	.
 =9	=9
-4.g#	E
-4.b	E
-4.g#	E/B
-4.r	E/B
+4.g#	E major
+4.b	E major
+4.g#	E major/B
+4.r	E major/B
 =10	=10
-4r	E
-8b[	.
-4b]	E
+4r	E major
+[8b	.
+4b]	E major
 8g#	.
-4f#	E
+4f#	E major
 8g#	.
-4f#	E
+4f#	E major
 8g#	.
 =11	=11
-4.f#	G#
-4.d#	G#
-4cn	G#/C
-8G#[	.
-4G#]	G#/C
-8F#[	.
+4.f#	G# major
+4.d#	G# major
+4cn	G# major/C
+[8G#	.
+4G#]	G# major/C
+[8F#	.
 =12	=12
-4.F#]	G#7
-4.r	G#7/F#
-4r	Eadd(2,4,8)
+4.F#]	G# dominant
+4.r	G# dominant/F#
+4r	E other-2,4,8
 8g#	.
-4g#	G#7
+4g#	G# dominant
 8f#	.
 =13	=13
-4g#	C#m
-8c#[	.
-8c#]	C#m
+4g#	C# minor
+[8c#L	.
+8c#J]	C# minor
 4c#	.
-4c#	C#m/G#
+4c#	C# minor/G#
 8g#	.
-4g#	C#m/G#
+4g#	C# minor/G#
 8f#	.
 =14	=14
-4g#	C#m
+4g#	C# minor
 8e	.
-4e	C#m
-8e[	.
-4e]	C#m
-8e[	.
-4e]	C#m
-8a[	.
+4e	C# minor
+[8e	.
+4e]	C# minor
+[8e	.
+4e]	C# minor
+[8a	.
 =15	=15
-4.a]	B
-4.g#	B
-4f#	B/F#
-8e[	.
-4e]	B/F#
-8d#[	.
+4.a]	B major
+4.g#	B major
+4f#	B major/F#
+[8e	.
+4e]	B major/F#
+[8d#	.
 =16	=16
-4d#]	B
+4d#]	B major
 8b	.
-4a#	B
+4a#	B major
 8b	.
-4cc#	B
+4cc#	B major
 8b	.
-4a#	B
+4a#	B major
 8b	.
 ==	==
 *-	*-

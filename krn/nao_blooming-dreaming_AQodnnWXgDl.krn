@@ -19,92 +19,92 @@
 2dd#	.
 2ee	.
 =2	=2
-2ff#	Badd(2,4,7)/D#
+2ff#	B other-2,4,7/D#
 4b	.
 4gg#	.
 =3	=3
-4ff#	E
+4ff#	E major
 8ee	.
 4dd#	.
 4ee	.
 8ee	.
 =4	=4
-4ff#	F#
+4ff#	F# major
 4b	.
-4bb	Gdim
+4bb	G diminished
 4aa#	.
 =5	=5
-4.aa#	G#m
-3...bb[	.
+4.aa#	G# minor
+[3...bb	.
 =6	=6
 2.bb]	.
 4b	.
 =7	=7
-2cc#	Badd(2,4,7)/D#
+2cc#	B other-2,4,7/D#
 2b	.
 =8	=8
-2a#	E
+2a#	E major
 2b	.
 =9	=9
-2..cc#	F#
-8ff#[	.
+2..cc#	F# major
+[8ff#	.
 =10	=10
 1ff#]	.
 =11	=11
-1r	Bsus2
+1r	B suspended-second
 =12	=12
 4r	.
 4bb	.
 4r	.
 4bb	.
 =13	=13
-1r	Bsus2
+1r	B suspended-second
 =14	=14
 4r	.
 4bb	.
 4r	.
 4bb	.
 =15	=15
-8dd#	E
+8dd#L	E major
 8ee	.
-8ff#	.
+8ff#J	.
 4bb	.
-8ff#	.
+8ff#L	.
 8bb	.
-8ccc#[	.
+[8ccc#J	.
 =16	=16
 3...ccc#]	.
-8ccc#	.
+8ccc#L	.
 8ddd#	.
-8ccc#	.
+8ccc#J	.
 =17	=17
-3...ff#	Badd(2,4,7)/D#
-8b	.
+3...ff#	B other-2,4,7/D#
+8bL	.
 8gg#	.
-8ff#[	.
+[8ff#J	.
 =18	=18
-4.ff#]	G#m
+4.ff#]	G# minor
 2b	.
-16dd#	.
-16ee	.
+16dd#LL	.
+16eeJJ	.
 =19	=19
-4.ff#	A
-16ee	.
-16dd#	.
-2ee[	.
+4.ff#	A major
+16eeLL	.
+16dd#JJ	.
+[2ee	.
 =20	=20
 2ee]	.
 4cc#	.
 4dd#	.
 =21	=21
-3...ee	F#sus4
-8dd#	.
+3...ee	F# suspended-fourth
+8dd#L	.
 8ee	.
-8gg#[	F#sus4
+[8gg#J	F# suspended-fourth
 =22	=22
-8gg#]	.
-8aa#	F#sus4
-8gg#	.
-3...ff#	F#
+8gg#L]	.
+8aa#	F# suspended-fourth
+8gg#J	.
+3...ff#	F# major
 ==	==
 *-	*-

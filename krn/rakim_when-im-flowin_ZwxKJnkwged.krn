@@ -16,32 +16,32 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8f#	F#m
-8.f#	F#m/A
-8.f#	G#m7b5
-8d#	C#
-8fn	C#/F
-4f#	F#m
+8f#L	F# minor
+8.f#	F# minor/A
+8.f#J	G# half-diminished
+8d#L	C# major
+8fnJ	C# major/F
+4f#	F# minor
 =2	=2
-4.c#	Badd(2,4,7)
-4e	E/B
-16b	E
-16a#	.
+4.c#	B other-2,4,7
+4e	E major/B
+16bLL	E major
+16a#J	.
 8b	.
-8e	.
+8eJ	.
 =3	=3
-8f#	F#m
-8.f#	F#m/A
-8.f#	G#m7b5
-8d#	C#
-8fn	C#/F
-4f#	F#m
+8f#L	F# minor
+8.f#	F# minor/A
+8.f#J	G# half-diminished
+8d#L	C# major
+8fnJ	C# major/F
+4f#	F# minor
 =4	=4
-4.c#	Badd(2,4,7)
-4e	E
-16b	.
-16a#	.
+4.c#	B other-2,4,7
+4e	E major
+16bLL	.
+16a#J	.
 8b	.
-8e	.
+8eJ	.
 ==	==
 *-	*-

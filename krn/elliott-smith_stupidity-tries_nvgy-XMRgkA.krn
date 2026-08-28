@@ -16,7 +16,7 @@
 *E:	*
 *M12/4	*
 =1	=1
-4g#	E
+4g#	E major
 4g#	.
 4g#	.
 4g#	.
@@ -29,7 +29,7 @@
 4g#	.
 4g#	.
 =2	=2
-4f#	Esus2
+4f#	E suspended-second
 4f#	.
 4f#	.
 4f#	.
@@ -42,7 +42,7 @@
 4f#	.
 4f#	.
 =3	=3
-4gn	Em
+4gn	E minor
 4gn	.
 4gn	.
 4gn	.
@@ -55,7 +55,7 @@
 4gn	.
 4gn	.
 =4	=4
-4a#	Edim
+4a#	E diminished
 4a#	.
 4a#	.
 4a#	.
@@ -68,27 +68,27 @@
 4a#	.
 4a#	.
 =5	=5
-1.g#[	Eadd(2,4,5,7,11)
-2g#]	A/E
-8f#	.
-8e	.
-2.f#[	.
+[1.g#	E other-2,4,5,7,11
+2g#]	A major/E
+8f#L	.
+8eJ	.
+[2.f#	.
 =6	=6
-4f#]	Aadd(2,4,7)/E
+4f#]	A other-2,4,7/E
 1...r	.
 2..r	.
 =7	=7
-1.g#	A#dim7/E
-2.f#	F#7/E
-2e	F#m7/E
-4f#[	.
+1.g#	A# diminished-seventh/E
+2.f#	F# dominant/E
+2e	F# minor-seventh/E
+[4f#	.
 =8	=8
-4f#]	B11
+4f#]	B dominant-11th
 4e	.
 4c#	.
 2.r	.
-1r	B
+1r	B major
 4r	.
-4r	C
+4r	C major
 ==	==
 *-	*-

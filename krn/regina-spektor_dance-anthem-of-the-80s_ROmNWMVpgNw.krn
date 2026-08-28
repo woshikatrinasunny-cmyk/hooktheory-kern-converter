@@ -16,88 +16,88 @@
 *D-:	*
 *M4/4	*
 =1	=1
-2f	D-/F
+2f	D- major/F
 2r	.
 =2	=2
-2d-	D-
+2d-	D- major
 4r	.
 4A-	.
 =3	=3
-4An	B7/A
+4An	B dominant/A
 2r	.
 4dd-	.
 =4	=4
-4g-	G-
+4g-	G- major
 2.r	.
 =5	=5
-4d-	D-/F
+4d-	D- major/F
 4A-	.
 4r	.
 4A-	.
 =6	=6
-8a-	D-
+8a-	D- major
 2f	.
 8f	.
 4f	.
 =7	=7
-4g-	B7/A
+4g-	B dominant/A
 2r	.
 4d-	.
 =8	=8
-4d-	G-
+4d-	G- major
 2.r	.
 =9	=9
-4.f	D-/F
+4.f	D- major/F
 8f	.
 4.a-	.
-16g-	.
-16a-	.
+16g-LL	.
+16a-JJ	.
 =10	=10
-4g-	D-
+4g-	D- major
 8f	.
 4e-	.
 4d-	.
-8g-[	.
+[8g-	.
 =11	=11
-8g-]	B7/A
+8g-L]	B dominant/A
 8f	.
 8g-	.
-8f	.
+8fJ	.
 4g-	.
-8ff	.
-8f	.
+8ffL	.
+8fJ	.
 =12	=12
-8f	G-
+8f	G- major
 4f	.
 4f	.
 8r	.
-8a-	.
-8bn[	.
+8a-L	.
+[8bnJ	.
 =13	=13
-8bn]	D-/F
-16b-	.
-16a-	.
-8b-	.
+8bnL]	D- major/F
+16b-L	.
+16a-J	.
+8b-J	.
 4.a-	.
-8ff	.
-8f	.
+8ffL	.
+8fJ	.
 =14	=14
-8f	D-
+8f	D- major
 4f	.
 4f	.
 8r	.
-8d-	.
-8d-	.
+8d-L	.
+8d-J	.
 =15	=15
-8f	B7/A
-8g-	.
+8fL	B dominant/A
+8g-J	.
 4g-	.
+8g-L	.
 8g-	.
 8g-	.
-8g-	.
-8d-	.
+8d-J	.
 =16	=16
-8d-	G-
+8d-	G- major
 4.d-	.
 2r	.
 ==	==

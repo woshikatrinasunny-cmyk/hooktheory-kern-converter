@@ -16,116 +16,116 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4a	F#m
+4a	F# minor
 2cc#	.
-8.a	.
-16f#	.
+8.aL	.
+16f#Jk	.
 =2	=2
-4f#	C#7/G#
+4f#	C# dominant/G#
 4.fn	.
-8fn	.
+8fnL	.
 8.cc#	.
-16fn	.
+16fnJk	.
 =3	=3
-4g#	F#m/A
+4g#	F# minor/A
 4.f#	.
-8f#	.
+8f#L	.
 8.cc#	.
-16f#	.
+16f#Jk	.
 =4	=4
-4a	C#/F
+4a	C# major/F
 4.g#	.
-8g#	.
+8g#L	.
 8.cc#	.
-16g#	.
+16g#Jk	.
 =5	=5
-4F#	F#m
+4F#	F# minor
 2c#	.
-8.A	.
-16F#	.
+8.AL	.
+16F#Jk	.
 =6	=6
-4F#	C#7/G#
+4F#	C# dominant/G#
 4.Fn	.
-8Fn	.
+8FnL	.
 8.c#	.
-16Fn	.
+16FnJk	.
 =7	=7
-4G#	F#m
+4G#	F# minor
 4.F#	.
-8F#	.
+8F#L	.
 8.c#	.
-16F#	.
+16F#Jk	.
 =8	=8
-16F#	D/F#
+16F#	D major/F#
 16r	.
-8F#	.
+8F#L	.
 8.d	.
-16F#	.
-16F#	D7/A
+16F#Jk	.
+16F#	D dominant/A
 16r	.
-8F#	.
+8F#L	.
 8.d	.
-16F#	.
+16F#Jk	.
 =9	=9
-4Gn	G
+4Gn	G major
 2D	.
-8.BB	.
-16GGn	.
+8.BBL	.
+16GGnJk	.
 =10	=10
-4GGn	D7/A
+4GGn	D dominant/A
 4.FF#	.
-8FF#	.
+8FF#L	.
 8.D	.
-16FF#	.
+16FF#Jk	.
 =11	=11
-4AA	G
+4AA	G major
 4.GGn	.
-8GGn	.
+8GGnL	.
 8.D	.
-16GGn	.
+16GGnJk	.
 =12	=12
-4FF#	G#m7/F#
-4.FFn	C#7/F
-8FFn	.
+4FF#	G# minor-seventh/F#
+4.FFn	C# dominant/F
+8FFnL	.
 8.C#	.
-16FFn	.
+16FFnJk	.
 =13	=13
-16FF#	F#m
+16FF#	F# minor
 16r	.
-8FF#	.
+8FF#L	.
 8AA	.
-8FF#	.
-16DD	D
+8FF#J	.
+16DD	D major
 16r	.
-8DD	.
+8DDL	.
 8FF#	.
-8DD	.
+8DDJ	.
 =14	=14
-3...CCn	G#7/C
-8CCn	.
+3...CCn	G# dominant/C
+8CCnL	.
 8DD#	.
-8CCn	.
+8CCnJ	.
 =15	=15
-16CC#	C#m
+16CC#	C# minor
 16r	.
-8CC#	.
+8CC#L	.
 8EE	.
-8CC#	.
-16AAA	A
+8CC#J	.
+16AAA	A major
 16r	.
-8AAA	.
+8AAAL	.
 8CC#	.
-8AAA	.
+8AAAJ	.
 =16	=16
-16FFF#	D#m7b5/F#
+16FFF#	D# half-diminished/F#
 16r	.
-8FFF#	.
+8FFF#L	.
 8AAA	.
-8FFF#	.
-16GGGn	D#7/G
+8FFF#J	.
+16GGGn	D# dominant/G
 16r	.
-8GGGn	.
+8GGGnL	.
 8AAA#	.
-8GGGn	.
+8GGGnJ	.
 ==	==
 *-	*-

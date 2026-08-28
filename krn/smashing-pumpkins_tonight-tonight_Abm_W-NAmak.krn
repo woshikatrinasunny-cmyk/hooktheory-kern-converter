@@ -16,75 +16,75 @@
 *F#:	*
 *M4/4	*
 =1	=1
-1ccc#	F#
+1ccc#	F# major
 =2	=2
-4aa#	F#sus4
-8gg#[	.
-4.gg#_	F#sus4
-4gg#]	F#sus4
+4aa#	F# suspended-fourth
+[8gg#	.
+4.gg#_	F# suspended-fourth
+4gg#]	F# suspended-fourth
 =3	=3
-1ff#	F#
+1ff#	F# major
 =4	=4
-4.ff#	F#sus4
-4.gg#	F#sus4
-4aa#	F#sus4
+4.ff#	F# suspended-fourth
+4.gg#	F# suspended-fourth
+4aa#	F# suspended-fourth
 =5	=5
-1ddd#[	D#m7
+[1ddd#	D# minor-seventh
 =6	=6
-4.ddd#_	Badd(2,4,7)
-4.ddd#_	Badd(2,4,7)
-4ddd#_	Badd(2,4,7)
+4.ddd#_	B other-2,4,7
+4.ddd#_	B other-2,4,7
+4ddd#_	B other-2,4,7
 =7	=7
-1ddd#_	D#m7
+1ddd#_	D# minor-seventh
 =8	=8
-4.ddd#_	Badd(2,4,7)
-4.ddd#_	Badd(2,4,7)
-4ddd#]	Badd(2,4,7)
+4.ddd#_	B other-2,4,7
+4.ddd#_	B other-2,4,7
+4ddd#]	B other-2,4,7
 =9	=9
-1ddd#	F#
+1ddd#	F# major
 =10	=10
-4.ccc#	F#sus4
-4.aa#	F#sus4
-4ff#	F#sus4
+4.ccc#	F# suspended-fourth
+4.aa#	F# suspended-fourth
+4ff#	F# suspended-fourth
 =11	=11
-2gg#	F#
+2gg#	F# major
 2aa#	.
 =12	=12
-4.ccc#[	F#sus4
-8ccc#]	F#sus4
-4ddd#[	.
-4ddd#]	F#sus4
+[4.ccc#	F# suspended-fourth
+8ccc#]	F# suspended-fourth
+[4ddd#	.
+4ddd#]	F# suspended-fourth
 =13	=13
-1eee#[	D#m7
+[1eee#	D# minor-seventh
 =14	=14
-4.eee#_	Badd(2,4,7)
-4.eee#_	Badd(2,4,7)
-4eee#]	Badd(2,4,7)
+4.eee#_	B other-2,4,7
+4.eee#_	B other-2,4,7
+4eee#]	B other-2,4,7
 =15	=15
-1aa#	D#m7
+1aa#	D# minor-seventh
 =16	=16
-4.ccc#[	Badd(2,4,7)
-4.ccc#_	Badd(2,4,7)
-4ccc#]	Badd(2,4,7)
+[4.ccc#	B other-2,4,7
+4.ccc#_	B other-2,4,7
+4ccc#]	B other-2,4,7
 =17	=17
-2cc#[	Badd(2,4,7)
-2cc#_	F#/A#
+[2cc#	B other-2,4,7
+2cc#_	F# major/A#
 =18	=18
-3...cc#]	C#sus2
+3...cc#]	C# suspended-second
 4.dd#	.
 =19	=19
-2cc#[	Badd(2,4,7)
-2cc#_	F#/A#
+[2cc#	B other-2,4,7
+2cc#_	F# major/A#
 =20	=20
-3...cc#]	C#sus2
+3...cc#]	C# suspended-second
 4.dd#	.
 =21	=21
-2cc#[	Badd(2,4,7)
-2cc#_	F#/A#
+[2cc#	B other-2,4,7
+2cc#_	F# major/A#
 =22	=22
-1cc#_	C#sus2
+1cc#_	C# suspended-second
 =23	=23
-1cc#_	F#
+1cc#_	F# major
 =24	=24
 1cc#]	.
 ==	==

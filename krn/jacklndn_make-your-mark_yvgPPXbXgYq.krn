@@ -16,158 +16,158 @@
 *a:	*
 *M4/4	*
 =1	=1
-16ff	Dm7
+16ffLK	D minor-seventh
 8ff	.
 8ff	.
-8ff	.
-8gg	Em7
-8.gg	.
+8ffJ	.
+8gg	E minor-seventh
+8.ggL	.
 8gg	.
-8gg	.
+8ggJ	.
 =2	=2
-8.ee	Fmaj7
-8.ee	.
+8.eeL	F major-seventh
+8.eeJ	.
 3...ee	.
 =3	=3
-16ee	Fmaj7
+16eeLK	F major-seventh
 8ee	.
 8ee	.
-8ee	.
-8dd	G
-8.dd	.
+8eeJ	.
+8dd	G major
+8.ddL	.
 8dd	.
-8dd	.
+8ddJ	.
 =4	=4
-8.ee	Am
-8.ee	.
-8.dd	Csus2
-8.dd	.
+8.eeL	A minor
+8.eeJ	.
+8.dd	C suspended-second
+8.ddL	.
 8dd	.
-8ee	.
+8eeJ	.
 =5	=5
-16ff	Dm7
+16ffLK	D minor-seventh
 8ff	.
 8ff	.
-8ff	.
-8gg	Em7
-8.gg	.
+8ffJ	.
+8gg	E minor-seventh
+8.ggL	.
 8gg	.
-8gg	.
+8ggJ	.
 =6	=6
-8.ee	Fmaj7
-8.ee	.
+8.eeL	F major-seventh
+8.eeJ	.
 3...ee	.
 =7	=7
-16ee	Fmaj7
+16eeLK	F major-seventh
 8ee	.
 8ee	.
-8ee	.
-8dd	G
-8.dd	.
+8eeJ	.
+8dd	G major
+8.ddL	.
 8dd	.
-8dd	.
+8ddJ	.
 =8	=8
-8.ee	Am
-8.ee	.
-8.dd	Csus2
-8.dd	.
+8.eeL	A minor
+8.eeJ	.
+8.dd	C suspended-second
+8.ddL	.
 8dd	.
-8ee	.
+8eeJ	.
 =9	=9
-16aa	Dm7
-8ccc	Dm7
-8dd	Dm7
-8aa	Dm7
-8bb	Em7
-8gg	Em7
-16bb[	.
-16bb]	Em7
+16aaLK	D minor-seventh
+8ccc	D minor-seventh
+8dd	D minor-seventh
+8aaJ	D minor-seventh
+8bb	E minor-seventh
+8ggL	E minor-seventh
+[16bbL	.
+16bb]	E minor-seventh
 16bb	.
-16ddd	Em7
-16ddd	.
+16ddd	E minor-seventh
+16dddJJ	.
 =10	=10
-16ccc	Fmaj7
+16cccLK	F major-seventh
 8aa	.
-8ccc	Fmaj7
-16ee[	.
-16ee]	Fmaj7
+8ccc	F major-seventh
+[16eeL	.
+16eeJJ]	F major-seventh
 8ccc	.
-8aa	.
+8aaL	.
 8ccc	.
 8gg	.
-16ee	.
+16eeJk	.
 =11	=11
-16aa	Fmaj7
-8ccc	Fmaj7
-8dd	Fmaj7
-8aa	Fmaj7
-8bb	G
-8gg	G
-16bb[	.
-16bb]	G
+16aaLK	F major-seventh
+8ccc	F major-seventh
+8dd	F major-seventh
+8aaJ	F major-seventh
+8bb	G major
+8ggL	G major
+[16bbL	.
+16bb]	G major
 16bb	.
-16ddd	G
-16ddd	.
+16ddd	G major
+16dddJJ	.
 =12	=12
-16ccc	Am
+16cccLK	A minor
 8aa	.
-8ccc	Am
-16ee[	.
-16ee]	Csus2
+8ccc	A minor
+[16eeL	.
+16eeJJ]	C suspended-second
 8ccc	.
-8aa	Csus2
-16ccc[	.
-16ccc]	Csus2
-16gg[	.
-16gg]	C
-16ee	.
+8aaL	C suspended-second
+[16cccL	.
+16ccc]	C suspended-second
+[16gg	.
+16gg]	C major
+16eeJJ	.
 =13	=13
-16aa	Dm7
-8ccc	Dm7
-8dd	Dm7
-8aa	Dm7
-8bb	Em7
-8gg	Em7
-16bb[	.
-16bb]	Em7
+16aaLK	D minor-seventh
+8ccc	D minor-seventh
+8dd	D minor-seventh
+8aaJ	D minor-seventh
+8bb	E minor-seventh
+8ggL	E minor-seventh
+[16bbL	.
+16bb]	E minor-seventh
 16bb	.
-16ddd	Em7
-16ddd	.
+16ddd	E minor-seventh
+16dddJJ	.
 =14	=14
-16ccc	Fmaj7
+16cccLK	F major-seventh
 8aa	.
-8ccc	Fmaj7
-16ee[	.
-16ee]	Fmaj7
+8ccc	F major-seventh
+[16eeL	.
+16eeJJ]	F major-seventh
 8ccc	.
-8aa	.
+8aaL	.
 8ccc	.
 8gg	.
-16ee	.
+16eeJk	.
 =15	=15
-16aa	Fmaj7
-8ccc	Fmaj7
-8dd	Fmaj7
-8aa	Fmaj7
-8bb	G
-8gg	G
-16bb[	.
-16bb]	G
+16aaLK	F major-seventh
+8ccc	F major-seventh
+8dd	F major-seventh
+8aaJ	F major-seventh
+8bb	G major
+8ggL	G major
+[16bbL	.
+16bb]	G major
 16bb	.
-16ddd	G
-16ddd	.
+16ddd	G major
+16dddJJ	.
 =16	=16
-16ccc	Am
+16cccLK	A minor
 8aa	.
-8ccc	Am
-16ee[	.
-16ee]	Csus2
+8ccc	A minor
+[16eeL	.
+16eeJJ]	C suspended-second
 8ccc	.
-8aa	Csus2
-16ccc[	.
-16ccc]	Csus2
-16gg[	.
-16gg]	C
-16ee	.
+8aaL	C suspended-second
+[16cccL	.
+16ccc]	C suspended-second
+[16gg	.
+16gg]	C major
+16eeJJ	.
 ==	==
 *-	*-

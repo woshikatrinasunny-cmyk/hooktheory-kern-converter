@@ -16,76 +16,76 @@
 *F:	*
 *M4/4	*
 =1	=1
-8ccc	Fm
+8cccL	F minor
 8ff	.
 8ccc	.
-8ff	.
-8bb-	Cm7/E-
+8ffJ	.
+8bb-L	C minor-seventh/E-
 8aa	.
 8ff	.
-8dd	.
+8ddJ	.
 =2	=2
-8ccc	B-m7/D-
+8cccL	B- minor-seventh/D-
 8ff	.
 8ccc	.
-8ff	.
-8bb-	B-
+8ffJ	.
+8bb-L	B- major
 8aa	.
 8dd	.
-8ff	.
+8ffJ	.
 =3	=3
-8ccc	F
+8cccL	F major
 8ff	.
 8ccc	.
-8ff	.
-8bb-	Dadd(3,4,7,10)
+8ffJ	.
+8bb-L	D other-3,4,7,10
 8aa	.
 8ff	.
-8dd	.
+8ddJ	.
 =4	=4
-8ccc	G13
+8cccL	G dominant-13th
 8ff	.
 8ccc	.
-8ff	.
-8bb-	Caug7
+8ffJ	.
+8bb-L	C augmented-seventh
 8aa	.
 8dd	.
-8ff	.
+8ffJ	.
 =5	=5
-8ccc	B-
+8cccL	B- major
 8ff	.
 8ccc	.
-8ff	.
-8bb-	.
+8ffJ	.
+8bb-L	.
 8aa	.
 8ff	.
-8dd	.
+8ddJ	.
 =6	=6
-8ccc	B-add(2,3,7)
+8cccL	B- other-2,3,7
 8ff	.
-8ccc	B-m7/D-
-8ff	.
-8bb-	C7sus4
+8ccc	B- minor-seventh/D-
+8ffJ	.
+8bb-L	C dominant-seventh-suspended-fourth
 8aa	.
-8dd	Cadd(2,4,7)/G
-8ff	.
+8dd	C other-2,4,7/G
+8ffJ	.
 =7	=7
-8ccc	F
+8cccL	F major
 8ff	.
 8ccc	.
-8ff	.
-8bb-	G-maj7
+8ffJ	.
+8bb-L	G- major-seventh
 8aa	.
 8ff	.
-8dd	.
+8ddJ	.
 =8	=8
-8ccc	A-maj7/E-
+8cccL	A- major-seventh/E-
 8ff	.
-8ccc	B-
-8ff	.
-8bb-	C7sus4
+8ccc	B- major
+8ffJ	.
+8bb-L	C dominant-seventh-suspended-fourth
 8aa	.
-8dd	Dm7
-8ff	.
+8dd	D minor-seventh
+8ffJ	.
 ==	==
 *-	*-

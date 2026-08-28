@@ -15,63 +15,63 @@
 *f#:	*
 *M4/4	*
 =1	=1
-16r	F#m9
-16b	.
-16a	.
-8.b[	.
-2b]	C#m7
-8r	Aadd(2,3,7)
+16r	F# minor-ninth
+16bLL	.
+16aJ	.
+[8.bJ	.
+2b]	C# minor-seventh
+8r	A other-2,3,7
 =2	=2
 4.r	.
-8r	Badd(2,3,7)
+8r	B other-2,3,7
+16f#LL	.
 16f#	.
 16f#	.
-16f#	.
-16f#	.
-8f#	C#m
-16f#	C#m/E
-16b[	.
+16f#J	.
+8f#	C# minor
+16f#L	C# minor/E
+[16bJJ	.
 =3	=3
-16b]	F#m9
+16bLL]	F# minor-ninth
 16b	.
-16a	.
-8.b[	.
-2b]	C#m7
-8r	Aadd(2,3,7)
+16aJ	.
+[8.bJ	.
+2b]	C# minor-seventh
+8r	A other-2,3,7
 =4	=4
 4.r	.
-4.r	Badd(2,3,7)
-8r	C#m
-16r	C#m/E
-16b[	.
+4.r	B other-2,3,7
+8r	C# minor
+16r	C# minor/E
+[16b	.
 =5	=5
-16b]	F#m9
+16bLL]	F# minor-ninth
 16b	.
-16a	.
-8.b[	.
-2b]	C#m7
-8r	Aadd(2,3,7)
+16aJ	.
+[8.bJ	.
+2b]	C# minor-seventh
+8r	A other-2,3,7
 =6	=6
 4.r	.
-8r	Badd(2,3,7)
+8r	B other-2,3,7
+16f#LL	.
 16f#	.
 16f#	.
-16f#	.
-16f#	.
-8f#	C#m
-16f#	C#m/E
-16b[	.
+16f#J	.
+8f#	C# minor
+16f#L	C# minor/E
+[16bJJ	.
 =7	=7
-16b]	F#m9
+16bLL]	F# minor-ninth
 16b	.
-16a	.
-8.b[	.
-2b]	C#m7
-8r	Aadd(2,3,7)
+16aJ	.
+[8.bJ	.
+2b]	C# minor-seventh
+8r	A other-2,3,7
 =8	=8
 4.r	.
-4.r	Badd(2,3,7)
-8r	C#m
-8r	C#m/E
+4.r	B other-2,3,7
+8r	C# minor
+8r	C# minor/E
 ==	==
 *-	*-

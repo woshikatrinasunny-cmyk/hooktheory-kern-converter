@@ -16,60 +16,60 @@
 *A:	*
 *M4/4	*
 =1	=1
-4ee	C#m7
-8ee	.
-8dd	.
-8ee	.
-8ff#	.
+4ee	C# minor-seventh
+8eeL	.
+8ddJ	.
+8eeL	.
+8ff#J	.
 8r	.
-8ee[	Dmaj7
+[8ee	D major-seventh
 =2	=2
-8ee]	.
+8eeL]	.
 8dd	.
 8ee	.
-8dd	.
-8ee	.
-8ff#	.
+8ddJ	.
+8eeL	.
+8ff#J	.
 4ff#	.
 =3	=3
-4ee	Bm7
+4ee	B minor-seventh
 4ee	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 8r	.
-8ee[	Bm7
+[8ee	B minor-seventh
 =4	=4
 8ee]	.
 4ee	.
 8dd	.
-8ff#	B7sus4
+8ff#	B dominant-seventh-suspended-fourth
 8r	.
-4ee	C#m7
+4ee	C# minor-seventh
 =5	=5
-8ee	.
+8eeL	.
 8dd	.
 8ee	.
-8ff#	.
+8ff#J	.
 8r	.
-4ee	Dmaj7
+4ee	D major-seventh
 8dd	.
 =6	=6
-8ee	.
+8eeL	.
 8dd	.
 8ee	.
-8ff#	.
+8ff#J	.
 4ff#	.
-4ee	Bm7
+4ee	B minor-seventh
 =7	=7
 4ee	.
-8ee	.
-8ff#	.
+8eeL	.
+8ff#J	.
 8r	.
-4ee	E/B
-8ee[	E
+4ee	E major/B
+[8ee	E major
 =8	=8
-8ee]	.
-8dd	.
-4aa	Esus4
+8eeL]	.
+8ddJ	.
+4aa	E suspended-fourth
 ==	==
 *-	*-

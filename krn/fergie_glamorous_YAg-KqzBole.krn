@@ -16,27 +16,27 @@
 *a:	*
 *M4/4	*
 =1	=1
-4cc	Fmaj7
+4cc	F major-seventh
 4r	.
 4cc	.
 4r	.
 =2	=2
-4cc	G
+4cc	G major
 8r	.
-8cc[	.
-8cc]	Am7
+[8cc	.
+8cc]	A minor-seventh
 4.r	.
 =3	=3
-4cc	Fmaj7
+4cc	F major-seventh
 4r	.
 4cc	.
 4r	.
 =4	=4
-8cc	G
-8cc	.
+8ccL	G major
+8ccJ	.
 8r	.
-8cc[	.
-8cc]	Am7
+[8cc	.
+8cc]	A minor-seventh
 4.a	.
 ==	==
 *-	*-

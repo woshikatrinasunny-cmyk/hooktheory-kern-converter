@@ -16,43 +16,43 @@
 *a:	*
 *M4/4	*
 =1	=1
-2ee	Am
-8dd	.
+2ee	A minor
+8ddL	.
 8cc	.
 8dd	.
-8b	.
+8bJ	.
 =2	=2
-2cc	Fmaj7/A
+2cc	F major-seventh/A
 4a	.
 4aa	.
 =3	=3
-2aa	Fadd(4,5,7)/A
-8aa#	.
+2aa	F other-4,5,7/A
+8aa#L	.
 8aa	.
 8aa#	.
-8gg	.
+8ggJ	.
 =4	=4
-4ee	Fadd(4,5,7,11)/A
+4ee	F other-4,5,7,11/A
 4ff	.
-8a#	.
-8ff[	.
-8ff]	Fsus2/G
-16ff	.
-16ee	.
+8a#L	.
+[8ff	.
+8ff]	F suspended-second/G
+16ffL	.
+16eeJJ	.
 =5	=5
-2ff	Fmaj7/A
-8cc	Am
+2ff	F major-seventh/A
+8ccL	A minor
 8b	.
 8cc	.
-8a	.
+8aJ	.
 =6	=6
-4b	Am/C
+4b	A minor/C
 4cc	.
 2ee	.
 =7	=7
-4ee	Asus2/B
+4ee	A suspended-second/B
 4e	.
-4.f	Fmaj7/A
+4.f	F major-seventh/A
 8d	.
 =8	=8
 2ff	.

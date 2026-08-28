@@ -16,30 +16,30 @@
 *E:	*
 *M4/4	*
 =1	=1
-4.e	Eadd(2,4,7)
+4.e	E other-2,4,7
 8f#	.
 4e	.
-4b[	.
+[4b	.
 =2	=2
-2.b]	G#m7
+2.b]	G# minor-seventh
 4r	.
 =3	=3
-4.e	Eadd(2,4,7)
+4.e	E other-2,4,7
 8f#	.
 4e	.
-4b[	.
+[4b	.
 =4	=4
-2.b]	G#m7
+2.b]	G# minor-seventh
 4r	.
 =5	=5
-4b	C#m
+4b	C# minor
 4g#	.
 4e	.
-16d#	.
-16c#	.
-8c#[	.
+16d#LL	.
+16c#J	.
+[8c#J	.
 =6	=6
-8c#]	F#
+8c#]	F# major
 3...e	.
 4r	.
 ==	==

@@ -16,51 +16,51 @@
 *e:	*
 *M4/4	*
 =1	=1
-4.a	D
+4.a	D major
 8b	.
 8.dd	.
 16r	.
-8dd	.
-16ee	.
-16dd	.
+8ddL	.
+16eeL	.
+16ddJJ	.
 =2	=2
-8.b	C
+8.b	C major
 16r	.
-8dd	.
-8b	.
-8a	.
-16b	.
-16a	.
+8ddL	.
+8bJ	.
+8aL	.
+16bL	.
+16aJ	.
 8g	.
-16e	.
-16d	.
+16eL	.
+16dJJ	.
 =3	=3
-4.dd	Bm
+4.dd	B minor
 8r	.
 4dd	.
 8r	.
 8b	.
 =4	=4
-2dd	D
+2dd	D major
 2r	.
 =5	=5
-4.e	Em
+4.e	E minor
 8g	.
 4a	.
 4g	.
 =6	=6
-4.e	C
+4.e	C major
 8d	.
 4B	.
-8A	.
-8G	.
+8AL	.
+8GJ	.
 =7	=7
-4.A	D
+4.A	D major
 8B	.
 4d	.
 4e	.
 =8	=8
-2g	Em
+2g	E minor
 2r	.
 ==	==
 *-	*-

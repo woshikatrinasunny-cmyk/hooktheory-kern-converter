@@ -15,65 +15,65 @@
 *C:	*
 *M4/4	*
 =1	=1
-8r	C
-16eee	.
-16fff	.
+8r	C major
+16eeeLL	.
+16fffJ	.
 8.ggg	.
-16eee	.
-16fff	Cmaj7sus2
-16ggg	.
+16eeeJk	.
+16fffLL	C major-seventh-suspended-second
+16gggJ	.
 8bbb	.
 8ggg	.
-8fff	.
+8fffJ	.
 =2	=2
-8.eee	C
-16fff	.
-4eee[	.
-2eee_	Cmaj7sus2
+8.eeeL	C major
+16fffJk	.
+[4eee	.
+2eee_	C major-seventh-suspended-second
 =3	=3
-8eee]	C
-16eee	.
-16fff	.
+8eeeL]	C major
+16eeeL	.
+16fffJ	.
 8.ggg	.
-16eee	.
-16fff	Cmaj7sus2
-16ggg	.
+16eeeJk	.
+16fffLL	C major-seventh-suspended-second
+16gggJ	.
 8bbb	.
 8ggg	.
-16fff	.
-16ggg	.
+16fffL	.
+16gggJJ	.
 =4	=4
-2eee[	C
-2eee_	Cmaj7sus2
+[2eee	C major
+2eee_	C major-seventh-suspended-second
 =5	=5
-8eee]	C
-16eee	.
-16fff	.
+8eeeL]	C major
+16eeeL	.
+16fffJ	.
 8.ggg	.
-16eee	.
-16fff	Cmaj7sus2
-16ggg	.
+16eeeJk	.
+16fffLL	C major-seventh-suspended-second
+16gggJ	.
 8bbb	.
 8ggg	.
-8fff	.
+8fffJ	.
 =6	=6
-8.eee	C
-16fff	.
-4eee[	.
-2eee_	Cmaj7sus2
+8.eeeL	C major
+16fffJk	.
+[4eee	.
+2eee_	C major-seventh-suspended-second
 =7	=7
-8eee]	C
-16ggg	.
-16fff	.
+8eeeL]	C major
+16gggL	.
+16fffJ	.
 8.eee	.
-16ggg	.
-16fff	Cmaj7sus2
-16eee	.
+16gggJk	.
+16fffLL	C major-seventh-suspended-second
+16eeeJ	.
 8ddd	.
 8eee	.
-8ccc	.
+8cccJ	.
 =8	=8
-2gg[	C
-2gg]	Dm11
+[2gg	C major
+2gg]	D minor-11th
 ==	==
 *-	*-

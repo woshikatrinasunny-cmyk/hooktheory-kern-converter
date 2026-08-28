@@ -15,179 +15,179 @@
 *g:	*
 *M4/4	*
 =1	=1
-8.G	Gm
+8.GL	G minor
 8.B-	.
-8b-	.
-8cc	.
+8b-J	.
+8ccL	.
 8dd	.
 8a	.
-8g	.
+8gJ	.
 =2	=2
-16B-	E-/B-
+16B-LL	E- major/B-
 16e-	.
 16f	.
 16a	.
 16g	.
 16B-	.
 16b-	.
-16cc	.
-8.ee-	.
+16ccJJ	.
+8.ee-L	.
 8.dd	.
-8g	.
+8gJ	.
 =3	=3
-8f	F
+8fL	F major
 8ee-	.
 8ff	.
-8dd	.
-8.G	Gm
+8ddJ	.
+8.GL	G minor
 8.B-	.
-8b-	.
+8b-J	.
 =4	=4
-8cc	.
+8ccL	.
 8dd	.
 8a	.
-8g	.
-16B-	E-/B-
+8gJ	.
+16B-LL	E- major/B-
 16e-	.
 16f	.
 16a	.
 16g	.
 16B-	.
 16b-	.
-16cc	.
+16ccJJ	.
 =5	=5
-8.ee-	.
+8.ee-L	.
 8.dd	.
-8g	.
-8c	F/C
+8gJ	.
+8cL	F major/C
 8e-	.
 8g	.
-8a	.
+8aJ	.
 =6	=6
-8.G	Gm
+8.GL	G minor
 8.B-	.
-8b-	.
-8cc	.
+8b-J	.
+8ccL	.
 8dd	.
 8a	.
-8g	.
+8gJ	.
 =7	=7
-16B-	E-/B-
+16B-LL	E- major/B-
 16e-	.
 16f	.
 16a	.
 16g	.
 16B-	.
 16b-	.
-16cc	.
-8.ee-	.
+16ccJJ	.
+8.ee-L	.
 8.dd	.
-8g	.
+8gJ	.
 =8	=8
-8.f	F
-16ee-	.
+8.fL	F major
+16ee-k	.
 8ff	.
-8dd	.
-8.G	Gm
+8ddJ	.
+8.GL	G minor
 8.B-	.
-8b-	.
+8b-J	.
 =9	=9
-8cc	.
+8ccL	.
 8dd	.
 8a	.
-8g	.
-16B-	E-/B-
+8gJ	.
+16B-LL	E- major/B-
 16e-	.
 16f	.
 16a	.
 16g	.
 16B-	.
 16b-	.
-16cc	.
+16ccJJ	.
 =10	=10
-8.c	F/C
+8.cL	F major/C
 8.e-	.
-8g	.
-16a	D7
-16g	.
+8gJ	.
+16aLL	D dominant
+16gJ	.
 8B-	.
 8dd	.
-8a	.
+8aJ	.
 =11	=11
-8.G	Gm
+8.GL	G minor
 8.B-	.
-8b-	.
-8cc	.
+8b-J	.
+8ccL	.
 8dd	.
 8a	.
-8g	.
+8gJ	.
 =12	=12
-16B-	E-/B-
+16B-LL	E- major/B-
 16e-	.
 16f	.
 16a	.
 16g	.
 16B-	.
 16b-	.
-16cc	.
-8.ee-	.
+16ccJJ	.
+8.ee-L	.
 8.dd	.
-8g	.
+8gJ	.
 =13	=13
-8.f	F
-16ee-	.
+8.fL	F major
+16ee-k	.
 8ff	.
-8dd	.
-8.G	Gm
+8ddJ	.
+8.GL	G minor
 8.B-	.
-8b-	.
+8b-J	.
 =14	=14
-8cc	.
+8ccL	.
 8dd	.
 8a	.
-8g	.
-16B-	E-/B-
+8gJ	.
+16B-LL	E- major/B-
 16e-	.
 16f	.
 16a	.
 16g	.
 16B-	.
 16b-	.
-16cc	.
+16ccJJ	.
 =15	=15
-8.ee-	.
+8.ee-L	.
 8.dd	.
-8g	.
-8c	F/C
+8gJ	.
+8cL	F major/C
 8e-	.
 8g	.
-8a	.
+8aJ	.
 =16	=16
-8.G	Gm
+8.GL	G minor
 8.B-	.
-8b-	.
-8cc	.
+8b-J	.
+8ccL	.
 8dd	.
 8a	.
-8g	.
+8gJ	.
 =17	=17
-16B-	E-/B-
+16B-LL	E- major/B-
 16e-	.
 16f	.
 16a	.
 16g	.
 16B-	.
 16b-	.
-16cc	.
-8.c	F/C
+16ccJJ	.
+8.cL	F major/C
 8.e-	.
-8g	.
+8gJ	.
 =18	=18
-16a	D7
-16g	.
+16aLL	D dominant
+16gJ	.
 8B-	.
 8dd	.
-8a	.
-2r	Gm
+8aJ	.
+2r	G minor
 ==	==
 *-	*-

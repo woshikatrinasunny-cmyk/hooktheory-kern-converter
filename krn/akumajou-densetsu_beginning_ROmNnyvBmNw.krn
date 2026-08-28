@@ -16,154 +16,154 @@
 *d:	*
 *M4/4	*
 =1	=1
-16ff	Dm
+16ffLL	D minor
 16ee	.
-16dd	.
+16ddJJ	.
 4.a	.
-16a	.
+16aLL	.
 16dd	.
 16ee	.
 16ff	.
 16ee	.
 16ff	.
-16aa	.
+16aaJJ	.
 =2	=2
-8.aa-	E
+8.aa-L	E major
 8.ee	.
-8aa-	.
-8.gg	E-
+8aa-J	.
+8.ggL	E- major
 8.ee-	.
-8gg	.
+8ggJ	.
 =3	=3
-16ff	Dm
+16ffLL	D minor
 16ee	.
-16dd	.
+16ddJJ	.
 4.a	.
-16a	.
+16aLL	.
 16dd	.
 16ee	.
 16ff	.
 16ee	.
 16ff	.
-16aa	.
+16aaJJ	.
 =4	=4
-8.aa-	E
+8.aa-L	E major
 8.ee	.
-8ddd	.
-16ddd-	A/E
+8dddJ	.
+16ddd-LL	A major/E
 16ddd	.
-16eee	.
+16eeeJJ	.
 6...aa	.
 =5	=5
-16ff	Dm
+16ffLL	D minor
 16ee	.
-16dd	.
+16ddJJ	.
 4.a	.
-16a	.
+16aLL	.
 16dd	.
 16ee	.
 16ff	.
 16ee	.
 16ff	.
-16aa	.
+16aaJJ	.
 =6	=6
-8.aa-	E
+8.aa-L	E major
 8.ee	.
-8aa-	.
-8.gg	E-
+8aa-J	.
+8.ggL	E- major
 8.ee-	.
-8gg	.
+8ggJ	.
 =7	=7
-16ff	Dm
+16ffLL	D minor
 16ee	.
-16dd	.
+16ddJJ	.
 4.a	.
-16a	.
+16aLL	.
 16dd	.
 16ee	.
 16ff	.
 16ee	.
 16ff	.
-16aa	.
+16aaJJ	.
 =8	=8
-8.aa-	E
+8.aa-L	E major
 8.ddd	.
-8fff	.
-8.ddd-	A
+8fffJ	.
+8.ddd-L	A major
 8.eee	.
-8aaa	.
+8aaaJ	.
 =9	=9
-16ff	B-
+16ffLL	B- major
 16ff	.
-16ff	.
+16ffJ	.
 8dd	.
-16dd	.
+16ddJk	.
 8.b-	.
-8.dd	.
+8.ddL	.
 8ff	.
-8gg	.
+8ggJ	.
 =10	=10
-8.ff	Dm/A
-8.dd	.
+8.ffL	D minor/A
+8.ddJ	.
 8.a	.
-16a	.
+16aLL	.
 16dd	.
 16a	.
 16ff	.
 16dd	.
 16a	.
-16f	.
+16fJJ	.
 =11	=11
-16ff	E/A-
+16ffLL	E major/A-
 16ff	.
-16ff	.
+16ffJ	.
 8dd	.
-16dd	.
+16ddJk	.
 8.a-	.
-16bn	.
+16bnLL	.
 16dd	.
 16bn	.
 16ff	.
 16dd	.
 16bn	.
-16dd	.
+16ddJJ	.
 =12	=12
-8.dd-	A
-8.dd	.
+8.dd-L	A major
+8.ddJ	.
 8.ee-	.
-8.ee	.
+8.eeL	.
 8gg	.
-8aa	.
+8aaJ	.
 =13	=13
-8.ff	Dm
+8.ffL	D minor
 8.dd	.
-8a	.
-8.a-	E
+8aJ	.
+8.a-L	E major
 8.ee	.
-8dd	.
+8ddJ	.
 =14	=14
-8.g	A7
+8.gL	A dominant
 8.a	.
-8g	.
-8.f	A-dim
+8gJ	.
+8.fL	A- diminished
 8.e	.
-8d	.
+8dJ	.
 =15	=15
-8.g	Gm
+8.gL	G minor
 8.b-	.
-8dd	.
-8.ff	E/A-
+8ddJ	.
+8.ffL	E major/A-
 8.ee	.
-8dd	.
+8ddJ	.
 =16	=16
-16aa	Dm/A
+16aaLL	D minor/A
 16bb-	.
 16aa	.
 16bb-	.
 16aa	.
 16bb-	.
 16aa	.
-16bb-	.
-2aa	A
+16bb-JJ	.
+2aa	A major
 ==	==
 *-	*-

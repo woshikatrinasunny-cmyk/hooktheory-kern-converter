@@ -16,227 +16,227 @@
 *c#:	*
 *M4/4	*
 =1	=1
-16d#	C#m
+16d#LL	C# minor
 16e	.
-16f#	C#m
-16g#	.
+16f#	C# minor
+16g#J	.
 8cc#	.
-16d#	D#add(1,3,5,6,10)
-16e	.
-16f#	D#add(1,3,5,6,10)
-16g#	.
+16d#L	D# other-1,3,5,6,10
+16eJJ	.
+16f#LL	D# other-1,3,5,6,10
+16g#J	.
 8dd#	.
-16d#	C#m/E
+16d#L	C# minor/E
 16e	.
-16f#	C#m/E
-16g#	.
+16f#	C# minor/E
+16g#JJ	.
 =2	=2
-8ee	.
-16d#	F#7sus2
+8eeL	.
+16d#L	F# dominant-seventh-suspended-second
 16e	.
-16f#	F#7sus2
-16g#	.
-8ff#	.
-16cc#	C#m/E
-16ee	.
+16f#	F# dominant-seventh-suspended-second
+16g#J	.
+8ff#J	.
+16cc#LL	C# minor/E
+16eeJ	.
 8g#	.
-8dd#	D#add(1,3,5,6,10)
-8f#	.
+8dd#	D# other-1,3,5,6,10
+8f#J	.
 =3	=3
-16d#	C#m
+16d#LL	C# minor
 16e	.
-16f#	C#m
-16g#	.
+16f#	C# minor
+16g#J	.
 8cc#	.
-16d#	D#add(1,3,5,6,10)
-16e	.
-16f#	D#add(1,3,5,6,10)
-16g#	.
+16d#L	D# other-1,3,5,6,10
+16eJJ	.
+16f#LL	D# other-1,3,5,6,10
+16g#J	.
 8dd#	.
-16d#	C#m/E
+16d#L	C# minor/E
 16e	.
-16f#	C#m/E
-16g#	.
+16f#	C# minor/E
+16g#JJ	.
 =4	=4
-8ee	.
-16d#	F#7sus2
+8eeL	.
+16d#L	F# dominant-seventh-suspended-second
 16e	.
-16f#	F#7sus2
-16g#	.
-8ff#	.
-16cc#	D#add(1,3,5,6,10)
-16ee	.
+16f#	F# dominant-seventh-suspended-second
+16g#J	.
+8ff#J	.
+16cc#LL	D# other-1,3,5,6,10
+16eeJ	.
 8g#	.
-8dd#	B
-8f#	.
+8dd#	B major
+8f#J	.
 =5	=5
-16f#	Em
+16f#LL	E minor
 16gn	.
-16a	Em
-16b	.
+16a	E minor
+16bJ	.
 8ee	.
-16f#	F#add(1,3,5,6,10)
-16gn	.
-16a	F#add(1,3,5,6,10)
-16b	.
+16f#L	F# other-1,3,5,6,10
+16gnJJ	.
+16aLL	F# other-1,3,5,6,10
+16bJ	.
 8ff#	.
-16f#	Em/G
+16f#L	E minor/G
 16gn	.
-16a	Em/G
-16b	.
+16a	E minor/G
+16bJJ	.
 =6	=6
-8ggn	.
-16f#	A7sus2
+8ggnL	.
+16f#L	A dominant-seventh-suspended-second
 16gn	.
-16a	A7sus2
-16b	.
-8aa	.
-16ee	Em/G
-16ggn	.
+16a	A dominant-seventh-suspended-second
+16bJ	.
+8aaJ	.
+16eeLL	E minor/G
+16ggnJ	.
 8b	.
-8ff#	F#add(1,3,5,6,10)
-8a	.
+8ff#	F# other-1,3,5,6,10
+8aJ	.
 =7	=7
-16f#	Em
+16f#LL	E minor
 16gn	.
-16a	Em
-16b	.
+16a	E minor
+16bJ	.
 8ee	.
-16f#	F#add(1,3,5,6,10)
-16gn	.
-16a	F#add(1,3,5,6,10)
-16b	.
+16f#L	F# other-1,3,5,6,10
+16gnJJ	.
+16aLL	F# other-1,3,5,6,10
+16bJ	.
 8ff#	.
-16f#	Em/G
+16f#L	E minor/G
 16gn	.
-16a	Em/G
-16b	.
+16a	E minor/G
+16bJJ	.
 =8	=8
-8ggn	.
-16f#	A7sus2
+8ggnL	.
+16f#L	A dominant-seventh-suspended-second
 16gn	.
-16a	A7sus2
-16b	.
-8aa	.
-16ee	F#add(1,3,5,6,10)
-16ggn	.
+16a	A dominant-seventh-suspended-second
+16bJ	.
+8aaJ	.
+16eeLL	F# other-1,3,5,6,10
+16ggnJ	.
 8b	.
-8ff#	D
-8a	.
+8ff#	D major
+8aJ	.
 =9	=9
-16fn	D#m
+16fnLL	D# minor
 16f#	.
-16g#	D#m
-16a#	.
+16g#	D# minor
+16a#J	.
 8dd#	.
-16fn	Fadd(1,3,5,6,10)
-16f#	.
-16g#	Fadd(1,3,5,6,10)
-16a#	.
+16fnL	F other-1,3,5,6,10
+16f#JJ	.
+16g#LL	F other-1,3,5,6,10
+16a#J	.
 8ffn	.
-16fn	D#m/F#
+16fnL	D# minor/F#
 16f#	.
-16g#	D#m/F#
-16a#	.
+16g#	D# minor/F#
+16a#JJ	.
 =10	=10
-8ff#	.
-16fn	G#7sus2
+8ff#L	.
+16fnL	G# dominant-seventh-suspended-second
 16f#	.
-16g#	G#7sus2
-16a#	.
-8gg#	.
-16dd#	D#m/F#
-16ff#	.
+16g#	G# dominant-seventh-suspended-second
+16a#J	.
+8gg#J	.
+16dd#LL	D# minor/F#
+16ff#J	.
 8a#	.
-8ffn	Fadd(1,3,5,6,10)
-8g#	.
+8ffn	F other-1,3,5,6,10
+8g#J	.
 =11	=11
-16fn	D#m
+16fnLL	D# minor
 16f#	.
-16g#	D#m
-16a#	.
+16g#	D# minor
+16a#J	.
 8dd#	.
-16fn	Fadd(1,3,5,6,10)
-16f#	.
-16g#	Fadd(1,3,5,6,10)
-16a#	.
+16fnL	F other-1,3,5,6,10
+16f#JJ	.
+16g#LL	F other-1,3,5,6,10
+16a#J	.
 8ffn	.
-16fn	D#m/F#
+16fnL	D# minor/F#
 16f#	.
-16g#	D#m/F#
-16a#	.
+16g#	D# minor/F#
+16a#JJ	.
 =12	=12
-8ff#	.
-16fn	G#7sus2
+8ff#L	.
+16fnL	G# dominant-seventh-suspended-second
 16f#	.
-16g#	G#7sus2
-16a#	.
-8gg#	.
-16dd#	Fadd(1,3,5,6,10)
-16ff#	.
+16g#	G# dominant-seventh-suspended-second
+16a#J	.
+8gg#J	.
+16dd#LL	F other-1,3,5,6,10
+16ff#J	.
 8a#	.
-8ffn	C#
-8g#	.
+8ffn	C# major
+8g#J	.
 =13	=13
-16e	Dm
+16eLL	D minor
 16fn	.
-16gn	Dm
-16a	.
+16gn	D minor
+16aJ	.
 8ddn	.
-16e	Eadd(1,3,5,6,10)
-16fn	.
-16gn	Eadd(1,3,5,6,10)
-16a	.
+16eL	E other-1,3,5,6,10
+16fnJJ	.
+16gnLL	E other-1,3,5,6,10
+16aJ	.
 8ee	.
-16e	Dm/F
+16eL	D minor/F
 16fn	.
-16gn	Dm/F
-16a	.
+16gn	D minor/F
+16aJJ	.
 =14	=14
-8ffn	.
-16e	G7sus2
+8ffnL	.
+16eL	G dominant-seventh-suspended-second
 16fn	.
-16gn	G7sus2
-16a	.
-8ggn	.
-16ddn	Dm/F
-16ffn	.
+16gn	G dominant-seventh-suspended-second
+16aJ	.
+8ggnJ	.
+16ddnLL	D minor/F
+16ffnJ	.
 8a	.
-8ee	Eadd(1,3,5,6,10)
-8gn	.
+8ee	E other-1,3,5,6,10
+8gnJ	.
 =15	=15
-16dn	A11
+16dnLL	A dominant-11th
 16gn	.
 16a	.
 16ccn	.
 16dn	.
 16gn	.
 16a	.
-16ccn	.
-16dn	.
+16ccnJJ	.
+16dnLL	.
 16gn	.
 16a	.
 16ccn	.
 16dn	.
 16gn	.
 16a	.
-16ccn	.
+16ccnJJ	.
 =16	=16
-16c#	A7/C#
+16c#LL	A dominant/C#
 16gn	.
 16a	.
 16cc#	.
 16c#	.
 16gn	.
 16a	.
-16cc#	.
-16c#	.
+16cc#JJ	.
+16c#LL	.
 16gn	.
 16a	.
 16cc#	.
 16c#	.
 16gn	.
 16a	.
-16cc#	.
+16cc#JJ	.
 ==	==
 *-	*-

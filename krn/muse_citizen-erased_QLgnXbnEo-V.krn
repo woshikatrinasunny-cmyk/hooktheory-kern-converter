@@ -15,69 +15,69 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	F
+4r	F major
 4ff	.
 4ff	.
-4ff[	.
+[4ff	.
 =2	=2
-2ff]	C
+2ff]	C major
 2gg	.
 =3	=3
-2gg#	E
+2gg#	E major
 4r	.
-8ee	.
-8ee[	.
+8eeL	.
+[8eeJ	.
 =4	=4
-8ee]	Am
+8ee]	A minor
 4cc	.
-8dd[	.
-2dd]	G
+[8dd	.
+2dd]	G major
 =5	=5
-8cc	F
+8cc	F major
 4.cc	.
 2r	.
 =6	=6
-4r	C
+4r	C major
 8cc	.
 4cc	.
-4.dd[	.
+[4.dd	.
 =7	=7
-4.dd]	E
+4.dd]	E major
 4b	.
 8a	.
 4b	.
 =8	=8
-8a	E
+8a	E major
 2..g#	.
 =9	=9
-4r	F
+4r	F major
 4ff	.
 4ff	.
-4ff[	.
+[4ff	.
 =10	=10
-2ff]	C
+2ff]	C major
 2gg	.
 =11	=11
-2gg#	E
+2gg#	E major
 4r	.
-8ee	.
-8ee[	.
+8eeL	.
+[8eeJ	.
 =12	=12
-8ee]	Am
+8ee]	A minor
 4cc	.
-8dd[	.
-2dd]	G
+[8dd	.
+2dd]	G major
 =13	=13
-8cc	F
+8cc	F major
 4.cc	.
 2r	.
 =14	=14
-4r	C
+4r	C major
 2cc	.
-4dd[	.
+[4dd	.
 =15	=15
-1dd]	E
+1dd]	E major
 =16	=16
-1ee	E
+1ee	E major
 ==	==
 *-	*-

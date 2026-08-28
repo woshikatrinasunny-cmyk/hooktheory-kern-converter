@@ -16,7 +16,7 @@
 *A:	*
 *M4/4	*
 =1	=1
-4A	A
+4A	A major
 4cc#	.
 4r	.
 4cc#	.
@@ -26,17 +26,17 @@
 4r	.
 4cc#	.
 =3	=3
-4c#	C#7
+4c#	C# dominant
 4b	.
 4r	.
 4b	.
 =4	=4
-4d	D7
+4d	D dominant
 4ccn	.
-4B	B7
+4B	B dominant
 4a	.
 =5	=5
-4A	A
+4A	A major
 4a	.
 4r	.
 4cc#	.
@@ -48,23 +48,23 @@
 4.a	.
 4a	.
 =8	=8
-4g#	C#m/G#
+4g#	C# minor/G#
 4g#	.
 4g#	.
 4f#	.
 =9	=9
-4r	C#7
+4r	C# dominant
 4c#	.
 4fn	.
-8fn	.
-8f#[	.
+8fnL	.
+[8f#J	.
 =10	=10
-4f#]	D7
+4f#]	D dominant
 4cn	.
-4B	B7
+4B	B dominant
 4B	.
 =11	=11
-4r	A
+4r	A major
 16B	.
 6...c#	.
 4.r	.
@@ -77,125 +77,125 @@
 4.a	.
 4a	.
 =14	=14
-4g#	C#m/G#
+4g#	C# minor/G#
 4g#	.
 4b	.
 4a	.
 =15	=15
-8c#	C#7
+8c#	C# dominant
 4.c#	.
 4fn	.
 4g#	.
 =16	=16
-4f#	D7
+4f#	D dominant
 4B	.
-4B	B7
+4B	B dominant
 4B	.
 =17	=17
-4r	A
+4r	A major
 16B	.
 6...c#	.
 4.r	.
 =18	=18
 1r	.
 =19	=19
-2c#	C#7
+2c#	C# dominant
 2fn	.
 =20	=20
-4f#	D7
-8e	.
-8B[	.
-4.B]	B7
+4f#	D dominant
+8eL	.
+[8BJ	.
+4.B]	B dominant
 8A	.
 =21	=21
-4B	G
+4B	G major
 8B	.
 4.B	.
 4A	.
 =22	=22
-8c#	F#7
+8c#	F# dominant
 4.e	.
 4f#	.
-8a	.
-8f#[	.
+8aL	.
+[8f#J	.
 =23	=23
-4f#]	Bm
+4f#]	B minor
 8c#	.
 4.B	.
 4A	.
 =24	=24
-4B	D7
+4B	D dominant
 8cn	.
 4.B	.
 4A	.
 =25	=25
-4r	C#7
+4r	C# dominant
 2c#	.
 4e	.
 =26	=26
-4.f#	D7
-8e[	.
-4e]	B7
-16B	.
-8.A[	.
+4.f#	D dominant
+[8e	.
+4e]	B dominant
+16BLK	.
+[8.AJ	.
 =27	=27
-4.A]	A
+4.A]	A major
 8A	.
 2c#	.
 =28	=28
 2..r	.
 8A	.
 =29	=29
-4B	G7
+4B	G dominant
 8B	.
 4.B	.
 4A	.
 =30	=30
-8c#	F#7
+8c#	F# dominant
 4.e	.
 4f#	.
-8a	.
-8b[	.
+8aL	.
+[8bJ	.
 =31	=31
-4b]	Bm
+4b]	B minor
 8f#	.
 8.e	.
 6...d	.
-8e[	.
+[8e	.
 =32	=32
-8e]	D7
+8e]	D dominant
 4.f#	.
 4A	.
-8B	.
-8A	.
+8BL	.
+8AJ	.
 =33	=33
-4.r	C#7
+4.r	C# dominant
 4.c#	.
 4e	.
 =34	=34
-4.f#	D7
-8e[	.
-4e]	B7
-16B	.
-8.A[	.
+4.f#	D dominant
+[8e	.
+4e]	B dominant
+16BLK	.
+[8.AJ	.
 =35	=35
-4A]	A
+4A]	A major
 4A	.
 2A	.
 =36	=36
 1r	.
 =37	=37
-2c#	C#7
+2c#	C# dominant
 4fn	.
-8g#	.
-8f#[	.
+8g#L	.
+[8f#J	.
 =38	=38
-4f#]	D7
-8cn	.
-8B[	.
-2B]	B7
+4f#]	D dominant
+8cnL	.
+[8BJ	.
+2B]	B dominant
 =39	=39
-2A	A
+2A	A major
 2r	.
 =40	=40
 1r	.

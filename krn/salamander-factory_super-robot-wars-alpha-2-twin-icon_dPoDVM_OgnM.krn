@@ -16,25 +16,25 @@
 *f#:	*
 *M3/4	*
 =1	=1
-8.r	F#m
+8.r	F# minor
 8.f#	.
 8.g#	.
 8.a	.
 =2	=2
-4.B	Bm
-8.c#	C#
-8.d	G#dim/D
+4.B	B minor
+8.c#	C# major
+8.d	G# diminished/D
 =3	=3
-8.aa#	Edim
+8.aa#	E diminished
 8.ee	.
 8.ff#	.
 8.ggn	.
 =4	=4
-4.ccn	D#dim
+4.ccn	D# diminished
 8.dd	.
 8.dd#	.
 =5	=5
-8.r	G#dim/D
+8.r	G# diminished/D
 8gg#	.
 16r	.
 8ggn	.
@@ -42,11 +42,11 @@
 8ffn	.
 16r	.
 =6	=6
-4.g#	G#dim
+4.g#	G# diminished
 8.gn	.
 8.fn	.
 =7	=7
-8.r	C#dim
+8.r	C# diminished
 8ggn	.
 16r	.
 8ff#	.
@@ -54,7 +54,7 @@
 8ee	.
 16r	.
 =8	=8
-4.gn	C#dim/G
+4.gn	C# diminished/G
 8.f#	.
 8.e	.
 ==	==

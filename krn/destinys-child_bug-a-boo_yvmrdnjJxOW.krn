@@ -16,136 +16,136 @@
 *g#:	*
 *M4/4	*
 =1	=1
-16r	C#sus2
-16r	C#sus2
-16r	C#sus2
-16r	C#sus2
-16r	C#sus2
-16r	C#sus2
+16r	C# suspended-second
+16r	C# suspended-second
+16r	C# suspended-second
+16r	C# suspended-second
+16r	C# suspended-second
+16r	C# suspended-second
 16r	.
-16r	G#m
+16r	G# minor
 8.r	.
-16ee	.
+16eeLL	.
 16cc#	.
 16b	.
 16g#	.
-16f#	.
+16f#JJ	.
 =2	=2
-16cc#[	C#m/G#
-16cc#]	C#m/G#
-16b[	C#m/G#
-16b]	C#m/G#
-16cc#[	C#m/G#
-16cc#]	C#m/G#
+[16cc#LL	C# minor/G#
+16cc#]	C# minor/G#
+[16b	C# minor/G#
+16b]	C# minor/G#
+[16cc#	C# minor/G#
+16cc#]	C# minor/G#
 16b	.
-16cc#	G#m
+16cc#JJ	G# minor
 16r	.
-16b	.
+16bLK	.
 8dd#	.
-8dd#	.
+8dd#J	.
 16r	.
 16cc#	.
 =3	=3
-16r	C#sus2
-16cc#[	C#sus2
-16cc#]	C#sus2
-16b	C#sus2
-16cc#[	C#sus2
-16cc#]	C#sus2
+16r	C# suspended-second
+[16cc#LL	C# suspended-second
+16cc#]	C# suspended-second
+16b	C# suspended-second
+[16cc#	C# suspended-second
+16cc#JJ]	C# suspended-second
 16r	.
-16b	G#m
-16cc#	.
-16b	.
+16b	G# minor
+16cc#LL	.
+16bJ	.
 8dd#	.
-8b	.
+8bJ	.
 16r	.
-16cc#[	.
+[16cc#	.
 =4	=4
-16cc#]	C#m/G#
-16b[	C#m/G#
-16b]	C#m/G#
-16cc#[	C#m/G#
-16cc#]	C#m/G#
-16b[	C#m/G#
+16cc#LL]	C# minor/G#
+[16b	C# minor/G#
+16b]	C# minor/G#
+[16cc#	C# minor/G#
+16cc#]	C# minor/G#
+[16b	C# minor/G#
 16b]	.
-16cc#[	G#m
-16cc#]	.
+[16cc#JJ	G# minor
+16cc#LK]	.
 8b	.
 8dd#	.
-16b	.
+16bL	.
 16cc#	.
-16b	.
+16bJJ	.
 =5	=5
-16cc#	C#sus2
-16b	C#sus2
-16cc#[	C#sus2
-16cc#]	C#sus2
-16r	C#sus2
-16b	C#sus2
+16cc#LL	C# suspended-second
+16b	C# suspended-second
+[16cc#	C# suspended-second
+16cc#JJ]	C# suspended-second
+16r	C# suspended-second
+16bLL	C# suspended-second
 16cc#	.
-16b	G#m
+16bJJ	G# minor
 4g#	.
 16r	.
-16b	.
+16bLL	.
 16cc#	.
-16b	.
+16bJJ	.
 =6	=6
-16cc#[	C#m/G#
-16cc#]	C#m/G#
-16b[	C#m/G#
-16b]	C#m/G#
-16cc#[	C#m/G#
-16cc#]	C#m/G#
+[16cc#LL	C# minor/G#
+16cc#]	C# minor/G#
+[16b	C# minor/G#
+16b]	C# minor/G#
+[16cc#	C# minor/G#
+16cc#]	C# minor/G#
 16b	.
-16cc#	G#m
+16cc#JJ	G# minor
 16r	.
-16b	.
+16bLK	.
 8dd#	.
-8dd#	.
+8dd#J	.
 16r	.
 16cc#	.
 =7	=7
-16r	C#sus2
-16cc#[	C#sus2
-16cc#]	C#sus2
-16b	C#sus2
-16cc#[	C#sus2
-16cc#]	C#sus2
+16r	C# suspended-second
+[16cc#LL	C# suspended-second
+16cc#]	C# suspended-second
+16b	C# suspended-second
+[16cc#	C# suspended-second
+16cc#]	C# suspended-second
 16b	.
-16cc#	G#m
-16dd#	.
+16cc#JJ	G# minor
+16dd#LK	.
 8b	.
-16g#	.
+16g#Jk	.
 16r	.
-16b	.
+16bLL	.
 16cc#	.
-16b	.
+16bJJ	.
 =8	=8
-16cc#	C#m/G#
-16b	C#m/G#
-16cc#[	C#m/G#
-16cc#]	C#m/G#
-16r	C#m/G#
-16b	C#m/G#
+16cc#LL	C# minor/G#
+16b	C# minor/G#
+[16cc#	C# minor/G#
+16cc#JJ]	C# minor/G#
+16r	C# minor/G#
+16bLL	C# minor/G#
 16cc#	.
-16b	G#m
-16cc#	.
+16bJJ	G# minor
+16cc#LL	.
 16b	.
 16cc#	.
 16b	.
 16cc#	.
 16b	.
 16cc#	.
-16b	.
+16bJJ	.
 =9	=9
-16cc#	C#sus2
-16b	C#sus2
-16cc#	C#sus2
-16b	C#sus2
-16cc#	C#sus2
-16b	C#sus2
-16cc#[	.
-16cc#]	G#m
+16cc#LL	C# suspended-second
+16b	C# suspended-second
+16cc#	C# suspended-second
+16b	C# suspended-second
+16cc#	C# suspended-second
+16b	C# suspended-second
+[16cc#	.
+16cc#JJ]	G# minor
 4b	.
 4r	.
 ==	==

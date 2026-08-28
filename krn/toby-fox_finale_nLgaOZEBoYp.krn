@@ -16,10 +16,10 @@
 *f:	*
 *M4/4	*
 =1	=1
-8a-	B-m
+8a-	B- minor
 8r	.
-8a-	.
-8b-	.
+8a-L	.
+8b-J	.
 8cc	.
 8r	.
 8a-	.
@@ -27,31 +27,31 @@
 =2	=2
 8b-	.
 8r	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 8g	.
 8r	.
 8e-	.
 8r	.
 =3	=3
-8a-	A-/C
+8a-	A- major/C
 8r	.
-8a-	.
-8b-	.
+8a-L	.
+8b-J	.
 8cc	.
 8r	.
 8.aa-	.
 16r	.
 =4	=4
-4gg	Cm
+4gg	C minor
 4ee-	.
 4b-	.
 4g	.
 =5	=5
-8a-	D-
+8a-	D- major
 8r	.
-8a-	.
-8b-	.
+8a-L	.
+8b-J	.
 8cc	.
 8r	.
 8a-	.
@@ -59,17 +59,17 @@
 =6	=6
 8b-	.
 8r	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 8g	.
 8r	.
 8e-	.
 8r	.
 =7	=7
-8an	Dm
+8an	D minor
 8r	.
-8an	.
-8b-	.
+8anL	.
+8b-J	.
 8cc	.
 8r	.
 8ff	.
@@ -79,10 +79,10 @@
 4gg	.
 2ff	.
 =9	=9
-8a-	B-m
+8a-	B- minor
 8r	.
-8a-	.
-8b-	.
+8a-L	.
+8b-J	.
 8cc	.
 8r	.
 8a-	.
@@ -90,31 +90,31 @@
 =10	=10
 8b-	.
 8r	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 8g	.
 8r	.
 8e-	.
 8r	.
 =11	=11
-8a-	A-/C
+8a-	A- major/C
 8r	.
-8a-	.
-8b-	.
+8a-L	.
+8b-J	.
 8cc	.
 8r	.
 8.aa-	.
 16r	.
 =12	=12
-4gg	Fm/C
+4gg	F minor/C
 4ee-	.
 4b-	.
 4g	.
 =13	=13
-8a-	D-add(2,4,7)
+8a-	D- other-2,4,7
 8r	.
-8a-	.
-8b-	.
+8a-L	.
+8b-J	.
 8cc	.
 8r	.
 8a-	.
@@ -122,17 +122,17 @@
 =14	=14
 8b-	.
 8r	.
-8b-	.
-8cc	.
+8b-L	.
+8ccJ	.
 8g	.
 8r	.
 8e-	.
 8r	.
 =15	=15
-8an	Dadd(2,3,7)
+8an	D other-2,3,7
 8r	.
-8an	.
-8b-	.
+8anL	.
+8b-J	.
 8cc	.
 8r	.
 8ff	.

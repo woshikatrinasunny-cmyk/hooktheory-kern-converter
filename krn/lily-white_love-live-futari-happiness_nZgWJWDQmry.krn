@@ -16,86 +16,86 @@
 *F:	*
 *M12/8	*
 =1	=1
-8a	F
+8aL	F major
 8a	.
-8g	.
+8gJ	.
 4a	.
 8b-	.
-4cc	C/E
+4cc	C major/E
 8r	.
-8b-	.
+8b-L	.
 8a	.
-8g	.
+8gJ	.
 =2	=2
-8a	Dm
+8aL	D minor
 8a	.
-8g	.
+8gJ	.
 4a	.
 8b-	.
-4cc	Am
+4cc	A minor
 8r	.
-4g	Am7
+4g	A minor-seventh
 8f	.
 =3	=3
-3...f	B-
+3...f	B- major
 8d	.
-4.c	F/A
+4.c	F major/A
 8r	.
-8c	.
-8d	.
+8cL	.
+8dJ	.
 =4	=4
-8f	Gm7
+8fL	G minor-seventh
 8d	.
-8c	.
-8f	Bdim
+8cJ	.
+8fL	B diminished
 8d	.
-8c	.
-8f	F/C
+8cJ	.
+8fL	F major/C
 8g	.
-8a	.
-4g	C/E
+8aJ	.
+4g	C major/E
 8r	.
 =5	=5
-8a	F
+8aL	F major
 8a	.
-8g	.
+8gJ	.
 4a	.
 8b-	.
-4cc	C
+4cc	C major
 8g	.
 4g	.
 8r	.
 =6	=6
-8e	D-dim7
+8eL	D- diminished-seventh
 8f	.
-8g	.
-8b-	.
+8gJ	.
+8b-L	.
 8a	.
-8g	.
-4f	Dm
+8gJ	.
+4f	D minor
 8f	.
-4cc	F/C
-8f[	.
+4cc	F major/C
+[8f	.
 =7	=7
-2.f]	B-
-4r	Dm7/A
+2.f]	B- major
+4r	D minor-seventh/A
 8f	.
 4cc	.
-8b-[	.
+[8b-	.
 =8	=8
-3...b-]	Gm
+3...b-]	G minor
 8r	.
-4.e	Cadd(4,7,9)
-4g	C
+4.e	C other-4,7,9
+4g	C major
 8f	.
 =9	=9
-8g	F
-8f	.
-1f[	.
+8gL	F major
+8fJ	.
+[1f	.
 4f]	.
 =10	=10
 1r	.
 8r	.
-4.r	G7
+4.r	G dominant
 ==	==
 *-	*-

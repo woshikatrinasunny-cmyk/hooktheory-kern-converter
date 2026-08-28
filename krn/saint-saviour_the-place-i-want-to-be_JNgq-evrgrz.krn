@@ -16,38 +16,38 @@
 *d:	*
 *M4/4	*
 =1	=1
-2f	B-add(2,4,7)
+2f	B- other-2,4,7
 4.f	.
-8f[	.
+[8f	.
 =2	=2
-2f]	G7
+2f]	G dominant
 4.f	.
-8f[	.
+[8f	.
 =3	=3
-3...f]	F/A
-8c	.
+3...f]	F major/A
+8cL	.
 8a	.
-8f[	.
+[8fJ	.
 =4	=4
-2f]	Gm7/B-
-8e	B-
-8d	.
+2f]	G minor-seventh/B-
+8eL	B- major
+8dJ	.
 8r	.
-8f[	.
+[8f	.
 =5	=5
-4.f]	B-add(2,4,7)
+4.f]	B- other-2,4,7
 8r	.
 8f	.
 4g	.
-8g[	.
+[8g	.
 =6	=6
-1g_	G7
+1g_	G dominant
 =7	=7
 4g]	.
 4r	.
-8f	.
+8fL	.
 8e	.
 8d	.
-8f	.
+8fJ	.
 ==	==
 *-	*-

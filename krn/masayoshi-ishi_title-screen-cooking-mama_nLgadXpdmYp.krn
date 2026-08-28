@@ -16,63 +16,63 @@
 *B-:	*
 *M6/8	*
 =1	=1
-8.r	B-add(2,4,7,9)
+8.r	B- other-2,4,7,9
 8.b-	.
-8f	G7
-16g	.
+8fL	G dominant
+16gk	.
 8b-	.
-16f	.
+16fJk	.
 =2	=2
-8g	Cm9
+8g	C minor-ninth
 4b-	.
-8r	F7
-16dd	.
+8r	F dominant
+16ddLK	.
 8ee-	.
-16ff[	.
+[16ffJk	.
 =3	=3
-8.ff]	B-add(2,4,7,9)
-8.dd	.
-8.ee-	G7
-8.dd	.
+8.ffL]	B- other-2,4,7,9
+8.ddJ	.
+8.ee-L	G dominant
+8.ddJ	.
 =4	=4
-8b-	Cm9
+8b-L	C minor-ninth
 8.cc	.
-16a	.
-8b-	F7
-16a	.
+16aJk	.
+8b-L	F dominant
+16ak	.
 8g	.
-16a	.
+16aJk	.
 =5	=5
-8.f	B-add(2,4,7,9)
+8.f	B- other-2,4,7,9
 8.r	.
-8r	Ddim7
-16dd	.
+8r	D diminished-seventh
+16ddLK	.
 8b-	.
-16a-	.
+16a-Jk	.
 =6	=6
-8g	E-add(2,4,7,9)
-16b-	.
+8gL	E- other-2,4,7,9
+16b-k	.
 8dd	.
-16ee-	.
-8een	Edim7
-16dd-	.
+16ee-Jk	.
+8eenL	E diminished-seventh
+16dd-k	.
 8b-	.
-16g	.
+16gJk	.
 =7	=7
-8f[	Faug7
-16f]	.
+[8fL	F augmented-seventh
+16fJk]	.
 8.r	.
-8.dd-	Fadd(2,4,8,10)
+8.dd-	F other-2,4,8,10
 8.r	.
 =8	=8
 32r	.
 16.r	.
-16ff	.
+16ffLK	.
 8dd-	.
-16a	.
-8ff	.
-16dd-	.
+16aJk	.
+8ffL	.
+16dd-k	.
 8a	.
-16f	.
+16fJk	.
 ==	==
 *-	*-

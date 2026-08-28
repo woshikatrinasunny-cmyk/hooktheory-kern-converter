@@ -16,122 +16,122 @@
 *F#:	*
 *M3/4	*
 =1	=1
-4.r	B
-4.r	Badd(4,6)
+4.r	B major
+4.r	B other-4,6
 =2	=2
-4.r	C#dim
-4.r	C
+4.r	C# diminished
+4.r	C major
 =3	=3
-4.r	A#aug
-4.r	Ddim
+4.r	A# augmented
+4.r	D diminished
 =4	=4
-4.r	A#
-4.r	Ddim/E#
+4.r	A# major
+4.r	D diminished/E#
 =5	=5
-4.r	A#
-4.r	Ddim/E#
+4.r	A# major
+4.r	D diminished/E#
 =6	=6
-4.r	A#
-4.r	E#augMaj7
+4.r	A# major
+4.r	E# augmented-major-seventh
 =7	=7
-4.r	A7
-4.r	A/E
+4.r	A dominant
+4.r	A major/E
 =8	=8
-4.r	A7
-4.r	A/E
+4.r	A dominant
+4.r	A major/E
 =9	=9
-4.r	Aadd(1,4,10)
-4.r	F#aug7/E
+4.r	A other-1,4,10
+4.r	F# augmented-seventh/E
 =10	=10
-4.r	Adim/C
-4.r	G#
+4.r	A diminished/C
+4.r	G# major
 =11	=11
-4.r	Cdim
-4.r	G#
+4.r	C diminished
+4.r	G# major
 =12	=12
-4.r	Cdim
-4.r	G#
+4.r	C diminished
+4.r	G# major
 =13	=13
-4r	B
-8ff#[	.
-8ff#]	Badd(4,6,7)/F#
+4r	B major
+[8ff#L	.
+8ff#J]	B other-4,6,7/F#
 8r	.
-8ee#[	.
+[8ee#	.
 =14	=14
-8ee#]	Cmaj7/B
+8ee#]	C major-seventh/B
 8r	.
-8aa#[	.
-8aa#]	F#aug
+[8aa#L	.
+8aa#J]	F# augmented
 8r	.
-8ff#[	.
+[8ff#	.
 =15	=15
-8ff#]	B
+8ff#]	B major
 8r	.
-8dd#[	.
-8dd#]	F#add(2,8,11)
+[8dd#L	.
+8dd#J]	F# other-2,8,11
 8r	.
-8gg#[	.
+[8gg#	.
 =16	=16
-8gg#]	A#
+8gg#]	A# major
 8r	.
-8ee#[	.
-8ee#]	Ddim/G#
+[8ee#L	.
+8ee#J]	D diminished/G#
 8r	.
-8ddn[	.
+[8ddn	.
 =17	=17
-8ddn]	A#
+8ddn]	A# major
 8r	.
-8aa#[	.
-8aa#]	Ddim/E#
+[8aa#L	.
+8aa#J]	D diminished/E#
 8r	.
-8gg#[	.
+[8gg#	.
 =18	=18
-8gg#]	A#
+8gg#]	A# major
 8r	.
-8ee#[	.
-8ee#]	E#augMaj7
+[8ee#L	.
+8ee#J]	E# augmented-major-seventh
 8r	.
-8aan[	.
+[8aan	.
 =19	=19
-8aan]	A7
+8aan]	A dominant
 8r	.
-8ggn[	.
-8ggn]	A/E
+[8ggnL	.
+8ggnJ]	A major/E
 8r	.
-8cc#[	.
+[8cc#	.
 =20	=20
-8cc#]	A7
+8cc#]	A dominant
 8r	.
-8aan[	.
-8aan]	A/E
+[8aanL	.
+8aanJ]	A major/E
 8r	.
-8ggn[	.
+[8ggn	.
 =21	=21
-8ggn]	Aadd(1,4,10)
+8ggn]	A other-1,4,10
 8r	.
-8een[	.
-8een]	F#aug7/E
+[8eenL	.
+8eenJ]	F# augmented-seventh/E
 8r	.
-8gg#[	.
+[8gg#	.
 =22	=22
-8gg#]	Adim/C
+8gg#]	A diminished/C
 8r	.
-8ccn[	.
-8ccn]	G#
+[8ccnL	.
+8ccnJ]	G# major
 8r	.
-8ff#[	.
+[8ff#	.
 =23	=23
-8ff#]	Cdim
+8ff#]	C diminished
 8r	.
-8dd#[	.
-8dd#]	G#
+[8dd#L	.
+8dd#J]	G# major
 8r	.
-8gg#[	.
+[8gg#	.
 =24	=24
-8gg#]	Cdim
+8gg#]	C diminished
 8r	.
-8ff#[	.
-8ff#]	G#
+[8ff#L	.
+8ff#J]	G# major
 4r	.
 ==	==
 *-	*-

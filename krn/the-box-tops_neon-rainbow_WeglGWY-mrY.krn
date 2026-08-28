@@ -16,100 +16,100 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	C
-8c	.
-16e	.
-16g	.
+4r	C major
+8cL	.
+16eL	.
+16gJJ	.
 2g	.
 =2	=2
-4r	G/B
-8Bn	.
-16d	.
-16g	.
+4r	G major/B
+8BnL	.
+16dL	.
+16gJJ	.
 2g	.
 =3	=3
-4r	Gm/B-
-8e	.
-8g	.
+4r	G minor/B-
+8eL	.
+8gJ	.
 4.g	.
 8e	.
 =4	=4
-4a	A
+4a	A major
 4g	.
 2d	.
 =5	=5
-4r	F
-8a	.
-8cc	.
-8cc	.
-8cc	.
+4r	F major
+8aL	.
+8ccJ	.
+8ccL	.
+8ccJ	.
 4a	.
 =6	=6
-4b-	B-
+4b-	B- major
 4a	.
 4f	.
 4g	.
 =7	=7
-4r	F
-8a	.
-8cc	.
+4r	F major
+8aL	.
+8ccJ	.
 4.cc	.
 8a	.
 =8	=8
-4b-	B-
+4b-	B- major
 4a	.
 4f	.
 4g	.
 =9	=9
-4r	F
-8a	.
-8cc	.
+4r	F major
+8aL	.
+8ccJ	.
 4cc	.
 4a	.
 =10	=10
-4b-	B-
+4b-	B- major
 4a	.
 4f	.
 4g	.
 =11	=11
-4r	F
-8a	.
-8cc	.
+4r	F major
+8aL	.
+8ccJ	.
 4cc	.
 4a	.
 =12	=12
-4b-	B-
+4b-	B- major
 4a	.
 4f	.
 4g	.
 =13	=13
-8c	G
-8g	.
+8cL	G major
+8gJ	.
 4g	.
-2g[	.
+[2g	.
 =14	=14
-4.g]	G7
+4.g]	G dominant
 8g	.
-8g	.
-8a	.
+8gL	.
+8aJ	.
 4cc	.
 =15	=15
-4dd	C
+4dd	C major
 4.ee	.
 8dd	.
 4cc	.
 =16	=16
-4.ee	Em
+4.ee	E minor
 8cc	.
 4ee	.
 4dd	.
 =17	=17
-4dd	B-
+4dd	B- major
 4.ee	.
 8dd	.
 4cc	.
 =18	=18
-4ee	A7
+4ee	A dominant
 2.r	.
 ==	==
 *-	*-

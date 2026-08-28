@@ -16,34 +16,34 @@
 *C:	*
 *M4/4	*
 =1	=1
-4r	Dm
-8ff	.
-8ff	.
-8ff	Dadd(2,3,7)
+4r	D minor
+8ffL	.
+8ffJ	.
+8ffL	D other-2,3,7
 8ee	.
-16dd	.
+16ddJk	.
 16r	.
 8aa	.
 =2	=2
-6ee	G7sus4
-12cc	.
+6ee	G dominant-seventh-suspended-fourth
+12ccL	.
 12cc	.
 12dd	.
-12cc	.
-2b	G
+12ccJ	.
+2b	G major
 =3	=3
-4r	Dm7
-8ff	.
-8ff	.
-8ff	D7sus4
-8ee	.
-8r	Dm7
+4r	D minor-seventh
+8ffL	.
+8ffJ	.
+8ffL	D dominant-seventh-suspended-fourth
+8eeJ	.
+8r	D minor-seventh
 8dd	.
 =4	=4
-8cc	F
-16cc	.
+8ccL	F major
+16cck	.
 8cc	.
-16cc	.
-3...gg	G
+16ccJk	.
+3...gg	G major
 ==	==
 *-	*-

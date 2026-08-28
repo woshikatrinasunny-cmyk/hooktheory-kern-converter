@@ -16,28 +16,28 @@
 *d:	*
 *M6/4	*
 =1	=1
-2.dd[	Dm
-3...dd]	D-add(1,3,6)
-8ee[	.
+[2.dd	D minor
+3...dd]	D- other-1,3,6
+[8ee	.
 =2	=2
-8ee]	Dm
-8dd	.
+8eeL]	D minor
+8ddJ	.
 4cc	.
 4b-	.
-2a	Edim
-4cc[	.
+2a	E diminished
+[4cc	.
 =3	=3
-2cc]	F
-1a[	.
+2cc]	F major
+[1a	.
 =4	=4
 2.a]	.
 4a	.
 4a	.
-4a[	.
+[4a	.
 =5	=5
-4a]	Gm
+4a]	G minor
 1b-	.
-4e[	.
+[4e	.
 =6	=6
 4e]	.
 2f	.
@@ -45,12 +45,12 @@
 4f	.
 4g	.
 =7	=7
-4g	B-
+4g	B- major
 1a	.
-4e[	.
+[4e	.
 =8	=8
 4e]	.
-1f[	.
+[1f	.
 4f]	.
 ==	==
 *-	*-

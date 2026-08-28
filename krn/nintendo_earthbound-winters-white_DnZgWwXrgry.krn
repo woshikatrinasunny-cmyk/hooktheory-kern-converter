@@ -15,23 +15,23 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4ee	.
 4ee	.
 4ee	.
 =2	=2
-2dd#	B
+2dd#	B major
 4ee	.
 4ff#	.
 =3	=3
-1gg	Em
+1gg	E minor
 =4	=4
 4gg	.
 4ff#	.
 4ee	.
 4b	.
 =5	=5
-4a	A
+4a	A major
 4cc#	.
 4cc#	.
 4cc#	.
@@ -39,49 +39,49 @@
 2dd	.
 2ee	.
 =7	=7
-2ff#	D
-2ee	A/C#
+2ff#	D major
+2ee	A major/C#
 =8	=8
-2.dd	D7/C
-8gg	.
-8aa	.
+2.dd	D dominant/C
+8ggL	.
+8aaJ	.
 =9	=9
-2bb	G
-2aa	D/F#
+2bb	G major
+2aa	D major/F#
 =10	=10
-2.gg	G7/F
-8bb	.
-8ddd	.
+2.gg	G dominant/F
+8bbL	.
+8dddJ	.
 =11	=11
-2.ddd	G/B
-8ccc	.
-8bb	.
+2.ddd	G major/B
+8cccL	.
+8bbJ	.
 =12	=12
-2.aa	D
-8gg	.
-8aa	.
+2.aa	D major
+8ggL	.
+8aaJ	.
 =13	=13
-2.bb	G
+2.bb	G major
 4gg	.
 =14	=14
-2.ee	Em
-8bb	.
-8ddd	.
+2.ee	E minor
+8bbL	.
+8dddJ	.
 =15	=15
-2.ddd	G/B
-8ccc	.
-8bb	.
+2.ddd	G major/B
+8cccL	.
+8bbJ	.
 =16	=16
-2.aa	D
-8gg	.
-8aa	.
+2.aa	D major
+8ggL	.
+8aaJ	.
 =17	=17
-2gg[	C
-2gg]	C
+[2gg	C major
+2gg]	C major
 =18	=18
-4ff#[	B
-4ff#_	B
-4ff#_	B
-4ff#]	B
+[4ff#	B major
+4ff#_	B major
+4ff#_	B major
+4ff#]	B major
 ==	==
 *-	*-

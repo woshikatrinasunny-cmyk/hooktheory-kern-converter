@@ -16,55 +16,55 @@
 *d:	*
 *M6/4	*
 =1	=1
-4.dd	Dm
-4.dd	Dm
-4ff	Dm7/C
+4.dd	D minor
+4.dd	D minor
+4ff	D minor-seventh/C
 8gg	.
-4.aa	Dm7/C
+4.aa	D minor-seventh/C
 =2	=2
-4.ddd	Bm7b5
-4ddd	Gm7/B-
-8ccc[	.
-4ccc]	Am7
-8aa[	.
-4aa]	Am7
+4.ddd	B half-diminished
+4ddd	G minor-seventh/B-
+[8ccc	.
+4ccc]	A minor-seventh
+[8aa	.
+4aa]	A minor-seventh
 8gg	.
 =3	=3
-4ff	G9
+4ff	G dominant-ninth
 8dd	.
-4.ff	G9
-4ff	Aadd(1,4,7,10)
+4.ff	G dominant-ninth
+4ff	A other-1,4,7,10
 8dd	.
-4.ff	Aadd(1,4,7,10)
+4.ff	A other-1,4,7,10
 =4	=4
-4.dd	Dm
-4dd	Dm
-8ee[	.
-4ee]	E7
+4.dd	D minor
+4dd	D minor
+[8ee	.
+4ee]	E dominant
 8E	.
-4G-	E7
+4G-	E dominant
 8A-	.
 =5	=5
 *k[]	*
 *a:	*
-4.a	Am
-4.a	Am
-4cc	Am7/G
+4.a	A minor
+4.a	A minor
+4cc	A minor-seventh/G
 8dd	.
-4.ee	Am7/G
+4.ee	A minor-seventh/G
 =6	=6
-4.aa	F#m7b5
-4aa	Dm7/F
-8gg[	.
-4gg]	Em7
-8ee[	.
-4ee]	Em7
+4.aa	F# half-diminished
+4aa	D minor-seventh/F
+[8gg	.
+4gg]	E minor-seventh
+[8ee	.
+4ee]	E minor-seventh
 8dd	.
 =7	=7
-4cc	D7
+4cc	D dominant
 8a	.
-4.cc	Eadd(4,7,8,10)
-4.a	Am
+4.cc	E other-4,7,8,10
+4.a	A minor
 4AA	.
 8r	.
 ==	==

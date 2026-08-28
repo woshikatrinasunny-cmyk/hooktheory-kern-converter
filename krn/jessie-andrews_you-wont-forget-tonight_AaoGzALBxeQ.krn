@@ -16,7 +16,7 @@
 *c:	*
 *M4/4	*
 =1	=1
-8r	C7sus4
+8r	C dominant-seventh-suspended-fourth
 8C	.
 16r	.
 8C	.
@@ -25,18 +25,18 @@
 16r	.
 8C	.
 16r	.
-8C	Gm7
+8C	G minor-seventh
 =2	=2
 8r	.
-8GG	.
-8GG	.
+8GGL	.
+8GGJ	.
 16r	.
 8GG	.
 8r	.
-8GG	.
-16GG	.
-16AA	B-maj7sus2
-16D[	.
+8GGL	.
+16GGL	.
+16AA	B- major-seventh-suspended-second
+[16DJJ	.
 =3	=3
 16D]	.
 16r	.
@@ -48,11 +48,11 @@
 16r	.
 8BB-	.
 16r	.
-8BB-	B-maj7/F
+8BB-	B- major-seventh/F
 =4	=4
 8r	.
-8FF	.
-8FF	.
+8FFL	.
+8FFJ	.
 8r	.
 8FF	.
 16r	.
@@ -60,7 +60,7 @@
 16r	.
 8E-	.
 =5	=5
-8r	C7sus4
+8r	C dominant-seventh-suspended-fourth
 8C	.
 16r	.
 8C	.
@@ -69,18 +69,18 @@
 16r	.
 8C	.
 16r	.
-8C	Gm7
+8C	G minor-seventh
 =6	=6
 8r	.
-8GG	.
-8GG	.
+8GGL	.
+8GGJ	.
 16r	.
 8GG	.
 8r	.
-8GG	.
-16GG	.
-16AA	B-maj7sus2
-16D[	.
+8GGL	.
+16GGL	.
+16AA	B- major-seventh-suspended-second
+[16DJJ	.
 =7	=7
 16D]	.
 16r	.
@@ -92,11 +92,11 @@
 16r	.
 8BB-	.
 16r	.
-8BB-	B-maj7/F
+8BB-	B- major-seventh/F
 =8	=8
 8r	.
-8FF	.
-8FF	.
+8FFL	.
+8FFJ	.
 8r	.
 8FF	.
 16r	.

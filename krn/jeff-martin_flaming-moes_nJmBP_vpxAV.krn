@@ -16,144 +16,144 @@
 *F:	*
 *M4/4	*
 =1	=1
-16c	F
+16cLL	F major
 16c	.
-16c	.
+16cJ	.
 8.c	.
-8c	.
-8d	B-
-16e	.
+8cJ	.
+8dL	B- major
+16ek	.
 8.f	.
-16d	.
-16d	.
+16dL	.
+16dJJ	.
 =2	=2
-8c	C
-16c	.
+8cL	C major
+16ck	.
 8c	.
-8.B-	.
-4A	F
+8.B-J	.
+4A	F major
 4r	.
 =3	=3
-8c	.
-16c	.
-8.c	.
+8cL	.
+16ck	.
+8.cJ	.
 16r	.
 16c	.
-16d	B-
+16dLK	B- major
 8f	.
-8.f	.
+8.fJ	.
 16r	.
 16d	.
 =4	=4
-16f	Bdim
+16fLK	B diminished
 8.f	.
-16a	.
+16aL	.
 16g	.
 16f	.
-16g[	.
-4g]	C
-8.r	D-dim
+[16gJJ	.
+4g]	C major
+8.r	D- diminished
 16d	.
 =5	=5
-8f	Dm
+8fL	D minor
 8f	.
 8a	.
-16a	.
-16dd[	.
-8dd]	F/A
-16dd	.
+16aL	.
+[16ddJJ	.
+8ddL]	F major/A
+16ddk	.
 8.ff	.
-16dd	.
-16dd	.
+16ddL	.
+16ddJJ	.
 =6	=6
-8cc	B-
+8ccL	B- major
 8b-	.
 8b-	.
-16dd	.
-16cc[	.
-8.cc]	F/A
+16ddL	.
+[16ccJJ	.
+8.cc]	F major/A
 4r	.
 16B-	.
 =7	=7
-16b-	Gm7
+16b-LK	G minor-seventh
 8.b-	.
 8b-	.
-8b-	.
-8b-	.
-16a	.
+8b-J	.
+8b-L	.
+16ak	.
 8.g	.
-16f	.
-16g[	.
+16fL	.
+[16gJJ	.
 =8	=8
-2g]	C11
-4.r	C
+2g]	C dominant-11th
+4.r	C major
 8c	.
 =9	=9
-2a	F
-2cc	C/E
+2a	F major
+2cc	C major/E
 =10	=10
-4f	Dm
-8f	.
-8g	.
-8a	F/C
-16b-	.
+4f	D minor
+8fL	.
+8gJ	.
+8aL	F major/C
+16b-k	.
 8cc	.
-16dd	.
-8f	.
+16ddk	.
+8fJ	.
 =11	=11
-16b-	B-
+16b-LK	B- major
 8.a	.
 8g	.
-16f	.
-16f[	.
-8f]	F/A
+16fL	.
+[16fJJ	.
+8f]	F major/A
 6...r	.
 16d	.
 =12	=12
-8b-	B-
+8b-L	B- major
 8a	.
 8g	.
-16f	.
-16f[	.
-8f]	F/A
+16fL	.
+[16fJJ	.
+8f]	F major/A
 8r	.
-8f	Fdim/A-
-16e	.
-16d[	.
+8fL	F diminished/A-
+16eL	.
+[16dJJ	.
 =13	=13
-8d]	Gm7
+8d]	G minor-seventh
 16r	.
-16d	.
+16dLK	.
 8f	.
-16b-	.
-16a[	.
-16a]	C7
+16b-L	.
+[16aJJ	.
+16aLK]	C dominant
 8.g	.
 8f	.
-16e	D-dim7
-16f[	.
+16eL	D- diminished-seventh
+[16fJJ	.
 =14	=14
-2f]	Dm
-4r	F/A
-8f	.
-16e	.
-16d[	.
+2f]	D minor
+4r	F major/A
+8fL	.
+16eL	.
+[16dJJ	.
 =15	=15
-8d]	B-
+8d]	B- major
 16r	.
-16d	.
-8f	Gm
-16b-	.
-16a[	.
-16a]	C7sus4
+16dLK	.
+8f	G minor
+16b-L	.
+[16aJJ	.
+16aLK]	C dominant-seventh-suspended-fourth
 8.g	.
 8f	.
-16e	C7
-16f[	.
+16eL	C dominant
+[16fJJ	.
 =16	=16
-2f]	F
-8.r	C7
-8.r	F/C
-8r	C
+2f]	F major
+8.r	C dominant
+8.r	F major/C
+8r	C major
 ==	==
 *-	*-

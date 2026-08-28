@@ -16,29 +16,29 @@
 *B-:	*
 *M4/4	*
 =1	=1
-4.ddd	D7/A
-8ddd	D7/A
-8ddd	Gm
-8aa	D7
-8bb-	Gm/D
-8ccc	D7
+4.ddd	D dominant/A
+8ddd	D dominant/A
+8dddL	G minor
+8aa	D dominant
+8bb-	G minor/D
+8cccJ	D dominant
 =2	=2
-4.ddd	Gm
-8ddd	Gm7
-8ddd	C9
-8gg	C7
-8aa	F/C
-8bb-	C7
+4.ddd	G minor
+8ddd	G minor-seventh
+8dddL	C dominant-ninth
+8gg	C dominant
+8aa	F major/C
+8bb-J	C dominant
 =3	=3
-4.ddd	C9
-8ddd	C9
-8ddd	C9
-8gg	C7
-8aa	F/C
-8bb-	C7
+4.ddd	C dominant-ninth
+8ddd	C dominant-ninth
+8dddL	C dominant-ninth
+8gg	C dominant
+8aa	F major/C
+8bb-J	C dominant
 =4	=4
-2ddd	Dm/F
-4ccc	F7
-4ff	Fadd(4,10)
+2ddd	D minor/F
+4ccc	F dominant
+4ff	F other-4,10
 ==	==
 *-	*-

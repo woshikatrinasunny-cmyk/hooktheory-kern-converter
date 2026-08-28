@@ -16,68 +16,68 @@
 *f#:	*
 *M4/4	*
 =1	=1
-4r	F#m
+4r	F# minor
+8aL	.
+8aJ	.
+8aL	.
 8a	.
 8a	.
-8a	.
-8a	.
-8a	.
-8a	.
+8aJ	.
 =2	=2
-8g#	C#m/E
+8g#L	C# minor/E
 8a	.
-8g#	.
-4f#	Badd(2,3,7)
-8e	.
-8c#	A/C#
-8B	.
+8g#J	.
+4f#	B other-2,3,7
+8eL	.
+8c#	A major/C#
+8BJ	.
 =3	=3
-4r	Dmaj7
+4r	D major-seventh
+8aL	.
+8aJ	.
+8aL	.
 8a	.
 8a	.
-8a	.
-8a	.
-8a	.
-8a	.
+8aJ	.
 =4	=4
-8g#	C#m/G#
+8g#L	C# minor/G#
 8a	.
-8b	.
-4f#	C#sus4
-8c#	.
-8f#	E
-8cc#	.
+8bJ	.
+4f#	C# suspended-fourth
+8c#L	.
+8f#	E major
+8cc#J	.
 =5	=5
-4r	F#m
+4r	F# minor
+8aL	.
+8aJ	.
+8aL	.
 8a	.
 8a	.
-8a	.
-8a	.
-8a	.
-8a	.
+8aJ	.
 =6	=6
-8b	E/G#
+8bL	E major/G#
 8a	.
-8g#	.
-4f#	Dmaj7
-8e	.
-8c#	C#m
-8B	.
+8g#J	.
+4f#	D major-seventh
+8eL	.
+8c#	C# minor
+8BJ	.
 =7	=7
-4r	Badd(2,3,7)
+4r	B other-2,3,7
+8aL	.
+8aJ	.
+8aL	.
 8a	.
 8a	.
-8a	.
-8a	.
-8a	.
-8a	.
+8aJ	.
 =8	=8
-8g#	C#m
+8g#L	C# minor
 8a	.
-8b	.
+8bJ	.
 4f#	.
-8c#	.
-8f#	E
-8cc#	.
+8c#L	.
+8f#	E major
+8cc#J	.
 ==	==
 *-	*-

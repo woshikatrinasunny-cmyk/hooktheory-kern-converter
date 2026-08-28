@@ -16,141 +16,141 @@
 *A-:	*
 *M6/4	*
 =1	=1
-4b-	A-maj7
+4b-	A- major-seventh
 8.b-	.
 16r	.
 4r	.
-4b-	A-maj7
+4b-	A- major-seventh
 4.r	.
-8b-[	A-maj7
+[8b-	A- major-seventh
 =2	=2
 8.b-]	.
 8.cc	.
-8.cc	A-maj7
+8.cc	A- major-seventh
 8.cc	.
-4.ddn[	A-maj7
-8ddn]	A-maj7
-8cc	.
-8ddn	.
+[4.ddn	A- major-seventh
+8ddn]	A- major-seventh
+8ccL	.
+8ddnJ	.
 =3	=3
-4b-	A-maj7
+4b-	A- major-seventh
 8.b-	.
 16r	.
 4r	.
-4b-	A-maj7
+4b-	A- major-seventh
 4.r	.
-8b-[	A-maj7
+[8b-	A- major-seventh
 =4	=4
 8.b-]	.
 8.ee-	.
-8.ddn	A-maj7
+8.ddn	A- major-seventh
 8.cc	.
-16ee-	A-maj7
+16ee-LL	A- major-seventh
 16ff	.
-16ddn	.
+16ddnJJ	.
 8.cc	.
-4cc	A-maj7
+4cc	A- major-seventh
 8ddn	.
 =5	=5
-2an	Gadd(2,5,7)
+2an	G other-2,5,7
 4r	.
-4an	Gadd(2,5,7)
+4an	G other-2,5,7
 4.r	.
-8an[	Gadd(2,5,7)
+[8an	G other-2,5,7
 =6	=6
 4an]	.
-8f	.
-8g	Gadd(2,5,7)
-4an[	.
-4.an]	Gadd(2,5,7)
-8an	Gadd(2,5,7)
-8cc	.
-8an	.
+8fL	.
+8gJ	G other-2,5,7
+[4an	.
+4.an]	G other-2,5,7
+8an	G other-2,5,7
+8ccL	.
+8anJ	.
 =7	=7
-2an	Gadd(2,5,7)
+2an	G other-2,5,7
 4r	.
-4an	Gadd(2,5,7)
+4an	G other-2,5,7
 4.r	.
-8an[	Gadd(2,5,7)
+[8an	G other-2,5,7
 =8	=8
 4an]	.
-8an[	.
-16an]	Gadd(2,5,7)
-16an	.
-16b-	.
+[8anL	.
+16anL]	G other-2,5,7
+16anJJ	.
+16b-LK	.
 8bn	.
-16cc[	.
-8cc]	Gadd(2,5,7)
+[16ccJk	.
+8cc]	G other-2,5,7
 8.cc	.
-16cc[	.
-8cc]	Gadd(2,5,7)
-8cc	.
-8bn	.
+[16ccLK	.
+8ccJ]	G other-2,5,7
+8ccL	.
+8bnJ	.
 =9	=9
-2a-	G-maj7
+2a-	G- major-seventh
 4r	.
-4a-	G-maj7
+4a-	G- major-seventh
 4.r	.
-8a-[	G-maj7
+[8a-	G- major-seventh
 =10	=10
 4a-]	.
-8a-	.
-8b-	G-maj7
-8a-	.
-8b-[	.
-4.b-]	G-maj7
-8a-	G-maj7
-8b-	.
-8a-	.
+8a-L	.
+8b-J	G- major-seventh
+8a-L	.
+[8b-J	.
+4.b-]	G- major-seventh
+8a-	G- major-seventh
+8b-L	.
+8a-J	.
 =11	=11
-2a-	G-maj7
+2a-	G- major-seventh
 4r	.
-4a-	G-maj7
+4a-	G- major-seventh
 4.r	.
-8a-	G-maj7
+8a-	G- major-seventh
 =12	=12
-8cc	.
-8bn	.
-8b-[	.
-8b-]	G-maj7
-8b-	.
-8an	.
-4a-	G-maj7
-8a-	.
-8b-	G-maj7
-8a-	.
-8b-	.
+8ccL	.
+8bnJ	.
+[8b-L	.
+8b-J]	G- major-seventh
+8b-L	.
+8anJ	.
+4a-	G- major-seventh
+8a-L	.
+8b-J	G- major-seventh
+8a-L	.
+8b-J	.
 =13	=13
-2g	Fadd(2,5,7)
+2g	F other-2,5,7
 4r	.
-4g	Fadd(2,5,7)
+4g	F other-2,5,7
 4.r	.
-8g[	Fadd(2,5,7)
+[8g	F other-2,5,7
 =14	=14
-8.g]	.
-16An	.
+8.gL]	.
+16AnJk	.
 8B-	.
-4b-	Fadd(2,5,7)
-8a-[	.
-4a-]	Fadd(2,5,7)
-8f[	.
-8f]	Fadd(2,5,7)
+4b-	F other-2,5,7
+[8a-	.
+4a-]	F other-2,5,7
+[8fL	.
+8fJ]	F other-2,5,7
 4c	.
 =15	=15
-2g-	Emaj7
+2g-	E major-seventh
 8r	.
 8Bn	.
-4a-	Emaj7
-8Bn	.
-8En[	.
-8En]	.
-8f[	E-m7
+4a-	E major-seventh
+8BnL	.
+[8EnJ	.
+8EnL]	.
+[8fJ	E- minor-seventh
 =16	=16
 4.f_	.
-4f]	E-m7
-4.bn	E
-8bn	E
-4dd-	G-m
-8dd-	Gdim
+4f]	E- minor-seventh
+4.bn	E major
+8bn	E major
+4dd-	G- minor
+8dd-	G diminished
 ==	==
 *-	*-

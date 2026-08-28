@@ -16,99 +16,99 @@
 *d:	*
 *M4/4	*
 =1	=1
-8r	D
+8r	D major
 8dd	.
 4dd	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 4dd	.
 =2	=2
-4cc	F
+4cc	F major
 8cc	.
 4.a	.
 4r	.
 =3	=3
-8cc	C
+8cc	C major
 8r	.
 8cc	.
 4.g	.
 4r	.
 =4	=4
-4b	G
+4b	G major
 8b	.
 4b	.
-8cc	.
+8ccL	.
 8b	.
-8a	.
+8aJ	.
 =5	=5
-4r	D
+4r	D major
 4dd	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 4dd	.
 =6	=6
-4cc	F
+4cc	F major
 8cc	.
 4.a	.
 4r	.
 =7	=7
-4cc	C
+4cc	C major
 8cc	.
 4.g	.
 4r	.
 =8	=8
-4b	G
+4b	G major
 8b	.
 4b	.
-8cc	.
+8ccL	.
 8b	.
-8a	.
+8aJ	.
 =9	=9
-4r	A#
+4r	A# major
 4dd	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8cc[	.
+[8ccJ	.
 =10	=10
-4cc]	F
+4cc]	F major
 8cc	.
 4.a	.
-8f	.
-8g[	.
+8fL	.
+[8gJ	.
 =11	=11
-4g]	C
+4g]	C major
 8f	.
 4.g	.
-8f	.
-8g[	.
+8fL	.
+[8gJ	.
 =12	=12
-4g]	C
+4g]	C major
 8r	.
-4.r	D
-4r	C
+4.r	D major
+4r	C major
 =13	=13
-4r	A#
+4r	A# major
 4dd	.
+8ddL	.
 8dd	.
 8dd	.
-8dd	.
-8cc[	.
+[8ccJ	.
 =14	=14
-4cc]	F
+4cc]	F major
 8cc	.
 4.a	.
-8f	.
-8g[	.
+8fL	.
+[8gJ	.
 =15	=15
-4g]	C
+4g]	C major
 8f	.
 4.g	.
-8f	.
-8g[	.
+8fL	.
+[8gJ	.
 =16	=16
-4g]	C
+4g]	C major
 8r	.
-3...r	A
+3...r	A major
 ==	==
 *-	*-

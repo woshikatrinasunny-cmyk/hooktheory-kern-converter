@@ -16,63 +16,63 @@
 *c:	*
 *M4/4	*
 =1	=1
-4.r	C
+4.r	C major
 8g	.
-8g	.
+8gL	.
 8f	.
 8en	.
-16f	.
-16g[	.
+16fL	.
+[16gJJ	.
 =2	=2
-4g]	C
+4g]	C major
 16r	.
+16gLL	.
 16g	.
-16g	.
-16g	.
+16gJJ	.
+8gL	.
 8g	.
 8g	.
-8g	.
-16g	.
-16f[	.
+16gL	.
+[16fJJ	.
 =3	=3
-4.f]	A-add(2,4,7)
+4.f]	A- other-2,4,7
 16e-	.
-2c[	.
+[2c	.
 16c]	.
 =4	=4
-3...r	A-
+3...r	A- major
 16r	.
-16c	.
+16cLL	.
 16c	.
 16c	.
 16e-	.
-16g[	.
+[16gJJ	.
 =5	=5
-16g]	E-maj7
-16f	.
+16gLL]	E- major-seventh
+16fJJ	.
 4.e-	.
 4.r	.
-16e-	.
-16e-[	.
+16e-LL	.
+[16e-JJ	.
 =6	=6
-16e-]	E-maj7
-8c	.
+16e-LK]	E- major-seventh
+8cJ	.
 8r	.
+16cLL	.
 16c	.
-16c	.
-16c	.
+16cJJ	.
 8e-	.
 4e-	.
 8f	.
 =7	=7
-4g	Gsus4
+4g	G suspended-fourth
 2.r	.
 =8	=8
-4..r	G
+4..r	G major
 8g	.
-8g	.
+8gL	.
 8.f	.
-16e-	.
-16c	.
+16e-L	.
+16cJJ	.
 ==	==
 *-	*-

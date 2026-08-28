@@ -16,130 +16,130 @@
 *g:	*
 *M4/4	*
 =1	=1
-8g	Gm
-8d	.
-4g	Gm
-4r	Gm
-8d	Gm
-8d-[	.
+8gL	G minor
+8dJ	.
+4g	G minor
+4r	G minor
+8dL	G minor
+[8d-J	.
 =2	=2
-8d-]	A7/G
-8d	.
-4r	A7/G
-4r	A-maj7/G
-4r	A-maj7/G
+8d-L]	A dominant/G
+8dJ	.
+4r	A dominant/G
+4r	A- major-seventh/G
+4r	A- major-seventh/G
 =3	=3
-8g	Gm
+8gL	G minor
 8a	.
-8b-	Gm
-8cc	.
-8dd	Gm
+8b-	G minor
+8ccJ	.
+8ddL	G minor
 8b-	.
-8b-	Gm
-8dd-[	.
+8b-	G minor
+[8dd-J	.
 =4	=4
-8dd-]	A7/G
+8dd-]	A dominant/G
 8r	.
-8a	A7/G
-8cc[	.
-8cc]	A-maj7/G
+8aL	A dominant/G
+[8ccJ	.
+8ccL]	A- major-seventh/G
 8b-	.
-8a-	A-maj7/G
-8g	.
+8a-	A- major-seventh/G
+8gJ	.
 =5	=5
-8g	Gm
-8d	.
-4g	Gm
-4r	Gm
-8d	Gm
-8d-[	.
+8gL	G minor
+8dJ	.
+4g	G minor
+4r	G minor
+8dL	G minor
+[8d-J	.
 =6	=6
-8d-]	A7/G
-8d	.
-4r	A7/G
-4r	A-maj7/G
-4r	A-maj7/G
+8d-L]	A dominant/G
+8dJ	.
+4r	A dominant/G
+4r	A- major-seventh/G
+4r	A- major-seventh/G
 =7	=7
-8g	Gm
+8gL	G minor
 8a	.
-8b-	Gm
-8cc	.
-8dd	Gm
+8b-	G minor
+8ccJ	.
+8ddL	G minor
 8b-	.
-8b-	Gm
-8dd-[	.
+8b-	G minor
+[8dd-J	.
 =8	=8
-8dd-]	A7/G
+8dd-]	A dominant/G
 8r	.
-8a	A7/G
-8cc[	.
-8cc]	A-maj7/G
+8aL	A dominant/G
+[8ccJ	.
+8ccL]	A- major-seventh/G
 8b-	.
-8a-	A-maj7/G
-8g	.
+8a-	A- major-seventh/G
+8gJ	.
 =9	=9
 *k[b-e-a-]	*
 *c:	*
-8cc	Cm
-8g	.
-4cc	Cm
-4r	Cm
-8g	Cm
-8g-[	.
+8ccL	C minor
+8gJ	.
+4cc	C minor
+4r	C minor
+8gL	C minor
+[8g-J	.
 =10	=10
-8g-]	D7/C
-8g	.
-4r	D7/C
-4r	D-maj7/C
-4r	D-maj7/C
+8g-L]	D dominant/C
+8gJ	.
+4r	D dominant/C
+4r	D- major-seventh/C
+4r	D- major-seventh/C
 =11	=11
-8cc	Cm
+8ccL	C minor
 8dd	.
-8ee-	Cm
-8ff	.
-8gg	Cm
+8ee-	C minor
+8ffJ	.
+8ggL	C minor
 8ee-	.
-8ee-	Cm
-8gg-[	.
+8ee-	C minor
+[8gg-J	.
 =12	=12
-8gg-]	D7/C
+8gg-]	D dominant/C
 8r	.
-8dd	D7/C
-8ff[	.
-8ff]	D-maj7/C
+8ddL	D dominant/C
+[8ffJ	.
+8ffL]	D- major-seventh/C
 8ee-	.
-8dd-	D-maj7/C
-8cc	.
+8dd-	D- major-seventh/C
+8ccJ	.
 =13	=13
-8cc	Cm
-8g	.
-4cc	Cm
-4r	Cm
-8g	Cm
-8g-[	.
+8ccL	C minor
+8gJ	.
+4cc	C minor
+4r	C minor
+8gL	C minor
+[8g-J	.
 =14	=14
-8g-]	D7/C
-8g	.
-4r	D7/C
-4r	D-maj7/C
-4r	D-maj7/C
+8g-L]	D dominant/C
+8gJ	.
+4r	D dominant/C
+4r	D- major-seventh/C
+4r	D- major-seventh/C
 =15	=15
-8cc	Cm
+8ccL	C minor
 8dd	.
-8ee-	Cm
-8ff	.
-8gg	Cm
+8ee-	C minor
+8ffJ	.
+8ggL	C minor
 8ee-	.
-8ee-	Cm
-8gg-[	.
+8ee-	C minor
+[8gg-J	.
 =16	=16
-8gg-]	D7/C
+8gg-]	D dominant/C
 8r	.
-8dd	D7/C
-8ff[	.
-8ff]	D-maj7/C
+8ddL	D dominant/C
+[8ffJ	.
+8ffL]	D- major-seventh/C
 8ee-	.
-8dd-	D-maj7/C
-8cc	.
+8dd-	D- major-seventh/C
+8ccJ	.
 ==	==
 *-	*-

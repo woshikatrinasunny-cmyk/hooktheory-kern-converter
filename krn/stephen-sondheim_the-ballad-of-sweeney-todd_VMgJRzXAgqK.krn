@@ -16,106 +16,106 @@
 *f#:	*
 *M6/4	*
 =1	=1
-4F#	F#add(2,3,7)
+4F#	F# other-2,3,7
 8G#	.
-4A	F#add(2,3,7)
+4A	F# other-2,3,7
 8F#	.
-4G#	F#add(2,3,7)
+4G#	F# other-2,3,7
 8E	.
-4F#	F#add(2,3,7)
+4F#	F# other-2,3,7
 8c#	.
 =2	=2
-4f#	F#add(2,3,7)
+4f#	F# other-2,3,7
 8g#	.
-4a	F#add(2,3,7)
+4a	F# other-2,3,7
 8f#	.
-4g#	F#add(2,3,7)
+4g#	F# other-2,3,7
 8e	.
-4f#	F#add(2,3,7)
+4f#	F# other-2,3,7
 8r	.
 =3	=3
-4.r	C#sus4
-4.r	Eadd(2,5,7)
-4.r	Gmaj7
-4r	Esus2
+4.r	C# suspended-fourth
+4.r	E other-2,5,7
+4.r	G major-seventh
+4r	E suspended-second
 8C#	.
 =4	=4
-4F#	F#add(2,3,7)
-8G#	.
-8A	F#add(2,3,7)
-8G#	.
-8F#	.
-4G#	F#add(2,3,7)
+4F#	F# other-2,3,7
+8G#L	.
+8AJ	F# other-2,3,7
+8G#L	.
+8F#J	.
+4G#	F# other-2,3,7
 8E	.
-4F#	F#add(2,3,7)
+4F#	F# other-2,3,7
 8c#	.
 =5	=5
-4f#	F#add(2,3,7)
-8g#	.
-8a	F#add(2,3,7)
-8g#	.
-8f#	.
-4g#	F#add(2,3,7)
+4f#	F# other-2,3,7
+8g#L	.
+8aJ	F# other-2,3,7
+8g#L	.
+8f#J	.
+4g#	F# other-2,3,7
 8e	.
-4f#	F#add(2,3,7)
+4f#	F# other-2,3,7
 8r	.
 =6	=6
-4.r	C#sus4
-4.r	Eadd(2,5,7)
-4.r	Gmaj7
-4r	Esus2
+4.r	C# suspended-fourth
+4.r	E other-2,5,7
+4.r	G major-seventh
+4r	E suspended-second
 8F#	.
 =7	=7
-4A	F#m/A
-8B	.
-8c#	F#sus2
-8B	.
-8A	.
-4B	F#m/A
+4A	F# minor/A
+8BL	.
+8c#J	F# suspended-second
+8BL	.
+8AJ	.
+4B	F# minor/A
 8G#	.
-4A	F#m
+4A	F# minor
 8F#	.
 =8	=8
-8G#	Dadd(2,6,7)
-8A	.
-8G#	.
-8F#	Dadd(2,6,7)
-8E	.
-8C#	.
-8BB	Dadd(2,6,7)
-8C#	.
+8G#L	D other-2,6,7
+8AJ	.
+8G#L	.
+8F#J	D other-2,6,7
+8EL	.
+8C#J	.
+8BBL	D other-2,6,7
+8C#J	.
 8AA	.
-4.r	Dadd(2,6,7)
+4.r	D other-2,6,7
 =9	=9
-4.r	Dadd(2,6,7)
-4.r	Dadd(2,6,7)
-4.r	Dadd(2,6,7)
-4r	Dadd(2,6,7)
+4.r	D other-2,6,7
+4.r	D other-2,6,7
+4.r	D other-2,6,7
+4r	D other-2,6,7
 8D	.
 =10	=10
-4C#	Gadd(6,7)
+4C#	G other-6,7
 8r	.
-4BB	Gadd(6,7)
+4BB	G other-6,7
 8r	.
-4.r	Gadd(6,7)
-4.r	Gadd(6,7)
+4.r	G other-6,7
+4.r	G other-6,7
 =11	=11
-4.r	Gadd(6,7)
-4.r	Gadd(6,7)
-4.r	Gadd(6,7)
-4r	Gadd(6,7)
+4.r	G other-6,7
+4.r	G other-6,7
+4.r	G other-6,7
+4r	G other-6,7
 8D	.
 =12	=12
-4C#	C#7
+4C#	C# dominant
 8AA	.
-4BB	C#7
+4BB	C# dominant
 8r	.
-4.r	C#7
-4.r	C#7
+4.r	C# dominant
+4.r	C# dominant
 =13	=13
-4.r	C#7
-4.r	C#7
-4.r	C#7
-4.r	C#7
+4.r	C# dominant
+4.r	C# dominant
+4.r	C# dominant
+4.r	C# dominant
 ==	==
 *-	*-

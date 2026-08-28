@@ -16,128 +16,128 @@
 *c:	*
 *M6/4	*
 =1	=1
-4ee-	A-
+4ee-	A- major
 4dd	.
 4g	.
-4ee-	G
+4ee-	G major
 4dd	.
 4g	.
 =2	=2
-4ee-	Cm
+4ee-	C minor
 4dd	.
 4g	.
-2f	Fadd(2,3,7)
+2f	F other-2,3,7
 4r	.
 =3	=3
-4ee-	A-
+4ee-	A- major
 4g	.
 4g	.
-4ff	G
+4ff	G major
 4g	.
 4g	.
 =4	=4
-4cc	Cm
+4cc	C minor
 8b-	.
 4g	.
 8d	.
-4c	Fadd(2,3,7)
+4c	F other-2,3,7
 4g	.
 4g	.
 =5	=5
-4ee-	A-
+4ee-	A- major
 4dd	.
 4g	.
-4ee-	G
+4ee-	G major
 4dd	.
 4g	.
 =6	=6
-4c	Cm
+4c	C minor
 4e-	.
 4g	.
-2f	Fadd(2,3,7)
+2f	F other-2,3,7
 4r	.
 =7	=7
-8g	A-
+8g	A- major
 4ee-	.
 8g	.
 4g	.
-8g	G
+8g	G major
 4ff	.
 8g	.
 4g	.
 =8	=8
-4cc	Cm
+4cc	C minor
 8b-	.
 4g	.
 8d	.
-4c	Fadd(2,3,7)
+4c	F other-2,3,7
 4g	.
 4g	.
 =9	=9
-4ee-	A-
+4ee-	A- major
 4dd	.
 4g	.
-4ee-	G
+4ee-	G major
 4dd	.
 4g	.
 =10	=10
-4ee-	Cm
+4ee-	C minor
 4dd	.
 4g	.
-2f	Fadd(2,3,7)
+2f	F other-2,3,7
 4r	.
 =11	=11
-4ee-	A-
+4ee-	A- major
 4g	.
 4g	.
-4ff	G
+4ff	G major
 4g	.
 4g	.
 =12	=12
-4cc	Cm
+4cc	C minor
 8b-	.
 4g	.
 8d	.
-4c	Fadd(2,3,7)
+4c	F other-2,3,7
 4g	.
 4g	.
 =13	=13
-4ee-	A-
+4ee-	A- major
 4dd	.
 4g	.
-4ee-	G
+4ee-	G major
 4dd	.
 4g	.
 =14	=14
-4c	Cm
+4c	C minor
 4e-	.
 4g	.
-2f	Fadd(2,3,7)
+2f	F other-2,3,7
 4r	.
 =15	=15
-8g	Cm/G
+8g	C minor/G
 4cc	.
 8g	.
 4g	.
-8f	B-/F
+8f	B- major/F
 4b-	.
 8f	.
 4f	.
 =16	=16
-4cc	A-/E-
+4cc	A- major/E-
 8b-	.
 4g	.
 8e-	.
-8d-	D-
+8d-	D- major
 4a-	.
 4a-	.
 8a-	.
 =17	=17
-8cc	.
-8dd-	.
-8cc	.
-8dd-	.
-8cc	.
-8dd-	.
+8ccL	.
+8dd-J	.
+8ccL	.
+8dd-J	.
+8ccL	.
+8dd-J	.
 ==	==
 *-	*-

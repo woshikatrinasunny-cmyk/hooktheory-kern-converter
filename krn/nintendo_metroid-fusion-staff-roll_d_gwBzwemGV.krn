@@ -18,13 +18,13 @@
 =1	=1
 8.g	.
 8.r	.
-8.c	C
+8.c	C major
 8.r	.
-2d	Cmaj7sus2
-8A	.
-8B	.
+2d	C major-seventh-suspended-second
+8AL	.
+8BJ	.
 =2	=2
-8c	F/C
+8c	F major/C
 8r	.
 8f	.
 4.f	.
@@ -32,25 +32,25 @@
 8f	.
 16r	.
 8f	.
-8e	.
-8d	.
+8eL	.
+8dJ	.
 =3	=3
-8e	C
+8e	C major
 8r	.
 8c	.
 2.G	.
 4C	.
 8D	.
 =4	=4
-8.a#	D#
+8.a#	D# major
 8.r	.
 8.d#	.
 8.r	.
-2f	D#maj7sus2
-8c	.
-8d	.
+2f	D# major-seventh-suspended-second
+8cL	.
+8dJ	.
 =5	=5
-8d#	G#/D#
+8d#	G# major/D#
 8r	.
 8g#	.
 4.g#	.
@@ -58,45 +58,45 @@
 8g#	.
 16r	.
 8g#	.
-8a#	.
-8cc	.
+8a#L	.
+8ccJ	.
 =6	=6
-1a#[	D#
+[1a#	D# major
 8a#]	.
 4.D#	.
 =7	=7
-8.dd	G/D
+8.dd	G major/D
 8.r	.
 8.g	.
 8.r	.
-2a	A/C#
-8cc	.
-8ee	.
+2a	A major/C#
+8ccL	.
+8eeJ	.
 =8	=8
-8.dd	D7/C
+8.dd	D dominant/C
 8.r	.
 2.aa	.
 4aa	.
 8r	.
 =9	=9
-2.gg	G/B
-2.dd	Gm/A#
+2.gg	G major/B
+2.dd	G minor/A#
 =10	=10
-2.ff[	F/A
-4ff]	Fm/G#
+[2.ff	F major/A
+4ff]	F minor/G#
 4r	.
-8cc	.
-8dd	.
+8ccL	.
+8ddJ	.
 =11	=11
-1.dd#	D#/G
+1.dd#	D# major/G
 =12	=12
-1dd[	D/F#
+[1dd	D major/F#
 8dd]	.
 4.a	.
 =13	=13
-1.cc	Gsus4
+1.cc	G suspended-fourth
 =14	=14
-1b[	G
+[1b	G major
 8b]	.
 4.r	.
 ==	==

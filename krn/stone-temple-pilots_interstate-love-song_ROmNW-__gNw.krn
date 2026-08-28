@@ -16,48 +16,48 @@
 *c#:	*
 *M4/4	*
 =1	=1
-4c#	C#m
+4c#	C# minor
 2c#	.
 8r	.
-8r	C#m7
+8r	C# minor-seventh
 =2	=2
 2r	.
-4r	C#m
-8c#	.
-8c#	.
+4r	C# minor
+8c#L	.
+8c#J	.
 =3	=3
-4cn	G#/C
+4cn	G# major/C
 8cn	.
 4c#	.
 4d#	.
-8cn[	G#/C
+[8cn	G# major/C
 =4	=4
 8cn]	.
 4.G#	.
-4r	G#/C
+4r	G# major/C
 4G#	.
 =5	=5
-2c#	C#7/B
-4.B[	.
-8B]	C#7/B
+2c#	C# dominant/B
+[4.B	.
+8B]	C# dominant/B
 =6	=6
 4F#	.
-8E	.
-8E[	.
-4E]	C#7/B
-8F#	.
-8G#[	.
+8EL	.
+[8EJ	.
+4E]	C# dominant/B
+8F#L	.
+[8G#J	.
 =7	=7
-4G#]	A#m7b5
-3...c#[	.
-8c#]	A#m7b5
+4G#]	A# half-diminished
+[3...c#	.
+8c#]	A# half-diminished
 =8	=8
 2r	.
-4r	A#m7b5
-8E	.
-8c#[	.
+4r	A# half-diminished
+8EL	.
+[8c#J	.
 =9	=9
-4c#]	Aadd(2,4,7)
-2.B	Aadd(2,6,7)
+4c#]	A other-2,4,7
+2.B	A other-2,6,7
 ==	==
 *-	*-

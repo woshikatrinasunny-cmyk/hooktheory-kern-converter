@@ -16,10 +16,10 @@
 *B:	*
 *M4/4	*
 =1	=1
-4r	Eadd(2,4,7)
+4r	E other-2,4,7
 4ff#	.
-8dd#	.
-8b	.
+8dd#L	.
+8bJ	.
 4b	.
 =2	=2
 8ff#	.
@@ -27,44 +27,44 @@
 2dd#	.
 8b	.
 =3	=3
-8ff#	C#m
-8ff#	.
+8ff#L	C# minor
+8ff#J	.
 4ff#	.
-4dd#	B/D#
-8b	.
-8b	.
+4dd#	B major/D#
+8bL	.
+8bJ	.
 =4	=4
-8ff#	E
+8ff#L	E major
 8ff#	.
 8ff#	.
-8dd#[	.
-2dd#]	F#sus4
+[8dd#J	.
+2dd#]	F# suspended-fourth
 =5	=5
-8ff#	G#m
+8ff#L	G# minor
 8ff#	.
 8ff#	.
-8dd#	.
+8dd#J	.
 4dd#	.
 4cc#	.
 =6	=6
+8cc#L	.
 8cc#	.
 8cc#	.
-8cc#	.
-8dd#	.
-8g#	.
+8dd#J	.
+8g#L	.
 8g#	.
 8b	.
-16cc#	.
-16dd#[	.
+16cc#L	.
+[16dd#JJ	.
 =7	=7
-4dd#]	B/D#
+4dd#]	B major/D#
 2r	.
-8b	.
-8cc#[	.
+8bL	.
+[8cc#J	.
 =8	=8
 4cc#]	.
-8dd#	.
-8g#	.
+8dd#L	.
+8g#J	.
 2r	.
 ==	==
 *-	*-

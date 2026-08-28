@@ -15,62 +15,62 @@
 *a:	*
 *M4/4	*
 =1	=1
-8a	Am
+8aL	A minor
 8a#	.
-8b	.
-4cc	Am
-8b	.
-8a#	Am/E
-8a	.
+8bJ	.
+4cc	A minor
+8bL	.
+8a#	A minor/E
+8aJ	.
 =2	=2
-8e	Am
+8eL	A minor
 8d#	.
-8a	.
-4d	Am
-8c	.
-8B	Am/E
-8G	.
+8aJ	.
+4d	A minor
+8cL	.
+8B	A minor/E
+8GJ	.
 =3	=3
-4A	Am
-8c	.
-8B	Am
-8A	.
+4A	A minor
+8cL	.
+8BJ	A minor
+8AL	.
 8d	.
-8c	Am/E
-8B	.
+8c	A minor/E
+8BJ	.
 =4	=4
-8e	Am
+8eL	A minor
 8d	.
 8c	.
-8f#	Am
-8d#	.
-8e[	.
-4e]	Am/E
+8f#J	A minor
+8d#L	.
+[8eJ	.
+4e]	A minor/E
 =5	=5
-8a	Am
+8aL	A minor
 8a#	.
-8b	.
-4cc	Am
-8b	.
-8a#	Am/E
-8a	.
+8bJ	.
+4cc	A minor
+8bL	.
+8a#	A minor/E
+8aJ	.
 =6	=6
-8e	Am
+8eL	A minor
 8d#	.
-8a	.
-4d	Am
-8c	.
-8B	Am/E
-8G	.
+8aJ	.
+4d	A minor
+8cL	.
+8B	A minor/E
+8GJ	.
 =7	=7
-4A	F
+4A	F major
 4e	.
-4d	G
-8B	.
-8G	.
+4d	G major
+8BL	.
+8GJ	.
 =8	=8
-4.A[	Am
-4.A_	Am
-4A]	Am/E
+[4.A	A minor
+4.A_	A minor
+4A]	A minor/E
 ==	==
 *-	*-

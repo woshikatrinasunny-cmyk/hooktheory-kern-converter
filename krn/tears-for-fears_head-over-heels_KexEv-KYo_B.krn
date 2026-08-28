@@ -16,53 +16,53 @@
 *A:	*
 *M4/4	*
 =1	=1
-4.r	Aadd(2,4,7)
-8A	A
-8e	.
+4.r	A other-2,4,7
+8A	A major
+8eL	.
 8d	.
 8c#	.
-8A	.
+8AJ	.
 =2	=2
-8gn	Cmaj7
+8gnL	C major-seventh
 8a	.
-8b	.
-3...gn	C
+8bJ	.
+3...gn	C major
 =3	=3
-4.r	Aadd(2,4,7)
-8A	A
-8e	.
+4.r	A other-2,4,7
+8A	A major
+8eL	.
 8d	.
 8c#	.
-8A	.
+8AJ	.
 =4	=4
-8e	Cmaj7
-4A[	.
-4.A]	C
-8A	.
-8A	.
+8e	C major-seventh
+[4A	.
+4.A]	C major
+8AL	.
+8AJ	.
 =5	=5
-8e	Aadd(2,4,7)
+8eL	A other-2,4,7
 8e	.
 8d	.
-8c#	A
+8c#J	A major
 8e	.
 4A	.
 8A	.
 =6	=6
-8gn	Cmaj7
+8gnL	C major-seventh
 8a	.
-8b	.
-3...gn	C
+8bJ	.
+3...gn	C major
 =7	=7
-4.r	Aadd(2,4,7)
-8A	A
-8e	.
+4.r	A other-2,4,7
+8A	A major
+8eL	.
 8d	.
 8c#	.
-8e	.
+8eJ	.
 =8	=8
-4A	Cmaj7
+4A	C major-seventh
 8r	.
-3...r	C
+3...r	C major
 ==	==
 *-	*-

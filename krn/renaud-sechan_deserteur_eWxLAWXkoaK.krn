@@ -15,20 +15,20 @@
 *A:	*
 *M6/4	*
 =1	=1
-2r	A
+2r	A major
 4a	.
 4..cc#	.
 8.cc#	.
 8cc#	.
 =2	=2
-4.cc#	A
+4.cc#	A major
 8.cc#	.
 8.cc#	.
 4cc#	.
 4cc#	.
 4ee	.
 =3	=3
-4.cc#	Amaj7
+4.cc#	A major-seventh
 8.f#	.
 8.f#	.
 4cc#	.
@@ -42,13 +42,13 @@
 4cc#	.
 4ee	.
 =5	=5
-4cc#	F#m
+4cc#	F# minor
 4r	.
 4a	.
 4.cc#	.
 8cc#	.
-8cc#	.
-8cc#	.
+8cc#L	.
+8cc#J	.
 =6	=6
 4.cc#	.
 8.cc#	.
@@ -57,7 +57,7 @@
 4cc#	.
 4cc#	.
 =7	=7
-4.dd	Bm
+4.dd	B minor
 8.b	.
 8.b	.
 4b	.
@@ -71,25 +71,25 @@
 4b	.
 4a	.
 =9	=9
-2.b	Bm7
-2.r	E/B
+2.b	B minor-seventh
+2.r	E major/B
 =10	=10
-2r	A
+2r	A major
 4a	.
 4.ee	.
 8ee	.
-8ee	.
-8ee	.
+8eeL	.
+8eeJ	.
 =11	=11
-4.ee	A
+4.ee	A major
 8.ee	.
 8.ee	.
 8.ee	.
 8.ee	.
 4aa	.
-8ee[	.
+[8ee	.
 =12	=12
-4.ee]	Amaj7
+4.ee]	A major-seventh
 4g#	.
 8g#	.
 4.ee	.
@@ -102,9 +102,9 @@
 8.ee	.
 8.ee	.
 8.aa	.
-8.ee[	.
+[8.ee	.
 =14	=14
-4.ee]	A7
+4.ee]	A dominant
 8.gn	.
 8.gn	.
 4ee	.
@@ -118,33 +118,33 @@
 4ff#	.
 4ee	.
 =16	=16
-4.dd	Bm
+4.dd	B minor
 8.b	.
 8.b	.
 4b	.
 4b	.
 4b	.
 =17	=17
-4.b	Bm7
+4.b	B minor-seventh
 8.b	.
 8.b	.
 4b	.
 4b	.
 4a	.
 =18	=18
-2.b	E
+2.b	E major
 2.r	.
 =19	=19
-4.r	D/F#
+4.r	D major/F#
 8.b	.
 8.b	.
 4b	.
 4b	.
 4a	.
 =20	=20
-3...a	F/C
+3...a	F major/C
 2..r	.
 =21	=21
-1.r	Dm
+1.r	D minor
 ==	==
 *-	*-

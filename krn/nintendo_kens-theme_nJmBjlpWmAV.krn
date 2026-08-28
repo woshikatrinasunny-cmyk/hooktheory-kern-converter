@@ -16,46 +16,46 @@
 *f:	*
 *M4/4	*
 =1	=1
-4.f	D-maj7
+4.f	D- major-seventh
 3...g	.
 =2	=2
 4.a-	.
 4b-	.
-8a-	.
+8a-L	.
 8g	.
-8f	.
+8fJ	.
 =3	=3
-4.d-	B-m7
-3...cc[	.
+4.d-	B- minor-seventh
+[3...cc	.
 =4	=4
 2.cc]	.
-8b-	.
-8cc[	Fm
+8b-L	.
+[8ccJ	F minor
 =5	=5
 1cc_	.
 =6	=6
 2..cc]	.
-8f[	D-maj7
+[8f	D- major-seventh
 =7	=7
 4.f]	.
 3...g	.
 =8	=8
 4.a-	.
 4b-	.
-8a-	.
+8a-L	.
 8g	.
-8f	.
+8fJ	.
 =9	=9
-4.d-	E-7
-3...cc[	.
+4.d-	E- dominant
+[3...cc	.
 =10	=10
 2.cc]	.
-8b-	.
-8cc[	Cadd(4,7,8,10)
+8b-L	.
+[8ccJ	C other-4,7,8,10
 =11	=11
 1cc_	.
 =12	=12
 2..cc_	.
-8cc]	Fm
+8cc]	F minor
 ==	==
 *-	*-

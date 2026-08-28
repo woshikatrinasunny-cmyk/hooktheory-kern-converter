@@ -15,22 +15,22 @@
 *a:	*
 *M4/4	*
 =1	=1
-4r	Am7
+4r	A minor-seventh
 8ee	.
 4.dd	.
-8cc	.
-8b[	Dm7
+8ccL	.
+[8bJ	D minor-seventh
 =2	=2
 4b]	.
 8cc	.
 4b	.
 4g	.
-8a[	.
+[8a	.
 =3	=3
-8.a]	E7
+8.a]	E dominant
 3...r	.
 16r	.
-8a	Am7
+8a	A minor-seventh
 =4	=4
 4a	.
 8b	.
@@ -38,22 +38,22 @@
 4ee	.
 8ee	.
 =5	=5
-4r	Am7
+4r	A minor-seventh
 8ee	.
 4.dd	.
-8cc	.
-8b[	Dm7
+8ccL	.
+[8bJ	D minor-seventh
 =6	=6
 4b]	.
 8cc	.
 4b	.
 4g	.
-8a[	.
+[8a	.
 =7	=7
-8.a]	E7
+8.a]	E dominant
 3...r	.
 16r	.
-8a	Am7
+8a	A minor-seventh
 =8	=8
 4a	.
 8b	.
@@ -61,87 +61,87 @@
 4ee	.
 8ee	.
 =9	=9
-4r	Am7
+4r	A minor-seventh
 8ee	.
 4.aa	.
-8ee	.
-8dd[	Dm7
+8eeL	.
+[8ddJ	D minor-seventh
 =10	=10
 4dd]	.
 8cc	.
 4.dd	.
-8ee	.
-8ee	.
+8eeL	.
+8eeJ	.
 =11	=11
-3...r	E7
-8ee	.
+3...r	E dominant
+8eeL	.
 8dd	.
-8cc[	Am7
+[8ccJ	A minor-seventh
 =12	=12
-8cc]	.
-8a	.
+8ccL]	.
+8aJ	.
 2.r	.
 =13	=13
-8r	Am7
-8a	.
-8ee	.
+8r	A minor-seventh
+8aL	.
+8eeJ	.
 4.dd	.
-8cc	.
-8b[	Dm7
+8ccL	.
+[8bJ	D minor-seventh
 =14	=14
 4b]	.
 8cc	.
 4b	.
 4g	.
-8a[	.
+[8a	.
 =15	=15
-8.a]	E7
+8.a]	E dominant
 4..r	.
+8gL	.
 8g	.
-8g	.
-8a	Am7
+8aJ	A minor-seventh
 =16	=16
 4.r	.
 8ee	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8b	.
+8bJ	.
 =17	=17
-4.a	Am7
-2ee[	.
-8ee_	Dm7
+4.a	A minor-seventh
+[2ee	.
+8ee_	D minor-seventh
 =18	=18
 4.ee]	.
 4aa	.
 4ee	.
-8dd[	.
+[8dd	.
 =19	=19
-2..dd_	E7
-8dd]	Am7
+2..dd_	E dominant
+8dd]	A minor-seventh
 =20	=20
 4.r	.
 8ee	.
-8ee	.
+8eeL	.
 8dd	.
 8cc	.
-8b	.
+8bJ	.
 =21	=21
-4.a	Am7
-2ee[	.
-8ee_	Dm7
+4.a	A minor-seventh
+[2ee	.
+8ee_	D minor-seventh
 =22	=22
 4.ee]	.
 4aa	.
 4ee	.
-8dd[	.
+[8dd	.
 =23	=23
-2..dd_	E7
-8dd]	Am7
+2..dd_	E dominant
+8dd]	A minor-seventh
 =24	=24
 3...r	.
-8cc	.
-8a	.
+8ccL	.
+8aJ	.
 8r	.
 ==	==
 *-	*-

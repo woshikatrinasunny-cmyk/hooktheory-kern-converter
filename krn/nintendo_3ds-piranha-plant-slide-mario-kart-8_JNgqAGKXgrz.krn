@@ -15,7 +15,7 @@
 *G:	*
 *M4/4	*
 =1	=1
-4r	G
+4r	G major
 8gg	.
 16r	.
 16gg	.
@@ -25,19 +25,19 @@
 16ee	.
 16r	.
 =2	=2
-4ffn	F
+4ffn	F major
 4ee	.
 4cc	.
 16cc	.
 16r	.
-16ee	.
-16dd	.
+16eeLL	.
+16ddJJ	.
 =3	=3
-2..r	G
+2..r	G major
 16cc	.
 16r	.
 =4	=4
-16dd	F
+16dd	F major
 16r	.
 16b	.
 16r	.
@@ -47,7 +47,7 @@
 2r	.
 16r	.
 =5	=5
-4r	G
+4r	G major
 8gg	.
 16r	.
 16gg	.
@@ -57,20 +57,20 @@
 16ee	.
 16r	.
 =6	=6
-4ffn	F
+4ffn	F major
 4gg	.
 4aa	.
-16aa	.
+16aaLL	.
 16aa	.
 16ffn	.
-16gg	.
+16ggJJ	.
 =7	=7
-2.r	G
-16ee	.
+2.r	G major
+16eeLL	.
 16ee	.
 16cc	.
-16dd	.
+16ddJJ	.
 =8	=8
-1r	F
+1r	F major
 ==	==
 *-	*-

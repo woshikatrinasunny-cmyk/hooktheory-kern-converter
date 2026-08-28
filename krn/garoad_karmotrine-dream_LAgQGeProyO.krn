@@ -16,40 +16,40 @@
 *E:	*
 *M4/4	*
 =1	=1
-1r	Eadd(2,4,7,9)
+1r	E other-2,4,7,9
 =2	=2
 4r	.
 4G#	.
-8B	.
-8c#	.
+8BL	.
+8c#J	.
 4d#	.
 =3	=3
-8r	Aadd(2,5,7,9,10)
+8r	A other-2,5,7,9,10
 8r	.
-8r	Aadd(2,5,7,9,10)
+8r	A other-2,5,7,9,10
 3...r	.
 =4	=4
-8r	Bsus4
+8r	B suspended-fourth
 8r	.
-8r	B7sus4
+8r	B dominant-seventh-suspended-fourth
 3...r	.
 =5	=5
-1r	Eadd(4,7,9,11)
+1r	E other-4,7,9,11
 =6	=6
 4r	.
 4G#	.
-8B	.
-8c#	.
+8BL	.
+8c#J	.
 4d#	.
 =7	=7
-8r	Gmaj9
+8r	G major-ninth
 8r	.
-8r	Gmaj9
+8r	G major-ninth
 3...r	.
 =8	=8
-8r	Dadd(2,4,7,9)
+8r	D other-2,4,7,9
 8r	.
-8r	Dadd(2,4,7,9)
+8r	D other-2,4,7,9
 3...r	.
 =9	=9
 1r	.

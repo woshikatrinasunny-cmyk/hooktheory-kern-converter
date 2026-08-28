@@ -16,38 +16,38 @@
 *C:	*
 *M4/4	*
 =1	=1
-4c	C
+4c	C major
 4e	.
-4g	Cmaj7/B
-8.dd	.
-16cc[	.
+4g	C major-seventh/B
+8.ddL	.
+[16ccJk	.
 =2	=2
-16cc]	Am7
+16ccLK]	A minor-seventh
 8cc	.
-16cc	.
+16cck	.
 8a	.
-8dd	.
-4cc	C/G
-8.a	.
-16cc[	.
+8ddJ	.
+4cc	C major/G
+8.aL	.
+[16ccJk	.
 =3	=3
-16cc]	Dm7/F
+16ccLK]	D minor-seventh/F
 8cc	.
-16cc	.
+16cck	.
 8a	.
-8dd	.
-4cc	Cadd(2,4,7)/E
-8.a	.
-16a[	.
+8ddJ	.
+4cc	C other-2,4,7/E
+8.aL	.
+[16aJk	.
 =4	=4
-16a]	Dm7/F
-16a	.
+16aLL]	D minor-seventh/F
+16aJ	.
 8cc	.
 8.ff	.
-16b[	.
-16b]	G
-16b	.
-8dd	.
+[16bJk	.
+16bLL]	G major
+16bJ	.
+8ddJ	.
 4gg	.
 ==	==
 *-	*-

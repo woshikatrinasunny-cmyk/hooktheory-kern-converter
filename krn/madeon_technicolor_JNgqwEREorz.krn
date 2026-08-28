@@ -16,42 +16,42 @@
 *d:	*
 *M4/4	*
 =1	=1
-8.dd	Dm
-16cc	Dm
+8.ddL	D minor
+16ccJk	D minor
 8r	.
-8cc	C
-8dd	Dm
+8cc	C major
+8dd	D minor
 16r	.
-16a	Dm
+16a	D minor
 16r	.
 16r	.
-16cc[	Dm
-16cc]	C
+[16ccLL	D minor
+16ccJJ]	C major
 =2	=2
-8.dd	Dm
-16cc	Dm
+8.ddL	D minor
+16ccJk	D minor
 8r	.
-8cc	C
-8dd	Dm
+8cc	C major
+8dd	D minor
 16r	.
-16a	Dm
+16a	D minor
 16r	.
 16r	.
-16cc[	Dm
-16cc]	C
+[16ccLL	D minor
+16ccJJ]	C major
 =3	=3
-8.dd	Dm
-16cc	Dm
+8.ddL	D minor
+16ccJk	D minor
 8r	.
-8cc	C
-8dd	Dm
+8cc	C major
+8dd	D minor
 16r	.
-16a	Dm
+16a	D minor
 16r	.
 16r	.
-16cc[	Dm
-16cc]	C
+[16ccLL	D minor
+16ccJJ]	C major
 =4	=4
-2.a	B-
+2.a	B- major
 ==	==
 *-	*-

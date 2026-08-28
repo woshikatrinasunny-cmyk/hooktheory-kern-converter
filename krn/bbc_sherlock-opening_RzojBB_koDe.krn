@@ -16,44 +16,44 @@
 *a:	*
 *M6/4	*
 =1	=1
-1.e	Am
+1.e	A minor
 =2	=2
-1.g	Am/E
+1.g	A minor/E
 =3	=3
-2.f#	D
-2.d[	.
+2.f#	D major
+[2.d	.
 =4	=4
-1.d]	D
+1.d]	D major
 =5	=5
-1.d	Dm
+1.d	D minor
 =6	=6
-1.f	Dm/F
+1.f	D minor/F
 =7	=7
-1.e[	Am
+[1.e	A minor
 =8	=8
-1.e]	Am
+1.e]	A minor
 =9	=9
-1.cc	C
+1.cc	C major
 =10	=10
-1.ee	C/E
+1.ee	C major/E
 =11	=11
-2.dd	D/A
-2.a[	.
+2.dd	D major/A
+[2.a	.
 =12	=12
-1a]	D/A
+1a]	D major/A
 4a	.
 4b	.
 =13	=13
-1cc[	Dm/A
+[1cc	D minor/A
 4cc]	.
 4dd	.
 =14	=14
-1b[	G/B
+[1b	G major/B
 4b]	.
 4cc	.
 =15	=15
-1.a[	Am
+[1.a	A minor
 =16	=16
-1.a]	Am
+1.a]	A minor
 ==	==
 *-	*-

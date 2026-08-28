@@ -16,119 +16,119 @@
 *B-:	*
 *M4/4	*
 =1	=1
-8cc	B-add(2,4,7)
+8ccL	B- other-2,4,7
 8cc	.
 8cc	.
+8ccJ	.
+8ccL	.
 8cc	.
 8cc	.
-8cc	.
-8cc	.
-8dd	.
+8ddJ	.
 =2	=2
-8cc	E-maj7
+8cc	E- major-seventh
 4b-	.
 8f	.
+8fL	.
 8f	.
 8f	.
-8f	.
-8b-	.
+8b-J	.
 =3	=3
-8cc	B-add(2,4,7)
+8ccL	B- other-2,4,7
 8cc	.
 8cc	.
+8ccJ	.
+8ccL	.
 8cc	.
 8cc	.
-8cc	.
-8cc	.
-8dd	.
+8ddJ	.
 =4	=4
-8cc	E-maj7
+8cc	E- major-seventh
 4b-	.
 8f	.
+8fL	.
 8f	.
 8f	.
-8f	.
-8b-	.
+8b-J	.
 =5	=5
-8cc	B-add(2,4,7)
+8ccL	B- other-2,4,7
 8cc	.
 8cc	.
+8ccJ	.
+8ccL	.
 8cc	.
 8cc	.
-8cc	.
-8cc	.
-8dd	.
+8ddJ	.
 =6	=6
-8cc	E-maj7
+8cc	E- major-seventh
 4b-	.
 8f	.
+8fL	.
 8f	.
 8f	.
-8f	.
-8b-	.
+8b-J	.
 =7	=7
-8cc	B-add(2,4,7)
+8ccL	B- other-2,4,7
 8cc	.
 8cc	.
+8ccJ	.
+8ccL	.
 8cc	.
 8cc	.
-8cc	.
-8cc	.
-8dd	.
+8ddJ	.
 =8	=8
-8cc	E-maj7
+8cc	E- major-seventh
 4b-	.
 2r	.
 8gg	.
 =9	=9
-4ff	B-add(2,4,7)
+4ff	B- other-2,4,7
 8gg	.
 4ff	.
 4gg	.
-8b-[	.
+[8b-	.
 =10	=10
-8b-]	E-maj7
+8b-]	E- major-seventh
 8r	.
 4b-	.
 4cc	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 =11	=11
-4r	B-add(2,4,7)
+4r	B- other-2,4,7
 4bb-	.
 4gg	.
 4ff	.
 =12	=12
-4ff	E-maj7
+4ff	E- major-seventh
 8gg	.
 4b-	.
 4r	.
 8gg	.
 =13	=13
-8ff	B-add(2,4,7)
+8ffL	B- other-2,4,7
 8ff	.
-8gg	.
+8ggJ	.
 4b-	.
 8r	.
-8b-	.
-8b-[	.
+8b-L	.
+[8b-J	.
 =14	=14
-8b-]	E-maj7
+8b-]	E- major-seventh
 8r	.
 4cc	.
 4cc	.
-8dd	.
-8dd	.
+8ddL	.
+8ddJ	.
 =15	=15
-4r	B-add(2,4,7)
-8bb-	.
-8bb-	.
+4r	B- other-2,4,7
+8bb-L	.
+8bb-J	.
+8ggL	.
 8gg	.
-8gg	.
-8ff	.
+8ffJ	.
 8r	.
 =16	=16
-4fff	E-maj7
+4fff	E- major-seventh
 4ggg	.
 6...bb-	.
 8.fff	.

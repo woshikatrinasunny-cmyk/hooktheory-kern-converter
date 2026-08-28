@@ -16,8 +16,8 @@
 *E:	*
 *M4/4	*
 =1	=1
-2.E	C
-4e[	.
+2.E	C major
+[4e	.
 =2	=2
 1e_	.
 =3	=3
@@ -25,9 +25,9 @@
 =4	=4
 1e]	.
 =5	=5
-8dn	D
+8dnL	D major
 8B	.
-8A	.
+8AJ	.
 3...r	.
 =6	=6
 1r	.
@@ -35,72 +35,72 @@
 1r	.
 =8	=8
 8r	.
+8AL	.
 8A	.
-8A	.
-8A	.
-8A	.
+8AJ	.
+8AL	.
 8F#	.
 8A	.
-8B[	.
+[8BJ	.
 =9	=9
-4B]	E
+4B]	E major
 4r	.
-4r	B
-4r	E
+4r	B major
+4r	E major
 =10	=10
 4r	.
-4r	B
-4r	E
-4r	B
+4r	B major
+4r	E major
+4r	B major
 =11	=11
-2r	E
-4r	B
-4r	E
+2r	E major
+4r	B major
+4r	E major
 =12	=12
 8r	.
-8B	.
-8B	B
-8B	.
-8dn	E
+8BL	.
+8B	B major
+8BJ	.
+8dnL	E major
 8e	.
 8dn	.
-8e[	.
+[8eJ	.
 =13	=13
-8e]	C
+8e]	C major
 3...r	.
-4e[	.
+[4e	.
 =14	=14
 1e]	.
 =15	=15
-16dn	D
-16B	.
+16dnLL	D major
+16BJJ	.
 4A	.
 4.A	.
 4r	.
 =16	=16
 4r	.
-8A	.
-8A	.
-8Gn	.
+8AL	.
+8AJ	.
+8GnL	.
 8F#	.
 8E	.
-8E[	.
+[8EJ	.
 =17	=17
-2E]	E
-4r	B
-4r	E
+2E]	E major
+4r	B major
+4r	E major
 =18	=18
 4r	.
-4r	B
-4r	E
-4r	B
+4r	B major
+4r	E major
+4r	B major
 =19	=19
-2r	E
-4r	B
-4r	E
+2r	E major
+4r	B major
+4r	E major
 =20	=20
 4r	.
-4r	B
-2r	E
+4r	B major
+2r	E major
 ==	==
 *-	*-

@@ -15,164 +15,164 @@
 *c:	*
 *M4/4	*
 =1	=1
-8c	Cm
-8c	Cm
+8cL	C minor
+8c	C minor
 8d	.
-8e-	.
-8c	.
+8e-J	.
+8cL	.
 8c	.
 8d	.
-8e-	.
+8e-J	.
 =2	=2
-8c	Cm
-8c	Cm
+8cL	C minor
+8c	C minor
 8d	.
-8e-	.
-8c	.
+8e-J	.
+8cL	.
 8c	.
 8d	.
-8e-	.
+8e-J	.
 =3	=3
-8c	Cm
-8c	Cm
+8cL	C minor
+8c	C minor
 8d	.
-8e-	.
-8c	.
+8e-J	.
+8cL	.
 8c	.
 8d	.
-8e-	.
+8e-J	.
 =4	=4
-8c	Cm
-8c	Cm
+8cL	C minor
+8c	C minor
 8d	.
-8e-	.
-8c	.
+8e-J	.
+8cL	.
 8c	.
 8d	.
-8e-	.
+8e-J	.
 =5	=5
-8c	Cm
-8c	Cm
+8cL	C minor
+8c	C minor
 8g	.
-8f	.
-8e-	.
+8fJ	.
+8e-L	.
 8d	.
 8c	.
-8g	.
+8gJ	.
 =6	=6
-8A-	A-
-8A-	A-
+8A-L	A- major
+8A-	A- major
 8g	.
-8f	.
-8e-	.
+8fJ	.
+8e-L	.
 8d	.
 8c	.
-8g	.
+8gJ	.
 =7	=7
-8An	A
-8An	A
+8AnL	A major
+8An	A major
 8g	.
-8f	.
-8e-	.
+8fJ	.
+8e-L	.
 8d	.
 8c	.
-8g	.
+8gJ	.
 =8	=8
-8A-	A-
-8A-	A-
+8A-L	A- major
+8A-	A- major
 8g	.
-8f	.
-8e-	.
+8fJ	.
+8e-L	.
 8d	.
 8c	.
-8g	.
+8gJ	.
 =9	=9
-1g[	Cm
+[1g	C minor
 =10	=10
 1g]	.
 =11	=11
-1b-	E-
+1b-	E- major
 =12	=12
-1f	B-
+1f	B- major
 =13	=13
-1g[	Cm
+[1g	C minor
 =14	=14
 1g]	.
 =15	=15
-1b-	E-
+1b-	E- major
 =16	=16
-1f	B-
+1f	B- major
 =17	=17
-4c	Cm
-4Bn	Gm
-4c	Cm
-4d	B-
+4c	C minor
+4Bn	G minor
+4c	C minor
+4d	B- major
 =18	=18
-4.e-	E-
-8d	B-
-4.e-	E-
+4.e-	E- major
+8d	B- major
+4.e-	E- major
 8d	.
 =19	=19
-1d	B-
+1d	B- major
 =20	=20
 1r	.
 =21	=21
-4c	Cm
-4Bn	Gm
-4c	Cm
-4d	B-
+4c	C minor
+4Bn	G minor
+4c	C minor
+4d	B- major
 =22	=22
-4.e-	E-
-8d	B-
-4.e-	E-
+4.e-	E- major
+8d	B- major
+4.e-	E- major
 8d	.
 =23	=23
-1d	B-
+1d	B- major
 =24	=24
 1r	.
 =25	=25
-4e-[	Cm
-8e-]	Cm
-8f[	.
-4f]	Cm
-4g	Cm
+[4e-	C minor
+8e-L]	C minor
+[8fJ	.
+4f]	C minor
+4g	C minor
 =26	=26
-4g[	Cm
-4g_	Cm
-4g_	Cm
-4g]	Cm
+[4g	C minor
+4g_	C minor
+4g_	C minor
+4g]	C minor
 =27	=27
-4f[	D-
-8f]	D-
-8g[	.
-4g]	D-
-4a-	D-
+[4f	D- major
+8fL]	D- major
+[8gJ	.
+4g]	D- major
+4a-	D- major
 =28	=28
-4a-[	A-
-4a-_	A-
-4a-_	A-
-4a-]	A-
+[4a-	A- major
+4a-_	A- major
+4a-_	A- major
+4a-]	A- major
 =29	=29
-4g[	Cm
-8g]	Cm
-8a-[	.
-4a-]	Cm
-4b-	Cm
+[4g	C minor
+8gL]	C minor
+[8a-J	.
+4a-]	C minor
+4b-	C minor
 =30	=30
-4b-[	Cm
-4b-_	Cm
-4b-_	Cm
-4b-]	Cm
+[4b-	C minor
+4b-_	C minor
+4b-_	C minor
+4b-]	C minor
 =31	=31
-4a-[	D-
-8a-]	D-
-8b-[	.
-4b-]	D-
-4cc	D-
+[4a-	D- major
+8a-L]	D- major
+[8b-J	.
+4b-]	D- major
+4cc	D- major
 =32	=32
-4cc[	A-
-4cc_	A-
-4cc_	A-
-4cc]	A-
+[4cc	A- major
+4cc_	A- major
+4cc_	A- major
+4cc]	A- major
 ==	==
 *-	*-

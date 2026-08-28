@@ -15,71 +15,71 @@
 *a:	*
 *M4/4	*
 =1	=1
-8a[	Am
-16a]	.
-8.a	.
+[8aL	A minor
+16ak]	.
+8.aJ	.
 8.ee	.
-8.ee	.
+8.eeL	.
 8a	.
-8a	.
+8aJ	.
 =2	=2
-8a[	Am
-16a]	.
-8.a	.
+[8aL	A minor
+16ak]	.
+8.aJ	.
 8.gg	.
-8.gg	.
+8.ggL	.
 8aa	.
-8aa	.
+8aaJ	.
 =3	=3
-8a[	Am
-16a]	.
-8.a	.
+[8aL	A minor
+16ak]	.
+8.aJ	.
 8.ee	.
-8.ee	.
+8.eeL	.
 8a	.
-8a	.
+8aJ	.
 =4	=4
-8a[	Am
-16a]	.
-8.a	.
+[8aL	A minor
+16ak]	.
+8.aJ	.
 8.gg	.
-8.gg	.
+8.ggL	.
 8ee	.
-8ee	.
+8eeJ	.
 =5	=5
-8a[	Am
-16a]	.
-8.a	.
+[8aL	A minor
+16ak]	.
+8.aJ	.
 8.ee	.
-8.ee	.
+8.eeL	.
 8a	.
-8a	.
+8aJ	.
 =6	=6
-8a[	Am
-16a]	.
-8.a	.
+[8aL	A minor
+16ak]	.
+8.aJ	.
 8.gg	.
-8.gg	.
+8.ggL	.
 8aa	.
-8aa	.
+8aaJ	.
 =7	=7
-8a[	Am
-16a]	.
-8.a	.
+[8aL	A minor
+16ak]	.
+8.aJ	.
 8.ee	.
-8.ee	.
+8.eeL	.
 8a	.
-8a	.
+8aJ	.
 =8	=8
-8a[	Am
-16a]	.
-8.a	.
+[8aL	A minor
+16ak]	.
+8.aJ	.
 8.gg	.
-8.gg	.
+8.ggL	.
 8aa	.
-8aa	.
+8aaJ	.
 =9	=9
-4.a	Am
+4.a	A minor
 4.ee	.
 4a	.
 =10	=10
@@ -87,7 +87,7 @@
 4.gg	.
 4aa	.
 =11	=11
-4.a	Gadd(2,4,7)
+4.a	G other-2,4,7
 4.ee	.
 4a	.
 =12	=12
@@ -95,7 +95,7 @@
 4.gg	.
 4ee	.
 =13	=13
-4.a	D
+4.a	D major
 4.ee	.
 4a	.
 =14	=14
@@ -103,7 +103,7 @@
 4.gg	.
 4aa	.
 =15	=15
-4.a	C
+4.a	C major
 4.ee	.
 4a	.
 =16	=16

@@ -15,93 +15,93 @@
 *C:	*
 *M6/4	*
 =1	=1
-4.r	C
-4.e	C
-4.e	C
-4.e	C
+4.r	C major
+4.e	C major
+4.e	C major
+4.e	C major
 =2	=2
-4.e	C
-4d	C
-8c[	.
-4c]	C
-8c[	.
-4.c]	C
+4.e	C major
+4d	C major
+[8c	.
+4c]	C major
+[8c	.
+4.c]	C major
 =3	=3
-4.c	Am
-4.c	Am
-4.c	Am
-4A	Am
-8c[	.
+4.c	A minor
+4.c	A minor
+4.c	A minor
+4A	A minor
+[8c	.
 =4	=4
-4c]	Am
+4c]	A minor
 8G	.
-4.A	Am
-4.r	Am
-4.r	Am
+4.A	A minor
+4.r	A minor
+4.r	A minor
 =5	=5
-4.r	C
-4.e	C
-4.e	C
-4.e	C
+4.r	C major
+4.e	C major
+4.e	C major
+4.e	C major
 =6	=6
-4e	C
-8d[	.
-4d]	C
-8c[	.
-4.c]	C
-4.c	C
+4e	C major
+[8d	.
+4d]	C major
+[8c	.
+4.c]	C major
+4.c	C major
 =7	=7
-4.c	Am
-4.c	Am
-4.c	Am
-4A	Am
-8c[	.
+4.c	A minor
+4.c	A minor
+4.c	A minor
+4A	A minor
+[8c	.
 =8	=8
-4c]	Am
+4c]	A minor
 8G	.
-4.A	Am
-4.r	Am
-4.r	Am
+4.A	A minor
+4.r	A minor
+4.r	A minor
 =9	=9
-4.r	F
-4.f	F
-4.f	F
-4.f	F
+4.r	F major
+4.f	F major
+4.f	F major
+4.f	F major
 =10	=10
-4f	F
-8f[	.
-4f]	F
-8f[	.
-4f]	F
-8g[	.
-4g]	F
-8e[	.
+4f	F major
+[8f	.
+4f]	F major
+[8f	.
+4f]	F major
+[8g	.
+4g]	F major
+[8e	.
 =11	=11
-4.e]	C
-4.e	C
-4.e	C
-4d	C
+4.e]	C major
+4.e	C major
+4.e	C major
+4d	C major
 8e	.
 =12	=12
-4.c	C
-4.r	C
-4.r	C
-4.G	C
+4.c	C major
+4.r	C major
+4.r	C major
+4.G	C major
 =13	=13
-4.d	G
-4.d	G
-4.d	G
-4.d	G
+4.d	G major
+4.d	G major
+4.d	G major
+4.d	G major
 =14	=14
-4.d	G
-4.d	G
-4.d	G
-4.d	G
+4.d	G major
+4.d	G major
+4.d	G major
+4.d	G major
 =15	=15
-4.d[	G
-4.d_	G
-4.d_	G
-4.d]	G
+[4.d	G major
+4.d_	G major
+4.d_	G major
+4.d]	G major
 =16	=16
 4r	.
 8G	.

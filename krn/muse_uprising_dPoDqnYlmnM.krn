@@ -16,31 +16,31 @@
 *d:	*
 *M4/4	*
 =1	=1
-1aa	Dm
+1aa	D minor
 =2	=2
 2ff	.
 2a	.
 =3	=3
-2..b-	Gm
-16b-	.
-16cc	.
+2..b-	G minor
+16b-LL	.
+16ccJJ	.
 =4	=4
-1a	F
+1a	F major
 =5	=5
-2aa	A
+2aa	A major
 2ee	.
 =6	=6
 2dd-	.
 2a	.
 =7	=7
-2..bb-	Gm
-16bb-	.
-16ccc	.
+2..bb-	G minor
+16bb-LL	.
+16cccJJ	.
 =8	=8
-2aa[	F
-2aa]	A/D-
+[2aa	F major
+2aa]	A major/D-
 =9	=9
-4aa	Dm
+4aa	D minor
 4ff	.
 4dd	.
 4a	.
@@ -50,14 +50,14 @@
 4aa	.
 4dd	.
 =11	=11
-2..bb-	Gm
-16bb-	.
-16ccc	.
+2..bb-	G minor
+16bb-LL	.
+16cccJJ	.
 =12	=12
-2aa[	F
-2aa]	A-dim
+[2aa	F major
+2aa]	A- diminished
 =13	=13
-4aa	A
+4aa	A major
 4ee	.
 4dd-	.
 4a	.
@@ -67,13 +67,13 @@
 4aa	.
 4a	.
 =15	=15
-2..gg	Gm
-16gg	.
-16aa	.
+2..gg	G minor
+16ggLL	.
+16aaJJ	.
 =16	=16
-2ff[	F
-4ff_	A/D-
-8ff_	Dm
-8ff]	Dm
+[2ff	F major
+4ff_	A major/D-
+8ffL_	D minor
+8ffJ]	D minor
 ==	==
 *-	*-

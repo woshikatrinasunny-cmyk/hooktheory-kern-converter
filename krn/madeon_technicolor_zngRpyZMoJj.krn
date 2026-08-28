@@ -16,39 +16,39 @@
 *d:	*
 *M4/4	*
 =1	=1
-1cc	B-add(2,4,7)
+1cc	B- other-2,4,7
 =2	=2
-1a	B-maj7
+1a	B- major-seventh
 =3	=3
-1g	Am7
+1g	A minor-seventh
 =4	=4
-1e	Fmaj7/A
+1e	F major-seventh/A
 =5	=5
-1f	Gm7
+1f	G minor-seventh
 =6	=6
-1e	Edim7/G
+1e	E diminished-seventh/G
 =7	=7
-1e	Fmaj7
+1e	F major-seventh
 =8	=8
-1f	F
+1f	F major
 =9	=9
-1d	Cadd(2,4,7)
+1d	C other-2,4,7
 =10	=10
-1e	C
+1e	C major
 =11	=11
-1e	Dadd(2,3,7)
+1e	D other-2,3,7
 =12	=12
-1f	Dm
+1f	D minor
 =13	=13
-1d	B-add(2,4,7)
+1d	B- other-2,4,7
 =14	=14
 1f	.
 =15	=15
-1a-	B-m7
+1a-	B- minor-seventh
 =16	=16
-1g	Gm7b5/B-
+1g	G half-diminished/B-
 =17	=17
-1f[	F
+[1f	F major
 =18	=18
 1f]	.
 ==	==

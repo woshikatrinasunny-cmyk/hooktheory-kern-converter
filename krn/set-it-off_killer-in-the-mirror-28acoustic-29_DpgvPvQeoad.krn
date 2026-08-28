@@ -16,65 +16,65 @@
 *f#:	*
 *M4/4	*
 =1	=1
-8.F#	F#m
+8.F#L	F# minor
 8.F#	.
-16F#	.
-16F#	.
-8.G#	F#add(2,3,7)
+16F#L	.
+16F#JJ	.
+8.G#L	F# other-2,3,7
 8.G#	.
-16G#	.
-16G#	.
+16G#L	.
+16G#JJ	.
 =2	=2
-8.A	F#m
+8.AL	F# minor
 8.A	.
-16A	.
-16A	.
-8.B	F#add(3,5,7)
+16AL	.
+16AJJ	.
+8.BL	F# other-3,5,7
 8.B	.
-16B	.
-16B	.
+16BL	.
+16BJJ	.
 =3	=3
-8c#	F#m
+8c#L	F# minor
 8B	.
 8A	.
-8B	.
-4A	F#add(3,5,7)
+8BJ	.
+4A	F# other-3,5,7
 4B	.
 =4	=4
-4F#	Dmaj7
+4F#	D major-seventh
 8r	.
 8E	.
-4F#	C#7
+4F#	C# dominant
 8r	.
-16F#	.
-16F#	.
+16F#LL	.
+16F#JJ	.
 =5	=5
-8.F#	F#m
+8.F#L	F# minor
 8.F#	.
-16F#	.
-16F#	.
-8.G#	F#add(2,3,7)
+16F#L	.
+16F#JJ	.
+8.G#L	F# other-2,3,7
 8.G#	.
-16G#	.
-16G#	.
+16G#L	.
+16G#JJ	.
 =6	=6
-8.A	F#m
+8.AL	F# minor
 8.A	.
-16A	.
-16A	.
-8.B	F#add(3,5,7)
+16AL	.
+16AJJ	.
+8.BL	F# other-3,5,7
 8.B	.
-16B	.
-16B	.
+16BL	.
+16BJJ	.
 =7	=7
-8c#	F#m
+8c#L	F# minor
 8B	.
 8A	.
-8B	.
-4A	F#add(3,5,7)
+8BJ	.
+4A	F# other-3,5,7
 4B	.
 =8	=8
-4.G#	C#7
+4.G#	C# dominant
 8A	.
 4.G#	.
 8F#	.

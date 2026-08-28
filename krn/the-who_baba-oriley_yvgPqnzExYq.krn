@@ -16,17 +16,17 @@
 *F:	*
 *M4/4	*
 =1	=1
-4r	C
+4r	C major
 4r	.
-4r	C
+4r	C major
 4r	.
 =2	=2
-4r	B-add(2,4,7)
+4r	B- other-2,4,7
 4r	.
-4r	B-add(2,4,7)
+4r	B- other-2,4,7
 4r	.
 =3	=3
-16ee	C
+16ee	C major
 16r	.
 16ff	.
 16r	.
@@ -38,12 +38,12 @@
 16r	.
 16gg	.
 16r	.
-16ee	.
+16eeLL	.
 16ff	.
-16gg	.
+16ggJJ	.
 16r	.
 =4	=4
-16ee	B-add(2,4,7)
+16ee	B- other-2,4,7
 16r	.
 16ff	.
 16r	.
@@ -55,12 +55,12 @@
 16r	.
 16gg	.
 16r	.
-16ee	.
+16eeLL	.
 16ff	.
-16gg	.
+16ggJJ	.
 16r	.
 =5	=5
-16ee	F
+16ee	F major
 16r	.
 16ff	.
 16r	.
@@ -72,12 +72,12 @@
 16r	.
 16gg	.
 16r	.
-16ee	.
+16eeLL	.
 16ff	.
-16gg	.
+16ggJJ	.
 16r	.
 =6	=6
-16ee-	F7/E-
+16ee-	F dominant/E-
 16r	.
 16ff	.
 16r	.
@@ -89,77 +89,77 @@
 16r	.
 16gg	.
 16r	.
-16ee-	.
+16ee-LL	.
 16ff	.
-16gg	.
+16ggJJ	.
 16r	.
 =7	=7
-16ee	C
+16eeLL	C major
 16ff	.
 16ee	.
 16ff	.
 16ee	.
 16ff	.
 16ee	.
+16ffJJ	.
+16eeLL	.
 16ff	.
 16ee	.
 16ff	.
 16ee	.
 16ff	.
 16ee	.
-16ff	.
-16ee	.
-16cc	.
+16ccJJ	.
 =8	=8
-16ee	B-add(2,4,7)
+16eeLL	B- other-2,4,7
 16ff	.
 16ee	.
 16ff	.
 16ee	.
 16ff	.
 16ee	.
-16ff	.
-16ee	.
+16ffJJ	.
+16eeLL	.
 16ff	.
 16ee	.
 16ff	.
 16gg	.
 16ee	.
 16ff	.
-16ff	.
+16ffJJ	.
 =9	=9
-16cc	F
+16ccLL	F major
 16ff	.
 16gg	.
 16ff	.
 16gg	.
 16ff	.
 16gg	.
+16ffJJ	.
+16ggLL	.
 16ff	.
 16gg	.
 16ff	.
 16gg	.
 16ff	.
 16gg	.
-16ff	.
-16gg	.
-16ff	.
+16ffJJ	.
 =10	=10
-16ee-	F7/E-
+16ee-LL	F dominant/E-
 16ff	.
 16ee-	.
 16ff	.
 16ee-	.
 16ff	.
 16ee-	.
+16ffJJ	.
+16ee-LL	.
 16ff	.
 16ee-	.
 16ff	.
 16ee-	.
 16ff	.
 16ee-	.
-16ff	.
-16ee-	.
-16ff	.
+16ffJJ	.
 ==	==
 *-	*-

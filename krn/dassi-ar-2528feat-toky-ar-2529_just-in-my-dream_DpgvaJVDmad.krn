@@ -16,90 +16,90 @@
 *F:	*
 *M4/4	*
 =1	=1
-4.a	A13
-3...a	Dm7
+4.a	A dominant-13th
+3...a	D minor-seventh
 =2	=2
 *M3/4	*
-4b-	B-m/D-
+4b-	B- minor/D-
 8f	.
-4.a	Dm7/C
+4.a	D minor-seventh/C
 =3	=3
 *M4/4	*
-2cc	A-
-4b-	G-add(4,6,11)
-8f	.
-8a[	.
+2cc	A- major
+4b-	G- other-4,6,11
+8fL	.
+[8aJ	.
 =4	=4
 *M3/4	*
-2.a]	D7/C
+2.a]	D dominant/C
 =5	=5
 *M4/4	*
-4.a	A13
-3...a	Dm7
+4.a	A dominant-13th
+3...a	D minor-seventh
 =6	=6
 *M3/4	*
-8.cc	Cadd(3,8,10)/B-
-8.b-	B-add(3,8,10)/A-
-4.a	Aadd(3,8,10)/G
+8.cc	C other-3,8,10/B-
+8.b-	B- other-3,8,10/A-
+4.a	A other-3,8,10/G
 =7	=7
 *M4/4	*
-4a	G7sus4
-8cc	.
-8g[	.
-4g]	C7sus2
-8f	.
-8a[	.
+4a	G dominant-seventh-suspended-fourth
+8ccL	.
+[8gJ	.
+4g]	C dominant-seventh-suspended-second
+8fL	.
+[8aJ	.
 =8	=8
 *M3/4	*
-2.a]	Fadd(2,4,7)
+2.a]	F other-2,4,7
 =9	=9
 *M4/4	*
-8.a	A13
-8.a	.
-2a[	Dm7
-16a]	.
-16f	.
+8.aL	A dominant-13th
+8.aJ	.
+[2a	D minor-seventh
+16aLL]	.
+16fJJ	.
 =10	=10
 *M3/4	*
-4b-	B-m/D-
+4b-	B- minor/D-
 8f	.
-4.a	Dm7/C
+4.a	D minor-seventh/C
 =11	=11
 *M4/4	*
-4cc	A-
-8cc	.
-8b-[	.
-4b-]	G-add(4,6,11)
-8cc	.
-8a[	.
+4cc	A- major
+8ccL	.
+[8b-J	.
+4b-]	G- other-4,6,11
+8ccL	.
+[8aJ	.
 =12	=12
 *M3/4	*
-2.a]	D7/C
+2.a]	D dominant/C
 =13	=13
 *M4/4	*
-8.a	A13
-8.a	.
-2a[	Dm7
-16a]	.
-16c	.
+8.aL	A dominant-13th
+8.aJ	.
+[2a	D minor-seventh
+16aLL]	.
+16cJJ	.
 =14	=14
 *M3/4	*
-8.cc	Cadd(3,8,10)/B-
-8.b-	B-add(3,8,10)/A-
-4.a	Aadd(3,8,10)/G
+8.cc	C other-3,8,10/B-
+8.b-	B- other-3,8,10/A-
+4.a	A other-3,8,10/G
 =15	=15
 *M4/4	*
-8.dd	Gm7
-16cc	.
+8.ddL	G minor-seventh
+16cck	.
 8a	.
-8g[	.
-4g]	C7sus2
-8a	.
-8f[	.
+[8gJ	.
+4g]	C dominant-seventh-suspended-second
+8aL	.
+[8fJ	.
 =16	=16
 *M3/4	*
-2.f]	Fmaj7
+2.f]	F major-seventh
 =17	=17
-2.r	G-maj9
+2.r	G- major-ninth
 ==	==
 *-	*-

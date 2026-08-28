@@ -16,14 +16,14 @@
 *c#:	*
 *M6/4	*
 =1	=1
-2E	A
-4F#	B
-2G#	C#m
-4F#	B
+2E	A major
+4F#	B major
+2G#	C# minor
+4F#	B major
 =2	=2
-2G#	E
-4F#	B
-4G#	A
+2G#	E major
+4F#	B major
+4G#	A major
 4B	.
 4r	.
 =3	=3
@@ -31,54 +31,54 @@
 4r	.
 4B	.
 =4	=4
-2c#	A
-4B	B
-2c#	C#m
-4B	B
+2c#	A major
+4B	B major
+2c#	C# minor
+4B	B major
 =5	=5
-2c#	E
-4B	B
-4c#	A
+2c#	E major
+4B	B major
+4c#	A major
 8r	.
 8e	.
 4r	.
 =6	=6
 4E	.
 4E	.
-8E	.
-8AA	.
-8D#	.
-8E	.
+8EL	.
+8AAJ	.
+8D#L	.
+8EJ	.
 4E	.
 4E	.
 =7	=7
-2e	Amaj7
-4f#	B
-2g#	C#m7
-4f#	B7
+2e	A major-seventh
+4f#	B major
+2g#	C# minor-seventh
+4f#	B dominant
 =8	=8
-2g#	E
-4f#	B7
-4g#	Amaj9
+2g#	E major
+4f#	B dominant
+4g#	A major-ninth
 4b	.
-8.g#	.
-16a	.
+8.g#L	.
+16aJk	.
 =9	=9
 4b	.
-16a	.
-8.g#	.
+16aLK	.
+8.g#J	.
 2.f#	.
-4e	E/G#
+4e	E major/G#
 =10	=10
-8b	A
+8b	A major
 4.cc#	.
-4b	B
-2cc#	C#m
-4b	B
+4b	B major
+2cc#	C# minor
+4b	B major
 =11	=11
-2cc#	E
-4b	B
-4cc#	Amaj7
+2cc#	E major
+4b	B major
+4cc#	A major-seventh
 4ee	.
 4r	.
 =12	=12

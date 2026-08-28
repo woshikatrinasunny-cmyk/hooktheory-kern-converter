@@ -16,107 +16,107 @@
 *F#:	*
 *M4/4	*
 =1	=1
-4ff#	F#/A#
+4ff#	F# major/A#
 4ff#	.
-2ff#	F#dim/A
+2ff#	F# diminished/A
 =2	=2
-2een	E/G#
-2ddn	E#dim7
+2een	E major/G#
+2ddn	E# diminished-seventh
 =3	=3
-4cc#	C#m/E
+4cc#	C# minor/E
 4cc#	.
 2cc#	.
 =4	=4
-2b	G#m/D#
-2a#	D#/G
+2b	G# minor/D#
+2a#	D# major/G
 =5	=5
-4b	E#m7b5/G#
+4b	E# half-diminished/G#
 4b	.
-2b	B7/A
+2b	B dominant/A
 =6	=6
-2a#	A#
+2a#	A# major
 2g#	.
 =7	=7
-1f#[	D#m7
+[1f#	D# minor-seventh
 =8	=8
-2f#]	Cm7b5/D#
+2f#]	C half-diminished/D#
 2r	.
 =9	=9
-4g#	G#m
+4g#	G# minor
 4g#	.
 2g#	.
 =10	=10
-2cc#	Bm
+2cc#	B minor
 2b	.
 =11	=11
-4a#	F#/A#
+4a#	F# major/A#
 4a#	.
 2a#	.
 =12	=12
-2ee#	Adim7
+2ee#	A diminished-seventh
 2dd#	.
 =13	=13
-4.ff#	G#m7
+4.ff#	G# minor-seventh
 4.dd#	.
 4b	.
 =14	=14
-2a#	C#
+2a#	C# major
 2g#	.
 =15	=15
-1f#[	F#
+[1f#	F# major
 =16	=16
-2f#]	F#sus4/C#
+2f#]	F# suspended-fourth/C#
 2r	.
 =17	=17
-4ff#	F#/A#
+4ff#	F# major/A#
 4ff#	.
-2ff#	F#dim/A
+2ff#	F# diminished/A
 =18	=18
-2een	E/G#
-2ddn	E#dim7
+2een	E major/G#
+2ddn	E# diminished-seventh
 =19	=19
-4cc#	C#m/E
+4cc#	C# minor/E
 4cc#	.
 2cc#	.
 =20	=20
-2b	Baug/D#
-2a#	D#/G
+2b	B augmented/D#
+2a#	D# major/G
 =21	=21
-4b	G#m
+4b	G# minor
 4b	.
-2b	B7/A
+2b	B dominant/A
 =22	=22
-2a#	A#
+2a#	A# major
 2g#	.
 =23	=23
-1gn[	D#maj7
+[1gn	D# major-seventh
 =24	=24
-2gn]	D#7
+2gn]	D# dominant
 2r	.
 =25	=25
-4g#	G#m
+4g#	G# minor
 4g#	.
 2g#	.
 =26	=26
-2cc#	Bm
+2cc#	B minor
 2b	.
 =27	=27
-4a#	F#/A#
+4a#	F# major/A#
 4a#	.
 2a#	.
 =28	=28
-2ee#	Adim7
+2ee#	A diminished-seventh
 4dd#	.
 4r	.
 =29	=29
-4.ff#	G#m7
+4.ff#	G# minor-seventh
 4.dd#	.
 4b	.
 =30	=30
-2a#	F#/C#
-2g#	C#7
+2a#	F# major/C#
+2g#	C# dominant
 =31	=31
-2f#	F#
+2f#	F# major
 2cc#	.
 =32	=32
 2ff#	.

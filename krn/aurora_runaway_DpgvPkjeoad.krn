@@ -16,7 +16,7 @@
 *B:	*
 *M6/4	*
 =1	=1
-4B	C#m
+4B	C# minor
 8d#	.
 4c#	.
 8B	.
@@ -25,15 +25,15 @@
 4G#	.
 8A#	.
 =2	=2
-4B	E
+4B	E major
 8d#	.
 4c#	.
 8d#	.
 4f#	.
 6...d#	.
-8.d#[	.
+[8.d#	.
 =3	=3
-4d#]	B
+4d#]	B major
 8d#	.
 4d#	.
 8f#	.
@@ -41,17 +41,17 @@
 4r	.
 8c#	.
 =4	=4
-4d#	F#
+4d#	F# major
 8c#	.
 4f#	.
 8g#	.
-8d#	.
-8c#	.
+8d#L	.
+8c#J	.
 4B	.
 8A#	.
 8r	.
 =5	=5
-8r	C#m
+8r	C# minor
 8B	.
 8d#	.
 4c#	.
@@ -61,17 +61,17 @@
 4c#	.
 8A#	.
 =6	=6
-4B	E
-8d#	.
-8c#	.
-8c#	.
-8d#	.
+4B	E major
+8d#L	.
+8c#J	.
+8c#L	.
+8d#J	.
 4.f#	.
 8d#	.
-8e	.
-8d#[	.
+8eL	.
+[8d#J	.
 =7	=7
-4d#]	B
+4d#]	B major
 8d#	.
 4.b	.
 4f#	.
@@ -79,33 +79,33 @@
 4d#	.
 8r	.
 =8	=8
-4r	D#m/F#
+4r	D# minor/F#
 4f#	.
 4d#	.
 4f#	.
 8d#	.
-4.d#[	.
+[4.d#	.
 =9	=9
-4d#]	Emaj7
+4d#]	E major-seventh
 8c#	.
-1d#[	.
+[1d#	.
 8d#]	.
 =10	=10
 4r	.
 4f#	.
 4d#	.
-8f#	B/D#
-8e	.
-8d#	.
-8d#	.
-8c#	.
-8d#[	.
+8f#L	B major/D#
+8eJ	.
+8d#L	.
+8d#J	.
+8c#L	.
+[8d#J	.
 =11	=11
-8d#]	C#m7
-8e	.
-8d#	.
-8e	.
-1d#[	.
+8d#L]	C# minor-seventh
+8eJ	.
+8d#L	.
+8eJ	.
+[1d#	.
 =12	=12
 2..d#]	.
 4.c#	.

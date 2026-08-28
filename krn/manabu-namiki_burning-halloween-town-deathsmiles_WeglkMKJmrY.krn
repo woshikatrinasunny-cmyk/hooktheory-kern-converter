@@ -16,168 +16,168 @@
 *a:	*
 *M4/4	*
 =1	=1
-8ee	Am
-8ee	Am
-8ee	Am
-16ee	Am
-8ff	Dm
+8eeL	A minor
+8ee	A minor
+8ee	A minor
+16eeJk	A minor
+8ff	D minor
 16r	.
-8ff	Dm
+8ff	D minor
 4r	.
 =2	=2
-8gg	Em
-8gg	Em
-8gg	Em
-16gg	Em
-8ee	Fmaj7
+8ggL	E minor
+8gg	E minor
+8gg	E minor
+16ggJk	E minor
+8ee	F major-seventh
 16r	.
-8ee	Fmaj7
+8ee	F major-seventh
 4r	.
 =3	=3
-8ee	C
-8ee	C
-8ee	C
-16ee	C
-8ee	Fmaj7
+8eeL	C major
+8ee	C major
+8ee	C major
+16eeJk	C major
+8ee	F major-seventh
 16r	.
-8ee	Fmaj7
+8ee	F major-seventh
 4r	.
 =4	=4
-8dd	E7
-8dd	E7
-8cc	Am/E
-16cc	Am/E
-8a	Am/E
+8ddL	E dominant
+8dd	E dominant
+8cc	A minor/E
+16ccJk	A minor/E
+8a	A minor/E
 16r	.
-8b	E
+8b	E major
 4r	.
 =5	=5
-16r	Am
-16e	.
+16r	A minor
+16eLL	.
 16cc	.
 16e	.
 16b	.
 16e	.
 16a	.
-16e	.
-16g#	.
+16eJJ	.
+16g#LL	.
 16e	.
 16a	.
 16e	.
 16cc	.
 16e	.
 16a	.
-16e	.
+16eJJ	.
 =6	=6
-16g#	E7/G#
+16g#LL	E dominant/G#
 16e	.
 16d	.
 16e	.
 16a	.
 16e	.
 16d	.
-16e	.
-16b	.
+16eJJ	.
+16bLL	.
 16e	.
 16d	.
 16e	.
 16cc	.
 16e	.
 16d	.
-16e	.
+16eJJ	.
 =7	=7
-16r	Am
-16a	.
+16r	A minor
+16aLL	.
 16b	.
 16cc	.
 16dd	.
 16b	.
 16cc	.
-16dd	.
-16ee	F
+16ddJJ	.
+16eeLL	F major
 16cc	.
 16dd	.
 16ee	.
 16ff	.
 16ee	.
 16gg	.
-16ff	.
+16ffJJ	.
 =8	=8
-16ee	Esus4
+16eeLL	E suspended-fourth
 16ff	.
 16ee	.
 16b	.
 16ee	.
 16b	.
 16a	.
-16b	.
-16g#	E7
+16bJJ	.
+16g#LL	E dominant
 16e	.
 16g#	.
 16e	.
 16dd	.
 16ee	.
 16a	.
-16b	.
+16bJJ	.
 =9	=9
-4cc	Am
+4cc	A minor
 8r	.
-16b	.
-16cc	.
+16bLL	.
+16ccJJ	.
 8.dd	.
 16r	.
 4b	.
 =10	=10
-8a	.
+8aL	.
 8d	.
-8f	.
+8fJ	.
 4e	.
-8e	.
+8eL	.
 8a	.
-8ee	.
+8eeJ	.
 =11	=11
-4ee	F#m7
+4ee	F# minor-seventh
 8r	.
-16dd	.
-16cc#	.
+16ddLL	.
+16cc#JJ	.
 4ee	.
 4r	.
 =12	=12
-8.a	Fmaj7
+8.a	F major-seventh
 16r	.
 8.cc	.
 16r	.
-8.b	Gadd(1,4,7,10)
-8g#	.
+8.bL	G other-1,4,7,10
+8g#J	.
 16r	.
 8e	.
 =13	=13
-4.cc	Am
-16b	.
-16cc	.
+4.cc	A minor
+16bLL	.
+16ccJJ	.
 8.dd	.
 16r	.
 4b	.
 =14	=14
-8a	.
+8aL	.
 8d	.
-8f	.
+8fJ	.
 4e	.
-8e	.
+8eL	.
 8a	.
-8ee	.
+8eeJ	.
 =15	=15
-4.ee	F#m7
-16dd	.
-16cc#	.
+4.ee	F# minor-seventh
+16ddLL	.
+16cc#JJ	.
 4ee	.
 4r	.
 =16	=16
-8.a	Fmaj7
+8.a	F major-seventh
 16r	.
 4cc	.
-8.b	E7
-8cc	.
+8.bL	E dominant
+8ccJ	.
 16r	.
 8dd	.
 ==	==

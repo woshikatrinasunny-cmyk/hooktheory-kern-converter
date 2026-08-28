@@ -22,10 +22,10 @@
 4e	.
 8f#	.
 =2	=2
-4.g#	C#m
+4.g#	C# minor
 4.c#	.
 4.g#	.
-4.f#[	F#m/A
+[4.f#	F# minor/A
 =3	=3
 4.f#]	.
 4.r	.
@@ -34,23 +34,23 @@
 4g#	.
 8a	.
 =4	=4
-4.b	E
+4.b	E major
 4.e	.
 4.b	.
-4.a[	B7
+[4.a	B dominant
 =5	=5
-4.a]	B7sus4
-4.r	B7
-4a	Bsus4
-8g#	Cdim
+4.a]	B dominant-seventh-suspended-fourth
+4.r	B dominant
+4a	B suspended-fourth
+8g#	C diminished
 4f#	.
 8a	.
 =6	=6
-4.g#	C#m
+4.g#	C# minor
 4.e	.
 4.b	.
-4a	F#m/A
-8g#[	.
+4a	F# minor/A
+[8g#	.
 =7	=7
 4g#]	.
 4e	.
@@ -60,11 +60,11 @@
 4g#	.
 8a	.
 =8	=8
-4.f#[	B
-4.f#_	G#m/B
-4f#]	B7
+[4.f#	B major
+4.f#_	G# minor/B
+4f#]	B dominant
 8r	.
-4r	B
+4r	B major
 8g#	.
 =9	=9
 4a	.
@@ -75,11 +75,11 @@
 4e	.
 8c#	.
 =10	=10
-4.c#[	C#m
-4.c#]	C#m/E
-4c#[	C#m
-8c#]	C#m
-4.cn	Cdim
+[4.c#	C# minor
+4.c#]	C# minor/E
+[4c#	C# minor
+8c#]	C# minor
+4.cn	C diminished
 =11	=11
 1.r	.
 =12	=12

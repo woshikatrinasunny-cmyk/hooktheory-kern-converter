@@ -16,41 +16,41 @@
 *D:	*
 *M3/4	*
 =1	=1
-4a	D
+4a	D major
 4.dd	.
 8ff#	.
 =2	=2
-8ff#	A7
-8ee	.
-4dd	D
+8ff#L	A dominant
+8eeJ	.
+4dd	D major
 4r	.
 =3	=3
-4.a	D
+4.a	D major
 8dd	.
-8ff#	.
-8aa	.
+8ff#L	.
+8aaJ	.
 =4	=4
-8aa	A
-8gg	.
-4ff#	D
+8aaL	A major
+8ggJ	.
+4ff#	D major
 4r	.
 =5	=5
-4.ee	A
+4.ee	A major
 8aa	.
-8ff#	D/A
-8aa	.
+8ff#L	D major/A
+8aaJ	.
 =6	=6
-4.ee	A
+4.ee	A major
 8aa	.
-8b	Bm/D
-8ff#	.
+8bL	B minor/D
+8ff#J	.
 =7	=7
-2a	A/E
-16cc#	E7
+2a	A major/E
+16cc#LK	E dominant
 8b	.
-16a	.
+16aJk	.
 =8	=8
-4a	A
+4a	A major
 2r	.
 ==	==
 *-	*-

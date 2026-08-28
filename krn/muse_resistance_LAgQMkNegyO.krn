@@ -17,76 +17,76 @@
 *M4/4	*
 =1	=1
 8r	.
-8cc	F
-8cc	F
-8b	Em
-8cc	F
+8ccL	F major
+8cc	F major
+8bJ	E minor
+8cc	F major
 8r	.
-8cc	F
-8b	Em
+8ccL	F major
+8bJ	E minor
 =2	=2
-8cc	F
+8cc	F major
 8r	.
-8cc	F
-8b	.
-8cc	.
+8ccL	F major
+8bJ	.
+8ccL	.
 8dd	.
 8b	.
-8cc	.
+8ccJ	.
 =3	=3
 8r	.
-8cc	Am
-8cc	Am
-8b	G
-8cc	Am
+8ccL	A minor
+8cc	A minor
+8bJ	G major
+8cc	A minor
 8r	.
-8cc	Am
-8b	G
+8ccL	A minor
+8bJ	G major
 =4	=4
-8cc	Am
+8cc	A minor
 16r	.
-16cc	.
-8cc	Am
-8b	.
-8cc	.
+16ccLK	.
+8cc	A minor
+8bJ	.
+8ccL	.
 8dd	.
 8a	.
-8b	.
+8bJ	.
 =5	=5
 8r	.
-8b	G
-8b	G
-8a	D/F#
-8b	G
+8bL	G major
+8b	G major
+8aJ	D major/F#
+8b	G major
 8r	.
-8b	G
-8a	D/F#
+8bL	G major
+8aJ	D major/F#
 =6	=6
-8b	G
+8b	G major
 8r	.
-8b	G
-8a	.
-8b	.
+8bL	G major
+8aJ	.
+8bL	.
 8cc	.
 8g	.
-8a	.
+8aJ	.
 =7	=7
 8r	.
-8a	F
-8a	F
-8g	C/E
-8a	F
+8aL	F major
+8a	F major
+8gJ	C major/E
+8a	F major
 8r	.
-8a	F
-8g	C/E
+8aL	F major
+8gJ	C major/E
 =8	=8
-8a	F
+8a	F major
 8r	.
-8a	F
-8g	.
-8a	.
+8aL	F major
+8gJ	.
+8aL	.
 8b	.
 8cc	.
-8cc	.
+8ccJ	.
 ==	==
 *-	*-

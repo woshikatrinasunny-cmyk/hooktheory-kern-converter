@@ -16,58 +16,58 @@
 *E:	*
 *M4/4	*
 =1	=1
-4b	E/B
-8g#	E/G#
-4.e	E
+4b	E major/B
+8g#	E major/G#
+4.e	E major
 4r	.
 =2	=2
-4cc#	A/C#
-8a	A
-2e	A/E
+4cc#	A major/C#
+8a	A major
+2e	A major/E
 8r	.
 =3	=3
-4dd	D
-8b	.
-8dd	.
-4cc#	A/C#
-8b	.
-8a	.
+4dd	D major
+8bL	.
+8ddJ	.
+4cc#	A major/C#
+8bL	.
+8aJ	.
 =4	=4
-4b	E
+4b	E major
 8g#	.
 3...e	.
 =5	=5
 4r	.
-4r	G
-8r	A
-4r	A#dim7
-8r	E/B
+4r	G major
+8r	A major
+4r	A# diminished-seventh
+8r	E major/B
 =6	=6
-4r	E
-4r	G
-8r	A
-4r	A#dim7
-8r	E/B
+4r	E major
+4r	G major
+8r	A major
+4r	A# diminished-seventh
+8r	E major/B
 =7	=7
-8r	E
-8e	.
-8gn	G
-8e	.
-16a#	A
+8r	E major
+8eL	.
+8gn	G major
+8eJ	.
+16a#LL	A major
 16b	.
-16a	Em/B
+16aJ	E minor/B
 8.gn	.
-8e	E/B
+8eJ	E major/B
 =8	=8
-16aa#	E
+16aa#LK	E major
 8aa	.
-16ggn	.
+16ggnk	.
 8ee	.
-16dd	.
+16ddJk	.
 8b	.
-8a	.
-16gn	.
+8aL	.
+16gnk	.
 8e	.
-8d	.
+8dJ	.
 ==	==
 *-	*-

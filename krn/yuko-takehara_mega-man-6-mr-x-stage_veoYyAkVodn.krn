@@ -15,21 +15,21 @@
 *b:	*
 *M4/4	*
 =1	=1
-2.r	B
+2.r	B major
 4ee	.
 =2	=2
-4ff#	Gmaj7
+4ff#	G major-seventh
 8ee	.
 4ff#	.
 4gg	.
-8dd[	.
+[8dd	.
 =3	=3
 4.dd]	.
 8r	.
 4dd	.
 4ee	.
 =4	=4
-8ff#	F#m
+8ff#	F# minor
 4cc#	.
 3...a	.
 =5	=5
@@ -39,50 +39,50 @@
 4ff#	.
 8cc#	.
 =6	=6
-4ff#	Gmaj7
+4ff#	G major-seventh
 8ee	.
 4ff#	.
 4gg	.
-8dd[	.
+[8dd	.
 =7	=7
 4.dd]	.
 8r	.
 4dd	.
 4ee	.
 =8	=8
-4ff#	F#m
+4ff#	F# minor
 8aa	.
 4ccc#	.
 4aa	.
 8ff#	.
 =9	=9
-1bb	B
+1bb	B major
 =10	=10
-4bb	G
+4bb	G major
 8aa	.
 4bb	.
 4ddd	.
-8ccc#[	.
+[8ccc#	.
 =11	=11
-4.ccc#]	A
+4.ccc#]	A major
 4aa	.
-8aa	.
+8aaL	.
 8bb	.
-8cccn	.
+8cccnJ	.
 =12	=12
-4ccc#	A#dim
+4ccc#	A# diminished
 8cccn	.
 4ccc#	.
 4eee	.
-8eee[	.
+[8eee	.
 =13	=13
-4eee]	Bm
+4eee]	B minor
 4ddd	.
 4bb	.
 4ccc#	.
 =14	=14
-4.ddd	Gmaj7
-3...bb[	.
+4.ddd	G major-seventh
+[3...bb	.
 =15	=15
 8bb]	.
 8r	.
@@ -90,7 +90,7 @@
 4ccc#	.
 4bb	.
 =16	=16
-1ccc#[	F#7
+[1ccc#	F# dominant
 =17	=17
 8ccc#]	.
 8r	.

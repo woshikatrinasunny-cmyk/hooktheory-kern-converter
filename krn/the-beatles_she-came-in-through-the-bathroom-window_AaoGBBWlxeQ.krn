@@ -16,71 +16,71 @@
 *A:	*
 *M4/4	*
 =1	=1
-8.r	A
-16A	.
-16g	.
-8f#	.
+8.r	A major
+16ALL	.
+16gJ	.
+8f#J	.
 8.f#	.
-16e	.
+16eLK	.
 8e	.
 8B	.
-16cn	.
+16cnJk	.
 =2	=2
-16B	D
-16A	.
+16BLL	D major
+16AJJ	.
 8r	.
-4r	D/F#
-4.r	D/A
-8r	F#add(3,8,10)/D
+4r	D major/F#
+4.r	D major/A
+8r	F# other-3,8,10/D
 =3	=3
-8.r	A
-16A	.
-8g	A/C#
-8f#	.
-16f#	F#m7
+8.r	A major
+16ALK	.
+8g	A major/C#
+8f#J	.
+16f#LK	F# minor-seventh
 8e	.
-16e[	.
-8e]	F#m7/E
-16cn	.
-16B[	.
+[16ek	.
+8e]	F# minor-seventh/E
+16cnL	.
+[16BJJ	.
 =4	=4
-16B]	D
-16A	.
+16BLL]	D major
+16AJJ	.
 8r	.
-4r	D/F#
-4.r	D/A
-8r	F#add(3,8,10)/D
+4r	D major/F#
+4.r	D major/A
+8r	F# other-3,8,10/D
 =5	=5
-8.r	A
-16A	.
-8g	A/E
-16f#	.
-16f#[	.
-16f#]	F#m7
+8.r	A major
+16ALK	.
+8g	A major/E
+16f#L	.
+[16f#JJ	.
+16f#LK]	F# minor-seventh
 8e	.
-16e[	.
-8e]	F#m7/C#
-16cn	.
-16cn	.
+[16ek	.
+8e]	F# minor-seventh/C#
+16cnL	.
+16cnJJ	.
 =6	=6
-16B	D
-16A	.
+16BLL	D major
+16AJJ	.
 8r	.
-4r	F#add(3,8,10)/D
-8.r	D/F#
-16r	D/A
-8F#	.
-16A	.
-16cn[	.
+4r	F# other-3,8,10/D
+8.r	D major/F#
+16r	D major/A
+8F#L	.
+16AL	.
+[16cnJJ	.
 =7	=7
-8cn]	D
+8cn]	D major
 8r	.
-8F#	.
-16A	.
+8F#L	.
+16AJk	.
 8.cn	.
+16cnLL	.
 16cn	.
-16cn	.
-16B	.
-8.A	.
+16BJ	.
+8.AJ	.
 ==	==
 *-	*-

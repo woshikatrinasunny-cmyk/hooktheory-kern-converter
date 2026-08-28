@@ -16,236 +16,236 @@
 *D:	*
 *M4/4	*
 =1	=1
-2.dd	Cadd(7,11)
-8d	.
-8g	.
+2.dd	C other-7,11
+8dL	.
+8gJ	.
 =2	=2
-4a	Cadd(7,9)
+4a	C other-7,9
 4b	.
-16a	.
-16b	.
-8a	.
+16aLL	.
+16bJ	.
+8aJ	.
 4g	.
 =3	=3
-2.dd	Cadd(7,11)
-8d	.
-8g	.
+2.dd	C other-7,11
+8dL	.
+8gJ	.
 =4	=4
-4a	Cadd(7,11)
+4a	C other-7,11
 4b	.
-16a	.
-16b	.
-8a	.
+16aLL	.
+16bJ	.
+8aJ	.
 4g	.
 =5	=5
-2.cc#	Badd(7,10)
-8c#	.
-8e	.
+2.cc#	B other-7,10
+8c#L	.
+8eJ	.
 =6	=6
-4f#	Badd(5,10)
+4f#	B other-5,10
 4g	.
-16a	.
-16b	.
+16aLL	.
+16bJJ	.
 4a	.
 8dd	.
 =7	=7
-1b[	Badd(7,10)
+[1b	B other-7,10
 =8	=8
-1b]	Badd(7,10)
+1b]	B other-7,10
 =9	=9
-2.dd	Cadd(7,11)
-8d	.
-8g	.
+2.dd	C other-7,11
+8dL	.
+8gJ	.
 =10	=10
-4a	Cadd(7,9)
+4a	C other-7,9
 4b	.
-16a	.
-16b	.
-8a	.
+16aLL	.
+16bJ	.
+8aJ	.
 4g	.
 =11	=11
-2.dd	Cadd(7,11)
-8d	.
-8g	.
+2.dd	C other-7,11
+8dL	.
+8gJ	.
 =12	=12
-4a	Cadd(7,11)
+4a	C other-7,11
 4b	.
-16a	.
-16b	.
-8a	.
+16aLL	.
+16bJ	.
+8aJ	.
 4g	.
 =13	=13
-2.cc#	Badd(7,10)
-8e	.
-8f#	.
+2.cc#	B other-7,10
+8eL	.
+8f#J	.
 =14	=14
-4a	Badd(5,10)
+4a	B other-5,10
 4b	.
 8ee	.
 4dd	.
 8cc#	.
 =15	=15
-1a[	Badd(7,10)
+[1a	B other-7,10
 =16	=16
-1a]	Badd(7,10)
+1a]	B other-7,10
 =17	=17
-2.dd	Cadd(7,11)
-8d	.
-8g	.
+2.dd	C other-7,11
+8dL	.
+8gJ	.
 =18	=18
-4a	Cadd(7,9)
+4a	C other-7,9
 4b	.
-16a	.
-16b	.
-8a	.
+16aLL	.
+16bJ	.
+8aJ	.
 4g	.
 =19	=19
-2.dd	Cadd(7,11)
-8d	.
-8g	.
+2.dd	C other-7,11
+8dL	.
+8gJ	.
 =20	=20
-4a	Cadd(7,11)
+4a	C other-7,11
 4b	.
-16a	.
-16b	.
-8a	.
+16aLL	.
+16bJ	.
+8aJ	.
 4g	.
 =21	=21
-2.cc#	Badd(7,10)
-8c#	.
-8e	.
+2.cc#	B other-7,10
+8c#L	.
+8eJ	.
 =22	=22
-4f#	Badd(5,10)
+4f#	B other-5,10
 4g	.
-16a	.
-16b	.
+16aLL	.
+16bJJ	.
 4a	.
 8dd	.
 =23	=23
-1b[	Badd(7,10)
+[1b	B other-7,10
 =24	=24
-1b]	Badd(7,10)
+1b]	B other-7,10
 =25	=25
-2.dd	Cadd(7,11)
-8d	.
-8g	.
+2.dd	C other-7,11
+8dL	.
+8gJ	.
 =26	=26
-4a	Cadd(7,9)
+4a	C other-7,9
 4b	.
-16a	.
-16b	.
-8a	.
+16aLL	.
+16bJ	.
+8aJ	.
 4g	.
 =27	=27
-2.dd	Cadd(7,11)
-8d	.
-8g	.
+2.dd	C other-7,11
+8dL	.
+8gJ	.
 =28	=28
-4a	Cadd(7,11)
+4a	C other-7,11
 4b	.
-16a	.
-16b	.
-8a	.
+16aLL	.
+16bJ	.
+8aJ	.
 4g	.
 =29	=29
-2.cc#	Badd(7,10)
-8e	.
-8f#	.
+2.cc#	B other-7,10
+8eL	.
+8f#J	.
 =30	=30
-4a	Badd(5,10)
+4a	B other-5,10
 4b	.
 8ee	.
 4dd	.
 8cc#	.
 =31	=31
-1a[	Badd(7,10)
+[1a	B other-7,10
 =32	=32
-1a]	Badd(7,10)
+1a]	B other-7,10
 =33	=33
 *k[b-e-]	*
 *B-:	*
-2.dd	E-
-8b-	.
-8cc	.
+2.dd	E- major
+8b-L	.
+8ccJ	.
 =34	=34
-4dd	E-add(2,9)
+4dd	E- other-2,9
 4ff	.
 4.bb-	.
 8aa	.
 =35	=35
-8gg	E-
-8ff	.
+8ggL	E- major
+8ffJ	.
 4dd	.
 2r	.
 =36	=36
-1r	E-add(9,11)
+1r	E- other-9,11
 =37	=37
 *k[f#c#g#]	*
 *A:	*
-2.cc#	Dadd(7,11)
-8a	.
-8b	.
+2.cc#	D other-7,11
+8aL	.
+8bJ	.
 =38	=38
-4cc#	Dadd(2,9)
+4cc#	D other-2,9
 4ee	.
 4.aa	.
 8bb	.
 =39	=39
-1ff#[	Dadd(7,11)
+[1ff#	D other-7,11
 =40	=40
-1ff#]	Dadd(9,11)
+1ff#]	D other-9,11
 =41	=41
 *k[b-e-]	*
 *B-:	*
-2.r	E-
-8b-	.
-8cc	.
+2.r	E- major
+8b-L	.
+8ccJ	.
 =42	=42
-4dd	E-add(2,9)
+4dd	E- other-2,9
 4ff	.
 4.bb-	.
 8aa	.
 =43	=43
-8gg	E-
-8ff	.
+8ggL	E- major
+8ffJ	.
 4dd	.
 4cc	.
-8ff	.
-16een	.
-16ee-	.
+8ffL	.
+16eenL	.
+16ee-JJ	.
 =44	=44
-1dd	E-add(9,11)
+1dd	E- other-9,11
 =45	=45
 *k[f#c#g#]	*
 *A:	*
-2.r	Dadd(7,11)
-8a	.
-8b	.
+2.r	D other-7,11
+8aL	.
+8bJ	.
 =46	=46
-4cc#	Dadd(2,9)
+4cc#	D other-2,9
 4ee	.
 4.aa	.
 8ff#	.
 =47	=47
 *k[f#c#g#d#a#]	*
 *B:	*
-2.gg#	Eadd(7,11)
-8b	.
-8cc#	.
+2.gg#	E other-7,11
+8bL	.
+8cc#J	.
 =48	=48
-4dd#	Eadd(7,11)
+4dd#	E other-7,11
 4ff#	.
 4.bb	.
 8gg#	.
 =49	=49
 *k[b-e-a-d-g-]	*
 *D-:	*
-1bb-[	G-5
+[1bb-	G- power
 =50	=50
-2bb-_	G-sus4
-2bb-]	G-sus2
+2bb-_	G- suspended-fourth
+2bb-]	G- suspended-second
 =51	=51
-1r	G-
+1r	G- major
 =52	=52
 1r	.
 ==	==

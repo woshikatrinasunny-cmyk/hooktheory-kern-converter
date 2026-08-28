@@ -16,43 +16,43 @@
 *C:	*
 *M4/4	*
 =1	=1
-2.r	C
-16r	Csus2
-8.r	C
+2.r	C major
+16r	C suspended-second
+8.r	C major
 =2	=2
-8.r	F/C
-8.r	F/C
-3...r	C
+8.r	F major/C
+8.r	F major/C
+3...r	C major
 =3	=3
-2.r	Am
-16r	A7sus4
-8.r	Am7
+2.r	A minor
+16r	A dominant-seventh-suspended-fourth
+8.r	A minor-seventh
 =4	=4
-8.r	F/C
-8.r	F/C
-3...r	C
+8.r	F major/C
+8.r	F major/C
+3...r	C major
 =5	=5
-4r	C
+4r	C major
 4e	.
-8e	.
-8d	.
-16r	Csus2
-8.r	C
+8eL	.
+8dJ	.
+16r	C suspended-second
+8.r	C major
 =6	=6
-8.f	F/C
-8.f	F/C
-4e	C
+8.fL	F major/C
+8.fJ	F major/C
+4e	C major
 4.r	.
 =7	=7
-4r	Am
+4r	A minor
 4e	.
 4e	.
-16d[	A7sus4
-8.d]	Am7
+[16dLK	A dominant-seventh-suspended-fourth
+8.dJ]	A minor-seventh
 =8	=8
-8.d	F/C
-8.c	F/C
-8c	C
+8.dL	F major/C
+8.c	F major/C
+8cJ	C major
 4c	.
 4r	.
 ==	==

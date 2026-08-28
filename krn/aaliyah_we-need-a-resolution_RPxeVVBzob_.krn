@@ -16,7 +16,7 @@
 *b:	*
 *M4/4	*
 =1	=1
-4r	F#
+4r	F# major
 4f#	.
 4a#	.
 4b	.
@@ -25,11 +25,11 @@
 4b	.
 2dd	.
 =3	=3
-1r	Bm
+1r	B minor
 =4	=4
 1r	.
 =5	=5
-4r	F#
+4r	F# major
 4f#	.
 4a#	.
 4b	.
@@ -38,11 +38,11 @@
 4b	.
 2dd	.
 =7	=7
-1r	Bm
+1r	B minor
 =8	=8
 4f#	.
-8aa#	.
-8bb	.
+8aa#L	.
+8bbJ	.
 8ccc#	.
 4.bb	.
 ==	==

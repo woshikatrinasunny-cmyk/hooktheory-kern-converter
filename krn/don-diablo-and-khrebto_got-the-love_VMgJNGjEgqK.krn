@@ -16,60 +16,60 @@
 *G:	*
 *M4/4	*
 =1	=1
-4dd	Cadd(2,4,7)
-8.dd	Cadd(2,4,7)
-8dd	Cadd(2,4,7)
-8.b	Bm/D
-8b	Bm/D
-8a	Bm/D
+4dd	C other-2,4,7
+8.dd	C other-2,4,7
+8dd	C other-2,4,7
+8.bL	B minor/D
+8b	B minor/D
+8aJ	B minor/D
 =2	=2
-4b	Em/B
-8.b	Em/B
-8b	Em/B
-8.g	G/D
-8g	G/D
-8g	G/D
+4b	E minor/B
+8.b	E minor/B
+8b	E minor/B
+8.gL	G major/D
+8g	G major/D
+8gJ	G major/D
 =3	=3
-4dd	Cadd(2,4,7)
-8.dd	Cadd(2,4,7)
-8dd	Cadd(2,4,7)
-8.ee	G/B
-8ee	G/B
-8ee	G/B
+4dd	C other-2,4,7
+8.dd	C other-2,4,7
+8dd	C other-2,4,7
+8.eeL	G major/B
+8ee	G major/B
+8eeJ	G major/B
 =4	=4
-4b	Em/B
-8.b	Em/B
-8b	Em/B
-8.dd	G/D
-8dd	G/D
-8dd	G/D
+4b	E minor/B
+8.b	E minor/B
+8b	E minor/B
+8.ddL	G major/D
+8dd	G major/D
+8ddJ	G major/D
 =5	=5
-4dd	Cadd(2,4,7)
-8.dd	Cadd(2,4,7)
-8dd	Cadd(2,4,7)
-8.b	Bm/D
-8b	Bm/D
-8a	Bm/D
+4dd	C other-2,4,7
+8.dd	C other-2,4,7
+8dd	C other-2,4,7
+8.bL	B minor/D
+8b	B minor/D
+8aJ	B minor/D
 =6	=6
-4b	Em/B
-8.b	Em/B
-8b	Em/B
-8.g	G/D
-8g	G/D
-8g	G/D
+4b	E minor/B
+8.b	E minor/B
+8b	E minor/B
+8.gL	G major/D
+8g	G major/D
+8gJ	G major/D
 =7	=7
-4dd	Cadd(2,4,7)
-8.dd	Cadd(2,4,7)
-8dd	Cadd(2,4,7)
-8.ee	G/B
-8ee	G/B
-8ee	G/B
+4dd	C other-2,4,7
+8.dd	C other-2,4,7
+8dd	C other-2,4,7
+8.eeL	G major/B
+8ee	G major/B
+8eeJ	G major/B
 =8	=8
-4b	Em/B
-8.b	Em/B
-8b	Em/B
-8.dd	G/D
-8dd	G/D
-8dd	G/D
+4b	E minor/B
+8.b	E minor/B
+8b	E minor/B
+8.ddL	G major/D
+8dd	G major/D
+8ddJ	G major/D
 ==	==
 *-	*-

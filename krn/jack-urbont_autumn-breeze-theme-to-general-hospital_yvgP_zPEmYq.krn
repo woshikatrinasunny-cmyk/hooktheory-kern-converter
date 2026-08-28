@@ -16,50 +16,50 @@
 *G:	*
 *M4/4	*
 =1	=1
-2d	G
+2d	G major
 2g	.
 =2	=2
-1dd	G
+1dd	G major
 =3	=3
-2cc#	A7/G
-2a[	.
+2cc#	A dominant/G
+[2a	.
 =4	=4
 1a]	.
 =5	=5
-2cc	G11
+2cc	G dominant-11th
 2ee	.
 =6	=6
-2gg[	Gmaj7
-4gg]	Gmaj9
+[2gg	G major-seventh
+4gg]	G major-ninth
 4ee	.
 =7	=7
-1b[	Cmaj9
+[1b	C major-ninth
 =8	=8
 2b]	.
 2r	.
 =9	=9
-2g	Cm7
+2g	C minor-seventh
 2cc	.
 =10	=10
-1gg	Fmaj9
+1gg	F major-ninth
 =11	=11
-2ff#	Bm7
-2dd[	.
+2ff#	B minor-seventh
+[2dd	.
 =12	=12
-2dd_	E9
-2dd]	E7
+2dd_	E dominant-ninth
+2dd]	E dominant
 =13	=13
-4.b	A9
+4.b	A dominant-ninth
 4.b	.
 4b	.
 =14	=14
-4.b	D7
+4.b	D dominant
 4.cc	.
 4b	.
 =15	=15
-1dd	F#add(1,3,6,10)
+1dd	F# other-1,3,6,10
 =16	=16
-2ee	D11
-2r	D
+2ee	D dominant-11th
+2r	D major
 ==	==
 *-	*-

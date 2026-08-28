@@ -16,72 +16,72 @@
 *A:	*
 *M4/4	*
 =1	=1
-8r	Dadd(2,4,7)
-16aa	.
-16aa	.
+8r	D other-2,4,7
+16aaLL	.
+16aaJ	.
 8aa	.
-16aa	.
-16gg#[	.
-8gg#]	A/C#
-16aa	.
-8.aa	.
+16aaL	.
+[16gg#JJ	.
+8gg#L]	A major/C#
+16aak	.
+8.aaJ	.
 8r	.
 =2	=2
-16gg#	Bm7
+16gg#LL	B minor-seventh
 16gg#	.
 16aa	.
-16aa	.
+16aaJJ	.
 8r	.
-16bb	.
-16ccc#[	.
-16ccc#]	E11
-16ccc#	.
+16bbLL	.
+[16ccc#JJ	.
+16ccc#LL]	E dominant-11th
+16ccc#J	.
 8bb	.
 8aa	.
-8gg#	.
+8gg#J	.
 =3	=3
-8r	Dadd(2,4,7)
-16gg#	.
-16aa	.
-8aa	.
+8r	D other-2,4,7
+16gg#LL	.
+16aaJ	.
+8aaJ	.
 16r	.
 16aa	.
-8gg#	A/C#
-16aa	.
-8.aa	.
+8gg#L	A major/C#
+16aak	.
+8.aaJ	.
 16r	.
 16aa	.
 =4	=4
-8gg#	Bm7
-16aa	.
+8gg#L	B minor-seventh
+16aak	.
 8.aa	.
-16bb	.
-16ccc#[	.
-8ccc#]	E11
+16bbL	.
+[16ccc#JJ	.
+8ccc#L]	E dominant-11th
 8bb	.
-8aa	.
+8aaJ	.
 16r	.
 16gg#	.
 =5	=5
-8gg#	Dadd(2,4,7)
+8gg#L	D other-2,4,7
 8aa	.
 8aa	.
+8aaJ	.
+8gg#L	A major/C#
 8aa	.
-8gg#	A/C#
-8aa	.
-8aa	.
+8aaJ	.
 16r	.
 16aa	.
 =6	=6
-8gg#	Bm7
-16aa	.
-16aa	.
+8gg#L	B minor-seventh
+16aaL	.
+16aaJ	.
 8aa	.
-8bb	.
-8ccc#	E11
-16bb	.
-16aa	.
-8aa	.
+8bbJ	.
+8ccc#L	E dominant-11th
+16bbL	.
+16aaJ	.
+8aaJ	.
 8r	.
 ==	==
 *-	*-
