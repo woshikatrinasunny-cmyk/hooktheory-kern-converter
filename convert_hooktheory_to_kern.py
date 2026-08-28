@@ -487,15 +487,57 @@ def chord_quality(interval_steps: tuple[int, ...]) -> str:
     return f"other-{interval_text}"
 
 
+INVERSION_TARGET_INTERVALS = {
+    # Hooktheory's inversion field refers to the chord degree in the
+    # underlying triad/seventh chord, not necessarily the index of a
+    # surviving tone after an omit operation.
+    1: frozenset({2, 3, 4, 5}),
+    2: frozenset({6, 7, 8}),
+    3: frozenset({9, 10, 11}),
+}
+
+
+def inversion_bass_pitch_class(harmony: HarmonyEvent) -> int:
+    """Return the pitch class implied by Hooktheory's inversion field.
+
+    The normalized dataset keeps ``root_position_intervals`` and
+    ``inversion`` but omits the original ``omits`` list.  Therefore an
+    inversion cannot always be obtained by indexing ``[root, third, fifth,
+    seventh]``: a chord such as root+fifth can still be marked as a second
+    inversion.  We first identify the requested chord-degree interval among
+    the tones that remain, then fall back to the indexed tone for ordinary
+    complete chords.
+    """
+
+    root = harmony.root_pitch_class % 12
+    if harmony.inversion <= 0:
+        return root
+
+    intervals = cumulative_intervals(harmony.root_position_intervals)
+    target_intervals = INVERSION_TARGET_INTERVALS.get(harmony.inversion)
+    if target_intervals:
+        for interval in intervals:
+            if interval % 12 in target_intervals:
+                return (root + interval) % 12
+
+    chord_tones = [0, *intervals]
+    if harmony.inversion < len(chord_tones):
+        return (root + chord_tones[harmony.inversion]) % 12
+
+    # Malformed or highly incomplete source records should retain a visible
+    # slash-bass rather than silently becoming a root-position chord.
+    if intervals:
+        return (root + intervals[-1]) % 12
+    return root
+
+
 def chord_symbol(harmony: HarmonyEvent, context: KeyContext) -> str:
     root = chord_pitch_name(harmony.root_pitch_class, context)
     quality = chord_quality(harmony.root_position_intervals)
     symbol = root if not quality else f"{root} {quality}"
 
-    chord_tones = [0]
-    chord_tones.extend(cumulative_intervals(harmony.root_position_intervals))
-    if harmony.inversion > 0 and harmony.inversion < len(chord_tones):
-        bass_pc = (harmony.root_pitch_class + chord_tones[harmony.inversion]) % 12
+    if harmony.inversion > 0:
+        bass_pc = inversion_bass_pitch_class(harmony)
         bass = chord_pitch_name(bass_pc, context)
         if bass != root:
             symbol += f"/{bass}"

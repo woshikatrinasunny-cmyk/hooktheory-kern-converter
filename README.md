@@ -95,4 +95,7 @@ matched=1717419/1717419
 - Harmony events are converted from Hooktheory root-position interval lists into
   MusicXML-style `**mxhm` chord labels such as `C major`, `G dominant`, and
   `D minor-seventh`. Inversions are rendered as slash-bass labels such as
-  `D major/F#`; uncommon interval sets use an explicit interval fallback.
+  `D major/F#`. The normalized dataset can omit chord tones while retaining
+  the original inversion number, so the converter identifies the requested
+  third, fifth, or seventh by pitch interval before falling back to an
+  available tone; uncommon interval sets use an explicit interval fallback.

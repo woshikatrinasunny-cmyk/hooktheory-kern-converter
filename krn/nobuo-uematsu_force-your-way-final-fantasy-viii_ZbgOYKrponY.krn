@@ -29,7 +29,7 @@
 4r	A minor-seventh
 =4	=4
 8r	.
-4.r	B other-7,10
+4.r	B other-7,10/A
 4r	A minor
 4r	A other-2,5
 =5	=5
@@ -47,7 +47,7 @@
 =8	=8
 *M5/4	*
 8r	.
-4.r	B other-7,10
+4.r	B other-7,10/A
 4r	A minor
 4r	A other-2,5
 4r	A minor
@@ -68,7 +68,7 @@
 4r	B minor-seventh
 =12	=12
 8r	.
-4.r	C# other-7,10
+4.r	C# other-7,10/B
 4r	B minor
 4r	B other-2,5
 =13	=13
@@ -86,7 +86,7 @@
 =16	=16
 *M6/4	*
 8r	.
-4.r	C# other-7,10
+4.r	C# other-7,10/B
 4r	E major
 4r	D other-2,4,11
 4r	C major-seventh
